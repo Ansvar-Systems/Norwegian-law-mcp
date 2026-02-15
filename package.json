@@ -1,6 +1,6 @@
 {
   "name": "@ansvar/norwegian-law-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Production-grade Norwegian legal research MCP server with official-source ingestion and licensing-aware controls",
   "type": "module",
   "main": "dist/index.js",
