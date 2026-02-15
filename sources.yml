@@ -1,0 +1,28 @@
+schema_version: '1.0'
+mcp_name: 'Norwegian Law MCP'
+jurisdiction: 'NO'
+
+sources:
+  - name: 'Lovdata'
+    authority: 'Lovdata Foundation (Stiftelsen Lovdata)'
+    official_portal: 'https://lovdata.no'
+    canonical_identifier: 'LOV/FOR reference (e.g., LOV-1814-05-17)'
+    retrieval_method: 'WEB_SCRAPING'
+    api_documentation: 'https://lovdata.no/info/api'
+    update_frequency: 'weekly'
+    last_ingested: '2026-02-14'
+    license_or_terms:
+      type: 'Lovdata Terms of Use'
+      url: 'https://lovdata.no/info/vilkar'
+      summary: 'Norwegian legislation is public; Lovdata consolidation is a public service. Reuse permitted with attribution.'
+    coverage:
+      scope: 'Norwegian statutes (lover) and regulations (forskrifter)'
+      limitations: 'Lovdata free tier has limited historical versions; paid tier has full history'
+    languages:
+      - 'no'  # Bokmal
+      - 'nn'  # Nynorsk
+
+data_freshness:
+  automated_checks: true
+  check_frequency: 'daily'
+  last_verified: '2026-02-15'

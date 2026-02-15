@@ -1,40 +1,13 @@
-# ═══════════════════════════════════════════════════════════════════════════
-# NPM & MCP REGISTRY PUBLISH WORKFLOW
-# ═══════════════════════════════════════════════════════════════════════════
-#
-# Automatically publishes to npm and MCP Registry when a version tag is pushed.
-#
-# To trigger:
-#   1. Update version in package.json
-#   2. Commit: git commit -am "Release v1.2.0"
-#   3. Tag: git tag v1.2.0
-#   4. Push: git push origin main --tags
-#
-# Requirements:
-#   - NPM_TOKEN secret configured in repository settings
-#   - AZURE_CREDENTIALS secret with Key Vault Secrets User role for kv-ansvar-dev
-#   - Azure Key Vault 'kv-ansvar-dev' must contain secret 'mcp-publisher-private-key'
-#   - Repository has id-token: write permission for provenance
-#
-# ═══════════════════════════════════════════════════════════════════════════
-
 name: Publish to npm & MCP Registry
 
 on:
   push:
     tags:
-      - 'v*'  # Trigger on tags like v0.1.0, v1.0.0, etc.
+      - 'v*'
 
 jobs:
-  # ─────────────────────────────────────────────────────────────────────────
-  # TEST JOB
-  # ─────────────────────────────────────────────────────────────────────────
-  # Run tests before publishing
-  # ─────────────────────────────────────────────────────────────────────────
-
   test:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -54,19 +27,13 @@ jobs:
       - name: Run tests
         run: npm test
 
-  # ─────────────────────────────────────────────────────────────────────────
-  # PUBLISH JOB
-  # ─────────────────────────────────────────────────────────────────────────
-  # Publish to npm and MCP Registry with provenance
-  # ─────────────────────────────────────────────────────────────────────────
-
   publish:
     needs: test
     runs-on: ubuntu-latest
 
     permissions:
-      contents: read
-      id-token: write  # Required for npm provenance
+      contents: write
+      id-token: write
 
     steps:
       - name: Checkout
@@ -99,9 +66,11 @@ jobs:
       - name: Build
         run: npm run build
 
-      # ─────────────────────────────────────────────────────────────────────
-      # NPM PUBLISH
-      # ─────────────────────────────────────────────────────────────────────
+      - name: Generate SBOM
+        uses: anchore/sbom-action@v0
+        with:
+          format: cyclonedx-json
+          output-file: sbom.cdx.json
 
       - name: Publish to npm
         id: npm-publish
@@ -114,19 +83,15 @@ jobs:
           NPM_FAILED: ${{ steps.npm-publish.outputs.NPM_PUBLISH_FAILED }}
         run: |
           if [ "$NPM_FAILED" = "true" ]; then
-            echo "::warning::npm publish failed (version may already exist). Continuing to MCP Registry..."
+            echo "::warning::npm publish failed (version may already exist). Continuing..."
           fi
-
-      # ─────────────────────────────────────────────────────────────────────
-      # MCP REGISTRY PUBLISH
-      # ─────────────────────────────────────────────────────────────────────
 
       - name: Azure Login
         uses: azure/login@v1
         with:
           creds: ${{ secrets.AZURE_CREDENTIALS }}
 
-      - name: Get MCP Publisher Private Key from Key Vault
+      - name: Get MCP Publisher Private Key
         id: mcp-key
         run: |
           PRIVATE_KEY=$(az keyvault secret show \
@@ -154,18 +119,18 @@ jobs:
       - name: Publish to MCP Registry
         run: mcp-publisher publish
 
-      # ─────────────────────────────────────────────────────────────────────
-      # DEPLOYMENT SUMMARY
-      # ─────────────────────────────────────────────────────────────────────
+      - name: Attach SBOM to GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: sbom.cdx.json
+          append_body: true
+          body: |
+            ### Supply Chain Artifacts
+            - `sbom.cdx.json` -- CycloneDX SBOM for this release
 
       - name: Deployment Summary
         env:
           PKG_VERSION: ${{ steps.version.outputs.VERSION }}
         run: |
           echo "## Publication Complete" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**Version:** \`$PKG_VERSION\`" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### Published To:" >> $GITHUB_STEP_SUMMARY
-          echo "- npm: https://www.npmjs.com/package/@ansvar/norwegian-law-mcp/v/$PKG_VERSION" >> $GITHUB_STEP_SUMMARY
-          echo "- MCP Registry: https://registry.modelcontextprotocol.io" >> $GITHUB_STEP_SUMMARY
+          echo "**Version:** $PKG_VERSION" >> $GITHUB_STEP_SUMMARY

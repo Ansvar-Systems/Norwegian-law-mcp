@@ -1,0 +1,49 @@
+{
+  "$schema": "./golden-hashes.schema.json",
+  "version": "1.0",
+  "mcp_name": "Norwegian Law MCP",
+  "jurisdiction": "NO",
+  "description": "Drift detection anchors for stable Norwegian legal provisions.",
+  "provisions": [
+    {
+      "id": "no-hash-001",
+      "description": "Grunnloven \u00a7 1 \u2014 sovereignty (kongeriket Norge)",
+      "upstream_url": "https://lovdata.no/lov/1814-05-17/\u00a71",
+      "selector_hint": "Section 1",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "Kongeriket Noreg er eit fritt"
+    },
+    {
+      "id": "no-hash-002",
+      "description": "Grunnloven \u00a7 2 \u2014 constitutional values",
+      "upstream_url": "https://lovdata.no/lov/1814-05-17/\u00a72",
+      "selector_hint": "Section 2",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "demokrati"
+    },
+    {
+      "id": "no-hash-003",
+      "description": "Grunnloven \u00a7 49 \u2014 right to vote (stemmerett)",
+      "upstream_url": "https://lovdata.no/lov/1814-05-17/\u00a749",
+      "selector_hint": "Section 49",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "stemmerett"
+    },
+    {
+      "id": "no-hash-004",
+      "description": "Grunnloven \u00a7 100 \u2014 freedom of expression (ytringsfridom)",
+      "upstream_url": "https://lovdata.no/lov/1814-05-17/\u00a7100",
+      "selector_hint": "Section 100",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "ytringsfridom"
+    },
+    {
+      "id": "no-hash-005",
+      "description": "Grunnloven \u00a7 102 \u2014 privacy (privatliv)",
+      "upstream_url": "https://lovdata.no/lov/1814-05-17/\u00a7102",
+      "selector_hint": "Section 102",
+      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
+      "expected_snippet": "privatliv"
+    }
+  ]
+}

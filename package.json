@@ -37,6 +37,9 @@
     "migrate:eu-references": "node --import tsx scripts/migrate-eu-references.ts",
     "verify:eu-coverage": "node --import tsx scripts/verify-eu-coverage.ts",
     "lint": "eslint src tests",
+    "test:contract": "vitest run __tests__/contract/",
+    "drift:detect": "node --import tsx scripts/drift-detect.ts",
+    "validate": "npm run lint && npm test && npm run test:contract",
     "prepublishOnly": "npm run build",
     "postinstall": "test -d dist || npm run build || true"
   },

@@ -1,0 +1,104 @@
+{
+  "$schema": "./golden-tests.schema.json",
+  "version": "1.0",
+  "mcp_name": "Norwegian Law MCP",
+  "description": "Golden contract tests for the Norwegian Law MCP",
+  "tests": [
+    {
+      "id": "no-001",
+      "category": "article_retrieval",
+      "description": "Retrieve provision from Grunnloven (Constitution, LOV-1814-05-17)",
+      "tool": "get_provision",
+      "input": { "document_id": "LOV-1814-05-17", "section": "1" },
+      "assertions": { "result_not_empty": true, "fields_present": ["results"] }
+    },
+    {
+      "id": "no-002",
+      "category": "article_retrieval",
+      "description": "Retrieve provision from Personopplysningsloven (Data Protection Act)",
+      "tool": "get_provision",
+      "input": { "document_id": "LOV-2018-06-15-38", "section": "1" },
+      "assertions": { "result_not_empty": true, "fields_present": ["results"] }
+    },
+    {
+      "id": "no-003",
+      "category": "article_retrieval",
+      "description": "Retrieve all provisions of Grunnloven",
+      "tool": "get_provision",
+      "input": { "document_id": "LOV-1814-05-17" },
+      "assertions": { "result_not_empty": true, "min_results": 5 }
+    },
+    {
+      "id": "no-004",
+      "category": "search",
+      "description": "Search for 'personopplysninger' returns data protection results",
+      "tool": "search_legislation",
+      "input": { "query": "personopplysninger" },
+      "assertions": { "result_not_empty": true, "min_results": 1 }
+    },
+    {
+      "id": "no-005",
+      "category": "search",
+      "description": "Search for 'arbeidsmiljo' returns labor law results",
+      "tool": "search_legislation",
+      "input": { "query": "arbeidsmiljo" },
+      "assertions": { "result_not_empty": true, "min_results": 1 }
+    },
+    {
+      "id": "no-006",
+      "category": "citation_roundtrip",
+      "description": "Validate a Norwegian legal citation",
+      "tool": "validate_citation",
+      "input": { "citation": "LOV-1814-05-17 \u00a7 1" },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "no-007",
+      "category": "citation_roundtrip",
+      "description": "Format citation returns standard Norwegian format",
+      "tool": "format_citation",
+      "input": { "citation": "LOV-1814-05-17 \u00a7 100" },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "no-008",
+      "category": "currency",
+      "description": "Check currency of Grunnloven",
+      "tool": "check_currency",
+      "input": { "document_id": "LOV-1814-05-17" },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "no-009",
+      "category": "eu_cross_reference",
+      "description": "EU basis lookup for Personopplysningsloven returns GDPR references",
+      "tool": "get_eu_basis",
+      "input": { "sfs_number": "LOV-2018-06-15-38" },
+      "assertions": { "result_not_empty": true }
+    },
+    {
+      "id": "no-010",
+      "category": "negative_test",
+      "description": "Non-existent law returns gracefully",
+      "tool": "get_provision",
+      "input": { "document_id": "LOV-9999-01-01-99", "section": "1" },
+      "assertions": { "handles_gracefully": true }
+    },
+    {
+      "id": "no-011",
+      "category": "negative_test",
+      "description": "Search with no results handled gracefully",
+      "tool": "search_legislation",
+      "input": { "query": "xyznonexistentlawterm9999" },
+      "assertions": { "handles_gracefully": true }
+    },
+    {
+      "id": "no-012",
+      "category": "negative_test",
+      "description": "Invalid citation format handled gracefully",
+      "tool": "validate_citation",
+      "input": { "citation": "not-a-real-citation-12345" },
+      "assertions": { "handles_gracefully": true }
+    }
+  ]
+}
