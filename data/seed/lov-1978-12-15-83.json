@@ -1,0 +1,59 @@
+{
+  "id": "LOV-1978-12-15-83",
+  "type": "statute",
+  "title": "Lov om forbud mot å øke den kommunale eiendomsskatt for 1979",
+  "short_name": "Lov om kommunal eiendomsskatt for 1979",
+  "status": "in_force",
+  "issued_date": "1978-12-15",
+  "in_force_date": "1978-12-15",
+  "url": "https://lovdata.no/dokument/NLO/lov/1978-12-15-83",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Kommunens rett til å skrive ut eiendomsskatt etter lov av 6. juni 1975 nr. 29 suspenderes for skatteåret 1979 hvis kommunen ikke har skrevet ut eiendomsskatt for skatteåret 1978.\nKommunen kan for skatteåret 1979 heller ikke utvide området for beskatning til å gjelde nye områder av kommunen eller til å gjelde verker og bruk når skatt på slike ikke er utskrevet for 1978.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Kommunens adgang etter eiendomsskatteloven​1 § 10, jfr. § 13 til å øke skattesatsene suspenderes for skatteåret 1979, slik at en kommune ikke må skrive ut eiendomsskatt med høyere satser enn de som gjaldt for skatteåret 1978. Forhøyelse av beregningsgrunnlaget ved alminnelig omtaksering kan ikke gjennomføres.\n1 Lov 6 juni 1975 nr. 29.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Kommunens rett til å skrive ut eiendomsskatt etter lov av 6. juni 1975 nr. 29 suspenderes for skatteåret 1979 hvis kommunen ikke har skrevet ut eiendomsskatt for skatteåret 1978.\nKommunen kan for skatteåret 1979 heller ikke utvide området for beskatning til å gjelde nye områder av kommunen eller til å gjelde verker og bruk når skatt på slike ikke er utskrevet for 1978.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Kommunens adgang etter eiendomsskatteloven​1 § 10, jfr. § 13 til å øke skattesatsene suspenderes for skatteåret 1979, slik at en kommune ikke må skrive ut eiendomsskatt med høyere satser enn de som gjaldt for skatteåret 1978. Forhøyelse av beregningsgrunnlaget ved alminnelig omtaksering kan ikke gjennomføres.\n1 Lov 6 juni 1975 nr. 29.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

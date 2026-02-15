@@ -1,0 +1,77 @@
+{
+  "id": "LOV-1884-06-06-3",
+  "type": "statute",
+  "title": "Lov angaaende Forandring i Lov indeholdende Bestemmelser Om Jernveie til almindelig Afbenyttelse af 7de September 1854.",
+  "short_name": "Tillægslov om Jernveie.",
+  "status": "in_force",
+  "issued_date": "1884-06-06",
+  "in_force_date": "1884-06-06",
+  "url": "https://lovdata.no/dokument/NLO/lov/1884-06-06-3",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "De i Lov angaaende Jernveie til almindelig Afbenyttelse af 7de September 1854 § 1 indeholdte Bestemmelser skulle ikke gjælde i Forhold til Jernvei, som drives under Statens Bestyrelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "(Opphevet ved lov 19 juni 1969 nr. 54.)",
+      "content": "§ 2.(Opphevet ved lov 19 juni 1969 nr. 54.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "For Jernvei, som foran nævnt, skal Myndigheden til efter fornævnte Lovs § 3 Litr. c og § 5 at meddele Tilladelse til Udgravning af Grunden inden en vis Afstand fra Jernbanelinien og at bestemme en Frist for Berigtigelsen af stedfundne Overtrædelser mod Forbud efter samme Lovs §§ 3 og 4 udøves af den for Statens Jernbaner anordnede Styrelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "De i Lov angaaende Jernveie til almindelig Afbenyttelse af 7de September 1854 § 1 indeholdte Bestemmelser skulle ikke gjælde i Forhold til Jernvei, som drives under Statens Bestyrelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "(Opphevet ved lov 19 juni 1969 nr. 54.)",
+      "content": "§ 2.(Opphevet ved lov 19 juni 1969 nr. 54.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "For Jernvei, som foran nævnt, skal Myndigheden til efter fornævnte Lovs § 3 Litr. c og § 5 at meddele Tilladelse til Udgravning af Grunden inden en vis Afstand fra Jernbanelinien og at bestemme en Frist for Berigtigelsen af stedfundne Overtrædelser mod Forbud efter samme Lovs §§ 3 og 4 udøves af den for Statens Jernbaner anordnede Styrelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

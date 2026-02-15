@@ -1,0 +1,679 @@
+{
+  "id": "LOV-1961-04-28-2",
+  "type": "statute",
+  "title": "Lov om psykisk helsevern.",
+  "short_name": "Psykisk helsevernloven – phvl.",
+  "status": "in_force",
+  "issued_date": "1961-04-28",
+  "in_force_date": "1961-07-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1961-04-28-2",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Psykisk helsevern etter denne lov omfatter:\n1. psykiatrisk forvern som nevnt under § 12,\n2. undersøkelse, behandling eller pleie i psykiatrisk sykehus, psykiatrisk klinikk og poliklinikk, psykiatrisk institusjon for barn og ungdom, psykiatrisk daginstitusjon og ettervernshjem, i psykiatrisk sykehjem, annen psykiatrisk institusjon og psykiatrisk vern i privat forpleiningssted,\n3. psykiatrisk ettervern som nevnt under § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Enhver fylkeskommune skal sørge for planlegging, oppføring og drift av institusjoner som nevnt i § 1 slik at befolkningen innen området kan få det nødvendige psykiske helsevern.\nTo eller flere fylkeskommuner kan samarbeide om løsningen av oppgaver som er nevnt i første ledd. Kongen kan påby slikt samarbeid hvis det finnes påkrevet for å sikre effektivt psykisk helsevern i enkelte områder.\nI mangel av minnelig overenskomst avgjør Kongen med bindende virkning for partene tvist mellom to eller flere kommuner om fordelingen av utgiftene ved samarbeid som nevnt i annet ledd. Kongen kan bestemme at slik tvist skal avgjøres av en nemnd, og gir nærmere regler om dette.\nInstitusjoner og forpleiningssteder som går inn under § 1, skal godkjennes av Kongen.​2 Kongen kan gi forskrifter​3 om planlegging, oppføring, endring, innredning og drift av slike institusjoner og om tilsynet med dem. I forskrifter kan det også gis bestemmelser om godkjenning av den ansvarlige leder, om ansettelsesmyndighet for overordnede stillinger, om normer for bemanning av institusjoner, om krav til kvalifikasjoner for de enkelte stillinger, om godkjenning av regnskaps- og revisjonsordning og privat forpleining. Videre kan det i forskrifter gis bestemmelser om begrensning i adgangen til forsendelse og mottaking av brev og pakker for pasienter og om begrenset adgang til bruk av tvangsmidler i psykiatriske institusjoner. Kongen kan gi forskrifter om tvangsbehandlingstiltak.\nHver fylkeskommune skal opprette og drive minst en psykiatrisk avdeling med plikt til å motta pasienter etter bestemmelsen i § 6 i lov av 19. juni 1969 nr. 57 om sykehus m.v.\n0 Endret ved lover 8 mars 1963 nr. 1, 19 juni 1969 nr. 60, 15 april 1977 nr. 28, 1 juni 1979 nr. 26, 12 juni 1981 nr. 73, 5 juni 1987 nr. 25, 17 juli 1998 nr. 64 (i kraft 1 jan 1999 iflg. res. 17 juli 1998 nr. 737).\n1 Jfr. §§ 14 og 22.\n2 Helsedirektøren hva angår andre helseinstitusjoner enn sykehus iflg. res. 26 sep 1969 nr. 9802, med videre delegasjon til fylkeslegene, Sosial- og helsedepartementet hva angår sykehus iflg. res. 7 feb 1986 nr. 344, fylkesmennene i Hedmark, Sør-Trøndelag og Møre-Romsdal iflg. res. 22 juni 1990 nr. 481 når det gjelder godkjenning av andre institusjoner enn sykehus under visse forutsetninger.\n3 Sosial- og helsedepartementet, jfr. res. 26 sep 1969 nr. 9802.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:2 a",
+      "chapter": "1",
+      "section": "2 a",
+      "content": "Riket inndeles i helseregioner. Kongen bestemmer hvilke fylkeskommuner som utgjør en helseregion.\nFylkeskommunene som utgjør en helseregion skal etablere et regionalt helseutvalg for samarbeid om tjenester og institusjoner som nevnt i § 1.\nDet regionale helseutvalg, jfr annet ledd, skal på vegne av fylkeskommunene i regionen utarbeide regional helseplan. Det skal fremgå av den regionale helseplan hvilke institusjoner og tjenester den enkelte fylkeskommune er ansvarlig for. Departementet kan i forskrift gi nærmere bestemmelser om innhold og utforming av den regionale helseplan og rapportering om gjennomføringen av den.\nDen regionale helseplan skal vedtas av departementet.\nDepartementet kan i forskrift gi bestemmelser om det regionale helseutvalgs oppgaver.\n0 Tilføyd ved lov 17 juli 1998 nr. 64 (i kraft 1 jan 1999 iflg. res. 17 juli 1998 nr. 737).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2a",
+        "source_heading": "§ 2 a."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "Når noen på grunn av sin sinnstilstand ikke selv kan sørge for å få det legetilsyn og det psykiske helsevern han trenger og hans nærmeste​1 heller ikke sørger for at han får det, skal offentlig myndighet​1 sørge for at han blir undersøkt av lege og ellers gjøre det som trenges for å få ham under vern.\nFinner lege det nødvendig etter en personlig undersøkelse kan den syke etter begjæring fra sine nærmeste eller offentlig myndighet innlegges eller beholdes innlagt i sykehus eller holdes på annet sted hvor forsvarlig pleie kan skaffes, men ikke uten eget uttrykkelig samtykke i mer enn tre uker, hvis ikke betingelsene etter § 5 foreligger.\nLegen skal gjøre pasienten oppmerksom på at han kan klage beslutningen inn for kontrollkommisjonen.​2 Klagen har ikke oppsettende virkning hvis ikke legen bestemmer noe annet.\n1 Se § 21.\n2 Jfr. § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "Den som selv begjærer seg innlagt i psykiatrisk institusjon, kan mottas dersom overlegen eller den lege som har ansvaret for vernet finner at innleggelse på grunn av pasientens sinnstilstand er til beste for ham, og at pasienten har evne til selv å ta bestemmelsen. Pasienten skal skrives ut uten opphold dersom han begjærer det.\nOverlege ved psykiatrisk sykehus eller klinikk kan når han av behandlingsmessige grunner finner det ønskelig, sette som vilkår for innleggelse at pasienten kan holdes tilbake i institusjonen i inntil 3 uker fra innleggelsen, og i tilfelle unnvikelse hentes tilbake om nødvendig med tvang. Avtale om innleggelse på vilkår som nevnt skal være skriftlig og undertegnet av partene.\nHvis pasienten er under 16 år, kan den eller de som har foreldremyndigheten​1 på pasientens vegne samtykke i innleggelse etter første ledd eller inngå avtale etter annet ledd. Hvis den mindreårige er fylt 12 år og ikke selv samtykker i innleggelsen eller avtalen, skal overlegen bringe innleggelsen eller avtalen inn for kontrollkommisjonen​2 til overprøving.\nOverlegens beslutning om å sette vilkår for innleggelse som nevnt i annet ledd skal være grunngitt og kan av pasienten eller dennes nærmeste pårørende​3 eller vergen​4 bringes inn for kontrollkommisjonen til overprøving.\nStatens Helsetilsyn​5 kan gi overleger ved andre sykehus adgang til å motta pasienter til psykiatrisk behandling etter reglene i annet ledd, og kan også bestemme at enkelte psykiatriske sykehus skal være unntatt fra adgang til å motta pasienter til frivillig innleggelse etter første og annet ledd.\n0 Endret ved lover 15 april 1977 nr. 28, 30 juli 1992 nr. 101.\n1 Her burde vært benyttet barnelovens begrep «foreldreansvaret», se lov 8 april 1981 kap. 5.\n2 Jfr. § 8.\n3 Se § 21.\n4 Jfr. lov 22 april 1927 kap. 2.\n5 Se lov 30 mars 1984 nr. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "Den som har en alvorlig sinnslidelse kan innlegges i sykehus uten eget samtykke hvis hans nærmeste​2 eller offentlig myndighet​2 begjærer det, og sykehusets overlege finner at innleggelse på grunn av den sykes sinnstilstand er nødvendig for å hindre at han lider overlast eller at utsikt til helbredelse eller vesentlig bedring forspilles, eller at den syke er til vesentlig fare for seg selv eller andre.\nOverlegen kan gjennom kontrollkommisjonen​3 begjære innhentet og protokollert vitneforklaringer som anses å være av betydning for bedømmelsen av om lovens betingelser for innleggelse er til stede. Reglene i § 9 annet ledds annet punktum og tiende ledds tredje punktum gjelder tilsvarende.\nDen som er innlagt i sykehus, kan beholdes i sykehuset uten eget samtykke hvis vilkårene etter første ledd, jfr. annet ledd, er til stede. Dette gjelder dog ikke om innleggelsen har funnet sted etter § 4.\nDen syke, hans nærmeste​2 eller den myndighet​2 som har begjært innleggelsen, kan innbringe overlegens avgjørelse for kontrollkommisjonen.​3 Dette gjelder også om overlegen har nektet å motta eller beholde den syke. Klagen har ikke oppsettende virkning hvis ikke kontrollkommisjonen bestemmer noe annet.\nNår noen er innlagt eller beholdt i sykehus med hjemmel i denne paragraf, skal overlegen straks underrette kontrollkommisjonen.​3 Er den syke innlagt eller beholdt etter begjæring fra myndighetene, skal overlegen også underrette hans nærmeste.​2 Den syke og hans nærmeste​2 skal alltid underrettes om retten til å bringe spørmålet om innleggelse eller utskrivning, samt klager over sykebehandlingen, inn for kontrollkommisjonen.​3\n0 Endret ved lov 12 juni 1981 nr. 73.\n1 Jfr. § 6 og § 7.\n2 Se § 21.\n3 Jfr. §§ 8 og 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:5 a",
+      "chapter": "2",
+      "section": "5 a",
+      "content": "Statens Helsetilsyn​1 kan etter klage omgjøre kontrollkommisjonens​2 beslutning om ikke å innlegge en syk som søkes overført fra annen institusjon m.v. Klageordningen gjelder bare overføringer som søkes i medhold av lovens § 5 og bare for disse grupper:\na. Pasienter i institusjoner som drives i medhold av denne lov. Overføring mellom fylkeskommunale institusjoner i samme fylke omfattes likevel ikke av klageordningen.\nb. Pasienter som i medhold av denne lov er innlagt i andre typer institusjoner. Bokstav a, annet punktum gjelder tilsvarende.\nc. Innsatte i fengselsvesenets anstalter.\nBeslutning som nevnt i første ledd kan ikke omgjøres for så vidt den er begrunnet med at den syke ikke oppfyller vilkårene etter § 5 første ledd for innleggelse uten eget samtykke.\nKlageretten til Statens Helsetilsyn i saker som nevnt i første ledd utøves av pasienten eller vedkommende overlege eller den lege som har vernet for pasienten (bokstav a og b), eller av den innsatte eller den ansvarlige fengselsmyndighet eller påtalemyndighet (bokstav c). De som har slik klagerett til Statens Helsetilsyn, har også rett til å begjære overføring som nevnt i første ledd og har rett til å klage vedtaket inn for kontrollkommisjonen.\nAvgjørelsen er ikke bindende for senere avgjørelser etter denne lov.\n0 Tilføyd ved lov 18 mai 1984 nr. 29, endret ved lov 30 juli 1992 nr. 101.\n1 Se lov 30 mars 1984 nr. 15.\n2 Jfr. § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5a",
+        "source_heading": "§ 5 a."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "Begjæring om utskrivning fra sykehus av en pasient som er innlagt med hjemmel i § 5 kan fremsettes av den syke selv, eller om han ikke selv er i stand til det, av hans nærmeste.​2\nEtter at utskrivning er begjært, kan den syke ikke beholdes i sykehuset med mindre overlegen finner at vilkårene i § 5 første ledd er tilstede. Reglene i § 5 annet ledd gjelder tilsvarende når overlegen skal avgjøre om lovens betingelser for utskrivning er til stede. Nekter overlegen utskrivning, kan hans beslutning klages inn for kontrollkommisjonen​3 som i alle tilfelle skal underrettes om nektelsen.\nSelv om det ikke foreligger begjæring som nevnt i første ledd, kan den innlagte utskrives etter overlegens beslutning hvis vilkårene for å beholde ham i sykehuset etter annet ledd ikke er til stede. Overlegens beslutning kan innbringes for kontrollkommisjonen av den syke selv eller hans nærmeste eller av den myndighet som har begjært ham innlagt. Klagen har oppsettende virkning.\nParagraf 5 femte ledds annet og tredje punktum gjelder tilsvarende for avgjørelser etter annet og tredje ledd.\n0 Endret ved lover 19 juni 1969 nr. 54, 12 juni 1981 nr. 73.\n1 Jfr. § 7. – Se § 24.\n2 Se § 21.\n3 Jfr. § 8",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "Forvaltningsloven​1 kap III til VI gjelder ikke for saker som nevnt i dette kapittel. Likevel gjelder §§ 13 til 13 e om taushetsplikt.\nBestemmelsen i § 7 første ledd, samt §§ 5 og 6 får tilsvarende anvendelse ved psykisk helsevern​2 som finner sted utenfor sykehus, når den syke uten eget samtykke er under vern. De avgjørelser som i de nevnte paragrafer er tillagt sykehusets overlege treffes i så fall av den lege som har ansvaret for vernet.\n0 Endret ved lover 19 juni 1969 nr. 54, 16 mai 1986 nr. 21.\n1 Lov 10 feb 1967.\n2 Jfr. § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "content": "Hvor noen er under psykisk helsevern​1 etter denne lov, skal det være en kontrollkommisjon som etter nærmere regler gitt av departementet​2 treffer de avgjørelser som særlig er tillagt den,​3 og eller fører den kontroll den finner nødvendig for de sykes velferd.\nKontrollkommisjonene oppnevnes av departementet som også bestemmer det område som skal være tillagt hver kommisjon. Kommisjonen skal innen sitt område, ha tilsyn med alle som er under psykisk helsevern uten eget samtykke​4 og med andre syke som selv ber om det.\nKommisjonen skal bestå av en jurist, fortrinnsvis med dommererfaring, som formann, en lege og to andre medlemmer, alle med personlig varamann. Dommeren er kommisjonens formann. Medlemmene oppnevnes for seks år om gangen. Ved første oppnevning etter denne lovs ikrafttreden oppnevnes to av medlemmene for tre år.\nIngen kan oppnevnes som medlem av en kontrollkommisjon som har å føre tilsyn med noen del av det psykiske helsevern som han selv i stillings medfør har noe ansvar for.\n0 Endret ved lover 12 juni 1981 nr. 73, 16 mai 1986 nr. 21.\n1 Jfr. § 1.\n2 Sosial- og helsedepartementet.\n3 Jfr. §§ 3, 5-7 og 9, 12, 13.\n4 Jfr. §§ 3, 5-7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "content": "Før kontrollkommisjonen avgjør sak hvor det uten den sykes samtykke kan besluttes å innlegge ham eller beholde ham innlagt i sykehus eller annet sted i medhold av denne lov, skal den syke eller den som handler på hans vegne gis adgang til å uttale seg.\nFormannen skal ellers sørge for at saken blir best mulig opplyst. Enhver har plikt til å møte for kommisjonen som vitne eller sakkyndig etter de regler som gjelder for hovedforhandling ved herreds- eller byrett.​1\nKontrollkommisjonen kan begjære bevisopptak ved herreds- eller byrett​2 hvis et vitne ikke har møteplikt for kommisjonen eller hvis fremmøte for kommisjonen ville være forbundet med uforholdsmessig omkostning eller ulempe eller hvis slikt bevisopptak av andre grunner må anses særlig praktisk.\nPrivat antatt advokat​3 eller advokat​3 oppnevnt etter lov om fri rettshjelp har rett til å bli kjent med alle opplysningene i saken og til å være tilstede under parts- og vitneavhør. I den utstrekning kontrollkommisjonen finner det tilrådelig, gjelder dette også den syke selv eller den som handler på hans vegne.\nKommisjonen skal om mulig treffe sin avgjørelse innen to uker etter at saken ble brakt inn for den. Kan denne frist ikke overholdes, skal grunnen til dette opplyses i avgjørelsen.\nAvgjørelsen treffes i møte av fulltallig kommisjon. I tilfelle av stemmelikhet gjør formannens stemme utslaget. Reglene om ugildhet i domstolslovens kap. 6 gjelder tilsvarende for kommisjonens medlemmer. Formannen fastsetter godtgjørelsen til oppnevnt sakfører.\nAvgjørelsen skal ha grunner.\nFor saker som behandles av kontrollkommisjonen, gjelder forvaltningsloven​4 for så vidt ikke annet er bestemt i denne lov. Kongen kan gi supplerende bestemmelser om saksbehandlingen.\nEr en klage blitt avslått av kontrollkommisjonen kan ny klage ikke kreves fremmet før minst seks måneder er gått.\nFor utskrifter og attester som gis av kontrollkommisjonen eller av herreds- eller byrett betales ikke gebyr. Heller ikke betales gebyr for bevisopptak etter tredje ledd. Den som i medhold av nærværende paragraf møter for å forklare seg for kontrollkommisjonen, har krav på slik godtgjøring som er bestemt for vitner og sakkyndige.​5\n0 Endret ved lover 19 juni 1969 nr. 54, 13 juni 1980 nr. 35.\n1 Jfr. tvml. §§ 199 og 238.\n2 Jfr. tvml. kap. 20.\n3 Jfr. dl. kap. 11.\n4 Lov 10 feb 1967.\n5 Se lov 21 juli 1916 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:9 a",
+      "chapter": "3",
+      "section": "9 a",
+      "content": "Kontrollkommisjonens vedtak etter § 9 om innlegging eller om å nekte utskriving kan av den sjuke eller hans nærmeste bringes inn for retten etter reglene i lov av 13. august 1915 om rettergangsmåten for tvistemål kap. 33.\nVed melding om vedtaket skal kontrollkommisjonen gjøre den sjuke eller den som handler på hans vegne, kjent med adgangen til å kreve saka brakt inn for retten. Når vedkommende krever rettslig behandling skal han få veiledning og hjelp.\n0 Tilføyd ved lov 19 juni 1969 nr. 52.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9a",
+        "source_heading": "§ 9 a."
+      }
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "content": "Uten at utskrivning finner sted kan psykiatriske sykehus og klinikker overføre pasienter til psykiatriske sykehjem, daginstitusjoner, ettervernshjem og private forpleiningssteder som er knyttet til og står under tilsyn av det psykiatriske sykehus eller klinikken.\nSamtykke til slik ordning gis av departementet.​1\n0 Endret ved lov 15 april 1977 nr. 28.\n1 Sosial- og helsedepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "content": "Når noen er under psykiatrisk vern​1 på privat forpleiningssted i andre tilfelle enn nevnt i § 10 skal offentlig lege eller annen lege godkjent av Statens Helsetilsyn​2 ha vernet.\nDen offentlige lege på stedet skal godkjenne forpleiningsstedet og forpleiningskontrakten. Forøvrig skal føres slikt tilsyn med forpleiningen som Kongen bestemmer.\n0 Endret ved lov 30 juli 1992 nr. 101.\n1 Jfr. § 1.\n2 Se lov 30 mars 1984 nr. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "content": "Når noen søkes opptatt i psykisk helsevern på sted som nevnt i § 1 nr. 2, skal han stå under det psykiatriske forvern som anses nødvendig inntil han er opptatt, eller inntil det anses godtgjort at han er hjulpet eller kan hjelpes på annen måte.\nSpørsmålet om forvernet og om opptakelse i annet psykisk helsevern av noen som er under forvern, kan av den syke selv eller hans nærmeste​1 eller av den myndighet​1 som har begjært vernet, innbringes for vedkommende kontrollkommisjon.​2\n1 Jfr. § 21.\n2 Jfr. § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "content": "Når noen er under psykisk helsevern på sted som nevnt i § 1 nr. 2, kan han uten å utskrives overføres til psykiatrisk ettervern.\nNår noen utskrives av psykisk helsevern på sted som nevnt i § 1 nr. 2, skal han stå under det psykiatriske ettervern som anses ønskelig, dersom han selv eller hans nærmeste​1 anmoder om det.\nKongen gir nærmere regler om ettervern og bestemmer herunder med Stortingets samtykke hvilke ytelser ettervernet skal kunne omfatte.\nBestemmelse om ettervernet treffes av den lege som i det enkelte tilfelle har ansvaret for vernet. Den syke selv, hans nærmeste​1 eller den myndighet​1 som har begjært han innlagt, kan innbringe legens avgjørelse for kontrollkommisjonen.​2\nNår ettervernet har vart i ett år, skal utskrivning finne sted, hvis ikke kontrollkommisjonen​2 samtykker i at det forlenges. Forlengelse skjer i tilfelle med ett år av gangen.\n1 Jfr. § 21.\n2 Jfr. § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "6:14",
+      "chapter": "6",
+      "section": "14",
+      "content": "Det påligger eier av helseinstitusjon som nevnt i § 1 å utrede utgiftene til planlegging, oppføring, utvidelse, ombygging og innredning av institusjonen.\n0 Endret ved lover 8 mars 1963 nr. 1, 19 juni 1969 nr. 60, 1 juni 1979 nr. 26, 14 des 1984 nr. 80.\n1 Jfr. § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "6:15",
+      "chapter": "6",
+      "section": "15",
+      "content": "Staten yter årlig rammetilskudd til delvis dekning av fylkeskommunenes utgifter. Tilskuddet fordeles gjennom inntektssystemet for kommunene og fylkeskommunene etter regler gitt av Kongen.\nDepartementet​1 kan kreve seg forelagt budsjett, regnskap og andre opplysninger om helseinstitusjonenes drift.\n0 Endret ved lover 8 mars 1963 nr. 1, 5 juni 1964 nr. 31, 19 juni 1969 nr. 60, 29 jan 1971 nr. 26, 4 juni 1976 nr. 65, 1 juni 1979 nr. 26 og 31 mai 1985 nr. 41, 21 des 1990 nr. 80, 11 juni 1993 nr. 90.\n1 Sosial- og helsedepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "6:16",
+      "chapter": "6",
+      "section": "16",
+      "content": "Utgiftene til drift av helseinstitusjon som inngår i plan etter § 2 a, og ved private forpleiningssted, samt andre utgifter til gjennomføring av det psykiske helsevern dekkes av den fylkeskommunen som etter planen er ansvarlig.\nStaten gir tilskott til eieren av universitetsklinikk på grunn av de merutgifter undervisningen av de medisinske studenter medfører.\nFor pasienter som har bosted i annen fylkeskommune, refunderes forpleiningsutgiftene samt andre utgifter til gjennomføring av det psykiske helsevern av vedkommende bostedsfylke. Departementet​2 gir nærmere forskrifter om beregning av forpleiningsutgiftene og kan herunder fastsette samme refusjonssatser for en eller flere grupper av institusjoner. Ved beregning av refusjonskrav fra universitetsklinikk skal det gjøres fradrag med den andel av utgiftene som statens tilskott etter annet ledd utgjør.\nFor pasienter som behandles ved statsinstitusjon, refunderes på samme måte forpleiningsutgiftene fra den fylkeskommune hvor pasienten har sitt bosted.\nFolketrygden utreder forpleiningsutgifter for personer som ikke har bosted i Norge, men er trygdet etter lov om folketrygd.​3 For personer som ikke er stønadsberettiget etter lov om folketrygd, utredes utgiftene av folketrygden dersom han er stønadsberettiget i henhold til gjensidighetsavtale med annet land om sosial trygghet. Ellers utredes utgiftene av pasienten selv. Dersom pasienten ikke har mulighet til å dekke utgiftene selv blir utgiftene å belaste regnskapet for vedkommende institusjon. Dersom han under midlertidig opphold i Norge blir innlagt i medhold av §§ 3 eller 5 skal utgiftene likevel utredes av staten. Før utgiftene anvises, plikter sykehuseieren å søke dekning av pasienten i den utstrekning denne har rett til å få utgiftene dekket gjennom annen offentlig trygdeordning eller privat forsikring.\nDepartementet​2 bestemmer i forskrift hva pasientene skal betale for poliklinisk behandling ved institusjon som omfattes av denne bestemmelse.\nFor opphold i psykiatriske sykehjem gjelder reglene i lov av 19. juni 1969 nr. 57 om sykehus m.v. § 12 syvende ledd og forskrifter gitt i medhold av denne.\nDepartementet​2 gir forskrifter om:\n1. at fylkeskommunene skal føre venteliste over pasienter som søker og har behov for helsehjelp som omfattes av denne lov.\n2. at fylkeskommunen skal søke å skaffe registrerte pasienter innenfor visse prioriterte pasientgrupper helsehjelp i annen fylkeskommune, i statens sykehus eller i Oslo kommune, dersom bostedsfylkeskommunen ikke kan yte helsehjelp innen en frist som fastsettes av departementet.\n3. at bostedsfylkeskommunen skal betale utgifter til helsehjelp, som ytes av annen fylkeskommune etter nr. 2, i henhold til bestemmelsene i denne paragrafen.\n0 Endret ved lover 8 mars 1963 nr. 1, 5 juni 1964 nr. 31, 19 juni 1969 nr. 60, 29 jan 1971 nr. 26, 4 juni 1976 nr. 65, 15 april 1977 nr. 28, 1 juni 1979 nr. 26, 24 mai 1985 nr. 33, 31 mai 1985 nr. 41, 29 mai 1987 nr. 24, 16 juni 1989 nr. 87, 30 april 1992 nr. 43, 17 juli 1998 nr. 64 (i kraft 1 jan 1999 iflg. res. 17 juli 1998 nr. 737).\n1 Jfr. §§ 17 og 22.\n2 Sosial- og helsedepartementet.\n3 Lov 28 feb 1997 nr. 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "6:17",
+      "chapter": "6",
+      "section": "17",
+      "content": "Som bostedskommune skal regnes den kommune der den sinnslidende har sitt hjem. Dersom den sinnslidende ikke har noe hjem, skal det faste oppholdssted regnes som oppholdskommune. For sinnslidende som oppholder seg i institusjon eller privat forpleiningssted hvor oppholdsutgiftene helt eller delvis dekkes av det offentlige etter denne lov, skal forholdene på den tid da vedkommende ble mottatt i institusjon eller forpleiningssted legges til grunn. Inntil et barn fyller 16 år har det samme bostedskommune som foreldrene eller som den av foreldrene barnet lever hos eller senest levde hos. Barn som fyller 16 år under opphold i institusjon eller forpleiningssted som nevnt i tredje punktum, skal ved fortsatt opphold ha samme bostedskommune som ved fylte 16 år. Departementet​1 avgjør i tvilstilfeller hvor en pasient har bostedskommune eller oppholdskommune.\nInntil bostedsspørsmålet er avgjort, utredes utgiftene etter § 16 av den fylkeskommune hvor den sinnslidende oppholdt seg da spørsmålet om psykisk helsevern ble reist.\n0 Endret ved lover 5 juni 1964 nr. 31, 25 mai 1966, 19 juni 1969 nr. 60, 13 des 1991 nr. 81.\n1 Sosial- og helsedepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "6:18",
+      "chapter": "6",
+      "section": "18",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 30 april 1992 nr. 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "6:19",
+      "chapter": "6",
+      "section": "19",
+      "content": "Overlegen kan bestemme at en pasient helt eller delvis selv skal betale utgiftene ved ettervern, når det etter hans økonomiske kår finnes rimelig.\nOverlegens avgjørelse kan av pasienten eller pasientens nærmeste bringes inn for kontrollkommisjonen innen tre uker fra avgjørelsen ble meddelt pasienten og hans nærmeste.\n0 Endret ved lov 19 juni 1969 nr. 60.\n1 Jfr. forskrift gitt 1 juni 1973 nr. 9773.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "6:20",
+      "chapter": "6",
+      "section": "20",
+      "content": "Staten utreder utgiftene til:\na. all godtgjørelse til medlemmene av kontrollkommisjonene​1 og til nødvendig kontorhold for kommisjonen,\nb. godtgjørelse til vitner og oppnevnte sakkyndige​2 samt betaling for forkynnelser og tilsigelser,\nc. – – –\nDepartementet​3 fastsetter godtgjørelse som nevnt under bokstav a og treffer bestemmelse om nødvendig kontorhold for kommisjonene.\n0 Endret ved lov 13 juni 1980 nr. 35.\n1 Jfr. § 8.\n2 Jfr. § 9.\n3 Sosial- og helsedepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "7:21",
+      "chapter": "7",
+      "section": "21",
+      "content": "Med den sjukes nærmeste forstås i denne lov ektefelle, myndige barn, foreldre eller den som ellers har foreldreansvaret,​1 myndige søsken, besteforeldre eller verge,​2 forutsatt at vedkommende har varig kontakt med den sjuke. Står flere grupper i slikt forhold til den syke som nevnt i første punktum, gjelder den rekkefølge som der er angitt, med mindre særlige grunner foreligger. Kongen kan gi nærmere forskrifter om hvem som skal anses som den sykes nærmeste i forhold til de enkelte bestemmelser i denne lov, således om hvordan det skal forholdes hvis det er uenighet mellom flere personer innen samme gruppe.\nKongen gir nærmere forskrifter om hva som i denne lov forstås med offentlig myndighet og om de plikter som påhviler slik myndighet.\n0 Endret ved lover 19 juni 1969 nr. 52, 8 april 1981 nr. 7.\n1 Jfr. lov 8 april 1981 nr. 7 kap. 5.\n2 Jfr. lov 22 april 1927 nr. 3 kap. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "7:21 a",
+      "chapter": "7",
+      "section": "21 a",
+      "content": "Helsepersonell som arbeider innenfor rammen av denne lov skal gi sosialtjenesten bistand i klientsaker. Det skal sørges for at utskrivning fra institusjon i god tid i forveien meldes til sosialtjenesten når utskrivningen bør foranledige tiltak fra sosialtjenestens side. Også for øvrig skal helsepersonellet i sitt arbeid være oppmerksom på forhold som bør føre til tiltak fra sosialtjenestens side, og de skal av eget tiltak gi sosialtjenesten opplysninger om slike forhold. Av eget tiltak kan opplysninger bare gis etter samtykke fra klienten eller så langt opplysningene ellers kan gis uten hinder av taushetsplikt.\n0 Tilføyd ved lov 13 des 1991 nr. 81.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21a",
+        "source_heading": "§ 21 a."
+      }
+    },
+    {
+      "provision_ref": "7:21 b",
+      "chapter": "7",
+      "section": "21 b",
+      "content": "Helsepersonell som arbeider innenfor rammen av denne loven skal i sitt arbeid være oppmerksom på forhold som kan føre til tiltak fra barneverntjenestens side. Det skal sørges for at utskriving fra institusjon i god tid i forveien meldes til barneverntjenesten når utskrivingen bør foranledige tiltak fra barneverntjenestens side.\nUten hinder av taushetsplikt skal helsepersonellet av eget tiltak gi opplysninger til barneverntjenesten når det er grunn til å tro at et barn blir mishandlet i hjemmet eller det foreligger andre former for alvorlig omsorgssvikt, jf. lov om barneverntjenester​1 § 4-10, § 4-11, § 4-12, eller når et barn har vist vedvarende alvorlige atferdsvansker, jf. samme lov § 4-24. Også etter pålegg fra de organer som er ansvarlige for gjennomføringen av lov om barneverntjenester, plikter helsepersonellet å gi slike opplysninger.\n0 Tilføyd ved lov 17 juli 1992 nr. 100.\n1 Lov 17 juli 1992 nr. 100.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21b",
+        "source_heading": "§ 21 b."
+      }
+    },
+    {
+      "provision_ref": "7:22",
+      "chapter": "7",
+      "section": "22",
+      "content": "De bestemmelser i denne lov som gjelder fylkeskommunene, får tilsvarende anvendelse på bykommunen Oslo.\n0 Tilføyd ved lov 19 juni 1969 nr. 60, endret ved lov 5 juni 1970 nr. 36.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "7:23",
+      "chapter": "7",
+      "section": "23",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 14 des 1984 nr. 80.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "7:24",
+      "chapter": "7",
+      "section": "24",
+      "content": "Kongen gir nærmere regler til gjennomføring av denne lov.\n0 Endret ved lov 19 juni 1969 nr. 60 (paragraftallet endret fra 22 til 24).\n1 Jfr. forskrift 4 des 1992 nr. 914 og EØS-avtalens vedlegg VI punkt 1 (Rfo 1408/71) og punkt 2 (Rfo 574/72).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "7:25",
+      "chapter": "7",
+      "section": "25",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\nFra lovens ikrafttreden oppheves: – – –\n0 Endret ved lov 19 juni 1969 nr. 60 (paragraftallet endret fra 23 til 25).\n1 Fra 1 juli 1961 iflg. res. 9 juni 1961.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Psykisk helsevern etter denne lov omfatter:\n1. psykiatrisk forvern som nevnt under § 12,\n2. undersøkelse, behandling eller pleie i psykiatrisk sykehus, psykiatrisk klinikk og poliklinikk, psykiatrisk institusjon for barn og ungdom, psykiatrisk daginstitusjon og ettervernshjem, i psykiatrisk sykehjem, annen psykiatrisk institusjon og psykiatrisk vern i privat forpleiningssted,\n3. psykiatrisk ettervern som nevnt under § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Enhver fylkeskommune skal sørge for planlegging, oppføring og drift av institusjoner som nevnt i § 1 slik at befolkningen innen området kan få det nødvendige psykiske helsevern.\nTo eller flere fylkeskommuner kan samarbeide om løsningen av oppgaver som er nevnt i første ledd. Kongen kan påby slikt samarbeid hvis det finnes påkrevet for å sikre effektivt psykisk helsevern i enkelte områder.\nI mangel av minnelig overenskomst avgjør Kongen med bindende virkning for partene tvist mellom to eller flere kommuner om fordelingen av utgiftene ved samarbeid som nevnt i annet ledd. Kongen kan bestemme at slik tvist skal avgjøres av en nemnd, og gir nærmere regler om dette.\nInstitusjoner og forpleiningssteder som går inn under § 1, skal godkjennes av Kongen.​2 Kongen kan gi forskrifter​3 om planlegging, oppføring, endring, innredning og drift av slike institusjoner og om tilsynet med dem. I forskrifter kan det også gis bestemmelser om godkjenning av den ansvarlige leder, om ansettelsesmyndighet for overordnede stillinger, om normer for bemanning av institusjoner, om krav til kvalifikasjoner for de enkelte stillinger, om godkjenning av regnskaps- og revisjonsordning og privat forpleining. Videre kan det i forskrifter gis bestemmelser om begrensning i adgangen til forsendelse og mottaking av brev og pakker for pasienter og om begrenset adgang til bruk av tvangsmidler i psykiatriske institusjoner. Kongen kan gi forskrifter om tvangsbehandlingstiltak.\nHver fylkeskommune skal opprette og drive minst en psykiatrisk avdeling med plikt til å motta pasienter etter bestemmelsen i § 6 i lov av 19. juni 1969 nr. 57 om sykehus m.v.\n0 Endret ved lover 8 mars 1963 nr. 1, 19 juni 1969 nr. 60, 15 april 1977 nr. 28, 1 juni 1979 nr. 26, 12 juni 1981 nr. 73, 5 juni 1987 nr. 25, 17 juli 1998 nr. 64 (i kraft 1 jan 1999 iflg. res. 17 juli 1998 nr. 737).\n1 Jfr. §§ 14 og 22.\n2 Helsedirektøren hva angår andre helseinstitusjoner enn sykehus iflg. res. 26 sep 1969 nr. 9802, med videre delegasjon til fylkeslegene, Sosial- og helsedepartementet hva angår sykehus iflg. res. 7 feb 1986 nr. 344, fylkesmennene i Hedmark, Sør-Trøndelag og Møre-Romsdal iflg. res. 22 juni 1990 nr. 481 når det gjelder godkjenning av andre institusjoner enn sykehus under visse forutsetninger.\n3 Sosial- og helsedepartementet, jfr. res. 26 sep 1969 nr. 9802.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:2 a",
+      "chapter": "1",
+      "section": "2 a",
+      "content": "Riket inndeles i helseregioner. Kongen bestemmer hvilke fylkeskommuner som utgjør en helseregion.\nFylkeskommunene som utgjør en helseregion skal etablere et regionalt helseutvalg for samarbeid om tjenester og institusjoner som nevnt i § 1.\nDet regionale helseutvalg, jfr annet ledd, skal på vegne av fylkeskommunene i regionen utarbeide regional helseplan. Det skal fremgå av den regionale helseplan hvilke institusjoner og tjenester den enkelte fylkeskommune er ansvarlig for. Departementet kan i forskrift gi nærmere bestemmelser om innhold og utforming av den regionale helseplan og rapportering om gjennomføringen av den.\nDen regionale helseplan skal vedtas av departementet.\nDepartementet kan i forskrift gi bestemmelser om det regionale helseutvalgs oppgaver.\n0 Tilføyd ved lov 17 juli 1998 nr. 64 (i kraft 1 jan 1999 iflg. res. 17 juli 1998 nr. 737).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2a",
+        "source_heading": "§ 2 a."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "Når noen på grunn av sin sinnstilstand ikke selv kan sørge for å få det legetilsyn og det psykiske helsevern han trenger og hans nærmeste​1 heller ikke sørger for at han får det, skal offentlig myndighet​1 sørge for at han blir undersøkt av lege og ellers gjøre det som trenges for å få ham under vern.\nFinner lege det nødvendig etter en personlig undersøkelse kan den syke etter begjæring fra sine nærmeste eller offentlig myndighet innlegges eller beholdes innlagt i sykehus eller holdes på annet sted hvor forsvarlig pleie kan skaffes, men ikke uten eget uttrykkelig samtykke i mer enn tre uker, hvis ikke betingelsene etter § 5 foreligger.\nLegen skal gjøre pasienten oppmerksom på at han kan klage beslutningen inn for kontrollkommisjonen.​2 Klagen har ikke oppsettende virkning hvis ikke legen bestemmer noe annet.\n1 Se § 21.\n2 Jfr. § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "Den som selv begjærer seg innlagt i psykiatrisk institusjon, kan mottas dersom overlegen eller den lege som har ansvaret for vernet finner at innleggelse på grunn av pasientens sinnstilstand er til beste for ham, og at pasienten har evne til selv å ta bestemmelsen. Pasienten skal skrives ut uten opphold dersom han begjærer det.\nOverlege ved psykiatrisk sykehus eller klinikk kan når han av behandlingsmessige grunner finner det ønskelig, sette som vilkår for innleggelse at pasienten kan holdes tilbake i institusjonen i inntil 3 uker fra innleggelsen, og i tilfelle unnvikelse hentes tilbake om nødvendig med tvang. Avtale om innleggelse på vilkår som nevnt skal være skriftlig og undertegnet av partene.\nHvis pasienten er under 16 år, kan den eller de som har foreldremyndigheten​1 på pasientens vegne samtykke i innleggelse etter første ledd eller inngå avtale etter annet ledd. Hvis den mindreårige er fylt 12 år og ikke selv samtykker i innleggelsen eller avtalen, skal overlegen bringe innleggelsen eller avtalen inn for kontrollkommisjonen​2 til overprøving.\nOverlegens beslutning om å sette vilkår for innleggelse som nevnt i annet ledd skal være grunngitt og kan av pasienten eller dennes nærmeste pårørende​3 eller vergen​4 bringes inn for kontrollkommisjonen til overprøving.\nStatens Helsetilsyn​5 kan gi overleger ved andre sykehus adgang til å motta pasienter til psykiatrisk behandling etter reglene i annet ledd, og kan også bestemme at enkelte psykiatriske sykehus skal være unntatt fra adgang til å motta pasienter til frivillig innleggelse etter første og annet ledd.\n0 Endret ved lover 15 april 1977 nr. 28, 30 juli 1992 nr. 101.\n1 Her burde vært benyttet barnelovens begrep «foreldreansvaret», se lov 8 april 1981 kap. 5.\n2 Jfr. § 8.\n3 Se § 21.\n4 Jfr. lov 22 april 1927 kap. 2.\n5 Se lov 30 mars 1984 nr. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "Den som har en alvorlig sinnslidelse kan innlegges i sykehus uten eget samtykke hvis hans nærmeste​2 eller offentlig myndighet​2 begjærer det, og sykehusets overlege finner at innleggelse på grunn av den sykes sinnstilstand er nødvendig for å hindre at han lider overlast eller at utsikt til helbredelse eller vesentlig bedring forspilles, eller at den syke er til vesentlig fare for seg selv eller andre.\nOverlegen kan gjennom kontrollkommisjonen​3 begjære innhentet og protokollert vitneforklaringer som anses å være av betydning for bedømmelsen av om lovens betingelser for innleggelse er til stede. Reglene i § 9 annet ledds annet punktum og tiende ledds tredje punktum gjelder tilsvarende.\nDen som er innlagt i sykehus, kan beholdes i sykehuset uten eget samtykke hvis vilkårene etter første ledd, jfr. annet ledd, er til stede. Dette gjelder dog ikke om innleggelsen har funnet sted etter § 4.\nDen syke, hans nærmeste​2 eller den myndighet​2 som har begjært innleggelsen, kan innbringe overlegens avgjørelse for kontrollkommisjonen.​3 Dette gjelder også om overlegen har nektet å motta eller beholde den syke. Klagen har ikke oppsettende virkning hvis ikke kontrollkommisjonen bestemmer noe annet.\nNår noen er innlagt eller beholdt i sykehus med hjemmel i denne paragraf, skal overlegen straks underrette kontrollkommisjonen.​3 Er den syke innlagt eller beholdt etter begjæring fra myndighetene, skal overlegen også underrette hans nærmeste.​2 Den syke og hans nærmeste​2 skal alltid underrettes om retten til å bringe spørmålet om innleggelse eller utskrivning, samt klager over sykebehandlingen, inn for kontrollkommisjonen.​3\n0 Endret ved lov 12 juni 1981 nr. 73.\n1 Jfr. § 6 og § 7.\n2 Se § 21.\n3 Jfr. §§ 8 og 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:5 a",
+      "chapter": "2",
+      "section": "5 a",
+      "content": "Statens Helsetilsyn​1 kan etter klage omgjøre kontrollkommisjonens​2 beslutning om ikke å innlegge en syk som søkes overført fra annen institusjon m.v. Klageordningen gjelder bare overføringer som søkes i medhold av lovens § 5 og bare for disse grupper:\na. Pasienter i institusjoner som drives i medhold av denne lov. Overføring mellom fylkeskommunale institusjoner i samme fylke omfattes likevel ikke av klageordningen.\nb. Pasienter som i medhold av denne lov er innlagt i andre typer institusjoner. Bokstav a, annet punktum gjelder tilsvarende.\nc. Innsatte i fengselsvesenets anstalter.\nBeslutning som nevnt i første ledd kan ikke omgjøres for så vidt den er begrunnet med at den syke ikke oppfyller vilkårene etter § 5 første ledd for innleggelse uten eget samtykke.\nKlageretten til Statens Helsetilsyn i saker som nevnt i første ledd utøves av pasienten eller vedkommende overlege eller den lege som har vernet for pasienten (bokstav a og b), eller av den innsatte eller den ansvarlige fengselsmyndighet eller påtalemyndighet (bokstav c). De som har slik klagerett til Statens Helsetilsyn, har også rett til å begjære overføring som nevnt i første ledd og har rett til å klage vedtaket inn for kontrollkommisjonen.\nAvgjørelsen er ikke bindende for senere avgjørelser etter denne lov.\n0 Tilføyd ved lov 18 mai 1984 nr. 29, endret ved lov 30 juli 1992 nr. 101.\n1 Se lov 30 mars 1984 nr. 15.\n2 Jfr. § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5a",
+        "source_heading": "§ 5 a."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "Begjæring om utskrivning fra sykehus av en pasient som er innlagt med hjemmel i § 5 kan fremsettes av den syke selv, eller om han ikke selv er i stand til det, av hans nærmeste.​2\nEtter at utskrivning er begjært, kan den syke ikke beholdes i sykehuset med mindre overlegen finner at vilkårene i § 5 første ledd er tilstede. Reglene i § 5 annet ledd gjelder tilsvarende når overlegen skal avgjøre om lovens betingelser for utskrivning er til stede. Nekter overlegen utskrivning, kan hans beslutning klages inn for kontrollkommisjonen​3 som i alle tilfelle skal underrettes om nektelsen.\nSelv om det ikke foreligger begjæring som nevnt i første ledd, kan den innlagte utskrives etter overlegens beslutning hvis vilkårene for å beholde ham i sykehuset etter annet ledd ikke er til stede. Overlegens beslutning kan innbringes for kontrollkommisjonen av den syke selv eller hans nærmeste eller av den myndighet som har begjært ham innlagt. Klagen har oppsettende virkning.\nParagraf 5 femte ledds annet og tredje punktum gjelder tilsvarende for avgjørelser etter annet og tredje ledd.\n0 Endret ved lover 19 juni 1969 nr. 54, 12 juni 1981 nr. 73.\n1 Jfr. § 7. – Se § 24.\n2 Se § 21.\n3 Jfr. § 8",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "Forvaltningsloven​1 kap III til VI gjelder ikke for saker som nevnt i dette kapittel. Likevel gjelder §§ 13 til 13 e om taushetsplikt.\nBestemmelsen i § 7 første ledd, samt §§ 5 og 6 får tilsvarende anvendelse ved psykisk helsevern​2 som finner sted utenfor sykehus, når den syke uten eget samtykke er under vern. De avgjørelser som i de nevnte paragrafer er tillagt sykehusets overlege treffes i så fall av den lege som har ansvaret for vernet.\n0 Endret ved lover 19 juni 1969 nr. 54, 16 mai 1986 nr. 21.\n1 Lov 10 feb 1967.\n2 Jfr. § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "content": "Hvor noen er under psykisk helsevern​1 etter denne lov, skal det være en kontrollkommisjon som etter nærmere regler gitt av departementet​2 treffer de avgjørelser som særlig er tillagt den,​3 og eller fører den kontroll den finner nødvendig for de sykes velferd.\nKontrollkommisjonene oppnevnes av departementet som også bestemmer det område som skal være tillagt hver kommisjon. Kommisjonen skal innen sitt område, ha tilsyn med alle som er under psykisk helsevern uten eget samtykke​4 og med andre syke som selv ber om det.\nKommisjonen skal bestå av en jurist, fortrinnsvis med dommererfaring, som formann, en lege og to andre medlemmer, alle med personlig varamann. Dommeren er kommisjonens formann. Medlemmene oppnevnes for seks år om gangen. Ved første oppnevning etter denne lovs ikrafttreden oppnevnes to av medlemmene for tre år.\nIngen kan oppnevnes som medlem av en kontrollkommisjon som har å føre tilsyn med noen del av det psykiske helsevern som han selv i stillings medfør har noe ansvar for.\n0 Endret ved lover 12 juni 1981 nr. 73, 16 mai 1986 nr. 21.\n1 Jfr. § 1.\n2 Sosial- og helsedepartementet.\n3 Jfr. §§ 3, 5-7 og 9, 12, 13.\n4 Jfr. §§ 3, 5-7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "content": "Før kontrollkommisjonen avgjør sak hvor det uten den sykes samtykke kan besluttes å innlegge ham eller beholde ham innlagt i sykehus eller annet sted i medhold av denne lov, skal den syke eller den som handler på hans vegne gis adgang til å uttale seg.\nFormannen skal ellers sørge for at saken blir best mulig opplyst. Enhver har plikt til å møte for kommisjonen som vitne eller sakkyndig etter de regler som gjelder for hovedforhandling ved herreds- eller byrett.​1\nKontrollkommisjonen kan begjære bevisopptak ved herreds- eller byrett​2 hvis et vitne ikke har møteplikt for kommisjonen eller hvis fremmøte for kommisjonen ville være forbundet med uforholdsmessig omkostning eller ulempe eller hvis slikt bevisopptak av andre grunner må anses særlig praktisk.\nPrivat antatt advokat​3 eller advokat​3 oppnevnt etter lov om fri rettshjelp har rett til å bli kjent med alle opplysningene i saken og til å være tilstede under parts- og vitneavhør. I den utstrekning kontrollkommisjonen finner det tilrådelig, gjelder dette også den syke selv eller den som handler på hans vegne.\nKommisjonen skal om mulig treffe sin avgjørelse innen to uker etter at saken ble brakt inn for den. Kan denne frist ikke overholdes, skal grunnen til dette opplyses i avgjørelsen.\nAvgjørelsen treffes i møte av fulltallig kommisjon. I tilfelle av stemmelikhet gjør formannens stemme utslaget. Reglene om ugildhet i domstolslovens kap. 6 gjelder tilsvarende for kommisjonens medlemmer. Formannen fastsetter godtgjørelsen til oppnevnt sakfører.\nAvgjørelsen skal ha grunner.\nFor saker som behandles av kontrollkommisjonen, gjelder forvaltningsloven​4 for så vidt ikke annet er bestemt i denne lov. Kongen kan gi supplerende bestemmelser om saksbehandlingen.\nEr en klage blitt avslått av kontrollkommisjonen kan ny klage ikke kreves fremmet før minst seks måneder er gått.\nFor utskrifter og attester som gis av kontrollkommisjonen eller av herreds- eller byrett betales ikke gebyr. Heller ikke betales gebyr for bevisopptak etter tredje ledd. Den som i medhold av nærværende paragraf møter for å forklare seg for kontrollkommisjonen, har krav på slik godtgjøring som er bestemt for vitner og sakkyndige.​5\n0 Endret ved lover 19 juni 1969 nr. 54, 13 juni 1980 nr. 35.\n1 Jfr. tvml. §§ 199 og 238.\n2 Jfr. tvml. kap. 20.\n3 Jfr. dl. kap. 11.\n4 Lov 10 feb 1967.\n5 Se lov 21 juli 1916 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:9 a",
+      "chapter": "3",
+      "section": "9 a",
+      "content": "Kontrollkommisjonens vedtak etter § 9 om innlegging eller om å nekte utskriving kan av den sjuke eller hans nærmeste bringes inn for retten etter reglene i lov av 13. august 1915 om rettergangsmåten for tvistemål kap. 33.\nVed melding om vedtaket skal kontrollkommisjonen gjøre den sjuke eller den som handler på hans vegne, kjent med adgangen til å kreve saka brakt inn for retten. Når vedkommende krever rettslig behandling skal han få veiledning og hjelp.\n0 Tilføyd ved lov 19 juni 1969 nr. 52.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9a",
+        "source_heading": "§ 9 a."
+      }
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "content": "Uten at utskrivning finner sted kan psykiatriske sykehus og klinikker overføre pasienter til psykiatriske sykehjem, daginstitusjoner, ettervernshjem og private forpleiningssteder som er knyttet til og står under tilsyn av det psykiatriske sykehus eller klinikken.\nSamtykke til slik ordning gis av departementet.​1\n0 Endret ved lov 15 april 1977 nr. 28.\n1 Sosial- og helsedepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "content": "Når noen er under psykiatrisk vern​1 på privat forpleiningssted i andre tilfelle enn nevnt i § 10 skal offentlig lege eller annen lege godkjent av Statens Helsetilsyn​2 ha vernet.\nDen offentlige lege på stedet skal godkjenne forpleiningsstedet og forpleiningskontrakten. Forøvrig skal føres slikt tilsyn med forpleiningen som Kongen bestemmer.\n0 Endret ved lov 30 juli 1992 nr. 101.\n1 Jfr. § 1.\n2 Se lov 30 mars 1984 nr. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "content": "Når noen søkes opptatt i psykisk helsevern på sted som nevnt i § 1 nr. 2, skal han stå under det psykiatriske forvern som anses nødvendig inntil han er opptatt, eller inntil det anses godtgjort at han er hjulpet eller kan hjelpes på annen måte.\nSpørsmålet om forvernet og om opptakelse i annet psykisk helsevern av noen som er under forvern, kan av den syke selv eller hans nærmeste​1 eller av den myndighet​1 som har begjært vernet, innbringes for vedkommende kontrollkommisjon.​2\n1 Jfr. § 21.\n2 Jfr. § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "content": "Når noen er under psykisk helsevern på sted som nevnt i § 1 nr. 2, kan han uten å utskrives overføres til psykiatrisk ettervern.\nNår noen utskrives av psykisk helsevern på sted som nevnt i § 1 nr. 2, skal han stå under det psykiatriske ettervern som anses ønskelig, dersom han selv eller hans nærmeste​1 anmoder om det.\nKongen gir nærmere regler om ettervern og bestemmer herunder med Stortingets samtykke hvilke ytelser ettervernet skal kunne omfatte.\nBestemmelse om ettervernet treffes av den lege som i det enkelte tilfelle har ansvaret for vernet. Den syke selv, hans nærmeste​1 eller den myndighet​1 som har begjært han innlagt, kan innbringe legens avgjørelse for kontrollkommisjonen.​2\nNår ettervernet har vart i ett år, skal utskrivning finne sted, hvis ikke kontrollkommisjonen​2 samtykker i at det forlenges. Forlengelse skjer i tilfelle med ett år av gangen.\n1 Jfr. § 21.\n2 Jfr. § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "6:14",
+      "chapter": "6",
+      "section": "14",
+      "content": "Det påligger eier av helseinstitusjon som nevnt i § 1 å utrede utgiftene til planlegging, oppføring, utvidelse, ombygging og innredning av institusjonen.\n0 Endret ved lover 8 mars 1963 nr. 1, 19 juni 1969 nr. 60, 1 juni 1979 nr. 26, 14 des 1984 nr. 80.\n1 Jfr. § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "6:15",
+      "chapter": "6",
+      "section": "15",
+      "content": "Staten yter årlig rammetilskudd til delvis dekning av fylkeskommunenes utgifter. Tilskuddet fordeles gjennom inntektssystemet for kommunene og fylkeskommunene etter regler gitt av Kongen.\nDepartementet​1 kan kreve seg forelagt budsjett, regnskap og andre opplysninger om helseinstitusjonenes drift.\n0 Endret ved lover 8 mars 1963 nr. 1, 5 juni 1964 nr. 31, 19 juni 1969 nr. 60, 29 jan 1971 nr. 26, 4 juni 1976 nr. 65, 1 juni 1979 nr. 26 og 31 mai 1985 nr. 41, 21 des 1990 nr. 80, 11 juni 1993 nr. 90.\n1 Sosial- og helsedepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "6:16",
+      "chapter": "6",
+      "section": "16",
+      "content": "Utgiftene til drift av helseinstitusjon som inngår i plan etter § 2 a, og ved private forpleiningssted, samt andre utgifter til gjennomføring av det psykiske helsevern dekkes av den fylkeskommunen som etter planen er ansvarlig.\nStaten gir tilskott til eieren av universitetsklinikk på grunn av de merutgifter undervisningen av de medisinske studenter medfører.\nFor pasienter som har bosted i annen fylkeskommune, refunderes forpleiningsutgiftene samt andre utgifter til gjennomføring av det psykiske helsevern av vedkommende bostedsfylke. Departementet​2 gir nærmere forskrifter om beregning av forpleiningsutgiftene og kan herunder fastsette samme refusjonssatser for en eller flere grupper av institusjoner. Ved beregning av refusjonskrav fra universitetsklinikk skal det gjøres fradrag med den andel av utgiftene som statens tilskott etter annet ledd utgjør.\nFor pasienter som behandles ved statsinstitusjon, refunderes på samme måte forpleiningsutgiftene fra den fylkeskommune hvor pasienten har sitt bosted.\nFolketrygden utreder forpleiningsutgifter for personer som ikke har bosted i Norge, men er trygdet etter lov om folketrygd.​3 For personer som ikke er stønadsberettiget etter lov om folketrygd, utredes utgiftene av folketrygden dersom han er stønadsberettiget i henhold til gjensidighetsavtale med annet land om sosial trygghet. Ellers utredes utgiftene av pasienten selv. Dersom pasienten ikke har mulighet til å dekke utgiftene selv blir utgiftene å belaste regnskapet for vedkommende institusjon. Dersom han under midlertidig opphold i Norge blir innlagt i medhold av §§ 3 eller 5 skal utgiftene likevel utredes av staten. Før utgiftene anvises, plikter sykehuseieren å søke dekning av pasienten i den utstrekning denne har rett til å få utgiftene dekket gjennom annen offentlig trygdeordning eller privat forsikring.\nDepartementet​2 bestemmer i forskrift hva pasientene skal betale for poliklinisk behandling ved institusjon som omfattes av denne bestemmelse.\nFor opphold i psykiatriske sykehjem gjelder reglene i lov av 19. juni 1969 nr. 57 om sykehus m.v. § 12 syvende ledd og forskrifter gitt i medhold av denne.\nDepartementet​2 gir forskrifter om:\n1. at fylkeskommunene skal føre venteliste over pasienter som søker og har behov for helsehjelp som omfattes av denne lov.\n2. at fylkeskommunen skal søke å skaffe registrerte pasienter innenfor visse prioriterte pasientgrupper helsehjelp i annen fylkeskommune, i statens sykehus eller i Oslo kommune, dersom bostedsfylkeskommunen ikke kan yte helsehjelp innen en frist som fastsettes av departementet.\n3. at bostedsfylkeskommunen skal betale utgifter til helsehjelp, som ytes av annen fylkeskommune etter nr. 2, i henhold til bestemmelsene i denne paragrafen.\n0 Endret ved lover 8 mars 1963 nr. 1, 5 juni 1964 nr. 31, 19 juni 1969 nr. 60, 29 jan 1971 nr. 26, 4 juni 1976 nr. 65, 15 april 1977 nr. 28, 1 juni 1979 nr. 26, 24 mai 1985 nr. 33, 31 mai 1985 nr. 41, 29 mai 1987 nr. 24, 16 juni 1989 nr. 87, 30 april 1992 nr. 43, 17 juli 1998 nr. 64 (i kraft 1 jan 1999 iflg. res. 17 juli 1998 nr. 737).\n1 Jfr. §§ 17 og 22.\n2 Sosial- og helsedepartementet.\n3 Lov 28 feb 1997 nr. 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "6:17",
+      "chapter": "6",
+      "section": "17",
+      "content": "Som bostedskommune skal regnes den kommune der den sinnslidende har sitt hjem. Dersom den sinnslidende ikke har noe hjem, skal det faste oppholdssted regnes som oppholdskommune. For sinnslidende som oppholder seg i institusjon eller privat forpleiningssted hvor oppholdsutgiftene helt eller delvis dekkes av det offentlige etter denne lov, skal forholdene på den tid da vedkommende ble mottatt i institusjon eller forpleiningssted legges til grunn. Inntil et barn fyller 16 år har det samme bostedskommune som foreldrene eller som den av foreldrene barnet lever hos eller senest levde hos. Barn som fyller 16 år under opphold i institusjon eller forpleiningssted som nevnt i tredje punktum, skal ved fortsatt opphold ha samme bostedskommune som ved fylte 16 år. Departementet​1 avgjør i tvilstilfeller hvor en pasient har bostedskommune eller oppholdskommune.\nInntil bostedsspørsmålet er avgjort, utredes utgiftene etter § 16 av den fylkeskommune hvor den sinnslidende oppholdt seg da spørsmålet om psykisk helsevern ble reist.\n0 Endret ved lover 5 juni 1964 nr. 31, 25 mai 1966, 19 juni 1969 nr. 60, 13 des 1991 nr. 81.\n1 Sosial- og helsedepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "6:18",
+      "chapter": "6",
+      "section": "18",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 30 april 1992 nr. 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "6:19",
+      "chapter": "6",
+      "section": "19",
+      "content": "Overlegen kan bestemme at en pasient helt eller delvis selv skal betale utgiftene ved ettervern, når det etter hans økonomiske kår finnes rimelig.\nOverlegens avgjørelse kan av pasienten eller pasientens nærmeste bringes inn for kontrollkommisjonen innen tre uker fra avgjørelsen ble meddelt pasienten og hans nærmeste.\n0 Endret ved lov 19 juni 1969 nr. 60.\n1 Jfr. forskrift gitt 1 juni 1973 nr. 9773.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "6:20",
+      "chapter": "6",
+      "section": "20",
+      "content": "Staten utreder utgiftene til:\na. all godtgjørelse til medlemmene av kontrollkommisjonene​1 og til nødvendig kontorhold for kommisjonen,\nb. godtgjørelse til vitner og oppnevnte sakkyndige​2 samt betaling for forkynnelser og tilsigelser,\nc. – – –\nDepartementet​3 fastsetter godtgjørelse som nevnt under bokstav a og treffer bestemmelse om nødvendig kontorhold for kommisjonene.\n0 Endret ved lov 13 juni 1980 nr. 35.\n1 Jfr. § 8.\n2 Jfr. § 9.\n3 Sosial- og helsedepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "7:21",
+      "chapter": "7",
+      "section": "21",
+      "content": "Med den sjukes nærmeste forstås i denne lov ektefelle, myndige barn, foreldre eller den som ellers har foreldreansvaret,​1 myndige søsken, besteforeldre eller verge,​2 forutsatt at vedkommende har varig kontakt med den sjuke. Står flere grupper i slikt forhold til den syke som nevnt i første punktum, gjelder den rekkefølge som der er angitt, med mindre særlige grunner foreligger. Kongen kan gi nærmere forskrifter om hvem som skal anses som den sykes nærmeste i forhold til de enkelte bestemmelser i denne lov, således om hvordan det skal forholdes hvis det er uenighet mellom flere personer innen samme gruppe.\nKongen gir nærmere forskrifter om hva som i denne lov forstås med offentlig myndighet og om de plikter som påhviler slik myndighet.\n0 Endret ved lover 19 juni 1969 nr. 52, 8 april 1981 nr. 7.\n1 Jfr. lov 8 april 1981 nr. 7 kap. 5.\n2 Jfr. lov 22 april 1927 nr. 3 kap. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "7:21 a",
+      "chapter": "7",
+      "section": "21 a",
+      "content": "Helsepersonell som arbeider innenfor rammen av denne lov skal gi sosialtjenesten bistand i klientsaker. Det skal sørges for at utskrivning fra institusjon i god tid i forveien meldes til sosialtjenesten når utskrivningen bør foranledige tiltak fra sosialtjenestens side. Også for øvrig skal helsepersonellet i sitt arbeid være oppmerksom på forhold som bør føre til tiltak fra sosialtjenestens side, og de skal av eget tiltak gi sosialtjenesten opplysninger om slike forhold. Av eget tiltak kan opplysninger bare gis etter samtykke fra klienten eller så langt opplysningene ellers kan gis uten hinder av taushetsplikt.\n0 Tilføyd ved lov 13 des 1991 nr. 81.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21a",
+        "source_heading": "§ 21 a."
+      }
+    },
+    {
+      "provision_ref": "7:21 b",
+      "chapter": "7",
+      "section": "21 b",
+      "content": "Helsepersonell som arbeider innenfor rammen av denne loven skal i sitt arbeid være oppmerksom på forhold som kan føre til tiltak fra barneverntjenestens side. Det skal sørges for at utskriving fra institusjon i god tid i forveien meldes til barneverntjenesten når utskrivingen bør foranledige tiltak fra barneverntjenestens side.\nUten hinder av taushetsplikt skal helsepersonellet av eget tiltak gi opplysninger til barneverntjenesten når det er grunn til å tro at et barn blir mishandlet i hjemmet eller det foreligger andre former for alvorlig omsorgssvikt, jf. lov om barneverntjenester​1 § 4-10, § 4-11, § 4-12, eller når et barn har vist vedvarende alvorlige atferdsvansker, jf. samme lov § 4-24. Også etter pålegg fra de organer som er ansvarlige for gjennomføringen av lov om barneverntjenester, plikter helsepersonellet å gi slike opplysninger.\n0 Tilføyd ved lov 17 juli 1992 nr. 100.\n1 Lov 17 juli 1992 nr. 100.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21b",
+        "source_heading": "§ 21 b."
+      }
+    },
+    {
+      "provision_ref": "7:22",
+      "chapter": "7",
+      "section": "22",
+      "content": "De bestemmelser i denne lov som gjelder fylkeskommunene, får tilsvarende anvendelse på bykommunen Oslo.\n0 Tilføyd ved lov 19 juni 1969 nr. 60, endret ved lov 5 juni 1970 nr. 36.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "7:23",
+      "chapter": "7",
+      "section": "23",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 14 des 1984 nr. 80.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "7:24",
+      "chapter": "7",
+      "section": "24",
+      "content": "Kongen gir nærmere regler til gjennomføring av denne lov.\n0 Endret ved lov 19 juni 1969 nr. 60 (paragraftallet endret fra 22 til 24).\n1 Jfr. forskrift 4 des 1992 nr. 914 og EØS-avtalens vedlegg VI punkt 1 (Rfo 1408/71) og punkt 2 (Rfo 574/72).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "7:25",
+      "chapter": "7",
+      "section": "25",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\nFra lovens ikrafttreden oppheves: – – –\n0 Endret ved lov 19 juni 1969 nr. 60 (paragraftallet endret fra 23 til 25).\n1 Fra 1 juli 1961 iflg. res. 9 juni 1961.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    }
+  ]
+}

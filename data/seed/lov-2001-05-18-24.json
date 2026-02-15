@@ -1,0 +1,1095 @@
+{
+  "id": "LOV-2001-05-18-24",
+  "type": "statute",
+  "title": "Lov om helseregistre og behandling av helseopplysninger (helseregisterloven).",
+  "short_name": "Helseregisterloven – hlsregl.",
+  "status": "in_force",
+  "issued_date": "2001-05-18",
+  "in_force_date": "2002-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/2001-05-18-24",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Formålet med denne lov er å bidra til å gi helse- og omsorgstjenesten og helse- og omsorgsforvaltningen informasjon og kunnskap uten å krenke personvernet, slik at tjenestene kan gis på forsvarlig og effektiv måte. Gjennom forskning og statistikk skal loven bidra til informasjon og kunnskap om befolkningens helseforhold, årsaker til nedsatt helse og utvikling av sykdom for administrasjon, kvalitetssikring, planlegging og styring. Loven skal sikre at helseopplysninger​1 blir behandlet i samsvar med grunnleggende personvernhensyn, herunder behovet for personlig integritet, privatlivets fred og tilstrekkelig kvalitet på helseopplysninger.\n0 Endret ved lover 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 46.\n1 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjoner",
+      "content": "I denne loven forstås med:\n1. helseopplysninger: taushetsbelagte opplysninger i henhold til helsepersonelloven​1 § 21 og andre opplysninger og vurderinger om helseforhold eller av betydning for helseforhold, som kan knyttes til en enkeltperson,\n2. avidentifiserte helseopplysninger: helseopplysninger der navn, fødselsnummer​2 og andre personentydige kjennetegn er fjernet, slik at opplysningene ikke lenger kan knyttes til en enkeltperson, og hvor identitet bare kan tilbakeføres ved sammenstilling med de samme opplysninger som tidligere ble fjernet,\n3. anonyme opplysninger: opplysninger der navn, fødselsnummer​2 og andre personentydige kjennetegn er fjernet, slik at opplysningene ikke lenger kan knyttes til en enkeltperson,\n4. pseudonyme helseopplysninger: helseopplysninger der identitet er kryptert eller skjult på annet vis, men likevel individualisert slik at det lar seg gjøre å følge hver person gjennom helsesystemet uten at identiteten røpes,\n5. behandling av helseopplysninger: enhver formålsbestemt bruk av helseopplysninger, som f.eks. innsamling, registrering, sammenstilling, lagring og utlevering eller en kombinasjon av slike bruksmåter,\n6. helseregister: registre, fortegnelser, m.v. der helseopplysninger er lagret systematisk slik at opplysninger om den enkelte kan finnes igjen,\n7. behandlingsrettet helseregister: journal- og informasjonssystem eller annet helseregister som har til formål å gi grunnlag for handlinger som har forebyggende, diagnostisk, behandlende, helsebevarende eller rehabiliterende mål i forhold til den enkelte pasient og som utføres av helsepersonell, samt administrasjon av slike handlinger,\n8. databehandlingsansvarlig: den som bestemmer formålet med behandlingen av helseopplysningene og hvilke hjelpemidler som skal brukes, hvis ikke databehandlingsansvaret er særskilt angitt i loven eller i forskrift i medhold av loven,\n9. databehandler: den som behandler helseopplysninger på vegne av den databehandlingsansvarlige,\n10. registrert: den som helseopplysninger kan knyttes til,\n11. samtykke: en frivillig, uttrykkelig og informert erklæring fra den registrerte om at han eller hun godtar behandling av helseopplysninger om seg selv.\n1 Lov 2 juli 1999 nr. 64.\n2 Se lov 16 jan 1970 nr. 1 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Saklig virkeområde",
+      "content": "Loven gjelder for:\n1. behandling av helseopplysninger​1 i helse- og omsorgsforvaltningen og helse- og omsorgstjenesten, som skjer helt eller delvis med elektroniske hjelpemidler for å fremme formål som beskrevet i § 1,\n2. annen behandling av helseopplysninger​1 i helse- og omsorgsforvaltningen og helse- og omsorgstjenesten til slike formål, når helseopplysningene inngår eller skal inngå i et helseregister, og\n3. Helsearkivregisteret i Norsk helsearkiv.\nLoven gjelder både offentlig og privat virksomhet.\nKongen i Statsråd kan i forskrift bestemme at loven helt eller delvis skal gjelde for behandling av helseopplysninger​1 utenfor helse- og omsorgsforvaltningen eller helse- og omsorgstjenesten for å ivareta formål som beskrevet i § 1.\nLoven gjelder ikke for behandling av helseopplysninger som reguleres av helseforskningsloven.​2\n0 Endret ved lover 15 juni 2001 nr. 93 (ikr. 1 jan 2002 iflg. res. 14 des 2001 nr. 1417), 20 juni 2008 nr. 44 (ikr. 1 juli 2009 iflg. res. 26 juni 2009 nr. 865), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 46, 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578).\n1 Se § 2 nr. 1.\n2 Lov 20 juni 2008 nr. 44.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Geografisk virkeområde",
+      "content": "Loven gjelder for databehandlingsansvarlige​1 som er etablert i Norge. Kongen kan i forskrift bestemme at loven helt eller delvis skal gjelde for Svalbard​2 og Jan Mayen, og kan fastsette særlige regler om behandling av helseopplysninger​3 for disse områdene.\nLoven gjelder også for databehandlingsansvarlige​1 som er etablert i stater utenfor EØS-området, dersom den databehandlingsansvarlige benytter hjelpemidler i Norge. Dette gjelder likevel ikke dersom hjelpemidlene bare brukes til å overføre helseopplysninger​3 via Norge.\nDatabehandlingsansvarlige​1 som nevnt i annet ledd, skal ha en representant som er etablert i Norge. Bestemmelsene som gjelder for den databehandlingsansvarlige, gjelder også for representanten.\n1 Se § 2 nr. 8.\n2 Se lov 17 juli 1925 nr. 11 § 1 (2).\n3 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Behandling av helseopplysninger, konsesjonsplikt m.m.",
+      "content": "Helseopplysninger​1 kan bare behandles elektronisk når dette er tillatt etter personopplysningsloven​2 §§ 9 og 33, helseforskningsloven​3 eller følger av lov og behandlingen ikke er forbudt ved annet særskilt rettsgrunnlag. Det samme gjelder annen behandling av helseopplysninger, dersom opplysningene inngår eller skal inngå i et helseregister.\nKonsesjonsplikt etter personopplysningsloven​2 § 33 gjelder ikke for behandling av helseopplysninger​1 som skjer med hjemmel i forskrift etter §§ 6 til 8 a.\nFør helseopplysninger​1 innhentes for behandling etter første ledd, skal samtykke fra den registrerte foreligge, hvis ikke annet er bestemt i eller i medhold av lov.\nPasient- og brukerrettighetsloven​4 §§ 4-3 til 4-7 gjelder tilsvarende for samtykke etter denne lov. Barn mellom 12 og 16 år kan selv treffe beslutning om samtykke, dersom pasienten av grunner som bør respekteres, ikke ønsker at opplysningene gjøres kjent for foreldrene eller andre med foreldreansvar.​5\n0 Endret ved lover 20 juni 2008 nr. 44 (ikr. 1 juli 2009 iflg. res. 26 juni 2009 nr. 865), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 46, 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578).\n1 Se § 2 nr. 1.\n2 Lov 14 apr 2000 nr. 31.\n3 Lov 20 juni 2008 nr. 44.\n4 Lov 2 juli 1999 nr. 63.\n5 Se lov 8 apr 1981 nr. 7 kap. 5, jf. lov 2 juli 1999 nr. 63 § 3-4 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Behandlingsrettet helseregister",
+      "content": "Behandlingsrettede helseregistre​1 kan føres elektronisk. Det skal fremgå av registeret hvem som har registrert opplysningene. Dette kan gjøres ved hjelp av elektronisk signatur​2 eller tilsvarende sikker dokumentasjon.\nRegionale helseforetak og helseforetak,​3 kommune og annen offentlig eller privat virksomhet som tar i bruk behandlingsrettede helseregistre, er databehandlingsansvarlig​4 for opplysningene. Foretaket og kommunen kan delegere databehandlingsansvaret.\nKongen kan i forskrift gi nærmere bestemmelser om behandling av helseopplysninger​5 i behandlingsrettede helseregistre, herunder om godkjenning av programvare og andre forhold som nevnt i § 16 femte ledd.\nKongen kan i forskrift fastsette at opplysninger i behandlingsrettet register skal behandles elektronisk.\n0 Endret ved lover 15 juni 2001 nr. 93 (ikr. 1 jan 2002 iflg. res. 14 des 2001 nr. 1417), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 14 juni 2013 nr. 39 (ikr. 1 juli 2013 iflg. res. 14 juni 2013 nr. 641).\n1 Se § 2 nr. 7.\n2 Jf. lov 15 juni 2001 nr. 81.\n3 Se lov 15 juni 2001 nr. 93.\n4 Se § 2 nr. 8.\n5 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:6 a",
+      "chapter": "2",
+      "section": "6 a",
+      "title": "Virksomhetsovergripende, behandlingsrettede helseregistre",
+      "content": "Det kan bare etableres virksomhetsovergripende, behandlingsrettede helseregistre​1 som fremgår av loven her eller annen lov.\nVirksomhetsovergripende behandlingsrettede helseregistre kan bare inneholde nærmere bestemte helseopplysninger​2 i et begrenset omfang som er nødvendige og relevante for samarbeid mellom virksomheter om forsvarlige helse- og omsorgstjenester til pasienten eller brukeren. Slike registre kan bare etableres i tillegg til de behandlingsrettede helseregistrene virksomheten etablerer internt i virksomheten, jf. spesialisthelsetjenesteloven​3 § 3-2 og helse- og omsorgstjenesteloven​4 § 5-10, jf. helsepersonelloven​5 §§ 39 og 40. Virksomhetsovergripende, behandlingsrettede helseregistre skal føres elektronisk.\nKongen i Statsråd kan i forskrift gi nærmere bestemmelser om etablering, drift og behandling av helseopplysninger i virksomhetsovergripende behandlingsrettede helseregistre. Virksomhetsovergripende behandlingsrettede helseregistre kan bare etableres uten samtykke fra pasienten eller brukeren dersom dette er nødvendig for å ivareta formålet med registeret. Det kan ikke etableres sentrale behandlingsrettede helseregistre etter denne bestemmelsen.\nForskrift etter tredje ledd skal nærmere angi formålet med behandlingen av helseopplysningene og hvilke opplysninger som skal behandles. Forskriften skal videre angi hvem som er databehandlingsansvarlig​6 for opplysningene, herunder om plassering, tilgang, tilgangskontroll, samt gi pasienten eller brukeren rett til å motsette seg behandling av opplysninger i registeret eller stille krav om samtykke.​7\n0 Tilføyd ved lov 19 juni 2009 nr. 68, endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).\n1 Se § 2 nr. 7.\n2 Se § 2 nr. 1.\n3 Lov 2 juli 1999 nr. 64.\n4 Lov 24 juni 2011 nr. 30.\n5 Lov 2 juli 1999 nr. 64.\n6 Se § 2 nr. 8.\n7 Se § 2 nr. 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6a",
+        "source_heading": "§ 6 a."
+      }
+    },
+    {
+      "provision_ref": "2:6 b",
+      "chapter": "2",
+      "section": "6 b",
+      "title": "Virksomhetsovergripende, behandlingsrettede helseregistre – helsepersonell med formalisert arbeidsfellesskap",
+      "content": "Kongen i statsråd kan i forskrift gi bestemmelser om etablering av virksomhetsovergripende behandlingsrettede helseregistre​1 for bruk av helsepersonell med formalisert arbeidsfellesskap.\nForskriften etter første ledd skal sikre plassering av databehandlingsansvaret, samt angi regler om tilgang og tilgangskontroll. Den databehandlingsansvarlige​2 skal sørge for at journal- og informasjonssystemene i det formaliserte arbeidsfellesskapet er forsvarlige.\nDer slike registre opprettes, skal det virksomhetsovergripende, behandlingsrettede registeret føres elektronisk og erstatte det virksomhetsinterne behandlingsrettede registeret. Plikten til å føre journal, jf. helsepersonelloven​3 §§ 39 og 40, gjelder tilsvarende.\n0 Tilføyd ved lov 19 juni 2009 nr. 68.\n1 Se § 2 nr. 7.\n2 Se § 2 nr. 8.\n3 Lov 2 juli 1999 nr. 64.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6b",
+        "source_heading": "§ 6 b."
+      }
+    },
+    {
+      "provision_ref": "2:6 c",
+      "chapter": "2",
+      "section": "6 c",
+      "title": "Registre for saksbehandling og administrering",
+      "content": "Kongen i Statsråd kan i forskrift gi nærmere bestemmelser om etablering av registre og behandling av helseopplysninger​1 i registrene til følgende formål:\n1. saksbehandling for å avgjøre om det kan treffes vedtak om frikort og refusjon av betalte egenandeler, jf. pasient- og brukerrettighetsloven​2 § 2-6, spesialisthelsetjenesteloven​3 § 5-5 og folketrygdloven​4 kapittel 5\n2. administrering og samordning av transport til undersøkelse eller behandling i helse- og omsorgstjenesten, jf. spesialisthelsetjenesteloven​3 § 2-1 a første ledd nr. 6.\nForskriften etter første ledd skal angi hvilke opplysninger som kan behandles i registeret og gi nærmere regler om databehandlingsansvaret for opplysningene, herunder om plassering av ansvar. Forskriften kan inneholde bestemmelser om tilgang til opplysningene, tilgangskontroll mv.\nHelseopplysningene​5 kan behandles uten hensyn til samtykke​6 fra den registrerte.​7 Dette gjelder ikke opplysninger om diagnose eller sykdom. Den registrerte kan reservere seg mot at opplysninger om betalte egenandeler automatisk registreres i registeret som etableres i medhold av første ledd nr. 1 og mot utlevering av opplysninger om den registrerte skal betale egenandel.\n0 Tilføyd ved lov 18 des 2009 nr. 137 (ikr. 1 jan 2010 iflg. res. 18 des 2009 nr. 1583), endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).\n1 Se § 2 nr. 5.\n2 Lov 2 juli 1999 nr. 63.\n3 Lov 2 juli 1999 nr. 61.\n4 Lov 28 feb 1997 nr. 19.\n5 Se § 2 nr. 1.\n6 Se § 2 nr. 11.\n7 Se § 2 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6c",
+        "source_heading": "§ 6 c."
+      }
+    },
+    {
+      "provision_ref": "2:6 d",
+      "chapter": "2",
+      "section": "6 d",
+      "title": "Nasjonal kjernejournal",
+      "content": "Kongen i Statsråd kan i forskrift gi bestemmelser om etablering av nasjonal kjernejournal.\nNasjonal kjernejournal er et sentralt og virksomhetsovergripende behandlingsrettet helseregister.​1\nNasjonal kjernejournal skal inneholde et begrenset sett relevante helseopplysninger​2 som er nødvendig for å yte forsvarlig helsehjelp.\nOpplysninger kan registreres og på annen måte behandles i nasjonal kjernejournal uten samtykke​3 fra den registrerte.​4 Den registrerte har rett til å reservere seg mot behandling av helseopplysninger i registeret. Reglene om samtykkekompetanse i pasient- og brukerrettighetsloven​5 §§ 4-3 til 4-7 gjelder tilsvarende for retten til å reservere seg.\nHelsepersonell med tjenstlig behov ved ytelse av helsehjelp, kan etter samtykke fra den registrerte gis tilgang til nødvendige og relevante helseopplysninger fra nasjonal kjernejournal. Når det er nødvendig for å yte forsvarlig helsehjelp, kan Kongen i Statsråd i forskrift gjøre unntak fra kravet om samtykke. Ved unntak fra samtykke gjelder helsepersonelloven​6 § 45 første ledd første punktum tilsvarende.\nKongen i Statsråd kan i forskrift gi nærmere bestemmelser om etablering av nasjonal kjernejournal, drift og behandling av helseopplysninger, herunder hvilke opplysninger som skal behandles, hvem som er databehandlingsansvarlig,​7 regler om sletting, tilgang og tilgangskontroll, samt pasientens rettigheter.\n0 Tilføyd ved lov 22 juni 2012 nr. 46.\n1 Se § 2 nr. 7.\n2 Se § 2 nr. 1.\n3 Se § 2 nr. 11.\n4 Se § 2 nr. 10.\n5 Lov 2 juli 1999 nr. 63.\n6 Lov 2 juli 1999 nr. 64.\n7 Se § 2 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6d",
+        "source_heading": "§ 6d."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Regionale og lokale helseregistre",
+      "content": "Det kan ikke etableres andre regionale og lokale helseregistre med helseopplysninger​1 enn det som følger av denne eller annen lov.\nKongen i Statsråd kan i forskrift gi nærmere bestemmelser om etablering av av regionale helseregistre og behandling av helseopplysninger​1 i regionale helseregistre for ivaretakelse av oppgaver etter folkehelseloven,​2 smittevernloven,​3 spesialisthelsetjenesteloven​4 og tannhelsetjenesteloven.​5 Navn, fødselsnummer​6 eller andre direkte personidentifiserende kjennetegn kan bare behandles etter samtykke​7 fra den registrerte.​8 Samtykke fra den registrerte er ikke nødvendig, dersom det i forskriften bestemmes at helseopplysningene bare kan behandles i pseudonymisert eller avidentifisert​9 form. Forskriften skal angi formålet med behandlingen av helseopplysningene, hvilke opplysninger som kan behandles, og eventuelt nærmere regler om hvem som skal foreta pseudonymiseringen og prinsipper for hvordan det skal gjøres. Det regionale helseforetaket er databehandlingsansvarlig​10 for opplysningene, med mindre noe annet er bestemt i forskriften. Databehandlingsansvaret kan delegeres.\nKongen i Statsråd kan i forskrift gi nærmere bestemmelser om etablering av lokale helseregistre og behandling av helseopplysninger​1 i lokale helseregistre for ivaretakelse av oppgaver etter folkehelseloven,​2 helse- og omsorgstjenesteloven​11 og smittevernloven.​3 Navn, fødselsnummer​6 eller andre direkte personidentifiserende kjennetegn kan bare behandles etter samtykke fra den registrerte.​8 Samtykke fra den registrerte er ikke nødvendig, dersom det i forskriften bestemmes at helseopplysningene bare kan behandles i pseudonymisert eller avidentifisert​9 form. Forskriften skal angi formålet med behandlingen av helseopplysningene, hvilke opplysninger som kan behandles, og eventuelt nærmere regler om hvem som skal foreta pseudonymiseringen og prinsipper for hvordan det skal gjøres. Kommunen er databehandlingsansvarlig​10 for opplysningene, med mindre noe annet er bestemt i forskriften. Databehandlingsansvaret kan delegeres.\n0 Endret ved lover 15 juni 2001 nr. 93 (ikr. 1 jan 2002 iflg. res. 14 des 2001 nr. 1417), 10 juni 2005 nr. 47, 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 46.\n1 Se § 2 nr. 1.\n2 Lov 24 juni 2011 nr. 29.\n3 Lov 5 aug 1994 nr. 55.\n4 Lov 2 juli 1999 nr. 61.\n5 Lov 3 juni 1983 nr. 54.\n6 Jf. lov 16 jan 1970 nr. 1 § 4.\n7 Se § 2 nr. 11.\n8 Se § 2 nr. 10.\n9 Se § 2 nr. 2 og nr. 4.\n10 Se § 2 nr. 8.\n11 Lov 24 juni 2011 nr. 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Sentrale helseregistre",
+      "content": "Det kan ikke etableres andre sentrale helseregistre med helseopplysninger​1 enn det som følger av denne eller annen lov.\nKongen i Statsråd kan i forskrift gi nærmere bestemmelser om etablering av av sentrale helseregistre og behandling av helseopplysninger​1 i sentrale helseregistre for ivaretakelse av oppgaver etter apotekloven,​2 folkehelseloven,​3 helse- og omsorgstjenesteloven,​4 tannhelsetjenesteloven,​5 smittevernloven​6 og spesialisthelsetjenesteloven,​7 herunder overordnet styring og planlegging av tjenestene, kvalitetsutvikling, forskning og statistikk. Navn, fødselsnummer​8 eller andre direkte personidentifiserende kjennetegn kan bare behandles etter samtykke fra den​9 registrerte.​10 Samtykke fra den registrerte er ikke nødvendig, dersom det i forskriften bestemmes at helseopplysningene bare kan behandles i pseudonymisert eller avidentifisert form.​11 Forskriften skal eventuelt fastsette nærmere regler om hvem som skal foreta pseudonymiseringen og prinsipper for hvordan det skal gjøres.\nI følgende registre kan navn, fødselsnummer​8 og andre direkte personidentifiserende kjennetegn behandles uten samtykke fra den registrerte​10 i den utstrekning det er nødvendig for å nå formålet med registeret:\n1. Dødsårsaksregisteret\n2. Kreftregisteret\n3. Medisinsk fødselsregister\n4. Meldingssystem for smittsomme sykdommer\n5. Det sentrale tuberkuloseregisteret\n6. System for vaksinasjonskontroll (SYSVAK)\n7. Forsvarets helseregister\n8. Norsk pasientregister\n9. Nasjonal database for elektroniske resepter\n10. Nasjonalt register over hjerte- og karlidelser.\nKongen i Statsråd kan i forskrift gi nærmere bestemmelser om behandlingen av helseopplysningene i helseregistrene.\nForskriftene etter annet og fjerde ledd skal angi formålet med behandlingen av helseopplysningene og hvilke opplysninger som skal behandles. Forskriften skal videre angi hvem som er databehandlingsansvarlig​12 for opplysningene.\nDatabehandlingsansvaret kan delegeres. Forskriftene bør også gi bestemmelser om den databehandlingsansvarliges plikt til å gjøre data tilgjengelig for at formålene kan nås.\nKreftregisteret kan inneholde helseopplysninger om personer som har deltatt i undersøkelsesprogram for tidlig diagnose og kontroll for kreftsykdom. Ved negativt funn kan opplysninger om navn, fødselsnummer, adresse, bostedskommune og sivilstand registreres permanent, med mindre den registrerte reserverer seg mot det. Dersom den registrerte har reservert seg, skal opplysningene slettes etter at de er kvalitetssikret og senest seks måneder etter innsamlingen.\n0 Endret ved lover 2 juli 2004 nr. 59 (ikr. 1 jan 2005 iflg. res. 10 des 2004 nr. 1614), 10 juni 2005 nr. 47, 16 feb 2007 nr. 7, 15 juni 2007 nr. 32, 9 apr 2010 nr. 14, 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 46, 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578), 21 juni 2013 nr. 80 (ikr. 1 jan 2014 iflg. res. 23 aug 2013 nr. 1022).\n1 Se § 2 nr. 1.\n2 Lov 24 juni 2011 nr. 29.\n3 Lov 2 juni 2000 nr. 39.\n4 Lov 24 juni 2011 nr. 30.\n5 Lov 3 juni 1983 nr. 54.\n6 Lov 5 aug 1994 nr. 55.\n7 Lov 2 juli 1999 nr. 61.\n8 Lov 16 jan 1970 nr. 1 § 4.\n9 Se § 2 nr. 11.\n10 Se § 2 nr. 10.\n11 Se § 2 nr. 2 og nr. 4.\n12 Se § 2 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:8 a",
+      "chapter": "2",
+      "section": "8 a",
+      "title": "Helsearkivregisteret m.m.",
+      "content": "Kongen i statsråd kan i forskrift gi bestemmelser om etablering av Helsearkivregisteret.\nHelsearkivregisteret er et sentralt helseregister med personidentifiserbar pasientdokumentasjon avlevert til Norsk helsearkiv, jf. § 9 og spesialisthelsetjenesteloven​1 § 3-2 a. Opplysningene i Helsearkivregisteret kan behandles uten de registrertes​2 samtykke.​3\nRiksarkivaren er databehandlingsansvarlig​4 for opplysningene i Helsearkivregisteret, jf. arkivlova​5 § 4.\nKongen i statsråd kan i forskrift gi nærmere bestemmelser om etablering av Helsearkivregisteret, behandlingen av helseopplysningene​6 i registeret, formålet med behandlingen og hvilke opplysninger som skal behandles. Bestemmelsene skal videre angi den databehandlingsansvarliges plikt til å gjøre data tilgjengelig.\nKongen i statsråd kan i forskrift gi nærmere bestemmelser om bevaring, kassasjon og avlevering av pasientdokumentasjon for de private virksomhetene i spesialisthelsetjenesten, jf. spesialisthelsetjenesteloven​1 § 3-2 a andre ledd.\n0 Tilføyd ved lov 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578).\n1 Lov 2 juli 1999 nr. 61.\n2 Se § 2 nr. 10.\n3 Se § 2 nr. 11.\n4 Se § 2 nr. 8.\n5 Lov 4 des 1992 nr. 126.\n6 Se § 2 nr. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8a",
+        "source_heading": "§ 8 a."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Særlig om innsamling av helseopplysninger til sentrale, regionale og lokale helseregistre, meldingsplikt mv.",
+      "content": "Virksomheter og helsepersonell som tilbyr eller yter tjenester i henhold til apotekloven,​1 helse- og omsorgstjenesteloven,​2 smittevernloven,​3 spesialisthelsetjenesteloven​4 eller tannhelsetjenesteloven,​5 plikter å utlevere eller overføre opplysninger som bestemt i forskrifter etter §§ 6 a, 6 c, 6 d, 7, 8 og 8 a samt etter paragrafen her.\nKongen kan gi forskrifter om innsamling av helseopplysninger​6 etter §§ 6 a, 6 c, 6 d, 7, 8 og 8 a, herunder bestemmelser om hvem som skal gi og motta opplysningene og om frister, formkrav og meldingsskjemaer. Den som mottar opplysningene, skal varsle avsenderen av opplysningene dersom opplysningene er mangelfulle.\n0 Endret ved lover 10 juni 2005 nr. 47, 19 juni 2009 nr. 68, 18 des 2009 nr. 137 (ikr. 1 jan 2010 iflg. res. 18 des 2009 nr. 1583), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 46, 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578).\n1 Lov 2 juni 2000 nr. 39.\n2 Lov 24 juni 2011 nr. 30.\n3 Lov 5 aug 1994 nr. 55.\n4 Lov 2 juli 1999 nr. 61.\n5 Lov 3 juni 1983 nr. 54.\n6 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Særlig om plikt til å innrapportere data til statistikk",
+      "content": "Departementet kan i forskrift eller ved enkeltvedtak pålegge regionale helseforetak og helseforetak,​1 fylkeskommuner og kommuner å innrapportere avidentifiserte​2 eller anonyme​3 data til statistikk, herunder gi nærmere regler om bruk av standarder, klassifikasjonssystemer og kodeverk.\n0 Endret ved lov 15 juni 2001 nr. 93 (ikr. 1 jan 2002 iflg. res. 14 des 2001 nr. 1417).\n1 Se lov 15 juni 2001 nr. 93 § 2.\n2 Se § 2 nr. 2.\n3 Se § 2 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Krav til formålsbestemthet, saklighet, relevans m.v.",
+      "content": "Enhver behandling av helseopplysninger​1 skal ha et uttrykkelig angitt formål som er saklig begrunnet i den databehandlingsansvarliges​2 virksomhet. Den databehandlingsansvarlige skal sørge for at helseopplysningene som behandles, er relevante og nødvendige for formålet med behandlingen av opplysningene.\nHelseopplysninger​1 kan bare anvendes til andre formål enn helse- og omsorgstjenester til den enkelte eller administrasjon av slike tjenester når personidentifisering er nødvendig for å fremme disse formålene. Det skal alltid begrunnes hvorfor det er nødvendig å benytte personidentifiserbare opplysninger. Tilsynsmyndigheten​3 kan i medhold av § 31 kreve at den databehandlingsansvarlige​2 legger frem begrunnelsen.\nHelseopplysninger​1 kan ikke anvendes til formål som er uforenlig med det opprinnelige formålet med innsamlingen av opplysningene, uten at den registrerte​4 samtykker.​5\n0 Endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).\n1 Se § 2 nr. 1.\n2 Se § 2 nr. 8.\n3 Se kap. 6.\n4 Se § 2 nr. 10.\n5 Se § 2 nr. 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Sammenstilling av opplysninger",
+      "content": "Helseopplysninger​1 i behandlingsrettet helseregister​2 kan sammenstilles med opplysninger om samme pasient eller bruker i annet behandlingsrettet helseregister, i den grad helseopplysningene kan utleveres etter helsepersonelloven​3 §§ 25, 26 og 45.\nHelseopplysninger​1 som behandles i registre som nevnt i § 6 c kan sammenstilles med hverandre i samsvar med formålene med registrene.\nHelseopplysninger​1 innsamlet etter § 9 kan sammenstilles etter nærmere bestemmelser fastsatt i forskrift etter §§ 7, 8 og 8 a.\nHelseopplysninger​1 som behandles etter første, andre og tredje ledd kan sammenstilles med folkeregisteropplysninger​4 om den registrerte.​5\nUt over det som følger av denne paragraf, kan helseopplysninger​1 bare sammenstilles når dette er tillatt etter personopplysningsloven​6 §§ 9 og 33.\n0 Endret ved lover 18 des 2009 nr. 137 (ikr. 1 jan 2010 iflg. res. 18 des 2009 nr. 1583), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578).\n1 Se § 2 nr. 1.\n2 Se § 2 nr. 7.\n3 Lov 2 juli 1999 nr. 64.\n4 Se lov 16 jan 1970 nr. 1 kap. 2.\n5 Se § 2 nr. 10.\n6 Lov 14 apr 2000 nr. 31.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Tilgang til helseopplysninger i den databehandlingsansvarliges og databehandlers institusjon",
+      "content": "Bare den databehandlingsansvarlige,​1 databehandlere​2 og den som arbeider under den databehandlingsansvarliges eller databehandlers instruksjonsmyndighet, kan gis tilgang til helseopplysninger.​3 Tilgang kan bare gis i den grad dette er nødvendig for vedkommendes arbeid og i samsvar med gjeldende bestemmelser om taushetsplikt.\nKongen i Statsråd kan i forskrift gi nærmere bestemmelser om tilgang til helseopplysninger. Forskriften kan for tilgang til helseopplysninger i behandlingsrettede helseregistre​4 gjøre unntak fra første ledd første punktum.\nTilgang til helseopplysninger i behandlingsrettet helseregister på tvers av virksomheter kan bare gis etter uttrykkelig samtykke fra den registrerte.\nKongen i Statsråd kan i forskrift gjøre unntak fra kravet om uttrykkelig samtykke i tredje ledd, jf. § 2 nr. 11.\nÉn forespørsel om og tilgang til helseopplysninger i annen virksomhet kan bare omfatte én pasient om gangen.\nDen registrerte har rett til innsyn i logg fra behandlingsrettet helseregister om hvem som har hatt tilgang til helseopplysninger om ham eller henne.\n0 Endret ved lov 19 juni 2009 nr. 68.\n1 Se § 2 nr. 8.\n2 Se § 2 nr. 9.\n3 Se § 2 nr. 1.\n4 Se § 2 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:13 a",
+      "chapter": "3",
+      "section": "13 a",
+      "title": "Forbud mot urettmessig tilegnelse av helseopplysninger",
+      "content": "Det er forbudt​1 å lese, søke etter eller på annen måte tilegne seg, bruke eller besitte helseopplysninger som behandles etter denne loven uten at det er begrunnet i helse- og omsorgstjenester til den enkelte, administrasjon av slike tjenester eller har særskilt hjemmel i lov eller forskrift.\n0 Tilføyd ved lov 9 mai 2008 nr. 34 (ikr. 9 mai 2008 iflg. res. 9 mai 2008 nr. 442), endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).\n1 Se § 34. Jf. lov 2 juli 1999 nr. 64 § 21a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13a",
+        "source_heading": "§ 13 a."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Utlevering av helseopplysninger",
+      "content": "Helseopplysninger​1 kan utleveres eller overføres for sammenstilling som er tillatt etter § 12. Sammenstilte helseopplysninger kan, etter at navn og fødselsnummer​2 er fjernet, utleveres eller overføres til en virksomhet som bestemt av departementet, når formålet er å avidentifisere​3 eller å anonymisere​4 opplysningene.\nHelseopplysninger kan dessuten utleveres eller overføres når utlevering eller overføring har hjemmel i eller i medhold av lov, og den som mottar opplysningene har adgang til å behandle dem etter personopplysningsloven.​5\n1 Se § 2 nr. 1.\n2 Se lov 16 jan 1970 nr. 1 § 4.\n3 Se § 2 nr. 2.\n4 Se § 2 nr. 3.\n5 Lov 14 apr 2000 nr. 31.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Taushetsplikt",
+      "content": "Enhver som behandler helseopplysninger​1 etter denne lov, har taushetsplikt etter forvaltningsloven​2 §§ 13 til 13e og helsepersonelloven.​3\nTaushetsplikten etter første ledd gjelder også pasientens fødested, fødselsdato, personnummer,​4 pseudonym, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted.\nOpplysninger til andre forvaltningsorganer etter forvaltningsloven​1 § 13 b nr. 5 og 6 kan bare gis når det er nødvendig for å bidra til løsning av oppgaver etter loven her, eller for å forebygge vesentlig fare for liv eller alvorlig skade for noens helse.\nTaushetsplikt er likevel ikke til hinder for utlevering av opplysninger om en pasient eller bruker skal betale egenandel til helsepersonell eller andre som gir helse- og omsorgstjenester eller yter andre tjenester til pasient eller bruker som folketrygden er stønadspliktig for. Taushetsplikt er heller ikke til hinder for utlevering av slike opplysninger til helseforetakene i forbindelse med oppgjør for syketransport.\nOpplysninger om en pasients eller brukers navn, transportbehov og om pasienten eller brukeren skal betale egenandel og eventuelt beløpet kan gis til transportør i forbindelse med transport som omfattes av spesialisthelsetjenesteloven​5 § 2-1 a første ledd nr. 6.\n0 Endret ved lover 18 des 2009 nr. 137 (ikr. 1 jan 2010 iflg. res. 18 des 2009 nr. 1583), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).\n1 Se § 2 nr. 1.\n2 Lov 10 feb 1967.\n3 Lov 2 juli 1999 nr. 64 §§ 21 flg.\n4 Jf. lov 16 jan 1970 nr. 1 § 4.\n5 Lov 2 juli 1999 nr. 61.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:15 a",
+      "chapter": "3",
+      "section": "15 a",
+      "title": "Opplysninger til kvalitetssikring, administrasjon, planlegging eller styring",
+      "content": "Helsepersonelloven​1 § 29 b gjelder tilsvarende for behandling av helseopplysninger etter loven her.\n0 Tilføyd ved lov 9 apr 2010 nr. 14, endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).\n1 Lov 2 juli 1999 nr. 64.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15a",
+        "source_heading": "§ 15 a."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Sikring av konfidensialitet, integritet, kvalitet og tilgjengelighet",
+      "content": "Den databehandlingsansvarlige​1 og databehandleren​2 skal gjennom planlagte og systematiske tiltak sørge for tilfredsstillende informasjonssikkerhet med hensyn til konfidensialitet, integritet, kvalitet og tilgjengelighet ved behandling av helseopplysninger.​3\nI registre som er nevnt i § 8 tredje ledd, skal direkte personidentifiserende kjennetegn lagres kryptert. Kravet om at direkte personidentifiserende kjennetegn skal lagres kryptert, gjelder ikke for Nasjonal database for elektroniske resepter.\nFor å oppnå tilfredsstillende informasjonssikkerhet skal den databehandlingsansvarlige​1 og databehandleren​2 dokumentere informasjonssystemet og sikkerhetstiltakene. Dokumentasjonen skal være tilgjengelig for medarbeiderne hos den databehandlingsansvarlige og hos databehandleren. Dokumentasjonen skal også være tilgjengelig for tilsynsmyndighetene.​4\nEn databehandlingsansvarlig​1 som lar andre få tilgang til helseopplysninger,​3 for eksempel en databehandler eller andre som utfører oppdrag i tilknytning til informasjonssystemet, skal påse at disse oppfyller kravene i første, andre og tredje ledd.\nKongen kan gi forskrift om sikkerhet ved behandling av helseopplysninger etter denne lov. Kongen kan herunder sette nærmere krav til elektronisk signatur,​5 kommunikasjon og langtidslagring, om godkjenning (autorisasjon) av programvare, sertifisering og om bruk av standarder, klassifikasjonssystemer og kodeverk, samt hvilke nasjonale eller internasjonale standardsystemer som skal følges.\n0 Endret ved lover 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578), 14 juni 2013 nr. 39 (ikr. 1 juli 2013 iflg. res. 14 juni 2013 nr. 641).\n1 Se § 2 nr. 8.\n2 Se § 2 nr. 9.\n3 Se § 2 nr. 1.\n4 Se kap. 6.\n5 Jf. lov 15 juni 2001 nr. 81.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Internkontroll",
+      "content": "Den databehandlingsansvarlige​1 skal etablere og holde vedlike planlagte og systematiske tiltak som er nødvendige for å oppfylle kravene i eller i medhold av denne loven, herunder sikre helseopplysningenes​2 kvalitet.\nDen databehandlingsansvarlige​1 skal dokumentere tiltakene. Dokumentasjonen skal være tilgjengelig for medarbeiderne hos den databehandlingsansvarlige​1 og hos databehandleren.​3 Dokumentasjonen skal også være tilgjengelig for tilsynsmyndighetene.​4\nKongen kan i forskrift gi nærmere regler om internkontroll.\n1 Se § 2 nr. 8.\n2 Se § 2 nr. 1.\n3 Se § 2 nr. 9.\n4 Se kap. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Databehandlers rådighet over helseopplysninger",
+      "content": "En databehandler​1 kan ikke behandle helseopplysninger​2 på annen måte enn det som er skriftlig avtalt med den databehandlingsansvarlige.​3 Opplysningene kan heller ikke uten slik avtale overlates til noen andre for lagring eller bearbeidelse. I avtalen med den databehandlingsansvarlige skal det også gå frem at databehandleren plikter å gjennomføre slike sikringstiltak som følger av § 16.\n1 Se § 2 nr. 9.\n2 Se § 2 nr. 1.\n3 Se § 2 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Frist for å svare på henvendelser m.v.",
+      "content": "Den databehandlingsansvarlige​1 skal svare på henvendelser om innsyn eller andre rettigheter etter §§ 21, 22, 26 og 28 uten ugrunnet opphold og senest innen 30 dager fra den dagen henvendelsen kom inn.\nDersom særlige forhold gjør det umulig å svare på henvendelsen innen 30 dager, kan gjennomføringen utsettes inntil det er mulig å gi svar. Den databehandlingsansvarlige​1 skal i så fall gi et foreløpig svar med opplysninger om grunnen til forsinkelsen og sannsynlig tidspunkt for når svar kan gis.\n1 Se § 2 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Informasjon til allmennheten om behandling av helseopplysninger etter loven §§ 7 og 8",
+      "content": "Når helseopplysninger​1 behandles etter forskrift i medhold av §§ 7 og 8, skal den databehandlingsansvarlige​2 av eget tiltak informere allmennheten om hva slags behandling av helseopplysninger som foretas.\n1 Se § 2 nr. 1.\n2 Se § 2 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Rett til generell informasjon om helseregistre og behandling av helseopplysninger",
+      "content": "Enhver som ber om det, skal få vite hva slags behandling av helseopplysninger​1 en databehandlingsansvarlig​2 foretar, og kan kreve å få følgende informasjon om en bestemt type behandling av helseopplysninger:\n1. navn og adresse på den databehandlingsansvarlige og dennes eventuelle representant,\n2. hvem som har det daglige ansvaret for å oppfylle den databehandlingsansvarliges plikter,\n3. formålet med behandlingen av helseopplysningene,\n4. beskrivelser av hvilke typer helseopplysninger som behandles,\n5. hvor opplysningene er hentet fra, og\n6. om helseopplysningene vil bli utlevert, og eventuelt hvem som er mottaker.\nInformasjonen kan kreves hos den databehandlingsansvarlige​2 eller hos dennes databehandler​3 som nevnt i § 18.\n1 Se § 2 nr. 1.\n2 Se § 2 nr. 8.\n3 Se § 2 nr. 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Rett til innsyn",
+      "content": "Den som ber om det, har rett til innsyn i behandlingsrettet helseregister i den grad dette følger av pasient- og brukerrettighetsloven​1 § 5-1 og helsepersonelloven​2 § 41.\nNår helseopplysninger​3 behandles etter §§ 5, 6a, 6c, 6d, 7 og 8, har den registrerte​4 på forespørsel i tillegg til informasjon som nevnt i § 21 første ledd, rett til å få opplyst\n1. hvilke helseopplysninger​3 om den registrerte som behandles, og\n2. sikkerhetstiltakene ved behandlingen av helseopplysningene så langt innsyn ikke svekker sikkerheten.\nDen registrerte​4 kan også kreve at den databehandlingsansvarlige​5 utdyper informasjonen som nevnt i § 21 første ledd i den grad dette er nødvendig for at den registrerte skal kunne vareta egne interesser.\nInformasjon etter første og annet ledd kan kreves skriftlig hos den databehandlingsansvarlige​5 eller hos dennes databehandler​6 som nevnt i § 18. Den som blir bedt om å gi innsyn, kan kreve at den registrerte​4 leverer en skriftlig og undertegnet begjæring.\nKongen kan i forskrift gi nærmere bestemmelser om retten til innsyn i behandling av helseopplysninger etter annet og tredje ledd. Dersom særlige grunner gjør det nødvendig, kan Kongen gi forskrift om at den registrerte​4 må betale vederlag til den databehandlingsansvarlige.​5 Vederlaget kan ikke overstige de faktiske kostnadene ved å etterkomme kravet.\n0 Endret ved lover 18 des 2009 nr. 137 (ikr. 1 jan 2010 iflg. res. 18 des 2009 nr. 1583), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 46.\n1 Lov 2 juli 1999 nr. 63.\n2 Lov 2 juli 1999 nr. 64.\n3 Se § 2 nr. 1.\n4 Se § 2 nr. 10.\n5 Se § 2 nr. 8.\n6 Se § 2 nr. 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "title": "Informasjonsplikt når det samles inn opplysninger fra den registrerte",
+      "content": "Når det samles inn helseopplysninger​1 fra den registrerte​2 selv, skal den databehandlingsansvarlige​3 av eget tiltak først informere den registrerte om\n1. navn og adresse på den databehandlingsansvarlige og dennes eventuelle representant,\n2. formålet med behandlingen av helseopplysningene,\n3. opplysningene vil bli utlevert, og eventuelt hvem som er mottaker,\n4. det er frivillig å gi fra seg helseopplysningene, og\n5. annet som gjør den registrerte i stand til å bruke sine rettigheter etter loven her på best mulig måte, som for eksempel informasjon om retten til å kreve innsyn, jf § 22, og retten til å kreve retting og sletting, jf §§ 26 og 28.\nVarsling er ikke påkrevd dersom det er på det rene at den registrerte​2 allerede kjenner til informasjonen i første ledd.\n1 Se § 2 nr. 1.\n2 Se § 2 nr. 10.\n3 Se § 2 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "title": "Informasjonsplikt når det samles inn opplysninger fra andre enn den registrerte",
+      "content": "En databehandlingsansvarlig​1 som samler inn helseopplysninger​2 fra andre enn den registrerte​3 selv, skal av eget tiltak informere den registrerte​3 om hvilke opplysninger som samles inn og gi informasjon som nevnt i § 23 første ledd så snart opplysningene er innhentet. Dersom formålet med innsamlingen av opplysningene er å gi dem videre til andre, kan den databehandlingsansvarlige vente med å varsle den registrerte til utleveringen skjer.\nDen registrerte​3 har ikke krav på varsel etter første ledd dersom\n1. innsamlingen eller formidlingen av opplysningene er uttrykkelig fastsatt i lov,\n2. varsling er umulig eller uforholdsmessig vanskelig, eller\n3. det er på det rene at den registrerte allerede kjenner til informasjonen som varslet skal inneholde.\nNår varsling unnlates med hjemmel i annet ledd nr. 2, skal informasjon likevel gis senest når det gjøres en henvendelse til den registrerte​3 på grunnlag av opplysningene.\n1 Se § 2 nr. 8.\n2 Se § 2 nr. 1.\n3 Se § 2 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "title": "Unntak fra retten til informasjon og innsyn",
+      "content": "Det kan nektes innsyn i behandlingsrettet helseregister etter reglene i pasient- og brukerrettighetsloven​1 § 5-1.\nRetten til innsyn etter §§ 21 og 22 annet ledd og plikten til å gi informasjon etter §§ 20, 23 og 24, omfatter ikke opplysninger som\n1. om de ble kjent, ville kunne skade rikets sikkerhet, landets forsvar eller forholdet til fremmede makter eller internasjonale organisasjoner,\n2. det er påkrevd å hemmeligholde av hensyn til forebygging, etterforskning, avsløring og rettslig forfølging av straffbare handlinger,\n3. det må anses utilrådelig at den registrerte​2 får kjennskap til, av hensyn til vedkommendes helse eller forholdet til personer som står vedkommende nær,\n4. det i medhold av lov gjelder taushetsplikt for,\n5. utelukkende finnes i tekst som er utarbeidet for den interne saksforberedelse og som heller ikke er utlevert til andre,\n6. det vil være i strid med åpenbare og grunnleggende private eller offentlige interesser å informere om, herunder hensynet til den registrerte​2 selv.\nOpplysninger som den registrerte nektes innsyn i etter første ledd og etter annet ledd nr. 3, har en representant for pasienten rett til innsyn i, med mindre representanten anses uskikket for dette. En lege eller advokat​3 kan ikke nektes innsyn, med mindre særlige grunner taler for dette.\nDen som nekter å gi innsyn i medhold av første eller annet ledd, må begrunne dette skriftlig med presis henvisning til unntakshjemmelen.\n0 Endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).\n1 Lov 2 juli 1999 nr. 63.\n2 Se § 2 nr. 10.\n3 Jf. dl. § 220.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Retting av mangelfulle helseopplysninger",
+      "content": "Dersom det er behandlet helseopplysninger​1 etter §§ 5, 6a, 6c, 6d, 7 og 8 som er uriktige, ufullstendige eller som det ikke er adgang til å behandle, skal den databehandlingsansvarlige​2 av eget tiltak eller på begjæring av den registrerte​3 rette de mangelfulle opplysningene. Den databehandlingsansvarlige​2 skal om mulig sørge for at feilen ikke får betydning for den registrerte. Dersom helseopplysningene er utlevert, skal den den databehandlingsansvarlige​2 varsle mottakere av utleverte opplysninger.\nRetting av uriktige eller ufullstendige helseopplysninger som kan ha betydning som dokumentasjon, skal skje ved at opplysningene tydelig markeres og suppleres med korrekte opplysninger.\nDersom tungtveiende personvernhensyn tilsier det, kan Datatilsynet​4 uten hinder av annet ledd bestemme at retting skal skje ved at de mangelfulle helseopplysningene slettes eller sperres. Hvis opplysningene ikke kan kasseres i medhold av arkivloven,​5 skal Riksarkivaren høres før det treffes vedtak om sletting. Vedtaket går foran reglene i arkivloven 4. desember 1992 nr. 126 §§ 9 og 18.\nSletting bør suppleres med registrering av korrekte og fullstendige opplysninger. Dersom dette ikke er mulig, og dokumentet som inneholdt de slettede opplysningene av den grunn gir et åpenbart misvisende bilde, skal hele dokumentet slettes.\nFor retting og sletting av helseopplysninger i behandlingesrettet helseregister gjelder helsepersonelloven​6 §§ 42 til 44. Første ledd annet og tredje punktum gjelder tilsvarende.\n0 Endret ved lov 22 juni 2012 nr. 46.\n1 Se § 2 nr. 1\n2 Se § 2 nr. 8.\n3 Se § 2 nr. 10.\n4 Se kap. 6.\n5 Lov 4 des 1992 nr. 126.\n6 Lov 2 juli 1999 nr. 64.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Forbud mot å lagre unødvendige helseopplysninger",
+      "content": "Den databehandlingsansvarlige​1 skal ikke lagre helseopplysninger​2 lenger enn det som er nødvendig for å gjennomføre formålet med behandlingen av helseopplysningene. Hvis ikke helseopplysningene deretter skal oppbevares i henhold til arkivloven​3 eller annen lovgivning, skal de slettes.\nI forskrift etter §§ 6 til 8 a kan det bestemmes at heleopplysninger​4 kan lagres for historiske, statistiske eller vitenskapelige formål, dersom samfunnets interesse i at opplysningene lagres klart overstiger de ulempene den kan medføre for den enkelte. Den databehandlingsansvarlige​1 skal i så fall sørge for at opplysningene ikke oppbevares på måter som gjør det mulig å identifisere den registrerte​5 lenger enn nødvendig.\n0 Endret ved lov 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578).\n1 Se § 2 nr. 8.\n2 Se § 2 nr. 1.\n3 Lov 4 des 1992 nr. 126.\n4 Se § 2 nr. 1 – skal vel være «helseopplysninger».\n1 Skal vel være «helseopplysninger».\n5 Se § 2 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Sletting eller sperring av helseopplysninger som føles belastende for den registrerte",
+      "content": "Den registrerte​1 kan kreve at helseopplysninger​2 som behandles etter §§ 5, 7 og 8, skal slettes eller sperres, dersom behandling av opplysningene føles sterkt belastende for den registrerte og det ikke finnes sterke allmenne hensyn som tilsier at opplysningene behandles. Krav om sletting eller sperring av slike opplysninger rettes til den databehandlingsansvarlige​3 for opplysningene.\nDatatilsynet​4 kan, etter at Riksarkivaren er hørt, treffe vedtak om at retten til sletting etter første ledd går foran reglene i arkivloven 4. desember 1992 nr. 126 §§ 9 og 18. Hvis dokumentet som inneholdt de slettede opplysningene, gir et åpenbart misvisende bilde etter slettingen, skal hele dokumentet slettes.\nKrav om sletting av helseopplysninger i behandlingsrettede helseregistre avgjøres etter helsepersonelloven​5 § 43.\n1 Se § 2 nr. 1.\n2 Se § 2 nr. 8.\n3 Se § 2 nr. 10.\n4 Se kap. 6.\n5 Lov 2 juli 1999 nr. 64.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "title": "Meldeplikt til Datatilsynet",
+      "content": "Den databehandlingsansvarlige​1 skal gi melding til Datatilsynet​2 før behandling av helseopplysninger​3 med elektroniske hjelpemidler og før opprettelse av manuelt helseregister.\nMeldingen skal gis senest 30 dager før behandlingen av opplysningene tar til. Datatilsynet skal gi den databehandlingsansvarlige​1 kvittering for at melding er mottatt.\nNy melding må gis før behandling av helseopplysninger​3 som går ut over den rammen for behandling av helseopplysninger som er angitt i medhold av § 30. Selv om det ikke har skjedd endringer, skal det gis ny melding tre år etter at forrige melding ble gitt.\nKongen kan gi forskrift om at visse typer behandling av helseopplysninger​3 eller databehandlingsansvarlige​1 er unntatt fra meldeplikt eller er underlagt forenklet meldeplikt.\n1 Se § 2 nr. 8.\n2 Jf. lov 14 apr 2000 nr. 31 § 42.\n3 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "title": "Meldepliktens innhold",
+      "content": "Meldingen til Datatilsynet skal opplyse om\n1. navn og adresse på den databehandlingsansvarlige​1 og på dennes eventuelle representant og databehandler,\n2. når behandlingen av helseopplysningene​2 starter,\n3. hvem som har det daglige ansvaret for å oppfylle den databehandlingsansvarliges​1 plikter,\n4. formålet med behandlingen av helseopplysningene,​2\n5. oversikt over hvilke typer helseopplysninger som skal behandles,\n6. hvor helseopplysningene hentes fra,\n7. det rettslige grunnlaget for innsamlingen av helseopplysningene,​2\n8. hvem helseopplysningene vil bli utlevert til, herunder eventuelle mottakere i andre stater, og\n9. hvilke sikkerhetstiltak som er knyttet til behandlingen av helseopplysningene.​2\nKongen kan gi forskrift om hvilke opplysninger meldingene skal inneholde og om gjennomføringen av meldeplikten.\n1 Se § 2 nr. 8.\n2 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "title": "Tilsynsmyndighetene",
+      "content": "Datatilsynet​1 fører tilsyn med at bestemmelsene i loven blir fulgt og at feil eller mangler blir rettet, jf. personopplysningsloven​2 § 42, med mindre tilsynsoppgavene påligger Statens helsetilsyn eller Fylkesmannen etter helsetilsynsloven.​3\nTilsynsmyndighetene kan kreve​4 de opplysninger som trengs for at de kan gjennomføre sine oppgaver.\nTilsynsmyndighetene kan som ledd i sin kontroll med at lovens regler etterleves, kreve​5 adgang til steder hvor det finnes helseregistre, helseopplysninger som behandles elektronisk og hjelpemidler for slik behandling av opplysninger. Tilsynsmyndighetene kan gjennomføre de prøver eller kontroller som de finner nødvendig, og kreve bistand fra personalet på stedet i den grad dette må til for å få utført prøvene eller kontrollene.\nRetten til å kreve opplysninger eller tilgang til lokaler og hjelpemidler i henhold til annet og tredje ledd gjelder uten hinder av taushetsplikt.\nTilsynsmyndighetene og andre som utfører tjeneste for tilsynsmyndighetene, har taushetsplikt etter § 15. Taushetsplikten omfatter også opplysninger om sikkerhetstiltak.\nKongen kan gi forskrift om unntak fra første til fjerde ledd av hensyn til rikets sikkerhet. Kongen kan også gi forskrift om dekning av utgiftene ved kontroll. Skyldige bidrag til dekning av utgiftene er tvangsgrunnlag for utlegg.​6\n0 Endret ved lover 29 aug 2003 nr. 87 (ikr. 1 sep 2003 iflg. res. 29 aug 2003 nr. 1092), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).\n1 Jf. lov 14 apr 2000 nr. 31 § 42.\n2 Lov 14 apr 2000 nr. 31.\n3 Lov 30 mars 1984 nr. 15.\n4 Se strl. 1902 § 339.\n5 Se strl. 1902 § 326; strl. 2005 § 156 (ikke ikr.)\n6 Jf. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "title": "Adgang til å gi pålegg",
+      "content": "Datatilsynet​1 kan gi pålegg om at behandling av helseopplysninger i strid med bestemmelser i eller i medhold av denne loven skal opphøre, eller stille vilkår som må oppfylles for at behandlingen av helseopplysningene skal være i samsvar med loven. Dersom det i tillegg må antas at behandlingen av helseopplysningene kan ha skadelige følger for pasienter, kan Statens helsetilsyn​2 gi pålegg som nevnt. Når Datatilsynet har gitt et pålegg, skal Statens helsetilsyn informeres om dette. Når Statens helsetilsyn har gitt et pålegg, skal Datatilsynet informeres om dette.\nPålegg etter første ledd skal inneholde en frist for å rette seg etter pålegget.\nAvgjørelser som Datatilsynet fatter i medhold av §§ 26, 28, 31, 32 og 33, kan påklages til Personvernnemnda.​3\n1 Jf. lov 14 apr 2000 nr. 31 § 42.\n2 Se lov 30 mars 1984 nr. 15.\n3 Se lov 14 apr 2000 nr. 31 § 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "title": "Tvangsmulkt​1",
+      "content": "Ved pålegg etter § 32 kan Datatilsynet​2 fastsette en tvangsmulkt som løper for hver dag som går etter utløpet av den fristen som er satt for oppfylling av pålegget, inntil pålegget er oppfylt.\nTvangsmulkten løper ikke før klagefristen er ute. Hvis vedtaket påklages, løper ikke tvangsmulkt før klageinstansen har bestemt det.\nDatatilsynet kan frafalle påløpt tvangsmulkt.\n1 Jf. tvangsl. § 7-2, d.\n2 Jf. lov 14 apr 2000 nr. 31 § 42.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "title": "Straff",
+      "content": "Den som forsettlig eller grovt uaktsomt overtrer § 13 a, straffes med bøter​1 eller fengsel​2 i inntil tre måneder.\nMed bøter​1 eller fengsel​2 inntil ett år eller begge deler straffes den som forsettlig eller grovt uaktsomt\n1. behandler helseopplysninger​3 i strid med §§ 16 eller 18,\n2. unnlater å gi opplysninger til den registrerte etter §§ 23 eller 24,\n3. unnlater å sende melding til Datatilsynet etter § 29,\n4. unnlater å gi opplysninger til tilsynsmyndighetene etter § 31, eller\n5. unnlater å etterkomme pålegg fra tilsynsmyndighetene etter § 32.\nVed særdeles skjerpende omstendigheter kan fengsel inntil tre år​4 idømmes. Ved avgjørelsen av om det foreligger særdeles skjerpende omstendigheter skal det blant annet legges vekt på faren for stor skade eller ulempe for den registrerte,​5 den tilsiktede vinningen ved overtredelsen, overtredelsens varighet og omfang, utvist skyld, og om den databehandlingsansvarlige​6 tidligere er straffet for å ha overtrådt tilsvarende bestemmelser.\nMedvirkning straffes på samme måte.\nI forskrift som gis i medhold av loven, kan det fastsettes at den som forsettlig eller grovt uaktsomt overtrer forskriften skal straffes med bøter​1 eller fengsel​2 inntil ett år eller begge deler.\n0 Endret ved lov 9 mai 2008 nr. 34 (ikr. 9 mai 2008 iflg. res. 9 mai 2008 nr. 442). Endres ved lov 20 mai 2005 nr. 28 (ikr. fra den tid som fastsettes ved lov) som endret ved lov 19 juni 2009 nr. 74.\n1 Jf. strl. 1902 § 27 og kap. 3 a; strl. 2005 kap. 4 og kap. 9 (ikke ikr.).\n2 Jf. strl. 1902 § 26 a; strl. 2005 §§ 32 og 54 (ikke ikr.).\n3 Se § 2 nr. 1.\n4 Jf. strl. 1902 § 67; strl. 2005 § 86 (ikke ikr.).\n5 Se § 2 nr. 10.\n6 Se § 2 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "title": "Erstatning",
+      "content": "Den databehandlingsansvarlige​1 skal erstatte skade som er oppstått som følge av at helseopplysninger​2 er behandlet i strid med bestemmelser i eller i medhold av loven, med mindre det godtgjøres at skaden ikke skyldes feil eller forsømmelse på den databehandlingsansvarliges side.\nErstatningen skal svare til det økonomiske tapet som den skadelidte er påført som følge av den ulovlige behandlingen av helseopplysningene. Den databehandlingsansvarlige​1 kan også pålegges å betale slik erstatning for skade av ikke-økonomisk art (oppreisning) som synes rimelig.\n1 Se § 2 nr. 8.\n2 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "7:36",
+      "chapter": "7",
+      "section": "36",
+      "title": "Forholdet til lov om behandling av personopplysninger",
+      "content": "I den utstrekning ikke annet følger av denne lov, gjelder personopplysningsloven​1 med forskrifter som utfyllende bestemmelser.\n1 Lov 14 apr 2000 nr. 31.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "7:37",
+      "chapter": "7",
+      "section": "37",
+      "title": "Ikraftsetting",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.​1 Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til ulik tid.\n1 Loven trådte ikr. 1 jan 2002 iflg. res. 18 mai 2001 nr. 502.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "7:38",
+      "chapter": "7",
+      "section": "38",
+      "title": "Endringer i andre lover",
+      "content": "– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Formålet med denne lov er å bidra til å gi helse- og omsorgstjenesten og helse- og omsorgsforvaltningen informasjon og kunnskap uten å krenke personvernet, slik at tjenestene kan gis på forsvarlig og effektiv måte. Gjennom forskning og statistikk skal loven bidra til informasjon og kunnskap om befolkningens helseforhold, årsaker til nedsatt helse og utvikling av sykdom for administrasjon, kvalitetssikring, planlegging og styring. Loven skal sikre at helseopplysninger​1 blir behandlet i samsvar med grunnleggende personvernhensyn, herunder behovet for personlig integritet, privatlivets fred og tilstrekkelig kvalitet på helseopplysninger.\n0 Endret ved lover 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 46.\n1 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjoner",
+      "content": "I denne loven forstås med:\n1. helseopplysninger: taushetsbelagte opplysninger i henhold til helsepersonelloven​1 § 21 og andre opplysninger og vurderinger om helseforhold eller av betydning for helseforhold, som kan knyttes til en enkeltperson,\n2. avidentifiserte helseopplysninger: helseopplysninger der navn, fødselsnummer​2 og andre personentydige kjennetegn er fjernet, slik at opplysningene ikke lenger kan knyttes til en enkeltperson, og hvor identitet bare kan tilbakeføres ved sammenstilling med de samme opplysninger som tidligere ble fjernet,\n3. anonyme opplysninger: opplysninger der navn, fødselsnummer​2 og andre personentydige kjennetegn er fjernet, slik at opplysningene ikke lenger kan knyttes til en enkeltperson,\n4. pseudonyme helseopplysninger: helseopplysninger der identitet er kryptert eller skjult på annet vis, men likevel individualisert slik at det lar seg gjøre å følge hver person gjennom helsesystemet uten at identiteten røpes,\n5. behandling av helseopplysninger: enhver formålsbestemt bruk av helseopplysninger, som f.eks. innsamling, registrering, sammenstilling, lagring og utlevering eller en kombinasjon av slike bruksmåter,\n6. helseregister: registre, fortegnelser, m.v. der helseopplysninger er lagret systematisk slik at opplysninger om den enkelte kan finnes igjen,\n7. behandlingsrettet helseregister: journal- og informasjonssystem eller annet helseregister som har til formål å gi grunnlag for handlinger som har forebyggende, diagnostisk, behandlende, helsebevarende eller rehabiliterende mål i forhold til den enkelte pasient og som utføres av helsepersonell, samt administrasjon av slike handlinger,\n8. databehandlingsansvarlig: den som bestemmer formålet med behandlingen av helseopplysningene og hvilke hjelpemidler som skal brukes, hvis ikke databehandlingsansvaret er særskilt angitt i loven eller i forskrift i medhold av loven,\n9. databehandler: den som behandler helseopplysninger på vegne av den databehandlingsansvarlige,\n10. registrert: den som helseopplysninger kan knyttes til,\n11. samtykke: en frivillig, uttrykkelig og informert erklæring fra den registrerte om at han eller hun godtar behandling av helseopplysninger om seg selv.\n1 Lov 2 juli 1999 nr. 64.\n2 Se lov 16 jan 1970 nr. 1 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Saklig virkeområde",
+      "content": "Loven gjelder for:\n1. behandling av helseopplysninger​1 i helse- og omsorgsforvaltningen og helse- og omsorgstjenesten, som skjer helt eller delvis med elektroniske hjelpemidler for å fremme formål som beskrevet i § 1,\n2. annen behandling av helseopplysninger​1 i helse- og omsorgsforvaltningen og helse- og omsorgstjenesten til slike formål, når helseopplysningene inngår eller skal inngå i et helseregister, og\n3. Helsearkivregisteret i Norsk helsearkiv.\nLoven gjelder både offentlig og privat virksomhet.\nKongen i Statsråd kan i forskrift bestemme at loven helt eller delvis skal gjelde for behandling av helseopplysninger​1 utenfor helse- og omsorgsforvaltningen eller helse- og omsorgstjenesten for å ivareta formål som beskrevet i § 1.\nLoven gjelder ikke for behandling av helseopplysninger som reguleres av helseforskningsloven.​2\n0 Endret ved lover 15 juni 2001 nr. 93 (ikr. 1 jan 2002 iflg. res. 14 des 2001 nr. 1417), 20 juni 2008 nr. 44 (ikr. 1 juli 2009 iflg. res. 26 juni 2009 nr. 865), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 46, 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578).\n1 Se § 2 nr. 1.\n2 Lov 20 juni 2008 nr. 44.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Geografisk virkeområde",
+      "content": "Loven gjelder for databehandlingsansvarlige​1 som er etablert i Norge. Kongen kan i forskrift bestemme at loven helt eller delvis skal gjelde for Svalbard​2 og Jan Mayen, og kan fastsette særlige regler om behandling av helseopplysninger​3 for disse områdene.\nLoven gjelder også for databehandlingsansvarlige​1 som er etablert i stater utenfor EØS-området, dersom den databehandlingsansvarlige benytter hjelpemidler i Norge. Dette gjelder likevel ikke dersom hjelpemidlene bare brukes til å overføre helseopplysninger​3 via Norge.\nDatabehandlingsansvarlige​1 som nevnt i annet ledd, skal ha en representant som er etablert i Norge. Bestemmelsene som gjelder for den databehandlingsansvarlige, gjelder også for representanten.\n1 Se § 2 nr. 8.\n2 Se lov 17 juli 1925 nr. 11 § 1 (2).\n3 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Behandling av helseopplysninger, konsesjonsplikt m.m.",
+      "content": "Helseopplysninger​1 kan bare behandles elektronisk når dette er tillatt etter personopplysningsloven​2 §§ 9 og 33, helseforskningsloven​3 eller følger av lov og behandlingen ikke er forbudt ved annet særskilt rettsgrunnlag. Det samme gjelder annen behandling av helseopplysninger, dersom opplysningene inngår eller skal inngå i et helseregister.\nKonsesjonsplikt etter personopplysningsloven​2 § 33 gjelder ikke for behandling av helseopplysninger​1 som skjer med hjemmel i forskrift etter §§ 6 til 8 a.\nFør helseopplysninger​1 innhentes for behandling etter første ledd, skal samtykke fra den registrerte foreligge, hvis ikke annet er bestemt i eller i medhold av lov.\nPasient- og brukerrettighetsloven​4 §§ 4-3 til 4-7 gjelder tilsvarende for samtykke etter denne lov. Barn mellom 12 og 16 år kan selv treffe beslutning om samtykke, dersom pasienten av grunner som bør respekteres, ikke ønsker at opplysningene gjøres kjent for foreldrene eller andre med foreldreansvar.​5\n0 Endret ved lover 20 juni 2008 nr. 44 (ikr. 1 juli 2009 iflg. res. 26 juni 2009 nr. 865), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 46, 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578).\n1 Se § 2 nr. 1.\n2 Lov 14 apr 2000 nr. 31.\n3 Lov 20 juni 2008 nr. 44.\n4 Lov 2 juli 1999 nr. 63.\n5 Se lov 8 apr 1981 nr. 7 kap. 5, jf. lov 2 juli 1999 nr. 63 § 3-4 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Behandlingsrettet helseregister",
+      "content": "Behandlingsrettede helseregistre​1 kan føres elektronisk. Det skal fremgå av registeret hvem som har registrert opplysningene. Dette kan gjøres ved hjelp av elektronisk signatur​2 eller tilsvarende sikker dokumentasjon.\nRegionale helseforetak og helseforetak,​3 kommune og annen offentlig eller privat virksomhet som tar i bruk behandlingsrettede helseregistre, er databehandlingsansvarlig​4 for opplysningene. Foretaket og kommunen kan delegere databehandlingsansvaret.\nKongen kan i forskrift gi nærmere bestemmelser om behandling av helseopplysninger​5 i behandlingsrettede helseregistre, herunder om godkjenning av programvare og andre forhold som nevnt i § 16 femte ledd.\nKongen kan i forskrift fastsette at opplysninger i behandlingsrettet register skal behandles elektronisk.\n0 Endret ved lover 15 juni 2001 nr. 93 (ikr. 1 jan 2002 iflg. res. 14 des 2001 nr. 1417), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 14 juni 2013 nr. 39 (ikr. 1 juli 2013 iflg. res. 14 juni 2013 nr. 641).\n1 Se § 2 nr. 7.\n2 Jf. lov 15 juni 2001 nr. 81.\n3 Se lov 15 juni 2001 nr. 93.\n4 Se § 2 nr. 8.\n5 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:6 a",
+      "chapter": "2",
+      "section": "6 a",
+      "title": "Virksomhetsovergripende, behandlingsrettede helseregistre",
+      "content": "Det kan bare etableres virksomhetsovergripende, behandlingsrettede helseregistre​1 som fremgår av loven her eller annen lov.\nVirksomhetsovergripende behandlingsrettede helseregistre kan bare inneholde nærmere bestemte helseopplysninger​2 i et begrenset omfang som er nødvendige og relevante for samarbeid mellom virksomheter om forsvarlige helse- og omsorgstjenester til pasienten eller brukeren. Slike registre kan bare etableres i tillegg til de behandlingsrettede helseregistrene virksomheten etablerer internt i virksomheten, jf. spesialisthelsetjenesteloven​3 § 3-2 og helse- og omsorgstjenesteloven​4 § 5-10, jf. helsepersonelloven​5 §§ 39 og 40. Virksomhetsovergripende, behandlingsrettede helseregistre skal føres elektronisk.\nKongen i Statsråd kan i forskrift gi nærmere bestemmelser om etablering, drift og behandling av helseopplysninger i virksomhetsovergripende behandlingsrettede helseregistre. Virksomhetsovergripende behandlingsrettede helseregistre kan bare etableres uten samtykke fra pasienten eller brukeren dersom dette er nødvendig for å ivareta formålet med registeret. Det kan ikke etableres sentrale behandlingsrettede helseregistre etter denne bestemmelsen.\nForskrift etter tredje ledd skal nærmere angi formålet med behandlingen av helseopplysningene og hvilke opplysninger som skal behandles. Forskriften skal videre angi hvem som er databehandlingsansvarlig​6 for opplysningene, herunder om plassering, tilgang, tilgangskontroll, samt gi pasienten eller brukeren rett til å motsette seg behandling av opplysninger i registeret eller stille krav om samtykke.​7\n0 Tilføyd ved lov 19 juni 2009 nr. 68, endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).\n1 Se § 2 nr. 7.\n2 Se § 2 nr. 1.\n3 Lov 2 juli 1999 nr. 64.\n4 Lov 24 juni 2011 nr. 30.\n5 Lov 2 juli 1999 nr. 64.\n6 Se § 2 nr. 8.\n7 Se § 2 nr. 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6a",
+        "source_heading": "§ 6 a."
+      }
+    },
+    {
+      "provision_ref": "2:6 b",
+      "chapter": "2",
+      "section": "6 b",
+      "title": "Virksomhetsovergripende, behandlingsrettede helseregistre – helsepersonell med formalisert arbeidsfellesskap",
+      "content": "Kongen i statsråd kan i forskrift gi bestemmelser om etablering av virksomhetsovergripende behandlingsrettede helseregistre​1 for bruk av helsepersonell med formalisert arbeidsfellesskap.\nForskriften etter første ledd skal sikre plassering av databehandlingsansvaret, samt angi regler om tilgang og tilgangskontroll. Den databehandlingsansvarlige​2 skal sørge for at journal- og informasjonssystemene i det formaliserte arbeidsfellesskapet er forsvarlige.\nDer slike registre opprettes, skal det virksomhetsovergripende, behandlingsrettede registeret føres elektronisk og erstatte det virksomhetsinterne behandlingsrettede registeret. Plikten til å føre journal, jf. helsepersonelloven​3 §§ 39 og 40, gjelder tilsvarende.\n0 Tilføyd ved lov 19 juni 2009 nr. 68.\n1 Se § 2 nr. 7.\n2 Se § 2 nr. 8.\n3 Lov 2 juli 1999 nr. 64.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6b",
+        "source_heading": "§ 6 b."
+      }
+    },
+    {
+      "provision_ref": "2:6 c",
+      "chapter": "2",
+      "section": "6 c",
+      "title": "Registre for saksbehandling og administrering",
+      "content": "Kongen i Statsråd kan i forskrift gi nærmere bestemmelser om etablering av registre og behandling av helseopplysninger​1 i registrene til følgende formål:\n1. saksbehandling for å avgjøre om det kan treffes vedtak om frikort og refusjon av betalte egenandeler, jf. pasient- og brukerrettighetsloven​2 § 2-6, spesialisthelsetjenesteloven​3 § 5-5 og folketrygdloven​4 kapittel 5\n2. administrering og samordning av transport til undersøkelse eller behandling i helse- og omsorgstjenesten, jf. spesialisthelsetjenesteloven​3 § 2-1 a første ledd nr. 6.\nForskriften etter første ledd skal angi hvilke opplysninger som kan behandles i registeret og gi nærmere regler om databehandlingsansvaret for opplysningene, herunder om plassering av ansvar. Forskriften kan inneholde bestemmelser om tilgang til opplysningene, tilgangskontroll mv.\nHelseopplysningene​5 kan behandles uten hensyn til samtykke​6 fra den registrerte.​7 Dette gjelder ikke opplysninger om diagnose eller sykdom. Den registrerte kan reservere seg mot at opplysninger om betalte egenandeler automatisk registreres i registeret som etableres i medhold av første ledd nr. 1 og mot utlevering av opplysninger om den registrerte skal betale egenandel.\n0 Tilføyd ved lov 18 des 2009 nr. 137 (ikr. 1 jan 2010 iflg. res. 18 des 2009 nr. 1583), endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).\n1 Se § 2 nr. 5.\n2 Lov 2 juli 1999 nr. 63.\n3 Lov 2 juli 1999 nr. 61.\n4 Lov 28 feb 1997 nr. 19.\n5 Se § 2 nr. 1.\n6 Se § 2 nr. 11.\n7 Se § 2 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6c",
+        "source_heading": "§ 6 c."
+      }
+    },
+    {
+      "provision_ref": "2:6 d",
+      "chapter": "2",
+      "section": "6 d",
+      "title": "Nasjonal kjernejournal",
+      "content": "Kongen i Statsråd kan i forskrift gi bestemmelser om etablering av nasjonal kjernejournal.\nNasjonal kjernejournal er et sentralt og virksomhetsovergripende behandlingsrettet helseregister.​1\nNasjonal kjernejournal skal inneholde et begrenset sett relevante helseopplysninger​2 som er nødvendig for å yte forsvarlig helsehjelp.\nOpplysninger kan registreres og på annen måte behandles i nasjonal kjernejournal uten samtykke​3 fra den registrerte.​4 Den registrerte har rett til å reservere seg mot behandling av helseopplysninger i registeret. Reglene om samtykkekompetanse i pasient- og brukerrettighetsloven​5 §§ 4-3 til 4-7 gjelder tilsvarende for retten til å reservere seg.\nHelsepersonell med tjenstlig behov ved ytelse av helsehjelp, kan etter samtykke fra den registrerte gis tilgang til nødvendige og relevante helseopplysninger fra nasjonal kjernejournal. Når det er nødvendig for å yte forsvarlig helsehjelp, kan Kongen i Statsråd i forskrift gjøre unntak fra kravet om samtykke. Ved unntak fra samtykke gjelder helsepersonelloven​6 § 45 første ledd første punktum tilsvarende.\nKongen i Statsråd kan i forskrift gi nærmere bestemmelser om etablering av nasjonal kjernejournal, drift og behandling av helseopplysninger, herunder hvilke opplysninger som skal behandles, hvem som er databehandlingsansvarlig,​7 regler om sletting, tilgang og tilgangskontroll, samt pasientens rettigheter.\n0 Tilføyd ved lov 22 juni 2012 nr. 46.\n1 Se § 2 nr. 7.\n2 Se § 2 nr. 1.\n3 Se § 2 nr. 11.\n4 Se § 2 nr. 10.\n5 Lov 2 juli 1999 nr. 63.\n6 Lov 2 juli 1999 nr. 64.\n7 Se § 2 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6d",
+        "source_heading": "§ 6d."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Regionale og lokale helseregistre",
+      "content": "Det kan ikke etableres andre regionale og lokale helseregistre med helseopplysninger​1 enn det som følger av denne eller annen lov.\nKongen i Statsråd kan i forskrift gi nærmere bestemmelser om etablering av av regionale helseregistre og behandling av helseopplysninger​1 i regionale helseregistre for ivaretakelse av oppgaver etter folkehelseloven,​2 smittevernloven,​3 spesialisthelsetjenesteloven​4 og tannhelsetjenesteloven.​5 Navn, fødselsnummer​6 eller andre direkte personidentifiserende kjennetegn kan bare behandles etter samtykke​7 fra den registrerte.​8 Samtykke fra den registrerte er ikke nødvendig, dersom det i forskriften bestemmes at helseopplysningene bare kan behandles i pseudonymisert eller avidentifisert​9 form. Forskriften skal angi formålet med behandlingen av helseopplysningene, hvilke opplysninger som kan behandles, og eventuelt nærmere regler om hvem som skal foreta pseudonymiseringen og prinsipper for hvordan det skal gjøres. Det regionale helseforetaket er databehandlingsansvarlig​10 for opplysningene, med mindre noe annet er bestemt i forskriften. Databehandlingsansvaret kan delegeres.\nKongen i Statsråd kan i forskrift gi nærmere bestemmelser om etablering av lokale helseregistre og behandling av helseopplysninger​1 i lokale helseregistre for ivaretakelse av oppgaver etter folkehelseloven,​2 helse- og omsorgstjenesteloven​11 og smittevernloven.​3 Navn, fødselsnummer​6 eller andre direkte personidentifiserende kjennetegn kan bare behandles etter samtykke fra den registrerte.​8 Samtykke fra den registrerte er ikke nødvendig, dersom det i forskriften bestemmes at helseopplysningene bare kan behandles i pseudonymisert eller avidentifisert​9 form. Forskriften skal angi formålet med behandlingen av helseopplysningene, hvilke opplysninger som kan behandles, og eventuelt nærmere regler om hvem som skal foreta pseudonymiseringen og prinsipper for hvordan det skal gjøres. Kommunen er databehandlingsansvarlig​10 for opplysningene, med mindre noe annet er bestemt i forskriften. Databehandlingsansvaret kan delegeres.\n0 Endret ved lover 15 juni 2001 nr. 93 (ikr. 1 jan 2002 iflg. res. 14 des 2001 nr. 1417), 10 juni 2005 nr. 47, 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 46.\n1 Se § 2 nr. 1.\n2 Lov 24 juni 2011 nr. 29.\n3 Lov 5 aug 1994 nr. 55.\n4 Lov 2 juli 1999 nr. 61.\n5 Lov 3 juni 1983 nr. 54.\n6 Jf. lov 16 jan 1970 nr. 1 § 4.\n7 Se § 2 nr. 11.\n8 Se § 2 nr. 10.\n9 Se § 2 nr. 2 og nr. 4.\n10 Se § 2 nr. 8.\n11 Lov 24 juni 2011 nr. 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Sentrale helseregistre",
+      "content": "Det kan ikke etableres andre sentrale helseregistre med helseopplysninger​1 enn det som følger av denne eller annen lov.\nKongen i Statsråd kan i forskrift gi nærmere bestemmelser om etablering av av sentrale helseregistre og behandling av helseopplysninger​1 i sentrale helseregistre for ivaretakelse av oppgaver etter apotekloven,​2 folkehelseloven,​3 helse- og omsorgstjenesteloven,​4 tannhelsetjenesteloven,​5 smittevernloven​6 og spesialisthelsetjenesteloven,​7 herunder overordnet styring og planlegging av tjenestene, kvalitetsutvikling, forskning og statistikk. Navn, fødselsnummer​8 eller andre direkte personidentifiserende kjennetegn kan bare behandles etter samtykke fra den​9 registrerte.​10 Samtykke fra den registrerte er ikke nødvendig, dersom det i forskriften bestemmes at helseopplysningene bare kan behandles i pseudonymisert eller avidentifisert form.​11 Forskriften skal eventuelt fastsette nærmere regler om hvem som skal foreta pseudonymiseringen og prinsipper for hvordan det skal gjøres.\nI følgende registre kan navn, fødselsnummer​8 og andre direkte personidentifiserende kjennetegn behandles uten samtykke fra den registrerte​10 i den utstrekning det er nødvendig for å nå formålet med registeret:\n1. Dødsårsaksregisteret\n2. Kreftregisteret\n3. Medisinsk fødselsregister\n4. Meldingssystem for smittsomme sykdommer\n5. Det sentrale tuberkuloseregisteret\n6. System for vaksinasjonskontroll (SYSVAK)\n7. Forsvarets helseregister\n8. Norsk pasientregister\n9. Nasjonal database for elektroniske resepter\n10. Nasjonalt register over hjerte- og karlidelser.\nKongen i Statsråd kan i forskrift gi nærmere bestemmelser om behandlingen av helseopplysningene i helseregistrene.\nForskriftene etter annet og fjerde ledd skal angi formålet med behandlingen av helseopplysningene og hvilke opplysninger som skal behandles. Forskriften skal videre angi hvem som er databehandlingsansvarlig​12 for opplysningene.\nDatabehandlingsansvaret kan delegeres. Forskriftene bør også gi bestemmelser om den databehandlingsansvarliges plikt til å gjøre data tilgjengelig for at formålene kan nås.\nKreftregisteret kan inneholde helseopplysninger om personer som har deltatt i undersøkelsesprogram for tidlig diagnose og kontroll for kreftsykdom. Ved negativt funn kan opplysninger om navn, fødselsnummer, adresse, bostedskommune og sivilstand registreres permanent, med mindre den registrerte reserverer seg mot det. Dersom den registrerte har reservert seg, skal opplysningene slettes etter at de er kvalitetssikret og senest seks måneder etter innsamlingen.\n0 Endret ved lover 2 juli 2004 nr. 59 (ikr. 1 jan 2005 iflg. res. 10 des 2004 nr. 1614), 10 juni 2005 nr. 47, 16 feb 2007 nr. 7, 15 juni 2007 nr. 32, 9 apr 2010 nr. 14, 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 46, 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578), 21 juni 2013 nr. 80 (ikr. 1 jan 2014 iflg. res. 23 aug 2013 nr. 1022).\n1 Se § 2 nr. 1.\n2 Lov 24 juni 2011 nr. 29.\n3 Lov 2 juni 2000 nr. 39.\n4 Lov 24 juni 2011 nr. 30.\n5 Lov 3 juni 1983 nr. 54.\n6 Lov 5 aug 1994 nr. 55.\n7 Lov 2 juli 1999 nr. 61.\n8 Lov 16 jan 1970 nr. 1 § 4.\n9 Se § 2 nr. 11.\n10 Se § 2 nr. 10.\n11 Se § 2 nr. 2 og nr. 4.\n12 Se § 2 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:8 a",
+      "chapter": "2",
+      "section": "8 a",
+      "title": "Helsearkivregisteret m.m.",
+      "content": "Kongen i statsråd kan i forskrift gi bestemmelser om etablering av Helsearkivregisteret.\nHelsearkivregisteret er et sentralt helseregister med personidentifiserbar pasientdokumentasjon avlevert til Norsk helsearkiv, jf. § 9 og spesialisthelsetjenesteloven​1 § 3-2 a. Opplysningene i Helsearkivregisteret kan behandles uten de registrertes​2 samtykke.​3\nRiksarkivaren er databehandlingsansvarlig​4 for opplysningene i Helsearkivregisteret, jf. arkivlova​5 § 4.\nKongen i statsråd kan i forskrift gi nærmere bestemmelser om etablering av Helsearkivregisteret, behandlingen av helseopplysningene​6 i registeret, formålet med behandlingen og hvilke opplysninger som skal behandles. Bestemmelsene skal videre angi den databehandlingsansvarliges plikt til å gjøre data tilgjengelig.\nKongen i statsråd kan i forskrift gi nærmere bestemmelser om bevaring, kassasjon og avlevering av pasientdokumentasjon for de private virksomhetene i spesialisthelsetjenesten, jf. spesialisthelsetjenesteloven​1 § 3-2 a andre ledd.\n0 Tilføyd ved lov 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578).\n1 Lov 2 juli 1999 nr. 61.\n2 Se § 2 nr. 10.\n3 Se § 2 nr. 11.\n4 Se § 2 nr. 8.\n5 Lov 4 des 1992 nr. 126.\n6 Se § 2 nr. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8a",
+        "source_heading": "§ 8 a."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Særlig om innsamling av helseopplysninger til sentrale, regionale og lokale helseregistre, meldingsplikt mv.",
+      "content": "Virksomheter og helsepersonell som tilbyr eller yter tjenester i henhold til apotekloven,​1 helse- og omsorgstjenesteloven,​2 smittevernloven,​3 spesialisthelsetjenesteloven​4 eller tannhelsetjenesteloven,​5 plikter å utlevere eller overføre opplysninger som bestemt i forskrifter etter §§ 6 a, 6 c, 6 d, 7, 8 og 8 a samt etter paragrafen her.\nKongen kan gi forskrifter om innsamling av helseopplysninger​6 etter §§ 6 a, 6 c, 6 d, 7, 8 og 8 a, herunder bestemmelser om hvem som skal gi og motta opplysningene og om frister, formkrav og meldingsskjemaer. Den som mottar opplysningene, skal varsle avsenderen av opplysningene dersom opplysningene er mangelfulle.\n0 Endret ved lover 10 juni 2005 nr. 47, 19 juni 2009 nr. 68, 18 des 2009 nr. 137 (ikr. 1 jan 2010 iflg. res. 18 des 2009 nr. 1583), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 46, 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578).\n1 Lov 2 juni 2000 nr. 39.\n2 Lov 24 juni 2011 nr. 30.\n3 Lov 5 aug 1994 nr. 55.\n4 Lov 2 juli 1999 nr. 61.\n5 Lov 3 juni 1983 nr. 54.\n6 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Særlig om plikt til å innrapportere data til statistikk",
+      "content": "Departementet kan i forskrift eller ved enkeltvedtak pålegge regionale helseforetak og helseforetak,​1 fylkeskommuner og kommuner å innrapportere avidentifiserte​2 eller anonyme​3 data til statistikk, herunder gi nærmere regler om bruk av standarder, klassifikasjonssystemer og kodeverk.\n0 Endret ved lov 15 juni 2001 nr. 93 (ikr. 1 jan 2002 iflg. res. 14 des 2001 nr. 1417).\n1 Se lov 15 juni 2001 nr. 93 § 2.\n2 Se § 2 nr. 2.\n3 Se § 2 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Krav til formålsbestemthet, saklighet, relevans m.v.",
+      "content": "Enhver behandling av helseopplysninger​1 skal ha et uttrykkelig angitt formål som er saklig begrunnet i den databehandlingsansvarliges​2 virksomhet. Den databehandlingsansvarlige skal sørge for at helseopplysningene som behandles, er relevante og nødvendige for formålet med behandlingen av opplysningene.\nHelseopplysninger​1 kan bare anvendes til andre formål enn helse- og omsorgstjenester til den enkelte eller administrasjon av slike tjenester når personidentifisering er nødvendig for å fremme disse formålene. Det skal alltid begrunnes hvorfor det er nødvendig å benytte personidentifiserbare opplysninger. Tilsynsmyndigheten​3 kan i medhold av § 31 kreve at den databehandlingsansvarlige​2 legger frem begrunnelsen.\nHelseopplysninger​1 kan ikke anvendes til formål som er uforenlig med det opprinnelige formålet med innsamlingen av opplysningene, uten at den registrerte​4 samtykker.​5\n0 Endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).\n1 Se § 2 nr. 1.\n2 Se § 2 nr. 8.\n3 Se kap. 6.\n4 Se § 2 nr. 10.\n5 Se § 2 nr. 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Sammenstilling av opplysninger",
+      "content": "Helseopplysninger​1 i behandlingsrettet helseregister​2 kan sammenstilles med opplysninger om samme pasient eller bruker i annet behandlingsrettet helseregister, i den grad helseopplysningene kan utleveres etter helsepersonelloven​3 §§ 25, 26 og 45.\nHelseopplysninger​1 som behandles i registre som nevnt i § 6 c kan sammenstilles med hverandre i samsvar med formålene med registrene.\nHelseopplysninger​1 innsamlet etter § 9 kan sammenstilles etter nærmere bestemmelser fastsatt i forskrift etter §§ 7, 8 og 8 a.\nHelseopplysninger​1 som behandles etter første, andre og tredje ledd kan sammenstilles med folkeregisteropplysninger​4 om den registrerte.​5\nUt over det som følger av denne paragraf, kan helseopplysninger​1 bare sammenstilles når dette er tillatt etter personopplysningsloven​6 §§ 9 og 33.\n0 Endret ved lover 18 des 2009 nr. 137 (ikr. 1 jan 2010 iflg. res. 18 des 2009 nr. 1583), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578).\n1 Se § 2 nr. 1.\n2 Se § 2 nr. 7.\n3 Lov 2 juli 1999 nr. 64.\n4 Se lov 16 jan 1970 nr. 1 kap. 2.\n5 Se § 2 nr. 10.\n6 Lov 14 apr 2000 nr. 31.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Tilgang til helseopplysninger i den databehandlingsansvarliges og databehandlers institusjon",
+      "content": "Bare den databehandlingsansvarlige,​1 databehandlere​2 og den som arbeider under den databehandlingsansvarliges eller databehandlers instruksjonsmyndighet, kan gis tilgang til helseopplysninger.​3 Tilgang kan bare gis i den grad dette er nødvendig for vedkommendes arbeid og i samsvar med gjeldende bestemmelser om taushetsplikt.\nKongen i Statsråd kan i forskrift gi nærmere bestemmelser om tilgang til helseopplysninger. Forskriften kan for tilgang til helseopplysninger i behandlingsrettede helseregistre​4 gjøre unntak fra første ledd første punktum.\nTilgang til helseopplysninger i behandlingsrettet helseregister på tvers av virksomheter kan bare gis etter uttrykkelig samtykke fra den registrerte.\nKongen i Statsråd kan i forskrift gjøre unntak fra kravet om uttrykkelig samtykke i tredje ledd, jf. § 2 nr. 11.\nÉn forespørsel om og tilgang til helseopplysninger i annen virksomhet kan bare omfatte én pasient om gangen.\nDen registrerte har rett til innsyn i logg fra behandlingsrettet helseregister om hvem som har hatt tilgang til helseopplysninger om ham eller henne.\n0 Endret ved lov 19 juni 2009 nr. 68.\n1 Se § 2 nr. 8.\n2 Se § 2 nr. 9.\n3 Se § 2 nr. 1.\n4 Se § 2 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:13 a",
+      "chapter": "3",
+      "section": "13 a",
+      "title": "Forbud mot urettmessig tilegnelse av helseopplysninger",
+      "content": "Det er forbudt​1 å lese, søke etter eller på annen måte tilegne seg, bruke eller besitte helseopplysninger som behandles etter denne loven uten at det er begrunnet i helse- og omsorgstjenester til den enkelte, administrasjon av slike tjenester eller har særskilt hjemmel i lov eller forskrift.\n0 Tilføyd ved lov 9 mai 2008 nr. 34 (ikr. 9 mai 2008 iflg. res. 9 mai 2008 nr. 442), endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).\n1 Se § 34. Jf. lov 2 juli 1999 nr. 64 § 21a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13a",
+        "source_heading": "§ 13 a."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Utlevering av helseopplysninger",
+      "content": "Helseopplysninger​1 kan utleveres eller overføres for sammenstilling som er tillatt etter § 12. Sammenstilte helseopplysninger kan, etter at navn og fødselsnummer​2 er fjernet, utleveres eller overføres til en virksomhet som bestemt av departementet, når formålet er å avidentifisere​3 eller å anonymisere​4 opplysningene.\nHelseopplysninger kan dessuten utleveres eller overføres når utlevering eller overføring har hjemmel i eller i medhold av lov, og den som mottar opplysningene har adgang til å behandle dem etter personopplysningsloven.​5\n1 Se § 2 nr. 1.\n2 Se lov 16 jan 1970 nr. 1 § 4.\n3 Se § 2 nr. 2.\n4 Se § 2 nr. 3.\n5 Lov 14 apr 2000 nr. 31.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Taushetsplikt",
+      "content": "Enhver som behandler helseopplysninger​1 etter denne lov, har taushetsplikt etter forvaltningsloven​2 §§ 13 til 13e og helsepersonelloven.​3\nTaushetsplikten etter første ledd gjelder også pasientens fødested, fødselsdato, personnummer,​4 pseudonym, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted.\nOpplysninger til andre forvaltningsorganer etter forvaltningsloven​1 § 13 b nr. 5 og 6 kan bare gis når det er nødvendig for å bidra til løsning av oppgaver etter loven her, eller for å forebygge vesentlig fare for liv eller alvorlig skade for noens helse.\nTaushetsplikt er likevel ikke til hinder for utlevering av opplysninger om en pasient eller bruker skal betale egenandel til helsepersonell eller andre som gir helse- og omsorgstjenester eller yter andre tjenester til pasient eller bruker som folketrygden er stønadspliktig for. Taushetsplikt er heller ikke til hinder for utlevering av slike opplysninger til helseforetakene i forbindelse med oppgjør for syketransport.\nOpplysninger om en pasients eller brukers navn, transportbehov og om pasienten eller brukeren skal betale egenandel og eventuelt beløpet kan gis til transportør i forbindelse med transport som omfattes av spesialisthelsetjenesteloven​5 § 2-1 a første ledd nr. 6.\n0 Endret ved lover 18 des 2009 nr. 137 (ikr. 1 jan 2010 iflg. res. 18 des 2009 nr. 1583), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).\n1 Se § 2 nr. 1.\n2 Lov 10 feb 1967.\n3 Lov 2 juli 1999 nr. 64 §§ 21 flg.\n4 Jf. lov 16 jan 1970 nr. 1 § 4.\n5 Lov 2 juli 1999 nr. 61.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:15 a",
+      "chapter": "3",
+      "section": "15 a",
+      "title": "Opplysninger til kvalitetssikring, administrasjon, planlegging eller styring",
+      "content": "Helsepersonelloven​1 § 29 b gjelder tilsvarende for behandling av helseopplysninger etter loven her.\n0 Tilføyd ved lov 9 apr 2010 nr. 14, endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).\n1 Lov 2 juli 1999 nr. 64.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15a",
+        "source_heading": "§ 15 a."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Sikring av konfidensialitet, integritet, kvalitet og tilgjengelighet",
+      "content": "Den databehandlingsansvarlige​1 og databehandleren​2 skal gjennom planlagte og systematiske tiltak sørge for tilfredsstillende informasjonssikkerhet med hensyn til konfidensialitet, integritet, kvalitet og tilgjengelighet ved behandling av helseopplysninger.​3\nI registre som er nevnt i § 8 tredje ledd, skal direkte personidentifiserende kjennetegn lagres kryptert. Kravet om at direkte personidentifiserende kjennetegn skal lagres kryptert, gjelder ikke for Nasjonal database for elektroniske resepter.\nFor å oppnå tilfredsstillende informasjonssikkerhet skal den databehandlingsansvarlige​1 og databehandleren​2 dokumentere informasjonssystemet og sikkerhetstiltakene. Dokumentasjonen skal være tilgjengelig for medarbeiderne hos den databehandlingsansvarlige og hos databehandleren. Dokumentasjonen skal også være tilgjengelig for tilsynsmyndighetene.​4\nEn databehandlingsansvarlig​1 som lar andre få tilgang til helseopplysninger,​3 for eksempel en databehandler eller andre som utfører oppdrag i tilknytning til informasjonssystemet, skal påse at disse oppfyller kravene i første, andre og tredje ledd.\nKongen kan gi forskrift om sikkerhet ved behandling av helseopplysninger etter denne lov. Kongen kan herunder sette nærmere krav til elektronisk signatur,​5 kommunikasjon og langtidslagring, om godkjenning (autorisasjon) av programvare, sertifisering og om bruk av standarder, klassifikasjonssystemer og kodeverk, samt hvilke nasjonale eller internasjonale standardsystemer som skal følges.\n0 Endret ved lover 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578), 14 juni 2013 nr. 39 (ikr. 1 juli 2013 iflg. res. 14 juni 2013 nr. 641).\n1 Se § 2 nr. 8.\n2 Se § 2 nr. 9.\n3 Se § 2 nr. 1.\n4 Se kap. 6.\n5 Jf. lov 15 juni 2001 nr. 81.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Internkontroll",
+      "content": "Den databehandlingsansvarlige​1 skal etablere og holde vedlike planlagte og systematiske tiltak som er nødvendige for å oppfylle kravene i eller i medhold av denne loven, herunder sikre helseopplysningenes​2 kvalitet.\nDen databehandlingsansvarlige​1 skal dokumentere tiltakene. Dokumentasjonen skal være tilgjengelig for medarbeiderne hos den databehandlingsansvarlige​1 og hos databehandleren.​3 Dokumentasjonen skal også være tilgjengelig for tilsynsmyndighetene.​4\nKongen kan i forskrift gi nærmere regler om internkontroll.\n1 Se § 2 nr. 8.\n2 Se § 2 nr. 1.\n3 Se § 2 nr. 9.\n4 Se kap. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Databehandlers rådighet over helseopplysninger",
+      "content": "En databehandler​1 kan ikke behandle helseopplysninger​2 på annen måte enn det som er skriftlig avtalt med den databehandlingsansvarlige.​3 Opplysningene kan heller ikke uten slik avtale overlates til noen andre for lagring eller bearbeidelse. I avtalen med den databehandlingsansvarlige skal det også gå frem at databehandleren plikter å gjennomføre slike sikringstiltak som følger av § 16.\n1 Se § 2 nr. 9.\n2 Se § 2 nr. 1.\n3 Se § 2 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Frist for å svare på henvendelser m.v.",
+      "content": "Den databehandlingsansvarlige​1 skal svare på henvendelser om innsyn eller andre rettigheter etter §§ 21, 22, 26 og 28 uten ugrunnet opphold og senest innen 30 dager fra den dagen henvendelsen kom inn.\nDersom særlige forhold gjør det umulig å svare på henvendelsen innen 30 dager, kan gjennomføringen utsettes inntil det er mulig å gi svar. Den databehandlingsansvarlige​1 skal i så fall gi et foreløpig svar med opplysninger om grunnen til forsinkelsen og sannsynlig tidspunkt for når svar kan gis.\n1 Se § 2 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Informasjon til allmennheten om behandling av helseopplysninger etter loven §§ 7 og 8",
+      "content": "Når helseopplysninger​1 behandles etter forskrift i medhold av §§ 7 og 8, skal den databehandlingsansvarlige​2 av eget tiltak informere allmennheten om hva slags behandling av helseopplysninger som foretas.\n1 Se § 2 nr. 1.\n2 Se § 2 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Rett til generell informasjon om helseregistre og behandling av helseopplysninger",
+      "content": "Enhver som ber om det, skal få vite hva slags behandling av helseopplysninger​1 en databehandlingsansvarlig​2 foretar, og kan kreve å få følgende informasjon om en bestemt type behandling av helseopplysninger:\n1. navn og adresse på den databehandlingsansvarlige og dennes eventuelle representant,\n2. hvem som har det daglige ansvaret for å oppfylle den databehandlingsansvarliges plikter,\n3. formålet med behandlingen av helseopplysningene,\n4. beskrivelser av hvilke typer helseopplysninger som behandles,\n5. hvor opplysningene er hentet fra, og\n6. om helseopplysningene vil bli utlevert, og eventuelt hvem som er mottaker.\nInformasjonen kan kreves hos den databehandlingsansvarlige​2 eller hos dennes databehandler​3 som nevnt i § 18.\n1 Se § 2 nr. 1.\n2 Se § 2 nr. 8.\n3 Se § 2 nr. 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Rett til innsyn",
+      "content": "Den som ber om det, har rett til innsyn i behandlingsrettet helseregister i den grad dette følger av pasient- og brukerrettighetsloven​1 § 5-1 og helsepersonelloven​2 § 41.\nNår helseopplysninger​3 behandles etter §§ 5, 6a, 6c, 6d, 7 og 8, har den registrerte​4 på forespørsel i tillegg til informasjon som nevnt i § 21 første ledd, rett til å få opplyst\n1. hvilke helseopplysninger​3 om den registrerte som behandles, og\n2. sikkerhetstiltakene ved behandlingen av helseopplysningene så langt innsyn ikke svekker sikkerheten.\nDen registrerte​4 kan også kreve at den databehandlingsansvarlige​5 utdyper informasjonen som nevnt i § 21 første ledd i den grad dette er nødvendig for at den registrerte skal kunne vareta egne interesser.\nInformasjon etter første og annet ledd kan kreves skriftlig hos den databehandlingsansvarlige​5 eller hos dennes databehandler​6 som nevnt i § 18. Den som blir bedt om å gi innsyn, kan kreve at den registrerte​4 leverer en skriftlig og undertegnet begjæring.\nKongen kan i forskrift gi nærmere bestemmelser om retten til innsyn i behandling av helseopplysninger etter annet og tredje ledd. Dersom særlige grunner gjør det nødvendig, kan Kongen gi forskrift om at den registrerte​4 må betale vederlag til den databehandlingsansvarlige.​5 Vederlaget kan ikke overstige de faktiske kostnadene ved å etterkomme kravet.\n0 Endret ved lover 18 des 2009 nr. 137 (ikr. 1 jan 2010 iflg. res. 18 des 2009 nr. 1583), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 46.\n1 Lov 2 juli 1999 nr. 63.\n2 Lov 2 juli 1999 nr. 64.\n3 Se § 2 nr. 1.\n4 Se § 2 nr. 10.\n5 Se § 2 nr. 8.\n6 Se § 2 nr. 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "title": "Informasjonsplikt når det samles inn opplysninger fra den registrerte",
+      "content": "Når det samles inn helseopplysninger​1 fra den registrerte​2 selv, skal den databehandlingsansvarlige​3 av eget tiltak først informere den registrerte om\n1. navn og adresse på den databehandlingsansvarlige og dennes eventuelle representant,\n2. formålet med behandlingen av helseopplysningene,\n3. opplysningene vil bli utlevert, og eventuelt hvem som er mottaker,\n4. det er frivillig å gi fra seg helseopplysningene, og\n5. annet som gjør den registrerte i stand til å bruke sine rettigheter etter loven her på best mulig måte, som for eksempel informasjon om retten til å kreve innsyn, jf § 22, og retten til å kreve retting og sletting, jf §§ 26 og 28.\nVarsling er ikke påkrevd dersom det er på det rene at den registrerte​2 allerede kjenner til informasjonen i første ledd.\n1 Se § 2 nr. 1.\n2 Se § 2 nr. 10.\n3 Se § 2 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "title": "Informasjonsplikt når det samles inn opplysninger fra andre enn den registrerte",
+      "content": "En databehandlingsansvarlig​1 som samler inn helseopplysninger​2 fra andre enn den registrerte​3 selv, skal av eget tiltak informere den registrerte​3 om hvilke opplysninger som samles inn og gi informasjon som nevnt i § 23 første ledd så snart opplysningene er innhentet. Dersom formålet med innsamlingen av opplysningene er å gi dem videre til andre, kan den databehandlingsansvarlige vente med å varsle den registrerte til utleveringen skjer.\nDen registrerte​3 har ikke krav på varsel etter første ledd dersom\n1. innsamlingen eller formidlingen av opplysningene er uttrykkelig fastsatt i lov,\n2. varsling er umulig eller uforholdsmessig vanskelig, eller\n3. det er på det rene at den registrerte allerede kjenner til informasjonen som varslet skal inneholde.\nNår varsling unnlates med hjemmel i annet ledd nr. 2, skal informasjon likevel gis senest når det gjøres en henvendelse til den registrerte​3 på grunnlag av opplysningene.\n1 Se § 2 nr. 8.\n2 Se § 2 nr. 1.\n3 Se § 2 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "title": "Unntak fra retten til informasjon og innsyn",
+      "content": "Det kan nektes innsyn i behandlingsrettet helseregister etter reglene i pasient- og brukerrettighetsloven​1 § 5-1.\nRetten til innsyn etter §§ 21 og 22 annet ledd og plikten til å gi informasjon etter §§ 20, 23 og 24, omfatter ikke opplysninger som\n1. om de ble kjent, ville kunne skade rikets sikkerhet, landets forsvar eller forholdet til fremmede makter eller internasjonale organisasjoner,\n2. det er påkrevd å hemmeligholde av hensyn til forebygging, etterforskning, avsløring og rettslig forfølging av straffbare handlinger,\n3. det må anses utilrådelig at den registrerte​2 får kjennskap til, av hensyn til vedkommendes helse eller forholdet til personer som står vedkommende nær,\n4. det i medhold av lov gjelder taushetsplikt for,\n5. utelukkende finnes i tekst som er utarbeidet for den interne saksforberedelse og som heller ikke er utlevert til andre,\n6. det vil være i strid med åpenbare og grunnleggende private eller offentlige interesser å informere om, herunder hensynet til den registrerte​2 selv.\nOpplysninger som den registrerte nektes innsyn i etter første ledd og etter annet ledd nr. 3, har en representant for pasienten rett til innsyn i, med mindre representanten anses uskikket for dette. En lege eller advokat​3 kan ikke nektes innsyn, med mindre særlige grunner taler for dette.\nDen som nekter å gi innsyn i medhold av første eller annet ledd, må begrunne dette skriftlig med presis henvisning til unntakshjemmelen.\n0 Endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).\n1 Lov 2 juli 1999 nr. 63.\n2 Se § 2 nr. 10.\n3 Jf. dl. § 220.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Retting av mangelfulle helseopplysninger",
+      "content": "Dersom det er behandlet helseopplysninger​1 etter §§ 5, 6a, 6c, 6d, 7 og 8 som er uriktige, ufullstendige eller som det ikke er adgang til å behandle, skal den databehandlingsansvarlige​2 av eget tiltak eller på begjæring av den registrerte​3 rette de mangelfulle opplysningene. Den databehandlingsansvarlige​2 skal om mulig sørge for at feilen ikke får betydning for den registrerte. Dersom helseopplysningene er utlevert, skal den den databehandlingsansvarlige​2 varsle mottakere av utleverte opplysninger.\nRetting av uriktige eller ufullstendige helseopplysninger som kan ha betydning som dokumentasjon, skal skje ved at opplysningene tydelig markeres og suppleres med korrekte opplysninger.\nDersom tungtveiende personvernhensyn tilsier det, kan Datatilsynet​4 uten hinder av annet ledd bestemme at retting skal skje ved at de mangelfulle helseopplysningene slettes eller sperres. Hvis opplysningene ikke kan kasseres i medhold av arkivloven,​5 skal Riksarkivaren høres før det treffes vedtak om sletting. Vedtaket går foran reglene i arkivloven 4. desember 1992 nr. 126 §§ 9 og 18.\nSletting bør suppleres med registrering av korrekte og fullstendige opplysninger. Dersom dette ikke er mulig, og dokumentet som inneholdt de slettede opplysningene av den grunn gir et åpenbart misvisende bilde, skal hele dokumentet slettes.\nFor retting og sletting av helseopplysninger i behandlingesrettet helseregister gjelder helsepersonelloven​6 §§ 42 til 44. Første ledd annet og tredje punktum gjelder tilsvarende.\n0 Endret ved lov 22 juni 2012 nr. 46.\n1 Se § 2 nr. 1\n2 Se § 2 nr. 8.\n3 Se § 2 nr. 10.\n4 Se kap. 6.\n5 Lov 4 des 1992 nr. 126.\n6 Lov 2 juli 1999 nr. 64.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Forbud mot å lagre unødvendige helseopplysninger",
+      "content": "Den databehandlingsansvarlige​1 skal ikke lagre helseopplysninger​2 lenger enn det som er nødvendig for å gjennomføre formålet med behandlingen av helseopplysningene. Hvis ikke helseopplysningene deretter skal oppbevares i henhold til arkivloven​3 eller annen lovgivning, skal de slettes.\nI forskrift etter §§ 6 til 8 a kan det bestemmes at heleopplysninger​4 kan lagres for historiske, statistiske eller vitenskapelige formål, dersom samfunnets interesse i at opplysningene lagres klart overstiger de ulempene den kan medføre for den enkelte. Den databehandlingsansvarlige​1 skal i så fall sørge for at opplysningene ikke oppbevares på måter som gjør det mulig å identifisere den registrerte​5 lenger enn nødvendig.\n0 Endret ved lov 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578).\n1 Se § 2 nr. 8.\n2 Se § 2 nr. 1.\n3 Lov 4 des 1992 nr. 126.\n4 Se § 2 nr. 1 – skal vel være «helseopplysninger».\n1 Skal vel være «helseopplysninger».\n5 Se § 2 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Sletting eller sperring av helseopplysninger som føles belastende for den registrerte",
+      "content": "Den registrerte​1 kan kreve at helseopplysninger​2 som behandles etter §§ 5, 7 og 8, skal slettes eller sperres, dersom behandling av opplysningene føles sterkt belastende for den registrerte og det ikke finnes sterke allmenne hensyn som tilsier at opplysningene behandles. Krav om sletting eller sperring av slike opplysninger rettes til den databehandlingsansvarlige​3 for opplysningene.\nDatatilsynet​4 kan, etter at Riksarkivaren er hørt, treffe vedtak om at retten til sletting etter første ledd går foran reglene i arkivloven 4. desember 1992 nr. 126 §§ 9 og 18. Hvis dokumentet som inneholdt de slettede opplysningene, gir et åpenbart misvisende bilde etter slettingen, skal hele dokumentet slettes.\nKrav om sletting av helseopplysninger i behandlingsrettede helseregistre avgjøres etter helsepersonelloven​5 § 43.\n1 Se § 2 nr. 1.\n2 Se § 2 nr. 8.\n3 Se § 2 nr. 10.\n4 Se kap. 6.\n5 Lov 2 juli 1999 nr. 64.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "title": "Meldeplikt til Datatilsynet",
+      "content": "Den databehandlingsansvarlige​1 skal gi melding til Datatilsynet​2 før behandling av helseopplysninger​3 med elektroniske hjelpemidler og før opprettelse av manuelt helseregister.\nMeldingen skal gis senest 30 dager før behandlingen av opplysningene tar til. Datatilsynet skal gi den databehandlingsansvarlige​1 kvittering for at melding er mottatt.\nNy melding må gis før behandling av helseopplysninger​3 som går ut over den rammen for behandling av helseopplysninger som er angitt i medhold av § 30. Selv om det ikke har skjedd endringer, skal det gis ny melding tre år etter at forrige melding ble gitt.\nKongen kan gi forskrift om at visse typer behandling av helseopplysninger​3 eller databehandlingsansvarlige​1 er unntatt fra meldeplikt eller er underlagt forenklet meldeplikt.\n1 Se § 2 nr. 8.\n2 Jf. lov 14 apr 2000 nr. 31 § 42.\n3 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "title": "Meldepliktens innhold",
+      "content": "Meldingen til Datatilsynet skal opplyse om\n1. navn og adresse på den databehandlingsansvarlige​1 og på dennes eventuelle representant og databehandler,\n2. når behandlingen av helseopplysningene​2 starter,\n3. hvem som har det daglige ansvaret for å oppfylle den databehandlingsansvarliges​1 plikter,\n4. formålet med behandlingen av helseopplysningene,​2\n5. oversikt over hvilke typer helseopplysninger som skal behandles,\n6. hvor helseopplysningene hentes fra,\n7. det rettslige grunnlaget for innsamlingen av helseopplysningene,​2\n8. hvem helseopplysningene vil bli utlevert til, herunder eventuelle mottakere i andre stater, og\n9. hvilke sikkerhetstiltak som er knyttet til behandlingen av helseopplysningene.​2\nKongen kan gi forskrift om hvilke opplysninger meldingene skal inneholde og om gjennomføringen av meldeplikten.\n1 Se § 2 nr. 8.\n2 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "title": "Tilsynsmyndighetene",
+      "content": "Datatilsynet​1 fører tilsyn med at bestemmelsene i loven blir fulgt og at feil eller mangler blir rettet, jf. personopplysningsloven​2 § 42, med mindre tilsynsoppgavene påligger Statens helsetilsyn eller Fylkesmannen etter helsetilsynsloven.​3\nTilsynsmyndighetene kan kreve​4 de opplysninger som trengs for at de kan gjennomføre sine oppgaver.\nTilsynsmyndighetene kan som ledd i sin kontroll med at lovens regler etterleves, kreve​5 adgang til steder hvor det finnes helseregistre, helseopplysninger som behandles elektronisk og hjelpemidler for slik behandling av opplysninger. Tilsynsmyndighetene kan gjennomføre de prøver eller kontroller som de finner nødvendig, og kreve bistand fra personalet på stedet i den grad dette må til for å få utført prøvene eller kontrollene.\nRetten til å kreve opplysninger eller tilgang til lokaler og hjelpemidler i henhold til annet og tredje ledd gjelder uten hinder av taushetsplikt.\nTilsynsmyndighetene og andre som utfører tjeneste for tilsynsmyndighetene, har taushetsplikt etter § 15. Taushetsplikten omfatter også opplysninger om sikkerhetstiltak.\nKongen kan gi forskrift om unntak fra første til fjerde ledd av hensyn til rikets sikkerhet. Kongen kan også gi forskrift om dekning av utgiftene ved kontroll. Skyldige bidrag til dekning av utgiftene er tvangsgrunnlag for utlegg.​6\n0 Endret ved lover 29 aug 2003 nr. 87 (ikr. 1 sep 2003 iflg. res. 29 aug 2003 nr. 1092), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).\n1 Jf. lov 14 apr 2000 nr. 31 § 42.\n2 Lov 14 apr 2000 nr. 31.\n3 Lov 30 mars 1984 nr. 15.\n4 Se strl. 1902 § 339.\n5 Se strl. 1902 § 326; strl. 2005 § 156 (ikke ikr.)\n6 Jf. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "title": "Adgang til å gi pålegg",
+      "content": "Datatilsynet​1 kan gi pålegg om at behandling av helseopplysninger i strid med bestemmelser i eller i medhold av denne loven skal opphøre, eller stille vilkår som må oppfylles for at behandlingen av helseopplysningene skal være i samsvar med loven. Dersom det i tillegg må antas at behandlingen av helseopplysningene kan ha skadelige følger for pasienter, kan Statens helsetilsyn​2 gi pålegg som nevnt. Når Datatilsynet har gitt et pålegg, skal Statens helsetilsyn informeres om dette. Når Statens helsetilsyn har gitt et pålegg, skal Datatilsynet informeres om dette.\nPålegg etter første ledd skal inneholde en frist for å rette seg etter pålegget.\nAvgjørelser som Datatilsynet fatter i medhold av §§ 26, 28, 31, 32 og 33, kan påklages til Personvernnemnda.​3\n1 Jf. lov 14 apr 2000 nr. 31 § 42.\n2 Se lov 30 mars 1984 nr. 15.\n3 Se lov 14 apr 2000 nr. 31 § 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "title": "Tvangsmulkt​1",
+      "content": "Ved pålegg etter § 32 kan Datatilsynet​2 fastsette en tvangsmulkt som løper for hver dag som går etter utløpet av den fristen som er satt for oppfylling av pålegget, inntil pålegget er oppfylt.\nTvangsmulkten løper ikke før klagefristen er ute. Hvis vedtaket påklages, løper ikke tvangsmulkt før klageinstansen har bestemt det.\nDatatilsynet kan frafalle påløpt tvangsmulkt.\n1 Jf. tvangsl. § 7-2, d.\n2 Jf. lov 14 apr 2000 nr. 31 § 42.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "title": "Straff",
+      "content": "Den som forsettlig eller grovt uaktsomt overtrer § 13 a, straffes med bøter​1 eller fengsel​2 i inntil tre måneder.\nMed bøter​1 eller fengsel​2 inntil ett år eller begge deler straffes den som forsettlig eller grovt uaktsomt\n1. behandler helseopplysninger​3 i strid med §§ 16 eller 18,\n2. unnlater å gi opplysninger til den registrerte etter §§ 23 eller 24,\n3. unnlater å sende melding til Datatilsynet etter § 29,\n4. unnlater å gi opplysninger til tilsynsmyndighetene etter § 31, eller\n5. unnlater å etterkomme pålegg fra tilsynsmyndighetene etter § 32.\nVed særdeles skjerpende omstendigheter kan fengsel inntil tre år​4 idømmes. Ved avgjørelsen av om det foreligger særdeles skjerpende omstendigheter skal det blant annet legges vekt på faren for stor skade eller ulempe for den registrerte,​5 den tilsiktede vinningen ved overtredelsen, overtredelsens varighet og omfang, utvist skyld, og om den databehandlingsansvarlige​6 tidligere er straffet for å ha overtrådt tilsvarende bestemmelser.\nMedvirkning straffes på samme måte.\nI forskrift som gis i medhold av loven, kan det fastsettes at den som forsettlig eller grovt uaktsomt overtrer forskriften skal straffes med bøter​1 eller fengsel​2 inntil ett år eller begge deler.\n0 Endret ved lov 9 mai 2008 nr. 34 (ikr. 9 mai 2008 iflg. res. 9 mai 2008 nr. 442). Endres ved lov 20 mai 2005 nr. 28 (ikr. fra den tid som fastsettes ved lov) som endret ved lov 19 juni 2009 nr. 74.\n1 Jf. strl. 1902 § 27 og kap. 3 a; strl. 2005 kap. 4 og kap. 9 (ikke ikr.).\n2 Jf. strl. 1902 § 26 a; strl. 2005 §§ 32 og 54 (ikke ikr.).\n3 Se § 2 nr. 1.\n4 Jf. strl. 1902 § 67; strl. 2005 § 86 (ikke ikr.).\n5 Se § 2 nr. 10.\n6 Se § 2 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "title": "Erstatning",
+      "content": "Den databehandlingsansvarlige​1 skal erstatte skade som er oppstått som følge av at helseopplysninger​2 er behandlet i strid med bestemmelser i eller i medhold av loven, med mindre det godtgjøres at skaden ikke skyldes feil eller forsømmelse på den databehandlingsansvarliges side.\nErstatningen skal svare til det økonomiske tapet som den skadelidte er påført som følge av den ulovlige behandlingen av helseopplysningene. Den databehandlingsansvarlige​1 kan også pålegges å betale slik erstatning for skade av ikke-økonomisk art (oppreisning) som synes rimelig.\n1 Se § 2 nr. 8.\n2 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "7:36",
+      "chapter": "7",
+      "section": "36",
+      "title": "Forholdet til lov om behandling av personopplysninger",
+      "content": "I den utstrekning ikke annet følger av denne lov, gjelder personopplysningsloven​1 med forskrifter som utfyllende bestemmelser.\n1 Lov 14 apr 2000 nr. 31.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "7:37",
+      "chapter": "7",
+      "section": "37",
+      "title": "Ikraftsetting",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.​1 Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til ulik tid.\n1 Loven trådte ikr. 1 jan 2002 iflg. res. 18 mai 2001 nr. 502.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "7:38",
+      "chapter": "7",
+      "section": "38",
+      "title": "Endringer i andre lover",
+      "content": "– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    }
+  ]
+}

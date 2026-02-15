@@ -1,0 +1,987 @@
+{
+  "id": "LOV-1980-05-23-11",
+  "type": "statute",
+  "title": "Lov om stiftelser m.m.",
+  "short_name": "Stiftelsesloven – stiftl.",
+  "status": "in_force",
+  "issued_date": "1980-05-23",
+  "in_force_date": "1982-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1980-05-23-11",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Denne lov gjelder for private og offentlige stiftelser, jfr. §§ 2 og 14.\nReglene i kap. VI om omdanning av stiftelser gjelder også i de forhold som § 38 nevner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "En stiftelse dannes ved at en formuesverdi ved testament,​1 gave eller annen rettslig disposisjon selvstendig blir stilt til rådighet for et bestemt formål av ideell, humanitær, sosial, utdanningsmessig, økonomisk eller annen art.\nSom stiftelser regnes også selvstendige legater, institusjoner og fond som private har opprettet.\n1 Jfr. lov 3 mars 1972 nr. 5 kap. VIII flg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Stiftelser som helt eller delvis er opprettet av offentlig organ, går inn under loven om ikke Kongen​1 gjør unntak i det enkelte tilfelle.\nOffentlige fond (dvs. fond som offentlig organ har avsatt til bestemt formål ved bevilgning eller avgiftspålegg), går inn under loven bare i den utstrekning vedkommende myndighet bestemmer. Det samme gjelder for institusjoner og innretninger som er opprettet av offentlig organ, eller som av andre grunner må regnes som offentlige.\nLovens regler om stiftelser omfatter ikke:\n1. Kirker og kirkegårder og verdier for øvrig som menighet eller trossamfunn eier.\n2. Pensjonskasse med foretakspensjonsordning etter lov om foretakspensjon.​2\n3. Pensjonskasse med pensjonsordning etter innskuddspensjonsloven​3\n4. Sparebanker.​4\n5. Stamhus og fideikommisser.​5\n6. Verdier som selskaper, andelslag eller foreninger eier.\n0 Endret ved lover 14 juni 1985 nr. 69, 26 mars 1999 nr. 14 (i kraft 1 jan 2000), 24 mars 2000 nr. 16 (i kraft 1 jan 2001 iflg. res. 25 aug 2000 nr. 879), 24 nov 2000 nr. 81 (i kraft 1 jan 2001 iflg. res. 24 nov 2000 nr. 1167).\n1 Justisdepartementet iflg. res. 4 des 1981.\n2 Lov 24 mars 2000 nr. 16.\n3 Lov 24 nov 2000 nr. 81.\n4 Jfr. lov 24 mai 1961 nr. 1.\n5 Jfr. Grl. § 108, jfr. lov 4 juli 1927 nr. 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "En stiftelse er opprettet når den rettslige disposisjon som danner grunnlaget for den,​1 etter alminnelige regler er blitt bindende for den som har avgitt disposisjonen.​2 Fra dette tidspunkt har han ikke eierrådighet over stiftelsen og dens formuesverdier.\n1 Jfr. § 2.\n2 Jfr. lov 3 mars 1972 nr. 5 kap. IX og lov 31 mai 1918 nr. 4 kap. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "Enhver stiftelse skal ha et styre.​1 Styret representerer stiftelsen utad og har ansvaret for at stiftelsen og det som vedkommer den blir forvaltet tilfredsstillende. I vedtektene kan det bestemmes at stiftelsen også skal ha andre organer.\nFylkesmannen kan oppnevne styre for en stiftelse når den er uten styre og det ikke er noen som etter vedtektene​2 kan velge eller oppnevne styret.\nNår det blir opprettet en ny stiftelse ved testament,​3 skal tingretten underrette fylkesmannen. Fylkesmannen eller den han bestemmer, representerer stiftelsen under skiftet inntil det er opprettet et styre.\n0 Endret ved lov 30 aug 2002 nr. 67 (i kraft 1 jan 2003 iflg. res. 30 aug 2002 nr. 938).\n1 Jfr. § 16 første ledd nr. 7.\n2 Jfr. § 6.\n3 Jfr. lov 3 mars 1972 nr. 5 kap. VIII flg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "Dersom vedtekter (statutter) for en stiftelse ikke er fastlagt i den rettslige disposisjon som danner grunnlaget for den,​1 skal stiftelsens styre​2 utarbeide vedtekter.​3 Vedtektene skal alltid nevne stiftelsens formål, grunnkapital​4 og hvordan styret skal dannes.​5\n1 Jfr. § 2.\n2 Jfr. § 5.\n3 Jfr. § 27.\n4 Jfr. § 25.\n5 Jfr. § 16 første ledd nr. 7 og § 28 og § 29.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "Styremedlem tjenestegjør i fire​1 år, når annet ikke er fastsatt i stiftelsens vedtekter. En umyndig​2 kan ikke være styremedlem eller forretningsfører.\nStyremedlem,​3 observatør​4 eller forretningsfører er ugild til å delta i behandlingen eller avgjørelsen av spørsmål som har slik særlig betydning for ham selv eller noen som står ham nær, at han må sies å ha en framtredende personlig eller økonomisk særinteresse i saken.​5 Likeså er han ugild når han har stilling eller tillitsverv i en privat eller offentlig institusjon, organisasjon eller et foretak som har økonomisk eller annen framtredende interesse i saken, eller når han i slik egenskap tidligere har deltatt i behandling i saken. Han er likevel ikke ugild på grunn av offentlig stilling eller verv i saker som i det vesentlige gjelder bruken av midler fra det offentlige.\n0 Endret ved lover 13 mars 1987 nr. 14, 10 juni 1988 nr. 44.\n1 Jfr. § 29 første ledd og lov 13 juni 1997 nr. 44 (asl.) § 6-6 (4).\n2 Jfr. lov 22 april 1927 nr. 3 § 1.\n3 Jfr. § 29. Jfr. lover 13 juni 1997 nr. 44 (asl.) og 13 juni 1997 nr. 45 (asal.).\n4 Jfr. § 29.\n5 Jfr. lov 13 juni 1997 nr. 44 (asl.) § 6-27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "Godtgjørelse til styremedlem, observatør​1 eller forretningsfører i en stiftelse skal stå i rimelig forhold til det arbeid og ansvar som følger med vervet. Fylkesmannen kan sette ned godtgjørelse som er urimelig høy.\nStyremedlem, observatør​1 eller forretningsfører må ikke uten fylkesmannens samtykke ha lån i stiftelsen. Like med lån regnes sikkerhetsstillelse for styremedlems, observatørs eller forretningsførers forpliktelser.\n0 Endret ved lov 10 juni 1988 nr. 44.\n1 Jfr. § 29. Jfr. lover 13 juni 1997 nr. 44 (asl.) og 13 juni 1997 nr. 45 (asal.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "Styret gjør vedtak i møte.​1 Som styrets vedtak gjelder det som flertallet av de møtende styremedlemmer har stemt for. Ved stemmelikhet gjelder det som formannen har stemt for. Er formannen ikke til stede, gjelder det som møtelederen har stemt for.​2\nStyret skal føre møtebok. Møteboken skal ha fortløpende sidetall.\nMøteboken skal inneholde de vedtak som styret gjør i saker som gjelder stiftelsen. Tid og sted for møtene skal gå fram av boken, likeså meningsforskjell mellom styremedlemmer som er til stede. Boken skal underskrives av de styremedlemmer som er til stede.\nDisse regler gjelder ikke for stiftelser med enestyre. Reglene i første ledd annet, tredje og fjerde punktum kan settes til side i stiftelsens vedtekter.\n0 Endret ved lov 10 juni 1988 nr. 44.\n1 Jfr. § 28 første ledd og lov 13 juni 1997 nr. 44 (asl.) § 6-19.\n2 Jfr. fjerde ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "Enhver stiftelse har regnskapsplikt etter regnskapsloven.​2\nÅrsregnskap, årsberetning​3 og revisjonsberetning skal sendes fylkesmannen senest en måned etter fastsetting av årsregnskapet. Innsendingsplikten gjelder likevel ikke for stiftelser som etter § 18 ikke skal registerføres av fylkesmannen.\nDepartementet kan i forskrift​4 gi særlige regler om årsregnskapet, årsberetningen​3 og innsendingsplikten i private,​5 ikke næringsdrivende stiftelser​6 der forvaltningskapitalen ikke overstiger kr 500.000.\n0 Endret ved lover 7 april 1995 nr. 14 (tredje ledd i kraft 7 april 1995, første og annet ledd 1 jan 1997), 17 juli 1998 nr. 56 (i kraft 1 jan 1999).\n1 Jfr. § 28 A.\n2 Lov 17 juli 1998 nr. 56.\n3 Jfr. lov 17 juli 1998 nr. 56 § 3-3.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n5 Jfr. § 14.\n6 Se § 24.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "Enhver stiftelse har revisjonsplikt etter revisorloven.​1\nRevisjonsplikten etter første punktum gjelder likevel ikke for stiftelser som etter § 18 ikke skal registerføres av fylkesmannen. Departementet kan gi særlige regler om revisjonsplikten i private,​2 ikke næringsdrivende stiftelser​3 der forvaltningskapitalen ikke overstiger kr. 500.000.\nRevisor skal i revisjonsberetningen bekrefte at stiftelsens årsoppgjør​4 er i samsvar med stiftelsens formål.\nDersom styremedlemmer eller ansatte i stiftelsen, eller nærstående av disse, eller stiftelsens stifter eller nærstående til denne, har mottatt lån eller annen ytelse fra stiftelsen, skal revisor attestere at ytelsen er i samsvar med lov, forskrifter og stiftelsens formål.\nKopi av revisors merknader i revisjonsprotokollen sendes fortløpende til fylkesmannen.\nRevisor velges av den eller de personer eller organer som etter vedtektene velger eller oppnevner styrets medlemmer.\nFylkesmannen kan be revisor gjøre nærmere rede for bestemt angitte forhold i stiftelsen. Reglene om revisors taushetsplikt​5 gjelder ikke i forhold til fylkesmannen.\nDersom revisor ikke gjennomfører sine plikter etter denne lov, kan den eller de personer eller organer som etter vedtektene velger eller oppnevner styrets medlemmer​6 frata revisor oppdraget og skal i så fall velge en ny revisor. I slike tilfeller kan fylkesmannen frata revisor oppdraget og oppnevne ny revisor dersom vedkommende organ unnlater å gjøre det. Tilsvarende gjelder dersom vedkommende organ unnlater å oppnevne revisor, eller den som er valgt ikke fyller vilkårene for å være revisor. Fylkesmannens oppnevning gjelder for tiden inntil annen revisor er valgt på foreskrevet måte.\nDersom en eller flere kommuner eller en fylkeskommune har betydelig styringsfunksjon i forhold til en stiftelse, ved rett til å velge eller oppnevne styret eller et flertall i styret eller på annen måte, kan kommune- eller fylkesrevisjonen​7 velges som stiftelsens revisor. Det samme gjelder hvor stiftelsens virksomhet i vesentlig grad er basert på tilskudd eller bevilgning fra kommune eller fylkeskommune som nevnt. Forøvrig gjelder reglene i denne paragraf.\n0 Endret ved lover 7 april 1995 nr. 14 (annet ledd i kraft 7 april 1995, resten av paragrafen i kraft 1 jan 1997), 17 juli 1998 nr. 56 (i kraft 1 jan 1999), 15 jan 1999 nr. 2 (i kraft 1 aug 1999 iflg. forskrift 25 juni 1999 nr. 711), 7 mai 2004 nr. 21 (i kraft 1 jan 2005).\n1 Lov 15 jan 1999 nr. 2.\n2 Jfr. § 14.\n3 Jfr. § 24.\n4 Jfr. lov 17 juli 1998 nr. 56.\n5 Jfr. lov 15 jan 1999 nr. 2 § 6-1.\n6 Jfr. § 6.\n7 Jfr. lov 25 sep 1992 nr. 107 § 60.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "content": "Eiendelene til en stiftelse skal holdes atskilt fra andre midler når ikke midlene forvaltes av overformynderi etter vergemålslovens​1 § 91. Fylkesmannen kan tillate at midler fra flere stiftelser blir lagt under felles forvaltning.\nDersom det ikke strider mot bestemmelser i stiftelsesgrunnlaget,​2 skal verdipapirer overlates til forvaltning i en bank som er godkjent etter vergemålsloven​1 § 65 første ledd. Kassebeholdning skal stå på bankkonto, bortsett fra midler som trengs til daglige utbetalinger. Fylkesmannen kan fravike bestemmelsene i første og annet punktum når annen forvaltning anses betryggende. Forvaltes midlene av overformynderiet, gjelder vergemålsloven​1 § 65 første ledd femte punktum tilsvarende.\n0 Endret ved lover 5 des 1988 nr. 61, 9 jan 1998 nr. 5.\n1 Lov 22 april 1927 nr. 3.\n2 Jfr. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "content": "Et styremedlem plikter å erstatte skade som han forsettlig eller uaktsomt volder stiftelsen eller andre. Erstatningsansvar etter forrige punktum kan lempes når dette finnes rimelig under hensyn til utvist skyld, skadens størrelse, økonomisk evne og forholdene ellers.\nFørste ledd gjelder tilsvarende for andre som har verv i stiftelsen eller som har fullmakt til å handle på vegne av stiftelsen.​1\nFylkesmannen kan på vegne av stiftelsen reise søksmål mot dens styremedlemmer og andre som har verv i stiftelsen, med påstand om at vedkommende skal fradømmes vervet.\nFylkesmannen kan på vegne av stiftelsen begjære offentlig påtale av straffbare handlinger begått av personer nevnt i første og annet ledd.\n0 Endret ved lover 16 juni 1989 nr. 71, 7 april 1995 nr. 14 (i kraft 1 jan 1997).\n1 Jfr. § 5 og § 28 første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "content": "Med offentlig stiftelse menes i denne lov:\n1. Stiftelse som er stadfestet i samsvar med § 15.\n2. Stiftelse som er dannet ved testament som har fått kongelig konfirmasjon før 1. januar 1855.\nAndre stiftelser er private stiftelser.​1\n1 Se kap. IV og V.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "content": "Søknad om offentlig stadfestelse av en stiftelse kan settes fram av stifteren​1 eller av stiftelsens styre.​2 Det kan søkes om offentlig stadfestelse selv om stifteren ikke har bestemt at dette skal gjøres.\nOffentlig stadfestelse gis av Kongen eller av annen myndighet etter fullmakt fra Kongen.​3\n1 Jfr. § 2.\n2 Jfr. § 5.\n3 Justisdepartementet iflg. res. 4 des 1981.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "Vilkårene for offentlig stadfestelse er:\n1. At stiftelsens formål​2 har en viss allmenn interesse, og at den tar sikte på varig virksomhet.\n2. At stiftelsen ikke utelukkende har til oppgave å tilgodese medlemmer av en bestemt familie. Ubetinget fortrinnsrett for familien kan likevel godtas når fortrinnsretten ikke strekker seg lenger enn til slektninger i fjerde ledd regnet fra stifterens foreldre.​3\n3. At stiftelsens forvaltningskapital står i rimelig forhold til formålet, og grunnkapitalen​2 (egenkapitalen) har en viss minste størrelse som fastsettes av Kongen.​4\n4. At stiftelsens grunnkapital​2 skal være urørlig. Minst en tiendedel av kapitalavkastningen skal vanligvis legges til kapitalen.\n5. At testator er død, dersom stiftelsen grunner seg på testament.​5 I andre tilfelle må det foreligge erklæring fra styret om at kapitalen er stilt til dets rådighet.\n6. At personer eller institusjoner som er tillagt styrefunksjon i stiftelsen har erklært seg villige til å overta vervet. Når en person i egenskap av innehaver av offentlig eller privat verv eller stilling har samtykket i å overta en funksjon i stiftelsen, går funksjonen over på hans etterfølger i vervet eller stillingen om ikke etterfølgerens overordnede fritar ham.\n7. At det skal være minst to personer i styret. Det kan ikke legges til styret å velge styremedlemmer.\nVilkårene i første ledd kan fravikes dersom det i enkelttilfelle er særlig grunn til det. Vilkårene under nr. 1 og 4 om varig virksomhet og urørlig grunnkapital kan fravikes dersom det er naturlig etter stiftelsens formål og stiftelsen tar sikte på virksomhet i minst 30 år.\n1 Jfr. § 40 første ledd.\n2 Jfr. § 6.\n3 Jfr. Grl. § 108.\n4 Justisdepartementet iflg. res. 4 des 1981.\n5 Jfr. lov 3 mars 1972 nr. 5 kap. VIII flg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "Når en stiftelse har fått offentlig stadfestelse, er den undergitt offentlig tilsyn etter forskrifter som Kongen​1 gir.\nTilsynet går ut på:\n1. Å se til at stiftelsens virksomhet utøves lovlig og i samsvar med dens formål og vedtekter.​2\n2. Å se til at stiftelsens verdier forvaltes og anbringes på den måte som til enhver tid er bestemt.\n3. Å overvåke at stiftelsen fører regnskap​3 og underkaster seg revisjon​4 slik det er bestemt i lov og forskrifter.\nStiftelsens styre,​5 forretningsfører og revisor plikter å gi tilsynsmyndigheten alle opplysninger som trengs for å utøve tilsynet. Tilsvarende gjelder for medlemmer av andre organer for stiftelsen med selvstendig avgjørelses- eller kontrollmyndighet.\n1 Justisdepartementet iflg. res. 4 des 1981.\n2 Jfr. § 6.\n3 Jfr. § 10.\n4 Jfr. § 11.\n5 Jfr. § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:17 a",
+      "chapter": "3",
+      "section": "17 a",
+      "content": "I noter til årsregnskapet skal det gis følgende opplysninger i tillegg til de noteopplysninger som skal gis etter regnskapsloven:​1\na. stiftelsens faste eiendommer, pantobligasjoner og andre verdipapirer, bankinnskudd og andre formuesgjenstander som sikrer stiftelsens kapital eller er av vesentlig betydning for virksomhet stiftelsen driver,\nb. utbetalte legatporsjoner og ytelser fra stiftelsen i henhold til dens formål og\nc. lønn og andre ytelser til styremedlemmer og forretningsfører.\nDersom stiftelsens midler er lånt ut med pant i fast eiendom eller dersom stiftelsen eier fast eiendom, skal revisor attestere at eiendommen er tilstrekkelig forsikret.\nEr det i regnskapsåret gitt ytelser til personer eller institusjoner som ikke er navngitt i stiftelsens vedtekter, skal revisor attestere at utdelingen er godkjent av styret.\nEr det i regnskapsåret ytet nye lån av stiftelsens midler, skal revisor attestere at lånebeløpet er utbetalt provisjonsfritt.\n0 Tilføyd ved lov 7 april 1995 nr. 14 (i kraft 1 jan 1997), endret ved lov 17 juli 1998 nr. 56 (i kraft 1 jan 1999).\n1 Lov 17 juli 1998 nr. 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17a",
+        "source_heading": "§ 17A."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "content": "Private stiftelser skal meldes til fylkesmannen når forvaltningskapitalen utgjør 50.000 kroner eller mer. Fylkesmannen fører register over stiftelser som er meldt.\nMeldeplikten påligger stiftelsens styre.​1\n1 Jfr. § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "content": "Meldingen skal inneholde:\n1. Bekreftet avskrift av den disposisjon som danner grunnlaget for stiftelsen.​1\n2. Stiftelsens vedtekter.​2\n3. Oppgave over medlemmer av stiftelsens styre​3 med opplysning om deres adresse.\n4. Oppgave over stiftelsens eiendeler og gjeld.​4\nSkjer det forandring i noen av de forhold som er nevnt i første ledd nr. 1, 2 eller 3, skal forandringen meldes til fylkesmannen.\n1 Jfr. § 2.\n2 Jfr. § 6.\n3 Jfr. § 5.\n4 Jfr. § 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 7 april 1995 nr. 14 (i kraft 1 jan 1997).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 7 april 1995 nr. 14 (i kraft 1 jan 1997).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "content": "Fylkesmannen eller den han gir fullmakt har rett til å granske stiftelsens møtebok og regnskaper.​1 Granskingen har til formål å klarlegge om stiftelsen forvaltes i samsvar med lov, forskrifter og stiftelsens vedtekter.\nStiftelsens styre,​2 forretningsfører og revisor​3 plikter å gi de opplysninger som trengs for granskingen. Tilsvarende gjelder for medlemmer av andre organer for stiftelsen med selvstendig avgjørelses- eller kontrollmyndighet.\nUttalelser og henstillinger på grunnlag av granskingen skal gis skriftlig.\n1 Jfr. § 9 og § 10.\n2 Jfr. § 5.\n3 Jfr. § 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "content": "Ved gransking etter § 22 kan fylkesmannen pålegge stiftelsen helt eller delvis å dekke det offentliges utgifter ved granskingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "content": "Med næringsdrivende stiftelser menes i denne lov:​1\n1. Stiftelser som har til formål​2 å drive næringsvirksomhet selv.\n2. Andre stiftelser som driver næringsvirksomhet selv.\n3. Stiftelser som gjennom aksjer eller andeler har bestemmende innflytelse over næringsvirksomhet utenfor stiftelsen.\nKongen​3 avgjør i tvilstilfelle om det foreligger en næringsdrivende stiftelse, og om den går under nr. 1, 2 eller 3 i første ledd.\nSom næringsdrivende stiftelse etter første ledd nr. 1 regnes også stiftelser som har til formål å erverve boliger med sikte på salg eller utleie (boligstiftelser). For slike stiftelser kan Kongen​3 ved forskrift​4 eller i enkelttilfelle​5 gjøre unntak fra bestemmelsene i dette kapittel. Han kan ved forskrift​4 også gi særlige regler for slike stiftelser og herunder fravike bestemmelsene i dette kapittel.\n1 Jfr. lov 10 juni 1988 nr. 40 § 2-22.\n2 Jfr. § 6.\n3 Justisdepartementet iflg. res. 4 des 1981.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n5 Jfr. lov 10 feb 1967 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "content": "En næringsdrivende stiftelse som nevnt i § 24 første ledd nr. 1 må på tidspunktet for registrering i Foretaksregisteret​2 (jfr. § 26) ha en innbetalt grunnkapital (egenkapital) på minst 200.000 kroner. Aksjeloven​3 § 2-7 gjelder tilsvarende.\nKongen​4 kan ved forskrift eller i enkelttilfelle​5 gjøre unntak fra kravet til minste grunnkapital når særlige grunner taler for det.\n0 Endret ved lover 21 juni 1985 nr. 78, 13 juni 1997 nr. 44 (i kraft 1 jan 1999 iflg. res. 17 juli 1998 nr. 615).\n1 Jfr. § 40 annet ledd.\n2 Jfr. lov 21 juni 1985 nr. 78.\n3 Lov 13 juni 1997 nr. 44 (asl.).\n4 Justisdepartementet iflg. res. 4 des 1981.\n5 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "content": "En næringsdrivende stiftelse skal av styret meldes til registrering i Foretaksregisteret.​1\nStiftelsen kan ikke registreres før det foreligger erklæring fra revisor​2 og styret​3 om at hele grunnkapitalen er stilt til styrets disposisjon.​4 Dersom andre formuesverdier enn penger skal gå inn i grunnkapitalen, skal stiftelsens revisor​2 dessuten avgi erklæring om at de oppførte verdier tilfredsstiller de krav som følger av § 25 første ledd annet punktum.\n0 Endret ved lov 21 juni 1985 nr. 78.\n1 Jfr. lov 21 juni 1985 nr. 78 § 2-1 første ledd nr. 4.\n2 Jfr. § 11.\n3 Jfr. § 5.\n4 Jfr. lov 21 juni 1985 nr. 78 § 4-4 e).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "content": "Vedtektene for en næringsdrivende stiftelse som nevnt i § 24 første ledd nr. 1 skal inneholde:\n1. Stiftelsens formål.\n2. Stiftelsens foretaksnavn (jfr. foretaksnavneloven​1 § 2-2 sjette ledd).\n3. Den kommune der stiftelsen har sitt forretningskontor.​2\n4. Grunnkapitalens størrelse.​3\n5. Hvilke organer stiftelsen skal ha,​4 og hvordan disse organer skal dannes og rekrutteres ved avgang. Organet kan ikke selv velge sine medlemmer.​5\nVedtektene skal videre inneholde regler om hvordan de skal kunne endres og regler om virksomhetens opphør og om hvordan stiftelsens verdier skal disponeres ved opphør av virksomheten.​6\n0 Endret ved lover 10 jan 1992 nr. 6, 5 sep 2003 nr. 91 (i kraft 1 mars 2004 iflg. res. 5 sep 2003 nr. 1118).\n1 Lov 21 juni 1985 nr. 79.\n2 Jfr. tvml. § 21.\n3 Jfr. § 25 første ledd.\n4 Jfr. § 5 første ledd.\n5 Jfr. § 7 og § 28 første ledd.\n6 Jfr. § 37.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "content": "For styre og forretningsfører gjelder reglene i aksjeloven​1 §§ 6-1 til 6-3 og §§ 6-6 til 6-34 så langt de passer. Et stiftelsesorgan kan likevel velge sine egne medlemmer dersom § 27 ikke er til hinder for dette.\nFor revisjon av stiftelsens regnskaper gjelder reglene i aksjeloven​1 kapittel 7 og revisorloven​2 § 2-2, kapitlene 4 til 8 og § 9-3, med tilhørende forskrifter, så langt de passer. Ved anvendelse av reglene der trer den eller de personer eller organer som etter vedtektene velger eller oppnevner styrets medlemmer​3 i generalforsamlingens sted.\nÅrsregnskapet og årsberetningen​4 skal godkjennes av den eller de personer eller organer som er nevnt i annet ledd. Disse personer eller organer har også myndighet til å iverksette gransking og pålegge opplysningsplikt etter reglene i § 22.\n0 Endret ved lover 7 april 1995 nr. 14 (i kraft 1 jan 1997), 13 juni 1997 nr. 44 (i kraft 1 jan 1999 iflg. res. 17 juli 1998 nr. 615), 26 juni 1998 nr. 46, 17 juli 1998 nr. 56 (i kraft 1 jan 1999), 15 jan 1999 nr. 2 (i kraft 1 aug 1999 iflg. forskrift 25 juni 1999 nr. 711).\n1 Lov 13 juni 1997 nr. 44 (asl.).\n2 Lov 15 jan 1999 nr. 2.\n3 Jfr. § 6.\n4 Jfr. lov 17 juli 1998 nr. 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:28 a",
+      "chapter": "5",
+      "section": "28 a",
+      "content": "For stiftelser som nevnt i § 24 første ledd nr. 3 gjelder særskilt:\n1. Utdeling på aksjer og andeler i selskaper stiftelsen har bestemmende innflytelse over, og renter til og fra slike selskap, skal inntas i en særskilt oppgave, dersom slike utdelinger ikke er vist ved spesifikasjoner i resultatregnskapet.​1\n2. Revisor​2 skal gjennomføre undersøkelser i selskaper stiftelsen har bestemmende innflytelse over i samme utstrekning som det er nødvendig for utarbeidelse av konsernregnskap. Revisor har samme rett til å foreta slike undersøkelser i stiftelsen selv.\n3. Det skal utarbeides konsernregnskap for stiftelsen og selskaper og andre formuesmasser som stiftelsen har bestemmende innflytelse over. Konsernregnskapet skal utarbeides etter reglene i regnskapsloven.​3 Konsernregnskapet skal revideres av stiftelsens revisor,​2 som skal avgi særskilt revisjonsberetning for konsernregnskapet.\n0 Tilføyd ved lov 7 april 1995 nr. 14 (i kraft 1 jan 1997), endret ved lover 17 juli 1998 nr. 56 (i kraft 1 jan 1999), 2 juli 1999 nr. 59 (i kraft 1 aug 1999 iflg. res. 2 juli 1999 nr. 715).\n1 Jfr. lov 17 juli 1998 nr. 56 § 6-1.\n2 Jfr. § 11.\n3 Lov 17 juli 1998 nr. 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28a",
+        "source_heading": "§ 28A."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "content": "Aksjeloven​1 § 6-4 første, annet og fjerde ledd, § 6-6 fjerde ledd og § 6-7 annet ledd annet punktum om de ansattes rett til styrerepresentasjon gjelder tilsvarende for næringsdrivende stiftelser som nevnt i § 24 første ledd nr. 1.\nDet samme gjelder for næringsdrivende stiftelser som nevnt i § 24 første ledd nr. 2 for så vidt gjelder næringsvirksomhet. Kongen​2 kan ved forskrift eller i enkelttilfelle​3 avgjøre hvilke ansatte som er knyttet til næringsvirksomheten og hvilke saker som gjelder denne.\nI næringsdrivende stiftelser som nevnt i § 24 første ledd nr. 1 og 2 og som de tre siste regnskapsår gjennomsnittlig har hatt flere enn 200 ansatte, skal de ansatte velge ett styremedlem og varamann i tillegg til den representasjon som følger av første og annet ledd. Det kan inngås avtale mellom stiftelsen og fagforeninger som omfatter to tredjedeler av de ansatte, eller et flertall av de ansatte om at de ansatte istedenfor ett styremedlem skal velge to observatører og varamenn.\nFor næringsdrivende stiftelser som nevnt i § 24 første ledd nr. 3 gjelder aksjeloven​1 § 6-5 tilsvarende for så vidt gjelder næringsvirksomhet. Annet ledd annet punktum gjelder tilsvarende.\nSom styre regnes også andre organer for stiftelsen som vedtektene tillegger selvstendig avgjørelses- eller kontrollmyndighet.​4\n0 Endret ved lover 10 juni 1988 nr. 44, 13 juni 1997 nr. 44 (i kraft 1 jan 1999 iflg. res. 17 juli 1998 nr. 615).\n1 Lov 13 juni 1997 nr. 44 (asl.).\n2 Kommunal- og regionaldepartementet iflg. res. 4 des 1981.\n3 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n4 Jfr. § 5, § 13, § 17 tredje ledd og § 31.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "content": "For næringsdrivende stiftelser som nevnt i § 24 første ledd nr. 3 medregnes i forhold til beløpsgrensen i § 20 også særskilte aktiva i den økonomiske virksomhet som stiftelsen har bestemmende innflytelse over. Innsendingsplikten etter § 20 jfr. § 21 omfatter også revidert regnskap for denne virksomheten. Videre omfattes denne virksomheten av granskingsmyndigheten og opplysningsplikten etter § 22. Har stiftelsen fått offentlig stadfestelse,​1 omfatter det offentlige tilsyn og opplysingsplikten (jfr. § 17) også den økonomiske virksomhet som stiftelsen har bestemmende innflytelse over.\nKongen​2 kan gi forskrift​3 om anvendelsen av reglene i kap. IV for næringsdrivende stiftelser, og herunder gjøre unntak fra reglene.\n1 Jfr. kap. III.\n2 Justisdepartementet iflg. res. 4 des 1981.\n3 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "5:31",
+      "chapter": "5",
+      "section": "31",
+      "content": "En stifter, et styremedlem, en forretningsfører eller en revisor som forsettlig eller uaktsomt overtrer bestemmelsene i dette kapittel eller som medvirker til at de blir overtrådt, straffes slik det er bestemt i aksjeloven​1 §§ 19-1 og 19-2.\n0 Endret ved lov 13 juni 1997 nr. 44 (i kraft 1 jan 1999 iflg. res. 17 juli 1998 nr. 615).\n1 Lov 13 juni 1997 nr. 44 (asl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "content": "Kongen​1 kan omdanne stiftelser m.m. (jfr. § 38) etter reglene i dette kapittel.\n1 Justisdepartementet iflg. res. 4 des 1981.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "content": "Søknad om omdanning settes fram av stifteren eller av stiftelsens styre.​1\nFør det blir gjort vedtak om omdanning, skal det innhentes uttalelse fra stifteren om han er i live, og fra stiftelsens styre.​1 Dersom stifteren er død, bør det innhentes uttalelse fra slektninger og andre som har stått ham nær, og fra organisasjoner, offentlige myndigheter og andre som omdanningsspørsmålet naturlig vedrører.\n1 Jfr. § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "content": "Adgangen til omdanning​1 omfatter enhver bestemmelse i den rettslige disposisjon som danner grunnlaget for stiftelsen,​2 eller i stiftelsens vedtekter.​3 Også bestemmelsene i tidligere omdanningsvedtak kan omdannes.\n1 Jfr. § 36.\n2 Jfr. § 2.\n3 Jfr. § 6 og § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "content": "Omdanning kan foretas når en bestemmelse som nevnt i § 34 på grunn av endrede forhold:\n1. ikke lenger lar seg etterleve; herunder regnes også at stiftelsens kapital er blitt utilstrekkelig til å tilgodese dens formål på rimelig måte,\n2. er blitt åpenbart unyttig,\n3. er kommet i strid med hensikten i den disposisjon som danner grunnlaget for stiftelsen;​1 herunder regnes også at stifterens forutsetninger for bestemmelsen har sviktet, eller\n4. er blitt åpenbart uheldig eller åpenbart ufornuftig.\nDersom bestemmelsen ikke gjelder formålet med stiftelsen, og det ellers må antas at det ved opprettelsen ikke er lagt vesentlig vekt på den, kan omdanning skje når bestemmelsen på grunn av endrede forhold viser seg å være uheldig eller uhensiktsmessig.\nOmdanning kan også foretas når forhold som nevnt i paragrafen her ikke har endret seg, men var til stede alt da stiftelsen ble opprettet. Det er da en forutsetning at opprettelsen av stiftelsen ikke er ugyldig på grunn av de nevnte forhold.\n1 Jfr. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "6:36",
+      "chapter": "6",
+      "section": "36",
+      "content": "Ved omdanning kan en bestemmelse som nevnt i § 34 endres eller oppheves.\nOmdanning kan også gå ut på at en stiftelse oppheves, bl.a. ved:\n1. at grunnkapitalen tillates brukt til formålet,\n2. at stiftelsen slås sammen med en eller flere andre stiftelser med i det vesentlige likeartet formål, eller\n3. at den deles i flere stiftelser.\nVidere kan det bestemmes å frigi båndlagt eiendom som tilhører stiftelsen.\nNår en omdanning vedrører stiftelsens formål eller en annen bestemmelse som det må antas at det ble lagt vesentlig vekt på ved opprettelsen av stiftelsen, skal endringen så langt råd er tilpasses det opprinnelige formålet og tankegangen i stiftelsesgrunnlaget.\nUnder særlige forhold kan omdanningsvedtaket gå ut på å gjøre unntak fra vedkommende bestemmelse i enkelttilfelle.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "6:37",
+      "chapter": "6",
+      "section": "37",
+      "content": "Reglene i dette kapittel står tilbake for en bestemmelse som er truffet i den disposisjon som danner grunnlaget for stiftelsen.​1 Forbud mot omdanning er likevel ikke gyldig. Omdanningsmyndigheten kan ikke legges til stifteren selv uten på nærmere vilkår av den art som er nevnt i §§ 35 og 36.\n1 Jfr. § 27 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "6:38",
+      "chapter": "6",
+      "section": "38",
+      "content": "Reglene i dette kapittel om omdanning av stiftelser gjelder tilsvarende for:\n1. Verdier som er gitt til en bestående stiftelse.\n2. Verdier som er gitt til en forening, et selskap eller til en privat eller offentlig institusjon eller innretning med nærmere bestemmelse om hvordan midlene skal brukes.\n3. Midler som er samlet inn til et bestemt formål.\n4. Midler som tilhører en forening, når det følger av foreningsrettslige regler at foreningen ikke har fri rådighet over midlene.\n5. Vilkår, påbud, forbud eller annen forpliktelse som følger av et testament,​1 gavebrev eller av annen privatrettslig disposisjon vedrørende fast eiendom eller andre verdier, og som ikke er satt til fordel for en bestemt eller flere bestemte rettshavere, eller som rettshaveren ikke har adgang til å endre.​2\nSøknad som nevnt i § 33 kan også settes fram av den som rår over de midler saken gjelder. Søknad om omdanning etter første ledd nr. 5 kan settes fram av den som forpliktelsen hviler på eller av rettshaveren.\n1 Jfr. lov 3 mars 1972 nr. 5 kap. VIII flg.\n2 Jfr. lover 22 april 1927 nr. 3 § 89, 8 juni 1984 nr. 59 kap. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "7:39",
+      "chapter": "7",
+      "section": "39",
+      "content": "Denne lov trer i kraft når Kongen bestemmer.​1\n1 Fra 1 jan 1982 iflg. res. 4 des 1981.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "7:40",
+      "chapter": "7",
+      "section": "40",
+      "content": "Bestemmelsene i § 16 gjelder ikke for stiftelser som har fått offentlig stadfestelse før loven trer i kraft.\nBestemmelsen i § 25 første ledd gjelder ikke for stiftelser som har begynt næringsvirksomheten før loven trer i kraft. Registrering etter § 26 skal skje innen 6 måneder etter at loven er trådt i kraft.\n– – –\nFor øvrig gjelder lovens regler også for stiftelser m.m. som er opprettet før loven trer i kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "7:41",
+      "chapter": "7",
+      "section": "41",
+      "content": "Funksjoner som etter statuttbestemmelse er lagt til stiftsdireksjonen, skal utøves av vedkommende fylkesmann om det ikke må antas å være lagt vesentlig vekt på biskopens deltakelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "7:42",
+      "chapter": "7",
+      "section": "42",
+      "content": "Fra den tid loven trer i kraft oppheves: – – –​1\nFra samme tidspunkt gjøres disse endringer – – –\n1 Se note til lovens overskrift.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Denne lov gjelder for private og offentlige stiftelser, jfr. §§ 2 og 14.\nReglene i kap. VI om omdanning av stiftelser gjelder også i de forhold som § 38 nevner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "En stiftelse dannes ved at en formuesverdi ved testament,​1 gave eller annen rettslig disposisjon selvstendig blir stilt til rådighet for et bestemt formål av ideell, humanitær, sosial, utdanningsmessig, økonomisk eller annen art.\nSom stiftelser regnes også selvstendige legater, institusjoner og fond som private har opprettet.\n1 Jfr. lov 3 mars 1972 nr. 5 kap. VIII flg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Stiftelser som helt eller delvis er opprettet av offentlig organ, går inn under loven om ikke Kongen​1 gjør unntak i det enkelte tilfelle.\nOffentlige fond (dvs. fond som offentlig organ har avsatt til bestemt formål ved bevilgning eller avgiftspålegg), går inn under loven bare i den utstrekning vedkommende myndighet bestemmer. Det samme gjelder for institusjoner og innretninger som er opprettet av offentlig organ, eller som av andre grunner må regnes som offentlige.\nLovens regler om stiftelser omfatter ikke:\n1. Kirker og kirkegårder og verdier for øvrig som menighet eller trossamfunn eier.\n2. Pensjonskasse med foretakspensjonsordning etter lov om foretakspensjon.​2\n3. Pensjonskasse med pensjonsordning etter innskuddspensjonsloven​3\n4. Sparebanker.​4\n5. Stamhus og fideikommisser.​5\n6. Verdier som selskaper, andelslag eller foreninger eier.\n0 Endret ved lover 14 juni 1985 nr. 69, 26 mars 1999 nr. 14 (i kraft 1 jan 2000), 24 mars 2000 nr. 16 (i kraft 1 jan 2001 iflg. res. 25 aug 2000 nr. 879), 24 nov 2000 nr. 81 (i kraft 1 jan 2001 iflg. res. 24 nov 2000 nr. 1167).\n1 Justisdepartementet iflg. res. 4 des 1981.\n2 Lov 24 mars 2000 nr. 16.\n3 Lov 24 nov 2000 nr. 81.\n4 Jfr. lov 24 mai 1961 nr. 1.\n5 Jfr. Grl. § 108, jfr. lov 4 juli 1927 nr. 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "En stiftelse er opprettet når den rettslige disposisjon som danner grunnlaget for den,​1 etter alminnelige regler er blitt bindende for den som har avgitt disposisjonen.​2 Fra dette tidspunkt har han ikke eierrådighet over stiftelsen og dens formuesverdier.\n1 Jfr. § 2.\n2 Jfr. lov 3 mars 1972 nr. 5 kap. IX og lov 31 mai 1918 nr. 4 kap. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "Enhver stiftelse skal ha et styre.​1 Styret representerer stiftelsen utad og har ansvaret for at stiftelsen og det som vedkommer den blir forvaltet tilfredsstillende. I vedtektene kan det bestemmes at stiftelsen også skal ha andre organer.\nFylkesmannen kan oppnevne styre for en stiftelse når den er uten styre og det ikke er noen som etter vedtektene​2 kan velge eller oppnevne styret.\nNår det blir opprettet en ny stiftelse ved testament,​3 skal tingretten underrette fylkesmannen. Fylkesmannen eller den han bestemmer, representerer stiftelsen under skiftet inntil det er opprettet et styre.\n0 Endret ved lov 30 aug 2002 nr. 67 (i kraft 1 jan 2003 iflg. res. 30 aug 2002 nr. 938).\n1 Jfr. § 16 første ledd nr. 7.\n2 Jfr. § 6.\n3 Jfr. lov 3 mars 1972 nr. 5 kap. VIII flg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "Dersom vedtekter (statutter) for en stiftelse ikke er fastlagt i den rettslige disposisjon som danner grunnlaget for den,​1 skal stiftelsens styre​2 utarbeide vedtekter.​3 Vedtektene skal alltid nevne stiftelsens formål, grunnkapital​4 og hvordan styret skal dannes.​5\n1 Jfr. § 2.\n2 Jfr. § 5.\n3 Jfr. § 27.\n4 Jfr. § 25.\n5 Jfr. § 16 første ledd nr. 7 og § 28 og § 29.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "Styremedlem tjenestegjør i fire​1 år, når annet ikke er fastsatt i stiftelsens vedtekter. En umyndig​2 kan ikke være styremedlem eller forretningsfører.\nStyremedlem,​3 observatør​4 eller forretningsfører er ugild til å delta i behandlingen eller avgjørelsen av spørsmål som har slik særlig betydning for ham selv eller noen som står ham nær, at han må sies å ha en framtredende personlig eller økonomisk særinteresse i saken.​5 Likeså er han ugild når han har stilling eller tillitsverv i en privat eller offentlig institusjon, organisasjon eller et foretak som har økonomisk eller annen framtredende interesse i saken, eller når han i slik egenskap tidligere har deltatt i behandling i saken. Han er likevel ikke ugild på grunn av offentlig stilling eller verv i saker som i det vesentlige gjelder bruken av midler fra det offentlige.\n0 Endret ved lover 13 mars 1987 nr. 14, 10 juni 1988 nr. 44.\n1 Jfr. § 29 første ledd og lov 13 juni 1997 nr. 44 (asl.) § 6-6 (4).\n2 Jfr. lov 22 april 1927 nr. 3 § 1.\n3 Jfr. § 29. Jfr. lover 13 juni 1997 nr. 44 (asl.) og 13 juni 1997 nr. 45 (asal.).\n4 Jfr. § 29.\n5 Jfr. lov 13 juni 1997 nr. 44 (asl.) § 6-27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "Godtgjørelse til styremedlem, observatør​1 eller forretningsfører i en stiftelse skal stå i rimelig forhold til det arbeid og ansvar som følger med vervet. Fylkesmannen kan sette ned godtgjørelse som er urimelig høy.\nStyremedlem, observatør​1 eller forretningsfører må ikke uten fylkesmannens samtykke ha lån i stiftelsen. Like med lån regnes sikkerhetsstillelse for styremedlems, observatørs eller forretningsførers forpliktelser.\n0 Endret ved lov 10 juni 1988 nr. 44.\n1 Jfr. § 29. Jfr. lover 13 juni 1997 nr. 44 (asl.) og 13 juni 1997 nr. 45 (asal.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "Styret gjør vedtak i møte.​1 Som styrets vedtak gjelder det som flertallet av de møtende styremedlemmer har stemt for. Ved stemmelikhet gjelder det som formannen har stemt for. Er formannen ikke til stede, gjelder det som møtelederen har stemt for.​2\nStyret skal føre møtebok. Møteboken skal ha fortløpende sidetall.\nMøteboken skal inneholde de vedtak som styret gjør i saker som gjelder stiftelsen. Tid og sted for møtene skal gå fram av boken, likeså meningsforskjell mellom styremedlemmer som er til stede. Boken skal underskrives av de styremedlemmer som er til stede.\nDisse regler gjelder ikke for stiftelser med enestyre. Reglene i første ledd annet, tredje og fjerde punktum kan settes til side i stiftelsens vedtekter.\n0 Endret ved lov 10 juni 1988 nr. 44.\n1 Jfr. § 28 første ledd og lov 13 juni 1997 nr. 44 (asl.) § 6-19.\n2 Jfr. fjerde ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "Enhver stiftelse har regnskapsplikt etter regnskapsloven.​2\nÅrsregnskap, årsberetning​3 og revisjonsberetning skal sendes fylkesmannen senest en måned etter fastsetting av årsregnskapet. Innsendingsplikten gjelder likevel ikke for stiftelser som etter § 18 ikke skal registerføres av fylkesmannen.\nDepartementet kan i forskrift​4 gi særlige regler om årsregnskapet, årsberetningen​3 og innsendingsplikten i private,​5 ikke næringsdrivende stiftelser​6 der forvaltningskapitalen ikke overstiger kr 500.000.\n0 Endret ved lover 7 april 1995 nr. 14 (tredje ledd i kraft 7 april 1995, første og annet ledd 1 jan 1997), 17 juli 1998 nr. 56 (i kraft 1 jan 1999).\n1 Jfr. § 28 A.\n2 Lov 17 juli 1998 nr. 56.\n3 Jfr. lov 17 juli 1998 nr. 56 § 3-3.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n5 Jfr. § 14.\n6 Se § 24.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "Enhver stiftelse har revisjonsplikt etter revisorloven.​1\nRevisjonsplikten etter første punktum gjelder likevel ikke for stiftelser som etter § 18 ikke skal registerføres av fylkesmannen. Departementet kan gi særlige regler om revisjonsplikten i private,​2 ikke næringsdrivende stiftelser​3 der forvaltningskapitalen ikke overstiger kr. 500.000.\nRevisor skal i revisjonsberetningen bekrefte at stiftelsens årsoppgjør​4 er i samsvar med stiftelsens formål.\nDersom styremedlemmer eller ansatte i stiftelsen, eller nærstående av disse, eller stiftelsens stifter eller nærstående til denne, har mottatt lån eller annen ytelse fra stiftelsen, skal revisor attestere at ytelsen er i samsvar med lov, forskrifter og stiftelsens formål.\nKopi av revisors merknader i revisjonsprotokollen sendes fortløpende til fylkesmannen.\nRevisor velges av den eller de personer eller organer som etter vedtektene velger eller oppnevner styrets medlemmer.\nFylkesmannen kan be revisor gjøre nærmere rede for bestemt angitte forhold i stiftelsen. Reglene om revisors taushetsplikt​5 gjelder ikke i forhold til fylkesmannen.\nDersom revisor ikke gjennomfører sine plikter etter denne lov, kan den eller de personer eller organer som etter vedtektene velger eller oppnevner styrets medlemmer​6 frata revisor oppdraget og skal i så fall velge en ny revisor. I slike tilfeller kan fylkesmannen frata revisor oppdraget og oppnevne ny revisor dersom vedkommende organ unnlater å gjøre det. Tilsvarende gjelder dersom vedkommende organ unnlater å oppnevne revisor, eller den som er valgt ikke fyller vilkårene for å være revisor. Fylkesmannens oppnevning gjelder for tiden inntil annen revisor er valgt på foreskrevet måte.\nDersom en eller flere kommuner eller en fylkeskommune har betydelig styringsfunksjon i forhold til en stiftelse, ved rett til å velge eller oppnevne styret eller et flertall i styret eller på annen måte, kan kommune- eller fylkesrevisjonen​7 velges som stiftelsens revisor. Det samme gjelder hvor stiftelsens virksomhet i vesentlig grad er basert på tilskudd eller bevilgning fra kommune eller fylkeskommune som nevnt. Forøvrig gjelder reglene i denne paragraf.\n0 Endret ved lover 7 april 1995 nr. 14 (annet ledd i kraft 7 april 1995, resten av paragrafen i kraft 1 jan 1997), 17 juli 1998 nr. 56 (i kraft 1 jan 1999), 15 jan 1999 nr. 2 (i kraft 1 aug 1999 iflg. forskrift 25 juni 1999 nr. 711), 7 mai 2004 nr. 21 (i kraft 1 jan 2005).\n1 Lov 15 jan 1999 nr. 2.\n2 Jfr. § 14.\n3 Jfr. § 24.\n4 Jfr. lov 17 juli 1998 nr. 56.\n5 Jfr. lov 15 jan 1999 nr. 2 § 6-1.\n6 Jfr. § 6.\n7 Jfr. lov 25 sep 1992 nr. 107 § 60.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "content": "Eiendelene til en stiftelse skal holdes atskilt fra andre midler når ikke midlene forvaltes av overformynderi etter vergemålslovens​1 § 91. Fylkesmannen kan tillate at midler fra flere stiftelser blir lagt under felles forvaltning.\nDersom det ikke strider mot bestemmelser i stiftelsesgrunnlaget,​2 skal verdipapirer overlates til forvaltning i en bank som er godkjent etter vergemålsloven​1 § 65 første ledd. Kassebeholdning skal stå på bankkonto, bortsett fra midler som trengs til daglige utbetalinger. Fylkesmannen kan fravike bestemmelsene i første og annet punktum når annen forvaltning anses betryggende. Forvaltes midlene av overformynderiet, gjelder vergemålsloven​1 § 65 første ledd femte punktum tilsvarende.\n0 Endret ved lover 5 des 1988 nr. 61, 9 jan 1998 nr. 5.\n1 Lov 22 april 1927 nr. 3.\n2 Jfr. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "content": "Et styremedlem plikter å erstatte skade som han forsettlig eller uaktsomt volder stiftelsen eller andre. Erstatningsansvar etter forrige punktum kan lempes når dette finnes rimelig under hensyn til utvist skyld, skadens størrelse, økonomisk evne og forholdene ellers.\nFørste ledd gjelder tilsvarende for andre som har verv i stiftelsen eller som har fullmakt til å handle på vegne av stiftelsen.​1\nFylkesmannen kan på vegne av stiftelsen reise søksmål mot dens styremedlemmer og andre som har verv i stiftelsen, med påstand om at vedkommende skal fradømmes vervet.\nFylkesmannen kan på vegne av stiftelsen begjære offentlig påtale av straffbare handlinger begått av personer nevnt i første og annet ledd.\n0 Endret ved lover 16 juni 1989 nr. 71, 7 april 1995 nr. 14 (i kraft 1 jan 1997).\n1 Jfr. § 5 og § 28 første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "content": "Med offentlig stiftelse menes i denne lov:\n1. Stiftelse som er stadfestet i samsvar med § 15.\n2. Stiftelse som er dannet ved testament som har fått kongelig konfirmasjon før 1. januar 1855.\nAndre stiftelser er private stiftelser.​1\n1 Se kap. IV og V.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "content": "Søknad om offentlig stadfestelse av en stiftelse kan settes fram av stifteren​1 eller av stiftelsens styre.​2 Det kan søkes om offentlig stadfestelse selv om stifteren ikke har bestemt at dette skal gjøres.\nOffentlig stadfestelse gis av Kongen eller av annen myndighet etter fullmakt fra Kongen.​3\n1 Jfr. § 2.\n2 Jfr. § 5.\n3 Justisdepartementet iflg. res. 4 des 1981.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "Vilkårene for offentlig stadfestelse er:\n1. At stiftelsens formål​2 har en viss allmenn interesse, og at den tar sikte på varig virksomhet.\n2. At stiftelsen ikke utelukkende har til oppgave å tilgodese medlemmer av en bestemt familie. Ubetinget fortrinnsrett for familien kan likevel godtas når fortrinnsretten ikke strekker seg lenger enn til slektninger i fjerde ledd regnet fra stifterens foreldre.​3\n3. At stiftelsens forvaltningskapital står i rimelig forhold til formålet, og grunnkapitalen​2 (egenkapitalen) har en viss minste størrelse som fastsettes av Kongen.​4\n4. At stiftelsens grunnkapital​2 skal være urørlig. Minst en tiendedel av kapitalavkastningen skal vanligvis legges til kapitalen.\n5. At testator er død, dersom stiftelsen grunner seg på testament.​5 I andre tilfelle må det foreligge erklæring fra styret om at kapitalen er stilt til dets rådighet.\n6. At personer eller institusjoner som er tillagt styrefunksjon i stiftelsen har erklært seg villige til å overta vervet. Når en person i egenskap av innehaver av offentlig eller privat verv eller stilling har samtykket i å overta en funksjon i stiftelsen, går funksjonen over på hans etterfølger i vervet eller stillingen om ikke etterfølgerens overordnede fritar ham.\n7. At det skal være minst to personer i styret. Det kan ikke legges til styret å velge styremedlemmer.\nVilkårene i første ledd kan fravikes dersom det i enkelttilfelle er særlig grunn til det. Vilkårene under nr. 1 og 4 om varig virksomhet og urørlig grunnkapital kan fravikes dersom det er naturlig etter stiftelsens formål og stiftelsen tar sikte på virksomhet i minst 30 år.\n1 Jfr. § 40 første ledd.\n2 Jfr. § 6.\n3 Jfr. Grl. § 108.\n4 Justisdepartementet iflg. res. 4 des 1981.\n5 Jfr. lov 3 mars 1972 nr. 5 kap. VIII flg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "Når en stiftelse har fått offentlig stadfestelse, er den undergitt offentlig tilsyn etter forskrifter som Kongen​1 gir.\nTilsynet går ut på:\n1. Å se til at stiftelsens virksomhet utøves lovlig og i samsvar med dens formål og vedtekter.​2\n2. Å se til at stiftelsens verdier forvaltes og anbringes på den måte som til enhver tid er bestemt.\n3. Å overvåke at stiftelsen fører regnskap​3 og underkaster seg revisjon​4 slik det er bestemt i lov og forskrifter.\nStiftelsens styre,​5 forretningsfører og revisor plikter å gi tilsynsmyndigheten alle opplysninger som trengs for å utøve tilsynet. Tilsvarende gjelder for medlemmer av andre organer for stiftelsen med selvstendig avgjørelses- eller kontrollmyndighet.\n1 Justisdepartementet iflg. res. 4 des 1981.\n2 Jfr. § 6.\n3 Jfr. § 10.\n4 Jfr. § 11.\n5 Jfr. § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:17 a",
+      "chapter": "3",
+      "section": "17 a",
+      "content": "I noter til årsregnskapet skal det gis følgende opplysninger i tillegg til de noteopplysninger som skal gis etter regnskapsloven:​1\na. stiftelsens faste eiendommer, pantobligasjoner og andre verdipapirer, bankinnskudd og andre formuesgjenstander som sikrer stiftelsens kapital eller er av vesentlig betydning for virksomhet stiftelsen driver,\nb. utbetalte legatporsjoner og ytelser fra stiftelsen i henhold til dens formål og\nc. lønn og andre ytelser til styremedlemmer og forretningsfører.\nDersom stiftelsens midler er lånt ut med pant i fast eiendom eller dersom stiftelsen eier fast eiendom, skal revisor attestere at eiendommen er tilstrekkelig forsikret.\nEr det i regnskapsåret gitt ytelser til personer eller institusjoner som ikke er navngitt i stiftelsens vedtekter, skal revisor attestere at utdelingen er godkjent av styret.\nEr det i regnskapsåret ytet nye lån av stiftelsens midler, skal revisor attestere at lånebeløpet er utbetalt provisjonsfritt.\n0 Tilføyd ved lov 7 april 1995 nr. 14 (i kraft 1 jan 1997), endret ved lov 17 juli 1998 nr. 56 (i kraft 1 jan 1999).\n1 Lov 17 juli 1998 nr. 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17a",
+        "source_heading": "§ 17A."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "content": "Private stiftelser skal meldes til fylkesmannen når forvaltningskapitalen utgjør 50.000 kroner eller mer. Fylkesmannen fører register over stiftelser som er meldt.\nMeldeplikten påligger stiftelsens styre.​1\n1 Jfr. § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "content": "Meldingen skal inneholde:\n1. Bekreftet avskrift av den disposisjon som danner grunnlaget for stiftelsen.​1\n2. Stiftelsens vedtekter.​2\n3. Oppgave over medlemmer av stiftelsens styre​3 med opplysning om deres adresse.\n4. Oppgave over stiftelsens eiendeler og gjeld.​4\nSkjer det forandring i noen av de forhold som er nevnt i første ledd nr. 1, 2 eller 3, skal forandringen meldes til fylkesmannen.\n1 Jfr. § 2.\n2 Jfr. § 6.\n3 Jfr. § 5.\n4 Jfr. § 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 7 april 1995 nr. 14 (i kraft 1 jan 1997).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 7 april 1995 nr. 14 (i kraft 1 jan 1997).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "content": "Fylkesmannen eller den han gir fullmakt har rett til å granske stiftelsens møtebok og regnskaper.​1 Granskingen har til formål å klarlegge om stiftelsen forvaltes i samsvar med lov, forskrifter og stiftelsens vedtekter.\nStiftelsens styre,​2 forretningsfører og revisor​3 plikter å gi de opplysninger som trengs for granskingen. Tilsvarende gjelder for medlemmer av andre organer for stiftelsen med selvstendig avgjørelses- eller kontrollmyndighet.\nUttalelser og henstillinger på grunnlag av granskingen skal gis skriftlig.\n1 Jfr. § 9 og § 10.\n2 Jfr. § 5.\n3 Jfr. § 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "content": "Ved gransking etter § 22 kan fylkesmannen pålegge stiftelsen helt eller delvis å dekke det offentliges utgifter ved granskingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "content": "Med næringsdrivende stiftelser menes i denne lov:​1\n1. Stiftelser som har til formål​2 å drive næringsvirksomhet selv.\n2. Andre stiftelser som driver næringsvirksomhet selv.\n3. Stiftelser som gjennom aksjer eller andeler har bestemmende innflytelse over næringsvirksomhet utenfor stiftelsen.\nKongen​3 avgjør i tvilstilfelle om det foreligger en næringsdrivende stiftelse, og om den går under nr. 1, 2 eller 3 i første ledd.\nSom næringsdrivende stiftelse etter første ledd nr. 1 regnes også stiftelser som har til formål å erverve boliger med sikte på salg eller utleie (boligstiftelser). For slike stiftelser kan Kongen​3 ved forskrift​4 eller i enkelttilfelle​5 gjøre unntak fra bestemmelsene i dette kapittel. Han kan ved forskrift​4 også gi særlige regler for slike stiftelser og herunder fravike bestemmelsene i dette kapittel.\n1 Jfr. lov 10 juni 1988 nr. 40 § 2-22.\n2 Jfr. § 6.\n3 Justisdepartementet iflg. res. 4 des 1981.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n5 Jfr. lov 10 feb 1967 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "content": "En næringsdrivende stiftelse som nevnt i § 24 første ledd nr. 1 må på tidspunktet for registrering i Foretaksregisteret​2 (jfr. § 26) ha en innbetalt grunnkapital (egenkapital) på minst 200.000 kroner. Aksjeloven​3 § 2-7 gjelder tilsvarende.\nKongen​4 kan ved forskrift eller i enkelttilfelle​5 gjøre unntak fra kravet til minste grunnkapital når særlige grunner taler for det.\n0 Endret ved lover 21 juni 1985 nr. 78, 13 juni 1997 nr. 44 (i kraft 1 jan 1999 iflg. res. 17 juli 1998 nr. 615).\n1 Jfr. § 40 annet ledd.\n2 Jfr. lov 21 juni 1985 nr. 78.\n3 Lov 13 juni 1997 nr. 44 (asl.).\n4 Justisdepartementet iflg. res. 4 des 1981.\n5 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "content": "En næringsdrivende stiftelse skal av styret meldes til registrering i Foretaksregisteret.​1\nStiftelsen kan ikke registreres før det foreligger erklæring fra revisor​2 og styret​3 om at hele grunnkapitalen er stilt til styrets disposisjon.​4 Dersom andre formuesverdier enn penger skal gå inn i grunnkapitalen, skal stiftelsens revisor​2 dessuten avgi erklæring om at de oppførte verdier tilfredsstiller de krav som følger av § 25 første ledd annet punktum.\n0 Endret ved lov 21 juni 1985 nr. 78.\n1 Jfr. lov 21 juni 1985 nr. 78 § 2-1 første ledd nr. 4.\n2 Jfr. § 11.\n3 Jfr. § 5.\n4 Jfr. lov 21 juni 1985 nr. 78 § 4-4 e).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "content": "Vedtektene for en næringsdrivende stiftelse som nevnt i § 24 første ledd nr. 1 skal inneholde:\n1. Stiftelsens formål.\n2. Stiftelsens foretaksnavn (jfr. foretaksnavneloven​1 § 2-2 sjette ledd).\n3. Den kommune der stiftelsen har sitt forretningskontor.​2\n4. Grunnkapitalens størrelse.​3\n5. Hvilke organer stiftelsen skal ha,​4 og hvordan disse organer skal dannes og rekrutteres ved avgang. Organet kan ikke selv velge sine medlemmer.​5\nVedtektene skal videre inneholde regler om hvordan de skal kunne endres og regler om virksomhetens opphør og om hvordan stiftelsens verdier skal disponeres ved opphør av virksomheten.​6\n0 Endret ved lover 10 jan 1992 nr. 6, 5 sep 2003 nr. 91 (i kraft 1 mars 2004 iflg. res. 5 sep 2003 nr. 1118).\n1 Lov 21 juni 1985 nr. 79.\n2 Jfr. tvml. § 21.\n3 Jfr. § 25 første ledd.\n4 Jfr. § 5 første ledd.\n5 Jfr. § 7 og § 28 første ledd.\n6 Jfr. § 37.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "content": "For styre og forretningsfører gjelder reglene i aksjeloven​1 §§ 6-1 til 6-3 og §§ 6-6 til 6-34 så langt de passer. Et stiftelsesorgan kan likevel velge sine egne medlemmer dersom § 27 ikke er til hinder for dette.\nFor revisjon av stiftelsens regnskaper gjelder reglene i aksjeloven​1 kapittel 7 og revisorloven​2 § 2-2, kapitlene 4 til 8 og § 9-3, med tilhørende forskrifter, så langt de passer. Ved anvendelse av reglene der trer den eller de personer eller organer som etter vedtektene velger eller oppnevner styrets medlemmer​3 i generalforsamlingens sted.\nÅrsregnskapet og årsberetningen​4 skal godkjennes av den eller de personer eller organer som er nevnt i annet ledd. Disse personer eller organer har også myndighet til å iverksette gransking og pålegge opplysningsplikt etter reglene i § 22.\n0 Endret ved lover 7 april 1995 nr. 14 (i kraft 1 jan 1997), 13 juni 1997 nr. 44 (i kraft 1 jan 1999 iflg. res. 17 juli 1998 nr. 615), 26 juni 1998 nr. 46, 17 juli 1998 nr. 56 (i kraft 1 jan 1999), 15 jan 1999 nr. 2 (i kraft 1 aug 1999 iflg. forskrift 25 juni 1999 nr. 711).\n1 Lov 13 juni 1997 nr. 44 (asl.).\n2 Lov 15 jan 1999 nr. 2.\n3 Jfr. § 6.\n4 Jfr. lov 17 juli 1998 nr. 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:28 a",
+      "chapter": "5",
+      "section": "28 a",
+      "content": "For stiftelser som nevnt i § 24 første ledd nr. 3 gjelder særskilt:\n1. Utdeling på aksjer og andeler i selskaper stiftelsen har bestemmende innflytelse over, og renter til og fra slike selskap, skal inntas i en særskilt oppgave, dersom slike utdelinger ikke er vist ved spesifikasjoner i resultatregnskapet.​1\n2. Revisor​2 skal gjennomføre undersøkelser i selskaper stiftelsen har bestemmende innflytelse over i samme utstrekning som det er nødvendig for utarbeidelse av konsernregnskap. Revisor har samme rett til å foreta slike undersøkelser i stiftelsen selv.\n3. Det skal utarbeides konsernregnskap for stiftelsen og selskaper og andre formuesmasser som stiftelsen har bestemmende innflytelse over. Konsernregnskapet skal utarbeides etter reglene i regnskapsloven.​3 Konsernregnskapet skal revideres av stiftelsens revisor,​2 som skal avgi særskilt revisjonsberetning for konsernregnskapet.\n0 Tilføyd ved lov 7 april 1995 nr. 14 (i kraft 1 jan 1997), endret ved lover 17 juli 1998 nr. 56 (i kraft 1 jan 1999), 2 juli 1999 nr. 59 (i kraft 1 aug 1999 iflg. res. 2 juli 1999 nr. 715).\n1 Jfr. lov 17 juli 1998 nr. 56 § 6-1.\n2 Jfr. § 11.\n3 Lov 17 juli 1998 nr. 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28a",
+        "source_heading": "§ 28A."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "content": "Aksjeloven​1 § 6-4 første, annet og fjerde ledd, § 6-6 fjerde ledd og § 6-7 annet ledd annet punktum om de ansattes rett til styrerepresentasjon gjelder tilsvarende for næringsdrivende stiftelser som nevnt i § 24 første ledd nr. 1.\nDet samme gjelder for næringsdrivende stiftelser som nevnt i § 24 første ledd nr. 2 for så vidt gjelder næringsvirksomhet. Kongen​2 kan ved forskrift eller i enkelttilfelle​3 avgjøre hvilke ansatte som er knyttet til næringsvirksomheten og hvilke saker som gjelder denne.\nI næringsdrivende stiftelser som nevnt i § 24 første ledd nr. 1 og 2 og som de tre siste regnskapsår gjennomsnittlig har hatt flere enn 200 ansatte, skal de ansatte velge ett styremedlem og varamann i tillegg til den representasjon som følger av første og annet ledd. Det kan inngås avtale mellom stiftelsen og fagforeninger som omfatter to tredjedeler av de ansatte, eller et flertall av de ansatte om at de ansatte istedenfor ett styremedlem skal velge to observatører og varamenn.\nFor næringsdrivende stiftelser som nevnt i § 24 første ledd nr. 3 gjelder aksjeloven​1 § 6-5 tilsvarende for så vidt gjelder næringsvirksomhet. Annet ledd annet punktum gjelder tilsvarende.\nSom styre regnes også andre organer for stiftelsen som vedtektene tillegger selvstendig avgjørelses- eller kontrollmyndighet.​4\n0 Endret ved lover 10 juni 1988 nr. 44, 13 juni 1997 nr. 44 (i kraft 1 jan 1999 iflg. res. 17 juli 1998 nr. 615).\n1 Lov 13 juni 1997 nr. 44 (asl.).\n2 Kommunal- og regionaldepartementet iflg. res. 4 des 1981.\n3 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n4 Jfr. § 5, § 13, § 17 tredje ledd og § 31.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "content": "For næringsdrivende stiftelser som nevnt i § 24 første ledd nr. 3 medregnes i forhold til beløpsgrensen i § 20 også særskilte aktiva i den økonomiske virksomhet som stiftelsen har bestemmende innflytelse over. Innsendingsplikten etter § 20 jfr. § 21 omfatter også revidert regnskap for denne virksomheten. Videre omfattes denne virksomheten av granskingsmyndigheten og opplysningsplikten etter § 22. Har stiftelsen fått offentlig stadfestelse,​1 omfatter det offentlige tilsyn og opplysingsplikten (jfr. § 17) også den økonomiske virksomhet som stiftelsen har bestemmende innflytelse over.\nKongen​2 kan gi forskrift​3 om anvendelsen av reglene i kap. IV for næringsdrivende stiftelser, og herunder gjøre unntak fra reglene.\n1 Jfr. kap. III.\n2 Justisdepartementet iflg. res. 4 des 1981.\n3 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "5:31",
+      "chapter": "5",
+      "section": "31",
+      "content": "En stifter, et styremedlem, en forretningsfører eller en revisor som forsettlig eller uaktsomt overtrer bestemmelsene i dette kapittel eller som medvirker til at de blir overtrådt, straffes slik det er bestemt i aksjeloven​1 §§ 19-1 og 19-2.\n0 Endret ved lov 13 juni 1997 nr. 44 (i kraft 1 jan 1999 iflg. res. 17 juli 1998 nr. 615).\n1 Lov 13 juni 1997 nr. 44 (asl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "content": "Kongen​1 kan omdanne stiftelser m.m. (jfr. § 38) etter reglene i dette kapittel.\n1 Justisdepartementet iflg. res. 4 des 1981.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "content": "Søknad om omdanning settes fram av stifteren eller av stiftelsens styre.​1\nFør det blir gjort vedtak om omdanning, skal det innhentes uttalelse fra stifteren om han er i live, og fra stiftelsens styre.​1 Dersom stifteren er død, bør det innhentes uttalelse fra slektninger og andre som har stått ham nær, og fra organisasjoner, offentlige myndigheter og andre som omdanningsspørsmålet naturlig vedrører.\n1 Jfr. § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "content": "Adgangen til omdanning​1 omfatter enhver bestemmelse i den rettslige disposisjon som danner grunnlaget for stiftelsen,​2 eller i stiftelsens vedtekter.​3 Også bestemmelsene i tidligere omdanningsvedtak kan omdannes.\n1 Jfr. § 36.\n2 Jfr. § 2.\n3 Jfr. § 6 og § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "content": "Omdanning kan foretas når en bestemmelse som nevnt i § 34 på grunn av endrede forhold:\n1. ikke lenger lar seg etterleve; herunder regnes også at stiftelsens kapital er blitt utilstrekkelig til å tilgodese dens formål på rimelig måte,\n2. er blitt åpenbart unyttig,\n3. er kommet i strid med hensikten i den disposisjon som danner grunnlaget for stiftelsen;​1 herunder regnes også at stifterens forutsetninger for bestemmelsen har sviktet, eller\n4. er blitt åpenbart uheldig eller åpenbart ufornuftig.\nDersom bestemmelsen ikke gjelder formålet med stiftelsen, og det ellers må antas at det ved opprettelsen ikke er lagt vesentlig vekt på den, kan omdanning skje når bestemmelsen på grunn av endrede forhold viser seg å være uheldig eller uhensiktsmessig.\nOmdanning kan også foretas når forhold som nevnt i paragrafen her ikke har endret seg, men var til stede alt da stiftelsen ble opprettet. Det er da en forutsetning at opprettelsen av stiftelsen ikke er ugyldig på grunn av de nevnte forhold.\n1 Jfr. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "6:36",
+      "chapter": "6",
+      "section": "36",
+      "content": "Ved omdanning kan en bestemmelse som nevnt i § 34 endres eller oppheves.\nOmdanning kan også gå ut på at en stiftelse oppheves, bl.a. ved:\n1. at grunnkapitalen tillates brukt til formålet,\n2. at stiftelsen slås sammen med en eller flere andre stiftelser med i det vesentlige likeartet formål, eller\n3. at den deles i flere stiftelser.\nVidere kan det bestemmes å frigi båndlagt eiendom som tilhører stiftelsen.\nNår en omdanning vedrører stiftelsens formål eller en annen bestemmelse som det må antas at det ble lagt vesentlig vekt på ved opprettelsen av stiftelsen, skal endringen så langt råd er tilpasses det opprinnelige formålet og tankegangen i stiftelsesgrunnlaget.\nUnder særlige forhold kan omdanningsvedtaket gå ut på å gjøre unntak fra vedkommende bestemmelse i enkelttilfelle.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "6:37",
+      "chapter": "6",
+      "section": "37",
+      "content": "Reglene i dette kapittel står tilbake for en bestemmelse som er truffet i den disposisjon som danner grunnlaget for stiftelsen.​1 Forbud mot omdanning er likevel ikke gyldig. Omdanningsmyndigheten kan ikke legges til stifteren selv uten på nærmere vilkår av den art som er nevnt i §§ 35 og 36.\n1 Jfr. § 27 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "6:38",
+      "chapter": "6",
+      "section": "38",
+      "content": "Reglene i dette kapittel om omdanning av stiftelser gjelder tilsvarende for:\n1. Verdier som er gitt til en bestående stiftelse.\n2. Verdier som er gitt til en forening, et selskap eller til en privat eller offentlig institusjon eller innretning med nærmere bestemmelse om hvordan midlene skal brukes.\n3. Midler som er samlet inn til et bestemt formål.\n4. Midler som tilhører en forening, når det følger av foreningsrettslige regler at foreningen ikke har fri rådighet over midlene.\n5. Vilkår, påbud, forbud eller annen forpliktelse som følger av et testament,​1 gavebrev eller av annen privatrettslig disposisjon vedrørende fast eiendom eller andre verdier, og som ikke er satt til fordel for en bestemt eller flere bestemte rettshavere, eller som rettshaveren ikke har adgang til å endre.​2\nSøknad som nevnt i § 33 kan også settes fram av den som rår over de midler saken gjelder. Søknad om omdanning etter første ledd nr. 5 kan settes fram av den som forpliktelsen hviler på eller av rettshaveren.\n1 Jfr. lov 3 mars 1972 nr. 5 kap. VIII flg.\n2 Jfr. lover 22 april 1927 nr. 3 § 89, 8 juni 1984 nr. 59 kap. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "7:39",
+      "chapter": "7",
+      "section": "39",
+      "content": "Denne lov trer i kraft når Kongen bestemmer.​1\n1 Fra 1 jan 1982 iflg. res. 4 des 1981.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "7:40",
+      "chapter": "7",
+      "section": "40",
+      "content": "Bestemmelsene i § 16 gjelder ikke for stiftelser som har fått offentlig stadfestelse før loven trer i kraft.\nBestemmelsen i § 25 første ledd gjelder ikke for stiftelser som har begynt næringsvirksomheten før loven trer i kraft. Registrering etter § 26 skal skje innen 6 måneder etter at loven er trådt i kraft.\n– – –\nFor øvrig gjelder lovens regler også for stiftelser m.m. som er opprettet før loven trer i kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "7:41",
+      "chapter": "7",
+      "section": "41",
+      "content": "Funksjoner som etter statuttbestemmelse er lagt til stiftsdireksjonen, skal utøves av vedkommende fylkesmann om det ikke må antas å være lagt vesentlig vekt på biskopens deltakelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "7:42",
+      "chapter": "7",
+      "section": "42",
+      "content": "Fra den tid loven trer i kraft oppheves: – – –​1\nFra samme tidspunkt gjøres disse endringer – – –\n1 Se note til lovens overskrift.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    }
+  ]
+}

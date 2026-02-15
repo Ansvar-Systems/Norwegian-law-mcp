@@ -1,0 +1,785 @@
+{
+  "id": "LOV-1917-04-02-1",
+  "type": "statute",
+  "title": "Lov om adoption",
+  "short_name": "Adopsjonsloven",
+  "status": "in_force",
+  "issued_date": "1917-04-02",
+  "in_force_date": "1917-04-02",
+  "url": "https://lovdata.no/dokument/NLO/lov/1917-04-02-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Mann eller kvinne som har fylt 25 år, kan få bevilling av Kongen​2 til å anta en annen som adoptivbarn.\nBevilling til adopsjon av eget barn kan ikke gis.\n1 Endret ved lov 21 des. 1956 nr. 7 (se dens II punkt 4).\n2 Fylkesmannen ifølge res. 13 juli 1933.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den, som er gjort umyndig,​2 kan bare adoptere med vergens samtykke.\n1 Endret ved lov 21 des. 1956 nr. 7.\n2 Se lov 28 nov. 1898.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Den, som er gift, kan bare adoptere sammen med sin ektefelle, med mindre denne er sinnssyk eller åndssvak eller er forsvunnet. Dog kan den ene ektefelle med den annen ektefelles samtykke adoptere dennes barn eller adoptivbarn.\n1 Endret ved lov 21 des. 1956 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Andre end egtefæller kan ikke adoptere sammen.\nHeller ikke kan et adoptivbarn, saalænge dets adoptivfar eller adoptivmor lever, paany adopteres av nogen anden end dennes egtefelle.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Den som har fylt 12 år, kan ikke adopteres uten eget samtykke. Også uten at slikt samtykke innhentes, kan dog bevilling gis fosterforeldre til adopsjon av fosterbarn når dette er under 16 år og det er grunn til at anta at det vil virke skadelig for barnet å få spørsmålet forelagt.\n1 Endret ved lover 23 sept. 1921 nr. 4, 21 des. 1956 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Den som er under 18 år, kan ikke adopteres uten samtykke fra den eller dem som har foreldreansvaret. Er en av dem forsvunnet, sinnssyk eller åndssvak er samtykke fra den annen tilstrekkelig. Er begge forsvunnet, sinnsyk eller åndssvak, kreves samtykke fra verge.\nDen far eller mor som ikke har del i foreldremyndigheten,​2 skal likevel såvidt mulig få uttale seg før vedtak blir truffet. Er noen annen enn far eller mor oppnevnt som verge for den som ønskes adoptert, skal også vergen få anledning til å uttale seg.\n1 Endret ved lover 21 des. 1956 nr. 7, 7 feb. 1969 nr. 6, 8 juni 1978 nr. 38, 8 april 1981 nr. 7.\n2 Se lover 17 juli 1953 nr. 14 § 20, 21 des. 1956 nr. 9 kap. 2 og nr. 10 kap. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Den, som er gjort umyndig,​1 kan ikke adopteres uten samtykke av vergen.\n1 Se lov 28 nov. 1898.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Bevilling til adoption maa ikke gives, uten at der er grund til at tro, at adoptionen vil bli til gavn for barnet, og dette enten ønskes opfostret av den adopterende eller har været opfostret av den adopterende eller dennes egtefælle, eller der foreligger anden særlig grund til adoptionen.\n1 Endret ved lov 22 okt. 1948 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Før bevilling blir git, skal det søkes oplyst, om der fra nogen av siderne er betalt eller skal betales noget vederlag, og hvor stort dette i tilfælde er.\nHvis der er betalt eller skal betales vederlag til den adopterende, kan meddelelse av bevilling gjøres avhængig av, at vederlaget helt eller delvis sikres anvendt til bedste for adoptivbarnet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "9 a",
+      "section": "9 a",
+      "content": "Forvaltningslovens § 18 første ledd skal ikke være til hinder for at partene i en adopsjonssak holdes ukjent for hverandre (anonym adopsjon).\n1 Tilføyet ved lov 19 juni 1969 nr. 54.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9a",
+        "source_heading": "§ 9 a."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Om adoptivbarns navnerett gjelder det som er fastsatt i navnelovgivningen.​2\n1 Opphevet ved lov 9 feb. 1923 nr. 2 § 24, tilføyet ved lov 29 mai 1964 nr. 1 § 29.\n2 Se lov 29 mai 1964 nr. 1 særlig § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Ved adoptionen gaar retten og pligten til at ha omsorg for barnet og opfostre det over til adoptivforelderene. Det samme gjelder om retten til at være barnets verge​2 og til at gi samtykke til dets egteskap.​3\nMed hensyn til adoptivbarnets religiøse opdragelse forholdes, som om det var adoptivforeldrenes eget barn, hvis ikke annet er bestemt i bevillingen.\n1 Endret ved lov 24 mai 1935 nr. 2 – Jfr. § 18 og lov 22 april 1927 nr. 3 § 39.\n2 Se lov 22 april 1927 nr. 3 kap. 2.\n3 Se lov 31 mai 1918 nr. 2 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Adoptivforeldrene er forpliktet til å forsørge adoptivbarnet som sitt eget barn og har ikke krav på å få bidrag til dette av de virkelige foreldre.\n1 Endret ved lov 21 des. 1956 nr. 7(se dens II punkt 3). – Jfr. § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 5 juni 1964 nr. 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "Adoptivbarnet, eller i dettes sted dets livsarvinger, tar arv som om det hadde vært adoptantens eget barn.​2 På tilsvarende måte forholdes med arv etter adoptivbarnet og dets livsarvinger.\nHvis ikke annet følger av § 18 tar adoptivbarnet og dets livsarvinger på den ene side og dets virkelige foreldre og andre slektninger på den annen side ikke arv etter hverandre.\n1 Endret ved lover 29 juli 1918 nr. 2, 24 mai 1935 nr. 2, 21 des. 1956 nr. 7, 23 mars 1961 nr. 1 § 22, 28 juni 1974 nr. 58.\n2 Se lov 3 mars 1972 nr. 5, særlig §§ 1, 5 kap. IV-VI.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 21 des. 1956 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "15 a",
+      "section": "15 a",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 21 des. 1956 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15a",
+        "source_heading": "§ 15a."
+      }
+    },
+    {
+      "provision_ref": "15 b",
+      "section": "15 b",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 21 des. 1956 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15b",
+        "source_heading": "§ 15b."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Bestemmelserne om efterlevende egtefælles adgang til at sitte i uskiftet bo​2 faar anvendelse likeoverfor egtefællernes adoptivbarn og deres livsarvinger paa samme maate som likeoverfor egtefællernes egne barn og fjernere livsarvinger. Det samme gjælder bestemmelserne om efterlevende egtefælles rettigheter under skifte med disse.​3\n[Lov om avgift av arv av 8 april 1905 § 3, sidste led, og § 12, første led,]​4 faar anvendelse ogsaa, naar efterlevende egtefælle sitter i uskifte med den først avdøde egtefælles adoptivbarn eller dets livsarvinger.\n1 Endret ved lov 21 des. 1956 nr. 7.\n2 Se lov 3 mars 1972 nr. 5 kap. III.\n3 Se § 18 og skiftelov §§ 63-65.\n4 Se nå lov 19 juni 1964 nr. 14 §§ 7, 8 og 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Om adoptivbarns odels- og åsetesrett gjelder reglene i lov om odelsretten og åsetesretten.​2\n1 Endret ved lover 21 des. 1956 nr. 7 og 28 juni 1974 nr. 58.\n2 Se lov 28 juni 1974 nr. 58 §§ 9, 12 og 52, jfr. § 78.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Har ektefeller adoptert sammen, eller har den ene adoptert den annens barn eller adoptivbarn, blir barnet ved anvendelsen av bestemmelsene i § 11, § 12, § 14 og § 16, første ledd, å betrakte som ektefellenes felles barn.\n1 Endret ved lover 21 des. 1956 nr. 7, 23 mars 1961 nr. 1 § 22, 5 juni 1964 nr. 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 21 des. 1956 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "De rettigheter, som ved lovgivningen om ulykkesforsikring og sykeforsikring er tillagt den forulykkedes eller sykes barn, skal ogsaa tilkomme hans adoptivbarn. Ret til livrente tilkommer dog alene adoptivbarn, som er adoptert før ulykken (sygdommen).\n1 Endret ved lov 13 juni 1975 nr. 37.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "Adoptivforholdet kan på begjæring oppheves av Kongen​2 når adoptanten og adoptivbarnet er enige om det. Er noen av partene gjort umyndig,​3 skal tillike verjen gi sitt samtykke. Er barnet umyndig på grunn av alder, kan opphevelse ved overenskomst ikke finne sted.\nNår adoptivforeldrene er døde, kan adoptivforholdet oppheves av Kongen​2 dersom det er ønskelig av hensyn til barnets tarv, og enten adoptivbarnet (eller i tilfelle dets verje) eller dets foreldre eller en av dem begjærer det.\n1 Endret ved lover 22 okt. 1948 nr. 3, 21 des. 1956 nr. 7 (se dens II).\n2 Justisdept. iflg res 3 juni 1966, overført til Sosialdept. fra 1 april 1985 iflg res 15 mars 1985 nr 661.\n3 Se lov 28 nov. 1898.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Adoptivbarn kan forlange adoptivforholdet opphevet ved dom hvis adoptivforeldrene gjør seg skyldige i grov forgåelse mot adoptivbarnet eller i grov forsømmelse av sine plikter mot det, eller det for øvrig er påkrevet av hensyn til adoptivbarnets tarv.\nEr adoptivbarnet under 18 år eller sinnssykt eller åndssvakt, kan sak også reises av noen av dets foreldre eller av fylkesmannen.\n1 Endret ved lover 21 des. 1956 nr. 7, 7 feb. 1969 nr. 6, 8 juni 1979 nr. 38.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "Viser adoptivbarn seg å være åndssvakt eller sinnssykt eller å lide av annen betydelig legemlig eller sjelelig lyte eller ondartet og langvarig sykdom som kan antas å stamme fra tiden før adopsjonen og som adoptivforeldrene da ikke kjente til, kan de innen 5 år fra adopsjonen forlange adoptivforholdet opphevet ved dom.​2\nAdoptivforeldre kan forlange adoptivforholdet opphevet ved dom såfremt adoptivbarnet gjør seg skyldig i grov forgåelse mot dem eller deres nærmeste, eller det for øvrig på grunn av adoptivbarnets slette forhold ville være åpenbart urimelig å forlange adoptivforholdet opprettholdt. Er adoptivfar eller adoptivmor sinnssyk, kan sak også reises av fylkesmannen.\n1 Endret ved lover 22 okt. 1948 nr. 1, 21 des. 1956 nr. 7.\n2 Jfr. § 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Hvis ektefeller har felles adoptivbarn, må forholdet i alminnelighet oppheves for begges vedkommende. Den ene av adoptivforeldrene kan ikke forlange opphevelse etter § 23 med virkning for begge adoptivforeldrene med mindre særlige grunner taler for det.\nI de tilfelle som er nevnt i § 22 og i § 23 annet ledd, kan opphevelse skje selv om det forhold som det klages over bare gjelder den ene av adoptivforeldrene. Opphevelse etter § 23 første ledd kan skje selv om en av ektefellene hadde slik kunnskap som der nevnt, men ikke etter søksmål fra denne ektefelle alene.\n1 Endret ved lover 22 okt. 1948 nr. 1, 21 des. 1956 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Sak til ophævelse av adoptivforhold anlægges ved saksøktes hjemting,​2 men hvis saksøkte ikke har sit hjemting her i riket, ved saksøkerens hjemting. Hvis ingen av parterne har sit hjemting her i riket, anlægges saken i Kristiania eller efter ansøkning i anden retskreds, som vedkommende regjeringsdepartement​3 bestemmer.\nRetten påser at de som skulle samtykke eller uttale seg dersom saken gjaldt stiftelse av adoptivforhold, så vidt mulig får uttale seg om opphevelsen. Når særlige grunner foreligger og opphevelsen ikke vil ha noen rettsvirkning for vedkommende, kan retten unnlate å innhente uttalelse som nevnt.\nMegling i forliksrådet finner ikke sted.\n1 Endret ved lover 14 aug. 1918 nr. 4 § 2, 21 des. 1956 nr. 7.\n2 Se rettergangsl. § 18.\n3 Sosialdept.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Så lenge adoptivforholdet består, må adoptant og adoptivbarn ikke inngå ekteskap med hverandre.\n1 Endret ved lov 21 des. 1956 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "Ved opphevelse av adoptivforholdet opphører rettsvirkningene av dette for fremtiden i forholdet til adoptanten og hans slekt. Dog kan retten – eller ved opphevelse etter § 21 Kongen​2 – når særlige grunner foreligger, bestemme at adoptanten skal yte bidrag til underhold av adoptivbarnet.\nI forhold til barnets egne slektninger medfører opphevelse av adoptivforholdet etter § 21 første ledd ingen endringer bortsett fra det som følger av navnelovgivningen.​3 Når adoptivforholdet oppheves etter § 21 annet ledd, § 22 eller § 23, bestemmer Kongen​2 eller retten under hensyn til opphevelsesgrunnen, adoptivbarnets alder og forholdene ellers om rettsforholdet mellom barnet og dets egne slektninger helt eller delvis skal gjenoppstå.\n1 Endret ved lover 21 des. 1956 nr. 7, 29 mai 1964 nr. 1 § 29.\n2 Justisdept. iflg res 3 juni 1966, overført Sosialdept. fra 1 april 1985 iflg res 15 mai 1985 nr 661.\n3 Se lov 29 mai 1964 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "Om bevilling til adopsjon og likeså om beslutning om eller dom for opphevelse av et adoptivforhold skal der gjøres anmerkning ved adoptivbarnets navn i folkeregistret og i de offentlige protokoller for øvrig, som vedkommende departement​2 bestemmer.\n1 Endret ved lover 23 sept. 1921 nr. 4, 21 des. 1956 nr. 7.\n2 Sosialdept.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "Søknad om bevilling til adopsjon avgjøres i Norge dersom søkeren har bopel her i riket, eller dersom departementet samtykker i at saken behandles her.\n1 Endret ved lov 13 juni 1980 nr. 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "30",
+      "section": "30",
+      "content": "Søknaden avgjøres etter norsk rett.\nDersom det søkes om adopsjon av barn under 18 år, skal det ved avgjørelsen legges vekt på om adopsjonen vil ha gyldighet også i fremmed stat som søkeren eller barnet har så sterk tilknytning til ved bopel, statsborgerskap eller på annen måte at det ville medføre betydelig ulempe for barnet om adopsjonen ikke blir gjeldende der.\nBestemmelsen i annet ledd gjelder tilsvarende ved søknad om oppheving av adopsjon.\n1 Endret ved lov 13 juni 1980 nr. 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "31",
+      "section": "31",
+      "content": "En adopsjon som er gitt og er gyldig i fremmed stat (utenlandsk adopsjon), gjelder her i riket, såfremt adoptanten(e) da adopsjonen ble gitt hadde sin bopel i eller var statsborger(e) av den fremmede stat hvor adopsjonen er gitt. Slik gyldighet har også en adopsjon som er gitt i en annen stat enn den nevnte, såfremt adopsjonen anerkjennes i den stat hvor adoptanten(e) hadde sin bopel på tidspunktet for adopsjonen.\nDepartementet​2 kan anerkjenne en utenlandsk adopsjon som ikke omfattes av første ledd.\nEn adopsjon av et barn som var under 18 år og bosatt i Norge på tidspunktet for adopsjonen, gjelder likevel ikke her i riket med mindre departementet​2 har samtykket i adopsjonen.\nDepartementet​2 kan i det enkelte tilfelle avgjøre om en utenlandsk adopsjon gjelder her i riket etter reglene i første ledd.\nEn utenlandsk avgjørelse om oppheving av adopsjon i tilfelle hvor en av adoptivforeldrene eller adoptivbarnet er bosatt i Norge på opphevingstiden, gjelder ikke her i riket med mindre departementet samtykker i opphevingen.\n1 Tilføyd ved lov 13 juni 1980 nr. 32.\n2 Sosialdept.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "32",
+      "section": "32",
+      "content": "En utenlandsk adopsjon gjelder ikke her i riket dersom dette åpenbart ville virke støtende på norsk rettsorden (ordre public).\n1 Tilføyd ved lov 13 juni 1980 nr. 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "33",
+      "section": "33",
+      "content": "Når en utenlandsk adopsjon gjelder her i riket og det ikke er truffet vedtak etter § 34 tredje punktum, skal adoptivbarnet med hensyn til vergemål, foreldremyndighet og underholdsplikt anses som adoptanten(e)s eget barn.\nOm rett til arv på grunn av utenlandsk adopsjon gjelder den lov som ellers får anvendelse for retten til arv etter avdøde (arvestatuttet), uten hensyn til etter hvilket lands rett avgjørelsen om adopsjon er truffet.\n1 Tilføyd ved lov 13 juni 1980 nr. 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "34",
+      "section": "34",
+      "content": "Den som er bosatt i Norge, må ikke adoptere i fremmed stat med mindre departementet samtykker på forhånd. Når samtykke er gitt, gjelder den utenlandske adopsjonen her i riket. Departementet kan bestemme at den skal ha samme rettsvirkning som en norsk adopsjon.\n1 Tilføyd ved lov 13 juni 1980 nr. 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "35",
+      "section": "35",
+      "content": "Kongen kan i forskrifter fravike bestemmelsene i §§ 29-34 dersom det er nødvendig for å oppfylle Norges forpliktelser etter overenskomst med fremmed stat.\n1 Tilføyd ved lov 13 juni 1980 nr. 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Mann eller kvinne som har fylt 25 år, kan få bevilling av Kongen​2 til å anta en annen som adoptivbarn.\nBevilling til adopsjon av eget barn kan ikke gis.\n1 Endret ved lov 21 des. 1956 nr. 7 (se dens II punkt 4).\n2 Fylkesmannen ifølge res. 13 juli 1933.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den, som er gjort umyndig,​2 kan bare adoptere med vergens samtykke.\n1 Endret ved lov 21 des. 1956 nr. 7.\n2 Se lov 28 nov. 1898.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Den, som er gift, kan bare adoptere sammen med sin ektefelle, med mindre denne er sinnssyk eller åndssvak eller er forsvunnet. Dog kan den ene ektefelle med den annen ektefelles samtykke adoptere dennes barn eller adoptivbarn.\n1 Endret ved lov 21 des. 1956 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Andre end egtefæller kan ikke adoptere sammen.\nHeller ikke kan et adoptivbarn, saalænge dets adoptivfar eller adoptivmor lever, paany adopteres av nogen anden end dennes egtefelle.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Den som har fylt 12 år, kan ikke adopteres uten eget samtykke. Også uten at slikt samtykke innhentes, kan dog bevilling gis fosterforeldre til adopsjon av fosterbarn når dette er under 16 år og det er grunn til at anta at det vil virke skadelig for barnet å få spørsmålet forelagt.\n1 Endret ved lover 23 sept. 1921 nr. 4, 21 des. 1956 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Den som er under 18 år, kan ikke adopteres uten samtykke fra den eller dem som har foreldreansvaret. Er en av dem forsvunnet, sinnssyk eller åndssvak er samtykke fra den annen tilstrekkelig. Er begge forsvunnet, sinnsyk eller åndssvak, kreves samtykke fra verge.\nDen far eller mor som ikke har del i foreldremyndigheten,​2 skal likevel såvidt mulig få uttale seg før vedtak blir truffet. Er noen annen enn far eller mor oppnevnt som verge for den som ønskes adoptert, skal også vergen få anledning til å uttale seg.\n1 Endret ved lover 21 des. 1956 nr. 7, 7 feb. 1969 nr. 6, 8 juni 1978 nr. 38, 8 april 1981 nr. 7.\n2 Se lover 17 juli 1953 nr. 14 § 20, 21 des. 1956 nr. 9 kap. 2 og nr. 10 kap. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Den, som er gjort umyndig,​1 kan ikke adopteres uten samtykke av vergen.\n1 Se lov 28 nov. 1898.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Bevilling til adoption maa ikke gives, uten at der er grund til at tro, at adoptionen vil bli til gavn for barnet, og dette enten ønskes opfostret av den adopterende eller har været opfostret av den adopterende eller dennes egtefælle, eller der foreligger anden særlig grund til adoptionen.\n1 Endret ved lov 22 okt. 1948 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Før bevilling blir git, skal det søkes oplyst, om der fra nogen av siderne er betalt eller skal betales noget vederlag, og hvor stort dette i tilfælde er.\nHvis der er betalt eller skal betales vederlag til den adopterende, kan meddelelse av bevilling gjøres avhængig av, at vederlaget helt eller delvis sikres anvendt til bedste for adoptivbarnet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "9 a",
+      "section": "9 a",
+      "content": "Forvaltningslovens § 18 første ledd skal ikke være til hinder for at partene i en adopsjonssak holdes ukjent for hverandre (anonym adopsjon).\n1 Tilføyet ved lov 19 juni 1969 nr. 54.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9a",
+        "source_heading": "§ 9 a."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Om adoptivbarns navnerett gjelder det som er fastsatt i navnelovgivningen.​2\n1 Opphevet ved lov 9 feb. 1923 nr. 2 § 24, tilføyet ved lov 29 mai 1964 nr. 1 § 29.\n2 Se lov 29 mai 1964 nr. 1 særlig § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Ved adoptionen gaar retten og pligten til at ha omsorg for barnet og opfostre det over til adoptivforelderene. Det samme gjelder om retten til at være barnets verge​2 og til at gi samtykke til dets egteskap.​3\nMed hensyn til adoptivbarnets religiøse opdragelse forholdes, som om det var adoptivforeldrenes eget barn, hvis ikke annet er bestemt i bevillingen.\n1 Endret ved lov 24 mai 1935 nr. 2 – Jfr. § 18 og lov 22 april 1927 nr. 3 § 39.\n2 Se lov 22 april 1927 nr. 3 kap. 2.\n3 Se lov 31 mai 1918 nr. 2 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Adoptivforeldrene er forpliktet til å forsørge adoptivbarnet som sitt eget barn og har ikke krav på å få bidrag til dette av de virkelige foreldre.\n1 Endret ved lov 21 des. 1956 nr. 7(se dens II punkt 3). – Jfr. § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 5 juni 1964 nr. 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "Adoptivbarnet, eller i dettes sted dets livsarvinger, tar arv som om det hadde vært adoptantens eget barn.​2 På tilsvarende måte forholdes med arv etter adoptivbarnet og dets livsarvinger.\nHvis ikke annet følger av § 18 tar adoptivbarnet og dets livsarvinger på den ene side og dets virkelige foreldre og andre slektninger på den annen side ikke arv etter hverandre.\n1 Endret ved lover 29 juli 1918 nr. 2, 24 mai 1935 nr. 2, 21 des. 1956 nr. 7, 23 mars 1961 nr. 1 § 22, 28 juni 1974 nr. 58.\n2 Se lov 3 mars 1972 nr. 5, særlig §§ 1, 5 kap. IV-VI.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 21 des. 1956 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "15 a",
+      "section": "15 a",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 21 des. 1956 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15a",
+        "source_heading": "§ 15a."
+      }
+    },
+    {
+      "provision_ref": "15 b",
+      "section": "15 b",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 21 des. 1956 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15b",
+        "source_heading": "§ 15b."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Bestemmelserne om efterlevende egtefælles adgang til at sitte i uskiftet bo​2 faar anvendelse likeoverfor egtefællernes adoptivbarn og deres livsarvinger paa samme maate som likeoverfor egtefællernes egne barn og fjernere livsarvinger. Det samme gjælder bestemmelserne om efterlevende egtefælles rettigheter under skifte med disse.​3\n[Lov om avgift av arv av 8 april 1905 § 3, sidste led, og § 12, første led,]​4 faar anvendelse ogsaa, naar efterlevende egtefælle sitter i uskifte med den først avdøde egtefælles adoptivbarn eller dets livsarvinger.\n1 Endret ved lov 21 des. 1956 nr. 7.\n2 Se lov 3 mars 1972 nr. 5 kap. III.\n3 Se § 18 og skiftelov §§ 63-65.\n4 Se nå lov 19 juni 1964 nr. 14 §§ 7, 8 og 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Om adoptivbarns odels- og åsetesrett gjelder reglene i lov om odelsretten og åsetesretten.​2\n1 Endret ved lover 21 des. 1956 nr. 7 og 28 juni 1974 nr. 58.\n2 Se lov 28 juni 1974 nr. 58 §§ 9, 12 og 52, jfr. § 78.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Har ektefeller adoptert sammen, eller har den ene adoptert den annens barn eller adoptivbarn, blir barnet ved anvendelsen av bestemmelsene i § 11, § 12, § 14 og § 16, første ledd, å betrakte som ektefellenes felles barn.\n1 Endret ved lover 21 des. 1956 nr. 7, 23 mars 1961 nr. 1 § 22, 5 juni 1964 nr. 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 21 des. 1956 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "De rettigheter, som ved lovgivningen om ulykkesforsikring og sykeforsikring er tillagt den forulykkedes eller sykes barn, skal ogsaa tilkomme hans adoptivbarn. Ret til livrente tilkommer dog alene adoptivbarn, som er adoptert før ulykken (sygdommen).\n1 Endret ved lov 13 juni 1975 nr. 37.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "Adoptivforholdet kan på begjæring oppheves av Kongen​2 når adoptanten og adoptivbarnet er enige om det. Er noen av partene gjort umyndig,​3 skal tillike verjen gi sitt samtykke. Er barnet umyndig på grunn av alder, kan opphevelse ved overenskomst ikke finne sted.\nNår adoptivforeldrene er døde, kan adoptivforholdet oppheves av Kongen​2 dersom det er ønskelig av hensyn til barnets tarv, og enten adoptivbarnet (eller i tilfelle dets verje) eller dets foreldre eller en av dem begjærer det.\n1 Endret ved lover 22 okt. 1948 nr. 3, 21 des. 1956 nr. 7 (se dens II).\n2 Justisdept. iflg res 3 juni 1966, overført til Sosialdept. fra 1 april 1985 iflg res 15 mars 1985 nr 661.\n3 Se lov 28 nov. 1898.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Adoptivbarn kan forlange adoptivforholdet opphevet ved dom hvis adoptivforeldrene gjør seg skyldige i grov forgåelse mot adoptivbarnet eller i grov forsømmelse av sine plikter mot det, eller det for øvrig er påkrevet av hensyn til adoptivbarnets tarv.\nEr adoptivbarnet under 18 år eller sinnssykt eller åndssvakt, kan sak også reises av noen av dets foreldre eller av fylkesmannen.\n1 Endret ved lover 21 des. 1956 nr. 7, 7 feb. 1969 nr. 6, 8 juni 1979 nr. 38.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "Viser adoptivbarn seg å være åndssvakt eller sinnssykt eller å lide av annen betydelig legemlig eller sjelelig lyte eller ondartet og langvarig sykdom som kan antas å stamme fra tiden før adopsjonen og som adoptivforeldrene da ikke kjente til, kan de innen 5 år fra adopsjonen forlange adoptivforholdet opphevet ved dom.​2\nAdoptivforeldre kan forlange adoptivforholdet opphevet ved dom såfremt adoptivbarnet gjør seg skyldig i grov forgåelse mot dem eller deres nærmeste, eller det for øvrig på grunn av adoptivbarnets slette forhold ville være åpenbart urimelig å forlange adoptivforholdet opprettholdt. Er adoptivfar eller adoptivmor sinnssyk, kan sak også reises av fylkesmannen.\n1 Endret ved lover 22 okt. 1948 nr. 1, 21 des. 1956 nr. 7.\n2 Jfr. § 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Hvis ektefeller har felles adoptivbarn, må forholdet i alminnelighet oppheves for begges vedkommende. Den ene av adoptivforeldrene kan ikke forlange opphevelse etter § 23 med virkning for begge adoptivforeldrene med mindre særlige grunner taler for det.\nI de tilfelle som er nevnt i § 22 og i § 23 annet ledd, kan opphevelse skje selv om det forhold som det klages over bare gjelder den ene av adoptivforeldrene. Opphevelse etter § 23 første ledd kan skje selv om en av ektefellene hadde slik kunnskap som der nevnt, men ikke etter søksmål fra denne ektefelle alene.\n1 Endret ved lover 22 okt. 1948 nr. 1, 21 des. 1956 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Sak til ophævelse av adoptivforhold anlægges ved saksøktes hjemting,​2 men hvis saksøkte ikke har sit hjemting her i riket, ved saksøkerens hjemting. Hvis ingen av parterne har sit hjemting her i riket, anlægges saken i Kristiania eller efter ansøkning i anden retskreds, som vedkommende regjeringsdepartement​3 bestemmer.\nRetten påser at de som skulle samtykke eller uttale seg dersom saken gjaldt stiftelse av adoptivforhold, så vidt mulig får uttale seg om opphevelsen. Når særlige grunner foreligger og opphevelsen ikke vil ha noen rettsvirkning for vedkommende, kan retten unnlate å innhente uttalelse som nevnt.\nMegling i forliksrådet finner ikke sted.\n1 Endret ved lover 14 aug. 1918 nr. 4 § 2, 21 des. 1956 nr. 7.\n2 Se rettergangsl. § 18.\n3 Sosialdept.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Så lenge adoptivforholdet består, må adoptant og adoptivbarn ikke inngå ekteskap med hverandre.\n1 Endret ved lov 21 des. 1956 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "Ved opphevelse av adoptivforholdet opphører rettsvirkningene av dette for fremtiden i forholdet til adoptanten og hans slekt. Dog kan retten – eller ved opphevelse etter § 21 Kongen​2 – når særlige grunner foreligger, bestemme at adoptanten skal yte bidrag til underhold av adoptivbarnet.\nI forhold til barnets egne slektninger medfører opphevelse av adoptivforholdet etter § 21 første ledd ingen endringer bortsett fra det som følger av navnelovgivningen.​3 Når adoptivforholdet oppheves etter § 21 annet ledd, § 22 eller § 23, bestemmer Kongen​2 eller retten under hensyn til opphevelsesgrunnen, adoptivbarnets alder og forholdene ellers om rettsforholdet mellom barnet og dets egne slektninger helt eller delvis skal gjenoppstå.\n1 Endret ved lover 21 des. 1956 nr. 7, 29 mai 1964 nr. 1 § 29.\n2 Justisdept. iflg res 3 juni 1966, overført Sosialdept. fra 1 april 1985 iflg res 15 mai 1985 nr 661.\n3 Se lov 29 mai 1964 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "Om bevilling til adopsjon og likeså om beslutning om eller dom for opphevelse av et adoptivforhold skal der gjøres anmerkning ved adoptivbarnets navn i folkeregistret og i de offentlige protokoller for øvrig, som vedkommende departement​2 bestemmer.\n1 Endret ved lover 23 sept. 1921 nr. 4, 21 des. 1956 nr. 7.\n2 Sosialdept.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "Søknad om bevilling til adopsjon avgjøres i Norge dersom søkeren har bopel her i riket, eller dersom departementet samtykker i at saken behandles her.\n1 Endret ved lov 13 juni 1980 nr. 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "30",
+      "section": "30",
+      "content": "Søknaden avgjøres etter norsk rett.\nDersom det søkes om adopsjon av barn under 18 år, skal det ved avgjørelsen legges vekt på om adopsjonen vil ha gyldighet også i fremmed stat som søkeren eller barnet har så sterk tilknytning til ved bopel, statsborgerskap eller på annen måte at det ville medføre betydelig ulempe for barnet om adopsjonen ikke blir gjeldende der.\nBestemmelsen i annet ledd gjelder tilsvarende ved søknad om oppheving av adopsjon.\n1 Endret ved lov 13 juni 1980 nr. 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "31",
+      "section": "31",
+      "content": "En adopsjon som er gitt og er gyldig i fremmed stat (utenlandsk adopsjon), gjelder her i riket, såfremt adoptanten(e) da adopsjonen ble gitt hadde sin bopel i eller var statsborger(e) av den fremmede stat hvor adopsjonen er gitt. Slik gyldighet har også en adopsjon som er gitt i en annen stat enn den nevnte, såfremt adopsjonen anerkjennes i den stat hvor adoptanten(e) hadde sin bopel på tidspunktet for adopsjonen.\nDepartementet​2 kan anerkjenne en utenlandsk adopsjon som ikke omfattes av første ledd.\nEn adopsjon av et barn som var under 18 år og bosatt i Norge på tidspunktet for adopsjonen, gjelder likevel ikke her i riket med mindre departementet​2 har samtykket i adopsjonen.\nDepartementet​2 kan i det enkelte tilfelle avgjøre om en utenlandsk adopsjon gjelder her i riket etter reglene i første ledd.\nEn utenlandsk avgjørelse om oppheving av adopsjon i tilfelle hvor en av adoptivforeldrene eller adoptivbarnet er bosatt i Norge på opphevingstiden, gjelder ikke her i riket med mindre departementet samtykker i opphevingen.\n1 Tilføyd ved lov 13 juni 1980 nr. 32.\n2 Sosialdept.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "32",
+      "section": "32",
+      "content": "En utenlandsk adopsjon gjelder ikke her i riket dersom dette åpenbart ville virke støtende på norsk rettsorden (ordre public).\n1 Tilføyd ved lov 13 juni 1980 nr. 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "33",
+      "section": "33",
+      "content": "Når en utenlandsk adopsjon gjelder her i riket og det ikke er truffet vedtak etter § 34 tredje punktum, skal adoptivbarnet med hensyn til vergemål, foreldremyndighet og underholdsplikt anses som adoptanten(e)s eget barn.\nOm rett til arv på grunn av utenlandsk adopsjon gjelder den lov som ellers får anvendelse for retten til arv etter avdøde (arvestatuttet), uten hensyn til etter hvilket lands rett avgjørelsen om adopsjon er truffet.\n1 Tilføyd ved lov 13 juni 1980 nr. 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "34",
+      "section": "34",
+      "content": "Den som er bosatt i Norge, må ikke adoptere i fremmed stat med mindre departementet samtykker på forhånd. Når samtykke er gitt, gjelder den utenlandske adopsjonen her i riket. Departementet kan bestemme at den skal ha samme rettsvirkning som en norsk adopsjon.\n1 Tilføyd ved lov 13 juni 1980 nr. 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "35",
+      "section": "35",
+      "content": "Kongen kan i forskrifter fravike bestemmelsene i §§ 29-34 dersom det er nødvendig for å oppfylle Norges forpliktelser etter overenskomst med fremmed stat.\n1 Tilføyd ved lov 13 juni 1980 nr. 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    }
+  ]
+}

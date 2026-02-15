@@ -1,0 +1,617 @@
+{
+  "id": "LOV-1918-02-15-2",
+  "type": "statute",
+  "title": "Lov om industrielt hjemmearbeide.",
+  "short_name": "Lov om industrielt hjemmearbeide.",
+  "status": "in_force",
+  "issued_date": "1918-02-15",
+  "in_force_date": "1918-02-15",
+  "url": "https://lovdata.no/dokument/NLO/lov/1918-02-15-2",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ved hjemmearbeide forstaaes i denne lov industrielt arbeide, som mot vederlag utføres av arbeider for arbeidsgiver eller for mellemmand, naar arbeidet utføres i arbeiderens hjem eller et andet sted, hvor arbeidsgiveren ikke har tilsyn med arbeidsordningen, eller paa mellemmandens verksted.\nMellemmand er den, som overtar arbeide for en arbeidsgiver og træffer avtale med arbeidere om utførelsen. Det, som er sagt i denne lov om arbeidsgiver, gjælder ogsaa mellemmand.\nHvorvidt en virksomhet eller et arbeide gaar ind under denne lov avgjøres av Hjemmearbeidsraadet (jfr. § 7).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Enhver arbeidsgiver skal føre særskilt liste​2 over sine hjemmearbeidere. Brukes der mellemmann, skal han føres op i listen med tilføielse om at han er mellemmann.\nMellemmannen skal føre liste​2 over dem han setter i arbeide, hvad enten de arbeider hjemme eller på hans verksted.​3 Listene skal foruten arbeidernes navn og adresse også inneholde oplysning om hvad slags arbeide som er utført og de minstepriser som er betalt.\nArbeidsgiveren (mellemmannen) skal hvert år innen utgangen av februar sende to utskrifter av listen for det sist forløpne år til arbeidsnevnden på stedet.​4\nArbeidsgiveren (mellemmannen) skal når han setter noen i arbeide innen 14 dager sende skriftlig melding til arbeidsnevnden med oplysning om arbeiderens navn og adresse.\n1 Endret ved lover 6 juli 1923 nr. 7 og 20 mai 1939 nr. 6.\n2 Se § 29.\n3 Se § 26 nr. 1 a.\n4 Jfr. lov 4 feb 1977 nr. 4 § 76.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Arbeidsgiver som sysselsetter hjemmearbeidere skal på et for hjemmearbeiderne lett tilgjengelig sted slå op eller legge ut lister over sine minstelønnssatser for de forskjellige slags hjemmearbeide.​2\n1 Endret ved lov 20 mai 1939 nr. 6.\n2 Se § 26 nr. 1 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Arbeidsgiveren skal forsyne hjemmearbeideren med en lønsbok.​1 I denne skal arbeidsgiveren indføre fortløpende opgaver over utlevert arbeide, det færdige arbeides avlevering, utbetalt arbeidslønn og mulige fradrag. Boken skal indeholde avtryk av denne lov.​2\nOpgjør mellem arbeidsgivere og arbeidere likesom utbetaling i kontante, gangbare penger av skyldig arbeidsløn skal finde sted mindst én gang ukentlig hvis ikke anden opgjørsfrist er vedtat ved særskilt overenskomst.​3\n1 Se § 29.\n2 Se § 26 nr. 1 c.\n3 Se § 26 nr. 1 d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Arbeidstilsynet​2 skal se til at sundhetsforholdene i rum i hjemmene hvor arbeide utføres, er så tilfredsstillende som det med rimelighet kan kreves, og at arbeiderne og de som ellers opholder sig på arbeidsstedet, er vernet mot arbeidsulykker.\nTilsynet skal søke å rette på mangler, og det kan utferdige veiledende forskrifter til bedring av sundhetsforhold m.m.\nTilsynet kan forby at hjemmearbeide som er særlig farlig for helsen, blir utført i rum, som også tjener til beboelse, eller helt forby sådant arbeide. Antas hjemmearbeide å medføre fare for sykdomssmitte, skal tilsynet underrette kommunelegen i kommunen.\n1 Endret ved lover 6 juli 1923 nr. 7, 20 mai 1939 nr. 6, 12 juni 1987 nr. 70, 5 aug 1994 nr. 55 (i kraft 1 jan 1995 iflg. res. 5 aug 1994 nr. 790).\n2 Jfr. lov 4 feb 1977 nr. 4 kap. XIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Tilsynet med at denne lov blir overholdt, skal føres av det tilsyn som er oprettet efter arbeidervernloven.​2\n1 Endret ved lover 6 juli 1923 nr. 7, 20 mai 1939 nr. 6.\n2 Se lov 4 feb 1977 nr. 4 kap. XIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Hjemmearbeidsrådet har sitt sete i Oslo. Rådet har tre – eller om Kongen så bestemmer fem – medlemmer, kvinner eller menn, som opnevnes av Kongen.​2 Formannen med varamann må ikke være kjøbmann, industridrivende eller hjemmearbeider eller ha økonomisk interesse i de avgjørelser rådet skal treffe. Blandt de øvrige medlemmer med varamenn skal der være et like antall arbeidere og arbeidsgivere, såvidt mulig fra yrker, hvori der drives hjemmeindustri.\nRådet skal foruten å utføre de hverv som er pålagt det i denne lov, være rådgiver for departementet i saker som angår hjemmeindustrien.​3\nDe nærmere bestemmelser om rådets virksomhet gis av departementet.\n1 Endret ved lov 20 mai 1939 nr. 6.\n2 Kommunaldepartementet iflg. res. 4 nov 1961.\n3 Se § 29.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Bestemmelserne i denne lov om fastsættelse av mindsteløn gjælder bare hjemmearbeide i yrker for tilvirkning av beklædningsgjenstande og sømartikler av alle slags.\nOver yrkerne utfærdiger Kongen​1 fortegnelse.\nKongen kan likeledes gjøre loven anvendelig for andre yrker inden hjemmeindustrien.\nHjemmearbeidsraadet avgjør i det enkelte tilfælde, om et arbeide hører til noget av de yrker, som staar paa fortegnelsen.\n1 Kommunaldepartementet iflg. res. 4 nov 1961.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Hjemmearbeidsrådet kan enten selv eller ved arbeidstilsynet​2 foreta særskilt undersøkelse av lønnsforholdene i de yrker som der efter § 8 kan settes minstelønn for. Sådan undersøkelse skal foretas, når det kreves av seks eller flere arbeidsgivere innen et yrke.\nFinner rådet efter undersøkelse, at lønnsforholdene i et yrke er utilfredsstillende, kan det beslutte å nedsette en lønnsnevnd til å fastsette minstelønn for yrket eller grener av det. Rådet kan beslutte selv å fastsette minstelønn (jfr. paragraf 15, siste ledd), når det finner dette ubetenkelig og det faller særlig vanskelig å få nedsatt en lønnsnevnd. Beslutningen kan også gjelde flere yrker under ett. Der kan nedsettes en felles eller flere særskilte nevnder. Før rådet fatter sin beslutning, skal det innhente vedkommende kommunestyres uttalelse.\nEn lønsnævnd skal sætte mindsteløn for det hjemmearbeide, som bortsættes av arbeidsgivere med forretning inden kommunen uten hensyn til, hvor arbeiderne er bosat eller utfører sit arbeide. Raadet kan bestemme, at en nævnd skal ordne lønsforholdene i flere kommuner under ett.\nRaadet skal i sit opdrag til nævnden angi omraadet for dens avgjørelse. Opdraget kan utvides til andet slags arbeide eller yrke end fra først av bestemt.\n1 Endret ved lover 15 juni 1928 nr. 1 og 20 mai 1939 nr. 6.\n2 Se lov 4 feb 1977 nr. 4 kap. XIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "En lønsnævnd skal bestaa av en formand og av saa mange medlemmer – kvinder eller mænd – som Hjemmearbeidsraadet bestemmer, dog mindst fire. Formanden med varamand maa ikke være kjøbmand, industridrivende eller hjemmearbeider eller ha økonomisk interesse i de avgjørelser, nævnden skal træffe. Blandt medlemmene med varamænd skal der være et like antal arbeidere og arbeidsgivere, saavidt mulig fra det eller de yrker, som der skal sættes mindsteløn for.\nNævndens medlemmer med varamænd vælges av kommunestyret. Før valget skal foreninger av arbeidere og av arbeidsgivere i yrket og mulig andre interesserte i kommunen gjennem bekjendtgjørelse i offentlig tidende eller paa anden maate, som kommunestyret finder tjenlig, være opfordret til at fremkomme med forslag til nævndens sammensætning.\nSkal en nævnd ordne lønsforholdene i flere kommuner under ett, skal hvert kommunestyre vælge saa mange medlemmer, som Hjemmearbeidsraadet bestemmer, dog minst to, en arbeider og en arbeidsgiver.\nNævndens formand med varamand opnævnes av Hjemmearbeidsraadet, som forinden skal indhente uttalelse fra nævndens kommunevalgte medlemmer, vedkommende formandskap og amtmand om, hvem der bør opnævnes.\nSom medlemmer av eller formand i en lønsnævnd kan bare vælges (opnævnes) norske statsborgere​1 over 25 aar. Den, som er fradømt stemmeret i offentlige anliggender og har tapt adgangen til at opnaa offentlig tjeneste,​2 er utelukket fra hvervet.\nEnhver som bor i kommunen og ikke er over 60 aar, er pligtig til for et tidsrum av tre aar at motta valg (opnævnelse) som medlem av eller formand i en lønsnævnd. Senere kan han negte at motta gjenvalg i saa lang tid, som han har forrettet.\n1 Se lov 8 des 1950 nr. 3.\n2 Se strl. § 30 nr. 2 og milstrl. § 20 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "For det eller de yrker, lønsnævndens opdrag gjælder, skal den fastsætte en mindstetidsløn.\nVed fastsættelsen skal der tages hensyn til de paa stedet for samme eller tilsvarende arbeide gjængse lønninger paa verksteder, i fabrikker og for andre hjemmearbeidere. Lønnen skal sættes til det beløp, som en arbeider med gjennemsnitlig dygtighet i forhold hertil antages at burde fortjene.\nDet skal paasees, at mindstetidslønnen staar i saadant forhold til fortjenesten paa verksteder og i fabrikker, at hjemmearbeidet ikke blir fortrængt.\nEr der i yrket flere grupper av arbeidere, kan nævnden, om den finder det ønskelig, sætte særskilte lønninger for de enkelte grupper.\nForuten mindstetidsløn skal nævnden, saavidt gjørlig, ogsaa fastsætte mindstestykløn, enten for alle eller for enkelte artikler i yrket (yrkerne). Styklønnen skal staa i saadant forhold til mindstetidslønnen, at denne sikres en arbeider med gjennemsnitlig dygtighet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Nævnden skal søke saken bedst mulig utredet.​1\nI det øiemed kan den hos offentlige og kommunale myndigheter og tjenestemænd kræve de oplysninger, som vedkommende har til raadighet. Naar nævnden finder det nødvendig til sakens fulde oplysning, kan den ved sin formand indhente forklaringer fra arbeidere og arbeidsgivere, likesom den kan kræve, at de skal forevise mønstre, modeller, prisopgaver, lønslister, forretningsbøker o.lign.​2\nBor eller opholder vedkommende sig i kommunen, pligter han efter indkaldelse fra nævndens formand med én ukes varsel at møte for nævnden.\nNævndens møter holdes for lukkede dører. Hjemmearbeidsraadets formand og medlemmer kan være tilstede og likesaa de, som Hjemmearbeidsraadet eller nævnden gir adgang.\n1 Se § 29.\n2 Se § 26 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Naar saken er oplyst og drøftet av nævnden, skal den med almindelig stemmeflerhet ved kjendelse fastsætte mindsteløn efter § 11.\nI kjendelsens begrundelse skal der gjøres rede for sakens oplysninger, nævndens bedømmelse av disse og de synsmaater, som nævnden har lagt til grund for sin avgjørelse.\nUtskrift av nævndens kjendelse, ledsaget av sakens dokumenter, skal snarest mulig sendes Hjemmearbeidsraadet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "Hjemmearbeidsraadet skal paa den maate, som det finder tjenlig, kundgjøre nevndens lønskjendelse.\nI kunngjørelsen skal arbeidere og arbeidsgivere, deres mulige sammenslutninger og andre, som har interesse i kjennelsen, opfordres til innen 14 – fjorten – dager å komme med uttalelse om den. Uttalelsen skal sendes gjennem nevnden, som ledsager den med sin erklæring.\nHjemmearbeidsraadet kan indhente de yderligere oplysninger og forklaringer, som det finder paakrævet, Bestemmelsene i § 12, 2det og 3dje led finder tilsvarende anvendelse.​2\nRaadets møter holdes for lukkede dører.\n1 Endret ved lov 15 juni 1928 nr. 1.\n2 Se § 26 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Når den i § 14 satte frist er utløpet og saken er tilstrekkelig oplyst, treffer Hjemmearbeidsrådet sin beslutning. Rådet kan enten godkjenne den minstelønn som nevnden har satt, eller gjøre forandringer i den eller sende saken tilbake til nevnden til ny behandling.\nRådet skal påse, at de i forskjellige yrker, for forskjellige arbeider og på forskjellige steder fastsatte minstelønnssatser står i rimelig forhold til hverandre.\nGodkjennes nevndens avgjørelse, skal rådet fastsette tidspunktet for dens ikrafttreden. Dette må ikke falle tidligere enn 14 – fjorten – dager efter godkjennelsen. Hjemmearbeidsrådets beslutning skal offentliggjøres i Norsk Kunngjørelsestidende​2 og i øvrig på den måte rådet finner tjenlig.\nSendes saken tilbake til nevnden, skal Hjemmearbeidsrådet angi fremgangsmåten ved den nye behandling og de synsmåter som skal legges til grunn. Angivelsen er bindende for nevnden.\nUtskrift av nevndens nye kjennelse skal snarest mulig sendes Hjemmearbeidsrådet. Rådet følger fremgangsmåten efter § 14 i det omfang det finner påkrevet, og avgjør derefter saken.\nHjemmearbeidsrådet kan (jfr. § 9, 2net ledd) fastsette minstelønn uten at saken først blir behandlet av en lønnsnevnd. Det skal i så fald på forhånd i fornøden utstrekning rådføre sig med vedkommende arbeidsgiver, arbeidere og med arbeidstilsynet. § 9, 2net og 3dje ledd, § 11, § 12, § 13, 1ste og 2net ledd og denne paragrafs 2net ledd får tilsvarende anvendelse. Rådet skal fastsette tiden for minstelønnens ikrafttreden og sørge for at alle vedkommende blir underrettet.\n1 Endret ved lover 15 juni 1928 nr. 1 og 29 mai 1939 nr. 6.\n2 Se lov 11 okt 1946 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Den fastsatte mindsteløn skal betales arbeideren uavkortet uten fradrag for godtgjørelse til mellemmand e.lign.​1\nHar arbeideren hat utlæg til materialer e.lign., skal det godtgjøres ham ved særskilt tillæg, hvis det ikke i kjendelsen er uttrykkelig forutsat, at utlægget er regnet med i den fastsatte mindsteløn.\n1 Se § 26 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "title": "(Opphevet ved lov 24 mars 1933 nr. 4.)",
+      "content": "§ 17.(Opphevet ved lov 24 mars 1933 nr. 4.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Naar der for et yrke bare er fastsat mindstetidsløn, kan arbeidsgiveren forelægge sine styklønssatser for Hjemmearbeidsraadet til prøvelse.\nFinder raadet, at satsene staar i saadant forhold til mindstetidslønnen, at denne sikres en arbeider med gjennemsnitlig dygdighet, godkjendes de som mindstestykløn for yrket. Før raadet træffer sin avgjørelse, kan det forelægge saken til uttalelse for vedkommende lønsnævnd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Hjemmearbeidsraadet kan indhente erklæring fra lønsnævnden om forstaaelsen av dens kjendelse, eller naar det gjælder spørsmaal, om der betales under den fastsatte mindsteløn.\nLikesaa kan raadet bruke nævnden eller dens formand til at undersøke lønsforholdene i yrker, som der efter § 8 kan sættes mindsteløn for.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "Naar Hjemmearbeidsraadet efter særskilt undersøkelse finder det paakrævet, kan det beslutte at opta den i et yrke fastsatte mindsteløn til ny behandling.\nRådet kan enten selv fastsette ny minstelønn eller gi den lønnsnevnd, som har foretatt den tidligere fastsettelse, i opdrag å fastsette ny minstelønn eller det kan til sakens behandling beslutte nedsatt en ny nevnd.\nBestemmelserne i § 9, 2det til 4de led og §§ 10 til 15 finder tilsvarende anvendelse.\n1 Endret ved lov 15 juni 1928 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "Oprettes der tarifavtale​1 mellem arbeidernes og arbeidsgivernes sammenslutninger et yrke, hvorfor mindsteløn er fastsat, kan Hjemmearbeidsraadet beslutte, at den fastsatte mindsteløn skal træde ut av kraft, saalænge arbeidsforholdene er tarifmæssig ordnet. Herom utfærdiges kundgjørelse som nævnt i § 15.\n1 Jfr. lov 5 mai 1927 nr. 1 § 1 nr. 8 og § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Hjemmearbeidsrådet, arbeidstilsynet, lønnsnevndene og tjenestemenn hos disse myndigheter har i arbeidstiden adgang til de verksteder og rum, hvor hjemmearbeid utføres, og likeså til forretningslokalene hos arbeidsgiverne.\nDe har rett til å se lønnsprotokoller og arbeidernes lønnsbøker og til å ta utskrift av listen over hjemmearbeidere og av lønnslistene.\nPå forlangende skal legitimasjon forevises. For hjemmearbeidsrådet og dets utsendinger utferdiger departementet legitimasjon.\n1 Endret ved lover 6 juli 1923 nr. 7 og 20 mai 1939 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "Når de myndigheter og tjenestemenn som er nevnt i § 22 får melding om forhold som strider mot loven her, skal anmelderens navn holdes hemmelig. Taushetsplikten gjelder også i forhold til den hvis forhold er anmeldt.\n1 Endret ved lov 16 mai 1986 nr. 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Godtgjørelsen for Hjemmearbeidsraadets formand og medlemmer fastsættes av Kongen, som likeledes fastsætter godtgjørelsen for formanden i en lønsnævnd og dens medlemmer.\nDe har under reise krav paa skyss- og kostpenger efter [lov av 10 juli 1894 nr. 2, jfr. lov av 26 juli 1916 nr. 8. Kostpengene skal være som bestemt for 3dje klasse i nævnte lovs § 17.]​1\n1 Se nå Stortingsvedtak 21 juni 1956 med senere endringer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Omkostningene ved Hjemmearbeidsraadets utredes av statskassen.\nUtgiftene ved lønsnævndene utredes av vedkommende kommune. Dog skal i kommuner med ikke over tredive tusen indbyggere utgiftene deles mellem staten og kommunen med en halvdel paa hver.\nInnbyggerantallet regnes efter de på stedet hjemmehørende ved statens sidste almindelige folketælling.\nOmfatter en lønsnævnds oppdrag flere kommuner, avgjør departementet​1 efter forslag av Hjemmearbeidsraadet, hvorledes utgiftene skal deles mellem dem.\nForetar en lønsnevnds formand efter anmodning av Hjemmearbeidsraadet særskilt undersøkelse e.lign., kan han tilstaaes særlig godtgjørelse herfor av statskassen, fastsat av departementet efter forslag av Hjemmearbeidsraadet.\n1 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Med bøter​1 straffes\n1. Den, som undlater\na. at føre saadan liste over sine hjemmearbeidere som foreskrevet i § 2, 1ste og 2det led, eller\nb. at slaa op eller lægge ut saadanne lister over sine mindstelønssatser som foreskrevet i § 3, 1ste led, eller\nc. at forsyne hjemmearbeiderne med lønsbok eller føre lønsboken som foreskrevet i § 4, første led, eller\nd. at efterkomme de forskrifter om opgjør med arbeiderne, som indeholdes i § 4, 2det led.\n2. Den, som unddrar sig pligt til forklaring, meddelelse av oplysninger og fremmøte efter §§ 12 og 14.\n3. Den, som betaler sine arbeidere efter en lavere sats end den, som er fastsat i henhold til denne lov, eller bruker mellemmand, som med hans vidende forsér sig paa denne maate.\nPaa samme maate straffes den, som medvirker til overtrædelse som foran nævnt.\nNaar en arbeidsgiver idømmes straf efter nr. 3, skal arbeideren tilkjendes erstatning for det, som han har faat for litet.\n1 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "De i § 22 nævnte myndigheter og tjenestemænd er med hensyn til den almindelige borgerlige straffelovs anvendelse at anse som offentlige tjenestemænd.​1\n1 Se strl. kap. 11 og 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "Arbeidere kan ikke i videre omfang, end loven uttrykkelig hjemler, retsgyldig vedta fravikelser fra lovens forskrifter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "Efter forslag av hjemmearbeidsrådet fastsetter departementet​2 innretningen av listene over hjemmearbeidere (jfr. § 2) og lønnsbøkene (jfr. § 4) og gir nærmere forskrifter om lønnsnevndenes forretningsorden og forhandlinger.\nDepartementet kan gi nærmere regler for samvirket mellem hjemmearbeidsrådet, kommunelegen i kommunen og arbeidstilsynet og mellem de forskjellige myndigheter i arbeidstilsynet.\n1 Endret ved lover 20 mai 1939 nr. 6, 12 juni 1987 nr. 70, 5 aug 1994 nr. 55 (i kraft 1 jan 1995 iflg. res. 5 aug 1994 nr. 790).\n2 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "30",
+      "section": "30",
+      "content": "Denne lov træder i kraft den 1 juli 1918 og ophører at gjælde senest den 30 juni 1923.​1\n1 Ved lov 24 mars 1933 nr. 4 er lovens gyldighet forlenget inntil videre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ved hjemmearbeide forstaaes i denne lov industrielt arbeide, som mot vederlag utføres av arbeider for arbeidsgiver eller for mellemmand, naar arbeidet utføres i arbeiderens hjem eller et andet sted, hvor arbeidsgiveren ikke har tilsyn med arbeidsordningen, eller paa mellemmandens verksted.\nMellemmand er den, som overtar arbeide for en arbeidsgiver og træffer avtale med arbeidere om utførelsen. Det, som er sagt i denne lov om arbeidsgiver, gjælder ogsaa mellemmand.\nHvorvidt en virksomhet eller et arbeide gaar ind under denne lov avgjøres av Hjemmearbeidsraadet (jfr. § 7).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Enhver arbeidsgiver skal føre særskilt liste​2 over sine hjemmearbeidere. Brukes der mellemmann, skal han føres op i listen med tilføielse om at han er mellemmann.\nMellemmannen skal føre liste​2 over dem han setter i arbeide, hvad enten de arbeider hjemme eller på hans verksted.​3 Listene skal foruten arbeidernes navn og adresse også inneholde oplysning om hvad slags arbeide som er utført og de minstepriser som er betalt.\nArbeidsgiveren (mellemmannen) skal hvert år innen utgangen av februar sende to utskrifter av listen for det sist forløpne år til arbeidsnevnden på stedet.​4\nArbeidsgiveren (mellemmannen) skal når han setter noen i arbeide innen 14 dager sende skriftlig melding til arbeidsnevnden med oplysning om arbeiderens navn og adresse.\n1 Endret ved lover 6 juli 1923 nr. 7 og 20 mai 1939 nr. 6.\n2 Se § 29.\n3 Se § 26 nr. 1 a.\n4 Jfr. lov 4 feb 1977 nr. 4 § 76.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Arbeidsgiver som sysselsetter hjemmearbeidere skal på et for hjemmearbeiderne lett tilgjengelig sted slå op eller legge ut lister over sine minstelønnssatser for de forskjellige slags hjemmearbeide.​2\n1 Endret ved lov 20 mai 1939 nr. 6.\n2 Se § 26 nr. 1 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Arbeidsgiveren skal forsyne hjemmearbeideren med en lønsbok.​1 I denne skal arbeidsgiveren indføre fortløpende opgaver over utlevert arbeide, det færdige arbeides avlevering, utbetalt arbeidslønn og mulige fradrag. Boken skal indeholde avtryk av denne lov.​2\nOpgjør mellem arbeidsgivere og arbeidere likesom utbetaling i kontante, gangbare penger av skyldig arbeidsløn skal finde sted mindst én gang ukentlig hvis ikke anden opgjørsfrist er vedtat ved særskilt overenskomst.​3\n1 Se § 29.\n2 Se § 26 nr. 1 c.\n3 Se § 26 nr. 1 d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Arbeidstilsynet​2 skal se til at sundhetsforholdene i rum i hjemmene hvor arbeide utføres, er så tilfredsstillende som det med rimelighet kan kreves, og at arbeiderne og de som ellers opholder sig på arbeidsstedet, er vernet mot arbeidsulykker.\nTilsynet skal søke å rette på mangler, og det kan utferdige veiledende forskrifter til bedring av sundhetsforhold m.m.\nTilsynet kan forby at hjemmearbeide som er særlig farlig for helsen, blir utført i rum, som også tjener til beboelse, eller helt forby sådant arbeide. Antas hjemmearbeide å medføre fare for sykdomssmitte, skal tilsynet underrette kommunelegen i kommunen.\n1 Endret ved lover 6 juli 1923 nr. 7, 20 mai 1939 nr. 6, 12 juni 1987 nr. 70, 5 aug 1994 nr. 55 (i kraft 1 jan 1995 iflg. res. 5 aug 1994 nr. 790).\n2 Jfr. lov 4 feb 1977 nr. 4 kap. XIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Tilsynet med at denne lov blir overholdt, skal føres av det tilsyn som er oprettet efter arbeidervernloven.​2\n1 Endret ved lover 6 juli 1923 nr. 7, 20 mai 1939 nr. 6.\n2 Se lov 4 feb 1977 nr. 4 kap. XIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Hjemmearbeidsrådet har sitt sete i Oslo. Rådet har tre – eller om Kongen så bestemmer fem – medlemmer, kvinner eller menn, som opnevnes av Kongen.​2 Formannen med varamann må ikke være kjøbmann, industridrivende eller hjemmearbeider eller ha økonomisk interesse i de avgjørelser rådet skal treffe. Blandt de øvrige medlemmer med varamenn skal der være et like antall arbeidere og arbeidsgivere, såvidt mulig fra yrker, hvori der drives hjemmeindustri.\nRådet skal foruten å utføre de hverv som er pålagt det i denne lov, være rådgiver for departementet i saker som angår hjemmeindustrien.​3\nDe nærmere bestemmelser om rådets virksomhet gis av departementet.\n1 Endret ved lov 20 mai 1939 nr. 6.\n2 Kommunaldepartementet iflg. res. 4 nov 1961.\n3 Se § 29.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Bestemmelserne i denne lov om fastsættelse av mindsteløn gjælder bare hjemmearbeide i yrker for tilvirkning av beklædningsgjenstande og sømartikler av alle slags.\nOver yrkerne utfærdiger Kongen​1 fortegnelse.\nKongen kan likeledes gjøre loven anvendelig for andre yrker inden hjemmeindustrien.\nHjemmearbeidsraadet avgjør i det enkelte tilfælde, om et arbeide hører til noget av de yrker, som staar paa fortegnelsen.\n1 Kommunaldepartementet iflg. res. 4 nov 1961.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Hjemmearbeidsrådet kan enten selv eller ved arbeidstilsynet​2 foreta særskilt undersøkelse av lønnsforholdene i de yrker som der efter § 8 kan settes minstelønn for. Sådan undersøkelse skal foretas, når det kreves av seks eller flere arbeidsgivere innen et yrke.\nFinner rådet efter undersøkelse, at lønnsforholdene i et yrke er utilfredsstillende, kan det beslutte å nedsette en lønnsnevnd til å fastsette minstelønn for yrket eller grener av det. Rådet kan beslutte selv å fastsette minstelønn (jfr. paragraf 15, siste ledd), når det finner dette ubetenkelig og det faller særlig vanskelig å få nedsatt en lønnsnevnd. Beslutningen kan også gjelde flere yrker under ett. Der kan nedsettes en felles eller flere særskilte nevnder. Før rådet fatter sin beslutning, skal det innhente vedkommende kommunestyres uttalelse.\nEn lønsnævnd skal sætte mindsteløn for det hjemmearbeide, som bortsættes av arbeidsgivere med forretning inden kommunen uten hensyn til, hvor arbeiderne er bosat eller utfører sit arbeide. Raadet kan bestemme, at en nævnd skal ordne lønsforholdene i flere kommuner under ett.\nRaadet skal i sit opdrag til nævnden angi omraadet for dens avgjørelse. Opdraget kan utvides til andet slags arbeide eller yrke end fra først av bestemt.\n1 Endret ved lover 15 juni 1928 nr. 1 og 20 mai 1939 nr. 6.\n2 Se lov 4 feb 1977 nr. 4 kap. XIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "En lønsnævnd skal bestaa av en formand og av saa mange medlemmer – kvinder eller mænd – som Hjemmearbeidsraadet bestemmer, dog mindst fire. Formanden med varamand maa ikke være kjøbmand, industridrivende eller hjemmearbeider eller ha økonomisk interesse i de avgjørelser, nævnden skal træffe. Blandt medlemmene med varamænd skal der være et like antal arbeidere og arbeidsgivere, saavidt mulig fra det eller de yrker, som der skal sættes mindsteløn for.\nNævndens medlemmer med varamænd vælges av kommunestyret. Før valget skal foreninger av arbeidere og av arbeidsgivere i yrket og mulig andre interesserte i kommunen gjennem bekjendtgjørelse i offentlig tidende eller paa anden maate, som kommunestyret finder tjenlig, være opfordret til at fremkomme med forslag til nævndens sammensætning.\nSkal en nævnd ordne lønsforholdene i flere kommuner under ett, skal hvert kommunestyre vælge saa mange medlemmer, som Hjemmearbeidsraadet bestemmer, dog minst to, en arbeider og en arbeidsgiver.\nNævndens formand med varamand opnævnes av Hjemmearbeidsraadet, som forinden skal indhente uttalelse fra nævndens kommunevalgte medlemmer, vedkommende formandskap og amtmand om, hvem der bør opnævnes.\nSom medlemmer av eller formand i en lønsnævnd kan bare vælges (opnævnes) norske statsborgere​1 over 25 aar. Den, som er fradømt stemmeret i offentlige anliggender og har tapt adgangen til at opnaa offentlig tjeneste,​2 er utelukket fra hvervet.\nEnhver som bor i kommunen og ikke er over 60 aar, er pligtig til for et tidsrum av tre aar at motta valg (opnævnelse) som medlem av eller formand i en lønsnævnd. Senere kan han negte at motta gjenvalg i saa lang tid, som han har forrettet.\n1 Se lov 8 des 1950 nr. 3.\n2 Se strl. § 30 nr. 2 og milstrl. § 20 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "For det eller de yrker, lønsnævndens opdrag gjælder, skal den fastsætte en mindstetidsløn.\nVed fastsættelsen skal der tages hensyn til de paa stedet for samme eller tilsvarende arbeide gjængse lønninger paa verksteder, i fabrikker og for andre hjemmearbeidere. Lønnen skal sættes til det beløp, som en arbeider med gjennemsnitlig dygtighet i forhold hertil antages at burde fortjene.\nDet skal paasees, at mindstetidslønnen staar i saadant forhold til fortjenesten paa verksteder og i fabrikker, at hjemmearbeidet ikke blir fortrængt.\nEr der i yrket flere grupper av arbeidere, kan nævnden, om den finder det ønskelig, sætte særskilte lønninger for de enkelte grupper.\nForuten mindstetidsløn skal nævnden, saavidt gjørlig, ogsaa fastsætte mindstestykløn, enten for alle eller for enkelte artikler i yrket (yrkerne). Styklønnen skal staa i saadant forhold til mindstetidslønnen, at denne sikres en arbeider med gjennemsnitlig dygtighet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Nævnden skal søke saken bedst mulig utredet.​1\nI det øiemed kan den hos offentlige og kommunale myndigheter og tjenestemænd kræve de oplysninger, som vedkommende har til raadighet. Naar nævnden finder det nødvendig til sakens fulde oplysning, kan den ved sin formand indhente forklaringer fra arbeidere og arbeidsgivere, likesom den kan kræve, at de skal forevise mønstre, modeller, prisopgaver, lønslister, forretningsbøker o.lign.​2\nBor eller opholder vedkommende sig i kommunen, pligter han efter indkaldelse fra nævndens formand med én ukes varsel at møte for nævnden.\nNævndens møter holdes for lukkede dører. Hjemmearbeidsraadets formand og medlemmer kan være tilstede og likesaa de, som Hjemmearbeidsraadet eller nævnden gir adgang.\n1 Se § 29.\n2 Se § 26 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Naar saken er oplyst og drøftet av nævnden, skal den med almindelig stemmeflerhet ved kjendelse fastsætte mindsteløn efter § 11.\nI kjendelsens begrundelse skal der gjøres rede for sakens oplysninger, nævndens bedømmelse av disse og de synsmaater, som nævnden har lagt til grund for sin avgjørelse.\nUtskrift av nævndens kjendelse, ledsaget av sakens dokumenter, skal snarest mulig sendes Hjemmearbeidsraadet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "Hjemmearbeidsraadet skal paa den maate, som det finder tjenlig, kundgjøre nevndens lønskjendelse.\nI kunngjørelsen skal arbeidere og arbeidsgivere, deres mulige sammenslutninger og andre, som har interesse i kjennelsen, opfordres til innen 14 – fjorten – dager å komme med uttalelse om den. Uttalelsen skal sendes gjennem nevnden, som ledsager den med sin erklæring.\nHjemmearbeidsraadet kan indhente de yderligere oplysninger og forklaringer, som det finder paakrævet, Bestemmelsene i § 12, 2det og 3dje led finder tilsvarende anvendelse.​2\nRaadets møter holdes for lukkede dører.\n1 Endret ved lov 15 juni 1928 nr. 1.\n2 Se § 26 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Når den i § 14 satte frist er utløpet og saken er tilstrekkelig oplyst, treffer Hjemmearbeidsrådet sin beslutning. Rådet kan enten godkjenne den minstelønn som nevnden har satt, eller gjøre forandringer i den eller sende saken tilbake til nevnden til ny behandling.\nRådet skal påse, at de i forskjellige yrker, for forskjellige arbeider og på forskjellige steder fastsatte minstelønnssatser står i rimelig forhold til hverandre.\nGodkjennes nevndens avgjørelse, skal rådet fastsette tidspunktet for dens ikrafttreden. Dette må ikke falle tidligere enn 14 – fjorten – dager efter godkjennelsen. Hjemmearbeidsrådets beslutning skal offentliggjøres i Norsk Kunngjørelsestidende​2 og i øvrig på den måte rådet finner tjenlig.\nSendes saken tilbake til nevnden, skal Hjemmearbeidsrådet angi fremgangsmåten ved den nye behandling og de synsmåter som skal legges til grunn. Angivelsen er bindende for nevnden.\nUtskrift av nevndens nye kjennelse skal snarest mulig sendes Hjemmearbeidsrådet. Rådet følger fremgangsmåten efter § 14 i det omfang det finner påkrevet, og avgjør derefter saken.\nHjemmearbeidsrådet kan (jfr. § 9, 2net ledd) fastsette minstelønn uten at saken først blir behandlet av en lønnsnevnd. Det skal i så fald på forhånd i fornøden utstrekning rådføre sig med vedkommende arbeidsgiver, arbeidere og med arbeidstilsynet. § 9, 2net og 3dje ledd, § 11, § 12, § 13, 1ste og 2net ledd og denne paragrafs 2net ledd får tilsvarende anvendelse. Rådet skal fastsette tiden for minstelønnens ikrafttreden og sørge for at alle vedkommende blir underrettet.\n1 Endret ved lover 15 juni 1928 nr. 1 og 29 mai 1939 nr. 6.\n2 Se lov 11 okt 1946 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Den fastsatte mindsteløn skal betales arbeideren uavkortet uten fradrag for godtgjørelse til mellemmand e.lign.​1\nHar arbeideren hat utlæg til materialer e.lign., skal det godtgjøres ham ved særskilt tillæg, hvis det ikke i kjendelsen er uttrykkelig forutsat, at utlægget er regnet med i den fastsatte mindsteløn.\n1 Se § 26 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "title": "(Opphevet ved lov 24 mars 1933 nr. 4.)",
+      "content": "§ 17.(Opphevet ved lov 24 mars 1933 nr. 4.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Naar der for et yrke bare er fastsat mindstetidsløn, kan arbeidsgiveren forelægge sine styklønssatser for Hjemmearbeidsraadet til prøvelse.\nFinder raadet, at satsene staar i saadant forhold til mindstetidslønnen, at denne sikres en arbeider med gjennemsnitlig dygdighet, godkjendes de som mindstestykløn for yrket. Før raadet træffer sin avgjørelse, kan det forelægge saken til uttalelse for vedkommende lønsnævnd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Hjemmearbeidsraadet kan indhente erklæring fra lønsnævnden om forstaaelsen av dens kjendelse, eller naar det gjælder spørsmaal, om der betales under den fastsatte mindsteløn.\nLikesaa kan raadet bruke nævnden eller dens formand til at undersøke lønsforholdene i yrker, som der efter § 8 kan sættes mindsteløn for.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "Naar Hjemmearbeidsraadet efter særskilt undersøkelse finder det paakrævet, kan det beslutte at opta den i et yrke fastsatte mindsteløn til ny behandling.\nRådet kan enten selv fastsette ny minstelønn eller gi den lønnsnevnd, som har foretatt den tidligere fastsettelse, i opdrag å fastsette ny minstelønn eller det kan til sakens behandling beslutte nedsatt en ny nevnd.\nBestemmelserne i § 9, 2det til 4de led og §§ 10 til 15 finder tilsvarende anvendelse.\n1 Endret ved lov 15 juni 1928 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "Oprettes der tarifavtale​1 mellem arbeidernes og arbeidsgivernes sammenslutninger et yrke, hvorfor mindsteløn er fastsat, kan Hjemmearbeidsraadet beslutte, at den fastsatte mindsteløn skal træde ut av kraft, saalænge arbeidsforholdene er tarifmæssig ordnet. Herom utfærdiges kundgjørelse som nævnt i § 15.\n1 Jfr. lov 5 mai 1927 nr. 1 § 1 nr. 8 og § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Hjemmearbeidsrådet, arbeidstilsynet, lønnsnevndene og tjenestemenn hos disse myndigheter har i arbeidstiden adgang til de verksteder og rum, hvor hjemmearbeid utføres, og likeså til forretningslokalene hos arbeidsgiverne.\nDe har rett til å se lønnsprotokoller og arbeidernes lønnsbøker og til å ta utskrift av listen over hjemmearbeidere og av lønnslistene.\nPå forlangende skal legitimasjon forevises. For hjemmearbeidsrådet og dets utsendinger utferdiger departementet legitimasjon.\n1 Endret ved lover 6 juli 1923 nr. 7 og 20 mai 1939 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "Når de myndigheter og tjenestemenn som er nevnt i § 22 får melding om forhold som strider mot loven her, skal anmelderens navn holdes hemmelig. Taushetsplikten gjelder også i forhold til den hvis forhold er anmeldt.\n1 Endret ved lov 16 mai 1986 nr. 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Godtgjørelsen for Hjemmearbeidsraadets formand og medlemmer fastsættes av Kongen, som likeledes fastsætter godtgjørelsen for formanden i en lønsnævnd og dens medlemmer.\nDe har under reise krav paa skyss- og kostpenger efter [lov av 10 juli 1894 nr. 2, jfr. lov av 26 juli 1916 nr. 8. Kostpengene skal være som bestemt for 3dje klasse i nævnte lovs § 17.]​1\n1 Se nå Stortingsvedtak 21 juni 1956 med senere endringer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Omkostningene ved Hjemmearbeidsraadets utredes av statskassen.\nUtgiftene ved lønsnævndene utredes av vedkommende kommune. Dog skal i kommuner med ikke over tredive tusen indbyggere utgiftene deles mellem staten og kommunen med en halvdel paa hver.\nInnbyggerantallet regnes efter de på stedet hjemmehørende ved statens sidste almindelige folketælling.\nOmfatter en lønsnævnds oppdrag flere kommuner, avgjør departementet​1 efter forslag av Hjemmearbeidsraadet, hvorledes utgiftene skal deles mellem dem.\nForetar en lønsnevnds formand efter anmodning av Hjemmearbeidsraadet særskilt undersøkelse e.lign., kan han tilstaaes særlig godtgjørelse herfor av statskassen, fastsat av departementet efter forslag av Hjemmearbeidsraadet.\n1 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Med bøter​1 straffes\n1. Den, som undlater\na. at føre saadan liste over sine hjemmearbeidere som foreskrevet i § 2, 1ste og 2det led, eller\nb. at slaa op eller lægge ut saadanne lister over sine mindstelønssatser som foreskrevet i § 3, 1ste led, eller\nc. at forsyne hjemmearbeiderne med lønsbok eller føre lønsboken som foreskrevet i § 4, første led, eller\nd. at efterkomme de forskrifter om opgjør med arbeiderne, som indeholdes i § 4, 2det led.\n2. Den, som unddrar sig pligt til forklaring, meddelelse av oplysninger og fremmøte efter §§ 12 og 14.\n3. Den, som betaler sine arbeidere efter en lavere sats end den, som er fastsat i henhold til denne lov, eller bruker mellemmand, som med hans vidende forsér sig paa denne maate.\nPaa samme maate straffes den, som medvirker til overtrædelse som foran nævnt.\nNaar en arbeidsgiver idømmes straf efter nr. 3, skal arbeideren tilkjendes erstatning for det, som han har faat for litet.\n1 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "De i § 22 nævnte myndigheter og tjenestemænd er med hensyn til den almindelige borgerlige straffelovs anvendelse at anse som offentlige tjenestemænd.​1\n1 Se strl. kap. 11 og 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "Arbeidere kan ikke i videre omfang, end loven uttrykkelig hjemler, retsgyldig vedta fravikelser fra lovens forskrifter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "Efter forslag av hjemmearbeidsrådet fastsetter departementet​2 innretningen av listene over hjemmearbeidere (jfr. § 2) og lønnsbøkene (jfr. § 4) og gir nærmere forskrifter om lønnsnevndenes forretningsorden og forhandlinger.\nDepartementet kan gi nærmere regler for samvirket mellem hjemmearbeidsrådet, kommunelegen i kommunen og arbeidstilsynet og mellem de forskjellige myndigheter i arbeidstilsynet.\n1 Endret ved lover 20 mai 1939 nr. 6, 12 juni 1987 nr. 70, 5 aug 1994 nr. 55 (i kraft 1 jan 1995 iflg. res. 5 aug 1994 nr. 790).\n2 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "30",
+      "section": "30",
+      "content": "Denne lov træder i kraft den 1 juli 1918 og ophører at gjælde senest den 30 juni 1923.​1\n1 Ved lov 24 mars 1933 nr. 4 er lovens gyldighet forlenget inntil videre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    }
+  ]
+}

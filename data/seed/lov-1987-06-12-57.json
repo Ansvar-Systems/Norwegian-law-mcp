@@ -1,0 +1,115 @@
+{
+  "id": "LOV-1987-06-12-57",
+  "type": "statute",
+  "title": "Lov om forbud mot fallskjermhopping m.v. innenfor visse fjellområder",
+  "short_name": "Lov om forbud mot fallskjermhopping",
+  "status": "in_force",
+  "issued_date": "1987-06-12",
+  "in_force_date": "1987-06-12",
+  "url": "https://lovdata.no/dokument/NL/lov/1987-06-12-57",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Formålet med denne lov er å begrense fallskjermhopping som medfører stor risiko for ulykker og utsetter redningsmannskapers liv for fare.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen gis fullmakt til ved forskrift å forby fallskjermhopping og ferdsel med fallskjermutstyr innen nærmere avgrensede fjellområder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Den som overtrer forskrifter gitt i medhold av § 2, straffes med bøter.\n0 Endret ved lover 15 apr 1988 nr. 15, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Straffelovens bestemmelser om inndragning kommer til anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Formålet med denne lov er å begrense fallskjermhopping som medfører stor risiko for ulykker og utsetter redningsmannskapers liv for fare.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen gis fullmakt til ved forskrift å forby fallskjermhopping og ferdsel med fallskjermutstyr innen nærmere avgrensede fjellområder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Den som overtrer forskrifter gitt i medhold av § 2, straffes med bøter.\n0 Endret ved lover 15 apr 1988 nr. 15, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Straffelovens bestemmelser om inndragning kommer til anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ]
+}

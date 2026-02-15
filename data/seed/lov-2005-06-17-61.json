@@ -1,0 +1,81 @@
+{
+  "id": "LOV-2005-06-17-61",
+  "type": "statute",
+  "title": "Lov om interimsorganisering av ny arbeids- og velferdsetat.",
+  "short_name": "Lov om arbeids- og velferdsetaten",
+  "status": "in_force",
+  "issued_date": "2005-06-17",
+  "in_force_date": "2005-07-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/2005-06-17-61",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Interimsorganisasjon",
+      "content": "Det opprettes et organ som skal planlegge og forberede gjennomføringen av statlige oppgaver innenfor en ny arbeids- og velferdsforvaltning. Organet avvikles når den nye statlige arbeids- og velferdsetaten er etablert.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Organets myndighet",
+      "content": "Organet kan overfor Aetat og trygdeetaten utøve myndighet i spørsmål av betydning for den fremtidige arbeids- og velferdsforvaltningen. Organet representerer Aetat og trygdeetaten også overfor kontraktsmotparter og andre i slike spørsmål.\nDepartementet kan gi nærmere bestemmelser om rekkevidden av organets myndighet og med bindende virkning avgjøre uenighet om organets myndighet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra det tidspunkt Kongen bestemmer.​1\n1 Fra 1 juli 2005 iflg. res. 17 juni 2005 nr. 634.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Interimsorganisasjon",
+      "content": "Det opprettes et organ som skal planlegge og forberede gjennomføringen av statlige oppgaver innenfor en ny arbeids- og velferdsforvaltning. Organet avvikles når den nye statlige arbeids- og velferdsetaten er etablert.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Organets myndighet",
+      "content": "Organet kan overfor Aetat og trygdeetaten utøve myndighet i spørsmål av betydning for den fremtidige arbeids- og velferdsforvaltningen. Organet representerer Aetat og trygdeetaten også overfor kontraktsmotparter og andre i slike spørsmål.\nDepartementet kan gi nærmere bestemmelser om rekkevidden av organets myndighet og med bindende virkning avgjøre uenighet om organets myndighet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra det tidspunkt Kongen bestemmer.​1\n1 Fra 1 juli 2005 iflg. res. 17 juni 2005 nr. 634.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "LOV-1971-12-17-106",
+  "type": "statute",
+  "title": "Lov om kristendomsundervisning ved vidaregåande skole, høgskole og universitet",
+  "short_name": "Kristendomslærelov for vidaregåande skoler m.v.",
+  "status": "in_force",
+  "issued_date": "1971-12-17",
+  "in_force_date": "1972-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/1971-12-17-106",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Den som underviser i kristendomskunnskap ved statleg, fylkeskommunal eller kommunal vidaregåande skole, høgskole eller universitet, skal undervise i samsvar med den evangelisk-lutherske lære.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen kan fastsetja at føresegna i § 1 også skal gjelde for privat skole og privat høgskole som har eksamensrett eller får tilskott av stat eller kommune.\n0 Endra med lov 11 juli 1986 nr. 53.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Den som ikkje har hovudstilling som lærar i kristendomskunnskap og som ikkje høyrer til Den norske kyrkja eller Den evangelisk-lutherske frikyrkja, pliktar ikkje å undervise i faget jamvel om han har kompetanse. Tvilsmål om kva som er hovudstilling blir avgjort av Kongen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lova tek til å gjelde 1 januar 1972.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Den som underviser i kristendomskunnskap ved statleg, fylkeskommunal eller kommunal vidaregåande skole, høgskole eller universitet, skal undervise i samsvar med den evangelisk-lutherske lære.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen kan fastsetja at føresegna i § 1 også skal gjelde for privat skole og privat høgskole som har eksamensrett eller får tilskott av stat eller kommune.\n0 Endra med lov 11 juli 1986 nr. 53.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Den som ikkje har hovudstilling som lærar i kristendomskunnskap og som ikkje høyrer til Den norske kyrkja eller Den evangelisk-lutherske frikyrkja, pliktar ikkje å undervise i faget jamvel om han har kompetanse. Tvilsmål om kva som er hovudstilling blir avgjort av Kongen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lova tek til å gjelde 1 januar 1972.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

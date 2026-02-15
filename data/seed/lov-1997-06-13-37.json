@@ -1,0 +1,495 @@
+{
+  "id": "LOV-1997-06-13-37",
+  "type": "statute",
+  "title": "Lov om salg av tidsparter i fritidsbolig (tidspartloven).",
+  "short_name": "Tidspartloven 1997",
+  "status": "in_force",
+  "issued_date": "1997-06-13",
+  "in_force_date": "1997-06-13",
+  "url": "https://lovdata.no/dokument/NLO/lov/1997-06-13-37",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Virkeområde",
+      "content": "Loven gjelder salg av tidsparter​1 i fritidsbolig​2 til forbruker,​3 når selger​4 opptrer i næringsvirksomhet.\nLoven gjelder for Svalbard​5 og Jan Mayen.​6 Kongen kan likevel bestemme at hele eller deler av loven ikke skal gjelde, og gi særlige regler av hensyn til de stedlige forhold. § 9 annet ledd gjelder ikke på Svalbard.\n1 Se § 2, a.\n2 Se § 2, b.\n3 Se § 2, d.\n4 Se § 2, c.\n5 Se lov 17 juli 1925 nr. 11 § 1 (2).\n6 Jf. lov 27 feb 1930 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjoner",
+      "content": "I loven menes med:\na. tidspart: bruksrett i avgrensete tidsrom av året for en periode på minst 3 år;\nb. bolig: fast eiendom som brukes som fritidsbolig;\nc. selger: fysisk eller juridisk person som stifter, overdrar eller forplikter seg til å overdra tidspart;\nd. forbruker: fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.​1\n1 Jf. lover 28 apr 1978 nr. 18 § 1 (3), 16 juni 1989 nr. 63 § 1 (2), 3 juli 1992 nr. 93 § 1-2 (3), 13 juni 1997 nr. 43 § 2, 25 juni 1999 nr. 46 § 2 (1) og 21 des 2000 nr. 105 § 6 (1), e, og forbrkjl. § 1 (3).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Lovens ufravikelighet​1",
+      "content": "Loven kan ikke fravikes til skade for forbrukeren.​2\n1 Sml. forbrkjl. § 3 og lov 21 des 2000 nr. 105 § 3.\n2 Se § 2, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Avtale om tvisteløsning (voldgift og verneting)​1",
+      "content": "Avtale om at en tvist om forhold som er regulert av denne loven skal avgjøres ved voldgift,​2 er bare bindende dersom avtalen er inngått​3 etter at tvisten oppstod.\nForbrukeren​4 kan ikke vedta annet verneting​5 for tvist om forhold som er regulert i denne lov enn de lovbestemte, med unntak av sitt alminnelige verneting.​5\n0 Endret ved lov 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Jf. lov 13 juni 1997 nr. 43 § 64.\n2 Jf. lov 14 mai 2004 nr. 25.\n3 Jf. lov 31 mai 1918 nr. 4 kap. 1.\n4 Se § 2, d.\n5 Se tvl. kap. 4 II.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Lovvalg utenfor EØS-området",
+      "content": "Dersom en avtale om tidspart i en bolig som ligger i et EØS-land, inneholder bestemmelser om at lovgivningen i et land utenfor EØS-området skal anvendes på avtalen, gjelder bestemmelsene ikke i den utstrekning forbrukeren​1 ved dette får en dårligere beskyttelse.\nTilsvarende gjelder for vilkår i kredittavtaler som helt eller delvis skulle dekke prisen for tidsparten dersom kreditten ytes av selgeren eller av tredjeperson på grunnlag av avtale med selgeren.\n1 Se § 2, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Generell opplysningsplikt",
+      "content": "Når en forbruker​1 ber om opplysninger om en tidspart​2 i bolig​3 som selgeren​4 tilbyr, plikter selgeren å utlevere vederlagsfritt et dokument som skal inneholde opplysninger om:\na. navn og adresse til selger​4 og eier med nøyaktig angivelse av selgerens juridiske status;\nb. rettigheten som tidspartavtalen gjelder, med en beskrivelse av den, samt vilkårene for å benytte den. Det skal opplyses om disse vilkårene er oppfylt, og eventuelt hvilke vilkår som ikke er oppfylt;\nc. boligen, med en beskrivelse av boligen og dens beliggenhet, når rettigheten gjelder en bestemt bolig;\nd. prisen forbrukeren skal betale for tidsparten;\ne. faste årlige kostnader knyttet til tidsparten, herunder lovbestemte avgifter, driftsutgifter og andre administrasjonsutgifter. Det skal også opplyses om beregningsgrunnlaget for utgiftene;\nf. faste årlige kostnader for å få tilgang til de fellestjenester og fellesanlegg som tilbys;\ng. variable kostnader knyttet til tidsparten og bruk av fellestjenester og fellesanlegg;\nh. andre utgifter som forbrukeren kan bli pålagt å dekke, herunder økonomisk ansvar for usolgte tidsparter;\ni. eventuell mulighet for å delta i en ordning med bytte og videresalg, herunder sentrale vilkår og overslag over kostnader;\nj. retten til å gå fra tidspartavtalen (angrerett) etter § 14, herunder vilkår og framgangsmåte, samt virkninger av slik fragåelse.​5 Det skal også opplyses om forbudet etter § 11 mot betaling før utløpet av angrefristen og om sikkerhetsstillelse etter § 13 første ledd;\nk. oppheving av kredittavtaler etter § 17;\nl. de fellestjenester, f.eks. strøm, vann, vedlikehold og renovasjon, som forbrukeren har eller kan få tilgang til og de sentrale vilkårene for dette;\nm. de fellesanlegg, f.eks. svømmebasseng og tennisbane, som forbrukeren har eller kan få tilgang til og de sentrale vilkårene for dette;\nn. prinsippene for vedlikehold, reparasjon, administrasjon og drift av eiendommen;\no. avstanden fra boligen til jernbanestasjon, flyplass og andre sentrale opplysninger om offentlig kommunikasjon på ulike tider av året;\np. at opplysninger og vilkår gitt i dokumentet kan endres og vilkårene og framgangsmåten for dette;\nq. andre forhold som forbrukeren har grunn til å regne med å få informasjon om;\nr. hvordan ytterligere opplysninger kan skaffes;\ns. forhold som kreves opplyst etter forskrift med hjemmel i § 8.\nOpplysningene skal være kortfattete og nøyaktige og skal gis på en klar og tydelig måte.\nI all markedsføring for en bolig​3 skal det opplyses at det er mulig å få dokument som nevnt i bestemmelsen her, og om hvor det kan fås.\n1 Se § 2, d.\n2 Se § 2, a.\n3 Se § 2, b.\n4 Se § 2, c.\n5 Jf. § 16 og § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Bolig​1 under oppføring​2",
+      "content": "Dersom boligen​1 er under oppføring skal dokument som nevnt i § 6 i tillegg inneholde opplysninger om:\na. hvor langt byggearbeidet er kommet;\nb. når boligen skal være ferdigstilt;\nc. nummeret på byggetillatelsen samt fullstendig navn og adresse til bygningsmyndighetene, dersom det gjelder en bestemt bolig;\nd. status for arbeidet med de fellestjenester som er nødvendige for å ta i bruk boligen, samt angivelse av når de vil være tilgjengelige;\ne. hvilken sikkerhet som stilles etter § 13 annet ledd, vilkårene for denne og at forbrukeren ikke skal betale noe før slik sikkerhet er stilt;\nf. eventuell annen sikkerhet som stilles og vilkårene for denne;\ng. forhold som kreves opplyst etter forskrift med hjemmel i § 8.\n1 Se § 2, b.\n2 Jf. lov 13 juni 1997 nr. 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Forskrift",
+      "content": "Departementet kan gi forskrift om at selgeren plikter å gi andre opplysninger etter §§ 6 og 7.\nDepartementet kan gi nærmere bestemmelser om hvordan opplysningsplikten skal oppfylles, herunder at det skal brukes bestemte formularer og om godkjenning av disse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Formkrav",
+      "content": "Avtalen skal være skriftlig og undertegnes av begge parter.\nEr forbrukeren​1 bosatt i et EØS-land,​2 skal avtalen utarbeides på et offisielt språk i bostedslandet. Dersom boligen​3 ligger i et annet EØS-land, skal selgeren​4 i tillegg utlevere en autorisert oversettelse av avtalen til et offisielt språk i dette landet. Har bostedslandet flere offisielle språk, kan forbrukeren velge blant disse. Er forbrukeren statsborger i et annet EØS-land, kan han eller hun i stedet velge et offisielt språk i dette landet.\nOpplysningene om angrerett, jf. § 10 bokstav d jf. § 6 bokstav j, skal plasseres umiddelbart over partenes underskrift.\nAvtale som ikke er opprettet i samsvar med første og annet ledd er ikke bindende for forbrukeren.​1\n1 Se § 2, c.\n2 Jf. lov 27 nov 1992 nr. 109.\n3 Se § 2, b.\n4 Se § 2, c.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Avtalens innhold",
+      "content": "Avtalen skal inneholde:\na. partenes navn og bosted, samt dato og sted for hver av partenes undertegning av avtalen;\nb. angivelse av det tidsrommet tidsparten gjelder, ordningens varighet og fra hvilken dato forbrukeren​1 kan benytte rettigheten;\nc. en erklæring om at forbrukeren​1 ikke vil bli ansvarlig for andre typer kostnader eller utgifter enn dem som framgår av avtalen;\nd. opplysninger som skal gis etter §§ 6 og 7 og etter eventuell forskrift etter § 8;\ne. dokumentasjon for hvilken sikkerhet som er stilt etter § 13.\nOpplysninger og vilkår som tidligere er framkommet i dokument etter § 6 bokstav a-n og § 7 bokstav a-d og f, skal regnes som en del av avtalen, og kan ikke endres med mindre endringene er en følge av omstendigheter selgeren​2 ikke rår over eller partene uttrykkelig har avtalt endringene. Endringene skal i så fall meddeles forbrukeren​1 skriftlig før avtalen inngås, og endringene skal fremgå uttrykkelig av avtalen.\n1 Se § 2, d.\n2 Se § 2, c.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "Betaling",
+      "content": "Selger​2 kan ikke kreve eller motta noen form for betaling fra forbrukeren​3 før selgeren har stilt sikkerhet etter bestemmelsene i § 13.\nSelger​2 kan ikke kreve eller motta noen form for betaling fra forbrukeren​3 før utløpet av angrefristen.​4\nBestemmelsene i første og annet ledd gjelder tilsvarende for kredittyter ved kreditt som skal dekke hele eller deler av kjøpesummen, når kreditten ytes av selger eller tredjeperson på grunnlag av avtale med selger.​2\n1 Se § 18.\n2 Se § 2, c.\n3 Se § 2, d.\n4 Se kap. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Forbud mot bruk av veksler,​2 omsetningsgjeldsbrev​3 m m",
+      "content": "I avtaleforhold som omfattes av denne loven, må det ikke utstedes veksel​2 for fordring mot forbruker.​4 Det samme gjelder for skylderklæring som ved overdragelse eller pantsettelse​5 kan avskjære eller innskrenke forbrukerens rett til å gjøre gjeldende innsigelser eller motkrav på grunnlag av tidspartavtalen eller kredittavtalen.\n1 Se § 18.\n2 Jf. lov 27 mai 1932 nr. 2.\n3 Jf. lov 17 feb 1939 nr. 1 kap. 2.\n4 Se § 2, d.\n5 Jf. pantel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Sikkerhetsstillelse",
+      "content": "Selger​2 skal stille betryggende sikkerhet for forbrukerens​3 økonomiske krav som følge av at forbrukeren går fra avtalen etter § 14.\nGjelder avtalen en bolig under oppføring, skal selgeren​2 stille betryggende sikkerhet for forbrukerens​3 økonomiske krav som følge av at avtalen heves på grunn av at boligen​4 eller nødvendige fellestjenester forbrukeren skal ha tilgang til, ikke blir ferdigstilt til avtalt tidspunkt.\nDepartementet kan gi nærmere forskrifter om hvilken sikkerhet som skal stilles.\n1 Se § 18.\n2 Se § 2, c.\n3 Se § 2, d.\n4 Se § 2, b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "5:14",
+      "chapter": "5",
+      "section": "14",
+      "title": "Rett til å gå fra tidspartavtalen (angrerett)​1",
+      "content": "Forbrukeren​2 kan gå fra avtalen uten å angi grunn i 10 dager etter at begge parter har undertegnet avtalen.\nDersom avtalen ved undertegning ikke inneholder alle opplysninger som nevnt i § 6 første ledd bokstav a-k, § 7 bokstav a og b og § 10 bokstav a og b, har forbrukeren​2 rett til å gå fra avtalen i inntil 3 måneder og 10 dager etter at avtalen ble undertegnet. Dersom forbrukeren mottar de manglende opplysningene, begrenses angreretten til 10 dager etter at opplysningene ble gitt.\n1 Sml. lov 21 des 2000 nr. 105.\n2 Se § 2, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "title": "Melding om bruk av angreretten",
+      "content": "Dersom forbrukeren​2 vil gjøre angreretten etter § 14 gjeldende, skal det gis melding til selger​3 om dette innen utløpet av den dagen da fristen løper ut. Ved beregning av fristen telles ikke den dagen med når fristen begynner å løpe.\nFristen anses overholdt dersom meldingen er sendt innen fristens utløp og på en måte som er forsvarlig etter forholdene. Dette gjelder selv om meldingen blir forsinket eller på annen måte ikke kommer riktig fram.​4\nEnder fristen på en søndag eller annen helgedag​5 eller på lørdag eller på den 1. eller 17. mai, forlenges fristen til førstkommende virkedag.\n1 Sml. lov 21 des 2000 nr. 105 § 13 og § 20.\n2 Se § 2, d.\n3 Se § 2, c.\n4 Jf. lov 21 des 2000 nr. 105 § 13 (3).\n5 Jf. lov 24 feb 1995 nr. 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "title": "Virkninger av bruk av angreretten",
+      "content": "Ved fragåelse av avtalen faller partenes plikt til å oppfylle avtalen bort.\nEr avtalen helt eller delvis oppfylt fra noen av sidene, skal det mottatte tilbakeføres.\nSelger​2 kan ikke kreve erstatning for utgifter som selgeren direkte eller indirekte har hatt i forbindelse med kontrakten.\nDersom avtalen fragås etter § 14 første ledd kan forbrukeren​3 ikke kreve erstatning eller vederlag for utgifter som han eller hun direkte eller indirekte har hatt i forbindelse med avtalen.\nDersom avtalen fragås etter § 14 annet ledd og det er mottatt vederlag som skal betales tilbake, skal det betales rente etter lov 17. desember 1976 nr. 100 om forsinket betaling m.m. fra den dag betalingen ble mottatt.\n1 Sml. lov 21 des 2000 nr. 105 §§ 14, 15, 21 og 22 c.\n2 Se § 2, d.\n3 Se § 2, c.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Virkninger for kredittavtaler ved bruk av angreretten",
+      "content": "Når forbrukeren​2 bruker angreretten etter § 14, skal avtale om kreditt som helt eller delvis dekker kjøpesummen, oppheves vederlagsfritt, dersom kreditten ytes av selgeren. Er avtalen helt eller delvis oppfylt fra noen av partene, skal det mottatte tilbakeføres.\nFørste ledd gjelder tilsvarende når kreditten ytes av tredjeperson på grunnlag av avtale mellom denne og selgeren. Selgeren skal gi melding til kredittyter umiddelbart etter at melding om fragåelse av tidspartavtalen er mottatt.\n1 Sml. lov 21 des 2000 nr. 105 §§ 17 og 22.\n2 Se § 2, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "6:18",
+      "chapter": "6",
+      "section": "18",
+      "title": "Straff",
+      "content": "Den som forsettlig overtrer eller medvirker til å overtre bestemmelser gitt i eller i medhold av §§ 11, 12 eller 13, straffes med bøter.​1 Ved særdeles skjerpende omstendigheter er straffen bøter​1 eller fengsel​2 i inntil tre måneder.​3\nDen som uaktsomt overtrer eller medvirker til å overtre bestemmelse som nevnt i første ledd, straffes med bøter.​1\n0 Endres ved lov 20 mai 2005 nr. 28 (ikr. fra den tid som fastsettes ved lov) som endret ved lov 19 juni 2009 nr. 74.\n1 Jf. strl. 1902 § 27 og kap. 3 a; strl. 2005 kap. 4 og kap. 9 (ikke ikr.).\n2 Jf. strl. 1902 § 26 a; strl. 2005 §§ 32 og 54 (ikke ikr.).\n3 Jf. strl. 1902 § 25; strl. 2005 § 31 (3) (ikke ikr.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "7:19",
+      "chapter": "7",
+      "section": "19",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra det tidspunkt Kongen fastsetter.​1\nLoven får bare virkning for markedsføringstiltak og avtaler som inngås​2 etter at loven er trådt i kraft.\n1 Fra 13 juni 1997 iflg. res. 13 juni 1997 nr. 574.\n2 Jf. lov 31 mai 1918 nr. 4 kap. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "7:20",
+      "chapter": "7",
+      "section": "20",
+      "title": "Endringer i andre lover",
+      "content": "I lov av 16. juni 1989 nr. 53 om eiendomsmegling gjøres følgende endringer: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Virkeområde",
+      "content": "Loven gjelder salg av tidsparter​1 i fritidsbolig​2 til forbruker,​3 når selger​4 opptrer i næringsvirksomhet.\nLoven gjelder for Svalbard​5 og Jan Mayen.​6 Kongen kan likevel bestemme at hele eller deler av loven ikke skal gjelde, og gi særlige regler av hensyn til de stedlige forhold. § 9 annet ledd gjelder ikke på Svalbard.\n1 Se § 2, a.\n2 Se § 2, b.\n3 Se § 2, d.\n4 Se § 2, c.\n5 Se lov 17 juli 1925 nr. 11 § 1 (2).\n6 Jf. lov 27 feb 1930 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjoner",
+      "content": "I loven menes med:\na. tidspart: bruksrett i avgrensete tidsrom av året for en periode på minst 3 år;\nb. bolig: fast eiendom som brukes som fritidsbolig;\nc. selger: fysisk eller juridisk person som stifter, overdrar eller forplikter seg til å overdra tidspart;\nd. forbruker: fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.​1\n1 Jf. lover 28 apr 1978 nr. 18 § 1 (3), 16 juni 1989 nr. 63 § 1 (2), 3 juli 1992 nr. 93 § 1-2 (3), 13 juni 1997 nr. 43 § 2, 25 juni 1999 nr. 46 § 2 (1) og 21 des 2000 nr. 105 § 6 (1), e, og forbrkjl. § 1 (3).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Lovens ufravikelighet​1",
+      "content": "Loven kan ikke fravikes til skade for forbrukeren.​2\n1 Sml. forbrkjl. § 3 og lov 21 des 2000 nr. 105 § 3.\n2 Se § 2, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Avtale om tvisteløsning (voldgift og verneting)​1",
+      "content": "Avtale om at en tvist om forhold som er regulert av denne loven skal avgjøres ved voldgift,​2 er bare bindende dersom avtalen er inngått​3 etter at tvisten oppstod.\nForbrukeren​4 kan ikke vedta annet verneting​5 for tvist om forhold som er regulert i denne lov enn de lovbestemte, med unntak av sitt alminnelige verneting.​5\n0 Endret ved lov 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Jf. lov 13 juni 1997 nr. 43 § 64.\n2 Jf. lov 14 mai 2004 nr. 25.\n3 Jf. lov 31 mai 1918 nr. 4 kap. 1.\n4 Se § 2, d.\n5 Se tvl. kap. 4 II.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Lovvalg utenfor EØS-området",
+      "content": "Dersom en avtale om tidspart i en bolig som ligger i et EØS-land, inneholder bestemmelser om at lovgivningen i et land utenfor EØS-området skal anvendes på avtalen, gjelder bestemmelsene ikke i den utstrekning forbrukeren​1 ved dette får en dårligere beskyttelse.\nTilsvarende gjelder for vilkår i kredittavtaler som helt eller delvis skulle dekke prisen for tidsparten dersom kreditten ytes av selgeren eller av tredjeperson på grunnlag av avtale med selgeren.\n1 Se § 2, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Generell opplysningsplikt",
+      "content": "Når en forbruker​1 ber om opplysninger om en tidspart​2 i bolig​3 som selgeren​4 tilbyr, plikter selgeren å utlevere vederlagsfritt et dokument som skal inneholde opplysninger om:\na. navn og adresse til selger​4 og eier med nøyaktig angivelse av selgerens juridiske status;\nb. rettigheten som tidspartavtalen gjelder, med en beskrivelse av den, samt vilkårene for å benytte den. Det skal opplyses om disse vilkårene er oppfylt, og eventuelt hvilke vilkår som ikke er oppfylt;\nc. boligen, med en beskrivelse av boligen og dens beliggenhet, når rettigheten gjelder en bestemt bolig;\nd. prisen forbrukeren skal betale for tidsparten;\ne. faste årlige kostnader knyttet til tidsparten, herunder lovbestemte avgifter, driftsutgifter og andre administrasjonsutgifter. Det skal også opplyses om beregningsgrunnlaget for utgiftene;\nf. faste årlige kostnader for å få tilgang til de fellestjenester og fellesanlegg som tilbys;\ng. variable kostnader knyttet til tidsparten og bruk av fellestjenester og fellesanlegg;\nh. andre utgifter som forbrukeren kan bli pålagt å dekke, herunder økonomisk ansvar for usolgte tidsparter;\ni. eventuell mulighet for å delta i en ordning med bytte og videresalg, herunder sentrale vilkår og overslag over kostnader;\nj. retten til å gå fra tidspartavtalen (angrerett) etter § 14, herunder vilkår og framgangsmåte, samt virkninger av slik fragåelse.​5 Det skal også opplyses om forbudet etter § 11 mot betaling før utløpet av angrefristen og om sikkerhetsstillelse etter § 13 første ledd;\nk. oppheving av kredittavtaler etter § 17;\nl. de fellestjenester, f.eks. strøm, vann, vedlikehold og renovasjon, som forbrukeren har eller kan få tilgang til og de sentrale vilkårene for dette;\nm. de fellesanlegg, f.eks. svømmebasseng og tennisbane, som forbrukeren har eller kan få tilgang til og de sentrale vilkårene for dette;\nn. prinsippene for vedlikehold, reparasjon, administrasjon og drift av eiendommen;\no. avstanden fra boligen til jernbanestasjon, flyplass og andre sentrale opplysninger om offentlig kommunikasjon på ulike tider av året;\np. at opplysninger og vilkår gitt i dokumentet kan endres og vilkårene og framgangsmåten for dette;\nq. andre forhold som forbrukeren har grunn til å regne med å få informasjon om;\nr. hvordan ytterligere opplysninger kan skaffes;\ns. forhold som kreves opplyst etter forskrift med hjemmel i § 8.\nOpplysningene skal være kortfattete og nøyaktige og skal gis på en klar og tydelig måte.\nI all markedsføring for en bolig​3 skal det opplyses at det er mulig å få dokument som nevnt i bestemmelsen her, og om hvor det kan fås.\n1 Se § 2, d.\n2 Se § 2, a.\n3 Se § 2, b.\n4 Se § 2, c.\n5 Jf. § 16 og § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Bolig​1 under oppføring​2",
+      "content": "Dersom boligen​1 er under oppføring skal dokument som nevnt i § 6 i tillegg inneholde opplysninger om:\na. hvor langt byggearbeidet er kommet;\nb. når boligen skal være ferdigstilt;\nc. nummeret på byggetillatelsen samt fullstendig navn og adresse til bygningsmyndighetene, dersom det gjelder en bestemt bolig;\nd. status for arbeidet med de fellestjenester som er nødvendige for å ta i bruk boligen, samt angivelse av når de vil være tilgjengelige;\ne. hvilken sikkerhet som stilles etter § 13 annet ledd, vilkårene for denne og at forbrukeren ikke skal betale noe før slik sikkerhet er stilt;\nf. eventuell annen sikkerhet som stilles og vilkårene for denne;\ng. forhold som kreves opplyst etter forskrift med hjemmel i § 8.\n1 Se § 2, b.\n2 Jf. lov 13 juni 1997 nr. 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Forskrift",
+      "content": "Departementet kan gi forskrift om at selgeren plikter å gi andre opplysninger etter §§ 6 og 7.\nDepartementet kan gi nærmere bestemmelser om hvordan opplysningsplikten skal oppfylles, herunder at det skal brukes bestemte formularer og om godkjenning av disse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Formkrav",
+      "content": "Avtalen skal være skriftlig og undertegnes av begge parter.\nEr forbrukeren​1 bosatt i et EØS-land,​2 skal avtalen utarbeides på et offisielt språk i bostedslandet. Dersom boligen​3 ligger i et annet EØS-land, skal selgeren​4 i tillegg utlevere en autorisert oversettelse av avtalen til et offisielt språk i dette landet. Har bostedslandet flere offisielle språk, kan forbrukeren velge blant disse. Er forbrukeren statsborger i et annet EØS-land, kan han eller hun i stedet velge et offisielt språk i dette landet.\nOpplysningene om angrerett, jf. § 10 bokstav d jf. § 6 bokstav j, skal plasseres umiddelbart over partenes underskrift.\nAvtale som ikke er opprettet i samsvar med første og annet ledd er ikke bindende for forbrukeren.​1\n1 Se § 2, c.\n2 Jf. lov 27 nov 1992 nr. 109.\n3 Se § 2, b.\n4 Se § 2, c.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Avtalens innhold",
+      "content": "Avtalen skal inneholde:\na. partenes navn og bosted, samt dato og sted for hver av partenes undertegning av avtalen;\nb. angivelse av det tidsrommet tidsparten gjelder, ordningens varighet og fra hvilken dato forbrukeren​1 kan benytte rettigheten;\nc. en erklæring om at forbrukeren​1 ikke vil bli ansvarlig for andre typer kostnader eller utgifter enn dem som framgår av avtalen;\nd. opplysninger som skal gis etter §§ 6 og 7 og etter eventuell forskrift etter § 8;\ne. dokumentasjon for hvilken sikkerhet som er stilt etter § 13.\nOpplysninger og vilkår som tidligere er framkommet i dokument etter § 6 bokstav a-n og § 7 bokstav a-d og f, skal regnes som en del av avtalen, og kan ikke endres med mindre endringene er en følge av omstendigheter selgeren​2 ikke rår over eller partene uttrykkelig har avtalt endringene. Endringene skal i så fall meddeles forbrukeren​1 skriftlig før avtalen inngås, og endringene skal fremgå uttrykkelig av avtalen.\n1 Se § 2, d.\n2 Se § 2, c.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "Betaling",
+      "content": "Selger​2 kan ikke kreve eller motta noen form for betaling fra forbrukeren​3 før selgeren har stilt sikkerhet etter bestemmelsene i § 13.\nSelger​2 kan ikke kreve eller motta noen form for betaling fra forbrukeren​3 før utløpet av angrefristen.​4\nBestemmelsene i første og annet ledd gjelder tilsvarende for kredittyter ved kreditt som skal dekke hele eller deler av kjøpesummen, når kreditten ytes av selger eller tredjeperson på grunnlag av avtale med selger.​2\n1 Se § 18.\n2 Se § 2, c.\n3 Se § 2, d.\n4 Se kap. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Forbud mot bruk av veksler,​2 omsetningsgjeldsbrev​3 m m",
+      "content": "I avtaleforhold som omfattes av denne loven, må det ikke utstedes veksel​2 for fordring mot forbruker.​4 Det samme gjelder for skylderklæring som ved overdragelse eller pantsettelse​5 kan avskjære eller innskrenke forbrukerens rett til å gjøre gjeldende innsigelser eller motkrav på grunnlag av tidspartavtalen eller kredittavtalen.\n1 Se § 18.\n2 Jf. lov 27 mai 1932 nr. 2.\n3 Jf. lov 17 feb 1939 nr. 1 kap. 2.\n4 Se § 2, d.\n5 Jf. pantel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Sikkerhetsstillelse",
+      "content": "Selger​2 skal stille betryggende sikkerhet for forbrukerens​3 økonomiske krav som følge av at forbrukeren går fra avtalen etter § 14.\nGjelder avtalen en bolig under oppføring, skal selgeren​2 stille betryggende sikkerhet for forbrukerens​3 økonomiske krav som følge av at avtalen heves på grunn av at boligen​4 eller nødvendige fellestjenester forbrukeren skal ha tilgang til, ikke blir ferdigstilt til avtalt tidspunkt.\nDepartementet kan gi nærmere forskrifter om hvilken sikkerhet som skal stilles.\n1 Se § 18.\n2 Se § 2, c.\n3 Se § 2, d.\n4 Se § 2, b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "5:14",
+      "chapter": "5",
+      "section": "14",
+      "title": "Rett til å gå fra tidspartavtalen (angrerett)​1",
+      "content": "Forbrukeren​2 kan gå fra avtalen uten å angi grunn i 10 dager etter at begge parter har undertegnet avtalen.\nDersom avtalen ved undertegning ikke inneholder alle opplysninger som nevnt i § 6 første ledd bokstav a-k, § 7 bokstav a og b og § 10 bokstav a og b, har forbrukeren​2 rett til å gå fra avtalen i inntil 3 måneder og 10 dager etter at avtalen ble undertegnet. Dersom forbrukeren mottar de manglende opplysningene, begrenses angreretten til 10 dager etter at opplysningene ble gitt.\n1 Sml. lov 21 des 2000 nr. 105.\n2 Se § 2, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "title": "Melding om bruk av angreretten",
+      "content": "Dersom forbrukeren​2 vil gjøre angreretten etter § 14 gjeldende, skal det gis melding til selger​3 om dette innen utløpet av den dagen da fristen løper ut. Ved beregning av fristen telles ikke den dagen med når fristen begynner å løpe.\nFristen anses overholdt dersom meldingen er sendt innen fristens utløp og på en måte som er forsvarlig etter forholdene. Dette gjelder selv om meldingen blir forsinket eller på annen måte ikke kommer riktig fram.​4\nEnder fristen på en søndag eller annen helgedag​5 eller på lørdag eller på den 1. eller 17. mai, forlenges fristen til førstkommende virkedag.\n1 Sml. lov 21 des 2000 nr. 105 § 13 og § 20.\n2 Se § 2, d.\n3 Se § 2, c.\n4 Jf. lov 21 des 2000 nr. 105 § 13 (3).\n5 Jf. lov 24 feb 1995 nr. 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "title": "Virkninger av bruk av angreretten",
+      "content": "Ved fragåelse av avtalen faller partenes plikt til å oppfylle avtalen bort.\nEr avtalen helt eller delvis oppfylt fra noen av sidene, skal det mottatte tilbakeføres.\nSelger​2 kan ikke kreve erstatning for utgifter som selgeren direkte eller indirekte har hatt i forbindelse med kontrakten.\nDersom avtalen fragås etter § 14 første ledd kan forbrukeren​3 ikke kreve erstatning eller vederlag for utgifter som han eller hun direkte eller indirekte har hatt i forbindelse med avtalen.\nDersom avtalen fragås etter § 14 annet ledd og det er mottatt vederlag som skal betales tilbake, skal det betales rente etter lov 17. desember 1976 nr. 100 om forsinket betaling m.m. fra den dag betalingen ble mottatt.\n1 Sml. lov 21 des 2000 nr. 105 §§ 14, 15, 21 og 22 c.\n2 Se § 2, d.\n3 Se § 2, c.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Virkninger for kredittavtaler ved bruk av angreretten",
+      "content": "Når forbrukeren​2 bruker angreretten etter § 14, skal avtale om kreditt som helt eller delvis dekker kjøpesummen, oppheves vederlagsfritt, dersom kreditten ytes av selgeren. Er avtalen helt eller delvis oppfylt fra noen av partene, skal det mottatte tilbakeføres.\nFørste ledd gjelder tilsvarende når kreditten ytes av tredjeperson på grunnlag av avtale mellom denne og selgeren. Selgeren skal gi melding til kredittyter umiddelbart etter at melding om fragåelse av tidspartavtalen er mottatt.\n1 Sml. lov 21 des 2000 nr. 105 §§ 17 og 22.\n2 Se § 2, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "6:18",
+      "chapter": "6",
+      "section": "18",
+      "title": "Straff",
+      "content": "Den som forsettlig overtrer eller medvirker til å overtre bestemmelser gitt i eller i medhold av §§ 11, 12 eller 13, straffes med bøter.​1 Ved særdeles skjerpende omstendigheter er straffen bøter​1 eller fengsel​2 i inntil tre måneder.​3\nDen som uaktsomt overtrer eller medvirker til å overtre bestemmelse som nevnt i første ledd, straffes med bøter.​1\n0 Endres ved lov 20 mai 2005 nr. 28 (ikr. fra den tid som fastsettes ved lov) som endret ved lov 19 juni 2009 nr. 74.\n1 Jf. strl. 1902 § 27 og kap. 3 a; strl. 2005 kap. 4 og kap. 9 (ikke ikr.).\n2 Jf. strl. 1902 § 26 a; strl. 2005 §§ 32 og 54 (ikke ikr.).\n3 Jf. strl. 1902 § 25; strl. 2005 § 31 (3) (ikke ikr.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "7:19",
+      "chapter": "7",
+      "section": "19",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra det tidspunkt Kongen fastsetter.​1\nLoven får bare virkning for markedsføringstiltak og avtaler som inngås​2 etter at loven er trådt i kraft.\n1 Fra 13 juni 1997 iflg. res. 13 juni 1997 nr. 574.\n2 Jf. lov 31 mai 1918 nr. 4 kap. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "7:20",
+      "chapter": "7",
+      "section": "20",
+      "title": "Endringer i andre lover",
+      "content": "I lov av 16. juni 1989 nr. 53 om eiendomsmegling gjøres følgende endringer: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    }
+  ]
+}

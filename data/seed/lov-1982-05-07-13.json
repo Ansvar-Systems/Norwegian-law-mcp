@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1982-05-07-13",
+  "type": "statute",
+  "title": "Lov om økonomiske tiltak mot Argentina.",
+  "short_name": "Lov om økonomiske tiltak mot Argentina.",
+  "status": "in_force",
+  "issued_date": "1982-05-07",
+  "in_force_date": "1982-05-07",
+  "url": "https://lovdata.no/dokument/NLO/lov/1982-05-07-13",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen gis fullmakt til å treffe de bestemmelser som er nødvendige for å forhindre all import til Norge fra Argentina.\nKongen gis videre fullmakt til å treffe bestemmelser om ytterligere innskrenkning av det økonomiske samkvem mellom norske borgere, selskaper, foreninger eller stiftelser og Argentina, eller fysiske og juridiske personer i Argentina.\nKongen avgjør hva som i denne lov skal forstås med «norske» selskaper m.m.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Ved overtredelse eller ved medvirkning til overtredelse av bestemmelser gitt i medhold av denne lov gjelder §§ 2 og 3 i lov av 7. juni 1968 nr. 4 om gjennomføring av bindende vedtak av De Forente Nasjoners Sikkerhetsråd tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen gis fullmakt til å treffe de bestemmelser som er nødvendige for å forhindre all import til Norge fra Argentina.\nKongen gis videre fullmakt til å treffe bestemmelser om ytterligere innskrenkning av det økonomiske samkvem mellom norske borgere, selskaper, foreninger eller stiftelser og Argentina, eller fysiske og juridiske personer i Argentina.\nKongen avgjør hva som i denne lov skal forstås med «norske» selskaper m.m.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Ved overtredelse eller ved medvirkning til overtredelse av bestemmelser gitt i medhold av denne lov gjelder §§ 2 og 3 i lov av 7. juni 1968 nr. 4 om gjennomføring av bindende vedtak av De Forente Nasjoners Sikkerhetsråd tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

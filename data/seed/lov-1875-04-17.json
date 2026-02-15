@@ -1,0 +1,481 @@
+{
+  "id": "LOV-1875-04-17",
+  "type": "statute",
+  "title": "Lov om Pengevæsenet",
+  "short_name": "Pengeloven",
+  "status": "in_force",
+  "issued_date": "1875-04-17",
+  "in_force_date": "1875-04-17",
+  "url": "https://lovdata.no/dokument/NLO/lov/1875-04-17",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Grundlaget for Rigets Myntsystem er Guld og Pengeenheden skal være en Krone, som deles i 100 Øre. Kronens Værdi svarer til en Vægt af 25/62 (fem og tyve to og sextiendedele) eller 0,40323 af et Gram fint Guld.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Guldmynter, hvortil anvendes Myntguld bestaaende af 90 Vægtdele fint Guld og 10 Vægtdele Kobber, skulle være:\n1. 20-Kroner, hvoraf 124 Stykker skulle indeholde 1 Kilogram fint Guld og hvoraf hvert Stykke altsaa har en Bruttovægt af 8,9606 Gram. Diameteren skal være 23 Millimeter.\n2. 10-Kroner, hvoraf 248 Stykker skulle indeholde 1 Kilogram fint Guld, og hvoraf hvert Stykke altsaa har en Bruttovægt af 4,4803 Gram. Diameteren skal være 18 Millimeter.\n1 Se lov 8 juni 1881 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Sølvmynter ere alene Skillemynt og præges blot for Statens Regning. Af saadanne kunne udmyntes nedenstaaende Stykker, der skulle have følgende Størrelse, Vægt og Finhed:\nDiameterVægtdeleBruttovægtfint sølvMillimeterFint SølvKobberGramGram2-Krone. . . . . . .31802015121-Krone. . . . . . .25 7,5 650-Øre. . . . . . .22 5 340-Øre. . . . . . .206040 4 2,425-Øre. . . . . . .17 2,42 1,45210-Øre. . . . . . .154060 1,45 0,58\n1 Jfr. lover 16 juni 1920, 20 mars 1964, 6 mars 1970 nr. 7, 9 juni 1978 nr. 41, 21 des. 1979 nr. 67.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Af Bronce, sammensmeltet af 95 Vægtdele Kobber, 4 Vægtdele Tin og 1 Vegtdel Zink, kan ligeledes kun for Statens Regning udmyntes Skillemynt af følgende Værdi, Størrelse og Vægt:\nDiameterMillimeterAf 1 Kilogram Bronceudpræges Stykk5-Øre. . . . . . .271252-Øre. . . . . . .212501-Øre. . . . . . .16500\n1 Jfr. lover 25 mai 1917 nr. 5, 15 mars 1973 nr. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Af de i §§ 3 og 4 bestekan Kongen efter indhentet Samtykke fra Storthinget lade udmynte saa stor Mængde, som findes fornødent.\nJfr. lov 8 juni 1881 nr. 3 § 3 og lov 18 mars 1924.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Foreaavidt fuldkommen Nøiagtighed i Henseende til Vægt og Finhed ikke kan overholdes for de enkelte Myntstykker, maa Afvigelserne over eller under den rette Vægt og Finhed dog ikke overskride følgende Grændser:\nI Henseende til Vægtved Justering ved Justeringstykkevis kilogramvisI Henseende til FinhedAf hvert MyntstykkesBruttovægtFor 20-Kronestykket.0,0015For 10-Kronestykket.0,00200,0015 fint GuldFor 2-Kronestykket.0,003For 1-Kronestykket.0,005For 50-Ørestykket. . . . . . . .0,0060,003 fint SølvFor 40-Ørestykket. . . . . . . .For 25-Ørestykket. . . . . . . .0,010For 10-Ørestykket. . . . . . . .0,015\nVed Udmyntning af Guld maa derhos iagttages, at Afvigelsen i Væa 10 Kilogram Myntguld ikke overstiger 5 Gram.\n1 Jfr. lov 8 juni 1881 nr. 3 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "I Rigsarkivet skal opbevares et Normal-Kilogram, forfærdiget af Platina-Iridium, overensstemmende med det i Paris opbevarede «Kilogramme des Archives», samt Normal-Myntlodder af samme Metal, vægtige 4,4803 og 8,9606 Gram.\n1 Annet, tredje og fjerde ledd opphevet ved lov 22 des. 1961 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Ved Justerkammeret i Kristiania​1 skal der efter Kongens nærmere Bestemmelse falholdes Vægtlodder, som holde Normalvægten for Guldmynterne, samt den Vægt, under hvilken disse efter [§ 11]​2 ophøre at være tvungent Betalingsmiddel ligeoverfor enhver Anden end Statskassen.\n1 Se lov 31 okt. 1946 nr. 2 § 17.\n2 Se nu lov 8 juni 1881 nr. 3 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "De i §§ 2, 3 og 4 omhandlede Mynter ere de eneste, som her i Riget maa udmyntes.​1 Lige med disse Mynter regnes i alle Henseender de Guld- og Sølvmynter, 24-Skillinger undtagne, som ere udprægede i Henhold til Bestemmelserne i Lov om Pengevæsenet af 4de Juni 1873 §§ 2 og 3. Samtlige heromhandlede Mynter benævnes Kronemynt.\nStaten forbliver fremdeles eneberettiget til at foretage Myntning.​1 De nærmere Bestemmelser om Fremgangsmaaden herved saavelsom om Mynternes Præg afgives af Kongen.\nEnhver som til Statens Myntindretning indleverer Guld i saadanne Partier og af saadan Beskaffenhed, som Kongen ved Reglement bestemmer, skal være berettiget til uden ufornødent Ophold at erholde udmyntet Tikroner mod Erlæggelse af 1/3 pCt. og Tyvekroner mod Erlæggelse af 1/4 pCt. af det udmyntede Beløbs Værdi.​2\n1 Jfr. lover 8 juni 1881 nr. 3 § 1, 25 mai 1917 nr. 5, 16 juni 1920, 18 mars 1924, 20 mars 1964, 6 mars 1970 nr. 7, 9 juni 1978 nr. 41, 21 des. 1979 nr. 67.\n2 Jfr. lov 8 juni 1881 nr. 3 § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Ingen skal være forpligtet til i een Betaling at modtage et høiere Beløb end 20 Kroner i En- og Tokronestykker, 5 Kroner i mindre Sølvmynt og 1 Krone i Broncemynt.\nJfr. lover 14 des. 1917 nr. 4, 16 juni 1920 § 3, 18 mars 1924, 20 mars 1964, 6 mars 1970 nr. 7, 9 juni 1978 nr. 41, 21 des. 1979 nr. 67.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "(Ophevet ved lov 8 juni 1881 nr. 3 § 5.)",
+      "content": "§ 11.(Ophevet ved lov 8 juni 1881 nr. 3 § 5.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Mynt, som kun er tvungent betalingsmiddel likeoverfor statskassen,​2 kan hos denne i hvilket som helst beløp fordres ombyttet med gangbar mynt av samme slags. Likeså skal der være adgang til i statskassen å få ombyttet med gullmynt et hvilket som helst med 10 kroner deleligt beløp av gangbar skillemynt. Denne adgang gjelder dog ikke, så lenge Norges Banks innfrielse av dens sedler midlertidig er utsatt i medhold av lov om Norges Bank,​3 § 7, siste ledd. Ved hvilke offentlige kasser sådan ombytning skal kunne foregå, bestemmes av Kongen.​4\n1 Endret ved lov 29 juni 1932 nr. 1.\n2 Se lov 8 juni 1881 nr. 3 § 4.\n3 Lov 23 april 1892.\n4 Se lov 23 april 1892 § 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Mynt, der ei længere er tvungent Betalingsmiddel ligeoverfor hvemsomhelst, maa ikke atter udgives, efterat være indkommen i den eller de offentlige Kasser, som efter Kongens nærmere Bestemmelse har at tilbageholde saadan forslidt Mynt. Det samme gjælder om Sølvkronemynt, som holder 4 eller flere pCt. under den rette Vægt.\nMynter, der i Overensstemmelse med denne § ere inddragne af Statskassen, blive at indsmelte.​1\n1 Jfr. lov 29 juli 1918 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Norges Bank er forpligtet til at indfri sine Sedler med Guldkronemynt.​1 Dog kan Indløsningen indtil Udgangen af Aaret 1876, istedetfor med norsk Guldmynt, tillige ske med svensk og dansk Guldmynt, beregnet til Pari-Kurs, med hele engelske Souvereigns, som hver veier ikke mindre end 7,938 Gram, efter en Kurs af 18 kroner 16 Øre, – med tydske 20-Rigsmarkstykker, som hver veier ikke mindre end 7,926 Gram, efter en Kurs af 17 Kroner 78 Øre, – eller efter tilsvarende Kursforhold med halve Souvereigns eller 10-Rigsmarkstykker, som hver veier ikke mindre end Halvdelen af de ovennævnte Vægtmængder. Disse Mynter skulle, forinden de af Banken udgives, veies stykkevis.\nForsaavidt de til Indløsning fremleverede Sedler ikke svare til et helt Antal Guldmynt, skal den overskytende Del indløses med Sølvmynt eller anden Skillemynt.\n1 Se lov 23 april 1892 § 6 jfr. § 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "title": "(Nå uten betydning.)",
+      "content": "§ 18.(Nå uten betydning.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Norges Bank er forpligtet til ved enhver af sine Afdelinger at udlevere Sedler mod Guldkronemynt.​1 Ligeledes er den ved sit Hovedsæde samt ved de Afdelinger, Bankens Betyrelse bestemmer, pligtig at udlevere Sedler mod Guldbarrer, hvis Finhed er godtgjort paa saadan Maade, som af Bankens Bestyrelse bliver foreskrevet, efter en Pris af 2480 Kroner for hvert Kilogram fint Guld med Fradrag af 1/4 Procent i Myntningsomkostninger. Det herved indkomne myntede eller umyntede Guld forbliver Bankes lovbestemte Fond​2 uvedkommende.\nLoven om Bankvæsenet af 8de August 1842 § 6 samt Bestemmelsen i Lov om Bankvæsenet af 28de September 1857 § 1 (jfr. § 3 og Lov af 6te Juni 1863), der tilsteder en forøget Seddeludstedelse paa det ved indvexling af Mynt dannede Metalfond, vedbliver fremdeles at være ophævet.\n1 Se lov 23 april 1892 § 14.\n2 Se lov 23 april 1892.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "Bankens lovbestemte Fond omsættes i Overensstemmelse med Forskriften i næstfølgende § til Guldkronemynt. Dog er Banken berettiget til at have en Del af sit Fond henliggende i Sølv, efter Bestyrelsens nærmere Bstemmelse, hvorhos den indtil Udgangen af Aaret 1876, uhindret af de gjældende Lovbestemmelser, kan have indtil Halvdelen af sine Metalbeholdninger staaende i Udlandet. Forøvrigt komme de gjældende Forskrifter angaaende Bankens Sølvfond, samt hvad dermed staar i Forbindelse, til Anvendelse paa dens Guldfond.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "Ved Betaling med Kronemynt af Gjæld eller andre Ydelser, som ere bestemte i Speciespenge, regnes 1 Speciesdaler lige med 4 Kroner, og 1 Skilling lige med 3 1/3 Øre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Fra 1ste Januar 1877 skulle alle Regnskaber vedkommende Staten, Kommuner, offentlige Stiftelser og saadanne Anstalter og Indretninger, som staa under offentlig Bestyrelse eller som i Kraft af en paa deres Planer meddelt offentlig Approbation ere i Besiddelse af nogen Forrettighed, føres i Kronemynt. Det samme gjælder om private Regnskabsbøger, Nogen ifølge Lov er pligtig at holde.​1 Fra samme Tid bliver Kronemynten den eneste Pengesort, hvori Nogen kan vente Paastand om Betaling antagen enten af Domstolene eller andre offentlige Myndigheder.\n1 Se lov 13 mai 1977 nr. 35 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "title": "(Nå uten betydning.)",
+      "content": "§ 23.(Nå uten betydning.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Alle ældre ved Lov eller anden offentlig Foranstaltning fastsatte Taxter skulle inden 1ste Januar 1877 omskrives til Kronemynt efter det i § 21 fastsatte Forhold.\nFremkommer ved Omskrivningen en ubekvem Brøk, skal Taxten, saafremt muligt, søges rettet, saaledes at Brøk undgaaes, eller, hvor dette ikke findes hensigtsmæssigt, en bekvemmere Brøk sættes istedet. Tilfalder Ydelsen en af det Offentlige antagen eller autoriseret Person, er han i ethvert Fald pligtig til at finde sig heri, hvis hans Indtægt i det Hele ikke derved formindskes. Omskrivningen, og i Tilfælde Omreguleringen, besørges, hvis Taxten er lovbestemt, af Regjeringen, men ellers af den offentlige Myndighed, som har fordret eller approberet samme.\nDe saaledes omskrevne eller omregulerede Taxter skulle foranstaltes behørigen bekjendtgjorte inden 1ste Januar 1877.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Lige med Kronemynt, som er præget her i Riget, gjælder i alle Henseender, saavel med Hensyn til Gangbarhed som til Statens Indløsningspligt, og hvad dermed staar i Forbindelse, Mynt af samme Beskaffenhed, der er præget i Sverige eller Danmark, saalænge Saadant er fastsat ved en paa Gjensidighed bygget Overenskomst med disse Riger, og i Henseende til Bestemmelsen i § 12 indtil 18 Maaneder efter saadan Overenskomsts Ophør. Mynter, der i Overensstemmelse med § 13 tilbageholdes af offentlige Kasser, skulle, forsaavidt de ere prægede for Sveriges eller Danmarks Regning, oversendes vedkommende Finantsbestyrelse til Ombytning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Lov om Pengevæsenet af 14de Juni 1816, forsaavidt den endnu bestaar ophæves efterhaanden som nærværende Lov træder i Kraft. Ligesaa ophæves Lov om Pengevæsenet af 4de Juni 1873, samt N.L.s 5-3-50, forsaavidt den endnu er gjældende, og alle andre Lovbestemmelser, som ere stridende mod denne Lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Grundlaget for Rigets Myntsystem er Guld og Pengeenheden skal være en Krone, som deles i 100 Øre. Kronens Værdi svarer til en Vægt af 25/62 (fem og tyve to og sextiendedele) eller 0,40323 af et Gram fint Guld.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Guldmynter, hvortil anvendes Myntguld bestaaende af 90 Vægtdele fint Guld og 10 Vægtdele Kobber, skulle være:\n1. 20-Kroner, hvoraf 124 Stykker skulle indeholde 1 Kilogram fint Guld og hvoraf hvert Stykke altsaa har en Bruttovægt af 8,9606 Gram. Diameteren skal være 23 Millimeter.\n2. 10-Kroner, hvoraf 248 Stykker skulle indeholde 1 Kilogram fint Guld, og hvoraf hvert Stykke altsaa har en Bruttovægt af 4,4803 Gram. Diameteren skal være 18 Millimeter.\n1 Se lov 8 juni 1881 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Sølvmynter ere alene Skillemynt og præges blot for Statens Regning. Af saadanne kunne udmyntes nedenstaaende Stykker, der skulle have følgende Størrelse, Vægt og Finhed:\nDiameterVægtdeleBruttovægtfint sølvMillimeterFint SølvKobberGramGram2-Krone. . . . . . .31802015121-Krone. . . . . . .25 7,5 650-Øre. . . . . . .22 5 340-Øre. . . . . . .206040 4 2,425-Øre. . . . . . .17 2,42 1,45210-Øre. . . . . . .154060 1,45 0,58\n1 Jfr. lover 16 juni 1920, 20 mars 1964, 6 mars 1970 nr. 7, 9 juni 1978 nr. 41, 21 des. 1979 nr. 67.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Af Bronce, sammensmeltet af 95 Vægtdele Kobber, 4 Vægtdele Tin og 1 Vegtdel Zink, kan ligeledes kun for Statens Regning udmyntes Skillemynt af følgende Værdi, Størrelse og Vægt:\nDiameterMillimeterAf 1 Kilogram Bronceudpræges Stykk5-Øre. . . . . . .271252-Øre. . . . . . .212501-Øre. . . . . . .16500\n1 Jfr. lover 25 mai 1917 nr. 5, 15 mars 1973 nr. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Af de i §§ 3 og 4 bestekan Kongen efter indhentet Samtykke fra Storthinget lade udmynte saa stor Mængde, som findes fornødent.\nJfr. lov 8 juni 1881 nr. 3 § 3 og lov 18 mars 1924.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Foreaavidt fuldkommen Nøiagtighed i Henseende til Vægt og Finhed ikke kan overholdes for de enkelte Myntstykker, maa Afvigelserne over eller under den rette Vægt og Finhed dog ikke overskride følgende Grændser:\nI Henseende til Vægtved Justering ved Justeringstykkevis kilogramvisI Henseende til FinhedAf hvert MyntstykkesBruttovægtFor 20-Kronestykket.0,0015For 10-Kronestykket.0,00200,0015 fint GuldFor 2-Kronestykket.0,003For 1-Kronestykket.0,005For 50-Ørestykket. . . . . . . .0,0060,003 fint SølvFor 40-Ørestykket. . . . . . . .For 25-Ørestykket. . . . . . . .0,010For 10-Ørestykket. . . . . . . .0,015\nVed Udmyntning af Guld maa derhos iagttages, at Afvigelsen i Væa 10 Kilogram Myntguld ikke overstiger 5 Gram.\n1 Jfr. lov 8 juni 1881 nr. 3 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "I Rigsarkivet skal opbevares et Normal-Kilogram, forfærdiget af Platina-Iridium, overensstemmende med det i Paris opbevarede «Kilogramme des Archives», samt Normal-Myntlodder af samme Metal, vægtige 4,4803 og 8,9606 Gram.\n1 Annet, tredje og fjerde ledd opphevet ved lov 22 des. 1961 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Ved Justerkammeret i Kristiania​1 skal der efter Kongens nærmere Bestemmelse falholdes Vægtlodder, som holde Normalvægten for Guldmynterne, samt den Vægt, under hvilken disse efter [§ 11]​2 ophøre at være tvungent Betalingsmiddel ligeoverfor enhver Anden end Statskassen.\n1 Se lov 31 okt. 1946 nr. 2 § 17.\n2 Se nu lov 8 juni 1881 nr. 3 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "De i §§ 2, 3 og 4 omhandlede Mynter ere de eneste, som her i Riget maa udmyntes.​1 Lige med disse Mynter regnes i alle Henseender de Guld- og Sølvmynter, 24-Skillinger undtagne, som ere udprægede i Henhold til Bestemmelserne i Lov om Pengevæsenet af 4de Juni 1873 §§ 2 og 3. Samtlige heromhandlede Mynter benævnes Kronemynt.\nStaten forbliver fremdeles eneberettiget til at foretage Myntning.​1 De nærmere Bestemmelser om Fremgangsmaaden herved saavelsom om Mynternes Præg afgives af Kongen.\nEnhver som til Statens Myntindretning indleverer Guld i saadanne Partier og af saadan Beskaffenhed, som Kongen ved Reglement bestemmer, skal være berettiget til uden ufornødent Ophold at erholde udmyntet Tikroner mod Erlæggelse af 1/3 pCt. og Tyvekroner mod Erlæggelse af 1/4 pCt. af det udmyntede Beløbs Værdi.​2\n1 Jfr. lover 8 juni 1881 nr. 3 § 1, 25 mai 1917 nr. 5, 16 juni 1920, 18 mars 1924, 20 mars 1964, 6 mars 1970 nr. 7, 9 juni 1978 nr. 41, 21 des. 1979 nr. 67.\n2 Jfr. lov 8 juni 1881 nr. 3 § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Ingen skal være forpligtet til i een Betaling at modtage et høiere Beløb end 20 Kroner i En- og Tokronestykker, 5 Kroner i mindre Sølvmynt og 1 Krone i Broncemynt.\nJfr. lover 14 des. 1917 nr. 4, 16 juni 1920 § 3, 18 mars 1924, 20 mars 1964, 6 mars 1970 nr. 7, 9 juni 1978 nr. 41, 21 des. 1979 nr. 67.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "(Ophevet ved lov 8 juni 1881 nr. 3 § 5.)",
+      "content": "§ 11.(Ophevet ved lov 8 juni 1881 nr. 3 § 5.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Mynt, som kun er tvungent betalingsmiddel likeoverfor statskassen,​2 kan hos denne i hvilket som helst beløp fordres ombyttet med gangbar mynt av samme slags. Likeså skal der være adgang til i statskassen å få ombyttet med gullmynt et hvilket som helst med 10 kroner deleligt beløp av gangbar skillemynt. Denne adgang gjelder dog ikke, så lenge Norges Banks innfrielse av dens sedler midlertidig er utsatt i medhold av lov om Norges Bank,​3 § 7, siste ledd. Ved hvilke offentlige kasser sådan ombytning skal kunne foregå, bestemmes av Kongen.​4\n1 Endret ved lov 29 juni 1932 nr. 1.\n2 Se lov 8 juni 1881 nr. 3 § 4.\n3 Lov 23 april 1892.\n4 Se lov 23 april 1892 § 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Mynt, der ei længere er tvungent Betalingsmiddel ligeoverfor hvemsomhelst, maa ikke atter udgives, efterat være indkommen i den eller de offentlige Kasser, som efter Kongens nærmere Bestemmelse har at tilbageholde saadan forslidt Mynt. Det samme gjælder om Sølvkronemynt, som holder 4 eller flere pCt. under den rette Vægt.\nMynter, der i Overensstemmelse med denne § ere inddragne af Statskassen, blive at indsmelte.​1\n1 Jfr. lov 29 juli 1918 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Norges Bank er forpligtet til at indfri sine Sedler med Guldkronemynt.​1 Dog kan Indløsningen indtil Udgangen af Aaret 1876, istedetfor med norsk Guldmynt, tillige ske med svensk og dansk Guldmynt, beregnet til Pari-Kurs, med hele engelske Souvereigns, som hver veier ikke mindre end 7,938 Gram, efter en Kurs af 18 kroner 16 Øre, – med tydske 20-Rigsmarkstykker, som hver veier ikke mindre end 7,926 Gram, efter en Kurs af 17 Kroner 78 Øre, – eller efter tilsvarende Kursforhold med halve Souvereigns eller 10-Rigsmarkstykker, som hver veier ikke mindre end Halvdelen af de ovennævnte Vægtmængder. Disse Mynter skulle, forinden de af Banken udgives, veies stykkevis.\nForsaavidt de til Indløsning fremleverede Sedler ikke svare til et helt Antal Guldmynt, skal den overskytende Del indløses med Sølvmynt eller anden Skillemynt.\n1 Se lov 23 april 1892 § 6 jfr. § 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "title": "(Nå uten betydning.)",
+      "content": "§ 18.(Nå uten betydning.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Norges Bank er forpligtet til ved enhver af sine Afdelinger at udlevere Sedler mod Guldkronemynt.​1 Ligeledes er den ved sit Hovedsæde samt ved de Afdelinger, Bankens Betyrelse bestemmer, pligtig at udlevere Sedler mod Guldbarrer, hvis Finhed er godtgjort paa saadan Maade, som af Bankens Bestyrelse bliver foreskrevet, efter en Pris af 2480 Kroner for hvert Kilogram fint Guld med Fradrag af 1/4 Procent i Myntningsomkostninger. Det herved indkomne myntede eller umyntede Guld forbliver Bankes lovbestemte Fond​2 uvedkommende.\nLoven om Bankvæsenet af 8de August 1842 § 6 samt Bestemmelsen i Lov om Bankvæsenet af 28de September 1857 § 1 (jfr. § 3 og Lov af 6te Juni 1863), der tilsteder en forøget Seddeludstedelse paa det ved indvexling af Mynt dannede Metalfond, vedbliver fremdeles at være ophævet.\n1 Se lov 23 april 1892 § 14.\n2 Se lov 23 april 1892.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "Bankens lovbestemte Fond omsættes i Overensstemmelse med Forskriften i næstfølgende § til Guldkronemynt. Dog er Banken berettiget til at have en Del af sit Fond henliggende i Sølv, efter Bestyrelsens nærmere Bstemmelse, hvorhos den indtil Udgangen af Aaret 1876, uhindret af de gjældende Lovbestemmelser, kan have indtil Halvdelen af sine Metalbeholdninger staaende i Udlandet. Forøvrigt komme de gjældende Forskrifter angaaende Bankens Sølvfond, samt hvad dermed staar i Forbindelse, til Anvendelse paa dens Guldfond.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "Ved Betaling med Kronemynt af Gjæld eller andre Ydelser, som ere bestemte i Speciespenge, regnes 1 Speciesdaler lige med 4 Kroner, og 1 Skilling lige med 3 1/3 Øre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Fra 1ste Januar 1877 skulle alle Regnskaber vedkommende Staten, Kommuner, offentlige Stiftelser og saadanne Anstalter og Indretninger, som staa under offentlig Bestyrelse eller som i Kraft af en paa deres Planer meddelt offentlig Approbation ere i Besiddelse af nogen Forrettighed, føres i Kronemynt. Det samme gjælder om private Regnskabsbøger, Nogen ifølge Lov er pligtig at holde.​1 Fra samme Tid bliver Kronemynten den eneste Pengesort, hvori Nogen kan vente Paastand om Betaling antagen enten af Domstolene eller andre offentlige Myndigheder.\n1 Se lov 13 mai 1977 nr. 35 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "title": "(Nå uten betydning.)",
+      "content": "§ 23.(Nå uten betydning.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Alle ældre ved Lov eller anden offentlig Foranstaltning fastsatte Taxter skulle inden 1ste Januar 1877 omskrives til Kronemynt efter det i § 21 fastsatte Forhold.\nFremkommer ved Omskrivningen en ubekvem Brøk, skal Taxten, saafremt muligt, søges rettet, saaledes at Brøk undgaaes, eller, hvor dette ikke findes hensigtsmæssigt, en bekvemmere Brøk sættes istedet. Tilfalder Ydelsen en af det Offentlige antagen eller autoriseret Person, er han i ethvert Fald pligtig til at finde sig heri, hvis hans Indtægt i det Hele ikke derved formindskes. Omskrivningen, og i Tilfælde Omreguleringen, besørges, hvis Taxten er lovbestemt, af Regjeringen, men ellers af den offentlige Myndighed, som har fordret eller approberet samme.\nDe saaledes omskrevne eller omregulerede Taxter skulle foranstaltes behørigen bekjendtgjorte inden 1ste Januar 1877.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Lige med Kronemynt, som er præget her i Riget, gjælder i alle Henseender, saavel med Hensyn til Gangbarhed som til Statens Indløsningspligt, og hvad dermed staar i Forbindelse, Mynt af samme Beskaffenhed, der er præget i Sverige eller Danmark, saalænge Saadant er fastsat ved en paa Gjensidighed bygget Overenskomst med disse Riger, og i Henseende til Bestemmelsen i § 12 indtil 18 Maaneder efter saadan Overenskomsts Ophør. Mynter, der i Overensstemmelse med § 13 tilbageholdes af offentlige Kasser, skulle, forsaavidt de ere prægede for Sveriges eller Danmarks Regning, oversendes vedkommende Finantsbestyrelse til Ombytning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Lov om Pengevæsenet af 14de Juni 1816, forsaavidt den endnu bestaar ophæves efterhaanden som nærværende Lov træder i Kraft. Ligesaa ophæves Lov om Pengevæsenet af 4de Juni 1873, samt N.L.s 5-3-50, forsaavidt den endnu er gjældende, og alle andre Lovbestemmelser, som ere stridende mod denne Lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    }
+  ]
+}

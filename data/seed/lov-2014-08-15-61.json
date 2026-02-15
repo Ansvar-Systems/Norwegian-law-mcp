@@ -1,0 +1,499 @@
+{
+  "id": "LOV-2014-08-15-61",
+  "type": "statute",
+  "title": "Lov om losordningen",
+  "short_name": "Losloven",
+  "status": "in_force",
+  "issued_date": "2014-08-15",
+  "in_force_date": "2015-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/2014-08-15-61",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Loven skal legge til rette for en losordning som, ved å sikre tilstrekkelig farvannskompetanse om bord, skal bidra til å trygge ferdselen på sjøen ut fra samfunnmessige hensyn, samt medvirke til at Forsvaret kan løse sine oppgaver.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Virkeområde",
+      "content": "Loven gjelder i sjøterritoriet og i de indre farvann​1 såfremt annet ikke er bestemt i loven.\nLoven gjelder for elver og innsjøer som er farbare med fartøy fra sjøen i den utstrekning departementet bestemmer.​2\nLoven gjelder for Svalbard og Jan Mayen i den utstrekning Kongen bestemmer. Kongen kan gjøre unntak fra loven og fastsette slike særlige regler som de stedlige forholdene tilsier.\nKongen kan fastsette de endringer i loven som er nødvendige ved beredskap og i krig.\n1 Se lov 27 juni 2013 nr. 57 §§ 1 til 3.\n2 Sml. lov 17 apr 2009 § 2 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Forholdet til folkeretten",
+      "content": "Loven gjelder med de begrensninger som er anerkjent i folkeretten eller følger av overenskomst med fremmed stat.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Definisjoner",
+      "content": "I denne lov forstås med:\na. losing: veiledning for fartøy ved navigering og manøvrering, som utføres av los\nb. los: person ansatt i lostjenesten med lossertifikat som er utstedt i henhold til loven her\nc. losplikt: plikt til å bruke los eller farledsbevis\nd. fartøy: enhver flytende innretning som kan brukes som transportmiddel, fremkomstmiddel, løfteinnretning, oppholdssted, produksjonssted eller lagersted, herunder undervannsfartøy av enhver art\ne. kadettfarledsbevis: midlertidig farledsbevis som utstedes til navigatører som er under kontraktfestet opplæring i kystseilas om bord",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Organisering av lostjenesten",
+      "content": "Lostjenesten skal organiseres i en forvaltningsmessig del og en operativ del som skal være uavhengige av hverandre.\nDepartementet bestemmer hvem som er forvaltningsmessig del og operativ del.\nDet statlige tilsynet utøves i henhold til § 15.\nDepartementet kan gi forskrift for lostjenesten ved beredskap og i krig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Losplikt",
+      "content": "Lospliktige fartøy​1 skal bruke navigatør med farledsbevis eller los​2 med sertifikat for vedkommende farvann. Hvis los med sertifikat for vedkommende farvann ikke kan tilvises, kan annen los som er kjent i farvannet tilvises.\nFinner en skipsfører eller reder at det er nødvendig med veiledning med hensyn til navigering og manøvrering av andre enn fartøyets faste navigatører, skal los benyttes. Dette gjelder ikke for militære fartøy og andre fartøy under militær kommando.\nDepartementet gir forskrift om\na. hvilke geografiske områder losplikten​3 gjelder for\nb. hvilke fartøy som er lospliktige,​2 herunder hvilke som skal bruke los og hvilke som kan benytte farledsbevis\nVed fastsettelse av losplikt skal det legges vekt på farvannets beskaffenhet og på om fartøyet på grunn av sin størrelse, last eller antall passasjerer kan utgjøre en risiko for tap av menneskeliv, skade på miljøet og tap av verdier.\nDepartementet kan gi forskrift om bestilling av los.\nKongen kan fastsette forskrifter om losplikt av hensyn til rikets sikkerhet.\n1 Se § 4, c og d.\n2 Se § 4, b.\n3 Se § 4, c",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Skipsførerens plikter ved losing",
+      "content": "Skipsføreren, eller den som fører kommandoen i hans sted, plikter å legge til rette for losingen.​1\nSkipsføreren, eller den som fører kommandoen i hans sted, kan overlate kontrollen med fartøyets​2 fremdrift, navigering og manøvrering til losen.​3 Losen skal i slike tilfeller ikke erstatte noen av fartøyets navigatører.\nLoven her medfører ingen endringer i de regler som gjelder ansvaret for skipsførere, eller den som fører kommandoen i hans sted.\nDepartementet kan gi forskrift med nærmere bestemmelser om tilrettelegging for losingen.\n1 Se § 4, a.\n2 Se § 4, d.\n3 Se § 4, b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Losens plikter ved losing",
+      "content": "Losen​1 skal veilede skipsføreren, eller den som fører kommandoen i hans sted, ved navigering og manøvrering av fartøyet.​2\nLosingen​3 skal utføres slik at navigeringen og manøvreringen av skipet skjer på en sikker måte.\nUnder losingen skal losen være på kommandobroen eller på det sted hvor losingen best kan utføres.\nLosen skal av sikkerhetshensyn ha minst tolv timers tjenestefrihet fra losing hvert døgn. Dette gjelder ikke for militære fartøy og andre fartøy under militær kommando ved beredskap og i krig.\nDepartementet kan gi forskrift med nærmere bestemmelser om losens plikter ved losing.\n1 Se § 4, b.\n2 Se § 4, d.\n3 Se § 4, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Adgang til å nekte et fartøy losing",
+      "content": "Departementet kan treffe vedtak om ikke å tilvise los​1 eller å avbryte en pågående losing,​2 dersom seilasen\na. medfører et forsettlig brudd på nasjonalt regelverk som skal trygge ferdselen på sjøen, eller\nb. utgjør en åpenbar risiko for tap av menneskeliv, skade på miljøet eller tap av verdier\nDepartementet skal i slike tilfeller umiddelbart underrette fartøyet​3 om årsakene til at fartøyet nektes losing etter første ledd.\nDepartementet kan gi forskrift med nærmere bestemmelser om i hvilke tilfeller det kan treffes vedtak om ikke å tilvise fartøy los eller å avbryte en pågående losing, og hvordan slike saker skal behandles.\n1 Se § 4, b.\n2 Se § 4, a.\n3 Se § 4, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Erstatningsansvar",
+      "content": "Ved anvendelse av skadeserstatningsloven § 2-1​1 betraktes losen for å være i fartøyets tjeneste under losingen.​2 Loven her medfører ellers ingen endring i gjeldende erstatningsregler.\nLosen​3 plikter å erstatte skade som losen volder ved feil eller forsømmelse i tjenesten, etter gjeldende erstatningsregler, jf. skadeserstatningsloven § 2-3.​1\n1 Jf. sjøl. § 151.\n2 Se § 4, a.\n3 Se § 4, b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "Farledsbevis",
+      "content": "Farledsbevis kan utstedes til skipsfører og andre av fartøyets​1 navigatører. Farledsbeviset gir rett til å seile i angitte lospliktige​2 farleder eller områder med angitte fartøy uten los.​3\nFor at andre av fartøyets navigatører skal kunne benytte sitt farledsbevis, må skipsføreren ha farledsbevis for det aktuelle området.\nVed utstedelse av farledsbevis skal det legges vekt på søkerens kompetanse og farvannskunnskap, risikoen knyttet til fartøyet og risikoen knyttet til farvannet.\nDepartementet gir forskrift om utstedelse og bruk av farledsbevis, herunder om etablering av ordninger med rederiers egenkontroll av søkers kompetanse og farvannskunnskap.\n1 Se § 4, d.\n2 Se § 4, c.\n3 Se § 4, b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "title": "Krav til losen",
+      "content": "En los​1 skal ha gyldig lossertifikat utstedt i henhold til forskrift fastsatt i medhold av bestemmelsen her.\nDepartementet gir forskrift om:\na. kvalifikasjonskrav for opptak som losaspirant, herunder helsekrav og krav til utdanning, fartstid og sertifikater\nb. helsekrav til og legeundersøkelse av loser\nc. krav til utdanning og eksaminering av loser\nd. vilkår for å få, utvide og opprettholde lossertifikat, herunder de krav som stilles til farvannskunnskap\ne. krav til lossertifikaters form, utstedelse og innhold\n1 Se § 4, b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "title": "Avgifter",
+      "content": "Lospliktige fartøy​1 skal betale losavgifter.\nDepartementet kan gi forskrift om:\na. losberedskapsavgift og losingsavgift for fartøy​2 som bruker los\nb. losberedskapsavgift for fartøy som benytter navigatør med farledsbevis\nc. at den som søker om farledsbevis skal betale avgift for behandling og utstedelse av farledsbevis\nd. avgiftenes utforming\n1 Se § 4, c og d.\n2 Se § 4, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "title": "Sikring og innkreving av avgifter",
+      "content": "Reder og agent er solidarisk ansvarlige for avgifter etter loven her.\nEt fartøy​1 som ikke har betalt forfalte avgifter, kan nektes losing med mindre det stilles sikkerhet for betaling av losavgifter.\nVed forsinket betaling av avgifter svares forsinkelsesrente etter forsinkelsesrenteloven.​2 Annet ledd gjelder tilsvarende.\nSkyldig avgift er tvangsgrunnlag for utlegg.\nKrav på avgifter som nevnt i § 12 innkreves av Statens innkrevingssentral,​3 med mindre departementet bestemmer noe annet.\nDepartementet kan gi forskrift om:\na. utferdigelse, kontroll og innkreving\nb. tilleggsavgift for fartøy som unnlater å betale avgift etter loven her\n1 Se § 4, d.\n2 Lov 17 des 1976 nr. 100.\n3 Jf. lov 11 jan 2013 nr. 3 § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "title": "Tilsyn og vedtak",
+      "content": "Departementet bestemmer hvem som er tilsynsmyndighet etter denne loven. Tilsynsmyndigheten skal føre tilsyn med at bestemmelsene i og i medhold av denne loven blir overholdt.\nDepartementet kan gi forskrift om organisering, gjennomføring og avgrensning av tilsynsoppgavene.\nDepartementet kan ved enkeltvedtak eller i forskrift gi nærmere bestemmelser om plikt til å gi meldinger og opplysninger som er nødvendige for å føre tilsyn med at bestemmelsene i og i medhold av denne loven blir overholdt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "title": "Adgang til fartøy og opplysningsplikt",
+      "content": "Tilsynsmyndigheten etter denne loven skal ha uhindret adgang til fartøy​1 som er lospliktige etter § 6 i den utstrekning det er nødvendig for gjennomføringen av tilsynet.​2\nFartøy, rederi og innehaver av farledsbevis skal, når tilsynsmyndigheten krever det, fremlegge dokumentasjon som er relevant for å føre tilsyn med at bestemmelsene om plikt til å bruke los eller benytte navigatør med farledsbevis blir overholdt.\n1 Se § 4, d.\n2 Se strl. § 156.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "title": "Tap av retten til farledsbevis",
+      "content": "Innehaveren av farledsbevis eller kadettfarledsbevis​1 kan tape retten til farledsbeviset dersom\na. innehaveren overtrer bestemmelser i lov, forskrift eller enkeltvedtak som gjelder sikkerheten til sjøs eller\nb. innehaveren bryter vilkår for å ha farledsbeviset eller kadettfarledsbeviset eller\nc. innehaveren blir involvert i forhold, eller det foreligger omstendigheter, som gjør at han eller hun åpenbart ikke er skikket til å ha farledsbeviset eller kadettfarledsbeviset.\nTilsynsmyndigheten kan fatte vedtak om rettighetstap for inntil to år. Rettighetstapet kan gjøres betinget eller innebære begrensninger i farledsbeviset. Rettighetstap ut over to år avgjøres ved dom.\nDepartementet kan gi forskrift med nærmere bestemmelser om tap av retten til farledsbevis eller kadettfarledsbevis.\n1 Se § 4, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "title": "Overtredelsesgebyr​1",
+      "content": "Tilsynsmyndigheten kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av §§ 6, 7, 8, 11, 12, 16 eller 19.\nNår en overtredelse som kan medføre overtredelsesgebyr er begått av noen som har handlet på vegne av et rederi, kan overtredelsesgebyr ilegges rederiet selv om overtredelsesgebyr ikke kan ilegges noen enkeltperson.\nVed avgjørelsen av om et rederi skal ilegges overtredelsesgebyr og ved utmåling av gebyret, skal det særlig legges vekt på\na. overtredelsens grovhet\nb. om rederiet ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne forebygge overtredelsen\nc. om overtredelsen er begått for å fremme rederiets interesser\nd. om rederiet har hatt eller kunne oppnådd noen fordel ved overtredelsen\ne. om det foreligger gjentagelse\nf. rederiets økonomiske evne\nBetalingsfristen for ilagt gebyr er fire uker fra vedtakstidspunktet. Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.​2\n1 Jf. fvl. kap. IX.\n2 Jf. tvangsl. § 7-2 (1), d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "title": "Tvangsmidler",
+      "content": "Ved mistanke om overtredelse av § 6 kan tilsynsmyndigheten beordre fartøyet​1 stanset og anvise oppankring eller anløp til bestemt sted for nærmere undersøkelser.\n1 Se § 4, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "title": "Straffansvar",
+      "content": "Den som forsettlig eller uaktsomt vesentlig overtrer §§ 6, 7, 8, 11 eller 12, eller forskrifter gitt i medhold av disse bestemmelsene når det i forskriften er fastsatt at slik overtredelse av den aktuelle bestemmelse er straffbar, straffes med bøter eller fengsel inntil 1 år.\nVed vurderingen av om en overtredelse er vesentlig skal det særlig legges vekt på overtredelsens omfang og virkninger og graden av utvist skyld.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1 Lov 16. juni 1989 nr. 59 om lostjenesten m.v. oppheves fra den tid Kongen bestemmer.​1\n1 Fra 1 jan 2015 iflg. res. 15 aug 2014 nr. 1082.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "title": "Overgangsbestemmelser",
+      "content": "Forskrifter og enkeltvedtak gitt i medhold av lov 16. juni 1989 nr. 59 og lov 9. april 1948 nr. 2 gjelder også etter at loven her har trådt i kraft.\nKongen kan gi forskrift om overgangsbestemmelser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Loven skal legge til rette for en losordning som, ved å sikre tilstrekkelig farvannskompetanse om bord, skal bidra til å trygge ferdselen på sjøen ut fra samfunnmessige hensyn, samt medvirke til at Forsvaret kan løse sine oppgaver.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Virkeområde",
+      "content": "Loven gjelder i sjøterritoriet og i de indre farvann​1 såfremt annet ikke er bestemt i loven.\nLoven gjelder for elver og innsjøer som er farbare med fartøy fra sjøen i den utstrekning departementet bestemmer.​2\nLoven gjelder for Svalbard og Jan Mayen i den utstrekning Kongen bestemmer. Kongen kan gjøre unntak fra loven og fastsette slike særlige regler som de stedlige forholdene tilsier.\nKongen kan fastsette de endringer i loven som er nødvendige ved beredskap og i krig.\n1 Se lov 27 juni 2013 nr. 57 §§ 1 til 3.\n2 Sml. lov 17 apr 2009 § 2 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Forholdet til folkeretten",
+      "content": "Loven gjelder med de begrensninger som er anerkjent i folkeretten eller følger av overenskomst med fremmed stat.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Definisjoner",
+      "content": "I denne lov forstås med:\na. losing: veiledning for fartøy ved navigering og manøvrering, som utføres av los\nb. los: person ansatt i lostjenesten med lossertifikat som er utstedt i henhold til loven her\nc. losplikt: plikt til å bruke los eller farledsbevis\nd. fartøy: enhver flytende innretning som kan brukes som transportmiddel, fremkomstmiddel, løfteinnretning, oppholdssted, produksjonssted eller lagersted, herunder undervannsfartøy av enhver art\ne. kadettfarledsbevis: midlertidig farledsbevis som utstedes til navigatører som er under kontraktfestet opplæring i kystseilas om bord",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Organisering av lostjenesten",
+      "content": "Lostjenesten skal organiseres i en forvaltningsmessig del og en operativ del som skal være uavhengige av hverandre.\nDepartementet bestemmer hvem som er forvaltningsmessig del og operativ del.\nDet statlige tilsynet utøves i henhold til § 15.\nDepartementet kan gi forskrift for lostjenesten ved beredskap og i krig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Losplikt",
+      "content": "Lospliktige fartøy​1 skal bruke navigatør med farledsbevis eller los​2 med sertifikat for vedkommende farvann. Hvis los med sertifikat for vedkommende farvann ikke kan tilvises, kan annen los som er kjent i farvannet tilvises.\nFinner en skipsfører eller reder at det er nødvendig med veiledning med hensyn til navigering og manøvrering av andre enn fartøyets faste navigatører, skal los benyttes. Dette gjelder ikke for militære fartøy og andre fartøy under militær kommando.\nDepartementet gir forskrift om\na. hvilke geografiske områder losplikten​3 gjelder for\nb. hvilke fartøy som er lospliktige,​2 herunder hvilke som skal bruke los og hvilke som kan benytte farledsbevis\nVed fastsettelse av losplikt skal det legges vekt på farvannets beskaffenhet og på om fartøyet på grunn av sin størrelse, last eller antall passasjerer kan utgjøre en risiko for tap av menneskeliv, skade på miljøet og tap av verdier.\nDepartementet kan gi forskrift om bestilling av los.\nKongen kan fastsette forskrifter om losplikt av hensyn til rikets sikkerhet.\n1 Se § 4, c og d.\n2 Se § 4, b.\n3 Se § 4, c",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Skipsførerens plikter ved losing",
+      "content": "Skipsføreren, eller den som fører kommandoen i hans sted, plikter å legge til rette for losingen.​1\nSkipsføreren, eller den som fører kommandoen i hans sted, kan overlate kontrollen med fartøyets​2 fremdrift, navigering og manøvrering til losen.​3 Losen skal i slike tilfeller ikke erstatte noen av fartøyets navigatører.\nLoven her medfører ingen endringer i de regler som gjelder ansvaret for skipsførere, eller den som fører kommandoen i hans sted.\nDepartementet kan gi forskrift med nærmere bestemmelser om tilrettelegging for losingen.\n1 Se § 4, a.\n2 Se § 4, d.\n3 Se § 4, b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Losens plikter ved losing",
+      "content": "Losen​1 skal veilede skipsføreren, eller den som fører kommandoen i hans sted, ved navigering og manøvrering av fartøyet.​2\nLosingen​3 skal utføres slik at navigeringen og manøvreringen av skipet skjer på en sikker måte.\nUnder losingen skal losen være på kommandobroen eller på det sted hvor losingen best kan utføres.\nLosen skal av sikkerhetshensyn ha minst tolv timers tjenestefrihet fra losing hvert døgn. Dette gjelder ikke for militære fartøy og andre fartøy under militær kommando ved beredskap og i krig.\nDepartementet kan gi forskrift med nærmere bestemmelser om losens plikter ved losing.\n1 Se § 4, b.\n2 Se § 4, d.\n3 Se § 4, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Adgang til å nekte et fartøy losing",
+      "content": "Departementet kan treffe vedtak om ikke å tilvise los​1 eller å avbryte en pågående losing,​2 dersom seilasen\na. medfører et forsettlig brudd på nasjonalt regelverk som skal trygge ferdselen på sjøen, eller\nb. utgjør en åpenbar risiko for tap av menneskeliv, skade på miljøet eller tap av verdier\nDepartementet skal i slike tilfeller umiddelbart underrette fartøyet​3 om årsakene til at fartøyet nektes losing etter første ledd.\nDepartementet kan gi forskrift med nærmere bestemmelser om i hvilke tilfeller det kan treffes vedtak om ikke å tilvise fartøy los eller å avbryte en pågående losing, og hvordan slike saker skal behandles.\n1 Se § 4, b.\n2 Se § 4, a.\n3 Se § 4, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Erstatningsansvar",
+      "content": "Ved anvendelse av skadeserstatningsloven § 2-1​1 betraktes losen for å være i fartøyets tjeneste under losingen.​2 Loven her medfører ellers ingen endring i gjeldende erstatningsregler.\nLosen​3 plikter å erstatte skade som losen volder ved feil eller forsømmelse i tjenesten, etter gjeldende erstatningsregler, jf. skadeserstatningsloven § 2-3.​1\n1 Jf. sjøl. § 151.\n2 Se § 4, a.\n3 Se § 4, b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "Farledsbevis",
+      "content": "Farledsbevis kan utstedes til skipsfører og andre av fartøyets​1 navigatører. Farledsbeviset gir rett til å seile i angitte lospliktige​2 farleder eller områder med angitte fartøy uten los.​3\nFor at andre av fartøyets navigatører skal kunne benytte sitt farledsbevis, må skipsføreren ha farledsbevis for det aktuelle området.\nVed utstedelse av farledsbevis skal det legges vekt på søkerens kompetanse og farvannskunnskap, risikoen knyttet til fartøyet og risikoen knyttet til farvannet.\nDepartementet gir forskrift om utstedelse og bruk av farledsbevis, herunder om etablering av ordninger med rederiers egenkontroll av søkers kompetanse og farvannskunnskap.\n1 Se § 4, d.\n2 Se § 4, c.\n3 Se § 4, b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "title": "Krav til losen",
+      "content": "En los​1 skal ha gyldig lossertifikat utstedt i henhold til forskrift fastsatt i medhold av bestemmelsen her.\nDepartementet gir forskrift om:\na. kvalifikasjonskrav for opptak som losaspirant, herunder helsekrav og krav til utdanning, fartstid og sertifikater\nb. helsekrav til og legeundersøkelse av loser\nc. krav til utdanning og eksaminering av loser\nd. vilkår for å få, utvide og opprettholde lossertifikat, herunder de krav som stilles til farvannskunnskap\ne. krav til lossertifikaters form, utstedelse og innhold\n1 Se § 4, b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "title": "Avgifter",
+      "content": "Lospliktige fartøy​1 skal betale losavgifter.\nDepartementet kan gi forskrift om:\na. losberedskapsavgift og losingsavgift for fartøy​2 som bruker los\nb. losberedskapsavgift for fartøy som benytter navigatør med farledsbevis\nc. at den som søker om farledsbevis skal betale avgift for behandling og utstedelse av farledsbevis\nd. avgiftenes utforming\n1 Se § 4, c og d.\n2 Se § 4, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "title": "Sikring og innkreving av avgifter",
+      "content": "Reder og agent er solidarisk ansvarlige for avgifter etter loven her.\nEt fartøy​1 som ikke har betalt forfalte avgifter, kan nektes losing med mindre det stilles sikkerhet for betaling av losavgifter.\nVed forsinket betaling av avgifter svares forsinkelsesrente etter forsinkelsesrenteloven.​2 Annet ledd gjelder tilsvarende.\nSkyldig avgift er tvangsgrunnlag for utlegg.\nKrav på avgifter som nevnt i § 12 innkreves av Statens innkrevingssentral,​3 med mindre departementet bestemmer noe annet.\nDepartementet kan gi forskrift om:\na. utferdigelse, kontroll og innkreving\nb. tilleggsavgift for fartøy som unnlater å betale avgift etter loven her\n1 Se § 4, d.\n2 Lov 17 des 1976 nr. 100.\n3 Jf. lov 11 jan 2013 nr. 3 § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "title": "Tilsyn og vedtak",
+      "content": "Departementet bestemmer hvem som er tilsynsmyndighet etter denne loven. Tilsynsmyndigheten skal føre tilsyn med at bestemmelsene i og i medhold av denne loven blir overholdt.\nDepartementet kan gi forskrift om organisering, gjennomføring og avgrensning av tilsynsoppgavene.\nDepartementet kan ved enkeltvedtak eller i forskrift gi nærmere bestemmelser om plikt til å gi meldinger og opplysninger som er nødvendige for å føre tilsyn med at bestemmelsene i og i medhold av denne loven blir overholdt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "title": "Adgang til fartøy og opplysningsplikt",
+      "content": "Tilsynsmyndigheten etter denne loven skal ha uhindret adgang til fartøy​1 som er lospliktige etter § 6 i den utstrekning det er nødvendig for gjennomføringen av tilsynet.​2\nFartøy, rederi og innehaver av farledsbevis skal, når tilsynsmyndigheten krever det, fremlegge dokumentasjon som er relevant for å føre tilsyn med at bestemmelsene om plikt til å bruke los eller benytte navigatør med farledsbevis blir overholdt.\n1 Se § 4, d.\n2 Se strl. § 156.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "title": "Tap av retten til farledsbevis",
+      "content": "Innehaveren av farledsbevis eller kadettfarledsbevis​1 kan tape retten til farledsbeviset dersom\na. innehaveren overtrer bestemmelser i lov, forskrift eller enkeltvedtak som gjelder sikkerheten til sjøs eller\nb. innehaveren bryter vilkår for å ha farledsbeviset eller kadettfarledsbeviset eller\nc. innehaveren blir involvert i forhold, eller det foreligger omstendigheter, som gjør at han eller hun åpenbart ikke er skikket til å ha farledsbeviset eller kadettfarledsbeviset.\nTilsynsmyndigheten kan fatte vedtak om rettighetstap for inntil to år. Rettighetstapet kan gjøres betinget eller innebære begrensninger i farledsbeviset. Rettighetstap ut over to år avgjøres ved dom.\nDepartementet kan gi forskrift med nærmere bestemmelser om tap av retten til farledsbevis eller kadettfarledsbevis.\n1 Se § 4, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "title": "Overtredelsesgebyr​1",
+      "content": "Tilsynsmyndigheten kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av §§ 6, 7, 8, 11, 12, 16 eller 19.\nNår en overtredelse som kan medføre overtredelsesgebyr er begått av noen som har handlet på vegne av et rederi, kan overtredelsesgebyr ilegges rederiet selv om overtredelsesgebyr ikke kan ilegges noen enkeltperson.\nVed avgjørelsen av om et rederi skal ilegges overtredelsesgebyr og ved utmåling av gebyret, skal det særlig legges vekt på\na. overtredelsens grovhet\nb. om rederiet ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne forebygge overtredelsen\nc. om overtredelsen er begått for å fremme rederiets interesser\nd. om rederiet har hatt eller kunne oppnådd noen fordel ved overtredelsen\ne. om det foreligger gjentagelse\nf. rederiets økonomiske evne\nBetalingsfristen for ilagt gebyr er fire uker fra vedtakstidspunktet. Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.​2\n1 Jf. fvl. kap. IX.\n2 Jf. tvangsl. § 7-2 (1), d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "title": "Tvangsmidler",
+      "content": "Ved mistanke om overtredelse av § 6 kan tilsynsmyndigheten beordre fartøyet​1 stanset og anvise oppankring eller anløp til bestemt sted for nærmere undersøkelser.\n1 Se § 4, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "title": "Straffansvar",
+      "content": "Den som forsettlig eller uaktsomt vesentlig overtrer §§ 6, 7, 8, 11 eller 12, eller forskrifter gitt i medhold av disse bestemmelsene når det i forskriften er fastsatt at slik overtredelse av den aktuelle bestemmelse er straffbar, straffes med bøter eller fengsel inntil 1 år.\nVed vurderingen av om en overtredelse er vesentlig skal det særlig legges vekt på overtredelsens omfang og virkninger og graden av utvist skyld.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1 Lov 16. juni 1989 nr. 59 om lostjenesten m.v. oppheves fra den tid Kongen bestemmer.​1\n1 Fra 1 jan 2015 iflg. res. 15 aug 2014 nr. 1082.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "title": "Overgangsbestemmelser",
+      "content": "Forskrifter og enkeltvedtak gitt i medhold av lov 16. juni 1989 nr. 59 og lov 9. april 1948 nr. 2 gjelder også etter at loven her har trådt i kraft.\nKongen kan gi forskrift om overgangsbestemmelser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    }
+  ]
+}

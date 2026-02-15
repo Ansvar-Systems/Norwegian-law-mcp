@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1937-04-16",
+  "type": "statute",
+  "title": "Lov om fullmakt for Kongen, eller den han gjev fullmakt, til å forby at norske skip blir nytta til å føra folk som eslar seg i krig, våpen, loty, fly eller partar derav til framandland",
+  "short_name": "Lov om forbud mot frakt av våpen m.m",
+  "status": "in_force",
+  "issued_date": "1937-04-16",
+  "in_force_date": "1937-04-16",
+  "url": "https://lovdata.no/dokument/NLO/lov/1937-04-16",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen eller den som han gjev fullmakt​1 kan forby​2 at norske skip blir nytta til å føra folk som eslar seg i krig, våpen, loty, fly eller partar derav til framandland og kan ferda ut turvande forskrifter til å halda forbodet uppe, derunder forskrifter om rett og skyldnad til å gjera om inkje ein fraktavtale so framt fraktaren nyttar eller har nytta skipet på ein måte som er i strid med forbodet.\n1 Utanriksdepartementet iflg. res. 16 apr 1937.\n2 Jf. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Brot på slikt eit forbod eller på dei fyresegnene som er utferda i samsvar med § 1, blir straffa med bot eller med fengsel upp til tri månader.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lova tek straks til å gjelda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen eller den som han gjev fullmakt​1 kan forby​2 at norske skip blir nytta til å føra folk som eslar seg i krig, våpen, loty, fly eller partar derav til framandland og kan ferda ut turvande forskrifter til å halda forbodet uppe, derunder forskrifter om rett og skyldnad til å gjera om inkje ein fraktavtale so framt fraktaren nyttar eller har nytta skipet på ein måte som er i strid med forbodet.\n1 Utanriksdepartementet iflg. res. 16 apr 1937.\n2 Jf. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Brot på slikt eit forbod eller på dei fyresegnene som er utferda i samsvar med § 1, blir straffa med bot eller med fengsel upp til tri månader.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lova tek straks til å gjelda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

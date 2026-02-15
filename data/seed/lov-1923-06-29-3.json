@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1923-06-29-3",
+  "type": "statute",
+  "title": "Lov om fastsettelse av enheten for lengdemål ved angivelser av avstander tilsjøs.",
+  "short_name": "Lov om fastsettelse av lengdemålenhet til sjøs.",
+  "status": "in_force",
+  "issued_date": "1923-06-29",
+  "in_force_date": "1923-06-29",
+  "url": "https://lovdata.no/dokument/NLO/lov/1923-06-29-3",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Enheten for lengdemål ved angivelse av avstander tilsjøs skal være den nautiske mil av lengde 1852 meter undtagen i lover og andre bestemmelser angående sjøterritoriets utstrekning.​1\n1 Se Canc. Prom. 25 feb 1812. – Jfr. lov 17 des 1976 nr. 91 (økonomisk sone).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Enheten for lengdemål ved angivelse av avstander tilsjøs skal være den nautiske mil av lengde 1852 meter undtagen i lover og andre bestemmelser angående sjøterritoriets utstrekning.​1\n1 Se Canc. Prom. 25 feb 1812. – Jfr. lov 17 des 1976 nr. 91 (økonomisk sone).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

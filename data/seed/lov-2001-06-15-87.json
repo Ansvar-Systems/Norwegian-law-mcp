@@ -1,0 +1,125 @@
+{
+  "id": "LOV-2001-06-15-87",
+  "type": "statute",
+  "title": "Lov om omdanning av Jernbaneverkets kommersielle televirksomhet til aksjeselskap",
+  "short_name": "Lov om BaneTele AS",
+  "status": "in_force",
+  "issued_date": "2001-06-15",
+  "in_force_date": "2001-06-15",
+  "url": "https://lovdata.no/dokument/NL/lov/2001-06-15-87",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Formålet med denne loven er å regulere visse overgangsspørsmål i forbindelse med omdanning av Jernbaneverkets kommersielle televirksomhet BaneTele til aksjeselskap.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Overføring av privatrettslige forpliktelser",
+      "content": "Overføring til aksjeselskapet av forpliktelser knyttet til de deler av Jernbaneverkets kommersielle televirksomhet omdanningen gjelder, har frigjørende virkning for staten.\nFordringshavere og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at overføringen utgjør en bortfallsgrunn for rettsforholdet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Overføring av offentlige rettigheter, konsesjoner, tillatelser m.v.",
+      "content": "Offentlige rettigheter, konsesjoner, tillatelser med videre som gjelder den virksomheten som skal omdannes, blir fra omdanningstidspunktet overført til aksjeselskapet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 22 jan 2016 nr. 1 (ikr. 1 mars 2016 iflg. res. 22 jan 2016 nr. 44).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Formålet med denne loven er å regulere visse overgangsspørsmål i forbindelse med omdanning av Jernbaneverkets kommersielle televirksomhet BaneTele til aksjeselskap.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Overføring av privatrettslige forpliktelser",
+      "content": "Overføring til aksjeselskapet av forpliktelser knyttet til de deler av Jernbaneverkets kommersielle televirksomhet omdanningen gjelder, har frigjørende virkning for staten.\nFordringshavere og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at overføringen utgjør en bortfallsgrunn for rettsforholdet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Overføring av offentlige rettigheter, konsesjoner, tillatelser m.v.",
+      "content": "Offentlige rettigheter, konsesjoner, tillatelser med videre som gjelder den virksomheten som skal omdannes, blir fra omdanningstidspunktet overført til aksjeselskapet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 22 jan 2016 nr. 1 (ikr. 1 mars 2016 iflg. res. 22 jan 2016 nr. 44).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ]
+}

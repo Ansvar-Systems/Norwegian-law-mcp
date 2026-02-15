@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1952-07-04-3",
+  "type": "statute",
+  "title": "Lov om tillegg til lov om postvesenet av 8. juni 1928.",
+  "short_name": "Tilleggslov til postloven.",
+  "status": "in_force",
+  "issued_date": "1952-07-04",
+  "in_force_date": "1952-07-04",
+  "url": "https://lovdata.no/dokument/NLO/lov/1952-07-04-3",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Etter nærmere regler som gis av Kongen​1, kan postmesteren med samtykke av Poststyret gi eiere av bygninger pålegg​2 om å anskaffe, oppsette på sted som postmesteren anviser, og vedlikeholde kasser (bokser) for post som skal avleveres i vedkommende bygning.\n1 Samferdselsdepartementet iflg. res. 6 feb 1953.\n2 Se § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Etter nærmere regler som gis av Kongen​1, kan Postverket helt eller delvis yte erstatning til bygningseieren for utgifter ved første gangs anskaffelse og oppsetting av postkasser som nevnt i § 1.\n1 Samferdselsdepartementet iflg. res. 6 feb 1953.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Den som unnlater å etterkomme pålegg etter § 1 straffes med bøter.​2\nPostverket kan i tilfelle anskaffe, sette opp og vedlikeholde postkasse på bygningseierens bekostning. Utgiftene er tvangsgrunnlag for utlegg.​3\n1 Endret ved lov 26 juni 1992 nr. 86.\n2 Se strl. § 27.\n3 Jfr. tvangsl. kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Etter nærmere regler som gis av Kongen​1, kan postmesteren med samtykke av Poststyret gi eiere av bygninger pålegg​2 om å anskaffe, oppsette på sted som postmesteren anviser, og vedlikeholde kasser (bokser) for post som skal avleveres i vedkommende bygning.\n1 Samferdselsdepartementet iflg. res. 6 feb 1953.\n2 Se § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Etter nærmere regler som gis av Kongen​1, kan Postverket helt eller delvis yte erstatning til bygningseieren for utgifter ved første gangs anskaffelse og oppsetting av postkasser som nevnt i § 1.\n1 Samferdselsdepartementet iflg. res. 6 feb 1953.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Den som unnlater å etterkomme pålegg etter § 1 straffes med bøter.​2\nPostverket kan i tilfelle anskaffe, sette opp og vedlikeholde postkasse på bygningseierens bekostning. Utgiftene er tvangsgrunnlag for utlegg.​3\n1 Endret ved lov 26 juni 1992 nr. 86.\n2 Se strl. § 27.\n3 Jfr. tvangsl. kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

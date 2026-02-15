@@ -1,0 +1,255 @@
+{
+  "id": "LOV-1982-11-19-68",
+  "type": "statute",
+  "title": "Lov om planlegging av helse- og sosialtjenesten i kommunene.",
+  "short_name": "Lov om planlegging i helsetjenesten.",
+  "status": "in_force",
+  "issued_date": "1982-11-19",
+  "in_force_date": "1984-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1982-11-19-68",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "(lovens virkeområde).",
+      "content": "Med sosialtjeneste og helsetjeneste menes i planbestemmelsene i loven her all sosialtjeneste og helsetjeneste som ikke hører inn under stat eller fylkeskommune.​1\nKongen kan gi nærmere forskrifter om hva som skal regnes som sosialtjeneste og helsetjeneste etter loven her.\nKongen kan ved forskrifter fastsette at loven her eller deler av den skal gjelde også for Svalbard​2 og Jan Mayen.\n0 Endret ved lov 11 juni 1993 nr. 85.\n1 Jfr. lov 25 sep 1992 nr. 107.\n2 Se lov 17 juli 1925 nr. 11 § 1 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2:2",
+      "chapter": "2",
+      "section": "2",
+      "title": "(formål).",
+      "content": "For å sikre befolkningen en best mulig sosialtjeneste og helsetjeneste innen rammen av de foreliggende og påregnelige ressurser, skal det i enhver kommune​1 utarbeides en plan for sosiale tjenester og helsetjenesten.\n1 Jfr. lov 25 sep 1992 nr. 107.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "title": "(ansvaret for planleggingen).",
+      "content": "Kommunestyret skal ha ansvaret for og ledelsen av planarbeidet. Plan skal vedtas av kommunestyret.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "(behandling av planen).",
+      "content": "Tidligst mulig under planbehandlingen skal kommunen la utarbeide og gjøre kjent forslag til løsning av spørsmålet i planarbeidet som bør gjøres til gjenstand for nærmere orientering og debatt.\nUtkast til plan sendes fylkeskommunen,​1 berørte statlige organer i fylket og andre berørte til uttalelse, og etter kunngjøring legges ut til offentlig ettersyn.\nEr det innsigelser mot planen fra fylkeskommunen​1 eller fra berørt statlig fagmyndighet i fylket, og det ikke lykkes å løse tvisten ved forhandlinger, skal saken avgjøres av departementet.​2\n1 Jfr. lov 25 sep 1992 nr. 107.\n2 Sosialdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "(samarbeid mellom flere kommuner – delplaner).",
+      "content": "Departementet​1 kan bestemme at to eller flere kommuner skal samarbeide om løsning av særlige oppgaver innen sosialtjenesten og helsetjenesten.\nDet kan utarbeides særlige planer for visse deler av sosialtjenesten og helsetjenesten og/eller for del av kommunen.\n0 Endret ved lov 11 juni 1993 nr. 85.\n1 Sosialdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "(forholdet til planlegging etter plan- og bygningsloven).",
+      "content": "Kommunens plan for sosialtjenesten og helsetjenesten og kommuneplaner etter plan- og bygningsloven​1 skal samordnes.\nNødvendig samordning innen de enkelte kommuner av tiltak etter loven her og tiltak på andre områder som f.eks. skole- og arbeidsmarkedssektoren, skal i første rekke søkes løst gjennom oversiktsplanlegging etter plan- og bygningslovens​1 bestemmelser.\n0 Endret ved lov 14 juni 1985 nr. 77.\n1 Lov 14 juni 1985 nr. 77.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "(forskrift om planlegging).",
+      "content": "Departementet​1 kan gi nærmere forskrifter om hva planlegging skal omfatte, og stille bindende krav til hva planene skal gå ut på.\n1 Sosialdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "(rettsvirkningen av vedtatt plan).",
+      "content": "Vedtatt plan skal legges til grunn for organisering, utbygging og drift av sosialtjenesten og helsetjenesten.\n0 Endret ved lover 13 des 1991 nr. 81, 11 juni 1993 nr. 90.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "(forskrifter).",
+      "content": "Kongen kan gi nærmere forskrifter til gjennomføring av loven her.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "(ikrafttreden).",
+      "content": "Denne lov trer i kraft fra 1. januar 1984.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "(lovens virkeområde).",
+      "content": "Med sosialtjeneste og helsetjeneste menes i planbestemmelsene i loven her all sosialtjeneste og helsetjeneste som ikke hører inn under stat eller fylkeskommune.​1\nKongen kan gi nærmere forskrifter om hva som skal regnes som sosialtjeneste og helsetjeneste etter loven her.\nKongen kan ved forskrifter fastsette at loven her eller deler av den skal gjelde også for Svalbard​2 og Jan Mayen.\n0 Endret ved lov 11 juni 1993 nr. 85.\n1 Jfr. lov 25 sep 1992 nr. 107.\n2 Se lov 17 juli 1925 nr. 11 § 1 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2:2",
+      "chapter": "2",
+      "section": "2",
+      "title": "(formål).",
+      "content": "For å sikre befolkningen en best mulig sosialtjeneste og helsetjeneste innen rammen av de foreliggende og påregnelige ressurser, skal det i enhver kommune​1 utarbeides en plan for sosiale tjenester og helsetjenesten.\n1 Jfr. lov 25 sep 1992 nr. 107.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "title": "(ansvaret for planleggingen).",
+      "content": "Kommunestyret skal ha ansvaret for og ledelsen av planarbeidet. Plan skal vedtas av kommunestyret.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "(behandling av planen).",
+      "content": "Tidligst mulig under planbehandlingen skal kommunen la utarbeide og gjøre kjent forslag til løsning av spørsmålet i planarbeidet som bør gjøres til gjenstand for nærmere orientering og debatt.\nUtkast til plan sendes fylkeskommunen,​1 berørte statlige organer i fylket og andre berørte til uttalelse, og etter kunngjøring legges ut til offentlig ettersyn.\nEr det innsigelser mot planen fra fylkeskommunen​1 eller fra berørt statlig fagmyndighet i fylket, og det ikke lykkes å løse tvisten ved forhandlinger, skal saken avgjøres av departementet.​2\n1 Jfr. lov 25 sep 1992 nr. 107.\n2 Sosialdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "(samarbeid mellom flere kommuner – delplaner).",
+      "content": "Departementet​1 kan bestemme at to eller flere kommuner skal samarbeide om løsning av særlige oppgaver innen sosialtjenesten og helsetjenesten.\nDet kan utarbeides særlige planer for visse deler av sosialtjenesten og helsetjenesten og/eller for del av kommunen.\n0 Endret ved lov 11 juni 1993 nr. 85.\n1 Sosialdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "(forholdet til planlegging etter plan- og bygningsloven).",
+      "content": "Kommunens plan for sosialtjenesten og helsetjenesten og kommuneplaner etter plan- og bygningsloven​1 skal samordnes.\nNødvendig samordning innen de enkelte kommuner av tiltak etter loven her og tiltak på andre områder som f.eks. skole- og arbeidsmarkedssektoren, skal i første rekke søkes løst gjennom oversiktsplanlegging etter plan- og bygningslovens​1 bestemmelser.\n0 Endret ved lov 14 juni 1985 nr. 77.\n1 Lov 14 juni 1985 nr. 77.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "(forskrift om planlegging).",
+      "content": "Departementet​1 kan gi nærmere forskrifter om hva planlegging skal omfatte, og stille bindende krav til hva planene skal gå ut på.\n1 Sosialdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "(rettsvirkningen av vedtatt plan).",
+      "content": "Vedtatt plan skal legges til grunn for organisering, utbygging og drift av sosialtjenesten og helsetjenesten.\n0 Endret ved lover 13 des 1991 nr. 81, 11 juni 1993 nr. 90.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "(forskrifter).",
+      "content": "Kongen kan gi nærmere forskrifter til gjennomføring av loven her.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "(ikrafttreden).",
+      "content": "Denne lov trer i kraft fra 1. januar 1984.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    }
+  ]
+}

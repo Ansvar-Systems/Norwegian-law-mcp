@@ -1,0 +1,1071 @@
+{
+  "id": "LOV-1970-05-29-32",
+  "type": "statute",
+  "title": "Lov om brannvern m.v.",
+  "short_name": "Brannvernloven",
+  "status": "in_force",
+  "issued_date": "1970-05-29",
+  "in_force_date": "1970-05-29",
+  "url": "https://lovdata.no/dokument/NLO/lov/1970-05-29-32",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens virkeområde.",
+      "content": "Denne loven gjelder for hele landet. Departementet​1 kan likevel fastsette at loven ikke skal gjelde i en kommune eller del av den. Før departementet avgjør saken, skal kommunestyret, fylkesutvalget og fylkesmannen ha hatt høve til å uttale seg.\nDepartementet kan gi særlige bestemmelser om lovens anvendelse for sivile lufthavner som har organisert brannvern, og for Forsvarets flystasjoner.\n1 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Vedtekt.",
+      "content": "Vedtekt etter denne lov gis av kommunestyret etter forslag fra brannstyret. Vedtekt må for å bli gyldig stadfestes av departementet​2 som kan gjøre de endringer som finnes påkrevd.\nEndring i eller opphevelse av vedtekt skjer på samme måte.\n1 Jfr. § 43.\n2 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Forskrift.",
+      "content": "Departementet​2 kan gi forskrifter til gjennomføring og utfylling av bestemmelsene i denne lov.\n1 Jfr. § 43.\n2 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Departementet.",
+      "content": "Vedkommende departement​1 er den sentrale brannmyndighet.\nDepartementet kan oppnevne rådgivende utvalg til hjelp ved behandling av spørsmål som krever særlig kyndighet.\n1 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Statens branninspeksjon.",
+      "content": "Statens branninspeksjon er brannteknisk sentralinstans for hele landet. Den skal føre tilsyn med brannvesenet og feiervesenet i den enkelte kommune og påse at de utfører sine gjøremål i samsvar med denne lov og bestemmelser gitt i medhold av den.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Brannstyret.",
+      "content": "I hver kommune skal det være et brannstyre.\nBrannstyret skal føre tilsyn med at denne lov og bestemmelser gitt i medhold av den blir gjennomført i kommunen. Det skal videre utføre de gjøremål som i eller i medhold av denne eller andre lover er lagt til brannstyret. Departementet​1 kan bestemme at også andre gjøremål som vedrører brannvern, skal legges til brannstyret.\nBrannstyret skal søke samarbeid med andre offentlige myndigheter som har interesser innenfor brannstyrets arbeidsområde, og innhente uttalelse i spørsmål som hører under vedkommende myndighets saksområde.\nUnder brannstyret hører brannvesenet og feiervesenet i kommunen.\nDet tillegger videre brannstyret:\n1. å gi innstilling om tilsetting av personell i brannvesenet og feiervesenet,\n2. å uttale seg i saker som det får seg forelagt av kommunens myndigheter eller annen offentlig myndighet,\n3. hvert år til den tid formannskapet bestemmer å gi forslag til budsjett for brannvesenet og feiervesenet for det følgende budsjettår,\n4. hvert år – i samsvar med regler fastsatt av Statens branninspeksjon – å utarbeide melding om brannvernet i kommunen. Meldingen skal sendes Branninspeksjonen innen utgangen av februar.\n1 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Brannstyrets sammensetning.",
+      "content": "Brannstyret skal ha 5 medlemmer med varamenn. Ved vedtekt kan det fastsettes et annet medlemstall, dog ikke lavere enn 3.\nMedlemmer og varamenn velges av kommunestyret for kommunevalgperioden.​1 Valget foregår som forholdsvalg når noe medlem av kommunestyret krever det. I så fall skal bestemmelsen i § 7 annet ledd i lov av 12. november 1954 nr. 1 om styret i herreds- og bykommunene gjelde tilsvarende.\nKommunestyret velger formann og varaformann blant brannstyrets medlemmer.\nDen som har vært medlem av brannstyret, kan nekte å motta valg i så lang tid som han har gjort tjeneste.\n1 Se lov 12 nov. 1954 nr. 1 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Brannstyrets møter.",
+      "content": "1. Brannstyret er vedtaksført når mer enn en halvdel av medlemmene, likevel minst 3, er til stede. I tilfelle av stemmelikhet gjør formannens stemme utslaget.\nMå det antas at det kan oppstå spørsmål om ugildhet (jfr. lov av 12 november 1954 nr. 1 om styret i herreds- og bykommunene § 31, jfr. § 15), innkalles også varamannen til møtet.\n2. Brannstyret holder møte etter innkalling av formannen så ofte som forholdene tilsier det. Når over halvparten eller minst 3 av brannstyrets medlemmer krever det, har formannen plikt til å innkalle til møte.\n3. I brannstyrets møter skal det føres protokoll hvor alle saker som er behandlet og vedtak som er gjort, føres inn. Protokollen underskrives etter hvert møte av de medlemmer som har deltatt.\n4. Politimesteren – eller annen politimann som politimesteren utpeker – og brannsjefen samt kommuneingeniøren, bygningssjefen og herredsskogmesteren deltar i brannstyrets møter. Brannstyrets formann kan frita en eller flere av disse for å delta i de enkelte møter. Kommunale fagsjefer skal på forlangende hjelpe brannstyret og delta i dets møter.\nMed samtykke av brannstyrets formann kan i stedet for tjenestemenn som nevnt i foregående ledd, møte en annen faglig kvalifisert representant for vedkommende administrasjon.\nBrannstyret kan tillate andre interesserte å møte og uttale seg.\nBestemmelsen i nr. 4 kan fravikes ved vedtekt.\n1 Endret ved lov 13 juni 1980 nr. 41.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Brannsjef.",
+      "content": "Det skal i hver kommune være en brannsjef med en eller flere stedfortredere. Brannsjefen skal være fast tilsatt.\nBrannsjefen har ledelsen av kommunens brannvesen og feiervesen.​1\nGjøremål som i denne lov, forskrift eller vedtekt er tillagt brannstyret,​2 kan formannskapet med godkjenning av departementet​3 legge til brannsjefen.\nBestemmelsene i § 6 annet og tredje ledd gjelder tilsvarende for brannsjefen, som dessuten plikter å medvirke til gjennomføringen av brannstyrets oppgaver.\nBestemmelsene i annet-fjerde ledd gjelder tilsvarende for den som tjenestegjør i brannsjefens sted.\n1 Jfr. kap. III.\n2 Jfr. § 6.\n3 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Brannvesen.",
+      "content": "Hver kommune skal ha et brannvesen av slik størrelse og organisasjon og med slikt utstyr at det kan løse:\n1. de oppgaver som brannvesenet ut fra forholdene på stedet kan ventes å bli stilt overfor i branntilfelle, herunder slokking av brann, redning av mennesker, dyr og eiendom og vakthold.​1\n2. de oppgaver av kontrollerende og brannforebyggende art som brannvesenet er pålagt i eller i medhold av lov.\nDepartementet gir ved forskrift​2 nærmere bestemmelser om gjennomføring av de oppgaver som er nevnt i første ledd.\nNærmere regler om brannvesenets størrelse, organisasjon og utstyr i den enkelte kommune fastsettes i en brannordning som vedtas av kommunestyret etter forslag fra brannstyret. Ordningen må for å bli gyldig godkjennes av Statens branninspeksjon​3 som kan gjøre de endringer som finnes påkrevd.\nDepartementet kan etter tilråding fra Statens branninspeksjon og etter at saken har vært forelagt for brannstyret og kommunestyret gi en kommune pålegg om styrking av brannvesenet.\n1 Jfr. § 12.\n2 Jfr. § 3.\n3 Jfr. § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Rekruttering av personell til brannvesenet.",
+      "content": "Rekruttering av personell til brannvesenet bør fortrinnsvis skje ved tilsetting eller verving. Bestemmelser om hvilke faglige kvalifikasjoner som skal stilles, kan gis ved forskrift.​1 Ved vedtekt​2 kan det fastsettes særskilte kvalifikasjonskrav.\nFor å sikre at brannvesenet til enhver tid har tilstrekkelig personell, kan brannstyret foreta utskriving til tjeneste som befal eller mannskap i brannvesenet. Enhver mann i alderen mellom 18 og 55 år som er bosatt i kommunen, kan pålegges slik tjenesteplikt.\nUtskrevet personell plikter å gjøre tjeneste i branntilfelle, delta i brannvesenets øvelser og vedlikeholdsarbeid og gjennomgå kurs som er nødvendige for dyktiggjøring i tjenesten. Utskrevet befal kan også pålegges plikt til vaktholdtjeneste utenom branntilfelle.\nNærmere regler om utskriving og tjenestegjøring, herunder om fritakelse fra tjenesteplikt, fastsettes av Kongen.\n1 Jfr. § 3.\n2 Jfr. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Slokkingsavtale.",
+      "content": "Med samtykke av Statens branninspeksjon​1 kan det treffes avtale om at oppgaver som nevnt i § 10 første ledd nr. 1, i en kommune helt eller delvis overtas av annet brannvesen. Slik avtale må vedtas av kommunestyret etter forslag fra brannstyret. Er slik avtale inngått, kan Statens branninspeksjon inntil videre helt eller delvis frita kommunen for plikten til å holde eget slokkingsvesen.\n1 Jfr. § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "title": "Utrykkingsplikt til annen kommune.",
+      "content": "Dersom forholdene ligger til rette for det, skal kommunene i branntilfelle yte hver andre slokkingshjelp.​1 Kommunene skal på forhånd fastlegge framgangsmåten ved tilkalling av slik hjelp, så vidt mulig klarlegge omfanget av den hjelp som kan gis, og også for øvrig søke å legge forholdene til rette for en hurtig og effektiv hjelp.\nFor slokkingshjelp som nevnt i første ledd gjelder:\n1. Dersom brann har tatt eller truer med å ta slikt omfang at det er fare for at eget brannvesen ikke vil være tilstrekkelig, skal brannsjefen i den brannlidte kommune eller den som på hans vegne fører kommandoen, tilkalle hjelp fra annet brannvesen, dersom slik hjelp kan bli effektiv.\n2. Brannsjefen i den kommune som får anmodning om slokkingshjelp, skal la brannvesenet rykke ut i den utstrekning han finner at det kan skje uten vesentlig risiko for brannsikkerheten i egen kommune.\nBefal og mannskapet har plikt til å rykke ut til annen kommune etter brannsjefens bestemmelse.\n3. Den øverste kommando på brannstedet føres av brannsjefen i den brannlidte kommune med mindre annet avtales. Møter et yrkesbrannvesen, fører dog lederen for dette den øverste kommando hvis ikke den brannlidte kommune har yrkesbrannvesen.\nDepartementet​2 kan fastsette at brannvesen skal ha plikt til å rykke ut med nærmere bestemt personellstyrke og brannvernmateriell til hjelp ved brann i nærliggende kommune.\n1 Jfr. § 10.\n2 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "title": "Særlige bestemmelser om skogbrannvakthold og slokking av brann i skogmark.",
+      "content": "Der det er fare for betydelig skade ved brann i skogmark, skal kommunen organisere skogbrannvakthold. Regler om slikt vakthold fastsettes i brannordningen, jfr. § 10 tredje ledd.\nDepartementet​2 kan etter samråd med vedkommende kommune, fylkesskogrådet og Statens branninspeksjon gi pålegg om samarbeid mellom flere kommunale brannvesener om skogbrannvakthold og slokking av brann i skogmark.\n1 Jfr. §§ 26 og 32.\n2 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "title": "Klage.",
+      "content": "Avgjørelse som er truffet i medhold av denne lov eller forskrifter, vedtekter eller bestemmelser gitt i medhold av loven, kan påklages:\n1. Til brannstyret for så vidt avgjørelsen er truffet av brannvesenets eller feiervesenets tjenestemenn. Klagen fremsettes skriftlig for den som har truffet avgjørelsen, og denne kan gi uttalelse om klagen.\n2. Til departementet​1 for så vidt avgjørelsen er truffet av brannstyret. Klagen framsettes skriftlig for brannstyret som sender klagen gjennom formannskapet til departementet. Brannstyret og formannskapet bør gi uttalelse om klagen.\n3. Til departementet for så vidt avgjørelsen er truffet av fylkesmannen eller av Statens branninspeksjon. Klagen framsettes skriftlig for den som har truffet avgjørelsen, og denne gir uttalelse om klagen.\nFor så vidt en avgjørelse kan påklages etter reglene i første ledd, gjelder forvaltningsloven​2 tilsvarende for klagesaker (selv om avgjørelsen ikke er enkeltvedtak, jfr. forvaltningslovens § 2 b).\n1 Statens branninspeksjon, jfr forskrift 15 juli 1982 nr 1205.\n2 Lov 10 feb. 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Feiing.",
+      "content": "Det skal i hver kommune foretas feiing av røykpiper og andre røykkanaler i samsvar med bestemmelser som gis ved forskrift.​1\nRøykpiper og andre røykkanaler skal være slik utstyrt og innrettet at de kan feies på en tilfredsstillende måte. Nærmere bestemmelser om feiemulighet og atkomst for feier gis ved forskrift.\n1 Jfr. § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Feiervesen.",
+      "content": "Hver kommune skal ha et feiervesen av slik størrelse og organisasjon og med slikt utstyr at det kan løse de oppgaver som er pålagt feiervesenet i eller i medhold av denne lov.\nNærmere regler om feiervesenet i den enkelte kommune fastsettes i brannordningen, jfr. § 10 tredje ledd.\nFeiervesenet er eneberettiget til å utføre lovbestemt feiing etter § 16 med tilhørende forskrifter. Det skal på forlangende også utføre annen feiing.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Personell til feiervesenet.",
+      "content": "Feiervesenet kan organiseres som en kommunal etat, eller ved at kommunen inngår kontrakt med feiermester (feier) som selv holder det nødvendige personell.\nBestemmelser om hvilke faglige kvalifikasjoner som skal stilles til feiermestere og feiere, kan gis ved forskrift.​1 Ved vedtekt​2 kan det fastsettes særskilte kvalifikasjonskrav.\n1 Jfr. § 3.\n2 Jfr. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Feieravgift og betaling for frivillig feiing.",
+      "content": "For lovbestemt feiing kan kommunen innføre feieavgift. Utføres slik feiing av feiermester (feier) i henhold til kontrakt, kan innkreving av avgiften overlates til feiermesteren (feieren).\nFeieravgift fastsettes av kommunestyret etter forslag fra brannstyret. Fastsettingen trenger godkjenning av fylkesmannen.\nKrav på feieavgift er sikret ved lovbestemt pant etter panteloven § 6-1 og kan ellers også inndrives ved utpantning.\nFor frivillig feiing fastsetter kommunestyret betaling etter forslag fra brannstyret.\n1 Endret ved lov 8 feb. 1980 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Brannsyn.",
+      "content": "Det skal i hver kommune holdes brannsyn som utføres av personell tilknyttet brannvesenet eller feiervesenet. Nærmere bestemmelser om brannsyn gis ved forskrift.​1\nDe som utfører brannsyn skal påse at bygninger, anlegg, opplag o.l. er sikret mot brann etter gjeldende bestemmelser og føre tilsyn med forhold som har betydning for brannsikkerheten og for redning og slokking i branntilfelle.\nFinner de som utfører brannsyn feil eller mangler, skal de gi skriftlig pålegg​2 om rettelse innen en fastsatt frist.\n1 Jfr. § 3.\n2 Jfr. kap. VIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Rednings- og slokkingsmateriell m.v.",
+      "content": "Eier eller bruker av bygning, anlegg, opplag o.l. plikter​1 å anskaffe og vedlikeholde rednings- og slokkingsmateriell og gjennomføre andre brannsikringstiltak i samsvar med bestemmelser som gis ved forskrift.​2\n1 Jfr. kap. VIII.\n2 Jfr. § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Fortegnelse over spesielle bygninger m.v.",
+      "content": "Brannstyret skal føre fortegnelse over:\n1. Bygninger til opphold for et større antall mennesker hvor brann kan medføre mer enn alminnelig fare for tap av menneskeliv.\n2. Bygninger, anlegg, opplag o.l. som ved sin beskaffenhet eller den virksomhet som foregår i dem, antas å medføre særlig brannfare eller fare for stor brann.\n3. Større industrielle bedrifter.\n4. Bygninger som har kulturhistorisk eller liknende samfunnsmessig verdi.\nFortegnelsen eller utdrag av den skal hvert år sendes Statens branninspeksjon sammen med årsmeldingen, jfr. § 6 siste ledd nr. 4. Nærmere regler om utarbeidelse av fortegnelse og utdrag fastsettes av Statens branninspeksjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "title": "Brannsikring av spesielle bygninger m.v.",
+      "content": "For de bygninger, anlegg, opplag o.l. som er nevnt i § 22, kan brannstyret i det enkelte tilfelle gi skriftlig påbud​1 om de endringer og tiltak som det finner påkrevd til vern mot brann. Etterkommes ikke påbudene innen fastsatt frist, kan brannstyret helt eller delvis forby bruken av vedkommende bygning, anlegg, opplag o.l.\nKino- og teaterforestillinger, utstillinger, større møter og andre tilstelninger i forsamlingslokaler, telt o.l. skal​1 i god tid meldes til brannsjefen av eieren eller bestyreren av vedkommende lokale. Brannsjefen kan kreve de opplysninger som trengs for vurdering av brannfaren, og fastsetter hvilke brannsikringstiltak som skal gjennomføres. Brannsjefen kan midlertidig frita for meldeplikten når det gjelder permanente forsamlingslokaler som er i stadig bruk.\n1 Jfr. kap. VIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "title": "(Opphevet)",
+      "content": "0 Opphevd ved lov 14 juni 1985 nr 77 (i kraft 1 juli 1986).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Allmenne aktsomhetsplikter.",
+      "content": "Enhver plikter å behandle ild og brannfarlige ting på en slik måte at brann ikke lett kan oppstå.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Plikter og forbud ved bruk av ild utendørs.",
+      "content": "1. Det er forbudt å gjøre opp ild eller behandle brannfarlige ting utendørs under slike forhold eller på slik måte at det kan føre til brann. Oppgjort ild må ikke forlates før den er fullstendig slokt.\nBrenning av avfall, bålbrenning, halm-, gras- eller lyngsviing o.l. må ikke foretas til slike tider og på slike steder at ilden lett kan spre seg, med mindre det er sørget for betryggende tiltak for å hindre spredning.\nBrannstyret kan gi nærmere bestemmelser om brenning som nevnt i annet ledd, herunder også om forbud mot eller innhenting av forhåndstillatelse til slik brenning. Det kan videre gi bestemmelser om oppretting av asfaltgryter, koksgryter, forbrenningsovner for avfall og liknende innretninger.\n2. Flatebrenning og brenning av hogstavfall i skogmark samt gras- og lyngsviing i eller i nærheten av skogmark​1 må bare foretas i samsvar med bestemmelser som gis ved forskrift.​2\nAnnen brenning i eller i nærheten av skogmark er forbudt i tiden 15 april – 15 september. Dette forbud gjelder ikke flyttsamer som ferdes på steder der de fra gammelt av har hatt sitt tilhold, eller for folk ellers som har sitt yrke i skogen og som under utøvelsen av yrket trenger å gjøre opp ild.\n3. Bestemmelser om vern mot skogbrannfare fra jernbane, kraftledninger o.l. kan gis ved forskrift.​2\n1 Jfr. §§ 14, 32.\n2 Jfr. § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Omsetning og bruk av visse typer brannvernutstyr og apparater.",
+      "content": "Det kan ved forskrift​1 bestemmes at visse typer rednings-, slokkings- og varslingsutstyr bare kan selges dersom typen er godkjent av departementet.​2 Det samme gjelder for salg av apparater som forbrenner brannfarlige varer. Det kan settes vilkår for slik godkjenning. Gitt godkjenning kan tilbakekalles.\nVed forskrift kan det videre fastsettes\n1. forbud mot at utstyr og apparater som nevnt i første ledd brukes i visse arter bygninger og rom,\n2. at for godkjenning som nevnt i første ledd skal den som får godkjenning svare en årlig avgift eller en engangsavgift.\n1 Jfr. § 3.\n2 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Særlige plikter for eier og bruker av husrom.",
+      "content": "1. Enhver huseier plikter å holde påbudt rednings-, slokkings- og varslingsmateriell, ildsteder, røykpiper og andre røykkanaler, taktekking samt stiger og liknende innretninger for feieren i forsvarlig stand.\nHuseieren skal påse at trapper, korridorer og andre redningsveger holdes i ryddig stand og at faste ildsteder er slik plassert at de ikke medfører brannfare.\n2. Enhver som bruker ildsted, plikter å se etter at ildstedet med tilhørende røykpipe eller røykkanal er i forsvarlig stand. Det samme gjelder den som bruker elektriske apparater og anlegg samt apparater som forbrenner brannfarlige varer. Oppdager brukeren feil eller mangler, skal han sørge for at disse straks blir utbedret eller meldt til eieren for så vidt vedlikeholdsplikten påhviler denne.\nKan feilene eller manglene åpenbart føre til brannfare, må vedkommende ildsted m.v. ikke brukes.\nEnhver plikter å påse at brennbare ting plasseres i betryggende avstand fra ildsted m.v.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Opplysningsplikt, adgang til bygning o.l.​1",
+      "content": "Enhver plikter å gi brannmyndighetene og tjenestemenn i brannvesenet og feiervesenet de opplysninger som de forlanger for utførelse av sine gjøremål etter denne lov.\nDe myndigheter og tjenestemenn som er nevnt i første ledd, skal for utførelse av sine plikter ha adgang til bygning, leilighet eller andre rom og lokaler, anlegg, opplag o.l. Blir slik adgang nektet, kan det kreves hjelp av politiet.​2\nMed de begrensninger som følger av vedkommendes gjøremål etter loven, har myndigheter og tjenestemenn taushetsplikt om forhold som de får kjennskap til under utøvelsen av tjenesten når forholdet ikke er alminnelig kjent eller tilgjengelig.\n1 Jfr. § 33.\n2 Jfr. strl. § 326.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "title": "Plikt til varsling.",
+      "content": "Enhver som oppdager eller får vite at brann er brutt ut eller truer med å bryte ut, plikter straks å underrette dem som er utsatt for fare og varsle stedets brannvesen med mindre vedkommende straks kan slokke ilden eller avverge faren.\nPersonell i luftfartøy over norsk område plikter straks å varsle brann som observeres fra fartøy. Bestemmelser om varslingsmåten gis ved forskrift.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "title": "Plikt til å yte bistand.​1",
+      "content": "I branntilfelle plikter enhver som oppholder seg på eller i nærheten av brannstedet, å søke ilden slokt eller faren avverget så langt han er i stand til det, samt på forlangende av brannsjefen eller annen leder av slokkingsarbeidet å delta i rednings- og slokkingsarbeidet.\nEtter brann plikter eier eller bruker av brannlidt eiendom på forlangende av brannsjefen eller annen leder av slokkingsarbeidet å sørge for opprydding, vakthold og andre nødvendige sikringstiltak som ikke må utføres av brannvesenet.\nDepartementet​2 kan etter samråd med vedkommende sentrale myndigheter gi bestemmelser om plikt for offentlige myndigheter eller institusjoner og deres personell til å yte bistand i branntilfelle eller når brann truer.\n1 Jfr. §§ 32, 34 og strl. § 327.\n2 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "title": "Særlige plikter i tilfelle brann i eller i nærheten av skogmark.​1",
+      "content": "1. Ved brann i eller i nærheten av skogmark plikter enhver fysisk skikket person som oppholder seg på eller i nærheten av brannstedet, å delta i rednings- og slokkingsarbeidet inntil brannsjefen eller annen leder av slokkingsarbeidet bestemmer noe annet.\n2. Ved brann i eller i nærheten av skogmark plikter enhver fysisk skikket person mellom 18 og 55 år som er bosatt i kommunen og som ikke er hindret av sykdom eller annen skjellig grunn, etter tilsigelse fra brannsjefen eller annen leder av slokkingsarbeidet, straks å møte på brannstedet utstyrt med tilgjengelig slokkingsredskap og delta i rednings- og slokkingsarbeidet. Plikten gjelder også ved brann i tilstøtende områder i nabokommune.\nBestemmelsene i foregående ledd gjelder tilsvarende den som oppholder seg i og er eier av skogmark i kommunen uten å være bosatt der.\n1 Jfr. §§ 14, 26 og strl. § 327.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "title": "Brannvesenets adgang til og inngrep på eiendom m.v. i branntilfelle.​1",
+      "content": "I branntilfelle plikter enhver å gi brannvesenet adgang​2 til eiendom, bygning m.v., til å nytte forekomster av vann og til å bruke telefon og andre hjelpemidler.\nEier eller bruker av bygning må finne seg i at denne rives eller skades på annen måte når brannsjefen finner det nødvendig for å hindre at brannen brer seg. Før bygning rives, bør brannsjefen samrå seg med ordfører, rådmenn eller annen representant for kommunens øverste myndigheter hvis det er anledning til det uten for stort tidsspille. Eier av gjerder, trær o.l. må finne seg i at de rives eller felles når brannsjefen finner det nødvendig.\nEier eller bruker av skog eller mark må finne seg i at det for begrensning eller slokking av brann felles skog, graves grøfter, foretas vernebrenning eller andre nødvendige tiltak. Bestemmelse om iverksettelse av slike tiltak treffes av brannsjefen.\nLedes slokkingsarbeidet av en annen enn brannsjefen, utøver lederen den myndighet som i denne paragraf er lagt til brannsjefen. Før tiltak settes i verk, bør lederen samrå seg med brannsjefen hvis det er anledning til det uten for stort tidsspille. Mindre inngrep kan foretas av andre som deltar i slokkingsarbeidet når samtykke fra brannsjefen eller annen leder ikke kan innhentes uten for stort tidsspille. Melding om inngrep som foretas i medhold av bestemmelsene i dette ledd, skal ved første anledning gis til brannsjefen.\n1 Jfr. § 29.\n2 Jfr. strl. § 326.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "title": "Brannvesenets rådighetsrett over brannvernutstyr m.m.",
+      "content": "Eier eller bruker av brannvernmateriell, transportmidler eller liknende utstyr plikter i branntilfelle å stille dette og disponibelt personell til dets betjening til brannvesenets rådighet når brannsjefen eller annen leder av slokkingsarbeidet forlanger det.​1\n1 Jfr. § 31 og strl. § 327.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "title": "Tilsynsplikt for eier eller bruker av branntruet bygning.",
+      "content": "Er en bygning utsatt for brannfare, enten direkte eller ved gnister, plikter eieren eller brukeren å føre omhyggelig tilsyn, særlig med tak og loft. Han skal videre se til at alle takluker, vinduer, glugger og andre åpninger er forsvarlig lukket. Han skal likeledes gjøre alt som står i hans makt for å hindre antennelse og varsle brannvesenet dersom faren for antennelse er åpenbar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "6:36",
+      "chapter": "6",
+      "section": "36",
+      "title": "Ordensmyndighet og avsperring på brannstedet.",
+      "content": "I branntilfelle skal brannsjefen eller annen leder av slokkingsarbeidet sørge for at politiet snarest mulig blir varslet. Inntil politiet er kommet til stede, har lederen av slokkingsarbeidet ordensmyndighet. Brannstedet og veger som fører til eller ligger i nærheten av brannstedet, skal avsperres i den utstrekning det anses nødvendig, og uvedkommende nektes adgang innenfor sperringen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "7:37",
+      "chapter": "7",
+      "section": "37",
+      "title": "Erstatning for skade på utstyr og materiell m.v.",
+      "content": "I den utstrekning erstatning ikke betales av andre, skal kommunen erstatte tap som skyldes skade m.v. på:\n1. klær m.v. som er brukt under utøvelse av plikttjeneste fastsatt i eller i medhold av denne lov,\n2. brannvernmateriell, transportmidler og liknende utstyr som er rekvirert i medhold av § 34,\n3. eiendom m.v. ved inngrep i medhold av § 33 og skaden rammer annen eiendom enn den brannlidte,\n4. brannvernmateriell, transportmidler og liknende utstyr som er brukt av\na. annet brannvesen under pliktmessig utrykking til den brannlidte kommune,\nb. offentlige myndigheter eller institusjoner under utøvelse av plikttjeneste pålagt av departementet i medhold av § 31 tredje ledd, når ikke annet er bestemt.\nEieren av den brannlidte eiendom, hans husstand og andre som har fast tilknytning til eiendommen og har særlige interesser i rednings- og slokkingsarbeidet, kan ikke kreve erstatning etter bestemmelsene i første ledd.​1\nDersom partene ikke blir enige om erstatningsplikten eller erstatningens størrelse, avgjøres saken ved rettslig skjønn etter skjønnsloven. I lensmannsdistrikt kan skjønnet styres av lensmannen dersom partene er enige om det.\n1 Jfr. § 38.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "7:38",
+      "chapter": "7",
+      "section": "38",
+      "title": "Godtgjøring for deltaking i brannslokking m.v.",
+      "content": "I den utstrekning godtgjøring ikke betales av andre, skal kommunen yte godtgjøring for tapt arbeidsfortjeneste til det personell som er stilt til rådighet til betjening av rekvirert brannvernmateriell m.v., eventuelt yte arbeidsgiveren avsavnsgodtgjøring for personellet, jfr. § 34.\nI den utstrekning kommunestyret bestemmer det og godtgjøring ikke betales av andre, yter kommunen godtgjøring til\n1. utskrevet mannskap og befal som utfører plikttjeneste i henhold til § 11 tredje ledd,\n2. personer som utfører plikttjeneste i henhold til § 31 første ledd og § 32.\nEier av den brannlidte eiendom, hans husstand og andre som har fast tilknytning til eiendommen og har særlige interesser i rednings- og slokkingsarbeidet, kan ikke kreve godtgjøring etter bestemmelsene i første og annet ledd.​1\nFor hjelp som en kommunes brannvesen yter en annen kommune i henhold til § 13, skal den brannlidte kommune yte godtgjøring.\n1 Jfr. § 37.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "7:39",
+      "chapter": "7",
+      "section": "39",
+      "title": "Utgiftsfordeling mellom kommuner.",
+      "content": "Dersom en brann omfatter områder i to eller flere kommuner, skal de utgifter som påløper dekkes av kommunene i fellesskap. Er utgiftsfordelingen ikke fastsatt ved forhåndsavtale og enighet ikke oppnås, fastsettes fordelingen av fylkesmannen. Ligger kommunene i forskjellige fylker, fastsettes utgiftsfordelingen av departementet.​1\nBestemmelsen i første ledds annet og tredje punktum gjelder tilsvarende dersom det oppstår uenighet mellom kommuner om\n1. utgiftsfordelingen ved gjennomføring av vaktholds- og slokkingsordning som nevnt i § 14 annet ledd,\n2. godtgjøring i henhold til § 38 siste ledd.\n1 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "8:40",
+      "chapter": "8",
+      "section": "40",
+      "title": "Straffansvar.",
+      "content": "Den som forsettlig eller aktløst overtrer denne lov eller forskrifter, vedtekter, pålegg, forbud eller andre bestemmelser som er gitt eller opprettholdt i medhold av loven, eller som medvirker til dette, straffes med bøter eller med fengsel inntil 3 måneder, for så vidt ikke forholdet rammes av strengere straffebud.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "8:41",
+      "chapter": "8",
+      "section": "41",
+      "title": "Forelegg om plikt til å etterkomme pålegg eller forbud.",
+      "content": "Dersom eier eller bruker av bygning, anlegg, opplag o.l. ikke retter seg etter pålegg eller forbud som i eller i medhold av denne lov er gitt eller opprettholdt til vern mot brann i vedkommende bygning, anlegg, opplag o.l., kan brannstyret utferdige forelegg mot eieren eller brukeren med pålegg om at bestemmelsene skal etterkommes innen en frist som settes i forelegget.\nForelegget skal om mulig forkynnes for eieren eller brukeren personlig. Den som forelegget er rettet mot, kan reise søksmål mot kommunen for å få forelegget prøvd. Blir søksmål ikke reist innen 30 dager fra forkynnelsen, har forelegget samme virkning som rettskraftig dom og kan fullbyrdes etter reglene for dommer.​1\nForelegget skal gi opplysning om bestemmelsene i annet ledds annet og tredje punktum.\nFør brannstyret utferdiger forelegg, skal det gi den som forelegget rettes mot, høve til å uttale seg. Bestemmelsene i § 15 om klage over brannstyrets avgjørelser gjelder ikke når forelegg er utferdiget.\n1 Jfr. § 42.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "8:42",
+      "chapter": "8",
+      "section": "42",
+      "title": "Tvangsfullbyrdelse.",
+      "content": "Blir pålegg i rettskraftig dom eller dermed likestilt forelegg​1 ikke etterkommet, kan brannstyret la de nødvendige tiltak utføre på eierens eller brukerens kostnad uten kjennelse etter § 237 første ledds første punktum i lov av 13 august 1915 nr. 7 om tvangsfullbyrdelse.\nBrannstyrets pålegg kan fullbyrdes etter reglene i tvangsfullbyrdelseslovens § 237 uten at dom eller forelegg kreves dersom pålegget ikke er etterkommet innen en fastsatt frist og gjelder forhold som åpenbart kan føre til brannfare.\n1 Jfr. § 41.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "9:43",
+      "chapter": "9",
+      "section": "43",
+      "title": "Overgangsbestemmelser.",
+      "content": "1. Forskrifter, vedtekter og andre alminnelige bestemmelser gitt i medhold av lov av 14 juli 1893 nr. 1 om Indskrænkninger i Brug af Ild i Skog og Mark m.v. og lov av 19 november 1954 om brannvesenet, gjelder inntil videre i den utstrekning de ikke strider mot denne lov eller mot bestemmelser som er gitt i medhold av den. Vedtak som er truffet i medhold av § 1 femte ledd i lov av 19 november 1954 om brannvesenet om at visse områder skal være unntatt fra lovens bestemmelser helt eller delvis, oppheves ved denne lovs ikrafttreden.\n2. Før loven trer i kraft, kan det gis forskrifter, vedtekter og andre alminnelige bestemmelser som skal tre i kraft samtidig med loven. På samme måte kan departementet treffe avgjørelse etter § 1 første ledds annet punktum, og gi bestemmelser i medhold av § 1 annet ledd og § 31 tredje ledd.\n3. Departementet gir bestemmelser om oppnevning av nye brannstyrer og omdanning av brannstyrer som er i virksomhet, slik at disse ved denne lovs ikrafttreden er sammensatt i samsvar med lovens regler. Nye brannstyrer kan allerede før loven trer i kraft medvirke når det gis slike regler som er nevnt under nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "9:44",
+      "chapter": "9",
+      "section": "44",
+      "title": "Ikrafttreden. Oppheving og endring av andre lover.",
+      "content": "1. Denne lov trer i kraft fra den tid Kongen bestemmer.​1\n2. Fra denne lovs ikrafttreden oppheves eller endres følgende lover og bestemmelser:\na. Lov av 14 juli 1893 nr. 1 om Indskrænkninger i Brug af Ild i Skog og Mark m.v. Oppheves.\nb. Lov av 19 november 1954 om brannvesenet. Oppheves. Avviklingen av bestående brannkommuner som er opprettet i henhold til nevnte lovs § 1 sjette ledd, skal skje etter departementets nærmere bestemmelse.\nc. Lov av 22 februar 1924 nr. 1 om bygningskommuner. Oppheves.\nd. Lov av 5 april 1963 nr. 3 om vern mot brann i hotell og annet herberge, pleieanstalt m.v. endres slik: – – –.\ne. Lov av 12 desember 1958 nr. 10 om yrkesskadetrygd endres slik: – – –.\n1 Fra 1 jan. 1972 iflg. res. 26 nov. 1971.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens virkeområde.",
+      "content": "Denne loven gjelder for hele landet. Departementet​1 kan likevel fastsette at loven ikke skal gjelde i en kommune eller del av den. Før departementet avgjør saken, skal kommunestyret, fylkesutvalget og fylkesmannen ha hatt høve til å uttale seg.\nDepartementet kan gi særlige bestemmelser om lovens anvendelse for sivile lufthavner som har organisert brannvern, og for Forsvarets flystasjoner.\n1 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Vedtekt.",
+      "content": "Vedtekt etter denne lov gis av kommunestyret etter forslag fra brannstyret. Vedtekt må for å bli gyldig stadfestes av departementet​2 som kan gjøre de endringer som finnes påkrevd.\nEndring i eller opphevelse av vedtekt skjer på samme måte.\n1 Jfr. § 43.\n2 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Forskrift.",
+      "content": "Departementet​2 kan gi forskrifter til gjennomføring og utfylling av bestemmelsene i denne lov.\n1 Jfr. § 43.\n2 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Departementet.",
+      "content": "Vedkommende departement​1 er den sentrale brannmyndighet.\nDepartementet kan oppnevne rådgivende utvalg til hjelp ved behandling av spørsmål som krever særlig kyndighet.\n1 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Statens branninspeksjon.",
+      "content": "Statens branninspeksjon er brannteknisk sentralinstans for hele landet. Den skal føre tilsyn med brannvesenet og feiervesenet i den enkelte kommune og påse at de utfører sine gjøremål i samsvar med denne lov og bestemmelser gitt i medhold av den.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Brannstyret.",
+      "content": "I hver kommune skal det være et brannstyre.\nBrannstyret skal føre tilsyn med at denne lov og bestemmelser gitt i medhold av den blir gjennomført i kommunen. Det skal videre utføre de gjøremål som i eller i medhold av denne eller andre lover er lagt til brannstyret. Departementet​1 kan bestemme at også andre gjøremål som vedrører brannvern, skal legges til brannstyret.\nBrannstyret skal søke samarbeid med andre offentlige myndigheter som har interesser innenfor brannstyrets arbeidsområde, og innhente uttalelse i spørsmål som hører under vedkommende myndighets saksområde.\nUnder brannstyret hører brannvesenet og feiervesenet i kommunen.\nDet tillegger videre brannstyret:\n1. å gi innstilling om tilsetting av personell i brannvesenet og feiervesenet,\n2. å uttale seg i saker som det får seg forelagt av kommunens myndigheter eller annen offentlig myndighet,\n3. hvert år til den tid formannskapet bestemmer å gi forslag til budsjett for brannvesenet og feiervesenet for det følgende budsjettår,\n4. hvert år – i samsvar med regler fastsatt av Statens branninspeksjon – å utarbeide melding om brannvernet i kommunen. Meldingen skal sendes Branninspeksjonen innen utgangen av februar.\n1 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Brannstyrets sammensetning.",
+      "content": "Brannstyret skal ha 5 medlemmer med varamenn. Ved vedtekt kan det fastsettes et annet medlemstall, dog ikke lavere enn 3.\nMedlemmer og varamenn velges av kommunestyret for kommunevalgperioden.​1 Valget foregår som forholdsvalg når noe medlem av kommunestyret krever det. I så fall skal bestemmelsen i § 7 annet ledd i lov av 12. november 1954 nr. 1 om styret i herreds- og bykommunene gjelde tilsvarende.\nKommunestyret velger formann og varaformann blant brannstyrets medlemmer.\nDen som har vært medlem av brannstyret, kan nekte å motta valg i så lang tid som han har gjort tjeneste.\n1 Se lov 12 nov. 1954 nr. 1 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Brannstyrets møter.",
+      "content": "1. Brannstyret er vedtaksført når mer enn en halvdel av medlemmene, likevel minst 3, er til stede. I tilfelle av stemmelikhet gjør formannens stemme utslaget.\nMå det antas at det kan oppstå spørsmål om ugildhet (jfr. lov av 12 november 1954 nr. 1 om styret i herreds- og bykommunene § 31, jfr. § 15), innkalles også varamannen til møtet.\n2. Brannstyret holder møte etter innkalling av formannen så ofte som forholdene tilsier det. Når over halvparten eller minst 3 av brannstyrets medlemmer krever det, har formannen plikt til å innkalle til møte.\n3. I brannstyrets møter skal det føres protokoll hvor alle saker som er behandlet og vedtak som er gjort, føres inn. Protokollen underskrives etter hvert møte av de medlemmer som har deltatt.\n4. Politimesteren – eller annen politimann som politimesteren utpeker – og brannsjefen samt kommuneingeniøren, bygningssjefen og herredsskogmesteren deltar i brannstyrets møter. Brannstyrets formann kan frita en eller flere av disse for å delta i de enkelte møter. Kommunale fagsjefer skal på forlangende hjelpe brannstyret og delta i dets møter.\nMed samtykke av brannstyrets formann kan i stedet for tjenestemenn som nevnt i foregående ledd, møte en annen faglig kvalifisert representant for vedkommende administrasjon.\nBrannstyret kan tillate andre interesserte å møte og uttale seg.\nBestemmelsen i nr. 4 kan fravikes ved vedtekt.\n1 Endret ved lov 13 juni 1980 nr. 41.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Brannsjef.",
+      "content": "Det skal i hver kommune være en brannsjef med en eller flere stedfortredere. Brannsjefen skal være fast tilsatt.\nBrannsjefen har ledelsen av kommunens brannvesen og feiervesen.​1\nGjøremål som i denne lov, forskrift eller vedtekt er tillagt brannstyret,​2 kan formannskapet med godkjenning av departementet​3 legge til brannsjefen.\nBestemmelsene i § 6 annet og tredje ledd gjelder tilsvarende for brannsjefen, som dessuten plikter å medvirke til gjennomføringen av brannstyrets oppgaver.\nBestemmelsene i annet-fjerde ledd gjelder tilsvarende for den som tjenestegjør i brannsjefens sted.\n1 Jfr. kap. III.\n2 Jfr. § 6.\n3 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Brannvesen.",
+      "content": "Hver kommune skal ha et brannvesen av slik størrelse og organisasjon og med slikt utstyr at det kan løse:\n1. de oppgaver som brannvesenet ut fra forholdene på stedet kan ventes å bli stilt overfor i branntilfelle, herunder slokking av brann, redning av mennesker, dyr og eiendom og vakthold.​1\n2. de oppgaver av kontrollerende og brannforebyggende art som brannvesenet er pålagt i eller i medhold av lov.\nDepartementet gir ved forskrift​2 nærmere bestemmelser om gjennomføring av de oppgaver som er nevnt i første ledd.\nNærmere regler om brannvesenets størrelse, organisasjon og utstyr i den enkelte kommune fastsettes i en brannordning som vedtas av kommunestyret etter forslag fra brannstyret. Ordningen må for å bli gyldig godkjennes av Statens branninspeksjon​3 som kan gjøre de endringer som finnes påkrevd.\nDepartementet kan etter tilråding fra Statens branninspeksjon og etter at saken har vært forelagt for brannstyret og kommunestyret gi en kommune pålegg om styrking av brannvesenet.\n1 Jfr. § 12.\n2 Jfr. § 3.\n3 Jfr. § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Rekruttering av personell til brannvesenet.",
+      "content": "Rekruttering av personell til brannvesenet bør fortrinnsvis skje ved tilsetting eller verving. Bestemmelser om hvilke faglige kvalifikasjoner som skal stilles, kan gis ved forskrift.​1 Ved vedtekt​2 kan det fastsettes særskilte kvalifikasjonskrav.\nFor å sikre at brannvesenet til enhver tid har tilstrekkelig personell, kan brannstyret foreta utskriving til tjeneste som befal eller mannskap i brannvesenet. Enhver mann i alderen mellom 18 og 55 år som er bosatt i kommunen, kan pålegges slik tjenesteplikt.\nUtskrevet personell plikter å gjøre tjeneste i branntilfelle, delta i brannvesenets øvelser og vedlikeholdsarbeid og gjennomgå kurs som er nødvendige for dyktiggjøring i tjenesten. Utskrevet befal kan også pålegges plikt til vaktholdtjeneste utenom branntilfelle.\nNærmere regler om utskriving og tjenestegjøring, herunder om fritakelse fra tjenesteplikt, fastsettes av Kongen.\n1 Jfr. § 3.\n2 Jfr. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Slokkingsavtale.",
+      "content": "Med samtykke av Statens branninspeksjon​1 kan det treffes avtale om at oppgaver som nevnt i § 10 første ledd nr. 1, i en kommune helt eller delvis overtas av annet brannvesen. Slik avtale må vedtas av kommunestyret etter forslag fra brannstyret. Er slik avtale inngått, kan Statens branninspeksjon inntil videre helt eller delvis frita kommunen for plikten til å holde eget slokkingsvesen.\n1 Jfr. § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "title": "Utrykkingsplikt til annen kommune.",
+      "content": "Dersom forholdene ligger til rette for det, skal kommunene i branntilfelle yte hver andre slokkingshjelp.​1 Kommunene skal på forhånd fastlegge framgangsmåten ved tilkalling av slik hjelp, så vidt mulig klarlegge omfanget av den hjelp som kan gis, og også for øvrig søke å legge forholdene til rette for en hurtig og effektiv hjelp.\nFor slokkingshjelp som nevnt i første ledd gjelder:\n1. Dersom brann har tatt eller truer med å ta slikt omfang at det er fare for at eget brannvesen ikke vil være tilstrekkelig, skal brannsjefen i den brannlidte kommune eller den som på hans vegne fører kommandoen, tilkalle hjelp fra annet brannvesen, dersom slik hjelp kan bli effektiv.\n2. Brannsjefen i den kommune som får anmodning om slokkingshjelp, skal la brannvesenet rykke ut i den utstrekning han finner at det kan skje uten vesentlig risiko for brannsikkerheten i egen kommune.\nBefal og mannskapet har plikt til å rykke ut til annen kommune etter brannsjefens bestemmelse.\n3. Den øverste kommando på brannstedet føres av brannsjefen i den brannlidte kommune med mindre annet avtales. Møter et yrkesbrannvesen, fører dog lederen for dette den øverste kommando hvis ikke den brannlidte kommune har yrkesbrannvesen.\nDepartementet​2 kan fastsette at brannvesen skal ha plikt til å rykke ut med nærmere bestemt personellstyrke og brannvernmateriell til hjelp ved brann i nærliggende kommune.\n1 Jfr. § 10.\n2 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "title": "Særlige bestemmelser om skogbrannvakthold og slokking av brann i skogmark.",
+      "content": "Der det er fare for betydelig skade ved brann i skogmark, skal kommunen organisere skogbrannvakthold. Regler om slikt vakthold fastsettes i brannordningen, jfr. § 10 tredje ledd.\nDepartementet​2 kan etter samråd med vedkommende kommune, fylkesskogrådet og Statens branninspeksjon gi pålegg om samarbeid mellom flere kommunale brannvesener om skogbrannvakthold og slokking av brann i skogmark.\n1 Jfr. §§ 26 og 32.\n2 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "title": "Klage.",
+      "content": "Avgjørelse som er truffet i medhold av denne lov eller forskrifter, vedtekter eller bestemmelser gitt i medhold av loven, kan påklages:\n1. Til brannstyret for så vidt avgjørelsen er truffet av brannvesenets eller feiervesenets tjenestemenn. Klagen fremsettes skriftlig for den som har truffet avgjørelsen, og denne kan gi uttalelse om klagen.\n2. Til departementet​1 for så vidt avgjørelsen er truffet av brannstyret. Klagen framsettes skriftlig for brannstyret som sender klagen gjennom formannskapet til departementet. Brannstyret og formannskapet bør gi uttalelse om klagen.\n3. Til departementet for så vidt avgjørelsen er truffet av fylkesmannen eller av Statens branninspeksjon. Klagen framsettes skriftlig for den som har truffet avgjørelsen, og denne gir uttalelse om klagen.\nFor så vidt en avgjørelse kan påklages etter reglene i første ledd, gjelder forvaltningsloven​2 tilsvarende for klagesaker (selv om avgjørelsen ikke er enkeltvedtak, jfr. forvaltningslovens § 2 b).\n1 Statens branninspeksjon, jfr forskrift 15 juli 1982 nr 1205.\n2 Lov 10 feb. 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Feiing.",
+      "content": "Det skal i hver kommune foretas feiing av røykpiper og andre røykkanaler i samsvar med bestemmelser som gis ved forskrift.​1\nRøykpiper og andre røykkanaler skal være slik utstyrt og innrettet at de kan feies på en tilfredsstillende måte. Nærmere bestemmelser om feiemulighet og atkomst for feier gis ved forskrift.\n1 Jfr. § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Feiervesen.",
+      "content": "Hver kommune skal ha et feiervesen av slik størrelse og organisasjon og med slikt utstyr at det kan løse de oppgaver som er pålagt feiervesenet i eller i medhold av denne lov.\nNærmere regler om feiervesenet i den enkelte kommune fastsettes i brannordningen, jfr. § 10 tredje ledd.\nFeiervesenet er eneberettiget til å utføre lovbestemt feiing etter § 16 med tilhørende forskrifter. Det skal på forlangende også utføre annen feiing.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Personell til feiervesenet.",
+      "content": "Feiervesenet kan organiseres som en kommunal etat, eller ved at kommunen inngår kontrakt med feiermester (feier) som selv holder det nødvendige personell.\nBestemmelser om hvilke faglige kvalifikasjoner som skal stilles til feiermestere og feiere, kan gis ved forskrift.​1 Ved vedtekt​2 kan det fastsettes særskilte kvalifikasjonskrav.\n1 Jfr. § 3.\n2 Jfr. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Feieravgift og betaling for frivillig feiing.",
+      "content": "For lovbestemt feiing kan kommunen innføre feieavgift. Utføres slik feiing av feiermester (feier) i henhold til kontrakt, kan innkreving av avgiften overlates til feiermesteren (feieren).\nFeieravgift fastsettes av kommunestyret etter forslag fra brannstyret. Fastsettingen trenger godkjenning av fylkesmannen.\nKrav på feieavgift er sikret ved lovbestemt pant etter panteloven § 6-1 og kan ellers også inndrives ved utpantning.\nFor frivillig feiing fastsetter kommunestyret betaling etter forslag fra brannstyret.\n1 Endret ved lov 8 feb. 1980 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Brannsyn.",
+      "content": "Det skal i hver kommune holdes brannsyn som utføres av personell tilknyttet brannvesenet eller feiervesenet. Nærmere bestemmelser om brannsyn gis ved forskrift.​1\nDe som utfører brannsyn skal påse at bygninger, anlegg, opplag o.l. er sikret mot brann etter gjeldende bestemmelser og føre tilsyn med forhold som har betydning for brannsikkerheten og for redning og slokking i branntilfelle.\nFinner de som utfører brannsyn feil eller mangler, skal de gi skriftlig pålegg​2 om rettelse innen en fastsatt frist.\n1 Jfr. § 3.\n2 Jfr. kap. VIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Rednings- og slokkingsmateriell m.v.",
+      "content": "Eier eller bruker av bygning, anlegg, opplag o.l. plikter​1 å anskaffe og vedlikeholde rednings- og slokkingsmateriell og gjennomføre andre brannsikringstiltak i samsvar med bestemmelser som gis ved forskrift.​2\n1 Jfr. kap. VIII.\n2 Jfr. § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Fortegnelse over spesielle bygninger m.v.",
+      "content": "Brannstyret skal føre fortegnelse over:\n1. Bygninger til opphold for et større antall mennesker hvor brann kan medføre mer enn alminnelig fare for tap av menneskeliv.\n2. Bygninger, anlegg, opplag o.l. som ved sin beskaffenhet eller den virksomhet som foregår i dem, antas å medføre særlig brannfare eller fare for stor brann.\n3. Større industrielle bedrifter.\n4. Bygninger som har kulturhistorisk eller liknende samfunnsmessig verdi.\nFortegnelsen eller utdrag av den skal hvert år sendes Statens branninspeksjon sammen med årsmeldingen, jfr. § 6 siste ledd nr. 4. Nærmere regler om utarbeidelse av fortegnelse og utdrag fastsettes av Statens branninspeksjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "title": "Brannsikring av spesielle bygninger m.v.",
+      "content": "For de bygninger, anlegg, opplag o.l. som er nevnt i § 22, kan brannstyret i det enkelte tilfelle gi skriftlig påbud​1 om de endringer og tiltak som det finner påkrevd til vern mot brann. Etterkommes ikke påbudene innen fastsatt frist, kan brannstyret helt eller delvis forby bruken av vedkommende bygning, anlegg, opplag o.l.\nKino- og teaterforestillinger, utstillinger, større møter og andre tilstelninger i forsamlingslokaler, telt o.l. skal​1 i god tid meldes til brannsjefen av eieren eller bestyreren av vedkommende lokale. Brannsjefen kan kreve de opplysninger som trengs for vurdering av brannfaren, og fastsetter hvilke brannsikringstiltak som skal gjennomføres. Brannsjefen kan midlertidig frita for meldeplikten når det gjelder permanente forsamlingslokaler som er i stadig bruk.\n1 Jfr. kap. VIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "title": "(Opphevet)",
+      "content": "0 Opphevd ved lov 14 juni 1985 nr 77 (i kraft 1 juli 1986).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Allmenne aktsomhetsplikter.",
+      "content": "Enhver plikter å behandle ild og brannfarlige ting på en slik måte at brann ikke lett kan oppstå.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Plikter og forbud ved bruk av ild utendørs.",
+      "content": "1. Det er forbudt å gjøre opp ild eller behandle brannfarlige ting utendørs under slike forhold eller på slik måte at det kan føre til brann. Oppgjort ild må ikke forlates før den er fullstendig slokt.\nBrenning av avfall, bålbrenning, halm-, gras- eller lyngsviing o.l. må ikke foretas til slike tider og på slike steder at ilden lett kan spre seg, med mindre det er sørget for betryggende tiltak for å hindre spredning.\nBrannstyret kan gi nærmere bestemmelser om brenning som nevnt i annet ledd, herunder også om forbud mot eller innhenting av forhåndstillatelse til slik brenning. Det kan videre gi bestemmelser om oppretting av asfaltgryter, koksgryter, forbrenningsovner for avfall og liknende innretninger.\n2. Flatebrenning og brenning av hogstavfall i skogmark samt gras- og lyngsviing i eller i nærheten av skogmark​1 må bare foretas i samsvar med bestemmelser som gis ved forskrift.​2\nAnnen brenning i eller i nærheten av skogmark er forbudt i tiden 15 april – 15 september. Dette forbud gjelder ikke flyttsamer som ferdes på steder der de fra gammelt av har hatt sitt tilhold, eller for folk ellers som har sitt yrke i skogen og som under utøvelsen av yrket trenger å gjøre opp ild.\n3. Bestemmelser om vern mot skogbrannfare fra jernbane, kraftledninger o.l. kan gis ved forskrift.​2\n1 Jfr. §§ 14, 32.\n2 Jfr. § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Omsetning og bruk av visse typer brannvernutstyr og apparater.",
+      "content": "Det kan ved forskrift​1 bestemmes at visse typer rednings-, slokkings- og varslingsutstyr bare kan selges dersom typen er godkjent av departementet.​2 Det samme gjelder for salg av apparater som forbrenner brannfarlige varer. Det kan settes vilkår for slik godkjenning. Gitt godkjenning kan tilbakekalles.\nVed forskrift kan det videre fastsettes\n1. forbud mot at utstyr og apparater som nevnt i første ledd brukes i visse arter bygninger og rom,\n2. at for godkjenning som nevnt i første ledd skal den som får godkjenning svare en årlig avgift eller en engangsavgift.\n1 Jfr. § 3.\n2 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Særlige plikter for eier og bruker av husrom.",
+      "content": "1. Enhver huseier plikter å holde påbudt rednings-, slokkings- og varslingsmateriell, ildsteder, røykpiper og andre røykkanaler, taktekking samt stiger og liknende innretninger for feieren i forsvarlig stand.\nHuseieren skal påse at trapper, korridorer og andre redningsveger holdes i ryddig stand og at faste ildsteder er slik plassert at de ikke medfører brannfare.\n2. Enhver som bruker ildsted, plikter å se etter at ildstedet med tilhørende røykpipe eller røykkanal er i forsvarlig stand. Det samme gjelder den som bruker elektriske apparater og anlegg samt apparater som forbrenner brannfarlige varer. Oppdager brukeren feil eller mangler, skal han sørge for at disse straks blir utbedret eller meldt til eieren for så vidt vedlikeholdsplikten påhviler denne.\nKan feilene eller manglene åpenbart føre til brannfare, må vedkommende ildsted m.v. ikke brukes.\nEnhver plikter å påse at brennbare ting plasseres i betryggende avstand fra ildsted m.v.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Opplysningsplikt, adgang til bygning o.l.​1",
+      "content": "Enhver plikter å gi brannmyndighetene og tjenestemenn i brannvesenet og feiervesenet de opplysninger som de forlanger for utførelse av sine gjøremål etter denne lov.\nDe myndigheter og tjenestemenn som er nevnt i første ledd, skal for utførelse av sine plikter ha adgang til bygning, leilighet eller andre rom og lokaler, anlegg, opplag o.l. Blir slik adgang nektet, kan det kreves hjelp av politiet.​2\nMed de begrensninger som følger av vedkommendes gjøremål etter loven, har myndigheter og tjenestemenn taushetsplikt om forhold som de får kjennskap til under utøvelsen av tjenesten når forholdet ikke er alminnelig kjent eller tilgjengelig.\n1 Jfr. § 33.\n2 Jfr. strl. § 326.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "title": "Plikt til varsling.",
+      "content": "Enhver som oppdager eller får vite at brann er brutt ut eller truer med å bryte ut, plikter straks å underrette dem som er utsatt for fare og varsle stedets brannvesen med mindre vedkommende straks kan slokke ilden eller avverge faren.\nPersonell i luftfartøy over norsk område plikter straks å varsle brann som observeres fra fartøy. Bestemmelser om varslingsmåten gis ved forskrift.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "title": "Plikt til å yte bistand.​1",
+      "content": "I branntilfelle plikter enhver som oppholder seg på eller i nærheten av brannstedet, å søke ilden slokt eller faren avverget så langt han er i stand til det, samt på forlangende av brannsjefen eller annen leder av slokkingsarbeidet å delta i rednings- og slokkingsarbeidet.\nEtter brann plikter eier eller bruker av brannlidt eiendom på forlangende av brannsjefen eller annen leder av slokkingsarbeidet å sørge for opprydding, vakthold og andre nødvendige sikringstiltak som ikke må utføres av brannvesenet.\nDepartementet​2 kan etter samråd med vedkommende sentrale myndigheter gi bestemmelser om plikt for offentlige myndigheter eller institusjoner og deres personell til å yte bistand i branntilfelle eller når brann truer.\n1 Jfr. §§ 32, 34 og strl. § 327.\n2 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "title": "Særlige plikter i tilfelle brann i eller i nærheten av skogmark.​1",
+      "content": "1. Ved brann i eller i nærheten av skogmark plikter enhver fysisk skikket person som oppholder seg på eller i nærheten av brannstedet, å delta i rednings- og slokkingsarbeidet inntil brannsjefen eller annen leder av slokkingsarbeidet bestemmer noe annet.\n2. Ved brann i eller i nærheten av skogmark plikter enhver fysisk skikket person mellom 18 og 55 år som er bosatt i kommunen og som ikke er hindret av sykdom eller annen skjellig grunn, etter tilsigelse fra brannsjefen eller annen leder av slokkingsarbeidet, straks å møte på brannstedet utstyrt med tilgjengelig slokkingsredskap og delta i rednings- og slokkingsarbeidet. Plikten gjelder også ved brann i tilstøtende områder i nabokommune.\nBestemmelsene i foregående ledd gjelder tilsvarende den som oppholder seg i og er eier av skogmark i kommunen uten å være bosatt der.\n1 Jfr. §§ 14, 26 og strl. § 327.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "title": "Brannvesenets adgang til og inngrep på eiendom m.v. i branntilfelle.​1",
+      "content": "I branntilfelle plikter enhver å gi brannvesenet adgang​2 til eiendom, bygning m.v., til å nytte forekomster av vann og til å bruke telefon og andre hjelpemidler.\nEier eller bruker av bygning må finne seg i at denne rives eller skades på annen måte når brannsjefen finner det nødvendig for å hindre at brannen brer seg. Før bygning rives, bør brannsjefen samrå seg med ordfører, rådmenn eller annen representant for kommunens øverste myndigheter hvis det er anledning til det uten for stort tidsspille. Eier av gjerder, trær o.l. må finne seg i at de rives eller felles når brannsjefen finner det nødvendig.\nEier eller bruker av skog eller mark må finne seg i at det for begrensning eller slokking av brann felles skog, graves grøfter, foretas vernebrenning eller andre nødvendige tiltak. Bestemmelse om iverksettelse av slike tiltak treffes av brannsjefen.\nLedes slokkingsarbeidet av en annen enn brannsjefen, utøver lederen den myndighet som i denne paragraf er lagt til brannsjefen. Før tiltak settes i verk, bør lederen samrå seg med brannsjefen hvis det er anledning til det uten for stort tidsspille. Mindre inngrep kan foretas av andre som deltar i slokkingsarbeidet når samtykke fra brannsjefen eller annen leder ikke kan innhentes uten for stort tidsspille. Melding om inngrep som foretas i medhold av bestemmelsene i dette ledd, skal ved første anledning gis til brannsjefen.\n1 Jfr. § 29.\n2 Jfr. strl. § 326.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "title": "Brannvesenets rådighetsrett over brannvernutstyr m.m.",
+      "content": "Eier eller bruker av brannvernmateriell, transportmidler eller liknende utstyr plikter i branntilfelle å stille dette og disponibelt personell til dets betjening til brannvesenets rådighet når brannsjefen eller annen leder av slokkingsarbeidet forlanger det.​1\n1 Jfr. § 31 og strl. § 327.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "title": "Tilsynsplikt for eier eller bruker av branntruet bygning.",
+      "content": "Er en bygning utsatt for brannfare, enten direkte eller ved gnister, plikter eieren eller brukeren å føre omhyggelig tilsyn, særlig med tak og loft. Han skal videre se til at alle takluker, vinduer, glugger og andre åpninger er forsvarlig lukket. Han skal likeledes gjøre alt som står i hans makt for å hindre antennelse og varsle brannvesenet dersom faren for antennelse er åpenbar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "6:36",
+      "chapter": "6",
+      "section": "36",
+      "title": "Ordensmyndighet og avsperring på brannstedet.",
+      "content": "I branntilfelle skal brannsjefen eller annen leder av slokkingsarbeidet sørge for at politiet snarest mulig blir varslet. Inntil politiet er kommet til stede, har lederen av slokkingsarbeidet ordensmyndighet. Brannstedet og veger som fører til eller ligger i nærheten av brannstedet, skal avsperres i den utstrekning det anses nødvendig, og uvedkommende nektes adgang innenfor sperringen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "7:37",
+      "chapter": "7",
+      "section": "37",
+      "title": "Erstatning for skade på utstyr og materiell m.v.",
+      "content": "I den utstrekning erstatning ikke betales av andre, skal kommunen erstatte tap som skyldes skade m.v. på:\n1. klær m.v. som er brukt under utøvelse av plikttjeneste fastsatt i eller i medhold av denne lov,\n2. brannvernmateriell, transportmidler og liknende utstyr som er rekvirert i medhold av § 34,\n3. eiendom m.v. ved inngrep i medhold av § 33 og skaden rammer annen eiendom enn den brannlidte,\n4. brannvernmateriell, transportmidler og liknende utstyr som er brukt av\na. annet brannvesen under pliktmessig utrykking til den brannlidte kommune,\nb. offentlige myndigheter eller institusjoner under utøvelse av plikttjeneste pålagt av departementet i medhold av § 31 tredje ledd, når ikke annet er bestemt.\nEieren av den brannlidte eiendom, hans husstand og andre som har fast tilknytning til eiendommen og har særlige interesser i rednings- og slokkingsarbeidet, kan ikke kreve erstatning etter bestemmelsene i første ledd.​1\nDersom partene ikke blir enige om erstatningsplikten eller erstatningens størrelse, avgjøres saken ved rettslig skjønn etter skjønnsloven. I lensmannsdistrikt kan skjønnet styres av lensmannen dersom partene er enige om det.\n1 Jfr. § 38.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "7:38",
+      "chapter": "7",
+      "section": "38",
+      "title": "Godtgjøring for deltaking i brannslokking m.v.",
+      "content": "I den utstrekning godtgjøring ikke betales av andre, skal kommunen yte godtgjøring for tapt arbeidsfortjeneste til det personell som er stilt til rådighet til betjening av rekvirert brannvernmateriell m.v., eventuelt yte arbeidsgiveren avsavnsgodtgjøring for personellet, jfr. § 34.\nI den utstrekning kommunestyret bestemmer det og godtgjøring ikke betales av andre, yter kommunen godtgjøring til\n1. utskrevet mannskap og befal som utfører plikttjeneste i henhold til § 11 tredje ledd,\n2. personer som utfører plikttjeneste i henhold til § 31 første ledd og § 32.\nEier av den brannlidte eiendom, hans husstand og andre som har fast tilknytning til eiendommen og har særlige interesser i rednings- og slokkingsarbeidet, kan ikke kreve godtgjøring etter bestemmelsene i første og annet ledd.​1\nFor hjelp som en kommunes brannvesen yter en annen kommune i henhold til § 13, skal den brannlidte kommune yte godtgjøring.\n1 Jfr. § 37.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "7:39",
+      "chapter": "7",
+      "section": "39",
+      "title": "Utgiftsfordeling mellom kommuner.",
+      "content": "Dersom en brann omfatter områder i to eller flere kommuner, skal de utgifter som påløper dekkes av kommunene i fellesskap. Er utgiftsfordelingen ikke fastsatt ved forhåndsavtale og enighet ikke oppnås, fastsettes fordelingen av fylkesmannen. Ligger kommunene i forskjellige fylker, fastsettes utgiftsfordelingen av departementet.​1\nBestemmelsen i første ledds annet og tredje punktum gjelder tilsvarende dersom det oppstår uenighet mellom kommuner om\n1. utgiftsfordelingen ved gjennomføring av vaktholds- og slokkingsordning som nevnt i § 14 annet ledd,\n2. godtgjøring i henhold til § 38 siste ledd.\n1 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "8:40",
+      "chapter": "8",
+      "section": "40",
+      "title": "Straffansvar.",
+      "content": "Den som forsettlig eller aktløst overtrer denne lov eller forskrifter, vedtekter, pålegg, forbud eller andre bestemmelser som er gitt eller opprettholdt i medhold av loven, eller som medvirker til dette, straffes med bøter eller med fengsel inntil 3 måneder, for så vidt ikke forholdet rammes av strengere straffebud.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "8:41",
+      "chapter": "8",
+      "section": "41",
+      "title": "Forelegg om plikt til å etterkomme pålegg eller forbud.",
+      "content": "Dersom eier eller bruker av bygning, anlegg, opplag o.l. ikke retter seg etter pålegg eller forbud som i eller i medhold av denne lov er gitt eller opprettholdt til vern mot brann i vedkommende bygning, anlegg, opplag o.l., kan brannstyret utferdige forelegg mot eieren eller brukeren med pålegg om at bestemmelsene skal etterkommes innen en frist som settes i forelegget.\nForelegget skal om mulig forkynnes for eieren eller brukeren personlig. Den som forelegget er rettet mot, kan reise søksmål mot kommunen for å få forelegget prøvd. Blir søksmål ikke reist innen 30 dager fra forkynnelsen, har forelegget samme virkning som rettskraftig dom og kan fullbyrdes etter reglene for dommer.​1\nForelegget skal gi opplysning om bestemmelsene i annet ledds annet og tredje punktum.\nFør brannstyret utferdiger forelegg, skal det gi den som forelegget rettes mot, høve til å uttale seg. Bestemmelsene i § 15 om klage over brannstyrets avgjørelser gjelder ikke når forelegg er utferdiget.\n1 Jfr. § 42.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "8:42",
+      "chapter": "8",
+      "section": "42",
+      "title": "Tvangsfullbyrdelse.",
+      "content": "Blir pålegg i rettskraftig dom eller dermed likestilt forelegg​1 ikke etterkommet, kan brannstyret la de nødvendige tiltak utføre på eierens eller brukerens kostnad uten kjennelse etter § 237 første ledds første punktum i lov av 13 august 1915 nr. 7 om tvangsfullbyrdelse.\nBrannstyrets pålegg kan fullbyrdes etter reglene i tvangsfullbyrdelseslovens § 237 uten at dom eller forelegg kreves dersom pålegget ikke er etterkommet innen en fastsatt frist og gjelder forhold som åpenbart kan føre til brannfare.\n1 Jfr. § 41.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "9:43",
+      "chapter": "9",
+      "section": "43",
+      "title": "Overgangsbestemmelser.",
+      "content": "1. Forskrifter, vedtekter og andre alminnelige bestemmelser gitt i medhold av lov av 14 juli 1893 nr. 1 om Indskrænkninger i Brug af Ild i Skog og Mark m.v. og lov av 19 november 1954 om brannvesenet, gjelder inntil videre i den utstrekning de ikke strider mot denne lov eller mot bestemmelser som er gitt i medhold av den. Vedtak som er truffet i medhold av § 1 femte ledd i lov av 19 november 1954 om brannvesenet om at visse områder skal være unntatt fra lovens bestemmelser helt eller delvis, oppheves ved denne lovs ikrafttreden.\n2. Før loven trer i kraft, kan det gis forskrifter, vedtekter og andre alminnelige bestemmelser som skal tre i kraft samtidig med loven. På samme måte kan departementet treffe avgjørelse etter § 1 første ledds annet punktum, og gi bestemmelser i medhold av § 1 annet ledd og § 31 tredje ledd.\n3. Departementet gir bestemmelser om oppnevning av nye brannstyrer og omdanning av brannstyrer som er i virksomhet, slik at disse ved denne lovs ikrafttreden er sammensatt i samsvar med lovens regler. Nye brannstyrer kan allerede før loven trer i kraft medvirke når det gis slike regler som er nevnt under nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "9:44",
+      "chapter": "9",
+      "section": "44",
+      "title": "Ikrafttreden. Oppheving og endring av andre lover.",
+      "content": "1. Denne lov trer i kraft fra den tid Kongen bestemmer.​1\n2. Fra denne lovs ikrafttreden oppheves eller endres følgende lover og bestemmelser:\na. Lov av 14 juli 1893 nr. 1 om Indskrænkninger i Brug af Ild i Skog og Mark m.v. Oppheves.\nb. Lov av 19 november 1954 om brannvesenet. Oppheves. Avviklingen av bestående brannkommuner som er opprettet i henhold til nevnte lovs § 1 sjette ledd, skal skje etter departementets nærmere bestemmelse.\nc. Lov av 22 februar 1924 nr. 1 om bygningskommuner. Oppheves.\nd. Lov av 5 april 1963 nr. 3 om vern mot brann i hotell og annet herberge, pleieanstalt m.v. endres slik: – – –.\ne. Lov av 12 desember 1958 nr. 10 om yrkesskadetrygd endres slik: – – –.\n1 Fra 1 jan. 1972 iflg. res. 26 nov. 1971.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    }
+  ]
+}

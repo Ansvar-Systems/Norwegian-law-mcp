@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1894-06-29-1",
+  "type": "statute",
+  "title": "Log um sams normaltid fyr kongeriket Norig.",
+  "short_name": "Normaltidlova.",
+  "status": "in_force",
+  "issued_date": "1894-06-29",
+  "in_force_date": "1895-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1894-06-29-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Fraa den 1ste januar 1895 skal mideltidi fyr den meridianen, som ligg 15 grader austanfyr Greenwich, vera det loglege klokkeslætte i Norig.\nKongen kan fastsetja ei anna sams normaltid for særskilte årstider.\n0 Endra med lov 28 mars 1958 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Naar normaltid etter denne logi er innførd, og det daa maatte visa seg trong til aa byta um noko klokkeslætte, som er nemnt i eldre loger, skal kongen kunne taka avgjerd um slikt umbyte fyr det heile land elder fyr einskilde landsluter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Fraa den 1ste januar 1895 skal mideltidi fyr den meridianen, som ligg 15 grader austanfyr Greenwich, vera det loglege klokkeslætte i Norig.\nKongen kan fastsetja ei anna sams normaltid for særskilte årstider.\n0 Endra med lov 28 mars 1958 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Naar normaltid etter denne logi er innførd, og det daa maatte visa seg trong til aa byta um noko klokkeslætte, som er nemnt i eldre loger, skal kongen kunne taka avgjerd um slikt umbyte fyr det heile land elder fyr einskilde landsluter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

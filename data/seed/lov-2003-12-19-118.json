@@ -1,0 +1,103 @@
+{
+  "id": "LOV-2003-12-19-118",
+  "type": "statute",
+  "title": "Lov om fortrinnsrett og ventelønn for arbeidstakere i Statskonsult AS.",
+  "short_name": "Lov om arbeidstakere i Statskonsult AS",
+  "status": "in_force",
+  "issued_date": "2003-12-19",
+  "in_force_date": "2004-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/2003-12-19-118",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Formålet med denne loven er å gi overgangsbestemmelser for arbeidstakernes rettigheter i forbindelse med omdanning av forvaltningsorganet Statskonsult til aksjeselskap.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Lovens virkeområde",
+      "content": "Denne loven gjelder for ansatte i forvaltningsorganet Statskonsult som, ved omdanning av forvaltningsorganet til aksjeselskap,​1 går over til dette aksjeselskapet.\n1 Jfr. lov 13 juni 1997 nr. 44 (asl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Fortrinnsrett til ny stilling. Ventelønn",
+      "content": "Tjenestemannsloven 4. mars 1983 nr. 3 § 13 nr. 2 til nr. 6 om fortrinnsrett til annen statsstilling og rett til ventelønn skal gjelde for arbeidstakere som blir oppsagt av grunner som nevnt i tjenestemannsloven § 13 nr. 1 bokstavene a, b og c, og som var omfattet av disse bestemmelsene før overgangen. Eventuelle ventelønnskostnader skal dekkes av selskapet selv gjennom refusjonsplikt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Ikrafttredelse og opphør",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.​1 Loven opphører å gjelde tre år senere.\n1 Fra 1 jan 2004 iflg. res. 19 des 2003 nr. 1761.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Formålet med denne loven er å gi overgangsbestemmelser for arbeidstakernes rettigheter i forbindelse med omdanning av forvaltningsorganet Statskonsult til aksjeselskap.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Lovens virkeområde",
+      "content": "Denne loven gjelder for ansatte i forvaltningsorganet Statskonsult som, ved omdanning av forvaltningsorganet til aksjeselskap,​1 går over til dette aksjeselskapet.\n1 Jfr. lov 13 juni 1997 nr. 44 (asl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Fortrinnsrett til ny stilling. Ventelønn",
+      "content": "Tjenestemannsloven 4. mars 1983 nr. 3 § 13 nr. 2 til nr. 6 om fortrinnsrett til annen statsstilling og rett til ventelønn skal gjelde for arbeidstakere som blir oppsagt av grunner som nevnt i tjenestemannsloven § 13 nr. 1 bokstavene a, b og c, og som var omfattet av disse bestemmelsene før overgangen. Eventuelle ventelønnskostnader skal dekkes av selskapet selv gjennom refusjonsplikt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Ikrafttredelse og opphør",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.​1 Loven opphører å gjelde tre år senere.\n1 Fra 1 jan 2004 iflg. res. 19 des 2003 nr. 1761.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

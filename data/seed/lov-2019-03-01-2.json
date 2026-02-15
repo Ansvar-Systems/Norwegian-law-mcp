@@ -1,0 +1,399 @@
+{
+  "id": "LOV-2019-03-01-2",
+  "type": "statute",
+  "title": "Lov om register over reelle rettighetshavere",
+  "short_name": "Lov om register over reelle rettighetshavere",
+  "status": "in_force",
+  "issued_date": "2019-03-01",
+  "in_force_date": "2021-11-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2019-03-01-2",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Lovens formål er å legge til rette for rapporteringspliktiges, myndighetenes og andres tilgang til opplysninger om reelle rettighetshavere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Virkeområde",
+      "content": "(1) Loven gjelder for juridiske personer, enheter og andre sammenslutninger som driver virksomhet eller er registrert i riket, herunder på Jan Mayen og Svalbard.\n(2) Loven gjelder også for forvaltere av utenlandske truster og lignende juridiske arrangementer som driver virksomhet i riket, herunder på Jan Mayen og Svalbard.\n(3) Departementet kan i forskrift gi nærmere regler om hvilke juridiske personer, enheter og andre sammenslutninger og forvaltere av utenlandske truster og lignende juridiske arrangementer som er omfattet av loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "(1) Med registreringspliktige menes i loven her juridiske personer, enheter og andre sammenslutninger og forvaltere av utenlandske truster og lignende juridiske arrangementer som omfattes av lovens virkeområde etter § 2.\n(2) Med reell rettighetshaver menes i loven her den eller de fysiske personene som i siste instans eier eller kontrollerer en juridisk person, arrangement, enhet eller annen sammenslutning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Innhenting av opplysninger om reelle rettighetshavere",
+      "content": "(1) Registreringspliktige skal identifisere den juridiske personens, enhetens eller sammenslutningens eller det utenlandske juridiske arrangementets reelle rettighetshavere. Ved identifiseringen gjelder kriteriene i hvitvaskingsloven § 14.\n(2) Den registreringspliktige skal innhente følgende opplysninger om reelle rettighetshavere:\na. navn\nb. fødselsnummer eller D-nummer\nc. bostedsland\nd. statsborgerskap\n(3) Den registreringspliktige skal dokumentere grunnlaget for identifiseringen av hvem som er reelle rettighetshavere. Dersom den registreringspliktige mener det ikke er noen reell rettighetshaver i en juridisk person eller et utenlandsk juridisk arrangement, skal vurderingen begrunnes og dokumenteres. Dersom den registreringspliktige mener det finnes en eller flere reelle rettighetshavere, men ikke kan identifisere disse, skal vurderingen begrunnes og dokumenteres.\n(4) Registreringspliktige skal ved endringer i relevante forhold identifisere nye reelle rettighetshavere og for øvrig oppdatere innhentede opplysninger om reelle rettighetshavere.\n(5) Departementet kan i forskrift gi nærmere regler om innhenting av opplysninger om reelle rettighetshavere, herunder fastsette unntak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Relevante personers opplysningsplikt",
+      "content": "Departementet kan i forskrift gi nærmere regler om opplysningsplikt når registreringspliktige skal identifisere og innhente opplysninger om reelle rettighetshavere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Utlevering",
+      "content": "(1) Registreringspliktige skal etter forespørsel fra offentlig myndighet utlevere alle innhentede opplysninger og vurderinger etter § 4. Departementet kan i forskrift gi nærmere regler om hvilke myndigheter som omfattes av første punktum.\n(2) Registreringspliktige skal utlevere opplysninger og vurderinger som nevnt i § 4 til rapporteringspliktige etter hvitvaskingsloven § 2 bokstav c i forbindelse med deres kundetiltak og løpende oppfølging etter hvitvaskingsloven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Lagring av opplysninger om reelle rettighetshavere",
+      "content": "(1) Registreringspliktige skal lagre opplysninger og vurderinger om reelle rettighetshavere i ti år etter at fysiske personer opphørte å være reelle rettighetshavere.\n(2) Departementet kan i forskrift gi nærmere regler om lagring av opplysninger om reelle rettighetshavere etter at registreringspliktige har opphørt eller ikke lenger driver virksomhet i riket, herunder hvem som har plikt til å lagre opplysningene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Registeret over reelle rettighetshavere",
+      "content": "(1) Registeret over reelle rettighetshavere føres av en registerfører oppnevnt av Kongen.\n(2) Departementet kan i forskrift gi nærmere regler om registerets organisasjon, lokalisering og administrasjon, og om føringen av registeret.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Registrering av opplysninger om reelle rettighetshavere",
+      "content": "(1) Registreringspliktige skal registrere innhentede opplysninger om reelle rettighetshavere og grunnlaget for identifiseringen av reelle rettighetshavere i registeret over reelle rettighetshavere, jf. § 4 annet ledd.\n(2) Dersom den registreringspliktige mener det ikke er noen reelle rettighetshavere i den juridiske personen, enheten eller sammenslutningen, eller det utenlandske juridiske arrangementet, skal dette registreres. Det samme gjelder dersom den registreringspliktige mener det finnes en eller flere reelle rettighetshavere, men ikke kan entydig identifisere disse.\n(3) Første gangs registrering skal skje senest 14 dager etter at den registreringspliktige er blitt registrert i et offentlig register.\n(4) Når den registreringspliktige har identifisert nye reelle rettighetshavere i samsvar med § 4 fjerde ledd, skal registrerte opplysninger oppdateres uten opphold og senest innen 14 dager. Det samme gjelder dersom den registreringspliktige blir kjent med andre endringer som medfører at registrerte opplysninger ikke lenger stemmer.\n(5) Departementet kan i forskrift gi nærmere regler om registreringen av opplysninger om reelle rettighetshavere, grunnlaget for identifiseringen av reelle rettighetshavere og registreringspliktiges oppdatering av registrerte opplysninger. Forskriften kan også fastsette unntak fra denne bestemmelsen. Departementet kan i forskrift gi nærmere regler om innhenting av relevante opplysninger fra andre registre eller andre kilder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Kontroll av registrerte opplysninger. Varslingsplikt om uoverensstemmelser",
+      "content": "(1) Departementet kan i forskrift gi nærmere regler om registerførerens kontroll av opplysninger som registreres om reelle rettighetshavere.\n(2) Departementet kan i forskrift gi regler om varslingsplikt for offentlige myndigheter og rapporteringspliktige etter hvitvaskingsloven § 2 bokstav c i tilfeller der disse identifiserer andre som reelle rettighetshavere enn dem som er registrert i registeret over reelle rettighetshavere. Departementet kan også gi nærmere regler om registerets håndtering av varsler som nevnt i første punktum og registreringspliktiges plikt til å etterkomme registerets pålegg i den forbindelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Tilgang til og avgivelse av registrerte opplysninger",
+      "content": "(1) Registrerte opplysninger om reelle rettighetshavere skal være tilgjengelige for:\na. rapporteringspliktige etter hvitvaskingsloven § 2 bokstav c i forbindelse med deres kundetiltak og løpende oppfølging etter hvitvaskingsloven\nb. offentlige myndigheter\nc. media\nd. sivilsamfunnsorganisasjoner\ne. høyere utdanningsinstitusjoner.\n(2) Departementet kan gi forskrift om at andre fysiske eller juridiske personer skal eller kan gis tilgang til registrerte opplysninger.\n(3) Departementet kan gi forskrift om tilgang, blant annet om hvilke opplysninger som skal gjøres tilgjengelige, hvem som skal gis tilgang til opplysninger i registeret, og i hvilket omfang, for hvilke formål og på hvilken måte opplysningene skal gis. Departementet kan også gi forskrift om unntak fra innsyn i enkelttilfeller under ekstraordinære omstendigheter. I forskrift etter første og annet punktum kan det gjøres unntak fra reglene i første ledd.\n(4) Departementet kan gi forskrift om avgivelse av opplysninger fra registeret.\n0 Endret ved lov 25 juni 2024 nr. 60 (i kraft 1 oktober 2024 iflg. res. 25. juni 2024 nr. 1214).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Opplysninger fra andre registre",
+      "content": "Departementet kan i forskrift gi nærmere regler om registerets adgang til å innhente og sammenstille opplysninger fra andre offentlige registre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Lagring av opplysninger i registeret",
+      "content": "(1) Registrerte opplysninger om reelle rettighetshavere skal lagres i registeret i minst ti år etter at den registreringspliktige opphørte eller avsluttet sin virksomhet i riket.\n(2) Departementet kan i forskrift gi nærmere regler om behandling av opplysninger om reelle rettighetshavere etter at minstetiden i første ledd er utløpt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Pålegg og tvangsmulkt",
+      "content": "(1) Registerføreren kan gi registreringspliktige pålegg for å sikre etterlevelse av §§ 9 og 10. Pålegget skal inneholde en bestemt frist. Pålegg kan også rettes mot registreringspliktiges styre, daglige leder eller andre med rett til å representere den registreringspliktige.\n(2) Dersom fristen ikke overholdes, kan det ilegges tvangsmulkt inntil forholdet er rettet.\n(3) Departementet kan i forskrift gi nærmere regler om fastsettelse og beregning av tvangsmulkt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Straff",
+      "content": "Registreringspliktige og personer som handler på vegne av registreringspliktige, som forsettlig unnlater å innhente, oppbevare eller registrere opplysninger i samsvar med §§ 4, 7, 9 eller 10 annet ledd, eller registrerer feilaktige opplysninger, kan straffes med bøter eller fengsel inntil ett år.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene i loven til forskjellig tid.\n1 Fra 1. november 2021 for § 1 til § 7 og § 15 iflg. res. 24 sep 2021 nr. 2864.Fra 1. oktober 2024 for § 8 til § 14 iflg. res. 25. juni 2024 nr. 1214.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Lovens formål er å legge til rette for rapporteringspliktiges, myndighetenes og andres tilgang til opplysninger om reelle rettighetshavere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Virkeområde",
+      "content": "(1) Loven gjelder for juridiske personer, enheter og andre sammenslutninger som driver virksomhet eller er registrert i riket, herunder på Jan Mayen og Svalbard.\n(2) Loven gjelder også for forvaltere av utenlandske truster og lignende juridiske arrangementer som driver virksomhet i riket, herunder på Jan Mayen og Svalbard.\n(3) Departementet kan i forskrift gi nærmere regler om hvilke juridiske personer, enheter og andre sammenslutninger og forvaltere av utenlandske truster og lignende juridiske arrangementer som er omfattet av loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "(1) Med registreringspliktige menes i loven her juridiske personer, enheter og andre sammenslutninger og forvaltere av utenlandske truster og lignende juridiske arrangementer som omfattes av lovens virkeområde etter § 2.\n(2) Med reell rettighetshaver menes i loven her den eller de fysiske personene som i siste instans eier eller kontrollerer en juridisk person, arrangement, enhet eller annen sammenslutning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Innhenting av opplysninger om reelle rettighetshavere",
+      "content": "(1) Registreringspliktige skal identifisere den juridiske personens, enhetens eller sammenslutningens eller det utenlandske juridiske arrangementets reelle rettighetshavere. Ved identifiseringen gjelder kriteriene i hvitvaskingsloven § 14.\n(2) Den registreringspliktige skal innhente følgende opplysninger om reelle rettighetshavere:\na. navn\nb. fødselsnummer eller D-nummer\nc. bostedsland\nd. statsborgerskap\n(3) Den registreringspliktige skal dokumentere grunnlaget for identifiseringen av hvem som er reelle rettighetshavere. Dersom den registreringspliktige mener det ikke er noen reell rettighetshaver i en juridisk person eller et utenlandsk juridisk arrangement, skal vurderingen begrunnes og dokumenteres. Dersom den registreringspliktige mener det finnes en eller flere reelle rettighetshavere, men ikke kan identifisere disse, skal vurderingen begrunnes og dokumenteres.\n(4) Registreringspliktige skal ved endringer i relevante forhold identifisere nye reelle rettighetshavere og for øvrig oppdatere innhentede opplysninger om reelle rettighetshavere.\n(5) Departementet kan i forskrift gi nærmere regler om innhenting av opplysninger om reelle rettighetshavere, herunder fastsette unntak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Relevante personers opplysningsplikt",
+      "content": "Departementet kan i forskrift gi nærmere regler om opplysningsplikt når registreringspliktige skal identifisere og innhente opplysninger om reelle rettighetshavere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Utlevering",
+      "content": "(1) Registreringspliktige skal etter forespørsel fra offentlig myndighet utlevere alle innhentede opplysninger og vurderinger etter § 4. Departementet kan i forskrift gi nærmere regler om hvilke myndigheter som omfattes av første punktum.\n(2) Registreringspliktige skal utlevere opplysninger og vurderinger som nevnt i § 4 til rapporteringspliktige etter hvitvaskingsloven § 2 bokstav c i forbindelse med deres kundetiltak og løpende oppfølging etter hvitvaskingsloven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Lagring av opplysninger om reelle rettighetshavere",
+      "content": "(1) Registreringspliktige skal lagre opplysninger og vurderinger om reelle rettighetshavere i ti år etter at fysiske personer opphørte å være reelle rettighetshavere.\n(2) Departementet kan i forskrift gi nærmere regler om lagring av opplysninger om reelle rettighetshavere etter at registreringspliktige har opphørt eller ikke lenger driver virksomhet i riket, herunder hvem som har plikt til å lagre opplysningene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Registeret over reelle rettighetshavere",
+      "content": "(1) Registeret over reelle rettighetshavere føres av en registerfører oppnevnt av Kongen.\n(2) Departementet kan i forskrift gi nærmere regler om registerets organisasjon, lokalisering og administrasjon, og om føringen av registeret.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Registrering av opplysninger om reelle rettighetshavere",
+      "content": "(1) Registreringspliktige skal registrere innhentede opplysninger om reelle rettighetshavere og grunnlaget for identifiseringen av reelle rettighetshavere i registeret over reelle rettighetshavere, jf. § 4 annet ledd.\n(2) Dersom den registreringspliktige mener det ikke er noen reelle rettighetshavere i den juridiske personen, enheten eller sammenslutningen, eller det utenlandske juridiske arrangementet, skal dette registreres. Det samme gjelder dersom den registreringspliktige mener det finnes en eller flere reelle rettighetshavere, men ikke kan entydig identifisere disse.\n(3) Første gangs registrering skal skje senest 14 dager etter at den registreringspliktige er blitt registrert i et offentlig register.\n(4) Når den registreringspliktige har identifisert nye reelle rettighetshavere i samsvar med § 4 fjerde ledd, skal registrerte opplysninger oppdateres uten opphold og senest innen 14 dager. Det samme gjelder dersom den registreringspliktige blir kjent med andre endringer som medfører at registrerte opplysninger ikke lenger stemmer.\n(5) Departementet kan i forskrift gi nærmere regler om registreringen av opplysninger om reelle rettighetshavere, grunnlaget for identifiseringen av reelle rettighetshavere og registreringspliktiges oppdatering av registrerte opplysninger. Forskriften kan også fastsette unntak fra denne bestemmelsen. Departementet kan i forskrift gi nærmere regler om innhenting av relevante opplysninger fra andre registre eller andre kilder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Kontroll av registrerte opplysninger. Varslingsplikt om uoverensstemmelser",
+      "content": "(1) Departementet kan i forskrift gi nærmere regler om registerførerens kontroll av opplysninger som registreres om reelle rettighetshavere.\n(2) Departementet kan i forskrift gi regler om varslingsplikt for offentlige myndigheter og rapporteringspliktige etter hvitvaskingsloven § 2 bokstav c i tilfeller der disse identifiserer andre som reelle rettighetshavere enn dem som er registrert i registeret over reelle rettighetshavere. Departementet kan også gi nærmere regler om registerets håndtering av varsler som nevnt i første punktum og registreringspliktiges plikt til å etterkomme registerets pålegg i den forbindelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Tilgang til og avgivelse av registrerte opplysninger",
+      "content": "(1) Registrerte opplysninger om reelle rettighetshavere skal være tilgjengelige for:\na. rapporteringspliktige etter hvitvaskingsloven § 2 bokstav c i forbindelse med deres kundetiltak og løpende oppfølging etter hvitvaskingsloven\nb. offentlige myndigheter\nc. media\nd. sivilsamfunnsorganisasjoner\ne. høyere utdanningsinstitusjoner.\n(2) Departementet kan gi forskrift om at andre fysiske eller juridiske personer skal eller kan gis tilgang til registrerte opplysninger.\n(3) Departementet kan gi forskrift om tilgang, blant annet om hvilke opplysninger som skal gjøres tilgjengelige, hvem som skal gis tilgang til opplysninger i registeret, og i hvilket omfang, for hvilke formål og på hvilken måte opplysningene skal gis. Departementet kan også gi forskrift om unntak fra innsyn i enkelttilfeller under ekstraordinære omstendigheter. I forskrift etter første og annet punktum kan det gjøres unntak fra reglene i første ledd.\n(4) Departementet kan gi forskrift om avgivelse av opplysninger fra registeret.\n0 Endret ved lov 25 juni 2024 nr. 60 (i kraft 1 oktober 2024 iflg. res. 25. juni 2024 nr. 1214).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Opplysninger fra andre registre",
+      "content": "Departementet kan i forskrift gi nærmere regler om registerets adgang til å innhente og sammenstille opplysninger fra andre offentlige registre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Lagring av opplysninger i registeret",
+      "content": "(1) Registrerte opplysninger om reelle rettighetshavere skal lagres i registeret i minst ti år etter at den registreringspliktige opphørte eller avsluttet sin virksomhet i riket.\n(2) Departementet kan i forskrift gi nærmere regler om behandling av opplysninger om reelle rettighetshavere etter at minstetiden i første ledd er utløpt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Pålegg og tvangsmulkt",
+      "content": "(1) Registerføreren kan gi registreringspliktige pålegg for å sikre etterlevelse av §§ 9 og 10. Pålegget skal inneholde en bestemt frist. Pålegg kan også rettes mot registreringspliktiges styre, daglige leder eller andre med rett til å representere den registreringspliktige.\n(2) Dersom fristen ikke overholdes, kan det ilegges tvangsmulkt inntil forholdet er rettet.\n(3) Departementet kan i forskrift gi nærmere regler om fastsettelse og beregning av tvangsmulkt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Straff",
+      "content": "Registreringspliktige og personer som handler på vegne av registreringspliktige, som forsettlig unnlater å innhente, oppbevare eller registrere opplysninger i samsvar med §§ 4, 7, 9 eller 10 annet ledd, eller registrerer feilaktige opplysninger, kan straffes med bøter eller fengsel inntil ett år.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene i loven til forskjellig tid.\n1 Fra 1. november 2021 for § 1 til § 7 og § 15 iflg. res. 24 sep 2021 nr. 2864.Fra 1. oktober 2024 for § 8 til § 14 iflg. res. 25. juni 2024 nr. 1214.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    }
+  ]
+}

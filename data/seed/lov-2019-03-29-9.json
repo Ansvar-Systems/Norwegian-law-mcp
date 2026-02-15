@@ -1,0 +1,81 @@
+{
+  "id": "LOV-2019-03-29-9",
+  "type": "statute",
+  "title": "Lov om overgangsregler mv. ved Storbritannias uttreden fra Den europeiske union",
+  "short_name": "Lov om overgangsregler mv. ved Storbritannias uttreden fra Den europeiske union",
+  "status": "in_force",
+  "issued_date": "2019-03-29",
+  "in_force_date": "2019-03-29",
+  "url": "https://lovdata.no/dokument/NLO/lov/2019-03-29-9",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Forskriftshjemmel",
+      "content": "Kongen kan gi forskrift om forhold som berøres av at Det forente kongerike Storbritannia og Nord-Irland (Storbritannia) trer ut av EØS-avtalen, Schengen-samarbeidet og andre avtaler mellom Norge og Den europeiske union som Storbritannia har vært bundet av som medlemsstat i unionen.\nForskriften kan avvike fra bestemmelser i annen lovgivning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tiden loven trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Forskriftshjemmel",
+      "content": "Kongen kan gi forskrift om forhold som berøres av at Det forente kongerike Storbritannia og Nord-Irland (Storbritannia) trer ut av EØS-avtalen, Schengen-samarbeidet og andre avtaler mellom Norge og Den europeiske union som Storbritannia har vært bundet av som medlemsstat i unionen.\nForskriften kan avvike fra bestemmelser i annen lovgivning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tiden loven trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

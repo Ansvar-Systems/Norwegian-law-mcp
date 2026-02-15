@@ -1,0 +1,851 @@
+{
+  "id": "LOV-1899-05-20-2",
+  "type": "statute",
+  "title": "Lov angaaende Jagt og Fangst",
+  "short_name": "Jaktloven av 1899",
+  "status": "in_force",
+  "issued_date": "1899-05-20",
+  "in_force_date": "1900-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1899-05-20-2",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Med de Indskrænkninger, som indeholdes i nærværende Lov, er Grundeieren eneberettiget til al Jagt og Fangst paa sin Eiendom.\nJfr. § 38 og strl. § 407.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Overlader Grundeieren nogen anden sin Eiendom til Brug, skal Jagtretten, hvor intet andet er aftalt, tilkomme Brugeren.​1 Forbeholder Grundeieren sig Jagtretten, skal saadant Forbehold ikke kunne omfatte Brugerens Aker og Eng.\nJagtretten kan ikke for bestandig skilles fra Eiendomsretten til Grunden.​2 Bortforpagtes Jagtret, maa Forpagtningstiden ikke overskride ti Aar. Den samme Tidsindskrænkning skal gjælde, om Jagtretten fraskilles Eiendomsretten til Grunden paa anden Maade end ved Bortforpagtning. Dog skal det i Medhold af nærværende Paragrafs første Passus være tilladt at fæste Jagtret paa længere Tid end ti Aar, naar denne Ret følger Brugsretten til vedkommende Eiendom.\nTil Fremleie af Jagtret kræves Grundeierens Samtykke. Eier af Jagtret, som overdrager Jagtens Udøvelse til andre end Grundens Bruger, er ansvarlig ligeoverfor denne for Skade, som ved Jagten tilføies Brugerens Eiendom.\nHvad der i nærværende Paragraf er bestemt angaaende Jagtretten skal ogsaa gjælde Retten til at drive Fangst af Vildt.\n1 Jfr. N.L. 3-14-27, lover 14 mars 1930 § 5 og 16 juni 1939 nr. 7 § 18.\n2 Jfr. lov 20 aug. 1915 nr. 11 § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "I sameiestrekninger tilkommer retten til jakt og fangst samtlige dem, der har eiendoms- eller bruksrett til skog, havnegang, slått eller grunn i sameiet.\nEnhver, der efter foregående passus har rett til jakt og fangst i sameiet, kan med en måneds skriftlig eller vidnefast varsel sammenkalle de øvrige likeledes jaktberettigede til et møte til valg av et styre på inntil fem mann, hvem forvaltningen av jakt og fangst i sameiet overdras efter regler, som utarbeides av styret og godkjennes av fylkesmannen efter først å ha vært de jaktberettigede i sameiet forelagt til uttalelse.​1\nDenne bestemmelse finner tilsvarende anvendelse, hvor jaktretten tilligger flere eiendommer i fellesskap.\nReglene skal være gjeldende for fem år om gangen.\nHar jakt- og fangstberettiget loddeier overlatt nogen annen sin eiendom til bruk, trer brukeren, hvor intet annet er avtalt, overensstemmende med § 2 i loddeierens sted. Husmann, som har feste på plass, tilliggende en av de eiendommer, som har lodd i sameiet, skal, når intet annet er avtalt, i sameiestrekningen ha rett til jakt og fangst efter alt vilt, undtatt elg, hjort og villrein.\nHvor jaktregler ikke er istandbragt overensstemmende med 2net avsnitt i denne paragraf, kan jakt i et sameie kun utøves av én person om gangen for hver som har rett til jakt.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Jfr. lov 22 juni 1928 nr. 25 § 57 post 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "I Privatalmenninger​1 tilkommer Retten til Jagt​2 og Fangst Almenningens Eier. Har Almenningen flere Eiere, forholdes efter Reglerne i § 3. Indvaanere af det Distrikt, som har Brugsret i privat Almenning, skal dog der have Adgang til at drive Jagt uden Hund efter alt Vildt undtagen Elg, Hjort og Vildren.\n1 Se lov 22 juni 1803 kap. 3.\n2 Jfr. § 5, 2net ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "I bygdealmenning​1 skal enhver beboer på de eiendommer, som har bruksrett i almenningen, ha adgang til jakt og fangst – jakt efter elg, hjort og villrein derfra undtatt.\nJaktretten forvaltes av almenningsstyret efter regler som utarbeides av dette og godkjennes av Kongen. Minst fire uker for almenningsstyrets utkast til regler innsendes til godkjennelse, skal det være utlagt til eftersyn på et for distriktet bekvemt sted, efterat bekjentgjørelse derom er utferdiget på den for distriktet sedvanlige måte. Inntekt ved bortleie av jaktrett inngår i almenningskassen.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se lov 22 juni 1863 kap. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "I ikke særskilt matrikulerte statsskoger skal – forsåvidt ikke lov av 12 mars 1920 om utnyttelse av rettigheter til beite, fiske, jakt og fangst m.v. i statens almenninger kommer til anvendelse​1 – jakt og fangst være fri for enhver norsk borger​2 mot løsning av jaktkort.​3 Dog skal utenbygdsboende der ikke er grunneier i det eller de herreder hvori statsskogen ligger,​4 herfor erlegge forskuddsvis en årlig avgift som bestemmes av Kongen. Denne avgift må for jakt med hund ikke være høiere enn tyve kroner og for jakt uten hund samt for anbringelse av fangstinnretninger ikke høiere enn to kroner.\nHerfra undtas jakten på elg, hjort og villrein. Hvorledes der med denne jakt skal forholdes, bestemmes av Kongen.\nJaktkort lyder på navn og gjelder for kalenderåret. Det utstedes av lensmannen. Jaktkortet skal medføres og innen jaktområdet forevises når som helst det av noen forlanges.​5 Av den innkomne avgift inngår en halvpart i statskassen og en halvpart i vedkommende kommunekasse. Inntekt ved bortleie av jakt efter storvilt fordeles i på samme måte.\nOffentlig ansatte skogfunksjonærer skal innen sitt distrikt være fritatt for å erlegge den her omhandlede avgift.\n0 Endret ved lover 12 mars 1920 nr. 3 og 3 mars 1932 nr. 2. Jfr. lover 18 juli 1919 nr. 7 § 71 og 12 mai 1933 nr. 3 § 38.\n1 Se nevnte lovs kap. IX.\n2 Se lov 8 des. 1950 nr. 3.\n3 Jfr. § 12.\n4 Jfr. lov 29 mai 1901 nr. 6 § 1.\n5 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "For fjellstrekninger, som ikke er i privat eie og ikke omfattes av bestemmelsene i lov av 12 mars 1920 om utnyttelse av rettigheter til beite, fiske, jakt og fangst m. v. i statens almenninger, skal de samme regler gjelde som i foregående paragraf bestemt.\nJaktkortet utstedes av lensmannen og gjelder for de nevnte strekninger.\n0 Endret ved lover 12 mars 1920 nr. 3 og 3 mars 1932 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "content": "I særskilt matrikulerede Statsskoge og paa anden Grund, som er Statens private Eiendom, har Staten med Hensyn til Jagt og Fangst en Grundeiers Ret. Dog skal enhver, som har Havne- eller Hugstret i Statsskog, som ikke er Embedsgaardsskog, have Ret til der at drive Jagt uden Hund efter alt Vildt undtagen Elg, Hjort og Vildren mod hos vedkommende Skogforvalter at løse et Jagtkort, som betales med Kr. 2,00. Hvad forøvrigt Jagtkortets Udstedelse samt Fremvisningspligt angaar, henvises til Reglerne i § 6.​1 Forøvrigt bestemmes Reglerne for Udøvelse af Jagt og Fangst af Kongen eller den, han dertil bemyndiger,​2 efterat vedkommende Kommunestyrers Udtalelse er indhentet.\nPaa Statens Jord i Finmarken​3 er Jagt og Fangst fri for enhver norsk Borger.​4\n1 Se § 32.\n2 Landbruksdepartementet (res. 17 juni 1899).\n3 Jfr. lov 22 mai 1002 nr. 7.\n4 Se lov 8 aug. 1924 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "content": "På elv og innsjø går grunneierens rett til jakt og fangst så langt som hans eiendomsrett. Grunneierens rett til jakt og fangst går mot hav og fjord så langt som landet ligger tørt. Utenfor denne grense samt på grunner og skjær, som ved almindelig høivanne er overskylt og ikke som kobbeveide tilligger en eiendom, er jakt og fangst fri for enhver norsk borger.​2\nAngående hvorledes det med fredlyst egg- og dunvær skal forholdes, henvises til §§ 15 og 28.\nEier av vei med tilbehør har ikke jaktrett på denne, medmindre han også eier tilstøtende grunn.\nDen som eier grunnen på begge sider av en vei, har jaktretten på denne, selv om han ikke eier veien.\nPå vei, som danner grense mellem grunn, der tilhører forskjellige eiere, men uten at noen av disse eier veien, har hver av grunneierne jaktrett.\nNærværende paragrafs bestemmelser om jaktrett på vei gjelder også for jernvei, rørgate, gate for kraftledninger og lignende anlegg. Dog må skudd ikke løses på offentlig vei eller jernvei. Heller ikke fra motordrevet kjøretøi.​3\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Jfr. lov 15 mars 1940 nr. 3 kap. 1.\n2 Se lov 8 des. 1950 nr. 3.\n3 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "content": "Uten tillatelse må ingen drive vilt bort fra annens eiendom.​1\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "1:11",
+      "chapter": "1",
+      "section": "11",
+      "content": "Den som på lovlig grunn for hund reiser elg, hare eller rovdyr eller sårer hjort, rådyr eller villrein, er berettiget til å forfølge, drepe og tilegne sig dyret på grunn, hvor en annen enn jegeren har jaktretten. Sådan forfølgelsesrett ophører ved utgangen av den dag da viltet er kommet inn på annen manns grunn. Forat et dyr skal være lovlig reist, må man enten ha sett dyret, eller hunden må ha hatt los på samme. Bevisbyrden for lovlig forfølgning påhviler jegeren.\nGrunneieren mister ikke sin rett til å jage eller fange vilt, som i kraft av denne paragraf forfølges på hans grunn, medmindre det forfulgte vilt allerede er såret eller står for eller forfølges av halsende hund. Grunneieren kan ikke erhverve forfølgelsesrett til vilt, som lovlig forfølges på hans grunn, så lenge den først erhvervede forfølgelsesrett ikke er ophørt.\nUnder jakt som i denne paragraf omhandlet må ikke skudd løses på annen manns gårdstun eller i hans have.​1\nSkade på annen manns eiendom, foranlediget ved sådan jakt som i denne paragraf omhandlet, erstattes av jegeren. Erstatningens størrelse bestemmes i mangel av mindelig overenskomst ved skjønn som styres av lensmannen, og hvortil varsel gis således som for varsel til forliksrådet bestemt.​2\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se § 32.\n2 Se rettergangsl. § 277.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "1:12",
+      "chapter": "1",
+      "section": "12",
+      "content": "Utlending som her i riket utenfor sin egen eiendom vil drive jakt eller fangst, skal erlegge en årlig avgift til statskassen, stor ett hundre kroner, dog kun femti kroner såfremt han kun skal drive jakt eller fangst inntil tre dager årlig, og såfremt han er svensk statsborger kun fem kroner for hver enkelt dag han skal drive jakt eller fangst. Enhver utlending har enten selv eller ved fullmektig å avgi en skriftlig erklæring til den offentlige tjenestemann, hos hvem han erlegger avgiften, om hvor lang tid han akter å drive jakt eller fangst. Erleggelsen av sådan avgift som omhandlet i denne paragraf gir dog ikke rett til å drive den jakt eller fangst, som er fri for norske borgere.​1 Det bestemmes av Kongen til hvilken offentlig tjenestemann avgiften skal erlegges.\nIngen må tilstede utlending å drive jakt eller fangst, uten at utlendingen kan fremvise kvittering for betalt avgift. Den, som tilsteder utlending å drive jakt eller fangst, skal innen tre dager melde dette til lensmannen, i byene politiet, med opgivende av utlendingens navn, av jaktrettens beskaffenhet og varighet samt stedet hvor den skal utøves, ledsaget av bevidnelse for, at utlendingen er i besiddelse av kvittering som foran nevnt.\nDenne kvittering samt skriftlig bevis for erhvervet jakt tillatelse er utlendingen pliktig å forevise, når som helst han dertil opfordres.​2\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se §§ 6-9.\n2 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "content": "Efternevnte viltsorter må ikke jages, drepes eller skades​1 utenfor følgende jakttider:​2\nI jakttiden medregnes begge de her nevnte dager.\n0 Endret ved lover 14 mai 1902 nr. 2, 3 mars 1932 nr. 2, 12 mars 1937 nr. 1.\n1 Jfr. § 16.\n2 Se § 32.\n3 Jfr. § 44, I, 2net ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "content": "Rådyr, dådyr, bever, svaner, rapphøns og fasaner samt alle ugler, undtatt hubro og sneugle, skal være fredet det hele år.​1\nI park eller på øi, hvor der drives fasaneri, kan dog dettes eier, eller de han gir tillatelse, jage fasaner uhindret av denne bestemmelse.\nKongen kan tillate, at rådyr, rapphøns og fasaner skytes i et nærmere fastsatt tidsrum om høsten.\nLikeledes kan Kongen tillate jakt på bever i et nærmere fastsatt tidsrum om høsten. Fangst er forbudt, likeledes ødeleggelse eller forstyrrelse av beverboliger.\nVedkommende regjeringsdepartement​2 kan, uavhengig av jakttiden, tillate fangst av uskadd bever eller rådyr for å overføres levende til andre distrikter eller til utlandet. For bevers vedkommende kan sådan tillatelse også gis til opdrett i fangenskap som pelsdyr.\nI dyrepark og på øi, som er helt i privat eie, kan dådyr og rådyr felles, uansett bestemmelsene i denne paragraf. Avhendelse eller utførsel av skinn av norsk bever skal være forbudt medmindre departementets​2 tillatelse dertil foreligger.\n0 Endret ved lover 14 mai 1902 nr. 2, 9 aug. 1918 nr. 1, 3 mars 1932 nr. 2.\n1 Se § 32.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "content": "På fredlyst egg- og dunvær og 1,5 km. på sjøen ut fra samme skal erfugl – herunder spitsbergen-erfugl og ekonge – være fredet det hele år.​1\nI tiden fra og med 1 april til og med 14 august skal det være forbudt, uten eierens eller besidderens tillatelse, å drive jakt og fangst eller løse skudd på været og på sjøen i nevnte avstand.​1\nVedkommende fylkesmann kan meddele tillatelse til, at fredlysning inntil videre av egg- og dunvær finner sted, når kommunestyrets og fylkestingets anbefaling foreligger.\nFredlysningen må minst en måned før sin ikrafttreden være bekjentgjort i Norsk Kunngjørelsestidende.​2 Fredlyst egg- og dunvær må betegnes ved tydelige merker på sådan måte, som vedkommende regjeringsdepartement​3 bestemmer. Hvor fredlysning av egg- og dunvær er foregått før denne lovs ikrafttreden, skjer der ved denne lovs bestemmelse ingen innskrenkning i disse værs rettigheter.\n0 Endret ved lover 3 mars 1932 nr. 2, 7 juni 1935 nr. 2 § 41, 12 mars 1937 nr. 1.\n1 Se § 32.\n2 Se lov 11 okt. 1946 nr. 1.\n3 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "2:16",
+      "chapter": "2",
+      "section": "16",
+      "content": "Bruk av fangstinnretninger for tiur, røi, årfugl, jerpe, ryper og hare skal være forbudt.​1 Dog kan snarer brukes til fangst av hare og ryper fra og med 15 oktober og til utgangen av den for disse dyr lovlige jakttid. Kongen kan likeledes for et fylke eller deler av fylke efter forutgående uttalelse av vedkommende fylkesting bestemme at snarer kan brukes til fangst også av tiur, røi, årfugl og jerpe fra og med 15 oktober til utgangen av den for ryper lovlige jakttid. Alle snarer skal være fjernet innen fangsttidens utløp.​2 Likeledes skal det til enhver tid være tillatt å felle eller fange hare, når den gjør skade i have eller på frukttrær.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "2:17",
+      "chapter": "2",
+      "section": "17",
+      "content": "Alle fugler som ikke foran er nevnt, skal være fredet for jakt og fangst fra og med 15 mars til og med 14 august.​1 Herfra undtas dog dagrovfuglene, hubro, sneugle, fiskeheire, ravn, kråker, kaje, skjære, nøtteskrike, dompap, korsnebber, varslere, vendehals (sågauk), gråspurv, troster, fiskeender, måker (undtatt lattermåken), terner, tyvjoer, lommer, alker, lundefugler, teist, skarver og gaul. Dog skal det til enhver tid være tillatt å felle de efter nærværende paragraf fredede fugler, når de gjør skade på eller i hus, i have, på aker eller frukttrær.\n0 Endret ved lover 14 mai 1902 nr. 2, 15 aug. 1908 nr. 10, 3 mars 1932 nr. 2.\n1 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "2:18",
+      "chapter": "2",
+      "section": "18",
+      "content": "Av elg og hjort kan der på hver særskilt matrikulert eiendom kun felles ett dyr årlig.​2 For eier av større sammenhengende skogstrekninger, der kun utgjør ett bruksnummer, for bygdealmenninger, privatalmenninger og sameier kan Kongen eller den, han dertil bemyndiger,​3 for inntil fem år ad gangen gi tillatelse til å felle flere dyr årlig. Når flere sammenstøtende eiendommer slåes sammen til ett jaktterreng, kan Kongen for inntil fem år ad gangen gi tillatelse til, at der på dette terreng uten hensyn til de forskjellige eiendommers grenser årlig felles et antall dyr, der likeledes bestemmes av ham.\nLos, på drevet halsende hund må ikke benyttes på elgjakt.​2\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Jfr. § 20.\n2 Se § 32.\n3 Landbruksdepartementet (res. 8 janr. 1925).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "2:19",
+      "chapter": "2",
+      "section": "19",
+      "content": "For villrein fastsetter Kongen, eller den han dertil bemyndiger, jakttiden ens for det hele land og treffer de nærmere bestemmelser om utøvelsen av jakt efter dette vilt, herunder bl.a. fastsettelse av de områder, innen hvilke reinjakt skal kunne begå, og fastsettelse av det antall dyr, som skal kunne felles på et nærmere bestemt areal.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Jfr. § 44, I, 2net ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "2:20",
+      "chapter": "2",
+      "section": "20",
+      "content": "Hvor elg årligårs gjør betydelig skade på skog, kan vedkommende grunneiere eller brukere av Kongen få tillatelse til i den lovlige jakttid å felle flere elger enn efter de almindelige bestemmelser som er truffet i medhold av § 18.\nI strøk hvor hjort årligårs gjør betydelig skade på skog, dyrket eng, aker, avling eller i have, kan Kongen tillate utvidet jakttid. Før sådan tillatelse gis, bør der foreligge uttalelse fra herredstyre, fylkesskogselskap og fylkesutvalg. Andragende om tillatelse som foran omhandlet innsendes til herredstyrene. Forsåvidt tillatelsen inneholder bestemmelse om at der kan felles flere dyr enn ordinært, tilfaller verdien av det overskytende antall dyr kommunekassen.\n0 Endret ved lover 15 aug. 1908 nr. 10, 3 mars 1932 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "2:21",
+      "chapter": "2",
+      "section": "21",
+      "content": "Bruker av fast eiendom skal være berettiget til så vel i som utenfor jakttiden å felle hjort, dog ikke kalver, på sin dyrkede jord, når disse dyr beskadiger hans have, aker, eng eller plantede trær.\nInnen 2 døgn efter at sådan hjort er felt, skal anmeldelse herom skje til distriktets lensmann – i byene politiet – ledsaget av erklæring fra to uinteresserte, i utvalget stående skjønnsmenn​1 om, at skaden har vært av sådan betydning, at dyret burde felles.​2\nHjort, som bruker av fast eiendom har felt i medhold av denne paragraf, eller i tilfelle dyrets verdi, tilfaller kommunen, som efter skjønn godtgjør den påviselige skade, dog ikke utover det felte dyrs verdi.\nBenyttelse av denne rett til å felle skadedyr medfører ingen innskrenkning i den grunneieren i sin almindelighet tilkommende jaktrett.\nBrukeren plikter å underrette ordføreren om fellelsen og så vidt mulig dra omsorg for at dyret ikke tar skade.​2\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se domstolsl. § 79.\n2 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "2:22",
+      "chapter": "2",
+      "section": "22",
+      "content": "Det skal være forbudt å benytte følgende fangstmåter eller fangstredskaper:\nFangstinnretninger av enhver art for bjørn, elg, hjort og villrein, dyregrav, bås og tane, bundne redskaper – herunder dog ikke håv som anvendes til fangst av skogfugl i sneen –, alle slags fiskeredskaper for fugl, fotsaks og gift for alt vilt. Dog er det tillatt å benytte fosformos for utryddelse av kråke.\nKongen kan efter forutgående uttalelse fra fylkestinget for fylket eller deler derav bestemme at gift skal kunne anvendes til fangst av rovdyr.\nJaktmåter, som fordrer anvendelse av ildslys eller annet kunstig lys, er ikke tillatt.\nSvømmende elg, hjort, rådyr, dådyr og villrein må ikke anfalles, fanges eller drepes, undtagen når dyret som såret forfølges.​1\n0 Endret ved lover 14 mai 1902 nr. 2, 15 aug. 1908 nr. 10, 3 mars 1932 nr. 2.\n1 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "2:23",
+      "chapter": "2",
+      "section": "23",
+      "content": "Utleggelse av selvskudd er forbudt.​1\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "2:24",
+      "chapter": "2",
+      "section": "24",
+      "content": "Den som vil benytte fangstredskap, der av vedkommende kommunestyre erklæres for å være av farlig beskaffenhet, er forpliktet til​1\n1. å anmelde det for lensmannen – i byene politiet,\n2. å skaffe erklæring fra to av lensmannen – politiet – opnevnte, i utvalget stående, skjønnsmenn​2 om, at der iakttas sådanne forsiktighetsregler, at fangstinnretningen ikke antas å kunne medføre fare for mennesker eller bufe,\n3. å la bekjentgjøre, enten ved opslag eller ved offentliggjørelse i egnens mest utbredte tidender eller på annen hensiktsmessig måte, der av lensmannen – politiet – i hvert tilfelle godkjennes som tilfredsstillende:\na. stedet, hvor fangstinnretningen er anbragt, så nøiaktig betegnet som mulig,\nb. fangstinnretningens beskaffenhet og\nc. den av skjønnsmennene derom avgitte erklæring.\nDerhos har han, forsåvidt det av lensmannen – politiet – forlanges,\n4. å betegne stedet ved anbringelse av merketavle.\nBenyttes fangstmidlene i lengre tid, skal anmeldelsen og – forsåvidt dertil er anledning – bekjentgjørelsen gjentas hver måned. Når de ikke mere benyttes, skal de borttas eller tilintetgjøres, så at mennesker eller bufe ikke utsettes for å komme til skade.\nDen som vil benytte andre fangstmidler enn dem, hvorom kommunestyrets erklæring er avgitt, har, hvis disse innretninger er av en hittil innen kommunen ukjent beskaffenhet, å anmelde dette for lensmannen – i byene politiet – der, hvis han anser fangst innretningen farlig, kan forby dens anvendelse, inntil kommunestyrets erklæring er avgitt.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se § 32.\n2 Se domstolsl. § 79.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "2:25",
+      "chapter": "2",
+      "section": "25",
+      "content": "Gift må ikke utlegges uten vedkommende brukers og havneberettigedes samtykke og ikke nærmere naboeiendom enn 150 m., medmindre brukerens samtykke er innhentet. Under ingen omstendighet må gift utlegges nærmere enn 150 m. fra vei, som er åpen for almindelig ferdsel.​2\nDen som akter å utlegge gift, har skriftlig å anmelde dette til lensmannen – i byene politiet.​2 Anmeldelsen skal inneholde nøiaktig angivelse av stedet, hvor giften aktes utlagt, samt, forsåvidt utleggelsen skal skje på annen manns eiendom eller på sted, hvor andre enn anmelderen har beiterett, være ledsaget av skriftlig erklæring fra vedkommende eier, bruker eller havneberettigede om, at disse har gitt anmeldere tillatelse til å utlegge gift på det angitte sted.\nGift må ikke utlegges, før den av lensmannen – politiet – skriftlig godtatte anmeldelse er bekjentgjort på den kunngjørelsesmåte, som er sedvanlig i kommunen.​1 Sådan bekjentgjørelse må gjentas hver måned, så lenge giften ligger ute. Tillatelse til å utlegg gift gjelder hver gang kun for et tidsrum av seks måneder.\nKommunestyret kan gi nærmere bestemmelser angående utleggelse av gift innen kommunen.\nFylkestinget kan for vedkommende fylke eller deler derav forby enhver utleggets av gift.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "2:26",
+      "chapter": "2",
+      "section": "26",
+      "content": "Fra og med den sjette dag efter utløpet av de fastsatte jakttider for elg og hjort og inntil dagen efter at ny jakttid er inntrådt, skal det være forbudt​1 å avhende, falby, kjøpe eller motta kjøtt av de nevnte dyr, medmindre det før nevnte sjette dag er stemplet på sådan måte, som bestemmes av Kongen.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "2:27",
+      "chapter": "2",
+      "section": "27",
+      "content": "Alt Vildt, hvorfor der i denne Lov er fastsat Fredningstider, og som ikke er nævnt i foregaaende Paragraf, maa, hvad enten Vildtet er skudt eller fanget her i Riget eller indført, kun sælges, afhændes eller modtages fra og med Dagen efter, at Jagt- eller Fangsttiden for hver Vildtsort er indtraadt, og indtil Udløbet af samme, medmindre Vildtet er stemplet paa saadan Maade, som bestemmes af Kongen eller de han dertil bemyndiger.​2 Er Vildtet skudt eller fanget her i Riget, maa det være stemplet senest Dagen efter Udløbet af Jagttiden.\nDen, som begjærer Stempling udført, maa paa Forlangende godtgjøre, at Vildtet er fældet i den lovlige Jagt- og Fangsttid, eller at det er indført.\n0 Endret ved lov 14 mai 1902 nr. 2.\n1 Se § 32.\n2 Landbruksdepartementet (res. 17 juni 1899).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "2:28",
+      "chapter": "2",
+      "section": "28",
+      "content": "1. Det skal være forbudt på annen manns grunn å forstyrre fuglereder eller derfra å bortta egg eller dun.\n2. Grunneier må ikke bortta eller la bortta egg av de ifølge §§ 13, 14 og 17 fredede fugler. Dog skal det være tillatt eier eller bruker av fredlyst egg- og dunvær å samle egg dersteds av erfugl. Likeså skal det være grunneier, som har utsatt holker eller innrettet andre kunstige rugeplasser for ender eller erfugl, tillatt å bortta eller la bortta egg fra disse.\n3. På høifjellstrekninger, i almenninger og i ikke særskilt matrikulerte statsskoger og på statens grunn i Finnmark er det forbudt å forstyrre reder eller bortta egg av alle fugler, undtagen dem, som ifølge § 17 er undtatt fra den almindelige vårfredning. Dog har enhver norsk undersått​2 her sådan rett til å bortta andeegg og erfuglegg, som efter for anførte post 2 tilkommer en grunneier på egen grunn. Forbud mot å forstyrre reder skal ikke være til hinder for sådan benyttelse av skog eller mark som i øvrig er lovlig.\n4. Medeier i egg- og dunvær må ikke bortta egg eller dun derfra uten medeiers samtykke.\n5. Utenfor de i denne lov gjorte undtagelser skal det være forbudt å løse skudd på annen manns innmark uten grunneierens eller brukerens tillatelse.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se § 32.\n2 Se lov 8 des. 1950 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "2:29",
+      "chapter": "2",
+      "section": "29",
+      "content": "Hund som treffes jagende på egen hånd efter\na. elg, hjort, dådyr eller rådyr, eller\nb. andre ifølge denne lov fredede dyr eller fugler i den for disse gjeldende fredningstid, kan optas av hvem som helst.\nHund som i lovlig jakttid jager på egen hånd efter vilt, som er nevnt ovenfor under i litra b, kan optas av den til grunnen jaktberettigede eller på hans foranstaltning.​2\nI statsskoger, statsalmenninger eller fjellstrekninger som omhandles i denne lovs §§ 6 og 7 eller i lov av 12 mars 1920 om utnyttelse av rettigheter til beite, fiske, jakt og fangst m.v. i statens almenninger, tilligger optagningsretten jaktpolitiet og det almindelige politi.\nOptatt hund skal forsvarlig behandles og forpleies. Den blir snarest mulig å overlevere lensmannen – politiet – der med hensyn til dyret har å gå frem efter de i lov av 22 mai 1869 om visse slags hittet eller innsatt bufe foreskrevne regler.\nHundens eier godtgjør for bryderi og utlegg i anledning av foranstaltningen.\nHund som treffes jagende på egen hånd etter elg, hjort, rådyr eller dådyr i den for disse dyr fastsatte fredningstid, kan skytes av den til grunnen jaktberettigede og av hvem som helst i tiden 1 desember til 10 september.\nMeddelelse om at hund er skutt som anført, blir snarest mulig å tilstille stedets lensmann eller politi.​3\n0 Endret ved lover 3 mars 1932 nr. 2 og 3 des. 1948 nr. 9.\n1 Jfr. lov 9 juli 1926 nr. 4.\n2 Jfr. § 41.\n3 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "3:30",
+      "chapter": "3",
+      "section": "30",
+      "content": "Fylkestinget kan fastsette premie for ødeleggelse av fugler og dyr, som det finner skadelige. Det samme kan kommunestyret gjøre.\n0 Endret ved lover 15 aug. 1908 nr. 10, 3 mars 1932 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "3:31",
+      "chapter": "3",
+      "section": "31",
+      "content": "For at premie skal erholdes, føres huden av de drepte pattedyr eller, om det er fugl, det hele dyr med fjærklædning til vedkommende lensmann, eller til den i fylkesmannen dertil bemyndiger, som borttar midterste tå på høire fot av fugl og de to midterste klør på høire fot av pattedyr. For kråkers vedkommende er det tilstrekkelig at den, som vil erholde premie, medbringer begge ben av fuglen.\nForsåvidt dyret avleveres til Universitetet eller annen offentlig samling, utfordres ikke den her omhandlede borttagelse av klør, og attest fra vedkommende samlings bestyrer er da tilstrekkelig legitimasjon for premiens erholdelse.\nPremien utbetales av vedkommende lensmann, eller den fylkesmannen dertil bemyndiger, der attesterer​1 at dyret er felt eller fanget innen fylket. Er der grunn til å dra vedkommendes opgivende i tvil, skal nærmere legitimasjon i denne henseende forlanges, før premien utbetales. Premien bortfaller når dyret er ulovlig fanget eller felt. De til utredelsen fornødne summer utlignes på det fylke, innen hvis grenser dyret er felt.\nSåfremt premie utbetales av andre enn lensmannen – politiet –, kan fylkesmannen i tilstå vedkommende en godtgjørelse av inntil 10 pct. av hver premie han utbetaler. Denne godtgjørelse utredes av den, som har rett til å heve premien.\nBestemmelsene gjelder tilsvarende også for utbetaling av premie fastsatt av kommune, men premien utredes da av kommunekassen.\nDe i denne og foregående paragraf fastsatte bestemmelser gjelder også for byer, innen hvis eiendomsgrenser dyret er felt. Premien utbetales gjennem vedkommende politiembedsmann og utredes av kommunekassen.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se sportellov § 118.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "4:32",
+      "chapter": "4",
+      "section": "32",
+      "content": "Med bøter​1 straffes den som overtrer bestemmelsene i denne lovs §§ 6 og 8 om fremvisning av jaktkort, §§ 9 siste ledd, 10, 11 tredje ledd, 12-14, 15 første og annet ledd, 16-18, 21 annet og femte ledd, 22-24, 25 første–tredje ledd, 26-28, 29 siste ledd og 38 siste punktum.\nPå samme måte straffes den som overtrer regler, som er gitt i medhold av denne lov. Forsøk straffes like med fullbyrdet forseelse.​2\nGjenstander, herunder hunder, som har vært benyttet eller bestemt til å benyttes ved en efter nærværende lov straffbar handling, kan inndras uten hensyn til om de tilhorer nogen i den straffbare handling skyldig eller ikke.​3\nMed hensyn til bruk under jakt av langtrekkende rifle i strid med gjeldende bestemmelse​4 skal også forsøk være straffbart,​2 likesom inndragning så vel ved forsøkt som fullbyrdet forseelse kan finne sted på samme måte som i foregående ledd nevnt.​3\n0 Endret ved strl. ikrl. § 3 og lov 3 mars 1932 nr. 2.\n1 Se strl. § 27.\n2 Jfr. strl. § 49.\n3 Jfr. strl. § 34.\n4 Se lov 11 juni 1898 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "4:38",
+      "chapter": "4",
+      "section": "38",
+      "content": "Ulovlig felt eller fanget dyr eller dets verdi tilfaller grunneieren eller den, til hvem han har overdratt sin rett, såfremt han ikke selv har forøvet eller medvirket til forseelsen, i motsatt fall kommunekassen.​1\nEfter omstendighetene kan der tillike tilkjennes den fornærmede erstatning for forvoldt skade.\nForsåvidt elg uten hjemmel i nærværende lov er felt av eller under medvirkning av grunneieren eller den som innehar jaktretten, tilfaller dyret eller dets verdi fylkeskassen eller vedkommende bykasse.\nUlovlig felt eller fanget dyr, som i henhold til denne lov er fredet det hele år, eller dets verdi tilfaller fylkeskassen eller vedkommende bykasse.\nElg som bruker av fast eiendom har felt på eiendommen utenfor den lovlige jakttid, fordi dyret voldte skade, tilfaller kommunekassen, selv om handlingen i henhold til § 47 i den almindelige borgerlige straffelov ikke er å anse som ulovlig. Brukeren plikter straks å underrette lensmannen – i byene politiet – samt ordføreren om fellelsen og så vidt mulig å dra omsorg for at dyret ikke tar skade.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Jfr. strl §§ 36 og 37.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "4:41",
+      "chapter": "4",
+      "section": "41",
+      "content": "Når hund treffes jagende på egen hånd efter fredet vilt som nevnt i § 29, kan hundens eier eller ansvarlige besidder – uansett enten hunden optas eller ikke – ilegges boter.​1\nBøtene bortfaller, hvis hunden nedskydes, eller hvis dens eier straks lar den drepe.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se strl. § 27. Jfr. strl. ikrl. § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "5:44",
+      "chapter": "5",
+      "section": "44",
+      "content": "I. Kongen​1 kan for fylke eller for flere herreder som grenser til hverandre eller for øi, efter forutgående uttalelse fra vedkommende fylkesting, for inntil fem år om gangen, bestemme:\n1. Fredning av enkelte viltsorter det hele år.\n2. Innskrenkning av jakttiden for enkelte viltsorter.​2\n3. Forbud mot anvendelse av visse jaktvåben samt jakt- eller fangstmåter, som anses særlig skadelig for viltbestanden eller grusom for viltet.\nFredning av hjort eller villrein eller innskrenkning av jakttiden for disse to viltsorter kan dog uten hensyn til fylkes- eller herredsgrenser gjøres gjeldende for naturlig avgrenset strekning.\nII. Kongen kan derhos\n1. utferdige særskilte bestemmelser for retten til å drive jakt på firføttet vilt, der holdes i dyrehave eller innhegnet park, samt på harer som opholder sig på ei, hvor enkeltmann har jaktretten,\n2. utferdige midlertidige fredningsbestemmelser for dyr, som ikke er omhandlet i nærværende lov,\n3. meddele tillatelse til, at der i videnskapelig øiemed innsamles egg og felles og fanges enkelte stykker fredet vilt i fredningstiden, samt i samme øiemed gi sådan tillatelse i statens skoger, i statens almenninger og fjellstrekninger samt i de i § 8 omhandlede strekninger,\n4. frede enkelte viltsorter i det hele land eller deler derav for kortere eller lengere tid,\n5. treffe bestemmelse om de skytevåben og den ammunisjon som det skal være forbudt å anvende mider jakt.\nVed anvendelse av langtrekkende rifle​3 på elg-, hjort- og rovdyr jakt kommer bestemmelsen om projektilets tyngde ikke til anvendelse, medmindre Kongen anderleds bestemmer.\n0 Endret ved lover 15 aug. 1908 nr. 10, 14 mars 1924 nr. 2, 3 mars 1932 nr. 2.\n1 Landbruksdepartementet (res. 25 sept. 1931).\n2 Se § 13.\n3 Jfr. lov 11 juni 1898 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "5:45",
+      "chapter": "5",
+      "section": "45",
+      "content": "Hvor ifølge en særskilt kongelig Resolution eller dermed ligestillet Beslutning en bestemt Vildtsort er fredet det hele Aar, eller hvor der maatte være udstedt Forbud mod Fangst af Vildt eller mod Benyttelsen af visse Fangstredskaber eller Fangstmaader, som ikke er forbudt i nærværende Lov, skal det have sit Forblivende med de særskilte Bestemmelser indtil Udgangen af det i Resolutionen satte Tidsrum.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "5:46",
+      "chapter": "5",
+      "section": "46",
+      "content": "Foruden det almindelige Politi fungerer de offentlig ansatte Skogfunktionærer som Jagtpoliti, hver inden sit Distrikt.\nJfr. lov 12 mars 1920 nr. 5 § 46.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "5:47",
+      "chapter": "5",
+      "section": "47",
+      "content": "Nærværende Lov træder i Kraft 1ste Juli 1900.\nFra Lovens Ikrafttræden ophæves følgende Bestemmelser: ---",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Med de Indskrænkninger, som indeholdes i nærværende Lov, er Grundeieren eneberettiget til al Jagt og Fangst paa sin Eiendom.\nJfr. § 38 og strl. § 407.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Overlader Grundeieren nogen anden sin Eiendom til Brug, skal Jagtretten, hvor intet andet er aftalt, tilkomme Brugeren.​1 Forbeholder Grundeieren sig Jagtretten, skal saadant Forbehold ikke kunne omfatte Brugerens Aker og Eng.\nJagtretten kan ikke for bestandig skilles fra Eiendomsretten til Grunden.​2 Bortforpagtes Jagtret, maa Forpagtningstiden ikke overskride ti Aar. Den samme Tidsindskrænkning skal gjælde, om Jagtretten fraskilles Eiendomsretten til Grunden paa anden Maade end ved Bortforpagtning. Dog skal det i Medhold af nærværende Paragrafs første Passus være tilladt at fæste Jagtret paa længere Tid end ti Aar, naar denne Ret følger Brugsretten til vedkommende Eiendom.\nTil Fremleie af Jagtret kræves Grundeierens Samtykke. Eier af Jagtret, som overdrager Jagtens Udøvelse til andre end Grundens Bruger, er ansvarlig ligeoverfor denne for Skade, som ved Jagten tilføies Brugerens Eiendom.\nHvad der i nærværende Paragraf er bestemt angaaende Jagtretten skal ogsaa gjælde Retten til at drive Fangst af Vildt.\n1 Jfr. N.L. 3-14-27, lover 14 mars 1930 § 5 og 16 juni 1939 nr. 7 § 18.\n2 Jfr. lov 20 aug. 1915 nr. 11 § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "I sameiestrekninger tilkommer retten til jakt og fangst samtlige dem, der har eiendoms- eller bruksrett til skog, havnegang, slått eller grunn i sameiet.\nEnhver, der efter foregående passus har rett til jakt og fangst i sameiet, kan med en måneds skriftlig eller vidnefast varsel sammenkalle de øvrige likeledes jaktberettigede til et møte til valg av et styre på inntil fem mann, hvem forvaltningen av jakt og fangst i sameiet overdras efter regler, som utarbeides av styret og godkjennes av fylkesmannen efter først å ha vært de jaktberettigede i sameiet forelagt til uttalelse.​1\nDenne bestemmelse finner tilsvarende anvendelse, hvor jaktretten tilligger flere eiendommer i fellesskap.\nReglene skal være gjeldende for fem år om gangen.\nHar jakt- og fangstberettiget loddeier overlatt nogen annen sin eiendom til bruk, trer brukeren, hvor intet annet er avtalt, overensstemmende med § 2 i loddeierens sted. Husmann, som har feste på plass, tilliggende en av de eiendommer, som har lodd i sameiet, skal, når intet annet er avtalt, i sameiestrekningen ha rett til jakt og fangst efter alt vilt, undtatt elg, hjort og villrein.\nHvor jaktregler ikke er istandbragt overensstemmende med 2net avsnitt i denne paragraf, kan jakt i et sameie kun utøves av én person om gangen for hver som har rett til jakt.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Jfr. lov 22 juni 1928 nr. 25 § 57 post 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "I Privatalmenninger​1 tilkommer Retten til Jagt​2 og Fangst Almenningens Eier. Har Almenningen flere Eiere, forholdes efter Reglerne i § 3. Indvaanere af det Distrikt, som har Brugsret i privat Almenning, skal dog der have Adgang til at drive Jagt uden Hund efter alt Vildt undtagen Elg, Hjort og Vildren.\n1 Se lov 22 juni 1803 kap. 3.\n2 Jfr. § 5, 2net ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "I bygdealmenning​1 skal enhver beboer på de eiendommer, som har bruksrett i almenningen, ha adgang til jakt og fangst – jakt efter elg, hjort og villrein derfra undtatt.\nJaktretten forvaltes av almenningsstyret efter regler som utarbeides av dette og godkjennes av Kongen. Minst fire uker for almenningsstyrets utkast til regler innsendes til godkjennelse, skal det være utlagt til eftersyn på et for distriktet bekvemt sted, efterat bekjentgjørelse derom er utferdiget på den for distriktet sedvanlige måte. Inntekt ved bortleie av jaktrett inngår i almenningskassen.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se lov 22 juni 1863 kap. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "I ikke særskilt matrikulerte statsskoger skal – forsåvidt ikke lov av 12 mars 1920 om utnyttelse av rettigheter til beite, fiske, jakt og fangst m.v. i statens almenninger kommer til anvendelse​1 – jakt og fangst være fri for enhver norsk borger​2 mot løsning av jaktkort.​3 Dog skal utenbygdsboende der ikke er grunneier i det eller de herreder hvori statsskogen ligger,​4 herfor erlegge forskuddsvis en årlig avgift som bestemmes av Kongen. Denne avgift må for jakt med hund ikke være høiere enn tyve kroner og for jakt uten hund samt for anbringelse av fangstinnretninger ikke høiere enn to kroner.\nHerfra undtas jakten på elg, hjort og villrein. Hvorledes der med denne jakt skal forholdes, bestemmes av Kongen.\nJaktkort lyder på navn og gjelder for kalenderåret. Det utstedes av lensmannen. Jaktkortet skal medføres og innen jaktområdet forevises når som helst det av noen forlanges.​5 Av den innkomne avgift inngår en halvpart i statskassen og en halvpart i vedkommende kommunekasse. Inntekt ved bortleie av jakt efter storvilt fordeles i på samme måte.\nOffentlig ansatte skogfunksjonærer skal innen sitt distrikt være fritatt for å erlegge den her omhandlede avgift.\n0 Endret ved lover 12 mars 1920 nr. 3 og 3 mars 1932 nr. 2. Jfr. lover 18 juli 1919 nr. 7 § 71 og 12 mai 1933 nr. 3 § 38.\n1 Se nevnte lovs kap. IX.\n2 Se lov 8 des. 1950 nr. 3.\n3 Jfr. § 12.\n4 Jfr. lov 29 mai 1901 nr. 6 § 1.\n5 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "For fjellstrekninger, som ikke er i privat eie og ikke omfattes av bestemmelsene i lov av 12 mars 1920 om utnyttelse av rettigheter til beite, fiske, jakt og fangst m. v. i statens almenninger, skal de samme regler gjelde som i foregående paragraf bestemt.\nJaktkortet utstedes av lensmannen og gjelder for de nevnte strekninger.\n0 Endret ved lover 12 mars 1920 nr. 3 og 3 mars 1932 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "content": "I særskilt matrikulerede Statsskoge og paa anden Grund, som er Statens private Eiendom, har Staten med Hensyn til Jagt og Fangst en Grundeiers Ret. Dog skal enhver, som har Havne- eller Hugstret i Statsskog, som ikke er Embedsgaardsskog, have Ret til der at drive Jagt uden Hund efter alt Vildt undtagen Elg, Hjort og Vildren mod hos vedkommende Skogforvalter at løse et Jagtkort, som betales med Kr. 2,00. Hvad forøvrigt Jagtkortets Udstedelse samt Fremvisningspligt angaar, henvises til Reglerne i § 6.​1 Forøvrigt bestemmes Reglerne for Udøvelse af Jagt og Fangst af Kongen eller den, han dertil bemyndiger,​2 efterat vedkommende Kommunestyrers Udtalelse er indhentet.\nPaa Statens Jord i Finmarken​3 er Jagt og Fangst fri for enhver norsk Borger.​4\n1 Se § 32.\n2 Landbruksdepartementet (res. 17 juni 1899).\n3 Jfr. lov 22 mai 1002 nr. 7.\n4 Se lov 8 aug. 1924 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "content": "På elv og innsjø går grunneierens rett til jakt og fangst så langt som hans eiendomsrett. Grunneierens rett til jakt og fangst går mot hav og fjord så langt som landet ligger tørt. Utenfor denne grense samt på grunner og skjær, som ved almindelig høivanne er overskylt og ikke som kobbeveide tilligger en eiendom, er jakt og fangst fri for enhver norsk borger.​2\nAngående hvorledes det med fredlyst egg- og dunvær skal forholdes, henvises til §§ 15 og 28.\nEier av vei med tilbehør har ikke jaktrett på denne, medmindre han også eier tilstøtende grunn.\nDen som eier grunnen på begge sider av en vei, har jaktretten på denne, selv om han ikke eier veien.\nPå vei, som danner grense mellem grunn, der tilhører forskjellige eiere, men uten at noen av disse eier veien, har hver av grunneierne jaktrett.\nNærværende paragrafs bestemmelser om jaktrett på vei gjelder også for jernvei, rørgate, gate for kraftledninger og lignende anlegg. Dog må skudd ikke løses på offentlig vei eller jernvei. Heller ikke fra motordrevet kjøretøi.​3\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Jfr. lov 15 mars 1940 nr. 3 kap. 1.\n2 Se lov 8 des. 1950 nr. 3.\n3 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "content": "Uten tillatelse må ingen drive vilt bort fra annens eiendom.​1\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "1:11",
+      "chapter": "1",
+      "section": "11",
+      "content": "Den som på lovlig grunn for hund reiser elg, hare eller rovdyr eller sårer hjort, rådyr eller villrein, er berettiget til å forfølge, drepe og tilegne sig dyret på grunn, hvor en annen enn jegeren har jaktretten. Sådan forfølgelsesrett ophører ved utgangen av den dag da viltet er kommet inn på annen manns grunn. Forat et dyr skal være lovlig reist, må man enten ha sett dyret, eller hunden må ha hatt los på samme. Bevisbyrden for lovlig forfølgning påhviler jegeren.\nGrunneieren mister ikke sin rett til å jage eller fange vilt, som i kraft av denne paragraf forfølges på hans grunn, medmindre det forfulgte vilt allerede er såret eller står for eller forfølges av halsende hund. Grunneieren kan ikke erhverve forfølgelsesrett til vilt, som lovlig forfølges på hans grunn, så lenge den først erhvervede forfølgelsesrett ikke er ophørt.\nUnder jakt som i denne paragraf omhandlet må ikke skudd løses på annen manns gårdstun eller i hans have.​1\nSkade på annen manns eiendom, foranlediget ved sådan jakt som i denne paragraf omhandlet, erstattes av jegeren. Erstatningens størrelse bestemmes i mangel av mindelig overenskomst ved skjønn som styres av lensmannen, og hvortil varsel gis således som for varsel til forliksrådet bestemt.​2\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se § 32.\n2 Se rettergangsl. § 277.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "1:12",
+      "chapter": "1",
+      "section": "12",
+      "content": "Utlending som her i riket utenfor sin egen eiendom vil drive jakt eller fangst, skal erlegge en årlig avgift til statskassen, stor ett hundre kroner, dog kun femti kroner såfremt han kun skal drive jakt eller fangst inntil tre dager årlig, og såfremt han er svensk statsborger kun fem kroner for hver enkelt dag han skal drive jakt eller fangst. Enhver utlending har enten selv eller ved fullmektig å avgi en skriftlig erklæring til den offentlige tjenestemann, hos hvem han erlegger avgiften, om hvor lang tid han akter å drive jakt eller fangst. Erleggelsen av sådan avgift som omhandlet i denne paragraf gir dog ikke rett til å drive den jakt eller fangst, som er fri for norske borgere.​1 Det bestemmes av Kongen til hvilken offentlig tjenestemann avgiften skal erlegges.\nIngen må tilstede utlending å drive jakt eller fangst, uten at utlendingen kan fremvise kvittering for betalt avgift. Den, som tilsteder utlending å drive jakt eller fangst, skal innen tre dager melde dette til lensmannen, i byene politiet, med opgivende av utlendingens navn, av jaktrettens beskaffenhet og varighet samt stedet hvor den skal utøves, ledsaget av bevidnelse for, at utlendingen er i besiddelse av kvittering som foran nevnt.\nDenne kvittering samt skriftlig bevis for erhvervet jakt tillatelse er utlendingen pliktig å forevise, når som helst han dertil opfordres.​2\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se §§ 6-9.\n2 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "content": "Efternevnte viltsorter må ikke jages, drepes eller skades​1 utenfor følgende jakttider:​2\nI jakttiden medregnes begge de her nevnte dager.\n0 Endret ved lover 14 mai 1902 nr. 2, 3 mars 1932 nr. 2, 12 mars 1937 nr. 1.\n1 Jfr. § 16.\n2 Se § 32.\n3 Jfr. § 44, I, 2net ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "content": "Rådyr, dådyr, bever, svaner, rapphøns og fasaner samt alle ugler, undtatt hubro og sneugle, skal være fredet det hele år.​1\nI park eller på øi, hvor der drives fasaneri, kan dog dettes eier, eller de han gir tillatelse, jage fasaner uhindret av denne bestemmelse.\nKongen kan tillate, at rådyr, rapphøns og fasaner skytes i et nærmere fastsatt tidsrum om høsten.\nLikeledes kan Kongen tillate jakt på bever i et nærmere fastsatt tidsrum om høsten. Fangst er forbudt, likeledes ødeleggelse eller forstyrrelse av beverboliger.\nVedkommende regjeringsdepartement​2 kan, uavhengig av jakttiden, tillate fangst av uskadd bever eller rådyr for å overføres levende til andre distrikter eller til utlandet. For bevers vedkommende kan sådan tillatelse også gis til opdrett i fangenskap som pelsdyr.\nI dyrepark og på øi, som er helt i privat eie, kan dådyr og rådyr felles, uansett bestemmelsene i denne paragraf. Avhendelse eller utførsel av skinn av norsk bever skal være forbudt medmindre departementets​2 tillatelse dertil foreligger.\n0 Endret ved lover 14 mai 1902 nr. 2, 9 aug. 1918 nr. 1, 3 mars 1932 nr. 2.\n1 Se § 32.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "content": "På fredlyst egg- og dunvær og 1,5 km. på sjøen ut fra samme skal erfugl – herunder spitsbergen-erfugl og ekonge – være fredet det hele år.​1\nI tiden fra og med 1 april til og med 14 august skal det være forbudt, uten eierens eller besidderens tillatelse, å drive jakt og fangst eller løse skudd på været og på sjøen i nevnte avstand.​1\nVedkommende fylkesmann kan meddele tillatelse til, at fredlysning inntil videre av egg- og dunvær finner sted, når kommunestyrets og fylkestingets anbefaling foreligger.\nFredlysningen må minst en måned før sin ikrafttreden være bekjentgjort i Norsk Kunngjørelsestidende.​2 Fredlyst egg- og dunvær må betegnes ved tydelige merker på sådan måte, som vedkommende regjeringsdepartement​3 bestemmer. Hvor fredlysning av egg- og dunvær er foregått før denne lovs ikrafttreden, skjer der ved denne lovs bestemmelse ingen innskrenkning i disse værs rettigheter.\n0 Endret ved lover 3 mars 1932 nr. 2, 7 juni 1935 nr. 2 § 41, 12 mars 1937 nr. 1.\n1 Se § 32.\n2 Se lov 11 okt. 1946 nr. 1.\n3 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "2:16",
+      "chapter": "2",
+      "section": "16",
+      "content": "Bruk av fangstinnretninger for tiur, røi, årfugl, jerpe, ryper og hare skal være forbudt.​1 Dog kan snarer brukes til fangst av hare og ryper fra og med 15 oktober og til utgangen av den for disse dyr lovlige jakttid. Kongen kan likeledes for et fylke eller deler av fylke efter forutgående uttalelse av vedkommende fylkesting bestemme at snarer kan brukes til fangst også av tiur, røi, årfugl og jerpe fra og med 15 oktober til utgangen av den for ryper lovlige jakttid. Alle snarer skal være fjernet innen fangsttidens utløp.​2 Likeledes skal det til enhver tid være tillatt å felle eller fange hare, når den gjør skade i have eller på frukttrær.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "2:17",
+      "chapter": "2",
+      "section": "17",
+      "content": "Alle fugler som ikke foran er nevnt, skal være fredet for jakt og fangst fra og med 15 mars til og med 14 august.​1 Herfra undtas dog dagrovfuglene, hubro, sneugle, fiskeheire, ravn, kråker, kaje, skjære, nøtteskrike, dompap, korsnebber, varslere, vendehals (sågauk), gråspurv, troster, fiskeender, måker (undtatt lattermåken), terner, tyvjoer, lommer, alker, lundefugler, teist, skarver og gaul. Dog skal det til enhver tid være tillatt å felle de efter nærværende paragraf fredede fugler, når de gjør skade på eller i hus, i have, på aker eller frukttrær.\n0 Endret ved lover 14 mai 1902 nr. 2, 15 aug. 1908 nr. 10, 3 mars 1932 nr. 2.\n1 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "2:18",
+      "chapter": "2",
+      "section": "18",
+      "content": "Av elg og hjort kan der på hver særskilt matrikulert eiendom kun felles ett dyr årlig.​2 For eier av større sammenhengende skogstrekninger, der kun utgjør ett bruksnummer, for bygdealmenninger, privatalmenninger og sameier kan Kongen eller den, han dertil bemyndiger,​3 for inntil fem år ad gangen gi tillatelse til å felle flere dyr årlig. Når flere sammenstøtende eiendommer slåes sammen til ett jaktterreng, kan Kongen for inntil fem år ad gangen gi tillatelse til, at der på dette terreng uten hensyn til de forskjellige eiendommers grenser årlig felles et antall dyr, der likeledes bestemmes av ham.\nLos, på drevet halsende hund må ikke benyttes på elgjakt.​2\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Jfr. § 20.\n2 Se § 32.\n3 Landbruksdepartementet (res. 8 janr. 1925).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "2:19",
+      "chapter": "2",
+      "section": "19",
+      "content": "For villrein fastsetter Kongen, eller den han dertil bemyndiger, jakttiden ens for det hele land og treffer de nærmere bestemmelser om utøvelsen av jakt efter dette vilt, herunder bl.a. fastsettelse av de områder, innen hvilke reinjakt skal kunne begå, og fastsettelse av det antall dyr, som skal kunne felles på et nærmere bestemt areal.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Jfr. § 44, I, 2net ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "2:20",
+      "chapter": "2",
+      "section": "20",
+      "content": "Hvor elg årligårs gjør betydelig skade på skog, kan vedkommende grunneiere eller brukere av Kongen få tillatelse til i den lovlige jakttid å felle flere elger enn efter de almindelige bestemmelser som er truffet i medhold av § 18.\nI strøk hvor hjort årligårs gjør betydelig skade på skog, dyrket eng, aker, avling eller i have, kan Kongen tillate utvidet jakttid. Før sådan tillatelse gis, bør der foreligge uttalelse fra herredstyre, fylkesskogselskap og fylkesutvalg. Andragende om tillatelse som foran omhandlet innsendes til herredstyrene. Forsåvidt tillatelsen inneholder bestemmelse om at der kan felles flere dyr enn ordinært, tilfaller verdien av det overskytende antall dyr kommunekassen.\n0 Endret ved lover 15 aug. 1908 nr. 10, 3 mars 1932 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "2:21",
+      "chapter": "2",
+      "section": "21",
+      "content": "Bruker av fast eiendom skal være berettiget til så vel i som utenfor jakttiden å felle hjort, dog ikke kalver, på sin dyrkede jord, når disse dyr beskadiger hans have, aker, eng eller plantede trær.\nInnen 2 døgn efter at sådan hjort er felt, skal anmeldelse herom skje til distriktets lensmann – i byene politiet – ledsaget av erklæring fra to uinteresserte, i utvalget stående skjønnsmenn​1 om, at skaden har vært av sådan betydning, at dyret burde felles.​2\nHjort, som bruker av fast eiendom har felt i medhold av denne paragraf, eller i tilfelle dyrets verdi, tilfaller kommunen, som efter skjønn godtgjør den påviselige skade, dog ikke utover det felte dyrs verdi.\nBenyttelse av denne rett til å felle skadedyr medfører ingen innskrenkning i den grunneieren i sin almindelighet tilkommende jaktrett.\nBrukeren plikter å underrette ordføreren om fellelsen og så vidt mulig dra omsorg for at dyret ikke tar skade.​2\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se domstolsl. § 79.\n2 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "2:22",
+      "chapter": "2",
+      "section": "22",
+      "content": "Det skal være forbudt å benytte følgende fangstmåter eller fangstredskaper:\nFangstinnretninger av enhver art for bjørn, elg, hjort og villrein, dyregrav, bås og tane, bundne redskaper – herunder dog ikke håv som anvendes til fangst av skogfugl i sneen –, alle slags fiskeredskaper for fugl, fotsaks og gift for alt vilt. Dog er det tillatt å benytte fosformos for utryddelse av kråke.\nKongen kan efter forutgående uttalelse fra fylkestinget for fylket eller deler derav bestemme at gift skal kunne anvendes til fangst av rovdyr.\nJaktmåter, som fordrer anvendelse av ildslys eller annet kunstig lys, er ikke tillatt.\nSvømmende elg, hjort, rådyr, dådyr og villrein må ikke anfalles, fanges eller drepes, undtagen når dyret som såret forfølges.​1\n0 Endret ved lover 14 mai 1902 nr. 2, 15 aug. 1908 nr. 10, 3 mars 1932 nr. 2.\n1 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "2:23",
+      "chapter": "2",
+      "section": "23",
+      "content": "Utleggelse av selvskudd er forbudt.​1\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "2:24",
+      "chapter": "2",
+      "section": "24",
+      "content": "Den som vil benytte fangstredskap, der av vedkommende kommunestyre erklæres for å være av farlig beskaffenhet, er forpliktet til​1\n1. å anmelde det for lensmannen – i byene politiet,\n2. å skaffe erklæring fra to av lensmannen – politiet – opnevnte, i utvalget stående, skjønnsmenn​2 om, at der iakttas sådanne forsiktighetsregler, at fangstinnretningen ikke antas å kunne medføre fare for mennesker eller bufe,\n3. å la bekjentgjøre, enten ved opslag eller ved offentliggjørelse i egnens mest utbredte tidender eller på annen hensiktsmessig måte, der av lensmannen – politiet – i hvert tilfelle godkjennes som tilfredsstillende:\na. stedet, hvor fangstinnretningen er anbragt, så nøiaktig betegnet som mulig,\nb. fangstinnretningens beskaffenhet og\nc. den av skjønnsmennene derom avgitte erklæring.\nDerhos har han, forsåvidt det av lensmannen – politiet – forlanges,\n4. å betegne stedet ved anbringelse av merketavle.\nBenyttes fangstmidlene i lengre tid, skal anmeldelsen og – forsåvidt dertil er anledning – bekjentgjørelsen gjentas hver måned. Når de ikke mere benyttes, skal de borttas eller tilintetgjøres, så at mennesker eller bufe ikke utsettes for å komme til skade.\nDen som vil benytte andre fangstmidler enn dem, hvorom kommunestyrets erklæring er avgitt, har, hvis disse innretninger er av en hittil innen kommunen ukjent beskaffenhet, å anmelde dette for lensmannen – i byene politiet – der, hvis han anser fangst innretningen farlig, kan forby dens anvendelse, inntil kommunestyrets erklæring er avgitt.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se § 32.\n2 Se domstolsl. § 79.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "2:25",
+      "chapter": "2",
+      "section": "25",
+      "content": "Gift må ikke utlegges uten vedkommende brukers og havneberettigedes samtykke og ikke nærmere naboeiendom enn 150 m., medmindre brukerens samtykke er innhentet. Under ingen omstendighet må gift utlegges nærmere enn 150 m. fra vei, som er åpen for almindelig ferdsel.​2\nDen som akter å utlegge gift, har skriftlig å anmelde dette til lensmannen – i byene politiet.​2 Anmeldelsen skal inneholde nøiaktig angivelse av stedet, hvor giften aktes utlagt, samt, forsåvidt utleggelsen skal skje på annen manns eiendom eller på sted, hvor andre enn anmelderen har beiterett, være ledsaget av skriftlig erklæring fra vedkommende eier, bruker eller havneberettigede om, at disse har gitt anmeldere tillatelse til å utlegge gift på det angitte sted.\nGift må ikke utlegges, før den av lensmannen – politiet – skriftlig godtatte anmeldelse er bekjentgjort på den kunngjørelsesmåte, som er sedvanlig i kommunen.​1 Sådan bekjentgjørelse må gjentas hver måned, så lenge giften ligger ute. Tillatelse til å utlegg gift gjelder hver gang kun for et tidsrum av seks måneder.\nKommunestyret kan gi nærmere bestemmelser angående utleggelse av gift innen kommunen.\nFylkestinget kan for vedkommende fylke eller deler derav forby enhver utleggets av gift.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "2:26",
+      "chapter": "2",
+      "section": "26",
+      "content": "Fra og med den sjette dag efter utløpet av de fastsatte jakttider for elg og hjort og inntil dagen efter at ny jakttid er inntrådt, skal det være forbudt​1 å avhende, falby, kjøpe eller motta kjøtt av de nevnte dyr, medmindre det før nevnte sjette dag er stemplet på sådan måte, som bestemmes av Kongen.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "2:27",
+      "chapter": "2",
+      "section": "27",
+      "content": "Alt Vildt, hvorfor der i denne Lov er fastsat Fredningstider, og som ikke er nævnt i foregaaende Paragraf, maa, hvad enten Vildtet er skudt eller fanget her i Riget eller indført, kun sælges, afhændes eller modtages fra og med Dagen efter, at Jagt- eller Fangsttiden for hver Vildtsort er indtraadt, og indtil Udløbet af samme, medmindre Vildtet er stemplet paa saadan Maade, som bestemmes af Kongen eller de han dertil bemyndiger.​2 Er Vildtet skudt eller fanget her i Riget, maa det være stemplet senest Dagen efter Udløbet af Jagttiden.\nDen, som begjærer Stempling udført, maa paa Forlangende godtgjøre, at Vildtet er fældet i den lovlige Jagt- og Fangsttid, eller at det er indført.\n0 Endret ved lov 14 mai 1902 nr. 2.\n1 Se § 32.\n2 Landbruksdepartementet (res. 17 juni 1899).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "2:28",
+      "chapter": "2",
+      "section": "28",
+      "content": "1. Det skal være forbudt på annen manns grunn å forstyrre fuglereder eller derfra å bortta egg eller dun.\n2. Grunneier må ikke bortta eller la bortta egg av de ifølge §§ 13, 14 og 17 fredede fugler. Dog skal det være tillatt eier eller bruker av fredlyst egg- og dunvær å samle egg dersteds av erfugl. Likeså skal det være grunneier, som har utsatt holker eller innrettet andre kunstige rugeplasser for ender eller erfugl, tillatt å bortta eller la bortta egg fra disse.\n3. På høifjellstrekninger, i almenninger og i ikke særskilt matrikulerte statsskoger og på statens grunn i Finnmark er det forbudt å forstyrre reder eller bortta egg av alle fugler, undtagen dem, som ifølge § 17 er undtatt fra den almindelige vårfredning. Dog har enhver norsk undersått​2 her sådan rett til å bortta andeegg og erfuglegg, som efter for anførte post 2 tilkommer en grunneier på egen grunn. Forbud mot å forstyrre reder skal ikke være til hinder for sådan benyttelse av skog eller mark som i øvrig er lovlig.\n4. Medeier i egg- og dunvær må ikke bortta egg eller dun derfra uten medeiers samtykke.\n5. Utenfor de i denne lov gjorte undtagelser skal det være forbudt å løse skudd på annen manns innmark uten grunneierens eller brukerens tillatelse.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se § 32.\n2 Se lov 8 des. 1950 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "2:29",
+      "chapter": "2",
+      "section": "29",
+      "content": "Hund som treffes jagende på egen hånd efter\na. elg, hjort, dådyr eller rådyr, eller\nb. andre ifølge denne lov fredede dyr eller fugler i den for disse gjeldende fredningstid, kan optas av hvem som helst.\nHund som i lovlig jakttid jager på egen hånd efter vilt, som er nevnt ovenfor under i litra b, kan optas av den til grunnen jaktberettigede eller på hans foranstaltning.​2\nI statsskoger, statsalmenninger eller fjellstrekninger som omhandles i denne lovs §§ 6 og 7 eller i lov av 12 mars 1920 om utnyttelse av rettigheter til beite, fiske, jakt og fangst m.v. i statens almenninger, tilligger optagningsretten jaktpolitiet og det almindelige politi.\nOptatt hund skal forsvarlig behandles og forpleies. Den blir snarest mulig å overlevere lensmannen – politiet – der med hensyn til dyret har å gå frem efter de i lov av 22 mai 1869 om visse slags hittet eller innsatt bufe foreskrevne regler.\nHundens eier godtgjør for bryderi og utlegg i anledning av foranstaltningen.\nHund som treffes jagende på egen hånd etter elg, hjort, rådyr eller dådyr i den for disse dyr fastsatte fredningstid, kan skytes av den til grunnen jaktberettigede og av hvem som helst i tiden 1 desember til 10 september.\nMeddelelse om at hund er skutt som anført, blir snarest mulig å tilstille stedets lensmann eller politi.​3\n0 Endret ved lover 3 mars 1932 nr. 2 og 3 des. 1948 nr. 9.\n1 Jfr. lov 9 juli 1926 nr. 4.\n2 Jfr. § 41.\n3 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "3:30",
+      "chapter": "3",
+      "section": "30",
+      "content": "Fylkestinget kan fastsette premie for ødeleggelse av fugler og dyr, som det finner skadelige. Det samme kan kommunestyret gjøre.\n0 Endret ved lover 15 aug. 1908 nr. 10, 3 mars 1932 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "3:31",
+      "chapter": "3",
+      "section": "31",
+      "content": "For at premie skal erholdes, føres huden av de drepte pattedyr eller, om det er fugl, det hele dyr med fjærklædning til vedkommende lensmann, eller til den i fylkesmannen dertil bemyndiger, som borttar midterste tå på høire fot av fugl og de to midterste klør på høire fot av pattedyr. For kråkers vedkommende er det tilstrekkelig at den, som vil erholde premie, medbringer begge ben av fuglen.\nForsåvidt dyret avleveres til Universitetet eller annen offentlig samling, utfordres ikke den her omhandlede borttagelse av klør, og attest fra vedkommende samlings bestyrer er da tilstrekkelig legitimasjon for premiens erholdelse.\nPremien utbetales av vedkommende lensmann, eller den fylkesmannen dertil bemyndiger, der attesterer​1 at dyret er felt eller fanget innen fylket. Er der grunn til å dra vedkommendes opgivende i tvil, skal nærmere legitimasjon i denne henseende forlanges, før premien utbetales. Premien bortfaller når dyret er ulovlig fanget eller felt. De til utredelsen fornødne summer utlignes på det fylke, innen hvis grenser dyret er felt.\nSåfremt premie utbetales av andre enn lensmannen – politiet –, kan fylkesmannen i tilstå vedkommende en godtgjørelse av inntil 10 pct. av hver premie han utbetaler. Denne godtgjørelse utredes av den, som har rett til å heve premien.\nBestemmelsene gjelder tilsvarende også for utbetaling av premie fastsatt av kommune, men premien utredes da av kommunekassen.\nDe i denne og foregående paragraf fastsatte bestemmelser gjelder også for byer, innen hvis eiendomsgrenser dyret er felt. Premien utbetales gjennem vedkommende politiembedsmann og utredes av kommunekassen.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se sportellov § 118.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "4:32",
+      "chapter": "4",
+      "section": "32",
+      "content": "Med bøter​1 straffes den som overtrer bestemmelsene i denne lovs §§ 6 og 8 om fremvisning av jaktkort, §§ 9 siste ledd, 10, 11 tredje ledd, 12-14, 15 første og annet ledd, 16-18, 21 annet og femte ledd, 22-24, 25 første–tredje ledd, 26-28, 29 siste ledd og 38 siste punktum.\nPå samme måte straffes den som overtrer regler, som er gitt i medhold av denne lov. Forsøk straffes like med fullbyrdet forseelse.​2\nGjenstander, herunder hunder, som har vært benyttet eller bestemt til å benyttes ved en efter nærværende lov straffbar handling, kan inndras uten hensyn til om de tilhorer nogen i den straffbare handling skyldig eller ikke.​3\nMed hensyn til bruk under jakt av langtrekkende rifle i strid med gjeldende bestemmelse​4 skal også forsøk være straffbart,​2 likesom inndragning så vel ved forsøkt som fullbyrdet forseelse kan finne sted på samme måte som i foregående ledd nevnt.​3\n0 Endret ved strl. ikrl. § 3 og lov 3 mars 1932 nr. 2.\n1 Se strl. § 27.\n2 Jfr. strl. § 49.\n3 Jfr. strl. § 34.\n4 Se lov 11 juni 1898 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "4:38",
+      "chapter": "4",
+      "section": "38",
+      "content": "Ulovlig felt eller fanget dyr eller dets verdi tilfaller grunneieren eller den, til hvem han har overdratt sin rett, såfremt han ikke selv har forøvet eller medvirket til forseelsen, i motsatt fall kommunekassen.​1\nEfter omstendighetene kan der tillike tilkjennes den fornærmede erstatning for forvoldt skade.\nForsåvidt elg uten hjemmel i nærværende lov er felt av eller under medvirkning av grunneieren eller den som innehar jaktretten, tilfaller dyret eller dets verdi fylkeskassen eller vedkommende bykasse.\nUlovlig felt eller fanget dyr, som i henhold til denne lov er fredet det hele år, eller dets verdi tilfaller fylkeskassen eller vedkommende bykasse.\nElg som bruker av fast eiendom har felt på eiendommen utenfor den lovlige jakttid, fordi dyret voldte skade, tilfaller kommunekassen, selv om handlingen i henhold til § 47 i den almindelige borgerlige straffelov ikke er å anse som ulovlig. Brukeren plikter straks å underrette lensmannen – i byene politiet – samt ordføreren om fellelsen og så vidt mulig å dra omsorg for at dyret ikke tar skade.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Jfr. strl §§ 36 og 37.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "4:41",
+      "chapter": "4",
+      "section": "41",
+      "content": "Når hund treffes jagende på egen hånd efter fredet vilt som nevnt i § 29, kan hundens eier eller ansvarlige besidder – uansett enten hunden optas eller ikke – ilegges boter.​1\nBøtene bortfaller, hvis hunden nedskydes, eller hvis dens eier straks lar den drepe.\n0 Endret ved lov 3 mars 1932 nr. 2.\n1 Se strl. § 27. Jfr. strl. ikrl. § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "5:44",
+      "chapter": "5",
+      "section": "44",
+      "content": "I. Kongen​1 kan for fylke eller for flere herreder som grenser til hverandre eller for øi, efter forutgående uttalelse fra vedkommende fylkesting, for inntil fem år om gangen, bestemme:\n1. Fredning av enkelte viltsorter det hele år.\n2. Innskrenkning av jakttiden for enkelte viltsorter.​2\n3. Forbud mot anvendelse av visse jaktvåben samt jakt- eller fangstmåter, som anses særlig skadelig for viltbestanden eller grusom for viltet.\nFredning av hjort eller villrein eller innskrenkning av jakttiden for disse to viltsorter kan dog uten hensyn til fylkes- eller herredsgrenser gjøres gjeldende for naturlig avgrenset strekning.\nII. Kongen kan derhos\n1. utferdige særskilte bestemmelser for retten til å drive jakt på firføttet vilt, der holdes i dyrehave eller innhegnet park, samt på harer som opholder sig på ei, hvor enkeltmann har jaktretten,\n2. utferdige midlertidige fredningsbestemmelser for dyr, som ikke er omhandlet i nærværende lov,\n3. meddele tillatelse til, at der i videnskapelig øiemed innsamles egg og felles og fanges enkelte stykker fredet vilt i fredningstiden, samt i samme øiemed gi sådan tillatelse i statens skoger, i statens almenninger og fjellstrekninger samt i de i § 8 omhandlede strekninger,\n4. frede enkelte viltsorter i det hele land eller deler derav for kortere eller lengere tid,\n5. treffe bestemmelse om de skytevåben og den ammunisjon som det skal være forbudt å anvende mider jakt.\nVed anvendelse av langtrekkende rifle​3 på elg-, hjort- og rovdyr jakt kommer bestemmelsen om projektilets tyngde ikke til anvendelse, medmindre Kongen anderleds bestemmer.\n0 Endret ved lover 15 aug. 1908 nr. 10, 14 mars 1924 nr. 2, 3 mars 1932 nr. 2.\n1 Landbruksdepartementet (res. 25 sept. 1931).\n2 Se § 13.\n3 Jfr. lov 11 juni 1898 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "5:45",
+      "chapter": "5",
+      "section": "45",
+      "content": "Hvor ifølge en særskilt kongelig Resolution eller dermed ligestillet Beslutning en bestemt Vildtsort er fredet det hele Aar, eller hvor der maatte være udstedt Forbud mod Fangst af Vildt eller mod Benyttelsen af visse Fangstredskaber eller Fangstmaader, som ikke er forbudt i nærværende Lov, skal det have sit Forblivende med de særskilte Bestemmelser indtil Udgangen af det i Resolutionen satte Tidsrum.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "5:46",
+      "chapter": "5",
+      "section": "46",
+      "content": "Foruden det almindelige Politi fungerer de offentlig ansatte Skogfunktionærer som Jagtpoliti, hver inden sit Distrikt.\nJfr. lov 12 mars 1920 nr. 5 § 46.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "5:47",
+      "chapter": "5",
+      "section": "47",
+      "content": "Nærværende Lov træder i Kraft 1ste Juli 1900.\nFra Lovens Ikrafttræden ophæves følgende Bestemmelser: ---",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1924-07-11-4",
+  "type": "statute",
+  "title": "Lov um namnebyte for byen Kristiania",
+  "short_name": "Lov um namnebyte for byen Kristiania",
+  "status": "in_force",
+  "issued_date": "1924-07-11",
+  "in_force_date": "1925-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1924-07-11-4",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Namnet paa den byen som no heiter Kristiania (Christiania), skal fraa 1 januar 1925 vera Oslo.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Fraa den tid denne lovi er utferda og til 1 januar 1926, maa ingen taka i bruk namnet Oslo i eit firma, naar han ikkje vilde havt rett til aa bruka namnet Kristiania (Christiania) i eit firma, som ellest lyder likt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lovi tek til aa gjelda straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Namnet paa den byen som no heiter Kristiania (Christiania), skal fraa 1 januar 1925 vera Oslo.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Fraa den tid denne lovi er utferda og til 1 januar 1926, maa ingen taka i bruk namnet Oslo i eit firma, naar han ikkje vilde havt rett til aa bruka namnet Kristiania (Christiania) i eit firma, som ellest lyder likt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lovi tek til aa gjelda straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1956-11-30-1",
+  "type": "statute",
+  "title": "Lov om skattlegging av personer på Jan Mayen.",
+  "short_name": "Jan Mayen-skatteloven.",
+  "status": "in_force",
+  "issued_date": "1956-11-30",
+  "in_force_date": "1956-11-30",
+  "url": "https://lovdata.no/dokument/NLO/lov/1956-11-30-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Enhver som oppholder seg på Jan Mayen, svarer skatt etter de regler som gjelder for personer som oppholder seg på Svalbard. Reglene i lov av 15. juli 1925 om skatt til Svalbard av formue og inntekt §§ 6-11 og 13-22 anvendes dog ikke.\n0 Endret ved lover 2 juni 1960 nr. 7, 8 juni 1984 nr. 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den skatt som etter § 1 skulle oppkreves til Svalbard, tilfaller den kommune der tjenestemannen etter reglene i skatteloven av 18 august 1911 er bosatt.​1 De vanlige regler om skatt til kommunen gjelder så langt de passer for skatt som nevnt i foregående punktum.​2\n0 Endret ved lov 4 juni 1976 nr. 48.\n1 Jfr. sktl. § 24.\n2 Jfr. lov 18 aug 1911 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Disse bestemmelser gjelder første gang ved beregning av skatt som skal svares av inntekt i 1957.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Enhver som oppholder seg på Jan Mayen, svarer skatt etter de regler som gjelder for personer som oppholder seg på Svalbard. Reglene i lov av 15. juli 1925 om skatt til Svalbard av formue og inntekt §§ 6-11 og 13-22 anvendes dog ikke.\n0 Endret ved lover 2 juni 1960 nr. 7, 8 juni 1984 nr. 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den skatt som etter § 1 skulle oppkreves til Svalbard, tilfaller den kommune der tjenestemannen etter reglene i skatteloven av 18 august 1911 er bosatt.​1 De vanlige regler om skatt til kommunen gjelder så langt de passer for skatt som nevnt i foregående punktum.​2\n0 Endret ved lov 4 juni 1976 nr. 48.\n1 Jfr. sktl. § 24.\n2 Jfr. lov 18 aug 1911 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Disse bestemmelser gjelder første gang ved beregning av skatt som skal svares av inntekt i 1957.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

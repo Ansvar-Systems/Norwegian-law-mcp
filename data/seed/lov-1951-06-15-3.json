@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1951-06-15-3",
+  "type": "statute",
+  "title": "Lov om inntektsligning av bonus ved åremåls tilsetting i forsvaret",
+  "short_name": "Lov om ligning av forsvarets åremålsbonus",
+  "status": "in_force",
+  "issued_date": "1951-06-15",
+  "in_force_date": "1951-06-15",
+  "url": "https://lovdata.no/dokument/NLO/lov/1951-06-15-3",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Bonus ved åremåls tilsetting i forsvaret blir ved inntektsligningen å fordele på de enkelte år i tjenestetiden. Fordelingen skjer forholdsmessig etter størrelsen av den godtgjørelse for det enkelte år, hvorav bonusen er beregnet.\nRettelsen av ligningen for tidligere år som følge av fordelingen blir i nødvendig utstrekning å foreta ved etterligning.​1\n1 Se lov 18 aug. 1911 nr. 8 § 122.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Bestemmelsene i denne lov får bare anvendelse når bonus utbetales i en sum ved tjenestens slutt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Bonus ved åremåls tilsetting i forsvaret blir ved inntektsligningen å fordele på de enkelte år i tjenestetiden. Fordelingen skjer forholdsmessig etter størrelsen av den godtgjørelse for det enkelte år, hvorav bonusen er beregnet.\nRettelsen av ligningen for tidligere år som følge av fordelingen blir i nødvendig utstrekning å foreta ved etterligning.​1\n1 Se lov 18 aug. 1911 nr. 8 § 122.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Bestemmelsene i denne lov får bare anvendelse når bonus utbetales i en sum ved tjenestens slutt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

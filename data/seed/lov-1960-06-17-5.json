@@ -1,0 +1,155 @@
+{
+  "id": "LOV-1960-06-17-5",
+  "type": "statute",
+  "title": "Lov om endringer i lovgivningen om offentlige fond m.v.",
+  "short_name": "Endringslov om offentlige fond m.v.",
+  "status": "in_force",
+  "issued_date": "1960-06-17",
+  "in_force_date": "1960-06-17",
+  "url": "https://lovdata.no/dokument/NLO/lov/1960-06-17-5",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Alle gjenværende militære og sivile embetsgårder med den skog som følger av lov indeholdende forbud mot at fraskille jordbruk den for bruket nødvendige skog og fjellstrækning av 20. august 1915, blir for fremtiden å anse og forvalte som statens umiddelbart tilhørende eiendommer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Til Opplysningsvesenets fond overføres Sjefsgårdsfondets kapitalfond, De sivile embetsgårdsfonds kapitalfond og ytterligere et beløp som svarer til omsetningsverdien av de sivile og militære embetsgårder som er lagt ut av det benefiserte gods eller innkjøpt for midler som skyldes salg av dette gods med fradrag av de beløp som går med til betaling av gjeld på eiendommene.\nOmsetningsverdien fastsettes til 10.184.800 kroner og dette beløp skaffes ved overføring av Sjefsgårdsfondets rentefond, Statsgodsfondet og midler fra fondet Salg av grunner tilhørende landmilitæretaten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "De til Opplysningsvesenets fond overførte midler nyttes til finansiering av skolebygg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Følgende fonds midler inndras til fordel for statskasen:\nFinnmark skogfond,\nKrigsskadefondet for mineraloljeprodukter,\nVårsildavgiftsfondet,\nLosfondet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Kraftforavgiftsfondets gjenværende midler overføres til Landbruksdepartementets lånefond.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Kongen gis adgang til å bestemme at Oslo auksjonsfonds midler i sin helhet anvendes til nytte og forskjønnelse for Oslo by.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Denne lov trer i kraft 1. juli 1960. Fra samme dag oppheves eller endres følgende lover m.v.:\n– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Alle gjenværende militære og sivile embetsgårder med den skog som følger av lov indeholdende forbud mot at fraskille jordbruk den for bruket nødvendige skog og fjellstrækning av 20. august 1915, blir for fremtiden å anse og forvalte som statens umiddelbart tilhørende eiendommer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Til Opplysningsvesenets fond overføres Sjefsgårdsfondets kapitalfond, De sivile embetsgårdsfonds kapitalfond og ytterligere et beløp som svarer til omsetningsverdien av de sivile og militære embetsgårder som er lagt ut av det benefiserte gods eller innkjøpt for midler som skyldes salg av dette gods med fradrag av de beløp som går med til betaling av gjeld på eiendommene.\nOmsetningsverdien fastsettes til 10.184.800 kroner og dette beløp skaffes ved overføring av Sjefsgårdsfondets rentefond, Statsgodsfondet og midler fra fondet Salg av grunner tilhørende landmilitæretaten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "De til Opplysningsvesenets fond overførte midler nyttes til finansiering av skolebygg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Følgende fonds midler inndras til fordel for statskasen:\nFinnmark skogfond,\nKrigsskadefondet for mineraloljeprodukter,\nVårsildavgiftsfondet,\nLosfondet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Kraftforavgiftsfondets gjenværende midler overføres til Landbruksdepartementets lånefond.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Kongen gis adgang til å bestemme at Oslo auksjonsfonds midler i sin helhet anvendes til nytte og forskjønnelse for Oslo by.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Denne lov trer i kraft 1. juli 1960. Fra samme dag oppheves eller endres følgende lover m.v.:\n– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    }
+  ]
+}

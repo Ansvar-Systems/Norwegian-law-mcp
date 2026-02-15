@@ -1,0 +1,55 @@
+{
+  "id": "LOV-2005-12-21-129",
+  "type": "statute",
+  "title": "Lov om oppløsning av stamhuset Ekeberg",
+  "short_name": "Lov om oppløsning av stamhuset Ekeberg",
+  "status": "in_force",
+  "issued_date": "2005-12-21",
+  "in_force_date": "2006-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2005-12-21-129",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "De eiendeler som tilhører stamhuset Ekeberg, skal gå over til å bli stamhusbesitterens frie eiendom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer.\n1 Fra 1 jan 2006 iflg. res. 21 des 2005 nr. 1607.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "De eiendeler som tilhører stamhuset Ekeberg, skal gå over til å bli stamhusbesitterens frie eiendom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer.\n1 Fra 1 jan 2006 iflg. res. 21 des 2005 nr. 1607.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

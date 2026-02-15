@@ -1,0 +1,1359 @@
+{
+  "id": "LOV-2004-03-05-12",
+  "type": "statute",
+  "title": "Lov om konkurranse mellom foretak og kontroll med foretakssammenslutninger (konkurranseloven)",
+  "short_name": "Konkurranseloven – krrl",
+  "status": "in_force",
+  "issued_date": "2004-03-05",
+  "in_force_date": "2004-05-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2004-03-05-12",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Lovens formål er å fremme konkurranse for derigjennom å bidra til effektiv bruk av samfunnets ressurser.\nVed anvendelse av denne lov skal det tas særlig hensyn til forbrukernes interesser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjon av foretak",
+      "content": "Med foretak menes i denne loven enhver enhet som utøver privat eller offentlig ervervsvirksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Generelle unntak fra loven",
+      "content": "Loven gjelder ikke for arbeids- og ansettelsesvilkår.\nKongen kan gi forskrift om unntak fra hele eller deler av denne loven for bestemte markeder eller næringer. Kongen i statsråd skal gi forskrift om unntak fra §§ 10, 11, 41 og 42 som er nødvendige for å gjennomføre landbruks- og fiskeripolitikken.\n0 Endret ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Forholdet til andre lover",
+      "content": "Dersom et forhold som faller inn under loven, også går inn under regulerings- og kontrollbestemmelser i andre lover, kan Kongen gi nærmere regler om den innbyrdes avgrensning av de forskjellige myndigheters virkeområde.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Lovens stedlige virkeområde",
+      "content": "Loven gjelder for vilkår, avtaler og handlinger som foretas, har virkning eller er egnet til å ha virkning her i riket.\nKongen kan ved forskrift bestemme at loven skal gjelde for vilkår, avtaler og handlinger som utelukkende har eller er egnet til å ha virkning utenfor riket.\nKongen kan ved forskrift bestemme i hvilken utstrekning loven skal gjelde for Svalbard.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "title": "Varighet av enkeltvedtak",
+      "content": "Enkeltvedtak etter denne loven skal normalt gjelde for et bestemt tidsrom. Enkeltvedtak skal normalt ikke gjelde mer enn fem år og aldri i mer enn ti år. Virkningstiden bør fremgå av vedtaket.\nRegelen i første ledd er ikke til hinder for at enkeltvedtak kan fornyes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "title": "Overlevering av taushetsbelagte opplysninger til fremmede staters konkurransemyndigheter og internasjonale organisasjoner",
+      "content": "For å oppfylle Norges folkerettslige avtaler med fremmed stat eller internasjonal organisasjon kan Konkurransetilsynet uten hinder av lovbestemt taushetsplikt gi konkurransemyndigheter i fremmede stater og internasjonale organisasjoner opplysninger som er nødvendige for å fremme norske eller vedkommende stats eller organisasjons konkurranseregler.\nVed utlevering av opplysninger etter første ledd skal Konkurransetilsynet stille som vilkår at opplysningene bare kan formidles videre med samtykke fra Konkurransetilsynet og bare for det formål som samtykket omfatter.\nAnnet ledd gjelder ikke ved utlevering av opplysninger som skjer på grunnlag av avtale mellom de nordiske landene om samarbeid i konkurransesaker.\nKongen kan gi forskrift om overlevering av opplysninger etter første til tredje ledd.\n0 Endret ved lov 14 juni 2019 nr. 23 (ikr. 1 juli 2019 iflg. res. 14 juni 2019 nr. 737).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Konkurransemyndighetenes organisasjon mv.",
+      "content": "Konkurransemyndighetene er Kongen, departementet, Konkurranseklagenemnda og Konkurransetilsynet.\nKonkurransetilsynet og Konkurranseklagenemnda er uavhengige forvaltningsorganer som er administrativt underordnet Kongen og departementet.\nKongen eller departementet kan ikke instruere Konkurransetilsynet eller Konkurranseklagenemnda om behandlingen av enkeltsaker. Kongen eller departementet kan heller ikke gi Konkurranseklagenemnda generelle instrukser om hvordan myndighet etter loven skal utøves. Kongen kan pålegge Konkurransetilsynet å ta en sak opp til behandling.\nKongen eller departementet kan ikke av eget tiltak omgjøre Konkurransetilsynets eller Konkurranseklagenemndas vedtak. Konkurranseklagenemnda kan ikke av eget tiltak omgjøre Konkurransetilsynets vedtak. Konkurranseklagenemnda kan omgjøre egne vedtak som må anses ugyldige.\nKongen kan gi nærmere bestemmelser om Konkurransetilsynets organisasjon og virksomhet.\n0 Endret ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Konkurransetilsynets oppgaver",
+      "content": "Konkurransetilsynet skal føre tilsyn med konkurransen i de forskjellige markeder, blant annet ved å\na. kontrollere at lovens forbud og påbud overholdes\nb. foreta nødvendige inngrep mot foretakssammenslutninger\nc. iverksette tiltak for å øke markedenes gjennomsiktighet\nd. håndheve EØS-avtalen artikkel 53 og 54\ne. påpeke konkurranseregulerende virkninger av offentlige tiltak, eventuelt ved å fremme forslag med sikte på å styrke konkurransen og lette adgangen for nye konkurrenter\nf. gjennomføre markedsetterforskning i samsvar med kapittel 9.\nKonkurransetilsynet plikter å veilede foretak vedrørende forståelse av denne lov, lovens rekkevidde og dens anvendelse i enkeltsaker.\n0 Endret ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Konkurransebegrensende avtaler mellom foretak",
+      "content": "Enhver avtale mellom foretak, enhver beslutning truffet av sammenslutninger av foretak og enhver form for samordnet opptreden som har til formål eller virkning å hindre, innskrenke eller vri konkurransen, er forbudt, særlig slike som består i\na. å fastsette på direkte eller indirekte måte innkjøps- eller utsalgspriser eller andre forretningsvilkår,\nb. å begrense eller kontrollere produksjon, avsetning, teknisk utvikling eller investeringer,\nc. å dele opp markeder eller forsyningskilder,\nd. å anvende overfor handelspartnere ulike vilkår for likeverdige ytelser og derved stille dem ugunstigere i konkurransen,\ne. å gjøre inngåelsen av kontrakter avhengig av at medkontrahentene godtar tilleggsytelser som etter sin art eller etter vanlig forretningspraksis ikke har noen sammenheng med kontraktsgjenstanden.\nAvtaler eller beslutninger som er forbudt i henhold til denne bestemmelse, skal ikke ha noen rettsvirkning.\nBestemmelsen i første ledd får ikke anvendelse på avtaler mellom foretak, beslutninger truffet av sammenslutninger av foretak og samordnet opptreden, som bidrar til å bedre produksjonen eller fordelingen av varene eller til å fremme den tekniske eller økonomiske utvikling, samtidig som de sikrer forbrukerne en rimelig andel av de fordeler som er oppnådd, og uten\na. å pålegge vedkommende foretak restriksjoner som ikke er absolutt nødvendige for å nå disse mål, eller\nb. å gi disse foretak mulighet til å utelukke konkurranse for en vesentlig del av de varer det gjelder.\nKongen kan ved forskrift fastsette regler for hva som skal gå inn under tredje ledd (gruppefritak). Konkurransetilsynet kan bestemme at et gruppefritak ikke skal være anvendelig overfor bestemte foretak i den utstrekning avtaler, beslutninger og samordnet opptreden har virkninger som ikke er forenlige med tredje ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Utilbørlig utnyttelse av dominerende stilling",
+      "content": "Et eller flere foretaks utilbørlige utnyttelse av sin dominerende stilling er forbudt.\nSlik utilbørlig utnyttelse kan særlig bestå i\na. å påtvinge, direkte eller indirekte, urimelige innkjøps- eller utsalgspriser eller andre urimelige forretningsvilkår,\nb. å begrense produksjon, avsetning eller teknisk utvikling til skade for forbrukerne,\nc. å anvende overfor handelspartnere ulike vilkår for likeverdige ytelser og derved stille dem ugunstigere i konkurransen,\nd. å gjøre inngåelsen av kontrakter avhengig av at medkontrahentene godtar tilleggsytelser som etter sin art eller etter vanlig forretningspraksis ikke har noen sammenheng med kontraktsgjenstanden.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Pålegg om å bringe en ulovlig atferd til opphør mv.",
+      "content": "Konkurransetilsynet kan pålegge foretak eller sammenslutninger av foretak som overtrer forbudene i § 10, § 11 eller i forskrift i medhold av § 14, å bringe overtredelsen til opphør. Pålegget kan omfatte ethvert tiltak som er nødvendig for å bringe overtredelsen til opphør. Strukturelle tiltak kan bare pålegges dersom det ikke finnes like effektive atferdsregulerende tiltak, eller dersom et atferdsregulerende tiltak vil være mer byrdefullt for foretaket.\nPålegg etter første ledd kan gis selv om Konkurransetilsynet vedtar overtredelsesgebyr mot foretaket etter § 29.\nDersom foretaket tilbyr avhjelpende tiltak i en sak som kan ende med et vedtak etter § 12 første ledd, kan Konkurransetilsynet avslutte saken ved et vedtak som gjør tiltakene bindende for foretaket. Vedtak etter første punktum kan fattes før Konkurransetilsynet har gjort en fullstendig vurdering av om inngrepsvilkåret i første ledd er oppfylt. Konkurransetilsynet skal i vedtaket gi en vurdering av foretakets atferd. Videre skal det vurderes om og begrunnes hvorfor de tilbudte tiltakene er egnet til og nødvendige for å avhjelpe de konkurransemessige problemene som Konkurransetilsynet har funnet. Vedtaket skal fastslå at Konkurransetilsynet ikke vil gå videre med saken etter første ledd eller § 29 dersom tiltakene gjennomføres. Konkurransetilsynet kan etter forslag fra foretakene oppnevne en forvalter til å bistå ved gjennomføringen av vedtak etter første punktum. Kongen kan i forskrift gi nærmere bestemmelser om forvalters stilling. Ved klage over vedtak etter dette ledd kan Konkurranseklagenemnda oppheve eller stadfeste Konkurransetilsynets vedtak.\nKonkurransetilsynet kan etter anmodning eller av eget tiltak omgjøre et vedtak etter tredje ledd dersom\na. faktiske forhold som var vesentlige for vedtaket, endrer seg,\nb. foretakene handler i strid med vedtaket, eller\nc. vedtaket bygger på ufullstendige, uriktige, eller villedende opplysninger fra foretakene.\nKonkurransetilsynet kan dersom det er\na. rimelig grunn til å anta at § 10, § 11 eller forskrift i medhold av § 14 er overtrådt, og\nb. fare for at konkurransen utsettes for varig og uopprettelig skade,\n0 Endret ved lover 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lover 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), opphevet ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Konkurransefremmende tiltak",
+      "content": "Dersom det er nødvendig for å fremme konkurransen i markedene, kan Kongen ved forskrift gripe inn mot vilkår, avtaler og handlinger som begrenser eller er egnet til å begrense konkurransen i strid med lovens formål.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Forholdet til EØS-avtalen",
+      "content": "Reglene i §§ 10 og 11 og i forskrifter etter § 14 gjelder med de begrensninger som følger av EØS-konkurranseloven § 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Inngrep mot foretakssammenslutninger mv.",
+      "content": "Konkurransetilsynet skal forby foretakssammenslutninger som i betydelig grad vil hindre effektiv konkurranse, særlig som et resultat av at en dominerende stilling skapes eller styrkes. Forbudet kan omfatte utfyllende bestemmelser som er nødvendige for at formålet med forbudet blir oppnådd.\nDersom Konkurransetilsynet finner at avhjelpende tiltak foreslått av melderne vil avbøte de konkurransebegrensende virkningene som foretakssammenslutningen kan føre til, skal tilsynet fatte vedtak om inngrep hvor foretakssammenlutningen tillates på disse vilkår. Konkurransetilsynet kan knytte forpliktelser til vedtaket for å sikre at vilkårene oppfylles.\nDersom en foretakssammenslutning er gjennomført, kan forbud etter første ledd omfatte påbud om avhendelse av aksjer eller andeler som er ervervet som ledd i foretakssammenslutningen, eller andre tiltak som er egnet til å gjenopprette den konkurransemessige situasjonen som forelå før foretakssammenslutningen ble gjennomført.\nKonkurransetilsynet kan oppnevne en forvalter til å bistå ved gjennomføringen av vedtak etter første ledd. Etter forslag fra melderne kan tilsynet oppnevne en forvalter til å bistå ved gjennomføringen av vedtak etter annet ledd. Forvalteren får sin godtgjørelse dekket av og kan inngå avtaler på vegne av dem som vedtaket retter seg mot. Kongen kan i forskrift gi nærmere bestemmelser om forvalters stilling.\nI den utstrekning opprettelsen av et fellesforetak som utgjør en foretakssammenslutning etter § 17, har til formål eller virkning å samordne fortsatt uavhengige foretaks konkurransemessige atferd, skal denne samordningen vurderes etter § 10 med sikte på å fastslå om det skal gripes inn mot foretakssammenslutningen.\n0 Endret ved lover 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:16 a",
+      "chapter": "4",
+      "section": "16 a",
+      "title": "Inngrep mot minoritetserverv",
+      "content": "Konkurransetilsynet skal forby erverv av andeler i et foretak selv om ervervet ikke fører til kontroll, dersom det i betydelig grad vil hindre effektiv konkurranse, særlig som et resultat av at en dominerende stilling skapes eller styrkes. Er ervervet gjennomført ved trinnvise oppkjøp, kan det gripes inn overfor de transaksjoner som har funnet sted innenfor en periode på to år regnet fra tidspunktet for det siste ervervet.\nVed inngrep etter første ledd gjelder bestemmelsene i § 16 annet til femte ledd tilsvarende.\n0 Tilføyd ved lov 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), endret ved lov 14 juni 2019 nr. 23 (ikr. 1 juli 2019 iflg. res. 14 juni 2019 nr. 737).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16a",
+        "source_heading": "§ 16 a."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Definisjon av foretakssammenslutning",
+      "content": "En foretakssammenslutning foreligger når\na. to eller flere tidligere uavhengige foretak eller deler av foretak fusjonerer, eller\nb.\n- en eller flere personer, som allerede kontrollerer minst ett foretak, eller\n- ett eller flere foretak\ndirekte eller indirekte, helt eller delvis, varig overtar kontrollen over ett eller flere andre foretak.\nNår det opprettes et fellesforetak som på varig grunnlag ivaretar alle funksjoner som hører inn under en uavhengig økonomisk enhet, foreligger en foretakssammenslutning i henhold til første ledd bokstav b.\nKontroll oppnås gjennom rettigheter, avtaler eller andre midler som enkeltvis eller sammen, de faktiske eller juridiske forhold tatt i betraktning, gir mulighet til å utøve avgjørende innflytelse over et foretaks virksomhet, særlig\na. eiendomsrett eller bruksrett til et foretaks samlede aktiva eller deler av dem,\nb. rettigheter eller avtaler som gir avgjørende innflytelse over et foretaks organer med hensyn til deres sammensetning, stemmegivning eller beslutninger.\nKontroll oppnås av personer eller foretak som\na. er innehavere av slike rettigheter eller har rettigheter i henhold til slike avtaler, eller\nb. uten å være innehavere av slike rettigheter eller å ha rettigheter i henhold til slike avtaler, kan utøve rettigheter som følger av dem.\nKongen kan gi nærmere forskrifter om hva som skal omfattes av første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Melding av foretakssammenslutninger mv.",
+      "content": "Partene i en fusjon etter § 17 første ledd bokstav a eller den eller de som samlet eller hver for seg varig overtar kontroll etter § 17 første ledd bokstav b, skal informere Konkurransetilsynet om foretakssammenslutningen ved en melding.\nMeldeplikten etter første ledd gjelder ikke\na. dersom de involverte foretakene har en samlet årlig omsetning i Norge under 1 milliard kroner, eller\nb. dersom bare ett av de involverte foretakene har en årlig omsetning i Norge over 100 millioner kroner.\nKonkurransetilsynet kan pålegge meldeplikt for foretakssammenslutninger som er unntatt fra meldeplikten etter annet ledd, dersom tilsynet finner rimelig grunn til å anta at konkurransen påvirkes, eller dersom særlige hensyn tilsier at tilsynet undersøker foretakssammenslutningen nærmere. Et slikt pålegg kan ikke gis senere enn tre måneder etter at endelig avtale er inngått eller kontroll er ervervet. Fristen løper fra det først inntrufne.\nDersom en foretakssammenslutning består i erverv av deler av ett eller flere foretak, enten de er selvstendige rettssubjekter eller ikke, skal det ved beregningen av omsetning etter annet ledd for selgers eller selgernes vedkommende bare tas hensyn til omsetningen for de deler som inngår i foretakssammenslutningen. Dersom det innenfor et tidsrom på to år gjennomføres to eller flere transaksjoner som nevnt i første punktum mellom de samme personer eller foretak, skal dette likevel betraktes som én og samme foretakssammenslutning, med virkning fra den dag den siste transaksjonen finner sted.\nKonkurransetilsynet kan pålegge melding for erverv av andeler i foretak som nevnt i § 16 a. Et slikt pålegg kan ikke gis senere enn 3 måneder etter endelig avtale om erverv av andeler.\nForetakssammenslutninger som er unntatt fra meldeplikten etter annet ledd, og erverv av andeler i foretak som nevnt i § 16 a, kan meldes frivillig til Konkurransetilsynet for å avklare om det er aktuelt med inngrep.\nMelding i henhold til første, tredje, femte og sjette ledd anses som mottatt først når kravene i § 18 b er oppfylt. Tilsvarende gjelder for forenklet melding i henhold til forskrift i medhold av § 18 a fjerde ledd.\nEn foretakssammenslutning som er omfattet av reglene om kontroll med foretakssammenslutninger i EØS-avtalen artikkel 57, er unntatt fra den alminnelige meldeplikten i første ledd.\nKongen kan gi forskrift om beregning av omsetning etter annet ledd, meldeplikt for foretakssammenslutninger som er unntatt fra meldeplikten etter annet ledd i næringer hvor særlige hensyn begrunner meldeplikt og om offentliggjøring av meldingene.\n0 Endret ved lover 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), 20 juni 2008 nr. 43 (ikr. 1 juli 2008 iflg. res. 20 juni 2008 nr. 630), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:18 a",
+      "chapter": "4",
+      "section": "18 a",
+      "title": "Hva meldingen skal inneholde",
+      "content": "Melding etter § 18 første ledd skal inneholde\na. kontaktinformasjon om partene i fusjonen eller den eller de som overtar kontroll,\nb. beskrivelse av foretakssammenslutningen,\nc. beskrivelse av de involverte foretakene og foretak i samme konsern,\nd. navn på de fem viktigste konkurrenter, kunder og leverandører i markeder i Norge, eller som Norge er en del av, hvor de involverte foretakene og foretak i samme konsern har horisontalt overlappende virksomhet,\ne. redegjørelse for horisontalt og vertikalt berørte markeder. Et marked er horisontalt berørt dersom minst to av partene er aktive på det samme produktmarkedet og partenes samlede markedsandel overstiger 20 prosent. Vertikalt berørte markeder er de markeder der en part opererer i et forutgående eller etterfølgende ledd til et marked hvor en annen part opererer og deres samlede markedsandel overstiger 30 prosent på hvert av de respektive markedene. Redegjørelsen skal inkludere en beskrivelse av markedsstrukturen i de berørte markedene, beskrivelse av de involverte foretakenes viktigste konkurrenter, kunder og leverandører i de berørte markedene, og beskrivelse av eventuelle etableringshindringer i de berørte markedene,\nf. en kortfattet beskrivelse av vertikalt overlappende markeder der en foretakssammenslutning er mellom en part som opererer i et forutgående eller etterfølgende ledd til et produktmarked hvor en annen part opererer, og partenes individuelle eller samlede markedsandel overstiger 30 prosent på minst ett av disse markedene. Beskrivelsen av disse markedene skal minst omfatte partenes tre viktigste konkurrenter, kunder og leverandører,\ng. redegjørelse for eventuelle effektivitetsgevinster,\nh. opplysninger om foretakssammenslutningen er underlagt tilsyn fra andre konkurransemyndigheter,\ni. seneste versjon av avtalen om foretakssammenslutning med vedlegg, og\nj. de involverte foretakenes siste årsberetning og årsregnskap.\nVed opprettelse av fellesforetak må meldingen også inneholde opplysninger om morselskapene fortsatt er virksomme på det samme markedet som fellesforetaket eller på et tidligere eller senere ledd i omsetningskjeden eller på et tilgrensende marked.\nKonkurransetilsynet kan i den enkelte sak lempe kravene til melding etter første ledd.\nKongen kan gi forskrift om nærmere krav til innhold i melding etter første ledd, herunder regler om forenklede meldinger som fraviker innholdskravet i første ledd.\n0 Tilføyd ved lov 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), endret ved lov 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18a",
+        "source_heading": "§ 18 a."
+      }
+    },
+    {
+      "provision_ref": "4:18 b",
+      "chapter": "4",
+      "section": "18 b",
+      "title": "Taushetsbelagte opplysninger",
+      "content": "Den som i behandlingen av en foretakssammenslutning, eller et minoritetserverv, gir opplysninger underlagt lovbestemt taushetsplikt til konkurransemyndighetene i henhold til § 18 og § 24 første ledd, eller i forslag til avhjelpende tiltak etter § 16 annet ledd, skal klart angi eller merke slike opplysninger og begrunne sin oppfatning. Avgiver skal samtidig fremlegge forslag til offentlig versjon. Dersom første punktum ikke er oppfylt, kan konkurransemyndighetene legge til grunn at avsender ikke motsetter seg at det gis innsyn i opplysningene.\nKongen kan gi forskrift om offentlige versjoner og begrunnelsesplikten som nevnt i første ledd.\n0 Tilføyd ved lov 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18b",
+        "source_heading": "§ 18 b."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Gjennomføringsforbud",
+      "content": "Foretakssammenslutninger som omfattes av reglene i § 18 første ledd, må ikke gjennomføres før Konkurransetilsynet har avsluttet behandlingen av saken. Det samme gjelder dersom Konkurransetilsynet har gitt pålegg om melding etter § 18 tredje eller femte ledd, melding er gitt etter § 18 sjette ledd eller meldeplikten følger av forskrift gitt etter § 18 niende ledd.\nKonkurransetilsynet kan etter søknad fra melderne gjøre unntak fra gjennomføringsforbudet etter første ledd i enkeltsaker. Konkurransetilsynet kan ved forskrift gjøre unntak fra gjennomføringsforbudet for grupper av foretak.\n0 Endret ved lover 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), 20 juni 2008 nr. 43 (ikr. 1 juli 2008 iflg. res. 20 juni 2008 nr. 630), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Vedtak",
+      "content": "Vedtak etter § 16 og § 16 a treffes av Konkurransetilsynet på grunnlag av melding etter § 18 første, tredje, femte eller sjette ledd, eller på grunnlag av melding etter forskrift gitt etter niende ledd.\nKonkurransetilsynet må innen 25 virkedager fra meldingen er mottatt, varsle at vedtak kan bli aktuelt. I varselet må Konkurransetilsynet vise at det er rimelig grunn til å anta at foretakssammenslutningen eller ervervet som nevnt i § 16 a i betydelig grad vil hindre effektiv konkurranse, særlig som et resultat av at en dominerende stilling skapes eller styrkes. Gis ikke slikt varsel, kan Konkurransetilsynet ikke gripe inn etter § 16 eller § 16 a.\nDersom melderne fremsetter forslag om avhjelpende tiltak innen 20 virkedager fra meldingen er mottatt, forlenges Konkurransetilsynets frist etter annet ledd med 10 virkedager. Fremsettes forslag innen fristen, kan Konkurransetilsynet innen 35 virkedager fatte vedtak om inngrep som tillater foretakssammenslutningen på de foreslåtte vilkår. Slikt vedtak kan fattes uten at partene er gitt forhåndsvarsel.\nKonkurransetilsynet må snarest mulig, og senest innen 70 virkedager fra meldingen er mottatt, fatte vedtak som stadfester fremsatt forslag om avhjelpende tiltak fra melderne eller legge frem begrunnet forslag til forbudsvedtak. Dersom melderne fremsetter nytt eller revidert forslag om avhjelpende tiltak senere enn 55 virkedager fra meldingen er mottatt, forlenges Konkurransetilsynets frist etter første punktum tilsvarende, likevel slik at fristen ikke kan overskride 85 virkedager fra meldingen er mottatt. Forslaget til forbudsvedtak forelegges partene til uttalelse med en frist på 15 virkedager. Konkurransetilsynet må treffe sitt vedtak innen 15 virkedager fra tilsynet har mottatt partenes uttalelse. Dersom det er fremsatt et nytt eller revidert forslag om avhjelpende tiltak etter at Konkurransetilsynet har lagt frem begrunnet forslag til forbudsvedtak, kan fristen for å treffe vedtak forlenges med 15 virkedager. Etter anmodning eller samtykke fra melderne kan fristen i femte punktum forlenges ytterligere med inntil 15 virkedager.\nForslag om avhjelpende tiltak anses ikke som fremsatt før forslag til offentlig versjon av forslaget i henhold til § 18 b er inngitt. Fristene i annet, tredje og fjerde ledd for Konkurransetilsynets saksbehandling begynner ikke å løpe før Konkurransetilsynet har mottatt forslag til offentlig versjon av dokumentene i henhold til § 18 b.\nFrister i annet og fjerde ledd for Konkurransetilsynets saksbehandling slutter å løpe dersom noen av de involverte foretak etter å ha mottatt skriftlig krav om å gi opplysninger innen en bestemt frist, ikke oppfyller kravet. Kravet anses ikke som oppfylt før Konkurransetilsynet har mottatt forslag til offentlig versjon av dokumentene i henhold til § 18 b. Partene skal informeres om at fristen har sluttet å løpe. Fristen begynner å løpe igjen når Konkurransetilsynet mottar de etterspurte opplysninger.\nDersom Konkurransetilsynet finner at det ikke foreligger grunnlag for inngrep etter § 16 eller § 16 a, skal melderne underrettes skriftlig om at saken henlegges. I saker hvor Konkurransetilsynet har varslet at inngrep kan bli aktuelt etter annet ledd, skal underretningen kort angi hvorfor det ikke foreligger grunnlag for inngrep. Konkurransetilsynet skal avslutte saksbehandlingen snarest mulig.\nKongen kan gi forskrift om offentlige versjoner av dokumenter som nevnt i femte og sjette ledd.\n0 Endret ved lover 20 juni 2008 nr. 43 (ikr. 1 juli 2008 iflg. res. 20 juni 2008 nr. 630), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671), 14 juni 2019 nr. 23 (ikr. 1 juli 2019 iflg. res. 14 juni 2019 nr. 737).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:20 a",
+      "chapter": "4",
+      "section": "20 a",
+      "title": "Klage og oppheving",
+      "content": "Vedtak som nevnt i § 20 første ledd kan påklages innen 15 virkedager. Konkurransetilsynet skal bringe klagen inn for Konkurranseklagenemnda senest 15 virkedager etter at den er mottatt. Konkurranseklagenemnda må treffe vedtak i klagesaken innen 60 virkedager etter at klagen er mottatt. Bestemmelsene om fristavbrudd i § 20 sjette ledd gjelder tilsvarende for Konkurranseklagenemndas saksbehandlingsfrister. Ved klage over vedtak etter § 16 annet ledd kan Konkurranseklagenemndas vedtak bare gå ut på å oppheve eller stadfeste Konkurransetilsynets vedtak. For øvrig gjelder reglene om klage i forvaltningsloven kapittel VI så langt de passer.\nDersom Konkurranseklagenemnda opphever et vedtak etter § 16 annet ledd fordi foretakssammenslutningen ikke i betydelig grad vil hindre effektiv konkurranse, særlig som et resultat av at en dominerende stilling skapes eller styrkes, er saken endelig avgjort. Ved en oppheving på annet grunnlag kan Konkurransetilsynet fatte et nytt vedtak etter § 20 første ledd. Bestemmelsene i § 20 annet og tredje ledd gjelder ikke. Tilsynet må snarest mulig og senest innen 45 virkedager fra vedtaket ble opphevet fatte vedtak om inngrep som tillater foretakssammenslutningen på vilkår foreslått av melderne eller legge frem begrunnet forslag til forbudsvedtak. Dersom melderne fremsetter forslag om avhjelpende tiltak senere enn 35 virkedager fra opphevingen av vedtaket, forlenges Konkurransetilsynets frist tilsvarende. Bestemmelsene i § 20 fjerde til syvende ledd gjelder for øvrig så langt de passer.\n0 Tilføyd ved lov 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), endret ved lover 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376), 14 juni 2019 nr. 23 (ikr. 1 juli 2019 iflg. res. 14 juni 2019 nr. 737).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20a",
+        "source_heading": "§ 20 a."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Forholdet til EØS-konkurranseloven",
+      "content": "Reglene i dette kapittelet gjelder med de begrensninger som følger av EØS-konkurranseloven § 7a og forskrifter gitt i medhold av EØS-konkurranseloven.\n0 Tilføyd ved lov 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), endret ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376, tidligere § 21 a).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Offentlighet",
+      "content": "Konkurransetilsynet, Konkurranseklagenemnda og departementet skal offentliggjøre sine vedtak. Ved offentliggjøringen skal partenes navn og vedtakets hovedinnhold oppgis. Opplysninger underlagt taushetsplikt etter forvaltningsloven § 13 første ledd nr. 2 kan offentliggjøres dersom det er nødvendig for å opplyse om vedtakets hovedinnhold.\n0 Endret ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Prisopplysning mv.",
+      "content": "Konkurransetilsynet kan, dersom det er nødvendig for å fremme konkurransen, pålegge foretak å merke, ha oppslag om eller gi annen underretning om pris, forretningsvilkår og kvalitet ved salg av varer og tjenester. Kongen kan gi forskrift om det samme.\n0 Endret ved lov 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "6:24",
+      "chapter": "6",
+      "section": "24",
+      "title": "Opplysningsplikt og gransking",
+      "content": "Enhver plikter å gi konkurransemyndighetene de opplysninger som disse myndigheter krever for å kunne utføre sine gjøremål etter loven eller for å kunne oppfylle Norges folkerettslige avtaler med en fremmed stat eller en internasjonal organisasjon. Opplysningene kan kreves gitt skriftlig eller muntlig innen en fastsatt frist både fra enkelte og fra grupper av foretak og kan nedtegnes og lagres som lydopptak.\nPå samme vilkår som nevnt i første ledd kan konkurransemyndighetene for gransking kreve utlevert alle typer informasjon og bærere av slik informasjon.\nOpplysninger som kreves etter første og annet ledd, kan gis uten hinder av den lovbestemte taushetsplikt som ellers påhviler skatte- og avgiftsmyndigheter og myndigheter som har til oppgave å overvåke offentlig regulering av ervervsvirksomhet.\nFørste og annet ledd gjelder selv om det er besluttet bevissikring etter § 25.\nKongen kan ved forskrift fastsette nærmere regler for opplysningsplikt og gransking.\n0 Endret ved lover 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531), 14 juni 2019 nr. 23 (ikr. 1 juli 2019 iflg. res. 14 juni 2019 nr. 737).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "Bevissikring",
+      "content": "Konkurransetilsynet kan foreta bevissikring etter annet ledd\na. når det er rimelig grunn til å anta at loven eller vedtak i medhold av loven er overtrådt, eller\nb. for å oppfylle Norges folkerettslige avtaler med en fremmed stat eller en internasjonal organisasjon, der det er rimelig grunn til å anta at vedkommende stat eller organisasjons konkurranseregler er overtrådt, og forholdet som utredes er av en slik art at det kan innebære en overtredelse av denne lov dersom den hadde kommet til anvendelse på forholdet.\nNår vilkårene i første ledd er oppfylt, kan Konkurransetilsynet kreve\na. å få adgang til lokaler, eiendommer, transportmidler og andre oppbevaringssteder hvor det kan finnes bevis for overtredelse,\nb. å få adgang til bolig dersom det er særlig grunn til å anta at bevis oppbevares der,\nc. å ta med ting som kan ha betydning som bevis for nærmere gransking og\nd. å forsegle forretningslokaler, bøker eller forretningspapirer så lenge undersøkelsen varer og dette anses nødvendig.\nOriginale dokumenter kan tas med når originalen i seg selv antas å ha en særskilt bevisverdi, når bevisverdien vil reduseres ved kopiering eller når dokumentet antas å være et særlig sentralt bevis for overtredelse av bestemmelser i denne lov. Når Konkurransetilsynet tar med originaldokumenter etter denne bestemmelsen, skal den kontrollerte gis kopi av dokumentene, så fremt det kan skje uten skade eller fare for etterforskningen.\nBegjæring om adgang til bevissikring framsettes av Konkurransetilsynet for tingretten på det sted hvor det mest praktisk kan skje. Retten treffer sin avgjørelse ved beslutning før bevissikringen settes i verk. Rettens beslutning skal angi kontrollens formål, herunder hvilken type overtredelse og hvilket marked tilsynet undersøker. Den begjæringen retter seg mot, skal ikke varsles om begjæringen eller beslutningen. Anke over beslutningen har ikke oppsettende virkning. Straffeprosessloven § 200 og § 201 første ledd, §§ 117 til 120, jf. §§ 204, 207, 208, 209, 213 og kapittel 26 samt forvaltningsloven § 15 annet ledd gjelder så langt de passer.\nDen kontrollerte skal motta en kopi av beslaglagt elektronisk materiale. Når Konkurransetilsynet begynner gjennomgangen av beslaglagt elektronisk materiale, har den kontrollerte eller dennes representant rett til å være til stede for å avklare om materialet inneholder opplysninger som er omfattet av taushetsplikt som nevnt i straffeprosessloven §§ 117 til 120. Dersom den kontrollerte og Konkurransetilsynet ikke blir enige om opplysninger er omfattet av taushetsplikt som nevnt i straffeprosessloven §§ 117 til 120, skal dette avgjøres av tingretten.\nKonkurransetilsynet kan kreve bistand av politiet til å iverksette beslutningen om bevissikring.\nDersom det ikke er tid til å avvente rettens beslutning, kan Konkurransetilsynet kreve at politiet avstenger områder der bevisene kan være inntil rettens beslutning foreligger.\nKongen kan ved forskrift fastsette nærmere regler om bevissikring og behandling av overskuddsinformasjon.\n0 Endret ved lover 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3, 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 14 juni 2019 nr. 23 (ikr. 1 juli 2019 iflg. res. 14 juni 2019 nr. 737).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "Innsyn i overtredelsessaker",
+      "content": "Før saken er avsluttet gjelder ikke offentleglova i saker om overtredelse av:\na. § 10, § 11, § 18 første ledd eller § 19 første ledd\nb. pålegg gitt i medhold av § 18 tredje eller femte ledd, § 24 første eller andre ledd eller § 25 andre ledd\nc. vedtak truffet i medhold av §§ 12 eller 42\nd. forskrift gitt i medhold av § 14\nOffentleglova gjelder heller ikke for dokumenter som er mottatt av Konkurransetilsynet i forbindelse med en lempningssøknad eller forliksforhandlinger etter § 29 a, også etter at saken er avsluttet. En sak som behandles av påtalemyndigheten, regnes ikke som avsluttet før påtalemyndigheten har avsluttet saken.\nForetak eller personer som Konkurransetilsynet etterforsker for overtredelse av konkurranseloven, skal etter krav gis adgang til å gjøre seg kjent med sakens dokumenter, såfremt det kan skje uten skade eller fare for etterforskningen eller tredjeperson. Forvaltningsloven § 19 gjelder tilsvarende. Blir kravet avslått, kan spørsmålet kreves avgjort av Konkurranseklagenemnda. Dersom etterforskningen omfatter flere foretak eller personer, gjelder innsynsretten ikke dokumenter som bare gjelder andre foretak eller personer.\n0 Endret ved lover 20 juni 2008 nr. 43 (ikr. 1 juli 2008 iflg. res. 20 juni 2008 nr. 630), 19 mai 2006 nr. 16 (ikr. 1 jan 2009 iflg. res. 17 okt 2008 nr. 1118), 19 juni 2009 nr. 83 (ikr. 26 juni 2009 iflg. res. 26 juni 2009 nr. 878), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671), 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376), 18 juni 2021 nr. 122 (i kraft 1 juli 2022 iflg. res. 8 april 2022 nr. 570), 16 des 2022 nr. 94 (i kraft 1 jan 2023 iflg. res. 16 des 2022 nr. 2248), 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Taushetsplikt om kilders identitet og skylderklæringer i lempningssøknader og forliksinnlegg",
+      "content": "Enhver som utfører tjeneste eller arbeid for konkurransemyndighetene, har taushetsplikt om identiteten til foretak eller person som gir tips om overtredelse av § 10 eller § 11. Taushetsplikten gjelder også overfor sakens parter og deres representanter. Anmodning om påbud om opphør etter konkurranseloven § 12 omfattes ikke av taushetsplikten.\nEnhver som utfører tjeneste eller arbeid for konkurransemyndighetene, har taushetsplikt om opplysninger som har sin opprinnelse i erklæringer fra et foretak om dets viten om en overtredelse av § 10 og foretakets egen delaktighet i overtredelsen, og som er utarbeidet spesielt med det formål å oppnå lempning, eller som ledd i forliksforhandlinger etter § 29 a.\nFor øvrig gjelder reglene i forvaltningsloven §§ 13 til 13 e og 13 g tilsvarende så langt de passer.\n0 Endret ved lover 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), 20 juni 2008 nr. 43 (ikr. 1 juli 2008 iflg. res. 20 juni 2008 nr. 630), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671), 18 juni 2021 nr. 127 (ikr. 1 juli 2021 iflg. res. 18 juni 2021 nr. 2026).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:27 a",
+      "chapter": "6",
+      "section": "27 a",
+      "title": "Innsyn i opplysninger undergitt taushetsplikt",
+      "content": "Part eller partsrepresentant som blir gjort kjent med opplysninger som nevnt i § 27 annet ledd, har taushetsplikt om opplysningene og kan bare bruke dem så langt det er nødvendig for å ivareta partens interesse i saken.\nEnhver med rettslig interesse i en avsluttet sak om overtredelse av § 10, § 11 eller pålegg etter § 12, skal også gis innsyn i opplysninger som er undergitt lovbestemt taushetsplikt, med mindre innsyn vil virke urimelig overfor den opplysningene gjelder. Retten til innsyn gjelder ikke opplysninger underlagt taushetsplikt etter § 27. Blir det krevd innsyn i taushetsbelagte opplysninger etter dette ledd, skal de som har krav på taushet, varsles og gis en frist til å uttale seg om spørsmålet. Avslag på krav om innsyn kan påklages til Konkurranseklagenemnda. Reglene i forvaltningsloven kapittel VI gjelder tilsvarende.\n0 Tilføyd ved lov 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), endret ved lover 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671), 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27a",
+        "source_heading": "§ 27 a."
+      }
+    },
+    {
+      "provision_ref": "7:28",
+      "chapter": "7",
+      "section": "28",
+      "title": "Tvangsmulkt",
+      "content": "For å sikre at enkeltvedtak i medhold av denne lov og pålegg etter § 24 overholdes, kan Konkurransetilsynet bestemme at den vedtaket retter seg mot, skal betale en løpende mulkt til staten inntil forholdet er rettet.\nKonkurransetilsynet bestemmer når mulkten begynner å løpe. Konkurransetilsynet kan helt eller delvis frafalle kravet om påløpt mulkt.\nKongen kan ved forskrift fastsette nærmere regler om ileggelse av tvangsmulkt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "7:29",
+      "chapter": "7",
+      "section": "29",
+      "title": "Overtredelsesgebyr",
+      "content": "Et foretak eller en sammenslutning av foretak kan ilegges overtredelsesgebyr dersom foretaket eller sammenslutningen av foretak eller noen som handler på deres vegne, forsettlig eller uaktsomt\na. overtrer §§ 10, 11, 18 første ledd eller 19 første ledd,\nb. overtrer vedtak etter §§ 12, 16, 16 a, 23 eller 42,\nc. unnlater å etterkomme pålegg etter §§ 18 tredje eller femte ledd, 24 eller 25,\nd. gir uriktige eller ufullstendige opplysninger til konkurransemyndighetene,\ne. bryter forsegling foretatt i medhold av § 25,\nf. overtrer forskrift i medhold av 14, §§ 18 niende ledd eller 23, eller\ng. medvirker til overtredelser av bokstav a til f.\nKonkurransetilsynet vedtar overtredelsesgebyr. Ved fastsettelse av gebyrets størrelse, skal det særlig legges vekt på foretakets omsetning, overtredelsens grovhet og varighet, samt lempning etter § 30 og § 31.\nVedtak om overtredelsesgebyr kan påklages til Konkurranseklagenemnda. Overtredelsesgebyret forfaller til betaling to måneder etter at vedtaket er mottatt. Vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg. Dersom foretaket klager til Konkurranseklagenemnda eller går til søksmål mot staten for å prøve vedtaket, suspenderes tvangskraften.\nAdgangen til å ilegge gebyr foreldes etter 10 år ved overtredelse av § 10 eller § 11 i denne loven. Andre overtredelser foreldes etter 5 år. Fristen avbrytes ved at Konkurransetilsynet tar skritt til sikring av bevis etter lovens § 25 eller meddeler et foretak at det er mistenkt for overtredelse av loven eller vedtak truffet i medhold av loven.\nDet skal beregnes renter av overtredelsesgebyr etter første ledd i samsvar med forsinkelsesrenteloven fra det tidspunktet Konkurransetilsynets vedtak er endelig eller saken er rettskraftig avgjort. Det skal også beregnes renter av overtredelsesgebyret fra forfallstidspunktet i tredje ledd og frem til forsinkelsesrenten begynner å løpe. Rentesatsen etter andre punktum skal tilsvare den pengepolitiske styringsrenten fastsatt av Norges Bank per 1. januar det aktuelle året tillagt ett prosentpoeng. Konkurransetilsynet kan ettergi renter etter andre punktum helt eller delvis dersom vedtaket ikke er endelig eller saken ikke er rettskraftig avgjort innen tre år fra vedtak om overtredelsesgebyr ble fattet og dette ikke skyldes forhold på foretakets side.\nKongen kan ved forskrift gi nærmere regler om utmåling av overtredelsesgebyr og beregning av renter etter femte ledd.\n0 Endret ved lover 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3, 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376), 16 des 2022 nr. 94 (i kraft 1 jan 2023 iflg. res. 16 des 2022 nr. 2248), 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "7:29 a",
+      "chapter": "7",
+      "section": "29 a",
+      "title": "Redusert overtredelsesgebyr ved kartellforlik",
+      "content": "Inngåelse av kartellforlik etter paragrafen her innebærer at overtredelsesgebyr etter § 29 ved overtredelse av § 10 reduseres med 10 prosent.\nDersom Konkurransetilsynet vurderer en sak som egnet til kartellforlik, kan det invitere ett eller flere foretak til forliksforhandlinger. Tilsynet skal da presentere saken, bevisene i tilsynets besittelse og tilsynets foreløpige vurdering av den mulige overtredelsen, og informere om hvilket overtredelsesgebyr som vurderes ilagt.\nDersom saken er egnet til kartellforlik, gir Konkurransetilsynet foretaket en frist på minst 15 virkedager til å utforme et forliksinnlegg. Innlegget skal inneholde en uforbeholden innrømmelse av overtredelsen, det maksimale nivå på overtredelsesgebyret foretaket kan akseptere, en bekreftelse på at foretaket har fått tilgang til tilsynets bevismateriale og en bekreftelse på at foretaket ønsker å inngå kartellforlik med de begrensningene dette medfører for kravene til Konkurransetilsynets utrednings- og begrunnelsesplikt. Part eller partsrepresentant som blir gjort kjent med forliksinnlegget, har taushetsplikt om opplysningene og kan bare benytte dem så langt det er nødvendig for å ivareta partens interesse i saken.\nNår forliksinnlegg er mottatt av Konkurransetilsynet, gis foretaket et forhåndsvarsel med en svarfrist. Etter utløp av fristen kan det fattes vedtak om redusert overtredelsesgebyr etter paragrafen her.\nDersom foretaket etter å ha mottatt forhåndsvarselet ikke ønsker å inngå kartellforlik, vil saken følge det ordinære saksbehandlingssporet i overtredelsessaker. Forliksinnlegget kan ikke benyttes som bevis i saken.\nReduksjon av overtredelsesgebyr etter paragrafen her kommer i tillegg til en eventuell reduksjon etter §§ 30 og 31.\nDepartementet kan gi forskrift om kartellforlik.\n0 Tilføyd ved lov 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29a",
+        "source_heading": "§ 29 a."
+      }
+    },
+    {
+      "provision_ref": "7:30",
+      "chapter": "7",
+      "section": "30",
+      "title": "Hel lempning av overtredelsesgebyr for overtredelse av konkurranseloven § 10",
+      "content": "Hel lempning av overtredelsesgebyr for overtredelse av § 10 skal gis til det første foretaket som i tilknytning til en bestemt sak oppfyller følgende vilkår:\na. Foretaket fremlegger av eget tiltak alle bevis som det besitter i samsvar med fremgangsmåten i annet ledd. Dette bevismaterialet må være tilstrekkelig til å\ni. få beslutning om bevissikring etter konkurranseloven § 25 i forbindelse med en antatt overtredelse av konkurranseloven § 10. Konkurransetilsynet må på det tidspunkt opplysningene blir fremlagt ikke besitte tilstrekkelige bevis til å kunne kreve slik beslutning, eller\nii. bevise overtredelse av konkurranseloven § 10. Konkurransetilsynet må på det tidspunkt opplysningene blir fremlagt ikke besitte tilstrekkelige bevis for slik overtredelse.\nb. Foretaket samarbeider av eget tiltak fullt ut under hele Konkurransetilsynets saksbehandling.\nc. Foretaket opphører av eget tiltak med deltakelsen i overtredelsen med mindre Konkurransetilsynet anmoder om noe annet.\nd. Foretaket har ikke søkt å tvinge andre foretak til å delta i overtredelsen.\nFremleggelse av bevis etter første ledd bokstav a kan skje\na. ved fremleggelse samtidig med lempningssøknaden,\nb. ved at foretaket gir en klar beskrivelse av bevismaterialets art og innhold og fremlegger alle bevis innen en frist fastsatt av Konkurransetilsynet, eller\nc. ved at foretaket gis en prioritert rett til lempning fra tidspunktet det ble fremsatt krav om lempning samtidig som foretaket samler bevis. Den prioriterte retten til lempning er kun gyldig i en begrenset periode fastsatt av Konkurransetilsynet.\n0 Endret ved lover 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "7:31",
+      "chapter": "7",
+      "section": "31",
+      "title": "Delvis lempning av overtredelsesgebyr for overtredelse av konkurranseloven § 10",
+      "content": "Foretak som ikke oppfyller vilkårene for hel lempning i § 30, skal gis delvis lempning av overtredelsesgebyret dersom foretaket fremlegger bevis som vesentlig styrker Konkurransetilsynets muligheter til å bevise en overtredelse av konkurranseloven § 10 og oppfyller vilkårene i § 30 første ledd bokstav b og c. Reglene om bevisfremleggelse i § 30 annet ledd gjelder tilsvarende.\nDet første foretaket som i en bestemt sak oppfyller vilkårene i denne bestemmelsen, gis lempning på 30 til 50 prosent. Det andre foretaket som i samme sak oppfyller vilkårene i denne bestemmelsen, gis lempning på 20 til 30 prosent. Øvrige foretak som i samme sak oppfyller vilkårene i denne bestemmelsen, gis lempning på inntil 20 prosent.\nVed den nærmere fastsettelsen av lempning etter annet ledd skal det tas hensyn til hvor tidlig bevismaterialet ble fremlagt, styrken i de fremlagte bevisene og i hvilken grad foretaket har samarbeidet med Konkurransetilsynet.\nKongen kan gi forskrift om hel og delvis lempning av overtredelsesgebyr etter § 30 og § 31.\n0 Endret ved lover 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "7:32",
+      "chapter": "7",
+      "section": "32",
+      "title": "Straff",
+      "content": "Med bøter eller fengsel inntil 3 år straffes den som forsettlig eller grovt uaktsomt\na. overtrer §§ 10, 18 første ledd eller 19 første ledd,\nb. overtrer vedtak etter §§ 12 første eller femte ledd, 16 eller 16 a,\nc. unnlater å etterkomme pålegg etter § 24 eller § 25,\nd. gir uriktige eller ufullstendige opplysninger til konkurransemyndighetene,\ne. bryter forsegling foretatt i medhold av § 25, eller\nf. overtrer forskrift i medhold av § 14.\nEr en overtredelse av § 10 utført under særdeles skjerpende omstendigheter, kan fengsel inntil 6 år anvendes. Ved avgjørelse av om særdeles skjerpende omstendigheter foreligger, skal det legges vekt på om overtredelsen har vært søkt holdt skjult, om den har voldt betydelig økonomisk skade, om den har gitt betydelig økonomisk fordel og grovheten av overtredelsen for øvrig.\nForetak straffes ikke etter denne paragrafen eller etter straffeloven § 27 for overtredelse av loven her.\n0 Tilføyd ved lov 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "7:33",
+      "chapter": "7",
+      "section": "33",
+      "title": "(Opphevet)",
+      "content": "0 Tilføyd ved lov 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), opphevet ved lov 18 juni 2021 nr. 122 (i kraft 1 juli 2022 iflg. res. 8 april 2022 nr. 570).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "7:34",
+      "chapter": "7",
+      "section": "34",
+      "title": "Foreldelse",
+      "content": "For krav som følge av brudd på denne loven og EØS-avtalen artikkel 53 og 54 gjelder foreldelsesloven, herunder § 9 og § 11.\nSelv om foreldelsestiden er ute, kan krav som nevnt i første ledd dessuten settes frem ved særskilt søksmål. Et slikt søksmål må reises innen 1 år etter at det foreligger endelig vedtak eller rettskraftig dom i saken.\n0 Tilføyd ved lov 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), endret ved lov 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "8:35",
+      "chapter": "8",
+      "section": "35",
+      "title": "Konkurranseklagenemndas oppgaver mv.",
+      "content": "Konkurranseklagenemnda skal behandle klager over Konkurransetilsynets vedtak og avgjørelser, med unntak av vedtak etter pristiltaksloven.\nDepartementet behandler klager over vedtak eller avgjørelser Konkurranseklagenemnda treffer i første instans.\n0 Tilføyd ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "8:36",
+      "chapter": "8",
+      "section": "36",
+      "title": "Konkurranseklagenemndas organisasjon, avgjørelser og vedtak",
+      "content": "Konkurranseklagenemnda skal ha en leder og så mange medlemmer som er nødvendig for å utføre nemndas oppgaver.\nLederen skal ha kompetanse tilsvarende kravene etter domstolloven § 54 første ledd. Lederen er embetsmann og utnevnes på åremål i seks år. Åremålet kan fornyes med én periode. De øvrige medlemmer av Konkurranseklagenemnda oppnevnes av Kongen for fire år, og kan gjenoppnevnes. Et oppnevnt nemndsmedlem kan ikke fratas vervet unntatt i tilfeller hvor det ikke er i stand til eller villig til å utføre vervet på en forsvarlig måte.\nKonkurranseklagenemnda treffer avgjørelser og vedtak i et utvalg på tre medlemmer. I særlige tilfeller kan lederen beslutte at avgjørelser og vedtak skal treffes av en forsterket nemnd på fem medlemmer. Lederen fastsetter sammensetning av nemnda for hver enkelt sak.\nKonkurranseklagenemnda treffer vedtak og avgjørelser ved alminnelig flertall. Det skal opplyses om enstemmighet. Ved dissens skal det opplyses hvem som er uenig og hvilke punkter uenigheten gjelder.\nDersom det ikke er til hinder for forsvarlig saksbehandling, kan nemndas leder beslutte at saksforberedende avgjørelser om innsyn etter offentleglova eller forvaltningsloven kan treffes av sekretariatet. Nemndas leder kan også beslutte at klager på Konkurransetilsynets avslag på krav om innsyn og krav om dekning av sakskostnader etter forvaltningsloven skal behandles av ett nemndsmedlem.\nKonkurranseklagenemndas sekretariat skal utføre de oppgavene som lederen pålegger, som er fastsatt i instruks eller som fremgår av forskrift etter denne lov.\nKongen kan i forskrift gi nærmere regler om organiseringen av og saksbehandlingen i Konkurranseklagenemnda.\n0 Tilføyd ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376), endret ved lov 16 des 2022 nr. 94 (i kraft 1 jan 2023 iflg. res. 16 des 2022 nr. 2248).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "8:37",
+      "chapter": "8",
+      "section": "37",
+      "title": "Skriftlig og muntlig saksbehandling m.m.",
+      "content": "Dersom Konkurransetilsynet ikke gir klager medhold, skal klagen og sakens øvrige dokumenter uten ugrunnet opphold oversendes Konkurranseklagenemnda. Dette gjelder likevel ikke interne dokumenter etter forvaltningsloven § 18 a.\nKonkurranseklagenemnda skal av eget tiltak og uten ugrunnet opphold oversende samtlige dokumenter det mottar i saken til partene og Konkurransetilsynet.\nKonkurranseklagenemnda skal på alle trinn i saksbehandlingen av eget tiltak vurdere om det er grunn til å holde møte med en part eller Konkurransetilsynet eller gjennomføre muntlige forhandlinger.\n0 Tilføyd ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376), endret ved lov 16 des 2022 nr. 94 (i kraft 1 jan 2023 iflg. res. 16 des 2022 nr. 2248).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "8:38",
+      "chapter": "8",
+      "section": "38",
+      "title": "Habilitet",
+      "content": "Et medlem av nemnda eller sekretariatet kan ikke delta i behandlingen av en sak som vedkommende har vært med på å behandle tidligere. Det samme gjelder for medlem av nemnda eller sekretariatet som har hatt som oppdrag å utrede saken eller deler av den. Departementet kan oppnevne setteleder når lederen er inhabil.\n0 Tilføyd ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "8:39",
+      "chapter": "8",
+      "section": "39",
+      "title": "Klage, omgjøring og søksmål",
+      "content": "Fristen for å klage på vedtak om overtredelsesgebyr etter § 29 første ledd er seks måneder fra partene mottok vedtaket. Fristen for å klage på vedtak om pålegg om å bringe ulovlig adferd til opphør etter § 12 første ledd og vedtak om pålegg om avhjelpende tiltak etter § 42 er to måneder fra partene mottok vedtaket. Konkurransetilsynet skal informere Konkurranseklagenemnda når det mottar en klage på et vedtak.\nI saker hvor Konkurransetilsynet har fattet vedtak om avhjelpende tiltak etter § 42, skal vedtaket gis oppsettende virkning frem til klageinstansen har ferdigbehandlet klagen. Første punktum gjelder ikke hvis konkurransebegrensningen klart vil forverres ved at vedtaket gis oppsettende virkning.\nSøksmål om Konkurransetilsynets vedtak kan ikke reises med mindre adgangen til å klage til Konkurranseklagenemnda er benyttet. Søksmål kan likevel reises når det er gått seks måneder fra klage første gang ble fremsatt og det ikke skyldes forsømmelse fra klagerens side at klageinstansens vedtak eller avgjørelse ikke foreligger.\nSøksmål om Konkurranseklagenemndas vedtak må reises innen tre måneder etter at underretning om vedtaket er mottatt. Det kan gis oppfriskning for oversittelse av fristen etter reglene i tvisteloven §§ 16-12 til 16-14. Retten kan prøve alle sider av saken. Tvisteloven gjelder ellers så langt den passer.\nSøksmål om Konkurranseklagenemndas vedtak skal rettes mot staten ved Konkurransetilsynet eller mot det eller de foretakene som er part i saken for Konkurranseklagenemnda, jf. femte ledd. Søksmål anlegges for Gulating lagmannsrett.\nStaten ved Konkurransetilsynet kan bare reise søksmål om Konkurranseklagenemndas vedtak i saker om håndheving av konkurranseloven §§ 10 og 11, § 12 tredje og femte ledd, forskrift gitt i medhold av § 14, og EØS-avtalen artikkel 53 og 54.\n0 Tilføyd ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376), endret ved lover 20 juni 2023 nr. 80 (i kraft 1 juli 2023 iflg. res. 20 juni 2023 nr. 959), 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "8:40",
+      "chapter": "8",
+      "section": "40",
+      "title": "Adgang til retting",
+      "content": "Konkurranseklagenemnda kan beslutte å rette et vedtak som på grunn av skrive- eller regnefeil, misforståelse, forglemmelse eller lignende klar feil har fått en utforming som ikke stemte med nemndas mening.\n0 Tilføyd ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "9:41",
+      "chapter": "9",
+      "section": "41",
+      "title": "Igangsetting av markedsetterforskning",
+      "content": "Konkurransetilsynet kan gjennomføre en markedsetterforskning i ett eller flere markeder eller deler av markeder hvis det foreligger forhold som tilsier at konkurransen er eller står i fare for å bli vesentlig begrenset i strid med lovens formål.\nFør det treffes beslutning om å åpne en markedsetterforskning, skal Konkurransetilsynet gjennomføre en høring av et utkast til beslutning om markedsetterforskning. Høringsfristen skal være minst seks uker.\nEtter at høringen er avsluttet, skal Konkurransetilsynet beslutte om det skal gjennomføres en markedsetterforskning. Beslutningen skal tas uten ugrunnet opphold, og senest innen fire måneder etter høringsfristens utløp. En beslutning om å gjennomføre en markedsetterforskning skal offentliggjøres uten ugrunnet opphold etter at beslutningen ble truffet. Beslutningen kan ikke påklages.\nUtkast til beslutning etter annet ledd og beslutning etter tredje ledd om å gjennomføre en markedsetterforskning skal inneholde informasjon om hvilke varer, tjenester, aktører og markeder som vil være omfattet av markedsetterforskningen.\n0 Tilføyd ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "9:42",
+      "chapter": "9",
+      "section": "42",
+      "title": "Avhjelpende tiltak i saker om markedsetterforskning",
+      "content": "Konkurransetilsynet kan pålegge avhjelpende tiltak hvis det foreligger forhold som vesentlig begrenser eller er egnet til å vesentlig begrense konkurransen i strid med lovens formål. Vedtaket kan omfatte ethvert tiltak som er nødvendig for å fjerne eller redusere konkurransebegrensningen. Strukturelle tiltak kan likevel bare pålegges hvis det ikke finnes like effektive adferdsregulerende tiltak, eller hvis et adferdsregulerende tiltak vil være mer byrdefullt for foretaket.\nI saker som omfattes av første ledd, kan et foretak selv foreslå avhjelpende tiltak. Konkurransetilsynet kan da avslutte saken med et vedtak som gjør tiltakene bindende for foretaket. Vedtaket skal fastslå at Konkurransetilsynet ikke går videre med saken etter første ledd hvis tiltakene gjennomføres.\nPålegg om avhjelpende tiltak etter første og annet ledd kan treffes senest 18 måneder etter at beslutningen om å gjennomføre en markedsetterforskning er offentliggjort etter § 41 tredje ledd. I særlige tilfeller kan Konkurransetilsynet forlenge fristen med inntil seks måneder.\nKonkurransetilsynet kan oppnevne en forvalter til å bistå ved gjennomføringen av vedtak etter første eller annet ledd. Forvalteren skal få sin godtgjørelse dekket av Konkurransetilsynet. Kongen kan gi forskrift om forvalterens stilling og oppgaver.\nKonkurransetilsynet kan etter anmodning eller av eget tiltak omgjøre et vedtak etter første eller annet ledd hvis\na. sentrale faktiske forhold som var vesentlige for vedtaket, endrer seg\nb. det viser seg at vedtaket bygger på ufullstendige, uriktige eller villedende opplysninger fra foretakene.\nVed klage på vedtak etter denne bestemmelsen kan Konkurranseklagenemnda oppheve eller stadfeste Konkurransetilsynets vedtak. Konkurranseklagenemnda kan ikke fatte nytt vedtak om avhjelpende tiltak. Hvis klageinstansen kommer til at vilkårene i første ledd første punktum er oppfylt, men at Konkurransetilsynets tiltak ikke er nødvendige, forholdsmessige eller egnet til å avhjelpe konkurransebegrensningen, kan vedtaket oppheves og saken sendes tilbake til tilsynet for en ny vurdering. Et nytt vedtak i saken må da fattes innen tre måneder. Fristen i tredje ledd gjelder ikke når Konkurransetilsynet fatter nytt vedtak etter en klagebehandling.\n0 Tilføyd ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "9:43",
+      "chapter": "9",
+      "section": "43",
+      "title": "Forholdet til reglene om kontroll med foretakssammenslutninger",
+      "content": "Avhjelpende tiltak etter § 42 kan ikke omfatte salg av eiendeler som er ervervet som ledd i en foretakssammenslutning der Konkurransetilsynet, Konkurranseklagenemnda, domstolene, Europakommisjonen eller Den europeiske unions domstol har avsluttet behandlingen av saken. Dette gjelder likevel ikke når det har gått mer enn ti år etter at behandlingen av foretakssammenslutningen ble avsluttet.\n0 Tilføyd ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "9:44",
+      "chapter": "9",
+      "section": "44",
+      "title": "Adgangen til gjenerverv av eiendeler som selges som følge av pålegg om avhjelpende tiltak",
+      "content": "Et foretak kan ikke gjenerverve eiendeler som har blitt solgt som følge av et pålegg om avhjelpende tiltak etter § 42, før fem år etter salget, med mindre markedsforholdene har endret seg i en slik grad at det ikke lenger er grunnlag for vedtaket.\n0 Tilføyd ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "9:45",
+      "chapter": "9",
+      "section": "45",
+      "title": "Adgang til å iverksette ny markedsetterforskning",
+      "content": "Konkurransetilsynet kan ikke åpne markedsetterforskning i et marked som i det vesentlige tilsvarer et marked hvor det i løpet av de siste tre årene er gjennomført markedsetterforskning.\nFørste ledd gjelder ikke hvis en ny markedsetterforskning har et annet formål eller omfatter andre aktører enn den gjennomførte markedsetterforskningen.\n0 Tilføyd ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "9:46",
+      "chapter": "9",
+      "section": "46",
+      "title": "Avslutning av saker om markedsetterforskning",
+      "content": "Det skal offentliggjøres at en markedsetterforskning avsluttes. Når saken avsluttes uten at det fattes et vedtak om pålegg om avhjelpende tiltak, skal Konkurransetilsynet angi hvorfor tilsynet ikke finner grunnlag for å gå videre med saken.\n0 Tilføyd ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "9:47",
+      "chapter": "9",
+      "section": "47",
+      "title": "Forskrifter",
+      "content": "Kongen kan gi forskrift om Konkurransetilsynets gjennomføring av markedsetterforskning etter dette kapittelet.\n0 Tilføyd ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "10:48",
+      "chapter": "10",
+      "section": "48",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1\nFra samme tid oppheves lov 11. juni 1993 nr. 65 om konkurranse i ervervsvirksomhet.\n0 Endret ved lover 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633, tidligere § 32), 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376, tidligere § 35), 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307, tidligere § 41).\n1 Fra 1 mai 2004 iflg. res. 5 mars 2004 nr. 479.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "10:49",
+      "chapter": "10",
+      "section": "49",
+      "title": "Overgangsbestemmelser",
+      "content": "Forskrifter, vedtekter, reglementer og instrukser som er gitt i medhold av lov 11. juni 1993 nr. 65 om konkurranse i ervervsvirksomhet gjelder fortsatt så langt de passer, inntil Kongen opphever eller endrer disse i medhold av denne lov eller ved særskilt bestemmelse.\nEnkeltvedtak i medhold av lov 11. juni 1993 nr. 65 om konkurranse i ervervsvirksomhet opprettholdes i den perioden som er forutsatt i vedtakene inntil de blir endret eller opphevet i medhold av denne lov eller ved særskilt bestemmelse av Kongen.\nOvertredelsesgebyr og straff etter denne loven kommer bare til anvendelse på overtredelser som er begått etter lovens ikrafttredelse.\nKongen kan ellers gi de overgangsbestemmelser som er nødvendige.\n0 Endret ved lover 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633, tidligere § 33), 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376, tidligere § 36), 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307, tidligere § 42).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "10:50",
+      "chapter": "10",
+      "section": "50",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –\n0 Endret ved lover 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633, tidligere § 34), 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376, tidligere § 37), 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307, tidligere § 43).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Lovens formål er å fremme konkurranse for derigjennom å bidra til effektiv bruk av samfunnets ressurser.\nVed anvendelse av denne lov skal det tas særlig hensyn til forbrukernes interesser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjon av foretak",
+      "content": "Med foretak menes i denne loven enhver enhet som utøver privat eller offentlig ervervsvirksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Generelle unntak fra loven",
+      "content": "Loven gjelder ikke for arbeids- og ansettelsesvilkår.\nKongen kan gi forskrift om unntak fra hele eller deler av denne loven for bestemte markeder eller næringer. Kongen i statsråd skal gi forskrift om unntak fra §§ 10, 11, 41 og 42 som er nødvendige for å gjennomføre landbruks- og fiskeripolitikken.\n0 Endret ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Forholdet til andre lover",
+      "content": "Dersom et forhold som faller inn under loven, også går inn under regulerings- og kontrollbestemmelser i andre lover, kan Kongen gi nærmere regler om den innbyrdes avgrensning av de forskjellige myndigheters virkeområde.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Lovens stedlige virkeområde",
+      "content": "Loven gjelder for vilkår, avtaler og handlinger som foretas, har virkning eller er egnet til å ha virkning her i riket.\nKongen kan ved forskrift bestemme at loven skal gjelde for vilkår, avtaler og handlinger som utelukkende har eller er egnet til å ha virkning utenfor riket.\nKongen kan ved forskrift bestemme i hvilken utstrekning loven skal gjelde for Svalbard.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "title": "Varighet av enkeltvedtak",
+      "content": "Enkeltvedtak etter denne loven skal normalt gjelde for et bestemt tidsrom. Enkeltvedtak skal normalt ikke gjelde mer enn fem år og aldri i mer enn ti år. Virkningstiden bør fremgå av vedtaket.\nRegelen i første ledd er ikke til hinder for at enkeltvedtak kan fornyes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "title": "Overlevering av taushetsbelagte opplysninger til fremmede staters konkurransemyndigheter og internasjonale organisasjoner",
+      "content": "For å oppfylle Norges folkerettslige avtaler med fremmed stat eller internasjonal organisasjon kan Konkurransetilsynet uten hinder av lovbestemt taushetsplikt gi konkurransemyndigheter i fremmede stater og internasjonale organisasjoner opplysninger som er nødvendige for å fremme norske eller vedkommende stats eller organisasjons konkurranseregler.\nVed utlevering av opplysninger etter første ledd skal Konkurransetilsynet stille som vilkår at opplysningene bare kan formidles videre med samtykke fra Konkurransetilsynet og bare for det formål som samtykket omfatter.\nAnnet ledd gjelder ikke ved utlevering av opplysninger som skjer på grunnlag av avtale mellom de nordiske landene om samarbeid i konkurransesaker.\nKongen kan gi forskrift om overlevering av opplysninger etter første til tredje ledd.\n0 Endret ved lov 14 juni 2019 nr. 23 (ikr. 1 juli 2019 iflg. res. 14 juni 2019 nr. 737).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Konkurransemyndighetenes organisasjon mv.",
+      "content": "Konkurransemyndighetene er Kongen, departementet, Konkurranseklagenemnda og Konkurransetilsynet.\nKonkurransetilsynet og Konkurranseklagenemnda er uavhengige forvaltningsorganer som er administrativt underordnet Kongen og departementet.\nKongen eller departementet kan ikke instruere Konkurransetilsynet eller Konkurranseklagenemnda om behandlingen av enkeltsaker. Kongen eller departementet kan heller ikke gi Konkurranseklagenemnda generelle instrukser om hvordan myndighet etter loven skal utøves. Kongen kan pålegge Konkurransetilsynet å ta en sak opp til behandling.\nKongen eller departementet kan ikke av eget tiltak omgjøre Konkurransetilsynets eller Konkurranseklagenemndas vedtak. Konkurranseklagenemnda kan ikke av eget tiltak omgjøre Konkurransetilsynets vedtak. Konkurranseklagenemnda kan omgjøre egne vedtak som må anses ugyldige.\nKongen kan gi nærmere bestemmelser om Konkurransetilsynets organisasjon og virksomhet.\n0 Endret ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Konkurransetilsynets oppgaver",
+      "content": "Konkurransetilsynet skal føre tilsyn med konkurransen i de forskjellige markeder, blant annet ved å\na. kontrollere at lovens forbud og påbud overholdes\nb. foreta nødvendige inngrep mot foretakssammenslutninger\nc. iverksette tiltak for å øke markedenes gjennomsiktighet\nd. håndheve EØS-avtalen artikkel 53 og 54\ne. påpeke konkurranseregulerende virkninger av offentlige tiltak, eventuelt ved å fremme forslag med sikte på å styrke konkurransen og lette adgangen for nye konkurrenter\nf. gjennomføre markedsetterforskning i samsvar med kapittel 9.\nKonkurransetilsynet plikter å veilede foretak vedrørende forståelse av denne lov, lovens rekkevidde og dens anvendelse i enkeltsaker.\n0 Endret ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Konkurransebegrensende avtaler mellom foretak",
+      "content": "Enhver avtale mellom foretak, enhver beslutning truffet av sammenslutninger av foretak og enhver form for samordnet opptreden som har til formål eller virkning å hindre, innskrenke eller vri konkurransen, er forbudt, særlig slike som består i\na. å fastsette på direkte eller indirekte måte innkjøps- eller utsalgspriser eller andre forretningsvilkår,\nb. å begrense eller kontrollere produksjon, avsetning, teknisk utvikling eller investeringer,\nc. å dele opp markeder eller forsyningskilder,\nd. å anvende overfor handelspartnere ulike vilkår for likeverdige ytelser og derved stille dem ugunstigere i konkurransen,\ne. å gjøre inngåelsen av kontrakter avhengig av at medkontrahentene godtar tilleggsytelser som etter sin art eller etter vanlig forretningspraksis ikke har noen sammenheng med kontraktsgjenstanden.\nAvtaler eller beslutninger som er forbudt i henhold til denne bestemmelse, skal ikke ha noen rettsvirkning.\nBestemmelsen i første ledd får ikke anvendelse på avtaler mellom foretak, beslutninger truffet av sammenslutninger av foretak og samordnet opptreden, som bidrar til å bedre produksjonen eller fordelingen av varene eller til å fremme den tekniske eller økonomiske utvikling, samtidig som de sikrer forbrukerne en rimelig andel av de fordeler som er oppnådd, og uten\na. å pålegge vedkommende foretak restriksjoner som ikke er absolutt nødvendige for å nå disse mål, eller\nb. å gi disse foretak mulighet til å utelukke konkurranse for en vesentlig del av de varer det gjelder.\nKongen kan ved forskrift fastsette regler for hva som skal gå inn under tredje ledd (gruppefritak). Konkurransetilsynet kan bestemme at et gruppefritak ikke skal være anvendelig overfor bestemte foretak i den utstrekning avtaler, beslutninger og samordnet opptreden har virkninger som ikke er forenlige med tredje ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Utilbørlig utnyttelse av dominerende stilling",
+      "content": "Et eller flere foretaks utilbørlige utnyttelse av sin dominerende stilling er forbudt.\nSlik utilbørlig utnyttelse kan særlig bestå i\na. å påtvinge, direkte eller indirekte, urimelige innkjøps- eller utsalgspriser eller andre urimelige forretningsvilkår,\nb. å begrense produksjon, avsetning eller teknisk utvikling til skade for forbrukerne,\nc. å anvende overfor handelspartnere ulike vilkår for likeverdige ytelser og derved stille dem ugunstigere i konkurransen,\nd. å gjøre inngåelsen av kontrakter avhengig av at medkontrahentene godtar tilleggsytelser som etter sin art eller etter vanlig forretningspraksis ikke har noen sammenheng med kontraktsgjenstanden.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Pålegg om å bringe en ulovlig atferd til opphør mv.",
+      "content": "Konkurransetilsynet kan pålegge foretak eller sammenslutninger av foretak som overtrer forbudene i § 10, § 11 eller i forskrift i medhold av § 14, å bringe overtredelsen til opphør. Pålegget kan omfatte ethvert tiltak som er nødvendig for å bringe overtredelsen til opphør. Strukturelle tiltak kan bare pålegges dersom det ikke finnes like effektive atferdsregulerende tiltak, eller dersom et atferdsregulerende tiltak vil være mer byrdefullt for foretaket.\nPålegg etter første ledd kan gis selv om Konkurransetilsynet vedtar overtredelsesgebyr mot foretaket etter § 29.\nDersom foretaket tilbyr avhjelpende tiltak i en sak som kan ende med et vedtak etter § 12 første ledd, kan Konkurransetilsynet avslutte saken ved et vedtak som gjør tiltakene bindende for foretaket. Vedtak etter første punktum kan fattes før Konkurransetilsynet har gjort en fullstendig vurdering av om inngrepsvilkåret i første ledd er oppfylt. Konkurransetilsynet skal i vedtaket gi en vurdering av foretakets atferd. Videre skal det vurderes om og begrunnes hvorfor de tilbudte tiltakene er egnet til og nødvendige for å avhjelpe de konkurransemessige problemene som Konkurransetilsynet har funnet. Vedtaket skal fastslå at Konkurransetilsynet ikke vil gå videre med saken etter første ledd eller § 29 dersom tiltakene gjennomføres. Konkurransetilsynet kan etter forslag fra foretakene oppnevne en forvalter til å bistå ved gjennomføringen av vedtak etter første punktum. Kongen kan i forskrift gi nærmere bestemmelser om forvalters stilling. Ved klage over vedtak etter dette ledd kan Konkurranseklagenemnda oppheve eller stadfeste Konkurransetilsynets vedtak.\nKonkurransetilsynet kan etter anmodning eller av eget tiltak omgjøre et vedtak etter tredje ledd dersom\na. faktiske forhold som var vesentlige for vedtaket, endrer seg,\nb. foretakene handler i strid med vedtaket, eller\nc. vedtaket bygger på ufullstendige, uriktige, eller villedende opplysninger fra foretakene.\nKonkurransetilsynet kan dersom det er\na. rimelig grunn til å anta at § 10, § 11 eller forskrift i medhold av § 14 er overtrådt, og\nb. fare for at konkurransen utsettes for varig og uopprettelig skade,\n0 Endret ved lover 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lover 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), opphevet ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Konkurransefremmende tiltak",
+      "content": "Dersom det er nødvendig for å fremme konkurransen i markedene, kan Kongen ved forskrift gripe inn mot vilkår, avtaler og handlinger som begrenser eller er egnet til å begrense konkurransen i strid med lovens formål.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Forholdet til EØS-avtalen",
+      "content": "Reglene i §§ 10 og 11 og i forskrifter etter § 14 gjelder med de begrensninger som følger av EØS-konkurranseloven § 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Inngrep mot foretakssammenslutninger mv.",
+      "content": "Konkurransetilsynet skal forby foretakssammenslutninger som i betydelig grad vil hindre effektiv konkurranse, særlig som et resultat av at en dominerende stilling skapes eller styrkes. Forbudet kan omfatte utfyllende bestemmelser som er nødvendige for at formålet med forbudet blir oppnådd.\nDersom Konkurransetilsynet finner at avhjelpende tiltak foreslått av melderne vil avbøte de konkurransebegrensende virkningene som foretakssammenslutningen kan føre til, skal tilsynet fatte vedtak om inngrep hvor foretakssammenlutningen tillates på disse vilkår. Konkurransetilsynet kan knytte forpliktelser til vedtaket for å sikre at vilkårene oppfylles.\nDersom en foretakssammenslutning er gjennomført, kan forbud etter første ledd omfatte påbud om avhendelse av aksjer eller andeler som er ervervet som ledd i foretakssammenslutningen, eller andre tiltak som er egnet til å gjenopprette den konkurransemessige situasjonen som forelå før foretakssammenslutningen ble gjennomført.\nKonkurransetilsynet kan oppnevne en forvalter til å bistå ved gjennomføringen av vedtak etter første ledd. Etter forslag fra melderne kan tilsynet oppnevne en forvalter til å bistå ved gjennomføringen av vedtak etter annet ledd. Forvalteren får sin godtgjørelse dekket av og kan inngå avtaler på vegne av dem som vedtaket retter seg mot. Kongen kan i forskrift gi nærmere bestemmelser om forvalters stilling.\nI den utstrekning opprettelsen av et fellesforetak som utgjør en foretakssammenslutning etter § 17, har til formål eller virkning å samordne fortsatt uavhengige foretaks konkurransemessige atferd, skal denne samordningen vurderes etter § 10 med sikte på å fastslå om det skal gripes inn mot foretakssammenslutningen.\n0 Endret ved lover 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:16 a",
+      "chapter": "4",
+      "section": "16 a",
+      "title": "Inngrep mot minoritetserverv",
+      "content": "Konkurransetilsynet skal forby erverv av andeler i et foretak selv om ervervet ikke fører til kontroll, dersom det i betydelig grad vil hindre effektiv konkurranse, særlig som et resultat av at en dominerende stilling skapes eller styrkes. Er ervervet gjennomført ved trinnvise oppkjøp, kan det gripes inn overfor de transaksjoner som har funnet sted innenfor en periode på to år regnet fra tidspunktet for det siste ervervet.\nVed inngrep etter første ledd gjelder bestemmelsene i § 16 annet til femte ledd tilsvarende.\n0 Tilføyd ved lov 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), endret ved lov 14 juni 2019 nr. 23 (ikr. 1 juli 2019 iflg. res. 14 juni 2019 nr. 737).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16a",
+        "source_heading": "§ 16 a."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Definisjon av foretakssammenslutning",
+      "content": "En foretakssammenslutning foreligger når\na. to eller flere tidligere uavhengige foretak eller deler av foretak fusjonerer, eller\nb.\n- en eller flere personer, som allerede kontrollerer minst ett foretak, eller\n- ett eller flere foretak\ndirekte eller indirekte, helt eller delvis, varig overtar kontrollen over ett eller flere andre foretak.\nNår det opprettes et fellesforetak som på varig grunnlag ivaretar alle funksjoner som hører inn under en uavhengig økonomisk enhet, foreligger en foretakssammenslutning i henhold til første ledd bokstav b.\nKontroll oppnås gjennom rettigheter, avtaler eller andre midler som enkeltvis eller sammen, de faktiske eller juridiske forhold tatt i betraktning, gir mulighet til å utøve avgjørende innflytelse over et foretaks virksomhet, særlig\na. eiendomsrett eller bruksrett til et foretaks samlede aktiva eller deler av dem,\nb. rettigheter eller avtaler som gir avgjørende innflytelse over et foretaks organer med hensyn til deres sammensetning, stemmegivning eller beslutninger.\nKontroll oppnås av personer eller foretak som\na. er innehavere av slike rettigheter eller har rettigheter i henhold til slike avtaler, eller\nb. uten å være innehavere av slike rettigheter eller å ha rettigheter i henhold til slike avtaler, kan utøve rettigheter som følger av dem.\nKongen kan gi nærmere forskrifter om hva som skal omfattes av første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Melding av foretakssammenslutninger mv.",
+      "content": "Partene i en fusjon etter § 17 første ledd bokstav a eller den eller de som samlet eller hver for seg varig overtar kontroll etter § 17 første ledd bokstav b, skal informere Konkurransetilsynet om foretakssammenslutningen ved en melding.\nMeldeplikten etter første ledd gjelder ikke\na. dersom de involverte foretakene har en samlet årlig omsetning i Norge under 1 milliard kroner, eller\nb. dersom bare ett av de involverte foretakene har en årlig omsetning i Norge over 100 millioner kroner.\nKonkurransetilsynet kan pålegge meldeplikt for foretakssammenslutninger som er unntatt fra meldeplikten etter annet ledd, dersom tilsynet finner rimelig grunn til å anta at konkurransen påvirkes, eller dersom særlige hensyn tilsier at tilsynet undersøker foretakssammenslutningen nærmere. Et slikt pålegg kan ikke gis senere enn tre måneder etter at endelig avtale er inngått eller kontroll er ervervet. Fristen løper fra det først inntrufne.\nDersom en foretakssammenslutning består i erverv av deler av ett eller flere foretak, enten de er selvstendige rettssubjekter eller ikke, skal det ved beregningen av omsetning etter annet ledd for selgers eller selgernes vedkommende bare tas hensyn til omsetningen for de deler som inngår i foretakssammenslutningen. Dersom det innenfor et tidsrom på to år gjennomføres to eller flere transaksjoner som nevnt i første punktum mellom de samme personer eller foretak, skal dette likevel betraktes som én og samme foretakssammenslutning, med virkning fra den dag den siste transaksjonen finner sted.\nKonkurransetilsynet kan pålegge melding for erverv av andeler i foretak som nevnt i § 16 a. Et slikt pålegg kan ikke gis senere enn 3 måneder etter endelig avtale om erverv av andeler.\nForetakssammenslutninger som er unntatt fra meldeplikten etter annet ledd, og erverv av andeler i foretak som nevnt i § 16 a, kan meldes frivillig til Konkurransetilsynet for å avklare om det er aktuelt med inngrep.\nMelding i henhold til første, tredje, femte og sjette ledd anses som mottatt først når kravene i § 18 b er oppfylt. Tilsvarende gjelder for forenklet melding i henhold til forskrift i medhold av § 18 a fjerde ledd.\nEn foretakssammenslutning som er omfattet av reglene om kontroll med foretakssammenslutninger i EØS-avtalen artikkel 57, er unntatt fra den alminnelige meldeplikten i første ledd.\nKongen kan gi forskrift om beregning av omsetning etter annet ledd, meldeplikt for foretakssammenslutninger som er unntatt fra meldeplikten etter annet ledd i næringer hvor særlige hensyn begrunner meldeplikt og om offentliggjøring av meldingene.\n0 Endret ved lover 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), 20 juni 2008 nr. 43 (ikr. 1 juli 2008 iflg. res. 20 juni 2008 nr. 630), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:18 a",
+      "chapter": "4",
+      "section": "18 a",
+      "title": "Hva meldingen skal inneholde",
+      "content": "Melding etter § 18 første ledd skal inneholde\na. kontaktinformasjon om partene i fusjonen eller den eller de som overtar kontroll,\nb. beskrivelse av foretakssammenslutningen,\nc. beskrivelse av de involverte foretakene og foretak i samme konsern,\nd. navn på de fem viktigste konkurrenter, kunder og leverandører i markeder i Norge, eller som Norge er en del av, hvor de involverte foretakene og foretak i samme konsern har horisontalt overlappende virksomhet,\ne. redegjørelse for horisontalt og vertikalt berørte markeder. Et marked er horisontalt berørt dersom minst to av partene er aktive på det samme produktmarkedet og partenes samlede markedsandel overstiger 20 prosent. Vertikalt berørte markeder er de markeder der en part opererer i et forutgående eller etterfølgende ledd til et marked hvor en annen part opererer og deres samlede markedsandel overstiger 30 prosent på hvert av de respektive markedene. Redegjørelsen skal inkludere en beskrivelse av markedsstrukturen i de berørte markedene, beskrivelse av de involverte foretakenes viktigste konkurrenter, kunder og leverandører i de berørte markedene, og beskrivelse av eventuelle etableringshindringer i de berørte markedene,\nf. en kortfattet beskrivelse av vertikalt overlappende markeder der en foretakssammenslutning er mellom en part som opererer i et forutgående eller etterfølgende ledd til et produktmarked hvor en annen part opererer, og partenes individuelle eller samlede markedsandel overstiger 30 prosent på minst ett av disse markedene. Beskrivelsen av disse markedene skal minst omfatte partenes tre viktigste konkurrenter, kunder og leverandører,\ng. redegjørelse for eventuelle effektivitetsgevinster,\nh. opplysninger om foretakssammenslutningen er underlagt tilsyn fra andre konkurransemyndigheter,\ni. seneste versjon av avtalen om foretakssammenslutning med vedlegg, og\nj. de involverte foretakenes siste årsberetning og årsregnskap.\nVed opprettelse av fellesforetak må meldingen også inneholde opplysninger om morselskapene fortsatt er virksomme på det samme markedet som fellesforetaket eller på et tidligere eller senere ledd i omsetningskjeden eller på et tilgrensende marked.\nKonkurransetilsynet kan i den enkelte sak lempe kravene til melding etter første ledd.\nKongen kan gi forskrift om nærmere krav til innhold i melding etter første ledd, herunder regler om forenklede meldinger som fraviker innholdskravet i første ledd.\n0 Tilføyd ved lov 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), endret ved lov 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18a",
+        "source_heading": "§ 18 a."
+      }
+    },
+    {
+      "provision_ref": "4:18 b",
+      "chapter": "4",
+      "section": "18 b",
+      "title": "Taushetsbelagte opplysninger",
+      "content": "Den som i behandlingen av en foretakssammenslutning, eller et minoritetserverv, gir opplysninger underlagt lovbestemt taushetsplikt til konkurransemyndighetene i henhold til § 18 og § 24 første ledd, eller i forslag til avhjelpende tiltak etter § 16 annet ledd, skal klart angi eller merke slike opplysninger og begrunne sin oppfatning. Avgiver skal samtidig fremlegge forslag til offentlig versjon. Dersom første punktum ikke er oppfylt, kan konkurransemyndighetene legge til grunn at avsender ikke motsetter seg at det gis innsyn i opplysningene.\nKongen kan gi forskrift om offentlige versjoner og begrunnelsesplikten som nevnt i første ledd.\n0 Tilføyd ved lov 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18b",
+        "source_heading": "§ 18 b."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Gjennomføringsforbud",
+      "content": "Foretakssammenslutninger som omfattes av reglene i § 18 første ledd, må ikke gjennomføres før Konkurransetilsynet har avsluttet behandlingen av saken. Det samme gjelder dersom Konkurransetilsynet har gitt pålegg om melding etter § 18 tredje eller femte ledd, melding er gitt etter § 18 sjette ledd eller meldeplikten følger av forskrift gitt etter § 18 niende ledd.\nKonkurransetilsynet kan etter søknad fra melderne gjøre unntak fra gjennomføringsforbudet etter første ledd i enkeltsaker. Konkurransetilsynet kan ved forskrift gjøre unntak fra gjennomføringsforbudet for grupper av foretak.\n0 Endret ved lover 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), 20 juni 2008 nr. 43 (ikr. 1 juli 2008 iflg. res. 20 juni 2008 nr. 630), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Vedtak",
+      "content": "Vedtak etter § 16 og § 16 a treffes av Konkurransetilsynet på grunnlag av melding etter § 18 første, tredje, femte eller sjette ledd, eller på grunnlag av melding etter forskrift gitt etter niende ledd.\nKonkurransetilsynet må innen 25 virkedager fra meldingen er mottatt, varsle at vedtak kan bli aktuelt. I varselet må Konkurransetilsynet vise at det er rimelig grunn til å anta at foretakssammenslutningen eller ervervet som nevnt i § 16 a i betydelig grad vil hindre effektiv konkurranse, særlig som et resultat av at en dominerende stilling skapes eller styrkes. Gis ikke slikt varsel, kan Konkurransetilsynet ikke gripe inn etter § 16 eller § 16 a.\nDersom melderne fremsetter forslag om avhjelpende tiltak innen 20 virkedager fra meldingen er mottatt, forlenges Konkurransetilsynets frist etter annet ledd med 10 virkedager. Fremsettes forslag innen fristen, kan Konkurransetilsynet innen 35 virkedager fatte vedtak om inngrep som tillater foretakssammenslutningen på de foreslåtte vilkår. Slikt vedtak kan fattes uten at partene er gitt forhåndsvarsel.\nKonkurransetilsynet må snarest mulig, og senest innen 70 virkedager fra meldingen er mottatt, fatte vedtak som stadfester fremsatt forslag om avhjelpende tiltak fra melderne eller legge frem begrunnet forslag til forbudsvedtak. Dersom melderne fremsetter nytt eller revidert forslag om avhjelpende tiltak senere enn 55 virkedager fra meldingen er mottatt, forlenges Konkurransetilsynets frist etter første punktum tilsvarende, likevel slik at fristen ikke kan overskride 85 virkedager fra meldingen er mottatt. Forslaget til forbudsvedtak forelegges partene til uttalelse med en frist på 15 virkedager. Konkurransetilsynet må treffe sitt vedtak innen 15 virkedager fra tilsynet har mottatt partenes uttalelse. Dersom det er fremsatt et nytt eller revidert forslag om avhjelpende tiltak etter at Konkurransetilsynet har lagt frem begrunnet forslag til forbudsvedtak, kan fristen for å treffe vedtak forlenges med 15 virkedager. Etter anmodning eller samtykke fra melderne kan fristen i femte punktum forlenges ytterligere med inntil 15 virkedager.\nForslag om avhjelpende tiltak anses ikke som fremsatt før forslag til offentlig versjon av forslaget i henhold til § 18 b er inngitt. Fristene i annet, tredje og fjerde ledd for Konkurransetilsynets saksbehandling begynner ikke å løpe før Konkurransetilsynet har mottatt forslag til offentlig versjon av dokumentene i henhold til § 18 b.\nFrister i annet og fjerde ledd for Konkurransetilsynets saksbehandling slutter å løpe dersom noen av de involverte foretak etter å ha mottatt skriftlig krav om å gi opplysninger innen en bestemt frist, ikke oppfyller kravet. Kravet anses ikke som oppfylt før Konkurransetilsynet har mottatt forslag til offentlig versjon av dokumentene i henhold til § 18 b. Partene skal informeres om at fristen har sluttet å løpe. Fristen begynner å løpe igjen når Konkurransetilsynet mottar de etterspurte opplysninger.\nDersom Konkurransetilsynet finner at det ikke foreligger grunnlag for inngrep etter § 16 eller § 16 a, skal melderne underrettes skriftlig om at saken henlegges. I saker hvor Konkurransetilsynet har varslet at inngrep kan bli aktuelt etter annet ledd, skal underretningen kort angi hvorfor det ikke foreligger grunnlag for inngrep. Konkurransetilsynet skal avslutte saksbehandlingen snarest mulig.\nKongen kan gi forskrift om offentlige versjoner av dokumenter som nevnt i femte og sjette ledd.\n0 Endret ved lover 20 juni 2008 nr. 43 (ikr. 1 juli 2008 iflg. res. 20 juni 2008 nr. 630), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671), 14 juni 2019 nr. 23 (ikr. 1 juli 2019 iflg. res. 14 juni 2019 nr. 737).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:20 a",
+      "chapter": "4",
+      "section": "20 a",
+      "title": "Klage og oppheving",
+      "content": "Vedtak som nevnt i § 20 første ledd kan påklages innen 15 virkedager. Konkurransetilsynet skal bringe klagen inn for Konkurranseklagenemnda senest 15 virkedager etter at den er mottatt. Konkurranseklagenemnda må treffe vedtak i klagesaken innen 60 virkedager etter at klagen er mottatt. Bestemmelsene om fristavbrudd i § 20 sjette ledd gjelder tilsvarende for Konkurranseklagenemndas saksbehandlingsfrister. Ved klage over vedtak etter § 16 annet ledd kan Konkurranseklagenemndas vedtak bare gå ut på å oppheve eller stadfeste Konkurransetilsynets vedtak. For øvrig gjelder reglene om klage i forvaltningsloven kapittel VI så langt de passer.\nDersom Konkurranseklagenemnda opphever et vedtak etter § 16 annet ledd fordi foretakssammenslutningen ikke i betydelig grad vil hindre effektiv konkurranse, særlig som et resultat av at en dominerende stilling skapes eller styrkes, er saken endelig avgjort. Ved en oppheving på annet grunnlag kan Konkurransetilsynet fatte et nytt vedtak etter § 20 første ledd. Bestemmelsene i § 20 annet og tredje ledd gjelder ikke. Tilsynet må snarest mulig og senest innen 45 virkedager fra vedtaket ble opphevet fatte vedtak om inngrep som tillater foretakssammenslutningen på vilkår foreslått av melderne eller legge frem begrunnet forslag til forbudsvedtak. Dersom melderne fremsetter forslag om avhjelpende tiltak senere enn 35 virkedager fra opphevingen av vedtaket, forlenges Konkurransetilsynets frist tilsvarende. Bestemmelsene i § 20 fjerde til syvende ledd gjelder for øvrig så langt de passer.\n0 Tilføyd ved lov 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), endret ved lover 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376), 14 juni 2019 nr. 23 (ikr. 1 juli 2019 iflg. res. 14 juni 2019 nr. 737).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20a",
+        "source_heading": "§ 20 a."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Forholdet til EØS-konkurranseloven",
+      "content": "Reglene i dette kapittelet gjelder med de begrensninger som følger av EØS-konkurranseloven § 7a og forskrifter gitt i medhold av EØS-konkurranseloven.\n0 Tilføyd ved lov 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), endret ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376, tidligere § 21 a).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Offentlighet",
+      "content": "Konkurransetilsynet, Konkurranseklagenemnda og departementet skal offentliggjøre sine vedtak. Ved offentliggjøringen skal partenes navn og vedtakets hovedinnhold oppgis. Opplysninger underlagt taushetsplikt etter forvaltningsloven § 13 første ledd nr. 2 kan offentliggjøres dersom det er nødvendig for å opplyse om vedtakets hovedinnhold.\n0 Endret ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Prisopplysning mv.",
+      "content": "Konkurransetilsynet kan, dersom det er nødvendig for å fremme konkurransen, pålegge foretak å merke, ha oppslag om eller gi annen underretning om pris, forretningsvilkår og kvalitet ved salg av varer og tjenester. Kongen kan gi forskrift om det samme.\n0 Endret ved lov 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "6:24",
+      "chapter": "6",
+      "section": "24",
+      "title": "Opplysningsplikt og gransking",
+      "content": "Enhver plikter å gi konkurransemyndighetene de opplysninger som disse myndigheter krever for å kunne utføre sine gjøremål etter loven eller for å kunne oppfylle Norges folkerettslige avtaler med en fremmed stat eller en internasjonal organisasjon. Opplysningene kan kreves gitt skriftlig eller muntlig innen en fastsatt frist både fra enkelte og fra grupper av foretak og kan nedtegnes og lagres som lydopptak.\nPå samme vilkår som nevnt i første ledd kan konkurransemyndighetene for gransking kreve utlevert alle typer informasjon og bærere av slik informasjon.\nOpplysninger som kreves etter første og annet ledd, kan gis uten hinder av den lovbestemte taushetsplikt som ellers påhviler skatte- og avgiftsmyndigheter og myndigheter som har til oppgave å overvåke offentlig regulering av ervervsvirksomhet.\nFørste og annet ledd gjelder selv om det er besluttet bevissikring etter § 25.\nKongen kan ved forskrift fastsette nærmere regler for opplysningsplikt og gransking.\n0 Endret ved lover 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531), 14 juni 2019 nr. 23 (ikr. 1 juli 2019 iflg. res. 14 juni 2019 nr. 737).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "Bevissikring",
+      "content": "Konkurransetilsynet kan foreta bevissikring etter annet ledd\na. når det er rimelig grunn til å anta at loven eller vedtak i medhold av loven er overtrådt, eller\nb. for å oppfylle Norges folkerettslige avtaler med en fremmed stat eller en internasjonal organisasjon, der det er rimelig grunn til å anta at vedkommende stat eller organisasjons konkurranseregler er overtrådt, og forholdet som utredes er av en slik art at det kan innebære en overtredelse av denne lov dersom den hadde kommet til anvendelse på forholdet.\nNår vilkårene i første ledd er oppfylt, kan Konkurransetilsynet kreve\na. å få adgang til lokaler, eiendommer, transportmidler og andre oppbevaringssteder hvor det kan finnes bevis for overtredelse,\nb. å få adgang til bolig dersom det er særlig grunn til å anta at bevis oppbevares der,\nc. å ta med ting som kan ha betydning som bevis for nærmere gransking og\nd. å forsegle forretningslokaler, bøker eller forretningspapirer så lenge undersøkelsen varer og dette anses nødvendig.\nOriginale dokumenter kan tas med når originalen i seg selv antas å ha en særskilt bevisverdi, når bevisverdien vil reduseres ved kopiering eller når dokumentet antas å være et særlig sentralt bevis for overtredelse av bestemmelser i denne lov. Når Konkurransetilsynet tar med originaldokumenter etter denne bestemmelsen, skal den kontrollerte gis kopi av dokumentene, så fremt det kan skje uten skade eller fare for etterforskningen.\nBegjæring om adgang til bevissikring framsettes av Konkurransetilsynet for tingretten på det sted hvor det mest praktisk kan skje. Retten treffer sin avgjørelse ved beslutning før bevissikringen settes i verk. Rettens beslutning skal angi kontrollens formål, herunder hvilken type overtredelse og hvilket marked tilsynet undersøker. Den begjæringen retter seg mot, skal ikke varsles om begjæringen eller beslutningen. Anke over beslutningen har ikke oppsettende virkning. Straffeprosessloven § 200 og § 201 første ledd, §§ 117 til 120, jf. §§ 204, 207, 208, 209, 213 og kapittel 26 samt forvaltningsloven § 15 annet ledd gjelder så langt de passer.\nDen kontrollerte skal motta en kopi av beslaglagt elektronisk materiale. Når Konkurransetilsynet begynner gjennomgangen av beslaglagt elektronisk materiale, har den kontrollerte eller dennes representant rett til å være til stede for å avklare om materialet inneholder opplysninger som er omfattet av taushetsplikt som nevnt i straffeprosessloven §§ 117 til 120. Dersom den kontrollerte og Konkurransetilsynet ikke blir enige om opplysninger er omfattet av taushetsplikt som nevnt i straffeprosessloven §§ 117 til 120, skal dette avgjøres av tingretten.\nKonkurransetilsynet kan kreve bistand av politiet til å iverksette beslutningen om bevissikring.\nDersom det ikke er tid til å avvente rettens beslutning, kan Konkurransetilsynet kreve at politiet avstenger områder der bevisene kan være inntil rettens beslutning foreligger.\nKongen kan ved forskrift fastsette nærmere regler om bevissikring og behandling av overskuddsinformasjon.\n0 Endret ved lover 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3, 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 14 juni 2019 nr. 23 (ikr. 1 juli 2019 iflg. res. 14 juni 2019 nr. 737).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "Innsyn i overtredelsessaker",
+      "content": "Før saken er avsluttet gjelder ikke offentleglova i saker om overtredelse av:\na. § 10, § 11, § 18 første ledd eller § 19 første ledd\nb. pålegg gitt i medhold av § 18 tredje eller femte ledd, § 24 første eller andre ledd eller § 25 andre ledd\nc. vedtak truffet i medhold av §§ 12 eller 42\nd. forskrift gitt i medhold av § 14\nOffentleglova gjelder heller ikke for dokumenter som er mottatt av Konkurransetilsynet i forbindelse med en lempningssøknad eller forliksforhandlinger etter § 29 a, også etter at saken er avsluttet. En sak som behandles av påtalemyndigheten, regnes ikke som avsluttet før påtalemyndigheten har avsluttet saken.\nForetak eller personer som Konkurransetilsynet etterforsker for overtredelse av konkurranseloven, skal etter krav gis adgang til å gjøre seg kjent med sakens dokumenter, såfremt det kan skje uten skade eller fare for etterforskningen eller tredjeperson. Forvaltningsloven § 19 gjelder tilsvarende. Blir kravet avslått, kan spørsmålet kreves avgjort av Konkurranseklagenemnda. Dersom etterforskningen omfatter flere foretak eller personer, gjelder innsynsretten ikke dokumenter som bare gjelder andre foretak eller personer.\n0 Endret ved lover 20 juni 2008 nr. 43 (ikr. 1 juli 2008 iflg. res. 20 juni 2008 nr. 630), 19 mai 2006 nr. 16 (ikr. 1 jan 2009 iflg. res. 17 okt 2008 nr. 1118), 19 juni 2009 nr. 83 (ikr. 26 juni 2009 iflg. res. 26 juni 2009 nr. 878), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671), 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376), 18 juni 2021 nr. 122 (i kraft 1 juli 2022 iflg. res. 8 april 2022 nr. 570), 16 des 2022 nr. 94 (i kraft 1 jan 2023 iflg. res. 16 des 2022 nr. 2248), 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Taushetsplikt om kilders identitet og skylderklæringer i lempningssøknader og forliksinnlegg",
+      "content": "Enhver som utfører tjeneste eller arbeid for konkurransemyndighetene, har taushetsplikt om identiteten til foretak eller person som gir tips om overtredelse av § 10 eller § 11. Taushetsplikten gjelder også overfor sakens parter og deres representanter. Anmodning om påbud om opphør etter konkurranseloven § 12 omfattes ikke av taushetsplikten.\nEnhver som utfører tjeneste eller arbeid for konkurransemyndighetene, har taushetsplikt om opplysninger som har sin opprinnelse i erklæringer fra et foretak om dets viten om en overtredelse av § 10 og foretakets egen delaktighet i overtredelsen, og som er utarbeidet spesielt med det formål å oppnå lempning, eller som ledd i forliksforhandlinger etter § 29 a.\nFor øvrig gjelder reglene i forvaltningsloven §§ 13 til 13 e og 13 g tilsvarende så langt de passer.\n0 Endret ved lover 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), 20 juni 2008 nr. 43 (ikr. 1 juli 2008 iflg. res. 20 juni 2008 nr. 630), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671), 18 juni 2021 nr. 127 (ikr. 1 juli 2021 iflg. res. 18 juni 2021 nr. 2026).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:27 a",
+      "chapter": "6",
+      "section": "27 a",
+      "title": "Innsyn i opplysninger undergitt taushetsplikt",
+      "content": "Part eller partsrepresentant som blir gjort kjent med opplysninger som nevnt i § 27 annet ledd, har taushetsplikt om opplysningene og kan bare bruke dem så langt det er nødvendig for å ivareta partens interesse i saken.\nEnhver med rettslig interesse i en avsluttet sak om overtredelse av § 10, § 11 eller pålegg etter § 12, skal også gis innsyn i opplysninger som er undergitt lovbestemt taushetsplikt, med mindre innsyn vil virke urimelig overfor den opplysningene gjelder. Retten til innsyn gjelder ikke opplysninger underlagt taushetsplikt etter § 27. Blir det krevd innsyn i taushetsbelagte opplysninger etter dette ledd, skal de som har krav på taushet, varsles og gis en frist til å uttale seg om spørsmålet. Avslag på krav om innsyn kan påklages til Konkurranseklagenemnda. Reglene i forvaltningsloven kapittel VI gjelder tilsvarende.\n0 Tilføyd ved lov 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), endret ved lover 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671), 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27a",
+        "source_heading": "§ 27 a."
+      }
+    },
+    {
+      "provision_ref": "7:28",
+      "chapter": "7",
+      "section": "28",
+      "title": "Tvangsmulkt",
+      "content": "For å sikre at enkeltvedtak i medhold av denne lov og pålegg etter § 24 overholdes, kan Konkurransetilsynet bestemme at den vedtaket retter seg mot, skal betale en løpende mulkt til staten inntil forholdet er rettet.\nKonkurransetilsynet bestemmer når mulkten begynner å løpe. Konkurransetilsynet kan helt eller delvis frafalle kravet om påløpt mulkt.\nKongen kan ved forskrift fastsette nærmere regler om ileggelse av tvangsmulkt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "7:29",
+      "chapter": "7",
+      "section": "29",
+      "title": "Overtredelsesgebyr",
+      "content": "Et foretak eller en sammenslutning av foretak kan ilegges overtredelsesgebyr dersom foretaket eller sammenslutningen av foretak eller noen som handler på deres vegne, forsettlig eller uaktsomt\na. overtrer §§ 10, 11, 18 første ledd eller 19 første ledd,\nb. overtrer vedtak etter §§ 12, 16, 16 a, 23 eller 42,\nc. unnlater å etterkomme pålegg etter §§ 18 tredje eller femte ledd, 24 eller 25,\nd. gir uriktige eller ufullstendige opplysninger til konkurransemyndighetene,\ne. bryter forsegling foretatt i medhold av § 25,\nf. overtrer forskrift i medhold av 14, §§ 18 niende ledd eller 23, eller\ng. medvirker til overtredelser av bokstav a til f.\nKonkurransetilsynet vedtar overtredelsesgebyr. Ved fastsettelse av gebyrets størrelse, skal det særlig legges vekt på foretakets omsetning, overtredelsens grovhet og varighet, samt lempning etter § 30 og § 31.\nVedtak om overtredelsesgebyr kan påklages til Konkurranseklagenemnda. Overtredelsesgebyret forfaller til betaling to måneder etter at vedtaket er mottatt. Vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg. Dersom foretaket klager til Konkurranseklagenemnda eller går til søksmål mot staten for å prøve vedtaket, suspenderes tvangskraften.\nAdgangen til å ilegge gebyr foreldes etter 10 år ved overtredelse av § 10 eller § 11 i denne loven. Andre overtredelser foreldes etter 5 år. Fristen avbrytes ved at Konkurransetilsynet tar skritt til sikring av bevis etter lovens § 25 eller meddeler et foretak at det er mistenkt for overtredelse av loven eller vedtak truffet i medhold av loven.\nDet skal beregnes renter av overtredelsesgebyr etter første ledd i samsvar med forsinkelsesrenteloven fra det tidspunktet Konkurransetilsynets vedtak er endelig eller saken er rettskraftig avgjort. Det skal også beregnes renter av overtredelsesgebyret fra forfallstidspunktet i tredje ledd og frem til forsinkelsesrenten begynner å løpe. Rentesatsen etter andre punktum skal tilsvare den pengepolitiske styringsrenten fastsatt av Norges Bank per 1. januar det aktuelle året tillagt ett prosentpoeng. Konkurransetilsynet kan ettergi renter etter andre punktum helt eller delvis dersom vedtaket ikke er endelig eller saken ikke er rettskraftig avgjort innen tre år fra vedtak om overtredelsesgebyr ble fattet og dette ikke skyldes forhold på foretakets side.\nKongen kan ved forskrift gi nærmere regler om utmåling av overtredelsesgebyr og beregning av renter etter femte ledd.\n0 Endret ved lover 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3, 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376), 16 des 2022 nr. 94 (i kraft 1 jan 2023 iflg. res. 16 des 2022 nr. 2248), 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "7:29 a",
+      "chapter": "7",
+      "section": "29 a",
+      "title": "Redusert overtredelsesgebyr ved kartellforlik",
+      "content": "Inngåelse av kartellforlik etter paragrafen her innebærer at overtredelsesgebyr etter § 29 ved overtredelse av § 10 reduseres med 10 prosent.\nDersom Konkurransetilsynet vurderer en sak som egnet til kartellforlik, kan det invitere ett eller flere foretak til forliksforhandlinger. Tilsynet skal da presentere saken, bevisene i tilsynets besittelse og tilsynets foreløpige vurdering av den mulige overtredelsen, og informere om hvilket overtredelsesgebyr som vurderes ilagt.\nDersom saken er egnet til kartellforlik, gir Konkurransetilsynet foretaket en frist på minst 15 virkedager til å utforme et forliksinnlegg. Innlegget skal inneholde en uforbeholden innrømmelse av overtredelsen, det maksimale nivå på overtredelsesgebyret foretaket kan akseptere, en bekreftelse på at foretaket har fått tilgang til tilsynets bevismateriale og en bekreftelse på at foretaket ønsker å inngå kartellforlik med de begrensningene dette medfører for kravene til Konkurransetilsynets utrednings- og begrunnelsesplikt. Part eller partsrepresentant som blir gjort kjent med forliksinnlegget, har taushetsplikt om opplysningene og kan bare benytte dem så langt det er nødvendig for å ivareta partens interesse i saken.\nNår forliksinnlegg er mottatt av Konkurransetilsynet, gis foretaket et forhåndsvarsel med en svarfrist. Etter utløp av fristen kan det fattes vedtak om redusert overtredelsesgebyr etter paragrafen her.\nDersom foretaket etter å ha mottatt forhåndsvarselet ikke ønsker å inngå kartellforlik, vil saken følge det ordinære saksbehandlingssporet i overtredelsessaker. Forliksinnlegget kan ikke benyttes som bevis i saken.\nReduksjon av overtredelsesgebyr etter paragrafen her kommer i tillegg til en eventuell reduksjon etter §§ 30 og 31.\nDepartementet kan gi forskrift om kartellforlik.\n0 Tilføyd ved lov 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29a",
+        "source_heading": "§ 29 a."
+      }
+    },
+    {
+      "provision_ref": "7:30",
+      "chapter": "7",
+      "section": "30",
+      "title": "Hel lempning av overtredelsesgebyr for overtredelse av konkurranseloven § 10",
+      "content": "Hel lempning av overtredelsesgebyr for overtredelse av § 10 skal gis til det første foretaket som i tilknytning til en bestemt sak oppfyller følgende vilkår:\na. Foretaket fremlegger av eget tiltak alle bevis som det besitter i samsvar med fremgangsmåten i annet ledd. Dette bevismaterialet må være tilstrekkelig til å\ni. få beslutning om bevissikring etter konkurranseloven § 25 i forbindelse med en antatt overtredelse av konkurranseloven § 10. Konkurransetilsynet må på det tidspunkt opplysningene blir fremlagt ikke besitte tilstrekkelige bevis til å kunne kreve slik beslutning, eller\nii. bevise overtredelse av konkurranseloven § 10. Konkurransetilsynet må på det tidspunkt opplysningene blir fremlagt ikke besitte tilstrekkelige bevis for slik overtredelse.\nb. Foretaket samarbeider av eget tiltak fullt ut under hele Konkurransetilsynets saksbehandling.\nc. Foretaket opphører av eget tiltak med deltakelsen i overtredelsen med mindre Konkurransetilsynet anmoder om noe annet.\nd. Foretaket har ikke søkt å tvinge andre foretak til å delta i overtredelsen.\nFremleggelse av bevis etter første ledd bokstav a kan skje\na. ved fremleggelse samtidig med lempningssøknaden,\nb. ved at foretaket gir en klar beskrivelse av bevismaterialets art og innhold og fremlegger alle bevis innen en frist fastsatt av Konkurransetilsynet, eller\nc. ved at foretaket gis en prioritert rett til lempning fra tidspunktet det ble fremsatt krav om lempning samtidig som foretaket samler bevis. Den prioriterte retten til lempning er kun gyldig i en begrenset periode fastsatt av Konkurransetilsynet.\n0 Endret ved lover 17 des 2004 nr. 100 (ikr. 1 jan 2005 iflg. res. 17 des 2004 nr. 1683), 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "7:31",
+      "chapter": "7",
+      "section": "31",
+      "title": "Delvis lempning av overtredelsesgebyr for overtredelse av konkurranseloven § 10",
+      "content": "Foretak som ikke oppfyller vilkårene for hel lempning i § 30, skal gis delvis lempning av overtredelsesgebyret dersom foretaket fremlegger bevis som vesentlig styrker Konkurransetilsynets muligheter til å bevise en overtredelse av konkurranseloven § 10 og oppfyller vilkårene i § 30 første ledd bokstav b og c. Reglene om bevisfremleggelse i § 30 annet ledd gjelder tilsvarende.\nDet første foretaket som i en bestemt sak oppfyller vilkårene i denne bestemmelsen, gis lempning på 30 til 50 prosent. Det andre foretaket som i samme sak oppfyller vilkårene i denne bestemmelsen, gis lempning på 20 til 30 prosent. Øvrige foretak som i samme sak oppfyller vilkårene i denne bestemmelsen, gis lempning på inntil 20 prosent.\nVed den nærmere fastsettelsen av lempning etter annet ledd skal det tas hensyn til hvor tidlig bevismaterialet ble fremlagt, styrken i de fremlagte bevisene og i hvilken grad foretaket har samarbeidet med Konkurransetilsynet.\nKongen kan gi forskrift om hel og delvis lempning av overtredelsesgebyr etter § 30 og § 31.\n0 Endret ved lover 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "7:32",
+      "chapter": "7",
+      "section": "32",
+      "title": "Straff",
+      "content": "Med bøter eller fengsel inntil 3 år straffes den som forsettlig eller grovt uaktsomt\na. overtrer §§ 10, 18 første ledd eller 19 første ledd,\nb. overtrer vedtak etter §§ 12 første eller femte ledd, 16 eller 16 a,\nc. unnlater å etterkomme pålegg etter § 24 eller § 25,\nd. gir uriktige eller ufullstendige opplysninger til konkurransemyndighetene,\ne. bryter forsegling foretatt i medhold av § 25, eller\nf. overtrer forskrift i medhold av § 14.\nEr en overtredelse av § 10 utført under særdeles skjerpende omstendigheter, kan fengsel inntil 6 år anvendes. Ved avgjørelse av om særdeles skjerpende omstendigheter foreligger, skal det legges vekt på om overtredelsen har vært søkt holdt skjult, om den har voldt betydelig økonomisk skade, om den har gitt betydelig økonomisk fordel og grovheten av overtredelsen for øvrig.\nForetak straffes ikke etter denne paragrafen eller etter straffeloven § 27 for overtredelse av loven her.\n0 Tilføyd ved lov 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "7:33",
+      "chapter": "7",
+      "section": "33",
+      "title": "(Opphevet)",
+      "content": "0 Tilføyd ved lov 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), opphevet ved lov 18 juni 2021 nr. 122 (i kraft 1 juli 2022 iflg. res. 8 april 2022 nr. 570).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "7:34",
+      "chapter": "7",
+      "section": "34",
+      "title": "Foreldelse",
+      "content": "For krav som følge av brudd på denne loven og EØS-avtalen artikkel 53 og 54 gjelder foreldelsesloven, herunder § 9 og § 11.\nSelv om foreldelsestiden er ute, kan krav som nevnt i første ledd dessuten settes frem ved særskilt søksmål. Et slikt søksmål må reises innen 1 år etter at det foreligger endelig vedtak eller rettskraftig dom i saken.\n0 Tilføyd ved lov 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633), endret ved lov 15 apr 2016 nr. 2 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 671).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "8:35",
+      "chapter": "8",
+      "section": "35",
+      "title": "Konkurranseklagenemndas oppgaver mv.",
+      "content": "Konkurranseklagenemnda skal behandle klager over Konkurransetilsynets vedtak og avgjørelser, med unntak av vedtak etter pristiltaksloven.\nDepartementet behandler klager over vedtak eller avgjørelser Konkurranseklagenemnda treffer i første instans.\n0 Tilføyd ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "8:36",
+      "chapter": "8",
+      "section": "36",
+      "title": "Konkurranseklagenemndas organisasjon, avgjørelser og vedtak",
+      "content": "Konkurranseklagenemnda skal ha en leder og så mange medlemmer som er nødvendig for å utføre nemndas oppgaver.\nLederen skal ha kompetanse tilsvarende kravene etter domstolloven § 54 første ledd. Lederen er embetsmann og utnevnes på åremål i seks år. Åremålet kan fornyes med én periode. De øvrige medlemmer av Konkurranseklagenemnda oppnevnes av Kongen for fire år, og kan gjenoppnevnes. Et oppnevnt nemndsmedlem kan ikke fratas vervet unntatt i tilfeller hvor det ikke er i stand til eller villig til å utføre vervet på en forsvarlig måte.\nKonkurranseklagenemnda treffer avgjørelser og vedtak i et utvalg på tre medlemmer. I særlige tilfeller kan lederen beslutte at avgjørelser og vedtak skal treffes av en forsterket nemnd på fem medlemmer. Lederen fastsetter sammensetning av nemnda for hver enkelt sak.\nKonkurranseklagenemnda treffer vedtak og avgjørelser ved alminnelig flertall. Det skal opplyses om enstemmighet. Ved dissens skal det opplyses hvem som er uenig og hvilke punkter uenigheten gjelder.\nDersom det ikke er til hinder for forsvarlig saksbehandling, kan nemndas leder beslutte at saksforberedende avgjørelser om innsyn etter offentleglova eller forvaltningsloven kan treffes av sekretariatet. Nemndas leder kan også beslutte at klager på Konkurransetilsynets avslag på krav om innsyn og krav om dekning av sakskostnader etter forvaltningsloven skal behandles av ett nemndsmedlem.\nKonkurranseklagenemndas sekretariat skal utføre de oppgavene som lederen pålegger, som er fastsatt i instruks eller som fremgår av forskrift etter denne lov.\nKongen kan i forskrift gi nærmere regler om organiseringen av og saksbehandlingen i Konkurranseklagenemnda.\n0 Tilføyd ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376), endret ved lov 16 des 2022 nr. 94 (i kraft 1 jan 2023 iflg. res. 16 des 2022 nr. 2248).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "8:37",
+      "chapter": "8",
+      "section": "37",
+      "title": "Skriftlig og muntlig saksbehandling m.m.",
+      "content": "Dersom Konkurransetilsynet ikke gir klager medhold, skal klagen og sakens øvrige dokumenter uten ugrunnet opphold oversendes Konkurranseklagenemnda. Dette gjelder likevel ikke interne dokumenter etter forvaltningsloven § 18 a.\nKonkurranseklagenemnda skal av eget tiltak og uten ugrunnet opphold oversende samtlige dokumenter det mottar i saken til partene og Konkurransetilsynet.\nKonkurranseklagenemnda skal på alle trinn i saksbehandlingen av eget tiltak vurdere om det er grunn til å holde møte med en part eller Konkurransetilsynet eller gjennomføre muntlige forhandlinger.\n0 Tilføyd ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376), endret ved lov 16 des 2022 nr. 94 (i kraft 1 jan 2023 iflg. res. 16 des 2022 nr. 2248).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "8:38",
+      "chapter": "8",
+      "section": "38",
+      "title": "Habilitet",
+      "content": "Et medlem av nemnda eller sekretariatet kan ikke delta i behandlingen av en sak som vedkommende har vært med på å behandle tidligere. Det samme gjelder for medlem av nemnda eller sekretariatet som har hatt som oppdrag å utrede saken eller deler av den. Departementet kan oppnevne setteleder når lederen er inhabil.\n0 Tilføyd ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "8:39",
+      "chapter": "8",
+      "section": "39",
+      "title": "Klage, omgjøring og søksmål",
+      "content": "Fristen for å klage på vedtak om overtredelsesgebyr etter § 29 første ledd er seks måneder fra partene mottok vedtaket. Fristen for å klage på vedtak om pålegg om å bringe ulovlig adferd til opphør etter § 12 første ledd og vedtak om pålegg om avhjelpende tiltak etter § 42 er to måneder fra partene mottok vedtaket. Konkurransetilsynet skal informere Konkurranseklagenemnda når det mottar en klage på et vedtak.\nI saker hvor Konkurransetilsynet har fattet vedtak om avhjelpende tiltak etter § 42, skal vedtaket gis oppsettende virkning frem til klageinstansen har ferdigbehandlet klagen. Første punktum gjelder ikke hvis konkurransebegrensningen klart vil forverres ved at vedtaket gis oppsettende virkning.\nSøksmål om Konkurransetilsynets vedtak kan ikke reises med mindre adgangen til å klage til Konkurranseklagenemnda er benyttet. Søksmål kan likevel reises når det er gått seks måneder fra klage første gang ble fremsatt og det ikke skyldes forsømmelse fra klagerens side at klageinstansens vedtak eller avgjørelse ikke foreligger.\nSøksmål om Konkurranseklagenemndas vedtak må reises innen tre måneder etter at underretning om vedtaket er mottatt. Det kan gis oppfriskning for oversittelse av fristen etter reglene i tvisteloven §§ 16-12 til 16-14. Retten kan prøve alle sider av saken. Tvisteloven gjelder ellers så langt den passer.\nSøksmål om Konkurranseklagenemndas vedtak skal rettes mot staten ved Konkurransetilsynet eller mot det eller de foretakene som er part i saken for Konkurranseklagenemnda, jf. femte ledd. Søksmål anlegges for Gulating lagmannsrett.\nStaten ved Konkurransetilsynet kan bare reise søksmål om Konkurranseklagenemndas vedtak i saker om håndheving av konkurranseloven §§ 10 og 11, § 12 tredje og femte ledd, forskrift gitt i medhold av § 14, og EØS-avtalen artikkel 53 og 54.\n0 Tilføyd ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376), endret ved lover 20 juni 2023 nr. 80 (i kraft 1 juli 2023 iflg. res. 20 juni 2023 nr. 959), 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "8:40",
+      "chapter": "8",
+      "section": "40",
+      "title": "Adgang til retting",
+      "content": "Konkurranseklagenemnda kan beslutte å rette et vedtak som på grunn av skrive- eller regnefeil, misforståelse, forglemmelse eller lignende klar feil har fått en utforming som ikke stemte med nemndas mening.\n0 Tilføyd ved lov 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "9:41",
+      "chapter": "9",
+      "section": "41",
+      "title": "Igangsetting av markedsetterforskning",
+      "content": "Konkurransetilsynet kan gjennomføre en markedsetterforskning i ett eller flere markeder eller deler av markeder hvis det foreligger forhold som tilsier at konkurransen er eller står i fare for å bli vesentlig begrenset i strid med lovens formål.\nFør det treffes beslutning om å åpne en markedsetterforskning, skal Konkurransetilsynet gjennomføre en høring av et utkast til beslutning om markedsetterforskning. Høringsfristen skal være minst seks uker.\nEtter at høringen er avsluttet, skal Konkurransetilsynet beslutte om det skal gjennomføres en markedsetterforskning. Beslutningen skal tas uten ugrunnet opphold, og senest innen fire måneder etter høringsfristens utløp. En beslutning om å gjennomføre en markedsetterforskning skal offentliggjøres uten ugrunnet opphold etter at beslutningen ble truffet. Beslutningen kan ikke påklages.\nUtkast til beslutning etter annet ledd og beslutning etter tredje ledd om å gjennomføre en markedsetterforskning skal inneholde informasjon om hvilke varer, tjenester, aktører og markeder som vil være omfattet av markedsetterforskningen.\n0 Tilføyd ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "9:42",
+      "chapter": "9",
+      "section": "42",
+      "title": "Avhjelpende tiltak i saker om markedsetterforskning",
+      "content": "Konkurransetilsynet kan pålegge avhjelpende tiltak hvis det foreligger forhold som vesentlig begrenser eller er egnet til å vesentlig begrense konkurransen i strid med lovens formål. Vedtaket kan omfatte ethvert tiltak som er nødvendig for å fjerne eller redusere konkurransebegrensningen. Strukturelle tiltak kan likevel bare pålegges hvis det ikke finnes like effektive adferdsregulerende tiltak, eller hvis et adferdsregulerende tiltak vil være mer byrdefullt for foretaket.\nI saker som omfattes av første ledd, kan et foretak selv foreslå avhjelpende tiltak. Konkurransetilsynet kan da avslutte saken med et vedtak som gjør tiltakene bindende for foretaket. Vedtaket skal fastslå at Konkurransetilsynet ikke går videre med saken etter første ledd hvis tiltakene gjennomføres.\nPålegg om avhjelpende tiltak etter første og annet ledd kan treffes senest 18 måneder etter at beslutningen om å gjennomføre en markedsetterforskning er offentliggjort etter § 41 tredje ledd. I særlige tilfeller kan Konkurransetilsynet forlenge fristen med inntil seks måneder.\nKonkurransetilsynet kan oppnevne en forvalter til å bistå ved gjennomføringen av vedtak etter første eller annet ledd. Forvalteren skal få sin godtgjørelse dekket av Konkurransetilsynet. Kongen kan gi forskrift om forvalterens stilling og oppgaver.\nKonkurransetilsynet kan etter anmodning eller av eget tiltak omgjøre et vedtak etter første eller annet ledd hvis\na. sentrale faktiske forhold som var vesentlige for vedtaket, endrer seg\nb. det viser seg at vedtaket bygger på ufullstendige, uriktige eller villedende opplysninger fra foretakene.\nVed klage på vedtak etter denne bestemmelsen kan Konkurranseklagenemnda oppheve eller stadfeste Konkurransetilsynets vedtak. Konkurranseklagenemnda kan ikke fatte nytt vedtak om avhjelpende tiltak. Hvis klageinstansen kommer til at vilkårene i første ledd første punktum er oppfylt, men at Konkurransetilsynets tiltak ikke er nødvendige, forholdsmessige eller egnet til å avhjelpe konkurransebegrensningen, kan vedtaket oppheves og saken sendes tilbake til tilsynet for en ny vurdering. Et nytt vedtak i saken må da fattes innen tre måneder. Fristen i tredje ledd gjelder ikke når Konkurransetilsynet fatter nytt vedtak etter en klagebehandling.\n0 Tilføyd ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "9:43",
+      "chapter": "9",
+      "section": "43",
+      "title": "Forholdet til reglene om kontroll med foretakssammenslutninger",
+      "content": "Avhjelpende tiltak etter § 42 kan ikke omfatte salg av eiendeler som er ervervet som ledd i en foretakssammenslutning der Konkurransetilsynet, Konkurranseklagenemnda, domstolene, Europakommisjonen eller Den europeiske unions domstol har avsluttet behandlingen av saken. Dette gjelder likevel ikke når det har gått mer enn ti år etter at behandlingen av foretakssammenslutningen ble avsluttet.\n0 Tilføyd ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "9:44",
+      "chapter": "9",
+      "section": "44",
+      "title": "Adgangen til gjenerverv av eiendeler som selges som følge av pålegg om avhjelpende tiltak",
+      "content": "Et foretak kan ikke gjenerverve eiendeler som har blitt solgt som følge av et pålegg om avhjelpende tiltak etter § 42, før fem år etter salget, med mindre markedsforholdene har endret seg i en slik grad at det ikke lenger er grunnlag for vedtaket.\n0 Tilføyd ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "9:45",
+      "chapter": "9",
+      "section": "45",
+      "title": "Adgang til å iverksette ny markedsetterforskning",
+      "content": "Konkurransetilsynet kan ikke åpne markedsetterforskning i et marked som i det vesentlige tilsvarer et marked hvor det i løpet av de siste tre årene er gjennomført markedsetterforskning.\nFørste ledd gjelder ikke hvis en ny markedsetterforskning har et annet formål eller omfatter andre aktører enn den gjennomførte markedsetterforskningen.\n0 Tilføyd ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "9:46",
+      "chapter": "9",
+      "section": "46",
+      "title": "Avslutning av saker om markedsetterforskning",
+      "content": "Det skal offentliggjøres at en markedsetterforskning avsluttes. Når saken avsluttes uten at det fattes et vedtak om pålegg om avhjelpende tiltak, skal Konkurransetilsynet angi hvorfor tilsynet ikke finner grunnlag for å gå videre med saken.\n0 Tilføyd ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "9:47",
+      "chapter": "9",
+      "section": "47",
+      "title": "Forskrifter",
+      "content": "Kongen kan gi forskrift om Konkurransetilsynets gjennomføring av markedsetterforskning etter dette kapittelet.\n0 Tilføyd ved lov 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "10:48",
+      "chapter": "10",
+      "section": "48",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1\nFra samme tid oppheves lov 11. juni 1993 nr. 65 om konkurranse i ervervsvirksomhet.\n0 Endret ved lover 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633, tidligere § 32), 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376, tidligere § 35), 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307, tidligere § 41).\n1 Fra 1 mai 2004 iflg. res. 5 mars 2004 nr. 479.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "10:49",
+      "chapter": "10",
+      "section": "49",
+      "title": "Overgangsbestemmelser",
+      "content": "Forskrifter, vedtekter, reglementer og instrukser som er gitt i medhold av lov 11. juni 1993 nr. 65 om konkurranse i ervervsvirksomhet gjelder fortsatt så langt de passer, inntil Kongen opphever eller endrer disse i medhold av denne lov eller ved særskilt bestemmelse.\nEnkeltvedtak i medhold av lov 11. juni 1993 nr. 65 om konkurranse i ervervsvirksomhet opprettholdes i den perioden som er forutsatt i vedtakene inntil de blir endret eller opphevet i medhold av denne lov eller ved særskilt bestemmelse av Kongen.\nOvertredelsesgebyr og straff etter denne loven kommer bare til anvendelse på overtredelser som er begått etter lovens ikrafttredelse.\nKongen kan ellers gi de overgangsbestemmelser som er nødvendige.\n0 Endret ved lover 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633, tidligere § 33), 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376, tidligere § 36), 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307, tidligere § 42).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "10:50",
+      "chapter": "10",
+      "section": "50",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –\n0 Endret ved lover 14 juni 2013 nr. 35 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 633, tidligere § 34), 15 apr 2016 nr. 2 (ikr. 1 apr 2017 iflg. res. 24 mars 2017 nr. 376, tidligere § 37), 20 des 2024 nr. 100 (i kraft 1 juli 2025 iflg. res. 20 des 2024 nr. 3307, tidligere § 43).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    }
+  ]
+}

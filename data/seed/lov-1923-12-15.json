@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1923-12-15",
+  "type": "statute",
+  "title": "Lov om pengeforpliktelser, lydende på betaling i gull",
+  "short_name": "Lov om betaling i gull",
+  "status": "in_force",
+  "issued_date": "1923-12-15",
+  "in_force_date": "1923-12-15",
+  "url": "https://lovdata.no/dokument/NLO/lov/1923-12-15",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Har en skyldner rettsgyldig vedtatt å betale en pengeforpliktelse i kroner i gull, og fordringshaveren nekter å motta betaling i Norges Banks pengesedler efter pålydende gullverdi, kan skyldneren kreve utsettelse med betalingen, så lenge banken er fritatt for plikten til å innløse sine sedler efter deres pålydende.​1 Frafaller fordringshaveren sin nektelse kan han først efter tre måneders varsel kreve betaling som foran anført. I utsettelsestiden svares rente etter to av hundre årlig. Renten betales i banksedler efter deres pålydende.\nRetten til utsettelse kan ikke på forhånd frafalles av andre enn staten, kommunene, Norges Bank og helt statsgaranterte banker (Hypotekbanken, Småbruk- og Boligbanken og Fiskeribanken).\n0 Endret ved lov 28 juni 1946 nr. 2.\n1 Se lov 23 april 1892 § 7. 3dje ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Har en skyldner rettsgyldig vedtatt å betale en pengeforpliktelse i kroner i gull, og fordringshaveren nekter å motta betaling i Norges Banks pengesedler efter pålydende gullverdi, kan skyldneren kreve utsettelse med betalingen, så lenge banken er fritatt for plikten til å innløse sine sedler efter deres pålydende.​1 Frafaller fordringshaveren sin nektelse kan han først efter tre måneders varsel kreve betaling som foran anført. I utsettelsestiden svares rente etter to av hundre årlig. Renten betales i banksedler efter deres pålydende.\nRetten til utsettelse kan ikke på forhånd frafalles av andre enn staten, kommunene, Norges Bank og helt statsgaranterte banker (Hypotekbanken, Småbruk- og Boligbanken og Fiskeribanken).\n0 Endret ved lov 28 juni 1946 nr. 2.\n1 Se lov 23 april 1892 § 7. 3dje ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

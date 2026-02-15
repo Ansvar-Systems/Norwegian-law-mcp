@@ -1,0 +1,135 @@
+{
+  "id": "LOV-1982-03-26-4",
+  "type": "statute",
+  "title": "Lov om jubileums- og minnemynter",
+  "short_name": "Jubileums- og minnemyntloven",
+  "status": "in_force",
+  "issued_date": "1982-03-26",
+  "in_force_date": "1982-03-26",
+  "url": "https://lovdata.no/dokument/NLO/lov/1982-03-26-4",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen kan i særlige tilfelle bestemme at det utmyntes jubileums- eller minnemynter i sølv med pålydende opp til 100 kroner og at disse skal være tvungne betalingsmidler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen fastsetter antall mynter som kan preges samt myntens metallinnhold, form, størrelse, vekt og preg etter å ha innhentet uttalelse fra Norges Bank.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Kongen skal fastsette at ingen skal være forpliktet til i èn betaling å motta et nærmere angitt beløp som ikke må være høyere enn 1.000 kroner i den mynt som settes i sirkulasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Kongen kan bestemme at differansen mellom pålydende verdi av den mynt som settes i sirkulasjon og produksjonsomkostningene skal disponeres til almennyttige formål etter Kongens bestemmelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Lov 17. april 1875 om Pengevæsenet med tilleggslover gjelder så langt det passer og ikke annet følger av denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen kan i særlige tilfelle bestemme at det utmyntes jubileums- eller minnemynter i sølv med pålydende opp til 100 kroner og at disse skal være tvungne betalingsmidler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen fastsetter antall mynter som kan preges samt myntens metallinnhold, form, størrelse, vekt og preg etter å ha innhentet uttalelse fra Norges Bank.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Kongen skal fastsette at ingen skal være forpliktet til i èn betaling å motta et nærmere angitt beløp som ikke må være høyere enn 1.000 kroner i den mynt som settes i sirkulasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Kongen kan bestemme at differansen mellom pålydende verdi av den mynt som settes i sirkulasjon og produksjonsomkostningene skal disponeres til almennyttige formål etter Kongens bestemmelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Lov 17. april 1875 om Pengevæsenet med tilleggslover gjelder så langt det passer og ikke annet følger av denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    }
+  ]
+}

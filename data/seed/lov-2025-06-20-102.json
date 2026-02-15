@@ -1,0 +1,1503 @@
+{
+  "id": "LOV-2025-06-20-102",
+  "type": "statute",
+  "title": "Lov om jakt, fangst og felling av vilt mv. (viltressursloven)",
+  "short_name": "Viltressursloven",
+  "status": "in_force",
+  "issued_date": "2025-06-20",
+  "in_force_date": "2026-07-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2025-06-20-102",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Lovens formål er å sikre at forvaltning av viltressursene gjennom jakt, fangst, felling og annen håndtering av vilt skjer på en bærekraftig og forsvarlig måte, i samsvar med naturmangfoldloven og dyrevelferdsloven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Geografisk virkeområde",
+      "content": "Loven gjelder på norsk landterritorium, i norsk territorialfarvann ved Fastlands-Norge og i Norges økonomiske sone opprettet i medhold av lov 17. desember 1976 nr. 91 om Norges økonomiske sone.\nLoven gjelder ikke på Svalbard og Jan Mayen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I loven forstås med:\na. vilt: naturlig viltlevende landpattedyr, fugler, krypdyr og amfibier, inkludert krysninger med andre arter, uavhengig av om viltet lever eller kan leve vilt i Norge\nb. jakt: høsting av vilt ved bruk av skytevåpen som avliver viltet, og den forutgående lokaliseringen av viltet og ettersøk og avliving av såret vilt\nc. fangst: høsting av vilt ved bruk av felle som avliver viltet eller fanger viltet for avliving, og avliving av fanget vilt\nd. lisensfelling: felling av et bestemt antall individer av en viltart med hjemmel i naturmangfoldloven § 18, der kvoten er fastsatt av en offentlig myndighet og det kreves at jegeren er registrert som lisensjeger i Jegerregisteret for å delta\ne. skadefelling: felling av ett eller flere bestemte individer av en viltart med hjemmel i naturmangfoldloven § 18 første ledd bokstav a, b, c eller g og fjerde ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Samiske interesser",
+      "content": "Ved vedtak i medhold av loven her som berører samiske interesser direkte, skal det innenfor rammen som gjelder for den enkelte bestemmelse, legges tilbørlig vekt på hensynet til naturgrunnlaget for samisk kultur.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Forholdet til folkeretten",
+      "content": "Loven gjelder med de avgrensningene som følger av internasjonale avtaler og folkeretten ellers.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Statlige viltmyndigheter",
+      "content": "Kongen, departementet, direktoratet og statsforvalteren er statlige viltmyndigheter og skal arbeide for å fremme formålet med loven og gi råd og veiledning i saker om viltforvaltning.\nKongen kan gi forskrift om opprettelse av villreinnemnder, regionale rovviltnemnder og andre særlige samarbeidsorganer og deres virksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Fylkeskommunens og kommunens oppgaver etter loven, klagerett og omgjøring",
+      "content": "Fylkeskommunen og kommunen skal arbeide for å fremme formålet med loven og gi råd og veiledning i saker om viltforvaltning.\nStatsforvalteren er klageinstans for enkeltvedtak truffet av kommunen etter loven her eller forskrift gitt i medhold av loven her.\nNår vilkårene for omgjøring etter forvaltningsloven § 35 er oppfylt, kan kommunens vedtak etter §§ 42 og 52 også omgjøres av Kongen.\nKongen kan gi forskrift om at oppgaver etter loven her skal legges til fylkeskommunen eller kommunen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Jegerregisteret",
+      "content": "Kongen skal føre et sentralt jegerregister med nødvendige opplysninger for at jakt, fangst og felling kan utøves og viltet forvaltes i samsvar med loven her.\nKongen kan gi forskrift om behandling av personopplysninger i registeret, blant annet om formålet med behandling av opplysningene, hvem som er behandlingsansvarlig, hvilke opplysninger og opplysningskategorier som kan registreres, hvem som har tilgang til opplysningene, adgang til å utlevere opplysningene, retting, sperring og sletting av opplysninger og om informasjonssikkerhet og internkontroll.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Jegeravgift, fellingsavgift og viltfond",
+      "content": "Kongen skal gi forskrift om innkreving av en jegeravgift og av en fellingsavgift for villrein.\nKongen skal forvalte et statlig viltfond som har til formål å fremme viltforvaltningen. Inntektene fra jegeravgiften og fra fellingsavgiften for villrein skal tilfalle det statlige viltfondet.\nFylkeskommuner som mottar overføring fra det statlige viltfondet, skal etablere fylkeskommunale viltfond.\nI kommuner der det er adgang til jakt på elg, hjort eller rådyr, skal kommunen etablere et kommunalt viltfond som har til formål å fremme viltforvaltningen i kommunen. Kommunen kan gi forskrift om fastsetting og innkreving av fellingsavgift for hvert dyr som felles av elg og hjort, innenfor rammer fastsatt av Stortinget. Inntektene fra fellingsavgiftene skal tilfalle det kommunale viltfondet.\nKongen kan gi forskrift om kommunale og fylkeskommunale viltfond, blant annet om hvilke inntekter som skal eller kan tilfalle viltfondene, og hvordan midlene kan disponeres.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Adgangen til jakt og fangst",
+      "content": "Jakt og fangst er tillatt dersom det er åpnet for det i eller i medhold av lov.\nInnenfor rammene av naturmangfoldloven § 16 kan Kongen gi forskrift om å tillate jakt og fangst, blant annet om hvilke viltarter det er tillatt å jakte på eller drive fangst av, til hvilke tider og i hvilke områder det er tillatt med jakt og fangst, og om kvoter for jakt og fangst. Det kan fastsettes ulike tider for jakt og fangst for de enkelte delene av landet. Tidsrammen kan gjelde en bestemt tid av døgnet eller uken, og den kan settes forskjellig avhengig av viltets kjønn og alder.\nI forskrift etter andre ledd bør det ikke tillates jakt og fangst i hekke- eller yngletiden for vedkommende art.\nKongen kan gi forskrift om tildeling av oppgaver etter andre ledd til fylkeskommunen og kommunen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Sanking av fugleegg og dun",
+      "content": "Sanking av fugleegg fra viltarter og sanking av dun fra fuglereir er tillatt dersom det er åpnet for det i eller i medhold av lov.\nInnenfor rammene av naturmangfoldloven § 16 kan Kongen gi forskrift om å tillate sanking av fugleegg fra viltarter, blant annet om hvilke arter det kan sankes egg fra, og til hvilke tider og i hvilke områder det kan sankes. Kongen kan gi forskrift om rapportering til statistiske eller vitenskapelige formål i forbindelse med sanking av fugleegg fra viltarter.\nKongen kan gi forskrift om å tillate sanking av dun fra fuglereir, blant annet om hvilke fuglearter det kan sankes dun fra, og til hvilke tider og i hvilke områder det kan sankes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Lodden (jakt på ender) av hensyn til samisk kultur og sedvane",
+      "content": "Innenfor rammene av naturmangfoldloven § 16 kan Kongen gi forskrift om å tillate og regulere lodden (jakt på ender) i Kautokeino kommune, blant annet om hvilke arter det er tillatt å jakte på, i hvilke områder og til hvilke tider det kan jaktes, kvoter for jakten, vilkår for deltakelse i jakten og plikter ved deltakelse i jakten.\nKommunen kan tildeles oppgaver i forskrift etter første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Dager med jakt- og fangstforbud",
+      "content": "Jakt og fangst er ikke tillatt fra og med 24. desember til og med 31. desember eller på langfredag, påskeaften og første påskedag.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Jegerprøve",
+      "content": "Jakt og fangst kan bare utøves av personer som har bestått jegerprøven.\nKongen kan gi forskrift om jegerprøven, blant annet om krav til alder, obligatorisk kurs og eksamen, kursavgift, eksamensgebyr, autorisasjon som jegerprøveinstruktør og unntak fra kravet om å ha bestått jegerprøven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Registrering i Jegerregisteret",
+      "content": "Den som skal utøve jakt og fangst, skal være registrert i Jegerregisteret, jf. § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Betaling av jegeravgift",
+      "content": "Den som utøver jakt og fangst, skal ha betalt jegeravgift etter § 9 for det aktuelle jaktåret. Jaktåret regnes fra og med 1. april til og med 31. mars.\nDokumentasjon på betalt jegeravgift skal medbringes under jakt og fangst og fremvises på forespørsel fra grunneier, noen som opptrer på grunneiers vegne, eller jaktoppsynet.\nKongen kan gi forskrift om jegeravgift, blant annet om fritak fra betaling av jegeravgift og krav til gyldig dokumentasjon for betalt jegeravgift.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Aldersgrenser ved utøvelse av jakt og fangst",
+      "content": "Kongen kan gi forskrift om aldersgrenser for å utøve jakt og fangst.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Unntak fra kravet om jegerprøve mv. for deltakere under jakt og fangst",
+      "content": "Kravene i §§ 14 til 17 til den som utøver jakt og fangst, gjelder ikke for deltakere under jakt og fangst som ikke bruker jaktvåpen, eller som ikke er ansvarlige for feller.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Rapportering og innlevering for statistiske eller vitenskapelige formål",
+      "content": "Kongen kan gi forskrift om\na. krav til rapportering av opplysninger til statistiske eller vitenskapelige formål i forbindelse med jakt og fangst og registrering av opplysningene\nb. krav til innlevering av hele eller deler av vilt til formål som nevnt i bokstav a\nc. tilleggsavgift til jegeravgiften for det påfølgende jaktåret ved manglende rapportering etter bokstav a eller manglende innlevering etter bokstav b.\nFastsetting av tilleggsavgift etter forskrift gitt i medhold av første ledd bokstav c er ikke et enkeltvedtak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Kompetansekrav",
+      "content": "Kongen kan gi forskrift om kompetansekrav som skal være oppfylt før utøvelse av jakt, fangst eller sanking av fugleegg og dun, blant annet krav om bestått skyteprøve for jakt på storvilt og organisering av en slik prøve.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Forsvarlig jakt- og fangstutøvelse",
+      "content": "Jakt og fangst skal utøves på en dyrevelferdsmessig forsvarlig måte som ikke utgjør en fare for mennesker, husdyr eller eiendom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Undersøkelses- og ettersøksplikt",
+      "content": "Den som under jakt skyter mot vilt, skal forvisse seg om viltet er truffet. Et såret vilt skal så snart som mulig avlives med et lovlig jaktvåpen på en dyrevelferdsmessig forsvarlig og sikker måte. Kongen kan gi forskrift om avliving av såret småvilt som fraviker kravet om lovlig jaktvåpen.\nDersom jegeren ved umiddelbar undersøkelse av og rundt skuddstedet verken finner dyret eller kan utelukke at det er truffet, skal jegeren starte et ettersøk. Jegeren skal ikke jakte på nye dyr mens ettersøket pågår.\nVed ettersøk av hjortevilt, villsvin og muflon skal jegeren varsle kommunen dersom dyret ikke blir funnet innen utgangen av den dagen det ble såret. Jegeren skal vederlagsfritt gjennomføre ettersøket frem til dyret blir avlivet eller funnet dødt, eller kommunen beslutter at ettersøket skal avsluttes. Kommunen kan beslutte å ta ledelsen av eller yte bistand ved slikt ettersøk og at ettersøket skal avsluttes.\nVed ettersøk av gaupe skal jegeren varsle statsforvalteren og nærmeste politimyndighet uten opphold, og i tillegg varsle kommunen dersom dyret ikke blir funnet innen utgangen av den dagen det ble såret. Statsforvalteren avgjør den videre gjennomføringen og avslutningen av ettersøk av gaupe. Jegeren skal vederlagsfritt bistå forvaltnings- eller politimyndigheten i det videre ettersøket.\nAndre til fjerde ledd gjelder også for jaktlaget når jegeren deltar i et jaktlag.\nEtter at kommunen har besluttet å avslutte ettersøket etter tredje ledd, kan kommunen beslutte å starte søk etter dyret som et offentlig ettersøk, jf. § 55.\nKongen kan gi forskrift om ettersøk, blant annet om jegerens og jaktlagets plikter ved ettersøk, hvor lenge ettersøket skal vare, og krav om ettersøkshund.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Rett til å forfølge såret storvilt på andres grunn ved ettersøk",
+      "content": "Den som under jakt sårer storvilt, har rett til å forfølge og tilegne seg viltet også på grunn der andre har retten til jakt og fangst. Jegeren har bevisbyrden for at forfølgningen er lovlig. Forfølgningsretten opphører ved utgangen av den dagen viltet kom inn på grunnen der andre har retten til jakt og fangst. Kommunen kan ved ettersøk etter § 22 tredje ledd beslutte å forlenge adgangen til å forfølge viltet etter leddet her.\nJegeren skal snarest mulig gi grunneieren og kommunen melding om forfølgning som nevnt i første ledd og om utfallet.\nGrunneieren har ikke rett til å jakte på eller fange vilt som forfølges etter første ledd, men kan likevel avlive viltet på forfølgerens vegne når dyrevelferdshensyn tilsier det.\nVed forfølgning etter første ledd er det ikke tillatt å løsne skudd i andres hage eller på andres gårdstun. Jegeren plikter å erstatte skade som forfølgningen påfører andres eiendom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Jaktvåpen og ammunisjon",
+      "content": "Til jakt skal det bare brukes skytevåpen, våpendeler og ammunisjon som er egnet til å avlive viltet på en sikker og dyrevelferdsmessig forsvarlig måte.\nBruk av selvskudd til jakt er forbudt.\nKongen kan gi forskrift om hvilke skytevåpen og våpendeler og hva slags ammunisjon som er tillatt å bruke under jakt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Fangst",
+      "content": "Bruk av feller til fangst av vilt er forbudt, med mindre annet følger av eller i medhold av lov.\nKongen kan gi forskrift om bruk av feller, hvilke arter det tillates fangst av ved bruk av feller, tillatte feller, krav om merking av feller, krav om tilsyn, håndtering av fanget vilt, fjerning av ulovlige feller, typegodkjenning av feller og organisering av en godkjenningsordning, inkludert fastsetting av gebyr for godkjenning.\nKongen kan gi forskrift om skytevåpen og ammunisjon eller andre metoder som kan brukes ved avliving av levende fanget vilt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Bruk av synlig lys og særskilte siktemidler",
+      "content": "Bruk av lyskilder som gir synlig lys under jakt og fangst, er forbudt, med mindre annet følger av eller i medhold av lov. Det samme gjelder bruk av restlysforsterkende og termiske siktemidler og andre siktemidler med teknologi som har til formål å lyse opp eller forbedre synligheten av omgivelsene eller viltet for jegeren.\nKongen gir forskrift om unntak fra forbudet etter første ledd for blant annet ettersøk av påskutt vilt, jakt på nærmere bestemte arter og når det anses nødvendig for å regulere viltbestanden i nærmere bestemte områder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Jakthundtrening og bruk av hund under jakt",
+      "content": "Jakthundtrening og bruk av hund under jakt er tillatt, med mindre annet følger av eller i medhold av lov.\nHundeføreren skal sørge for at jakthundtrening og bruk av hund under jakt skjer på en aktsom måte og i samsvar med aktsomhetskravene i hundeloven §§ 3 og 9 og med dyrevelferdsloven.\nKongen kan gi forskrift om\na. til hvilke tider jakthundtrening og bruk av hund under jakt kan foregå\nb. begrensninger og vilkår for jakthundtrening og bruk av hund under jakt\nc. forbud mot bruk av hund med bestemte funksjonsmåter eller særlige egenskaper til jakthundtrening og jakt\nd. krav til ettersøksekvipasjer og om krav om tilgang til godkjent ettersøkshund\ne. trening av hund for jakthundprøver og til jakt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Særskilte forbud mot å løsne skudd",
+      "content": "Det er forbudt under jakt å løsne skudd på eller over offentlig vei eller jernbane eller fra luftfartøy eller motorkjøretøy. Kongen kan gi forskrift om unntak fra forbudet mot å løsne skudd under jakt fra motorkjøretøy for personer med nedsatt bevegelsesevne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Forbud mot bruk av luftfartøy, motorkjøretøy og motorfartøy",
+      "content": "Under jakt er det forbudt å bruke\na. luftfartøy eller motorkjøretøy til forfølgning av vilt eller til avledning av viltets oppmerksomhet fra jegeren\nb. luftfartøy eller motorkjøretøy utenfor vei til lokalisering av vilt\nc. fartøy med motor innen en avstand av to kilometer fra land, også holmer og skjær.\nForbudet i første ledd bokstav c gjelder ikke ved ettersøk etter § 22 av fugl i sjø, forutsatt at fartøyets hastighet ikke overstiger 5 knop. Jegeren har bevisbyrden for at bruken er lovlig, og skal snarest varsle politiet og kommunen om bruken av fartøy med motor under ettersøket.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "title": "Bruk av åte til jakt og fangst mv.",
+      "content": "Kongen kan gi forskrift om adgangen til å legge ut åte eller til å fôre vilt i forbindelse med jakt og fangst av vilt eller for andre særlige formål.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "5:31",
+      "chapter": "5",
+      "section": "31",
+      "title": "Forbud mot bruk av kjemikalier eller gift",
+      "content": "Bruk av kjemikalier eller gift ved jakt og fangst er forbudt.\nKongen kan gi forskrift om bruk av kjemikalier og gift ved medikamentell immobilisering av vilt, blant annet om varslingsregler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "5:32",
+      "chapter": "5",
+      "section": "32",
+      "title": "Forbud mot bestemte jakt- og fangstmetoder",
+      "content": "Under jakt og fangst er det forbudt å bruke\na. båndopptaker eller lignende for avspilling av lokkelyder\nb. elektriske innretninger konstruert for å drepe eller lamme\nc. speil eller andre blendende innretninger\nd. gass eller utrøyking\ne. sprengstoff\nf. nett\ng. kroker\nh. lim\ni. levende dyr som lokkedyr.\nKongen kan gi forskrift om å tillate og regulere bruk av metodene angitt i første ledd bokstav a og f.\nKongen kan gi forskrift om forbud mot ikke-selektive metoder for jakt og fangst eller metoder for jakt og fangst som kan forårsake at den lokale bestanden av en viltart forsvinner eller forstyrres alvorlig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "title": "Grunneiers enerett til jakt og fangst",
+      "content": "Grunneieren har enerett til jakt og fangst på sin grunn med de innskrenkningene som er fastsatt i eller i medhold av denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "title": "Rekkevidden av grunneiers enerett til jakt og fangst",
+      "content": "I elver og innsjøer går grunneiers rett til jakt og fangst så langt som eiendomsretten.\nMot hav og fjord går grunneiers rett til jakt og fangst så langt som landet til enhver tid ligger tørt. Utenfor grensen for grunneiers rett til jakt og fangst har allmennheten rett til jakt og fangst med de begrensningene som ellers følger av eller i medhold av lov. Andre punktum gjelder også på grunner og skjær som er overskylt ved alminnelig høyvann, med mindre retten til jakt og fangst fra gammelt av ligger til noens eiendom som kobbeveide.\nEieren av en vei har ikke rett til jakt og fangst på veien, med mindre eieren også eier den tilstøtende eiendommen. En grunneier som eier grunnen på begge sidene av en vei, har rett til jakt og fangst på veien, selv om veien eies av andre. Hvis en vei danner grensen mellom grunn som tilhører forskjellige grunneiere, og ingen av disse eier veien, har hver av grunneierne rett til jakt og fangst på veien.\nTredje ledd gjelder tilsvarende for jernbane, rørgate, gate for kraftledning og lignende anlegg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "title": "Grunneiers adgang til å overlate retten til jakt og fangst",
+      "content": "Overlater grunneieren sin eiendom til noen annen til bruk, skal brukeren ha jaktretten med mindre annet er avtalt. Første punktum gjelder ikke for leie av jordbruksareal uten hus (ren jordleie).\nRetten til jakt og fangst kan ikke skilles fra eiendommen for lengre tid enn ti år om gangen.\nFørste og andre ledd gjelder ikke dersom jordskifteretten ved jordskifte etter jordskiftelova kapittel 3 har bestemt noe annet.\nFremleie av retten til jakt og fangst krever samtykke fra grunneieren. Kongen kan gi forskrift om forbud mot fremleie av retten til jakt og fangst.\nDen som stiller jakt og fangst til rådighet for andre, plikter å forvisse seg om og er selv ansvarlig for at vedkommende har betalt jegeravgift.\nDersom en grunneier overlater retten til jakt og fangst til andre enn den som bruker grunnen, er også grunneieren ansvarlig for å dekke kostnader ved skade som jakt og fangst påfører brukeren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "6:36",
+      "chapter": "6",
+      "section": "36",
+      "title": "Jakt og fangst i sameie mellom eiendommer",
+      "content": "Ved sameie mellom eiendommer gjelder grunneiers enerett til jakt og fangst i § 33 tilsvarende.\nEr det uklart hvem som er grunneiere i et sameie, fordi eiendoms- eller bruksretten til skog, beite, slått eller grunn tilhører flere eiendommer, har alle eiendommene som har slik bruksrett, også en rett til jakt og fangst.\nJakt og fangst på eiendommer som nevnt i andre ledd kan bare utøves av én person om gangen for hver eiendom som har slik rett.\nAndre og tredje ledd gjelder ikke der annet følger av avtale eller annet rettsgrunnlag.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "6:37",
+      "chapter": "6",
+      "section": "37",
+      "title": "Rett til jakt og fangst på statens grunn som ikke omfattes av fjellova",
+      "content": "På de delene av statens grunn som ikke omfattes av fjellova, er småviltjakt og fangst tillatt for norske statsborgere og for alle som det siste året har vært og fortsatt er bosatt i Norge, mot å løse jaktkort og betale et vederlag.\nKongen kan gi forskrift om jakt og fangst på statens grunn som ikke omfattes av fjellova, blant annet om vederlag etter første ledd, om lavere vederlag og fortrinnsrett til jakt og fangst for fast bosatte i kommunen, og om utlendingers adgang til jakt og fangst.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "6:38",
+      "chapter": "6",
+      "section": "38",
+      "title": "Reindriftssamenes rett til jakt og fangst",
+      "content": "Reindriftssamenes rett til jakt og fangst i forbindelse med lovlig utøvelse av reindrift følger av reindriftsloven § 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "6:39",
+      "chapter": "6",
+      "section": "39",
+      "title": "Ferdsel med skytevåpen eller feller på eiendommer der jegeren ikke har rett til jakt og fangst",
+      "content": "Ferdsel med skytevåpen eller feller er forbudt på eiendommer der jegeren selv ikke har rett til jakt og fangst. Første punktum gjelder ikke nødvendig ferdsel til eller fra et sted hvor jegeren lovlig kan benytte skytevåpen eller feller. Ved ferdsel etter andre punktum skal våpen være uladd.\nKongen kan gi forskrift om ferdsel med skytevåpen eller feller på eiendommer der jegeren selv ikke har rett til jakt og fangst.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "6:40",
+      "chapter": "6",
+      "section": "40",
+      "title": "Forbud mot jaging av vilt fra andres jaktområder",
+      "content": "Å jage vilt bort fra andres jaktområder med hensikt er forbudt.\nGrunneiere eller brukere av en eiendom kan skremme eller jage bort vilt fra andres jaktområder når det er nødvendig for å avverge skade på person, avling, husdyr, tamrein, skog, fisk, vann eller eiendom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "6:41",
+      "chapter": "6",
+      "section": "41",
+      "title": "Grunneiers enerett til sanking av fugleegg og dun",
+      "content": "Grunneieren har enerett til å sanke fugleegg fra viltarter og dun fra fuglereir, med mindre annet følger av eller i medhold av lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "7:42",
+      "chapter": "7",
+      "section": "42",
+      "title": "Åpning for jakt på hjortevilt og krav om fellingstillatelse",
+      "content": "Innenfor rammene av § 10 er jakt på elg, hjort og rådyr tillatt dersom kommunen har gitt forskrift som åpner for slik jakt. Jakt på elg, hjort eller rådyr krever fellingstillatelse fra kommunen. Kommunen tildeler fellingstillatelse basert på et fastsatt minsteareal.\nInnenfor rammene av § 10 er jakt på villrein tillatt dersom Kongen har gitt forskrift som åpner for slik jakt. Jakt på villrein krever fellingstillatelse fra villreinnemnda med utgangspunkt i fastsatt fellingskvote.\nVed fastsetting av minsteareal og fellingskvoter skal det tas hensyn til bestandens størrelse og sammensetning, artens levevilkår i det enkelte distriktet, og den skaden viltarten volder.\nKongen kan gi forskrift om forvaltningen av hjortevilt, blant annet om hvilke oppgaver kommunen eller villreinnemnda skal ha, fastsetting av arealkrav, organisering av vald, vilkår for å fastsette og tildele fellingstillatelser, krav til bestandsplaner og rapportering.\nKongen kan gi forskrift om at kommunen og villreinnemnda kan nekte å tildele fellingstillatelser helt eller delvis eller tildele ekstra fellingstillatelser i gjeldende jaktperiode for å nå fastsatte forvaltningsmål.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "7:43",
+      "chapter": "7",
+      "section": "43",
+      "title": "Svømmende hjortevilt",
+      "content": "Det er forbudt å jage eller avlive svømmende hjortevilt, med mindre det forfølges som såret i forbindelse med et ettersøk i medhold av §§ 22 eller 55, eller i situasjoner der dyrevelferdsmessige hensyn tilsier det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "7:44",
+      "chapter": "7",
+      "section": "44",
+      "title": "Jakt på og fangst av bever",
+      "content": "Innenfor rammene av § 10 er jakt på og fangst av bever tillatt dersom kommunen har gitt forskrift som åpner for slik jakt og fangst i hele eller deler av kommunen. Kommunen kan fastsette kvoter for uttaket.\nKongen kan gi forskrift om forvaltning av bever, blant annet om at oppgaver legges til kommunen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "8:45",
+      "chapter": "8",
+      "section": "45",
+      "title": "Lisensfelling",
+      "content": "Den som utøver lisensfelling av vilt, skal være registrert som lisensjeger i Jegerregisteret. Kravet gjelder også for deltakelse som hundefører.\nVed lisensfelling gjelder bestemmelsene i kapittel 1, 2, 4 og 5, kapittel 6 unntatt §§ 38 og 41, og §§ 13, 51, 58 og 60 i loven her, samt forskrifter gitt i medhold av disse bestemmelsene. Ved ettersøk i forbindelse med lisensfelling gjelder § 22 første, andre, fjerde, femte og syvende ledd i loven her tilsvarende.\nKongen kan gi forskrift om gjennomføring av lisensfelling, blant annet om å nekte registrering som lisensjeger, og om at felling i særlige tilfeller kan gjennomføres uten hensyn til bestemmelser som nevnt i andre ledd.\nKongen kan ved enkeltvedtak fravike bestemmelser som nevnt i andre ledd i særlige tilfeller.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "8:46",
+      "chapter": "8",
+      "section": "46",
+      "title": "Skadefelling",
+      "content": "Ved skadefelling av vilt gjelder bestemmelsene i kapittel 1, 2, 4, kapittel 5 unntatt §§ 26 og 29, kapittel 6 unntatt §§ 38 og 41 og §§ 51, 58 og 60 i loven her samt forskrifter gitt i medhold av disse bestemmelsene. Ved ettersøk i forbindelse med skadefelling av bjørn, jerv, gaupe, kongeørn og ulv gjelder § 22 første, andre, fjerde, femte og syvende ledd i loven her tilsvarende.\nKongen kan gi forskrift om gjennomføring av skadefelling, blant annet om at felling kan gjennomføres uten hensyn til bestemmelser som nevnt i første ledd, og om å tildele kommunen oppgaver.\nKongen kan ved enkeltvedtak fravike bestemmelser som nevnt i første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "8:47",
+      "chapter": "8",
+      "section": "47",
+      "title": "Felling iverksatt av myndighetene",
+      "content": "Ved felling av vilt som er iverksatt av myndighetene etter naturmangfoldloven § 18 tredje ledd, gjelder bestemmelsene i kapittel 1, 2 og 4, kapittel 5 unntatt §§ 26 og 29, kapittel 6 unntatt §§ 38 og 41 og §§ 51 og 60 i loven her samt forskrifter gitt i medhold av disse bestemmelsene. Ved ettersøk i forbindelse med felling etter naturmangfoldloven § 18 tredje ledd av bjørn, jerv, gaupe, kongeørn og ulv gjelder § 22 første, andre, fjerde, femte og syvende ledd i loven her tilsvarende.\nKongen kan gi forskrift om gjennomføring av felling etter naturmangfoldloven § 18 tredje ledd, blant annet om at felling kan gjennomføres uten hensyn til bestemmelser som nevnt i første ledd, og om å tildele kommunen oppgaver.\nKongen kan beslutte å fravike bestemmelser som nevnt i første ledd. En slik beslutning er ikke et enkeltvedtak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "8:48",
+      "chapter": "8",
+      "section": "48",
+      "title": "Vederlag for felling mv.",
+      "content": "Kongen kan gi forskrift eller fatte enkeltvedtak om vederlag for felling av vilt for å avverge skade etter naturmangfoldloven § 18 første ledd bokstav b. Det kan ikke fastsettes vederlag per felt individ av en viltart (skuddpremie) ved felling etter naturmangfoldloven § 18 første ledd bokstav b.\nKongen kan gi forskrift om vederlag for innsamling av viltmateriale til vitenskapelige formål ved felling etter naturmangfoldloven § 18.\nI forskrift etter første og andre ledd kan kommunen tildeles oppgaver knyttet til utbetaling og annen administrasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "9:49",
+      "chapter": "9",
+      "section": "49",
+      "title": "Forbud mot hold av vilt i fangenskap mv.",
+      "content": "Det er forbudt å holde vilt i fangenskap, med mindre annet følger av eller i medhold av lov.\nKongen kan gi forskrift om adgang til å holde vilt i fangenskap og om oppdrett av vilt, blant annet om krav til tillatelse, gebyr for behandling av søknader om å holde vilt i fangenskap, tilsyn med hold og oppdrett, håndhevingsregler for å stanse ulovlig virksomhet og regler om ansvar og plikter i forbindelse med rømming.\nKongen kan gi forskrift om utsetting av vilt som forekommer naturlig på stedet, blant annet om adgangen til å avlive ulovlig utsatt vilt og dekning av utgifter. For utsetting av vilt som ikke forekommer naturlig på stedet, gjelder reglene i naturmangfoldloven kapittel IV.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "9:50",
+      "chapter": "9",
+      "section": "50",
+      "title": "Oppbevaring, omsetning og annen håndtering av vilt og egg fra viltarter",
+      "content": "Oppbevaring og omsetning av fredet vilt eller egg fra viltarter er forbudt uten at man for det enkelte eksemplar kan godtgjøre å ha nødvendig tillatelse, med mindre annet følger av eller i medhold av lov.\nKongen kan gi forskrift om taksidermisters og andres adgang til oppbevaring, omsetning, overdragelse, erverv, utstopping og annen håndtering av vilt og egg fra viltarter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "9:51",
+      "chapter": "9",
+      "section": "51",
+      "title": "Det statlige viltfondets eiendomsrett og inndragning av ulovlig felt vilt mv.",
+      "content": "Det statlige viltfondet har eiendomsretten til vilt som er ulovlig felt, ulovlig innført til Norge eller ulovlig holdes fanget, eller til verdien av slikt vilt. Det samme gjelder fallvilt, vilt som er avlivet med hjemmel i naturmangfoldloven §§ 17, 17 a og 18, forlatte egg og egg som er oppbevart, omsatt, ervervet eller overdratt i strid med § 50. Er slikt vilt hjortevilt eller villsvin, har kommunen eiendomsretten til viltet. Med fallvilt menes vilt som dør av andre årsaker enn gjennom jakt og fangst.\nMyndigheten etter loven kan inndra vilt og egg, eller verdien av dette, når det er klar sannsynlighet for at det statlige viltfondet eller kommunen har eiendomsretten etter første ledd. Det inndratte tilfaller den som har eiendomsrett etter første ledd.\nKommunen kan, mot tilsvarende fradrag i vedkommendes fellingskvote, overlate til den jaktberettigede\na. hjortevilt som er ulovlig felt i jakttid av andre enn den jaktberettigede\nb. hjortevilt felt i jakttid med tillatelse av kommunen etter naturmangfoldloven § 18\nc. verdien av hjortevilt som nevnt i bokstav a og b.\nHjortevilt som er ulovlig felt av den jaktberettigede, skal belastes vedkommendes fellingskvote, uavhengig av om viltet eller viltets verdi inndras av kommunen.\nKongen kan gi forskrift om nærmere regulering av det statlige viltfondets eiendomsrett, kommunens plikt til å ivareta vilt og egg nevnt i første og andre ledd, inndragning etter andre og tredje ledd, og saksbehandling og krav til vedtak etter paragrafen her.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "9:52",
+      "chapter": "9",
+      "section": "52",
+      "title": "Skuddpremieordninger",
+      "content": "Skuddpremieordninger kan bare fastsettes for viltarter som har jakttid, og som gjør skade. Fastsetting av skuddpremieordninger skal godkjennes av kommunen. Kopi av vedtak om skuddpremieordninger skal sendes Kongen.\nDet kan ikke fastsettes skuddpremieordninger for gaupe.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "9:53",
+      "chapter": "9",
+      "section": "53",
+      "title": "Bestandsregulering under særegne forhold",
+      "content": "Kongen kan gi forskrift om regulering av bestanden av viltarter som har jakttid, dersom\na. det foreligger særegne forhold, som at bestandens størrelse eller sammensetning over tid gir uheldige effekter på dyrehelse, natur- eller samfunnsinteresser, og\nb. jakt og fangst over tid ikke har vært tilstrekkelig for å oppnå ønsket bestand.\nForskrifter etter første ledd kan fravike § 24 første ledd, § 25 første ledd, § 26 første ledd, § 28 første punktum, § 29, § 32 første ledd bokstav a og f, § 33, § 39 første ledd, § 40 første ledd, § 41, § 42 første og andre ledd eller forskrift gitt i medhold av § 24 tredje ledd, § 25 andre og tredje ledd, § 27 tredje ledd, § 30 og § 42 fjerde ledd. Slike forskrifter kan fastsettes for en periode på inntil tre år om gangen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "9:54",
+      "chapter": "9",
+      "section": "54",
+      "title": "Håndtering av vilt for vitenskapelige eller andre særlige formål",
+      "content": "Kongen kan for vitenskapelige eller andre særlige formål gi forskrift om\na. merking av levende vilt\nb. innsamling av deler av vilt\nc. innsamling av egg\nd. innfanging og felling av vilt.\nForskrifter etter første ledd kan fravike bestemmelser gitt i eller i medhold av loven her.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "9:55",
+      "chapter": "9",
+      "section": "55",
+      "title": "Offentlig ettersøk av sykt eller skadd vilt utenom jaktutøvelse",
+      "content": "Kommunen skal i rimelig utstrekning sørge for ettersøk og om nødvendig avliving av sykt vilt og vilt som er skadd utenom jaktutøvelse, og for den påfølgende håndteringen av avlivet vilt.\nVed ettersøk av bjørn, jerv, gaupe, kongeørn eller ulv som er syk eller skadd utenom utøvelse av jakt og felling, skal kommunen uten opphold varsle statsforvalteren og nærmeste politimyndighet. Statsforvalteren avgjør den videre gjennomføringen og avslutningen av slikt ettersøk og kan beslutte at ettersøket skal gjennomføres med særlig kvalifisert personell.\nKommunale viltfond kan benyttes til å dekke kommunens kostnader etter første ledd.\nVed offentlig ettersøk etter første og andre ledd gjelder bestemmelsene gitt i eller i medhold av § 14, § 17, § 20, kapittel 5, § 51 og kapittel 10 i loven her. Viltmyndighetene kan beslutte å gjennomføre ettersøk uten hensyn til bestemmelsene gitt i § 24 første ledd, § 25 første ledd, § 26 første ledd, § 28 første punktum, § 29, § 32 første ledd bokstav a og f, eller bestemmelser gitt i forskrift i medhold av § 24 tredje ledd, § 25 andre og tredje ledd, § 27 tredje ledd og § 30, dersom det anses nødvendig for å gjenfinne og avlive det skadde dyret.\nKongen kan gi forskrift om varsling, viltmyndighetenes oppgaver ved ettersøk og avliving av sykt eller skadd vilt utenom jaktutøvelse og rapportering av offentlig ettersøk og fallvilt til statistiske eller vitenskapelige formål.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "9:56",
+      "chapter": "9",
+      "section": "56",
+      "title": "Merke- og registreringsplikt",
+      "content": "Kongen kan gi forskrift om\na. merking og registrering av dødt vilt, preparater av vilt og egg og registrering av levende vilt, blant annet om taksidermisters og andres plikt til å utføre merking av preparater og egg\nb. taksidermisters og andres plikt til å gi opplysninger til et sentralt register om vilt som mottas, om taksidermist, om hvem viltet mottas fra, og om viltpreparatet\nc. behandling av nødvendige personopplysninger ved taksidermisters og andres registrering av opplysninger i et sentralt register etter bokstav b, blant annet om formålet med behandlingen av opplysningene, hvem som er behandlingsansvarlig, hvilke opplysninger og opplysningskategorier som kan registreres, hvem som har tilgang til opplysningene, adgang til å utlevere opplysningene, innsyn, retting, sperring og sletting av opplysninger og om informasjonssikkerhet og internkontroll\nd. plikt til å betale gebyr for gjennomføring av merking og registrering.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "9:57",
+      "chapter": "9",
+      "section": "57",
+      "title": "Autorisasjon og tilsyn med taksidermister",
+      "content": "Kongen kan gi forskrift om\na. autorisasjon av taksidermister\nb. tilsyn med autoriserte taksidermister og kontroll med vilt som oppbevares\nc. saksbehandlingen til utfylling av reglene i tjenesteloven for autorisasjon av taksidermister, blant annet om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse. Unntak fra tjenesteloven § 11 andre ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    },
+    {
+      "provision_ref": "10:58",
+      "chapter": "10",
+      "section": "58",
+      "title": "Overtredelsesgebyr",
+      "content": "Kongen kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer § 10 første ledd, § 11 første ledd, § 13, § 15, § 16 første og andre ledd, § 22 andre til fjerde ledd, § 25 første ledd, § 26 første ledd, § 27 første ledd, § 28 første punktum, § 29, § 32 første ledd, § 35 femte ledd, § 39, § 40, § 41, § 42 første og andre ledd, § 43, § 44 første ledd, § 45 første og andre ledd, § 46 første ledd, § 49 første ledd, § 50 første ledd, § 51 første til tredje ledd og § 52.\nKongen kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer bestemmelser i forskrift gitt med hjemmel i § 9 første og fjerde ledd, § 10 andre ledd, § 11 andre og tredje ledd, § 12 første ledd, § 14 andre ledd, § 16 tredje ledd, § 17, § 19 første ledd bokstav a og b, § 20, § 22 første ledd tredje punktum og syvende ledd, § 25 andre og tredje ledd, § 26 andre ledd, § 27 tredje ledd, § 28 andre punktum, § 30, § 32 andre og tredje ledd, § 42 fjerde ledd, § 44 andre ledd, § 45 tredje ledd, § 46 andre ledd, § 48, § 49 andre og tredje ledd, § 50 andre ledd, § 51 fjerde ledd, § 54 første ledd, § 56 og § 57.\nKongen kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer plikter som følger av enkeltvedtak gitt med hjemmel i § 45 fjerde ledd, § 46 tredje ledd og § 48 første ledd.\nForetak kan ilegges overtredelsesgebyr for overtredelser av bestemmelsene nevnt i første til tredje ledd når overtredelsen er begått forsettlig eller uaktsomt av noen som har handlet på vegne av foretaket.\nKongen kan gi forskrift om utmåling av overtredelsesgebyr.\nAdgangen til å ilegge overtredelsesgebyr foreldes to år etter at overtredelsen er opphørt. Fristen avbrytes når det gis forhåndsvarsel eller fattes vedtak om overtredelsesgebyr.\nVedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_58",
+        "source_heading": "§ 58."
+      }
+    },
+    {
+      "provision_ref": "10:59",
+      "chapter": "10",
+      "section": "59",
+      "title": "Administrativt rettighetstap",
+      "content": "Kongen kan trekke tilbake eller begrense en tillatelse eller autorisasjon hvis overtrederen forsettlig eller uaktsomt overtrer bestemmelser i forskrift gitt med hjemmel i § 14 andre ledd, § 50 andre ledd, § 54 første ledd, § 56 og § 57.\nEt vedtak om rettighetstap skal gjelde for en bestemt tid, og rettighetstapet kan maksimalt vare to år.\nAdgangen til å ilegge administrativt rettighetstap foreldes to år etter at overtredelsen er opphørt. Fristen avbrytes når det gis forhåndsvarsel eller fattes vedtak om administrativt rettighetstap.\nKongen kan gi forskrift om fastsetting og gjennomføring av administrativt rettighetstap etter første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_59",
+        "source_heading": "§ 59."
+      }
+    },
+    {
+      "provision_ref": "10:60",
+      "chapter": "10",
+      "section": "60",
+      "title": "Straff",
+      "content": "Med bøter eller fengsel inntil 1 år straffes den som forsettlig eller uaktsomt overtrer § 10 første ledd, § 11 første ledd, § 13, § 14 første ledd, § 15, § 16 første og andre ledd, § 21, § 22 første ledd første og andre punktum og andre til fjerde ledd, § 23 andre til fjerde ledd, § 24 første og andre ledd, § 25 første ledd, § 26 første ledd, § 27 første og andre ledd, § 28 første punktum, § 29, § 31 første ledd, § 32 første ledd, § 35 femte ledd, § 37 første ledd, § 39 første ledd, § 40, § 42 første og andre ledd, § 43, § 44 første ledd, § 45 første og andre ledd, § 46 første ledd, § 47 første ledd, § 49 første ledd, § 50 første ledd, § 51 første til tredje ledd, § 52 og § 55 første til fjerde ledd.\nMed bøter eller fengsel inntil 1 år straffes den som forsettlig eller uaktsomt overtrer bestemmelser i forskrift gitt med hjemmel i § 9 første og fjerde ledd, § 10 andre ledd, § 11 andre og tredje ledd, § 12 første ledd, § 14 andre ledd, § 16 tredje ledd, § 17, § 19 første ledd bokstav a og b, § 20, § 22 første ledd tredje punktum og syvende ledd, § 24 tredje ledd, § 25 andre og tredje ledd, § 26 andre ledd, § 27 tredje ledd, § 28 andre punktum, § 30, § 31 andre ledd, § 32 andre og tredje ledd, § 35 fjerde ledd andre punktum, § 37 andre ledd, § 39 andre ledd, § 42 fjerde ledd, § 44 andre ledd, § 45 tredje ledd, § 46 andre ledd, § 47 andre ledd, § 48, § 49 andre og tredje ledd, § 50 andre ledd, § 51 fjerde ledd, § 54 første ledd, § 55 femte ledd, § 56 og § 57.\nMed bøter eller fengsel inntil 1 år straffes den som forsettlig eller uaktsomt overtrer plikter som følger av enkeltvedtak gitt med hjemmel i § 45 fjerde ledd, § 46 tredje ledd og § 48 første ledd.\nVed grove overtredelser etter første til tredje ledd kan fengsel inntil 2 år anvendes.\nMed bøter straffes den som forsettlig eller uaktsomt overtrer § 33 eller § 41. Forsøk er straffbart.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_60",
+        "source_heading": "§ 60."
+      }
+    },
+    {
+      "provision_ref": "11:61",
+      "chapter": "11",
+      "section": "61",
+      "title": "Ikrafttredelse, opphevelse og overgangsbestemmelser",
+      "content": "Loven gjelder fra den tiden​1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.\nForskrifter gitt i medhold av viltloven gjelder også etter at loven her har trådt i kraft.\nDepartementet kan gi overgangsbestemmelser.\n1 Fra 1. juli 2026 iflg. res. 20 juni 2025 nr. 1105.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_61",
+        "source_heading": "§ 61."
+      }
+    },
+    {
+      "provision_ref": "11:62",
+      "chapter": "11",
+      "section": "62",
+      "title": "Endringer i andre lover",
+      "content": "Fra det tidspunktet loven her begynner å gjelde, gjøres følgende endringer i andre lover:",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_62",
+        "source_heading": "§ 62."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Lovens formål er å sikre at forvaltning av viltressursene gjennom jakt, fangst, felling og annen håndtering av vilt skjer på en bærekraftig og forsvarlig måte, i samsvar med naturmangfoldloven og dyrevelferdsloven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Geografisk virkeområde",
+      "content": "Loven gjelder på norsk landterritorium, i norsk territorialfarvann ved Fastlands-Norge og i Norges økonomiske sone opprettet i medhold av lov 17. desember 1976 nr. 91 om Norges økonomiske sone.\nLoven gjelder ikke på Svalbard og Jan Mayen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I loven forstås med:\na. vilt: naturlig viltlevende landpattedyr, fugler, krypdyr og amfibier, inkludert krysninger med andre arter, uavhengig av om viltet lever eller kan leve vilt i Norge\nb. jakt: høsting av vilt ved bruk av skytevåpen som avliver viltet, og den forutgående lokaliseringen av viltet og ettersøk og avliving av såret vilt\nc. fangst: høsting av vilt ved bruk av felle som avliver viltet eller fanger viltet for avliving, og avliving av fanget vilt\nd. lisensfelling: felling av et bestemt antall individer av en viltart med hjemmel i naturmangfoldloven § 18, der kvoten er fastsatt av en offentlig myndighet og det kreves at jegeren er registrert som lisensjeger i Jegerregisteret for å delta\ne. skadefelling: felling av ett eller flere bestemte individer av en viltart med hjemmel i naturmangfoldloven § 18 første ledd bokstav a, b, c eller g og fjerde ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Samiske interesser",
+      "content": "Ved vedtak i medhold av loven her som berører samiske interesser direkte, skal det innenfor rammen som gjelder for den enkelte bestemmelse, legges tilbørlig vekt på hensynet til naturgrunnlaget for samisk kultur.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Forholdet til folkeretten",
+      "content": "Loven gjelder med de avgrensningene som følger av internasjonale avtaler og folkeretten ellers.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Statlige viltmyndigheter",
+      "content": "Kongen, departementet, direktoratet og statsforvalteren er statlige viltmyndigheter og skal arbeide for å fremme formålet med loven og gi råd og veiledning i saker om viltforvaltning.\nKongen kan gi forskrift om opprettelse av villreinnemnder, regionale rovviltnemnder og andre særlige samarbeidsorganer og deres virksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Fylkeskommunens og kommunens oppgaver etter loven, klagerett og omgjøring",
+      "content": "Fylkeskommunen og kommunen skal arbeide for å fremme formålet med loven og gi råd og veiledning i saker om viltforvaltning.\nStatsforvalteren er klageinstans for enkeltvedtak truffet av kommunen etter loven her eller forskrift gitt i medhold av loven her.\nNår vilkårene for omgjøring etter forvaltningsloven § 35 er oppfylt, kan kommunens vedtak etter §§ 42 og 52 også omgjøres av Kongen.\nKongen kan gi forskrift om at oppgaver etter loven her skal legges til fylkeskommunen eller kommunen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Jegerregisteret",
+      "content": "Kongen skal føre et sentralt jegerregister med nødvendige opplysninger for at jakt, fangst og felling kan utøves og viltet forvaltes i samsvar med loven her.\nKongen kan gi forskrift om behandling av personopplysninger i registeret, blant annet om formålet med behandling av opplysningene, hvem som er behandlingsansvarlig, hvilke opplysninger og opplysningskategorier som kan registreres, hvem som har tilgang til opplysningene, adgang til å utlevere opplysningene, retting, sperring og sletting av opplysninger og om informasjonssikkerhet og internkontroll.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Jegeravgift, fellingsavgift og viltfond",
+      "content": "Kongen skal gi forskrift om innkreving av en jegeravgift og av en fellingsavgift for villrein.\nKongen skal forvalte et statlig viltfond som har til formål å fremme viltforvaltningen. Inntektene fra jegeravgiften og fra fellingsavgiften for villrein skal tilfalle det statlige viltfondet.\nFylkeskommuner som mottar overføring fra det statlige viltfondet, skal etablere fylkeskommunale viltfond.\nI kommuner der det er adgang til jakt på elg, hjort eller rådyr, skal kommunen etablere et kommunalt viltfond som har til formål å fremme viltforvaltningen i kommunen. Kommunen kan gi forskrift om fastsetting og innkreving av fellingsavgift for hvert dyr som felles av elg og hjort, innenfor rammer fastsatt av Stortinget. Inntektene fra fellingsavgiftene skal tilfalle det kommunale viltfondet.\nKongen kan gi forskrift om kommunale og fylkeskommunale viltfond, blant annet om hvilke inntekter som skal eller kan tilfalle viltfondene, og hvordan midlene kan disponeres.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Adgangen til jakt og fangst",
+      "content": "Jakt og fangst er tillatt dersom det er åpnet for det i eller i medhold av lov.\nInnenfor rammene av naturmangfoldloven § 16 kan Kongen gi forskrift om å tillate jakt og fangst, blant annet om hvilke viltarter det er tillatt å jakte på eller drive fangst av, til hvilke tider og i hvilke områder det er tillatt med jakt og fangst, og om kvoter for jakt og fangst. Det kan fastsettes ulike tider for jakt og fangst for de enkelte delene av landet. Tidsrammen kan gjelde en bestemt tid av døgnet eller uken, og den kan settes forskjellig avhengig av viltets kjønn og alder.\nI forskrift etter andre ledd bør det ikke tillates jakt og fangst i hekke- eller yngletiden for vedkommende art.\nKongen kan gi forskrift om tildeling av oppgaver etter andre ledd til fylkeskommunen og kommunen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Sanking av fugleegg og dun",
+      "content": "Sanking av fugleegg fra viltarter og sanking av dun fra fuglereir er tillatt dersom det er åpnet for det i eller i medhold av lov.\nInnenfor rammene av naturmangfoldloven § 16 kan Kongen gi forskrift om å tillate sanking av fugleegg fra viltarter, blant annet om hvilke arter det kan sankes egg fra, og til hvilke tider og i hvilke områder det kan sankes. Kongen kan gi forskrift om rapportering til statistiske eller vitenskapelige formål i forbindelse med sanking av fugleegg fra viltarter.\nKongen kan gi forskrift om å tillate sanking av dun fra fuglereir, blant annet om hvilke fuglearter det kan sankes dun fra, og til hvilke tider og i hvilke områder det kan sankes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Lodden (jakt på ender) av hensyn til samisk kultur og sedvane",
+      "content": "Innenfor rammene av naturmangfoldloven § 16 kan Kongen gi forskrift om å tillate og regulere lodden (jakt på ender) i Kautokeino kommune, blant annet om hvilke arter det er tillatt å jakte på, i hvilke områder og til hvilke tider det kan jaktes, kvoter for jakten, vilkår for deltakelse i jakten og plikter ved deltakelse i jakten.\nKommunen kan tildeles oppgaver i forskrift etter første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Dager med jakt- og fangstforbud",
+      "content": "Jakt og fangst er ikke tillatt fra og med 24. desember til og med 31. desember eller på langfredag, påskeaften og første påskedag.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Jegerprøve",
+      "content": "Jakt og fangst kan bare utøves av personer som har bestått jegerprøven.\nKongen kan gi forskrift om jegerprøven, blant annet om krav til alder, obligatorisk kurs og eksamen, kursavgift, eksamensgebyr, autorisasjon som jegerprøveinstruktør og unntak fra kravet om å ha bestått jegerprøven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Registrering i Jegerregisteret",
+      "content": "Den som skal utøve jakt og fangst, skal være registrert i Jegerregisteret, jf. § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Betaling av jegeravgift",
+      "content": "Den som utøver jakt og fangst, skal ha betalt jegeravgift etter § 9 for det aktuelle jaktåret. Jaktåret regnes fra og med 1. april til og med 31. mars.\nDokumentasjon på betalt jegeravgift skal medbringes under jakt og fangst og fremvises på forespørsel fra grunneier, noen som opptrer på grunneiers vegne, eller jaktoppsynet.\nKongen kan gi forskrift om jegeravgift, blant annet om fritak fra betaling av jegeravgift og krav til gyldig dokumentasjon for betalt jegeravgift.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Aldersgrenser ved utøvelse av jakt og fangst",
+      "content": "Kongen kan gi forskrift om aldersgrenser for å utøve jakt og fangst.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Unntak fra kravet om jegerprøve mv. for deltakere under jakt og fangst",
+      "content": "Kravene i §§ 14 til 17 til den som utøver jakt og fangst, gjelder ikke for deltakere under jakt og fangst som ikke bruker jaktvåpen, eller som ikke er ansvarlige for feller.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Rapportering og innlevering for statistiske eller vitenskapelige formål",
+      "content": "Kongen kan gi forskrift om\na. krav til rapportering av opplysninger til statistiske eller vitenskapelige formål i forbindelse med jakt og fangst og registrering av opplysningene\nb. krav til innlevering av hele eller deler av vilt til formål som nevnt i bokstav a\nc. tilleggsavgift til jegeravgiften for det påfølgende jaktåret ved manglende rapportering etter bokstav a eller manglende innlevering etter bokstav b.\nFastsetting av tilleggsavgift etter forskrift gitt i medhold av første ledd bokstav c er ikke et enkeltvedtak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Kompetansekrav",
+      "content": "Kongen kan gi forskrift om kompetansekrav som skal være oppfylt før utøvelse av jakt, fangst eller sanking av fugleegg og dun, blant annet krav om bestått skyteprøve for jakt på storvilt og organisering av en slik prøve.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Forsvarlig jakt- og fangstutøvelse",
+      "content": "Jakt og fangst skal utøves på en dyrevelferdsmessig forsvarlig måte som ikke utgjør en fare for mennesker, husdyr eller eiendom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Undersøkelses- og ettersøksplikt",
+      "content": "Den som under jakt skyter mot vilt, skal forvisse seg om viltet er truffet. Et såret vilt skal så snart som mulig avlives med et lovlig jaktvåpen på en dyrevelferdsmessig forsvarlig og sikker måte. Kongen kan gi forskrift om avliving av såret småvilt som fraviker kravet om lovlig jaktvåpen.\nDersom jegeren ved umiddelbar undersøkelse av og rundt skuddstedet verken finner dyret eller kan utelukke at det er truffet, skal jegeren starte et ettersøk. Jegeren skal ikke jakte på nye dyr mens ettersøket pågår.\nVed ettersøk av hjortevilt, villsvin og muflon skal jegeren varsle kommunen dersom dyret ikke blir funnet innen utgangen av den dagen det ble såret. Jegeren skal vederlagsfritt gjennomføre ettersøket frem til dyret blir avlivet eller funnet dødt, eller kommunen beslutter at ettersøket skal avsluttes. Kommunen kan beslutte å ta ledelsen av eller yte bistand ved slikt ettersøk og at ettersøket skal avsluttes.\nVed ettersøk av gaupe skal jegeren varsle statsforvalteren og nærmeste politimyndighet uten opphold, og i tillegg varsle kommunen dersom dyret ikke blir funnet innen utgangen av den dagen det ble såret. Statsforvalteren avgjør den videre gjennomføringen og avslutningen av ettersøk av gaupe. Jegeren skal vederlagsfritt bistå forvaltnings- eller politimyndigheten i det videre ettersøket.\nAndre til fjerde ledd gjelder også for jaktlaget når jegeren deltar i et jaktlag.\nEtter at kommunen har besluttet å avslutte ettersøket etter tredje ledd, kan kommunen beslutte å starte søk etter dyret som et offentlig ettersøk, jf. § 55.\nKongen kan gi forskrift om ettersøk, blant annet om jegerens og jaktlagets plikter ved ettersøk, hvor lenge ettersøket skal vare, og krav om ettersøkshund.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Rett til å forfølge såret storvilt på andres grunn ved ettersøk",
+      "content": "Den som under jakt sårer storvilt, har rett til å forfølge og tilegne seg viltet også på grunn der andre har retten til jakt og fangst. Jegeren har bevisbyrden for at forfølgningen er lovlig. Forfølgningsretten opphører ved utgangen av den dagen viltet kom inn på grunnen der andre har retten til jakt og fangst. Kommunen kan ved ettersøk etter § 22 tredje ledd beslutte å forlenge adgangen til å forfølge viltet etter leddet her.\nJegeren skal snarest mulig gi grunneieren og kommunen melding om forfølgning som nevnt i første ledd og om utfallet.\nGrunneieren har ikke rett til å jakte på eller fange vilt som forfølges etter første ledd, men kan likevel avlive viltet på forfølgerens vegne når dyrevelferdshensyn tilsier det.\nVed forfølgning etter første ledd er det ikke tillatt å løsne skudd i andres hage eller på andres gårdstun. Jegeren plikter å erstatte skade som forfølgningen påfører andres eiendom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Jaktvåpen og ammunisjon",
+      "content": "Til jakt skal det bare brukes skytevåpen, våpendeler og ammunisjon som er egnet til å avlive viltet på en sikker og dyrevelferdsmessig forsvarlig måte.\nBruk av selvskudd til jakt er forbudt.\nKongen kan gi forskrift om hvilke skytevåpen og våpendeler og hva slags ammunisjon som er tillatt å bruke under jakt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Fangst",
+      "content": "Bruk av feller til fangst av vilt er forbudt, med mindre annet følger av eller i medhold av lov.\nKongen kan gi forskrift om bruk av feller, hvilke arter det tillates fangst av ved bruk av feller, tillatte feller, krav om merking av feller, krav om tilsyn, håndtering av fanget vilt, fjerning av ulovlige feller, typegodkjenning av feller og organisering av en godkjenningsordning, inkludert fastsetting av gebyr for godkjenning.\nKongen kan gi forskrift om skytevåpen og ammunisjon eller andre metoder som kan brukes ved avliving av levende fanget vilt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Bruk av synlig lys og særskilte siktemidler",
+      "content": "Bruk av lyskilder som gir synlig lys under jakt og fangst, er forbudt, med mindre annet følger av eller i medhold av lov. Det samme gjelder bruk av restlysforsterkende og termiske siktemidler og andre siktemidler med teknologi som har til formål å lyse opp eller forbedre synligheten av omgivelsene eller viltet for jegeren.\nKongen gir forskrift om unntak fra forbudet etter første ledd for blant annet ettersøk av påskutt vilt, jakt på nærmere bestemte arter og når det anses nødvendig for å regulere viltbestanden i nærmere bestemte områder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Jakthundtrening og bruk av hund under jakt",
+      "content": "Jakthundtrening og bruk av hund under jakt er tillatt, med mindre annet følger av eller i medhold av lov.\nHundeføreren skal sørge for at jakthundtrening og bruk av hund under jakt skjer på en aktsom måte og i samsvar med aktsomhetskravene i hundeloven §§ 3 og 9 og med dyrevelferdsloven.\nKongen kan gi forskrift om\na. til hvilke tider jakthundtrening og bruk av hund under jakt kan foregå\nb. begrensninger og vilkår for jakthundtrening og bruk av hund under jakt\nc. forbud mot bruk av hund med bestemte funksjonsmåter eller særlige egenskaper til jakthundtrening og jakt\nd. krav til ettersøksekvipasjer og om krav om tilgang til godkjent ettersøkshund\ne. trening av hund for jakthundprøver og til jakt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Særskilte forbud mot å løsne skudd",
+      "content": "Det er forbudt under jakt å løsne skudd på eller over offentlig vei eller jernbane eller fra luftfartøy eller motorkjøretøy. Kongen kan gi forskrift om unntak fra forbudet mot å løsne skudd under jakt fra motorkjøretøy for personer med nedsatt bevegelsesevne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Forbud mot bruk av luftfartøy, motorkjøretøy og motorfartøy",
+      "content": "Under jakt er det forbudt å bruke\na. luftfartøy eller motorkjøretøy til forfølgning av vilt eller til avledning av viltets oppmerksomhet fra jegeren\nb. luftfartøy eller motorkjøretøy utenfor vei til lokalisering av vilt\nc. fartøy med motor innen en avstand av to kilometer fra land, også holmer og skjær.\nForbudet i første ledd bokstav c gjelder ikke ved ettersøk etter § 22 av fugl i sjø, forutsatt at fartøyets hastighet ikke overstiger 5 knop. Jegeren har bevisbyrden for at bruken er lovlig, og skal snarest varsle politiet og kommunen om bruken av fartøy med motor under ettersøket.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "title": "Bruk av åte til jakt og fangst mv.",
+      "content": "Kongen kan gi forskrift om adgangen til å legge ut åte eller til å fôre vilt i forbindelse med jakt og fangst av vilt eller for andre særlige formål.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "5:31",
+      "chapter": "5",
+      "section": "31",
+      "title": "Forbud mot bruk av kjemikalier eller gift",
+      "content": "Bruk av kjemikalier eller gift ved jakt og fangst er forbudt.\nKongen kan gi forskrift om bruk av kjemikalier og gift ved medikamentell immobilisering av vilt, blant annet om varslingsregler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "5:32",
+      "chapter": "5",
+      "section": "32",
+      "title": "Forbud mot bestemte jakt- og fangstmetoder",
+      "content": "Under jakt og fangst er det forbudt å bruke\na. båndopptaker eller lignende for avspilling av lokkelyder\nb. elektriske innretninger konstruert for å drepe eller lamme\nc. speil eller andre blendende innretninger\nd. gass eller utrøyking\ne. sprengstoff\nf. nett\ng. kroker\nh. lim\ni. levende dyr som lokkedyr.\nKongen kan gi forskrift om å tillate og regulere bruk av metodene angitt i første ledd bokstav a og f.\nKongen kan gi forskrift om forbud mot ikke-selektive metoder for jakt og fangst eller metoder for jakt og fangst som kan forårsake at den lokale bestanden av en viltart forsvinner eller forstyrres alvorlig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "title": "Grunneiers enerett til jakt og fangst",
+      "content": "Grunneieren har enerett til jakt og fangst på sin grunn med de innskrenkningene som er fastsatt i eller i medhold av denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "title": "Rekkevidden av grunneiers enerett til jakt og fangst",
+      "content": "I elver og innsjøer går grunneiers rett til jakt og fangst så langt som eiendomsretten.\nMot hav og fjord går grunneiers rett til jakt og fangst så langt som landet til enhver tid ligger tørt. Utenfor grensen for grunneiers rett til jakt og fangst har allmennheten rett til jakt og fangst med de begrensningene som ellers følger av eller i medhold av lov. Andre punktum gjelder også på grunner og skjær som er overskylt ved alminnelig høyvann, med mindre retten til jakt og fangst fra gammelt av ligger til noens eiendom som kobbeveide.\nEieren av en vei har ikke rett til jakt og fangst på veien, med mindre eieren også eier den tilstøtende eiendommen. En grunneier som eier grunnen på begge sidene av en vei, har rett til jakt og fangst på veien, selv om veien eies av andre. Hvis en vei danner grensen mellom grunn som tilhører forskjellige grunneiere, og ingen av disse eier veien, har hver av grunneierne rett til jakt og fangst på veien.\nTredje ledd gjelder tilsvarende for jernbane, rørgate, gate for kraftledning og lignende anlegg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "title": "Grunneiers adgang til å overlate retten til jakt og fangst",
+      "content": "Overlater grunneieren sin eiendom til noen annen til bruk, skal brukeren ha jaktretten med mindre annet er avtalt. Første punktum gjelder ikke for leie av jordbruksareal uten hus (ren jordleie).\nRetten til jakt og fangst kan ikke skilles fra eiendommen for lengre tid enn ti år om gangen.\nFørste og andre ledd gjelder ikke dersom jordskifteretten ved jordskifte etter jordskiftelova kapittel 3 har bestemt noe annet.\nFremleie av retten til jakt og fangst krever samtykke fra grunneieren. Kongen kan gi forskrift om forbud mot fremleie av retten til jakt og fangst.\nDen som stiller jakt og fangst til rådighet for andre, plikter å forvisse seg om og er selv ansvarlig for at vedkommende har betalt jegeravgift.\nDersom en grunneier overlater retten til jakt og fangst til andre enn den som bruker grunnen, er også grunneieren ansvarlig for å dekke kostnader ved skade som jakt og fangst påfører brukeren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "6:36",
+      "chapter": "6",
+      "section": "36",
+      "title": "Jakt og fangst i sameie mellom eiendommer",
+      "content": "Ved sameie mellom eiendommer gjelder grunneiers enerett til jakt og fangst i § 33 tilsvarende.\nEr det uklart hvem som er grunneiere i et sameie, fordi eiendoms- eller bruksretten til skog, beite, slått eller grunn tilhører flere eiendommer, har alle eiendommene som har slik bruksrett, også en rett til jakt og fangst.\nJakt og fangst på eiendommer som nevnt i andre ledd kan bare utøves av én person om gangen for hver eiendom som har slik rett.\nAndre og tredje ledd gjelder ikke der annet følger av avtale eller annet rettsgrunnlag.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "6:37",
+      "chapter": "6",
+      "section": "37",
+      "title": "Rett til jakt og fangst på statens grunn som ikke omfattes av fjellova",
+      "content": "På de delene av statens grunn som ikke omfattes av fjellova, er småviltjakt og fangst tillatt for norske statsborgere og for alle som det siste året har vært og fortsatt er bosatt i Norge, mot å løse jaktkort og betale et vederlag.\nKongen kan gi forskrift om jakt og fangst på statens grunn som ikke omfattes av fjellova, blant annet om vederlag etter første ledd, om lavere vederlag og fortrinnsrett til jakt og fangst for fast bosatte i kommunen, og om utlendingers adgang til jakt og fangst.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "6:38",
+      "chapter": "6",
+      "section": "38",
+      "title": "Reindriftssamenes rett til jakt og fangst",
+      "content": "Reindriftssamenes rett til jakt og fangst i forbindelse med lovlig utøvelse av reindrift følger av reindriftsloven § 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "6:39",
+      "chapter": "6",
+      "section": "39",
+      "title": "Ferdsel med skytevåpen eller feller på eiendommer der jegeren ikke har rett til jakt og fangst",
+      "content": "Ferdsel med skytevåpen eller feller er forbudt på eiendommer der jegeren selv ikke har rett til jakt og fangst. Første punktum gjelder ikke nødvendig ferdsel til eller fra et sted hvor jegeren lovlig kan benytte skytevåpen eller feller. Ved ferdsel etter andre punktum skal våpen være uladd.\nKongen kan gi forskrift om ferdsel med skytevåpen eller feller på eiendommer der jegeren selv ikke har rett til jakt og fangst.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "6:40",
+      "chapter": "6",
+      "section": "40",
+      "title": "Forbud mot jaging av vilt fra andres jaktområder",
+      "content": "Å jage vilt bort fra andres jaktområder med hensikt er forbudt.\nGrunneiere eller brukere av en eiendom kan skremme eller jage bort vilt fra andres jaktområder når det er nødvendig for å avverge skade på person, avling, husdyr, tamrein, skog, fisk, vann eller eiendom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "6:41",
+      "chapter": "6",
+      "section": "41",
+      "title": "Grunneiers enerett til sanking av fugleegg og dun",
+      "content": "Grunneieren har enerett til å sanke fugleegg fra viltarter og dun fra fuglereir, med mindre annet følger av eller i medhold av lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "7:42",
+      "chapter": "7",
+      "section": "42",
+      "title": "Åpning for jakt på hjortevilt og krav om fellingstillatelse",
+      "content": "Innenfor rammene av § 10 er jakt på elg, hjort og rådyr tillatt dersom kommunen har gitt forskrift som åpner for slik jakt. Jakt på elg, hjort eller rådyr krever fellingstillatelse fra kommunen. Kommunen tildeler fellingstillatelse basert på et fastsatt minsteareal.\nInnenfor rammene av § 10 er jakt på villrein tillatt dersom Kongen har gitt forskrift som åpner for slik jakt. Jakt på villrein krever fellingstillatelse fra villreinnemnda med utgangspunkt i fastsatt fellingskvote.\nVed fastsetting av minsteareal og fellingskvoter skal det tas hensyn til bestandens størrelse og sammensetning, artens levevilkår i det enkelte distriktet, og den skaden viltarten volder.\nKongen kan gi forskrift om forvaltningen av hjortevilt, blant annet om hvilke oppgaver kommunen eller villreinnemnda skal ha, fastsetting av arealkrav, organisering av vald, vilkår for å fastsette og tildele fellingstillatelser, krav til bestandsplaner og rapportering.\nKongen kan gi forskrift om at kommunen og villreinnemnda kan nekte å tildele fellingstillatelser helt eller delvis eller tildele ekstra fellingstillatelser i gjeldende jaktperiode for å nå fastsatte forvaltningsmål.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "7:43",
+      "chapter": "7",
+      "section": "43",
+      "title": "Svømmende hjortevilt",
+      "content": "Det er forbudt å jage eller avlive svømmende hjortevilt, med mindre det forfølges som såret i forbindelse med et ettersøk i medhold av §§ 22 eller 55, eller i situasjoner der dyrevelferdsmessige hensyn tilsier det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "7:44",
+      "chapter": "7",
+      "section": "44",
+      "title": "Jakt på og fangst av bever",
+      "content": "Innenfor rammene av § 10 er jakt på og fangst av bever tillatt dersom kommunen har gitt forskrift som åpner for slik jakt og fangst i hele eller deler av kommunen. Kommunen kan fastsette kvoter for uttaket.\nKongen kan gi forskrift om forvaltning av bever, blant annet om at oppgaver legges til kommunen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "8:45",
+      "chapter": "8",
+      "section": "45",
+      "title": "Lisensfelling",
+      "content": "Den som utøver lisensfelling av vilt, skal være registrert som lisensjeger i Jegerregisteret. Kravet gjelder også for deltakelse som hundefører.\nVed lisensfelling gjelder bestemmelsene i kapittel 1, 2, 4 og 5, kapittel 6 unntatt §§ 38 og 41, og §§ 13, 51, 58 og 60 i loven her, samt forskrifter gitt i medhold av disse bestemmelsene. Ved ettersøk i forbindelse med lisensfelling gjelder § 22 første, andre, fjerde, femte og syvende ledd i loven her tilsvarende.\nKongen kan gi forskrift om gjennomføring av lisensfelling, blant annet om å nekte registrering som lisensjeger, og om at felling i særlige tilfeller kan gjennomføres uten hensyn til bestemmelser som nevnt i andre ledd.\nKongen kan ved enkeltvedtak fravike bestemmelser som nevnt i andre ledd i særlige tilfeller.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "8:46",
+      "chapter": "8",
+      "section": "46",
+      "title": "Skadefelling",
+      "content": "Ved skadefelling av vilt gjelder bestemmelsene i kapittel 1, 2, 4, kapittel 5 unntatt §§ 26 og 29, kapittel 6 unntatt §§ 38 og 41 og §§ 51, 58 og 60 i loven her samt forskrifter gitt i medhold av disse bestemmelsene. Ved ettersøk i forbindelse med skadefelling av bjørn, jerv, gaupe, kongeørn og ulv gjelder § 22 første, andre, fjerde, femte og syvende ledd i loven her tilsvarende.\nKongen kan gi forskrift om gjennomføring av skadefelling, blant annet om at felling kan gjennomføres uten hensyn til bestemmelser som nevnt i første ledd, og om å tildele kommunen oppgaver.\nKongen kan ved enkeltvedtak fravike bestemmelser som nevnt i første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "8:47",
+      "chapter": "8",
+      "section": "47",
+      "title": "Felling iverksatt av myndighetene",
+      "content": "Ved felling av vilt som er iverksatt av myndighetene etter naturmangfoldloven § 18 tredje ledd, gjelder bestemmelsene i kapittel 1, 2 og 4, kapittel 5 unntatt §§ 26 og 29, kapittel 6 unntatt §§ 38 og 41 og §§ 51 og 60 i loven her samt forskrifter gitt i medhold av disse bestemmelsene. Ved ettersøk i forbindelse med felling etter naturmangfoldloven § 18 tredje ledd av bjørn, jerv, gaupe, kongeørn og ulv gjelder § 22 første, andre, fjerde, femte og syvende ledd i loven her tilsvarende.\nKongen kan gi forskrift om gjennomføring av felling etter naturmangfoldloven § 18 tredje ledd, blant annet om at felling kan gjennomføres uten hensyn til bestemmelser som nevnt i første ledd, og om å tildele kommunen oppgaver.\nKongen kan beslutte å fravike bestemmelser som nevnt i første ledd. En slik beslutning er ikke et enkeltvedtak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "8:48",
+      "chapter": "8",
+      "section": "48",
+      "title": "Vederlag for felling mv.",
+      "content": "Kongen kan gi forskrift eller fatte enkeltvedtak om vederlag for felling av vilt for å avverge skade etter naturmangfoldloven § 18 første ledd bokstav b. Det kan ikke fastsettes vederlag per felt individ av en viltart (skuddpremie) ved felling etter naturmangfoldloven § 18 første ledd bokstav b.\nKongen kan gi forskrift om vederlag for innsamling av viltmateriale til vitenskapelige formål ved felling etter naturmangfoldloven § 18.\nI forskrift etter første og andre ledd kan kommunen tildeles oppgaver knyttet til utbetaling og annen administrasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "9:49",
+      "chapter": "9",
+      "section": "49",
+      "title": "Forbud mot hold av vilt i fangenskap mv.",
+      "content": "Det er forbudt å holde vilt i fangenskap, med mindre annet følger av eller i medhold av lov.\nKongen kan gi forskrift om adgang til å holde vilt i fangenskap og om oppdrett av vilt, blant annet om krav til tillatelse, gebyr for behandling av søknader om å holde vilt i fangenskap, tilsyn med hold og oppdrett, håndhevingsregler for å stanse ulovlig virksomhet og regler om ansvar og plikter i forbindelse med rømming.\nKongen kan gi forskrift om utsetting av vilt som forekommer naturlig på stedet, blant annet om adgangen til å avlive ulovlig utsatt vilt og dekning av utgifter. For utsetting av vilt som ikke forekommer naturlig på stedet, gjelder reglene i naturmangfoldloven kapittel IV.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "9:50",
+      "chapter": "9",
+      "section": "50",
+      "title": "Oppbevaring, omsetning og annen håndtering av vilt og egg fra viltarter",
+      "content": "Oppbevaring og omsetning av fredet vilt eller egg fra viltarter er forbudt uten at man for det enkelte eksemplar kan godtgjøre å ha nødvendig tillatelse, med mindre annet følger av eller i medhold av lov.\nKongen kan gi forskrift om taksidermisters og andres adgang til oppbevaring, omsetning, overdragelse, erverv, utstopping og annen håndtering av vilt og egg fra viltarter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "9:51",
+      "chapter": "9",
+      "section": "51",
+      "title": "Det statlige viltfondets eiendomsrett og inndragning av ulovlig felt vilt mv.",
+      "content": "Det statlige viltfondet har eiendomsretten til vilt som er ulovlig felt, ulovlig innført til Norge eller ulovlig holdes fanget, eller til verdien av slikt vilt. Det samme gjelder fallvilt, vilt som er avlivet med hjemmel i naturmangfoldloven §§ 17, 17 a og 18, forlatte egg og egg som er oppbevart, omsatt, ervervet eller overdratt i strid med § 50. Er slikt vilt hjortevilt eller villsvin, har kommunen eiendomsretten til viltet. Med fallvilt menes vilt som dør av andre årsaker enn gjennom jakt og fangst.\nMyndigheten etter loven kan inndra vilt og egg, eller verdien av dette, når det er klar sannsynlighet for at det statlige viltfondet eller kommunen har eiendomsretten etter første ledd. Det inndratte tilfaller den som har eiendomsrett etter første ledd.\nKommunen kan, mot tilsvarende fradrag i vedkommendes fellingskvote, overlate til den jaktberettigede\na. hjortevilt som er ulovlig felt i jakttid av andre enn den jaktberettigede\nb. hjortevilt felt i jakttid med tillatelse av kommunen etter naturmangfoldloven § 18\nc. verdien av hjortevilt som nevnt i bokstav a og b.\nHjortevilt som er ulovlig felt av den jaktberettigede, skal belastes vedkommendes fellingskvote, uavhengig av om viltet eller viltets verdi inndras av kommunen.\nKongen kan gi forskrift om nærmere regulering av det statlige viltfondets eiendomsrett, kommunens plikt til å ivareta vilt og egg nevnt i første og andre ledd, inndragning etter andre og tredje ledd, og saksbehandling og krav til vedtak etter paragrafen her.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "9:52",
+      "chapter": "9",
+      "section": "52",
+      "title": "Skuddpremieordninger",
+      "content": "Skuddpremieordninger kan bare fastsettes for viltarter som har jakttid, og som gjør skade. Fastsetting av skuddpremieordninger skal godkjennes av kommunen. Kopi av vedtak om skuddpremieordninger skal sendes Kongen.\nDet kan ikke fastsettes skuddpremieordninger for gaupe.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "9:53",
+      "chapter": "9",
+      "section": "53",
+      "title": "Bestandsregulering under særegne forhold",
+      "content": "Kongen kan gi forskrift om regulering av bestanden av viltarter som har jakttid, dersom\na. det foreligger særegne forhold, som at bestandens størrelse eller sammensetning over tid gir uheldige effekter på dyrehelse, natur- eller samfunnsinteresser, og\nb. jakt og fangst over tid ikke har vært tilstrekkelig for å oppnå ønsket bestand.\nForskrifter etter første ledd kan fravike § 24 første ledd, § 25 første ledd, § 26 første ledd, § 28 første punktum, § 29, § 32 første ledd bokstav a og f, § 33, § 39 første ledd, § 40 første ledd, § 41, § 42 første og andre ledd eller forskrift gitt i medhold av § 24 tredje ledd, § 25 andre og tredje ledd, § 27 tredje ledd, § 30 og § 42 fjerde ledd. Slike forskrifter kan fastsettes for en periode på inntil tre år om gangen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "9:54",
+      "chapter": "9",
+      "section": "54",
+      "title": "Håndtering av vilt for vitenskapelige eller andre særlige formål",
+      "content": "Kongen kan for vitenskapelige eller andre særlige formål gi forskrift om\na. merking av levende vilt\nb. innsamling av deler av vilt\nc. innsamling av egg\nd. innfanging og felling av vilt.\nForskrifter etter første ledd kan fravike bestemmelser gitt i eller i medhold av loven her.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "9:55",
+      "chapter": "9",
+      "section": "55",
+      "title": "Offentlig ettersøk av sykt eller skadd vilt utenom jaktutøvelse",
+      "content": "Kommunen skal i rimelig utstrekning sørge for ettersøk og om nødvendig avliving av sykt vilt og vilt som er skadd utenom jaktutøvelse, og for den påfølgende håndteringen av avlivet vilt.\nVed ettersøk av bjørn, jerv, gaupe, kongeørn eller ulv som er syk eller skadd utenom utøvelse av jakt og felling, skal kommunen uten opphold varsle statsforvalteren og nærmeste politimyndighet. Statsforvalteren avgjør den videre gjennomføringen og avslutningen av slikt ettersøk og kan beslutte at ettersøket skal gjennomføres med særlig kvalifisert personell.\nKommunale viltfond kan benyttes til å dekke kommunens kostnader etter første ledd.\nVed offentlig ettersøk etter første og andre ledd gjelder bestemmelsene gitt i eller i medhold av § 14, § 17, § 20, kapittel 5, § 51 og kapittel 10 i loven her. Viltmyndighetene kan beslutte å gjennomføre ettersøk uten hensyn til bestemmelsene gitt i § 24 første ledd, § 25 første ledd, § 26 første ledd, § 28 første punktum, § 29, § 32 første ledd bokstav a og f, eller bestemmelser gitt i forskrift i medhold av § 24 tredje ledd, § 25 andre og tredje ledd, § 27 tredje ledd og § 30, dersom det anses nødvendig for å gjenfinne og avlive det skadde dyret.\nKongen kan gi forskrift om varsling, viltmyndighetenes oppgaver ved ettersøk og avliving av sykt eller skadd vilt utenom jaktutøvelse og rapportering av offentlig ettersøk og fallvilt til statistiske eller vitenskapelige formål.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "9:56",
+      "chapter": "9",
+      "section": "56",
+      "title": "Merke- og registreringsplikt",
+      "content": "Kongen kan gi forskrift om\na. merking og registrering av dødt vilt, preparater av vilt og egg og registrering av levende vilt, blant annet om taksidermisters og andres plikt til å utføre merking av preparater og egg\nb. taksidermisters og andres plikt til å gi opplysninger til et sentralt register om vilt som mottas, om taksidermist, om hvem viltet mottas fra, og om viltpreparatet\nc. behandling av nødvendige personopplysninger ved taksidermisters og andres registrering av opplysninger i et sentralt register etter bokstav b, blant annet om formålet med behandlingen av opplysningene, hvem som er behandlingsansvarlig, hvilke opplysninger og opplysningskategorier som kan registreres, hvem som har tilgang til opplysningene, adgang til å utlevere opplysningene, innsyn, retting, sperring og sletting av opplysninger og om informasjonssikkerhet og internkontroll\nd. plikt til å betale gebyr for gjennomføring av merking og registrering.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "9:57",
+      "chapter": "9",
+      "section": "57",
+      "title": "Autorisasjon og tilsyn med taksidermister",
+      "content": "Kongen kan gi forskrift om\na. autorisasjon av taksidermister\nb. tilsyn med autoriserte taksidermister og kontroll med vilt som oppbevares\nc. saksbehandlingen til utfylling av reglene i tjenesteloven for autorisasjon av taksidermister, blant annet om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse. Unntak fra tjenesteloven § 11 andre ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    },
+    {
+      "provision_ref": "10:58",
+      "chapter": "10",
+      "section": "58",
+      "title": "Overtredelsesgebyr",
+      "content": "Kongen kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer § 10 første ledd, § 11 første ledd, § 13, § 15, § 16 første og andre ledd, § 22 andre til fjerde ledd, § 25 første ledd, § 26 første ledd, § 27 første ledd, § 28 første punktum, § 29, § 32 første ledd, § 35 femte ledd, § 39, § 40, § 41, § 42 første og andre ledd, § 43, § 44 første ledd, § 45 første og andre ledd, § 46 første ledd, § 49 første ledd, § 50 første ledd, § 51 første til tredje ledd og § 52.\nKongen kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer bestemmelser i forskrift gitt med hjemmel i § 9 første og fjerde ledd, § 10 andre ledd, § 11 andre og tredje ledd, § 12 første ledd, § 14 andre ledd, § 16 tredje ledd, § 17, § 19 første ledd bokstav a og b, § 20, § 22 første ledd tredje punktum og syvende ledd, § 25 andre og tredje ledd, § 26 andre ledd, § 27 tredje ledd, § 28 andre punktum, § 30, § 32 andre og tredje ledd, § 42 fjerde ledd, § 44 andre ledd, § 45 tredje ledd, § 46 andre ledd, § 48, § 49 andre og tredje ledd, § 50 andre ledd, § 51 fjerde ledd, § 54 første ledd, § 56 og § 57.\nKongen kan ilegge overtredelsesgebyr til den som forsettlig eller uaktsomt overtrer plikter som følger av enkeltvedtak gitt med hjemmel i § 45 fjerde ledd, § 46 tredje ledd og § 48 første ledd.\nForetak kan ilegges overtredelsesgebyr for overtredelser av bestemmelsene nevnt i første til tredje ledd når overtredelsen er begått forsettlig eller uaktsomt av noen som har handlet på vegne av foretaket.\nKongen kan gi forskrift om utmåling av overtredelsesgebyr.\nAdgangen til å ilegge overtredelsesgebyr foreldes to år etter at overtredelsen er opphørt. Fristen avbrytes når det gis forhåndsvarsel eller fattes vedtak om overtredelsesgebyr.\nVedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_58",
+        "source_heading": "§ 58."
+      }
+    },
+    {
+      "provision_ref": "10:59",
+      "chapter": "10",
+      "section": "59",
+      "title": "Administrativt rettighetstap",
+      "content": "Kongen kan trekke tilbake eller begrense en tillatelse eller autorisasjon hvis overtrederen forsettlig eller uaktsomt overtrer bestemmelser i forskrift gitt med hjemmel i § 14 andre ledd, § 50 andre ledd, § 54 første ledd, § 56 og § 57.\nEt vedtak om rettighetstap skal gjelde for en bestemt tid, og rettighetstapet kan maksimalt vare to år.\nAdgangen til å ilegge administrativt rettighetstap foreldes to år etter at overtredelsen er opphørt. Fristen avbrytes når det gis forhåndsvarsel eller fattes vedtak om administrativt rettighetstap.\nKongen kan gi forskrift om fastsetting og gjennomføring av administrativt rettighetstap etter første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_59",
+        "source_heading": "§ 59."
+      }
+    },
+    {
+      "provision_ref": "10:60",
+      "chapter": "10",
+      "section": "60",
+      "title": "Straff",
+      "content": "Med bøter eller fengsel inntil 1 år straffes den som forsettlig eller uaktsomt overtrer § 10 første ledd, § 11 første ledd, § 13, § 14 første ledd, § 15, § 16 første og andre ledd, § 21, § 22 første ledd første og andre punktum og andre til fjerde ledd, § 23 andre til fjerde ledd, § 24 første og andre ledd, § 25 første ledd, § 26 første ledd, § 27 første og andre ledd, § 28 første punktum, § 29, § 31 første ledd, § 32 første ledd, § 35 femte ledd, § 37 første ledd, § 39 første ledd, § 40, § 42 første og andre ledd, § 43, § 44 første ledd, § 45 første og andre ledd, § 46 første ledd, § 47 første ledd, § 49 første ledd, § 50 første ledd, § 51 første til tredje ledd, § 52 og § 55 første til fjerde ledd.\nMed bøter eller fengsel inntil 1 år straffes den som forsettlig eller uaktsomt overtrer bestemmelser i forskrift gitt med hjemmel i § 9 første og fjerde ledd, § 10 andre ledd, § 11 andre og tredje ledd, § 12 første ledd, § 14 andre ledd, § 16 tredje ledd, § 17, § 19 første ledd bokstav a og b, § 20, § 22 første ledd tredje punktum og syvende ledd, § 24 tredje ledd, § 25 andre og tredje ledd, § 26 andre ledd, § 27 tredje ledd, § 28 andre punktum, § 30, § 31 andre ledd, § 32 andre og tredje ledd, § 35 fjerde ledd andre punktum, § 37 andre ledd, § 39 andre ledd, § 42 fjerde ledd, § 44 andre ledd, § 45 tredje ledd, § 46 andre ledd, § 47 andre ledd, § 48, § 49 andre og tredje ledd, § 50 andre ledd, § 51 fjerde ledd, § 54 første ledd, § 55 femte ledd, § 56 og § 57.\nMed bøter eller fengsel inntil 1 år straffes den som forsettlig eller uaktsomt overtrer plikter som følger av enkeltvedtak gitt med hjemmel i § 45 fjerde ledd, § 46 tredje ledd og § 48 første ledd.\nVed grove overtredelser etter første til tredje ledd kan fengsel inntil 2 år anvendes.\nMed bøter straffes den som forsettlig eller uaktsomt overtrer § 33 eller § 41. Forsøk er straffbart.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_60",
+        "source_heading": "§ 60."
+      }
+    },
+    {
+      "provision_ref": "11:61",
+      "chapter": "11",
+      "section": "61",
+      "title": "Ikrafttredelse, opphevelse og overgangsbestemmelser",
+      "content": "Loven gjelder fra den tiden​1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.\nForskrifter gitt i medhold av viltloven gjelder også etter at loven her har trådt i kraft.\nDepartementet kan gi overgangsbestemmelser.\n1 Fra 1. juli 2026 iflg. res. 20 juni 2025 nr. 1105.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_61",
+        "source_heading": "§ 61."
+      }
+    },
+    {
+      "provision_ref": "11:62",
+      "chapter": "11",
+      "section": "62",
+      "title": "Endringer i andre lover",
+      "content": "Fra det tidspunktet loven her begynner å gjelde, gjøres følgende endringer i andre lover:",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_62",
+        "source_heading": "§ 62."
+      }
+    }
+  ]
+}

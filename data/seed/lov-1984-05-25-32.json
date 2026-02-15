@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1984-05-25-32",
+  "type": "statute",
+  "title": "Lov om forlengelse av fristene for forevisning og protest av veksler og sjekker i tilfelle av streik i bankene",
+  "short_name": "Lov om fristforlengelse ved bankstreik",
+  "status": "in_force",
+  "issued_date": "1984-05-25",
+  "in_force_date": "1984-05-25",
+  "url": "https://lovdata.no/dokument/NLO/lov/1984-05-25-32",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Blir det iverksatt arbeidsstans i bankene i anledning av tvisten mellom Sparebankenes Arbeidsgiverforening og Forretningsbankenes Arbeidsgiverforening på den ene side og Norske Bankfunksjonærers Forbund på den annen side i forbindelse med lønnsreguleringen 1984, skal de frister som er nevnt i lov 27. mai 1932 nr. 2 om veksler § 53 og i lov 27. mai 1932 nr. 3 om chekker §§ 29 og 41 forlenges til 8 dager etter arbeidsstansens opphør for så vidt gjelder veksel- og sjekkinnehavere som rammes av arbeidsstansen. Forlengelsen gjelder tilsvarende for egne veksler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Blir det iverksatt arbeidsstans i bankene i anledning av tvisten mellom Sparebankenes Arbeidsgiverforening og Forretningsbankenes Arbeidsgiverforening på den ene side og Norske Bankfunksjonærers Forbund på den annen side i forbindelse med lønnsreguleringen 1984, skal de frister som er nevnt i lov 27. mai 1932 nr. 2 om veksler § 53 og i lov 27. mai 1932 nr. 3 om chekker §§ 29 og 41 forlenges til 8 dager etter arbeidsstansens opphør for så vidt gjelder veksel- og sjekkinnehavere som rammes av arbeidsstansen. Forlengelsen gjelder tilsvarende for egne veksler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

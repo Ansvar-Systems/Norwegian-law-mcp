@@ -1,0 +1,75 @@
+{
+  "id": "LOV-2013-06-21-56",
+  "type": "statute",
+  "title": "Lov om lønnsnemndbehandling av arbeidstvisten mellom EL & IT Forbundet og Atea AS våren 2013",
+  "short_name": "Lov om lønnsnemnd, EL & IT Forbundet/Atea AS våren 2013",
+  "status": "in_force",
+  "issued_date": "2013-06-21",
+  "in_force_date": "2013-06-21",
+  "url": "https://lovdata.no/dokument/NLO/lov/2013-06-21-56",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom EL & IT Forbundet og Atea AS i forbindelse med spørsmålet om opprettelse av tariffavtale skal avgjøres av Rikslønnsnemnda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans. Reglene i lønnsnemndloven gjelder så langt de passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks. Loven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse i tvisten.\n0 Se Rikslønnsnemndas kjennelse 27 sep 2013 i sak 1/2013.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom EL & IT Forbundet og Atea AS i forbindelse med spørsmålet om opprettelse av tariffavtale skal avgjøres av Rikslønnsnemnda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans. Reglene i lønnsnemndloven gjelder så langt de passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks. Loven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse i tvisten.\n0 Se Rikslønnsnemndas kjennelse 27 sep 2013 i sak 1/2013.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

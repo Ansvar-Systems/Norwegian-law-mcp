@@ -1,0 +1,543 @@
+{
+  "id": "LOV-1997-01-10-9",
+  "type": "statute",
+  "title": "Lov om kjøttproduksjon.",
+  "short_name": "Kjøttproduksjonsloven – kjøttl.",
+  "status": "in_force",
+  "issued_date": "1997-01-10",
+  "in_force_date": "1997-04-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1997-01-10-9",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Formålet med loven her er å sikre at produksjon av slaktedyr,​1 slakt​1 og ferskt kjøtt​1 foregår på en slik måte at kravet til helse, kvalitet og redelighet, blir ivaretatt langs hele produksjonskjeden.\nVidere skal det ved tilsyn på slakterier sikres at gjeldende bestemmelser om dyrevern​2 og dyrehelse overholdes.\n1 Se § 3.\n2 Jfr. lov 20 des 1974 nr. 73.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Virkeområde",
+      "content": "Loven gjelder for:\na. produksjon av slaktedyr,​1\nb. slakting,\nc. kjøling av kjøtt,\nd. nedskjæring, utbening og annen mekanisk behandling av kjøtt fram til og med stykking,\ne. lagring og transport av ferskt kjøtt,​2\nf. kjøttkontroll, og\ng. import, eksport og frambud av ferskt kjøtt​2\nUnntatt fra loven her er nedskjæring m.v. og lagring av kjøtt i detaljleddet, for direkte salg til forbruker, herunder kantiner, sykehus, skoler, restauranter o.l.\nMed mindre annet er særskilt bestemt, gjelder bestemmelsene bare ferskt kjøtt​2 som er bestemt til folkemat.\n1 Se § 3, b.\n2 Se § 3, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I loven her menes med:\na. dyr: alle virveldyr unntatt fisk,\nb. slaktedyr: husdyr (inkludert fjørfe) eller oppdrettsvilt som helt eller delvis holdes med tanke på produksjon av slakt,\nc. slakt og slakteskrott: hele kroppen av et dyr etter slaktebehandling,\nd. ferskt kjøtt: alle spiselige deler av dyr, herunder vakumpakket kjøtt og kjøtt pakket i kontrollert atmosfære, uten annen konservering enn kjøling eller frysing,\ne. virksomhet: slakteribedrift, nedskjæringsbedrift, kjøle- og fryselager, eller et samlet anlegg som omfatter flere av disse bedriftene,\nf. autorisasjon: offentlig godkjenning som gir virksomheten anledning til å framby sine produkter på et internasjonalt marked,\ng. godkjenning: offentlig godkjenning som gir virksomheten anledning til å framby produkter på et lokalt eller nasjonalt marked.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Undersøkelser av slaktedyrbesetninger",
+      "content": "Departementet​1 kan utfra næringsmiddelhensynet, jf. § 1, gi forskrifter​2 om undersøkelser og prøvetaking av slaktedyr​3 og registrering og innsamling av opplysninger om slaktedyrbesetninger, herunder bestemmelser om innsamling og innrapportering av opplysninger vedrørende besetningens helsemessige tilstand, merking av dyr,​4 samt uttak av prøver fra dyr​4 og produkter for undersøkelse av sjukdommer, sjukelige forandringer eller reststoffer.\n1 Landbruksdepartementet.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, b.\n4 Se § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Krav til slaktedyr​1",
+      "content": "Dyr​2 som skal slaktes skal​3 ikke være forurenset, lide av sjukdom, inneholde rester av medisiner, forurensninger eller smittestoff og heller ikke ha andre stoffer i eller på kroppen som kan medføre helsefare ved konsum av kjøtt. Departementet​4 kan i forskrifter​5 gi nærmere bestemmelser om dette.\nDepartementet​4 kan videre forby​3 bruk av visse stoffer og medikamenter til slaktedyr, herunder stoffer og medikamenter til annet enn terapeutisk bruk.\n1 Se § 3, b.\n2 Se § 3, a.\n3 Jfr. § 21.\n4 Landbruksdepartementet.\n5 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "3:6",
+      "chapter": "3",
+      "section": "6",
+      "title": "Autorisasjon, godkjenning og registrering",
+      "content": "Virksomhet etter loven her​1 kan bare​2 utføres etter autorisasjon​3 eller godkjenning​4 av departementet.​5\nAutorisasjon eller godkjenning kan trekkes tilbake hvis virksomheten ikke fyller fastsatte vilkår, eller forutsetningene for autorisasjon eller godkjenning endres vesentlig.\nDepartementet​5 kan gi forskrifter​6 om autorisasjon og godkjenning.\n1 Se § 3, e.\n2 Jfr. § 21.\n3 Se § 3, f.\n4 Se § 3, g.\n5 Landbruksdepartementet.\n6 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Slakting under særlige forhold",
+      "content": "Eier eller bruker av eiendommer hvor hold av slaktedyr​1 er tillatt, kan slakte egne dyr​2 til bruk i egen husholdning uten autorisasjon eller godkjenning etter § 6.\nDepartementet​3 kan gi forskrifter​4 om slakting og frambud direkte til forbruker til bruk i dennes private husholdning.\nNødslakting kan utføres utenfor godkjent eller autorisert virksomhet.​5 Departementet​3 kan gi forskrifter​4 om hygienemessige krav​6 til slik slakting.\n1 Se § 3, b.\n2 Se § 3, a.\n3 Landbruksdepartementet.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n5 Jfr. § 6.\n6 Jfr. § 38.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Hygiene",
+      "content": "Virksomhet som omfattes av denne lov​1 skal​2 foregå på en hygienisk forsvarlig måte. Departementet​3 kan i forskrift​4 fastsette krav til virksomhetens innretninger og utstyr, driftsrutiner, rengjørings- og desinfeksjonsmidler og produksjonsutstyr for øvrig, samt krav til og kontroll med personalets helse og hygiene.\n1 Se § 3, e.\n2 Jfr. § 21.\n3 Landbruksdepartementet.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Tilsyn og kjøttkontroll",
+      "content": "Virksomheter​1 skal​2 legge forholdene til rette for gjennomføring av tilsyn​3 og kjøttkontroll.​4 Nødvendige lokaler og innretninger m.v. skal stilles til vederlagsfri disposisjon for tilsynsmyndigheten.​5\nProdusenter av slaktedyr​6 og virksomheter omfattet av denne lov​7 skal på anmodning fra tilsynsmyndigheten​5 gi alle opplysninger som har betydning for tilsynet, samt yte bistand ved tilsyn og prøveuttak.\n1 Se § 3, e.\n2 Jfr. § 21.\n3 Se kap. V.\n4 Jfr. § 11.\n5 Se § 13.\n6 Se § 2, b.\n7 Se § 3, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Transport",
+      "content": "Transport​1 av ferskt kjøtt​2 skal skje på en hygienisk forsvarlig måte.​3 Departementet​4 kan gi nærmere forskrifter​5 om transport av ferskt kjøtt.\n1 Se § 12 første ledd, e.\n2 Se § 3, d.\n3 Se § 8.\n4 Landbruksdepartementet.\n5 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "Kjøttkontroll",
+      "content": "Alt kjøtt som skal frambys til folkemat, skal være undersøkt og godkjent av tilsynsmyndigheten.​1 Ferskt kjøtt​2 som finnes egnet som folkemat skal godkjennes og påføres stempelmerke. Dyr​3 som ved levendedyr-kontroll er funnet uegnet til slakting, kan kreves avlivet og uskadeliggjort, slik at det ikke utgjør noen smittefare for dyr eller mennesker. Ferskt kjøtt​2 som er funnet uegnet til folkemat eller annen anvendelse skal kasseres og uskadeliggjøres.\nDen som eier eller framstiller kjøtt til kontroll, kan klage​4 på vedtak etter første ledd. Klagen må i tilfelle framsettes straks.\nDepartementet kan i forskrifter​5 gi virksomheter​6 rett til på særlige vilkår å bistå ved visse deler av kjøttkontrollen.\nDet er forbudt å produsere og framby ferskt kjøtt​2 som ved vanlig bruk kan representere helsefare eller av annen årsak ansees uegnet til folkemat.\n1 Se § 13.\n2 Se § 3, d.\n3 Se § 3, a.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VI.\n5 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n6 Se § 3, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Import og eksport av ferskt kjøtt",
+      "content": "Importør av ferskt kjøtt​1 skal være registrert av departementet.​2\nDepartementet​2 kan fastsette nærmere betingelser for import og eksport av ferskt kjøtt.\nDepartementet​2 kan forby import og eksport av ferskt kjøtt som ikke oppfyller kravene gitt i eller i medhold av denne lov.\n1 Se § 3, d.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "5:13",
+      "chapter": "5",
+      "section": "13",
+      "title": "Tilsynsmyndigheten",
+      "content": "Departementet​1 fører tilsyn med virksomhetene, utfører kjøttkontroll​2 og fatter nødvendige vedtak​3 for å sikre gjennomføring av bestemmelser gitt i eller i medhold av denne lov, og skal påse at gjeldende bestemmelser om dyrevern​4 og dyrehelse i slakterier overholdes.\nDepartementet kan pålegge det kommunale eller interkommunale næringsmiddeltilsynet​5 å føre tilsyn og fatte vedtak som nevnt i første ledd. Det kommunale eller interkommunale næringsmiddeltilsynet plikter i så fall å sørge for at oppgavene utføres av en tilsynsveterinær.\n1 Landbruksdepartementet.\n2 Jfr. § 11.\n3 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n4 Se lov 20 des 1974 nr. 73.\n5 Se lov 17 mars 1978 nr. 6 § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "5:14",
+      "chapter": "5",
+      "section": "14",
+      "title": "Tilgang til informasjon m.v.",
+      "content": "Tilsynsmyndigheten​1 skal til enhver tid ha adgang​2 til virksomheter​3 og transportmidler som omfattes av loven her. Tilsynsmyndighetene​1 kan kreve seg forelagt alle opplysninger, herunder forretningsbøker og lignende papirer, som finnes nødvendig for å gjennomføre tilsynet.\nTilsynsmyndigheten​1 kan som ledd i kontrollen vederlagsfritt utta prøver.\nPoliti​4 og tollvesen​5 skal være behjelpelig med å føre tilsyn med overholdelsen av bestemmelser gitt i eller i medhold av loven her.\nUtenlandske inspektører kan delta i inspeksjoner m.v. når dette er forutsatt i internasjonale bindende avtaler som Norge har sluttet seg til. Som ledd i slike avtaler, kan tilsynsorganet gi taushetsbelagte opplysninger til utenlandske myndigheter som er underlagt regler om taushetsplikt tilsvarende norske myndigheter.​6\n1 Se § 13.\n2 Jfr. strl. § 326.\n3 Se § 3, e.\n4 Jfr. lov 4 aug 1995 nr. 53 § 2 nr. 5.\n5 Jfr. lov 10 juni 1966 nr. 5.\n6 Sml. lov 10 feb 1967 § 13 b første ledd nr. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "title": "Registrering av data​1",
+      "content": "Tilsynsmyndigheten kan opprette eller knytte seg til eksisterende dataregister for opplysninger om virksomheter og om slaktedyrsbesetningers helsetilstand, som anses nødvendig for å sikre at bestemmelsene gitt i eller i medhold av loven her overholdes.\nRegisteret kan inneholde følgende type opplysninger:\n1. Eier av slaktedyrbesetninger.\n2. Adresse, telefonnummer til eier, samt identifikasjonsnummer for besetning.\n3. Helseopplysninger om slaktedyr​2 gitt av eier.\n4. Helseopplysninger om slaktedyr​2 registrert av tilsynsmyndighetene.\n5. Tilsynsmyndighetens​3 vedtak.\n6. Virksomhet,​4 eier, adresse, telefonnummer og virksomhetsnummer.\n7. Opplysninger om omfang av godkjenning.\nTilsynsmyndigheten​3 skal sørge for at det iverksettes tiltak for nødvendig sikring av konfidensialitet, datakvalitet og tilgjengelighet for opplysninger og registre.\n1 Jfr. lov 14 april 2000 nr. 31 § 5.\n2 Se § 3, b.\n3 Se § 13.\n4 Se § 3, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "6:16",
+      "chapter": "6",
+      "section": "16",
+      "title": "Stenging, forbud mot frambud, beslagleggelse m.v.",
+      "content": "Oppstår det i virksomheten forhold som medfører eller kan medføre fare for helseskade, kan hele eller deler av virksomheten​1 stenges inntil forholdene er rettet. Stenging kan om nødvendig gjennomføres med bistand fra politiet.​2\nFerskt kjøtt​3 som ikke oppfyller krav i eller i medhold av denne lov, kan​4 forbys​5 frambudt, importert eller eksportert.\nFerskt kjøtt som anses helseskadelig, kan​3 beslaglegges eller destrueres.\n1 Se § 3, e.\n2 Jfr. lov 4 aug 1995 nr. 53 § 2 nr. 5.\n3 Se § 3, d.\n4 Av Statens næringsmiddeltilsyn iflg. vedtak 8. juli 1999 nr. 866 (jfr. § 20), omfatter kun myndighet til å fastsette forskrifter om beskyttelsestiltak av hensyn til folkehelsen, jf. EØS-avtalens vedlegg I, del I, Innledende del pkt. 3.\n5 Jfr. § 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "6:17",
+      "chapter": "6",
+      "section": "17",
+      "title": "Avgift og gebyr",
+      "content": "Departementet​1 kan gi forskrifter​2 om at virksomheter omfattet av loven​3 skal betale avgift til dekning av utgifter ved tilsyn og kjøttkontroll som utføres etter loven. Departementet​1 kan også gi forskrifter​2 om betaling av gebyr for særlige ytelser og ekspedisjoner, herunder autorisasjoner,​4 registreringer,​5 undersøkelser,​6 attester og godkjenninger​7 innenfor lovens område.\nAvgifter og gebyrer er tvangsgrunnlag for utlegg.​8\n1 Landbruksdepartementet.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, e.\n4 Se § 3, f og § 6.\n5 Se § 15.\n6 Se § 11.\n7 Se § 3, g og § 6.\n8 Jfr. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "6:18",
+      "chapter": "6",
+      "section": "18",
+      "title": "Internkontrollsystem",
+      "content": "Departementet​1 kan gi forskrifter​2 om internkontroll og internkontrollsystem for å sikre at bestemmelser gitt i eller i medhold av denne lov overholdes.\n1 Landbruksdepartementet.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "6:19",
+      "chapter": "6",
+      "section": "19",
+      "title": "Tvangsmulkt",
+      "content": "Virksomhet​1 eller innehaver av virksomhet som oversitter frist for oppfyllelse av pålegg gitt i medhold av denne lov kan ilegges tvangsmulkt i form av en løpende dagsmulkt eller engangsmulkt. Tvangsmulktens størrelse fastsettes under hensyn til hvor viktig det er at pålegget blir gjennomført og hvilke kostnader det antas å medføre. Tvangsmulkten er tvangsgrunnlag for utlegg.​2\n1 Se § 3, e.\n2 Jfr. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "6:20",
+      "chapter": "6",
+      "section": "20",
+      "title": "Utferdigelse av nærmere bestemmelser",
+      "content": "Departementet​1 kan gi forskrifter​2 som er nødvendig for å sikre gjennomføringen av denne lov.\n1 Statens næringsmiddeltilsyn for § 16 annet og tredje ledd iflg. vedtak 8. juli 1999 nr. 866, omfatter kun myndighet til å fastsette forskrifter om beskyttelsestiltak av hensyn til folkehelsen, jf. EØS-avtalens vedlegg I, del I, Innledende del pkt. 3.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "6:21",
+      "chapter": "6",
+      "section": "21",
+      "title": "Straff​1",
+      "content": "Ved forsettlig eller uaktsom overtredelse av bestemmelser eller pålegg gitt i denne lov eller i medhold av denne lov straffes virksomhet,​2 arbeidsgiver​3 eller den som i arbeidsgivers sted leder virksomheten samt arbeidstaker,​4 med bøter​5 eller fengsel​6 inntil 3 måneder eller begge deler.\nMedvirkning straffes på samme måte.\n1 Jfr. strl. § 2.\n2 Se § 3, e, jfr. strl. kap. 3 a.\n3 Jfr. strl. kap. 3 a og lov 4 feb 1977 nr. 4 § 3..\n4 Jfr. lov 4 feb 1977 nr. 4 § 3.\n5 Jfr. strl. § 27 og kap. 3 a.\n6 Jfr. strl. § 26 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "6:22",
+      "chapter": "6",
+      "section": "22",
+      "title": "Ikrafttredelse",
+      "content": "Loven her trer i kraft fra den tid​1 Kongen bestemmer. Fra samme tid oppheves lov av 12. april 1957 nr. 2 om slakterier, kjøttindustri og offentlig kjøttkontroll. Forskrifter og regler gitt med hjemmel i lov av 12. april 1957 nr. 2 om slakterier, kjøttindustri og offentlig kjøttkontroll gjelder i den grad de ikke strider mot bestemmelser i loven her.\n1 Fra 1 april 1997 iflg. res. 21 mars 1997 nr. 229.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Formålet med loven her er å sikre at produksjon av slaktedyr,​1 slakt​1 og ferskt kjøtt​1 foregår på en slik måte at kravet til helse, kvalitet og redelighet, blir ivaretatt langs hele produksjonskjeden.\nVidere skal det ved tilsyn på slakterier sikres at gjeldende bestemmelser om dyrevern​2 og dyrehelse overholdes.\n1 Se § 3.\n2 Jfr. lov 20 des 1974 nr. 73.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Virkeområde",
+      "content": "Loven gjelder for:\na. produksjon av slaktedyr,​1\nb. slakting,\nc. kjøling av kjøtt,\nd. nedskjæring, utbening og annen mekanisk behandling av kjøtt fram til og med stykking,\ne. lagring og transport av ferskt kjøtt,​2\nf. kjøttkontroll, og\ng. import, eksport og frambud av ferskt kjøtt​2\nUnntatt fra loven her er nedskjæring m.v. og lagring av kjøtt i detaljleddet, for direkte salg til forbruker, herunder kantiner, sykehus, skoler, restauranter o.l.\nMed mindre annet er særskilt bestemt, gjelder bestemmelsene bare ferskt kjøtt​2 som er bestemt til folkemat.\n1 Se § 3, b.\n2 Se § 3, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I loven her menes med:\na. dyr: alle virveldyr unntatt fisk,\nb. slaktedyr: husdyr (inkludert fjørfe) eller oppdrettsvilt som helt eller delvis holdes med tanke på produksjon av slakt,\nc. slakt og slakteskrott: hele kroppen av et dyr etter slaktebehandling,\nd. ferskt kjøtt: alle spiselige deler av dyr, herunder vakumpakket kjøtt og kjøtt pakket i kontrollert atmosfære, uten annen konservering enn kjøling eller frysing,\ne. virksomhet: slakteribedrift, nedskjæringsbedrift, kjøle- og fryselager, eller et samlet anlegg som omfatter flere av disse bedriftene,\nf. autorisasjon: offentlig godkjenning som gir virksomheten anledning til å framby sine produkter på et internasjonalt marked,\ng. godkjenning: offentlig godkjenning som gir virksomheten anledning til å framby produkter på et lokalt eller nasjonalt marked.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Undersøkelser av slaktedyrbesetninger",
+      "content": "Departementet​1 kan utfra næringsmiddelhensynet, jf. § 1, gi forskrifter​2 om undersøkelser og prøvetaking av slaktedyr​3 og registrering og innsamling av opplysninger om slaktedyrbesetninger, herunder bestemmelser om innsamling og innrapportering av opplysninger vedrørende besetningens helsemessige tilstand, merking av dyr,​4 samt uttak av prøver fra dyr​4 og produkter for undersøkelse av sjukdommer, sjukelige forandringer eller reststoffer.\n1 Landbruksdepartementet.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, b.\n4 Se § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Krav til slaktedyr​1",
+      "content": "Dyr​2 som skal slaktes skal​3 ikke være forurenset, lide av sjukdom, inneholde rester av medisiner, forurensninger eller smittestoff og heller ikke ha andre stoffer i eller på kroppen som kan medføre helsefare ved konsum av kjøtt. Departementet​4 kan i forskrifter​5 gi nærmere bestemmelser om dette.\nDepartementet​4 kan videre forby​3 bruk av visse stoffer og medikamenter til slaktedyr, herunder stoffer og medikamenter til annet enn terapeutisk bruk.\n1 Se § 3, b.\n2 Se § 3, a.\n3 Jfr. § 21.\n4 Landbruksdepartementet.\n5 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "3:6",
+      "chapter": "3",
+      "section": "6",
+      "title": "Autorisasjon, godkjenning og registrering",
+      "content": "Virksomhet etter loven her​1 kan bare​2 utføres etter autorisasjon​3 eller godkjenning​4 av departementet.​5\nAutorisasjon eller godkjenning kan trekkes tilbake hvis virksomheten ikke fyller fastsatte vilkår, eller forutsetningene for autorisasjon eller godkjenning endres vesentlig.\nDepartementet​5 kan gi forskrifter​6 om autorisasjon og godkjenning.\n1 Se § 3, e.\n2 Jfr. § 21.\n3 Se § 3, f.\n4 Se § 3, g.\n5 Landbruksdepartementet.\n6 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Slakting under særlige forhold",
+      "content": "Eier eller bruker av eiendommer hvor hold av slaktedyr​1 er tillatt, kan slakte egne dyr​2 til bruk i egen husholdning uten autorisasjon eller godkjenning etter § 6.\nDepartementet​3 kan gi forskrifter​4 om slakting og frambud direkte til forbruker til bruk i dennes private husholdning.\nNødslakting kan utføres utenfor godkjent eller autorisert virksomhet.​5 Departementet​3 kan gi forskrifter​4 om hygienemessige krav​6 til slik slakting.\n1 Se § 3, b.\n2 Se § 3, a.\n3 Landbruksdepartementet.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n5 Jfr. § 6.\n6 Jfr. § 38.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Hygiene",
+      "content": "Virksomhet som omfattes av denne lov​1 skal​2 foregå på en hygienisk forsvarlig måte. Departementet​3 kan i forskrift​4 fastsette krav til virksomhetens innretninger og utstyr, driftsrutiner, rengjørings- og desinfeksjonsmidler og produksjonsutstyr for øvrig, samt krav til og kontroll med personalets helse og hygiene.\n1 Se § 3, e.\n2 Jfr. § 21.\n3 Landbruksdepartementet.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Tilsyn og kjøttkontroll",
+      "content": "Virksomheter​1 skal​2 legge forholdene til rette for gjennomføring av tilsyn​3 og kjøttkontroll.​4 Nødvendige lokaler og innretninger m.v. skal stilles til vederlagsfri disposisjon for tilsynsmyndigheten.​5\nProdusenter av slaktedyr​6 og virksomheter omfattet av denne lov​7 skal på anmodning fra tilsynsmyndigheten​5 gi alle opplysninger som har betydning for tilsynet, samt yte bistand ved tilsyn og prøveuttak.\n1 Se § 3, e.\n2 Jfr. § 21.\n3 Se kap. V.\n4 Jfr. § 11.\n5 Se § 13.\n6 Se § 2, b.\n7 Se § 3, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Transport",
+      "content": "Transport​1 av ferskt kjøtt​2 skal skje på en hygienisk forsvarlig måte.​3 Departementet​4 kan gi nærmere forskrifter​5 om transport av ferskt kjøtt.\n1 Se § 12 første ledd, e.\n2 Se § 3, d.\n3 Se § 8.\n4 Landbruksdepartementet.\n5 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "Kjøttkontroll",
+      "content": "Alt kjøtt som skal frambys til folkemat, skal være undersøkt og godkjent av tilsynsmyndigheten.​1 Ferskt kjøtt​2 som finnes egnet som folkemat skal godkjennes og påføres stempelmerke. Dyr​3 som ved levendedyr-kontroll er funnet uegnet til slakting, kan kreves avlivet og uskadeliggjort, slik at det ikke utgjør noen smittefare for dyr eller mennesker. Ferskt kjøtt​2 som er funnet uegnet til folkemat eller annen anvendelse skal kasseres og uskadeliggjøres.\nDen som eier eller framstiller kjøtt til kontroll, kan klage​4 på vedtak etter første ledd. Klagen må i tilfelle framsettes straks.\nDepartementet kan i forskrifter​5 gi virksomheter​6 rett til på særlige vilkår å bistå ved visse deler av kjøttkontrollen.\nDet er forbudt å produsere og framby ferskt kjøtt​2 som ved vanlig bruk kan representere helsefare eller av annen årsak ansees uegnet til folkemat.\n1 Se § 13.\n2 Se § 3, d.\n3 Se § 3, a.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VI.\n5 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n6 Se § 3, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Import og eksport av ferskt kjøtt",
+      "content": "Importør av ferskt kjøtt​1 skal være registrert av departementet.​2\nDepartementet​2 kan fastsette nærmere betingelser for import og eksport av ferskt kjøtt.\nDepartementet​2 kan forby import og eksport av ferskt kjøtt som ikke oppfyller kravene gitt i eller i medhold av denne lov.\n1 Se § 3, d.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "5:13",
+      "chapter": "5",
+      "section": "13",
+      "title": "Tilsynsmyndigheten",
+      "content": "Departementet​1 fører tilsyn med virksomhetene, utfører kjøttkontroll​2 og fatter nødvendige vedtak​3 for å sikre gjennomføring av bestemmelser gitt i eller i medhold av denne lov, og skal påse at gjeldende bestemmelser om dyrevern​4 og dyrehelse i slakterier overholdes.\nDepartementet kan pålegge det kommunale eller interkommunale næringsmiddeltilsynet​5 å føre tilsyn og fatte vedtak som nevnt i første ledd. Det kommunale eller interkommunale næringsmiddeltilsynet plikter i så fall å sørge for at oppgavene utføres av en tilsynsveterinær.\n1 Landbruksdepartementet.\n2 Jfr. § 11.\n3 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n4 Se lov 20 des 1974 nr. 73.\n5 Se lov 17 mars 1978 nr. 6 § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "5:14",
+      "chapter": "5",
+      "section": "14",
+      "title": "Tilgang til informasjon m.v.",
+      "content": "Tilsynsmyndigheten​1 skal til enhver tid ha adgang​2 til virksomheter​3 og transportmidler som omfattes av loven her. Tilsynsmyndighetene​1 kan kreve seg forelagt alle opplysninger, herunder forretningsbøker og lignende papirer, som finnes nødvendig for å gjennomføre tilsynet.\nTilsynsmyndigheten​1 kan som ledd i kontrollen vederlagsfritt utta prøver.\nPoliti​4 og tollvesen​5 skal være behjelpelig med å føre tilsyn med overholdelsen av bestemmelser gitt i eller i medhold av loven her.\nUtenlandske inspektører kan delta i inspeksjoner m.v. når dette er forutsatt i internasjonale bindende avtaler som Norge har sluttet seg til. Som ledd i slike avtaler, kan tilsynsorganet gi taushetsbelagte opplysninger til utenlandske myndigheter som er underlagt regler om taushetsplikt tilsvarende norske myndigheter.​6\n1 Se § 13.\n2 Jfr. strl. § 326.\n3 Se § 3, e.\n4 Jfr. lov 4 aug 1995 nr. 53 § 2 nr. 5.\n5 Jfr. lov 10 juni 1966 nr. 5.\n6 Sml. lov 10 feb 1967 § 13 b første ledd nr. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "title": "Registrering av data​1",
+      "content": "Tilsynsmyndigheten kan opprette eller knytte seg til eksisterende dataregister for opplysninger om virksomheter og om slaktedyrsbesetningers helsetilstand, som anses nødvendig for å sikre at bestemmelsene gitt i eller i medhold av loven her overholdes.\nRegisteret kan inneholde følgende type opplysninger:\n1. Eier av slaktedyrbesetninger.\n2. Adresse, telefonnummer til eier, samt identifikasjonsnummer for besetning.\n3. Helseopplysninger om slaktedyr​2 gitt av eier.\n4. Helseopplysninger om slaktedyr​2 registrert av tilsynsmyndighetene.\n5. Tilsynsmyndighetens​3 vedtak.\n6. Virksomhet,​4 eier, adresse, telefonnummer og virksomhetsnummer.\n7. Opplysninger om omfang av godkjenning.\nTilsynsmyndigheten​3 skal sørge for at det iverksettes tiltak for nødvendig sikring av konfidensialitet, datakvalitet og tilgjengelighet for opplysninger og registre.\n1 Jfr. lov 14 april 2000 nr. 31 § 5.\n2 Se § 3, b.\n3 Se § 13.\n4 Se § 3, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "6:16",
+      "chapter": "6",
+      "section": "16",
+      "title": "Stenging, forbud mot frambud, beslagleggelse m.v.",
+      "content": "Oppstår det i virksomheten forhold som medfører eller kan medføre fare for helseskade, kan hele eller deler av virksomheten​1 stenges inntil forholdene er rettet. Stenging kan om nødvendig gjennomføres med bistand fra politiet.​2\nFerskt kjøtt​3 som ikke oppfyller krav i eller i medhold av denne lov, kan​4 forbys​5 frambudt, importert eller eksportert.\nFerskt kjøtt som anses helseskadelig, kan​3 beslaglegges eller destrueres.\n1 Se § 3, e.\n2 Jfr. lov 4 aug 1995 nr. 53 § 2 nr. 5.\n3 Se § 3, d.\n4 Av Statens næringsmiddeltilsyn iflg. vedtak 8. juli 1999 nr. 866 (jfr. § 20), omfatter kun myndighet til å fastsette forskrifter om beskyttelsestiltak av hensyn til folkehelsen, jf. EØS-avtalens vedlegg I, del I, Innledende del pkt. 3.\n5 Jfr. § 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "6:17",
+      "chapter": "6",
+      "section": "17",
+      "title": "Avgift og gebyr",
+      "content": "Departementet​1 kan gi forskrifter​2 om at virksomheter omfattet av loven​3 skal betale avgift til dekning av utgifter ved tilsyn og kjøttkontroll som utføres etter loven. Departementet​1 kan også gi forskrifter​2 om betaling av gebyr for særlige ytelser og ekspedisjoner, herunder autorisasjoner,​4 registreringer,​5 undersøkelser,​6 attester og godkjenninger​7 innenfor lovens område.\nAvgifter og gebyrer er tvangsgrunnlag for utlegg.​8\n1 Landbruksdepartementet.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, e.\n4 Se § 3, f og § 6.\n5 Se § 15.\n6 Se § 11.\n7 Se § 3, g og § 6.\n8 Jfr. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "6:18",
+      "chapter": "6",
+      "section": "18",
+      "title": "Internkontrollsystem",
+      "content": "Departementet​1 kan gi forskrifter​2 om internkontroll og internkontrollsystem for å sikre at bestemmelser gitt i eller i medhold av denne lov overholdes.\n1 Landbruksdepartementet.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "6:19",
+      "chapter": "6",
+      "section": "19",
+      "title": "Tvangsmulkt",
+      "content": "Virksomhet​1 eller innehaver av virksomhet som oversitter frist for oppfyllelse av pålegg gitt i medhold av denne lov kan ilegges tvangsmulkt i form av en løpende dagsmulkt eller engangsmulkt. Tvangsmulktens størrelse fastsettes under hensyn til hvor viktig det er at pålegget blir gjennomført og hvilke kostnader det antas å medføre. Tvangsmulkten er tvangsgrunnlag for utlegg.​2\n1 Se § 3, e.\n2 Jfr. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "6:20",
+      "chapter": "6",
+      "section": "20",
+      "title": "Utferdigelse av nærmere bestemmelser",
+      "content": "Departementet​1 kan gi forskrifter​2 som er nødvendig for å sikre gjennomføringen av denne lov.\n1 Statens næringsmiddeltilsyn for § 16 annet og tredje ledd iflg. vedtak 8. juli 1999 nr. 866, omfatter kun myndighet til å fastsette forskrifter om beskyttelsestiltak av hensyn til folkehelsen, jf. EØS-avtalens vedlegg I, del I, Innledende del pkt. 3.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "6:21",
+      "chapter": "6",
+      "section": "21",
+      "title": "Straff​1",
+      "content": "Ved forsettlig eller uaktsom overtredelse av bestemmelser eller pålegg gitt i denne lov eller i medhold av denne lov straffes virksomhet,​2 arbeidsgiver​3 eller den som i arbeidsgivers sted leder virksomheten samt arbeidstaker,​4 med bøter​5 eller fengsel​6 inntil 3 måneder eller begge deler.\nMedvirkning straffes på samme måte.\n1 Jfr. strl. § 2.\n2 Se § 3, e, jfr. strl. kap. 3 a.\n3 Jfr. strl. kap. 3 a og lov 4 feb 1977 nr. 4 § 3..\n4 Jfr. lov 4 feb 1977 nr. 4 § 3.\n5 Jfr. strl. § 27 og kap. 3 a.\n6 Jfr. strl. § 26 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "6:22",
+      "chapter": "6",
+      "section": "22",
+      "title": "Ikrafttredelse",
+      "content": "Loven her trer i kraft fra den tid​1 Kongen bestemmer. Fra samme tid oppheves lov av 12. april 1957 nr. 2 om slakterier, kjøttindustri og offentlig kjøttkontroll. Forskrifter og regler gitt med hjemmel i lov av 12. april 1957 nr. 2 om slakterier, kjøttindustri og offentlig kjøttkontroll gjelder i den grad de ikke strider mot bestemmelser i loven her.\n1 Fra 1 april 1997 iflg. res. 21 mars 1997 nr. 229.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    }
+  ]
+}

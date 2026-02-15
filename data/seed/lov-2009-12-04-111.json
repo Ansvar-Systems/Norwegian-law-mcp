@@ -1,0 +1,75 @@
+{
+  "id": "LOV-2009-12-04-111",
+  "type": "statute",
+  "title": "Lov om lønnsnemndbehandling av arbeidstvisten i Norsk Luftambulanse i forbindelse med tariffoppgjøret 2009",
+  "short_name": "Lov om lønnsnemnd, Norsk Luftambulanse",
+  "status": "in_force",
+  "issued_date": "2009-12-04",
+  "in_force_date": "2009-12-04",
+  "url": "https://lovdata.no/dokument/NLO/lov/2009-12-04-111",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom Norsk Flygerforbund på den ene side og NHO Luftfart på den annen side i forbindelse med tariffoppgjøret 2009 vedrørende overenskomst for Norsk Luftambulanse skal avgjøres av Rikslønnsnemnda.\nReglene i lov 19. desember 1952 nr. 7 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans eller blokade for å løse tvisten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks.\nLoven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse i tvisten.\nDvs 18 des 2009, etter Rikslønnsnemndas kjennelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom Norsk Flygerforbund på den ene side og NHO Luftfart på den annen side i forbindelse med tariffoppgjøret 2009 vedrørende overenskomst for Norsk Luftambulanse skal avgjøres av Rikslønnsnemnda.\nReglene i lov 19. desember 1952 nr. 7 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans eller blokade for å løse tvisten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks.\nLoven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse i tvisten.\nDvs 18 des 2009, etter Rikslønnsnemndas kjennelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

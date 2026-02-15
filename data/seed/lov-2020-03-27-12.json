@@ -1,0 +1,115 @@
+{
+  "id": "LOV-2020-03-27-12",
+  "type": "statute",
+  "title": "Lov om Statens obligasjonsfond",
+  "short_name": "Lov om Statens obligasjonsfond",
+  "status": "in_force",
+  "issued_date": "2020-03-27",
+  "in_force_date": "2020-03-27",
+  "url": "https://lovdata.no/dokument/NL/lov/2020-03-27-12",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Midlene i Statens obligasjonsfond eies av staten. Statens obligasjonsfond skal bidra til økt likviditet og kapital til kredittobligasjonsmarkedet gjennom plasseringer i rentebærende instrumenter til utstedere hjemmehørende i Norge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Statens obligasjonsfond kan ikke selv ha rettigheter eller plikter overfor private eller offentlige myndigheter, og kan ikke saksøke eller saksøkes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Statens obligasjonsfond forvaltes av departementet.\nStatens obligasjonsfonds kapital fastsettes etter vedtak i Stortinget.\nStatens obligasjonsfond plasseres som et kapitalinnskudd i Folketrygdfondet. Motverdien forvaltes etter nærmere bestemmelser fastsatt av departementet, jf. § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Departementet kan gi utfyllende bestemmelser til gjennomføring av loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Loven trer i kraft straks. Departementet kan gi overgangsbestemmelser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Midlene i Statens obligasjonsfond eies av staten. Statens obligasjonsfond skal bidra til økt likviditet og kapital til kredittobligasjonsmarkedet gjennom plasseringer i rentebærende instrumenter til utstedere hjemmehørende i Norge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Statens obligasjonsfond kan ikke selv ha rettigheter eller plikter overfor private eller offentlige myndigheter, og kan ikke saksøke eller saksøkes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Statens obligasjonsfond forvaltes av departementet.\nStatens obligasjonsfonds kapital fastsettes etter vedtak i Stortinget.\nStatens obligasjonsfond plasseres som et kapitalinnskudd i Folketrygdfondet. Motverdien forvaltes etter nærmere bestemmelser fastsatt av departementet, jf. § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Departementet kan gi utfyllende bestemmelser til gjennomføring av loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Loven trer i kraft straks. Departementet kan gi overgangsbestemmelser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ]
+}

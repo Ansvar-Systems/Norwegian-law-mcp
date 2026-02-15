@@ -1,0 +1,639 @@
+{
+  "id": "LOV-2017-06-16-69",
+  "type": "statute",
+  "title": "Lov om godkjenning av yrkeskvalifikasjoner (yrkeskvalifikasjonsloven)",
+  "short_name": "Yrkeskvalifikasjonsloven",
+  "status": "in_force",
+  "issued_date": "2017-06-16",
+  "in_force_date": "2018-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2017-06-16-69",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Lovens formål er å legge til rette for at en yrkesutøver som er statsborger av en EØS-stat eller Sveits, kan utøve yrket sitt i Norge på lik linje med en yrkesutøver som har ervervet sine yrkeskvalifikasjoner i Norge, i samsvar med EØS-avtalen vedlegg VII og Konvensjonen om opprettelse av Det europeiske frihandelsforbund (EFTA-konvensjonen), jf. direktiv 2005/36/EF.\nLoven har også som formål å legge til rette for at en yrkesutøver med yrkeskvalifikasjoner fra tredjeland, kan utøve sitt yrke i Norge.\n0 Endret ved lov 11 juni 2021 nr. 81 (ikr. 1 aug 2021 iflg. res. 18 juni 2021 nr. 1972).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens virkeområde",
+      "content": "Loven gjelder yrkesutøvere med statsborgerskap fra en EØS-stat eller Sveits som vil utøve et lovregulert yrke i Norge, og som har ervervet sine yrkeskvalifikasjoner eller fått disse godkjent i en annen EØS-stat eller Sveits. Loven gjelder videre for yrker som er omfattet av ordningen med europeisk profesjonskort. Loven gjelder med visse begrensninger også tredjelandsborgere som omfattes av direktiv 2004/38/EF, jf. fjerde ledd.\nFor yrker som omfattes av lov 2. juli 1999 nr. 64 om helsepersonell m.v. og lov 15. juni 2001 nr. 75 om veterinærer og annet dyrehelsepersonell, gjelder kun §§ 22 til 24. For statsborgere fra Sveits gjelder ikke §§ 10, 11, 14, 19 første ledd annet punktum og 20.\n§§ 3, 8, 12, 13 og 15 til 18 gjelder for yrkesutøver med yrkeskvalifikasjoner fra tredjeland, om ikke annet er særskilt bestemt.\nLoven gir ikke rett til å utøve yrker innen offentlig myndighetsutøvelse.​1 Loven gjelder ikke for offentlig utnevnte notarer.\nDepartementet kan gi forskrift om yrkesutøver som har ervervet sine yrkeskvalifikasjoner i et tredjeland, og tredjelandsborgere som omfattes av direktiv 2004/38/EF.\n0 Endret ved lover 21 juni 2019 nr. 60 (ikr. 1 aug 2019 iflg. res. 21 juni 2019 nr. 778), 11 juni 2021 nr. 81 (ikr. 1 aug 2021 iflg. res. 18 juni 2021 nr. 1972).\n1 Jf. EØS-avtalen art. 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:2 a",
+      "chapter": "1",
+      "section": "2 a",
+      "title": "Lovens anvendelse for yrkeskvalifikasjoner og yrkesutøvere fra Storbritannia",
+      "content": "Britiske borgere med yrkeskvalifikasjoner fra Storbritannia eller en EØS-stat og EØS-borgere med yrkeskvalifikasjoner fra Storbritannia som har fått innvilget godkjenning etter reglene i kapittel 3 innen utløpet av overgangsperioden som fastsatt i lov 29. mars 2019 nr. 8 om en overgangsperiode ved Storbritannias uttreden fra EU § 2, har rett til å utøve yrket i Norge. Tilsvarende gjelder for personer som omfattes av utlendingsloven § 125 a.\nLoven kapittel 3, kapittel 4 unntatt § 14 og kapittel 5 gjelder også for personer som nevnt i første ledd som har søkt om godkjenning etter §§ 8 til 11 før utløpet av overgangsperioden. Tilsvarende gjelder ut 2029 for personer som var under utdanning i Storbritannia 31. desember 2019. Ut 2021 gjelder loven kapittel 3, kapittel 4 unntatt § 14 og kapittel 5 også for personer som nevnt i første ledd som har fullført sin utdannelse i Storbritannia før utløpet av overgangsperioden.\n0 Tilføyd ved lov 27 nov 2020 nr. 131 (ikr. 1 jan 2021 iflg. res. 18 des 2020 nr. 2842).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2a",
+        "source_heading": "§ 2 a."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I denne loven betyr\na. lovregulert yrke: en eller flere former for yrkesvirksomhet som er underlagt lov- eller forskriftsfestede krav om bestemte yrkeskvalifikasjoner, eller hvor bruken av en yrkestittel ved lov eller forskrift er begrenset til innehavere av en gitt yrkeskvalifikasjon\nb. yrkeskvalifikasjoner: kvalifikasjoner bekreftet ved et kvalifikasjonsbevis, et kursbevis eller yrkeserfaring\nc. kvalifikasjonsbevis: vitnemål, attester og annen dokumentasjon utstedt av en myndighet utpekt i henhold til lover eller forskrifter i vedkommende medlemsstat, og som dokumenterer en bestått yrkesrettet opplæring som i hovedsak er ervervet i en EØS-stat eller Sveits\nd. ansvarlig myndighet: myndighet eller organ som er særlig bemyndiget til å utstede eller motta kvalifikasjonsbevis og andre dokumenter eller opplysninger, og til å motta søknader og treffe beslutninger som nevnt i denne loven\ne. lovregulert utdanning: utdanning som er særlig rettet mot utøvelsen av et bestemt yrke og som omfatter ett eller flere kurs, eventuelt supplert med yrkesrettet opplæring, en praktisk prøveperiode eller yrkespraksis hvis nivå og struktur er fastsatt ved lov eller forskrift\nf. yrkeserfaring: faktisk og lovlig utøvelse av det aktuelle yrket i annen EØS-stat eller Sveits\ng. prøveperiode: utøvelse av et lovregulert yrke under tilsyn av en kvalifisert utøver av dette yrket og eventuelt etterfulgt av videreutdanning\nh. egnethetsprøve: en prøve avgrenset til søkerens faglige kunnskaper som gjennomføres av ansvarlig myndighet i vertsstaten med sikte på å vurdere søkerens evne til å utøve et lovregulert yrke i nevnte EØS-stat eller Sveits\ni. etableringsstat: den staten hvor yrkesutøveren utøver eller har utøvd sitt yrke, eller er lovlig etablert med det formål å utøve et yrke\nj. vertsstat: den staten hvor yrkesutøveren har søkt om å utøve sitt yrke enten ved midlertidig tjenesteytelse eller ved etablering\nk. hjemstat: den staten hvor yrkesutøveren har ervervet sine yrkeskvalifikasjoner\nl. europeisk profesjonskort: et elektronisk sertifikat som dokumenterer at yrkesutøveren enten oppfyller alle nødvendige betingelser for midlertidig tjenesteytelse i vertsstaten, eller godkjenning av yrkeskvalifikasjoner for etablering i vertsstaten\nm. Det indre markeds informasjonssystem (IMI): EUs database til informasjonsutveksling mellom ansvarlige myndigheter i EØS-statene.\n0 Endret ved lov 11 juni 2021 nr. 81 (ikr. 1 aug 2021 iflg. res. 18 juni 2021 nr. 1972).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Prinsippet om fri ytelse av tjenester",
+      "content": "En yrkesutøver som er lovlig etablert i en annen EØS-stat eller Sveits, og som har rett til å utøve yrke der, har rett til å utøve det samme yrket midlertidig i Norge.\nDen ansvarlige myndigheten kan vurdere om yrkesutøveren skal gis delvis adgang til et yrke.\nDepartementet kan gi forskrift om midlertidig tjenesteytelse, herunder bruk av lovbeskyttet tittel, informasjon til tjenestebrukere og delvis adgang til yrker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Forhåndsmelding",
+      "content": "Første gang tjenesten ytes i Norge, kan den ansvarlige myndigheten kreve at yrkesutøveren leverer en skriftlig forhåndsmelding med tilhørende dokumenter. Meldingen skal fornyes hver tolvte måned med unntak fra innehavere av et profesjonskort, hvor fornyelse skal skje etter 18 måneder.\nDepartementet kan gi forskrift om forhåndsmeldingens innhold og krav til hvilke dokumenter som skal følge med forhåndsmeldingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Kontroll av kvalifikasjoner",
+      "content": "For yrker som har vesentlige konsekvenser for helsen eller sikkerheten til mottakeren av tjenesten, og som ikke omfattes av automatisk godkjenning etter §§ 9 til 11, kan den ansvarlige myndigheten kontrollere yrkesutøverens kvalifikasjoner før vedkommende kan utøve yrket i Norge.\nDepartementet kan gi forskrift om kontroll av kvalifikasjoner.\n0 Endret ved lov 11 juni 2021 nr. 81 (ikr. 1 aug 2021 iflg. res. 18 juni 2021 nr. 1972).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Saksbehandling for midlertidig tjenesteytelse",
+      "content": "Retten til midlertidig tjenesteytelse skal avgjøres uten ugrunnet opphold og senest innen de frister som er satt i forskrift gitt i medhold av denne loven. Dersom den ansvarlige myndigheten ikke overholder fristene, kan yrkesutøveren utøve yrket i Norge.\nDepartementet kan gi forskrift om saksbehandling og saksbehandlingsfrister for midlertidig tjenesteytelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Vilkår for godkjenning – generell ordning",
+      "content": "Paragrafen gjelder for lovregulerte yrker som ikke omfattes av automatisk godkjenning etter §§ 9 til 11.\nEn yrkesutøver som har rett til å utøve yrket i en annen EØS-stat eller Sveits, har rett til å utøve et lovregulert yrke i Norge på lik linje med en yrkesutøver som har ervervet sine yrkeskvalifikasjoner i Norge. Yrkesutøveren må ha kompetanseattest eller kvalifikasjonsbevis som kreves i annen EØS-stat eller i Sveits for å utøve yrket der.\nDen ansvarlige myndigheten kan vurdere om yrkesutøveren skal gis delvis adgang til et yrke.\nDepartementet kan gi forskrift om kvalifikasjonsnivåer, vilkår for godkjenning etter den generelle ordningen, unntak fra paragrafen, krav til prøveperiode og egnethetsprøve og om delvis adgang til et yrke.\n0 Endret ved lov 11 juni 2021 nr. 81 (ikr. 1 aug 2021 iflg. res. 18 juni 2021 nr. 1972).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Automatisk godkjenning på grunnlag av yrkeserfaring",
+      "content": "Hvis det i lov eller forskrift settes krav til generell, forretningsmessig eller faglig kunnskap og ferdighet for å kunne utøve et yrke som oppført i vedlegg IV til direktiv 2005/36/EF, kan yrkesutøveren ha rett til å utøve yrket etter en automatisk godkjenning. Det skal tas hensyn til utøvelse av yrket i en annen EØS-stat eller Sveits ved vurderingen av om kravene er oppfylt.\nDepartementet kan gi forskrift om automatisk godkjenning på grunnlag av yrkeserfaring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Godkjenning etter felles opplæringsrammer​1",
+      "content": "En yrkesutøver som har et bevis på yrkeskvalifikasjoner ervervet i en annen EØS-stat på grunnlag av felles opplæringsrammer som fastsatt etter direktiv 2005/36/EF artikkel 49a, har rett til å utøve yrket i Norge på lik linje med yrkesutøvere som har ervervet sine yrkeskvalifikasjoner i Norge. Dette gjelder likevel kun dersom Norge har innført felles opplæringsramme for det aktuelle yrket.\nDepartementet kan gi forskrift om felles opplæringsrammer.\n1 Trer i kraft når Kongen bestemmer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Godkjenning etter felles opplæringsprøve​1",
+      "content": "En yrkesutøver som har bestått en felles opplæringsprøve i en annen EØS-stat som fastsatt etter direktiv 2005/36/EF artikkel 49b, har rett til å utøve yrket i Norge, på lik linje med yrkesutøvere som har ervervet sine yrkeskvalifikasjoner i Norge. Dette gjelder likevel kun dersom Norge har innført felles opplæringsprøve for det aktuelle yrket.\nDepartementet kan gi forskrift om felles opplæringsprøve.\n1 Trer i kraft når Kongen bestemmer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Krav til dokumentasjon",
+      "content": "En ansvarlig myndighet kan ved søknad om etablering kreve dokumentasjon for yrkeskvalifikasjoner.\nDepartementet kan gi forskrift om krav til dokumentasjon ved søknad om etablering.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Særlige saksbehandlingsregler for etablering",
+      "content": "Departementet kan gi forskrift om saksbehandling og saksbehandlingsfrister om etablering.\n0 Endret ved lov 11 juni 2021 nr. 81 (ikr. 1 aug 2021 iflg. res. 18 juni 2021 nr. 1972).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Europeisk profesjonskort",
+      "content": "En yrkesutøver har etter søknad rett til å få et profesjonskort for yrkene som er omfattet av ordningen.\nSøknaden skal behandles uten ugrunnet opphold og senest innen de fristene som er satt i forskrift gitt i medhold av denne loven.\nDen ansvarlige myndigheten skal benytte IMI i forbindelse med søknad og behandling av profesjonskort.\nDepartementet kan gi forskrift om hvilke yrker som er berørt av ordningen, utstedelse, saksbehandling og saksbehandlingsfrister for profesjonskort.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Språkkunnskaper for lovregulerte yrker",
+      "content": "Yrkesutøveren skal ha de språkkunnskaper i norsk som er nødvendig for å utøve det lovregulerte yrket.\nDepartementet kan gi forskrift om krav til og kontroll av språkkunnskaper.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Bruk av akademisk tittel og yrkestittel",
+      "content": "En yrkesutøver som er godkjent etter denne loven skal ha rett til å benytte hjemstatens akademiske tittel.\nEr yrkestittelen beskyttet i Norge, kan yrkesutøveren som er godkjent etter loven, bruke yrkestittelen og eventuelle forkortelser som gjelder i Norge. Hvis yrkesutøveren kun har fått delvis adgang til et yrke, må yrkesutøveren benytte hjemstatens yrkestittel.\nDepartementet kan gi forskrift om bruk av akademisk tittel, yrkestittel og unntak fra regelen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Elektronisk søknad",
+      "content": "En yrkesutøver kan søke om godkjenning via den ansvarlige myndigheten eller kontaktpunktet etter tjenesteloven. Kontaktpunktet sender søknaden umiddelbart til den ansvarlige myndigheten. Yrkesutøveren kan velge å sende søknad elektronisk eller per post.\nDepartementet kan gi forskrift om elektronisk søknad.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Klage",
+      "content": "Enkeltvedtak truffet med hjemmel i denne loven kan påklages etter reglene i forvaltningsloven kapittel VI. Det samme gjelder dersom avgjørelsen ikke er truffet innen fristene som er satt med hjemmel i denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Administrativt samarbeid",
+      "content": "Ansvarlige myndigheter i Norge skal samarbeide med andre ansvarlige myndigheter i EØS i forbindelse med godkjenning av yrkeskvalifikasjoner. De ansvarlige myndighetene skal benytte IMI.\nAnsvarlige myndigheter skal utveksle informasjon om disiplinære og strafferettslige sanksjoner som vil ha konsekvenser for utøvelsen av yrket. Dette gjelder uten hinder av den lovbestemte taushetsplikten i forvaltningsloven § 13.\nDepartementet kan gi forskrift om administrativt samarbeid ved etablering og midlertidig tjenesteytelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Varslingsplikt for ansvarlig myndighet",
+      "content": "Den ansvarlige myndigheten skal innen tre dager varsle ansvarlige myndigheter i samtlige øvrige EØS-stater om en yrkesutøver har fått begrenset retten til å utøve yrket av nasjonale myndigheter eller domstoler, både midlertidig og permanent. Dette gjelder for yrkesutøvere som utøver et lovregulert yrke med opplæring av mindreårige, herunder barnehage.\nVarslingsplikten gjelder også der en yrkesutøver som utfører ethvert yrke omfattet av denne loven, har blitt domfelt for bruk av falske dokumenter.\nVarslingsplikten gjelder uten hinder av den lovbestemte taushetsplikten i forvaltningsloven § 13.\nDepartementet kan i forskrift bestemme hvilke yrker som omfattes av varslingsplikt etter denne loven, innholdet i varslingen og klageadgang.\n0 Endret ved lov 21 juni 2019 nr. 60 (ikr. 1 aug 2019 iflg. res. 21 juni 2019 nr. 778).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Elektronisk informasjon",
+      "content": "Kontaktpunktet etter tjenesteloven skal ha følgende opplysninger tilgjengelig elektronisk:\na. liste over lovregulerte yrker i Norge med ansvarlige myndigheter\nb. liste over yrker hvor det kan utstedes europeisk profesjonskort\nc. liste over yrker hvor det kreves forhåndsgodkjenning for å yte tjenesten midlertidig\nd. liste over lovregulerte utdanninger\ne. krav og prosedyrer i forbindelse med godkjenning av yrkeskvalifikasjoner herunder oversikt over gebyr\nf. opplysninger om klageadgang.\nDepartementet kan gi forskrift om elektronisk informasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Koordinator",
+      "content": "Departementet koordinerer gjennomføringen av direktiv 2005/36/EF med etterfølgende endringer. Departementet kan gi nærmere bestemmelser om koordinators oppgaver.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Assistansesenter",
+      "content": "Assistansesenteret skal veilede yrkesutøvere og assistansesentre i andre EØS-stater ved godkjenning av yrkeskvalifikasjoner.\nAnsvarlige myndigheter skal samarbeide med assistansesenteret og ved forespørsel gi opplysninger om enkeltsaker uten hinder av den lovbestemte taushetsplikten i forvaltningsloven § 13.\nDepartementet kan gi forskrift om assistansesenterets ansvar og oppgaver. Departementet fastsetter hvilket organ som skal være assistansesenter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Statistikk",
+      "content": "Ansvarlige myndigheter som mottar eller treffer avgjørelse etter denne loven, skal én gang i året innberette statistiske opplysninger. Departementet kan gi forskrift om opplysninger som skal innberettes og form for innberetning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer. De enkelte bestemmelsene i loven kan settes i kraft til ulik tid.\n1 Fra 1 jan 2018, med unntak av § 10, § 11, § 14 og § 20, iflg. res. 16 juni 2017 nr. 756. § 14 og § 20 trer i kraft 1 mars 2019 iflg. res. 1 feb 2019 nr. 64.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Lovens formål er å legge til rette for at en yrkesutøver som er statsborger av en EØS-stat eller Sveits, kan utøve yrket sitt i Norge på lik linje med en yrkesutøver som har ervervet sine yrkeskvalifikasjoner i Norge, i samsvar med EØS-avtalen vedlegg VII og Konvensjonen om opprettelse av Det europeiske frihandelsforbund (EFTA-konvensjonen), jf. direktiv 2005/36/EF.\nLoven har også som formål å legge til rette for at en yrkesutøver med yrkeskvalifikasjoner fra tredjeland, kan utøve sitt yrke i Norge.\n0 Endret ved lov 11 juni 2021 nr. 81 (ikr. 1 aug 2021 iflg. res. 18 juni 2021 nr. 1972).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens virkeområde",
+      "content": "Loven gjelder yrkesutøvere med statsborgerskap fra en EØS-stat eller Sveits som vil utøve et lovregulert yrke i Norge, og som har ervervet sine yrkeskvalifikasjoner eller fått disse godkjent i en annen EØS-stat eller Sveits. Loven gjelder videre for yrker som er omfattet av ordningen med europeisk profesjonskort. Loven gjelder med visse begrensninger også tredjelandsborgere som omfattes av direktiv 2004/38/EF, jf. fjerde ledd.\nFor yrker som omfattes av lov 2. juli 1999 nr. 64 om helsepersonell m.v. og lov 15. juni 2001 nr. 75 om veterinærer og annet dyrehelsepersonell, gjelder kun §§ 22 til 24. For statsborgere fra Sveits gjelder ikke §§ 10, 11, 14, 19 første ledd annet punktum og 20.\n§§ 3, 8, 12, 13 og 15 til 18 gjelder for yrkesutøver med yrkeskvalifikasjoner fra tredjeland, om ikke annet er særskilt bestemt.\nLoven gir ikke rett til å utøve yrker innen offentlig myndighetsutøvelse.​1 Loven gjelder ikke for offentlig utnevnte notarer.\nDepartementet kan gi forskrift om yrkesutøver som har ervervet sine yrkeskvalifikasjoner i et tredjeland, og tredjelandsborgere som omfattes av direktiv 2004/38/EF.\n0 Endret ved lover 21 juni 2019 nr. 60 (ikr. 1 aug 2019 iflg. res. 21 juni 2019 nr. 778), 11 juni 2021 nr. 81 (ikr. 1 aug 2021 iflg. res. 18 juni 2021 nr. 1972).\n1 Jf. EØS-avtalen art. 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:2 a",
+      "chapter": "1",
+      "section": "2 a",
+      "title": "Lovens anvendelse for yrkeskvalifikasjoner og yrkesutøvere fra Storbritannia",
+      "content": "Britiske borgere med yrkeskvalifikasjoner fra Storbritannia eller en EØS-stat og EØS-borgere med yrkeskvalifikasjoner fra Storbritannia som har fått innvilget godkjenning etter reglene i kapittel 3 innen utløpet av overgangsperioden som fastsatt i lov 29. mars 2019 nr. 8 om en overgangsperiode ved Storbritannias uttreden fra EU § 2, har rett til å utøve yrket i Norge. Tilsvarende gjelder for personer som omfattes av utlendingsloven § 125 a.\nLoven kapittel 3, kapittel 4 unntatt § 14 og kapittel 5 gjelder også for personer som nevnt i første ledd som har søkt om godkjenning etter §§ 8 til 11 før utløpet av overgangsperioden. Tilsvarende gjelder ut 2029 for personer som var under utdanning i Storbritannia 31. desember 2019. Ut 2021 gjelder loven kapittel 3, kapittel 4 unntatt § 14 og kapittel 5 også for personer som nevnt i første ledd som har fullført sin utdannelse i Storbritannia før utløpet av overgangsperioden.\n0 Tilføyd ved lov 27 nov 2020 nr. 131 (ikr. 1 jan 2021 iflg. res. 18 des 2020 nr. 2842).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2a",
+        "source_heading": "§ 2 a."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I denne loven betyr\na. lovregulert yrke: en eller flere former for yrkesvirksomhet som er underlagt lov- eller forskriftsfestede krav om bestemte yrkeskvalifikasjoner, eller hvor bruken av en yrkestittel ved lov eller forskrift er begrenset til innehavere av en gitt yrkeskvalifikasjon\nb. yrkeskvalifikasjoner: kvalifikasjoner bekreftet ved et kvalifikasjonsbevis, et kursbevis eller yrkeserfaring\nc. kvalifikasjonsbevis: vitnemål, attester og annen dokumentasjon utstedt av en myndighet utpekt i henhold til lover eller forskrifter i vedkommende medlemsstat, og som dokumenterer en bestått yrkesrettet opplæring som i hovedsak er ervervet i en EØS-stat eller Sveits\nd. ansvarlig myndighet: myndighet eller organ som er særlig bemyndiget til å utstede eller motta kvalifikasjonsbevis og andre dokumenter eller opplysninger, og til å motta søknader og treffe beslutninger som nevnt i denne loven\ne. lovregulert utdanning: utdanning som er særlig rettet mot utøvelsen av et bestemt yrke og som omfatter ett eller flere kurs, eventuelt supplert med yrkesrettet opplæring, en praktisk prøveperiode eller yrkespraksis hvis nivå og struktur er fastsatt ved lov eller forskrift\nf. yrkeserfaring: faktisk og lovlig utøvelse av det aktuelle yrket i annen EØS-stat eller Sveits\ng. prøveperiode: utøvelse av et lovregulert yrke under tilsyn av en kvalifisert utøver av dette yrket og eventuelt etterfulgt av videreutdanning\nh. egnethetsprøve: en prøve avgrenset til søkerens faglige kunnskaper som gjennomføres av ansvarlig myndighet i vertsstaten med sikte på å vurdere søkerens evne til å utøve et lovregulert yrke i nevnte EØS-stat eller Sveits\ni. etableringsstat: den staten hvor yrkesutøveren utøver eller har utøvd sitt yrke, eller er lovlig etablert med det formål å utøve et yrke\nj. vertsstat: den staten hvor yrkesutøveren har søkt om å utøve sitt yrke enten ved midlertidig tjenesteytelse eller ved etablering\nk. hjemstat: den staten hvor yrkesutøveren har ervervet sine yrkeskvalifikasjoner\nl. europeisk profesjonskort: et elektronisk sertifikat som dokumenterer at yrkesutøveren enten oppfyller alle nødvendige betingelser for midlertidig tjenesteytelse i vertsstaten, eller godkjenning av yrkeskvalifikasjoner for etablering i vertsstaten\nm. Det indre markeds informasjonssystem (IMI): EUs database til informasjonsutveksling mellom ansvarlige myndigheter i EØS-statene.\n0 Endret ved lov 11 juni 2021 nr. 81 (ikr. 1 aug 2021 iflg. res. 18 juni 2021 nr. 1972).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Prinsippet om fri ytelse av tjenester",
+      "content": "En yrkesutøver som er lovlig etablert i en annen EØS-stat eller Sveits, og som har rett til å utøve yrke der, har rett til å utøve det samme yrket midlertidig i Norge.\nDen ansvarlige myndigheten kan vurdere om yrkesutøveren skal gis delvis adgang til et yrke.\nDepartementet kan gi forskrift om midlertidig tjenesteytelse, herunder bruk av lovbeskyttet tittel, informasjon til tjenestebrukere og delvis adgang til yrker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Forhåndsmelding",
+      "content": "Første gang tjenesten ytes i Norge, kan den ansvarlige myndigheten kreve at yrkesutøveren leverer en skriftlig forhåndsmelding med tilhørende dokumenter. Meldingen skal fornyes hver tolvte måned med unntak fra innehavere av et profesjonskort, hvor fornyelse skal skje etter 18 måneder.\nDepartementet kan gi forskrift om forhåndsmeldingens innhold og krav til hvilke dokumenter som skal følge med forhåndsmeldingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Kontroll av kvalifikasjoner",
+      "content": "For yrker som har vesentlige konsekvenser for helsen eller sikkerheten til mottakeren av tjenesten, og som ikke omfattes av automatisk godkjenning etter §§ 9 til 11, kan den ansvarlige myndigheten kontrollere yrkesutøverens kvalifikasjoner før vedkommende kan utøve yrket i Norge.\nDepartementet kan gi forskrift om kontroll av kvalifikasjoner.\n0 Endret ved lov 11 juni 2021 nr. 81 (ikr. 1 aug 2021 iflg. res. 18 juni 2021 nr. 1972).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Saksbehandling for midlertidig tjenesteytelse",
+      "content": "Retten til midlertidig tjenesteytelse skal avgjøres uten ugrunnet opphold og senest innen de frister som er satt i forskrift gitt i medhold av denne loven. Dersom den ansvarlige myndigheten ikke overholder fristene, kan yrkesutøveren utøve yrket i Norge.\nDepartementet kan gi forskrift om saksbehandling og saksbehandlingsfrister for midlertidig tjenesteytelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Vilkår for godkjenning – generell ordning",
+      "content": "Paragrafen gjelder for lovregulerte yrker som ikke omfattes av automatisk godkjenning etter §§ 9 til 11.\nEn yrkesutøver som har rett til å utøve yrket i en annen EØS-stat eller Sveits, har rett til å utøve et lovregulert yrke i Norge på lik linje med en yrkesutøver som har ervervet sine yrkeskvalifikasjoner i Norge. Yrkesutøveren må ha kompetanseattest eller kvalifikasjonsbevis som kreves i annen EØS-stat eller i Sveits for å utøve yrket der.\nDen ansvarlige myndigheten kan vurdere om yrkesutøveren skal gis delvis adgang til et yrke.\nDepartementet kan gi forskrift om kvalifikasjonsnivåer, vilkår for godkjenning etter den generelle ordningen, unntak fra paragrafen, krav til prøveperiode og egnethetsprøve og om delvis adgang til et yrke.\n0 Endret ved lov 11 juni 2021 nr. 81 (ikr. 1 aug 2021 iflg. res. 18 juni 2021 nr. 1972).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Automatisk godkjenning på grunnlag av yrkeserfaring",
+      "content": "Hvis det i lov eller forskrift settes krav til generell, forretningsmessig eller faglig kunnskap og ferdighet for å kunne utøve et yrke som oppført i vedlegg IV til direktiv 2005/36/EF, kan yrkesutøveren ha rett til å utøve yrket etter en automatisk godkjenning. Det skal tas hensyn til utøvelse av yrket i en annen EØS-stat eller Sveits ved vurderingen av om kravene er oppfylt.\nDepartementet kan gi forskrift om automatisk godkjenning på grunnlag av yrkeserfaring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Godkjenning etter felles opplæringsrammer​1",
+      "content": "En yrkesutøver som har et bevis på yrkeskvalifikasjoner ervervet i en annen EØS-stat på grunnlag av felles opplæringsrammer som fastsatt etter direktiv 2005/36/EF artikkel 49a, har rett til å utøve yrket i Norge på lik linje med yrkesutøvere som har ervervet sine yrkeskvalifikasjoner i Norge. Dette gjelder likevel kun dersom Norge har innført felles opplæringsramme for det aktuelle yrket.\nDepartementet kan gi forskrift om felles opplæringsrammer.\n1 Trer i kraft når Kongen bestemmer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Godkjenning etter felles opplæringsprøve​1",
+      "content": "En yrkesutøver som har bestått en felles opplæringsprøve i en annen EØS-stat som fastsatt etter direktiv 2005/36/EF artikkel 49b, har rett til å utøve yrket i Norge, på lik linje med yrkesutøvere som har ervervet sine yrkeskvalifikasjoner i Norge. Dette gjelder likevel kun dersom Norge har innført felles opplæringsprøve for det aktuelle yrket.\nDepartementet kan gi forskrift om felles opplæringsprøve.\n1 Trer i kraft når Kongen bestemmer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Krav til dokumentasjon",
+      "content": "En ansvarlig myndighet kan ved søknad om etablering kreve dokumentasjon for yrkeskvalifikasjoner.\nDepartementet kan gi forskrift om krav til dokumentasjon ved søknad om etablering.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Særlige saksbehandlingsregler for etablering",
+      "content": "Departementet kan gi forskrift om saksbehandling og saksbehandlingsfrister om etablering.\n0 Endret ved lov 11 juni 2021 nr. 81 (ikr. 1 aug 2021 iflg. res. 18 juni 2021 nr. 1972).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Europeisk profesjonskort",
+      "content": "En yrkesutøver har etter søknad rett til å få et profesjonskort for yrkene som er omfattet av ordningen.\nSøknaden skal behandles uten ugrunnet opphold og senest innen de fristene som er satt i forskrift gitt i medhold av denne loven.\nDen ansvarlige myndigheten skal benytte IMI i forbindelse med søknad og behandling av profesjonskort.\nDepartementet kan gi forskrift om hvilke yrker som er berørt av ordningen, utstedelse, saksbehandling og saksbehandlingsfrister for profesjonskort.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Språkkunnskaper for lovregulerte yrker",
+      "content": "Yrkesutøveren skal ha de språkkunnskaper i norsk som er nødvendig for å utøve det lovregulerte yrket.\nDepartementet kan gi forskrift om krav til og kontroll av språkkunnskaper.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Bruk av akademisk tittel og yrkestittel",
+      "content": "En yrkesutøver som er godkjent etter denne loven skal ha rett til å benytte hjemstatens akademiske tittel.\nEr yrkestittelen beskyttet i Norge, kan yrkesutøveren som er godkjent etter loven, bruke yrkestittelen og eventuelle forkortelser som gjelder i Norge. Hvis yrkesutøveren kun har fått delvis adgang til et yrke, må yrkesutøveren benytte hjemstatens yrkestittel.\nDepartementet kan gi forskrift om bruk av akademisk tittel, yrkestittel og unntak fra regelen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Elektronisk søknad",
+      "content": "En yrkesutøver kan søke om godkjenning via den ansvarlige myndigheten eller kontaktpunktet etter tjenesteloven. Kontaktpunktet sender søknaden umiddelbart til den ansvarlige myndigheten. Yrkesutøveren kan velge å sende søknad elektronisk eller per post.\nDepartementet kan gi forskrift om elektronisk søknad.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Klage",
+      "content": "Enkeltvedtak truffet med hjemmel i denne loven kan påklages etter reglene i forvaltningsloven kapittel VI. Det samme gjelder dersom avgjørelsen ikke er truffet innen fristene som er satt med hjemmel i denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Administrativt samarbeid",
+      "content": "Ansvarlige myndigheter i Norge skal samarbeide med andre ansvarlige myndigheter i EØS i forbindelse med godkjenning av yrkeskvalifikasjoner. De ansvarlige myndighetene skal benytte IMI.\nAnsvarlige myndigheter skal utveksle informasjon om disiplinære og strafferettslige sanksjoner som vil ha konsekvenser for utøvelsen av yrket. Dette gjelder uten hinder av den lovbestemte taushetsplikten i forvaltningsloven § 13.\nDepartementet kan gi forskrift om administrativt samarbeid ved etablering og midlertidig tjenesteytelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Varslingsplikt for ansvarlig myndighet",
+      "content": "Den ansvarlige myndigheten skal innen tre dager varsle ansvarlige myndigheter i samtlige øvrige EØS-stater om en yrkesutøver har fått begrenset retten til å utøve yrket av nasjonale myndigheter eller domstoler, både midlertidig og permanent. Dette gjelder for yrkesutøvere som utøver et lovregulert yrke med opplæring av mindreårige, herunder barnehage.\nVarslingsplikten gjelder også der en yrkesutøver som utfører ethvert yrke omfattet av denne loven, har blitt domfelt for bruk av falske dokumenter.\nVarslingsplikten gjelder uten hinder av den lovbestemte taushetsplikten i forvaltningsloven § 13.\nDepartementet kan i forskrift bestemme hvilke yrker som omfattes av varslingsplikt etter denne loven, innholdet i varslingen og klageadgang.\n0 Endret ved lov 21 juni 2019 nr. 60 (ikr. 1 aug 2019 iflg. res. 21 juni 2019 nr. 778).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Elektronisk informasjon",
+      "content": "Kontaktpunktet etter tjenesteloven skal ha følgende opplysninger tilgjengelig elektronisk:\na. liste over lovregulerte yrker i Norge med ansvarlige myndigheter\nb. liste over yrker hvor det kan utstedes europeisk profesjonskort\nc. liste over yrker hvor det kreves forhåndsgodkjenning for å yte tjenesten midlertidig\nd. liste over lovregulerte utdanninger\ne. krav og prosedyrer i forbindelse med godkjenning av yrkeskvalifikasjoner herunder oversikt over gebyr\nf. opplysninger om klageadgang.\nDepartementet kan gi forskrift om elektronisk informasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Koordinator",
+      "content": "Departementet koordinerer gjennomføringen av direktiv 2005/36/EF med etterfølgende endringer. Departementet kan gi nærmere bestemmelser om koordinators oppgaver.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Assistansesenter",
+      "content": "Assistansesenteret skal veilede yrkesutøvere og assistansesentre i andre EØS-stater ved godkjenning av yrkeskvalifikasjoner.\nAnsvarlige myndigheter skal samarbeide med assistansesenteret og ved forespørsel gi opplysninger om enkeltsaker uten hinder av den lovbestemte taushetsplikten i forvaltningsloven § 13.\nDepartementet kan gi forskrift om assistansesenterets ansvar og oppgaver. Departementet fastsetter hvilket organ som skal være assistansesenter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Statistikk",
+      "content": "Ansvarlige myndigheter som mottar eller treffer avgjørelse etter denne loven, skal én gang i året innberette statistiske opplysninger. Departementet kan gi forskrift om opplysninger som skal innberettes og form for innberetning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer. De enkelte bestemmelsene i loven kan settes i kraft til ulik tid.\n1 Fra 1 jan 2018, med unntak av § 10, § 11, § 14 og § 20, iflg. res. 16 juni 2017 nr. 756. § 14 og § 20 trer i kraft 1 mars 2019 iflg. res. 1 feb 2019 nr. 64.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    }
+  ]
+}

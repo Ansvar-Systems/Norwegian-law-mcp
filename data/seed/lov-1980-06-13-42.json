@@ -1,0 +1,1407 @@
+{
+  "id": "LOV-1980-06-13-42",
+  "type": "statute",
+  "title": "Lov om leger.",
+  "short_name": "Legeloven – legel.",
+  "status": "in_force",
+  "issued_date": "1980-06-13",
+  "in_force_date": "1982-04-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1980-06-13-42",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "(Definisjon av lege. Enerett til tittel)",
+      "content": "Med lege forstås i denne lov:\n1. person som har autorisasjon, jfr. § 2.\n2. person som har lisens, jfr. § 3.\n3. person som har grenselisens, jfr. § 4.\nBare den som har autorisasjon, lisens eller grenselisens har rett til å kalle seg lege. Ingen annen må bruke yrkesbetegnelse som kan være egnet til å gi inntrykk av at han er lege.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "(Autorisasjon)",
+      "content": "Rett til autorisasjon som lege har den som:\n1. har norsk medisinsk embetseksamen, eller utenlandsk medisinsk eksamen som i medhold av lov er anerkjent som faglig jevngod,\n2. har utført praktisk tjeneste som Kongen​1 gir nærmere regler om,\n3. har gitt skriftlig løfte om at han vil utøve legegjerningen i samsvar med hva ære og samvittighet krever,\n4. ikke er i slik stilling at en autorisasjon ville kunne tilbakekalles, jfr. § 8.\nAutorisasjon gis av vedkommende departement.\nSøkeren må godtgjøre at han fyller vilkårene i første ledd.\nKongen kan, uten hinder av det som ellers er bestemt i denne paragraf, ved forskrift gi nærmere regler om autorisasjon som lege på grunnlag av utdanning fra annet land, i den utstrekning det er nødvendig for å oppfylle internasjonal overenskomst.​2\n0 Endret ved lover 19 mars 1982 nr. 2, 4 des 1992 nr. 132.\n1 Sosial- og helsedepartementet iflg. res. 11 nov 1983 nr. 1611.\n2 Jfr. EØS-avtalens vedlegg VII punkt 3 (dir 81/1057), punkt 4 (dir 93/16) og punkt 7 (Liste 90/C 268/02).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "(Lisens)",
+      "content": "Den som ikke fyller vilkårene for autorisasjon kan av departementet få lisens som lege.\nFør lisens gis, skal som regel uttalelse innhentes fra norsk medisinsk fakultet om hvorvidt søkeren har nødvendig faglig kyndighet og fra Statens Helsetilsyn​1 om andre forhold av betydning. Departementet kan gjøre unntak fra disse bestemmelser.\nEtter avtale med annet land kan lisens gis til den som der har lisens.\nDepartementet kan fastsette at en lisens skal være begrenset i tid, til bestemt stilling, til visse undersøkelses- eller behandlingsmåter, eller knyttet til andre vilkår og innskrenkninger.\nFør lisens gis skal søkeren gi skriftlig løfte om at han vil utøve legegjerningen i samsvar med hva ære og samvittighet krever.\nDepartementet kan gi nærmere forskrifter om betingelsene for å få lisens og de vilkår som kan knyttes til den.\n0 Endret ved lov 30 juli 1992 nr. 101.\n1 Se lov 30 mars 1984 nr. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "(Grenselisens)",
+      "content": "Den som er offentlig lege i finsk eller svensk legedistrikt som grenser til Norge, kan utøve legevirksomhet i tilgrensende norsk kommune uten autorisasjon eller lisens fra departementet.\n0 Endret ved lov 19 nov 1982 nr. 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "(Sikkerhetsstillelse)",
+      "content": "Den som vil utøve legevirksomhet skal stille slik sikkerhet for det ansvar han kan pådra seg i virksomheten som departementet fastsetter.\nDersom en lege tross advarsel forsømmer å stille sikkerhet som foreskrevet, kan departementet suspendere hans autorisasjon eller lisens.​1\n1 Jfr. § 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "title": "(Aldersgrense)",
+      "content": "Autorisasjon og lisens opphører å gjelde når legen fyller 75 år.\nEn lege som godtgjør at han er skikket til fortsatt å utøve legevirksomhet etter fylte 75 år, kan gis tidsbegrenset lisens i samsvar med reglene i § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "title": "(Avkall på autorisasjon og lisens)",
+      "content": "En lege kan ved skriftlig erklæring til kommunelegen, fylkeslegen eller departementet gi avkall på sin autorisasjon eller lisens.​1 Han skal såvidt mulig samtidig innlevere sitt autorisasjons- eller lisensdokument.\nKommunelegen gir melding til fylkeslegen som gir melding til departementet.\n0 Endret ved lov 19 nov 1982 nr. 66.\n1 Jfr. § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "title": "(Tilbakekall av autorisasjon eller lisens)",
+      "content": "Autorisasjon eller lisens kan kalles tilbake​1 dersom legen er uskikket til å utøve legeyrket på grunn av alvorlig sinnslidelse, psykisk eller fysisk svekkelse, langt fravær fra yrket, bruk av alkohol, narkotika eller midler med liknende virkning, grov mangel på faglig innsikt, uforsvarlig legevirksomhet eller atferd uverdig for en lege.\nAutorisasjon eller lisens kan også kalles tilbake dersom en lege er umyndiggjort,​2 eller grovt har krenket plikt etter denne lov eller forskrift gitt i medhold av den.\nAutorisasjon eller lisens gitt på grunnlag av tilsvarende godkjenning i et annet land kan kalles tilbake dersom godkjenningen i det annet land taper sin gyldighet.\nVed tilbakekall eller begrensning av lisens skal det gis melding til myndighetene i annet land hvor det er kjent at vedkommende utøver legevirksomhet, dersom dette er nødvendig for å oppfylle internasjonal overenskomst.​3\n0 Endret ved lov 4 des 1992 nr. 132.\n1 Jfr. § 13.\n2 Jfr. lov 28 nov 1898.\n3 Jfr. EØS-avtalens vedlegg VII punkt 4 (dir 75/362) art. 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "title": "(Suspensjon av autorisasjon og lisens)",
+      "content": "Dersom det er skjellig grunn til å anta at det foreligger grunnlag for tilbakekall, kan departementet suspendere autorisasjon og lisens i den utstrekning det finnes påkrevet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "title": "(Vedtak om tilbakekall)",
+      "content": "Vedtak om tilbakekall av autorisasjon og lisens treffes av departementet. Uttalelse fra Statens legeråd skal som regel være innhentet. Departementet kan pålegge legen å møte i rådet, og å underkaste seg undersøkelse av sakkyndige. Departementet kan suspendere autorisasjon eller lisens så lenge slikt pålegg ikke etterkommes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "1:11",
+      "chapter": "1",
+      "section": "11",
+      "title": "(Domstolprøving av suspensjon og tilbakekall)",
+      "content": "Vedtak om suspensjon eller tilbakekall av autorisasjon eller lisens kan ikke påklages, men kan bringes inn for retten, som kan prøve alle sider av saken. Tvistemålslovens​1 kap. 30 gjelder for søksmålet.​2\nRetten kan beslutte at vedtaket om suspensjon eller tilbakekall ikke skal ha virkning før det er sagt dom eller før endelig dom foreligger.\n1 Se lov 13 aug 1915 nr. 6.\n2 Jfr. § 44.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "1:12",
+      "chapter": "1",
+      "section": "12",
+      "title": "(Erstatning for tap ved suspensjon og tilbakekall)",
+      "content": "Dersom suspensjon eller tilbakekall viser seg å være ugyldig eller blir omgjort av annen grunn, kan legen kreve erstatning for tap han har lidt etter vanlige regler.\nHar legen ved forsettlig eller uaktsomt forhold fremkalt suspensjon eller tilbakekall, eller medvirket til tapet, eller skyldes det omstendigheter som han bærer risikoen for kan erstatningen settes ned eller helt falle bort.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "1:13",
+      "chapter": "1",
+      "section": "13",
+      "title": "(Ny autorisasjon og lisens)",
+      "content": "En lege som har tapt sin autorisasjon eller lisens ved avkall etter § 7 eller ved tilbakekall etter § 8 kan få ny autorisasjon eller lisens når han godtgjør at han er skikket til å utøve legeyrket. Ny lisen kan være begrenset i samsvar med § 3 fjerde ledd.\nDersom departementet forlanger det, skal han påny gi skriftlig løfte om at han vil utøve legegjerningen i samsvar med hva ære og samvittighet krever.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "1:14",
+      "chapter": "1",
+      "section": "14",
+      "title": "(Godkjenning av spesialister)",
+      "content": "Kongen gir alminnelige forskrifter om godkjenning av leger som spesialister innen en avgrenset del av medisinske fagområder. Kongen kan også gi forskrifter om vilkår for å være spesialist, og om tilbakekall av slik godkjenning.\nDepartementet kan gi nærmere forskrifter og treffe enkeltvedtak om godkjenning av spesialister og tilbakekall av godkjenning.\nDepartementet kan delegere myndighet til å treffe enkeltvedtak om godkjenning av spesialister og gi nærmere forskrifter om dette til Den norske lægeforening.\nBare den som er godkjent som spesialist kan bruke tittel eller betegnelse som gir, eller kan være egnet til å gi, uttrykk for at han er spesialist.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "1:15",
+      "chapter": "1",
+      "section": "15",
+      "title": "(Særlige undersøkelses- og behandlingsmåter)",
+      "content": "Kongen kan etter innhentet uttalelse fra Statens legeråd beslutte at bestemte undersøkelses- og behandlingsmåter bare skal kunne nyttes av leger som har særskilt tillatelse av departementet.​1\n1 Jfr. forskrift 10 feb 1989 nr. 80 (kosmetisk plastisk-kirurgiske inngrep).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "2:16",
+      "chapter": "2",
+      "section": "16",
+      "title": "(Retten til legevirksomhet)",
+      "content": "Den som etter § 1 er lege, har rett til å utøve legevirksomhet i riket.​1\nDet kan likevel ved forskrift fastsettes særlige krav for den som skal utøve selvstendig virksomhet som alment praktiserende lege, i den utstrekning det er nødvendig for å oppfylle internasjonal overenskomst.​2\nLegers virksomhet skal organiseres​3 i slike former at den er medisinsk forsvarlig, og slik at legen er selvstendig og uavhengig overfor andre i medisinsk faglige spørsmål. For dette formål kan Kongen gi nærmere forskrifter om organisering av legevirksomhet, og forby slike former som finnes uheldige.\nVed ervervsmessig annonsering skal den medisinsk ansvarlige leges navn gå frem.\n0 Endret ved lov 4 des 1992 nr. 132.\n1 Jfr. lov 13 juni 1980 nr. 43 § 15 annet ledd. – Jfr. lov 19 nov 1982 nr. 66 kap. 4.\n2 Jfr. EØS-avtalens vedlegg VII punkt 6 (dir 86/457).\n3 Jfr. § 29.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "2:17",
+      "chapter": "2",
+      "section": "17",
+      "title": "(Samarbeid med helsepersonell)",
+      "content": "En lege kan i sin virksomhet nytte annet helsepersonell i den utstrekning det er forsvarlig ut fra personellets kvalifikasjoner, arten av de oppgaver det gjelder, den instruksjon som gis og den kontroll som føres.\nDepartementet kan gi nærmere forskrifter om legers samarbeid med helsepersonell.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "2:18",
+      "chapter": "2",
+      "section": "18",
+      "title": "(Forskrivning av legemidler)",
+      "content": "En lege har rett til å forskrive de legemidler som er nødvendige i hans virksomhet.​1\nDepartementet kan gi nærmere forskrifter om hvordan resepter skal avfattes, oppbevares m.v.\nDepartementet kan helt eller delvis unnta bestemte legemidler fra forskrivningsretten og gi forskrifter om hva den skal omfatte.\n1 Jfr. § 29. Se lov 4 des 1992 nr. 132.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "2:19",
+      "chapter": "2",
+      "section": "19",
+      "title": "(Resept som bevis)",
+      "content": "En resept kan kreves lagt fram som bevis under departementets behandling av sak om tilbakekall eller suspensjon av autorisasjon eller lisens,​1 eller om tap av retten til å forskrive narkotika,​2 eller om klage mot lege.​3\nUnder en rettssak kan en resept kreves lagt frem etter de regler som gjelder om bevis.\n1 Se §§ 8-12.\n2 Se §§ 20 og 21.\n3 Se kap. IV.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "2:20",
+      "chapter": "2",
+      "section": "20",
+      "title": "(Tap av retten til å forskrive narkotika)",
+      "content": "Dersom departementet finner at en leges forskrivning av narkotika er uforsvarlig, kan det helt eller delvis ta fra ham retten til å forskrive slike midler for en bestemt tid inntil 5 år eller for alltid.​1 Statens legeråd​2 skal uttale seg før slikt vedtak blir truffet.\nEn lege kan selv gi avkall på retten til å forskrive narkotika for en bestemt tid eller for alltid.\nDersom departementet ved utløpet av en frist etter første eller annet ledd finner at legen fortsatt ikke bør ha rett til å forskrive narkotika, kan det treffe nytt vedtak etter reglene i første ledd.\n1 Jfr. § 23.\n2 Se kap. IV.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "2:21",
+      "chapter": "2",
+      "section": "21",
+      "title": "(Suspensjon av forskrivningsrett)",
+      "content": "Dersom departementet finner at det er skjellig grunn til å anta at retten til å forskrive narkotika bør tas fra en lege,​1 kan det suspendere hans rett til å forskrive slike midler helt eller delvis inntil saken er avgjort, men ikke ut over 6 måneder. Hvis legen forhaler saken, kan suspensjonen forlenges inntil 6 måneder.\n1 Jfr. § 20 første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "2:22",
+      "chapter": "2",
+      "section": "22",
+      "title": "(Forkortelse av frist for tap av forskrivningsrett)",
+      "content": "Hvis departementet finner det forsvarlig, kan det gi en lege tilbake rett til å forskrive narkotika før utløpet av den tidsfrist som er fastsatt.​1\n1 Jfr. §§ 20 og 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "2:23",
+      "chapter": "2",
+      "section": "23",
+      "title": "(Forskrivning av narkotika ved annen lege)",
+      "content": "Når en lege ikke har rett til selv å forskrive narkotika, skal vedkommende kommunelege forskrive det som er nødvendig i legens praksis. Kommunelegen kan også skriftlig godta at en bestemt annen lege foretar slik forskrivning.\n0 Endret ved lov 19 nov 1982 nr. 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "3:24",
+      "chapter": "3",
+      "section": "24",
+      "title": "(Tilsyn)",
+      "content": "En lege plikter å følge de bestemmelser som er gitt for legevirksomhet i lov eller med hjemmel i lov.\nI sin virksomhet er en lege underlagt tilsyn av Statens Helsetilsyn​1 eller den det gir myndighet med at lover, forskrifter og bestemmelser om leger og helsetjenesten m.v. blir fulgt. Uten hinder av taushetsplikt​2 kan Statens Helsetilsyn eller den det gir myndighet kreve oppgaver og opplysninger som er nødvendige for tilsyn og foreta undersøkelser og ettersyn.\n0 Endret ved lover 30 mars 1984 nr. 15, 16 juni 1989 nr. 86, 30 juli 1992 nr. 101.\n1 Se lov 30 mars 1984 nr. 15.\n2 Jfr. §§ 31 flg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "3:25",
+      "chapter": "3",
+      "section": "25",
+      "title": "(Forsvarlig legevirksomhet)",
+      "content": "En lege plikter å utøve sin virksomhet forsvarlig.\nHan skal gjøre sitt beste for å gi sine pasienter kyndig og omsorgsfull hjelp.\nHan skal gi hver pasient de opplysninger han bør ha om sin helsetilstand og behandling. Såvidt mulig skal legen la pasienten selv medvirke ved behandlingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "3:26",
+      "chapter": "3",
+      "section": "26",
+      "title": "(Opplysninger til pårørende)",
+      "content": "I den utstrekning forholdene tilsier det skal en lege gi pasientens pårørende opplysning om hans tilstand og sykdom og om behandlingen.​1\nEr pasienten under 12 år skal slike opplysninger som regel fortrinnsvis gis til pasientens foreldre eller foresatte. Er pasienten mellom 12 og 16 år gis opplysninger som regel både til pasient og foreldre eller foresatte, medmindre pasienten av grunner legen mener bør respekteres ikke ønsker at bestemte opplysninger gis til foreldrene eller de foresatte.\n1 Jfr. §§ 31 flg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "3:27",
+      "chapter": "3",
+      "section": "27",
+      "title": "(Øyeblikkelig hjelp)",
+      "content": "En lege plikter snarest mulig å yte den hjelp han evner når han etter de opplysninger han har må anta at legehjelp er påtrengende nødvendig.\nPlikten faller bort dersom legen har gyldig forfall, eller vet at hjelp i tide vil bli ytet av en annen lege.​1\n1 Jfr. lov 28 april 1961 nr. 2 § 2 sjette ledd og lov 19 juni 1969 nr. 57 § 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "3:28",
+      "chapter": "3",
+      "section": "28",
+      "title": "(Legevaktordning)",
+      "content": "Departementet kan bestemme at leger skal delta i legevaktordning på det sted der de bor eller arbeider.​1\nDepartementet kan gi nærmere forskrifter om gjennomføring m.v. av legevaktordninger.\n1 Jfr. lov 19 nov 1982 nr. 66 § 1-3 annet ledd nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "3:29",
+      "chapter": "3",
+      "section": "29",
+      "title": "(Sparsomhet)",
+      "content": "En lege skal ved organiseringen av sin virksomhet, ved undersøkelse og behandling av pasienter, ved forskrivning av legemidler og ellers påse at pasienter, folketrygden og andre ikke påføres unødig utgift eller tidsspille.\nHensynet til sparsomhet må ikke gå ut over det faglig forsvarlige.​1\n1 Se § 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "3:30",
+      "chapter": "3",
+      "section": "30",
+      "title": "(Attest og legeerklæring)",
+      "content": "En lege plikter å være varsom, nøyaktig og objektiv ved utstedelse av attest og legeerklæring. Han skal bygge på en så omhyggelig undersøkelse som formålet tilsier.\nDepartementet kan gi nærmere forskrifter om utstedelse av legeerklæring og attest, herunder også om inhabilitet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "3:31",
+      "chapter": "3",
+      "section": "31",
+      "title": "(Taushetsplikt)",
+      "content": "En lege skal iaktta taushet og hindre at andre får kjennskap til opplysninger om folks legems- og sykdomsforhold eller andre personlige forhold som han får kunnskap om under sin legevirksomhet.\nDette gjelder ikke når det i lov er fastsatt at legen ikke skal ha taushetsplikt,​1 eller når det av andre særlige grunner må anses rettmessig å meddele opplysninger som er underlagt taushetsplikt.\nI forhold til den som fra før er kjent med opplysningene gjelder ikke taushetsplikt.\n1 Jfr. §§ 32-42 og 51.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "3:32",
+      "chapter": "3",
+      "section": "32",
+      "title": "(Taushetsplikt – samtykke)",
+      "content": "Taushetplikt faller bort i den utstrekning den som har krav på taushet, eller som opplysningene angår, samtykker i at de gis til andre.\nEr vedkommende under 16 år, skal samtykke gis av foreldre eller foresatte. Er vedkommende mellom 12 og 16 år, skal hans mening høres.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "3:33",
+      "chapter": "3",
+      "section": "33",
+      "title": "(Taushetsplikt – sakkyndige)",
+      "content": "Når en lege opptrer som sakkyndig, kan han uhindret av taushetsplikt gi oppdragsgiver opplysning om forhold han har fått rede på under utførelsen av oppdraget som har betydning for dette. – For øvrig har han vanlig taushetsplikt.\nEn lege skal såvidt mulig gjøre oppmerksom på at han opptrer som sakkyndig og hva dette innebærer hvis det ikke er klart for vedkommende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "3:34",
+      "chapter": "3",
+      "section": "34",
+      "title": "(Taushetsplikt i forhold til helsepersonell og medhjelper)",
+      "content": "Taushetsplikt er ikke til hinder for at en lege gir opplysninger til annet helsepersonell eller medhjelper av hensyn til undersøkelsen eller behandlingen av en pasient med mindre denne motsetter seg dette, og det etter forholdene kan og bør respekteres.\nHelsepersonell og andre som samarbeider med eller bistår legen i hans virksomhet har samme taushetsplikt som han.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "3:34 a",
+      "chapter": "3",
+      "section": "34 a",
+      "title": "(Opplysningsplikt til sosialtjenesten)",
+      "content": "Legen skal i sitt arbeid være oppmerksom på forhold som bør føre til tiltak fra sosialtjenestens side, og skal av eget tiltak gi sosialtjenesten opplysninger om slike forhold. Opplysninger kan likevel bare gis etter samtykke fra klienten, eller så langt opplysningene ellers kan gis uten hinder av taushetsplikt. Uten hinder av taushetsplikt skal legen av eget tiltak gi opplysninger til sosialtjenesten når det er grunn til å tro at en gravid kvinne misbruker rusmidler på en slik måte at det er overveiende sannsynlig at barnet vil bli født med skade, jf lov om sosiale tjenester § 6-2 a. Også etter pålegg fra de organer som er ansvarlige for gjennomføringen av lov om sosiale tjenester, plikter legen å gi slike opplysninger.\n0 Tilføyd ved lov 13 des 1991 nr. 81, endret ved lov 23 juni 1995 nr. 41 (i kraft 1 jan 1996).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34a",
+        "source_heading": "§ 34 a."
+      }
+    },
+    {
+      "provision_ref": "3:34 b",
+      "chapter": "3",
+      "section": "34 b",
+      "title": "(Opplysningsplikt til barneverntjenesten)",
+      "content": "Leger skal i sitt arbeid være oppmerksomme på forhold som kan føre til tiltak fra barneverntjenestens side.\nUten hinder av taushetsplikt skal leger av eget tiltak gi opplysninger til barneverntjenesten når det er grunn til å tro at et barn blir mishandlet i hjemmet eller det foreligger andre former for alvorlig omsorgssvikt, jf. lov om barneverntjenester​1 § 4-10, § 4-11, § 4-12, eller når et barn har vist vedvarende alvorlige atferdsvansker, jf. samme lov § 4-24. Også etter pålegg fra de organer som er ansvarlige for gjennomføringen av lov om barneverntjenester, plikter leger å gi slike opplysninger.\n0 Tilføyd ved lov 17 juli 1992 nr. 100.\n1 Lov 17 juli 1992 nr. 100.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34b",
+        "source_heading": "§ 34 b."
+      }
+    },
+    {
+      "provision_ref": "3:35",
+      "chapter": "3",
+      "section": "35",
+      "title": "(Opplysning til arbeidsgiver)",
+      "content": "Departementet kan gi nærmere forskrifter om opplysning fra lege til arbeidsgiver om arbeidstakers helse, sykdom, skade, uførhet eller død.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "3:36",
+      "chapter": "3",
+      "section": "36",
+      "title": "(Anonymisering – forskning)",
+      "content": "Taushetsplikt er ikke til hinder for at en lege kan meddele ellers taushetsbelagte opplysninger om legems- eller sykdomsforhold når individualiserende kjennetegn er utelatt eller endret slik at vedkommende er vernet mot å bli kjent.\nDepartementet kan bestemme at opplysninger kan eller skal gis til bruk for medisinsk forskning, og at det kan skje uten hinder av taushetsplikt. Til slikt vedtak kan knyttes vilkår. Den som mottar opplysningene, har samme taushetsplikt som leger og samme straffansvar etter denne lov.​1\nDepartementet kan gi nærmere forskrifter om bruk av taushetsbelagte opplysninger i forskning.\n1 Se § 53.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "3:37",
+      "chapter": "3",
+      "section": "37",
+      "title": "(Taushetsplikt etter en persons død)",
+      "content": "Etter en persons død kan en lege meddele taushetsbelagte opplysninger om ham når vektige grunner taler for det. Ved vurderingen tas hensyn til arten av de opplysninger det dreier seg om, avdødes formodede vilje og de pårørende og samfunnets interesser.\nI tvilstilfelle kan en lege forelegge spørsmål for departementet som kan innhente uttalelse fra Statens legeråd.​1\n1 Se kap. IV.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "3:38",
+      "chapter": "3",
+      "section": "38",
+      "title": "(Melding ved åpning og opphør av legevirksomhet)",
+      "content": "Når en lege åpner, overtar eller trer inn i legevirksomhet, skal han melde dette til kommunelegen på stedet. Omfatter virksomheten også andre kommuner, skal han også gi melding til kommunelegen i disse.\nPå samme måte skal han gi melding om flytting fra kommunen, og om opphør, overdragelse eller uttreden av legevirksomhet.\nKommunelegen skal underrette fylkeslegen og departementet om slike meldinger.\n0 Endret ved lov 19 nov 1982 nr. 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "3:39",
+      "chapter": "3",
+      "section": "39",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 5 aug 1994 nr. 55 (i kraft 1 jan 1995).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "3:40",
+      "chapter": "3",
+      "section": "40",
+      "title": "(Melding om fødsler og dødsfall)",
+      "content": "En lege har plikt til å gi melding om fødsel og gi erklæring om dødsfall som han har hatt med å gjøre under sin virksomhet. Departementet gir nærmere regler om meldingene og erklæringene.\nEn lege som har utstedt legeerklæring om dødsfall, eller som har behandlet en person før hans død, plikter å gi kommunelegen de opplysninger han krever om dødsårsak av hensyn til dødsstatistikken.\n0 Endret ved lov 19 nov 1982 nr. 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "3:41",
+      "chapter": "3",
+      "section": "41",
+      "title": "(Melding til politiet om unaturlig dødsfall)",
+      "content": "Er det grunn til å anta at noen er død en ikke naturlig død, skal den lege som gir erklæring om dødsfallet, underrette politiet etter nærmere regler som fastsettes av departementet.\nEr etterforskning satt iverk om hvorvidt døden er voldt ved straffbar handling, har legen plikt til å gi retten de opplysninger av betydning for saken som han sitter inne med.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "3:42",
+      "chapter": "3",
+      "section": "42",
+      "title": "(Andre meldinger og opplysninger)",
+      "content": "Departementet kan treffe bestemmelse om plikt for leger til å gi andre meldinger og opplysninger av betydning for helsetjenesten m.v. enn nevnt i de foregående paragrafer.\nDepartementet avgjør om formålet med opplysningene tilsier at navnet på personer som berøres blir oppgitt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "3:43",
+      "chapter": "3",
+      "section": "43",
+      "title": "(Ordnede opptegnelser og journal)",
+      "content": "En lege plikter å føre slike ordnede opptegnelser over sin virksomhet som orden og god legeskikk krever, og som er nødvendig for at han kan gi de meldinger og opplysninger som er pålagt i lov eller med hjemmel i lov. Han skal føre journal over hver enkelt pasient.\nDepartementet gir nærmere forskrifter om hvordan opptegnelser og journal skal føres, og om oppbevaring og videre behandling.​1\n1 Res. 17 mars 1989 nr. 277.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "3:44",
+      "chapter": "3",
+      "section": "44",
+      "title": "(Opptegnelse og journal som bevis)",
+      "content": "I en rettssak om en leges virksomhet, og i en administrativ sak om autorisasjon eller lisens,​1 eller rett til å forskrive narkotika,​2 eller klage over en leges virksomhet,​3 kan opptegnelser, journal og journalmateriale kreves lagt frem som bevis i original, eller i bekreftet fotokopi eller utskrift.\n1 Jfr. §§ 8-12.\n2 Se §§ 20 og 21.\n3 Se kap. IV.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "3:45",
+      "chapter": "3",
+      "section": "45",
+      "title": "(Utlån og utlevering av journal, røntgenbilde o.l.)",
+      "content": "En lege eller en helseinstitusjon har plikt til å låne ut eller utlevere i original eller bekreftet kopi eller utskrift til en annen lege eller helseinstitusjon som har en pasient til behandling journal og journalmateriale, røntgenbilde o.l. som vedrører denne, når dette er påkrevet av hensyn til behandlingen.\nNødvendig utlegg kan kreves dekket.\nDepartementet kan gi nærmere forskrifter om utlån og utlevering.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "3:46",
+      "chapter": "3",
+      "section": "46",
+      "title": "(Pasients rett til innsyn i journal)",
+      "content": "En pasient har rett til å gjøre seg kjent med sin journal med bilag, medmindre legen av hensyn til hans helse eller hans forhold til person som står ham nær, finner det utilrådelig at han får kjennskap til den eller deler av den.\nEn pasient kan i tilfelle be om at journalen gjøres kjent for en representant han utpeker. Antar legen at denne ikke er egnet for oppdraget, kan han be en annen utpekt. En lege eller en advokat kan ikke avvises med mindre særlige forhold foreligger.\nBlir en pasient nektet innsyn, eller den han utpeker som representant avvist, kan han klage til departementet.​1 Legen skal gjøre pasienten kjent med adgangen til å klage og såvidt mulig med grunnen til sitt standpunkt.\nDepartementet kan gi nærmere forskrifter om pasients innsyn i sin journal.\n1 Jfr. lov 10 feb 1967 §§ 18-21 og kap. VI.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "3:47",
+      "chapter": "3",
+      "section": "47",
+      "title": "(Blodprøve og annen undersøkelse av mistenkte)",
+      "content": "En lege plikter på anmodning av politiet å undersøke og ta blodprøve av en person som er mistenkt for straffbart forhold under påvirkning av alkohol eller annet berusende eller bedøvende middel når dette er hjemlet​1 i lov og kan skje uten fare.\nEn lege plikter også etter anmodning å foreta kroppslig undersøkelse av mistenkte i straffesak når slik undersøkelse er besluttet etter reglene i straffeprosessloven § 157. Videre plikter en lege etter anmodning av vedkommende fengselsdirektør å foreta kroppslig undersøkelse av en innsatt i fengselsanstalt når slik undersøkelse er besluttet etter reglene i fengselsloven § 30 a.\nEn lege plikter ikke å undersøke eller ta blodprøve eller foreta annen kroppslig undersøkelse av ektefelle, forlovet, slektning i rett opp- eller nedstigende linje, søsken eller like nær besvogrede. Likt med slektskap regnes adoptiv- og fosterforhold.\nEn lege plikter heller ikke å undersøke og ta blodprøve eller foreta annen kroppslig undersøkelse av en person som han behandler for alkohol-, narkotika- eller medikamentmisbruk.\nDepartementet kan gi nærmere forskrifter om legers plikt til å undersøke og ta blodprøve eller foreta annen kroppslig undersøkelse av mistenkte, herunder også om begrensninger i plikten og fritak.\n0 Endret ved lov 18 des 1987 nr. 97.\n1 Se lov 18 juni 1965 nr. 4 § 22 a og lov 11 juni 1993 nr. 101 § 6-11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "3:48",
+      "chapter": "3",
+      "section": "48",
+      "title": "(Melding om at innehaver av flysertifikat eller førerkort ikke fyller helsemessige krav)",
+      "content": "Dersom en person som har førerkort for motorvogn eller sertifikat utstedt eller godkjent av luftfartsmyndigheten har søkt lege, og denne finner at vedkommende ikke fyller de helsemessige krav som gjelder, skal legen advare ham. Dersom legen antar at forholdet er varig plikter han å gi melding i samsvar med de forskrifter departementet gir.​1\nDepartementet kan fastsette at reglene i første ledd skal gjelde tilsvarende i forhold til tjenestegjørende på landingsplass, ved annet luftfartsanlegg eller for øvrig utenfor luftfartøy i stilling som er av betydning for luftfartens sikkerhet.\n0 Endret ved lov 11 juni 1993 nr. 101.\n1 Jfr. forskrift 13 juli 1984 nr. 1467.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "4:49",
+      "chapter": "4",
+      "section": "49",
+      "title": "(Legerådets sammensetning)",
+      "content": "Kongen oppnevner for fire år ad gangen Statens legeråd. Det består av en jurist som formann og to leger som faste medlemmer. For hver oppnevnes en personlig varamann. Juristene skal fylle kravene til å være høyesterettsdommer.\nKongen oppnevner sakkyndige på medisinens forskjellige områder og to legmenn som kan tiltre rådet. De faste medlemmer kan for den enkelte sak tilkalle fra en til seks av disse eller av de faste varamenn til å delta i rådet.\nMedlem av rådet kan oppnevnes for kortere tid enn fire år når det finnes ønskelig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "4:50",
+      "chapter": "4",
+      "section": "50",
+      "title": "(Rådets oppgaver)",
+      "content": "Statens legeråd skal være rådgivende organ for Sosialdepartementet og helsedirektøren.\nStortingets ombudsmann for forvaltningen​1 kan innhente uttalelse fra rådet om spørsmål av medisinsk karakter.\nAndre offentlige organer og private kan be departementet om å innhente uttalelse fra rådet; departementet bestemmer om dette skal gjøres.\nDepartementet kan delegere myndighet etter denne lov til rådet. Enkeltvedtak som rådet treffer i kraft av delegert myndighet kan klages inn for departementet etter forvaltningslovens​2 kap. VI.\n1 Jfr. lov 22 juni 1962 nr. 8.\n2 Lov 10 feb 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "4:51",
+      "chapter": "4",
+      "section": "51",
+      "title": "(Rådets virksomhet)",
+      "content": "Statens legeråd er forhandlingsdyktig når minst tre medlemmer er tilstede, av disse formann og en av de faste leger eller personlige varamenn for disse.\nSpørsmål om fremgangsmåte og saksbehandling avgjøres ved flertall. Ved stemmelikhet gjør formannens stemme utslaget.\nUttalelse fra rådet skal være skriftlig og grunngitt. Hvis det er uenighet, skal hver fraksjon forme sin uttalelse.\nUten hinder av lovbestemt taushetsplikt kan rådet innhente nødvendige opplysninger fra leger​1 og annet helsepersonell og folketrygdens organer.​2\nKongen gir nærmere forskrifter om rådets virksomhet og saksbehandling, herunder om taushetsplikt for rådsmedlemmer og sekretariat.\n1 Se § 31 flg.\n2 Se ftrl. § 18-4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "5:52",
+      "chapter": "5",
+      "section": "52",
+      "title": "(Tilrettevisning. Advarsel)",
+      "content": "Den som overtrer denne lov eller bestemmelse gitt i medhold av den, eller på annen måte handler ukorrekt eller i strid med god legeskikk, kan av departementet gis skriftlig tilrettevisning eller advarsel.\nFør skriftlig advarsel blir gitt, skal vedkommende ha fått adgang til å forklare seg muntlig eller skriftlig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "5:53",
+      "chapter": "5",
+      "section": "53",
+      "title": "(Straff)",
+      "content": "Den som forsettlig eller uaktsomt overtrer denne lov eller bestemmelse gitt i medhold av den, straffes med bot​1 eller fengsel​2 i inntil 3 måneder.\n1 Jfr. strl. § 27.\n2 Jfr. strl. § 26 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "5:54",
+      "chapter": "5",
+      "section": "54",
+      "title": "(Gjennomføring og utfylling)",
+      "content": "Departementet kan gi nærmere forskrifter til gjennomføring og utfylling av denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "5:55",
+      "chapter": "5",
+      "section": "55",
+      "title": "(Ikrafttreden)",
+      "content": "Denne lov trer ikraft fra den tid Kongen bestemmer.​1 Samtidig oppheves lov om lægers rettigheter og plikter av 29 april 1927.\nFra samme tid gjøres endringer i følgende lover: – – –\n1 § 47 trer i kraft 13 juni 1980 iflg. res. 13 juni 1980 og resten 1 april 1982 iflg. res. 18 des 1981.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "5:56",
+      "chapter": "5",
+      "section": "56",
+      "title": "(Overgangsbestemmelse)",
+      "content": "Autorisasjon eller tillatelse til å utøve legevirksomhet etter § 1, § 17 eller § 21, annet ledd i lov av 29. april 1927 om lægers rettigheter og plikter, får samme virkning som autorisasjon eller lisens etter § 2, § 3, § 4 eller § 13 i denne lov.\n0 Endret ved lov 19 mars 1982 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "(Definisjon av lege. Enerett til tittel)",
+      "content": "Med lege forstås i denne lov:\n1. person som har autorisasjon, jfr. § 2.\n2. person som har lisens, jfr. § 3.\n3. person som har grenselisens, jfr. § 4.\nBare den som har autorisasjon, lisens eller grenselisens har rett til å kalle seg lege. Ingen annen må bruke yrkesbetegnelse som kan være egnet til å gi inntrykk av at han er lege.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "(Autorisasjon)",
+      "content": "Rett til autorisasjon som lege har den som:\n1. har norsk medisinsk embetseksamen, eller utenlandsk medisinsk eksamen som i medhold av lov er anerkjent som faglig jevngod,\n2. har utført praktisk tjeneste som Kongen​1 gir nærmere regler om,\n3. har gitt skriftlig løfte om at han vil utøve legegjerningen i samsvar med hva ære og samvittighet krever,\n4. ikke er i slik stilling at en autorisasjon ville kunne tilbakekalles, jfr. § 8.\nAutorisasjon gis av vedkommende departement.\nSøkeren må godtgjøre at han fyller vilkårene i første ledd.\nKongen kan, uten hinder av det som ellers er bestemt i denne paragraf, ved forskrift gi nærmere regler om autorisasjon som lege på grunnlag av utdanning fra annet land, i den utstrekning det er nødvendig for å oppfylle internasjonal overenskomst.​2\n0 Endret ved lover 19 mars 1982 nr. 2, 4 des 1992 nr. 132.\n1 Sosial- og helsedepartementet iflg. res. 11 nov 1983 nr. 1611.\n2 Jfr. EØS-avtalens vedlegg VII punkt 3 (dir 81/1057), punkt 4 (dir 93/16) og punkt 7 (Liste 90/C 268/02).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "(Lisens)",
+      "content": "Den som ikke fyller vilkårene for autorisasjon kan av departementet få lisens som lege.\nFør lisens gis, skal som regel uttalelse innhentes fra norsk medisinsk fakultet om hvorvidt søkeren har nødvendig faglig kyndighet og fra Statens Helsetilsyn​1 om andre forhold av betydning. Departementet kan gjøre unntak fra disse bestemmelser.\nEtter avtale med annet land kan lisens gis til den som der har lisens.\nDepartementet kan fastsette at en lisens skal være begrenset i tid, til bestemt stilling, til visse undersøkelses- eller behandlingsmåter, eller knyttet til andre vilkår og innskrenkninger.\nFør lisens gis skal søkeren gi skriftlig løfte om at han vil utøve legegjerningen i samsvar med hva ære og samvittighet krever.\nDepartementet kan gi nærmere forskrifter om betingelsene for å få lisens og de vilkår som kan knyttes til den.\n0 Endret ved lov 30 juli 1992 nr. 101.\n1 Se lov 30 mars 1984 nr. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "(Grenselisens)",
+      "content": "Den som er offentlig lege i finsk eller svensk legedistrikt som grenser til Norge, kan utøve legevirksomhet i tilgrensende norsk kommune uten autorisasjon eller lisens fra departementet.\n0 Endret ved lov 19 nov 1982 nr. 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "(Sikkerhetsstillelse)",
+      "content": "Den som vil utøve legevirksomhet skal stille slik sikkerhet for det ansvar han kan pådra seg i virksomheten som departementet fastsetter.\nDersom en lege tross advarsel forsømmer å stille sikkerhet som foreskrevet, kan departementet suspendere hans autorisasjon eller lisens.​1\n1 Jfr. § 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "title": "(Aldersgrense)",
+      "content": "Autorisasjon og lisens opphører å gjelde når legen fyller 75 år.\nEn lege som godtgjør at han er skikket til fortsatt å utøve legevirksomhet etter fylte 75 år, kan gis tidsbegrenset lisens i samsvar med reglene i § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "title": "(Avkall på autorisasjon og lisens)",
+      "content": "En lege kan ved skriftlig erklæring til kommunelegen, fylkeslegen eller departementet gi avkall på sin autorisasjon eller lisens.​1 Han skal såvidt mulig samtidig innlevere sitt autorisasjons- eller lisensdokument.\nKommunelegen gir melding til fylkeslegen som gir melding til departementet.\n0 Endret ved lov 19 nov 1982 nr. 66.\n1 Jfr. § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "title": "(Tilbakekall av autorisasjon eller lisens)",
+      "content": "Autorisasjon eller lisens kan kalles tilbake​1 dersom legen er uskikket til å utøve legeyrket på grunn av alvorlig sinnslidelse, psykisk eller fysisk svekkelse, langt fravær fra yrket, bruk av alkohol, narkotika eller midler med liknende virkning, grov mangel på faglig innsikt, uforsvarlig legevirksomhet eller atferd uverdig for en lege.\nAutorisasjon eller lisens kan også kalles tilbake dersom en lege er umyndiggjort,​2 eller grovt har krenket plikt etter denne lov eller forskrift gitt i medhold av den.\nAutorisasjon eller lisens gitt på grunnlag av tilsvarende godkjenning i et annet land kan kalles tilbake dersom godkjenningen i det annet land taper sin gyldighet.\nVed tilbakekall eller begrensning av lisens skal det gis melding til myndighetene i annet land hvor det er kjent at vedkommende utøver legevirksomhet, dersom dette er nødvendig for å oppfylle internasjonal overenskomst.​3\n0 Endret ved lov 4 des 1992 nr. 132.\n1 Jfr. § 13.\n2 Jfr. lov 28 nov 1898.\n3 Jfr. EØS-avtalens vedlegg VII punkt 4 (dir 75/362) art. 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "title": "(Suspensjon av autorisasjon og lisens)",
+      "content": "Dersom det er skjellig grunn til å anta at det foreligger grunnlag for tilbakekall, kan departementet suspendere autorisasjon og lisens i den utstrekning det finnes påkrevet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "title": "(Vedtak om tilbakekall)",
+      "content": "Vedtak om tilbakekall av autorisasjon og lisens treffes av departementet. Uttalelse fra Statens legeråd skal som regel være innhentet. Departementet kan pålegge legen å møte i rådet, og å underkaste seg undersøkelse av sakkyndige. Departementet kan suspendere autorisasjon eller lisens så lenge slikt pålegg ikke etterkommes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "1:11",
+      "chapter": "1",
+      "section": "11",
+      "title": "(Domstolprøving av suspensjon og tilbakekall)",
+      "content": "Vedtak om suspensjon eller tilbakekall av autorisasjon eller lisens kan ikke påklages, men kan bringes inn for retten, som kan prøve alle sider av saken. Tvistemålslovens​1 kap. 30 gjelder for søksmålet.​2\nRetten kan beslutte at vedtaket om suspensjon eller tilbakekall ikke skal ha virkning før det er sagt dom eller før endelig dom foreligger.\n1 Se lov 13 aug 1915 nr. 6.\n2 Jfr. § 44.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "1:12",
+      "chapter": "1",
+      "section": "12",
+      "title": "(Erstatning for tap ved suspensjon og tilbakekall)",
+      "content": "Dersom suspensjon eller tilbakekall viser seg å være ugyldig eller blir omgjort av annen grunn, kan legen kreve erstatning for tap han har lidt etter vanlige regler.\nHar legen ved forsettlig eller uaktsomt forhold fremkalt suspensjon eller tilbakekall, eller medvirket til tapet, eller skyldes det omstendigheter som han bærer risikoen for kan erstatningen settes ned eller helt falle bort.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "1:13",
+      "chapter": "1",
+      "section": "13",
+      "title": "(Ny autorisasjon og lisens)",
+      "content": "En lege som har tapt sin autorisasjon eller lisens ved avkall etter § 7 eller ved tilbakekall etter § 8 kan få ny autorisasjon eller lisens når han godtgjør at han er skikket til å utøve legeyrket. Ny lisen kan være begrenset i samsvar med § 3 fjerde ledd.\nDersom departementet forlanger det, skal han påny gi skriftlig løfte om at han vil utøve legegjerningen i samsvar med hva ære og samvittighet krever.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "1:14",
+      "chapter": "1",
+      "section": "14",
+      "title": "(Godkjenning av spesialister)",
+      "content": "Kongen gir alminnelige forskrifter om godkjenning av leger som spesialister innen en avgrenset del av medisinske fagområder. Kongen kan også gi forskrifter om vilkår for å være spesialist, og om tilbakekall av slik godkjenning.\nDepartementet kan gi nærmere forskrifter og treffe enkeltvedtak om godkjenning av spesialister og tilbakekall av godkjenning.\nDepartementet kan delegere myndighet til å treffe enkeltvedtak om godkjenning av spesialister og gi nærmere forskrifter om dette til Den norske lægeforening.\nBare den som er godkjent som spesialist kan bruke tittel eller betegnelse som gir, eller kan være egnet til å gi, uttrykk for at han er spesialist.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "1:15",
+      "chapter": "1",
+      "section": "15",
+      "title": "(Særlige undersøkelses- og behandlingsmåter)",
+      "content": "Kongen kan etter innhentet uttalelse fra Statens legeråd beslutte at bestemte undersøkelses- og behandlingsmåter bare skal kunne nyttes av leger som har særskilt tillatelse av departementet.​1\n1 Jfr. forskrift 10 feb 1989 nr. 80 (kosmetisk plastisk-kirurgiske inngrep).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "2:16",
+      "chapter": "2",
+      "section": "16",
+      "title": "(Retten til legevirksomhet)",
+      "content": "Den som etter § 1 er lege, har rett til å utøve legevirksomhet i riket.​1\nDet kan likevel ved forskrift fastsettes særlige krav for den som skal utøve selvstendig virksomhet som alment praktiserende lege, i den utstrekning det er nødvendig for å oppfylle internasjonal overenskomst.​2\nLegers virksomhet skal organiseres​3 i slike former at den er medisinsk forsvarlig, og slik at legen er selvstendig og uavhengig overfor andre i medisinsk faglige spørsmål. For dette formål kan Kongen gi nærmere forskrifter om organisering av legevirksomhet, og forby slike former som finnes uheldige.\nVed ervervsmessig annonsering skal den medisinsk ansvarlige leges navn gå frem.\n0 Endret ved lov 4 des 1992 nr. 132.\n1 Jfr. lov 13 juni 1980 nr. 43 § 15 annet ledd. – Jfr. lov 19 nov 1982 nr. 66 kap. 4.\n2 Jfr. EØS-avtalens vedlegg VII punkt 6 (dir 86/457).\n3 Jfr. § 29.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "2:17",
+      "chapter": "2",
+      "section": "17",
+      "title": "(Samarbeid med helsepersonell)",
+      "content": "En lege kan i sin virksomhet nytte annet helsepersonell i den utstrekning det er forsvarlig ut fra personellets kvalifikasjoner, arten av de oppgaver det gjelder, den instruksjon som gis og den kontroll som føres.\nDepartementet kan gi nærmere forskrifter om legers samarbeid med helsepersonell.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "2:18",
+      "chapter": "2",
+      "section": "18",
+      "title": "(Forskrivning av legemidler)",
+      "content": "En lege har rett til å forskrive de legemidler som er nødvendige i hans virksomhet.​1\nDepartementet kan gi nærmere forskrifter om hvordan resepter skal avfattes, oppbevares m.v.\nDepartementet kan helt eller delvis unnta bestemte legemidler fra forskrivningsretten og gi forskrifter om hva den skal omfatte.\n1 Jfr. § 29. Se lov 4 des 1992 nr. 132.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "2:19",
+      "chapter": "2",
+      "section": "19",
+      "title": "(Resept som bevis)",
+      "content": "En resept kan kreves lagt fram som bevis under departementets behandling av sak om tilbakekall eller suspensjon av autorisasjon eller lisens,​1 eller om tap av retten til å forskrive narkotika,​2 eller om klage mot lege.​3\nUnder en rettssak kan en resept kreves lagt frem etter de regler som gjelder om bevis.\n1 Se §§ 8-12.\n2 Se §§ 20 og 21.\n3 Se kap. IV.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "2:20",
+      "chapter": "2",
+      "section": "20",
+      "title": "(Tap av retten til å forskrive narkotika)",
+      "content": "Dersom departementet finner at en leges forskrivning av narkotika er uforsvarlig, kan det helt eller delvis ta fra ham retten til å forskrive slike midler for en bestemt tid inntil 5 år eller for alltid.​1 Statens legeråd​2 skal uttale seg før slikt vedtak blir truffet.\nEn lege kan selv gi avkall på retten til å forskrive narkotika for en bestemt tid eller for alltid.\nDersom departementet ved utløpet av en frist etter første eller annet ledd finner at legen fortsatt ikke bør ha rett til å forskrive narkotika, kan det treffe nytt vedtak etter reglene i første ledd.\n1 Jfr. § 23.\n2 Se kap. IV.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "2:21",
+      "chapter": "2",
+      "section": "21",
+      "title": "(Suspensjon av forskrivningsrett)",
+      "content": "Dersom departementet finner at det er skjellig grunn til å anta at retten til å forskrive narkotika bør tas fra en lege,​1 kan det suspendere hans rett til å forskrive slike midler helt eller delvis inntil saken er avgjort, men ikke ut over 6 måneder. Hvis legen forhaler saken, kan suspensjonen forlenges inntil 6 måneder.\n1 Jfr. § 20 første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "2:22",
+      "chapter": "2",
+      "section": "22",
+      "title": "(Forkortelse av frist for tap av forskrivningsrett)",
+      "content": "Hvis departementet finner det forsvarlig, kan det gi en lege tilbake rett til å forskrive narkotika før utløpet av den tidsfrist som er fastsatt.​1\n1 Jfr. §§ 20 og 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "2:23",
+      "chapter": "2",
+      "section": "23",
+      "title": "(Forskrivning av narkotika ved annen lege)",
+      "content": "Når en lege ikke har rett til selv å forskrive narkotika, skal vedkommende kommunelege forskrive det som er nødvendig i legens praksis. Kommunelegen kan også skriftlig godta at en bestemt annen lege foretar slik forskrivning.\n0 Endret ved lov 19 nov 1982 nr. 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "3:24",
+      "chapter": "3",
+      "section": "24",
+      "title": "(Tilsyn)",
+      "content": "En lege plikter å følge de bestemmelser som er gitt for legevirksomhet i lov eller med hjemmel i lov.\nI sin virksomhet er en lege underlagt tilsyn av Statens Helsetilsyn​1 eller den det gir myndighet med at lover, forskrifter og bestemmelser om leger og helsetjenesten m.v. blir fulgt. Uten hinder av taushetsplikt​2 kan Statens Helsetilsyn eller den det gir myndighet kreve oppgaver og opplysninger som er nødvendige for tilsyn og foreta undersøkelser og ettersyn.\n0 Endret ved lover 30 mars 1984 nr. 15, 16 juni 1989 nr. 86, 30 juli 1992 nr. 101.\n1 Se lov 30 mars 1984 nr. 15.\n2 Jfr. §§ 31 flg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "3:25",
+      "chapter": "3",
+      "section": "25",
+      "title": "(Forsvarlig legevirksomhet)",
+      "content": "En lege plikter å utøve sin virksomhet forsvarlig.\nHan skal gjøre sitt beste for å gi sine pasienter kyndig og omsorgsfull hjelp.\nHan skal gi hver pasient de opplysninger han bør ha om sin helsetilstand og behandling. Såvidt mulig skal legen la pasienten selv medvirke ved behandlingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "3:26",
+      "chapter": "3",
+      "section": "26",
+      "title": "(Opplysninger til pårørende)",
+      "content": "I den utstrekning forholdene tilsier det skal en lege gi pasientens pårørende opplysning om hans tilstand og sykdom og om behandlingen.​1\nEr pasienten under 12 år skal slike opplysninger som regel fortrinnsvis gis til pasientens foreldre eller foresatte. Er pasienten mellom 12 og 16 år gis opplysninger som regel både til pasient og foreldre eller foresatte, medmindre pasienten av grunner legen mener bør respekteres ikke ønsker at bestemte opplysninger gis til foreldrene eller de foresatte.\n1 Jfr. §§ 31 flg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "3:27",
+      "chapter": "3",
+      "section": "27",
+      "title": "(Øyeblikkelig hjelp)",
+      "content": "En lege plikter snarest mulig å yte den hjelp han evner når han etter de opplysninger han har må anta at legehjelp er påtrengende nødvendig.\nPlikten faller bort dersom legen har gyldig forfall, eller vet at hjelp i tide vil bli ytet av en annen lege.​1\n1 Jfr. lov 28 april 1961 nr. 2 § 2 sjette ledd og lov 19 juni 1969 nr. 57 § 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "3:28",
+      "chapter": "3",
+      "section": "28",
+      "title": "(Legevaktordning)",
+      "content": "Departementet kan bestemme at leger skal delta i legevaktordning på det sted der de bor eller arbeider.​1\nDepartementet kan gi nærmere forskrifter om gjennomføring m.v. av legevaktordninger.\n1 Jfr. lov 19 nov 1982 nr. 66 § 1-3 annet ledd nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "3:29",
+      "chapter": "3",
+      "section": "29",
+      "title": "(Sparsomhet)",
+      "content": "En lege skal ved organiseringen av sin virksomhet, ved undersøkelse og behandling av pasienter, ved forskrivning av legemidler og ellers påse at pasienter, folketrygden og andre ikke påføres unødig utgift eller tidsspille.\nHensynet til sparsomhet må ikke gå ut over det faglig forsvarlige.​1\n1 Se § 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "3:30",
+      "chapter": "3",
+      "section": "30",
+      "title": "(Attest og legeerklæring)",
+      "content": "En lege plikter å være varsom, nøyaktig og objektiv ved utstedelse av attest og legeerklæring. Han skal bygge på en så omhyggelig undersøkelse som formålet tilsier.\nDepartementet kan gi nærmere forskrifter om utstedelse av legeerklæring og attest, herunder også om inhabilitet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "3:31",
+      "chapter": "3",
+      "section": "31",
+      "title": "(Taushetsplikt)",
+      "content": "En lege skal iaktta taushet og hindre at andre får kjennskap til opplysninger om folks legems- og sykdomsforhold eller andre personlige forhold som han får kunnskap om under sin legevirksomhet.\nDette gjelder ikke når det i lov er fastsatt at legen ikke skal ha taushetsplikt,​1 eller når det av andre særlige grunner må anses rettmessig å meddele opplysninger som er underlagt taushetsplikt.\nI forhold til den som fra før er kjent med opplysningene gjelder ikke taushetsplikt.\n1 Jfr. §§ 32-42 og 51.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "3:32",
+      "chapter": "3",
+      "section": "32",
+      "title": "(Taushetsplikt – samtykke)",
+      "content": "Taushetplikt faller bort i den utstrekning den som har krav på taushet, eller som opplysningene angår, samtykker i at de gis til andre.\nEr vedkommende under 16 år, skal samtykke gis av foreldre eller foresatte. Er vedkommende mellom 12 og 16 år, skal hans mening høres.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "3:33",
+      "chapter": "3",
+      "section": "33",
+      "title": "(Taushetsplikt – sakkyndige)",
+      "content": "Når en lege opptrer som sakkyndig, kan han uhindret av taushetsplikt gi oppdragsgiver opplysning om forhold han har fått rede på under utførelsen av oppdraget som har betydning for dette. – For øvrig har han vanlig taushetsplikt.\nEn lege skal såvidt mulig gjøre oppmerksom på at han opptrer som sakkyndig og hva dette innebærer hvis det ikke er klart for vedkommende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "3:34",
+      "chapter": "3",
+      "section": "34",
+      "title": "(Taushetsplikt i forhold til helsepersonell og medhjelper)",
+      "content": "Taushetsplikt er ikke til hinder for at en lege gir opplysninger til annet helsepersonell eller medhjelper av hensyn til undersøkelsen eller behandlingen av en pasient med mindre denne motsetter seg dette, og det etter forholdene kan og bør respekteres.\nHelsepersonell og andre som samarbeider med eller bistår legen i hans virksomhet har samme taushetsplikt som han.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "3:34 a",
+      "chapter": "3",
+      "section": "34 a",
+      "title": "(Opplysningsplikt til sosialtjenesten)",
+      "content": "Legen skal i sitt arbeid være oppmerksom på forhold som bør føre til tiltak fra sosialtjenestens side, og skal av eget tiltak gi sosialtjenesten opplysninger om slike forhold. Opplysninger kan likevel bare gis etter samtykke fra klienten, eller så langt opplysningene ellers kan gis uten hinder av taushetsplikt. Uten hinder av taushetsplikt skal legen av eget tiltak gi opplysninger til sosialtjenesten når det er grunn til å tro at en gravid kvinne misbruker rusmidler på en slik måte at det er overveiende sannsynlig at barnet vil bli født med skade, jf lov om sosiale tjenester § 6-2 a. Også etter pålegg fra de organer som er ansvarlige for gjennomføringen av lov om sosiale tjenester, plikter legen å gi slike opplysninger.\n0 Tilføyd ved lov 13 des 1991 nr. 81, endret ved lov 23 juni 1995 nr. 41 (i kraft 1 jan 1996).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34a",
+        "source_heading": "§ 34 a."
+      }
+    },
+    {
+      "provision_ref": "3:34 b",
+      "chapter": "3",
+      "section": "34 b",
+      "title": "(Opplysningsplikt til barneverntjenesten)",
+      "content": "Leger skal i sitt arbeid være oppmerksomme på forhold som kan føre til tiltak fra barneverntjenestens side.\nUten hinder av taushetsplikt skal leger av eget tiltak gi opplysninger til barneverntjenesten når det er grunn til å tro at et barn blir mishandlet i hjemmet eller det foreligger andre former for alvorlig omsorgssvikt, jf. lov om barneverntjenester​1 § 4-10, § 4-11, § 4-12, eller når et barn har vist vedvarende alvorlige atferdsvansker, jf. samme lov § 4-24. Også etter pålegg fra de organer som er ansvarlige for gjennomføringen av lov om barneverntjenester, plikter leger å gi slike opplysninger.\n0 Tilføyd ved lov 17 juli 1992 nr. 100.\n1 Lov 17 juli 1992 nr. 100.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34b",
+        "source_heading": "§ 34 b."
+      }
+    },
+    {
+      "provision_ref": "3:35",
+      "chapter": "3",
+      "section": "35",
+      "title": "(Opplysning til arbeidsgiver)",
+      "content": "Departementet kan gi nærmere forskrifter om opplysning fra lege til arbeidsgiver om arbeidstakers helse, sykdom, skade, uførhet eller død.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "3:36",
+      "chapter": "3",
+      "section": "36",
+      "title": "(Anonymisering – forskning)",
+      "content": "Taushetsplikt er ikke til hinder for at en lege kan meddele ellers taushetsbelagte opplysninger om legems- eller sykdomsforhold når individualiserende kjennetegn er utelatt eller endret slik at vedkommende er vernet mot å bli kjent.\nDepartementet kan bestemme at opplysninger kan eller skal gis til bruk for medisinsk forskning, og at det kan skje uten hinder av taushetsplikt. Til slikt vedtak kan knyttes vilkår. Den som mottar opplysningene, har samme taushetsplikt som leger og samme straffansvar etter denne lov.​1\nDepartementet kan gi nærmere forskrifter om bruk av taushetsbelagte opplysninger i forskning.\n1 Se § 53.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "3:37",
+      "chapter": "3",
+      "section": "37",
+      "title": "(Taushetsplikt etter en persons død)",
+      "content": "Etter en persons død kan en lege meddele taushetsbelagte opplysninger om ham når vektige grunner taler for det. Ved vurderingen tas hensyn til arten av de opplysninger det dreier seg om, avdødes formodede vilje og de pårørende og samfunnets interesser.\nI tvilstilfelle kan en lege forelegge spørsmål for departementet som kan innhente uttalelse fra Statens legeråd.​1\n1 Se kap. IV.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "3:38",
+      "chapter": "3",
+      "section": "38",
+      "title": "(Melding ved åpning og opphør av legevirksomhet)",
+      "content": "Når en lege åpner, overtar eller trer inn i legevirksomhet, skal han melde dette til kommunelegen på stedet. Omfatter virksomheten også andre kommuner, skal han også gi melding til kommunelegen i disse.\nPå samme måte skal han gi melding om flytting fra kommunen, og om opphør, overdragelse eller uttreden av legevirksomhet.\nKommunelegen skal underrette fylkeslegen og departementet om slike meldinger.\n0 Endret ved lov 19 nov 1982 nr. 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "3:39",
+      "chapter": "3",
+      "section": "39",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 5 aug 1994 nr. 55 (i kraft 1 jan 1995).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "3:40",
+      "chapter": "3",
+      "section": "40",
+      "title": "(Melding om fødsler og dødsfall)",
+      "content": "En lege har plikt til å gi melding om fødsel og gi erklæring om dødsfall som han har hatt med å gjøre under sin virksomhet. Departementet gir nærmere regler om meldingene og erklæringene.\nEn lege som har utstedt legeerklæring om dødsfall, eller som har behandlet en person før hans død, plikter å gi kommunelegen de opplysninger han krever om dødsårsak av hensyn til dødsstatistikken.\n0 Endret ved lov 19 nov 1982 nr. 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "3:41",
+      "chapter": "3",
+      "section": "41",
+      "title": "(Melding til politiet om unaturlig dødsfall)",
+      "content": "Er det grunn til å anta at noen er død en ikke naturlig død, skal den lege som gir erklæring om dødsfallet, underrette politiet etter nærmere regler som fastsettes av departementet.\nEr etterforskning satt iverk om hvorvidt døden er voldt ved straffbar handling, har legen plikt til å gi retten de opplysninger av betydning for saken som han sitter inne med.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "3:42",
+      "chapter": "3",
+      "section": "42",
+      "title": "(Andre meldinger og opplysninger)",
+      "content": "Departementet kan treffe bestemmelse om plikt for leger til å gi andre meldinger og opplysninger av betydning for helsetjenesten m.v. enn nevnt i de foregående paragrafer.\nDepartementet avgjør om formålet med opplysningene tilsier at navnet på personer som berøres blir oppgitt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "3:43",
+      "chapter": "3",
+      "section": "43",
+      "title": "(Ordnede opptegnelser og journal)",
+      "content": "En lege plikter å føre slike ordnede opptegnelser over sin virksomhet som orden og god legeskikk krever, og som er nødvendig for at han kan gi de meldinger og opplysninger som er pålagt i lov eller med hjemmel i lov. Han skal føre journal over hver enkelt pasient.\nDepartementet gir nærmere forskrifter om hvordan opptegnelser og journal skal føres, og om oppbevaring og videre behandling.​1\n1 Res. 17 mars 1989 nr. 277.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "3:44",
+      "chapter": "3",
+      "section": "44",
+      "title": "(Opptegnelse og journal som bevis)",
+      "content": "I en rettssak om en leges virksomhet, og i en administrativ sak om autorisasjon eller lisens,​1 eller rett til å forskrive narkotika,​2 eller klage over en leges virksomhet,​3 kan opptegnelser, journal og journalmateriale kreves lagt frem som bevis i original, eller i bekreftet fotokopi eller utskrift.\n1 Jfr. §§ 8-12.\n2 Se §§ 20 og 21.\n3 Se kap. IV.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "3:45",
+      "chapter": "3",
+      "section": "45",
+      "title": "(Utlån og utlevering av journal, røntgenbilde o.l.)",
+      "content": "En lege eller en helseinstitusjon har plikt til å låne ut eller utlevere i original eller bekreftet kopi eller utskrift til en annen lege eller helseinstitusjon som har en pasient til behandling journal og journalmateriale, røntgenbilde o.l. som vedrører denne, når dette er påkrevet av hensyn til behandlingen.\nNødvendig utlegg kan kreves dekket.\nDepartementet kan gi nærmere forskrifter om utlån og utlevering.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "3:46",
+      "chapter": "3",
+      "section": "46",
+      "title": "(Pasients rett til innsyn i journal)",
+      "content": "En pasient har rett til å gjøre seg kjent med sin journal med bilag, medmindre legen av hensyn til hans helse eller hans forhold til person som står ham nær, finner det utilrådelig at han får kjennskap til den eller deler av den.\nEn pasient kan i tilfelle be om at journalen gjøres kjent for en representant han utpeker. Antar legen at denne ikke er egnet for oppdraget, kan han be en annen utpekt. En lege eller en advokat kan ikke avvises med mindre særlige forhold foreligger.\nBlir en pasient nektet innsyn, eller den han utpeker som representant avvist, kan han klage til departementet.​1 Legen skal gjøre pasienten kjent med adgangen til å klage og såvidt mulig med grunnen til sitt standpunkt.\nDepartementet kan gi nærmere forskrifter om pasients innsyn i sin journal.\n1 Jfr. lov 10 feb 1967 §§ 18-21 og kap. VI.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "3:47",
+      "chapter": "3",
+      "section": "47",
+      "title": "(Blodprøve og annen undersøkelse av mistenkte)",
+      "content": "En lege plikter på anmodning av politiet å undersøke og ta blodprøve av en person som er mistenkt for straffbart forhold under påvirkning av alkohol eller annet berusende eller bedøvende middel når dette er hjemlet​1 i lov og kan skje uten fare.\nEn lege plikter også etter anmodning å foreta kroppslig undersøkelse av mistenkte i straffesak når slik undersøkelse er besluttet etter reglene i straffeprosessloven § 157. Videre plikter en lege etter anmodning av vedkommende fengselsdirektør å foreta kroppslig undersøkelse av en innsatt i fengselsanstalt når slik undersøkelse er besluttet etter reglene i fengselsloven § 30 a.\nEn lege plikter ikke å undersøke eller ta blodprøve eller foreta annen kroppslig undersøkelse av ektefelle, forlovet, slektning i rett opp- eller nedstigende linje, søsken eller like nær besvogrede. Likt med slektskap regnes adoptiv- og fosterforhold.\nEn lege plikter heller ikke å undersøke og ta blodprøve eller foreta annen kroppslig undersøkelse av en person som han behandler for alkohol-, narkotika- eller medikamentmisbruk.\nDepartementet kan gi nærmere forskrifter om legers plikt til å undersøke og ta blodprøve eller foreta annen kroppslig undersøkelse av mistenkte, herunder også om begrensninger i plikten og fritak.\n0 Endret ved lov 18 des 1987 nr. 97.\n1 Se lov 18 juni 1965 nr. 4 § 22 a og lov 11 juni 1993 nr. 101 § 6-11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "3:48",
+      "chapter": "3",
+      "section": "48",
+      "title": "(Melding om at innehaver av flysertifikat eller førerkort ikke fyller helsemessige krav)",
+      "content": "Dersom en person som har førerkort for motorvogn eller sertifikat utstedt eller godkjent av luftfartsmyndigheten har søkt lege, og denne finner at vedkommende ikke fyller de helsemessige krav som gjelder, skal legen advare ham. Dersom legen antar at forholdet er varig plikter han å gi melding i samsvar med de forskrifter departementet gir.​1\nDepartementet kan fastsette at reglene i første ledd skal gjelde tilsvarende i forhold til tjenestegjørende på landingsplass, ved annet luftfartsanlegg eller for øvrig utenfor luftfartøy i stilling som er av betydning for luftfartens sikkerhet.\n0 Endret ved lov 11 juni 1993 nr. 101.\n1 Jfr. forskrift 13 juli 1984 nr. 1467.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "4:49",
+      "chapter": "4",
+      "section": "49",
+      "title": "(Legerådets sammensetning)",
+      "content": "Kongen oppnevner for fire år ad gangen Statens legeråd. Det består av en jurist som formann og to leger som faste medlemmer. For hver oppnevnes en personlig varamann. Juristene skal fylle kravene til å være høyesterettsdommer.\nKongen oppnevner sakkyndige på medisinens forskjellige områder og to legmenn som kan tiltre rådet. De faste medlemmer kan for den enkelte sak tilkalle fra en til seks av disse eller av de faste varamenn til å delta i rådet.\nMedlem av rådet kan oppnevnes for kortere tid enn fire år når det finnes ønskelig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "4:50",
+      "chapter": "4",
+      "section": "50",
+      "title": "(Rådets oppgaver)",
+      "content": "Statens legeråd skal være rådgivende organ for Sosialdepartementet og helsedirektøren.\nStortingets ombudsmann for forvaltningen​1 kan innhente uttalelse fra rådet om spørsmål av medisinsk karakter.\nAndre offentlige organer og private kan be departementet om å innhente uttalelse fra rådet; departementet bestemmer om dette skal gjøres.\nDepartementet kan delegere myndighet etter denne lov til rådet. Enkeltvedtak som rådet treffer i kraft av delegert myndighet kan klages inn for departementet etter forvaltningslovens​2 kap. VI.\n1 Jfr. lov 22 juni 1962 nr. 8.\n2 Lov 10 feb 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "4:51",
+      "chapter": "4",
+      "section": "51",
+      "title": "(Rådets virksomhet)",
+      "content": "Statens legeråd er forhandlingsdyktig når minst tre medlemmer er tilstede, av disse formann og en av de faste leger eller personlige varamenn for disse.\nSpørsmål om fremgangsmåte og saksbehandling avgjøres ved flertall. Ved stemmelikhet gjør formannens stemme utslaget.\nUttalelse fra rådet skal være skriftlig og grunngitt. Hvis det er uenighet, skal hver fraksjon forme sin uttalelse.\nUten hinder av lovbestemt taushetsplikt kan rådet innhente nødvendige opplysninger fra leger​1 og annet helsepersonell og folketrygdens organer.​2\nKongen gir nærmere forskrifter om rådets virksomhet og saksbehandling, herunder om taushetsplikt for rådsmedlemmer og sekretariat.\n1 Se § 31 flg.\n2 Se ftrl. § 18-4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "5:52",
+      "chapter": "5",
+      "section": "52",
+      "title": "(Tilrettevisning. Advarsel)",
+      "content": "Den som overtrer denne lov eller bestemmelse gitt i medhold av den, eller på annen måte handler ukorrekt eller i strid med god legeskikk, kan av departementet gis skriftlig tilrettevisning eller advarsel.\nFør skriftlig advarsel blir gitt, skal vedkommende ha fått adgang til å forklare seg muntlig eller skriftlig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "5:53",
+      "chapter": "5",
+      "section": "53",
+      "title": "(Straff)",
+      "content": "Den som forsettlig eller uaktsomt overtrer denne lov eller bestemmelse gitt i medhold av den, straffes med bot​1 eller fengsel​2 i inntil 3 måneder.\n1 Jfr. strl. § 27.\n2 Jfr. strl. § 26 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "5:54",
+      "chapter": "5",
+      "section": "54",
+      "title": "(Gjennomføring og utfylling)",
+      "content": "Departementet kan gi nærmere forskrifter til gjennomføring og utfylling av denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "5:55",
+      "chapter": "5",
+      "section": "55",
+      "title": "(Ikrafttreden)",
+      "content": "Denne lov trer ikraft fra den tid Kongen bestemmer.​1 Samtidig oppheves lov om lægers rettigheter og plikter av 29 april 1927.\nFra samme tid gjøres endringer i følgende lover: – – –\n1 § 47 trer i kraft 13 juni 1980 iflg. res. 13 juni 1980 og resten 1 april 1982 iflg. res. 18 des 1981.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "5:56",
+      "chapter": "5",
+      "section": "56",
+      "title": "(Overgangsbestemmelse)",
+      "content": "Autorisasjon eller tillatelse til å utøve legevirksomhet etter § 1, § 17 eller § 21, annet ledd i lov av 29. april 1927 om lægers rettigheter og plikter, får samme virkning som autorisasjon eller lisens etter § 2, § 3, § 4 eller § 13 i denne lov.\n0 Endret ved lov 19 mars 1982 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1998-06-26-50",
+  "type": "statute",
+  "title": "Lov om lønnsnemndbehandling av arbeidstvisten mellom Akademikernes Fellesorganisasjon og staten v/Arbeids- og administrasjonsdepartementet i forbindelse med tariffrevisjonen pr. 1. mai 1998.",
+  "short_name": "Lov om tvungen lønnsnemnd, AF/Staten",
+  "status": "in_force",
+  "issued_date": "1998-06-26",
+  "in_force_date": "1998-06-26",
+  "url": "https://lovdata.no/dokument/NLO/lov/1998-06-26-50",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom Akademikernes Fellesorganisasjon og staten v/Arbeids- og administrasjonsdepartementet i forbindelse med tariffrevisjonen pr. 1. mai 1998 skal avgjøres av Rikslønnsnemnda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans eller blokade til løsning av tvisten.\nReglene i lov av 19. desember 1952 nr. 7 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom Akademikernes Fellesorganisasjon og staten v/Arbeids- og administrasjonsdepartementet i forbindelse med tariffrevisjonen pr. 1. mai 1998 skal avgjøres av Rikslønnsnemnda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans eller blokade til løsning av tvisten.\nReglene i lov av 19. desember 1952 nr. 7 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

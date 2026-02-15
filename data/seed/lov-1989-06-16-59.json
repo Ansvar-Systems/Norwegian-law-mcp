@@ -1,0 +1,663 @@
+{
+  "id": "LOV-1989-06-16-59",
+  "type": "statute",
+  "title": "Lov om lostjenesten m.v. [losloven].",
+  "short_name": "Losloven – losl.",
+  "status": "in_force",
+  "issued_date": "1989-06-16",
+  "in_force_date": "1995-05-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1989-06-16-59",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "(formål)",
+      "content": "Formålet med loven er å sikre en effektiv lostjeneste, som kan bidra til å trygge ferdselen på sjøen og derigjennom verne om miljøet, samt medvirke til at Forsvaret kan løse sine oppgaver.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "(virkeområde)",
+      "content": "Loven gjelder norsk indre farvann og norsk sjøterritorium​1 ellers såfremt annet ikke er bestemt i loven eller følger av folkeretten.\nLoven gjelder vassdrag så langt de er farbare med fartøy fra sjøen.​2 Departementet kan ved enkeltvedtak eller forskrift fastsette hva som forstås med farbar.\nLoven gjelder for Svalbard​3 i den utstrekning Kongen bestemmer. Kongen kan også fastsette nødvendige endringer i loven dersom de stedlige forhold på Svalbard tilsier det.\nKongen kan fastsette de endringer i loven som er nødvendige ved beredskap og i krig.\nDepartementet kan helt eller delvis, ved enkeltvedtak eller forskrift, unnta korte forflytninger innenfor kommunens sjøområde​4 fra lovens virkeområde.\n0 Endret ved lov 17 apr 2009 nr. 19 (ikr. 1 jan 2010 iflg. res. 4 des 2009 nr. 1456).\n1 Se lov 27 juni 2003 nr. 57.\n2 Jf. lov 24 nov 2000 nr. 82.\n3 Se lov 17 juli 1925 nr. 11 § 1 (2).\n4 Jf. lov 17 apr 2009 nr. 19 § 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "(definisjoner)",
+      "content": "I loven her og i forskrifter gitt i medhold av den betyr:\n1. Losing: Veiledning for fartøy ved navigering og manøvrering.\n2. Los: Person som har lossertifikat som er utstedt i henhold til loven her.\n3. Statslos: Los som er ansatt av staten.\n4. Rederilos: Los som er rederiansatt.\n5. Losberedskapsgebyr: Gebyr som betales for statlig losberedskap. Losingsgebyr: Gebyr som betales for faktisk bruk av statslos.\n6. Losplikt: Plikt til å bruke los.\n7. Fartøy: Enhver flytende innretning som kan brukes som transportmiddel, fremkomstmiddel, oppholdssted, produksjonssted eller lagersted herunder undervannsfartøyer av enhver art.​1\nDepartementet kan i tvilstilfelle ved enkeltvedtak eller forskrift fastsette hva som forstås med definisjonene i paragrafen her.\n1 Jf. lov 17 apr 2009 nr. 19 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "(Kystverket)",
+      "content": "Departementets oppgaver etter loven her utøves gjennom Kystverket, som omfatter Kystdirektoratet, kystdistriktskontorene og underliggende organer med Kystdirektoratet som sentralmyndighet. Kongen fastsetter forskrifter for Kystverket vedrørende lostjenesten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "(statens myndighet)",
+      "content": "Departementet har ansvaret for organisering, tilsyn og kontroll med statlig losing.​1 Departementet fører dessuten kontroll med annen losing​1 i den utstrekning dette følger av loven her.\nKystdirektoratet kan delegere myndighet etter loven her til Kystverkets distriktskontorer.\n1 Se § 3 (1) nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "(rådgivende organ for departementet)",
+      "content": "Kongen kan bestemme at det skal opprettes et rådgivende organ for departementet i lossaker. Kongen fastsetter rådets mandat og oppnevner leder, medlemmer og personlige varamedlemmer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "(lostilvisning og losavløsning)",
+      "content": "Kystdirektoratet gir forskrifter om lostilvisning og losavløsning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "(forholdet mellom skipsfører og los​1 som er tilvist av staten)",
+      "content": "Loven her medfører ingen endringer i de regler som gjelder ansvaret til skipsføreren,​2 eller den som fører kommandoen i hans sted.\nLosen​1 er ansvarlig for losingen.​3 Skipsføreren eller den som fører kommandoen i hans sted, kan overlate til losen​1 å gi direktiver på fartøyets vegne med hensyn til fartøyets​4 fremdrift, navigering og manøvrering.\n1 Se § 3 (1) nr. 2.\n2 Jf. sjøl. kap. 6.\n3 Se § 3 (1) nr. 1.\n4 Se § 3 (1) nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "(losingens utførelse)",
+      "content": "Under losingen​1 skal losen​2 være på kommandobroen eller på det sted hvor losingen best kan utføres, med unntak av korte, nødvendige fravær. Under losens korte, nødvendige fravær må en av fartøyets offiserer være til stede på den plass hvorfra losen utfører losingen.\n1 Se § 3 (1) nr. 1.\n2 Se § 3 (1) nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "(tjenestefrihet)",
+      "content": "Losen​1 skal av sikkerhetshensyn ha minst 12 timers tjenestefrihet fra losingen​2 hvert døgn. Departementet fastsetter nærmere forskrifter, herunder om hvilket tidspunkt døgnet skal regnes fra, og i hvilken utstrekning reisetid og annen tjeneste skal regnes likt med losing.\nBestemmelsen i paragrafen her gjelder ikke for tjeneste på krigsfartøyer eller andre fartøyer under militær kommando.\n1 Se § 3 (1) nr. 2.\n2 Se § 3 (1) nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "(kost og innkvartering om bord)",
+      "content": "Departementet fastsetter forskrifter om krav til statslosenes​1 kost og kvarter om bord, herunder tiltak dersom kravene ikke er tilfredsstilt.\n1 Se § 3 (1) nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "(bruk av los)",
+      "content": "Finner en skipsfører eller reder at det er nødvendig med veiledning med hensyn til navigering og manøvrering av andre enn fartøyets faste mannskap, skal statslos​1 nyttes. Første punktum gjelder ikke for krigsfartøyer eller andre fartøyer under militær kommando.\nFartøyer som bare seiler i rutefart mellom norske havner, kan i stedet for statslos​1 bruke rederilos.​2 Departementet kan ved forskrift eller enkeltvedtak bestemme at også andre fartøyer kan bruke rederilos.​2\nHvis statslos med sertifikat for vedkommende farvann ikke kan tilvises, kan annen los som er kjent i farvannet tilvises. I slike tilfelle betales gebyrer som om statslos med sertifikat for farvannet var benyttet.\n1 Se § 3 (1) nr. 3.\n2 Se § 3 (1) nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "(losplikt)​1",
+      "content": "Kongen kan fastsette forskrifter om losplikt​1 når dette anses som nødvendig\n1. for å forebygge at fartøyet eller dets last kan volde skade som følge av fartøyets navigering eller manøvrering eller\n2. av hensyn til rikets sikkerhet.\nBruk av statslos​2 kan pålegges selv om fartøyet har rederilos​3 i tjeneste.\n1 Se § 3 (1) nr. 6.\n2 Se § 3 (1) nr. 3.\n3 Se § 3 (1) nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "(gebyrpliktige fartøyer)​1",
+      "content": "Fartøyer​1 som nytter norsk farvann innenfor grunnlinjene,​2 skal, med de unntak som følger av loven her, betale losberedskapsgebyr.​3 Kongen kan fastsette annen grense for plikten til å betale losberedskapsgebyr​3 innenfor grunnlinjene.\nFartøyer som nytter statslos,​4 skal betale både losberedskapsgebyr​3 og losingsgebyr.​3 Betalingsplikten etter leddet her gjelder uavhengig av hvilke farvann fartøyet​1 nytter.\n1 Se § 3 (1) nr. 7.\n2 Se lov 27 juni 2003 nr. 57 § 1.\n3 Se § 3 (1) nr. 5.\n4 Se § 3 (1) nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "(fritak)",
+      "content": "Følgende fartøyer​1 er fritatt for å betale losberedskapsgebyr​2 når de ikke nytter statslos:​3\n1. Krigsfartøyer eller andre fartøyer​1 under militær kommando.\n2. Andre fartøyer i den utstrekning Kongen bestemmer.\nKongen kan i særlige tilfeller frita for plikten til å betale losingsgebyr.​2\nDepartementet kan frita for gebyrer som er påløpet når et fartøy​1 er oppbragt.\n1 Se § 3 (1) nr. 7.\n2 Se § 3 (1) nr. 5.\n3 Se § 3 (1) nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "(dekningsgrad)",
+      "content": "Fordelingen av losutgiftene mellom statlige og andre brukergrupper skal så vidt mulig skje i henhold til de kostnader de forårsaker.\nFordelingen av gebyrene mellom de forskjellige typer fartøyer​1 skal så vidt mulig skje i forhold til de kostnader de forårsaker.\n1 Se § 3 (1) nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "(fastsettelse)",
+      "content": "Etter Stortingets retningslinjer fastsetter Kongen gebyrene. Det kan fastsettes rabattordninger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "(innkreving m.v.)",
+      "content": "Departementet gir nærmere forskrifter og enkeltvedtak om utferdigelse og kontroll av losregningene, samt om innkreving av gebyrene og om hvem gebyrene skal betales til. Disse forskrifter kan også inneholde bestemmelser om hvilke opplysninger som skal gis. Departementet kan bestemme at kommunene skal innkreve gebyrene på statens vegne eller bistå ved innkrevingen.\nDepartementet kan gi forskrift om at fartøy som unnlater å betale gebyr etter loven her, skal ilegges tilleggsgebyr.\nVed forsinket betaling av gebyrene svares forsinkelsesrente etter lov om renter ved forsinket betaling m.m.​1\nGebyrene i loven her er tvangsgrunnlag for utlegg​2 hos den som var eier av fartøyet da gebyrene påløp.\n0 Endret ved lover 26 juni 1992 nr. 86, 11 juni 1993 nr. 83, 6 juni 1997 nr. 33.\n1 Lov 17 des 1976 nr. 100.\n2 Jf. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "(rekruttering, utdanning, kvalifikasjonskrav)",
+      "content": "Som losaspirant kan antas den som innen søknadsfristens utløp ikke er fylt 38 år og som har de eksamener og sertifikater som departementet bestemmer. Departementet kan dispensere fra kravet til alder når tjenestlige hensyn tilsier det.\nFor ansettelse som statslos​1 eller rederilos​2 kreves at den som ansettes, har lossertifikat for vedkommende farvann, eller innen en bestemt tid får lossertifikat for farvannet.\nDepartementet gir forskrifter om utdanningen av loser​3 og om reguleringen av tilgangen på loser, herunder om vilkårene for å få, utvide og opprettholde lossertifikat, og om de krav som stilles til farvannskjennskap, og til helbred, syn, fargesans, hørsel og edruelighet, og om kontrollen av at disse kravene oppfylles.\n1 Se § 3 (1) nr. 3.\n2 Se § 3 (1) nr. 4.\n3 Se § 3 (1) nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "(losing i åpen sjø)",
+      "content": "Departementet kan gi forskrifter om vilkårene for å bli godkjent til å lose utenfor territorialgrensen.​1\n1 Jf. lov 27 juni 2003 nr. 57.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "(tjeneste ved beredskap og i krig)",
+      "content": "Ved beredskap og i krig plikter rederilosene​1 å gjøre samme tjeneste som statslos.​2 Departementet kan fastsette direktiv for lostjenesten ved beredskap og i krig.\n1 Se § 3 (1) nr. 4.\n2 Se § 3 (1) nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "(straffeansvar)",
+      "content": "Med bøter​1 straffes den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av lovens kapittel III eller medvirker til det.\nBestemmelsene i paragrafen her gjelder for så vidt overtredelsen ikke rammes av strengere straffebestemmelser.​2\n0 Endret ved lov 20 juli 1991 nr. 66. Endres ved lov 20 mai 2005 nr. 28 (ikr. fra den tid som fastsettes ved lov) som endret ved lov 19 juni 2009 nr. 74.\n1 Jf. strl. 1902 § 27 og kap. 3 a; strl. 2005 kap. 4 og kap. 9 (ikke ikr.).\n2 Jf. strl. 1902 § 425 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "(tvangsmidler og sikkerhet for gebyr)",
+      "content": "Ved god grunn til mistanke om overtredelse av bestemmelsene i kapittel III eller om unndragelse av plikt til å betale gebyrer etter kapittel IV, kan Kystverkets​1 tjenestemenn, eller kommunale tjenestemenn hvis departementet, eller direktoratet i det enkelte tilfelle, bestemmer det, beordre fartøyet stanset og anvise oppankring eller anløp til bestemt sted for nærmere undersøkelser.\nTollvesenet skal underrette Kystverket​1 om fartøyer, som er anløpt eller ekspedert.\nTollvesenet skal etter anmodning av Kystverket​1 ikke inn- eller utklarere gebyrpliktige fartøyer før forfalte gebyrer er betalt eller tilstrekkelig sikkerhet er stilt.\n1 Se § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "(erstatningsansvar)",
+      "content": "Med hensyn til skadeserstatningslovens​1 § 2-1 betraktes statslosen​2 for å være i fartøyets tjeneste under losingen.​3 Loven her medfører ellers ingen endring i de gjeldende erstatningsregler.\nSkade som losen volder ved feil eller forsømmelse i tjenesten, plikter han å erstatte etter gjeldende erstatningsregler, jfr. skadeserstatningslovens​1 § 2-3.\n1 Lov 13 juni 1969 nr. 26.\n2 Se § 3 (1) nr. 3.\n3 Se § 3 (1) nr. 1 og sjøl. § 151.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "(ikrafttredelse)",
+      "content": "Loven her trer i kraft fra den tid Kongen bestemmer.​1\n1 Fra 1 jan 1992 iflg. res. 2 aug 1991 nr. 526 og 1 mai 1995 iflg. res. 23 des 1994 nr. 1121.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "(overgangsbestemmelser)",
+      "content": "Forskrifter og enkeltvedtak som er gitt av noen myndighet i medhold av tidligere lovgivning om losvesenet og som gjelder ved ikrafttredelsen av loven her, skal fortsatt gjelde så langt de ikke strider mot regler gitt i eller i medhold av loven her.\nKongen kan gi nødvendige overgangsbestemmelser i forbindelse med ikrafttredelsen av loven her. Inntil Kongen bestemmer noe annet, gjelder tidligere §§ 22 og 24 i lov av 9. april 1948 nr. 2 om losvesenet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "(endringer i andre lover)",
+      "content": "Fra den tid loven her trer i kraft gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "(formål)",
+      "content": "Formålet med loven er å sikre en effektiv lostjeneste, som kan bidra til å trygge ferdselen på sjøen og derigjennom verne om miljøet, samt medvirke til at Forsvaret kan løse sine oppgaver.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "(virkeområde)",
+      "content": "Loven gjelder norsk indre farvann og norsk sjøterritorium​1 ellers såfremt annet ikke er bestemt i loven eller følger av folkeretten.\nLoven gjelder vassdrag så langt de er farbare med fartøy fra sjøen.​2 Departementet kan ved enkeltvedtak eller forskrift fastsette hva som forstås med farbar.\nLoven gjelder for Svalbard​3 i den utstrekning Kongen bestemmer. Kongen kan også fastsette nødvendige endringer i loven dersom de stedlige forhold på Svalbard tilsier det.\nKongen kan fastsette de endringer i loven som er nødvendige ved beredskap og i krig.\nDepartementet kan helt eller delvis, ved enkeltvedtak eller forskrift, unnta korte forflytninger innenfor kommunens sjøområde​4 fra lovens virkeområde.\n0 Endret ved lov 17 apr 2009 nr. 19 (ikr. 1 jan 2010 iflg. res. 4 des 2009 nr. 1456).\n1 Se lov 27 juni 2003 nr. 57.\n2 Jf. lov 24 nov 2000 nr. 82.\n3 Se lov 17 juli 1925 nr. 11 § 1 (2).\n4 Jf. lov 17 apr 2009 nr. 19 § 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "(definisjoner)",
+      "content": "I loven her og i forskrifter gitt i medhold av den betyr:\n1. Losing: Veiledning for fartøy ved navigering og manøvrering.\n2. Los: Person som har lossertifikat som er utstedt i henhold til loven her.\n3. Statslos: Los som er ansatt av staten.\n4. Rederilos: Los som er rederiansatt.\n5. Losberedskapsgebyr: Gebyr som betales for statlig losberedskap. Losingsgebyr: Gebyr som betales for faktisk bruk av statslos.\n6. Losplikt: Plikt til å bruke los.\n7. Fartøy: Enhver flytende innretning som kan brukes som transportmiddel, fremkomstmiddel, oppholdssted, produksjonssted eller lagersted herunder undervannsfartøyer av enhver art.​1\nDepartementet kan i tvilstilfelle ved enkeltvedtak eller forskrift fastsette hva som forstås med definisjonene i paragrafen her.\n1 Jf. lov 17 apr 2009 nr. 19 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "(Kystverket)",
+      "content": "Departementets oppgaver etter loven her utøves gjennom Kystverket, som omfatter Kystdirektoratet, kystdistriktskontorene og underliggende organer med Kystdirektoratet som sentralmyndighet. Kongen fastsetter forskrifter for Kystverket vedrørende lostjenesten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "(statens myndighet)",
+      "content": "Departementet har ansvaret for organisering, tilsyn og kontroll med statlig losing.​1 Departementet fører dessuten kontroll med annen losing​1 i den utstrekning dette følger av loven her.\nKystdirektoratet kan delegere myndighet etter loven her til Kystverkets distriktskontorer.\n1 Se § 3 (1) nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "(rådgivende organ for departementet)",
+      "content": "Kongen kan bestemme at det skal opprettes et rådgivende organ for departementet i lossaker. Kongen fastsetter rådets mandat og oppnevner leder, medlemmer og personlige varamedlemmer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "(lostilvisning og losavløsning)",
+      "content": "Kystdirektoratet gir forskrifter om lostilvisning og losavløsning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "(forholdet mellom skipsfører og los​1 som er tilvist av staten)",
+      "content": "Loven her medfører ingen endringer i de regler som gjelder ansvaret til skipsføreren,​2 eller den som fører kommandoen i hans sted.\nLosen​1 er ansvarlig for losingen.​3 Skipsføreren eller den som fører kommandoen i hans sted, kan overlate til losen​1 å gi direktiver på fartøyets vegne med hensyn til fartøyets​4 fremdrift, navigering og manøvrering.\n1 Se § 3 (1) nr. 2.\n2 Jf. sjøl. kap. 6.\n3 Se § 3 (1) nr. 1.\n4 Se § 3 (1) nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "(losingens utførelse)",
+      "content": "Under losingen​1 skal losen​2 være på kommandobroen eller på det sted hvor losingen best kan utføres, med unntak av korte, nødvendige fravær. Under losens korte, nødvendige fravær må en av fartøyets offiserer være til stede på den plass hvorfra losen utfører losingen.\n1 Se § 3 (1) nr. 1.\n2 Se § 3 (1) nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "(tjenestefrihet)",
+      "content": "Losen​1 skal av sikkerhetshensyn ha minst 12 timers tjenestefrihet fra losingen​2 hvert døgn. Departementet fastsetter nærmere forskrifter, herunder om hvilket tidspunkt døgnet skal regnes fra, og i hvilken utstrekning reisetid og annen tjeneste skal regnes likt med losing.\nBestemmelsen i paragrafen her gjelder ikke for tjeneste på krigsfartøyer eller andre fartøyer under militær kommando.\n1 Se § 3 (1) nr. 2.\n2 Se § 3 (1) nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "(kost og innkvartering om bord)",
+      "content": "Departementet fastsetter forskrifter om krav til statslosenes​1 kost og kvarter om bord, herunder tiltak dersom kravene ikke er tilfredsstilt.\n1 Se § 3 (1) nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "(bruk av los)",
+      "content": "Finner en skipsfører eller reder at det er nødvendig med veiledning med hensyn til navigering og manøvrering av andre enn fartøyets faste mannskap, skal statslos​1 nyttes. Første punktum gjelder ikke for krigsfartøyer eller andre fartøyer under militær kommando.\nFartøyer som bare seiler i rutefart mellom norske havner, kan i stedet for statslos​1 bruke rederilos.​2 Departementet kan ved forskrift eller enkeltvedtak bestemme at også andre fartøyer kan bruke rederilos.​2\nHvis statslos med sertifikat for vedkommende farvann ikke kan tilvises, kan annen los som er kjent i farvannet tilvises. I slike tilfelle betales gebyrer som om statslos med sertifikat for farvannet var benyttet.\n1 Se § 3 (1) nr. 3.\n2 Se § 3 (1) nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "(losplikt)​1",
+      "content": "Kongen kan fastsette forskrifter om losplikt​1 når dette anses som nødvendig\n1. for å forebygge at fartøyet eller dets last kan volde skade som følge av fartøyets navigering eller manøvrering eller\n2. av hensyn til rikets sikkerhet.\nBruk av statslos​2 kan pålegges selv om fartøyet har rederilos​3 i tjeneste.\n1 Se § 3 (1) nr. 6.\n2 Se § 3 (1) nr. 3.\n3 Se § 3 (1) nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "(gebyrpliktige fartøyer)​1",
+      "content": "Fartøyer​1 som nytter norsk farvann innenfor grunnlinjene,​2 skal, med de unntak som følger av loven her, betale losberedskapsgebyr.​3 Kongen kan fastsette annen grense for plikten til å betale losberedskapsgebyr​3 innenfor grunnlinjene.\nFartøyer som nytter statslos,​4 skal betale både losberedskapsgebyr​3 og losingsgebyr.​3 Betalingsplikten etter leddet her gjelder uavhengig av hvilke farvann fartøyet​1 nytter.\n1 Se § 3 (1) nr. 7.\n2 Se lov 27 juni 2003 nr. 57 § 1.\n3 Se § 3 (1) nr. 5.\n4 Se § 3 (1) nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "(fritak)",
+      "content": "Følgende fartøyer​1 er fritatt for å betale losberedskapsgebyr​2 når de ikke nytter statslos:​3\n1. Krigsfartøyer eller andre fartøyer​1 under militær kommando.\n2. Andre fartøyer i den utstrekning Kongen bestemmer.\nKongen kan i særlige tilfeller frita for plikten til å betale losingsgebyr.​2\nDepartementet kan frita for gebyrer som er påløpet når et fartøy​1 er oppbragt.\n1 Se § 3 (1) nr. 7.\n2 Se § 3 (1) nr. 5.\n3 Se § 3 (1) nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "(dekningsgrad)",
+      "content": "Fordelingen av losutgiftene mellom statlige og andre brukergrupper skal så vidt mulig skje i henhold til de kostnader de forårsaker.\nFordelingen av gebyrene mellom de forskjellige typer fartøyer​1 skal så vidt mulig skje i forhold til de kostnader de forårsaker.\n1 Se § 3 (1) nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "(fastsettelse)",
+      "content": "Etter Stortingets retningslinjer fastsetter Kongen gebyrene. Det kan fastsettes rabattordninger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "(innkreving m.v.)",
+      "content": "Departementet gir nærmere forskrifter og enkeltvedtak om utferdigelse og kontroll av losregningene, samt om innkreving av gebyrene og om hvem gebyrene skal betales til. Disse forskrifter kan også inneholde bestemmelser om hvilke opplysninger som skal gis. Departementet kan bestemme at kommunene skal innkreve gebyrene på statens vegne eller bistå ved innkrevingen.\nDepartementet kan gi forskrift om at fartøy som unnlater å betale gebyr etter loven her, skal ilegges tilleggsgebyr.\nVed forsinket betaling av gebyrene svares forsinkelsesrente etter lov om renter ved forsinket betaling m.m.​1\nGebyrene i loven her er tvangsgrunnlag for utlegg​2 hos den som var eier av fartøyet da gebyrene påløp.\n0 Endret ved lover 26 juni 1992 nr. 86, 11 juni 1993 nr. 83, 6 juni 1997 nr. 33.\n1 Lov 17 des 1976 nr. 100.\n2 Jf. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "(rekruttering, utdanning, kvalifikasjonskrav)",
+      "content": "Som losaspirant kan antas den som innen søknadsfristens utløp ikke er fylt 38 år og som har de eksamener og sertifikater som departementet bestemmer. Departementet kan dispensere fra kravet til alder når tjenestlige hensyn tilsier det.\nFor ansettelse som statslos​1 eller rederilos​2 kreves at den som ansettes, har lossertifikat for vedkommende farvann, eller innen en bestemt tid får lossertifikat for farvannet.\nDepartementet gir forskrifter om utdanningen av loser​3 og om reguleringen av tilgangen på loser, herunder om vilkårene for å få, utvide og opprettholde lossertifikat, og om de krav som stilles til farvannskjennskap, og til helbred, syn, fargesans, hørsel og edruelighet, og om kontrollen av at disse kravene oppfylles.\n1 Se § 3 (1) nr. 3.\n2 Se § 3 (1) nr. 4.\n3 Se § 3 (1) nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "(losing i åpen sjø)",
+      "content": "Departementet kan gi forskrifter om vilkårene for å bli godkjent til å lose utenfor territorialgrensen.​1\n1 Jf. lov 27 juni 2003 nr. 57.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "(tjeneste ved beredskap og i krig)",
+      "content": "Ved beredskap og i krig plikter rederilosene​1 å gjøre samme tjeneste som statslos.​2 Departementet kan fastsette direktiv for lostjenesten ved beredskap og i krig.\n1 Se § 3 (1) nr. 4.\n2 Se § 3 (1) nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "(straffeansvar)",
+      "content": "Med bøter​1 straffes den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av lovens kapittel III eller medvirker til det.\nBestemmelsene i paragrafen her gjelder for så vidt overtredelsen ikke rammes av strengere straffebestemmelser.​2\n0 Endret ved lov 20 juli 1991 nr. 66. Endres ved lov 20 mai 2005 nr. 28 (ikr. fra den tid som fastsettes ved lov) som endret ved lov 19 juni 2009 nr. 74.\n1 Jf. strl. 1902 § 27 og kap. 3 a; strl. 2005 kap. 4 og kap. 9 (ikke ikr.).\n2 Jf. strl. 1902 § 425 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "(tvangsmidler og sikkerhet for gebyr)",
+      "content": "Ved god grunn til mistanke om overtredelse av bestemmelsene i kapittel III eller om unndragelse av plikt til å betale gebyrer etter kapittel IV, kan Kystverkets​1 tjenestemenn, eller kommunale tjenestemenn hvis departementet, eller direktoratet i det enkelte tilfelle, bestemmer det, beordre fartøyet stanset og anvise oppankring eller anløp til bestemt sted for nærmere undersøkelser.\nTollvesenet skal underrette Kystverket​1 om fartøyer, som er anløpt eller ekspedert.\nTollvesenet skal etter anmodning av Kystverket​1 ikke inn- eller utklarere gebyrpliktige fartøyer før forfalte gebyrer er betalt eller tilstrekkelig sikkerhet er stilt.\n1 Se § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "(erstatningsansvar)",
+      "content": "Med hensyn til skadeserstatningslovens​1 § 2-1 betraktes statslosen​2 for å være i fartøyets tjeneste under losingen.​3 Loven her medfører ellers ingen endring i de gjeldende erstatningsregler.\nSkade som losen volder ved feil eller forsømmelse i tjenesten, plikter han å erstatte etter gjeldende erstatningsregler, jfr. skadeserstatningslovens​1 § 2-3.\n1 Lov 13 juni 1969 nr. 26.\n2 Se § 3 (1) nr. 3.\n3 Se § 3 (1) nr. 1 og sjøl. § 151.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "(ikrafttredelse)",
+      "content": "Loven her trer i kraft fra den tid Kongen bestemmer.​1\n1 Fra 1 jan 1992 iflg. res. 2 aug 1991 nr. 526 og 1 mai 1995 iflg. res. 23 des 1994 nr. 1121.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "(overgangsbestemmelser)",
+      "content": "Forskrifter og enkeltvedtak som er gitt av noen myndighet i medhold av tidligere lovgivning om losvesenet og som gjelder ved ikrafttredelsen av loven her, skal fortsatt gjelde så langt de ikke strider mot regler gitt i eller i medhold av loven her.\nKongen kan gi nødvendige overgangsbestemmelser i forbindelse med ikrafttredelsen av loven her. Inntil Kongen bestemmer noe annet, gjelder tidligere §§ 22 og 24 i lov av 9. april 1948 nr. 2 om losvesenet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "(endringer i andre lover)",
+      "content": "Fra den tid loven her trer i kraft gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    }
+  ]
+}

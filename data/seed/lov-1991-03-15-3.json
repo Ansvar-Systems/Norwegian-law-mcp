@@ -1,0 +1,631 @@
+{
+  "id": "LOV-1991-03-15-3",
+  "type": "statute",
+  "title": "Lov om megling i konfliktråd (konfliktrådsloven)",
+  "short_name": "Konfliktrådsloven – konfrådl.",
+  "status": "in_force",
+  "issued_date": "1991-03-15",
+  "in_force_date": "1992-09-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1991-03-15-3",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Konfliktrådet​1 har til oppgave å megle​2 i tvister som oppstår på grunn av at en eller flere personer har påført andre​3 en skade, et tap eller en annen krenkelse.\n1 Se §§ 2 og 3.\n2 Se § 5 flg.\n3 Jf. § 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Hvert konfliktråd skal ledes av en konfliktrådsleder.​1 Konfliktrådslederen må være vederheftig​2 og valgbar ved kommunale valg.​3 Utelukket fra ansettelse som konfliktrådsleder er den som\na. i løpet av de siste fem årene forut for ansettelsen er idømt betinget frihetsstraff,​4 eller\nb. er idømt ubetinget fengselsstraff og ikke er løslatt, på prøve eller endelig, innen ti år forut for ansettelsen.\nStaten har ansvaret for og dekker utgiftene til konfliktrådene. Nærmere regler om konfliktrådenes organisasjon og saksbehandling fastsettes av Kongen.\nLoven gjelder også for Svalbard.​5 Departementet kan gi forskrift om lovens anvendelse på Svalbard og kan fastsette særlige regler under hensyn til de stedlige forhold.\n0 Endret ved lover 21 des 2000 nr. 121 (ikr. 1 jan 2001 iflg. res. 21 des 2000 nr. 1357), 15 juni 2001 nr. 66 (ikr. 1 jan 2002 iflg. res. 15 juni 2001 nr. 695), 4 juli 2003 nr. 75 (ikr. 1 jan 2004 iflg. res. 4 juli 2003 nr. 901).\n1 Jf. § 4 (2).\n2 Jf. kkl. § 61.\n3 Jf. lov 28 juni 2002 nr. 57 § 3-3. – Sml. dl. kap. 4.\n4 Jf. strl. 1902 §§ 52 til 54; strl. 2005 kap. 6 (ikke ikr.).\n5 Se lov 17 juli 1925 nr. 11 § 1 (2), jf. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:2 a",
+      "chapter": "1",
+      "section": "2 a",
+      "content": "I hvert konfliktråd​1 skal det være en eller flere ungdomskoordinatorer. Ungdomskoordinatoren har ansvaret for å gjennomføre ungdomsstraff etter kapittel III. § 2 første ledd annet og tredje punktum gjelder tilsvarende for ungdomskoordinatoren.\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. §§ 1 og 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2a",
+        "source_heading": "§ 2a."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Det oppnevnes konfliktrådsmeglere​1 for hver kommune.​2 Meglerne oppnevnes av en representant utpekt av kommunestyret/kommunestyrene, en representant fra politiet og konfliktrådslederen. På Svalbard oppnevnes konfliktrådsmeglere av en representant utpekt av Longyearbyen lokalstyre,​3 en representant for Sysselmannen på Svalbard​4 og konfliktrådslederen.​5 Oppnevnelsen gjelder for en periode på 4 år.\n0 Endret ved lover 21 des 2000 nr. 121 (ikr. 1 jan 2001 iflg. res. 21 des 2000 nr. 1357), 15 juni 2001 nr. 66 (ikr. 1 jan 2002 iflg. res. 15 juni 2001 nr. 695), 4 juli 2003 nr. 75 (ikr. 1 jan 2004 iflg. res. 4 juli 2003 nr. 901).\n1 Jf. § 4.\n2 Jf. lov 25 sep 1992 nr. 107.\n3 Se lov 17 juli 1925 nr. 11 kap. 5.\n4 Se lov 17 juli 1925 nr. 11 § 5.\n5 Se § 2 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Vervet som megler i konfliktrådet er frivillig. Personer som har fylt 18 år kan oppnevnes.​1\nKravene til vederheftighet, valgbarhet og vandel etter § 2 første ledd gjelder tilsvarende for konfliktrådsmeglere.\n0 Endret ved lover 21 des 2000 nr. 121 (ikr. 1 jan 2001 iflg. res. 21 des 2000 nr. 1357), 4 juli 2003 nr. 75 (ikr. 1 jan 2004 iflg. res. 4 juli 2003 nr. 901).\n1 Sml. dl. § 65.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Megling i konfliktrådet etter kapittel I og II krever partenes​1 samtykke.​2 For gjennomføring av ungdomsstraff etter kapittel III kreves samtykke fra domfelte og domfeltes verger.​3 Det kreves videre at de i all hovedsak er enige om det saksforholdet tvisten gjelder.\n0 Endret ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 1. – Jf. strpl. § 71 a.\n2 Jf. strl. 1902 § 53 nr. 3, h; strl. 2005 § 37, i (ikke ikr.).\n3 Jf. lov 26 mars 2010 nr. 9 § 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "Megling foretas som regel i den kommunen hvor den påklagede eller domfelte bor eller oppholder seg.​1\n0 Endret ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Sml. strpl. § 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "Partene​1 må møte personlig i meglingsmøtet. Møteplikt til ungdomsstormøte fremgår av § 18.\nHvis den skadelidte er et foretak,​2 kan en person i foretakets tjeneste møte på dets vegne.\nPartene kan ikke møte med fullmektig.​3 Konfliktrådet kan tillate at partene lar seg bistå i meglingsmøtet av en myndig person​4 som ikke er advokat.​5\n0 Endret ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 1.\n2 Se strl. 1902 § 48 a; strl. 2005 kap. 4 (ikke ikr.).\n3 Sml. fvl. § 12 og tvl. § 6-7.\n4 Se lov 26 mars 2010 nr. 9 § 2 (3).\n5 Jf. dl. § 220.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "content": "I den enkelte sak settes konfliktrådet med én megler.​1 Megleren avgjør om den avtalen​2 partene kommer fram til, skal godkjennes.​3\nVed gjennomføring av ungdomsstraff har ungdomskoordinatoren​4 ansvaret for saken fra den kommer inn til ungdomsplanen​5 er gjennomført.\n0 Endret ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Se § 3.\n2 Se § 13. – Jf. sktl. § 5-15 (1), k.\n3 Se § 14.\n4 Jf. § 2 a.\n5 Jf. § 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "content": "Forvaltningsloven​1 gjelder for konfliktrådenes virksomhet.\nNår konfliktrådet avviser en sak eller nekter å godkjenne en avtale, plikter rådet å gi begrunnelse etter reglene i forvaltningsloven​1 §§ 24 og 25.\n1 Lov 10 feb 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "content": "Med mindre annet er fastsatt i eller i medhold av lov,​1 plikter meglere, ungdomskoordinatorer og andre som utfører tjeneste eller arbeid for konfliktrådet, å bevare taushet om det de i forbindelse med tjenesten eller arbeidet får vite om noens personlige forhold eller andre forhold som nevnt i forvaltningsloven​2 § 13 første ledd. Som personlig forhold regnes også partenes navn, fødested, fødselsdato, personnummer,​3 statsborgerforhold,​4 sivilstand, yrke, bopel og arbeidssted. For øvrig gjelder forvaltningsloven​2 §§ 13 til 13 e. Brudd på taushetsplikten straffes etter straffeloven​5 § 121.\nRetten kan ikke ta imot forklaringer som et vitne ikke kan gi uten å krenke taushetsplikten etter første ledd med mindre retten etter en avveining av hensynet til taushetsplikten og hensynet til sakens opplysning ved kjennelse​6 bestemmer at vitnet likevel skal avgi forklaring.​7 Med mindre begge parter samtykker, kan vitnet ikke forklare seg om hva partene har erkjent eller tilbudt under meglingen.\n0 Endret ved lover 21 des 2000 nr. 121 (ikr. 1 jan 2001 iflg. res. 21 des 2000 nr. 1357), 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721). Endres ved lov 20 mai 2005 nr. 28 (ikr. fra den tid som fastsettes ved lov) som endret ved lov 19 juni 2009 nr. 74.\n1 Se § 15, strl. 1902 § 139 og § 172.\n2 Lov 10 feb 1967.\n3 Jf. lov 16 jan 1970 nr. 1 § 4.\n4 Jf. lov 10 juni 2005 nr. 51.\n5 Lov 22 mai 1902 nr. 10.\n6 Se tvl. § 19-1 og strpl. kap. 26.\n7 Sml. tvl. § 22-3 og strpl. § 118.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "Når påtalemyndigheten​1 har overført en straffesak til megling i konfliktrådet etter straffeprosessloven​2 § 71 a, skal konfliktrådet​3 ta saken under behandling så snart som mulig.\n1 Se strpl. § 67 (4). – Sml. strl. 1902 § 53 nr. 3 (1), h; strl. 2005 § 37, i (ikke ikr.), og strpl. § 69.\n2 Lov 22 mai 1981 nr. 25. – Jf. dens § 82.\n3 Se §§ 2 og 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "content": "Dersom en part​1 er under 18 år, må også vergen​2 samtykke til ungdomsstraff eller til at saken blir overført til megling i konfliktrådet.​3\nVergen skal varsles om meglingsmøtet og har rett til å være til stede.​4 Dersom vergen ikke kan eller vil vareta partens tarv i saken, skal fylkesmannen oppnevne en midlertidig verge som skal opptre i stedet for den opprinnelige vergen under konfliktrådsbehandlingen.​5\n0 Endret ved lover 26 mars 2010 nr. 9 (ikr. 1 juli 2013 iflg. res. 5 apr 2013 nr. 338) som endret ved lov 5 apr 2013 nr. 12, 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Se § 1, og strl. 1902 § 78.\n2 Se lov 26 mars 2010 nr. 9 § 16.\n3 Se §§ 2 og 3.\n4 Se § 13 (3).\n5 Sml. strpl. § 83. – Jf. lov 26 mars 2010 nr. 9 § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "content": "Hvis partene blir enige om en avtale,​1 settes denne opp skriftlig.\nEn avtale som forutsetter en ytelse til den skadelidte, skal fastsette omfanget av ytelsen og forfallstid. Det skal videre fastsettes om avtalen representerer det endelige oppgjør mellom partene.​2\nEr en part mindreårig, eller er en part satt under vergemål og mangler rettslig handleevne til å inngå slik avtale,​3 må avtalen godkjennes av vergen.​4\n0 Endret ved lov 26 mars 2010 nr. 9 (ikr. 1 juli 2013 iflg. res. 5 apr 2013 nr. 338) som endret ved lov 5 apr 2013 nr. 12.\n1 Jf. § 8. – Jf. sktl. § 5-15 (1), k.\n2 Sml. strl. 1902 § 53 nr. 4; strl. 2005 § 35 (ikke ikr.).\n3 Se lov 26 mars 2010 nr. 9 § 8 og kap. 4.\n4 Jf. § 12 og lov 26 mars 2010 nr. 9 § 9 og § 21. Sml. strpl. § 83.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "content": "Dersom avtalen i urimelig grad favoriserer den ene av partene, eller er uheldig av andre tungtveiende grunner, skal megleren​1 nekte å godkjenne avtalen. Ellers avsluttes meglingen med at megleren skriftlig godkjenner avtalen.​2\nHver av partene​3 kan trekke seg fra avtalen ved å gi beskjed til konfliktrådet innen en uke etter at den er godkjent av megleren. Dette gjelder likevel ikke en avtale som er oppfylt. Megleren skal opplyse partene om denne adgangen.\n1 Se §§ 3 og 8.\n2 Jf. § 8.\n3 Se § 13 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "content": "Når meglingen er avsluttet, skal konfliktrådet sende sakens dokumenter til påtalemyndigheten​1 med opplysning om at det er inngått en godkjent avtale mellom partene.\nPåtalemyndigheten​1 skal varsles hvis den siktede​2 bryter avtalen.​3\nNår avtalen er oppfylt, skal konfliktrådet sende en bekreftelse om dette til påtalemyndigheten.​1\n1 Se § 11 og § 16.\n2 Jf. strpl. § 71 a og § 82.\n3 Jf. § 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "2:16",
+      "chapter": "2",
+      "section": "16",
+      "content": "Er en sak overført til konfliktrådet og avsluttet med godkjent avtale, kan påtalemyndigheten åpne strafforfølgning på ny​1 bare dersom den siktede​2 bryter avtalen vesentlig.​3\n1 Jf. strpl. § 74 og § 75.\n2 Jf. strpl. § 71 a og § 82.\n3 Jf. § 15 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "2:17",
+      "chapter": "2",
+      "section": "17",
+      "content": "Avgjørelse om overføring av en straffesak til megling i konfliktrådet anmerkes ikke på ordinær politiattest, jf. politiregisterloven​1 § 40 nr. 3 bokstav e. Avgjørelsen anmerkes likevel på uttømmende politiattest i samsvar med politiregisterloven § 41 nr. 1 bokstav a.\n0 Endret ved lov 21 juni 2013 nr. 82 (ikr. 1 jan 2014 iflg. res. 27 sep 2013 nr. 1132 som endret ved res. 13 des 2013 nr. 1449).\n1 Lov 28 mai 2010 nr. 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "Konfliktrådet​1 innkaller til ungdomsstormøte straks saken er overført fra domstolen etter straffeloven​2 § 28 c.\nEt ungdomsstormøte ledes av en ungdomskoordinator.​3 Ungdomskoordinatoren innkaller alle med tilknytning til saken til ungdomsstormøtet.\nUnder ungdomsstormøtet skal domfelte, domfeltes verger,​4 samt representanter fra kriminalomsorgen​5 og politiet være til stede. Dersom vergene ikke kan eller vil være til stede, skal fylkesmannen​6 oppnevne en midlertidig verge som kan opptre i stedet for den opprinnelige vergen under ungdomsstormøtet. Fornærmede og fornærmedes verger har rett til å være til stede. Forsvarer​7 og bistandsadvokat​8 som er oppnevnt etter straffeprosessloven​9 § 100 annet ledd og § 107 a første ledd bokstav d, kan være til stede.\nUngdomskoordinatoren​3 kan i tillegg innkalle representanter fra skole, barneverntjeneste,​10 helsevesen​11 eller andre med tilknytning til domfelte eller saken.\nUngdomsstormøtet kan deles opp i flere møter dersom dette er hensiktsmessig. Departementet kan gi forskrift med utfyllende bestemmelser om gjennomføringen av ungdomsstormøtet, herunder om oppdeling av ungdomsstormøtet og aktørenes oppgaver.\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721), endret ved lov 26 mars 2010 nr. 9 (ikr. 1 juli 2013 iflg. res. 5 apr 2013 nr. 338) som endret ved lov 5 apr 2013 nr. 12.\n1 Jf. §§ 1 og 2.\n2 Lov 22 mai 1902 nr. 10.\n3 Jf. § 2 a.\n4 Jf. lov 26 mars 2010 nr. 9 § 16.\n5 Jf. lov 18 mai 2001 nr. 21 § 5.\n6 Jf. lov 26 mars 2010 nr. 9.\n7 Jf. strpl. kap. 9.\n8 Jf. strpl. kap. 8 a.\n9 Lov 22 mai 1981 nr. 25.\n10 Jf. lov 17 juli 1992 nr. 100.\n11 Jf. lover 24 juni 2011 nr. 29 og 24 juni 2011 nr. 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "content": "Ungdomsstormøtet​1 skal utforme en ungdomsplan. Planen kan blant annet gå ut på at domfelte skal:\na. yte ikke-økonomisk kompensasjon til den som er påført en skade, et tap eller en annen krenkelse\nb. delta i kriminalitetsforebyggende program eller andre tilsvarende tiltak​2\nc. oppholde seg i institusjon eller gjennomgå annen behandling​3\nd. utføre samfunnsnyttig tjeneste​4\ne. overholde bestemmelser om oppholdssted, arbeid eller opplæring​5\nf. møte for politiet​6 eller kriminalomsorgen​7\ng. avstå fra å bruke alkohol og andre berusende eller bedøvende midler​8 og avgi nødvendige rusprøver etter helsepersonelloven​9 § 12 tredje ledd\nh. overholde bestemmelser om innetid​10\ni. unngå kontakt med bestemte personer.​11\nDomstolen fastsetter lengden på ungdomsstraffen som kan vare fra seks måneder til to år. Der fengselsstraffen som ellers ville blitt idømt klart ville overstige to år, kan gjennomføringstiden settes til tre år.​12\nUngdomsplanen skal godkjennes av ungdomskoordinatoren,​13 domfelte og domfeltes verger.​14 Dersom ungdomsstormøtet​1 ikke kommer frem til en ungdomsplan, sendes saken til domstolen som bestemmer om hele eller deler av den betingede fengselsstraffen skal fullbyrdes.\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 18.\n2 Sml. lov 18 mai 2001 nr. 21 § 53 (1), b og c.\n3 Sml. strl. 1902 § 53 nr. 3, d; strl. 2005 § 37 (ikke ikr.).\n4 Jf. lov 18 mai 2001 nr. 21 § 53 (1), a.\n5 Sml. strl. 1902 §§ 28 a (4), a og § 53 nr. 3, a; strl. 2005 §§ 37, a og 50, a (ikke ikr.).\n6 Sml. strl. 1902 § 53 nr. 2; strl. 2005 § 36 (ikke ikr.).\n7 Jf. lov 18 mai 2001 nr. 21 § 5.\n8 Sml. strl. 1902 § 53 nr. 3, c; strl. 1902 § 37, d (ikke ikr.).\n9 Lov 2 juli 1999 nr. 64.\n10 Sml. lov 18 mai 2001 nr. 21 § 16 (2).\n11 Sml. strl. 1902 §§ 28 a (4), b og 53 nr. 3, a; strl. 2005 §§ 37, b og 50, b (ikke ikr.).\n12 Sml. strl. 1902 § 28 a (3), c; strl. 2005 § 49 (1), c (ikke ikr.).\n13 Jf. § 2 a.\n14 Jf. lov 26 mars 2010 nr. 9 § 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "content": "Ungdomskoordinatoren​1 har ansvaret for gjennomføring av ungdomsplanen​2 i samarbeid med oppfølgingsteamet. Oppfølgingsteamet ledes av ungdomskoordinatoren og består av domfelte, domfeltes verger,​3 representanter fra kriminalomsorgen​4 og politiet, og andre som har oppgaver i forbindelse med gjennomføringen av ungdomsplanen. Ungdomskoordinatoren kan også be andre med tilknytning til domfelte eller saken om å delta. Oppfølgingsteamet holder så mange møter som er nødvendige for forsvarlig gjennomføring av ungdomsplanen.\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 2 a.\n2 Jf. § 19.\n3 Jf. lov 26 mars 2010 nr. 9 § 16.\n4 Jf. lov 18 mai 2001 nr. 21 § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "content": "Den domfelte skal under ungdomsstormøtet,​1 i møte med oppfølgingsteamet​2 og i andre møter eller avtaler som fremgår av ungdomsplanen​3\na. møte til fastsatt tid og sted​4\nb. være upåvirket av alkohol eller andre berusende eller bedøvende midler​5\nc. oppholde seg i landet i gjennomføringstiden hvis ikke ungdomskoordinatoren​6 gir tillatelse til noe annet​7\nDen domfelte skal ikke vise en atferd som kan\na. true sikkerheten til personer som deltar under gjennomføringen​8 eller\nb. påvirke miljøet på negativ måte​9\nDomfelte skal ikke begå nye straffbare handlinger i gjennomføringstiden.​10\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 18.\n2 Jf. § 20.\n3 Jf. § 19.\n4 Sml. lov 18 mai 2001 nr. 21 § 54 (1), a.\n5 Sml. lov 18 mai 2001 nr. 21 § 54 (1), c.\n6 Jf. § 2a.\n7 Sml. lov 18 mai 2001 nr. 21 § 54 (1), e.\n8 Sml. lov 18 mai 2001 nr. 21 § 54 (2), a.\n9 Sml. lov 18 mai 2001 nr. 21 § 54 (2), b.\n10 Sml. lov 18 mai 2001 nr. 21 § 54 (3).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "3:22",
+      "chapter": "3",
+      "section": "22",
+      "content": "Hvis det fremstår som nødvendig for å motvirke en ny straffbar handling som er rettet mot noens liv, helse eller frihet, kan ungdomskoordinatoren​1 på ethvert tidspunkt i løpet av gjennomføringstiden forby den domfelte å bruke alkohol eller andre berusende eller bedøvende midler.​2\nUngdomskoordinatoren skal oppheve forbudet når det ikke lenger fremstår som nødvendig.​3\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 2 a.\n2 Sml. lov 18 mai 2001 nr. 21 § 55 (1).\n3 Sml. lov 18 mai 2001 nr. 21 § 55 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "3:23",
+      "chapter": "3",
+      "section": "23",
+      "content": "Hvis det i ungdomsplanen​1 er satt vilkår etter § 19 første ledd bokstav g eller ungdomskoordinatoren​2 har forbudt den domfelte å bruke alkohol eller andre berusende eller bedøvende midler etter § 22 første ledd, skal ungdomskoordinatoren undersøke om vilkåret eller forbudet blir overholdt. Undersøkelsen kan innebære uanmeldte besøk i hjemmet.​3 Når det er satt rusforbud, kan ungdomskoordinatoren pålegge den domfelte å avgi urinprøve, utåndingsprøve eller blodprøve eller medvirke til annen undersøkelse som kan skje uten fare eller særlig ubehag.​3 Bestemmelsen i straffeloven​4 § 53 nr. 3 bokstav c gjelder tilsvarende der rusprøve skal avgis.\nEr det grunn til å anta at den domfelte møter påvirket av alkohol eller andre berusende eller bedøvende midler, skal ungdomskoordinatoren​2 snarest undersøke forholdet.​5 Bestemmelsene om ruskontroll i første ledd tredje og fjerde punktum gjelder tilsvarende.\nTiltak som er en del av undersøkelse etter første ledd annet alternativ eller annet ledd, er ikke en del av ungdomsplanen.​1\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 19.\n2 Jf. § 2 a.\n3 Sml. lov 18 mai 2001 nr. 21 § 56 (1).\n4 Lov 22 mai 1902 nr. 10.\n5 Sml. lov 18 mai 2001 nr. 21 § 56 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "3:24",
+      "chapter": "3",
+      "section": "24",
+      "content": "Ungdomskoordinatoren​1 kan utsette gjennomføringen av straffen dersom den domfeltes helsetilstand tilsier det, eller det for øvrig foreligger særlig tungtveiende grunner som ikke kan avhjelpes på annen måte.​2 Når det fremstår som nødvendig for at avbruddet skal være sikkerhetsmessig forsvarlig, skal ungdomskoordinatoren, etter samtykke fra de obligatoriske deltagerne i ungdomsstormøtet​3 og oppfølgingsteamet,​4 fastsette slike vilkår som nevnt i § 25 første ledd.\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 2 a.\n2 Jf. lov 18 mai 2001 nr. 21 § 57.\n3 Jf. § 18.\n4 Jf. § 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "3:25",
+      "chapter": "3",
+      "section": "25",
+      "content": "Hvis den domfelte forsettlig eller uaktsomt bryter bestemmelser gitt i eller i medhold av § 19 første ledd bokstav a til i, § 21 første og annet ledd eller § 22, kan ungdomskoordinatoren​1 pålegge den domfelte å møte til samtale for å få innskjerpet kravene.​2 Under samtalen skal den domfelte gjøres kjent med følgene av gjentatte brudd. Dersom det fremstår som nødvendig for å motvirke nye brudd, skal ungdomskoordinatoren, etter samtykke fra de obligatoriske deltagerne i ungdomsstormøtet​3 og oppfølgingsteamet,​4 fastsette vilkår om at den domfelte skal\na. overholde bestemmelser om oppholdssted\nb. unnlate å ha kontakt med bestemte personer\nc. unnlate å bruke alkohol eller andre berusende eller bedøvende midler, eller\nd. møte for politiet eller kriminalomsorgen.​5\nHvis domfelte etter at ungdomskoordinatoren​1 har holdt bruddsamtale eller fastsatt vilkår etter første ledd, på nytt bryter kravene eller vilkår fastsatt etter første ledd bokstav a til d, kan ungdomskoordinatoren etter samtykke fra de obligatoriske deltagerne i ungdomsstormøtet​3 og oppfølgingsteamet​4 innkalle til et nytt ungdomsstormøte, eller overføre saken til kriminalomsorgens regionale nivå​6 med innstilling om at saken bringes inn for retten med begjæring om at den betingede fengselsstraffen skal fullbyrdes helt eller delvis i medhold av straffeloven​7 § 28 c fjerde ledd.\nDersom den domfelte unnlater å møte til bruddsamtale etter første ledd, kan ungdomskoordinatoren​1 beslutte å avbryte gjennomføringen av straffen.​8 Det samme gjelder der domfelte, etter at bruddsamtalen er gjennomført, på nytt bryter kravene. Når ungdomskoordinatoren har overført saken til kriminalomsorgens regionale nivå med innstilling om å bringe saken inn for retten, avbrytes gjennomføringen av straffen fra det tidspunktet begjæringen er oversendt retten.​8\nDepartementet kan gi forskrifter med utfyllende bestemmelser om håndtering av brudd.\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 2 a.\n2 Sml. lov 18 mai 2001 nr. 21 § 58 (1).\n3 Jf. § 18 (2).\n4 Jf. § 20.\n5 Jf. lov 18 mai 2001 nr. 21 § 5.\n6 Sml. lov 18 mai 2001 nr. 21 § 58 (2).\n7 Lov 22 mai 1902 nr. 10.\n8 Sml. lov 18 mai 2001 nr. 21 § 58 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "3:26",
+      "chapter": "3",
+      "section": "26",
+      "content": "Begår den domfelte ny straffbar handling før utløpet av gjennomføringstiden,​1 kan påtalemyndigheten​2 bringe saken inn for retten med begjæring om at den betingede fengselsstraffen skal fullbyrdes helt eller delvis etter straffeloven​3 § 28 c fjerde ledd.​4 Ungdomskoordinatoren​5 kan, etter samtykke fra de obligatoriske deltagerne i ungdomsstormøtet​6 og oppfølgingsteamet,​7 anmode påtalemyndigheten om å bringe saken inn for retten.\nDersom den domfelte er siktet for en straffbar handling som kan føre til fullbyrding av den betingede fengselsstraffen etter straffeloven​3 § 28 c fjerde ledd, kan gjennomføringen av straffen avbrytes.​4 Når påtalemyndigheten​2 beslutter å bringe saken inn for retten, avbrytes gjennomføringen av straffen fra det tidspunktet begjæringen er oversendt retten.\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. strl. 1902 § 28 c (2), a.\n2 Jf. strpl. § 55.\n3 Lov 22 mai 1902 nr. 10.\n4 Sml. lov 18 mai 2001 nr. 21 § 59 (1).\n5 Jf. § 2 a.\n6 Jf. § 18 (2).\n7 Jf. § 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "4:27",
+      "chapter": "4",
+      "section": "27",
+      "content": "Loven trer i kraft fra den tid​1 Kongen bestemmer. Det kan bestemmes at forskjellige deler av loven skal settes i kraft til ulike tider i forskjellige deler av landet.​2\n0 Endret ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721), endret fra II til paragrafnummer § 27.\n1 Fra 1 sep 1992 iflg. res. 13 aug 1992 nr. 619.\n2 Loven er nå satt ikr. for alle fylker og for Svalbard (jf. § 2 siste ledd). Her følger en oversikt over lovens ikrafttredelsestidspunkter: Lovens § 2 første og tredje ledd satt i kraft fra 1 sep 1992 med virkning for Oslo, Akershus, Hedmark, Telemark, Rogaland og Nordland fylker og Kristiansand, Lindesnes, Mandal, Marnadal, Ålesund, Trondheim og Tromsø kommuner iflg. res. 13 aug 1992 nr. 619, fra 1 mars 1993 for kommunene i Østfold, Vestfold, Buskerud, Vest-Agder, Sogn og Fjordane, Møre og Romsdal, Sør-Trøndelag og Troms fylker iflg. departementets vedtak 26 feb 1993 nr. 1432, og fra 1 jan 1994 for kommunene i Aust-Agder, Oppland, Hordaland, Nord-Trøndelag og Finnmark fylker iflg. departementets vedtak 20 des 1993 nr. 1433.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Konfliktrådet​1 har til oppgave å megle​2 i tvister som oppstår på grunn av at en eller flere personer har påført andre​3 en skade, et tap eller en annen krenkelse.\n1 Se §§ 2 og 3.\n2 Se § 5 flg.\n3 Jf. § 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Hvert konfliktråd skal ledes av en konfliktrådsleder.​1 Konfliktrådslederen må være vederheftig​2 og valgbar ved kommunale valg.​3 Utelukket fra ansettelse som konfliktrådsleder er den som\na. i løpet av de siste fem årene forut for ansettelsen er idømt betinget frihetsstraff,​4 eller\nb. er idømt ubetinget fengselsstraff og ikke er løslatt, på prøve eller endelig, innen ti år forut for ansettelsen.\nStaten har ansvaret for og dekker utgiftene til konfliktrådene. Nærmere regler om konfliktrådenes organisasjon og saksbehandling fastsettes av Kongen.\nLoven gjelder også for Svalbard.​5 Departementet kan gi forskrift om lovens anvendelse på Svalbard og kan fastsette særlige regler under hensyn til de stedlige forhold.\n0 Endret ved lover 21 des 2000 nr. 121 (ikr. 1 jan 2001 iflg. res. 21 des 2000 nr. 1357), 15 juni 2001 nr. 66 (ikr. 1 jan 2002 iflg. res. 15 juni 2001 nr. 695), 4 juli 2003 nr. 75 (ikr. 1 jan 2004 iflg. res. 4 juli 2003 nr. 901).\n1 Jf. § 4 (2).\n2 Jf. kkl. § 61.\n3 Jf. lov 28 juni 2002 nr. 57 § 3-3. – Sml. dl. kap. 4.\n4 Jf. strl. 1902 §§ 52 til 54; strl. 2005 kap. 6 (ikke ikr.).\n5 Se lov 17 juli 1925 nr. 11 § 1 (2), jf. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:2 a",
+      "chapter": "1",
+      "section": "2 a",
+      "content": "I hvert konfliktråd​1 skal det være en eller flere ungdomskoordinatorer. Ungdomskoordinatoren har ansvaret for å gjennomføre ungdomsstraff etter kapittel III. § 2 første ledd annet og tredje punktum gjelder tilsvarende for ungdomskoordinatoren.\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. §§ 1 og 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2a",
+        "source_heading": "§ 2a."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Det oppnevnes konfliktrådsmeglere​1 for hver kommune.​2 Meglerne oppnevnes av en representant utpekt av kommunestyret/kommunestyrene, en representant fra politiet og konfliktrådslederen. På Svalbard oppnevnes konfliktrådsmeglere av en representant utpekt av Longyearbyen lokalstyre,​3 en representant for Sysselmannen på Svalbard​4 og konfliktrådslederen.​5 Oppnevnelsen gjelder for en periode på 4 år.\n0 Endret ved lover 21 des 2000 nr. 121 (ikr. 1 jan 2001 iflg. res. 21 des 2000 nr. 1357), 15 juni 2001 nr. 66 (ikr. 1 jan 2002 iflg. res. 15 juni 2001 nr. 695), 4 juli 2003 nr. 75 (ikr. 1 jan 2004 iflg. res. 4 juli 2003 nr. 901).\n1 Jf. § 4.\n2 Jf. lov 25 sep 1992 nr. 107.\n3 Se lov 17 juli 1925 nr. 11 kap. 5.\n4 Se lov 17 juli 1925 nr. 11 § 5.\n5 Se § 2 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Vervet som megler i konfliktrådet er frivillig. Personer som har fylt 18 år kan oppnevnes.​1\nKravene til vederheftighet, valgbarhet og vandel etter § 2 første ledd gjelder tilsvarende for konfliktrådsmeglere.\n0 Endret ved lover 21 des 2000 nr. 121 (ikr. 1 jan 2001 iflg. res. 21 des 2000 nr. 1357), 4 juli 2003 nr. 75 (ikr. 1 jan 2004 iflg. res. 4 juli 2003 nr. 901).\n1 Sml. dl. § 65.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Megling i konfliktrådet etter kapittel I og II krever partenes​1 samtykke.​2 For gjennomføring av ungdomsstraff etter kapittel III kreves samtykke fra domfelte og domfeltes verger.​3 Det kreves videre at de i all hovedsak er enige om det saksforholdet tvisten gjelder.\n0 Endret ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 1. – Jf. strpl. § 71 a.\n2 Jf. strl. 1902 § 53 nr. 3, h; strl. 2005 § 37, i (ikke ikr.).\n3 Jf. lov 26 mars 2010 nr. 9 § 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "Megling foretas som regel i den kommunen hvor den påklagede eller domfelte bor eller oppholder seg.​1\n0 Endret ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Sml. strpl. § 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "Partene​1 må møte personlig i meglingsmøtet. Møteplikt til ungdomsstormøte fremgår av § 18.\nHvis den skadelidte er et foretak,​2 kan en person i foretakets tjeneste møte på dets vegne.\nPartene kan ikke møte med fullmektig.​3 Konfliktrådet kan tillate at partene lar seg bistå i meglingsmøtet av en myndig person​4 som ikke er advokat.​5\n0 Endret ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 1.\n2 Se strl. 1902 § 48 a; strl. 2005 kap. 4 (ikke ikr.).\n3 Sml. fvl. § 12 og tvl. § 6-7.\n4 Se lov 26 mars 2010 nr. 9 § 2 (3).\n5 Jf. dl. § 220.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "content": "I den enkelte sak settes konfliktrådet med én megler.​1 Megleren avgjør om den avtalen​2 partene kommer fram til, skal godkjennes.​3\nVed gjennomføring av ungdomsstraff har ungdomskoordinatoren​4 ansvaret for saken fra den kommer inn til ungdomsplanen​5 er gjennomført.\n0 Endret ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Se § 3.\n2 Se § 13. – Jf. sktl. § 5-15 (1), k.\n3 Se § 14.\n4 Jf. § 2 a.\n5 Jf. § 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "content": "Forvaltningsloven​1 gjelder for konfliktrådenes virksomhet.\nNår konfliktrådet avviser en sak eller nekter å godkjenne en avtale, plikter rådet å gi begrunnelse etter reglene i forvaltningsloven​1 §§ 24 og 25.\n1 Lov 10 feb 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "content": "Med mindre annet er fastsatt i eller i medhold av lov,​1 plikter meglere, ungdomskoordinatorer og andre som utfører tjeneste eller arbeid for konfliktrådet, å bevare taushet om det de i forbindelse med tjenesten eller arbeidet får vite om noens personlige forhold eller andre forhold som nevnt i forvaltningsloven​2 § 13 første ledd. Som personlig forhold regnes også partenes navn, fødested, fødselsdato, personnummer,​3 statsborgerforhold,​4 sivilstand, yrke, bopel og arbeidssted. For øvrig gjelder forvaltningsloven​2 §§ 13 til 13 e. Brudd på taushetsplikten straffes etter straffeloven​5 § 121.\nRetten kan ikke ta imot forklaringer som et vitne ikke kan gi uten å krenke taushetsplikten etter første ledd med mindre retten etter en avveining av hensynet til taushetsplikten og hensynet til sakens opplysning ved kjennelse​6 bestemmer at vitnet likevel skal avgi forklaring.​7 Med mindre begge parter samtykker, kan vitnet ikke forklare seg om hva partene har erkjent eller tilbudt under meglingen.\n0 Endret ved lover 21 des 2000 nr. 121 (ikr. 1 jan 2001 iflg. res. 21 des 2000 nr. 1357), 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721). Endres ved lov 20 mai 2005 nr. 28 (ikr. fra den tid som fastsettes ved lov) som endret ved lov 19 juni 2009 nr. 74.\n1 Se § 15, strl. 1902 § 139 og § 172.\n2 Lov 10 feb 1967.\n3 Jf. lov 16 jan 1970 nr. 1 § 4.\n4 Jf. lov 10 juni 2005 nr. 51.\n5 Lov 22 mai 1902 nr. 10.\n6 Se tvl. § 19-1 og strpl. kap. 26.\n7 Sml. tvl. § 22-3 og strpl. § 118.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "Når påtalemyndigheten​1 har overført en straffesak til megling i konfliktrådet etter straffeprosessloven​2 § 71 a, skal konfliktrådet​3 ta saken under behandling så snart som mulig.\n1 Se strpl. § 67 (4). – Sml. strl. 1902 § 53 nr. 3 (1), h; strl. 2005 § 37, i (ikke ikr.), og strpl. § 69.\n2 Lov 22 mai 1981 nr. 25. – Jf. dens § 82.\n3 Se §§ 2 og 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "content": "Dersom en part​1 er under 18 år, må også vergen​2 samtykke til ungdomsstraff eller til at saken blir overført til megling i konfliktrådet.​3\nVergen skal varsles om meglingsmøtet og har rett til å være til stede.​4 Dersom vergen ikke kan eller vil vareta partens tarv i saken, skal fylkesmannen oppnevne en midlertidig verge som skal opptre i stedet for den opprinnelige vergen under konfliktrådsbehandlingen.​5\n0 Endret ved lover 26 mars 2010 nr. 9 (ikr. 1 juli 2013 iflg. res. 5 apr 2013 nr. 338) som endret ved lov 5 apr 2013 nr. 12, 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Se § 1, og strl. 1902 § 78.\n2 Se lov 26 mars 2010 nr. 9 § 16.\n3 Se §§ 2 og 3.\n4 Se § 13 (3).\n5 Sml. strpl. § 83. – Jf. lov 26 mars 2010 nr. 9 § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "content": "Hvis partene blir enige om en avtale,​1 settes denne opp skriftlig.\nEn avtale som forutsetter en ytelse til den skadelidte, skal fastsette omfanget av ytelsen og forfallstid. Det skal videre fastsettes om avtalen representerer det endelige oppgjør mellom partene.​2\nEr en part mindreårig, eller er en part satt under vergemål og mangler rettslig handleevne til å inngå slik avtale,​3 må avtalen godkjennes av vergen.​4\n0 Endret ved lov 26 mars 2010 nr. 9 (ikr. 1 juli 2013 iflg. res. 5 apr 2013 nr. 338) som endret ved lov 5 apr 2013 nr. 12.\n1 Jf. § 8. – Jf. sktl. § 5-15 (1), k.\n2 Sml. strl. 1902 § 53 nr. 4; strl. 2005 § 35 (ikke ikr.).\n3 Se lov 26 mars 2010 nr. 9 § 8 og kap. 4.\n4 Jf. § 12 og lov 26 mars 2010 nr. 9 § 9 og § 21. Sml. strpl. § 83.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "content": "Dersom avtalen i urimelig grad favoriserer den ene av partene, eller er uheldig av andre tungtveiende grunner, skal megleren​1 nekte å godkjenne avtalen. Ellers avsluttes meglingen med at megleren skriftlig godkjenner avtalen.​2\nHver av partene​3 kan trekke seg fra avtalen ved å gi beskjed til konfliktrådet innen en uke etter at den er godkjent av megleren. Dette gjelder likevel ikke en avtale som er oppfylt. Megleren skal opplyse partene om denne adgangen.\n1 Se §§ 3 og 8.\n2 Jf. § 8.\n3 Se § 13 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "content": "Når meglingen er avsluttet, skal konfliktrådet sende sakens dokumenter til påtalemyndigheten​1 med opplysning om at det er inngått en godkjent avtale mellom partene.\nPåtalemyndigheten​1 skal varsles hvis den siktede​2 bryter avtalen.​3\nNår avtalen er oppfylt, skal konfliktrådet sende en bekreftelse om dette til påtalemyndigheten.​1\n1 Se § 11 og § 16.\n2 Jf. strpl. § 71 a og § 82.\n3 Jf. § 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "2:16",
+      "chapter": "2",
+      "section": "16",
+      "content": "Er en sak overført til konfliktrådet og avsluttet med godkjent avtale, kan påtalemyndigheten åpne strafforfølgning på ny​1 bare dersom den siktede​2 bryter avtalen vesentlig.​3\n1 Jf. strpl. § 74 og § 75.\n2 Jf. strpl. § 71 a og § 82.\n3 Jf. § 15 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "2:17",
+      "chapter": "2",
+      "section": "17",
+      "content": "Avgjørelse om overføring av en straffesak til megling i konfliktrådet anmerkes ikke på ordinær politiattest, jf. politiregisterloven​1 § 40 nr. 3 bokstav e. Avgjørelsen anmerkes likevel på uttømmende politiattest i samsvar med politiregisterloven § 41 nr. 1 bokstav a.\n0 Endret ved lov 21 juni 2013 nr. 82 (ikr. 1 jan 2014 iflg. res. 27 sep 2013 nr. 1132 som endret ved res. 13 des 2013 nr. 1449).\n1 Lov 28 mai 2010 nr. 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "Konfliktrådet​1 innkaller til ungdomsstormøte straks saken er overført fra domstolen etter straffeloven​2 § 28 c.\nEt ungdomsstormøte ledes av en ungdomskoordinator.​3 Ungdomskoordinatoren innkaller alle med tilknytning til saken til ungdomsstormøtet.\nUnder ungdomsstormøtet skal domfelte, domfeltes verger,​4 samt representanter fra kriminalomsorgen​5 og politiet være til stede. Dersom vergene ikke kan eller vil være til stede, skal fylkesmannen​6 oppnevne en midlertidig verge som kan opptre i stedet for den opprinnelige vergen under ungdomsstormøtet. Fornærmede og fornærmedes verger har rett til å være til stede. Forsvarer​7 og bistandsadvokat​8 som er oppnevnt etter straffeprosessloven​9 § 100 annet ledd og § 107 a første ledd bokstav d, kan være til stede.\nUngdomskoordinatoren​3 kan i tillegg innkalle representanter fra skole, barneverntjeneste,​10 helsevesen​11 eller andre med tilknytning til domfelte eller saken.\nUngdomsstormøtet kan deles opp i flere møter dersom dette er hensiktsmessig. Departementet kan gi forskrift med utfyllende bestemmelser om gjennomføringen av ungdomsstormøtet, herunder om oppdeling av ungdomsstormøtet og aktørenes oppgaver.\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721), endret ved lov 26 mars 2010 nr. 9 (ikr. 1 juli 2013 iflg. res. 5 apr 2013 nr. 338) som endret ved lov 5 apr 2013 nr. 12.\n1 Jf. §§ 1 og 2.\n2 Lov 22 mai 1902 nr. 10.\n3 Jf. § 2 a.\n4 Jf. lov 26 mars 2010 nr. 9 § 16.\n5 Jf. lov 18 mai 2001 nr. 21 § 5.\n6 Jf. lov 26 mars 2010 nr. 9.\n7 Jf. strpl. kap. 9.\n8 Jf. strpl. kap. 8 a.\n9 Lov 22 mai 1981 nr. 25.\n10 Jf. lov 17 juli 1992 nr. 100.\n11 Jf. lover 24 juni 2011 nr. 29 og 24 juni 2011 nr. 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "content": "Ungdomsstormøtet​1 skal utforme en ungdomsplan. Planen kan blant annet gå ut på at domfelte skal:\na. yte ikke-økonomisk kompensasjon til den som er påført en skade, et tap eller en annen krenkelse\nb. delta i kriminalitetsforebyggende program eller andre tilsvarende tiltak​2\nc. oppholde seg i institusjon eller gjennomgå annen behandling​3\nd. utføre samfunnsnyttig tjeneste​4\ne. overholde bestemmelser om oppholdssted, arbeid eller opplæring​5\nf. møte for politiet​6 eller kriminalomsorgen​7\ng. avstå fra å bruke alkohol og andre berusende eller bedøvende midler​8 og avgi nødvendige rusprøver etter helsepersonelloven​9 § 12 tredje ledd\nh. overholde bestemmelser om innetid​10\ni. unngå kontakt med bestemte personer.​11\nDomstolen fastsetter lengden på ungdomsstraffen som kan vare fra seks måneder til to år. Der fengselsstraffen som ellers ville blitt idømt klart ville overstige to år, kan gjennomføringstiden settes til tre år.​12\nUngdomsplanen skal godkjennes av ungdomskoordinatoren,​13 domfelte og domfeltes verger.​14 Dersom ungdomsstormøtet​1 ikke kommer frem til en ungdomsplan, sendes saken til domstolen som bestemmer om hele eller deler av den betingede fengselsstraffen skal fullbyrdes.\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 18.\n2 Sml. lov 18 mai 2001 nr. 21 § 53 (1), b og c.\n3 Sml. strl. 1902 § 53 nr. 3, d; strl. 2005 § 37 (ikke ikr.).\n4 Jf. lov 18 mai 2001 nr. 21 § 53 (1), a.\n5 Sml. strl. 1902 §§ 28 a (4), a og § 53 nr. 3, a; strl. 2005 §§ 37, a og 50, a (ikke ikr.).\n6 Sml. strl. 1902 § 53 nr. 2; strl. 2005 § 36 (ikke ikr.).\n7 Jf. lov 18 mai 2001 nr. 21 § 5.\n8 Sml. strl. 1902 § 53 nr. 3, c; strl. 1902 § 37, d (ikke ikr.).\n9 Lov 2 juli 1999 nr. 64.\n10 Sml. lov 18 mai 2001 nr. 21 § 16 (2).\n11 Sml. strl. 1902 §§ 28 a (4), b og 53 nr. 3, a; strl. 2005 §§ 37, b og 50, b (ikke ikr.).\n12 Sml. strl. 1902 § 28 a (3), c; strl. 2005 § 49 (1), c (ikke ikr.).\n13 Jf. § 2 a.\n14 Jf. lov 26 mars 2010 nr. 9 § 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "content": "Ungdomskoordinatoren​1 har ansvaret for gjennomføring av ungdomsplanen​2 i samarbeid med oppfølgingsteamet. Oppfølgingsteamet ledes av ungdomskoordinatoren og består av domfelte, domfeltes verger,​3 representanter fra kriminalomsorgen​4 og politiet, og andre som har oppgaver i forbindelse med gjennomføringen av ungdomsplanen. Ungdomskoordinatoren kan også be andre med tilknytning til domfelte eller saken om å delta. Oppfølgingsteamet holder så mange møter som er nødvendige for forsvarlig gjennomføring av ungdomsplanen.\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 2 a.\n2 Jf. § 19.\n3 Jf. lov 26 mars 2010 nr. 9 § 16.\n4 Jf. lov 18 mai 2001 nr. 21 § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "content": "Den domfelte skal under ungdomsstormøtet,​1 i møte med oppfølgingsteamet​2 og i andre møter eller avtaler som fremgår av ungdomsplanen​3\na. møte til fastsatt tid og sted​4\nb. være upåvirket av alkohol eller andre berusende eller bedøvende midler​5\nc. oppholde seg i landet i gjennomføringstiden hvis ikke ungdomskoordinatoren​6 gir tillatelse til noe annet​7\nDen domfelte skal ikke vise en atferd som kan\na. true sikkerheten til personer som deltar under gjennomføringen​8 eller\nb. påvirke miljøet på negativ måte​9\nDomfelte skal ikke begå nye straffbare handlinger i gjennomføringstiden.​10\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 18.\n2 Jf. § 20.\n3 Jf. § 19.\n4 Sml. lov 18 mai 2001 nr. 21 § 54 (1), a.\n5 Sml. lov 18 mai 2001 nr. 21 § 54 (1), c.\n6 Jf. § 2a.\n7 Sml. lov 18 mai 2001 nr. 21 § 54 (1), e.\n8 Sml. lov 18 mai 2001 nr. 21 § 54 (2), a.\n9 Sml. lov 18 mai 2001 nr. 21 § 54 (2), b.\n10 Sml. lov 18 mai 2001 nr. 21 § 54 (3).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "3:22",
+      "chapter": "3",
+      "section": "22",
+      "content": "Hvis det fremstår som nødvendig for å motvirke en ny straffbar handling som er rettet mot noens liv, helse eller frihet, kan ungdomskoordinatoren​1 på ethvert tidspunkt i løpet av gjennomføringstiden forby den domfelte å bruke alkohol eller andre berusende eller bedøvende midler.​2\nUngdomskoordinatoren skal oppheve forbudet når det ikke lenger fremstår som nødvendig.​3\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 2 a.\n2 Sml. lov 18 mai 2001 nr. 21 § 55 (1).\n3 Sml. lov 18 mai 2001 nr. 21 § 55 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "3:23",
+      "chapter": "3",
+      "section": "23",
+      "content": "Hvis det i ungdomsplanen​1 er satt vilkår etter § 19 første ledd bokstav g eller ungdomskoordinatoren​2 har forbudt den domfelte å bruke alkohol eller andre berusende eller bedøvende midler etter § 22 første ledd, skal ungdomskoordinatoren undersøke om vilkåret eller forbudet blir overholdt. Undersøkelsen kan innebære uanmeldte besøk i hjemmet.​3 Når det er satt rusforbud, kan ungdomskoordinatoren pålegge den domfelte å avgi urinprøve, utåndingsprøve eller blodprøve eller medvirke til annen undersøkelse som kan skje uten fare eller særlig ubehag.​3 Bestemmelsen i straffeloven​4 § 53 nr. 3 bokstav c gjelder tilsvarende der rusprøve skal avgis.\nEr det grunn til å anta at den domfelte møter påvirket av alkohol eller andre berusende eller bedøvende midler, skal ungdomskoordinatoren​2 snarest undersøke forholdet.​5 Bestemmelsene om ruskontroll i første ledd tredje og fjerde punktum gjelder tilsvarende.\nTiltak som er en del av undersøkelse etter første ledd annet alternativ eller annet ledd, er ikke en del av ungdomsplanen.​1\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 19.\n2 Jf. § 2 a.\n3 Sml. lov 18 mai 2001 nr. 21 § 56 (1).\n4 Lov 22 mai 1902 nr. 10.\n5 Sml. lov 18 mai 2001 nr. 21 § 56 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "3:24",
+      "chapter": "3",
+      "section": "24",
+      "content": "Ungdomskoordinatoren​1 kan utsette gjennomføringen av straffen dersom den domfeltes helsetilstand tilsier det, eller det for øvrig foreligger særlig tungtveiende grunner som ikke kan avhjelpes på annen måte.​2 Når det fremstår som nødvendig for at avbruddet skal være sikkerhetsmessig forsvarlig, skal ungdomskoordinatoren, etter samtykke fra de obligatoriske deltagerne i ungdomsstormøtet​3 og oppfølgingsteamet,​4 fastsette slike vilkår som nevnt i § 25 første ledd.\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 2 a.\n2 Jf. lov 18 mai 2001 nr. 21 § 57.\n3 Jf. § 18.\n4 Jf. § 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "3:25",
+      "chapter": "3",
+      "section": "25",
+      "content": "Hvis den domfelte forsettlig eller uaktsomt bryter bestemmelser gitt i eller i medhold av § 19 første ledd bokstav a til i, § 21 første og annet ledd eller § 22, kan ungdomskoordinatoren​1 pålegge den domfelte å møte til samtale for å få innskjerpet kravene.​2 Under samtalen skal den domfelte gjøres kjent med følgene av gjentatte brudd. Dersom det fremstår som nødvendig for å motvirke nye brudd, skal ungdomskoordinatoren, etter samtykke fra de obligatoriske deltagerne i ungdomsstormøtet​3 og oppfølgingsteamet,​4 fastsette vilkår om at den domfelte skal\na. overholde bestemmelser om oppholdssted\nb. unnlate å ha kontakt med bestemte personer\nc. unnlate å bruke alkohol eller andre berusende eller bedøvende midler, eller\nd. møte for politiet eller kriminalomsorgen.​5\nHvis domfelte etter at ungdomskoordinatoren​1 har holdt bruddsamtale eller fastsatt vilkår etter første ledd, på nytt bryter kravene eller vilkår fastsatt etter første ledd bokstav a til d, kan ungdomskoordinatoren etter samtykke fra de obligatoriske deltagerne i ungdomsstormøtet​3 og oppfølgingsteamet​4 innkalle til et nytt ungdomsstormøte, eller overføre saken til kriminalomsorgens regionale nivå​6 med innstilling om at saken bringes inn for retten med begjæring om at den betingede fengselsstraffen skal fullbyrdes helt eller delvis i medhold av straffeloven​7 § 28 c fjerde ledd.\nDersom den domfelte unnlater å møte til bruddsamtale etter første ledd, kan ungdomskoordinatoren​1 beslutte å avbryte gjennomføringen av straffen.​8 Det samme gjelder der domfelte, etter at bruddsamtalen er gjennomført, på nytt bryter kravene. Når ungdomskoordinatoren har overført saken til kriminalomsorgens regionale nivå med innstilling om å bringe saken inn for retten, avbrytes gjennomføringen av straffen fra det tidspunktet begjæringen er oversendt retten.​8\nDepartementet kan gi forskrifter med utfyllende bestemmelser om håndtering av brudd.\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. § 2 a.\n2 Sml. lov 18 mai 2001 nr. 21 § 58 (1).\n3 Jf. § 18 (2).\n4 Jf. § 20.\n5 Jf. lov 18 mai 2001 nr. 21 § 5.\n6 Sml. lov 18 mai 2001 nr. 21 § 58 (2).\n7 Lov 22 mai 1902 nr. 10.\n8 Sml. lov 18 mai 2001 nr. 21 § 58 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "3:26",
+      "chapter": "3",
+      "section": "26",
+      "content": "Begår den domfelte ny straffbar handling før utløpet av gjennomføringstiden,​1 kan påtalemyndigheten​2 bringe saken inn for retten med begjæring om at den betingede fengselsstraffen skal fullbyrdes helt eller delvis etter straffeloven​3 § 28 c fjerde ledd.​4 Ungdomskoordinatoren​5 kan, etter samtykke fra de obligatoriske deltagerne i ungdomsstormøtet​6 og oppfølgingsteamet,​7 anmode påtalemyndigheten om å bringe saken inn for retten.\nDersom den domfelte er siktet for en straffbar handling som kan føre til fullbyrding av den betingede fengselsstraffen etter straffeloven​3 § 28 c fjerde ledd, kan gjennomføringen av straffen avbrytes.​4 Når påtalemyndigheten​2 beslutter å bringe saken inn for retten, avbrytes gjennomføringen av straffen fra det tidspunktet begjæringen er oversendt retten.\n0 Tilføyd ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721).\n1 Jf. strl. 1902 § 28 c (2), a.\n2 Jf. strpl. § 55.\n3 Lov 22 mai 1902 nr. 10.\n4 Sml. lov 18 mai 2001 nr. 21 § 59 (1).\n5 Jf. § 2 a.\n6 Jf. § 18 (2).\n7 Jf. § 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "4:27",
+      "chapter": "4",
+      "section": "27",
+      "content": "Loven trer i kraft fra den tid​1 Kongen bestemmer. Det kan bestemmes at forskjellige deler av loven skal settes i kraft til ulike tider i forskjellige deler av landet.​2\n0 Endret ved lov 20 jan 2012 nr. 6 (ikr. 1 juli 2014 iflg. res. 13 juni 2014 nr. 721), endret fra II til paragrafnummer § 27.\n1 Fra 1 sep 1992 iflg. res. 13 aug 1992 nr. 619.\n2 Loven er nå satt ikr. for alle fylker og for Svalbard (jf. § 2 siste ledd). Her følger en oversikt over lovens ikrafttredelsestidspunkter: Lovens § 2 første og tredje ledd satt i kraft fra 1 sep 1992 med virkning for Oslo, Akershus, Hedmark, Telemark, Rogaland og Nordland fylker og Kristiansand, Lindesnes, Mandal, Marnadal, Ålesund, Trondheim og Tromsø kommuner iflg. res. 13 aug 1992 nr. 619, fra 1 mars 1993 for kommunene i Østfold, Vestfold, Buskerud, Vest-Agder, Sogn og Fjordane, Møre og Romsdal, Sør-Trøndelag og Troms fylker iflg. departementets vedtak 26 feb 1993 nr. 1432, og fra 1 jan 1994 for kommunene i Aust-Agder, Oppland, Hordaland, Nord-Trøndelag og Finnmark fylker iflg. departementets vedtak 20 des 1993 nr. 1433.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    }
+  ]
+}

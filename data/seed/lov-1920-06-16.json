@@ -1,0 +1,95 @@
+{
+  "id": "LOV-1920-06-16",
+  "type": "statute",
+  "title": "Lov inneholdende tillegg til lov om pengevesenet av 17 april 1875",
+  "short_name": "Tilleggslov om pengevesenet",
+  "status": "in_force",
+  "issued_date": "1920-06-16",
+  "in_force_date": "1920-06-16",
+  "url": "https://lovdata.no/dokument/NLO/lov/1920-06-16",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Av kobbernikkel kan utmyntes skillemynt av følgende verdi, størrelse og vekt:\nDiameterVektdelerVekt imillimeterkobbernikkelgram50 øre. . . . . . . . . .224,825 øre. . . . . . . . . .1775252,410 øre. . . . . . . . . .151,5\nDisse mynter blir å prege i riflet ring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Skillemynt av kobbernikkel preges alene for statens regning. Kongen kan, efter innhentet samtykke fra Stortinget, la utmynte så stor mengde derav, som finnes fornødent.\nMed hensyn til skillemynt av kobbernikkel preget i Norge, Danmark eller Sverige gjelder de i lov om pengevesenet av 17 april 1875 med tilleggslover av 8 juni 1881 og 20 juli 1895 inneholdte bestemmelser, foråvidt de på dem er anvendelige.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Ingen skal være forpliktet til i en betaling å motta et høiere beløp enn 5 kroner i kobbernikkelmynt.​1\n1 Jfr. lov 17 april 1875 § 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Av kobbernikkel kan utmyntes skillemynt av følgende verdi, størrelse og vekt:\nDiameterVektdelerVekt imillimeterkobbernikkelgram50 øre. . . . . . . . . .224,825 øre. . . . . . . . . .1775252,410 øre. . . . . . . . . .151,5\nDisse mynter blir å prege i riflet ring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Skillemynt av kobbernikkel preges alene for statens regning. Kongen kan, efter innhentet samtykke fra Stortinget, la utmynte så stor mengde derav, som finnes fornødent.\nMed hensyn til skillemynt av kobbernikkel preget i Norge, Danmark eller Sverige gjelder de i lov om pengevesenet av 17 april 1875 med tilleggslover av 8 juni 1881 og 20 juli 1895 inneholdte bestemmelser, foråvidt de på dem er anvendelige.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Ingen skal være forpliktet til i en betaling å motta et høiere beløp enn 5 kroner i kobbernikkelmynt.​1\n1 Jfr. lov 17 april 1875 § 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

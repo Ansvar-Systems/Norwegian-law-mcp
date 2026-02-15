@@ -1,0 +1,125 @@
+{
+  "id": "LOV-2017-05-22-28",
+  "type": "statute",
+  "title": "Lov om tilskudd til sysselsetting av arbeidstakere til sjøs",
+  "short_name": "Lov om tilskudd til sysselsetting av arbeidstakere til sjøs",
+  "status": "in_force",
+  "issued_date": "2017-05-22",
+  "in_force_date": "2017-06-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2017-05-22-28",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Formålet med tilskuddsordningen for sysselsetting av arbeidstakere til sjøs er å legge til rette for maritim virksomhet. Ordningen skal sikre norsk maritim kompetanse, rekruttering av norske arbeidstakere til sjøs og bidra til at norske rederier får konkurransedyktige vilkår i forhold til vilkårene i andre land.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Tilskuddsmottakere",
+      "content": "Tilskudd kan gis til organisasjoner som har drift av skip registrert i Norsk Ordinært Skipsregister (NOR) eller Norsk Internasjonalt Skipsregister (NIS).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Beregning av tilskudd",
+      "content": "Tilskudd beregnes på grunnlag av skatt, trygdeavgift og norsk arbeidsgiveravgift for arbeidstakere som er tilskuddsberettiget etter ordningen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Forskrifter",
+      "content": "Departementet kan gi forskrift med nærmere bestemmelser om innretningen av tilskuddsordningen, som bestemmelser om virkeområde, beregning av tilskudd og forvaltning av ordningen, og om plikter og sanksjoner for private i forbindelse med forvaltningens kontroll av tilskuddsordningen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1\nGjeldende forskrift om tilskudd til sysselsetting av arbeidstakere til sjøs​2 gjelder også etter at loven har trådt i kraft.\n1 Fra 1 juni 2017 iflg. res. 22 mai 2017 nr. 616.\n2 Forskrift 26 feb 2016 nr. 204.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Formålet med tilskuddsordningen for sysselsetting av arbeidstakere til sjøs er å legge til rette for maritim virksomhet. Ordningen skal sikre norsk maritim kompetanse, rekruttering av norske arbeidstakere til sjøs og bidra til at norske rederier får konkurransedyktige vilkår i forhold til vilkårene i andre land.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Tilskuddsmottakere",
+      "content": "Tilskudd kan gis til organisasjoner som har drift av skip registrert i Norsk Ordinært Skipsregister (NOR) eller Norsk Internasjonalt Skipsregister (NIS).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Beregning av tilskudd",
+      "content": "Tilskudd beregnes på grunnlag av skatt, trygdeavgift og norsk arbeidsgiveravgift for arbeidstakere som er tilskuddsberettiget etter ordningen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Forskrifter",
+      "content": "Departementet kan gi forskrift med nærmere bestemmelser om innretningen av tilskuddsordningen, som bestemmelser om virkeområde, beregning av tilskudd og forvaltning av ordningen, og om plikter og sanksjoner for private i forbindelse med forvaltningens kontroll av tilskuddsordningen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1\nGjeldende forskrift om tilskudd til sysselsetting av arbeidstakere til sjøs​2 gjelder også etter at loven har trådt i kraft.\n1 Fra 1 juni 2017 iflg. res. 22 mai 2017 nr. 616.\n2 Forskrift 26 feb 2016 nr. 204.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ]
+}

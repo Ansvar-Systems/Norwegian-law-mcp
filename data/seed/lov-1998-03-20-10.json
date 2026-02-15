@@ -1,0 +1,1047 @@
+{
+  "id": "LOV-1998-03-20-10",
+  "type": "statute",
+  "title": "Lov om forebyggende sikkerhetstjeneste (sikkerhetsloven)",
+  "short_name": "Sikkerhetsloven",
+  "status": "in_force",
+  "issued_date": "1998-03-20",
+  "in_force_date": "2001-07-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1998-03-20-10",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Formålet med denne lov er å\na. legge forholdene til rette for effektivt å kunne motvirke trusler mot rikets selvstendighet og sikkerhet og andre vitale nasjonale sikkerhetsinteresser,\nb. ivareta den enkeltes rettssikkerhet, og\nc. trygge tilliten til og forenkle grunnlaget for kontroll med forebyggende sikkerhetstjeneste.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens generelle virkeområde",
+      "content": "Loven gjelder for forvaltningsorganer. Som forvaltningsorgan regnes i loven ethvert organ for stat eller kommune.​1 Kongen kan i tvilstilfelle bestemme om et organ er å regne som forvaltningsorgan. Kongen kan også bestemme at et forvaltningsorgan helt eller delvis skal være unntatt fra loven når det foreligger særlige grunner for det, og kan da i stedet fastsette særlige regler.\nLoven gjelder også for ethvert rettssubjekt som ikke er forvaltningsorgan og som er leverandør av varer eller tjenester til et forvaltningsorgan i forbindelse med en sikkerhetsgradert anskaffelse.​2\nKongen kan bestemme at loven helt eller delvis også skal gjelde for ethvert annet rettssubjekt, herunder enkeltpersoner, foreninger, stiftelser, selskaper og privat og offentlig næringsvirksomhet,\na. som eier eller på annen måte har kontroll over eller fører tilsyn med skjermingsverdig objekt,​3 eller\nb. som av et forvaltningsorgan gis tilgang til sikkerhetsgradert informasjon.​4\n§ 29 a gjelder for alle anskaffelser til kritisk infrastruktur.​5 Kongen kan gi forskrift om identifisering av kritisk infrastruktur og om informasjon til rettssubjekter som eier eller rår over kritisk infrastruktur.\nLoven gjelder for domstolene med de særregler som følger av bestemmelsene om sikkerhetsklarering​6 og autorisasjon​7 i og i medhold av domstolloven​8 og straffeprosessloven.​9 Kongen kan fastsette ytterligere særregler.\nBestemmelsene gitt i og i medhold av lovens kapittel 6 om personellsikkerhet gjelder ikke for regjeringens medlemmer og dommere i Høyesterett.\nLoven gjelder ikke for Stortinget, Riksrevisjonen, Stortingets ombudsmann for forvaltningen​10 og andre organer for Stortinget.\nLoven gjelder for Svalbard​11 og Jan Mayen​12 i den utstrekning Kongen bestemmer.\n0 Endret ved lov 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).\n1 Se fvl. § 1.\n2 Se § 3 (1) nr. 17 og kap. 7.\n3 Se § 3 (1) nr. 12.\n4 Se § 3 (1) nr. 9.\n5 Se § 3 (1) nr. 21.\n6 Se § 3 (1) nr. 19.\n7 Se § 3 (1) nr. 20.\n8 Lov 13 aug 1915 nr. 5. Se dens §§ 12, 21 og 91.\n9 Lov 22 mai 1981 nr. 25. Se dens § 102 og § 141.\n10 Se lov 22 juni 1962 nr. 8.\n11 Se lov 17 juli 1925 nr. 11 § 1 (2).\n12 Se lov 27 feb 1930 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I denne lov forstås med:\n1. Forebyggende sikkerhetstjeneste; planlegging, tilrettelegging, gjennomføring og kontroll av forebyggende sikkerhetstiltak som søker å fjerne eller redusere risiko som følge av sikkerhetstruende virksomhet.\n2. Sikkerhetstruende virksomhet; forberedelse til, forsøk på og gjennomføring av spionasje, sabotasje eller terrorhandlinger, samt medvirkning til slik virksomhet.\n3. Spionasje; innsamling av informasjon ved hjelp av fordekte midler i etterretningsmessig hensikt.\n4. Sabotasje; tilsiktet ødeleggelse, lammelse eller driftsstopp av utstyr, materiell, anlegg eller aktivitet, eller tilsiktet uskadeliggjøring av personer, utført av eller for en fremmed stat, organisasjon eller gruppering.\n5. Terrorhandlinger; ulovlig bruk av, eller trussel om bruk av, makt eller vold mot personer eller eiendom, i et forsøk på å legge press på landets myndigheter eller befolkning eller samfunnet for øvrig for å oppnå politiske, religiøse eller ideologiske mål.\n6. Virksomhet; et forvaltningsorgan eller annet rettssubjekt som loven gjelder for, jfr § 2.\n7. Informasjon; enhver form for opplysninger i materiell eller immateriell form.\n8. Skjermingsverdig informasjon; informasjon som skal merkes med sikkerhetsgrad etter reglene i § 11 i loven her.\n9. Sikkerhetsgradert informasjon; informasjon som er merket med sikkerhetsgrad i henhold til reglene i § 11 i loven her.\n10. Informasjonssystem; en organisert samling av periferutrustning, programvare, datamaskiner og kommunikasjonsnett som knytter dem sammen.\n11. Monitoring; avlytting av tale eller avlesing av elektroniske signaler som kommuniseres i eller mellom informasjonssystemer.\n12. Skjermingsverdig objekt; eiendom som må beskyttes mot sikkerhetstruende virksomhet av hensyn til rikets eller alliertes sikkerhet eller andre vitale nasjonale sikkerhetsinteresser.\n13. Eiendom; områder, bygninger, anlegg, transportmidler eller annet materiell, eller deler av slik eiendom.\n14. Objekteier; virksomhet eller person som eier eller på annen måte råder over skjermingsverdig objekt.\n15. Funksjon/funksjonalitet; produksjon, forsyning, kommunikasjon eller annen rettmessig bruk eller aktivitet tilknyttet en eiendom.\n16. Anskaffelsesmyndighet; et forvaltningsorgan som har til hensikt å anskaffe, eller har anskaffet, varer eller tjenester fra rettssubjekt som ikke er forvaltningsorgan.\n17. Sikkerhetsgradert anskaffelse; anskaffelse, foretatt av anskaffelsesmyndighet, som innebærer at leverandøren av varen eller tjenesten vil kunne få tilgang til skjermingsverdig informasjon eller objekt, eller som innebærer at anskaffelsen må sikkerhetsgraderes av andre årsaker.\n18. Personkontroll; innhenting av relevante opplysninger til vurdering av sikkerhetsklarering.\n19. Sikkerhetsklarering; avgjørelse, foretatt av klareringsmyndighet og bygget på personkontroll, om en persons antatte sikkerhetsmessige skikkethet for angitt sikkerhetsgrad.\n20. Autorisasjon; avgjørelse, foretatt av autorisasjonsansvarlig, om at en person etter forutgående sikkerhetsklarering (med unntak for tilgang til informasjon sikkerhetsgradert BEGRENSET), bedømmelse av kunnskap om sikkerhetsbestemmelser, tjenstlig behov samt avlagt skriftlig taushetsløfte, gis tilgang til informasjon med angitt sikkerhetsgrad.\n21. Kritisk infrastruktur; anlegg og systemer som er nødvendige for å opprettholde samfunnets grunnleggende behov og funksjoner.\nKrav i eller i medhold av loven her om at meddelelse eller annet skal være skriftlig, er ikke til hinder for bruk av elektronisk kommunikasjon, forutsatt at dette ikke vil stride mot bestemmelser gitt i eller i medhold av lovens §§ 11 – 14.\n0 Endret ved lover 21 des 2001 nr. 117 (ikr. 1 jan 2002 iflg. res. 21 des 2001 nr. 1475), 11 apr 2008 nr. 9 (ikr. 1 jan 2011 iflg. res. 22 okt 2010 nr. 1361), 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Overordnet ansvar",
+      "content": "Departementet har det overordnede ansvar for forebyggende sikkerhetstjeneste. Dette begrenser ikke den enkeltes ansvar og plikter etter bestemmelsene i eller i medhold av loven her.\nDepartementets utøvende funksjoner ivaretas av Nasjonal sikkerhetsmyndighet.​1\n1 Se kap. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Den enkelte virksomhets plikter",
+      "content": "Enhver virksomhet​2 plikter å utøve forebyggende sikkerhetstjeneste i henhold til bestemmelsene gitt i eller i medhold av loven her.\nVirksomheten skal\na. utarbeide intern instruks for å ivareta sikkerheten,\nb. sørge for at virksomhetens ansatte og engasjerte får tilstrekkelig opplæring i sikkerhetsspørsmål, og\nc. regelmessig kontrollere sikkerhetstilstanden i virksomheten.\nAnsvaret påhviler lederen for virksomheten. Dersom utøvende funksjoner delegeres internt i virksomheten, skal dette gjøres skriftlig.\nAlt ansatt eller engasjert personell har i sitt arbeid eller oppdrag for virksomheten ansvar for å ivareta sikkerhetsmessige hensyn, og plikter å bidra til forebyggende sikkerhetstjeneste.\nNærmere bestemmelser gis av Nasjonal sikkerhetsmyndighet.​3\n1 Jf. § 31.\n2 Se § 3 (1) nr. 6.\n3 Se kap. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:5 a",
+      "chapter": "2",
+      "section": "5 a",
+      "title": "Varslingsplikt og myndighet til å fatte vedtak ved risiko for sikkerhetstruende virksomhet",
+      "content": "En virksomhet​1 som får kunnskap om en planlagt eller pågående aktivitet som kan medføre en ikke ubetydelig risiko for at sikkerhetstruende virksomhet​2 blir etablert eller gjennomført, skal varsle overordnet departement om dette. Dersom den varslingspliktige virksomheten ikke er underlagt noe departement, skal varselet gis til Forsvarsdepartementet. Varslingsplikten gjelder uten hinder av lovbestemt taushetsplikt. Ved behandling av varsel etter første og andre punktum bør det innhentes rådgivende uttalelser fra relevante organer med kompetanse innenfor det aktuelle fagområdet.\nKongen i statsråd kan fatte nødvendige vedtak for å hindre en planlagt eller pågående aktivitet som nevnt i første ledd første punktum. Et slikt vedtak kan fattes uten hensyn til begrensningene i forvaltningsloven​3 § 35, og uavhengig av om aktiviteten er tillatt etter annen lov eller annet vedtak. Vedtak etter første punktum er særlig tvangsgrunnlag etter tvangsfullbyrdelsesloven​4 kapittel 13.\nKongen i statsråd kan gi forskrift om varslingsplikten i første ledd og om hvilke vedtak som kan fattes etter andre ledd.\n0 Tilføyd ved lov 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).\n1 Se § 3 (1) nr. 6.\n2 Se § 3 (1) nr. 2.\n3 Lov 10 feb 1967.\n4 Lov 26 juni 1992 nr. 86.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5a",
+        "source_heading": "§ 5 a."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Generelt om utøvelse av forebyggende sikkerhetstjeneste",
+      "content": "Når utøvelse av forebyggende sikkerhetstjeneste​1 etter eller i medhold av loven her overlates til den ansvarliges skjønn, skal det ikke nyttes mer inngripende midler og metoder enn det som fremstår som nødvendig i forhold til den aktuelle sikkerhetsrisiko og omstendighetene for øvrig.\nVed utøvelse av forebyggende sikkerhetstjeneste skal det særlig tas hensyn til den enkeltes rettssikkerhet.\nBruk av elektronisk kommunikasjon ved underretning om et vedtak er bare tillatt når den vedtaket retter seg mot uttrykkelig har godtatt dette.\n0 Endret ved lov 21 des 2001 nr. 117 (ikr. 1 jan 2002 iflg. res. 21 des 2001 nr. 1475).\n1 Se § 3 (1) nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Samarbeid",
+      "content": "Kongen gir bestemmelser om nasjonalt, regionalt og lokalt samarbeid om forebyggende sikkerhetstjeneste.​1\n1 Se § 3 (1) nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Generelle oppgaver",
+      "content": "Nasjonal sikkerhetsmyndighet skal koordinere de forebyggende sikkerhetstiltak og kontrollere sikkerhetstilstanden. Nasjonal sikkerhetsmyndighet er også utøvende organ i forholdet til andre land og internasjonale organisasjoner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Nærmere om oppgavene",
+      "content": "Nasjonal sikkerhetsmyndighet skal\na. innhente og vurdere informasjon av betydning for gjennomføringen av forebyggende sikkerhetstjeneste,​1\nb. søke internasjonalt samarbeid, herunder med andre lands og organisasjoners tilsvarende tjenester, når dette tjener norske interesser,\nc. føre tilsyn med sikkerhetstilstanden i virksomheter,​2 herunder kontrollere at den enkeltes plikter i eller i medhold av loven her overholdes, og eventuelt gi pålegg​3 om forbedringer,\nd. bidra til at sikkerhetstiltak utvikles, herunder iverksette forskning og utvikling på områder av betydning for forebyggende sikkerhetstjeneste,\ne. drive en nasjonal responsfunksjon for alvorlige dataangrep mot kritisk infrastruktur​4 og et nasjonalt varslingssystem for digital infrastruktur,\nf. gi informasjon, råd og veiledning til virksomheter.\nKongen kan gi nærmere bestemmelser om Nasjonal sikkerhetsmyndighets utøvelse av oppgavene.\n0 Endret ved lov 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).\n1 Se § 3 (1) nr. 1.\n2 Se § 3 (1) nr. 6.\n3 Jf. § 31.\n4 Se § 3 (1) nr. 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Nasjonal sikkerhetsmyndighets adgangsrett",
+      "content": "Så langt det er nødvendig for å gjennomføre kontrolloppgavene i eller i medhold av loven her, skal Nasjonal sikkerhetsmyndighet gis uhindret adgang​2 til ethvert område hvor skjermingsverdig informasjon​3 eller objekt​4 befinner seg, dersom området eies, brukes eller på annen måte kontrolleres av en virksomhet.​5\n1 Jf. § 31.\n2 Jf. strl. § 156.\n3 Se § 3 (1) nr. 8.\n4 Se § 3 (1) nr. 12.\n5 Se § 3 (1) nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:10 a",
+      "chapter": "3",
+      "section": "10 a",
+      "title": "Behandling av personopplysninger",
+      "content": "Når det er nødvendig for å utføre oppgavene etter § 9 første ledd bokstav e, kan Nasjonal sikkerhetsmyndighet​1 behandle personopplysninger i form av\na. metadata om IKT-trafikk til og fra virksomheter​2 som er knyttet til det nasjonale varslingssystemet for digital infrastruktur\nb. informasjon​3 som er nødvendig for å analysere utløste alarmer i varslingssystemet\nc. IP-adresser mottatt fra nasjonale og internasjonale samarbeidspartnere\nd. logger og infisert maskinvare, etter samtykke fra en virksomhet der dette er nødvendig i forbindelse med bistand til håndtering av alvorlige dataangrep.\nI andre tilfeller enn nevnt i første ledd, kan personopplysninger også behandles når dette er strengt nødvendig for å ivareta oppgavene etter § 9 første ledd bokstav e, og behandlingen etter en konkret vurdering framstår som både nødvendig og proporsjonal i forhold til det inngrepet den representerer i personvernet.\nKongen kan gi forskrift om Nasjonal sikkerhetsmyndighets behandling av personopplysninger.\n0 Tilføyd ved lov 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).\n1 Jf. kap. 3.\n2 Se § 3 (1) nr. 6.\n3 Se § 3 (1) nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10a",
+        "source_heading": "§ 10 a."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "Sikkerhetsgradering",
+      "content": "Når informasjon​1 må beskyttes av sikkerhetsmessige grunner, skal en av følgende sikkerhetsgrader benyttes:\na. STRENGT HEMMELIG nyttes dersom det kan få helt avgjørende skadefølger for Norges eller dets alliertes sikkerhet, forholdet til fremmede makter eller andre vitale nasjonale sikkerhetsinteresser om informasjonen blir kjent for uvedkommende.\nb. HEMMELIG nyttes dersom det alvorlig kan skade Norges eller dets alliertes sikkerhet, forholdet til fremmede makter eller andre vitale nasjonale sikkerhetsinteresser om informasjonen blir kjent for uvedkommende.\nc. KONFIDENSIELT nyttes dersom det kan skade Norges eller dets alliertes sikkerhet, forholdet til fremmede makter eller andre vitale nasjonale sikkerhetsinteresser om informasjonen blir kjent for uvedkommende.\nd. BEGRENSET nyttes dersom det i noen grad kan medføre skadefølger for Norges eller dets alliertes sikkerhet, forholdet til fremmede makter eller andre vitale nasjonale sikkerhetsinteresser om informasjonen blir kjent for uvedkommende.\nDen som utsteder eller på annen måte tilvirker skjermingsverdig informasjon,​2 skal​3 sørge for at informasjonen merkes med aktuell sikkerhetsgrad. Sikkerhetsgradering skal ikke skje i større utstrekning enn strengt nødvendig, og det skal ikke brukes høyere sikkerhetsgrad enn nødvendig.\nSikkerhetsgradering skal ikke gis virkning for lengre tid enn det som er strengt nødvendig, og graderingen skal senest bortfalle etter 30 år. Nærmere regler om ned- og avgradering gis av Kongen. Kongen kan for særskilte tilfeller fastsette unntak fra 30 års regelen i første punktum.\nKongen kan under forutsetning om gjensidighet treffe overenskomst med fremmed stat eller internasjonal organisasjon om sikkerhetsgradering av mottatt informasjon som er sikkerhetsgradert av vedkommende stat eller internasjonale organisasjon, og om plikt til å treffe tiltak for å sikre slik informasjon.\n1 Se § 3 (1) nr. 7.\n2 Se § 3 (1) nr. 8.\n3 Jf. § 31.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Plikt til å beskytte sikkerhetsgradert informasjon​2",
+      "content": "Enhver som får tilgang til sikkerhetsgradert informasjon som ledd i arbeid, oppdrag eller verv for en virksomhet,​3 plikter å hindre at uvedkommende får kjennskap til informasjonen. Taushetsplikten gjelder også etter at vedkommende har avsluttet arbeidet, oppdraget eller vervet. Sikkerhetsgradert informasjon skal bare overlates til personer som har tjenstlig behov for tilgang til den. Taushetsplikten er likevel ikke til hinder for at sikkerhetsgradert informasjon blir gitt til andre når dette har særskilt hjemmel i lov eller i generell forskrift fastsatt av Kongen.\nKongen​4 gir nærmere regler om håndteringen av sikkerhetsgradert informasjon, herunder om journalisering, oppbevaring, forsendelse og tilintetgjøring. Kongen​4 kan også gi regler om plikt til å legge forholdene til rette for at sikkerhetsgradert informasjon er korrekt, fullstendig og tilgjengelig.\n1 Jf. § 31.\n2 Jf. offl. § 13.\n3 Se § 3 (1) nr. 6.\n4 Forsvarsdepartementet iflg. res. 29 juni 2001 nr. 721.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Sikkerhetsmessig godkjenning av informasjonssystemer",
+      "content": "Før skjermingsverdig informasjon​2 behandles, lagres eller transporteres i et informasjonssystem, skal Nasjonal sikkerhetsmyndighet,​3 eller den Nasjonal sikkerhetsmyndighet bemyndiger, godkjenne systemet for angjeldende sikkerhetsgrad.\nNasjonal sikkerhetsmyndighet er sertifiseringsmyndighet for informasjonssystemer​4 som skal håndtere skjermingsverdig informasjon.​2\nNasjonal sikkerhetsmyndighet kan godkjenne at andre virksomheter​5 utfører tjenester for sikring av informasjonssystemer​4 som skal håndtere skjermingsverdig informasjon.​2\nNasjonal sikkerhetsmyndighet gir nærmere forskrifter om sikkerhetsmessig godkjenning av informasjonssystemer.​4\n1 Jf. § 31.\n2 Se § 3 (1) nr. 8.\n3 Se kap. 3.\n4 Se § 3 (1) nr. 10.\n5 Se § 3 (1) nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:13 a",
+      "chapter": "4",
+      "section": "13 a",
+      "title": "Sikkerhetsmessig overvåking av godkjente informasjonssystemer",
+      "content": "Den enkelte virksomhet​1 skal kontinuerlig overvåke et godkjent informasjonssystem for sikkerhetstruende hendelser​2 mot informasjonssystemet​3 eller informasjon​4 i systemet, fortrinnsvis ved bruk av automatisert systemovervåking. Sikkerhetsrelevante hendelser skal registreres.\nInformasjon som utveksles mellom systemer, på tvers av autorisasjonsskiller eller til bærbare lagringsmedier, skal registreres og lagres.\nFlere virksomheter som er tilknyttet samme informasjonssystem, kan avtale at en av virksomhetene skal forestå overvåking og registrering etter første og andre ledd på vegne av den ansvarlige virksomheten.\nInformasjon registrert etter første og andre ledd skal lagres i fem år. Slik informasjon skal kun benyttes for å håndtere sikkerhetstruende hendelser.\nDen enkelte virksomhet skal påse at autoriserte brukere av informasjonssystemer som overvåkes i henhold til denne bestemmelse får informasjon om formålet med behandlingen, om de tiltak som er iverksatt, om informasjonen vil bli utlevert og eventuelt om hvem som er mottaker.\nKongen kan gi forskrift om\na. hvilke typer data som kan eller skal registreres og lagres\nb. hvem som skal ha tilgang til registrert og lagret data\nc. hvordan tilgang skal gis\nd. unntak fra lagringstid på fem år.\n0 Tilføyd ved lov 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).\n1 Se § 3 (1) nr. 6.\n2 Se § 3 (1) nr. 2.\n3 Se § 3 (1) nr. 10.\n4 Se § 3 (1) nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13a",
+        "source_heading": "§ 13 a."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Kryptosikkerhet",
+      "content": "Bare kryptosystemer som er godkjent av Nasjonal sikkerhetsmyndighet,​2 tillates brukt for beskyttelse av skjermingsverdig informasjon.​3\nNasjonal sikkerhetsmyndighet​2 er nasjonal forvalter av kryptomateriell og leverandør av kryptosikkerhetstjenester til virksomheter.​4 Nasjonal sikkerhetsmyndighet kan likevel godkjenne andre leverandører av kryptosikkerhetstjenester. Disse skal undertegne en særskilt avtale om dette med Nasjonal sikkerhetsmyndighet.\nNasjonal sikkerhetsmyndighet​2 skal godkjenne kryptoalgoritmer som brukes i utstyr som tenkes eksportert.\nNærmere bestemmelser fastsettes av Nasjonal sikkerhetsmyndighet.​2\n1 Jf. § 31.\n2 Se kap. 3.\n3 Se § 3 (1) nr. 8.\n4 Se § 3 (1) nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Monitoring av og inntrengning i informasjonssystemer",
+      "content": "En virksomhet​1 kan gi Nasjonal sikkerhetsmyndighet​2 adgang til gjennom monitoring​3 å kontrollere om informasjonssystemer​4 i vedkommende virksomhet lagrer, behandler eller transporterer skjermingsverdig informasjon​5 uten at de er godkjent for dette. Virksomhetens ansatte skal på forhånd ha blitt orientert om kontrollen. Monitoring skal ikke i noe tilfelle omfatte privat kommunikasjon eller kommunikasjon som blir formidlet til eller fra andre enn virksomheter.\nEn virksomhet​1 kan gi Nasjonal sikkerhetsmyndighet​2 adgang til å forsøke og eventuelt gjennomføre inntrengning i informasjonssystemer​4 som lagrer, behandler eller transporterer skjermingsverdig informasjon, for å kontrollere motstandskraften i systemene. Virksomhetens ansatte skal på forhånd ha blitt orientert om kontrollen.\nInformasjon som Nasjonal sikkerhetsmyndighet​2 blir kjent med ved kontrollvirksomhet etter første og annet ledd, skal makuleres når den ikke lenger har betydning for kontrollen.\nKongen​6 gir nærmere bestemmelser, herunder om varsling og gjennomføring av monitoring​3 og inntrengning og om oppbevaring og makulering av informasjon.\n1 Se § 3 (1) nr. 6.\n2 Se kap. 3.\n3 Se § 3 (1) nr. 11.\n4 Se § 3 (1) nr. 10.\n5 Se § 3 (1) nr. 8.\n6 Forsvarsdepartementet iflg. res. 29 juni 2001 nr. 721.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Tekniske sikkerhetsundersøkelser",
+      "content": "Nasjonal sikkerhetsmyndighet,​1 eller den Nasjonal sikkerhetsmyndighet bemyndiger, kan foreta undersøkelser av lokaler, bygninger og andre objekter som eies, brukes eller på annen måte kontrolleres av en virksomhet,​2 i den hensikt å fastslå hvorvidt uvedkommende med eller uten tekniske hjelpemidler kan skaffe seg tilgang til skjermingsverdig informasjon​3 gjennom avtitting, avlytting av tale eller avlesing av elektroniske signaler.\nKongen gir nærmere forskrifter om gjennomføring av tekniske sikkerhetsundersøkelser.\n1 Se kap. 3.\n2 Se § 3 (1) nr. 6.\n3 Se § 3 (1) nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Utvelgelse av skjermingsverdige objekter",
+      "content": "Hvert enkelt departement utpeker skjermingsverdige objekter​1 innen sitt myndighetsområde. Objekteier​2 plikter overfor departementet å foreslå hvilke objekter som er skjermingsverdige. Utvelgelse av skjermingsverdig objekt skal skje på grunnlag av en skadevurdering, hvor det innenfor lovens formål særlig tas hensyn til objektets:\na. betydning for sikkerhetspolitisk krisehåndtering og forsvar av riket,\nb. betydning for kritiske funksjoner for det sivile samfunn,\nc. symbolverdi, og\nd. mulighet for å utgjøre en fare for miljøet eller befolkningens liv og helse.\nI skadevurderingen skal det også tas hensyn til akseptabel tidsperiode for funksjonssvikt, mulighet til å gjenopprette funksjonalitet, og hensynet til objektets betydning for andre objekter.\nKongen kan gi utfyllende bestemmelser om utvelgelse av skjermingsverdige objekter.\n0 Endret ved lov 11 apr 2008 nr. 9 (ikr. 1 jan 2011 iflg. res. 22 okt 2010 nr. 1361).\n1 Se § 3 (1) nr. 12.\n2 Se § 3 (1) nr. 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:17 a",
+      "chapter": "5",
+      "section": "17 a",
+      "title": "Klassifisering av skjermingsverdige objekter",
+      "content": "Når skjermingsverdige objekter​1 må beskyttes av sikkerhetsmessige grunner, skal en av følgende klassifiseringsgrader benyttes:\na. MEGET KRITISK nyttes dersom det kan få helt avgjørende skadefølger for rikets selvstendighet og sikkerhet og andre vitale nasjonale sikkerhetsinteresser om objektet får redusert funksjonalitet​2 eller blir utsatt for skadeverk, ødeleggelse eller rettsstridig overtakelse av uvedkommende.\nb. KRITISK nyttes dersom det alvorlig kan skade rikets selvstendighet og sikkerhet og andre vitale nasjonale sikkerhetsinteresser om objektet får redusert funksjonalitet eller blir utsatt for skadeverk, ødeleggelse eller rettsstridig overtakelse av uvedkommende.\nc. VIKTIG nyttes dersom det kan skade rikets selvstendighet og sikkerhet og andre vitale nasjonale sikkerhetsinteresser om objektet får redusert funksjonalitet​2 eller blir utsatt for skadeverk, ødeleggelse eller rettsstridig overtakelse av uvedkommende.\nKongen kan gi utfyllende bestemmelser om klassifisering av skjermingsverdige objekter.\n0 Tilføyd ved lov 11 apr 2008 nr. 9 (ikr. 1 jan 2011 iflg. res. 22 okt 2010 nr. 1361).\n1 Se § 3 (1) nr. 12.\n2 Se § 3 (1) nr. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17a",
+        "source_heading": "§ 17 a."
+      }
+    },
+    {
+      "provision_ref": "5:17 b",
+      "chapter": "5",
+      "section": "17 b",
+      "title": "Plikt til å beskytte skjermingsverdig objekt",
+      "content": "Objekteier​1 plikter å beskytte objektet​2 med sikkerhetstiltak.\nSikkerhetstiltakene skal bestå av en kombinasjon av barrierer, deteksjon, verifikasjon og reaksjon, som i sum tilfredsstiller følgende krav:\na. Objekt klassifisert MEGET KRITISK skal beskyttes slik at tap av funksjon, ødeleggelse og rettsstridig overtakelse avverges.\nb. Objekt klassifisert KRITISK skal beskyttes slik at tap av funksjon og ødeleggelse begrenses, og rettsstridig overtakelse av vesentlige funksjoner avverges.\nc. Objekt klassifisert VIKTIG skal beskyttes slik at tap av vesentlig funksjon og ødeleggelse begrenses.\nSikkerhetstiltakene skal også ta sikte på å redusere muligheten for etterretningsaktivitet mot objektet.\nKongen kan bestemme at det kreves sikkerhetsklarering etter reglene i kapittel 6 for den som skal gis tilgang til skjermingsverdig objekt klassifisert MEGET KRITISK eller KRITISK.\nKongen kan gi nærmere bestemmelser om planlegging og gjennomføring av sikkerhetstiltak, herunder bruk av sikringsstyrker.\n0 Tilføyd ved lov 11 apr 2008 nr. 9 (ikr. 1 jan 2011 iflg. res. 22 okt 2010 nr. 1361).\n1 Se § 3 (1) nr. 14.\n2 Se § 3 (1) nr. 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17b",
+        "source_heading": "§ 17 b."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Beskyttelse av utenlandske objekter i Norge",
+      "content": "Kongen kan under forutsetning om gjensidighet treffe overenskomst med fremmed stat eller internasjonal organisasjon om plikt til å treffe tiltak for å beskytte utenlandske objekter i Norge som anses skjermingsverdige​1 av vedkommende stat eller organisasjon.\n1 Se § 3 (1) nr. 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:18 a",
+      "chapter": "5",
+      "section": "18 a",
+      "title": "Adgang til steder og områder",
+      "content": "Kongen kan av forsvarshensyn forby uvedkommende adgang til\na. forsvarsbygg og -anlegg hvor gjenstander av interesse for rikets forsvar fremstilles, istandsettes eller oppbevares,\nb. bestemt angivne områder, og\nc. å overvære militære øvelser eller forsøk.\n0 Tilføyd ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18a",
+        "source_heading": "§ 18 a."
+      }
+    },
+    {
+      "provision_ref": "6:19",
+      "chapter": "6",
+      "section": "19",
+      "title": "Når sikkerhetsklarering og autorisasjon skal gjennomføres",
+      "content": "Person som skal gis tilgang til skjermingsverdig informasjon,​1 skal autoriseres.​2\nPerson som skal autoriseres for tilgang til skjermingsverdig informasjon gradert KONFIDENSIELT eller høyere, skal på forhånd sikkerhetsklareres.​3\nPerson som i sitt arbeid vil kunne få tilgang til skjermingsverdig informasjon gradert KONFIDENSIELT eller høyere, skal sikkerhetsklareres dersom ikke sikkerhetstiltak for å fjerne risikoen for tilgang med rimelighet lar seg gjennomføre.\nSikkerhetsklarering gis for følgende nasjonale sikkerhetsgrader, eventuelt også for tilsvarende sikkerhetsgrader i NATO eller annen internasjonal organisasjon:\na. KONFIDENSIELT (eventuelt NATO CONFIDENTIAL/tilsvarende).\nb. HEMMELIG (eventuelt NATO SECRET/tilsvarende).\nc. STRENGT HEMMELIG (eventuelt COSMIC TOP SECRET/tilsvarende).\n0 Endret ved lov 11 apr 2008 nr. 9 (ikr. 1 jan 2011 iflg. res. 22 okt 2010 nr. 1361).\n1 Se § 3 (1) nr. 8.\n2 Se § 3 (1) nr. 20\n3 Se § 3 (1) nr. 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "6:20",
+      "chapter": "6",
+      "section": "20",
+      "title": "Gjennomføring av personkontroll​1",
+      "content": "Personkontroll iverksettes etter anmodning fra autorisasjonsansvarlig,​2 med mindre annet er bestemt av Nasjonal sikkerhetsmyndighet.​3\nPersonkontroll skal ikke finne sted uten at den som sikkerhetsklareres er gjort oppmerksom på og har samtykket i at slik kontroll vil bli foretatt. Personkontroll skal alltid omfatte opplysninger gitt av vedkommende selv. Vedkommende plikter å gi fullstendige opplysninger om forhold som antas å kunne være av betydning for vurderingen av sikkerhetsmessig skikkethet etter § 21.\nVed sikkerhetsklarering​4 for HEMMELIG/tilsvarende eller høyere sikkerhetsgrader, og i andre særlige tilfeller, kan personkontroll gjennomføres for nærstående personer som er knyttet til vedkommende ved familiebånd.\nFor øvrig skal kontrollen omfatte opplysninger som vedkommende klareringsmyndighet selv sitter inne med og avlesing av relevante offentlige registre, jf. femte ledd første punktum. Registeransvarlig plikter å utlevere registeropplysninger uten hinder av taushetsplikt. Registeropplysninger skal meddeles skriftlig. Kontrollen kan også omfatte andre kilder, herunder uttalelser fra tjenestesteder eller arbeidsplasser, offentlige myndigheter eller oppgitte eller supplerende referanser. Personkontrollopplysninger skal gis vederlagsfritt til klareringsmyndigheten.\nKongen bestemmer hvilke registre som er relevante for personkontroll. Kongen gir også bestemmelser om fremgangsmåten ved registerundersøkelser i utlandet og om utlevering av opplysninger i forbindelse med andre lands myndigheters tilsvarende personkontroll. Under ingen omstendighet skal det innhentes, registreres eller videreformidles opplysninger om politisk engasjement som omfattes av § 21 annet ledd.\nOpplysninger som er gitt klareringsmyndigheten​2 i forbindelse med personkontroll, skal ikke benyttes til andre formål enn vurdering av sikkerhetsklarering. Autorisasjonsansvarlig kan likevel meddeles slike opplysninger dersom dette anses påkrevet av hensyn til den sikkerhetsmessige ledelse og kontroll av vedkommende.\n1 Se § 3 (1) nr. 18.\n2 Se § 23.\n3 Se kap. 3.\n4 Se § 3 (1) nr. 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "6:21",
+      "chapter": "6",
+      "section": "21",
+      "title": "Vurderingsgrunnlaget for sikkerhetsklarering",
+      "content": "Sikkerhetsklarering​1 skal bare gis eller opprettholdes dersom det ikke foreligger rimelig tvil om vedkommendes sikkerhetsmessige skikkethet. Ved avgjørelse om sikkerhetsmessig skikkethet skal det bare legges vekt på forhold som er relevante for å vurdere vedkommendes pålitelighet, lojalitet og sunne dømmekraft i forhold til behandling av skjermingsverdig informasjon.​2 Opplysninger om følgende forhold kan tillegges betydning:\na. Spionasje,​3 planlegging eller gjennomføring av sabotasje,​4 attentat eller lignende, og forsøk på slik virksomhet.\nb. Straffbare handlinger eller forberedelser eller oppfordringer til slike.\nc. Forhold som kan lede til at vedkommende selv eller nærstående personer som er knyttet til vedkommende ved familiebånd, utsettes for trusler som innebærer fare for liv, helse, frihet eller ære med risiko for å kunne presse vedkommende til å handle i strid med sikkerhetsmessige interesser.\nd. Forfalskning av, eller feilaktig eller unnlatt fremstilling om, faktiske forhold som vedkommende måtte forstå er av betydning for sikkerhetsklareringen.\ne. Misbruk av alkohol eller andre rusmidler.\nf. Enhver sykdom som på medisinsk grunnlag anses å kunne medføre forbigående eller varig svekkelse av pålitelighet, lojalitet eller sunn dømmekraft.\ng. Kompromittering av skjermingsverdig informasjon,​5 brudd på gitte sikkerhetsbestemmelser, nektelse av å gi personopplysninger om seg selv, unnlatelse av å gi autorisasjonsansvarlig løpende underretning om egne forhold av betydning for sikkerheten, nektelse av å gi taushetsløfte, tilkjennegivelse av ikke å ville være bundet av taushetsløfte eller nektelse av å delta i sikkerhetssamtale.\nh. Økonomiske forhold som kan friste til utroskap.\ni. Forbindelse med innen- eller utenlandske organisasjoner som har ulovlig formål, som kan true den demokratiske samfunnsordenen eller som anser vold eller terrorhandlinger som akseptable virkemidler.\nj. Manglende mulighet for gjennomføring av en tilfredsstillende personkontroll.\nk. Tilknytning til andre stater.\nl. Andre forhold som kan gi grunn til å frykte at vedkommende vil kunne opptre i strid med sikkerhetsmessige interesser.\nPolitisk engasjement, herunder medlemskap i, sympati med eller aktivitet for lovlige politiske partier eller organisasjoner og annet lovlig samfunnsengasjement, skal ikke ha betydning for vurdering av en persons sikkerhetsmessige skikkethet.\nKlareringsavgjørelser skal baseres på en konkret og individuell helhetsvurdering av de foreliggende opplysninger. Klareringsmyndigheten​6 skal påse at klareringssaken er så godt opplyst som mulig før avgjørelse fattes. Sikkerhetssamtale skal gjennomføres der dette ikke anses som åpenbart unødvendig.\nNegative opplysninger om nærstående personer, jf. § 20 tredje ledd, skal bare tas i betraktning dersom det antas at nærståendes forhold vil kunne påvirke vedkommendes sikkerhetsmessige skikkethet.\nI særlige tilfeller kan det settes vilkår for sikkerhetsklarering.\n0 Endret ved lov 17 juni 2005 nr. 81 (ikr. 1 jan 2006 iflg. res. 21 des 2005 nr. 1605).\n1 Se § 3 (1) nr. 19.\n2 Se § 3 (1) nr. 8.\n3 Se § 3 (1) nr. 3.\n4 Se § 3 (1) nr. 4.\n5 Se § 3 (1) nr. 8.\n6 Se § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "6:22",
+      "chapter": "6",
+      "section": "22",
+      "title": "Sikkerhetsklarering av utenlandske statsborgere",
+      "content": "En utenlandsk statsborger kan gis sikkerhetsklarering​2 etter en vurdering av hjemlandets sikkerhetsmessige betydning og vedkommendes tilknytning til hjemlandet og Norge.\nNærmere regler om sikkerhetsklarering av utenlandske statborgere fastsettes av Kongen.\n0 Endret ved lov 17 juni 2005 nr. 81 (ikr. 1 jan 2006 iflg. res. 21 des 2005 nr. 1605).\n1 Se § 23 (4).\n2 Se § 3 (1) nr. 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "6:23",
+      "chapter": "6",
+      "section": "23",
+      "title": "Autorisasjonsansvarlig og klareringsmyndighet",
+      "content": "Autorisasjon​1 kan gis dersom autorisasjonsansvarlig ikke har opplysninger som gjør det tvilsomt om vedkommende sikkerhetsmessig er til å stole på. Autorisasjon gis normalt av virksomhetens leder.​2 Autorisasjon skal ikke gis før det foreligger melding om sikkerhetsklarering,​3 med unntak for de tilfeller som er beskrevet i § 19 tredje ledd, og en autorisasjonssamtale er avholdt. Nasjonal sikkerhetsmyndighet​4 gir nærmere regler om autorisasjon og om hvem som er autorisasjonsansvarlig.\nKongen utpeker en klareringsmyndighet for forsvarssektoren og en for den sivile sektoren. Kongen kan utpeke andre klareringsmyndigheter når særlige grunner taler for det. Etterretnings- og sikkerhetstjenestene klarerer eget personell.\n0 Endret ved lov 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).\n1 Se § 3 (1) nr. 20.\n2 Se § 3 (1) nr. 6.\n3 Se § 3 (1) nr. 19.\n4 Jf. kap. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "6:24",
+      "chapter": "6",
+      "section": "24",
+      "title": "Bortfall, tilbakekall, nedsettelse og suspensjon av sikkerhetsklarering og autorisasjon",
+      "content": "Sikkerhetsklarert og autorisert personell skal holde autorisasjonsansvarlig​1 orientert om forhold som antas å kunne være av betydning for vedkommendes sikkerhetsmessige skikkethet.\nFremkommer det opplysninger som reiser tvil om en sikkerhetsklarert persons sikkerhetsmessige skikkethet, skal klareringsmyndigheten vurdere å tilbakekalle eller nedsette klareringen, eller suspendere klareringen og iverksette nærmere undersøkelser for å avklare forholdet.\nEr en sikkerhetsklarering​2 besluttet tilbakekalt, nedsatt eller suspendert, skal begrunnet melding om dette sendes til Nasjonal sikkerhetsmyndighet.​3 Autorisasjonsansvarlig skal varsles umiddelbart.\nAutorisasjon​4 bortfaller automatisk\na. når personen fratrer den stilling som autorisasjonen omfatter,\nb. når behovet for autorisasjon av andre grunner ikke lenger er til stede, eller\nc. når vedkommende ikke lenger har tilstrekkelig sikkerhetsklarering.\nFår autorisasjonsansvarlig opplysninger som gir grunn til tvil om en autorisert person fortsatt kan anses sikkerhetsmessig skikket, skal autorisasjonen vurderes tilbakekalt, nedsatt eller suspendert. Avgjørelse om dette skal innberettes til vedkommende klareringsmyndighet.\nNasjonal sikkerhetsmyndighet fastsetter generell gyldighetstid for sikkerhetsklareringer.\n1 Se § 23.\n2 Se § 3 (1) nr. 19.\n3 Se kap. 3.\n4 Se § 3 (1) nr. 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "Begrunnelse og underretning",
+      "content": "Forvaltningsloven​1 kapittel IV og V gjelder ikke for avgjørelser om sikkerhetsklarering​2 eller autorisasjon.​3\nDen som har vært vurdert sikkerhetsklarert, har rett til å bli gjort kjent med resultatet. Ved negativ avgjørelse skal vedkommende uoppfordret underrettes om resultatet og opplyses om klageadgangen.\nBegrunnelse for en avgjørelse skal gis samtidig med underretningen om utfallet av klareringssaken. Vedkommende har ikke krav på begrunnelse i den utstrekning begrunnelse ikke kan gis uten å røpe opplysninger som\na. er av betydning for Norges eller dets alliertes sikkerhet, forholdet til fremmede makter eller andre vitale nasjonale sikkerhetsinteresser,\nb. er av betydning for kildevern,\nc. det av hensyn til vedkommendes helse eller hans forhold til personer som står denne nær, må anses utilrådelig at vedkommende får kjennskap til,\nd. angår tekniske innretninger, produksjonsmetoder, forretningsmessige analyser og berekninger og forretningshemmeligheter ellers, når de er av en slik art at andre kan utnytte dem i sin næringsvirksomhet.\nKlareringsmyndigheten​4 skal i tillegg utarbeide en intern samtidig begrunnelse hvor alle relevante forhold inngår, herunder forhold som nevnt i tredje ledd.\n0 Endret ved lov 17 juni 2005 nr. 81 (ikr. 1 jan 2006 iflg. res. 21 des 2005 nr. 1605).\n1 Lov 10 feb 1967.\n2 Se § 3 (1) nr. 19.\n3 Se § 3 (1) nr. 20.\n4 Se § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:25 a",
+      "chapter": "6",
+      "section": "25 a",
+      "title": "Innsyn",
+      "content": "Etter at avgjørelse om sikkerhetsklarering​1 er fattet, har den som har vært vurdert sikkerhetsklarert rett til å gjøre seg kjent med sakens dokumenter. Vedkommende har etter samme tidspunkt rett til å se audiovisuelt opptak av egen sikkerhetssamtale.\nVedkommende har ikke krav på innsyn i de deler av et dokument som inneholder opplysninger som nevnt i § 25 tredje ledd. Vedkommende har heller ikke krav på innsyn i et dokument som er utarbeidet for den interne saksforberedelsen ved klareringsmyndigheten​2 eller klageinstansen, med unntak av faktiske opplysninger eller sammendrag eller annen bearbeidelse av faktum.\nPå anmodning skal den som har krav på innsyn gis kopi av dokumentet. Gjennomsyn av audiovisuelt opptak av sikkerhetssamtale skjer ved oppmøte hos klareringsmyndigheten.​2\n0 Tilføyd ved lov 17 juni 2005 nr. 81 (ikr. 1 jan 2006 iflg. res. 21 des 2005 nr. 1605).\n1 Se § 3 (1) nr. 19.\n2 Se § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25a",
+        "source_heading": "§ 25 a."
+      }
+    },
+    {
+      "provision_ref": "6:25 b",
+      "chapter": "6",
+      "section": "25 b",
+      "title": "Oversendelse av sak til særskilt oppnevnt advokat",
+      "content": "Forsvarsdepartementet oppnevner en gruppe advokater som skal sikkerhetsklareres for høyeste nivå. Disse skal benyttes i de tilfeller som er nevnt i andre ledd.\nDer begrunnelse ikke gis, jf. § 25 tredje ledd, og klagefristen ikke er løpt ut, skal klareringsmyndigheten​1 på begjæring av den som er vurdert sikkerhetsklarert, gjøre sakens dokumenter tilgjengelig for en advokat som er oppnevnt for dette formålet. Det samme gjelder avslag på begjæring om innsyn, jf. § 25 a andre ledd første punktum. Vedkommende må ha utprøvd klageadgangen vedrørende nektet begrunnelse eller avslag på begjæring om innsyn, jf. § 25 c andre ledd, før denne retten til bruk av advokat inntrer.\nAdvokaten skal ha tilgang til sakens faktiske opplysninger og den begrunnelse som er ukjent for den som har vært vurdert sikkerhetsklarert. Dokument som er utarbeidet for den interne saksforberedelsen ved klareringsmyndigheten eller klageinstansen, jf. § 25 a andre ledd siste punktum, skal ikke gis advokaten.\nAdvokaten skal gi den som er vurdert sikkerhetsklarert råd om hvorvidt vedkommende bør klage.\n0 Tilføyd ved lov 17 juni 2005 nr. 81 (ikr. 1 jan 2006 iflg. res. 21 des 2005 nr. 1605).\n1 Se § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25b",
+        "source_heading": "§ 25 b."
+      }
+    },
+    {
+      "provision_ref": "6:25 c",
+      "chapter": "6",
+      "section": "25 c",
+      "title": "Klage",
+      "content": "Bestemmelsene i forvaltningsloven​1 kapittel VI gjelder tilsvarende i klareringssaker om ikke annet følger av denne lov eller forskrift om personellsikkerhet.\nNegativ avgjørelse om sikkerhetsklarering,​2 herunder vilkår og når klareringssaken tidligst kan tas opp på nytt, kan påklages av den avgjørelsen retter seg mot. Det samme gjelder nektet begrunnelse og avslag på begjæring om innsyn.\nKlage på avgjørelse om sikkerhetsklarering​2 sendes vedkommende klareringsmyndighet. Nasjonal sikkerhetsmyndighet​3 er klageinstans. Departementet er klageinstans for klareringsavgjørelser truffet av Nasjonal sikkerhetsmyndighet​3 i første instans.\nFristen for å klage er tre uker fra den dag underretningen om avgjørelsen, manglende begrunnelse eller avslag på begjæring om innsyn har kommet frem til vedkommende. Dersom det klages på nektet begrunnelse eller avslag på begjæring om innsyn, avbrytes klagefristen. Ny klagefrist løper fra det tidspunkt underretning om begrunnelse eller innsyn er kommet frem til vedkommende eller på annen måte er gjort kjent med den. I saker der advokat har gjennomgått saken, løper ny klagefrist fra den dag rådet fra advokaten har kommet frem til vedkommende.\n0 Tilføyd ved lov 17 juni 2005 nr. 81 (ikr. 1 jan 2006 iflg. res. 21 des 2005 nr. 1605).\n1 Lov 10 feb 1967.\n2 Se § 3 (1) nr. 19.\n3 Se § 4 og kap. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25c",
+        "source_heading": "§ 25 c."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "Utfyllende bestemmelser",
+      "content": "Kongen kan gi forskrifter om opprettelse av et sentralt register for klareringsavgjørelser.\nNasjonal sikkerhetsmyndighet​1 fastsetter utfyllende bestemmelser om personellsikkerhet, herunder om\na. sikkerhetsklarering av bestemte kategorier personell, bl.a. vernepliktige​2 mannskaper i Forsvaret,\nb. arkivering, oppbevaring og forsendelse av dokumenter i klarerings- og personkontrollsaker, og\nc. avholdelse av sikkerhetssamtaler.\n1 Se kap. 3.\n2 Se lov 12 aug 2016 nr. 77 kap. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "7:27",
+      "chapter": "7",
+      "section": "27",
+      "title": "Inngåelse av sikkerhetsavtale",
+      "content": "Ved sikkerhetsgraderte anskaffelser​2 skal det inngås en sikkerhetsavtale mellom anskaffelsesmyndigheten​3 og leverandøren. Sikkerhetsavtale skal være inngått før leverandøren kan få tilgang til skjermingsverdig informasjon.​4 Sikkerhetsavtale med utenlandske leverandører kan bare inngås etter godkjenning av Nasjonal sikkerhetsmyndighet.​5 Nasjonal sikkerhetsmyndighet kan bestemme at sikkerhetsavtale også skal inngås dersom leverandøren vil kunne få tilgang til skjermingsverdig objekt​6 eller dersom det av andre grunner er nødvendig å sikkerhetsgradere anskaffelsen.\nSikkerhetsavtalen skal fastsette nærmere detaljer om ansvar og plikter etter bestemmelsene i og i medhold av loven her, herunder om\na. anskaffelsens sikkerhetsgrad, spesifisert for de enkelte deler av oppdraget,\nb. praktisk gjennomføring av undersøkelser hos leverandøren og annen kontroll med denne for å vurdere sikkerhetstilstanden og kontrollere at leverandøren forholder seg i samsvar med sikkerhetsbestemmelsene og øvrige plikter etter loven her, og\nc. konsekvenser ved brudd på sikkerhetsavtalen.\nUtgifter eller krav leverandøren måtte ha for å oppfylle bestemmelsene i eller i medhold av loven her og inngått sikkerhetsavtale, er anskaffelsesmyndigheten og Nasjonal sikkerhetsmyndighet​5 uvedkommende, med mindre annet er uttrykkelig avtalt i sikkerhetsavtalen.\n1 Se § 2 (2).\n2 Se § 3 (1) nr. 17.\n3 Se § 3 (1) nr. 16.\n4 Se § 3 (1) nr. 8.\n5 Se kap. 3.\n6 Se § 3 (1) nr. 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "7:28",
+      "chapter": "7",
+      "section": "28",
+      "title": "Leverandørklarering",
+      "content": "Før en leverandør kan få tilgang til skjermingsverdig informasjon​1 sikkerhetsgradert KONFIDENSIELT eller høyere,​2 eller dersom det av andre grunner anses nødvendig, skal leverandøren ha gyldig leverandørklarering for angitt sikkerhetsgrad. Kongen gir forskrift om gyldighetstiden for leverandørklareringer.\nLeverandørklarering skal ikke gis dersom det foreligger rimelig tvil om leverandørens sikkerhetsmessige skikkethet. Ved avgjørelse om sikkerhetsmessig skikkethet skal det bare legges vekt på forhold som er relevante for å vurdere leverandørens evne og vilje til å utøve forebyggende sikkerhetstjeneste etter bestemmelsene i eller i medhold av loven her. I vurderingen skal inngå personkontroll av personer i leverandørens styre og ledelse.\nLeverandøren skal gi alle opplysninger som antas å kunne være av betydning for klareringsspørsmålet.\nLeverandøren skal uten ugrunnet opphold orientere Nasjonal sikkerhetsmyndighet​2 om endringer i styre eller ledelse, forandringer i eierstrukturen, flytting av lokaliteter og utstyr, åpning av gjeldsforhandling eller begjæring om konkurs og andre forhold som kan ha betydning for leverandørens sikkerhetsmessige skikkethet. Anses slike forhold å representere en sikkerhetsrisiko og risikoen ikke kan elimineres gjennom å utøve forebyggende sikkerhetstjeneste, kan Nasjonal sikkerhetsmyndighet​3 inndra leverandørklareringen. Skjermingsverdig informasjon eller objekt​4 kan ikke overføres til ny eier eller inngå i bobehandling ved gjeldsforhandling eller konkurs, med mindre Nasjonal sikkerhetsmyndighet har samtykket til dette.\nFor øvrig gjelder reglene i kapittel 6, herunder reglene om begrunnelse og klage, så langt de passer.\n0 Endret ved lov 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).\n1 Se § 3 (1) nr. 8.\n2 Se § 11.\n3 Se kap. 3.\n4 Se § 3 (1) nr. 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "7:29",
+      "chapter": "7",
+      "section": "29",
+      "title": "Utfyllende bestemmelser m.v.",
+      "content": "Kongen​1 kan gi utfyllende bestemmelser om sikkerhetsgraderte anskaffelser,​2 samt fastsette særskilte regler for gjennomføring av internasjonale sikkerhetsgraderte anskaffelser.\n1 Forsvarsdepartementet iflg. res. 29 juni 2001 nr. 721.\n2 Se § 3 (1) nr. 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "7:29 a",
+      "chapter": "7",
+      "section": "29 a",
+      "title": "Varslingsplikt og myndighet til å fatte vedtak ved anskaffelser til kritisk infrastruktur",
+      "content": "Ved anskaffelser til kritisk infrastruktur​1 skal det foretas en risikovurdering. I vurderingen skal det tas stilling til om anskaffelsen innebærer en ikke ubetydelig risiko for at sikkerhetstruende virksomhet​2 blir etablert eller gjennomført mot eller ved bruk av infrastrukturen. Plikten til å foreta en risikovurdering gjelder ikke dersom det framstår som åpenbart at anskaffelsen ikke kan innebære noen slik risiko.\nEn virksomhet som eier eller rår over kritisk infrastruktur, skal varsle overordnet departement dersom en risikovurdering som nevnt i første ledd konkluderer med at anskaffelsen kan innebære en ikke ubetydelig risiko for at sikkerhetstruende virksomhet blir etablert eller gjennomført. Virksomheter som ikke er underlagt noe departement, skal varsle Forsvarsdepartementet. Varslingsplikten gjelder uten hinder av lovbestemt taushetsplikt. Plikten gjelder ikke dersom virksomheten selv iverksetter risikoreduserende tiltak som fjerner risikoen, eller gjør den ubetydelig.\nEt departement som mottar varsel etter andre ledd, bør innhente en rådgivende uttalelse fra relevante organer om leveransens risikopotensial, og leverandørers sikkerhetsmessige pålitelighet.\nDersom en anskaffelse til kritisk infrastruktur kan medføre en ikke ubetydelig risiko for at sikkerhetstruende virksomhet blir etablert eller gjennomført, kan Kongen i statsråd fatte vedtak om at anskaffelsen skal nektes gjennomført, eller om at det settes vilkår for gjennomføringen. Dette gjelder også dersom det allerede er inngått avtale om anskaffelsen. Dersom det ikke fattes vedtak etter første punktum, skal departementet underrette virksomheten om dette. Vedtak etter første punktum er særlig tvangsgrunnlag etter tvangsfullbyrdelsesloven​3 kapittel 13.\nKongen i statsråd kan gi forskrift om anskaffelser til kritisk infrastruktur.\n0 Tilføyd ved lov 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).\n1 Se § 3 (1) nr. 21.\n2 Se § 3 (1) nr. 6.\n3 Lov 26 juni 1992 nr. 86.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29a",
+        "source_heading": "§ 29 a."
+      }
+    },
+    {
+      "provision_ref": "8:30",
+      "chapter": "8",
+      "section": "30",
+      "title": "Kontroll- og tilsynsordninger",
+      "content": "Forebyggende sikkerhetstjeneste​1 i medhold av loven her er underlagt kontroll og tilsyn av Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste, i samsvar med bestemmelsene i og i medhold av lov av 3. februar 1995 nr. 7 om kontroll med etterretnings-, overvåkings- og sikkerhetstjeneste.\nKongen kan etablere særskilte ordninger for å kontrollere og føre tilsyn med Nasjonal sikkerhetsmyndighet​2 og andre virksomheters​3 forebyggende sikkerhetstjeneste,​1 i den hensikt å påse at utøvelsen holdes innen rammen av gjeldende lov, administrative eller militære direktiver og ulovfestet rett, eller for å sørge for at rettssikkerhetsmessige og andre hensyn ivaretas.\n1 Se § 3 (1) nr. 1.\n2 Se kap. 3.\n3 Se § 3 (1) nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "8:31",
+      "chapter": "8",
+      "section": "31",
+      "title": "Straff​1",
+      "content": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av §§ 5, 10, 12 annet ledd, 13 første og fjerde ledd, 14 første, tredje og fjerde ledd og 17 i loven her, eller overtrer pålegg gitt av Nasjonal sikkerhetsmyndighet i medhold av § 9 første ledd bokstav c i loven her, straffes med bøter eller fengsel inntil seks måneder, hvis ikke forholdet går inn under en strengere straffebestemmelse.\nDen som forsettlig eller grovt uaktsomt overtrer § 11 annet ledd første punktum i loven her, straffes med bøter eller fengsel inntil seks måneder, hvis ikke forholdet går inn under en strengere straffebestemmelse.\nDen som forsettlig eller grovt uaktsomt krenker taushetsplikt etter § 12 første ledd, straffes med bøter eller fengsel inntil ett år, hvis ikke forholdet går inn under en strengere straffebestemmelse.\nDen som overtrer forbud med hjemmel i § 18 a straffes med bot eller fengsel inntil 1 år, hvis ikke forholdet går inn under en strengere straffebestemmelse.\nForsøk straffes på samme måte.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Jf. strl. kap. 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "9:32",
+      "chapter": "9",
+      "section": "32",
+      "title": "Ikrafttredelse",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.\n0 Loven trådte ikr. 1 juli 2001 iflg. res. 29 juni 2001 nr. 720.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "9:33",
+      "chapter": "9",
+      "section": "33",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tiden loven trer i kraft gjøres følgende endringer i andre lover:",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Formålet med denne lov er å\na. legge forholdene til rette for effektivt å kunne motvirke trusler mot rikets selvstendighet og sikkerhet og andre vitale nasjonale sikkerhetsinteresser,\nb. ivareta den enkeltes rettssikkerhet, og\nc. trygge tilliten til og forenkle grunnlaget for kontroll med forebyggende sikkerhetstjeneste.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens generelle virkeområde",
+      "content": "Loven gjelder for forvaltningsorganer. Som forvaltningsorgan regnes i loven ethvert organ for stat eller kommune.​1 Kongen kan i tvilstilfelle bestemme om et organ er å regne som forvaltningsorgan. Kongen kan også bestemme at et forvaltningsorgan helt eller delvis skal være unntatt fra loven når det foreligger særlige grunner for det, og kan da i stedet fastsette særlige regler.\nLoven gjelder også for ethvert rettssubjekt som ikke er forvaltningsorgan og som er leverandør av varer eller tjenester til et forvaltningsorgan i forbindelse med en sikkerhetsgradert anskaffelse.​2\nKongen kan bestemme at loven helt eller delvis også skal gjelde for ethvert annet rettssubjekt, herunder enkeltpersoner, foreninger, stiftelser, selskaper og privat og offentlig næringsvirksomhet,\na. som eier eller på annen måte har kontroll over eller fører tilsyn med skjermingsverdig objekt,​3 eller\nb. som av et forvaltningsorgan gis tilgang til sikkerhetsgradert informasjon.​4\n§ 29 a gjelder for alle anskaffelser til kritisk infrastruktur.​5 Kongen kan gi forskrift om identifisering av kritisk infrastruktur og om informasjon til rettssubjekter som eier eller rår over kritisk infrastruktur.\nLoven gjelder for domstolene med de særregler som følger av bestemmelsene om sikkerhetsklarering​6 og autorisasjon​7 i og i medhold av domstolloven​8 og straffeprosessloven.​9 Kongen kan fastsette ytterligere særregler.\nBestemmelsene gitt i og i medhold av lovens kapittel 6 om personellsikkerhet gjelder ikke for regjeringens medlemmer og dommere i Høyesterett.\nLoven gjelder ikke for Stortinget, Riksrevisjonen, Stortingets ombudsmann for forvaltningen​10 og andre organer for Stortinget.\nLoven gjelder for Svalbard​11 og Jan Mayen​12 i den utstrekning Kongen bestemmer.\n0 Endret ved lov 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).\n1 Se fvl. § 1.\n2 Se § 3 (1) nr. 17 og kap. 7.\n3 Se § 3 (1) nr. 12.\n4 Se § 3 (1) nr. 9.\n5 Se § 3 (1) nr. 21.\n6 Se § 3 (1) nr. 19.\n7 Se § 3 (1) nr. 20.\n8 Lov 13 aug 1915 nr. 5. Se dens §§ 12, 21 og 91.\n9 Lov 22 mai 1981 nr. 25. Se dens § 102 og § 141.\n10 Se lov 22 juni 1962 nr. 8.\n11 Se lov 17 juli 1925 nr. 11 § 1 (2).\n12 Se lov 27 feb 1930 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I denne lov forstås med:\n1. Forebyggende sikkerhetstjeneste; planlegging, tilrettelegging, gjennomføring og kontroll av forebyggende sikkerhetstiltak som søker å fjerne eller redusere risiko som følge av sikkerhetstruende virksomhet.\n2. Sikkerhetstruende virksomhet; forberedelse til, forsøk på og gjennomføring av spionasje, sabotasje eller terrorhandlinger, samt medvirkning til slik virksomhet.\n3. Spionasje; innsamling av informasjon ved hjelp av fordekte midler i etterretningsmessig hensikt.\n4. Sabotasje; tilsiktet ødeleggelse, lammelse eller driftsstopp av utstyr, materiell, anlegg eller aktivitet, eller tilsiktet uskadeliggjøring av personer, utført av eller for en fremmed stat, organisasjon eller gruppering.\n5. Terrorhandlinger; ulovlig bruk av, eller trussel om bruk av, makt eller vold mot personer eller eiendom, i et forsøk på å legge press på landets myndigheter eller befolkning eller samfunnet for øvrig for å oppnå politiske, religiøse eller ideologiske mål.\n6. Virksomhet; et forvaltningsorgan eller annet rettssubjekt som loven gjelder for, jfr § 2.\n7. Informasjon; enhver form for opplysninger i materiell eller immateriell form.\n8. Skjermingsverdig informasjon; informasjon som skal merkes med sikkerhetsgrad etter reglene i § 11 i loven her.\n9. Sikkerhetsgradert informasjon; informasjon som er merket med sikkerhetsgrad i henhold til reglene i § 11 i loven her.\n10. Informasjonssystem; en organisert samling av periferutrustning, programvare, datamaskiner og kommunikasjonsnett som knytter dem sammen.\n11. Monitoring; avlytting av tale eller avlesing av elektroniske signaler som kommuniseres i eller mellom informasjonssystemer.\n12. Skjermingsverdig objekt; eiendom som må beskyttes mot sikkerhetstruende virksomhet av hensyn til rikets eller alliertes sikkerhet eller andre vitale nasjonale sikkerhetsinteresser.\n13. Eiendom; områder, bygninger, anlegg, transportmidler eller annet materiell, eller deler av slik eiendom.\n14. Objekteier; virksomhet eller person som eier eller på annen måte råder over skjermingsverdig objekt.\n15. Funksjon/funksjonalitet; produksjon, forsyning, kommunikasjon eller annen rettmessig bruk eller aktivitet tilknyttet en eiendom.\n16. Anskaffelsesmyndighet; et forvaltningsorgan som har til hensikt å anskaffe, eller har anskaffet, varer eller tjenester fra rettssubjekt som ikke er forvaltningsorgan.\n17. Sikkerhetsgradert anskaffelse; anskaffelse, foretatt av anskaffelsesmyndighet, som innebærer at leverandøren av varen eller tjenesten vil kunne få tilgang til skjermingsverdig informasjon eller objekt, eller som innebærer at anskaffelsen må sikkerhetsgraderes av andre årsaker.\n18. Personkontroll; innhenting av relevante opplysninger til vurdering av sikkerhetsklarering.\n19. Sikkerhetsklarering; avgjørelse, foretatt av klareringsmyndighet og bygget på personkontroll, om en persons antatte sikkerhetsmessige skikkethet for angitt sikkerhetsgrad.\n20. Autorisasjon; avgjørelse, foretatt av autorisasjonsansvarlig, om at en person etter forutgående sikkerhetsklarering (med unntak for tilgang til informasjon sikkerhetsgradert BEGRENSET), bedømmelse av kunnskap om sikkerhetsbestemmelser, tjenstlig behov samt avlagt skriftlig taushetsløfte, gis tilgang til informasjon med angitt sikkerhetsgrad.\n21. Kritisk infrastruktur; anlegg og systemer som er nødvendige for å opprettholde samfunnets grunnleggende behov og funksjoner.\nKrav i eller i medhold av loven her om at meddelelse eller annet skal være skriftlig, er ikke til hinder for bruk av elektronisk kommunikasjon, forutsatt at dette ikke vil stride mot bestemmelser gitt i eller i medhold av lovens §§ 11 – 14.\n0 Endret ved lover 21 des 2001 nr. 117 (ikr. 1 jan 2002 iflg. res. 21 des 2001 nr. 1475), 11 apr 2008 nr. 9 (ikr. 1 jan 2011 iflg. res. 22 okt 2010 nr. 1361), 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Overordnet ansvar",
+      "content": "Departementet har det overordnede ansvar for forebyggende sikkerhetstjeneste. Dette begrenser ikke den enkeltes ansvar og plikter etter bestemmelsene i eller i medhold av loven her.\nDepartementets utøvende funksjoner ivaretas av Nasjonal sikkerhetsmyndighet.​1\n1 Se kap. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Den enkelte virksomhets plikter",
+      "content": "Enhver virksomhet​2 plikter å utøve forebyggende sikkerhetstjeneste i henhold til bestemmelsene gitt i eller i medhold av loven her.\nVirksomheten skal\na. utarbeide intern instruks for å ivareta sikkerheten,\nb. sørge for at virksomhetens ansatte og engasjerte får tilstrekkelig opplæring i sikkerhetsspørsmål, og\nc. regelmessig kontrollere sikkerhetstilstanden i virksomheten.\nAnsvaret påhviler lederen for virksomheten. Dersom utøvende funksjoner delegeres internt i virksomheten, skal dette gjøres skriftlig.\nAlt ansatt eller engasjert personell har i sitt arbeid eller oppdrag for virksomheten ansvar for å ivareta sikkerhetsmessige hensyn, og plikter å bidra til forebyggende sikkerhetstjeneste.\nNærmere bestemmelser gis av Nasjonal sikkerhetsmyndighet.​3\n1 Jf. § 31.\n2 Se § 3 (1) nr. 6.\n3 Se kap. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:5 a",
+      "chapter": "2",
+      "section": "5 a",
+      "title": "Varslingsplikt og myndighet til å fatte vedtak ved risiko for sikkerhetstruende virksomhet",
+      "content": "En virksomhet​1 som får kunnskap om en planlagt eller pågående aktivitet som kan medføre en ikke ubetydelig risiko for at sikkerhetstruende virksomhet​2 blir etablert eller gjennomført, skal varsle overordnet departement om dette. Dersom den varslingspliktige virksomheten ikke er underlagt noe departement, skal varselet gis til Forsvarsdepartementet. Varslingsplikten gjelder uten hinder av lovbestemt taushetsplikt. Ved behandling av varsel etter første og andre punktum bør det innhentes rådgivende uttalelser fra relevante organer med kompetanse innenfor det aktuelle fagområdet.\nKongen i statsråd kan fatte nødvendige vedtak for å hindre en planlagt eller pågående aktivitet som nevnt i første ledd første punktum. Et slikt vedtak kan fattes uten hensyn til begrensningene i forvaltningsloven​3 § 35, og uavhengig av om aktiviteten er tillatt etter annen lov eller annet vedtak. Vedtak etter første punktum er særlig tvangsgrunnlag etter tvangsfullbyrdelsesloven​4 kapittel 13.\nKongen i statsråd kan gi forskrift om varslingsplikten i første ledd og om hvilke vedtak som kan fattes etter andre ledd.\n0 Tilføyd ved lov 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).\n1 Se § 3 (1) nr. 6.\n2 Se § 3 (1) nr. 2.\n3 Lov 10 feb 1967.\n4 Lov 26 juni 1992 nr. 86.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5a",
+        "source_heading": "§ 5 a."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Generelt om utøvelse av forebyggende sikkerhetstjeneste",
+      "content": "Når utøvelse av forebyggende sikkerhetstjeneste​1 etter eller i medhold av loven her overlates til den ansvarliges skjønn, skal det ikke nyttes mer inngripende midler og metoder enn det som fremstår som nødvendig i forhold til den aktuelle sikkerhetsrisiko og omstendighetene for øvrig.\nVed utøvelse av forebyggende sikkerhetstjeneste skal det særlig tas hensyn til den enkeltes rettssikkerhet.\nBruk av elektronisk kommunikasjon ved underretning om et vedtak er bare tillatt når den vedtaket retter seg mot uttrykkelig har godtatt dette.\n0 Endret ved lov 21 des 2001 nr. 117 (ikr. 1 jan 2002 iflg. res. 21 des 2001 nr. 1475).\n1 Se § 3 (1) nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Samarbeid",
+      "content": "Kongen gir bestemmelser om nasjonalt, regionalt og lokalt samarbeid om forebyggende sikkerhetstjeneste.​1\n1 Se § 3 (1) nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Generelle oppgaver",
+      "content": "Nasjonal sikkerhetsmyndighet skal koordinere de forebyggende sikkerhetstiltak og kontrollere sikkerhetstilstanden. Nasjonal sikkerhetsmyndighet er også utøvende organ i forholdet til andre land og internasjonale organisasjoner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Nærmere om oppgavene",
+      "content": "Nasjonal sikkerhetsmyndighet skal\na. innhente og vurdere informasjon av betydning for gjennomføringen av forebyggende sikkerhetstjeneste,​1\nb. søke internasjonalt samarbeid, herunder med andre lands og organisasjoners tilsvarende tjenester, når dette tjener norske interesser,\nc. føre tilsyn med sikkerhetstilstanden i virksomheter,​2 herunder kontrollere at den enkeltes plikter i eller i medhold av loven her overholdes, og eventuelt gi pålegg​3 om forbedringer,\nd. bidra til at sikkerhetstiltak utvikles, herunder iverksette forskning og utvikling på områder av betydning for forebyggende sikkerhetstjeneste,\ne. drive en nasjonal responsfunksjon for alvorlige dataangrep mot kritisk infrastruktur​4 og et nasjonalt varslingssystem for digital infrastruktur,\nf. gi informasjon, råd og veiledning til virksomheter.\nKongen kan gi nærmere bestemmelser om Nasjonal sikkerhetsmyndighets utøvelse av oppgavene.\n0 Endret ved lov 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).\n1 Se § 3 (1) nr. 1.\n2 Se § 3 (1) nr. 6.\n3 Jf. § 31.\n4 Se § 3 (1) nr. 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Nasjonal sikkerhetsmyndighets adgangsrett",
+      "content": "Så langt det er nødvendig for å gjennomføre kontrolloppgavene i eller i medhold av loven her, skal Nasjonal sikkerhetsmyndighet gis uhindret adgang​2 til ethvert område hvor skjermingsverdig informasjon​3 eller objekt​4 befinner seg, dersom området eies, brukes eller på annen måte kontrolleres av en virksomhet.​5\n1 Jf. § 31.\n2 Jf. strl. § 156.\n3 Se § 3 (1) nr. 8.\n4 Se § 3 (1) nr. 12.\n5 Se § 3 (1) nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:10 a",
+      "chapter": "3",
+      "section": "10 a",
+      "title": "Behandling av personopplysninger",
+      "content": "Når det er nødvendig for å utføre oppgavene etter § 9 første ledd bokstav e, kan Nasjonal sikkerhetsmyndighet​1 behandle personopplysninger i form av\na. metadata om IKT-trafikk til og fra virksomheter​2 som er knyttet til det nasjonale varslingssystemet for digital infrastruktur\nb. informasjon​3 som er nødvendig for å analysere utløste alarmer i varslingssystemet\nc. IP-adresser mottatt fra nasjonale og internasjonale samarbeidspartnere\nd. logger og infisert maskinvare, etter samtykke fra en virksomhet der dette er nødvendig i forbindelse med bistand til håndtering av alvorlige dataangrep.\nI andre tilfeller enn nevnt i første ledd, kan personopplysninger også behandles når dette er strengt nødvendig for å ivareta oppgavene etter § 9 første ledd bokstav e, og behandlingen etter en konkret vurdering framstår som både nødvendig og proporsjonal i forhold til det inngrepet den representerer i personvernet.\nKongen kan gi forskrift om Nasjonal sikkerhetsmyndighets behandling av personopplysninger.\n0 Tilføyd ved lov 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).\n1 Jf. kap. 3.\n2 Se § 3 (1) nr. 6.\n3 Se § 3 (1) nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10a",
+        "source_heading": "§ 10 a."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "Sikkerhetsgradering",
+      "content": "Når informasjon​1 må beskyttes av sikkerhetsmessige grunner, skal en av følgende sikkerhetsgrader benyttes:\na. STRENGT HEMMELIG nyttes dersom det kan få helt avgjørende skadefølger for Norges eller dets alliertes sikkerhet, forholdet til fremmede makter eller andre vitale nasjonale sikkerhetsinteresser om informasjonen blir kjent for uvedkommende.\nb. HEMMELIG nyttes dersom det alvorlig kan skade Norges eller dets alliertes sikkerhet, forholdet til fremmede makter eller andre vitale nasjonale sikkerhetsinteresser om informasjonen blir kjent for uvedkommende.\nc. KONFIDENSIELT nyttes dersom det kan skade Norges eller dets alliertes sikkerhet, forholdet til fremmede makter eller andre vitale nasjonale sikkerhetsinteresser om informasjonen blir kjent for uvedkommende.\nd. BEGRENSET nyttes dersom det i noen grad kan medføre skadefølger for Norges eller dets alliertes sikkerhet, forholdet til fremmede makter eller andre vitale nasjonale sikkerhetsinteresser om informasjonen blir kjent for uvedkommende.\nDen som utsteder eller på annen måte tilvirker skjermingsverdig informasjon,​2 skal​3 sørge for at informasjonen merkes med aktuell sikkerhetsgrad. Sikkerhetsgradering skal ikke skje i større utstrekning enn strengt nødvendig, og det skal ikke brukes høyere sikkerhetsgrad enn nødvendig.\nSikkerhetsgradering skal ikke gis virkning for lengre tid enn det som er strengt nødvendig, og graderingen skal senest bortfalle etter 30 år. Nærmere regler om ned- og avgradering gis av Kongen. Kongen kan for særskilte tilfeller fastsette unntak fra 30 års regelen i første punktum.\nKongen kan under forutsetning om gjensidighet treffe overenskomst med fremmed stat eller internasjonal organisasjon om sikkerhetsgradering av mottatt informasjon som er sikkerhetsgradert av vedkommende stat eller internasjonale organisasjon, og om plikt til å treffe tiltak for å sikre slik informasjon.\n1 Se § 3 (1) nr. 7.\n2 Se § 3 (1) nr. 8.\n3 Jf. § 31.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Plikt til å beskytte sikkerhetsgradert informasjon​2",
+      "content": "Enhver som får tilgang til sikkerhetsgradert informasjon som ledd i arbeid, oppdrag eller verv for en virksomhet,​3 plikter å hindre at uvedkommende får kjennskap til informasjonen. Taushetsplikten gjelder også etter at vedkommende har avsluttet arbeidet, oppdraget eller vervet. Sikkerhetsgradert informasjon skal bare overlates til personer som har tjenstlig behov for tilgang til den. Taushetsplikten er likevel ikke til hinder for at sikkerhetsgradert informasjon blir gitt til andre når dette har særskilt hjemmel i lov eller i generell forskrift fastsatt av Kongen.\nKongen​4 gir nærmere regler om håndteringen av sikkerhetsgradert informasjon, herunder om journalisering, oppbevaring, forsendelse og tilintetgjøring. Kongen​4 kan også gi regler om plikt til å legge forholdene til rette for at sikkerhetsgradert informasjon er korrekt, fullstendig og tilgjengelig.\n1 Jf. § 31.\n2 Jf. offl. § 13.\n3 Se § 3 (1) nr. 6.\n4 Forsvarsdepartementet iflg. res. 29 juni 2001 nr. 721.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Sikkerhetsmessig godkjenning av informasjonssystemer",
+      "content": "Før skjermingsverdig informasjon​2 behandles, lagres eller transporteres i et informasjonssystem, skal Nasjonal sikkerhetsmyndighet,​3 eller den Nasjonal sikkerhetsmyndighet bemyndiger, godkjenne systemet for angjeldende sikkerhetsgrad.\nNasjonal sikkerhetsmyndighet er sertifiseringsmyndighet for informasjonssystemer​4 som skal håndtere skjermingsverdig informasjon.​2\nNasjonal sikkerhetsmyndighet kan godkjenne at andre virksomheter​5 utfører tjenester for sikring av informasjonssystemer​4 som skal håndtere skjermingsverdig informasjon.​2\nNasjonal sikkerhetsmyndighet gir nærmere forskrifter om sikkerhetsmessig godkjenning av informasjonssystemer.​4\n1 Jf. § 31.\n2 Se § 3 (1) nr. 8.\n3 Se kap. 3.\n4 Se § 3 (1) nr. 10.\n5 Se § 3 (1) nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:13 a",
+      "chapter": "4",
+      "section": "13 a",
+      "title": "Sikkerhetsmessig overvåking av godkjente informasjonssystemer",
+      "content": "Den enkelte virksomhet​1 skal kontinuerlig overvåke et godkjent informasjonssystem for sikkerhetstruende hendelser​2 mot informasjonssystemet​3 eller informasjon​4 i systemet, fortrinnsvis ved bruk av automatisert systemovervåking. Sikkerhetsrelevante hendelser skal registreres.\nInformasjon som utveksles mellom systemer, på tvers av autorisasjonsskiller eller til bærbare lagringsmedier, skal registreres og lagres.\nFlere virksomheter som er tilknyttet samme informasjonssystem, kan avtale at en av virksomhetene skal forestå overvåking og registrering etter første og andre ledd på vegne av den ansvarlige virksomheten.\nInformasjon registrert etter første og andre ledd skal lagres i fem år. Slik informasjon skal kun benyttes for å håndtere sikkerhetstruende hendelser.\nDen enkelte virksomhet skal påse at autoriserte brukere av informasjonssystemer som overvåkes i henhold til denne bestemmelse får informasjon om formålet med behandlingen, om de tiltak som er iverksatt, om informasjonen vil bli utlevert og eventuelt om hvem som er mottaker.\nKongen kan gi forskrift om\na. hvilke typer data som kan eller skal registreres og lagres\nb. hvem som skal ha tilgang til registrert og lagret data\nc. hvordan tilgang skal gis\nd. unntak fra lagringstid på fem år.\n0 Tilføyd ved lov 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).\n1 Se § 3 (1) nr. 6.\n2 Se § 3 (1) nr. 2.\n3 Se § 3 (1) nr. 10.\n4 Se § 3 (1) nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13a",
+        "source_heading": "§ 13 a."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Kryptosikkerhet",
+      "content": "Bare kryptosystemer som er godkjent av Nasjonal sikkerhetsmyndighet,​2 tillates brukt for beskyttelse av skjermingsverdig informasjon.​3\nNasjonal sikkerhetsmyndighet​2 er nasjonal forvalter av kryptomateriell og leverandør av kryptosikkerhetstjenester til virksomheter.​4 Nasjonal sikkerhetsmyndighet kan likevel godkjenne andre leverandører av kryptosikkerhetstjenester. Disse skal undertegne en særskilt avtale om dette med Nasjonal sikkerhetsmyndighet.\nNasjonal sikkerhetsmyndighet​2 skal godkjenne kryptoalgoritmer som brukes i utstyr som tenkes eksportert.\nNærmere bestemmelser fastsettes av Nasjonal sikkerhetsmyndighet.​2\n1 Jf. § 31.\n2 Se kap. 3.\n3 Se § 3 (1) nr. 8.\n4 Se § 3 (1) nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Monitoring av og inntrengning i informasjonssystemer",
+      "content": "En virksomhet​1 kan gi Nasjonal sikkerhetsmyndighet​2 adgang til gjennom monitoring​3 å kontrollere om informasjonssystemer​4 i vedkommende virksomhet lagrer, behandler eller transporterer skjermingsverdig informasjon​5 uten at de er godkjent for dette. Virksomhetens ansatte skal på forhånd ha blitt orientert om kontrollen. Monitoring skal ikke i noe tilfelle omfatte privat kommunikasjon eller kommunikasjon som blir formidlet til eller fra andre enn virksomheter.\nEn virksomhet​1 kan gi Nasjonal sikkerhetsmyndighet​2 adgang til å forsøke og eventuelt gjennomføre inntrengning i informasjonssystemer​4 som lagrer, behandler eller transporterer skjermingsverdig informasjon, for å kontrollere motstandskraften i systemene. Virksomhetens ansatte skal på forhånd ha blitt orientert om kontrollen.\nInformasjon som Nasjonal sikkerhetsmyndighet​2 blir kjent med ved kontrollvirksomhet etter første og annet ledd, skal makuleres når den ikke lenger har betydning for kontrollen.\nKongen​6 gir nærmere bestemmelser, herunder om varsling og gjennomføring av monitoring​3 og inntrengning og om oppbevaring og makulering av informasjon.\n1 Se § 3 (1) nr. 6.\n2 Se kap. 3.\n3 Se § 3 (1) nr. 11.\n4 Se § 3 (1) nr. 10.\n5 Se § 3 (1) nr. 8.\n6 Forsvarsdepartementet iflg. res. 29 juni 2001 nr. 721.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Tekniske sikkerhetsundersøkelser",
+      "content": "Nasjonal sikkerhetsmyndighet,​1 eller den Nasjonal sikkerhetsmyndighet bemyndiger, kan foreta undersøkelser av lokaler, bygninger og andre objekter som eies, brukes eller på annen måte kontrolleres av en virksomhet,​2 i den hensikt å fastslå hvorvidt uvedkommende med eller uten tekniske hjelpemidler kan skaffe seg tilgang til skjermingsverdig informasjon​3 gjennom avtitting, avlytting av tale eller avlesing av elektroniske signaler.\nKongen gir nærmere forskrifter om gjennomføring av tekniske sikkerhetsundersøkelser.\n1 Se kap. 3.\n2 Se § 3 (1) nr. 6.\n3 Se § 3 (1) nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Utvelgelse av skjermingsverdige objekter",
+      "content": "Hvert enkelt departement utpeker skjermingsverdige objekter​1 innen sitt myndighetsområde. Objekteier​2 plikter overfor departementet å foreslå hvilke objekter som er skjermingsverdige. Utvelgelse av skjermingsverdig objekt skal skje på grunnlag av en skadevurdering, hvor det innenfor lovens formål særlig tas hensyn til objektets:\na. betydning for sikkerhetspolitisk krisehåndtering og forsvar av riket,\nb. betydning for kritiske funksjoner for det sivile samfunn,\nc. symbolverdi, og\nd. mulighet for å utgjøre en fare for miljøet eller befolkningens liv og helse.\nI skadevurderingen skal det også tas hensyn til akseptabel tidsperiode for funksjonssvikt, mulighet til å gjenopprette funksjonalitet, og hensynet til objektets betydning for andre objekter.\nKongen kan gi utfyllende bestemmelser om utvelgelse av skjermingsverdige objekter.\n0 Endret ved lov 11 apr 2008 nr. 9 (ikr. 1 jan 2011 iflg. res. 22 okt 2010 nr. 1361).\n1 Se § 3 (1) nr. 12.\n2 Se § 3 (1) nr. 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:17 a",
+      "chapter": "5",
+      "section": "17 a",
+      "title": "Klassifisering av skjermingsverdige objekter",
+      "content": "Når skjermingsverdige objekter​1 må beskyttes av sikkerhetsmessige grunner, skal en av følgende klassifiseringsgrader benyttes:\na. MEGET KRITISK nyttes dersom det kan få helt avgjørende skadefølger for rikets selvstendighet og sikkerhet og andre vitale nasjonale sikkerhetsinteresser om objektet får redusert funksjonalitet​2 eller blir utsatt for skadeverk, ødeleggelse eller rettsstridig overtakelse av uvedkommende.\nb. KRITISK nyttes dersom det alvorlig kan skade rikets selvstendighet og sikkerhet og andre vitale nasjonale sikkerhetsinteresser om objektet får redusert funksjonalitet eller blir utsatt for skadeverk, ødeleggelse eller rettsstridig overtakelse av uvedkommende.\nc. VIKTIG nyttes dersom det kan skade rikets selvstendighet og sikkerhet og andre vitale nasjonale sikkerhetsinteresser om objektet får redusert funksjonalitet​2 eller blir utsatt for skadeverk, ødeleggelse eller rettsstridig overtakelse av uvedkommende.\nKongen kan gi utfyllende bestemmelser om klassifisering av skjermingsverdige objekter.\n0 Tilføyd ved lov 11 apr 2008 nr. 9 (ikr. 1 jan 2011 iflg. res. 22 okt 2010 nr. 1361).\n1 Se § 3 (1) nr. 12.\n2 Se § 3 (1) nr. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17a",
+        "source_heading": "§ 17 a."
+      }
+    },
+    {
+      "provision_ref": "5:17 b",
+      "chapter": "5",
+      "section": "17 b",
+      "title": "Plikt til å beskytte skjermingsverdig objekt",
+      "content": "Objekteier​1 plikter å beskytte objektet​2 med sikkerhetstiltak.\nSikkerhetstiltakene skal bestå av en kombinasjon av barrierer, deteksjon, verifikasjon og reaksjon, som i sum tilfredsstiller følgende krav:\na. Objekt klassifisert MEGET KRITISK skal beskyttes slik at tap av funksjon, ødeleggelse og rettsstridig overtakelse avverges.\nb. Objekt klassifisert KRITISK skal beskyttes slik at tap av funksjon og ødeleggelse begrenses, og rettsstridig overtakelse av vesentlige funksjoner avverges.\nc. Objekt klassifisert VIKTIG skal beskyttes slik at tap av vesentlig funksjon og ødeleggelse begrenses.\nSikkerhetstiltakene skal også ta sikte på å redusere muligheten for etterretningsaktivitet mot objektet.\nKongen kan bestemme at det kreves sikkerhetsklarering etter reglene i kapittel 6 for den som skal gis tilgang til skjermingsverdig objekt klassifisert MEGET KRITISK eller KRITISK.\nKongen kan gi nærmere bestemmelser om planlegging og gjennomføring av sikkerhetstiltak, herunder bruk av sikringsstyrker.\n0 Tilføyd ved lov 11 apr 2008 nr. 9 (ikr. 1 jan 2011 iflg. res. 22 okt 2010 nr. 1361).\n1 Se § 3 (1) nr. 14.\n2 Se § 3 (1) nr. 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17b",
+        "source_heading": "§ 17 b."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Beskyttelse av utenlandske objekter i Norge",
+      "content": "Kongen kan under forutsetning om gjensidighet treffe overenskomst med fremmed stat eller internasjonal organisasjon om plikt til å treffe tiltak for å beskytte utenlandske objekter i Norge som anses skjermingsverdige​1 av vedkommende stat eller organisasjon.\n1 Se § 3 (1) nr. 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:18 a",
+      "chapter": "5",
+      "section": "18 a",
+      "title": "Adgang til steder og områder",
+      "content": "Kongen kan av forsvarshensyn forby uvedkommende adgang til\na. forsvarsbygg og -anlegg hvor gjenstander av interesse for rikets forsvar fremstilles, istandsettes eller oppbevares,\nb. bestemt angivne områder, og\nc. å overvære militære øvelser eller forsøk.\n0 Tilføyd ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18a",
+        "source_heading": "§ 18 a."
+      }
+    },
+    {
+      "provision_ref": "6:19",
+      "chapter": "6",
+      "section": "19",
+      "title": "Når sikkerhetsklarering og autorisasjon skal gjennomføres",
+      "content": "Person som skal gis tilgang til skjermingsverdig informasjon,​1 skal autoriseres.​2\nPerson som skal autoriseres for tilgang til skjermingsverdig informasjon gradert KONFIDENSIELT eller høyere, skal på forhånd sikkerhetsklareres.​3\nPerson som i sitt arbeid vil kunne få tilgang til skjermingsverdig informasjon gradert KONFIDENSIELT eller høyere, skal sikkerhetsklareres dersom ikke sikkerhetstiltak for å fjerne risikoen for tilgang med rimelighet lar seg gjennomføre.\nSikkerhetsklarering gis for følgende nasjonale sikkerhetsgrader, eventuelt også for tilsvarende sikkerhetsgrader i NATO eller annen internasjonal organisasjon:\na. KONFIDENSIELT (eventuelt NATO CONFIDENTIAL/tilsvarende).\nb. HEMMELIG (eventuelt NATO SECRET/tilsvarende).\nc. STRENGT HEMMELIG (eventuelt COSMIC TOP SECRET/tilsvarende).\n0 Endret ved lov 11 apr 2008 nr. 9 (ikr. 1 jan 2011 iflg. res. 22 okt 2010 nr. 1361).\n1 Se § 3 (1) nr. 8.\n2 Se § 3 (1) nr. 20\n3 Se § 3 (1) nr. 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "6:20",
+      "chapter": "6",
+      "section": "20",
+      "title": "Gjennomføring av personkontroll​1",
+      "content": "Personkontroll iverksettes etter anmodning fra autorisasjonsansvarlig,​2 med mindre annet er bestemt av Nasjonal sikkerhetsmyndighet.​3\nPersonkontroll skal ikke finne sted uten at den som sikkerhetsklareres er gjort oppmerksom på og har samtykket i at slik kontroll vil bli foretatt. Personkontroll skal alltid omfatte opplysninger gitt av vedkommende selv. Vedkommende plikter å gi fullstendige opplysninger om forhold som antas å kunne være av betydning for vurderingen av sikkerhetsmessig skikkethet etter § 21.\nVed sikkerhetsklarering​4 for HEMMELIG/tilsvarende eller høyere sikkerhetsgrader, og i andre særlige tilfeller, kan personkontroll gjennomføres for nærstående personer som er knyttet til vedkommende ved familiebånd.\nFor øvrig skal kontrollen omfatte opplysninger som vedkommende klareringsmyndighet selv sitter inne med og avlesing av relevante offentlige registre, jf. femte ledd første punktum. Registeransvarlig plikter å utlevere registeropplysninger uten hinder av taushetsplikt. Registeropplysninger skal meddeles skriftlig. Kontrollen kan også omfatte andre kilder, herunder uttalelser fra tjenestesteder eller arbeidsplasser, offentlige myndigheter eller oppgitte eller supplerende referanser. Personkontrollopplysninger skal gis vederlagsfritt til klareringsmyndigheten.\nKongen bestemmer hvilke registre som er relevante for personkontroll. Kongen gir også bestemmelser om fremgangsmåten ved registerundersøkelser i utlandet og om utlevering av opplysninger i forbindelse med andre lands myndigheters tilsvarende personkontroll. Under ingen omstendighet skal det innhentes, registreres eller videreformidles opplysninger om politisk engasjement som omfattes av § 21 annet ledd.\nOpplysninger som er gitt klareringsmyndigheten​2 i forbindelse med personkontroll, skal ikke benyttes til andre formål enn vurdering av sikkerhetsklarering. Autorisasjonsansvarlig kan likevel meddeles slike opplysninger dersom dette anses påkrevet av hensyn til den sikkerhetsmessige ledelse og kontroll av vedkommende.\n1 Se § 3 (1) nr. 18.\n2 Se § 23.\n3 Se kap. 3.\n4 Se § 3 (1) nr. 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "6:21",
+      "chapter": "6",
+      "section": "21",
+      "title": "Vurderingsgrunnlaget for sikkerhetsklarering",
+      "content": "Sikkerhetsklarering​1 skal bare gis eller opprettholdes dersom det ikke foreligger rimelig tvil om vedkommendes sikkerhetsmessige skikkethet. Ved avgjørelse om sikkerhetsmessig skikkethet skal det bare legges vekt på forhold som er relevante for å vurdere vedkommendes pålitelighet, lojalitet og sunne dømmekraft i forhold til behandling av skjermingsverdig informasjon.​2 Opplysninger om følgende forhold kan tillegges betydning:\na. Spionasje,​3 planlegging eller gjennomføring av sabotasje,​4 attentat eller lignende, og forsøk på slik virksomhet.\nb. Straffbare handlinger eller forberedelser eller oppfordringer til slike.\nc. Forhold som kan lede til at vedkommende selv eller nærstående personer som er knyttet til vedkommende ved familiebånd, utsettes for trusler som innebærer fare for liv, helse, frihet eller ære med risiko for å kunne presse vedkommende til å handle i strid med sikkerhetsmessige interesser.\nd. Forfalskning av, eller feilaktig eller unnlatt fremstilling om, faktiske forhold som vedkommende måtte forstå er av betydning for sikkerhetsklareringen.\ne. Misbruk av alkohol eller andre rusmidler.\nf. Enhver sykdom som på medisinsk grunnlag anses å kunne medføre forbigående eller varig svekkelse av pålitelighet, lojalitet eller sunn dømmekraft.\ng. Kompromittering av skjermingsverdig informasjon,​5 brudd på gitte sikkerhetsbestemmelser, nektelse av å gi personopplysninger om seg selv, unnlatelse av å gi autorisasjonsansvarlig løpende underretning om egne forhold av betydning for sikkerheten, nektelse av å gi taushetsløfte, tilkjennegivelse av ikke å ville være bundet av taushetsløfte eller nektelse av å delta i sikkerhetssamtale.\nh. Økonomiske forhold som kan friste til utroskap.\ni. Forbindelse med innen- eller utenlandske organisasjoner som har ulovlig formål, som kan true den demokratiske samfunnsordenen eller som anser vold eller terrorhandlinger som akseptable virkemidler.\nj. Manglende mulighet for gjennomføring av en tilfredsstillende personkontroll.\nk. Tilknytning til andre stater.\nl. Andre forhold som kan gi grunn til å frykte at vedkommende vil kunne opptre i strid med sikkerhetsmessige interesser.\nPolitisk engasjement, herunder medlemskap i, sympati med eller aktivitet for lovlige politiske partier eller organisasjoner og annet lovlig samfunnsengasjement, skal ikke ha betydning for vurdering av en persons sikkerhetsmessige skikkethet.\nKlareringsavgjørelser skal baseres på en konkret og individuell helhetsvurdering av de foreliggende opplysninger. Klareringsmyndigheten​6 skal påse at klareringssaken er så godt opplyst som mulig før avgjørelse fattes. Sikkerhetssamtale skal gjennomføres der dette ikke anses som åpenbart unødvendig.\nNegative opplysninger om nærstående personer, jf. § 20 tredje ledd, skal bare tas i betraktning dersom det antas at nærståendes forhold vil kunne påvirke vedkommendes sikkerhetsmessige skikkethet.\nI særlige tilfeller kan det settes vilkår for sikkerhetsklarering.\n0 Endret ved lov 17 juni 2005 nr. 81 (ikr. 1 jan 2006 iflg. res. 21 des 2005 nr. 1605).\n1 Se § 3 (1) nr. 19.\n2 Se § 3 (1) nr. 8.\n3 Se § 3 (1) nr. 3.\n4 Se § 3 (1) nr. 4.\n5 Se § 3 (1) nr. 8.\n6 Se § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "6:22",
+      "chapter": "6",
+      "section": "22",
+      "title": "Sikkerhetsklarering av utenlandske statsborgere",
+      "content": "En utenlandsk statsborger kan gis sikkerhetsklarering​2 etter en vurdering av hjemlandets sikkerhetsmessige betydning og vedkommendes tilknytning til hjemlandet og Norge.\nNærmere regler om sikkerhetsklarering av utenlandske statborgere fastsettes av Kongen.\n0 Endret ved lov 17 juni 2005 nr. 81 (ikr. 1 jan 2006 iflg. res. 21 des 2005 nr. 1605).\n1 Se § 23 (4).\n2 Se § 3 (1) nr. 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "6:23",
+      "chapter": "6",
+      "section": "23",
+      "title": "Autorisasjonsansvarlig og klareringsmyndighet",
+      "content": "Autorisasjon​1 kan gis dersom autorisasjonsansvarlig ikke har opplysninger som gjør det tvilsomt om vedkommende sikkerhetsmessig er til å stole på. Autorisasjon gis normalt av virksomhetens leder.​2 Autorisasjon skal ikke gis før det foreligger melding om sikkerhetsklarering,​3 med unntak for de tilfeller som er beskrevet i § 19 tredje ledd, og en autorisasjonssamtale er avholdt. Nasjonal sikkerhetsmyndighet​4 gir nærmere regler om autorisasjon og om hvem som er autorisasjonsansvarlig.\nKongen utpeker en klareringsmyndighet for forsvarssektoren og en for den sivile sektoren. Kongen kan utpeke andre klareringsmyndigheter når særlige grunner taler for det. Etterretnings- og sikkerhetstjenestene klarerer eget personell.\n0 Endret ved lov 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).\n1 Se § 3 (1) nr. 20.\n2 Se § 3 (1) nr. 6.\n3 Se § 3 (1) nr. 19.\n4 Jf. kap. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "6:24",
+      "chapter": "6",
+      "section": "24",
+      "title": "Bortfall, tilbakekall, nedsettelse og suspensjon av sikkerhetsklarering og autorisasjon",
+      "content": "Sikkerhetsklarert og autorisert personell skal holde autorisasjonsansvarlig​1 orientert om forhold som antas å kunne være av betydning for vedkommendes sikkerhetsmessige skikkethet.\nFremkommer det opplysninger som reiser tvil om en sikkerhetsklarert persons sikkerhetsmessige skikkethet, skal klareringsmyndigheten vurdere å tilbakekalle eller nedsette klareringen, eller suspendere klareringen og iverksette nærmere undersøkelser for å avklare forholdet.\nEr en sikkerhetsklarering​2 besluttet tilbakekalt, nedsatt eller suspendert, skal begrunnet melding om dette sendes til Nasjonal sikkerhetsmyndighet.​3 Autorisasjonsansvarlig skal varsles umiddelbart.\nAutorisasjon​4 bortfaller automatisk\na. når personen fratrer den stilling som autorisasjonen omfatter,\nb. når behovet for autorisasjon av andre grunner ikke lenger er til stede, eller\nc. når vedkommende ikke lenger har tilstrekkelig sikkerhetsklarering.\nFår autorisasjonsansvarlig opplysninger som gir grunn til tvil om en autorisert person fortsatt kan anses sikkerhetsmessig skikket, skal autorisasjonen vurderes tilbakekalt, nedsatt eller suspendert. Avgjørelse om dette skal innberettes til vedkommende klareringsmyndighet.\nNasjonal sikkerhetsmyndighet fastsetter generell gyldighetstid for sikkerhetsklareringer.\n1 Se § 23.\n2 Se § 3 (1) nr. 19.\n3 Se kap. 3.\n4 Se § 3 (1) nr. 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "Begrunnelse og underretning",
+      "content": "Forvaltningsloven​1 kapittel IV og V gjelder ikke for avgjørelser om sikkerhetsklarering​2 eller autorisasjon.​3\nDen som har vært vurdert sikkerhetsklarert, har rett til å bli gjort kjent med resultatet. Ved negativ avgjørelse skal vedkommende uoppfordret underrettes om resultatet og opplyses om klageadgangen.\nBegrunnelse for en avgjørelse skal gis samtidig med underretningen om utfallet av klareringssaken. Vedkommende har ikke krav på begrunnelse i den utstrekning begrunnelse ikke kan gis uten å røpe opplysninger som\na. er av betydning for Norges eller dets alliertes sikkerhet, forholdet til fremmede makter eller andre vitale nasjonale sikkerhetsinteresser,\nb. er av betydning for kildevern,\nc. det av hensyn til vedkommendes helse eller hans forhold til personer som står denne nær, må anses utilrådelig at vedkommende får kjennskap til,\nd. angår tekniske innretninger, produksjonsmetoder, forretningsmessige analyser og berekninger og forretningshemmeligheter ellers, når de er av en slik art at andre kan utnytte dem i sin næringsvirksomhet.\nKlareringsmyndigheten​4 skal i tillegg utarbeide en intern samtidig begrunnelse hvor alle relevante forhold inngår, herunder forhold som nevnt i tredje ledd.\n0 Endret ved lov 17 juni 2005 nr. 81 (ikr. 1 jan 2006 iflg. res. 21 des 2005 nr. 1605).\n1 Lov 10 feb 1967.\n2 Se § 3 (1) nr. 19.\n3 Se § 3 (1) nr. 20.\n4 Se § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:25 a",
+      "chapter": "6",
+      "section": "25 a",
+      "title": "Innsyn",
+      "content": "Etter at avgjørelse om sikkerhetsklarering​1 er fattet, har den som har vært vurdert sikkerhetsklarert rett til å gjøre seg kjent med sakens dokumenter. Vedkommende har etter samme tidspunkt rett til å se audiovisuelt opptak av egen sikkerhetssamtale.\nVedkommende har ikke krav på innsyn i de deler av et dokument som inneholder opplysninger som nevnt i § 25 tredje ledd. Vedkommende har heller ikke krav på innsyn i et dokument som er utarbeidet for den interne saksforberedelsen ved klareringsmyndigheten​2 eller klageinstansen, med unntak av faktiske opplysninger eller sammendrag eller annen bearbeidelse av faktum.\nPå anmodning skal den som har krav på innsyn gis kopi av dokumentet. Gjennomsyn av audiovisuelt opptak av sikkerhetssamtale skjer ved oppmøte hos klareringsmyndigheten.​2\n0 Tilføyd ved lov 17 juni 2005 nr. 81 (ikr. 1 jan 2006 iflg. res. 21 des 2005 nr. 1605).\n1 Se § 3 (1) nr. 19.\n2 Se § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25a",
+        "source_heading": "§ 25 a."
+      }
+    },
+    {
+      "provision_ref": "6:25 b",
+      "chapter": "6",
+      "section": "25 b",
+      "title": "Oversendelse av sak til særskilt oppnevnt advokat",
+      "content": "Forsvarsdepartementet oppnevner en gruppe advokater som skal sikkerhetsklareres for høyeste nivå. Disse skal benyttes i de tilfeller som er nevnt i andre ledd.\nDer begrunnelse ikke gis, jf. § 25 tredje ledd, og klagefristen ikke er løpt ut, skal klareringsmyndigheten​1 på begjæring av den som er vurdert sikkerhetsklarert, gjøre sakens dokumenter tilgjengelig for en advokat som er oppnevnt for dette formålet. Det samme gjelder avslag på begjæring om innsyn, jf. § 25 a andre ledd første punktum. Vedkommende må ha utprøvd klageadgangen vedrørende nektet begrunnelse eller avslag på begjæring om innsyn, jf. § 25 c andre ledd, før denne retten til bruk av advokat inntrer.\nAdvokaten skal ha tilgang til sakens faktiske opplysninger og den begrunnelse som er ukjent for den som har vært vurdert sikkerhetsklarert. Dokument som er utarbeidet for den interne saksforberedelsen ved klareringsmyndigheten eller klageinstansen, jf. § 25 a andre ledd siste punktum, skal ikke gis advokaten.\nAdvokaten skal gi den som er vurdert sikkerhetsklarert råd om hvorvidt vedkommende bør klage.\n0 Tilføyd ved lov 17 juni 2005 nr. 81 (ikr. 1 jan 2006 iflg. res. 21 des 2005 nr. 1605).\n1 Se § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25b",
+        "source_heading": "§ 25 b."
+      }
+    },
+    {
+      "provision_ref": "6:25 c",
+      "chapter": "6",
+      "section": "25 c",
+      "title": "Klage",
+      "content": "Bestemmelsene i forvaltningsloven​1 kapittel VI gjelder tilsvarende i klareringssaker om ikke annet følger av denne lov eller forskrift om personellsikkerhet.\nNegativ avgjørelse om sikkerhetsklarering,​2 herunder vilkår og når klareringssaken tidligst kan tas opp på nytt, kan påklages av den avgjørelsen retter seg mot. Det samme gjelder nektet begrunnelse og avslag på begjæring om innsyn.\nKlage på avgjørelse om sikkerhetsklarering​2 sendes vedkommende klareringsmyndighet. Nasjonal sikkerhetsmyndighet​3 er klageinstans. Departementet er klageinstans for klareringsavgjørelser truffet av Nasjonal sikkerhetsmyndighet​3 i første instans.\nFristen for å klage er tre uker fra den dag underretningen om avgjørelsen, manglende begrunnelse eller avslag på begjæring om innsyn har kommet frem til vedkommende. Dersom det klages på nektet begrunnelse eller avslag på begjæring om innsyn, avbrytes klagefristen. Ny klagefrist løper fra det tidspunkt underretning om begrunnelse eller innsyn er kommet frem til vedkommende eller på annen måte er gjort kjent med den. I saker der advokat har gjennomgått saken, løper ny klagefrist fra den dag rådet fra advokaten har kommet frem til vedkommende.\n0 Tilføyd ved lov 17 juni 2005 nr. 81 (ikr. 1 jan 2006 iflg. res. 21 des 2005 nr. 1605).\n1 Lov 10 feb 1967.\n2 Se § 3 (1) nr. 19.\n3 Se § 4 og kap. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25c",
+        "source_heading": "§ 25 c."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "Utfyllende bestemmelser",
+      "content": "Kongen kan gi forskrifter om opprettelse av et sentralt register for klareringsavgjørelser.\nNasjonal sikkerhetsmyndighet​1 fastsetter utfyllende bestemmelser om personellsikkerhet, herunder om\na. sikkerhetsklarering av bestemte kategorier personell, bl.a. vernepliktige​2 mannskaper i Forsvaret,\nb. arkivering, oppbevaring og forsendelse av dokumenter i klarerings- og personkontrollsaker, og\nc. avholdelse av sikkerhetssamtaler.\n1 Se kap. 3.\n2 Se lov 12 aug 2016 nr. 77 kap. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "7:27",
+      "chapter": "7",
+      "section": "27",
+      "title": "Inngåelse av sikkerhetsavtale",
+      "content": "Ved sikkerhetsgraderte anskaffelser​2 skal det inngås en sikkerhetsavtale mellom anskaffelsesmyndigheten​3 og leverandøren. Sikkerhetsavtale skal være inngått før leverandøren kan få tilgang til skjermingsverdig informasjon.​4 Sikkerhetsavtale med utenlandske leverandører kan bare inngås etter godkjenning av Nasjonal sikkerhetsmyndighet.​5 Nasjonal sikkerhetsmyndighet kan bestemme at sikkerhetsavtale også skal inngås dersom leverandøren vil kunne få tilgang til skjermingsverdig objekt​6 eller dersom det av andre grunner er nødvendig å sikkerhetsgradere anskaffelsen.\nSikkerhetsavtalen skal fastsette nærmere detaljer om ansvar og plikter etter bestemmelsene i og i medhold av loven her, herunder om\na. anskaffelsens sikkerhetsgrad, spesifisert for de enkelte deler av oppdraget,\nb. praktisk gjennomføring av undersøkelser hos leverandøren og annen kontroll med denne for å vurdere sikkerhetstilstanden og kontrollere at leverandøren forholder seg i samsvar med sikkerhetsbestemmelsene og øvrige plikter etter loven her, og\nc. konsekvenser ved brudd på sikkerhetsavtalen.\nUtgifter eller krav leverandøren måtte ha for å oppfylle bestemmelsene i eller i medhold av loven her og inngått sikkerhetsavtale, er anskaffelsesmyndigheten og Nasjonal sikkerhetsmyndighet​5 uvedkommende, med mindre annet er uttrykkelig avtalt i sikkerhetsavtalen.\n1 Se § 2 (2).\n2 Se § 3 (1) nr. 17.\n3 Se § 3 (1) nr. 16.\n4 Se § 3 (1) nr. 8.\n5 Se kap. 3.\n6 Se § 3 (1) nr. 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "7:28",
+      "chapter": "7",
+      "section": "28",
+      "title": "Leverandørklarering",
+      "content": "Før en leverandør kan få tilgang til skjermingsverdig informasjon​1 sikkerhetsgradert KONFIDENSIELT eller høyere,​2 eller dersom det av andre grunner anses nødvendig, skal leverandøren ha gyldig leverandørklarering for angitt sikkerhetsgrad. Kongen gir forskrift om gyldighetstiden for leverandørklareringer.\nLeverandørklarering skal ikke gis dersom det foreligger rimelig tvil om leverandørens sikkerhetsmessige skikkethet. Ved avgjørelse om sikkerhetsmessig skikkethet skal det bare legges vekt på forhold som er relevante for å vurdere leverandørens evne og vilje til å utøve forebyggende sikkerhetstjeneste etter bestemmelsene i eller i medhold av loven her. I vurderingen skal inngå personkontroll av personer i leverandørens styre og ledelse.\nLeverandøren skal gi alle opplysninger som antas å kunne være av betydning for klareringsspørsmålet.\nLeverandøren skal uten ugrunnet opphold orientere Nasjonal sikkerhetsmyndighet​2 om endringer i styre eller ledelse, forandringer i eierstrukturen, flytting av lokaliteter og utstyr, åpning av gjeldsforhandling eller begjæring om konkurs og andre forhold som kan ha betydning for leverandørens sikkerhetsmessige skikkethet. Anses slike forhold å representere en sikkerhetsrisiko og risikoen ikke kan elimineres gjennom å utøve forebyggende sikkerhetstjeneste, kan Nasjonal sikkerhetsmyndighet​3 inndra leverandørklareringen. Skjermingsverdig informasjon eller objekt​4 kan ikke overføres til ny eier eller inngå i bobehandling ved gjeldsforhandling eller konkurs, med mindre Nasjonal sikkerhetsmyndighet har samtykket til dette.\nFor øvrig gjelder reglene i kapittel 6, herunder reglene om begrunnelse og klage, så langt de passer.\n0 Endret ved lov 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).\n1 Se § 3 (1) nr. 8.\n2 Se § 11.\n3 Se kap. 3.\n4 Se § 3 (1) nr. 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "7:29",
+      "chapter": "7",
+      "section": "29",
+      "title": "Utfyllende bestemmelser m.v.",
+      "content": "Kongen​1 kan gi utfyllende bestemmelser om sikkerhetsgraderte anskaffelser,​2 samt fastsette særskilte regler for gjennomføring av internasjonale sikkerhetsgraderte anskaffelser.\n1 Forsvarsdepartementet iflg. res. 29 juni 2001 nr. 721.\n2 Se § 3 (1) nr. 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "7:29 a",
+      "chapter": "7",
+      "section": "29 a",
+      "title": "Varslingsplikt og myndighet til å fatte vedtak ved anskaffelser til kritisk infrastruktur",
+      "content": "Ved anskaffelser til kritisk infrastruktur​1 skal det foretas en risikovurdering. I vurderingen skal det tas stilling til om anskaffelsen innebærer en ikke ubetydelig risiko for at sikkerhetstruende virksomhet​2 blir etablert eller gjennomført mot eller ved bruk av infrastrukturen. Plikten til å foreta en risikovurdering gjelder ikke dersom det framstår som åpenbart at anskaffelsen ikke kan innebære noen slik risiko.\nEn virksomhet som eier eller rår over kritisk infrastruktur, skal varsle overordnet departement dersom en risikovurdering som nevnt i første ledd konkluderer med at anskaffelsen kan innebære en ikke ubetydelig risiko for at sikkerhetstruende virksomhet blir etablert eller gjennomført. Virksomheter som ikke er underlagt noe departement, skal varsle Forsvarsdepartementet. Varslingsplikten gjelder uten hinder av lovbestemt taushetsplikt. Plikten gjelder ikke dersom virksomheten selv iverksetter risikoreduserende tiltak som fjerner risikoen, eller gjør den ubetydelig.\nEt departement som mottar varsel etter andre ledd, bør innhente en rådgivende uttalelse fra relevante organer om leveransens risikopotensial, og leverandørers sikkerhetsmessige pålitelighet.\nDersom en anskaffelse til kritisk infrastruktur kan medføre en ikke ubetydelig risiko for at sikkerhetstruende virksomhet blir etablert eller gjennomført, kan Kongen i statsråd fatte vedtak om at anskaffelsen skal nektes gjennomført, eller om at det settes vilkår for gjennomføringen. Dette gjelder også dersom det allerede er inngått avtale om anskaffelsen. Dersom det ikke fattes vedtak etter første punktum, skal departementet underrette virksomheten om dette. Vedtak etter første punktum er særlig tvangsgrunnlag etter tvangsfullbyrdelsesloven​3 kapittel 13.\nKongen i statsråd kan gi forskrift om anskaffelser til kritisk infrastruktur.\n0 Tilføyd ved lov 12 aug 2016 nr. 78 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1641).\n1 Se § 3 (1) nr. 21.\n2 Se § 3 (1) nr. 6.\n3 Lov 26 juni 1992 nr. 86.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29a",
+        "source_heading": "§ 29 a."
+      }
+    },
+    {
+      "provision_ref": "8:30",
+      "chapter": "8",
+      "section": "30",
+      "title": "Kontroll- og tilsynsordninger",
+      "content": "Forebyggende sikkerhetstjeneste​1 i medhold av loven her er underlagt kontroll og tilsyn av Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste, i samsvar med bestemmelsene i og i medhold av lov av 3. februar 1995 nr. 7 om kontroll med etterretnings-, overvåkings- og sikkerhetstjeneste.\nKongen kan etablere særskilte ordninger for å kontrollere og føre tilsyn med Nasjonal sikkerhetsmyndighet​2 og andre virksomheters​3 forebyggende sikkerhetstjeneste,​1 i den hensikt å påse at utøvelsen holdes innen rammen av gjeldende lov, administrative eller militære direktiver og ulovfestet rett, eller for å sørge for at rettssikkerhetsmessige og andre hensyn ivaretas.\n1 Se § 3 (1) nr. 1.\n2 Se kap. 3.\n3 Se § 3 (1) nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "8:31",
+      "chapter": "8",
+      "section": "31",
+      "title": "Straff​1",
+      "content": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av §§ 5, 10, 12 annet ledd, 13 første og fjerde ledd, 14 første, tredje og fjerde ledd og 17 i loven her, eller overtrer pålegg gitt av Nasjonal sikkerhetsmyndighet i medhold av § 9 første ledd bokstav c i loven her, straffes med bøter eller fengsel inntil seks måneder, hvis ikke forholdet går inn under en strengere straffebestemmelse.\nDen som forsettlig eller grovt uaktsomt overtrer § 11 annet ledd første punktum i loven her, straffes med bøter eller fengsel inntil seks måneder, hvis ikke forholdet går inn under en strengere straffebestemmelse.\nDen som forsettlig eller grovt uaktsomt krenker taushetsplikt etter § 12 første ledd, straffes med bøter eller fengsel inntil ett år, hvis ikke forholdet går inn under en strengere straffebestemmelse.\nDen som overtrer forbud med hjemmel i § 18 a straffes med bot eller fengsel inntil 1 år, hvis ikke forholdet går inn under en strengere straffebestemmelse.\nForsøk straffes på samme måte.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Jf. strl. kap. 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "9:32",
+      "chapter": "9",
+      "section": "32",
+      "title": "Ikrafttredelse",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.\n0 Loven trådte ikr. 1 juli 2001 iflg. res. 29 juni 2001 nr. 720.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "9:33",
+      "chapter": "9",
+      "section": "33",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tiden loven trer i kraft gjøres følgende endringer i andre lover:",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    }
+  ]
+}

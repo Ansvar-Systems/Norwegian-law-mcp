@@ -1,0 +1,903 @@
+{
+  "id": "LOV-1974-12-20-73",
+  "type": "statute",
+  "title": "Lov om dyrevern.",
+  "short_name": "Dyrevernlova – dyrevl.",
+  "status": "in_force",
+  "issued_date": "1974-12-20",
+  "in_force_date": "1977-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1974-12-20-73",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Kva dyr lova gjeld.",
+      "content": "Denne lova gjeld levande pattedyr, fuglar, padder, frosk, salamander, krypdyr, fisk og krepsdyr.\n0 Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 artikkel 2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Ålment om åtferd med dyr.",
+      "content": "Det skal farast vel med dyr og takast omsyn til instinkt og naturleg trong hjå dyret så det ikkje kjem i fåre for å lida i utrengsmål.\n0 Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 vedlegget nr. 7).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Inspeksjon",
+      "content": "Mattilsynet,​1 medlem av dyrevernnemnd​2 og politiet​3 kan til kvar tid inspisera dyr som kjem inn under lova​4 og dei stadar og rom o.l. der slike dyr held til.​5 Utanlandske inspektørar kan delta i inspeksjonar mv. når det er naudsynt for å ivareta Noregs internasjonale forpliktelser.\n0 Endra med lover 15 juni 2001 nr. 75 (i kraft 1 jan 2002, etter res. 15 juni 2001 nr. 711), 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792).\n1 Sjå lov 19 des 2003 nr. 124.\n2 Jfr. § 23.\n3 Jfr. lov 4 aug 1995 nr. 53.\n4 Sjå § 1.\n5 Jfr. lov 22 mai 1902 nr. 10 (strl.) § 326.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Tilhaldsrom.",
+      "content": "Den som eig eller har i si varetekt husdyr, selskapsdyr eller dyr som er haldne i fangenskap på annan måte skal syta for at dyret har fullt tenleg tilhaldsrom der det er stor nok plass, høveleg varmt, nok lys og tilgang på frisk luft m.v., alt etter trongen hjå det einskilde dyreslaget.\nNår verlaget tillet det, kan departementet​2 for visse dyreslag gjere unntak frå plikta til å ha tilhaldsrom.\n0 Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 vedlegget nr. 3, 8, 9, 10, 11, 12 og 13).\n1 Jfr. § 30.\n2 Landbruks- og matdepartementet, etter res. 19 nov 1976.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Avl",
+      "content": "Det er forbode​1 å endra dyra sine arveanlegg ved bruk av genteknologiske metodar eller ved tradisjonelt avlsarbeid dersom\n1. dette gjer dyret uskikka til å utøve normal åtferd eller påverkar fysiologiske funksjonar i uheldig lei,\n2. dyret blir påført unødig liding,\n3. endringa vekkjer ålmenne etiske reaksjonar.\nDet er forbode​1 å avle dyr som har vorte slik som nevnt i fyrste ledd.​2\n0 Endra med lover 2 april 1993 nr. 38, 5 jan 1996 nr. 3, 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75). Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 artikkel 1 og 2 og vedlegget nr. 20 og 21).\n1 Jfr. kap. IX.\n2 Sjå og lov 4 juli 2003 nr. 74 (hundelova) § 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:5 a",
+      "chapter": "1",
+      "section": "5 a",
+      "title": "Tilsyn og stell",
+      "content": "Den som eig eller har i si varetekt husdyr, selskapsdyr eller dyr som er haldne i fangenskap på annan måte, herunder tamrein, eller som har tilsyn med slike dyr for eigar eller innehavar, skal​1 syta for at:\n1. dyret får nok og godt nok fôr og vatn, alt etter trongen hjå det einskilde dyret,\n2. dyret får forsvarleg tilsyn og stell, m.a. får stelt klør, hovar eller klauver,\n3. bindegreie eller stengsel ikkje skader dyret eller er til ulempe for det i utrengsmål,\n4. sjuke eller skadde dyr får høveleg behandling og vert avliva om det trengst,\n5. dyr på beite vert henta heim før frost og snøfall er ventande om hausten.\n0 Føyd til med lov 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75), endra med lov 15 juni 2001 nr. 76 (i kraft 1 juli 2001, etter res. 15 juni 2001 nr. 712).\n1 Jfr. kap. IX.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5a",
+        "source_heading": "§ 5 a."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "title": "Hjelp.",
+      "content": "Råkar nokon på eit dyr som synleg er sjukt, skadd eller hjelpelaust, skal​1 han hjelpa det så langt råd er. Let det seg ikkje gjera å gjeva hjelp eller god nok hjelp og dyret er eit husdyr, tamrein eller storvilt, skal​1 han snarast råd er seia frå til dyret sin eigar eller innehavar eller til næraste politi.\nNår det er klårt at dyret ikkje kan leva eller verta godt att, kan kvar den som råkar på det, taka livet av dyret med det same i samsvar med reglane i § 10, såframt det trengst for å spara det for meir liding. Den som tek livet av husdyr, tamrein eller storvilt, skal​1 snarast råd er melda frå til næraste politi. Husdyr, tamrein og storvilt må ikkje​1 avlivast etter denne føresegna dersom det let seg gjera å få tak i eigar eller innehavar, veterinær eller politi innan rimeleg tid.\nUtgiftene med tiltak etter denne paragrafen skal staten betala, men pengane kan krevjast att hjå eigaren eller innehavaren.\n1 Jfr. kap. IX.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "title": "Medisinsk og kirurgisk behandling.",
+      "content": "Ingen annan​1 enn veterinær​2 kan gjera kirurgisk inngrep eller setja i verk medisinsk behandling av dyr når det er grunn til å tru at inngrepet eller behandlinga kan føre til liding for dyret. Er det grunn til å tru at inngrepet eller behandlinga kjem til å gjera dyret mykje vondt, skal veterinæren nytta heil eller lokal svæving​3 om ikkje medisinske grunnar er til hinder. Når det gjeld akvatiske dyr, med unntak av sjøpattedyr, har og fiskehelsebiologar høve til å setja i verk tilsvarande behandling, jf. lov 15. juni 2001 nr. 75 om veterinærer og annet dyrehelsepersonell § 18.\n0 Endra med lover 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75), 15 juni 2001 nr. 75 (i kraft 1 jan 2002, etter res. 15 juni 2001 nr. 711), 19 april 2002 nr. 11 (i kraft 1 aug 2002, etter res. 19 april 2002 nr. 365. Etter endringslovens III gjelder paragrafens nye ordlyd ikke for Svalbard).\n1 Jfr. kap. IX.\n2 Sjå lov 15 juni 2001 nr. 75 § 4 og § 5.\n3 Jfr. § 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "title": "Forbod mot visse måtar å fara fram mot dyr på.",
+      "content": "Det er forbode:​2\n1. å sparka dyr eller å slå dyr med staur, med reip eller reim som det er knute eller noko liknande på, eller å slå med noko anna som kan gjera dyret like vondt,\n2. å bruka pisk som framdriftsmiddel i trav- og galopptevlingar,\n3. å nytta levande dyr til agn eller åte eller til fôr åt andre dyr,\n4. å tvangsgjøda dyr,\n5. å brennemerke dyr med unntak for merking i hov, klauv, skjel eller horn,\n6. å dopa dyr til tevling eller anna føremål, eller å nytta dyr som er dopa til slike føremål,\n7. å dressera eit dyr på slik vis at det kjem i fåre for å lida eller verta skræmt i utrengsmål.\n1 Jfr. kap. II og III.\n2 Jfr. kap. IX.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "title": "Avliving.",
+      "content": "Avliving av dyr skal​2 gjerast på slik måte at dyret ikkje kjem i fåre for å lida i utrengsmål.\nVed avliving av hest, storfe, småfe, gris, fjørfe, kanin eller tamrein skal​2 dyret svævast før blodet vert tappa. Avliving av slike dyr må berre​2 gjerast av person som er over 16 år og kunnig i slikt. Så langt råd er må​2 avlivinga gjerast ute av syne for andre dyr.\nDyr må ikkje​2 flåast, skåldast eller ribbast før dei er daude. Dette gjeld likevel ikkje krepsdyr.\nFøresegnene i fyrste og tredje leden gjeld òg under jakt og fangst.\n1 Jfr. § 30.\n2 Jfr. kap. IX.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "title": "Avliving i naudtilfelle.",
+      "content": "Når eit dyr må avlivast straks fordi det er sjukt, skadd eller hjelpelaust av andre grunnar, skal​1 dette gjerast slik at dyret lid så lite som råd er og i best mogeleg samsvar med reglane i § 9. Våpenet som vert nytta, skal​1 vera så effektivt at dyret ikkje kjem i fåre for å lida i utrengsmål.\nDet som er sagt i leden framanfor, gjeld òg ved avliving av husdyr som er vortne så ville at det er rådlaust å fanga dei på vanleg vis.\n1 Jfr. kap. IX.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Forbod mot visse måtar å fara fram mot dyr på.",
+      "content": "Det er forbode:​1\n1. å driva dyr for hardt,\n2. å føra dyr bundne til motorkøyrety, traktor og snøscooter medrekna, på slik vis at dyret kjem i fåre for å lida vondt,\n3. å sleppa dyr med helde, stokk (drals) e.l. utan dagleg tilsyn,\n4. å bruka dressurhalsband på hund utanom den tid hunden er under aktiv dressur,\n5. å halda hund varig bunden slik at han får stuttare line enn 10 meter,\n6. å setja briller eller andre ting på fjørfe for å unngå hakking e.l.\n1 Jfr. kap. IX.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "(Oppheva)",
+      "content": "0 Oppheva med lov 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "title": "Forbod mot visse inngrep.",
+      "content": "Det er forbode:​1\n1. å kastrera reinsbukk, hund og fjørfe. Veterinær​2 kan likevel kastrera reinsbukk og hund når særlege bruksgrunnar gjer at det trengst. Departementet kan bestemme at også andre enn veterinær kan kastrera reinsbukk og nytta svæving til dette. Departementet kan gje føresegn​3 med forbod​1 mot å kastrera gris.\n2. å stubba øyre eller hale og å stilla ut noko dyr som har fått stubba øyre eller hale etter at denne lova tok til å gjelda. Øyremerking er likevel lovleg når det ikkje vert teke bort meir enn 1/3 av øyret. Departementet​4 kan gjeva føresegner​3 som på nærare vilkår gjer unntak frå forbodet når det gjeld stubbing av hale på gris dersom stubbing trengst av omsyn til dyra, og føresegner som på nærare vilkår gjer unntak frå forbodet mot å stilla ut hund med stubba hale.\n3. å setja ring i trynet på gris eller å nytta andre pinefulle åtgjerder for å hindra at han rotar i jorda. Veterinær​2 kan likevel setja ring i trynet på gris, etter føresegner gjeve av departementet, når bruksgrunnar gjer at det trengst,\n4. å fjerna horn på dyr. Departementet​4 kan gjeva føresegner​3 om unntak frå forbodet når det gjeld tamrein. Departementet kan også gjeva føresegner som på nærare vilkår gjev veterinær​2 høve til å fjerna hornanlegg på andre dyr når dei er yngre enn 6 veker, og, i serlege høve, horn på dyr som er eldre enn 6 veker,\n5. å klyppa eller brenna nebbet på fjørfe. Departementet​4 kan gjeva føresegner​3 om unntak frå forbodet,\n6. å klyppa kammen på fjørfe,\n7. å taka bort stemmebanda på hund.\nFøresegnene i fyrste leden er ikkje til hinder for at ein veterinær​2 gjer slike inngrep når det trengst av veterinærmedisinske grunnar.\n0 Endra med lover 11 juni 1993 nr. 95, 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75). Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 vedlegget nr. 19). Vert endra med lov 19 april 2002 nr. 11 (først satt i kraft 1 jan 2009, etter res. 19 april 2002 nr. 365, men ved res. 24 okt 2008 nr. 1154 er ikrafttredelsen utsatt).\n1 Jfr. kap. IX.\n2 Sjå lov 15 juni 2001 nr. 75.\n3 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n4 Landbruks- og matdepartementet etter res. 19 nov 1976.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Ymse forbod.",
+      "content": "Det er forbode:​1\n1. å hengja levande fisk på stong, snor, krok e.l. som er stukke gjennom eller inn i fiskekroppen,\n2. å halde fisk i steng på slik måte at fisken kjem i fare for å lida i utrengsmål,\n3. å leggja levande fisk eller krepsdyr i butikkvindaugo.\n0 Endra med lov 3 juni 1983 nr. 40 (sjå § 55 i den lova).\n1 Jfr. kap. IX.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Forbod mot å syne fram dyr offentleg.",
+      "content": "Ingen må​1 skipa til offentleg framsyning av andre dyr enn fisk, her medrekna framsyning på offentleg stad til reklame eller pynt. Forbodet gjeld ikkje utstilling av husdyr eller selskapsdyr, tilskipa som lekk i alsarbeidet.\nDepartementet​2 kan på nærare vilkår gjera unntak frå forbodet mot framsyning. Med søknad om løyve til å halda framsyning i dyrepark, fuglehage o.l. skal det fylgja detaljerte planar for heile framsyningsområdet og drifta der, og fullgode opplysningar om det økonomiske grunnlaget for gjennomføringa av planane.\n1 Jfr. kap. IX.\n2 Landbruks- og matdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "title": "Drift av dyrepensjonat.",
+      "content": "Ingen må​1 driva dyrepensjonat o.l. utan løyve​2 frå Mattilsynet.​3\nStad der tråv- eller galopphestar vert innsette, vert ikkje rekna for dyrepensjonat.\n0 Endra med lov 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792).\n1 Jfr. kap. IX.\n2 Jfr. § 19.\n3 Sjå lov 19 des 2003 nr. 124.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Handel med dyr.",
+      "content": "Ingen må​1 gjera seg til næring å handla med dyr utan løyve​2 frå Mattilsynet.​3 Føresegna gjeld ikkje handel som er ein naturleg lekk i vedkomande dyrehald.\n0 Endra med lov 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792).\n1 Jfr. kap. IX.\n2 Jfr. § 19.\n3 Sjå lov 19 des 2003 nr. 124.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Utleige av dyr",
+      "content": "Ingen må​1 gjera seg til næring å leiga ut dyr utan løyve​2 frå Mattilsynet.​3\n0 Endra med lov 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792).\n1 Jfr. kap. IX.\n2 Jfr. § 19.\n3 Sjå lov 19 des 2003 nr. 124.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Tilbakekalling av løyve.",
+      "content": "Løyve til å driva verksemd som er nemnd i §§ 16-18, kan kallast tilbake om løyvehavaren vert dømd til straff for brot på denne lova eller føresegner som er gjevne med heimel i lova,​1 eller om han vanheld krav som er sette i samband med løyvet. Det same gjeld når løyvehavaren på andre måtar steller seg så at han har mist den tiltru som trengst til å driva verksemd som nemnt.\n1 Jfr. § 31.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "6:20",
+      "chapter": "6",
+      "section": "20",
+      "title": "Bruk av dyr i opplæring.",
+      "content": "Det er forbode​1 å nytta levande dyr i undervisning utan når dette er ein naudsynt lekk i yrkesutdanninga. Departementet​2 kan nekta slik bruk av dyr der det er tvil om bruken er turvande.\nUndervisninga må gjennomførast såleis at dyret ikkje kjem i fåre for å lida i utrengsmål.\n1 Jfr. kap. IX.\n2 Landbruks- og matdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "6:21",
+      "chapter": "6",
+      "section": "21",
+      "title": "Bruk av dyr i forsøksverksemd",
+      "content": "Ingen må​1 gjera biologiske forsøk med dyr utan særskilt løyve.​2 Løyve kan gjevast dersom føremålet er å finne ut kva slags sjukdom dyr eller menneskje lid av eller dersom føremålet er å forebygge eller utrydde sjukdom. Løyve kan og gjevast når føremålet gjeld forskning, undervisning, opplæring, tilverking eller utprøving av medisin, medikament, preparat, gift o.l. til bruk på menneske, dyr eller planter.\nSlike forsøk o.a. må​1 gjennomførast såleis at dyret ikkje kjem i fåre for å lida meir enn det som er strengt turvande etter føremålet.\nDen som har fått løyve etter fyrste leden, kan utan hinder av lov 15. juni 2001 nr. 75 om veterinærer og annet dyrehelsepersonell § 18 nytta heil eller lokal svæving på dei dyr det gjeld.\n0 Endra med lover 2 april 1993 nr. 38, 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75), 15 juni 2001 nr. 75 (i kraft 1 jan 2002, etter res. 15 juni 2001 nr. 711).\n1 Jfr. kap. IX.\n2 Jfr. § 22.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "6:22",
+      "chapter": "6",
+      "section": "22",
+      "title": "Løyve til forsøksverksemd o.a.",
+      "content": "Løyve etter § 21 vert gjeve av eit utval som departementet​1 nemner opp for 4 år om gongen.\nKongen​2 kan gjeva føresegner​3 om korleis utvalet skal vera skipa, om arbeidsoppgåver og arbeidsmåte, og om høve til inspeksjon.\nKongen​2 kan i føresegn​3 fastsetja at utvalet på avgrensa område kan delegere retten til å gje løyve til biologiske forsøk på dyr til ein person som utvalet har godkjent som ansvarleg for forsøksdyrverksemda i ein bedrift eller institusjon.\nDepartementet​1 er klageinstans når det gjeld klage over utvalet sine vedtak.\n0 Endra med lov 27 april 1995 nr. 18.\n1 Landbruks- og matdepartementet.\n2 Landbruks- og matdepartementet etter res. 19 nov 1976.\n3 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "7:23",
+      "chapter": "7",
+      "section": "23",
+      "title": "Tilsynsmyndigheit",
+      "content": "Departementet eller den det gjev fullmakt fører tilsyn og fattar enkeltvedtak for gjennomføring av føresegner gitt i eller i medhald av denne lova.\n0 Endra med lover 5 juni 1987 nr. 25, 18 mai 1990 nr. 12, 27 april 1995 nr. 18, 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792). Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 artikkel 6).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "7:24",
+      "chapter": "7",
+      "section": "24",
+      "title": "Dyrevernnemnder",
+      "content": "I kvart av dei lokale områda til Mattilsynet​1 skal det vere ei eller fleire dyrevernnemnder. Departementet oppnemner og fastset talet på dyrevernnemnder og gjev dei fullmakt til å gjera vedtak etter § 23.\nDepartementet gjev reglar om oppnemning, samansetning og kompetansen til nemnda.\n0 Endra med lover 5 juni 1987 nr. 25, 27 april 1995 nr. 18, 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75), 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792). Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 artikkel 6).\n1 Sjå lov 19 des 2003 nr. 124.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "7:25",
+      "chapter": "7",
+      "section": "25",
+      "title": "Gjennomføring av vedtak og inspeksjon",
+      "content": "Vert eit pålegg ikkje etterkome, skal tilsynsmyndigheit taka dei åtgjerder som trengst. Pålegg som ikkje vert etterkome, kan gjennomførast av tilsynsmyndigheit for den ansvarlege si rekning.\nPolitiet skal når tilsynsmyndigheit ber om det, hjelpa til med iverksetting av vedtak og inspeksjonar.\nTiltak som vert sett i verk etter dette kapittel er ikkje til hinder for at det vert reist straffesak etter § 31.\n0 Endra med lover 27 april 1995 nr. 18, 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792). Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 artikkel 6).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "7:26",
+      "chapter": "7",
+      "section": "26",
+      "title": "Mellombels forvaring",
+      "content": "Forutan tilsynsmyndigheit kan politiet, når det er naudsynt, mellombels taka med seg dyr eller på annan måte sjå til at dyret får høveleg tilsyn og stell. Har politiet mellombels teke med seg dyr, fell vedtaket bort om det ikkje vert stadfesta av tilsynsmyndigheit innan 3 dagar. Mellombels forvaring av dyr skal normalt vare høgst 3 veker. Tilsynsmyndigheit avgjer om dyret skal leverast attende til eigar, seljast, verta omplassert eller verta avliva. Vedtak som politiet har gjort kan verta påklaga til Mattilsynet.​1\n0 Endra med lover 27 april 1995 nr. 18, 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75), 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792).\n1 Sjå lov 19 des 2003 nr. 124.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "7:26 a",
+      "chapter": "7",
+      "section": "26 a",
+      "title": "Avliving straks",
+      "content": "Dersom det vil føre til unødig liding for eit dyr å leve vidare, kan Mattilsynet​1 straks setje i verk avliving av dyret. Dette gjeld også dyr som er i mellombels forvaring etter § 26 og gjeld sjølv om dyreeigar set seg imot avlivinga.\n0 Føyd til med lov 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792).\n1 Sjå lov 19 des 2003 nr. 124.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26a",
+        "source_heading": "§ 26 a."
+      }
+    },
+    {
+      "provision_ref": "7:27",
+      "chapter": "7",
+      "section": "27",
+      "title": "Tvangsmulkt",
+      "content": "Mattilsynet​1 kan påleggje tvangsmulkt i form av einskild mulkt eller løypande mulkt for å gjennomføre pålegget når eit pålegg etter denne lova ikkje vert oppfylt innan den fristen som er sett. Størrelsen på tvangsmulkta skal fastsetjast ut frå kor viktig det er at pålegget vert oppfylt og kva kostnader dette kjem til å medføre.\nKongen kan gje føresegn om at dyrevernnemnda kan ileggje tvangsmulkt andsynes ein eigar eller innehavar som ikkje har oppfylt eit pålegg nemnda har gjeve.\nPålegg om tvangsmulkt er tvangsgrunnlag for utlegg.​2 Mattilsynet kan fråfalle påløypt tvangsmulkt.\n0 Endra med lover 26 juni 1992 nr. 86, 27 april 1995 nr. 18, 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792).\n1 Sjå lov 19 des 2003 nr. 124.\n2 Jfr. tvangsl. § 7-2, d og e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "8:28",
+      "chapter": "8",
+      "section": "28",
+      "title": "Stenging av hytte, koie, seter o.a.",
+      "content": "Ingen må​1 forlate hytte, koie, seterbu og anna bu, fjøs, stall, løe o.l. i utmark eller i fjellet utan å tryggja seg at dører er såleis stengde at beitedyr ikkje kan koma seg inn og verta innestengde.\n1 Jfr. kap. IX.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "8:29",
+      "chapter": "8",
+      "section": "29",
+      "title": "Gjerde.",
+      "content": "Gjerde​1 skal​2 vera såleis laga og vedlikehaldne at risikoen for at beitedyr skader seg, vert så liten som råd er. Gjerderestar skal​2 takast bort. Dersom den eller dei som har gjerdeplikta, ikkje fjernar restane innan den fristen dyrevernnemnda set, skal nemnda syta for at det vert gjort. Den eller dei som har gjerdeplikta, skal bera utgiftene.\nDet er forbode​2 å nytta piggtråd i gjerde i utmark utan i samband med anna gjerdemateriale som er lett synleg. Kongen kan fastsetja avviklingstid for anna piggtrådgjerde som finst når lova tek til å gjelda.\nUtan hinder av føresegna i 2. leden kan kommunestyret, gjennom vedtekt stadfest av departementet,​3 setja forbod​2 mot bruk av piggtråd i gjerde. Forbodet kan gjelda heile kommunen eller deler av denne, gjeldande for utmark og/eller mellom utmark og innmark.\n1 Jfr. lover 5 mai 1961, 21 juni 1963 nr. 23 kap. V, 9 juni 1978 nr. 49 § 12.\n2 Jfr. kap. IX.\n3 Landbruks- og matdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "8:30",
+      "chapter": "8",
+      "section": "30",
+      "title": "Heimel for departementet til å gjeva nærare føresegner.",
+      "content": "Departementet​1 kan gjeva nærare føresegner​2 om:\n1. tilhaldsrom for dyr,\n2. transport av dyr,\n3. svæving og avliving av dyr,\n4. vilkår for løyve til å driva dyrepensjonat eller å gjera seg til næring å handla med eller leiga ut dyr,\n5. arbeidet til dyrevernnemnda,\n6. vilkår for eller forbod mot at framande dyr vert innførde eller haldne som husdyr, selskapsdyr eller i fangenskap på annan måte,\n7. vilkår for eller forbod mot at levande dyr vert nytta som lotterivinstar.\n8. Utstillingar når ein finn det naudsynt for å fylle krava i denne lova.\n9. forbod mot bruk av legemiddel, tilsetningsstoff i fôr og andre liknande stoff til dyr og kontroll med forbodet.\n10. etablering og drift av slakteri, herunder krav om godkjenning og vilkår for å trekkja godkjenninga attende.\nDepartementet kan òg gjeva andre føresegner til utfylling av denne lova.\n0 Endra med lover 11 juni 1993 nr. 95, 5 jan 1996 nr. 3, 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792). Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 artikkel 3, 4 samt vedlegget).\n1 Landbruks- og matdepartementet, etter res. 19 nov 1976.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "8:30 a",
+      "chapter": "8",
+      "section": "30 a",
+      "title": "Avgift og gebyr",
+      "content": "Kongen kan i føresegner påleggje einkvar omfatta av denne lova å betale gebyr for å dekkje kostnader med tilsyn, kontroll og særskilte ytingar, som utferding av attestar og godkjenningar o.a., etter denne lova.\nKongen kan i føresegner påleggje verksemder omfatta av lov om matproduksjon og mattrygghet mv. (matloven) å betale ei avgift på næringsmiddel. Avgifta skal dekkje kostnader med tilsyn og kontroll etter denne lova med aktivitetar som rettar seg mot dyr som vert brukt i produksjon av næringsmiddel, så framt kostnadene ikkje dekkjest av gebyr, jamfør første ledd.\nKongen kan i føresegner påleggje produsentar eller importørar å betale ei avgift på fôr til dyr som ikkje brukast til produksjon av næringsmiddel. Avgifta skal dekkje kostnader med tilsyn og kontroll etter denne lova med aktivitetar som rettar seg mot dyr som ikkje vert brukt i produksjon av næringsmiddel, så framt kostnadene ikkje dekkjest av gebyr, jamfør første ledd.\nKongen kan gjeva nærare føresegner om berekning av avgiftene og gebyra, og oppkrevjing og innbetaling av desse.\nVed forseinka betaling av avgifter og gebyr, skal det betalast rente i samsvar med lov 17. desember 1976 nr. 100 om renter ved forsinket betaling.\nAvgifter og gebyr er tvangsgrunnlag for utlegg.​1\n0 Føyd til med lov 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792).\n1 Jfr. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30a",
+        "source_heading": "§ 30 a."
+      }
+    },
+    {
+      "provision_ref": "9:31",
+      "chapter": "9",
+      "section": "31",
+      "title": "Straff.",
+      "content": "Bryt nokon med vilje eller i aktløyse føresegn gjeven i eller med heimel i denne lova, vert han straffa med bot​1 eller fengsel​2 i opptil 1 år. Er brotet grovt, kan straffa vera bot eller fengsel i opptil 3 år.​3\n0 Endra med lov 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75).\n1 Jfr. lov 22 mai 1902 nr. 10 (strl.) § 27 og kap. 3a; strl. 2005 kap. 4 og kap. 9.\n2 Jfr. strl. § 26 a; strl. 2005 kap. 6 og kap. 9.\n3 Sjå strl. § 67.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "9:32",
+      "chapter": "9",
+      "section": "32",
+      "title": "Frådøming av rett til å ha med dyr å gjera.​1",
+      "content": "Har nokon på serleg grov måte eller meir enn ein gong brote føresegn gjeven i eller med heimel i denne lova, kan han, for alltid eller for ei tid, frådømast retten til å eiga, ha, bruka, handla med og slakta dyr, til å stella dyr eller retten til å drive jakt og fangst. Domen kan gå ut på at den skuldige vert frådømd ein eller fleire av desse rettane eller alle og kan avgrensast til å gjelda berre sume dyreslag. Retten kan frådømast endå om dei subjektive vilkåra for straff ikkje er til stades.\nKrav om dom etter leden framanfor kan fremjast i straffesak etter § 31 eller i serskild sak etter reglane i straffeprosesslova.​2 Påtalemakta​3 skal fremja slikt krav så framt dyrevernnemnda​4 har bede om det.\nGår domen ut på at den dømde skal fråtakast dyr som er i hans varetekt, skal politiet når domen er endeleg, gjeva han ein stutt frist til å kvitta seg med dyra. Held han ikkje fristen, skal politiet snarast råd er, syta for at dyra vert selde eller slakta. Den dømde ber alle utgiftene.\nSet den dømde seg ut over domen, kan han straffast etter § 31.\n1 Sml. lov 22 mai 1902 nr. 10 (strl.) § 29.\n2 Lov 22 mai 1981 nr. 25 (strpl.).\n3 Sjå strpl. kap. 6.\n4 Sjå § 24.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "10:33",
+      "chapter": "10",
+      "section": "33",
+      "title": "Kvar lova gjeld. Svalbard.",
+      "content": "Denne lova skal med unntak av kapittel VII også gjelda på Svalbard.​1\n1 Sjå lov 17 juli 1925 nr. 11 § 1 (2). Sjå og note til § 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "10:34",
+      "chapter": "10",
+      "section": "34",
+      "title": "Ikraftsetjing. Overgangsføresegner.",
+      "content": "Kongen fastset kva tid lova tek til å gjelda.​1 Føresegna i § 13, nr. 2, når det gjeld stubbing av hale på hundar, tek likevel ikkje til å gjelda​2 før den tid departementet fastset.\nFrå den tid lova tek til å gjelda, felle desse lovene bort:\n1. Lov av 7 juni 1935 om dyrevern.\n2. Lov av 21 juni 1929 om avliving av husdyr og tamren.\nFøresegner og reglar gjevne med heimel i nemnde lover, held fram å gjelda, om dei ikkje strider mot føreseger i denne lova, til dess dei vert oppheva eller avløyste av føresegner gjevne med heimel i denne lova.\n1 Frå 1 jan 1977, etter res. 19 nov 1976.\n2 Frå 1 juli 1988, etter res. 7 des 1987 nr. 949, som endra ved res. 18 jan 1988 nr. 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Kva dyr lova gjeld.",
+      "content": "Denne lova gjeld levande pattedyr, fuglar, padder, frosk, salamander, krypdyr, fisk og krepsdyr.\n0 Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 artikkel 2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Ålment om åtferd med dyr.",
+      "content": "Det skal farast vel med dyr og takast omsyn til instinkt og naturleg trong hjå dyret så det ikkje kjem i fåre for å lida i utrengsmål.\n0 Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 vedlegget nr. 7).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Inspeksjon",
+      "content": "Mattilsynet,​1 medlem av dyrevernnemnd​2 og politiet​3 kan til kvar tid inspisera dyr som kjem inn under lova​4 og dei stadar og rom o.l. der slike dyr held til.​5 Utanlandske inspektørar kan delta i inspeksjonar mv. når det er naudsynt for å ivareta Noregs internasjonale forpliktelser.\n0 Endra med lover 15 juni 2001 nr. 75 (i kraft 1 jan 2002, etter res. 15 juni 2001 nr. 711), 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792).\n1 Sjå lov 19 des 2003 nr. 124.\n2 Jfr. § 23.\n3 Jfr. lov 4 aug 1995 nr. 53.\n4 Sjå § 1.\n5 Jfr. lov 22 mai 1902 nr. 10 (strl.) § 326.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Tilhaldsrom.",
+      "content": "Den som eig eller har i si varetekt husdyr, selskapsdyr eller dyr som er haldne i fangenskap på annan måte skal syta for at dyret har fullt tenleg tilhaldsrom der det er stor nok plass, høveleg varmt, nok lys og tilgang på frisk luft m.v., alt etter trongen hjå det einskilde dyreslaget.\nNår verlaget tillet det, kan departementet​2 for visse dyreslag gjere unntak frå plikta til å ha tilhaldsrom.\n0 Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 vedlegget nr. 3, 8, 9, 10, 11, 12 og 13).\n1 Jfr. § 30.\n2 Landbruks- og matdepartementet, etter res. 19 nov 1976.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Avl",
+      "content": "Det er forbode​1 å endra dyra sine arveanlegg ved bruk av genteknologiske metodar eller ved tradisjonelt avlsarbeid dersom\n1. dette gjer dyret uskikka til å utøve normal åtferd eller påverkar fysiologiske funksjonar i uheldig lei,\n2. dyret blir påført unødig liding,\n3. endringa vekkjer ålmenne etiske reaksjonar.\nDet er forbode​1 å avle dyr som har vorte slik som nevnt i fyrste ledd.​2\n0 Endra med lover 2 april 1993 nr. 38, 5 jan 1996 nr. 3, 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75). Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 artikkel 1 og 2 og vedlegget nr. 20 og 21).\n1 Jfr. kap. IX.\n2 Sjå og lov 4 juli 2003 nr. 74 (hundelova) § 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:5 a",
+      "chapter": "1",
+      "section": "5 a",
+      "title": "Tilsyn og stell",
+      "content": "Den som eig eller har i si varetekt husdyr, selskapsdyr eller dyr som er haldne i fangenskap på annan måte, herunder tamrein, eller som har tilsyn med slike dyr for eigar eller innehavar, skal​1 syta for at:\n1. dyret får nok og godt nok fôr og vatn, alt etter trongen hjå det einskilde dyret,\n2. dyret får forsvarleg tilsyn og stell, m.a. får stelt klør, hovar eller klauver,\n3. bindegreie eller stengsel ikkje skader dyret eller er til ulempe for det i utrengsmål,\n4. sjuke eller skadde dyr får høveleg behandling og vert avliva om det trengst,\n5. dyr på beite vert henta heim før frost og snøfall er ventande om hausten.\n0 Føyd til med lov 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75), endra med lov 15 juni 2001 nr. 76 (i kraft 1 juli 2001, etter res. 15 juni 2001 nr. 712).\n1 Jfr. kap. IX.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5a",
+        "source_heading": "§ 5 a."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "title": "Hjelp.",
+      "content": "Råkar nokon på eit dyr som synleg er sjukt, skadd eller hjelpelaust, skal​1 han hjelpa det så langt råd er. Let det seg ikkje gjera å gjeva hjelp eller god nok hjelp og dyret er eit husdyr, tamrein eller storvilt, skal​1 han snarast råd er seia frå til dyret sin eigar eller innehavar eller til næraste politi.\nNår det er klårt at dyret ikkje kan leva eller verta godt att, kan kvar den som råkar på det, taka livet av dyret med det same i samsvar med reglane i § 10, såframt det trengst for å spara det for meir liding. Den som tek livet av husdyr, tamrein eller storvilt, skal​1 snarast råd er melda frå til næraste politi. Husdyr, tamrein og storvilt må ikkje​1 avlivast etter denne føresegna dersom det let seg gjera å få tak i eigar eller innehavar, veterinær eller politi innan rimeleg tid.\nUtgiftene med tiltak etter denne paragrafen skal staten betala, men pengane kan krevjast att hjå eigaren eller innehavaren.\n1 Jfr. kap. IX.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "title": "Medisinsk og kirurgisk behandling.",
+      "content": "Ingen annan​1 enn veterinær​2 kan gjera kirurgisk inngrep eller setja i verk medisinsk behandling av dyr når det er grunn til å tru at inngrepet eller behandlinga kan føre til liding for dyret. Er det grunn til å tru at inngrepet eller behandlinga kjem til å gjera dyret mykje vondt, skal veterinæren nytta heil eller lokal svæving​3 om ikkje medisinske grunnar er til hinder. Når det gjeld akvatiske dyr, med unntak av sjøpattedyr, har og fiskehelsebiologar høve til å setja i verk tilsvarande behandling, jf. lov 15. juni 2001 nr. 75 om veterinærer og annet dyrehelsepersonell § 18.\n0 Endra med lover 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75), 15 juni 2001 nr. 75 (i kraft 1 jan 2002, etter res. 15 juni 2001 nr. 711), 19 april 2002 nr. 11 (i kraft 1 aug 2002, etter res. 19 april 2002 nr. 365. Etter endringslovens III gjelder paragrafens nye ordlyd ikke for Svalbard).\n1 Jfr. kap. IX.\n2 Sjå lov 15 juni 2001 nr. 75 § 4 og § 5.\n3 Jfr. § 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "title": "Forbod mot visse måtar å fara fram mot dyr på.",
+      "content": "Det er forbode:​2\n1. å sparka dyr eller å slå dyr med staur, med reip eller reim som det er knute eller noko liknande på, eller å slå med noko anna som kan gjera dyret like vondt,\n2. å bruka pisk som framdriftsmiddel i trav- og galopptevlingar,\n3. å nytta levande dyr til agn eller åte eller til fôr åt andre dyr,\n4. å tvangsgjøda dyr,\n5. å brennemerke dyr med unntak for merking i hov, klauv, skjel eller horn,\n6. å dopa dyr til tevling eller anna føremål, eller å nytta dyr som er dopa til slike føremål,\n7. å dressera eit dyr på slik vis at det kjem i fåre for å lida eller verta skræmt i utrengsmål.\n1 Jfr. kap. II og III.\n2 Jfr. kap. IX.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "title": "Avliving.",
+      "content": "Avliving av dyr skal​2 gjerast på slik måte at dyret ikkje kjem i fåre for å lida i utrengsmål.\nVed avliving av hest, storfe, småfe, gris, fjørfe, kanin eller tamrein skal​2 dyret svævast før blodet vert tappa. Avliving av slike dyr må berre​2 gjerast av person som er over 16 år og kunnig i slikt. Så langt råd er må​2 avlivinga gjerast ute av syne for andre dyr.\nDyr må ikkje​2 flåast, skåldast eller ribbast før dei er daude. Dette gjeld likevel ikkje krepsdyr.\nFøresegnene i fyrste og tredje leden gjeld òg under jakt og fangst.\n1 Jfr. § 30.\n2 Jfr. kap. IX.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "title": "Avliving i naudtilfelle.",
+      "content": "Når eit dyr må avlivast straks fordi det er sjukt, skadd eller hjelpelaust av andre grunnar, skal​1 dette gjerast slik at dyret lid så lite som råd er og i best mogeleg samsvar med reglane i § 9. Våpenet som vert nytta, skal​1 vera så effektivt at dyret ikkje kjem i fåre for å lida i utrengsmål.\nDet som er sagt i leden framanfor, gjeld òg ved avliving av husdyr som er vortne så ville at det er rådlaust å fanga dei på vanleg vis.\n1 Jfr. kap. IX.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Forbod mot visse måtar å fara fram mot dyr på.",
+      "content": "Det er forbode:​1\n1. å driva dyr for hardt,\n2. å føra dyr bundne til motorkøyrety, traktor og snøscooter medrekna, på slik vis at dyret kjem i fåre for å lida vondt,\n3. å sleppa dyr med helde, stokk (drals) e.l. utan dagleg tilsyn,\n4. å bruka dressurhalsband på hund utanom den tid hunden er under aktiv dressur,\n5. å halda hund varig bunden slik at han får stuttare line enn 10 meter,\n6. å setja briller eller andre ting på fjørfe for å unngå hakking e.l.\n1 Jfr. kap. IX.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "(Oppheva)",
+      "content": "0 Oppheva med lov 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "title": "Forbod mot visse inngrep.",
+      "content": "Det er forbode:​1\n1. å kastrera reinsbukk, hund og fjørfe. Veterinær​2 kan likevel kastrera reinsbukk og hund når særlege bruksgrunnar gjer at det trengst. Departementet kan bestemme at også andre enn veterinær kan kastrera reinsbukk og nytta svæving til dette. Departementet kan gje føresegn​3 med forbod​1 mot å kastrera gris.\n2. å stubba øyre eller hale og å stilla ut noko dyr som har fått stubba øyre eller hale etter at denne lova tok til å gjelda. Øyremerking er likevel lovleg når det ikkje vert teke bort meir enn 1/3 av øyret. Departementet​4 kan gjeva føresegner​3 som på nærare vilkår gjer unntak frå forbodet når det gjeld stubbing av hale på gris dersom stubbing trengst av omsyn til dyra, og føresegner som på nærare vilkår gjer unntak frå forbodet mot å stilla ut hund med stubba hale.\n3. å setja ring i trynet på gris eller å nytta andre pinefulle åtgjerder for å hindra at han rotar i jorda. Veterinær​2 kan likevel setja ring i trynet på gris, etter føresegner gjeve av departementet, når bruksgrunnar gjer at det trengst,\n4. å fjerna horn på dyr. Departementet​4 kan gjeva føresegner​3 om unntak frå forbodet når det gjeld tamrein. Departementet kan også gjeva føresegner som på nærare vilkår gjev veterinær​2 høve til å fjerna hornanlegg på andre dyr når dei er yngre enn 6 veker, og, i serlege høve, horn på dyr som er eldre enn 6 veker,\n5. å klyppa eller brenna nebbet på fjørfe. Departementet​4 kan gjeva føresegner​3 om unntak frå forbodet,\n6. å klyppa kammen på fjørfe,\n7. å taka bort stemmebanda på hund.\nFøresegnene i fyrste leden er ikkje til hinder for at ein veterinær​2 gjer slike inngrep når det trengst av veterinærmedisinske grunnar.\n0 Endra med lover 11 juni 1993 nr. 95, 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75). Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 vedlegget nr. 19). Vert endra med lov 19 april 2002 nr. 11 (først satt i kraft 1 jan 2009, etter res. 19 april 2002 nr. 365, men ved res. 24 okt 2008 nr. 1154 er ikrafttredelsen utsatt).\n1 Jfr. kap. IX.\n2 Sjå lov 15 juni 2001 nr. 75.\n3 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n4 Landbruks- og matdepartementet etter res. 19 nov 1976.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Ymse forbod.",
+      "content": "Det er forbode:​1\n1. å hengja levande fisk på stong, snor, krok e.l. som er stukke gjennom eller inn i fiskekroppen,\n2. å halde fisk i steng på slik måte at fisken kjem i fare for å lida i utrengsmål,\n3. å leggja levande fisk eller krepsdyr i butikkvindaugo.\n0 Endra med lov 3 juni 1983 nr. 40 (sjå § 55 i den lova).\n1 Jfr. kap. IX.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Forbod mot å syne fram dyr offentleg.",
+      "content": "Ingen må​1 skipa til offentleg framsyning av andre dyr enn fisk, her medrekna framsyning på offentleg stad til reklame eller pynt. Forbodet gjeld ikkje utstilling av husdyr eller selskapsdyr, tilskipa som lekk i alsarbeidet.\nDepartementet​2 kan på nærare vilkår gjera unntak frå forbodet mot framsyning. Med søknad om løyve til å halda framsyning i dyrepark, fuglehage o.l. skal det fylgja detaljerte planar for heile framsyningsområdet og drifta der, og fullgode opplysningar om det økonomiske grunnlaget for gjennomføringa av planane.\n1 Jfr. kap. IX.\n2 Landbruks- og matdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "title": "Drift av dyrepensjonat.",
+      "content": "Ingen må​1 driva dyrepensjonat o.l. utan løyve​2 frå Mattilsynet.​3\nStad der tråv- eller galopphestar vert innsette, vert ikkje rekna for dyrepensjonat.\n0 Endra med lov 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792).\n1 Jfr. kap. IX.\n2 Jfr. § 19.\n3 Sjå lov 19 des 2003 nr. 124.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Handel med dyr.",
+      "content": "Ingen må​1 gjera seg til næring å handla med dyr utan løyve​2 frå Mattilsynet.​3 Føresegna gjeld ikkje handel som er ein naturleg lekk i vedkomande dyrehald.\n0 Endra med lov 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792).\n1 Jfr. kap. IX.\n2 Jfr. § 19.\n3 Sjå lov 19 des 2003 nr. 124.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Utleige av dyr",
+      "content": "Ingen må​1 gjera seg til næring å leiga ut dyr utan løyve​2 frå Mattilsynet.​3\n0 Endra med lov 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792).\n1 Jfr. kap. IX.\n2 Jfr. § 19.\n3 Sjå lov 19 des 2003 nr. 124.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Tilbakekalling av løyve.",
+      "content": "Løyve til å driva verksemd som er nemnd i §§ 16-18, kan kallast tilbake om løyvehavaren vert dømd til straff for brot på denne lova eller føresegner som er gjevne med heimel i lova,​1 eller om han vanheld krav som er sette i samband med løyvet. Det same gjeld når løyvehavaren på andre måtar steller seg så at han har mist den tiltru som trengst til å driva verksemd som nemnt.\n1 Jfr. § 31.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "6:20",
+      "chapter": "6",
+      "section": "20",
+      "title": "Bruk av dyr i opplæring.",
+      "content": "Det er forbode​1 å nytta levande dyr i undervisning utan når dette er ein naudsynt lekk i yrkesutdanninga. Departementet​2 kan nekta slik bruk av dyr der det er tvil om bruken er turvande.\nUndervisninga må gjennomførast såleis at dyret ikkje kjem i fåre for å lida i utrengsmål.\n1 Jfr. kap. IX.\n2 Landbruks- og matdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "6:21",
+      "chapter": "6",
+      "section": "21",
+      "title": "Bruk av dyr i forsøksverksemd",
+      "content": "Ingen må​1 gjera biologiske forsøk med dyr utan særskilt løyve.​2 Løyve kan gjevast dersom føremålet er å finne ut kva slags sjukdom dyr eller menneskje lid av eller dersom føremålet er å forebygge eller utrydde sjukdom. Løyve kan og gjevast når føremålet gjeld forskning, undervisning, opplæring, tilverking eller utprøving av medisin, medikament, preparat, gift o.l. til bruk på menneske, dyr eller planter.\nSlike forsøk o.a. må​1 gjennomførast såleis at dyret ikkje kjem i fåre for å lida meir enn det som er strengt turvande etter føremålet.\nDen som har fått løyve etter fyrste leden, kan utan hinder av lov 15. juni 2001 nr. 75 om veterinærer og annet dyrehelsepersonell § 18 nytta heil eller lokal svæving på dei dyr det gjeld.\n0 Endra med lover 2 april 1993 nr. 38, 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75), 15 juni 2001 nr. 75 (i kraft 1 jan 2002, etter res. 15 juni 2001 nr. 711).\n1 Jfr. kap. IX.\n2 Jfr. § 22.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "6:22",
+      "chapter": "6",
+      "section": "22",
+      "title": "Løyve til forsøksverksemd o.a.",
+      "content": "Løyve etter § 21 vert gjeve av eit utval som departementet​1 nemner opp for 4 år om gongen.\nKongen​2 kan gjeva føresegner​3 om korleis utvalet skal vera skipa, om arbeidsoppgåver og arbeidsmåte, og om høve til inspeksjon.\nKongen​2 kan i føresegn​3 fastsetja at utvalet på avgrensa område kan delegere retten til å gje løyve til biologiske forsøk på dyr til ein person som utvalet har godkjent som ansvarleg for forsøksdyrverksemda i ein bedrift eller institusjon.\nDepartementet​1 er klageinstans når det gjeld klage over utvalet sine vedtak.\n0 Endra med lov 27 april 1995 nr. 18.\n1 Landbruks- og matdepartementet.\n2 Landbruks- og matdepartementet etter res. 19 nov 1976.\n3 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "7:23",
+      "chapter": "7",
+      "section": "23",
+      "title": "Tilsynsmyndigheit",
+      "content": "Departementet eller den det gjev fullmakt fører tilsyn og fattar enkeltvedtak for gjennomføring av føresegner gitt i eller i medhald av denne lova.\n0 Endra med lover 5 juni 1987 nr. 25, 18 mai 1990 nr. 12, 27 april 1995 nr. 18, 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792). Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 artikkel 6).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "7:24",
+      "chapter": "7",
+      "section": "24",
+      "title": "Dyrevernnemnder",
+      "content": "I kvart av dei lokale områda til Mattilsynet​1 skal det vere ei eller fleire dyrevernnemnder. Departementet oppnemner og fastset talet på dyrevernnemnder og gjev dei fullmakt til å gjera vedtak etter § 23.\nDepartementet gjev reglar om oppnemning, samansetning og kompetansen til nemnda.\n0 Endra med lover 5 juni 1987 nr. 25, 27 april 1995 nr. 18, 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75), 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792). Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 artikkel 6).\n1 Sjå lov 19 des 2003 nr. 124.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "7:25",
+      "chapter": "7",
+      "section": "25",
+      "title": "Gjennomføring av vedtak og inspeksjon",
+      "content": "Vert eit pålegg ikkje etterkome, skal tilsynsmyndigheit taka dei åtgjerder som trengst. Pålegg som ikkje vert etterkome, kan gjennomførast av tilsynsmyndigheit for den ansvarlege si rekning.\nPolitiet skal når tilsynsmyndigheit ber om det, hjelpa til med iverksetting av vedtak og inspeksjonar.\nTiltak som vert sett i verk etter dette kapittel er ikkje til hinder for at det vert reist straffesak etter § 31.\n0 Endra med lover 27 april 1995 nr. 18, 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792). Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 artikkel 6).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "7:26",
+      "chapter": "7",
+      "section": "26",
+      "title": "Mellombels forvaring",
+      "content": "Forutan tilsynsmyndigheit kan politiet, når det er naudsynt, mellombels taka med seg dyr eller på annan måte sjå til at dyret får høveleg tilsyn og stell. Har politiet mellombels teke med seg dyr, fell vedtaket bort om det ikkje vert stadfesta av tilsynsmyndigheit innan 3 dagar. Mellombels forvaring av dyr skal normalt vare høgst 3 veker. Tilsynsmyndigheit avgjer om dyret skal leverast attende til eigar, seljast, verta omplassert eller verta avliva. Vedtak som politiet har gjort kan verta påklaga til Mattilsynet.​1\n0 Endra med lover 27 april 1995 nr. 18, 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75), 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792).\n1 Sjå lov 19 des 2003 nr. 124.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "7:26 a",
+      "chapter": "7",
+      "section": "26 a",
+      "title": "Avliving straks",
+      "content": "Dersom det vil føre til unødig liding for eit dyr å leve vidare, kan Mattilsynet​1 straks setje i verk avliving av dyret. Dette gjeld også dyr som er i mellombels forvaring etter § 26 og gjeld sjølv om dyreeigar set seg imot avlivinga.\n0 Føyd til med lov 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792).\n1 Sjå lov 19 des 2003 nr. 124.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26a",
+        "source_heading": "§ 26 a."
+      }
+    },
+    {
+      "provision_ref": "7:27",
+      "chapter": "7",
+      "section": "27",
+      "title": "Tvangsmulkt",
+      "content": "Mattilsynet​1 kan påleggje tvangsmulkt i form av einskild mulkt eller løypande mulkt for å gjennomføre pålegget når eit pålegg etter denne lova ikkje vert oppfylt innan den fristen som er sett. Størrelsen på tvangsmulkta skal fastsetjast ut frå kor viktig det er at pålegget vert oppfylt og kva kostnader dette kjem til å medføre.\nKongen kan gje føresegn om at dyrevernnemnda kan ileggje tvangsmulkt andsynes ein eigar eller innehavar som ikkje har oppfylt eit pålegg nemnda har gjeve.\nPålegg om tvangsmulkt er tvangsgrunnlag for utlegg.​2 Mattilsynet kan fråfalle påløypt tvangsmulkt.\n0 Endra med lover 26 juni 1992 nr. 86, 27 april 1995 nr. 18, 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792).\n1 Sjå lov 19 des 2003 nr. 124.\n2 Jfr. tvangsl. § 7-2, d og e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "8:28",
+      "chapter": "8",
+      "section": "28",
+      "title": "Stenging av hytte, koie, seter o.a.",
+      "content": "Ingen må​1 forlate hytte, koie, seterbu og anna bu, fjøs, stall, løe o.l. i utmark eller i fjellet utan å tryggja seg at dører er såleis stengde at beitedyr ikkje kan koma seg inn og verta innestengde.\n1 Jfr. kap. IX.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "8:29",
+      "chapter": "8",
+      "section": "29",
+      "title": "Gjerde.",
+      "content": "Gjerde​1 skal​2 vera såleis laga og vedlikehaldne at risikoen for at beitedyr skader seg, vert så liten som råd er. Gjerderestar skal​2 takast bort. Dersom den eller dei som har gjerdeplikta, ikkje fjernar restane innan den fristen dyrevernnemnda set, skal nemnda syta for at det vert gjort. Den eller dei som har gjerdeplikta, skal bera utgiftene.\nDet er forbode​2 å nytta piggtråd i gjerde i utmark utan i samband med anna gjerdemateriale som er lett synleg. Kongen kan fastsetja avviklingstid for anna piggtrådgjerde som finst når lova tek til å gjelda.\nUtan hinder av føresegna i 2. leden kan kommunestyret, gjennom vedtekt stadfest av departementet,​3 setja forbod​2 mot bruk av piggtråd i gjerde. Forbodet kan gjelda heile kommunen eller deler av denne, gjeldande for utmark og/eller mellom utmark og innmark.\n1 Jfr. lover 5 mai 1961, 21 juni 1963 nr. 23 kap. V, 9 juni 1978 nr. 49 § 12.\n2 Jfr. kap. IX.\n3 Landbruks- og matdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "8:30",
+      "chapter": "8",
+      "section": "30",
+      "title": "Heimel for departementet til å gjeva nærare føresegner.",
+      "content": "Departementet​1 kan gjeva nærare føresegner​2 om:\n1. tilhaldsrom for dyr,\n2. transport av dyr,\n3. svæving og avliving av dyr,\n4. vilkår for løyve til å driva dyrepensjonat eller å gjera seg til næring å handla med eller leiga ut dyr,\n5. arbeidet til dyrevernnemnda,\n6. vilkår for eller forbod mot at framande dyr vert innførde eller haldne som husdyr, selskapsdyr eller i fangenskap på annan måte,\n7. vilkår for eller forbod mot at levande dyr vert nytta som lotterivinstar.\n8. Utstillingar når ein finn det naudsynt for å fylle krava i denne lova.\n9. forbod mot bruk av legemiddel, tilsetningsstoff i fôr og andre liknande stoff til dyr og kontroll med forbodet.\n10. etablering og drift av slakteri, herunder krav om godkjenning og vilkår for å trekkja godkjenninga attende.\nDepartementet kan òg gjeva andre føresegner til utfylling av denne lova.\n0 Endra med lover 11 juni 1993 nr. 95, 5 jan 1996 nr. 3, 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792). Jfr. EØS-avtalen vedlegg I kapittel 9 nr. 6 (dir 98/58 artikkel 3, 4 samt vedlegget).\n1 Landbruks- og matdepartementet, etter res. 19 nov 1976.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "8:30 a",
+      "chapter": "8",
+      "section": "30 a",
+      "title": "Avgift og gebyr",
+      "content": "Kongen kan i føresegner påleggje einkvar omfatta av denne lova å betale gebyr for å dekkje kostnader med tilsyn, kontroll og særskilte ytingar, som utferding av attestar og godkjenningar o.a., etter denne lova.\nKongen kan i føresegner påleggje verksemder omfatta av lov om matproduksjon og mattrygghet mv. (matloven) å betale ei avgift på næringsmiddel. Avgifta skal dekkje kostnader med tilsyn og kontroll etter denne lova med aktivitetar som rettar seg mot dyr som vert brukt i produksjon av næringsmiddel, så framt kostnadene ikkje dekkjest av gebyr, jamfør første ledd.\nKongen kan i føresegner påleggje produsentar eller importørar å betale ei avgift på fôr til dyr som ikkje brukast til produksjon av næringsmiddel. Avgifta skal dekkje kostnader med tilsyn og kontroll etter denne lova med aktivitetar som rettar seg mot dyr som ikkje vert brukt i produksjon av næringsmiddel, så framt kostnadene ikkje dekkjest av gebyr, jamfør første ledd.\nKongen kan gjeva nærare føresegner om berekning av avgiftene og gebyra, og oppkrevjing og innbetaling av desse.\nVed forseinka betaling av avgifter og gebyr, skal det betalast rente i samsvar med lov 17. desember 1976 nr. 100 om renter ved forsinket betaling.\nAvgifter og gebyr er tvangsgrunnlag for utlegg.​1\n0 Føyd til med lov 19 des 2003 nr. 129 (i kraft 1 jan 2004, etter res. 19 des 2003 nr. 1792).\n1 Jfr. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30a",
+        "source_heading": "§ 30 a."
+      }
+    },
+    {
+      "provision_ref": "9:31",
+      "chapter": "9",
+      "section": "31",
+      "title": "Straff.",
+      "content": "Bryt nokon med vilje eller i aktløyse føresegn gjeven i eller med heimel i denne lova, vert han straffa med bot​1 eller fengsel​2 i opptil 1 år. Er brotet grovt, kan straffa vera bot eller fengsel i opptil 3 år.​3\n0 Endra med lov 19 jan 2001 nr. 6 (i kraft 1 mars 2001, etter res. 19 jan 2001 nr. 75).\n1 Jfr. lov 22 mai 1902 nr. 10 (strl.) § 27 og kap. 3a; strl. 2005 kap. 4 og kap. 9.\n2 Jfr. strl. § 26 a; strl. 2005 kap. 6 og kap. 9.\n3 Sjå strl. § 67.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "9:32",
+      "chapter": "9",
+      "section": "32",
+      "title": "Frådøming av rett til å ha med dyr å gjera.​1",
+      "content": "Har nokon på serleg grov måte eller meir enn ein gong brote føresegn gjeven i eller med heimel i denne lova, kan han, for alltid eller for ei tid, frådømast retten til å eiga, ha, bruka, handla med og slakta dyr, til å stella dyr eller retten til å drive jakt og fangst. Domen kan gå ut på at den skuldige vert frådømd ein eller fleire av desse rettane eller alle og kan avgrensast til å gjelda berre sume dyreslag. Retten kan frådømast endå om dei subjektive vilkåra for straff ikkje er til stades.\nKrav om dom etter leden framanfor kan fremjast i straffesak etter § 31 eller i serskild sak etter reglane i straffeprosesslova.​2 Påtalemakta​3 skal fremja slikt krav så framt dyrevernnemnda​4 har bede om det.\nGår domen ut på at den dømde skal fråtakast dyr som er i hans varetekt, skal politiet når domen er endeleg, gjeva han ein stutt frist til å kvitta seg med dyra. Held han ikkje fristen, skal politiet snarast råd er, syta for at dyra vert selde eller slakta. Den dømde ber alle utgiftene.\nSet den dømde seg ut over domen, kan han straffast etter § 31.\n1 Sml. lov 22 mai 1902 nr. 10 (strl.) § 29.\n2 Lov 22 mai 1981 nr. 25 (strpl.).\n3 Sjå strpl. kap. 6.\n4 Sjå § 24.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "10:33",
+      "chapter": "10",
+      "section": "33",
+      "title": "Kvar lova gjeld. Svalbard.",
+      "content": "Denne lova skal med unntak av kapittel VII også gjelda på Svalbard.​1\n1 Sjå lov 17 juli 1925 nr. 11 § 1 (2). Sjå og note til § 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "10:34",
+      "chapter": "10",
+      "section": "34",
+      "title": "Ikraftsetjing. Overgangsføresegner.",
+      "content": "Kongen fastset kva tid lova tek til å gjelda.​1 Føresegna i § 13, nr. 2, når det gjeld stubbing av hale på hundar, tek likevel ikkje til å gjelda​2 før den tid departementet fastset.\nFrå den tid lova tek til å gjelda, felle desse lovene bort:\n1. Lov av 7 juni 1935 om dyrevern.\n2. Lov av 21 juni 1929 om avliving av husdyr og tamren.\nFøresegner og reglar gjevne med heimel i nemnde lover, held fram å gjelda, om dei ikkje strider mot føreseger i denne lova, til dess dei vert oppheva eller avløyste av føresegner gjevne med heimel i denne lova.\n1 Frå 1 jan 1977, etter res. 19 nov 1976.\n2 Frå 1 juli 1988, etter res. 7 des 1987 nr. 949, som endra ved res. 18 jan 1988 nr. 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    }
+  ]
+}

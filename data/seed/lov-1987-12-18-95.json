@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1987-12-18-95",
+  "type": "statute",
+  "title": "Lov om samtykke til ratifikasjon av Montreal-protokoll nr. 3 og 4 til Warszawa-konvensjonen 12 oktober 1929 om internasjonal luftbefordring med senere endringer.",
+  "short_name": "Lov om ratifikasjon av Montrealprotokoller",
+  "status": "in_force",
+  "issued_date": "1987-12-18",
+  "in_force_date": "1987-12-18",
+  "url": "https://lovdata.no/dokument/NLO/lov/1987-12-18-95",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Stortinget samtykker i ratifikasjon av tilleggsprotokoll nr. 3 og 4 utferdiget i Montreal 25 september 1975, for å endre overenskomsten om innføring av visse ensartete regler om internasjonal luftbefordring, undertegnet i Warszawa 12 oktober 1929, slik den er endret ved protokoll utferdiget i Haag 28 september 1955.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven her trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Stortinget samtykker i ratifikasjon av tilleggsprotokoll nr. 3 og 4 utferdiget i Montreal 25 september 1975, for å endre overenskomsten om innføring av visse ensartete regler om internasjonal luftbefordring, undertegnet i Warszawa 12 oktober 1929, slik den er endret ved protokoll utferdiget i Haag 28 september 1955.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven her trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

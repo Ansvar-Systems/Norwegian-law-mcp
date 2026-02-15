@@ -1,0 +1,591 @@
+{
+  "id": "LOV-1992-12-04-126",
+  "type": "statute",
+  "title": "Lov om arkiv [arkivlova]",
+  "short_name": "Arkivlova – arkl",
+  "status": "in_force",
+  "issued_date": "1992-12-04",
+  "in_force_date": "1999-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1992-12-04-126",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Føremål.",
+      "content": "Føremålet med denne lova er å tryggja arkiv som har monaleg kulturelt eller forskingsmessig verde eller som inneheld rettsleg eller viktig forvaltningsmessig dokumentasjon, slik at desse kan verta tekne vare på og gjorde tilgjengelege for ettertida.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjonar.",
+      "content": "I denne lova vert desse omgrepa nytta slik:\na. dokument: ei logisk avgrensa informasjonsmengd som er lagra på eit medium for seinare lesing, lyding, framsyning eller overføring\nb. Arkiv: dokument som vert til som lekk i ei verksemd.\nc. Statleg arkiv: arkiv skapt av statleg organ.\nd. Kommunalt arkiv: arkiv skapt av fylkeskommunalt eller kommunalt organ.\ne. Offentleg arkiv: statleg eller kommunalt arkiv.\nf. Privat arkiv: arkiv som ikkje er offentleg arkiv.\ng. Offentleg organ: statleg, fylkeskommunal eller kommunal institusjon eller eining.\n0 Endra med lov 15 des 2000 nr. 98 (ikr. 1 apr 2001 iflg. res. 2 mars 2001 nr. 179).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Geografisk verkeområde.",
+      "content": "Kongen kan fastsetja at lova òg skal gjelda for Svalbard, Jan Mayen, dei norske bilanda i Antarktis og den norske delen av kontinentalsokkelen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Arkivverket",
+      "content": "Riksarkivet, statsarkiva, Samisk arkiv og Norsk helsearkiv utgjer det statlege Arkivverket, som står under leiing av Riksarkivaren.\nOm ikkje anna vert uttrykkjeleg fastsett, kan Riksarkivaren delegera avgjerdsfullmakter til leiarane for statsarkiva, Samisk arkiv og Norsk helsearkiv.\n0 Endra med lov 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Verkeområde",
+      "content": "Føresegnene i dette kapittelet gjeld for alle offentlege organ med unnatak for Stortinget, Riksrevisjonen, Sivilombodet og andre organ for Stortinget.\n0 Endra med lov 20 des 2022 nr. 115.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Arkivansvaret.",
+      "content": "Offentlege organ pliktar å ha arkiv, og desse skal vera ordna og innretta slik at dokumenta er tryggja som informasjonskjelder for samtid og ettertid.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Rettleiings- og tilsynsansvar.",
+      "content": "Riksarkivaren har rettleiings- og tilsynsansvar for arkivarbeidet i offentlege organ. Riksarkivaren kan\na. krevja seg førelagt for godkjenning journalsystem, arkivnøklar, arkivinstruksar m.m.\nb. inspisera arkiv.\nc. gje pålegg som er naudsynte for å oppfylla føresegner gjevne i eller i medhald av denne lova.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Opplysningsplikt.",
+      "content": "På førespurnad frå Riksarkivaren pliktar offentlege organ å gje opplysningar om tilhøve som gjeld arkiva, og som kan ha verknad for oppfyllinga av føremåla med lova. Riksarkivaren kan be om regelmessige rapportar.\nPlikta til å gje opplysningar etter første leden gjeld ubunde av teieplikt fastsett i lov eller i medhald av lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Kassasjon m.m.​1",
+      "content": "Utan i samsvar med føresegner gjevne i medhald av § 12 i denne lova eller etter særskilt samtykke frå Riksarkivaren, kan ikkje arkivmateriale\na. avhendast.\nb. førast ut or landet, dersom dette ikkje representerer ein naudsynt del av den forvaltningsmessige eller rettslege bruken av dokumenta.\nc. kasserast. Dette forbodet går framom føresegner om kassasjon i eller i medhald av andre lover. Personregister eller delar av personregister kan likevel slettast etter føresegnene i helseregisterlova og etter føresegner i medhald av helseregisterlova §§ 8 til 12. Slik sletting kan først gjerast etter at det er innhenta fråsegn frå Riksarkivaren. Personregister eller delar av personregister kan i tillegg slettast etter føresegner i medhald av politiregisterloven § 69 første ledd nr. 16.\nd. rettast på ein slik måte at tidlegare urette eller ufullstendige opplysningar vert sletta, dersom desse har hatt noko å seia for saksførebuinga, vedtak eller anna som etter føremålet med denne lova bør kunna dokumenterast. Føresegner om sletting gjevne i medhald av §§ 8 til 11 og § 25 andre leden i helseregisterlova, gjeld likevel uinnskrenka.\n0 Endra med lover 14 apr 2000 nr. 31 (ikr. 1 jan 2001 iflg. res. 30 juni 2000 nr. 641), 18 mai 2001 nr. 24 (ikr. 1 jan 2002 iflg. res. 18 mai 2001 nr. 502), 20 juni 2014 nr. 43 (ikr. 1 jan 2015 iflg. res. 19 des 2014 nr. 1732), 19 juni 2015 nr. 61 (ikr. 1 juli 2015 iflg. res. 19 juni 2015 nr. 680), 21 juni 2017 nr. 94 (ikr. 6 mai 2018 iflg. res. 27 apr 2018 nr. 642), 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).\n1 Innleiingsteksten og bokstav b held fram å gjelde fram til § 11 i lov 20. juni 2025 nr. 96 tek til å gjelde, iflg. res. 12 des 2025 nr. 2510.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Avlevering.",
+      "content": "Statlege arkiv skal avleverast til Arkivverket i samsvar med dei føresegnene som vert fastsette i medhald av § 12 i denne lova.\nRiksarkivaren kan likevel gje samtykke til at statlege arkiv vert avleverte til institusjonar utanfor Arkivverket, eller at dei framleis skal oppbevarast av det arkivskapande organet.\nRiksarkivaren kan fastsetja at kommunale arkiv skal avleverast til Arkivverket eller annan institusjon, dersom dette er naudsynt for å tryggja arkivet eller når særlege omsyn tilseier dette.\nVed avlevering til Arkivverket overtek Riksarkivaren råderetten over arkivet.\nKostnadene ved avlevering skal dekkjast av det avleverande organet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Refusjon.",
+      "content": "Riksarkivaren kan krevja refusjon frå avleverande organ for dei meirkostnadene Arkivverket vert påført, dersom det viser seg at arkivet tidlegare ikkje har vore handsama i samsvar med gjeldande føresegner.\nDersom eit offentleg arkiv som framleis er i aktiv bruk, må avleverast til Arkivverket, kan Riksarkivaren som vilkår for avleveringa krevja at meirkostnader ved å måtta henta fram dokument m.m. vert dekte av vedkomande organ.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Utfyllande føresegner.",
+      "content": "Kongen gjev utfyllande føresegner om journalsystem, arkivnøklar, arkivinstruksar, dokumentkvalitet, arkivutstyr, arkivlokale, arkivavgrensingar, kassasjon, bortsetjingsarkiv, avlevering, refusjonsreglar m.m., og om rett til å klaga over Riksarkivarens avgjerder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Oversyn og registrering.",
+      "content": "Riksarkivaren skal\na. halda oversyn over verneverdige privatarkiv.\nb. føra register over privatarkiv som er tekne vare på av offentlege og private oppbevaringsinstitusjonar.\nRiksarkivaren kan registrera visse privatarkiv som særskilt verneverdige. Melding om slik registrering skal sendast arkiveigaren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Retningsliner.",
+      "content": "Riksarkivaren gjev nærare retningsliner for arbeidet med privatarkiv i Arkivverket. Riksarkivaren kan fastsetja at desse retningslinene òg heilt eller delvis skal gjelda for\na. andre offentlege organ som arbeider med å ta vare på privatarkiv.\nb. private institusjonar som arbeider for å ta vare på privatarkiv, og som mottek offentleg tilskot til dette arbeidet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Opplysningsplikt.",
+      "content": "Arkiveigar som har fått melding frå Riksarkivaren om at arkivet er særskilt verneverdig, jf. § 13 andre leden, pliktar å gje melding til Riksarkivaren når arkivet skiftar eigar, heilt eller delvis vert planlagt ført ut or landet eller står i fare for å gå tapt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Avlevering og deponering.",
+      "content": "Dersom verneverdig privatarkiv vert avlevert til eller deponert i Arkivverket eller annan oppbevaringsinstitusjon, kan arkiveigaren fastsetja særskilde avgrensingar i tilgjenget til arkivet. Slike avgrensingar kan ikkje gjerast gjeldande ut over hundre år etter avlevering eller deponering.\nVed avlevering går eigedomsretten til arkivet over til mottakarinstitusjonen.\nVed deponering har deponenten og seinare ervingane hans eigedomsretten til arkivet. Eigedomsretten går likevel over til mottakarinstitusjonen når ervefølgda etter deponenten vert broten, eller når det er gått hundre år sidan deponeringa.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Kopiering.",
+      "content": "Dersom særskilt verneverdig arkiv skal førast ut or landet eller står i fare for å gå tapt, kan Riksarkivaren krevja å få kopiera arkivdokumenta. Riksarkivaren har tilsvarande rett dersom deponert særskilt verneverdig arkiv vert kravd levert attende.\nKopiane skal oppbevarast i Arkivverket eller annan oppbevaringsinstitusjon, som må dekkja kostnadene ved kopieringa. Arkiveigaren kan setja vilkår for tilgjenge til kopiane i samsvar med føresegna i § 16 første leden, men kan ikkje krevja vederlag for at dokumenta vert kopierte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Innskrenka råderett.",
+      "content": "Arkiv som er registrert som særskilt verneverdig, jf. § 13 andre leden, kan ikkje delast opp, førast ut or landet, skadast eller øydeleggjast utan samtykke frå Riksarkivaren. Reglane i helseregisterlova om retting og sletting av opplysningar vil likevel gjelda fullt ut.\n0 Endra med lover 14 apr 2000 nr. 31 (ikr. 1 jan 2001 iflg. res. 30 juni 2000 nr. 641), 18 mai 2001 nr. 24 (ikr. 1 jan 2002 iflg. res. 18 mai 2001 nr. 502), 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Privatarkiv med offentleg tilknyting.",
+      "content": "Dersom privat rettssubjekt mottek faste offentlege driftstilskot som er viktige for verksemda eller har fullmakt til å treffa einskildvedtak eller utferda forskrifter, kan Riksarkivaren fastsetja at arkivet heilt eller delvis skal følgja føresegnene for offentlege arkiv gjevne i eller i medhald av denne lova.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Skifte av status.",
+      "content": "Når arkivskapande organ skiftar status frå statleg til kommunalt eller frå offentleg til privat, kan Riksarkivaren fastsetja at arkivet heilt eller delvis skal følgja dei reglane som gjeld for tidlegare status.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Tileigning av offentleg arkiv.",
+      "content": "Ingen kan tileigna seg offentleg arkivmateriale, utan i samsvar med føresegner gjevne i medhald av § 12 i denne lova eller etter særskilt samtykke frå Riksarkivaren.\nRiksarkivaren kan krevje framlegging av ordinær politiattest ved tilsetting i Riksarkivet eller statsarkiva.\n0 Endra med lov 21 juni 2013 nr. 82 (ikr. 1 juli 2014 iflg. res. 27 sep 2013 nr. 1132 som endra med res. 13 des 2013 nr. 1449).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:21 a",
+      "chapter": "4",
+      "section": "21 a",
+      "title": "Innhenting av opplysningar frå Folkeregisteret",
+      "content": "Arkivverket kan, utan hinder av teieplikt, hente inn opplysningar frå Folkeregisteret når det er naudsynt for å løyse oppgåvene til etaten.\n0 Føyd til med lov 9 des 2016 nr. 88 (ikr. 1 okt 2017 iflg. res. 9 juni 2017 nr. 718).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21a",
+        "source_heading": "§ 21 a."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Straff.",
+      "content": "Den som handlar i strid med føresegner gjevne i eller i medhald av denne lova, kan straffast med bøter.\n0 Endra med lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "title": "Ikraftsetjing.",
+      "content": "Kongen fastset når​1 denne lova skal ta til å gjelda.\n1 Frå 1 jan 1999 iflg. res. 11 des 1998 nr. 1189.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Føremål.",
+      "content": "Føremålet med denne lova er å tryggja arkiv som har monaleg kulturelt eller forskingsmessig verde eller som inneheld rettsleg eller viktig forvaltningsmessig dokumentasjon, slik at desse kan verta tekne vare på og gjorde tilgjengelege for ettertida.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjonar.",
+      "content": "I denne lova vert desse omgrepa nytta slik:\na. dokument: ei logisk avgrensa informasjonsmengd som er lagra på eit medium for seinare lesing, lyding, framsyning eller overføring\nb. Arkiv: dokument som vert til som lekk i ei verksemd.\nc. Statleg arkiv: arkiv skapt av statleg organ.\nd. Kommunalt arkiv: arkiv skapt av fylkeskommunalt eller kommunalt organ.\ne. Offentleg arkiv: statleg eller kommunalt arkiv.\nf. Privat arkiv: arkiv som ikkje er offentleg arkiv.\ng. Offentleg organ: statleg, fylkeskommunal eller kommunal institusjon eller eining.\n0 Endra med lov 15 des 2000 nr. 98 (ikr. 1 apr 2001 iflg. res. 2 mars 2001 nr. 179).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Geografisk verkeområde.",
+      "content": "Kongen kan fastsetja at lova òg skal gjelda for Svalbard, Jan Mayen, dei norske bilanda i Antarktis og den norske delen av kontinentalsokkelen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Arkivverket",
+      "content": "Riksarkivet, statsarkiva, Samisk arkiv og Norsk helsearkiv utgjer det statlege Arkivverket, som står under leiing av Riksarkivaren.\nOm ikkje anna vert uttrykkjeleg fastsett, kan Riksarkivaren delegera avgjerdsfullmakter til leiarane for statsarkiva, Samisk arkiv og Norsk helsearkiv.\n0 Endra med lov 22 juni 2012 nr. 47 (ikr. 22 juni 2012 iflg. res. 22 juni 2012 nr. 578).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Verkeområde",
+      "content": "Føresegnene i dette kapittelet gjeld for alle offentlege organ med unnatak for Stortinget, Riksrevisjonen, Sivilombodet og andre organ for Stortinget.\n0 Endra med lov 20 des 2022 nr. 115.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Arkivansvaret.",
+      "content": "Offentlege organ pliktar å ha arkiv, og desse skal vera ordna og innretta slik at dokumenta er tryggja som informasjonskjelder for samtid og ettertid.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Rettleiings- og tilsynsansvar.",
+      "content": "Riksarkivaren har rettleiings- og tilsynsansvar for arkivarbeidet i offentlege organ. Riksarkivaren kan\na. krevja seg førelagt for godkjenning journalsystem, arkivnøklar, arkivinstruksar m.m.\nb. inspisera arkiv.\nc. gje pålegg som er naudsynte for å oppfylla føresegner gjevne i eller i medhald av denne lova.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Opplysningsplikt.",
+      "content": "På førespurnad frå Riksarkivaren pliktar offentlege organ å gje opplysningar om tilhøve som gjeld arkiva, og som kan ha verknad for oppfyllinga av føremåla med lova. Riksarkivaren kan be om regelmessige rapportar.\nPlikta til å gje opplysningar etter første leden gjeld ubunde av teieplikt fastsett i lov eller i medhald av lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Kassasjon m.m.​1",
+      "content": "Utan i samsvar med føresegner gjevne i medhald av § 12 i denne lova eller etter særskilt samtykke frå Riksarkivaren, kan ikkje arkivmateriale\na. avhendast.\nb. førast ut or landet, dersom dette ikkje representerer ein naudsynt del av den forvaltningsmessige eller rettslege bruken av dokumenta.\nc. kasserast. Dette forbodet går framom føresegner om kassasjon i eller i medhald av andre lover. Personregister eller delar av personregister kan likevel slettast etter føresegnene i helseregisterlova og etter føresegner i medhald av helseregisterlova §§ 8 til 12. Slik sletting kan først gjerast etter at det er innhenta fråsegn frå Riksarkivaren. Personregister eller delar av personregister kan i tillegg slettast etter føresegner i medhald av politiregisterloven § 69 første ledd nr. 16.\nd. rettast på ein slik måte at tidlegare urette eller ufullstendige opplysningar vert sletta, dersom desse har hatt noko å seia for saksførebuinga, vedtak eller anna som etter føremålet med denne lova bør kunna dokumenterast. Føresegner om sletting gjevne i medhald av §§ 8 til 11 og § 25 andre leden i helseregisterlova, gjeld likevel uinnskrenka.\n0 Endra med lover 14 apr 2000 nr. 31 (ikr. 1 jan 2001 iflg. res. 30 juni 2000 nr. 641), 18 mai 2001 nr. 24 (ikr. 1 jan 2002 iflg. res. 18 mai 2001 nr. 502), 20 juni 2014 nr. 43 (ikr. 1 jan 2015 iflg. res. 19 des 2014 nr. 1732), 19 juni 2015 nr. 61 (ikr. 1 juli 2015 iflg. res. 19 juni 2015 nr. 680), 21 juni 2017 nr. 94 (ikr. 6 mai 2018 iflg. res. 27 apr 2018 nr. 642), 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).\n1 Innleiingsteksten og bokstav b held fram å gjelde fram til § 11 i lov 20. juni 2025 nr. 96 tek til å gjelde, iflg. res. 12 des 2025 nr. 2510.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Avlevering.",
+      "content": "Statlege arkiv skal avleverast til Arkivverket i samsvar med dei føresegnene som vert fastsette i medhald av § 12 i denne lova.\nRiksarkivaren kan likevel gje samtykke til at statlege arkiv vert avleverte til institusjonar utanfor Arkivverket, eller at dei framleis skal oppbevarast av det arkivskapande organet.\nRiksarkivaren kan fastsetja at kommunale arkiv skal avleverast til Arkivverket eller annan institusjon, dersom dette er naudsynt for å tryggja arkivet eller når særlege omsyn tilseier dette.\nVed avlevering til Arkivverket overtek Riksarkivaren råderetten over arkivet.\nKostnadene ved avlevering skal dekkjast av det avleverande organet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Refusjon.",
+      "content": "Riksarkivaren kan krevja refusjon frå avleverande organ for dei meirkostnadene Arkivverket vert påført, dersom det viser seg at arkivet tidlegare ikkje har vore handsama i samsvar med gjeldande føresegner.\nDersom eit offentleg arkiv som framleis er i aktiv bruk, må avleverast til Arkivverket, kan Riksarkivaren som vilkår for avleveringa krevja at meirkostnader ved å måtta henta fram dokument m.m. vert dekte av vedkomande organ.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Utfyllande føresegner.",
+      "content": "Kongen gjev utfyllande føresegner om journalsystem, arkivnøklar, arkivinstruksar, dokumentkvalitet, arkivutstyr, arkivlokale, arkivavgrensingar, kassasjon, bortsetjingsarkiv, avlevering, refusjonsreglar m.m., og om rett til å klaga over Riksarkivarens avgjerder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Oversyn og registrering.",
+      "content": "Riksarkivaren skal\na. halda oversyn over verneverdige privatarkiv.\nb. føra register over privatarkiv som er tekne vare på av offentlege og private oppbevaringsinstitusjonar.\nRiksarkivaren kan registrera visse privatarkiv som særskilt verneverdige. Melding om slik registrering skal sendast arkiveigaren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Retningsliner.",
+      "content": "Riksarkivaren gjev nærare retningsliner for arbeidet med privatarkiv i Arkivverket. Riksarkivaren kan fastsetja at desse retningslinene òg heilt eller delvis skal gjelda for\na. andre offentlege organ som arbeider med å ta vare på privatarkiv.\nb. private institusjonar som arbeider for å ta vare på privatarkiv, og som mottek offentleg tilskot til dette arbeidet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Opplysningsplikt.",
+      "content": "Arkiveigar som har fått melding frå Riksarkivaren om at arkivet er særskilt verneverdig, jf. § 13 andre leden, pliktar å gje melding til Riksarkivaren når arkivet skiftar eigar, heilt eller delvis vert planlagt ført ut or landet eller står i fare for å gå tapt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Avlevering og deponering.",
+      "content": "Dersom verneverdig privatarkiv vert avlevert til eller deponert i Arkivverket eller annan oppbevaringsinstitusjon, kan arkiveigaren fastsetja særskilde avgrensingar i tilgjenget til arkivet. Slike avgrensingar kan ikkje gjerast gjeldande ut over hundre år etter avlevering eller deponering.\nVed avlevering går eigedomsretten til arkivet over til mottakarinstitusjonen.\nVed deponering har deponenten og seinare ervingane hans eigedomsretten til arkivet. Eigedomsretten går likevel over til mottakarinstitusjonen når ervefølgda etter deponenten vert broten, eller når det er gått hundre år sidan deponeringa.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Kopiering.",
+      "content": "Dersom særskilt verneverdig arkiv skal førast ut or landet eller står i fare for å gå tapt, kan Riksarkivaren krevja å få kopiera arkivdokumenta. Riksarkivaren har tilsvarande rett dersom deponert særskilt verneverdig arkiv vert kravd levert attende.\nKopiane skal oppbevarast i Arkivverket eller annan oppbevaringsinstitusjon, som må dekkja kostnadene ved kopieringa. Arkiveigaren kan setja vilkår for tilgjenge til kopiane i samsvar med føresegna i § 16 første leden, men kan ikkje krevja vederlag for at dokumenta vert kopierte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Innskrenka råderett.",
+      "content": "Arkiv som er registrert som særskilt verneverdig, jf. § 13 andre leden, kan ikkje delast opp, førast ut or landet, skadast eller øydeleggjast utan samtykke frå Riksarkivaren. Reglane i helseregisterlova om retting og sletting av opplysningar vil likevel gjelda fullt ut.\n0 Endra med lover 14 apr 2000 nr. 31 (ikr. 1 jan 2001 iflg. res. 30 juni 2000 nr. 641), 18 mai 2001 nr. 24 (ikr. 1 jan 2002 iflg. res. 18 mai 2001 nr. 502), 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Privatarkiv med offentleg tilknyting.",
+      "content": "Dersom privat rettssubjekt mottek faste offentlege driftstilskot som er viktige for verksemda eller har fullmakt til å treffa einskildvedtak eller utferda forskrifter, kan Riksarkivaren fastsetja at arkivet heilt eller delvis skal følgja føresegnene for offentlege arkiv gjevne i eller i medhald av denne lova.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Skifte av status.",
+      "content": "Når arkivskapande organ skiftar status frå statleg til kommunalt eller frå offentleg til privat, kan Riksarkivaren fastsetja at arkivet heilt eller delvis skal følgja dei reglane som gjeld for tidlegare status.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Tileigning av offentleg arkiv.",
+      "content": "Ingen kan tileigna seg offentleg arkivmateriale, utan i samsvar med føresegner gjevne i medhald av § 12 i denne lova eller etter særskilt samtykke frå Riksarkivaren.\nRiksarkivaren kan krevje framlegging av ordinær politiattest ved tilsetting i Riksarkivet eller statsarkiva.\n0 Endra med lov 21 juni 2013 nr. 82 (ikr. 1 juli 2014 iflg. res. 27 sep 2013 nr. 1132 som endra med res. 13 des 2013 nr. 1449).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:21 a",
+      "chapter": "4",
+      "section": "21 a",
+      "title": "Innhenting av opplysningar frå Folkeregisteret",
+      "content": "Arkivverket kan, utan hinder av teieplikt, hente inn opplysningar frå Folkeregisteret når det er naudsynt for å løyse oppgåvene til etaten.\n0 Føyd til med lov 9 des 2016 nr. 88 (ikr. 1 okt 2017 iflg. res. 9 juni 2017 nr. 718).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21a",
+        "source_heading": "§ 21 a."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Straff.",
+      "content": "Den som handlar i strid med føresegner gjevne i eller i medhald av denne lova, kan straffast med bøter.\n0 Endra med lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "title": "Ikraftsetjing.",
+      "content": "Kongen fastset når​1 denne lova skal ta til å gjelda.\n1 Frå 1 jan 1999 iflg. res. 11 des 1998 nr. 1189.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    }
+  ]
+}

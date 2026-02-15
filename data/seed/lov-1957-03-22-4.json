@@ -1,0 +1,95 @@
+{
+  "id": "LOV-1957-03-22-4",
+  "type": "statute",
+  "title": "Lov om fredning og fangst av isbjørn [isbjørnloven]",
+  "short_name": "Isbjørnloven",
+  "status": "in_force",
+  "issued_date": "1957-03-22",
+  "in_force_date": "1957-03-22",
+  "url": "https://lovdata.no/dokument/NL/lov/1957-03-22-4",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Denne lov gjelder for fangst og ilandbringelse av isbjørn på norsk land- og sjøterritorium og for fangst av isbjørn som drives av norske statsborgere, innvånere av riket eller av norske selskaper og andre sammenslutninger eller stiftelser utenfor norsk territorium, eller som medvirker til slik fangst.\nFor Svalbard gjelder svalbardmiljøloven i stedet for loven her.\n0 Endret ved lov 15 juni 2001 nr. 79 (ikr. 1 juli 2002 iflg. res. 28. juni 2002 nr. 648).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Isbjørn er fredet mot all fangst som nevnt i § 1.\nKongen kan ved forskrift eller for det enkelte tilfelle gjøre unntak fra fredningen etter første ledd hvis ikke dette strider mot en internasjonal konvensjon som Norge er tilsluttet, og kan da også fastsette bestemmelser om fangstmåten.\nLevende isbjørn kan bare bringes i land i Norge med tillatelse fra Kongen.\n0 Endret ved lov 15 juni 2001 nr. 79 (ikr. 1 juli 2002 iflg. res. 28. juni 2002 nr. 648).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Den som forsettlig eller uaktsomt overtrer bestemmelser fastsatt i eller i medhold av § 2, straffes med bøter eller fengsel inntil 1 år, om ikke straffeloven § 240 annet ledd bokstav a får anvendelse\n0 Endret ved lover 26 jan 1973 nr. 2, 15 juni 2001 nr. 79 (ikr. 1 juli 2002 iflg. res. 28. juni 2002 nr. 648), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Denne lov gjelder for fangst og ilandbringelse av isbjørn på norsk land- og sjøterritorium og for fangst av isbjørn som drives av norske statsborgere, innvånere av riket eller av norske selskaper og andre sammenslutninger eller stiftelser utenfor norsk territorium, eller som medvirker til slik fangst.\nFor Svalbard gjelder svalbardmiljøloven i stedet for loven her.\n0 Endret ved lov 15 juni 2001 nr. 79 (ikr. 1 juli 2002 iflg. res. 28. juni 2002 nr. 648).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Isbjørn er fredet mot all fangst som nevnt i § 1.\nKongen kan ved forskrift eller for det enkelte tilfelle gjøre unntak fra fredningen etter første ledd hvis ikke dette strider mot en internasjonal konvensjon som Norge er tilsluttet, og kan da også fastsette bestemmelser om fangstmåten.\nLevende isbjørn kan bare bringes i land i Norge med tillatelse fra Kongen.\n0 Endret ved lov 15 juni 2001 nr. 79 (ikr. 1 juli 2002 iflg. res. 28. juni 2002 nr. 648).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Den som forsettlig eller uaktsomt overtrer bestemmelser fastsatt i eller i medhold av § 2, straffes med bøter eller fengsel inntil 1 år, om ikke straffeloven § 240 annet ledd bokstav a får anvendelse\n0 Endret ved lover 26 jan 1973 nr. 2, 15 juni 2001 nr. 79 (ikr. 1 juli 2002 iflg. res. 28. juni 2002 nr. 648), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

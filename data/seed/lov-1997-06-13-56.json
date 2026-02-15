@@ -1,0 +1,81 @@
+{
+  "id": "LOV-1997-06-13-56",
+  "type": "statute",
+  "title": "Lov om at tilsette i NSB og Luftfartsverket mellombels skal behalde visse rettar etter tenestemannslova ved overgang til respektive NSB Reisebyrå AS, NSB Biltrafikk AS, Malmtrafikk AS og Oslo Lufthavn AS.",
+  "short_name": "Lov om tilsette i NSB og Luftfartsverket",
+  "status": "in_force",
+  "issued_date": "1997-06-13",
+  "in_force_date": "1997-06-13",
+  "url": "https://lovdata.no/dokument/NLO/lov/1997-06-13-56",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Virkeområde",
+      "content": "Lova gjeld:\na. tilsette i NSB som, ved utskillinga av NSB Reisebyrå til eiget aksjeselskap, vert tilsette i selskapet,\nb. tilsette i NSB som, ved utskillinga av NSB Biltrafikk til eiget aksjeselskap, vert tilsette i selskapet,\nc. tilsette i NSB som, ved opprettinga av Malmtrafikk AS, vert tilsette i selskapet og\nd. tilsette i Luftfartsverket som, ved integreringa av region Fornebu og region Gardermoen med Oslo Lufthavn AS, vert tilsette i selskapet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Rettar",
+      "content": "Tenestemannslova​1 § 13 nr. 2 til nr. 6 om førerett til anna statsstilling og venteløn skal i tilfelle som nemnd i § 1 framleis gjelde for arbeidstakarar som vert sagt opp av grunn som nemnd i tenestemannslova § 13 nr. 1 a, b og c, og som var omfatta av desse føresegnene før overgangen. Føreretten til anna statsstilling og retten til venteløn etter førre punktum gjeld i tre år etter overgangen.\n1 Lov 4 mars 1983 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Sluttføresegner",
+      "content": "Denne lova tek til å gjelde straks og held opp å gjelde 31. desember 2000.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Virkeområde",
+      "content": "Lova gjeld:\na. tilsette i NSB som, ved utskillinga av NSB Reisebyrå til eiget aksjeselskap, vert tilsette i selskapet,\nb. tilsette i NSB som, ved utskillinga av NSB Biltrafikk til eiget aksjeselskap, vert tilsette i selskapet,\nc. tilsette i NSB som, ved opprettinga av Malmtrafikk AS, vert tilsette i selskapet og\nd. tilsette i Luftfartsverket som, ved integreringa av region Fornebu og region Gardermoen med Oslo Lufthavn AS, vert tilsette i selskapet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Rettar",
+      "content": "Tenestemannslova​1 § 13 nr. 2 til nr. 6 om førerett til anna statsstilling og venteløn skal i tilfelle som nemnd i § 1 framleis gjelde for arbeidstakarar som vert sagt opp av grunn som nemnd i tenestemannslova § 13 nr. 1 a, b og c, og som var omfatta av desse føresegnene før overgangen. Føreretten til anna statsstilling og retten til venteløn etter førre punktum gjeld i tre år etter overgangen.\n1 Lov 4 mars 1983 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Sluttføresegner",
+      "content": "Denne lova tek til å gjelde straks og held opp å gjelde 31. desember 2000.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

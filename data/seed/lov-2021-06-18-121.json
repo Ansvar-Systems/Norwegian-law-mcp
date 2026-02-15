@@ -1,0 +1,855 @@
+{
+  "id": "LOV-2021-06-18-121",
+  "type": "statute",
+  "title": "Lov om Stortingets ombud for kontroll med forvaltningen (sivilombudsloven)",
+  "short_name": "Sivilombudsloven",
+  "status": "in_force",
+  "issued_date": "2021-06-18",
+  "in_force_date": "2021-07-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2021-06-18-121",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Mandat",
+      "content": "Stortingets ombud for kontroll med forvaltningen (Sivilombudet) skal føre kontroll med den offentlige forvaltningen og alle i dens tjeneste for å hindre at det øves urett mot den enkelte, og for å bidra til at forvaltningen respekterer og sikrer menneskerettighetene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Oppnevning",
+      "content": "Sivilombudet oppnevnes av Stortinget, med minst to tredjedels flertall, for en periode på fire år. Ombudet kan bare gjenoppnevnes én gang.\nOppnevningen skjer etter offentlig kunngjøring av vervet, med mindre ombudet gjenoppnevnes. Oppnevningen skjer etter innstilling fra Stortingets presidentskap.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Oppgaver",
+      "content": "Sivilombudet kan undersøke og uttale sin mening om\na. klager mot forvaltningen, jf. kapittel 2,\nb. forhold som ombudet selv tar opp, jf. kapittel 3, og\nc. alle tilfeller hvor noen kan være underlagt offentlig frihetsberøvelse, for å forebygge tortur og annen grusom, umenneskelig eller nedverdigende behandling eller straff, jf. kapittel 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Arbeidsområde",
+      "content": "Sivilombudets arbeidsområde omfatter den offentlige forvaltningen og alle i dens tjeneste. Det omfatter også alle tilfeller hvor noen kan være underlagt offentlig frihetsberøvelse.\nOmbudets arbeidsområde omfatter ikke\na. forhold Stortinget har tatt standpunkt til, herunder saker behandlet av Stortingets utvalg for rettferdsvederlag,\nb. virksomheten i Stortingets eksterne organer og klagesaker som hører under disse,\nc. avgjørelser truffet i statsråd,\nd. domstolenes virksomhet, og\ne. avgjørelser som er truffet av kommunestyret eller fylkestinget, som etter lov bare kan treffes av disse organene. Slike avgjørelser kan ombudet likevel ta opp til behandling når det er nødvendig av hensyn til rettssikkerheten eller andre særlige grunner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Forholdet til Stortinget",
+      "content": "Sivilombudet utfører sitt verv selvstendig og uavhengig av Stortinget.\nOmbudet skal gi Stortinget årlige meldinger om sin virksomhet, jf. § 3. Meldinger skal gis innen 1. april hvert år og omfatte virksomheten i perioden 1. januar til 31. desember det foregående året.\nOmbudet kan gi særskilte meldinger til Stortinget.\nStortinget kan gi utfyllende bestemmelser om ombudets virksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "title": "Uavhengighet fra forvaltningen",
+      "content": "Sivilombudet er uavhengig av forvaltningen.\nForvaltningen kan ikke utøve myndighet overfor ombudet som kan påvirke den uavhengige og upartiske utøvelsen av ombudsvervet.\nStortinget kan fravike og gi egne bestemmelser om forvaltningens lovfestede myndighet overfor ombudet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Klage til Sivilombudet",
+      "content": "Alle som mener seg utsatt for urett fra den offentlige forvaltningen, kan klage til Sivilombudet.\nKlagen skal være skriftlig og angi\na. klagerens navn,\nb. hva det klages over, og\nc. hvorfor det klages.\nSammen med klagen bør det fremlegges dokumentasjon i saken.\nOmbudet kan gi veiledning og bistå med å utforme klagen.\nDen som er frihetsberøvet, har rett til å kommunisere med ombudet i fortrolighet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Vilkår for behandling av klage",
+      "content": "For å kunne få klagen behandlet av Sivilombudet, må klageren ha brukt alle mulighetene for å klage til forvaltningen.\nHvis ikke alle mulighetene for å klage til forvaltningen er brukt, skal ombudet henvise klageren til riktig klageinstans i forvaltningen.\nOmbudet kan alltid behandle klagen hvis Kongen i statsråd er eneste klageinstans, eller hvis det er særlige grunner til det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Fristen for å klage",
+      "content": "Fristen for å klage til Sivilombudet er ett år.\nDersom klagen gjelder en forvaltningsavgjørelse, løper klagefristen fra forvaltningens endelige avgjørelse i saken.\nGjelder klagen andre forhold, løper klagefristen fra det tidspunktet forholdet fant sted eller opphørte, eller fra tidspunktet da klageren måtte ha vært kjent med dette.\nHvis fristen ikke er overholdt, kan ombudet likevel ta saken til behandling hvis det er særlige grunner til det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Sivilombudets behandling av klagen",
+      "content": "Sivilombudet avgjør om det er grunn til å foreta undersøkelser som følge av en klage, hvilke sider av saken som skal undersøkes, og omfanget av undersøkelsene.\nUndersøkelse av en klage skjer normalt ved at ombudet stiller skriftlige spørsmål til forvaltningen, som bes uttale seg innen en gitt frist. Ombudet bør be tredjepersoner uttale seg om en klage som gjelder deres rettsforhold eller andre tungtveiende interesser.\nOmbudet kan når som helst beslutte å avslutte undersøkelsene av en klagesak på grunnlag av forklaringene som gis, hvis forvaltningen retter opp feil eller beslutter å behandle saken på nytt, eller dersom ombudet av andre grunner finner at det ikke er tilstrekkelig grunn til videre behandling av saken.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Klagerens rett til dokumentinnsyn og til å uttale seg",
+      "content": "Klageren har rett til å gjøre seg kjent med dokumenter i klagesaken og uttalelser og opplysninger som er gitt i saken. Dette gjelder likevel ikke\na. dokumenter utarbeidet eller innhentet under forvaltningens opprinnelige behandling av saken,\nb. opplysninger som klageren ikke får innsyn i hos forvaltningen, eller\nc. ombudets interne saksdokumenter.\nKlageren skal gis anledning til å uttale seg om forvaltningens uttalelser i saken, med mindre det åpenbart vil være uten betydning for ombudets behandling av saken.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Avslutning av klagesaksbehandlingen",
+      "content": "På grunnlag av behandlingen av en klagesak kan Sivilombudet uttale sin mening om saken og innta standpunkt om\na. at forvaltningen har gjort feil, handlet uforsvarlig eller opptrådt i strid med god forvaltningsskikk,\nb. at en avgjørelse er ugyldig eller klart urimelig,\nc. at det foreligger begrunnet tvil om forhold av betydning for saken, eller\nd. at det foreligger forhold som kan medføre erstatnings- eller oppreisningsansvar.\nDersom ombudet har gitt uttrykk for et standpunkt som nevnt i første ledd, kan ombudet også gi uttrykk for at feil bør rettes, at saken bør behandles på nytt, eller at det bør ytes erstatning eller oppreisning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "title": "Underretning om avslutning av klagesaksbehandlingen",
+      "content": "Sivilombudet skal underrette klageren eller dem saken angår, om resultatet av sin behandling av saken.\nNår ombudet avslutter en sak som nevnt i § 12, skal et referat av forvaltningens uttalelse fremgå i ombudets avsluttende brev eller uttalelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "title": "Avbrudd av spesielle søksmålsfrister",
+      "content": "Spesielle lovbestemte frister for å anlegge søksmål mot forvaltningen avbrytes når saken klages inn for Sivilombudet.\nDen aktuelle fristen for å anlegge søksmål løper på nytt fra ombudets melding om avsluttet behandling er kommet frem til klageren, eller fra klageren blir varslet om forvaltningens svar på ombudets anmodning om fornyet behandling.\nSøksmålsfristen avbrytes ikke hvis klagen åpenbart ble fremmet bare for å oppnå fristavbrudd og den ikke førte til realitetsavgjørelse hos ombudet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Undersøkelser av eget tiltak",
+      "content": "Sivilombudet kan av eget tiltak ta opp, undersøke og uttale sin mening om konkrete eller generelle forhold i forvaltningen.\nOmbudet avgjør hvordan undersøkelsene skal gjennomføres. Forvaltningen skal tilrettelegge for gjennomføringen av undersøkelsene.\nForvaltningen skal gis anledning til å uttale seg om ombudets funn og andre spørsmål saken reiser, før ombudet uttaler sin mening.\nDersom undersøkelsene springer ut av opplysninger i en klage til ombudet, bør ombudet underrette klageren om at undersøkelser er iverksatt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Avslutning av saker ombudet tar opp av eget tiltak",
+      "content": "Sivilombudet kan uttale sin mening på grunnlag av undersøkelser som er gjort. Hvis saken gir grunnlag for det, kan ombudet innta standpunkt som nevnt i § 12.\nOmbudet skal sørge for at de berørte delene av forvaltningen underrettes om resultatet av undersøkelsene. Dersom ombudet finner det hensiktsmessig, kan også andre deler av forvaltningen underrettes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Tilleggsprotokoll til FNs torturkonvensjon",
+      "content": "Sivilombudet er nasjonal forebyggende mekanisme i henhold til artikkel 3 i tilleggsprotokoll 18. desember 2002 til FNs konvensjon mot tortur og annen grusom, umenneskelig eller nedverdigende behandling eller straff.\nSom nasjonal forebyggende mekanisme har ombudet myndighet og rettigheter som beskrevet i tilleggsprotokollen artikkel 19 og 20, blant annet til å gjennomføre besøk, foreta undersøkelser og kreve informasjon og tilgang overfor forvaltningen og private. Ingen skal holdes ansvarlig for eller utsettes for represalier som følge av at vedkommende har kommunisert eller delt informasjon med ombudet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Anbefalinger",
+      "content": "I sin virksomhet som nasjonal forebyggende mekanisme kan Sivilombudet gi anbefalinger for å bedre behandlingen av og forholdene for frihetsberøvede og forebygge tortur og annen grusom, umenneskelig eller nedverdigende behandling eller straff.\nAnsvarlig myndighet skal gjennomgå anbefalingene og innlede en dialog med ombudet om mulige gjennomføringstiltak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Rådgivende utvalg",
+      "content": "Sivilombudet skal ha et eget rådgivende utvalg for arbeidet som nasjonal forebyggende mekanisme.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Rett til opplysninger og fysisk tilgang",
+      "content": "Sivilombudet kan, uten hinder av taushetsplikt, pålegge den som er omfattet av arbeidsområdet i § 4, å gi enhver opplysning og ethvert dokument som er nødvendig for å utøve oppgaver etter loven her. Ombudet kan fastsette en frist for å etterkomme et slikt pålegg.\nOmbudet har i samme utstrekning tilgang til fysiske steder og systemer.\nOmbudet kan kreve bevisopptak ved domstolene etter reglene i domstolloven § 43 annet ledd. Rettsmøtene går for lukkete dører.\n0 Endret ved lov 10 juni 2022 nr. 38.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Fagkyndig bistand",
+      "content": "Ombudet kan engasjere fagkyndig bistand hvis det er nødvendig for å få opplyst en sak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Taushetsplikt",
+      "content": "Sivilombudet har taushetsplikt om opplysninger mottatt i utøvelsen av vervet om noens personlige forhold og drifts- eller forretningshemmeligheter.\nTaushetsplikten gjelder også etter ombudets fratreden.\nDen samme taushetsplikten påhviler ombudets ansatte og andre som bistår ved utførelsen av ombudets oppgaver, samt den som mottar taushetsbelagte opplysninger til bruk for forskning.\nTil bruk for forskning kan det uten hinder av taushetsplikt gis innsyn i ombudets saksdokumenter. Ombudet bestemmer om, i hvilket omfang og på hvilke vilkår slikt innsyn kan innvilges.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Habilitet",
+      "content": "Sivilombudet eller en ansatt ved ombudets kontor er inhabil dersom det foreligger særegne forhold som er egnet til å svekke tilliten til at saken vil bli behandlet på en upartisk og saklig måte.\nI vurderingen skal det legges vekt på om behandlingen av saken kan innebære en fordel eller ulempe for vedkommende eller noen som han eller hun har nær tilknytning til.\nDen som er inhabil, kan ikke forberede eller treffe avgjørelse i saken. En ansatt kan ikke treffe avgjørelse i saken dersom ombudet eller en medarbeider i direkte overordnet stilling er inhabil.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Offentliggjøring av ombudets vurdering i en sak",
+      "content": "Sivilombudets vurdering i en sak offentliggjøres på den måten ombudet finner formålstjenlig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Særskilte meldinger og meddelelser",
+      "content": "Sivilombudet kan rette særskilte meldinger til et forvaltningsorgan.\nHvis det er særlig grunn til det, kan ombudet meddele påtalemyndigheten eller ansvarlig tilsettingsmyndighet om forhold avdekket gjennom sine undersøkelser.\nOmbudet kan underrette forvaltningen om mangler ved lover, forskrifter eller forvaltningspraksis.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Dokumentoffentlighet",
+      "content": "Dokumenter som er utarbeidet som ledd i Sivilombudets virksomhet er offentlige, med følgende unntak:\na. dokumenter og opplysninger underlagt lovbestemt taushetsplikt, og\nb. dokumenter utarbeidet eller innhentet under forvaltningens forutgående behandling av saker som nevnt i kapitlene 2–4.\nOmbudets interne saksdokumenter og dokumenter som utveksles mellom ombudet og Stortinget om budsjett og intern administrasjon, kan unntas offentlighet.\nOmbudet kan også unnta andre dokumenter og opplysninger fra offentlighet hvis særlige grunner tilsier det. Ombudet avgjør om et dokument helt eller delvis skal unntas offentlighet.\nDet kan kreves innsyn i det offentlige innholdet av journal som ombudet fører for registrering av dokumenter i opprettede saker.\nOmbudet kan gjøre journaler og andre dokumenter allment tilgjengelig på internett.\nArkivlova kapittel 1 og 2 gjelder for Sivilombudets virksomhet, med unntak av § 4 andre og tredje ledd. Tilhørende forskrifter gjelder så langt de passer. Ved avlevering av ombudets arkiv til Nasjonalarkivet etter arkivlova § 14 gjelder bestemmelsene i loven her om taushetsplikt og innsynsrett også for Nasjonalarkivet. Nasjonalarkivet skal innhente samtykke fra ombudet før det gis innsyn i dokumenter som inngår i slike arkiver.\n0 Endret ved lov 20 juni 2025 nr. 96 (i kraft 1 jan 2026 iflg. res. 12 des 2025 nr. 2510).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Behandling av personopplysninger",
+      "content": "Sivilombudet kan behandle personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9 og 10, når dette er nødvendig for å utføre oppgaver etter loven her.\nKrav på kopi av personopplysninger i saksdokumenter som er utarbeidet eller innhentet under forvaltningens opprinnelige behandling av en sak, jf. personvernforordningen artikkel 15 nr. 3, rettes mot vedkommende forvaltningsorgan.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Sikkerhetslovens anvendelse for Sivilombudet",
+      "content": "Sikkerhetsloven gjelder for sivilombudet og Sivilombudets ansatte med de unntak og presiseringer som følger av denne loven.\nFølgende bestemmelser i sikkerhetsloven gjelder ikke for Sivilombudet: §§ 1-3, 2-1, 2-2 og 2-5, kapittel 3, §§ 5-5, 7-1 andre til sjette ledd, 8-3 første ledd andre punktum, 9-4 andre til femte ledd, kapittel 10 og §§ 11-2 og 11-3.\nSivilombudet skal innenfor sin virksomhet utpeke, klassifisere og holde oversikt over skjermingsverdige objekter og infrastruktur og melde dette inn til sikkerhetsmyndigheten med angivelse av sikkerhetsgrad, jf. sikkerhetsloven § 7-1 andre ledd.\nSivilombudet kan innenfor sin virksomhet fatte vedtak om krav til adgangsklarering for tilgang til hele eller deler av skjermingsverdige objekter eller infrastruktur og bestemme at personer med sikkerhetsklarering for et bestemt nivå også er klarert for adgang til et bestemt skjermingsverdig objekt eller en bestemt skjermingsverdig infrastruktur, jf. sikkerhetsloven § 8-3.\nStortingets administrasjon er klareringsmyndighet for sivilombudet og Sivilombudets ansatte. Stortingets presidentskap er klagemyndighet for avgjørelser truffet av Stortingets administrasjon.\nStortinget kan fastsette i hvilken grad forskrifter fastsatt i medhold av sikkerhetsloven skal gjelde for Sivilombudet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Personalet",
+      "content": "Øverste ledernivå under sivilombudet ansettes av ombudet selv etter innstilling fra Sivilombudets ansettelsesråd. Øvrige medarbeidere ansettes av ombudets ansettelsesråd. Statsansatteloven §§ 4 til 7 om utlysning, innstilling og ansettelse gjelder. Tvister om fortrinnsrett etter statsansatteloven § 13 avgjøres av den som har ansettelsesmyndighet.\nPersonalreglementet fastsettes av Sivilombudet. Stortingets presidentskap kan ta personalreglementet opp til revisjon.\nFor ansatte ved ombudets kontor fastsettes lønn, pensjon og arbeidsvilkår etter de avtaler og bestemmelser som gjelder for arbeidstakere i statsstilling.\nForvaltningsloven gjelder i saker om ordensstraff, oppsigelse, suspensjon eller avskjed. Klageorganet er Stortingets presidentskap.\nLov 18. juli 1958 nr. 2 om offentlige tjenestetvister gjelder for ansatte i ombudets virksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "title": "Krav til sivilombudet",
+      "content": "Sivilombudet må ha juridisk embetseksamen eller mastergrad i rettsvitenskap.\nOmbudet må tilfredsstille høye krav til faglige kvalifikasjoner og personlige egenskaper og inneha betydelig relevant erfaring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "title": "Fratreden og avsetting",
+      "content": "Dersom sivilombudet dør i oppnevningsperioden, permanent blir ute av stand til å utføre sitt verv, frasier seg vervet eller avsettes av Stortinget med to tredjedels flertall, oppnevner Stortinget nytt ombud etter § 2 for en ny periode. Inntil nytt ombud har tiltrådt vervet, kan Stortinget oppnevne en vikar etter § 32 første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "title": "Vikar og setteombud",
+      "content": "Er sivilombudet midlertidig forhindret fra å utføre sitt verv, kan Stortinget oppnevne en vikar blant ombudets ledende ansatte så lenge fraværet varer.\nVed fravær inntil tre måneder kan ombudet selv utpeke en vikar blant de ledende ansatte ved sitt kontor.\nAnser ombudet seg inhabil etter § 23 eller det er andre grunner til at en sak bør behandles av et setteombud, orienteres Stortingets presidentskap, som oppnevner et setteombud til å behandle saken.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "title": "Adgang til å delegere",
+      "content": "Sivilombudets fullmakter etter denne loven kan delegeres til ansatte ved ombudets kontor. Ombudet må likevel ta personlig standpunkt i saker hvor det er aktuelt å kritisere forvaltningens avgjørelser eller handlemåte eller å gi anbefalinger som nevnt i § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "title": "Lønn, pensjon og sidegjøremål",
+      "content": "Sivilombudets lønn fastsettes av Stortinget eller den det gir fullmakt. Det samme gjelder godtgjørelse til vikar som oppnevnes etter § 32 første ledd. Stortingets presidentskap eller den det gir fullmakt, fastsetter godtgjørelse for setteombud oppnevnt etter § 32 tredje ledd.\nOmbudet skal være medlem av Statens pensjonskasse med rettigheter og plikter etter lov 28. juli 1949 nr. 26 om Statens pensjonskasse.\nOmbudet må ikke uten samtykke fra Stortinget eller den det gir fullmakt, ha annen stilling eller noe verv i offentlig eller privat virksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "title": "Ikrafttredelse og overgangsbestemmelser",
+      "content": "Loven trer i kraft 1. juli 2021. Fra samme tidspunkt oppheves lov 22. juni 1962 nr. 8 om Stortingets ombudsmann for forvaltningen (sivilombudsmannsloven) og Instruks for Stortingets ombudsmann for forvaltningen 19. februar 1980.\nDen som er sivilombudsmann når loven trer i kraft, er sivilombud i fire år fra vedkommende ble oppnevnt som sivilombudsmann, med mindre ombudet fratrer eller avsettes i medhold av § 31. Vedkommende kan bare oppnevnes én gang i medhold av § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Mandat",
+      "content": "Stortingets ombud for kontroll med forvaltningen (Sivilombudet) skal føre kontroll med den offentlige forvaltningen og alle i dens tjeneste for å hindre at det øves urett mot den enkelte, og for å bidra til at forvaltningen respekterer og sikrer menneskerettighetene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Oppnevning",
+      "content": "Sivilombudet oppnevnes av Stortinget, med minst to tredjedels flertall, for en periode på fire år. Ombudet kan bare gjenoppnevnes én gang.\nOppnevningen skjer etter offentlig kunngjøring av vervet, med mindre ombudet gjenoppnevnes. Oppnevningen skjer etter innstilling fra Stortingets presidentskap.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Oppgaver",
+      "content": "Sivilombudet kan undersøke og uttale sin mening om\na. klager mot forvaltningen, jf. kapittel 2,\nb. forhold som ombudet selv tar opp, jf. kapittel 3, og\nc. alle tilfeller hvor noen kan være underlagt offentlig frihetsberøvelse, for å forebygge tortur og annen grusom, umenneskelig eller nedverdigende behandling eller straff, jf. kapittel 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Arbeidsområde",
+      "content": "Sivilombudets arbeidsområde omfatter den offentlige forvaltningen og alle i dens tjeneste. Det omfatter også alle tilfeller hvor noen kan være underlagt offentlig frihetsberøvelse.\nOmbudets arbeidsområde omfatter ikke\na. forhold Stortinget har tatt standpunkt til, herunder saker behandlet av Stortingets utvalg for rettferdsvederlag,\nb. virksomheten i Stortingets eksterne organer og klagesaker som hører under disse,\nc. avgjørelser truffet i statsråd,\nd. domstolenes virksomhet, og\ne. avgjørelser som er truffet av kommunestyret eller fylkestinget, som etter lov bare kan treffes av disse organene. Slike avgjørelser kan ombudet likevel ta opp til behandling når det er nødvendig av hensyn til rettssikkerheten eller andre særlige grunner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Forholdet til Stortinget",
+      "content": "Sivilombudet utfører sitt verv selvstendig og uavhengig av Stortinget.\nOmbudet skal gi Stortinget årlige meldinger om sin virksomhet, jf. § 3. Meldinger skal gis innen 1. april hvert år og omfatte virksomheten i perioden 1. januar til 31. desember det foregående året.\nOmbudet kan gi særskilte meldinger til Stortinget.\nStortinget kan gi utfyllende bestemmelser om ombudets virksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "title": "Uavhengighet fra forvaltningen",
+      "content": "Sivilombudet er uavhengig av forvaltningen.\nForvaltningen kan ikke utøve myndighet overfor ombudet som kan påvirke den uavhengige og upartiske utøvelsen av ombudsvervet.\nStortinget kan fravike og gi egne bestemmelser om forvaltningens lovfestede myndighet overfor ombudet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Klage til Sivilombudet",
+      "content": "Alle som mener seg utsatt for urett fra den offentlige forvaltningen, kan klage til Sivilombudet.\nKlagen skal være skriftlig og angi\na. klagerens navn,\nb. hva det klages over, og\nc. hvorfor det klages.\nSammen med klagen bør det fremlegges dokumentasjon i saken.\nOmbudet kan gi veiledning og bistå med å utforme klagen.\nDen som er frihetsberøvet, har rett til å kommunisere med ombudet i fortrolighet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Vilkår for behandling av klage",
+      "content": "For å kunne få klagen behandlet av Sivilombudet, må klageren ha brukt alle mulighetene for å klage til forvaltningen.\nHvis ikke alle mulighetene for å klage til forvaltningen er brukt, skal ombudet henvise klageren til riktig klageinstans i forvaltningen.\nOmbudet kan alltid behandle klagen hvis Kongen i statsråd er eneste klageinstans, eller hvis det er særlige grunner til det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Fristen for å klage",
+      "content": "Fristen for å klage til Sivilombudet er ett år.\nDersom klagen gjelder en forvaltningsavgjørelse, løper klagefristen fra forvaltningens endelige avgjørelse i saken.\nGjelder klagen andre forhold, løper klagefristen fra det tidspunktet forholdet fant sted eller opphørte, eller fra tidspunktet da klageren måtte ha vært kjent med dette.\nHvis fristen ikke er overholdt, kan ombudet likevel ta saken til behandling hvis det er særlige grunner til det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Sivilombudets behandling av klagen",
+      "content": "Sivilombudet avgjør om det er grunn til å foreta undersøkelser som følge av en klage, hvilke sider av saken som skal undersøkes, og omfanget av undersøkelsene.\nUndersøkelse av en klage skjer normalt ved at ombudet stiller skriftlige spørsmål til forvaltningen, som bes uttale seg innen en gitt frist. Ombudet bør be tredjepersoner uttale seg om en klage som gjelder deres rettsforhold eller andre tungtveiende interesser.\nOmbudet kan når som helst beslutte å avslutte undersøkelsene av en klagesak på grunnlag av forklaringene som gis, hvis forvaltningen retter opp feil eller beslutter å behandle saken på nytt, eller dersom ombudet av andre grunner finner at det ikke er tilstrekkelig grunn til videre behandling av saken.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Klagerens rett til dokumentinnsyn og til å uttale seg",
+      "content": "Klageren har rett til å gjøre seg kjent med dokumenter i klagesaken og uttalelser og opplysninger som er gitt i saken. Dette gjelder likevel ikke\na. dokumenter utarbeidet eller innhentet under forvaltningens opprinnelige behandling av saken,\nb. opplysninger som klageren ikke får innsyn i hos forvaltningen, eller\nc. ombudets interne saksdokumenter.\nKlageren skal gis anledning til å uttale seg om forvaltningens uttalelser i saken, med mindre det åpenbart vil være uten betydning for ombudets behandling av saken.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Avslutning av klagesaksbehandlingen",
+      "content": "På grunnlag av behandlingen av en klagesak kan Sivilombudet uttale sin mening om saken og innta standpunkt om\na. at forvaltningen har gjort feil, handlet uforsvarlig eller opptrådt i strid med god forvaltningsskikk,\nb. at en avgjørelse er ugyldig eller klart urimelig,\nc. at det foreligger begrunnet tvil om forhold av betydning for saken, eller\nd. at det foreligger forhold som kan medføre erstatnings- eller oppreisningsansvar.\nDersom ombudet har gitt uttrykk for et standpunkt som nevnt i første ledd, kan ombudet også gi uttrykk for at feil bør rettes, at saken bør behandles på nytt, eller at det bør ytes erstatning eller oppreisning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "title": "Underretning om avslutning av klagesaksbehandlingen",
+      "content": "Sivilombudet skal underrette klageren eller dem saken angår, om resultatet av sin behandling av saken.\nNår ombudet avslutter en sak som nevnt i § 12, skal et referat av forvaltningens uttalelse fremgå i ombudets avsluttende brev eller uttalelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "title": "Avbrudd av spesielle søksmålsfrister",
+      "content": "Spesielle lovbestemte frister for å anlegge søksmål mot forvaltningen avbrytes når saken klages inn for Sivilombudet.\nDen aktuelle fristen for å anlegge søksmål løper på nytt fra ombudets melding om avsluttet behandling er kommet frem til klageren, eller fra klageren blir varslet om forvaltningens svar på ombudets anmodning om fornyet behandling.\nSøksmålsfristen avbrytes ikke hvis klagen åpenbart ble fremmet bare for å oppnå fristavbrudd og den ikke førte til realitetsavgjørelse hos ombudet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Undersøkelser av eget tiltak",
+      "content": "Sivilombudet kan av eget tiltak ta opp, undersøke og uttale sin mening om konkrete eller generelle forhold i forvaltningen.\nOmbudet avgjør hvordan undersøkelsene skal gjennomføres. Forvaltningen skal tilrettelegge for gjennomføringen av undersøkelsene.\nForvaltningen skal gis anledning til å uttale seg om ombudets funn og andre spørsmål saken reiser, før ombudet uttaler sin mening.\nDersom undersøkelsene springer ut av opplysninger i en klage til ombudet, bør ombudet underrette klageren om at undersøkelser er iverksatt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Avslutning av saker ombudet tar opp av eget tiltak",
+      "content": "Sivilombudet kan uttale sin mening på grunnlag av undersøkelser som er gjort. Hvis saken gir grunnlag for det, kan ombudet innta standpunkt som nevnt i § 12.\nOmbudet skal sørge for at de berørte delene av forvaltningen underrettes om resultatet av undersøkelsene. Dersom ombudet finner det hensiktsmessig, kan også andre deler av forvaltningen underrettes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Tilleggsprotokoll til FNs torturkonvensjon",
+      "content": "Sivilombudet er nasjonal forebyggende mekanisme i henhold til artikkel 3 i tilleggsprotokoll 18. desember 2002 til FNs konvensjon mot tortur og annen grusom, umenneskelig eller nedverdigende behandling eller straff.\nSom nasjonal forebyggende mekanisme har ombudet myndighet og rettigheter som beskrevet i tilleggsprotokollen artikkel 19 og 20, blant annet til å gjennomføre besøk, foreta undersøkelser og kreve informasjon og tilgang overfor forvaltningen og private. Ingen skal holdes ansvarlig for eller utsettes for represalier som følge av at vedkommende har kommunisert eller delt informasjon med ombudet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Anbefalinger",
+      "content": "I sin virksomhet som nasjonal forebyggende mekanisme kan Sivilombudet gi anbefalinger for å bedre behandlingen av og forholdene for frihetsberøvede og forebygge tortur og annen grusom, umenneskelig eller nedverdigende behandling eller straff.\nAnsvarlig myndighet skal gjennomgå anbefalingene og innlede en dialog med ombudet om mulige gjennomføringstiltak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Rådgivende utvalg",
+      "content": "Sivilombudet skal ha et eget rådgivende utvalg for arbeidet som nasjonal forebyggende mekanisme.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Rett til opplysninger og fysisk tilgang",
+      "content": "Sivilombudet kan, uten hinder av taushetsplikt, pålegge den som er omfattet av arbeidsområdet i § 4, å gi enhver opplysning og ethvert dokument som er nødvendig for å utøve oppgaver etter loven her. Ombudet kan fastsette en frist for å etterkomme et slikt pålegg.\nOmbudet har i samme utstrekning tilgang til fysiske steder og systemer.\nOmbudet kan kreve bevisopptak ved domstolene etter reglene i domstolloven § 43 annet ledd. Rettsmøtene går for lukkete dører.\n0 Endret ved lov 10 juni 2022 nr. 38.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Fagkyndig bistand",
+      "content": "Ombudet kan engasjere fagkyndig bistand hvis det er nødvendig for å få opplyst en sak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Taushetsplikt",
+      "content": "Sivilombudet har taushetsplikt om opplysninger mottatt i utøvelsen av vervet om noens personlige forhold og drifts- eller forretningshemmeligheter.\nTaushetsplikten gjelder også etter ombudets fratreden.\nDen samme taushetsplikten påhviler ombudets ansatte og andre som bistår ved utførelsen av ombudets oppgaver, samt den som mottar taushetsbelagte opplysninger til bruk for forskning.\nTil bruk for forskning kan det uten hinder av taushetsplikt gis innsyn i ombudets saksdokumenter. Ombudet bestemmer om, i hvilket omfang og på hvilke vilkår slikt innsyn kan innvilges.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Habilitet",
+      "content": "Sivilombudet eller en ansatt ved ombudets kontor er inhabil dersom det foreligger særegne forhold som er egnet til å svekke tilliten til at saken vil bli behandlet på en upartisk og saklig måte.\nI vurderingen skal det legges vekt på om behandlingen av saken kan innebære en fordel eller ulempe for vedkommende eller noen som han eller hun har nær tilknytning til.\nDen som er inhabil, kan ikke forberede eller treffe avgjørelse i saken. En ansatt kan ikke treffe avgjørelse i saken dersom ombudet eller en medarbeider i direkte overordnet stilling er inhabil.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Offentliggjøring av ombudets vurdering i en sak",
+      "content": "Sivilombudets vurdering i en sak offentliggjøres på den måten ombudet finner formålstjenlig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Særskilte meldinger og meddelelser",
+      "content": "Sivilombudet kan rette særskilte meldinger til et forvaltningsorgan.\nHvis det er særlig grunn til det, kan ombudet meddele påtalemyndigheten eller ansvarlig tilsettingsmyndighet om forhold avdekket gjennom sine undersøkelser.\nOmbudet kan underrette forvaltningen om mangler ved lover, forskrifter eller forvaltningspraksis.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Dokumentoffentlighet",
+      "content": "Dokumenter som er utarbeidet som ledd i Sivilombudets virksomhet er offentlige, med følgende unntak:\na. dokumenter og opplysninger underlagt lovbestemt taushetsplikt, og\nb. dokumenter utarbeidet eller innhentet under forvaltningens forutgående behandling av saker som nevnt i kapitlene 2–4.\nOmbudets interne saksdokumenter og dokumenter som utveksles mellom ombudet og Stortinget om budsjett og intern administrasjon, kan unntas offentlighet.\nOmbudet kan også unnta andre dokumenter og opplysninger fra offentlighet hvis særlige grunner tilsier det. Ombudet avgjør om et dokument helt eller delvis skal unntas offentlighet.\nDet kan kreves innsyn i det offentlige innholdet av journal som ombudet fører for registrering av dokumenter i opprettede saker.\nOmbudet kan gjøre journaler og andre dokumenter allment tilgjengelig på internett.\nArkivlova kapittel 1 og 2 gjelder for Sivilombudets virksomhet, med unntak av § 4 andre og tredje ledd. Tilhørende forskrifter gjelder så langt de passer. Ved avlevering av ombudets arkiv til Nasjonalarkivet etter arkivlova § 14 gjelder bestemmelsene i loven her om taushetsplikt og innsynsrett også for Nasjonalarkivet. Nasjonalarkivet skal innhente samtykke fra ombudet før det gis innsyn i dokumenter som inngår i slike arkiver.\n0 Endret ved lov 20 juni 2025 nr. 96 (i kraft 1 jan 2026 iflg. res. 12 des 2025 nr. 2510).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Behandling av personopplysninger",
+      "content": "Sivilombudet kan behandle personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9 og 10, når dette er nødvendig for å utføre oppgaver etter loven her.\nKrav på kopi av personopplysninger i saksdokumenter som er utarbeidet eller innhentet under forvaltningens opprinnelige behandling av en sak, jf. personvernforordningen artikkel 15 nr. 3, rettes mot vedkommende forvaltningsorgan.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Sikkerhetslovens anvendelse for Sivilombudet",
+      "content": "Sikkerhetsloven gjelder for sivilombudet og Sivilombudets ansatte med de unntak og presiseringer som følger av denne loven.\nFølgende bestemmelser i sikkerhetsloven gjelder ikke for Sivilombudet: §§ 1-3, 2-1, 2-2 og 2-5, kapittel 3, §§ 5-5, 7-1 andre til sjette ledd, 8-3 første ledd andre punktum, 9-4 andre til femte ledd, kapittel 10 og §§ 11-2 og 11-3.\nSivilombudet skal innenfor sin virksomhet utpeke, klassifisere og holde oversikt over skjermingsverdige objekter og infrastruktur og melde dette inn til sikkerhetsmyndigheten med angivelse av sikkerhetsgrad, jf. sikkerhetsloven § 7-1 andre ledd.\nSivilombudet kan innenfor sin virksomhet fatte vedtak om krav til adgangsklarering for tilgang til hele eller deler av skjermingsverdige objekter eller infrastruktur og bestemme at personer med sikkerhetsklarering for et bestemt nivå også er klarert for adgang til et bestemt skjermingsverdig objekt eller en bestemt skjermingsverdig infrastruktur, jf. sikkerhetsloven § 8-3.\nStortingets administrasjon er klareringsmyndighet for sivilombudet og Sivilombudets ansatte. Stortingets presidentskap er klagemyndighet for avgjørelser truffet av Stortingets administrasjon.\nStortinget kan fastsette i hvilken grad forskrifter fastsatt i medhold av sikkerhetsloven skal gjelde for Sivilombudet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Personalet",
+      "content": "Øverste ledernivå under sivilombudet ansettes av ombudet selv etter innstilling fra Sivilombudets ansettelsesråd. Øvrige medarbeidere ansettes av ombudets ansettelsesråd. Statsansatteloven §§ 4 til 7 om utlysning, innstilling og ansettelse gjelder. Tvister om fortrinnsrett etter statsansatteloven § 13 avgjøres av den som har ansettelsesmyndighet.\nPersonalreglementet fastsettes av Sivilombudet. Stortingets presidentskap kan ta personalreglementet opp til revisjon.\nFor ansatte ved ombudets kontor fastsettes lønn, pensjon og arbeidsvilkår etter de avtaler og bestemmelser som gjelder for arbeidstakere i statsstilling.\nForvaltningsloven gjelder i saker om ordensstraff, oppsigelse, suspensjon eller avskjed. Klageorganet er Stortingets presidentskap.\nLov 18. juli 1958 nr. 2 om offentlige tjenestetvister gjelder for ansatte i ombudets virksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "title": "Krav til sivilombudet",
+      "content": "Sivilombudet må ha juridisk embetseksamen eller mastergrad i rettsvitenskap.\nOmbudet må tilfredsstille høye krav til faglige kvalifikasjoner og personlige egenskaper og inneha betydelig relevant erfaring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "title": "Fratreden og avsetting",
+      "content": "Dersom sivilombudet dør i oppnevningsperioden, permanent blir ute av stand til å utføre sitt verv, frasier seg vervet eller avsettes av Stortinget med to tredjedels flertall, oppnevner Stortinget nytt ombud etter § 2 for en ny periode. Inntil nytt ombud har tiltrådt vervet, kan Stortinget oppnevne en vikar etter § 32 første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "title": "Vikar og setteombud",
+      "content": "Er sivilombudet midlertidig forhindret fra å utføre sitt verv, kan Stortinget oppnevne en vikar blant ombudets ledende ansatte så lenge fraværet varer.\nVed fravær inntil tre måneder kan ombudet selv utpeke en vikar blant de ledende ansatte ved sitt kontor.\nAnser ombudet seg inhabil etter § 23 eller det er andre grunner til at en sak bør behandles av et setteombud, orienteres Stortingets presidentskap, som oppnevner et setteombud til å behandle saken.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "title": "Adgang til å delegere",
+      "content": "Sivilombudets fullmakter etter denne loven kan delegeres til ansatte ved ombudets kontor. Ombudet må likevel ta personlig standpunkt i saker hvor det er aktuelt å kritisere forvaltningens avgjørelser eller handlemåte eller å gi anbefalinger som nevnt i § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "title": "Lønn, pensjon og sidegjøremål",
+      "content": "Sivilombudets lønn fastsettes av Stortinget eller den det gir fullmakt. Det samme gjelder godtgjørelse til vikar som oppnevnes etter § 32 første ledd. Stortingets presidentskap eller den det gir fullmakt, fastsetter godtgjørelse for setteombud oppnevnt etter § 32 tredje ledd.\nOmbudet skal være medlem av Statens pensjonskasse med rettigheter og plikter etter lov 28. juli 1949 nr. 26 om Statens pensjonskasse.\nOmbudet må ikke uten samtykke fra Stortinget eller den det gir fullmakt, ha annen stilling eller noe verv i offentlig eller privat virksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "title": "Ikrafttredelse og overgangsbestemmelser",
+      "content": "Loven trer i kraft 1. juli 2021. Fra samme tidspunkt oppheves lov 22. juni 1962 nr. 8 om Stortingets ombudsmann for forvaltningen (sivilombudsmannsloven) og Instruks for Stortingets ombudsmann for forvaltningen 19. februar 1980.\nDen som er sivilombudsmann når loven trer i kraft, er sivilombud i fire år fra vedkommende ble oppnevnt som sivilombudsmann, med mindre ombudet fratrer eller avsettes i medhold av § 31. Vedkommende kan bare oppnevnes én gang i medhold av § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    }
+  ]
+}

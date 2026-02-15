@@ -1,0 +1,927 @@
+{
+  "id": "LOV-2009-03-06-11",
+  "type": "statute",
+  "title": "Lov om tiltak mot hvitvasking og terrorfinansiering mv. (hvitvaskingsloven)",
+  "short_name": "Hvitvaskingsloven – hvvl",
+  "status": "in_force",
+  "issued_date": "2009-03-06",
+  "in_force_date": "2009-04-15",
+  "url": "https://lovdata.no/dokument/NLO/lov/2009-03-06-11",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Lovens formål er å forebygge og avdekke transaksjoner med tilknytning til utbytte av straffbare handlinger​1 eller med tilknytning til terrorhandlinger.​2\n1 Jf. strl. §§ 332 til 340.\n2 Jf. strl. §§ 131 til 138.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjoner",
+      "content": "I denne lov forstås med:\n1. rapporteringspliktige: personer som nevnt i § 4,\n2. transaksjon: enhver overføring, formidling, ombytting eller plassering av formuesgoder,\n3. reelle rettighetshavere: fysiske personer som i siste instans eier eller kontrollerer en kunde eller som en transaksjon gjennomføres på vegne av. En fysisk person skal i alle tilfelle regnes som reell rettighetshaver dersom vedkommende:\na. direkte eller indirekte eier eller kontrollerer mer enn 25 prosent av eierandelene eller stemmene i et selskap, unntatt selskap som har finansielle instrumenter​1 opptatt til notering på et regulert marked i EØS-stat eller er underlagt informasjonsplikt tilsvarende det som gjelder ved notering på et regulert marked i EØS-stat,\nb. utøver kontroll over ledelsen av en juridisk person på annen måte enn nevnt i bokstav a,\nc. ifølge vedtekter eller på annet grunnlag skal motta 25 prosent eller mer av formuesgodene i en stiftelse, et fond eller en tilsvarende juridisk person eller formuesmasse,\nd. har hovedinteressen av opprettelsen eller forvaltningen av en stiftelse,​2 et fond eller en tilsvarende juridisk person eller formuesmasse, eller\ne. utøver kontroll over mer enn 25 prosent av formuesgodene i en stiftelse, et fond eller en lignende juridisk person eller formuesmasse.\n4. tilbydere av virksomhetstjenester: fysiske og juridiske personer som i næring tilbyr en eller flere av følgende tjenester til tredjepersoner:\na. å opprette selskaper og andre juridiske personer,\nb. å være styremedlem, daglig leder eller deltaker i et selskap, eller å inneha lignende funksjoner i andre juridiske personer,\nc. å stille til rådighet forretningsadresser, administrative adresser eller postadresser og tilknyttede tjenester for selskaper og andre juridiske personer eller juridiske arrangementer,\nd. å forvalte utenlandske truster eller tilsvarende juridiske arrangementer,\ne. å opptre som aksjeeiere for tredjeperson, med mindre denne er et selskap som har finansielle instrumenter​1 opptatt til notering på et regulert marked i EØS-stat eller er underlagt informasjonsplikt tilsvarende det som gjelder ved notering på et regulert marked i EØS-stat, eller\nf. å sørge for at andre personer opptrer i posisjoner som nevnt i bokstav b, d og e.\n0 Endret ved lov 16 juni 2017 nr. 52 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 784).\n1 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n2 Jf. lov 15 juni 2001 nr. 59.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Geografisk virkeområde",
+      "content": "Loven gjelder for rapporteringspliktige​1 som er etablert i Norge, herunder filialer av utenlandske foretak.\nLoven gjelder for Svalbard​2 og Jan Mayen.​3 Departementet kan i forskrift fastsette at deler av loven ikke skal gjelde på Svalbard og Jan Mayen og fastsette særlige regler for disse områdene for fremme av lovens formål.\n1 Jf. § 2 nr. 1.\n2 Se lov 17 juli 1925 nr. 11 § 1 (2).\n3 Se lov 27 feb 1930 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Rapporteringspliktige",
+      "content": "Loven gjelder for følgende juridiske personer:\n1. finansinstitusjoner,​1\n2. Norges Bank,​2\n3. e-pengeforetak,​3\n4. foretak som driver valutavirksomhet,​4\n5. betalingsforetak og andre som har rett til å yte betalingstjenester,​5\n6. verdipapirforetak,​6\n7. forvaltningsselskaper for verdipapirfond,​7\n8. forsikringsselskaper,​8\n9. foretak som driver forsikringsformidling som ikke er gjenforsikringsmegling,​9\n10. tilbyder av posttjenester​10 ved formidling av verdisendinger,\n11. verdipapirregistre,​11\n12. foretak som driver depotvirksomhet,​12\n13. forvaltere av alternative investeringsfond.​13\nLoven gjelder også for følgende juridiske og fysiske personer i utøvelsen av deres yrke:\n1. statsautoriserte og registrerte revisorer,​14 samt revisor som er ansvarlig for revisjon av regnskapet for kommune eller fylkeskommune, samt for kommunalt og fylkeskommunalt foretak, i samsvar med nærmere bestemmelser fastsatt av departementet, jf. lov om kommuner og fylkeskommuner § 78 nr. 8,\n2. autoriserte regnskapsførere,​15\n3. advokater​16 og andre som ervervsmessig eller stadig yter selvstendig juridisk bistand,​17 når de bistår eller opptrer på vegne av klienter ved planlegging eller utføring av finansielle transaksjoner eller transaksjoner som gjelder fast eiendom eller gjenstander med verdi over 40.000 kroner,\n4. eiendomsmeglere​18 og boligbyggelag​19 når det drives eiendomsmegling,\n5. foretak som mot vederlag tilbyr tilsvarende tjenester som nevnt i nr. 1 til 4,\n6. tilbydere av virksomhetstjenester,\n7. personer med begrenset tillatelse til å yte betalingstjenester.\nLoven gjelder også for foretak og personer som utfører tjenester på vegne av eller for personer som nevnt i første og annet ledd.\nNår advokater​14 opptrer som bostyrere,​20 gjelder bestemmelsene i §§ 17, 18, 20, 21, 27 og 28.\n§ 4 a gjelder for forhandlere av gjenstander. Departementet kan i forskrift la enkelte eller flere av bestemmelsene i loven få anvendelse for forhandlere av gjenstander ved transaksjoner over bestemte beløpsgrenser ved bruk av nærmere angitte typer betalingsmiddel.\nDepartementet kan i forskrift fastsette unntak fra enkelte eller flere av bestemmelsene i loven for visse rapporteringspliktige.\nDepartementet kan i forskrift fastsette regler som nærmere angir hvem som er omfattet av § 4 første og annet ledd og regler som gir loven anvendelse for foretak som driver spillvirksomhet,​21 inkassoforetak,​22 pensjonskasser​23 og formidlere av andeler i ansvarlige selskaper​24 og kommandittselskaper.​25\n0 Endret ved lover 4 juni 2010 nr. 20 (ikr. 1 juli 2010 iflg. res. 4 juni 2010 nr. 771), 8 feb 2013 nr. 7 (ikr. 1 juli 2013 iflg. res. 8 feb 2013 nr. 144), 20 juni 2014 nr. 28 (ikr. 1 juli 2014 iflg. res. 20 juni 2014 nr. 785), 4 sep 2015 nr. 91 (ikr. 1 jan 2016 iflg. res. 4 sep 2015 nr. 1027), 16 juni 2017 nr. 52 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 784).\n1 Se lov 10 apr 2015 nr. 17 § 1-5 og § 2-1.\n2 Se lov 24 mai 1985 nr. 28.\n3 Se lov 10 apr 2015 nr. 17 § 2-11.\n4 Se lov 10 apr 2015 nr. 17 § 2-5.\n5 Se lov 10 apr 2015 nr. 17 § 2-3 og § 2-10.\n6 Se lov 29 juni 2007 nr. 75 § 2-1 og § 2-3.\n7 Se lov 25 nov 2011 nr. 44 kap. 2.\n8 Se lov 10 juni 2005 nr. 44.\n9 Se lov 10 juni 2005 nr. 41.\n10 Se lov 4 sep 2015 nr. 91 § 4 nr. 7.\n11 Se lov 5 juli 2002 nr. 64.\n12 Jf. lov 25 nov 2011 nr. 44 kap. 10.\n13 Se lov 20 juni 2014 nr. 28.\n14 Se lov 15 jan 1999 nr. 2 kap. 3\n15 Se lov 18 juni 1993 nr. 109.\n16 Se dl. § 220.\n17 Se dl. §§ 218 til 219 b.\n18 Se lov 29 juni 2007 nr. 73.\n19 Se lov 29 juni 2007 nr. 73 § 2-4 nr. 2.\n20 Jf. lov 21 feb 1930 kap. 13 A og kkl. § 77.\n21 Jf. lover 1 juli 1927 nr. 3, 28 aug 1992 nr. 103 og 24 feb 1995 nr. 11.\n22 Jf. lov 13 mai 1988 nr. 26.\n23 Se lover 28 juli 1949 nr. 26 og 10 juni 2005 nr. 44 del III.\n24 Jf. lov 21 juni 1985 nr. 83.\n25 Jf. lov 21 juni 1985 nr. 83 kap. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:4 a",
+      "chapter": "1",
+      "section": "4 a",
+      "title": "Beløpsgrense for kontantvederlag. Kontroll",
+      "content": "Forhandlere av gjenstander kan ikke motta vederlag i kontanter på 40 000 kroner eller mer. Dette gjelder også der oppgjøret gjennomføres i flere operasjoner.\nSkattekontoret fører kontroll med at første ledd blir overholdt. Ved kontrollen gjelder skatteforvaltningsloven §§ 10-1, 10-2, 10-4, 10-10, 10-11, 10-12, 10-13 og 10-14 tilsvarende så langt de passer.\n0 Tilføyd ved lov 16 juni 2017 nr. 52 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 784).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4a",
+        "source_heading": "§ 4 a."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Risikobasert kundekontroll og løpende oppfølging",
+      "content": "Rapporteringspliktige​1 skal foreta kundekontroll etter §§ 6 til 13 og løpende oppfølging etter § 14. Kundekontroll og løpende oppfølging skal foretas på grunnlag av en vurdering av risiko for transaksjoner med tilknytning til utbytte av straffbare handlinger eller forhold som rammes av straffeloven​2 §§ 131 til 136 a, der risikoen vurderes ut fra type kunde, kundeforhold, produkt eller transaksjon.\nRapporteringspliktige​1 skal kunne påvise at omfanget av utførte tiltak er tilpasset den aktuelle risiko.\n0 Endret ved lover 21 juni 2013 nr. 85 (ikr. 21 juni 2013 iflg. res. 21 juni 2013 nr. 687), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Jf. § 2 nr. 1.\n2 Lov 20 mai 2005 nr. 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Plikt til å foreta kundekontroll",
+      "content": "Rapporteringspliktige​1 skal foreta kundekontroll ved\n1. etablering av kundeforhold,\n2. transaksjon som gjelder 100 000 norske kroner eller mer, for kunde som den rapporteringspliktige ikke har et etablert kundeforhold til,\n3. mistanke om at en transaksjon har tilknytning til utbytte av straffbar handling eller forhold som rammes av straffeloven​2 §§ 131 til 136 a, eller\n4. tvil om hvorvidt tidligere innhentede opplysninger om kunden er korrekte eller tilstrekkelige.\nBeløpsgrensene i første ledd nr. 2 beregnes samlet for transaksjoner som gjennomføres i flere operasjoner som ser ut til å kunne ha sammenheng med hverandre. Dersom beløpet ikke er kjent når transaksjonen gjennomføres, skal kundekontrollen foretas så snart den rapporteringspliktige blir kjent med at beløpsgrensen er oversteget.\nDepartementet kan i forskrift fastsette nærmere regler om når kundeforhold skal anses etablert.\n0 Endret ved lover 21 juni 2013 nr. 85 (ikr. 21 juni 2013 iflg. res. 21 juni 2013 nr. 687), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Jf. § 2 nr. 1.\n2 Lov 20 mai 2005 nr. 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Gjennomføring av kundekontroll",
+      "content": "Kundekontroll som nevnt i § 6 skal omfatte\n1. registrering av opplysninger som nevnt i § 8,\n2. bekreftelse av kundens identitet på grunnlag av gyldig legitimasjon,\n3. bekreftelse av identiteten til reelle rettighetshavere på grunnlag av egnede tiltak, og\n4. innhenting av opplysninger om kundeforholdets formål og tilsiktede art.\nDersom kunden er en juridisk person, skal identiteten til den som handler på vegne av kunden bekreftes på grunnlag av gyldig legitimasjon. Videre skal det dokumenteres, ved firmaattest,​2 stiftelsesdokument,​3 skriftlig fullmakt​4 eller lignende, at vedkommende er berettiget til å representere kunden utad.\nDersom andre enn kunden er gitt disposisjonsrett over en konto eller et depot, eller er gitt rett til å gjennomføre transaksjonen, skal vedkommendes identitet bekreftes på grunnlag av gyldig legitimasjon.\nDersom bekreftelse av en fysisk persons identitet skal skje på grunnlag av fysisk legitimasjon uten vedkommendes personlige fremmøte, skal det fremlegges ytterligere dokumentasjon som bekrefter vedkommendes identitet.\nBekreftelse av fysiske personers identitet etter første ledd nr. 2, annet ledd og tredje ledd kan foretas på annet grunnlag enn gyldig legitimasjon dersom den rapporteringspliktige er sikker på vedkommendes identitet.\nDepartementet kan i forskrift fastsette nærmere regler om gjennomføring av kundekontroll, herunder hva som anses som gyldig legitimasjon.\n1 Jf. § 11.\n2 Jf. lov 21 juni 1985 nr. 78.\n3 Jf. asl. kap. 2 og asal. kap. 2.\n4 Jf. lov 21 juni 1985 nr. 80.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Registrering av opplysninger",
+      "content": "Rapporteringspliktige​1 skal registrere følgende opplysninger om kunder:\n1. fullt navn eller foretaksnavn,​2\n2. fødselsnummer,​3 organisasjonsnummer,​4 D-nummer​3 eller, dersom kunden ikke har slikt nummer, annen entydig identitetskode,\n3. fast adresse, og\n4. referanse til legitimasjon som er brukt for å bekrefte kundens identitet.\nPlikten til å registrere kundens faste adresse etter første ledd nr. 3 gjelder ikke dersom folkeregisteret har vedtatt at kundens adresse skal være fortrolig eller strengt fortrolig.​5\nFor fysiske personer som ikke har fått tildelt norsk fødselsnummer​3 eller D-nummer,​3 skal det registreres fødselsdato, fødested, kjønn og statsborgerskap.​6 Dersom den rapporteringspliktige er kjent med at kunden har to statsborgerskap, skal dette registreres.\nFor juridiske personer som ikke er registrert i offentlig register, skal det i tillegg registreres opplysninger om organisasjonsform, stiftelsestidspunkt samt daglig leder, forretningsfører, innehaver eller tilsvarende kontaktperson. Dersom kontaktperson er en juridisk person, skal det også oppgis en fysisk person som kontaktperson og registreres opplysninger som nevnt i første ledd om vedkommende.\nRapporteringspliktige​1 skal registrere opplysninger som entydig identifiserer reelle rettighetshavere.\n1 Jf. § 2 nr. 1.\n2 Jf. lov 21 juni 1985 nr. 79.\n3 Jf. lov 9 des 2016 nr. 88 § 2-2.\n4 Jf. lov 3 juni 1994 nr. 15 § 5.\n5 Jf. lov 9 des 2016 nr. 88 § 10-2.\n6 Jf. lov 10 juni 2005 nr. 51.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Tidspunkt for kundekontroll",
+      "content": "Kundekontroll skal gjennomføres før etablering av kundeforhold eller utføring av transaksjon.\nFra første ledd gjelder følgende unntak:\n1. Bekreftelse av identiteten til kunder og reelle rettighetshavere skal kunne foretas under etablering av kundeforhold, dersom etableringen av kundeforholdet er nødvendig for ikke å hindre den alminnelige forretningsdrift og det er liten risiko for transaksjoner med tilknytning til en straffbar handling eller forhold som rammes av straffeloven​1 §§ 131 til 136 a.\n2. Bekreftelse av identiteten til den begunstigede etter en livsforsikringspolise kan foretas etter tegning av polisen, forutsatt at bekreftelse av identiteten foretas før utbetalingstidspunktet eller det tidspunkt den begunstigede utøver sine rettigheter etter polisen.\n3. Bekreftelse av identiteten til kunden og reelle rettighetshavere kan foretas etter åpning av bankkonto, forutsatt at det finnes foranstaltninger som sikrer at transaksjoner knyttet til kontoen ikke kan utføres av kunden eller på dennes vegne før bekreftelse av identiteten er foretatt.\n0 Endret ved lover 21 juni 2013 nr. 85 (ikr. 21 juni 2013 iflg. res. 21 juni 2013 nr. 687), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Lov 20 mai 2005 nr. 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Følger av at kundekontroll ikke kan gjennomføres",
+      "content": "Dersom kundekontroll​1 ikke kan gjennomføres, skal rapporteringspliktige​2 ikke etablere kundeforhold eller utføre transaksjonen. Et etablert kundeforhold skal avvikles hvis fortsettelse av kundeforholdet medfører risiko for transaksjoner med tilknytning til utbytte av straffbare handlinger eller forhold som rammes av straffeloven​3 §§ 131 til 136 a.\nFørste ledd gjelder ikke når advokater og andre som ervervsmessig eller stadig yter selvstendig juridisk bistand er i ferd med å fastslå en klients rettsstilling eller bistår klienten i forbindelse med rettergang.\n0 Endret ved lover 21 juni 2013 nr. 85 (ikr. 21 juni 2013 iflg. res. 21 juni 2013 nr. 687), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Jf. § 34 (2).\n2 Jf. § 2 nr. 1.\n3 Lov 20 mai 2005 nr. 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Kundekontroll utført av tredjeparter",
+      "content": "For gjennomføring av kundekontrolltiltak som nevnt i § 7 nr. 2 til 4 kan rapporteringspliktige​1 legge til grunn tiltak som er utført av følgende tredjeparter:\n1. finansinstitusjoner,​2\n2. verdipapirforetak,​3\n3. forvaltningsselskaper for verdipapirfond,​4\n4. forsikringsselskaper,​5\n5. foretak som driver forsikringsformidling som ikke er gjenforsikringsmegling,​6\n6. verdipapirregistre,​7\n7. statsautoriserte og registrerte revisorer,​8\n8. autoriserte regnskapsførere,​9\n9. advokater​10 og andre som ervervsmessig eller stadig yter selvstendig juridisk bistand,​11 når de bistår eller opptrer på vegne av klienter ved planlegging eller utføring av finansielle transaksjoner, transaksjoner som gjelder fast eiendom eller transaksjoner som gjelder gjenstander med verdi over 40 000 kroner,\n10. eiendomsmeglere​12 og boligbyggelag når det drives eiendomsmegling,​13 eller\n11. tilsvarende juridiske og fysiske personer som nevnt i nr. 1 til 4 og 6 til 10 fra annen stat, såfremt disse er underlagt lovmessig registreringsplikt og regler om kundekontroll, oppbevaring og tilsyn som svarer til reglene i denne lov.\nAdgangen til å legge til grunn kundekontrolltiltak utført av tredjeparter i medhold av første ledd, medfører ikke unntak fra den rapporteringspliktiges\n1. plikt til å registrere opplysninger som nevnt i § 8 og oppbevare opplysninger og dokumenter som nevnt i § 22, eller\n2. ansvar for at kundekontroll gjennomføres i samsvar med denne lov og forskrifter gitt med hjemmel i denne lov.\nRapporteringspliktige kan legge til grunn kundekontroll foretatt av tredjeparter som ikke er etablert i Norge, selv om bekreftelse av kundens identitet, jf. § 7 første ledd nr. 2, er foretatt på annet grunnlag enn gyldig legitimasjon.\nTredjepart skal stille de opplysninger vedkommende har samlet inn for gjennomføring av tiltak som nevnt i § 7 nr. 2 til 4, til rådighet for den rapporteringspliktige som kunden henvises til. Tredjepart skal etter anmodning, omgående videresende kopier av identifikasjons- og kontrollopplysninger og annen relevant dokumentasjon om kundens eller den reelle rettighetshavers identitet, til den rapporteringspliktige. Utlevering av opplysninger og dokumenter som er nødvendige for at den rapporteringspliktige skal kunne oppfylle sine plikter etter §§ 5 annet ledd, 8 eller 22, medfører ikke brudd på lovmessig taushetsplikt når kunden informeres om at opplysningene utleveres.\nDepartementet kan i forskrift fastsette unntak fra adgangen til å legge til grunn kundekontroll utført av tredjeparter.\n1 Jf. § 2 nr. 1.\n2 Se lov 10 apr 2015 nr. 17 § 1-5 og § 2-1.\n3 Se lov 29 juni 2007 nr. 75 § 2-1 og § 2-3.\n4 Se lov 25 nov 2011 nr. 44 kap. 2.\n5 Se lov 10 juni 2005 nr. 44.\n6 Se lov 10 juni 2005 nr. 41.\n7 Se lov 5 juli 2002 nr. 64.\n8 Se lov 15 jan 1999 nr. 2 kap. 3.\n9 Se lov 18 juni 1993 nr. 109.\n10 Se dl. § 220.\n11 Se dl. §§ 218 til 219 b.\n12 Se lov 29 juni 2007 nr. 73.\n13 Se lov 29 juni 2007 nr. 73 § 2-4 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Utkontraktering av gjennomføring av kundekontroll",
+      "content": "Rapporteringspliktige​1 kan inngå skriftlige avtaler med oppdragstakere om utkontraktering av gjennomføring av kundekontroll.\nFølgende juridiske og fysiske personer kan fungere som oppdragstakere etter første ledd:\n1. rapporteringspliktige, med unntak av tilbydere av virksomhetstjenester som nevnt i § 4 annet ledd nr. 6, og\n2. leveringspliktig tilbyder av posttjenester.​1\nDen rapporteringspliktige​2 har ansvar for at kundekontroll gjennomføres i samsvar med gjeldende lov og forskrifter og at det etableres forsvarlige rutiner og treffes nødvendige tiltak etter § 23.\nUtlevering av opplysninger og dokumenter, som oppdragstaker har innhentet på grunnlag av utkontraktering av gjennomføring av kundekontroll, som er nødvendig for at den rapporteringspliktige skal kunne oppfylle sine plikter etter §§ 5 annet ledd, 8 og 22 medfører ikke brudd på lovmessig taushetsplikt.\nDepartementet kan i forskrift fastsette at andre enn de som er omfattet av annet ledd kan fungere som oppdragstakere.\n0 Endret ved lover 4 sep 2015 nr. 91 (ikr. 1 jan 2016 iflg. res. 4 sep 2015 nr. 1027), 16 juni 2017 nr. 52 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 784).\n1 Jf. lov 4 sep 2015 nr. 91 § 4 nr. 7.\n2 Jf. § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "title": "Forenklet kundekontroll",
+      "content": "Departementet kan i forskrift fastsette unntak fra plikt til å foreta kundekontroll etter § 6 første ledd nr. 1, 2 og 4 og annet ledd. Rapporteringspliktige skal før anvendelse av unntak innhente tilstrekkelige opplysninger til å fastslå at forholdet dekkes av den aktuelle unntaksbestemmelse.\nFørste ledd medfører ikke unntak fra plikt til å registrere opplysninger etter § 8 første til tredje ledd ved opprettelse av konto.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "title": "Løpende oppfølging",
+      "content": "Rapporteringspliktige​1 skal løpende følge opp eksisterende kundeforhold, herunder påse at transaksjoner som den rapporteringspliktige blir kjent med er i samsvar med den rapporteringspliktiges kjennskap til kunden og dens virksomhet. Rapporteringspliktige skal oppdatere dokumentasjon og opplysninger om kunder.\n1 Jf. § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "title": "Forsterkede kontrolltiltak",
+      "content": "I situasjoner som etter sin art innebærer høy risiko for transaksjoner med tilknytning til utbytte av straffbare handlinger eller forhold som rammes av straffeloven​1 §§ 131 til 136 a, skal rapporteringspliktige​2 ut fra en risikovurdering anvende andre kontrolltiltak i tillegg til de tiltak som følger av §§ 5 til 14.\nRapporteringspliktige skal ha til rådighet egnede kontrolltiltak for å fastslå om kunden er en politisk eksponert person. Rapporteringspliktige skal, ved kundeforhold til eller transaksjoner for slike personer\n1. påse at beslutningstaker innhenter samtykke fra overordnet før etablering av kundeforhold,\n2. treffe egnede tiltak for å fastslå opprinnelsen til kundens formue og den kapital som inngår i kundeforholdet eller transaksjonen, og\n3. føre forsterket løpende oppfølging med kundeforholdet.\nMed politisk eksponert person som nevnt i annet ledd menes fysisk person som\n1. innehar eller i løpet av det siste året har innehatt høytstående offentlig verv eller stilling i en annen stat enn Norge,\n2. er nært familiemedlem til person som nevnt i nr. 1, eller\n3. er kjent medarbeider til person som nevnt i nr. 1.\nRapporteringspliktige​2 skal vie særlig oppmerksomhet til produkter og transaksjoner som fremmer anonymitet, og om nødvendig iverksette tiltak for å forebygge transaksjoner med tilknytning til utbytte av straffbare handlinger eller forhold som rammes av straffeloven​1 §§ 131 til 136 a.\nDepartementet kan i forskrift fastsette nærmere regler om hvilke situasjoner som skal omfattes av første ledd og hvilke kontrolltiltak som i slike tilfeller skal anvendes. Departementet kan i forskrift fastsette nærmere regler om hvem som skal anses som politisk eksponerte personer.\n0 Endret ved lover 21 juni 2013 nr. 85 (ikr. 21 juni 2013 iflg. res. 21 juni 2013 nr. 687), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Lov 20 mai 2005 nr. 28.\n2 Jf. § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "2:16",
+      "chapter": "2",
+      "section": "16",
+      "title": "Korrespondentbankforbindelser",
+      "content": "Ved bruk av en institusjon fra stat utenfor EØS som korrespondentbank, skal kredittinstitusjoner\n1. innhente tilstrekkelige opplysninger om korrespondentinstitusjonen til fullt ut å forstå arten av dens virksomhet og på grunnlag av offentlig tilgjengelige opplysninger fastslå institusjonens omdømme og tilsynets kvalitet,\n2. vurdere korrespondentinstitusjonens kontrolltiltak for forebyggelse og bekjempelse av handlinger som beskrevet i straffeloven​1 §§ 332, 335, 337, 340 og 135.\n3. påse at beslutningstaker innhenter samtykke fra overordnet før etablering av nye korrespondentbankforbindelser,\n4. dokumentere den enkelte institusjons ansvar, og\n5. i forbindelse med oppgjørskonti, forsikre seg om at korrespondentinstitusjonen\na. har verifisert identiteten til, og fører løpende oppfølging av, kunder som har direkte adgang til konti hos kredittinstitusjonen, og\nb. på anmodning kan fremlegge relevante opplysninger fra kundekontrollen til kredittinstitusjonen.\nKredittinstitusjoner skal ikke inngå eller opprettholde korrespondentbankforbindelse til tomme bankselskaper. Kredittinstitusjoner skal treffe egnede tiltak for å sikre at de ikke inngår eller opprettholder korrespondentbankforbindelser med kredittinstitusjoner som er kjent for å tillate at deres konti brukes av tomme bankselskaper.\nMed tomt bankselskap som nevnt i annet ledd menes en kredittinstitusjon som er opprettet i en stat der institusjonen ikke er fysisk til stede med en reell ledelse og administrasjon, og som ikke er tilknyttet et regulert finanskonsern.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Lov 20 mai 2005 nr. 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Undersøkelsesplikt",
+      "content": "Dersom rapporteringspliktige​1 har mistanke om at en transaksjon har tilknytning til utbytte av en straffbar handling eller forhold som rammes av straffeloven​2 §§ 131 til 136 a, skal det foretas nærmere undersøkelser for å få bekreftet eller avkreftet mistanken.​3\nRapporteringspliktige​1 skal skriftlig eller elektronisk registrere resultatene av undersøkelsene.\nDepartementet kan i forskrift fastsette nærmere regler om undersøkelsesplikt.\n0 Endret ved lover 21 juni 2013 nr. 85 (ikr. 21 juni 2013 iflg. res. 21 juni 2013 nr. 687), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Jf. § 2 nr. 1.\n2 Lov 20 mai 2005 nr. 28.\n3 Jf. §§ 20 (2) og 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Rapporteringsplikt",
+      "content": "Dersom undersøkelser som nevnt i § 17 ikke avkrefter mistanken, skal den rapporteringspliktige​2 av eget tiltak oversende opplysninger til Økokrim om den aktuelle transaksjonen og om de forhold som har medført mistanke. Den rapporteringspliktige skal på forespørsel gi Økokrim alle nødvendige opplysninger om transaksjonen og mistanken.\nAdvokater​3 og andre som ervervsmessig eller stadig yter rettshjelpvirksomhet​4 har ikke plikt til å rapportere om forhold som de har fått kjennskap til gjennom arbeidet med å fastslå klientens rettsstilling, eller om forhold som de har fått kjennskap til før, under eller etter en rettssak, når de forhold opplysningene omhandler har direkte tilknytning til rettstvisten. Tilsvarende gjelder for revisorer​5 og andre rapporteringspliktige når de bistår advokater eller andre som ervervsmessig eller stadig yter rettshjelpvirksomhet i arbeid som nevnt i første punktum.\nDepartementet kan i forskrift pålegge rapporteringspliktige​2 å overføre opplysninger til Økokrim elektronisk. Departementet kan i forskrift fastsette nærmere regler om rapporteringsplikten.\n1 Jf. §§ 21 og 29 og 30.\n2 Jf. § 2 nr. 1.\n3 Se dl. § 220.\n4 Se dl. §§ 218 til 219 b.\n5 Se lov 15 jan 1999 nr. 2 kap. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Gjennomføring av mistenkelige transaksjoner",
+      "content": "Rapporteringspliktige​2 skal ikke gjennomføre transaksjoner som medfører rapporteringsplikt som nevnt i § 18 før Økokrim er underrettet. Økokrim kan i særlige tilfeller gi pålegg om ikke å gjennomføre transaksjoner.\nEn transaksjon kan likevel gjennomføres før opplysninger er oversendt Økokrim, dersom unnlatelse av å gjennomføre transaksjonen kan vanskeliggjøre Økokrims undersøkelser eller eventuell etterforskning eller det ikke er mulig å la være å gjennomføre transaksjonen. Opplysninger skal i så fall oversendes Økokrim umiddelbart etter at transaksjonen er gjennomført.\n1 Jf. § 31 (1) nr. 2.\n2 Jf. § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "title": "Forholdet til taushetsplikt",
+      "content": "Meddelelse av opplysninger til Økokrim i god tro etter § 18 medfører ikke brudd på taushetsplikt og gir ikke grunnlag for erstatningsansvar eller straffansvar.\nFinansinstitusjoner​1 og forsikringsselskaper​2 kan uten hinder av taushetsplikt utveksle nødvendige kundeopplysninger seg imellom når det anses nødvendig som ledd i undersøkelser som nevnt i § 17.​3\n1 Se lov 10 apr 2015 nr. 17 § 1-5 og § 2-1.\n2 Se lov 10 juni 2005 nr. 44.\n3 Jf. § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "title": "Forbud mot å avsløre undersøkelser, rapportering eller etterforskning",
+      "content": "Kunder eller tredjepersoner skal ikke gjøres kjent med at det foretas undersøkelser som nevnt i § 17, at det er gitt opplysninger som nevnt i § 18 eller at det er iverksatt etterforskning.\nFørste ledd er ikke til hinder for utveksling av opplysninger som nevnt i § 20 annet ledd.\nFørste ledd er ikke til hinder for at rapporteringspliktige som nevnt i § 4 annet ledd nr. 1 til 3 forsøker å få en klient til å avstå fra å begå en ulovlig handling.\nDepartementet kan i forskrift fastsette unntak fra første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Oppbevaring av opplysninger og dokumenter",
+      "content": "Rapporteringspliktige​1 skal oppbevare kopier av dokumenter benyttet i forbindelse med kundekontroll som nevnt i § 7, samt registrerte opplysninger som nevnt i § 8, i fem år etter at kundeforholdet er avsluttet eller transaksjonen er gjennomført, med mindre lengre frister følger av annen lov eller forskrift. Dersom det er benyttet kvalifisert sertifikat, skal sertifikatets identifikasjonskode og opplysninger om sertifikatutstederens identitet oppbevares. Det skal ved bruk av kontonummer eller på annen måte registreres en entydig forbindelse mellom kundeforhold og registrerte opplysninger som nevnt i § 8.\nRapporteringspliktige skal oppbevare dokumenter i tilknytning til transaksjoner som nevnt i § 17 i minst fem år etter at transaksjonen er gjennomført.\nDokumenter og opplysninger som nevnt i første og annet ledd skal oppbevares på en betryggende måte, beskyttes mot uautorisert tilgang fra uvedkommende og slettes innen ett år etter at oppbevaringsplikten opphører. Personopplysningsloven​2 gjelder for rapporteringspliktiges oppbevaring av personopplysninger.\nDepartementet kan i forskrift fastsette nærmere regler om oppbevaringsmåte og sletting av opplysninger.\n1 Jf. § 2 nr. 1.\n2 Lov 15 juni 2018 nr. 38.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Kontroll- og kommunikasjonsrutiner",
+      "content": "Rapporteringspliktige​1 skal ha forsvarlige interne kontroll- og kommunikasjonsrutiner som sikrer oppfyllelse av plikter etter denne lov.\nRutinene skal være fastsatt på øverste nivå hos den rapporteringspliktige.​1 Det skal utpekes en person i ledelsen som skal ha et særskilt ansvar for å følge opp rutinene.\nRapporteringspliktige​1 skal treffe nødvendige tiltak for å sikre at ansatte og andre personer som utfører oppgaver på vegne av den rapporteringspliktige\n1. er kjent med de plikter som påligger den rapporteringspliktige etter denne lov,\n2. lærer å kjenne igjen transaksjoner som nevnt i § 17, og\n3. er kjent med den rapporteringspliktiges interne rutiner for håndtering av slike transaksjoner.\n1 Jf. § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Elektroniske overvåkningssystemer",
+      "content": "Finansinstitusjoner​1 skal etablere elektroniske overvåkningssystemer.\nDepartementet kan i forskrift pålegge andre rapporteringspliktige​2 å etablere elektroniske overvåkningssystemer og fastsette nærmere regler om slike systemer.\n1 Se lov 10 apr 2015 nr. 17 § 1-5 og § 2-1.\n2 Jf. § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Systemer for oversikt over kundeforhold",
+      "content": "Rapporteringspliktige​1 som nevnt i § 4 første ledd skal ha systemer som muliggjør raske og fullstendige svar på forespørsler fra Økokrim eller tilsynsmyndighet om hvorvidt de har eller i løpet av de siste fem år har hatt kundeforhold til konkrete personer og om kundeforholdets art.\n1 Jf. § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Filialer og datterselskaper i stater utenfor EØS",
+      "content": "Rapporteringspliktige som nevnt i § 4 første ledd skal påse at filialer og datterselskaper etablert i stater utenfor EØS\n1. er kjent med kontroll- og kommunikasjonsrutiner som beskrevet i § 23, og\n2. anvender tilsvarende tiltak for kundekontroll, løpende oppfølging og oppbevaring som beskrevet i kapittel 2 og 4.\nDersom lovgivningen i vedkommende stat ikke tillater anvendelse av tiltak som nevnt i første ledd nr. 2, skal den rapporteringspliktige\n1. informere tilsynsmyndigheten om dette, og\n2. iverksette andre tiltak som er egnet til å motvirke risikoen for transaksjoner med tilknytning til utbytte av straffbare handlinger eller forhold som beskrevet i straffeloven​1 §§ 131 til 136 a.\n0 Endret ved lover 21 juni 2013 nr. 85 (ikr. 21 juni 2013 iflg. res. 21 juni 2013 nr. 687), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Lov 20 mai 2005 nr. 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:26 a",
+      "chapter": "6",
+      "section": "26 a",
+      "title": "Krav om autorisasjon for tilbyder av virksomhetstjenester",
+      "content": "Virksomhetstjenester kan bare tilbys av fysiske og juridiske personer som er autorisert av Finanstilsynet. Autorisasjon gis etter søknad. Autorisasjon fra Finanstilsynet er likevel ikke nødvendig for advokat, autorisert regnskapsfører, autorisert regnskapsførerselskap, statsautorisert og registrert revisor og godkjent revisjonsselskap.\nAutorisasjon skal ikke gis til fysiske personer som anses uegnet fordi vedkommende er dømt for straffbart forhold, og det straffbare forholdet gir grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte, eller i stilling eller ved utøvelsen av andre verv har utvist en slik adferd at det er grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte.\nFor juridiske personer som søker om autorisasjon til å tilby virksomhetstjenester, gjelder tilsvarende krav til egnethet som nevnt i annet ledd, for reelle rettighetshavere, styremedlemmer, daglig leder og andre personer i den faktiske ledelsen av virksomheten. Ved endring i posisjoner som nevnt i første punktum, skal det gis skriftlig melding til Finanstilsynet.\nVed søknad om tillatelse og melding om endring skal det legges frem ordinær politiattest etter politiregisterloven § 40.\nDepartementet kan i forskrift gi nærmere regler om autorisasjonsordningen.\n0 Tilføyd ved lov 16 juni 2017 nr. 52 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 784).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26a",
+        "source_heading": "§ 26 a."
+      }
+    },
+    {
+      "provision_ref": "6:26 b",
+      "chapter": "6",
+      "section": "26 b",
+      "title": "Tilbakekall av autorisasjon",
+      "content": "Finanstilsynet kan tilbakekalle autorisasjon etter § 26 a dersom vilkårene for autorisasjon ikke lenger er oppfylt.\n0 Tilføyd ved lov 16 juni 2017 nr. 52 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 784).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26b",
+        "source_heading": "§ 26 b."
+      }
+    },
+    {
+      "provision_ref": "7:27",
+      "chapter": "7",
+      "section": "27",
+      "title": "Pålegg og tvangstiltak",
+      "content": "Tilsynsorgan kan gi den rapporteringspliktige​1 pålegg om at forhold i strid med denne lov eller bestemmelser gitt i medhold av loven, skal opphøre. Tilsynsorgan kan sette en frist for at forholdene bringes i samsvar med pålegget.\nDersom den rapporteringspliktige​1 ikke etterkommer pålegg etter første ledd, kan tilsynsorgan ilegge tvangsmulkt. Tvangsmulkten kan ilegges i form av engangsmulkt eller løpende mulkt. Ilagt mulkt er tvangsgrunnlag for utlegg.​2\nDepartementet kan i forskrift fastsette nærmere regler om fastsettelse av tvangsmulkt, herunder mulktens størrelse.\n1 Jf. § 2 nr. 1.\n2 Jf. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "7:28",
+      "chapter": "7",
+      "section": "28",
+      "title": "Straff",
+      "content": "Med bøter straffes den som forsettlig​1 eller grovt uaktsomt​2 overtrer denne lovs §§ 5, 6, 7, 8, 15, 17, 18, 22 eller 26 a eller forskrifter gitt i medhold av disse bestemmelsene.\nVed særlig skjerpende omstendigheter kan fengsel inntil 1 år anvendes.\n0 Endret ved lover 19 juni 2015 nr. 65 (ikr. 1 okt 2015), 16 juni 2017 nr. 52 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 784).\n1 Jf. strl. § 22.\n2 Jf. strl. § 23 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "7:29",
+      "chapter": "7",
+      "section": "29",
+      "title": "Økokrims håndtering av opplysninger",
+      "content": "Opplysninger som Økokrim mottar etter § 18 skal slettes senest fem år etter at opplysningene ble registrert, med mindre det i dette tidsrommet er registrert nye opplysninger eller det er foretatt etterforsknings- eller rettergangsskritt mot den registrerte.\nDersom Økokrims undersøkelser viser at det ikke foreligger en straffbar handling, skal opplysningene slettes snarest mulig.\nDepartementet kan i forskrift fastsette nærmere regler om Økokrims og politiets saksbehandling i tilknytning til mottatte rapporter, herunder sletting av opplysninger.\n1 Jf. § 31 (1) nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "7:30",
+      "chapter": "7",
+      "section": "30",
+      "title": "Utveksling av opplysninger for bekjempelse av terrorhandlinger mv.",
+      "content": "Økokrim kan gi opplysninger som Økokrim mottar etter § 18, til andre offentlige myndigheter enn politiet som har oppgaver knyttet til forebygging av forhold som rammes av straffeloven​1 §§ 131 til 136 a.\nOpplysninger som Økokrim mottar etter bestemmelsene i denne lov, kan Økokrim gi videre til skatteetaten og toll- og avgiftsetaten til bruk i deres arbeid med skatt, avgift og toll.\n0 Endret ved lover 11 des 2009 nr. 127, 21 juni 2013 nr. 85 (ikr. 21 juni 2013 iflg. res. 21 juni 2013 nr. 687), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Lov 20 mai 2005 nr. 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "7:31",
+      "chapter": "7",
+      "section": "31",
+      "title": "Kontrollutvalget for tiltak mot hvitvasking",
+      "content": "Kontrollutvalget for tiltak mot hvitvasking (Kontrollutvalget) skal føre kontroll med:\n1. Økokrims behandling av opplysninger mottatt etter § 18,\n2. Økokrims pålegg og godkjenninger etter § 19 første ledd, og\n3. Økokrims håndtering av opplysninger etter § 29.\nKontrollutvalget skal bestå av minst tre medlemmer som oppnevnes av Kongen. Dessuten oppnevnes ett eller flere varamedlemmer. Lederen for utvalget skal oppfylle de krav som stilles til høyesterettsdommere.​1 Kontrollutvalgets medlemmer har taushetsplikt​2 om det de får vite i utøvelsen av sitt verv.\nØkokrim skal gi Kontrollutvalget de opplysninger, dokumenter mv. som Kontrollutvalget finner nødvendig for sin kontroll. Når Kontrollutvalget krever det, har Økokrims tjenestemenn plikt til å forklare seg overfor Kontrollutvalget uten hensyn til taushetsplikt.\nDepartementet kan i forskrift fastsette nærmere regler om oppgavene og saksbehandlingen til Kontrollutvalget.\n1 Jf. dl. § 54.\n2 Jf. strl. § 209.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "7:32",
+      "chapter": "7",
+      "section": "32",
+      "title": "Opplysninger som skal følge en transaksjon i betalingskjeden mv.",
+      "content": "Departementet kan i forskrift fastsette regler om hvilke opplysninger om avsender som skal følge en transaksjon i betalingskjeden, samt regler om betalingsformidleres opplysnings- og kontrollplikter i forbindelse med slike transaksjoner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "7:33",
+      "chapter": "7",
+      "section": "33",
+      "title": "Personer eller foretak med tilknytning til land eller områder som ikke har gjennomført tilfredsstillende tiltak",
+      "content": "Departementet kan i forskrift fastsette særskilte regler om rapportering av transaksjoner med eller for personer eller foretak som har tilknytning til land eller områder som ikke har gjennomført tilfredsstillende tiltak mot handlinger som beskrevet i straffeloven​1 §§ 332, 335, 337, 340 og 135 eller mot finansiering som beskrevet i straffeloven § 136 a. Departementet kan videre i forskrift fastsette særskilte regler om forbud mot eller restriksjoner i rapporteringspliktiges adgang til å etablere kundeforhold med eller foreta transaksjoner med eller for personer eller foretak som har tilknytning til land eller områder som ikke har gjennomført tilfredsstillende tiltak mot handlinger som beskrevet i straffeloven §§ 332, 335, 337, 340 og 135 eller mot finansiering som beskrevet i straffeloven § 136 a.\n0 Endret ved lover 20 juni 2014 nr. 29 (ikr. 1 juli 2014 iflg. vedtak 26 juni 2014 nr. 866). 19 juni 2015 nr. 65 (ikr. 1 okt 2015),\n1 Lov 20 mai 2005 nr. 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "8:34",
+      "chapter": "8",
+      "section": "34",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.​1\nPlikt til avvikling av kundeforhold etter § 10 første ledd gjelder kun for kundeforhold som er etablert etter lovens ikrafttredelse.\n1 Fra 15 apr 2009 iflg. res. 6 mars 2009 nr. 269.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "8:35",
+      "chapter": "8",
+      "section": "35",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Lovens formål er å forebygge og avdekke transaksjoner med tilknytning til utbytte av straffbare handlinger​1 eller med tilknytning til terrorhandlinger.​2\n1 Jf. strl. §§ 332 til 340.\n2 Jf. strl. §§ 131 til 138.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjoner",
+      "content": "I denne lov forstås med:\n1. rapporteringspliktige: personer som nevnt i § 4,\n2. transaksjon: enhver overføring, formidling, ombytting eller plassering av formuesgoder,\n3. reelle rettighetshavere: fysiske personer som i siste instans eier eller kontrollerer en kunde eller som en transaksjon gjennomføres på vegne av. En fysisk person skal i alle tilfelle regnes som reell rettighetshaver dersom vedkommende:\na. direkte eller indirekte eier eller kontrollerer mer enn 25 prosent av eierandelene eller stemmene i et selskap, unntatt selskap som har finansielle instrumenter​1 opptatt til notering på et regulert marked i EØS-stat eller er underlagt informasjonsplikt tilsvarende det som gjelder ved notering på et regulert marked i EØS-stat,\nb. utøver kontroll over ledelsen av en juridisk person på annen måte enn nevnt i bokstav a,\nc. ifølge vedtekter eller på annet grunnlag skal motta 25 prosent eller mer av formuesgodene i en stiftelse, et fond eller en tilsvarende juridisk person eller formuesmasse,\nd. har hovedinteressen av opprettelsen eller forvaltningen av en stiftelse,​2 et fond eller en tilsvarende juridisk person eller formuesmasse, eller\ne. utøver kontroll over mer enn 25 prosent av formuesgodene i en stiftelse, et fond eller en lignende juridisk person eller formuesmasse.\n4. tilbydere av virksomhetstjenester: fysiske og juridiske personer som i næring tilbyr en eller flere av følgende tjenester til tredjepersoner:\na. å opprette selskaper og andre juridiske personer,\nb. å være styremedlem, daglig leder eller deltaker i et selskap, eller å inneha lignende funksjoner i andre juridiske personer,\nc. å stille til rådighet forretningsadresser, administrative adresser eller postadresser og tilknyttede tjenester for selskaper og andre juridiske personer eller juridiske arrangementer,\nd. å forvalte utenlandske truster eller tilsvarende juridiske arrangementer,\ne. å opptre som aksjeeiere for tredjeperson, med mindre denne er et selskap som har finansielle instrumenter​1 opptatt til notering på et regulert marked i EØS-stat eller er underlagt informasjonsplikt tilsvarende det som gjelder ved notering på et regulert marked i EØS-stat, eller\nf. å sørge for at andre personer opptrer i posisjoner som nevnt i bokstav b, d og e.\n0 Endret ved lov 16 juni 2017 nr. 52 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 784).\n1 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n2 Jf. lov 15 juni 2001 nr. 59.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Geografisk virkeområde",
+      "content": "Loven gjelder for rapporteringspliktige​1 som er etablert i Norge, herunder filialer av utenlandske foretak.\nLoven gjelder for Svalbard​2 og Jan Mayen.​3 Departementet kan i forskrift fastsette at deler av loven ikke skal gjelde på Svalbard og Jan Mayen og fastsette særlige regler for disse områdene for fremme av lovens formål.\n1 Jf. § 2 nr. 1.\n2 Se lov 17 juli 1925 nr. 11 § 1 (2).\n3 Se lov 27 feb 1930 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Rapporteringspliktige",
+      "content": "Loven gjelder for følgende juridiske personer:\n1. finansinstitusjoner,​1\n2. Norges Bank,​2\n3. e-pengeforetak,​3\n4. foretak som driver valutavirksomhet,​4\n5. betalingsforetak og andre som har rett til å yte betalingstjenester,​5\n6. verdipapirforetak,​6\n7. forvaltningsselskaper for verdipapirfond,​7\n8. forsikringsselskaper,​8\n9. foretak som driver forsikringsformidling som ikke er gjenforsikringsmegling,​9\n10. tilbyder av posttjenester​10 ved formidling av verdisendinger,\n11. verdipapirregistre,​11\n12. foretak som driver depotvirksomhet,​12\n13. forvaltere av alternative investeringsfond.​13\nLoven gjelder også for følgende juridiske og fysiske personer i utøvelsen av deres yrke:\n1. statsautoriserte og registrerte revisorer,​14 samt revisor som er ansvarlig for revisjon av regnskapet for kommune eller fylkeskommune, samt for kommunalt og fylkeskommunalt foretak, i samsvar med nærmere bestemmelser fastsatt av departementet, jf. lov om kommuner og fylkeskommuner § 78 nr. 8,\n2. autoriserte regnskapsførere,​15\n3. advokater​16 og andre som ervervsmessig eller stadig yter selvstendig juridisk bistand,​17 når de bistår eller opptrer på vegne av klienter ved planlegging eller utføring av finansielle transaksjoner eller transaksjoner som gjelder fast eiendom eller gjenstander med verdi over 40.000 kroner,\n4. eiendomsmeglere​18 og boligbyggelag​19 når det drives eiendomsmegling,\n5. foretak som mot vederlag tilbyr tilsvarende tjenester som nevnt i nr. 1 til 4,\n6. tilbydere av virksomhetstjenester,\n7. personer med begrenset tillatelse til å yte betalingstjenester.\nLoven gjelder også for foretak og personer som utfører tjenester på vegne av eller for personer som nevnt i første og annet ledd.\nNår advokater​14 opptrer som bostyrere,​20 gjelder bestemmelsene i §§ 17, 18, 20, 21, 27 og 28.\n§ 4 a gjelder for forhandlere av gjenstander. Departementet kan i forskrift la enkelte eller flere av bestemmelsene i loven få anvendelse for forhandlere av gjenstander ved transaksjoner over bestemte beløpsgrenser ved bruk av nærmere angitte typer betalingsmiddel.\nDepartementet kan i forskrift fastsette unntak fra enkelte eller flere av bestemmelsene i loven for visse rapporteringspliktige.\nDepartementet kan i forskrift fastsette regler som nærmere angir hvem som er omfattet av § 4 første og annet ledd og regler som gir loven anvendelse for foretak som driver spillvirksomhet,​21 inkassoforetak,​22 pensjonskasser​23 og formidlere av andeler i ansvarlige selskaper​24 og kommandittselskaper.​25\n0 Endret ved lover 4 juni 2010 nr. 20 (ikr. 1 juli 2010 iflg. res. 4 juni 2010 nr. 771), 8 feb 2013 nr. 7 (ikr. 1 juli 2013 iflg. res. 8 feb 2013 nr. 144), 20 juni 2014 nr. 28 (ikr. 1 juli 2014 iflg. res. 20 juni 2014 nr. 785), 4 sep 2015 nr. 91 (ikr. 1 jan 2016 iflg. res. 4 sep 2015 nr. 1027), 16 juni 2017 nr. 52 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 784).\n1 Se lov 10 apr 2015 nr. 17 § 1-5 og § 2-1.\n2 Se lov 24 mai 1985 nr. 28.\n3 Se lov 10 apr 2015 nr. 17 § 2-11.\n4 Se lov 10 apr 2015 nr. 17 § 2-5.\n5 Se lov 10 apr 2015 nr. 17 § 2-3 og § 2-10.\n6 Se lov 29 juni 2007 nr. 75 § 2-1 og § 2-3.\n7 Se lov 25 nov 2011 nr. 44 kap. 2.\n8 Se lov 10 juni 2005 nr. 44.\n9 Se lov 10 juni 2005 nr. 41.\n10 Se lov 4 sep 2015 nr. 91 § 4 nr. 7.\n11 Se lov 5 juli 2002 nr. 64.\n12 Jf. lov 25 nov 2011 nr. 44 kap. 10.\n13 Se lov 20 juni 2014 nr. 28.\n14 Se lov 15 jan 1999 nr. 2 kap. 3\n15 Se lov 18 juni 1993 nr. 109.\n16 Se dl. § 220.\n17 Se dl. §§ 218 til 219 b.\n18 Se lov 29 juni 2007 nr. 73.\n19 Se lov 29 juni 2007 nr. 73 § 2-4 nr. 2.\n20 Jf. lov 21 feb 1930 kap. 13 A og kkl. § 77.\n21 Jf. lover 1 juli 1927 nr. 3, 28 aug 1992 nr. 103 og 24 feb 1995 nr. 11.\n22 Jf. lov 13 mai 1988 nr. 26.\n23 Se lover 28 juli 1949 nr. 26 og 10 juni 2005 nr. 44 del III.\n24 Jf. lov 21 juni 1985 nr. 83.\n25 Jf. lov 21 juni 1985 nr. 83 kap. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:4 a",
+      "chapter": "1",
+      "section": "4 a",
+      "title": "Beløpsgrense for kontantvederlag. Kontroll",
+      "content": "Forhandlere av gjenstander kan ikke motta vederlag i kontanter på 40 000 kroner eller mer. Dette gjelder også der oppgjøret gjennomføres i flere operasjoner.\nSkattekontoret fører kontroll med at første ledd blir overholdt. Ved kontrollen gjelder skatteforvaltningsloven §§ 10-1, 10-2, 10-4, 10-10, 10-11, 10-12, 10-13 og 10-14 tilsvarende så langt de passer.\n0 Tilføyd ved lov 16 juni 2017 nr. 52 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 784).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4a",
+        "source_heading": "§ 4 a."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Risikobasert kundekontroll og løpende oppfølging",
+      "content": "Rapporteringspliktige​1 skal foreta kundekontroll etter §§ 6 til 13 og løpende oppfølging etter § 14. Kundekontroll og løpende oppfølging skal foretas på grunnlag av en vurdering av risiko for transaksjoner med tilknytning til utbytte av straffbare handlinger eller forhold som rammes av straffeloven​2 §§ 131 til 136 a, der risikoen vurderes ut fra type kunde, kundeforhold, produkt eller transaksjon.\nRapporteringspliktige​1 skal kunne påvise at omfanget av utførte tiltak er tilpasset den aktuelle risiko.\n0 Endret ved lover 21 juni 2013 nr. 85 (ikr. 21 juni 2013 iflg. res. 21 juni 2013 nr. 687), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Jf. § 2 nr. 1.\n2 Lov 20 mai 2005 nr. 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Plikt til å foreta kundekontroll",
+      "content": "Rapporteringspliktige​1 skal foreta kundekontroll ved\n1. etablering av kundeforhold,\n2. transaksjon som gjelder 100 000 norske kroner eller mer, for kunde som den rapporteringspliktige ikke har et etablert kundeforhold til,\n3. mistanke om at en transaksjon har tilknytning til utbytte av straffbar handling eller forhold som rammes av straffeloven​2 §§ 131 til 136 a, eller\n4. tvil om hvorvidt tidligere innhentede opplysninger om kunden er korrekte eller tilstrekkelige.\nBeløpsgrensene i første ledd nr. 2 beregnes samlet for transaksjoner som gjennomføres i flere operasjoner som ser ut til å kunne ha sammenheng med hverandre. Dersom beløpet ikke er kjent når transaksjonen gjennomføres, skal kundekontrollen foretas så snart den rapporteringspliktige blir kjent med at beløpsgrensen er oversteget.\nDepartementet kan i forskrift fastsette nærmere regler om når kundeforhold skal anses etablert.\n0 Endret ved lover 21 juni 2013 nr. 85 (ikr. 21 juni 2013 iflg. res. 21 juni 2013 nr. 687), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Jf. § 2 nr. 1.\n2 Lov 20 mai 2005 nr. 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Gjennomføring av kundekontroll",
+      "content": "Kundekontroll som nevnt i § 6 skal omfatte\n1. registrering av opplysninger som nevnt i § 8,\n2. bekreftelse av kundens identitet på grunnlag av gyldig legitimasjon,\n3. bekreftelse av identiteten til reelle rettighetshavere på grunnlag av egnede tiltak, og\n4. innhenting av opplysninger om kundeforholdets formål og tilsiktede art.\nDersom kunden er en juridisk person, skal identiteten til den som handler på vegne av kunden bekreftes på grunnlag av gyldig legitimasjon. Videre skal det dokumenteres, ved firmaattest,​2 stiftelsesdokument,​3 skriftlig fullmakt​4 eller lignende, at vedkommende er berettiget til å representere kunden utad.\nDersom andre enn kunden er gitt disposisjonsrett over en konto eller et depot, eller er gitt rett til å gjennomføre transaksjonen, skal vedkommendes identitet bekreftes på grunnlag av gyldig legitimasjon.\nDersom bekreftelse av en fysisk persons identitet skal skje på grunnlag av fysisk legitimasjon uten vedkommendes personlige fremmøte, skal det fremlegges ytterligere dokumentasjon som bekrefter vedkommendes identitet.\nBekreftelse av fysiske personers identitet etter første ledd nr. 2, annet ledd og tredje ledd kan foretas på annet grunnlag enn gyldig legitimasjon dersom den rapporteringspliktige er sikker på vedkommendes identitet.\nDepartementet kan i forskrift fastsette nærmere regler om gjennomføring av kundekontroll, herunder hva som anses som gyldig legitimasjon.\n1 Jf. § 11.\n2 Jf. lov 21 juni 1985 nr. 78.\n3 Jf. asl. kap. 2 og asal. kap. 2.\n4 Jf. lov 21 juni 1985 nr. 80.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Registrering av opplysninger",
+      "content": "Rapporteringspliktige​1 skal registrere følgende opplysninger om kunder:\n1. fullt navn eller foretaksnavn,​2\n2. fødselsnummer,​3 organisasjonsnummer,​4 D-nummer​3 eller, dersom kunden ikke har slikt nummer, annen entydig identitetskode,\n3. fast adresse, og\n4. referanse til legitimasjon som er brukt for å bekrefte kundens identitet.\nPlikten til å registrere kundens faste adresse etter første ledd nr. 3 gjelder ikke dersom folkeregisteret har vedtatt at kundens adresse skal være fortrolig eller strengt fortrolig.​5\nFor fysiske personer som ikke har fått tildelt norsk fødselsnummer​3 eller D-nummer,​3 skal det registreres fødselsdato, fødested, kjønn og statsborgerskap.​6 Dersom den rapporteringspliktige er kjent med at kunden har to statsborgerskap, skal dette registreres.\nFor juridiske personer som ikke er registrert i offentlig register, skal det i tillegg registreres opplysninger om organisasjonsform, stiftelsestidspunkt samt daglig leder, forretningsfører, innehaver eller tilsvarende kontaktperson. Dersom kontaktperson er en juridisk person, skal det også oppgis en fysisk person som kontaktperson og registreres opplysninger som nevnt i første ledd om vedkommende.\nRapporteringspliktige​1 skal registrere opplysninger som entydig identifiserer reelle rettighetshavere.\n1 Jf. § 2 nr. 1.\n2 Jf. lov 21 juni 1985 nr. 79.\n3 Jf. lov 9 des 2016 nr. 88 § 2-2.\n4 Jf. lov 3 juni 1994 nr. 15 § 5.\n5 Jf. lov 9 des 2016 nr. 88 § 10-2.\n6 Jf. lov 10 juni 2005 nr. 51.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Tidspunkt for kundekontroll",
+      "content": "Kundekontroll skal gjennomføres før etablering av kundeforhold eller utføring av transaksjon.\nFra første ledd gjelder følgende unntak:\n1. Bekreftelse av identiteten til kunder og reelle rettighetshavere skal kunne foretas under etablering av kundeforhold, dersom etableringen av kundeforholdet er nødvendig for ikke å hindre den alminnelige forretningsdrift og det er liten risiko for transaksjoner med tilknytning til en straffbar handling eller forhold som rammes av straffeloven​1 §§ 131 til 136 a.\n2. Bekreftelse av identiteten til den begunstigede etter en livsforsikringspolise kan foretas etter tegning av polisen, forutsatt at bekreftelse av identiteten foretas før utbetalingstidspunktet eller det tidspunkt den begunstigede utøver sine rettigheter etter polisen.\n3. Bekreftelse av identiteten til kunden og reelle rettighetshavere kan foretas etter åpning av bankkonto, forutsatt at det finnes foranstaltninger som sikrer at transaksjoner knyttet til kontoen ikke kan utføres av kunden eller på dennes vegne før bekreftelse av identiteten er foretatt.\n0 Endret ved lover 21 juni 2013 nr. 85 (ikr. 21 juni 2013 iflg. res. 21 juni 2013 nr. 687), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Lov 20 mai 2005 nr. 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Følger av at kundekontroll ikke kan gjennomføres",
+      "content": "Dersom kundekontroll​1 ikke kan gjennomføres, skal rapporteringspliktige​2 ikke etablere kundeforhold eller utføre transaksjonen. Et etablert kundeforhold skal avvikles hvis fortsettelse av kundeforholdet medfører risiko for transaksjoner med tilknytning til utbytte av straffbare handlinger eller forhold som rammes av straffeloven​3 §§ 131 til 136 a.\nFørste ledd gjelder ikke når advokater og andre som ervervsmessig eller stadig yter selvstendig juridisk bistand er i ferd med å fastslå en klients rettsstilling eller bistår klienten i forbindelse med rettergang.\n0 Endret ved lover 21 juni 2013 nr. 85 (ikr. 21 juni 2013 iflg. res. 21 juni 2013 nr. 687), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Jf. § 34 (2).\n2 Jf. § 2 nr. 1.\n3 Lov 20 mai 2005 nr. 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Kundekontroll utført av tredjeparter",
+      "content": "For gjennomføring av kundekontrolltiltak som nevnt i § 7 nr. 2 til 4 kan rapporteringspliktige​1 legge til grunn tiltak som er utført av følgende tredjeparter:\n1. finansinstitusjoner,​2\n2. verdipapirforetak,​3\n3. forvaltningsselskaper for verdipapirfond,​4\n4. forsikringsselskaper,​5\n5. foretak som driver forsikringsformidling som ikke er gjenforsikringsmegling,​6\n6. verdipapirregistre,​7\n7. statsautoriserte og registrerte revisorer,​8\n8. autoriserte regnskapsførere,​9\n9. advokater​10 og andre som ervervsmessig eller stadig yter selvstendig juridisk bistand,​11 når de bistår eller opptrer på vegne av klienter ved planlegging eller utføring av finansielle transaksjoner, transaksjoner som gjelder fast eiendom eller transaksjoner som gjelder gjenstander med verdi over 40 000 kroner,\n10. eiendomsmeglere​12 og boligbyggelag når det drives eiendomsmegling,​13 eller\n11. tilsvarende juridiske og fysiske personer som nevnt i nr. 1 til 4 og 6 til 10 fra annen stat, såfremt disse er underlagt lovmessig registreringsplikt og regler om kundekontroll, oppbevaring og tilsyn som svarer til reglene i denne lov.\nAdgangen til å legge til grunn kundekontrolltiltak utført av tredjeparter i medhold av første ledd, medfører ikke unntak fra den rapporteringspliktiges\n1. plikt til å registrere opplysninger som nevnt i § 8 og oppbevare opplysninger og dokumenter som nevnt i § 22, eller\n2. ansvar for at kundekontroll gjennomføres i samsvar med denne lov og forskrifter gitt med hjemmel i denne lov.\nRapporteringspliktige kan legge til grunn kundekontroll foretatt av tredjeparter som ikke er etablert i Norge, selv om bekreftelse av kundens identitet, jf. § 7 første ledd nr. 2, er foretatt på annet grunnlag enn gyldig legitimasjon.\nTredjepart skal stille de opplysninger vedkommende har samlet inn for gjennomføring av tiltak som nevnt i § 7 nr. 2 til 4, til rådighet for den rapporteringspliktige som kunden henvises til. Tredjepart skal etter anmodning, omgående videresende kopier av identifikasjons- og kontrollopplysninger og annen relevant dokumentasjon om kundens eller den reelle rettighetshavers identitet, til den rapporteringspliktige. Utlevering av opplysninger og dokumenter som er nødvendige for at den rapporteringspliktige skal kunne oppfylle sine plikter etter §§ 5 annet ledd, 8 eller 22, medfører ikke brudd på lovmessig taushetsplikt når kunden informeres om at opplysningene utleveres.\nDepartementet kan i forskrift fastsette unntak fra adgangen til å legge til grunn kundekontroll utført av tredjeparter.\n1 Jf. § 2 nr. 1.\n2 Se lov 10 apr 2015 nr. 17 § 1-5 og § 2-1.\n3 Se lov 29 juni 2007 nr. 75 § 2-1 og § 2-3.\n4 Se lov 25 nov 2011 nr. 44 kap. 2.\n5 Se lov 10 juni 2005 nr. 44.\n6 Se lov 10 juni 2005 nr. 41.\n7 Se lov 5 juli 2002 nr. 64.\n8 Se lov 15 jan 1999 nr. 2 kap. 3.\n9 Se lov 18 juni 1993 nr. 109.\n10 Se dl. § 220.\n11 Se dl. §§ 218 til 219 b.\n12 Se lov 29 juni 2007 nr. 73.\n13 Se lov 29 juni 2007 nr. 73 § 2-4 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Utkontraktering av gjennomføring av kundekontroll",
+      "content": "Rapporteringspliktige​1 kan inngå skriftlige avtaler med oppdragstakere om utkontraktering av gjennomføring av kundekontroll.\nFølgende juridiske og fysiske personer kan fungere som oppdragstakere etter første ledd:\n1. rapporteringspliktige, med unntak av tilbydere av virksomhetstjenester som nevnt i § 4 annet ledd nr. 6, og\n2. leveringspliktig tilbyder av posttjenester.​1\nDen rapporteringspliktige​2 har ansvar for at kundekontroll gjennomføres i samsvar med gjeldende lov og forskrifter og at det etableres forsvarlige rutiner og treffes nødvendige tiltak etter § 23.\nUtlevering av opplysninger og dokumenter, som oppdragstaker har innhentet på grunnlag av utkontraktering av gjennomføring av kundekontroll, som er nødvendig for at den rapporteringspliktige skal kunne oppfylle sine plikter etter §§ 5 annet ledd, 8 og 22 medfører ikke brudd på lovmessig taushetsplikt.\nDepartementet kan i forskrift fastsette at andre enn de som er omfattet av annet ledd kan fungere som oppdragstakere.\n0 Endret ved lover 4 sep 2015 nr. 91 (ikr. 1 jan 2016 iflg. res. 4 sep 2015 nr. 1027), 16 juni 2017 nr. 52 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 784).\n1 Jf. lov 4 sep 2015 nr. 91 § 4 nr. 7.\n2 Jf. § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "title": "Forenklet kundekontroll",
+      "content": "Departementet kan i forskrift fastsette unntak fra plikt til å foreta kundekontroll etter § 6 første ledd nr. 1, 2 og 4 og annet ledd. Rapporteringspliktige skal før anvendelse av unntak innhente tilstrekkelige opplysninger til å fastslå at forholdet dekkes av den aktuelle unntaksbestemmelse.\nFørste ledd medfører ikke unntak fra plikt til å registrere opplysninger etter § 8 første til tredje ledd ved opprettelse av konto.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "title": "Løpende oppfølging",
+      "content": "Rapporteringspliktige​1 skal løpende følge opp eksisterende kundeforhold, herunder påse at transaksjoner som den rapporteringspliktige blir kjent med er i samsvar med den rapporteringspliktiges kjennskap til kunden og dens virksomhet. Rapporteringspliktige skal oppdatere dokumentasjon og opplysninger om kunder.\n1 Jf. § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "title": "Forsterkede kontrolltiltak",
+      "content": "I situasjoner som etter sin art innebærer høy risiko for transaksjoner med tilknytning til utbytte av straffbare handlinger eller forhold som rammes av straffeloven​1 §§ 131 til 136 a, skal rapporteringspliktige​2 ut fra en risikovurdering anvende andre kontrolltiltak i tillegg til de tiltak som følger av §§ 5 til 14.\nRapporteringspliktige skal ha til rådighet egnede kontrolltiltak for å fastslå om kunden er en politisk eksponert person. Rapporteringspliktige skal, ved kundeforhold til eller transaksjoner for slike personer\n1. påse at beslutningstaker innhenter samtykke fra overordnet før etablering av kundeforhold,\n2. treffe egnede tiltak for å fastslå opprinnelsen til kundens formue og den kapital som inngår i kundeforholdet eller transaksjonen, og\n3. føre forsterket løpende oppfølging med kundeforholdet.\nMed politisk eksponert person som nevnt i annet ledd menes fysisk person som\n1. innehar eller i løpet av det siste året har innehatt høytstående offentlig verv eller stilling i en annen stat enn Norge,\n2. er nært familiemedlem til person som nevnt i nr. 1, eller\n3. er kjent medarbeider til person som nevnt i nr. 1.\nRapporteringspliktige​2 skal vie særlig oppmerksomhet til produkter og transaksjoner som fremmer anonymitet, og om nødvendig iverksette tiltak for å forebygge transaksjoner med tilknytning til utbytte av straffbare handlinger eller forhold som rammes av straffeloven​1 §§ 131 til 136 a.\nDepartementet kan i forskrift fastsette nærmere regler om hvilke situasjoner som skal omfattes av første ledd og hvilke kontrolltiltak som i slike tilfeller skal anvendes. Departementet kan i forskrift fastsette nærmere regler om hvem som skal anses som politisk eksponerte personer.\n0 Endret ved lover 21 juni 2013 nr. 85 (ikr. 21 juni 2013 iflg. res. 21 juni 2013 nr. 687), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Lov 20 mai 2005 nr. 28.\n2 Jf. § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "2:16",
+      "chapter": "2",
+      "section": "16",
+      "title": "Korrespondentbankforbindelser",
+      "content": "Ved bruk av en institusjon fra stat utenfor EØS som korrespondentbank, skal kredittinstitusjoner\n1. innhente tilstrekkelige opplysninger om korrespondentinstitusjonen til fullt ut å forstå arten av dens virksomhet og på grunnlag av offentlig tilgjengelige opplysninger fastslå institusjonens omdømme og tilsynets kvalitet,\n2. vurdere korrespondentinstitusjonens kontrolltiltak for forebyggelse og bekjempelse av handlinger som beskrevet i straffeloven​1 §§ 332, 335, 337, 340 og 135.\n3. påse at beslutningstaker innhenter samtykke fra overordnet før etablering av nye korrespondentbankforbindelser,\n4. dokumentere den enkelte institusjons ansvar, og\n5. i forbindelse med oppgjørskonti, forsikre seg om at korrespondentinstitusjonen\na. har verifisert identiteten til, og fører løpende oppfølging av, kunder som har direkte adgang til konti hos kredittinstitusjonen, og\nb. på anmodning kan fremlegge relevante opplysninger fra kundekontrollen til kredittinstitusjonen.\nKredittinstitusjoner skal ikke inngå eller opprettholde korrespondentbankforbindelse til tomme bankselskaper. Kredittinstitusjoner skal treffe egnede tiltak for å sikre at de ikke inngår eller opprettholder korrespondentbankforbindelser med kredittinstitusjoner som er kjent for å tillate at deres konti brukes av tomme bankselskaper.\nMed tomt bankselskap som nevnt i annet ledd menes en kredittinstitusjon som er opprettet i en stat der institusjonen ikke er fysisk til stede med en reell ledelse og administrasjon, og som ikke er tilknyttet et regulert finanskonsern.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Lov 20 mai 2005 nr. 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Undersøkelsesplikt",
+      "content": "Dersom rapporteringspliktige​1 har mistanke om at en transaksjon har tilknytning til utbytte av en straffbar handling eller forhold som rammes av straffeloven​2 §§ 131 til 136 a, skal det foretas nærmere undersøkelser for å få bekreftet eller avkreftet mistanken.​3\nRapporteringspliktige​1 skal skriftlig eller elektronisk registrere resultatene av undersøkelsene.\nDepartementet kan i forskrift fastsette nærmere regler om undersøkelsesplikt.\n0 Endret ved lover 21 juni 2013 nr. 85 (ikr. 21 juni 2013 iflg. res. 21 juni 2013 nr. 687), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Jf. § 2 nr. 1.\n2 Lov 20 mai 2005 nr. 28.\n3 Jf. §§ 20 (2) og 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Rapporteringsplikt",
+      "content": "Dersom undersøkelser som nevnt i § 17 ikke avkrefter mistanken, skal den rapporteringspliktige​2 av eget tiltak oversende opplysninger til Økokrim om den aktuelle transaksjonen og om de forhold som har medført mistanke. Den rapporteringspliktige skal på forespørsel gi Økokrim alle nødvendige opplysninger om transaksjonen og mistanken.\nAdvokater​3 og andre som ervervsmessig eller stadig yter rettshjelpvirksomhet​4 har ikke plikt til å rapportere om forhold som de har fått kjennskap til gjennom arbeidet med å fastslå klientens rettsstilling, eller om forhold som de har fått kjennskap til før, under eller etter en rettssak, når de forhold opplysningene omhandler har direkte tilknytning til rettstvisten. Tilsvarende gjelder for revisorer​5 og andre rapporteringspliktige når de bistår advokater eller andre som ervervsmessig eller stadig yter rettshjelpvirksomhet i arbeid som nevnt i første punktum.\nDepartementet kan i forskrift pålegge rapporteringspliktige​2 å overføre opplysninger til Økokrim elektronisk. Departementet kan i forskrift fastsette nærmere regler om rapporteringsplikten.\n1 Jf. §§ 21 og 29 og 30.\n2 Jf. § 2 nr. 1.\n3 Se dl. § 220.\n4 Se dl. §§ 218 til 219 b.\n5 Se lov 15 jan 1999 nr. 2 kap. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Gjennomføring av mistenkelige transaksjoner",
+      "content": "Rapporteringspliktige​2 skal ikke gjennomføre transaksjoner som medfører rapporteringsplikt som nevnt i § 18 før Økokrim er underrettet. Økokrim kan i særlige tilfeller gi pålegg om ikke å gjennomføre transaksjoner.\nEn transaksjon kan likevel gjennomføres før opplysninger er oversendt Økokrim, dersom unnlatelse av å gjennomføre transaksjonen kan vanskeliggjøre Økokrims undersøkelser eller eventuell etterforskning eller det ikke er mulig å la være å gjennomføre transaksjonen. Opplysninger skal i så fall oversendes Økokrim umiddelbart etter at transaksjonen er gjennomført.\n1 Jf. § 31 (1) nr. 2.\n2 Jf. § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "title": "Forholdet til taushetsplikt",
+      "content": "Meddelelse av opplysninger til Økokrim i god tro etter § 18 medfører ikke brudd på taushetsplikt og gir ikke grunnlag for erstatningsansvar eller straffansvar.\nFinansinstitusjoner​1 og forsikringsselskaper​2 kan uten hinder av taushetsplikt utveksle nødvendige kundeopplysninger seg imellom når det anses nødvendig som ledd i undersøkelser som nevnt i § 17.​3\n1 Se lov 10 apr 2015 nr. 17 § 1-5 og § 2-1.\n2 Se lov 10 juni 2005 nr. 44.\n3 Jf. § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "title": "Forbud mot å avsløre undersøkelser, rapportering eller etterforskning",
+      "content": "Kunder eller tredjepersoner skal ikke gjøres kjent med at det foretas undersøkelser som nevnt i § 17, at det er gitt opplysninger som nevnt i § 18 eller at det er iverksatt etterforskning.\nFørste ledd er ikke til hinder for utveksling av opplysninger som nevnt i § 20 annet ledd.\nFørste ledd er ikke til hinder for at rapporteringspliktige som nevnt i § 4 annet ledd nr. 1 til 3 forsøker å få en klient til å avstå fra å begå en ulovlig handling.\nDepartementet kan i forskrift fastsette unntak fra første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Oppbevaring av opplysninger og dokumenter",
+      "content": "Rapporteringspliktige​1 skal oppbevare kopier av dokumenter benyttet i forbindelse med kundekontroll som nevnt i § 7, samt registrerte opplysninger som nevnt i § 8, i fem år etter at kundeforholdet er avsluttet eller transaksjonen er gjennomført, med mindre lengre frister følger av annen lov eller forskrift. Dersom det er benyttet kvalifisert sertifikat, skal sertifikatets identifikasjonskode og opplysninger om sertifikatutstederens identitet oppbevares. Det skal ved bruk av kontonummer eller på annen måte registreres en entydig forbindelse mellom kundeforhold og registrerte opplysninger som nevnt i § 8.\nRapporteringspliktige skal oppbevare dokumenter i tilknytning til transaksjoner som nevnt i § 17 i minst fem år etter at transaksjonen er gjennomført.\nDokumenter og opplysninger som nevnt i første og annet ledd skal oppbevares på en betryggende måte, beskyttes mot uautorisert tilgang fra uvedkommende og slettes innen ett år etter at oppbevaringsplikten opphører. Personopplysningsloven​2 gjelder for rapporteringspliktiges oppbevaring av personopplysninger.\nDepartementet kan i forskrift fastsette nærmere regler om oppbevaringsmåte og sletting av opplysninger.\n1 Jf. § 2 nr. 1.\n2 Lov 15 juni 2018 nr. 38.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Kontroll- og kommunikasjonsrutiner",
+      "content": "Rapporteringspliktige​1 skal ha forsvarlige interne kontroll- og kommunikasjonsrutiner som sikrer oppfyllelse av plikter etter denne lov.\nRutinene skal være fastsatt på øverste nivå hos den rapporteringspliktige.​1 Det skal utpekes en person i ledelsen som skal ha et særskilt ansvar for å følge opp rutinene.\nRapporteringspliktige​1 skal treffe nødvendige tiltak for å sikre at ansatte og andre personer som utfører oppgaver på vegne av den rapporteringspliktige\n1. er kjent med de plikter som påligger den rapporteringspliktige etter denne lov,\n2. lærer å kjenne igjen transaksjoner som nevnt i § 17, og\n3. er kjent med den rapporteringspliktiges interne rutiner for håndtering av slike transaksjoner.\n1 Jf. § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Elektroniske overvåkningssystemer",
+      "content": "Finansinstitusjoner​1 skal etablere elektroniske overvåkningssystemer.\nDepartementet kan i forskrift pålegge andre rapporteringspliktige​2 å etablere elektroniske overvåkningssystemer og fastsette nærmere regler om slike systemer.\n1 Se lov 10 apr 2015 nr. 17 § 1-5 og § 2-1.\n2 Jf. § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Systemer for oversikt over kundeforhold",
+      "content": "Rapporteringspliktige​1 som nevnt i § 4 første ledd skal ha systemer som muliggjør raske og fullstendige svar på forespørsler fra Økokrim eller tilsynsmyndighet om hvorvidt de har eller i løpet av de siste fem år har hatt kundeforhold til konkrete personer og om kundeforholdets art.\n1 Jf. § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Filialer og datterselskaper i stater utenfor EØS",
+      "content": "Rapporteringspliktige som nevnt i § 4 første ledd skal påse at filialer og datterselskaper etablert i stater utenfor EØS\n1. er kjent med kontroll- og kommunikasjonsrutiner som beskrevet i § 23, og\n2. anvender tilsvarende tiltak for kundekontroll, løpende oppfølging og oppbevaring som beskrevet i kapittel 2 og 4.\nDersom lovgivningen i vedkommende stat ikke tillater anvendelse av tiltak som nevnt i første ledd nr. 2, skal den rapporteringspliktige\n1. informere tilsynsmyndigheten om dette, og\n2. iverksette andre tiltak som er egnet til å motvirke risikoen for transaksjoner med tilknytning til utbytte av straffbare handlinger eller forhold som beskrevet i straffeloven​1 §§ 131 til 136 a.\n0 Endret ved lover 21 juni 2013 nr. 85 (ikr. 21 juni 2013 iflg. res. 21 juni 2013 nr. 687), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Lov 20 mai 2005 nr. 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:26 a",
+      "chapter": "6",
+      "section": "26 a",
+      "title": "Krav om autorisasjon for tilbyder av virksomhetstjenester",
+      "content": "Virksomhetstjenester kan bare tilbys av fysiske og juridiske personer som er autorisert av Finanstilsynet. Autorisasjon gis etter søknad. Autorisasjon fra Finanstilsynet er likevel ikke nødvendig for advokat, autorisert regnskapsfører, autorisert regnskapsførerselskap, statsautorisert og registrert revisor og godkjent revisjonsselskap.\nAutorisasjon skal ikke gis til fysiske personer som anses uegnet fordi vedkommende er dømt for straffbart forhold, og det straffbare forholdet gir grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte, eller i stilling eller ved utøvelsen av andre verv har utvist en slik adferd at det er grunn til å anta at vedkommende ikke vil kunne ivareta stillingen eller vervet på en forsvarlig måte.\nFor juridiske personer som søker om autorisasjon til å tilby virksomhetstjenester, gjelder tilsvarende krav til egnethet som nevnt i annet ledd, for reelle rettighetshavere, styremedlemmer, daglig leder og andre personer i den faktiske ledelsen av virksomheten. Ved endring i posisjoner som nevnt i første punktum, skal det gis skriftlig melding til Finanstilsynet.\nVed søknad om tillatelse og melding om endring skal det legges frem ordinær politiattest etter politiregisterloven § 40.\nDepartementet kan i forskrift gi nærmere regler om autorisasjonsordningen.\n0 Tilføyd ved lov 16 juni 2017 nr. 52 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 784).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26a",
+        "source_heading": "§ 26 a."
+      }
+    },
+    {
+      "provision_ref": "6:26 b",
+      "chapter": "6",
+      "section": "26 b",
+      "title": "Tilbakekall av autorisasjon",
+      "content": "Finanstilsynet kan tilbakekalle autorisasjon etter § 26 a dersom vilkårene for autorisasjon ikke lenger er oppfylt.\n0 Tilføyd ved lov 16 juni 2017 nr. 52 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 784).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26b",
+        "source_heading": "§ 26 b."
+      }
+    },
+    {
+      "provision_ref": "7:27",
+      "chapter": "7",
+      "section": "27",
+      "title": "Pålegg og tvangstiltak",
+      "content": "Tilsynsorgan kan gi den rapporteringspliktige​1 pålegg om at forhold i strid med denne lov eller bestemmelser gitt i medhold av loven, skal opphøre. Tilsynsorgan kan sette en frist for at forholdene bringes i samsvar med pålegget.\nDersom den rapporteringspliktige​1 ikke etterkommer pålegg etter første ledd, kan tilsynsorgan ilegge tvangsmulkt. Tvangsmulkten kan ilegges i form av engangsmulkt eller løpende mulkt. Ilagt mulkt er tvangsgrunnlag for utlegg.​2\nDepartementet kan i forskrift fastsette nærmere regler om fastsettelse av tvangsmulkt, herunder mulktens størrelse.\n1 Jf. § 2 nr. 1.\n2 Jf. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "7:28",
+      "chapter": "7",
+      "section": "28",
+      "title": "Straff",
+      "content": "Med bøter straffes den som forsettlig​1 eller grovt uaktsomt​2 overtrer denne lovs §§ 5, 6, 7, 8, 15, 17, 18, 22 eller 26 a eller forskrifter gitt i medhold av disse bestemmelsene.\nVed særlig skjerpende omstendigheter kan fengsel inntil 1 år anvendes.\n0 Endret ved lover 19 juni 2015 nr. 65 (ikr. 1 okt 2015), 16 juni 2017 nr. 52 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 784).\n1 Jf. strl. § 22.\n2 Jf. strl. § 23 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "7:29",
+      "chapter": "7",
+      "section": "29",
+      "title": "Økokrims håndtering av opplysninger",
+      "content": "Opplysninger som Økokrim mottar etter § 18 skal slettes senest fem år etter at opplysningene ble registrert, med mindre det i dette tidsrommet er registrert nye opplysninger eller det er foretatt etterforsknings- eller rettergangsskritt mot den registrerte.\nDersom Økokrims undersøkelser viser at det ikke foreligger en straffbar handling, skal opplysningene slettes snarest mulig.\nDepartementet kan i forskrift fastsette nærmere regler om Økokrims og politiets saksbehandling i tilknytning til mottatte rapporter, herunder sletting av opplysninger.\n1 Jf. § 31 (1) nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "7:30",
+      "chapter": "7",
+      "section": "30",
+      "title": "Utveksling av opplysninger for bekjempelse av terrorhandlinger mv.",
+      "content": "Økokrim kan gi opplysninger som Økokrim mottar etter § 18, til andre offentlige myndigheter enn politiet som har oppgaver knyttet til forebygging av forhold som rammes av straffeloven​1 §§ 131 til 136 a.\nOpplysninger som Økokrim mottar etter bestemmelsene i denne lov, kan Økokrim gi videre til skatteetaten og toll- og avgiftsetaten til bruk i deres arbeid med skatt, avgift og toll.\n0 Endret ved lover 11 des 2009 nr. 127, 21 juni 2013 nr. 85 (ikr. 21 juni 2013 iflg. res. 21 juni 2013 nr. 687), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Lov 20 mai 2005 nr. 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "7:31",
+      "chapter": "7",
+      "section": "31",
+      "title": "Kontrollutvalget for tiltak mot hvitvasking",
+      "content": "Kontrollutvalget for tiltak mot hvitvasking (Kontrollutvalget) skal føre kontroll med:\n1. Økokrims behandling av opplysninger mottatt etter § 18,\n2. Økokrims pålegg og godkjenninger etter § 19 første ledd, og\n3. Økokrims håndtering av opplysninger etter § 29.\nKontrollutvalget skal bestå av minst tre medlemmer som oppnevnes av Kongen. Dessuten oppnevnes ett eller flere varamedlemmer. Lederen for utvalget skal oppfylle de krav som stilles til høyesterettsdommere.​1 Kontrollutvalgets medlemmer har taushetsplikt​2 om det de får vite i utøvelsen av sitt verv.\nØkokrim skal gi Kontrollutvalget de opplysninger, dokumenter mv. som Kontrollutvalget finner nødvendig for sin kontroll. Når Kontrollutvalget krever det, har Økokrims tjenestemenn plikt til å forklare seg overfor Kontrollutvalget uten hensyn til taushetsplikt.\nDepartementet kan i forskrift fastsette nærmere regler om oppgavene og saksbehandlingen til Kontrollutvalget.\n1 Jf. dl. § 54.\n2 Jf. strl. § 209.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "7:32",
+      "chapter": "7",
+      "section": "32",
+      "title": "Opplysninger som skal følge en transaksjon i betalingskjeden mv.",
+      "content": "Departementet kan i forskrift fastsette regler om hvilke opplysninger om avsender som skal følge en transaksjon i betalingskjeden, samt regler om betalingsformidleres opplysnings- og kontrollplikter i forbindelse med slike transaksjoner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "7:33",
+      "chapter": "7",
+      "section": "33",
+      "title": "Personer eller foretak med tilknytning til land eller områder som ikke har gjennomført tilfredsstillende tiltak",
+      "content": "Departementet kan i forskrift fastsette særskilte regler om rapportering av transaksjoner med eller for personer eller foretak som har tilknytning til land eller områder som ikke har gjennomført tilfredsstillende tiltak mot handlinger som beskrevet i straffeloven​1 §§ 332, 335, 337, 340 og 135 eller mot finansiering som beskrevet i straffeloven § 136 a. Departementet kan videre i forskrift fastsette særskilte regler om forbud mot eller restriksjoner i rapporteringspliktiges adgang til å etablere kundeforhold med eller foreta transaksjoner med eller for personer eller foretak som har tilknytning til land eller områder som ikke har gjennomført tilfredsstillende tiltak mot handlinger som beskrevet i straffeloven §§ 332, 335, 337, 340 og 135 eller mot finansiering som beskrevet i straffeloven § 136 a.\n0 Endret ved lover 20 juni 2014 nr. 29 (ikr. 1 juli 2014 iflg. vedtak 26 juni 2014 nr. 866). 19 juni 2015 nr. 65 (ikr. 1 okt 2015),\n1 Lov 20 mai 2005 nr. 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "8:34",
+      "chapter": "8",
+      "section": "34",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.​1\nPlikt til avvikling av kundeforhold etter § 10 første ledd gjelder kun for kundeforhold som er etablert etter lovens ikrafttredelse.\n1 Fra 15 apr 2009 iflg. res. 6 mars 2009 nr. 269.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "8:35",
+      "chapter": "8",
+      "section": "35",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    }
+  ]
+}

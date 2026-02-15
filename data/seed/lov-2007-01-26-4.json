@@ -1,0 +1,855 @@
+{
+  "id": "LOV-2007-01-26-4",
+  "type": "statute",
+  "title": "Lov om målenheter, måling og normaltid",
+  "short_name": "Lov om målenheter, måling og normaltid",
+  "status": "in_force",
+  "issued_date": "2007-01-26",
+  "in_force_date": "2008-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2007-01-26-4",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Lovens formål er å sikre en måleteknisk infrastruktur som har tillit nasjonalt og internasjonalt samt å bidra til en effektiv bruk av samfunnets ressurser.\nLoven skal bidra til at målinger og måleresultater er tilfredsstillende nøyaktige ut fra formålet om effektiv bruk av samfunnets ressurser og ivaretakelse av beskyttelsesverdige interesser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Virkeområde og definisjoner",
+      "content": "Denne lov stiller bare krav til måleredskaper, målinger (bruk av måleredskaper), angivelse av måleresultater og produkters kvantitative innhold når dette er særlig bestemt i eller i medhold av denne lov. Loven gjelder ikke for målinger og anvendelse av måleresultater til privat bruk.\nMed måling forstås i denne lov bruk av måleredskaper eller målemetoder med det formål å bestemme den kvantitative størrelsen på det som måles. Den kvantitative størrelsen (måleresultatet) angis i målenheter, prosent eller antall.\nMed måleredskap forstås i denne lov ethvert redskap, utstyr, instrument eller system som brukes for å fremskaffe et måleresultat. Justervesenet kan i forskrift eller enkeltvedtak fastsette nærmere bestemmelser om hva som skal anses som måleredskap eller deler av et måleredskap etter første punktum. Departementet kan på samme måte også fastsette at noe som er et måleredskap etter loven, likevel ikke skal betraktes som måleredskap.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Myndighet",
+      "content": "Justervesenet er nasjonal måleteknisk myndighet. Kongen kan fastsette at andre enn Justervesenet skal være måleteknisk myndighet på særskilte områder. Myndigheten har på disse særskilte områdene samme myndighet som den Justervesenet er gitt i denne lov, med mindre annet er bestemt.\nMyndigheten skal ha nødvendig måleteknisk kompetanse og dokumentert sporbarhet for de målinger myndigheten foretar. Departementet kan fastsette nærmere krav til myndighetens kompetanse og andre forhold av betydning for myndighetens måletekniske virksomhet etter loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Målenheter",
+      "content": "Kongen fastsetter i forskrift de målenheter som gjelder i Norge.\nKongen kan i forskrift tillate at andre målenheter i særlige tilfeller kan angis i tillegg til de gjeldende målenheter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Realisering av målenheter",
+      "content": "Det nasjonale behovet for realisering av målenheter skal være dekket. Justervesenet skal sette i verk nødvendige tiltak for å sikre dette.\nDersom Justervesenet ikke selv realiserer de målenheter det er behov for, kan Justervesenet utpeke laboratorier som skal ha ansvar for å realisere en eller flere målenheter som skal være nasjonal referanse for andre målinger. Justervesenet kan stille vilkår for utpekingen samt endre eller trekke tilbake utpekingen.\nKongen kan i forskrift fastsette kriterier for utpeking, endring og tilbaketrekking av utpeking av laboratorier.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Norsk normaltid",
+      "content": "Normaltiden i Norge er én time foran koordinert universaltid (UTC+1).\nKongen kan fastsette en avvikende normaltid for særskilte årstider.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Krav til måleredskapers egenskaper ved salg mv.",
+      "content": "Kongen kan i forskrift bestemme at det skal fastsettes nærmere krav til måleredskaper som tilbys for salg eller selges, når det\na. stilles krav til slike måleredskaper når de brukes, jf. kapittel 4,\nb. følger av internasjonale forpliktelser at krav skal stilles eller\nc. ellers anses nødvendig for å sikre lovens formål, jf. § 1.\nDe nærmere krav som skal stilles til disse måleredskapenes egenskaper, fastsettes av Justervesenet i forskrift eller enkeltvedtak.\nKongen kan i forskrift eller enkeltvedtak fastsette at også andre former for overdragelse skal likestilles med salg etter denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Samsvarsvurdering",
+      "content": "Samsvarsvurdering som fastslår at måleredskapet oppfyller fastsatte krav (beslutning om samsvar), skal være gjennomført og dokumentert før måleredskapet tilbys for salg, med mindre annet er bestemt av Justervesenet. Med samsvarsvurdering forstås i denne lov en vurdering som avgjør om et måleredskap har slike egenskaper at det oppfyller de kravene som er fastsatt i eller i medhold av denne lov.\nJustervesenet fastsetter i forskrift hvilke samsvarsvurderinger som skal foretas og prosedyrer for gjennomføring av samsvarsvurderinger. I særlige tilfeller kan Justervesenet fastsette krav til samsvarsvurderinger og prosedyrer for samsvarsvurderinger i enkeltvedtak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Bortfall av beslutning om samsvar",
+      "content": "Justervesenet kan i forskrift eller enkeltvedtak bestemme at beslutning om samsvar skal ha begrenset gyldighetstid. Ved fornyet beslutning om samsvar skal de krav som foreligger på fornyelsestidspunktet legges til grunn, med mindre særlige forhold tilsier noe annet.\nBeslutning om samsvar kan også bli ugyldig før gyldighetstidens utløp dersom det viser seg at de krav som ligger til grunn for beslutningen, er klart mangelfulle. Endelig vedtak om at beslutningen er ugyldig, kan tidligst fattes av Justervesenet ett år etter at varsel om ugyldigheten er gitt i Norsk Lysingsblad eller på annen hensiktsmessig måte. Dersom videre tilbud og salg av måleredskapet kan få store samfunnsmessige konsekvenser, kan departementet vedta at beslutningen umiddelbart skal erklæres ugyldig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "title": "Krav til målinger for å sikre tilstrekkelig nøyaktige måleresultater",
+      "content": "Kongen fastsetter i forskrift hvilke bruksformål som de nærmere kravene til måleredskaper og målemetoder fastsatt i medhold av kapittelet her, skal gjelde for. Med bruksformål menes hva det måleresultatet som er fremskaffet ved målingen, skal anvendes til.\nI de tilfeller krav skal gjelde, jf. første ledd, fastsetter Justervesenet i forskrift eller enkeltvedtak\na. nærmere krav til måleredskapers egenskaper når de er i bruk,\nb. nærmere bestemmelser om måleredskapers tillatte bruksformål og\nc. krav til bruk, installasjon, vedlikehold, omgivelser og andre forhold som kan påvirke det måleresultatet som fremskaffes ved bruk av et måleredskap.\nKrav etter bestemmelsen her kan kun fastsettes når dette anses nødvendig for å sikre lovens formål om tilstrekkelig nøyaktige målinger og måleresultater.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "Krav til bruk av særskilte måleredskaper og målemetoder",
+      "content": "Når det etter § 10 er bestemt at det skal stilles krav til målinger foretatt for bestemte bruksformål, kan Justervesenet i forskrift eller enkeltvedtak fastsette hvilke måleredskaper og målemetoder som skal være tillatt brukt ved måling for disse bruksformålene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Krav til måleredskaper som allerede er tatt i bruk",
+      "content": "Krav til måleredskaper gjelder også for måleredskaper som allerede er i bruk når kravene fastsettes. Justervesenet fastsetter i forskrift eller enkeltvedtak i hvilken grad nye krav til måleredskaper likevel ikke skal gjelde for måleredskaper som allerede er tatt i bruk.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Krav til gyldig beslutning om samsvar",
+      "content": "Dersom måleredskap er underlagt krav om beslutning om samsvar etter § 8, er måleredskapet kun tillatt å bruke når det foreligger slik beslutning. Justervesenet kan gi unntak fra dette kravet. I de tilfeller der beslutningen er ugyldig i medhold av § 9 annet ledd, er måleredskapet ikke lenger tillatt å bruke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Krav på grunn av måleredskapets plassering",
+      "content": "Bestemmelsene i dette kapittelet kommer også til anvendelse på måleredskaper som det ikke gjelder nærmere krav til etter § 10, dersom\na. måleredskapet befinner seg på samme sted som måleredskaper det stilles nærmere krav til, og\nb. måleredskapet kan forveksles med de måleredskapene som er underlagt nærmere krav.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "title": "Krav ved angivelse av måleresultater",
+      "content": "Det skal være samsvar mellom det reelle måleresultatet og det måleresultatet som angis, i de tilfeller hvor det stilles krav til målingen og måleresultatet etter kapittel 4, jf. § 10.\nJustervesenet kan i forskrift eller enkeltvedtak fastsette nærmere krav til hvordan tilfredsstillende angivelse av måleresultater skal sikres og når samsvar anses å foreligge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "title": "Krav til produkters kvantitative innhold",
+      "content": "Departementet kan i forskrift fastsette\na. at produkter bare kan markedsføres eller selges i bestemte kvantitative størrelser, og\nb. at et produkts vekt, volum, alkoholinnhold eller annet kvantitativt innhold skal angis på produktet.\nNår det kvantitative innholdet angis for et produkt, kan Justervesenet i forskrift gi nærmere bestemmelser om hvilke krav som skal gjelde til\na. produktets kvantitative innhold, herunder hvordan det kvantitative innholdet skal beregnes,\nb. kontroll av produktets kvantitative innhold, herunder krav om godkjennelsesordninger, og\nc. merking som skal gi informasjon om produktets kvantitative innhold, herunder særlige krav til merking av produkter som er underlagt kontroll etter bestemmelsen her.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "6:17",
+      "chapter": "6",
+      "section": "17",
+      "title": "Plikter for å sikre etterlevelse av regelverket",
+      "content": "Departementet kan i forskrift bestemme at de ansvarlige etter denne lov selv skal iverksette konkrete tiltak for å sikre etterlevelse av regelverket. Departementet kan også stille krav om godkjenningsordninger for måleredskaper under bruk.\nDe ansvarlige etter denne lov skal sørge for at det er mulig å gjennomføre kontroll med at lovens krav er oppfylt. Justervesenet kan gi nærmere bestemmelser om dette i forskrift eller enkeltvedtak.\nDepartementet kan i forskrift pålegge den som selger eller på annen måte overdrar måleredskaper\na. å informere kjøper av et måleredskap om at måleredskapet er underlagt spesielle krav etter denne lov eller etter bestemmelser fastsatt i medhold av loven, og\nb. å rapportere til Justervesenet ved salg av måleredskaper.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "6:18",
+      "chapter": "6",
+      "section": "18",
+      "title": "Plikter for andre som har oppgaver i forhold til måleredskaper og målinger",
+      "content": "Reparatør, installatør, den som vedlikeholder og andre som har oppgaver i forhold til målinger og måleredskaper som er underlagt krav fastsatt i eller i medhold av denne lov, må ha tilstrekkelig kompetanse for de oppgavene de utfører. Kompetansen må kunne dokumenteres på forespørsel fra Justervesenet. Justervesenet kan i forskrift eller enkeltvedtak presisere nærmere hva som er tilstrekkelig kompetanse. Departementet kan i forskrift stille krav til godkjenningsordninger når dette anses nødvendig for å sikre tilstrekkelig kompetanse hos disse aktørene.\nDepartementet kan i forskrift også fastsette at slike aktører må gi melding til Justervesenet ved utføring av oppdrag knyttet til målinger og måleredskaper.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "6:19",
+      "chapter": "6",
+      "section": "19",
+      "title": "Krav til merking av måleredskaper",
+      "content": "Justervesenet kan i forskrift eller enkeltvedtak fastsette at måleredskaper skal merkes med\na. godkjennings- eller kontrollmerke, herunder krav om henvisning til godkjenningsdokument,\nb. produkttekniske spesifikasjoner,\nc. gjeldende betingelser for bruk av måleredskapet og\nd. hvem som er leverandør eller produsent av måleredskapet og identifikasjonsnummer på måleredskapet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "7:20",
+      "chapter": "7",
+      "section": "20",
+      "title": "Tilsyn",
+      "content": "Justervesenet fører nødvendig tilsyn med at bestemmelsene fastsatt i eller i medhold av denne lov etterleves.\nJustervesenet kan overlate til andre med særlig kompetanse og tilstrekkelig uavhengighet å utføre tilsynsoppgaver på sine vegne. Bestemmelsene i §§ 22-24 gjelder tilsvarende for den som utfører tilsynsoppgaver på vegne av Justervesenet, med mindre Justervesenet bestemmer noe annet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "7:21",
+      "chapter": "7",
+      "section": "21",
+      "title": "Justervesenets utførelse av kontroll på anmodning",
+      "content": "Justervesenet kan på anmodning kontrollere tilstanden til et måleredskap i forhold til regelverket dersom\na. det er umulig eller uforholdsmessig vanskelig å få kontrollert at redskapet oppfyller de fastsatte krav på annen måte, eller\nb. det foreligger andre særskilte grunner som tilsier en slik kontroll.\nMerkostnader som Justervesenet har ved å utføre kontrollen, skal belastes rekvirenten fullt ut.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "7:22",
+      "chapter": "7",
+      "section": "22",
+      "title": "Uhindret adgang",
+      "content": "Justervesenet skal ha uhindret adgang til steder og innretninger når dette anses nødvendig for å føre tilsyn etter denne lov.\nOm nødvendig kan det kreves bistand fra politiet for å sikre slik adgang.\nJustervesenet har ikke adgang til private hjem med mindre det foreligger annet rettsgrunnlag.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "7:23",
+      "chapter": "7",
+      "section": "23",
+      "title": "Rett til opplysninger",
+      "content": "Justervesenet kan kreve at produsenter, importører, forhandlere og andre som overdrar produkter og måleredskaper, brukere av måleredskaper, reparatører, installatører, den som vedlikeholder og andre som har oppgaver i forhold til målinger og måleredskaper, legger fram opplysninger som er av betydning for tilsynet.\nTilsvarende opplysningsplikt gjelder for ansatte og andre som opptrer på vegne av den som omfattes av første ledd.\nJustervesenet kan fastsette nærmere bestemmelser om hvordan opplysningene skal gis.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "7:24",
+      "chapter": "7",
+      "section": "24",
+      "title": "Praktisk bistand og tilretteleggelse for tilsynsarbeidet",
+      "content": "Enhver som underlegges tilsyn etter denne lov, skal sørge for å legge forholdene til rette for at tilsynet praktisk kan gjennomføres og gi den nødvendige bistand under tilsynet.\nDen som det føres tilsyn med, kan ikke kreve å få dekket kostnader som er påført under utførelse av nødvendig tilsyn.\nJustervesenet kan i forskrift eller enkeltvedtak fastsette nærmere bestemmelser om hvordan forholdene skal legges til rette for utførelse av tilsynet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "7:25",
+      "chapter": "7",
+      "section": "25",
+      "title": "Opplysninger for å vurdere behovet for nye regler mv.",
+      "content": "Justervesenet kan i rimelig utstrekning kreve opplysninger om og undersøke faktiske forhold som anses nødvendig for å vurdere om det foreligger behov for å iverksette nye regler eller virkemidler som skal sikre lovens formål. Slike opplysninger vil kunne omfatte teknisk tilstand på måleredskaper, rutiner og prosedyrer for målemetoder og statistikk.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "8:26",
+      "chapter": "8",
+      "section": "26",
+      "title": "Retting, stansing og ubrukbargjøring",
+      "content": "Ved brudd på bestemmelsene i denne lov eller på bestemmelser fastsatt i medhold av loven kan Justervesenet kreve forholdet rettet innen en fastsatt frist.\nDersom det ulovlige forholdet er vesentlig, skal Justervesenet kreve at det ulovlige forhold umiddelbart stanses med mindre stansing må anses sterkt urimelig. Når retting etter første ledd ikke er foretatt innen fastsatt frist, kan dette i seg selv medføre at forholdet anses som vesentlig. Ved pålegg om stansing kan Justervesenet også kreve at måleredskaper eller innretninger som presenterer et måleresultat, skal merkes, forsegles, fjernes eller på annen måte ubrukbargjøres inntil forholdet er rettet.\nDersom det er grunn til å tro at den ansvarlige ikke selv vil etterfølge kravet om stansing, eller det av andre grunner anses hensiktsmessig, kan Justervesenet selv iverksette nødvendig tiltak for å hindre det ulovlige forholdet, herunder merke, forsegle, midlertidig fjerne eller på annen måte ubrukbargjøre måleredskapet. Kostnadene ved Justervesenets gjennomføring av stansing dekkes av den ansvarlige.\nDepartementet kan i forskrift fastsette nærmere bestemmelser om når stansing skal pålegges.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "8:27",
+      "chapter": "8",
+      "section": "27",
+      "title": "Omsetningsforbud og tilbaketrekking",
+      "content": "Dersom produkter og måleredskaper ikke tilfredsstiller krav fastsatt i eller i medhold av denne lov, kan Justervesenet vedta forbud mot omsetning av disse produktene og måleredskapene. Justervesenet kan også kreve at produkter og måleredskaper som allerede er lagt ut for salg eller annen type omsetning, blir trukket tilbake. Omsetningsforbud og pålegg om tilbaketrekking kan vedtas for enkeltprodukter og enkeltredskaper eller for angitte varepartier, produksjonsserier o.l. Bestemmelsen i § 26 tredje ledd gjelder tilsvarende ved vedtak etter denne bestemmelsen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "8:28",
+      "chapter": "8",
+      "section": "28",
+      "title": "Tilbakekall av godkjenning",
+      "content": "Justervesenet kan kalle tilbake en godkjenning gitt etter denne lov eller etter bestemmelser fastsatt i medhold av loven dersom:\na. den som har godkjenningen, eller en som opptrer på dennes vegne, overtrer bestemmelser i denne lov eller bestemmelser fastsatt i medhold av loven, og\nb. det anses uforsvarlig å la godkjenningen fortsatt gjelde.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "8:29",
+      "chapter": "8",
+      "section": "29",
+      "title": "Tvangsmulkt",
+      "content": "Justervesenet kan ilegge tvangsmulkt for å sikre at plikter etter denne lov eller etter bestemmelser fastsatt i medhold av loven blir oppfylt. Tvangsmulkt kan ilegges som en engangsmulkt eller løpende mulkt inntil det forhold som begrunner tvangsmulkten er opphørt.\nJustervesenet kan frafalle påløpt tvangsmulkt helt eller delvis.\nKongen kan gi forskrifter om tvangsmulktens størrelse og varighet og eventuelle andre bestemmelser om fastsettelse og gjennomføring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "8:30",
+      "chapter": "8",
+      "section": "30",
+      "title": "Overtredelsesgebyr",
+      "content": "Justervesenet kan ilegge den som forsettlig eller uaktsomt overtrer bestemmelsene i §§ 4, 7-9, 10 annet ledd og 11-13 (jf. §§ 10 første ledd og 14), 15-19 og 22-25 overtredelsesgebyr. Det samme gjelder ved overtredelse av bestemmelser gitt i medhold av disse bestemmelsene når det i forskriften er fastsatt at overtredelse av den aktuelle bestemmelse kan medføre slik administrativ sanksjon.\nNår ikke annet er fastsatt, er fristen for å betale overtredelsesgebyret fire uker. Kongen gir forskrift om utmåling av overtredelsesgebyr. Det fastsettes enten kriterier for utmåling av overtredelsesgebyret og et maksimumsbeløp eller faste satser som overtredelsesgebyret utmåles etter. Forskriften kan også inneholde bestemmelser om rente og tilleggsgebyr dersom overtredelsesgebyr ikke blir betalt ved forfall.\nEndelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.\nForetak kan ilegges overtredelsesgebyr etter bestemmelsen her når overtredelsen er begått av noen som har handlet på vegne av foretaket. Dette gjelder selv om ingen enkeltperson kan ilegges overtredelsesgebyr. Med foretak menes her selskap, enkeltpersonforetak, forening eller annen sammenslutning, stiftelse, bo eller offentlig virksomhet.\nVed avgjørelsen av om et foretak skal ilegges overtredelsesgebyr, skal det særlig legges vekt på\na. overtredelsens grovhet,\nb. om foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,\nc. om overtredelsen er begått for å fremme foretakets interesser,\nd. om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen,\ne. om det foreligger gjentakelse og\nf. foretakets økonomiske evne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "9:31",
+      "chapter": "9",
+      "section": "31",
+      "title": "Gebyrer og avgifter",
+      "content": "Departementet kan gi forskrifter om gebyrer for behandling av godkjenninger og andre vedtak fastsatt etter denne lov eller etter bestemmelser fastsatt i medhold av loven. Departementet kan også i forskrift pålegge gebyrer for tilsyn og kontroll som gjennomføres for å sikre at loven eller bestemmelser fastsatt i medhold av loven blir fulgt. Gebyrene skal gå til å dekke kostnadene ved den måletekniske virksomheten.\nDersom det ikke anses hensiktsmessig å pålegge den enkelte gebyrer direkte, kan departementet i forskrift fastsette en generell avgift som skal dekke kostnadene ved den måletekniske virksomheten.\n– – –\nVed forsinket betaling av gebyrer og avgifter, skal det betales rente i samsvar med lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.\nPålegg om gebyrer og avgifter er tvangsgrunnlag for utlegg.\n0 Endret ved lov 12 apr 2013 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "9:32",
+      "chapter": "9",
+      "section": "32",
+      "title": "Saksbehandlingsregler",
+      "content": "Departementet kan fastsette utfyllende forskrifter om saksbehandling etter denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "10:33",
+      "chapter": "10",
+      "section": "33",
+      "title": "Ikrafttredelse",
+      "content": "Denne loven trer i kraft fra den tid Kongen bestemmer.​1\n1 Satt ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 86.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "10:34",
+      "chapter": "10",
+      "section": "34",
+      "title": "Oppheving og endring av andre lover",
+      "content": "Når denne loven trer i kraft, oppheves følgende lover:\n1. Lov 29. juni 1894 nr. 1 um sams normaltid fyr kongeriket Norig.\n2. Lov 31. oktober 1946 nr. 2 om mål og vekt.\n– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "10:35",
+      "chapter": "10",
+      "section": "35",
+      "title": "Overgangsbestemmelser",
+      "content": "Forskrifter gitt med hjemmel i lov 31. oktober 1946 nr. 2 om mål og vekt og log 29. juni 1894 nr. 1 um sams normaltid fyr kongeriket Norig gjelder også etter at loven her har trådt i kraft, med mindre de strider mot bestemmelser i denne lov eller bestemmelser fastsatt i medhold av loven.\nDepartementet fastsetter i forskrift hvilke måleredskaper som det skal videreføres nærmere krav til, og i hvilke situasjoner, i en overgangsperiode inntil ny vurdering av om nærmere krav skal gjelde er foretatt i medhold av §§ 7 og 10.\nDepartementet kan også fastsette andre særskilte overgangsregler i forskrift.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Lovens formål er å sikre en måleteknisk infrastruktur som har tillit nasjonalt og internasjonalt samt å bidra til en effektiv bruk av samfunnets ressurser.\nLoven skal bidra til at målinger og måleresultater er tilfredsstillende nøyaktige ut fra formålet om effektiv bruk av samfunnets ressurser og ivaretakelse av beskyttelsesverdige interesser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Virkeområde og definisjoner",
+      "content": "Denne lov stiller bare krav til måleredskaper, målinger (bruk av måleredskaper), angivelse av måleresultater og produkters kvantitative innhold når dette er særlig bestemt i eller i medhold av denne lov. Loven gjelder ikke for målinger og anvendelse av måleresultater til privat bruk.\nMed måling forstås i denne lov bruk av måleredskaper eller målemetoder med det formål å bestemme den kvantitative størrelsen på det som måles. Den kvantitative størrelsen (måleresultatet) angis i målenheter, prosent eller antall.\nMed måleredskap forstås i denne lov ethvert redskap, utstyr, instrument eller system som brukes for å fremskaffe et måleresultat. Justervesenet kan i forskrift eller enkeltvedtak fastsette nærmere bestemmelser om hva som skal anses som måleredskap eller deler av et måleredskap etter første punktum. Departementet kan på samme måte også fastsette at noe som er et måleredskap etter loven, likevel ikke skal betraktes som måleredskap.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Myndighet",
+      "content": "Justervesenet er nasjonal måleteknisk myndighet. Kongen kan fastsette at andre enn Justervesenet skal være måleteknisk myndighet på særskilte områder. Myndigheten har på disse særskilte områdene samme myndighet som den Justervesenet er gitt i denne lov, med mindre annet er bestemt.\nMyndigheten skal ha nødvendig måleteknisk kompetanse og dokumentert sporbarhet for de målinger myndigheten foretar. Departementet kan fastsette nærmere krav til myndighetens kompetanse og andre forhold av betydning for myndighetens måletekniske virksomhet etter loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Målenheter",
+      "content": "Kongen fastsetter i forskrift de målenheter som gjelder i Norge.\nKongen kan i forskrift tillate at andre målenheter i særlige tilfeller kan angis i tillegg til de gjeldende målenheter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Realisering av målenheter",
+      "content": "Det nasjonale behovet for realisering av målenheter skal være dekket. Justervesenet skal sette i verk nødvendige tiltak for å sikre dette.\nDersom Justervesenet ikke selv realiserer de målenheter det er behov for, kan Justervesenet utpeke laboratorier som skal ha ansvar for å realisere en eller flere målenheter som skal være nasjonal referanse for andre målinger. Justervesenet kan stille vilkår for utpekingen samt endre eller trekke tilbake utpekingen.\nKongen kan i forskrift fastsette kriterier for utpeking, endring og tilbaketrekking av utpeking av laboratorier.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Norsk normaltid",
+      "content": "Normaltiden i Norge er én time foran koordinert universaltid (UTC+1).\nKongen kan fastsette en avvikende normaltid for særskilte årstider.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Krav til måleredskapers egenskaper ved salg mv.",
+      "content": "Kongen kan i forskrift bestemme at det skal fastsettes nærmere krav til måleredskaper som tilbys for salg eller selges, når det\na. stilles krav til slike måleredskaper når de brukes, jf. kapittel 4,\nb. følger av internasjonale forpliktelser at krav skal stilles eller\nc. ellers anses nødvendig for å sikre lovens formål, jf. § 1.\nDe nærmere krav som skal stilles til disse måleredskapenes egenskaper, fastsettes av Justervesenet i forskrift eller enkeltvedtak.\nKongen kan i forskrift eller enkeltvedtak fastsette at også andre former for overdragelse skal likestilles med salg etter denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Samsvarsvurdering",
+      "content": "Samsvarsvurdering som fastslår at måleredskapet oppfyller fastsatte krav (beslutning om samsvar), skal være gjennomført og dokumentert før måleredskapet tilbys for salg, med mindre annet er bestemt av Justervesenet. Med samsvarsvurdering forstås i denne lov en vurdering som avgjør om et måleredskap har slike egenskaper at det oppfyller de kravene som er fastsatt i eller i medhold av denne lov.\nJustervesenet fastsetter i forskrift hvilke samsvarsvurderinger som skal foretas og prosedyrer for gjennomføring av samsvarsvurderinger. I særlige tilfeller kan Justervesenet fastsette krav til samsvarsvurderinger og prosedyrer for samsvarsvurderinger i enkeltvedtak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Bortfall av beslutning om samsvar",
+      "content": "Justervesenet kan i forskrift eller enkeltvedtak bestemme at beslutning om samsvar skal ha begrenset gyldighetstid. Ved fornyet beslutning om samsvar skal de krav som foreligger på fornyelsestidspunktet legges til grunn, med mindre særlige forhold tilsier noe annet.\nBeslutning om samsvar kan også bli ugyldig før gyldighetstidens utløp dersom det viser seg at de krav som ligger til grunn for beslutningen, er klart mangelfulle. Endelig vedtak om at beslutningen er ugyldig, kan tidligst fattes av Justervesenet ett år etter at varsel om ugyldigheten er gitt i Norsk Lysingsblad eller på annen hensiktsmessig måte. Dersom videre tilbud og salg av måleredskapet kan få store samfunnsmessige konsekvenser, kan departementet vedta at beslutningen umiddelbart skal erklæres ugyldig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "title": "Krav til målinger for å sikre tilstrekkelig nøyaktige måleresultater",
+      "content": "Kongen fastsetter i forskrift hvilke bruksformål som de nærmere kravene til måleredskaper og målemetoder fastsatt i medhold av kapittelet her, skal gjelde for. Med bruksformål menes hva det måleresultatet som er fremskaffet ved målingen, skal anvendes til.\nI de tilfeller krav skal gjelde, jf. første ledd, fastsetter Justervesenet i forskrift eller enkeltvedtak\na. nærmere krav til måleredskapers egenskaper når de er i bruk,\nb. nærmere bestemmelser om måleredskapers tillatte bruksformål og\nc. krav til bruk, installasjon, vedlikehold, omgivelser og andre forhold som kan påvirke det måleresultatet som fremskaffes ved bruk av et måleredskap.\nKrav etter bestemmelsen her kan kun fastsettes når dette anses nødvendig for å sikre lovens formål om tilstrekkelig nøyaktige målinger og måleresultater.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "Krav til bruk av særskilte måleredskaper og målemetoder",
+      "content": "Når det etter § 10 er bestemt at det skal stilles krav til målinger foretatt for bestemte bruksformål, kan Justervesenet i forskrift eller enkeltvedtak fastsette hvilke måleredskaper og målemetoder som skal være tillatt brukt ved måling for disse bruksformålene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Krav til måleredskaper som allerede er tatt i bruk",
+      "content": "Krav til måleredskaper gjelder også for måleredskaper som allerede er i bruk når kravene fastsettes. Justervesenet fastsetter i forskrift eller enkeltvedtak i hvilken grad nye krav til måleredskaper likevel ikke skal gjelde for måleredskaper som allerede er tatt i bruk.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Krav til gyldig beslutning om samsvar",
+      "content": "Dersom måleredskap er underlagt krav om beslutning om samsvar etter § 8, er måleredskapet kun tillatt å bruke når det foreligger slik beslutning. Justervesenet kan gi unntak fra dette kravet. I de tilfeller der beslutningen er ugyldig i medhold av § 9 annet ledd, er måleredskapet ikke lenger tillatt å bruke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Krav på grunn av måleredskapets plassering",
+      "content": "Bestemmelsene i dette kapittelet kommer også til anvendelse på måleredskaper som det ikke gjelder nærmere krav til etter § 10, dersom\na. måleredskapet befinner seg på samme sted som måleredskaper det stilles nærmere krav til, og\nb. måleredskapet kan forveksles med de måleredskapene som er underlagt nærmere krav.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "title": "Krav ved angivelse av måleresultater",
+      "content": "Det skal være samsvar mellom det reelle måleresultatet og det måleresultatet som angis, i de tilfeller hvor det stilles krav til målingen og måleresultatet etter kapittel 4, jf. § 10.\nJustervesenet kan i forskrift eller enkeltvedtak fastsette nærmere krav til hvordan tilfredsstillende angivelse av måleresultater skal sikres og når samsvar anses å foreligge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "title": "Krav til produkters kvantitative innhold",
+      "content": "Departementet kan i forskrift fastsette\na. at produkter bare kan markedsføres eller selges i bestemte kvantitative størrelser, og\nb. at et produkts vekt, volum, alkoholinnhold eller annet kvantitativt innhold skal angis på produktet.\nNår det kvantitative innholdet angis for et produkt, kan Justervesenet i forskrift gi nærmere bestemmelser om hvilke krav som skal gjelde til\na. produktets kvantitative innhold, herunder hvordan det kvantitative innholdet skal beregnes,\nb. kontroll av produktets kvantitative innhold, herunder krav om godkjennelsesordninger, og\nc. merking som skal gi informasjon om produktets kvantitative innhold, herunder særlige krav til merking av produkter som er underlagt kontroll etter bestemmelsen her.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "6:17",
+      "chapter": "6",
+      "section": "17",
+      "title": "Plikter for å sikre etterlevelse av regelverket",
+      "content": "Departementet kan i forskrift bestemme at de ansvarlige etter denne lov selv skal iverksette konkrete tiltak for å sikre etterlevelse av regelverket. Departementet kan også stille krav om godkjenningsordninger for måleredskaper under bruk.\nDe ansvarlige etter denne lov skal sørge for at det er mulig å gjennomføre kontroll med at lovens krav er oppfylt. Justervesenet kan gi nærmere bestemmelser om dette i forskrift eller enkeltvedtak.\nDepartementet kan i forskrift pålegge den som selger eller på annen måte overdrar måleredskaper\na. å informere kjøper av et måleredskap om at måleredskapet er underlagt spesielle krav etter denne lov eller etter bestemmelser fastsatt i medhold av loven, og\nb. å rapportere til Justervesenet ved salg av måleredskaper.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "6:18",
+      "chapter": "6",
+      "section": "18",
+      "title": "Plikter for andre som har oppgaver i forhold til måleredskaper og målinger",
+      "content": "Reparatør, installatør, den som vedlikeholder og andre som har oppgaver i forhold til målinger og måleredskaper som er underlagt krav fastsatt i eller i medhold av denne lov, må ha tilstrekkelig kompetanse for de oppgavene de utfører. Kompetansen må kunne dokumenteres på forespørsel fra Justervesenet. Justervesenet kan i forskrift eller enkeltvedtak presisere nærmere hva som er tilstrekkelig kompetanse. Departementet kan i forskrift stille krav til godkjenningsordninger når dette anses nødvendig for å sikre tilstrekkelig kompetanse hos disse aktørene.\nDepartementet kan i forskrift også fastsette at slike aktører må gi melding til Justervesenet ved utføring av oppdrag knyttet til målinger og måleredskaper.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "6:19",
+      "chapter": "6",
+      "section": "19",
+      "title": "Krav til merking av måleredskaper",
+      "content": "Justervesenet kan i forskrift eller enkeltvedtak fastsette at måleredskaper skal merkes med\na. godkjennings- eller kontrollmerke, herunder krav om henvisning til godkjenningsdokument,\nb. produkttekniske spesifikasjoner,\nc. gjeldende betingelser for bruk av måleredskapet og\nd. hvem som er leverandør eller produsent av måleredskapet og identifikasjonsnummer på måleredskapet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "7:20",
+      "chapter": "7",
+      "section": "20",
+      "title": "Tilsyn",
+      "content": "Justervesenet fører nødvendig tilsyn med at bestemmelsene fastsatt i eller i medhold av denne lov etterleves.\nJustervesenet kan overlate til andre med særlig kompetanse og tilstrekkelig uavhengighet å utføre tilsynsoppgaver på sine vegne. Bestemmelsene i §§ 22-24 gjelder tilsvarende for den som utfører tilsynsoppgaver på vegne av Justervesenet, med mindre Justervesenet bestemmer noe annet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "7:21",
+      "chapter": "7",
+      "section": "21",
+      "title": "Justervesenets utførelse av kontroll på anmodning",
+      "content": "Justervesenet kan på anmodning kontrollere tilstanden til et måleredskap i forhold til regelverket dersom\na. det er umulig eller uforholdsmessig vanskelig å få kontrollert at redskapet oppfyller de fastsatte krav på annen måte, eller\nb. det foreligger andre særskilte grunner som tilsier en slik kontroll.\nMerkostnader som Justervesenet har ved å utføre kontrollen, skal belastes rekvirenten fullt ut.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "7:22",
+      "chapter": "7",
+      "section": "22",
+      "title": "Uhindret adgang",
+      "content": "Justervesenet skal ha uhindret adgang til steder og innretninger når dette anses nødvendig for å føre tilsyn etter denne lov.\nOm nødvendig kan det kreves bistand fra politiet for å sikre slik adgang.\nJustervesenet har ikke adgang til private hjem med mindre det foreligger annet rettsgrunnlag.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "7:23",
+      "chapter": "7",
+      "section": "23",
+      "title": "Rett til opplysninger",
+      "content": "Justervesenet kan kreve at produsenter, importører, forhandlere og andre som overdrar produkter og måleredskaper, brukere av måleredskaper, reparatører, installatører, den som vedlikeholder og andre som har oppgaver i forhold til målinger og måleredskaper, legger fram opplysninger som er av betydning for tilsynet.\nTilsvarende opplysningsplikt gjelder for ansatte og andre som opptrer på vegne av den som omfattes av første ledd.\nJustervesenet kan fastsette nærmere bestemmelser om hvordan opplysningene skal gis.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "7:24",
+      "chapter": "7",
+      "section": "24",
+      "title": "Praktisk bistand og tilretteleggelse for tilsynsarbeidet",
+      "content": "Enhver som underlegges tilsyn etter denne lov, skal sørge for å legge forholdene til rette for at tilsynet praktisk kan gjennomføres og gi den nødvendige bistand under tilsynet.\nDen som det føres tilsyn med, kan ikke kreve å få dekket kostnader som er påført under utførelse av nødvendig tilsyn.\nJustervesenet kan i forskrift eller enkeltvedtak fastsette nærmere bestemmelser om hvordan forholdene skal legges til rette for utførelse av tilsynet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "7:25",
+      "chapter": "7",
+      "section": "25",
+      "title": "Opplysninger for å vurdere behovet for nye regler mv.",
+      "content": "Justervesenet kan i rimelig utstrekning kreve opplysninger om og undersøke faktiske forhold som anses nødvendig for å vurdere om det foreligger behov for å iverksette nye regler eller virkemidler som skal sikre lovens formål. Slike opplysninger vil kunne omfatte teknisk tilstand på måleredskaper, rutiner og prosedyrer for målemetoder og statistikk.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "8:26",
+      "chapter": "8",
+      "section": "26",
+      "title": "Retting, stansing og ubrukbargjøring",
+      "content": "Ved brudd på bestemmelsene i denne lov eller på bestemmelser fastsatt i medhold av loven kan Justervesenet kreve forholdet rettet innen en fastsatt frist.\nDersom det ulovlige forholdet er vesentlig, skal Justervesenet kreve at det ulovlige forhold umiddelbart stanses med mindre stansing må anses sterkt urimelig. Når retting etter første ledd ikke er foretatt innen fastsatt frist, kan dette i seg selv medføre at forholdet anses som vesentlig. Ved pålegg om stansing kan Justervesenet også kreve at måleredskaper eller innretninger som presenterer et måleresultat, skal merkes, forsegles, fjernes eller på annen måte ubrukbargjøres inntil forholdet er rettet.\nDersom det er grunn til å tro at den ansvarlige ikke selv vil etterfølge kravet om stansing, eller det av andre grunner anses hensiktsmessig, kan Justervesenet selv iverksette nødvendig tiltak for å hindre det ulovlige forholdet, herunder merke, forsegle, midlertidig fjerne eller på annen måte ubrukbargjøre måleredskapet. Kostnadene ved Justervesenets gjennomføring av stansing dekkes av den ansvarlige.\nDepartementet kan i forskrift fastsette nærmere bestemmelser om når stansing skal pålegges.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "8:27",
+      "chapter": "8",
+      "section": "27",
+      "title": "Omsetningsforbud og tilbaketrekking",
+      "content": "Dersom produkter og måleredskaper ikke tilfredsstiller krav fastsatt i eller i medhold av denne lov, kan Justervesenet vedta forbud mot omsetning av disse produktene og måleredskapene. Justervesenet kan også kreve at produkter og måleredskaper som allerede er lagt ut for salg eller annen type omsetning, blir trukket tilbake. Omsetningsforbud og pålegg om tilbaketrekking kan vedtas for enkeltprodukter og enkeltredskaper eller for angitte varepartier, produksjonsserier o.l. Bestemmelsen i § 26 tredje ledd gjelder tilsvarende ved vedtak etter denne bestemmelsen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "8:28",
+      "chapter": "8",
+      "section": "28",
+      "title": "Tilbakekall av godkjenning",
+      "content": "Justervesenet kan kalle tilbake en godkjenning gitt etter denne lov eller etter bestemmelser fastsatt i medhold av loven dersom:\na. den som har godkjenningen, eller en som opptrer på dennes vegne, overtrer bestemmelser i denne lov eller bestemmelser fastsatt i medhold av loven, og\nb. det anses uforsvarlig å la godkjenningen fortsatt gjelde.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "8:29",
+      "chapter": "8",
+      "section": "29",
+      "title": "Tvangsmulkt",
+      "content": "Justervesenet kan ilegge tvangsmulkt for å sikre at plikter etter denne lov eller etter bestemmelser fastsatt i medhold av loven blir oppfylt. Tvangsmulkt kan ilegges som en engangsmulkt eller løpende mulkt inntil det forhold som begrunner tvangsmulkten er opphørt.\nJustervesenet kan frafalle påløpt tvangsmulkt helt eller delvis.\nKongen kan gi forskrifter om tvangsmulktens størrelse og varighet og eventuelle andre bestemmelser om fastsettelse og gjennomføring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "8:30",
+      "chapter": "8",
+      "section": "30",
+      "title": "Overtredelsesgebyr",
+      "content": "Justervesenet kan ilegge den som forsettlig eller uaktsomt overtrer bestemmelsene i §§ 4, 7-9, 10 annet ledd og 11-13 (jf. §§ 10 første ledd og 14), 15-19 og 22-25 overtredelsesgebyr. Det samme gjelder ved overtredelse av bestemmelser gitt i medhold av disse bestemmelsene når det i forskriften er fastsatt at overtredelse av den aktuelle bestemmelse kan medføre slik administrativ sanksjon.\nNår ikke annet er fastsatt, er fristen for å betale overtredelsesgebyret fire uker. Kongen gir forskrift om utmåling av overtredelsesgebyr. Det fastsettes enten kriterier for utmåling av overtredelsesgebyret og et maksimumsbeløp eller faste satser som overtredelsesgebyret utmåles etter. Forskriften kan også inneholde bestemmelser om rente og tilleggsgebyr dersom overtredelsesgebyr ikke blir betalt ved forfall.\nEndelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.\nForetak kan ilegges overtredelsesgebyr etter bestemmelsen her når overtredelsen er begått av noen som har handlet på vegne av foretaket. Dette gjelder selv om ingen enkeltperson kan ilegges overtredelsesgebyr. Med foretak menes her selskap, enkeltpersonforetak, forening eller annen sammenslutning, stiftelse, bo eller offentlig virksomhet.\nVed avgjørelsen av om et foretak skal ilegges overtredelsesgebyr, skal det særlig legges vekt på\na. overtredelsens grovhet,\nb. om foretaket ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,\nc. om overtredelsen er begått for å fremme foretakets interesser,\nd. om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen,\ne. om det foreligger gjentakelse og\nf. foretakets økonomiske evne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "9:31",
+      "chapter": "9",
+      "section": "31",
+      "title": "Gebyrer og avgifter",
+      "content": "Departementet kan gi forskrifter om gebyrer for behandling av godkjenninger og andre vedtak fastsatt etter denne lov eller etter bestemmelser fastsatt i medhold av loven. Departementet kan også i forskrift pålegge gebyrer for tilsyn og kontroll som gjennomføres for å sikre at loven eller bestemmelser fastsatt i medhold av loven blir fulgt. Gebyrene skal gå til å dekke kostnadene ved den måletekniske virksomheten.\nDersom det ikke anses hensiktsmessig å pålegge den enkelte gebyrer direkte, kan departementet i forskrift fastsette en generell avgift som skal dekke kostnadene ved den måletekniske virksomheten.\n– – –\nVed forsinket betaling av gebyrer og avgifter, skal det betales rente i samsvar med lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.\nPålegg om gebyrer og avgifter er tvangsgrunnlag for utlegg.\n0 Endret ved lov 12 apr 2013 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "9:32",
+      "chapter": "9",
+      "section": "32",
+      "title": "Saksbehandlingsregler",
+      "content": "Departementet kan fastsette utfyllende forskrifter om saksbehandling etter denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "10:33",
+      "chapter": "10",
+      "section": "33",
+      "title": "Ikrafttredelse",
+      "content": "Denne loven trer i kraft fra den tid Kongen bestemmer.​1\n1 Satt ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 86.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "10:34",
+      "chapter": "10",
+      "section": "34",
+      "title": "Oppheving og endring av andre lover",
+      "content": "Når denne loven trer i kraft, oppheves følgende lover:\n1. Lov 29. juni 1894 nr. 1 um sams normaltid fyr kongeriket Norig.\n2. Lov 31. oktober 1946 nr. 2 om mål og vekt.\n– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "10:35",
+      "chapter": "10",
+      "section": "35",
+      "title": "Overgangsbestemmelser",
+      "content": "Forskrifter gitt med hjemmel i lov 31. oktober 1946 nr. 2 om mål og vekt og log 29. juni 1894 nr. 1 um sams normaltid fyr kongeriket Norig gjelder også etter at loven her har trådt i kraft, med mindre de strider mot bestemmelser i denne lov eller bestemmelser fastsatt i medhold av loven.\nDepartementet fastsetter i forskrift hvilke måleredskaper som det skal videreføres nærmere krav til, og i hvilke situasjoner, i en overgangsperiode inntil ny vurdering av om nærmere krav skal gjelde er foretatt i medhold av §§ 7 og 10.\nDepartementet kan også fastsette andre særskilte overgangsregler i forskrift.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    }
+  ]
+}

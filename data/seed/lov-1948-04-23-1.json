@@ -1,0 +1,135 @@
+{
+  "id": "LOV-1948-04-23-1",
+  "type": "statute",
+  "title": "Lov om studentsamskipnader",
+  "short_name": "Studentsamskipnadsloven",
+  "status": "in_force",
+  "issued_date": "1948-04-23",
+  "in_force_date": "1948-04-23",
+  "url": "https://lovdata.no/dokument/NLO/lov/1948-04-23-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ved alle universitet og vitskaplege høgskular​1 kan det vera studentsamskipnader. Alle studentar har plikt til å vera med i studentsamskipnaden ved universitet eller høgskule der dei er innskrevne eller studerer med det føremålet å melda seg til eksamen.\nKongen fastset når slike samskipnader skal skipast og kva for universitet eller høgskular dei kvar for seg skal gjelda for.\n1 Se lover 18 juli 1919 nr. 6, 12 juni 1936 nr. 2, 9 juli 1948 nr. 2, 9 des. 1955 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Studentsamskipnadene har til oppgåve å ta seg av faglege, økonomiske, sosiale og kulturelle interesser som er sams for studentane.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Studentane svarer ei avgift til samskipnaden sin etter dei føresegnene som Kongen gjev om dette i samsvar med § 4 i denne lova.\n1 Endret ved lov 24 feb. 1984 nr. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Student som ikkje svarar avgift til samskipnaden, får ikkje tilgjenge til kurs, øvingar eller eksamen ved universitetet eller høgskulen.\nStudent som har lagt avgift til ein samskipnad, pliktar ikkje å svara avgift for same semestret til nokon annan samskipnad han kjem med i.\nKongen​1 fastset kor stor avgifta skal vera, og gjev nærare føresegner om betalingsmåte, fritaking og ettergjeving. Avgifta til ein studentsamskipnad kan ikkje verta sett opp eller ned, utan at styret​2 med vanleg fleirtal har sagt seg samd i det.\n1 Kirkedeptet. iflg. res. 14 juni 1974.\n2 Se § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Ein studentsamskipnad skal ha eit styre, som er valt etter føresegner godkjende av Kongen.​2\nStudentane skal vera representert i styret.\n1 Endret ved lov 21 juni 1956 nr. 3.\n2 Jfr. senest res. 14 juni 1974.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Studentsamskipnadene står under tilsyn av vedkommende departement. Årsrekneskap og årsrapport skal leggjast fram for Kongen og sendast til Stortinget. Riksrevisjonen fører kontroll med verksemda etter instruks som vert fastsett av Stortinget.\nKongen gjev nærare føresegner til å fylla ut og gjennomføra denne lova.​2\n1 Endret ved lov 10 juni 1977 nr. 61.\n2 Se reglementer 23 juli 1948 med senere endringer og tillegg, senest av 14 juni 1974.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ved alle universitet og vitskaplege høgskular​1 kan det vera studentsamskipnader. Alle studentar har plikt til å vera med i studentsamskipnaden ved universitet eller høgskule der dei er innskrevne eller studerer med det føremålet å melda seg til eksamen.\nKongen fastset når slike samskipnader skal skipast og kva for universitet eller høgskular dei kvar for seg skal gjelda for.\n1 Se lover 18 juli 1919 nr. 6, 12 juni 1936 nr. 2, 9 juli 1948 nr. 2, 9 des. 1955 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Studentsamskipnadene har til oppgåve å ta seg av faglege, økonomiske, sosiale og kulturelle interesser som er sams for studentane.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Studentane svarer ei avgift til samskipnaden sin etter dei føresegnene som Kongen gjev om dette i samsvar med § 4 i denne lova.\n1 Endret ved lov 24 feb. 1984 nr. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Student som ikkje svarar avgift til samskipnaden, får ikkje tilgjenge til kurs, øvingar eller eksamen ved universitetet eller høgskulen.\nStudent som har lagt avgift til ein samskipnad, pliktar ikkje å svara avgift for same semestret til nokon annan samskipnad han kjem med i.\nKongen​1 fastset kor stor avgifta skal vera, og gjev nærare føresegner om betalingsmåte, fritaking og ettergjeving. Avgifta til ein studentsamskipnad kan ikkje verta sett opp eller ned, utan at styret​2 med vanleg fleirtal har sagt seg samd i det.\n1 Kirkedeptet. iflg. res. 14 juni 1974.\n2 Se § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Ein studentsamskipnad skal ha eit styre, som er valt etter føresegner godkjende av Kongen.​2\nStudentane skal vera representert i styret.\n1 Endret ved lov 21 juni 1956 nr. 3.\n2 Jfr. senest res. 14 juni 1974.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Studentsamskipnadene står under tilsyn av vedkommende departement. Årsrekneskap og årsrapport skal leggjast fram for Kongen og sendast til Stortinget. Riksrevisjonen fører kontroll med verksemda etter instruks som vert fastsett av Stortinget.\nKongen gjev nærare føresegner til å fylla ut og gjennomføra denne lova.​2\n1 Endret ved lov 10 juni 1977 nr. 61.\n2 Se reglementer 23 juli 1948 med senere endringer og tillegg, senest av 14 juni 1974.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    }
+  ]
+}

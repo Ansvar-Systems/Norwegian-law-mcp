@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1985-06-07-55",
+  "type": "statute",
+  "title": "Lov om samtykke til ratifikasjon av konvensjon 26 oktober 1979 om fysisk vern av nukleært materiale (Convention on the Physical Protection of Nuclear Material).",
+  "short_name": "Lov om konvensjon om nukleært materiale.",
+  "status": "in_force",
+  "issued_date": "1985-06-07",
+  "in_force_date": "1985-06-07",
+  "url": "https://lovdata.no/dokument/NLO/lov/1985-06-07-55",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Stortinget samtykker i ratifikasjon av konvensjon om fysisk vern av nukleært materiale (Convention on the Physical Protection of Nuclear Material), datert Wien 26 oktober 1979.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Lova trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Stortinget samtykker i ratifikasjon av konvensjon om fysisk vern av nukleært materiale (Convention on the Physical Protection of Nuclear Material), datert Wien 26 oktober 1979.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Lova trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

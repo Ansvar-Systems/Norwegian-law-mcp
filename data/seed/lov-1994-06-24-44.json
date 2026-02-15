@@ -1,0 +1,81 @@
+{
+  "id": "LOV-1994-06-24-44",
+  "type": "statute",
+  "title": "Lov om at tilsette i Televerket mellombels skal behalde visse rettar etter lov av 4. mars 1983 nr. 3 om statens tjenestemenn ved overgang til selskap utskild frå Televerket.",
+  "short_name": "Lov om tilsette i Televerket",
+  "status": "in_force",
+  "issued_date": "1994-06-24",
+  "in_force_date": "1994-06-24",
+  "url": "https://lovdata.no/dokument/NLO/lov/1994-06-24-44",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Virkeområde",
+      "content": "Lova gjeld tilsette i Televerket, som ved utskilling av delar av verksemda i Televerket til eigne selskap, vert tilsette i slikt selskap.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Rettar",
+      "content": "Tenestemannslova​1 § 13 nr. 2 til nr. 6 om førerett til anna statsstilling og venteløn skal i tilfelle som nemnd i § 1 framleis gjelde for arbeidstakarar som vert sagt opp av grunn som nemnd i tenestemannslova § 13 nr. 1 a, b og c, og som var omfatta av desse føresegnene før utskillinga. Føreretten til anna statsstilling og retten til venteløn etter førre punktum opphøyrer tre år etter overføringa.\nFøresegnene i førre ledd innskrenkar ikkje rettane til arbeidstakarane etter arbeidsmiljølova​2 §§ 60 nr. 2 og 67.\n1 Lov 4 mars 1983 nr. 3.\n2 Lov 4 feb 1977 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Sluttføresegner",
+      "content": "Denne lova tek til å gjelde straks.\nLova gjeld, i tillegg til det som vert regulert i § 1, for tilsette som på det tidspunktet lova tek til å gjelde, allereie er overført frå Televerket til eit selskap utskild etter 1. januar 1992.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Virkeområde",
+      "content": "Lova gjeld tilsette i Televerket, som ved utskilling av delar av verksemda i Televerket til eigne selskap, vert tilsette i slikt selskap.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Rettar",
+      "content": "Tenestemannslova​1 § 13 nr. 2 til nr. 6 om førerett til anna statsstilling og venteløn skal i tilfelle som nemnd i § 1 framleis gjelde for arbeidstakarar som vert sagt opp av grunn som nemnd i tenestemannslova § 13 nr. 1 a, b og c, og som var omfatta av desse føresegnene før utskillinga. Føreretten til anna statsstilling og retten til venteløn etter førre punktum opphøyrer tre år etter overføringa.\nFøresegnene i førre ledd innskrenkar ikkje rettane til arbeidstakarane etter arbeidsmiljølova​2 §§ 60 nr. 2 og 67.\n1 Lov 4 mars 1983 nr. 3.\n2 Lov 4 feb 1977 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Sluttføresegner",
+      "content": "Denne lova tek til å gjelde straks.\nLova gjeld, i tillegg til det som vert regulert i § 1, for tilsette som på det tidspunktet lova tek til å gjelde, allereie er overført frå Televerket til eit selskap utskild etter 1. januar 1992.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

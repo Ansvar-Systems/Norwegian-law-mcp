@@ -1,0 +1,147 @@
+{
+  "id": "LOV-2025-05-27-18",
+  "type": "statute",
+  "title": "Lov om digital operasjonell motstandsdyktighet i finanssektoren (DORA-loven)",
+  "short_name": "DORA-loven",
+  "status": "in_force",
+  "issued_date": "2025-05-27",
+  "in_force_date": "2025-07-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2025-05-27-18",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Forordningen om digital operasjonell motstandsdyktighet i finanssektoren",
+      "content": "(1) EØS-avtalen vedlegg IX nr. 31q (forordning (EU) 2022/2554) om digital operasjonell motstandsdyktighet i finanssektoren gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.\n(2) Når det i loven her vises til DORA-forordningen, menes forordningen slik den til enhver tid er gjennomført og endret etter første eller fjerde ledd.\n(3) Departementet kan fastsette utfyllende forskrifter til bestemmelsene i første ledd.\n(4) Departementet kan i forskrift gjøre endringer i, herunder fastsette unntak fra, bestemmelsene i første ledd til gjennomføring av Norges forpliktelser etter EØS-avtalen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Forordningens anvendelse på andre foretak",
+      "content": "(1) Departementet kan i forskrift fastsette at bestemmelsene i § 1 helt eller delvis skal gjelde for:\na. foretak nevnt i DORA-forordningen artikkel 2 nr. 3,\nb. finansieringsforetak,\nc. låneformidlingsforetak,\nd. inkassoforetak,\ne. eiendomsmeglingsforetak,\nf. morselskap i finanskonsern.\n(2) Departementet kan i forskrift fastsette forenklede krav for foretak nevnt i første ledd i samsvar med relevante bestemmelser i DORA-forordningen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Tilsyn mv.",
+      "content": "(1) Finanstilsynet er nasjonal tilsynsmyndighet etter DORA-forordningen og fører tilsyn med overholdelse av bestemmelser gitt i eller i medhold av denne loven.\n(2) Departementet kan i forskrift fastsette utfyllende krav til rapportering, register over IKT-tjenesteavtaler og annen informasjon som foretak omfattet av §§ 1 eller 2 skal gi Finanstilsynet om inngåtte og planlagte avtaler om bruk av tjenester fra IKT-leverandører.\n(3) Departementet kan i forskrift fastsette bestemmelser om rapportering av hendelser og deling av informasjon til andre varslingsmottakere enn Finanstilsynet.\n(4) Departementet kan i forskrift fastsette bestemmelser om trusselbasert penetrasjonstesting (TLPT), herunder om fordeling av oppgaver og ansvar mellom norske myndighetsorgan i henhold til DORA-forordningen artikkel 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Overtredelsesgebyr",
+      "content": "(1) Finanstilsynet kan ilegge fysiske personer eller foretak overtredelsesgebyr på inntil 50 millioner kroner ved overtredelse av følgende bestemmelser i DORA-forordningen:\na. artikkel 5 om forvaltning og organisasjon,\nb. artikkel 6 om rammeverk for IKT-risikostyring,\nc. artikkel 8 om identifisering av IKT-relaterte funksjoner og avhengigheter,\nd. artikkel 9 nr. 4 om retningslinjer for sikkerhet mv. som del av rammeverket for IKT-risikostyring, jf. artikkel 6,\ne. artikkel 11 om respons og gjenoppretting,\nf. artikkel 12 om retningslinjer og prosedyrer for sikkerhetskopiering og gjenoppretting,\ng. artikkel 14 om planer for krisekommunikasjon,\nh. artikkel 16 nr. 1 og 2 om forenklet rammeverk for IKT-risikostyring,\ni. artikkel 17 om prosess for håndtering av IKT-relaterte hendelser,\nj. artikkel 19 nr. 1, 3 og 4 om rapportering av alvorlige IKT-relaterte hendelser,\nk. artikkel 24 om generelle krav til gjennomføringen av testing av digital operasjonell motstandsdyktighet,\nl. artikkel 25 nr. 2 om sårbarhetsvurderinger før bruk av nye systemer i verdipapirsentraler og sentrale motparter,\nm. artikkel 28 om generelle prinsipper for forsvarlig styring av IKT-tredjepartsrisiko,\nn. artikkel 42 nr. 3 annet avsnitt om hensyntaken til risiko avdekket hos IKT-leverandører.\n(2) Medvirkning til overtredelse som nevnt i første ledd, kan sanksjoneres på samme måte.\n(3) Fysiske personer kan ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser. Foretak kan ilegges overtredelsesgebyr når foretaket eller noen som har handlet på foretakets vegne, forsettlig eller uaktsomt har begått en overtredelse som nevnt i første eller annet ledd.\n(4) Adgangen til å ilegge overtredelsesgebyr foreldes fem år etter at overtredelsen er opphørt. Fristen avbrytes ved at Finanstilsynet gir forhåndsvarsel eller fatter vedtak om overtredelsesgebyr.\n(5) Departementet kan i forskrift fastsette bestemmelser til utfylling og avgrensning av paragrafen her, og renter ved forsinket betaling av overtredelsesgebyret. Departementet kan i forskrift fastsette at den som forsettlig eller uaktsomt overtrer bestemmelser i forskrift gitt i medhold av loven, kan ilegges overtredelsesgebyr.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Ikrafttredelse og overgangsbestemmelser",
+      "content": "(1) Loven gjelder fra den tid​1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.\n(2) Departementet kan fastsette overgangsregler.\n1 Fra 1. juli 2025 med unntak av § 6 nr. 1 om endringer i verdipapirhandelloven § 17-1 første ledd, som trer i kraft fra den tid Kongen bestemmer iflg. res. 20 juni 2025 nr. 1084.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:\n– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Forordningen om digital operasjonell motstandsdyktighet i finanssektoren",
+      "content": "(1) EØS-avtalen vedlegg IX nr. 31q (forordning (EU) 2022/2554) om digital operasjonell motstandsdyktighet i finanssektoren gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.\n(2) Når det i loven her vises til DORA-forordningen, menes forordningen slik den til enhver tid er gjennomført og endret etter første eller fjerde ledd.\n(3) Departementet kan fastsette utfyllende forskrifter til bestemmelsene i første ledd.\n(4) Departementet kan i forskrift gjøre endringer i, herunder fastsette unntak fra, bestemmelsene i første ledd til gjennomføring av Norges forpliktelser etter EØS-avtalen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Forordningens anvendelse på andre foretak",
+      "content": "(1) Departementet kan i forskrift fastsette at bestemmelsene i § 1 helt eller delvis skal gjelde for:\na. foretak nevnt i DORA-forordningen artikkel 2 nr. 3,\nb. finansieringsforetak,\nc. låneformidlingsforetak,\nd. inkassoforetak,\ne. eiendomsmeglingsforetak,\nf. morselskap i finanskonsern.\n(2) Departementet kan i forskrift fastsette forenklede krav for foretak nevnt i første ledd i samsvar med relevante bestemmelser i DORA-forordningen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Tilsyn mv.",
+      "content": "(1) Finanstilsynet er nasjonal tilsynsmyndighet etter DORA-forordningen og fører tilsyn med overholdelse av bestemmelser gitt i eller i medhold av denne loven.\n(2) Departementet kan i forskrift fastsette utfyllende krav til rapportering, register over IKT-tjenesteavtaler og annen informasjon som foretak omfattet av §§ 1 eller 2 skal gi Finanstilsynet om inngåtte og planlagte avtaler om bruk av tjenester fra IKT-leverandører.\n(3) Departementet kan i forskrift fastsette bestemmelser om rapportering av hendelser og deling av informasjon til andre varslingsmottakere enn Finanstilsynet.\n(4) Departementet kan i forskrift fastsette bestemmelser om trusselbasert penetrasjonstesting (TLPT), herunder om fordeling av oppgaver og ansvar mellom norske myndighetsorgan i henhold til DORA-forordningen artikkel 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Overtredelsesgebyr",
+      "content": "(1) Finanstilsynet kan ilegge fysiske personer eller foretak overtredelsesgebyr på inntil 50 millioner kroner ved overtredelse av følgende bestemmelser i DORA-forordningen:\na. artikkel 5 om forvaltning og organisasjon,\nb. artikkel 6 om rammeverk for IKT-risikostyring,\nc. artikkel 8 om identifisering av IKT-relaterte funksjoner og avhengigheter,\nd. artikkel 9 nr. 4 om retningslinjer for sikkerhet mv. som del av rammeverket for IKT-risikostyring, jf. artikkel 6,\ne. artikkel 11 om respons og gjenoppretting,\nf. artikkel 12 om retningslinjer og prosedyrer for sikkerhetskopiering og gjenoppretting,\ng. artikkel 14 om planer for krisekommunikasjon,\nh. artikkel 16 nr. 1 og 2 om forenklet rammeverk for IKT-risikostyring,\ni. artikkel 17 om prosess for håndtering av IKT-relaterte hendelser,\nj. artikkel 19 nr. 1, 3 og 4 om rapportering av alvorlige IKT-relaterte hendelser,\nk. artikkel 24 om generelle krav til gjennomføringen av testing av digital operasjonell motstandsdyktighet,\nl. artikkel 25 nr. 2 om sårbarhetsvurderinger før bruk av nye systemer i verdipapirsentraler og sentrale motparter,\nm. artikkel 28 om generelle prinsipper for forsvarlig styring av IKT-tredjepartsrisiko,\nn. artikkel 42 nr. 3 annet avsnitt om hensyntaken til risiko avdekket hos IKT-leverandører.\n(2) Medvirkning til overtredelse som nevnt i første ledd, kan sanksjoneres på samme måte.\n(3) Fysiske personer kan ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser. Foretak kan ilegges overtredelsesgebyr når foretaket eller noen som har handlet på foretakets vegne, forsettlig eller uaktsomt har begått en overtredelse som nevnt i første eller annet ledd.\n(4) Adgangen til å ilegge overtredelsesgebyr foreldes fem år etter at overtredelsen er opphørt. Fristen avbrytes ved at Finanstilsynet gir forhåndsvarsel eller fatter vedtak om overtredelsesgebyr.\n(5) Departementet kan i forskrift fastsette bestemmelser til utfylling og avgrensning av paragrafen her, og renter ved forsinket betaling av overtredelsesgebyret. Departementet kan i forskrift fastsette at den som forsettlig eller uaktsomt overtrer bestemmelser i forskrift gitt i medhold av loven, kan ilegges overtredelsesgebyr.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Ikrafttredelse og overgangsbestemmelser",
+      "content": "(1) Loven gjelder fra den tid​1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.\n(2) Departementet kan fastsette overgangsregler.\n1 Fra 1. juli 2025 med unntak av § 6 nr. 1 om endringer i verdipapirhandelloven § 17-1 første ledd, som trer i kraft fra den tid Kongen bestemmer iflg. res. 20 juni 2025 nr. 1084.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:\n– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    }
+  ]
+}

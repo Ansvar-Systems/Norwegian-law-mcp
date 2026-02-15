@@ -1,0 +1,591 @@
+{
+  "id": "LOV-1999-07-16-66",
+  "type": "statute",
+  "title": "Lov om Schengen informasjonssystem (SIS) [SIS-loven]",
+  "short_name": "SIS-loven – SISl",
+  "status": "in_force",
+  "issued_date": "1999-07-16",
+  "in_force_date": "2001-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/1999-07-16-66",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Gjennomføring av forordninger om Schengen informasjonssystem (SIS)",
+      "content": "Følgende forordninger gjelder som lov:\n1. Forordning (EU) 2018/1862 om opprettelse, drift og bruk av Schengen-informasjonssystem (SIS) innenfor politisamarbeid og strafferettslig samarbeid (politisamarbeidsforordningen), som endret ved forordning (EU) 2019/818, forordning (EU) 2021/1133 og forordning (EU) 2021/1150\n2. Forordning (EU) 2018/1861 om opprettelse, drift og bruk av Schengen-informasjonssystem (SIS) på området inn- og utreisekontroll (grensekontrollforordningen), som endret ved forordning (EU) 2019/817, forordning (EU) 2021/1134 og forordning (EU) 2021/1152\n3. Forordning (EU) 2018/1860 om bruk av Schengen-informasjonssystem i forbindelse med retur av tredjestatsborgere med ulovlig opphold (returforordningen), som endret ved forordning (EU) 2021/1134 og forordning (EU) 2021/1152.\n0 Endret ved lover 27 juni 2008 nr. 66 (ikr. 9 apr 2013 iflg. res. 5 apr 2013 nr. 337), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173), 21 juni 2024 nr. 47 (i kraft 12 okt 2025 iflg. res. 19 sep 2025 nr. 1876).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "SIS og SIRENE",
+      "content": "SIS er et informasjonssystem knyttet til Schengen-samarbeidet.\nSIRENE-kontoret er det nasjonale kontaktpunktet for utveksling av supplerende opplysninger, som Kripos har ansvaret for.\n0 Endret ved lover 30 juni 2006 nr. 47 (ikr. 30 juni 2006 iflg. res. 30 juni 2006 nr. 746) 27 juni 2008 nr. 66 (ikr. 9 apr 2013 iflg. res. 5 apr 2013 nr. 337), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Geografisk virkeområde",
+      "content": "Loven gjelder ikke for Svalbard.\n0 Endret ved lov 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 26).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Behandlingsansvar",
+      "content": "Kripos er behandlingsansvarlig for behandling av opplysninger etter politisamarbeidsforordningen og grensekontrollforordningen.\nUtlendingsdirektoratet er behandlingsansvarlig for behandling av opplysninger etter returforordningen.\n0 Tilføyd ved lov 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Informasjonssikkerhet",
+      "content": "Reglene om informasjonssikkerhet i politiregisterloven § 15 gjelder for behandling av opplysninger etter politisamarbeidsforordningen.\nFor behandling av opplysninger etter grensekontrollforordningen og returforordningen gjelder reglene om informasjonssikkerhet i personvernforordningen kapittel IV.\n0 Endret ved lover 14 apr 2000 nr. 31 (ikr. 1 jan 2001 iflg. res. 30 juni 2000 nr. 641), 8 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 3).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Internkontroll",
+      "content": "Reglene om internkontroll i politiregisterloven § 16 gjelder for behandling av opplysninger etter politisamarbeidsforordningen.\nFor behandling av opplysninger etter grensekontrollforordningen og returforordningen gjelder reglene om internkontroll i personvernforordningen kapittel IV.\n0 Endret ved lover 14 apr 2000 nr. 31 (ikr. 1 jan 2001 iflg. res. 30 juni 2000 nr. 641), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 4).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Opplysninger som kan behandles",
+      "content": "Det kan behandles opplysninger om personer som nevnt i:\n1. politisamarbeidsforordningen artikkel 20\n2. grensekontrollforordningen artikkel 20\n3. returforordningen artikkel 4.\nOm gjenstander kan det behandles opplysninger som nevnt i politisamarbeidsforordningen artikkel 38 eller annet betalingsmiddel som nevnt i artikkel 36 nr. 1.\n0 Endret ved lover 30 juni 2006 nr. 47 (ikr. 30 juni 2006 iflg. res. 30 juni 2006 nr. 746), 19 juni 2009 nr. 41 (ikr. 1 jan 2010 iflg. res. 30 okt 2009 nr. 1324), 9 mai 2014 nr. 16 (ikr. 9 mai 2014 iflg. res. 9 mai 2014 nr. 625), 20 juni 2014 nr. 47 (ikr. 1 juli 2014 iflg. res. 20 juni 2014 nr. 792), 31 mars 2017 nr. 14 (ikr. 18 april 2017 iflg. res. 31 mars 2017 nr. 414), 22 juni 2018 nr. 78 (ikr. 1 nov 2018 iflg. res. 5 okt 2018 nr. 1547), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Vilkår for å behandle opplysninger om personer og gjenstander",
+      "content": "Behandling av opplysninger om personer skal skje på de vilkår som fremgår av:\n1. politisamarbeidsforordningen artikkel 26, 32, 34, 36 og 40\n2. grensekontrollforordningen artikkel 24, 25 og 26\n3. returforordningen artikkel 3.\nDet kan behandles opplysninger om gjenstander som ettersøkes for beslag eller som bevis i en straffesak, jf. politisamarbeidsforordningen artikkel 38, eller på vilkår som nevnt i artikkel 26 nr. 5, artikkel 32 nr. 8, artikkel 34 nr. 2 eller artikkel 36.\nRegistreringen av opplysninger i SIS må være besluttet av kompetent myndighet.\n0 Endret ved lover 28 apr 2006 nr. 11 (ikr. 28 apr 2006 iflg. res. 28 apr 2006 nr. 451), 27 juni 2008 nr. 66 (ikr. 9 apr 2013 iflg. res. 5 apr 2013 nr. 337), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Kobling mellom meldinger",
+      "content": "Det kan opprettes koblinger mellom meldinger på vilkår som nevnt i:\n1. politisamarbeidsforordningen artikkel 63\n2. grensekontrollforordningen artikkel 48\n3. returforordningen artikkel 19.\n0 Tilføyd ved lov 27 juni 2008 nr. 66 (ikr. 9 apr 2013 iflg. res. 5 apr 2013 nr. 337), endret ved lov 8 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 9a).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Behandling av opplysninger til andre formål",
+      "content": "Opplysningene som behandles i SIS, kan ikke behandles for andre formål enn de som er fastsatt for den enkelte behandling, med mindre det er adgang til dette i samsvar med:\n1. politisamarbeidsforordningen artikkel 56 nr. 5\n2. grensekontrollforordningen artikkel 41 nr. 5\n3. returforordningen artikkel 19.\n0 Endret ved lov 8 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Utveksling av opplysninger som ikke formidles via SIS (supplerende opplysninger)",
+      "content": "Opplysninger som ikke formidles via SIS (supplerende opplysninger), skal utveksles via SIRENE-kontoret. Supplerende opplysninger skal bare brukes for det formålet opplysningene er gitt for, med mindre det er innhentet forutgående samtykke fra den innmeldende staten som nevnt i:\n1. politisamarbeidsforordningen artikkel 8 nr. 2\n2. grensekontrollforordningen artikkel 8 nr. 2\n3. returforordningen artikkel 19.\nFor behandlingen av supplerende opplysninger etter politisamarbeidsforordningen gjelder politiregisterloven. For behandlingen av supplerende opplysninger etter grensekontrollforordningen og returforordningen gjelder personopplysningsloven, med mindre det er fastsatt i eller i medhold av politiregisterloven at opplysningene som skal utveksles, reguleres av politiregisterloven.\nSupplerende opplysninger skal slettes i samsvar med:\n1. politisamarbeidsforordningen artikkel 64\n2. grensekontrollforordningen artikkel 49\n0 Endret ved lover 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712), 28 apr 2006 nr. 11 (ikr. 28 apr 2006 iflg. res. 28 apr 2006 nr. 451), 22 apr 2016 nr. 3 (ikr. 22 apr 2016 iflg. res. 22 apr 2016 nr. 407), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Tilgang til SIS",
+      "content": "Følgende myndigheter skal ha tilgang (adgang til direkte søk) til SIS:\n1. politi- og tollmyndighet samt Kystvakten når de utøver grensekontroll og annen kontroll\n2. påtale- og politimyndighet\n3. utlendingsmyndighet, for formål som nevnt i politisamarbeidsforordningen artikkel 44 nr. 1 bokstav d og nr. 2, grensekontrollforordningen artikkel 34 nr. 1 bokstav d og f og nr. 2 og returforordningen artikkel 19\n4. myndighet med ansvar for registrering av kjøretøyer, til formål og opplysninger som nevnt i politisamarbeidsforordningen artikkel 45\n5. myndighet med ansvar for å utstede registreringsbevis eller sikre trafikkstyring for båter og luftfartøyer mv., til formål og opplysninger som nevnt i politisamarbeidsforordningen artikkel 46\n6. myndighet med ansvar for å utstede løyve for skytevåpen til formål og opplysninger som nevnt i politisamarbeidsforordningen artikkel 47.\nTilgang til registeret skal kun gis til personer som har fått særskilt bemyndigelse. Brukerne kan bare søke etter opplysninger som er nødvendige for å ivareta deres oppgaver.\n0 Endret ved lover 28 apr 2006 nr. 11 (ikr. 28 apr 2006 iflg. res. 28 apr 2006 nr. 451), 30 juni 2006 nr. 47 (ikr. 30 juni 2006 iflg. res. 30 juni 2006 nr. 746), 27 juni 2008 nr. 66 (ikr. 9 apr 2013 iflg. res. 5 apr 2013 nr. 337), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Utlevering av opplysninger fra SIS",
+      "content": "Opplysninger om personer og gjenstander kan etter begjæring utleveres fra registeret til:\n1. politi- og tollmyndighet samt Kystvakten når de utøver grensekontroll\n2. politi- og tollmyndighet når den foretar annen kontroll enn grensekontroll, samt Kystvakten når den utøver oppgaver som ellers er tillagt politi- og tollmyndighet\n3. påtale- og politimyndighet\n4. utlendingsmyndighet i saker som nevnt i § 12 første ledd nr. 3\n5. veimyndighet i saker som nevnt i § 12 første ledd nr. 4\n6. myndighet med ansvar for å utstede registreringsbevis eller sikre trafikkstyring for båter og luftfartøyer mv. i saker som nevnt i § 12 første ledd nr. 5\n7. myndighet med ansvar for å utstede løyve for skytevåpen i saker som nevnt i § 12 første ledd nr. 6\n8. myndigheter som kan ha oppgaver i tilknytning til politisamarbeidsforordningen artikkel 32\n9. departementet og Politidirektoratet i forbindelse med utøvelse av overordnet myndighet.\nDet kan bare utleveres opplysninger som er nødvendige for å ivareta mottakerens oppgaver.\n0 Endret ved lover 28 apr 2006 nr. 11 (ikr. 28 apr 2006 iflg. res. 28 apr 2006 nr. 451), 30 juni 2006 nr. 47 (ikr. 30 juni 2006 iflg. res. 30 juni 2006 nr. 746), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Taushetsplikt",
+      "content": "Enhver som under utøvelse av tjeneste eller arbeid får adgang eller kjennskap til opplysninger fra SIS, plikter å hindre at uvedkommende får kjennskap til disse. Taushetsplikten gjelder også etter at vedkommende har avsluttet tjenesten eller arbeidet.\nForvaltningsloven §§ 13 til 13 d og 13 g gjelder ikke.\n0 Endret ved lover 18 juni 2021 nr. 127 (ikr. 1 juli 2021 iflg. res. 18 juni 2021 nr. 2026), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "title": "Innsyn",
+      "content": "Rett til innsyn i opplysninger som er registrert i medhold av politisamarbeidsforordningen, reguleres av politiregisterloven § 49.\nRett til innsyn i opplysninger som er registrert i medhold av grensekontrollforordningen og returforordningen, reguleres av grensekontrollforordningen artikkel 53.\n0 Endret ved lov 8 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "title": "Sletting av opplysninger om personer og gjenstander",
+      "content": "Opplysninger som er registrert i medhold av politisamarbeidsforordningen, skal slettes etter fristene i forordningen artikkel 53, 54, og 55.\nOpplysninger som er registrert i medhold av grensekontrollforordningen, skal slettes etter fristene i forordningen artikkel 39 og 40.\nOpplysninger som er registrert i medhold av returforordningen, skal slettes etter fristene i forordningen artikkel 6, 8 til 12 og 14.\n0 Tilføyd ved lov 8 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Retting og sletting av uriktige opplysninger mv.",
+      "content": "For retting og sletting av uriktige eller mangelfulle opplysninger som er registrert i medhold av politisamarbeidsforordningen, gjelder politiregisterloven §§ 51 og 53.\nFor retting og sletting av uriktige eller mangelfulle opplysninger som er registrert i medhold av grensekontrollforordningen og returforordningen, gjelder personvernforordningen artikkel 16 og 17. Den behandlingsansvarlige skal så vidt mulig sørge for at feilen ikke får betydning for den registrerte.\nDersom registrerte opplysninger som nevnt i første og annet ledd er lagt inn av en annen stat, skal den behandlingsansvarlige uten opphold underrette denne staten med anmodning om å rette, supplere eller slette opplysningene.\n0 Endret ved lov 8 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 16).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Saksbehandlingsregler ved begjæring om innsyn, retting og sletting",
+      "content": "Begjæring om innsyn, retting eller sletting fremsettes for den behandlingsansvarlige eller den myndighet som har besluttet registrering, men avgjøres av den behandlingsansvarlige. Dersom meldingen det begjæres innsyn i, er lagt inn av en annen stat, plikter den behandlingsansvarlige å gi denne staten anledning til å uttale seg før innsyn gis.\nDen registrerte kan pålegges å legge frem en skriftlig og undertegnet begjæring.\nBegjæringer om innsyn, retting eller sletting skal besvares skriftlig uten ugrunnet opphold og senest innen 30 dager fra den dagen henvendelsen kom inn. Dersom det er uforholdsmessig vanskelig å svare på henvendelsen innen 30 dager, kan gjennomføringen utsettes i inntil to måneder. Det skal i så fall gis et foreløpig svar med angivelse av sannsynlig tidspunkt for når svar kan gis.\nDersom begjæring om innsyn i opplysninger som er registrert i medhold av politisamarbeidsforordningen, ikke tas til følge, gjelder politiregisterloven § 54 tredje ledd tilsvarende. Begjæring om retting og sletting i slike opplysninger skal bare behandles dersom den registrerte tidligere har fått innsyn i eller underretning om den registreringen begjæringen gjelder.\nDen registrerte skal informeres om sine rettigheter etter § 21 samt adgangen til å bringe saken inn for en domstol.\n0 Endret ved lov 8 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 17).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "6:19",
+      "chapter": "6",
+      "section": "19",
+      "title": "Erstatning",
+      "content": "En person har krav på erstatning for skade som er påført som følge av at opplysninger er registrert eller brukt i strid med reglene for behandling av opplysninger i SIS. Dette gjelder uten hensyn til om det er utvist skyld av den behandlingsansvarlige eller dennes databehandler eller av noen annen som har truffet beslutning eller lagt inn melding om registrering.\nErstatningen skal svare til det økonomiske tap som den registrerte er påført ved den ulovlige registreringen eller bruken av opplysningene. Erstatningen kan også omfatte erstatning for krenkelse eller annen skade av ikke-økonomisk art (oppreisning) i den utstrekning dette finnes rimelig.\nKrav om erstatning fremsettes for den behandlingsansvarlige eller den myndighet som har besluttet registrering, men behandles av den behandlingsansvarlige. Krav om erstatning må fremsettes senest ett år etter at den skadelidte er blitt kjent med registreringen. Når krav fremsettes etter at den skadelidte har vært siktet i en straffesak, gjelder likevel behandlingsreglene i straffeprosessloven kapittel 31. Straffeprosessloven § 444, § 445 og § 446 gjelder ikke for krav om erstatning etter bestemmelsen her.\n0 Endret ved lov 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 18).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "6:20",
+      "chapter": "6",
+      "section": "20",
+      "title": "Klageadgang",
+      "content": "Avgjørelser om erstatning som knytter seg til behandling av opplysninger etter politisamarbeidsforordningen eller grensekontrollforordningen, kan påklages til Politidirektoratet av den registrerte eller eieren av en registrert gjenstand. Avgjørelser om erstatning som knytter seg til behandling av opplysninger etter returforordningen, kan påklages til departementet av den registrerte.\nForvaltningsloven kapittel VI gjelder tilsvarende så langt det passer.\n0 Endret ved lover 30 juni 2006 nr. 47 (ikr. 30 juni 2006 iflg. res. 30 juni 2006 nr. 746), 27 juni 2008 nr. 66 (ikr. 1 jan 2011 iflg. res. 17 des 2010 nr. 1611), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 19).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "7:21",
+      "chapter": "7",
+      "section": "21",
+      "title": "Datatilsynets tilsyn og kontroll mv.",
+      "content": "For behandling av personopplysninger etter politisamarbeidsforordningen gjelder politiregisterloven §§ 58 første punktum, 59, 60 og 61 om Datatilsynets tilsyn og kontroll mv.\nDatatilsynets tilsyn og kontroll med behandling av personopplysninger etter grensekontrollforordningen og returforordningen reguleres av personvernforordningen kapittel VI til VIII og personopplysningsloven kapittel 6 og 7.\nDersom opplysningene er lagt inn av en annen stat, skal kontrollen foretas i samråd med denne statens kontrollorgan. Saksbehandlingsreglene i § 18 gjelder tilsvarende.\n0 Endret ved lover 27 juni 2008 nr. 66 (ikr. 1 jan 2011 iflg. res. 17 des 2010 nr. 1611), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "7:22",
+      "chapter": "7",
+      "section": "22",
+      "title": "Særregler om meldinger lagt inn av en annen stat",
+      "content": "Dersom Datatilsynets pålegg gjelder en melding som er lagt inn av en annen stat, skal den behandlingsansvarlige oversende avgjørelsen til denne staten med anmodning om fullbyrdelse.\nDen behandlingsansvarlige skal fullbyrde endelige avgjørelser truffet av andre staters myndigheter som gjelder meldinger lagt inn av norske myndigheter.\n0 Endret ved lover 30 juni 2006 nr. 47 (ikr. 30 juni 2006 iflg. res. 30 juni 2006 nr. 746), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 24).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "8:23",
+      "chapter": "8",
+      "section": "23",
+      "title": "Forskrifter",
+      "content": "Departementet kan gi forskrift til utfylling og gjennomføring av denne loven, herunder om behandlingsansvaret etter § 4.\n0 Endret ved lov 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 25).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "9:24",
+      "chapter": "9",
+      "section": "24",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid​1 Kongen bestemmer.\n0 Endret ved lov 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 27).\n1 Fra 1 jan 2001 iflg. res. 21 des 2000 nr. 1347.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Gjennomføring av forordninger om Schengen informasjonssystem (SIS)",
+      "content": "Følgende forordninger gjelder som lov:\n1. Forordning (EU) 2018/1862 om opprettelse, drift og bruk av Schengen-informasjonssystem (SIS) innenfor politisamarbeid og strafferettslig samarbeid (politisamarbeidsforordningen), som endret ved forordning (EU) 2019/818, forordning (EU) 2021/1133 og forordning (EU) 2021/1150\n2. Forordning (EU) 2018/1861 om opprettelse, drift og bruk av Schengen-informasjonssystem (SIS) på området inn- og utreisekontroll (grensekontrollforordningen), som endret ved forordning (EU) 2019/817, forordning (EU) 2021/1134 og forordning (EU) 2021/1152\n3. Forordning (EU) 2018/1860 om bruk av Schengen-informasjonssystem i forbindelse med retur av tredjestatsborgere med ulovlig opphold (returforordningen), som endret ved forordning (EU) 2021/1134 og forordning (EU) 2021/1152.\n0 Endret ved lover 27 juni 2008 nr. 66 (ikr. 9 apr 2013 iflg. res. 5 apr 2013 nr. 337), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173), 21 juni 2024 nr. 47 (i kraft 12 okt 2025 iflg. res. 19 sep 2025 nr. 1876).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "SIS og SIRENE",
+      "content": "SIS er et informasjonssystem knyttet til Schengen-samarbeidet.\nSIRENE-kontoret er det nasjonale kontaktpunktet for utveksling av supplerende opplysninger, som Kripos har ansvaret for.\n0 Endret ved lover 30 juni 2006 nr. 47 (ikr. 30 juni 2006 iflg. res. 30 juni 2006 nr. 746) 27 juni 2008 nr. 66 (ikr. 9 apr 2013 iflg. res. 5 apr 2013 nr. 337), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Geografisk virkeområde",
+      "content": "Loven gjelder ikke for Svalbard.\n0 Endret ved lov 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 26).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Behandlingsansvar",
+      "content": "Kripos er behandlingsansvarlig for behandling av opplysninger etter politisamarbeidsforordningen og grensekontrollforordningen.\nUtlendingsdirektoratet er behandlingsansvarlig for behandling av opplysninger etter returforordningen.\n0 Tilføyd ved lov 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Informasjonssikkerhet",
+      "content": "Reglene om informasjonssikkerhet i politiregisterloven § 15 gjelder for behandling av opplysninger etter politisamarbeidsforordningen.\nFor behandling av opplysninger etter grensekontrollforordningen og returforordningen gjelder reglene om informasjonssikkerhet i personvernforordningen kapittel IV.\n0 Endret ved lover 14 apr 2000 nr. 31 (ikr. 1 jan 2001 iflg. res. 30 juni 2000 nr. 641), 8 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 3).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Internkontroll",
+      "content": "Reglene om internkontroll i politiregisterloven § 16 gjelder for behandling av opplysninger etter politisamarbeidsforordningen.\nFor behandling av opplysninger etter grensekontrollforordningen og returforordningen gjelder reglene om internkontroll i personvernforordningen kapittel IV.\n0 Endret ved lover 14 apr 2000 nr. 31 (ikr. 1 jan 2001 iflg. res. 30 juni 2000 nr. 641), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 4).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Opplysninger som kan behandles",
+      "content": "Det kan behandles opplysninger om personer som nevnt i:\n1. politisamarbeidsforordningen artikkel 20\n2. grensekontrollforordningen artikkel 20\n3. returforordningen artikkel 4.\nOm gjenstander kan det behandles opplysninger som nevnt i politisamarbeidsforordningen artikkel 38 eller annet betalingsmiddel som nevnt i artikkel 36 nr. 1.\n0 Endret ved lover 30 juni 2006 nr. 47 (ikr. 30 juni 2006 iflg. res. 30 juni 2006 nr. 746), 19 juni 2009 nr. 41 (ikr. 1 jan 2010 iflg. res. 30 okt 2009 nr. 1324), 9 mai 2014 nr. 16 (ikr. 9 mai 2014 iflg. res. 9 mai 2014 nr. 625), 20 juni 2014 nr. 47 (ikr. 1 juli 2014 iflg. res. 20 juni 2014 nr. 792), 31 mars 2017 nr. 14 (ikr. 18 april 2017 iflg. res. 31 mars 2017 nr. 414), 22 juni 2018 nr. 78 (ikr. 1 nov 2018 iflg. res. 5 okt 2018 nr. 1547), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Vilkår for å behandle opplysninger om personer og gjenstander",
+      "content": "Behandling av opplysninger om personer skal skje på de vilkår som fremgår av:\n1. politisamarbeidsforordningen artikkel 26, 32, 34, 36 og 40\n2. grensekontrollforordningen artikkel 24, 25 og 26\n3. returforordningen artikkel 3.\nDet kan behandles opplysninger om gjenstander som ettersøkes for beslag eller som bevis i en straffesak, jf. politisamarbeidsforordningen artikkel 38, eller på vilkår som nevnt i artikkel 26 nr. 5, artikkel 32 nr. 8, artikkel 34 nr. 2 eller artikkel 36.\nRegistreringen av opplysninger i SIS må være besluttet av kompetent myndighet.\n0 Endret ved lover 28 apr 2006 nr. 11 (ikr. 28 apr 2006 iflg. res. 28 apr 2006 nr. 451), 27 juni 2008 nr. 66 (ikr. 9 apr 2013 iflg. res. 5 apr 2013 nr. 337), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Kobling mellom meldinger",
+      "content": "Det kan opprettes koblinger mellom meldinger på vilkår som nevnt i:\n1. politisamarbeidsforordningen artikkel 63\n2. grensekontrollforordningen artikkel 48\n3. returforordningen artikkel 19.\n0 Tilføyd ved lov 27 juni 2008 nr. 66 (ikr. 9 apr 2013 iflg. res. 5 apr 2013 nr. 337), endret ved lov 8 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 9a).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Behandling av opplysninger til andre formål",
+      "content": "Opplysningene som behandles i SIS, kan ikke behandles for andre formål enn de som er fastsatt for den enkelte behandling, med mindre det er adgang til dette i samsvar med:\n1. politisamarbeidsforordningen artikkel 56 nr. 5\n2. grensekontrollforordningen artikkel 41 nr. 5\n3. returforordningen artikkel 19.\n0 Endret ved lov 8 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Utveksling av opplysninger som ikke formidles via SIS (supplerende opplysninger)",
+      "content": "Opplysninger som ikke formidles via SIS (supplerende opplysninger), skal utveksles via SIRENE-kontoret. Supplerende opplysninger skal bare brukes for det formålet opplysningene er gitt for, med mindre det er innhentet forutgående samtykke fra den innmeldende staten som nevnt i:\n1. politisamarbeidsforordningen artikkel 8 nr. 2\n2. grensekontrollforordningen artikkel 8 nr. 2\n3. returforordningen artikkel 19.\nFor behandlingen av supplerende opplysninger etter politisamarbeidsforordningen gjelder politiregisterloven. For behandlingen av supplerende opplysninger etter grensekontrollforordningen og returforordningen gjelder personopplysningsloven, med mindre det er fastsatt i eller i medhold av politiregisterloven at opplysningene som skal utveksles, reguleres av politiregisterloven.\nSupplerende opplysninger skal slettes i samsvar med:\n1. politisamarbeidsforordningen artikkel 64\n2. grensekontrollforordningen artikkel 49\n0 Endret ved lover 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712), 28 apr 2006 nr. 11 (ikr. 28 apr 2006 iflg. res. 28 apr 2006 nr. 451), 22 apr 2016 nr. 3 (ikr. 22 apr 2016 iflg. res. 22 apr 2016 nr. 407), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Tilgang til SIS",
+      "content": "Følgende myndigheter skal ha tilgang (adgang til direkte søk) til SIS:\n1. politi- og tollmyndighet samt Kystvakten når de utøver grensekontroll og annen kontroll\n2. påtale- og politimyndighet\n3. utlendingsmyndighet, for formål som nevnt i politisamarbeidsforordningen artikkel 44 nr. 1 bokstav d og nr. 2, grensekontrollforordningen artikkel 34 nr. 1 bokstav d og f og nr. 2 og returforordningen artikkel 19\n4. myndighet med ansvar for registrering av kjøretøyer, til formål og opplysninger som nevnt i politisamarbeidsforordningen artikkel 45\n5. myndighet med ansvar for å utstede registreringsbevis eller sikre trafikkstyring for båter og luftfartøyer mv., til formål og opplysninger som nevnt i politisamarbeidsforordningen artikkel 46\n6. myndighet med ansvar for å utstede løyve for skytevåpen til formål og opplysninger som nevnt i politisamarbeidsforordningen artikkel 47.\nTilgang til registeret skal kun gis til personer som har fått særskilt bemyndigelse. Brukerne kan bare søke etter opplysninger som er nødvendige for å ivareta deres oppgaver.\n0 Endret ved lover 28 apr 2006 nr. 11 (ikr. 28 apr 2006 iflg. res. 28 apr 2006 nr. 451), 30 juni 2006 nr. 47 (ikr. 30 juni 2006 iflg. res. 30 juni 2006 nr. 746), 27 juni 2008 nr. 66 (ikr. 9 apr 2013 iflg. res. 5 apr 2013 nr. 337), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Utlevering av opplysninger fra SIS",
+      "content": "Opplysninger om personer og gjenstander kan etter begjæring utleveres fra registeret til:\n1. politi- og tollmyndighet samt Kystvakten når de utøver grensekontroll\n2. politi- og tollmyndighet når den foretar annen kontroll enn grensekontroll, samt Kystvakten når den utøver oppgaver som ellers er tillagt politi- og tollmyndighet\n3. påtale- og politimyndighet\n4. utlendingsmyndighet i saker som nevnt i § 12 første ledd nr. 3\n5. veimyndighet i saker som nevnt i § 12 første ledd nr. 4\n6. myndighet med ansvar for å utstede registreringsbevis eller sikre trafikkstyring for båter og luftfartøyer mv. i saker som nevnt i § 12 første ledd nr. 5\n7. myndighet med ansvar for å utstede løyve for skytevåpen i saker som nevnt i § 12 første ledd nr. 6\n8. myndigheter som kan ha oppgaver i tilknytning til politisamarbeidsforordningen artikkel 32\n9. departementet og Politidirektoratet i forbindelse med utøvelse av overordnet myndighet.\nDet kan bare utleveres opplysninger som er nødvendige for å ivareta mottakerens oppgaver.\n0 Endret ved lover 28 apr 2006 nr. 11 (ikr. 28 apr 2006 iflg. res. 28 apr 2006 nr. 451), 30 juni 2006 nr. 47 (ikr. 30 juni 2006 iflg. res. 30 juni 2006 nr. 746), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Taushetsplikt",
+      "content": "Enhver som under utøvelse av tjeneste eller arbeid får adgang eller kjennskap til opplysninger fra SIS, plikter å hindre at uvedkommende får kjennskap til disse. Taushetsplikten gjelder også etter at vedkommende har avsluttet tjenesten eller arbeidet.\nForvaltningsloven §§ 13 til 13 d og 13 g gjelder ikke.\n0 Endret ved lover 18 juni 2021 nr. 127 (ikr. 1 juli 2021 iflg. res. 18 juni 2021 nr. 2026), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "title": "Innsyn",
+      "content": "Rett til innsyn i opplysninger som er registrert i medhold av politisamarbeidsforordningen, reguleres av politiregisterloven § 49.\nRett til innsyn i opplysninger som er registrert i medhold av grensekontrollforordningen og returforordningen, reguleres av grensekontrollforordningen artikkel 53.\n0 Endret ved lov 8 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "title": "Sletting av opplysninger om personer og gjenstander",
+      "content": "Opplysninger som er registrert i medhold av politisamarbeidsforordningen, skal slettes etter fristene i forordningen artikkel 53, 54, og 55.\nOpplysninger som er registrert i medhold av grensekontrollforordningen, skal slettes etter fristene i forordningen artikkel 39 og 40.\nOpplysninger som er registrert i medhold av returforordningen, skal slettes etter fristene i forordningen artikkel 6, 8 til 12 og 14.\n0 Tilføyd ved lov 8 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Retting og sletting av uriktige opplysninger mv.",
+      "content": "For retting og sletting av uriktige eller mangelfulle opplysninger som er registrert i medhold av politisamarbeidsforordningen, gjelder politiregisterloven §§ 51 og 53.\nFor retting og sletting av uriktige eller mangelfulle opplysninger som er registrert i medhold av grensekontrollforordningen og returforordningen, gjelder personvernforordningen artikkel 16 og 17. Den behandlingsansvarlige skal så vidt mulig sørge for at feilen ikke får betydning for den registrerte.\nDersom registrerte opplysninger som nevnt i første og annet ledd er lagt inn av en annen stat, skal den behandlingsansvarlige uten opphold underrette denne staten med anmodning om å rette, supplere eller slette opplysningene.\n0 Endret ved lov 8 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 16).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Saksbehandlingsregler ved begjæring om innsyn, retting og sletting",
+      "content": "Begjæring om innsyn, retting eller sletting fremsettes for den behandlingsansvarlige eller den myndighet som har besluttet registrering, men avgjøres av den behandlingsansvarlige. Dersom meldingen det begjæres innsyn i, er lagt inn av en annen stat, plikter den behandlingsansvarlige å gi denne staten anledning til å uttale seg før innsyn gis.\nDen registrerte kan pålegges å legge frem en skriftlig og undertegnet begjæring.\nBegjæringer om innsyn, retting eller sletting skal besvares skriftlig uten ugrunnet opphold og senest innen 30 dager fra den dagen henvendelsen kom inn. Dersom det er uforholdsmessig vanskelig å svare på henvendelsen innen 30 dager, kan gjennomføringen utsettes i inntil to måneder. Det skal i så fall gis et foreløpig svar med angivelse av sannsynlig tidspunkt for når svar kan gis.\nDersom begjæring om innsyn i opplysninger som er registrert i medhold av politisamarbeidsforordningen, ikke tas til følge, gjelder politiregisterloven § 54 tredje ledd tilsvarende. Begjæring om retting og sletting i slike opplysninger skal bare behandles dersom den registrerte tidligere har fått innsyn i eller underretning om den registreringen begjæringen gjelder.\nDen registrerte skal informeres om sine rettigheter etter § 21 samt adgangen til å bringe saken inn for en domstol.\n0 Endret ved lov 8 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 17).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "6:19",
+      "chapter": "6",
+      "section": "19",
+      "title": "Erstatning",
+      "content": "En person har krav på erstatning for skade som er påført som følge av at opplysninger er registrert eller brukt i strid med reglene for behandling av opplysninger i SIS. Dette gjelder uten hensyn til om det er utvist skyld av den behandlingsansvarlige eller dennes databehandler eller av noen annen som har truffet beslutning eller lagt inn melding om registrering.\nErstatningen skal svare til det økonomiske tap som den registrerte er påført ved den ulovlige registreringen eller bruken av opplysningene. Erstatningen kan også omfatte erstatning for krenkelse eller annen skade av ikke-økonomisk art (oppreisning) i den utstrekning dette finnes rimelig.\nKrav om erstatning fremsettes for den behandlingsansvarlige eller den myndighet som har besluttet registrering, men behandles av den behandlingsansvarlige. Krav om erstatning må fremsettes senest ett år etter at den skadelidte er blitt kjent med registreringen. Når krav fremsettes etter at den skadelidte har vært siktet i en straffesak, gjelder likevel behandlingsreglene i straffeprosessloven kapittel 31. Straffeprosessloven § 444, § 445 og § 446 gjelder ikke for krav om erstatning etter bestemmelsen her.\n0 Endret ved lov 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 18).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "6:20",
+      "chapter": "6",
+      "section": "20",
+      "title": "Klageadgang",
+      "content": "Avgjørelser om erstatning som knytter seg til behandling av opplysninger etter politisamarbeidsforordningen eller grensekontrollforordningen, kan påklages til Politidirektoratet av den registrerte eller eieren av en registrert gjenstand. Avgjørelser om erstatning som knytter seg til behandling av opplysninger etter returforordningen, kan påklages til departementet av den registrerte.\nForvaltningsloven kapittel VI gjelder tilsvarende så langt det passer.\n0 Endret ved lover 30 juni 2006 nr. 47 (ikr. 30 juni 2006 iflg. res. 30 juni 2006 nr. 746), 27 juni 2008 nr. 66 (ikr. 1 jan 2011 iflg. res. 17 des 2010 nr. 1611), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 19).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "7:21",
+      "chapter": "7",
+      "section": "21",
+      "title": "Datatilsynets tilsyn og kontroll mv.",
+      "content": "For behandling av personopplysninger etter politisamarbeidsforordningen gjelder politiregisterloven §§ 58 første punktum, 59, 60 og 61 om Datatilsynets tilsyn og kontroll mv.\nDatatilsynets tilsyn og kontroll med behandling av personopplysninger etter grensekontrollforordningen og returforordningen reguleres av personvernforordningen kapittel VI til VIII og personopplysningsloven kapittel 6 og 7.\nDersom opplysningene er lagt inn av en annen stat, skal kontrollen foretas i samråd med denne statens kontrollorgan. Saksbehandlingsreglene i § 18 gjelder tilsvarende.\n0 Endret ved lover 27 juni 2008 nr. 66 (ikr. 1 jan 2011 iflg. res. 17 des 2010 nr. 1611), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "7:22",
+      "chapter": "7",
+      "section": "22",
+      "title": "Særregler om meldinger lagt inn av en annen stat",
+      "content": "Dersom Datatilsynets pålegg gjelder en melding som er lagt inn av en annen stat, skal den behandlingsansvarlige oversende avgjørelsen til denne staten med anmodning om fullbyrdelse.\nDen behandlingsansvarlige skal fullbyrde endelige avgjørelser truffet av andre staters myndigheter som gjelder meldinger lagt inn av norske myndigheter.\n0 Endret ved lover 30 juni 2006 nr. 47 (ikr. 30 juni 2006 iflg. res. 30 juni 2006 nr. 746), 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 24).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "8:23",
+      "chapter": "8",
+      "section": "23",
+      "title": "Forskrifter",
+      "content": "Departementet kan gi forskrift til utfylling og gjennomføring av denne loven, herunder om behandlingsansvaret etter § 4.\n0 Endret ved lov 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 25).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "9:24",
+      "chapter": "9",
+      "section": "24",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid​1 Kongen bestemmer.\n0 Endret ved lov 18 feb 2022 nr. 6 (i kraft 7 mars 2023 iflg. res. 10 feb 2023 nr. 173, tidligere § 27).\n1 Fra 1 jan 2001 iflg. res. 21 des 2000 nr. 1347.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    }
+  ]
+}

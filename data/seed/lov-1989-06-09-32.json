@@ -1,0 +1,301 @@
+{
+  "id": "LOV-1989-06-09-32",
+  "type": "statute",
+  "title": "Lov om avleveringsplikt for allment tilgjengelege dokument (pliktavleveringslova)",
+  "short_name": "Pliktavleveringslova – avlvl",
+  "status": "in_force",
+  "issued_date": "1989-06-09",
+  "in_force_date": "1990-07-01",
+  "url": "https://lovdata.no/dokument/NL/lov/1989-06-09-32",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Føremål",
+      "content": "Føremålet med denne lova er å tryggja avleveringa av dokument med allment tilgjengeleg informasjon til nasjonale samlingar, slik at desse vitnemåla om norsk kultur og samfunnsliv kan verta bevarte og gjorde tilgjengelege som kjeldemateriale for forsking og dokumentasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Geografisk verkeområde",
+      "content": "Kongen kan fastsetja at lova òg skal gjelda for Svalbard og den norske delen av kontinentalsokkelen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Definisjonar",
+      "content": "I denne lova vert desse omgrepa nytta slik:\n- Medium: noko som kan lagra informasjon.\n- Dokument: ei logisk avgrensa informasjonsmengd som er lagra på eit medium for seinare lesing, lyding, framsyning, overføring eller liknande.\n- Utgjevar: den som for eiga rekning lagar eller får laga eit dokument for å gjera det tilgjengeleg for allmenta.\n- Produsent: den som framstiller eksemplar av eit dokument for ein utgjevar.\n- Importør: den som for eiga rekning tek inn i landet dokument utgjeve i utlandet, for å gjera det tilgjengeleg for allmenta i Noreg.\nEit dokument er gjort tilgjengeleg for allmenta når\n- eksemplar av dokumentet vert bode fram for sal, utleige eller utlån, eller når dokumentet på annan måte vert spreidd utanfor ein privat krins,\n- informasjonen i dokumentet vert gjord tilgjengeleg utanfor ein privat krins gjennom framføring, framsyning, kringkasting, direktekopling e.l.\n0 Endra med lov 19 juni 2015 nr. 72 (ikr. 1 jan 2016 iflg. res. 19 juni 2015 nr. 732).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Kva som skal avleverast",
+      "content": "Både fysiske og digitale dokument som er gjorde tilgjengelege for allmenta skal avleverast i inntil sju eksemplar. Digitale grunnlagsdokument kan krevjast avleverte i tillegg til utgjevingsmedium.\nDokument laga i utlandet skal berre avleverast dersom det er laga for norsk utgjevar eller særskilt tilpassa allmenta i Noreg.\nKongen kan gjera unnatak frå eller avgrensa avleveringsplikta og gje særskilde føresegner om talet på eksemplar, kva form eller kvalitet avleveringseksemplar skal ha, og om kva opplysningar som skal følgja dokumentet.\n0 Endra med lov 19 juni 2015 nr. 72 (ikr. 1 jan 2016 iflg. res. 19 juni 2015 nr. 732).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "4 a",
+      "section": "4 a",
+      "title": "Innsamling av digitale dokument",
+      "content": "Norsk materiale som vert gjort allment tilgjengeleg gjennom elektronisk kommunikasjonsnett, kan samlast inn.\nDigitale dokument som er verna med passord, skal ikkje samlast inn eller avleverast. Unnataket er dei tilfella der det passordverna dokumentet ville ha vore omfatta av avleveringsplikt om det vart utgjeve i eit anna format. Passordverna dokument som ikkje er omfatta av avleveringsplikta, og som inneheld personopplysningar, kan samlast inn eller avleverast dersom den personopplysningane gjeld, har gjeve eit uttrykkjeleg og informert samtykke.\nNår det er naudsynt for å gjennomføra digital innsamling, kan det framstillast nye eksemplar uavhengig av åndsverklova.\n0 Føyd til med lov 19 juni 2015 nr. 72 (ikr. 1 jan 2016 iflg. res. 19 juni 2015 nr. 732).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4a",
+        "source_heading": "§ 4 a."
+      }
+    },
+    {
+      "provision_ref": "4 b",
+      "section": "4 b",
+      "title": "Handsaming av personopplysningar i det digitale nettarkivet",
+      "content": "Informasjon som er lagra i nettarkivet, skal som hovudregel ikkje slettast. Personar kan knyta merknader til personopplysningar om dei sjølve som er lagra i nettarkivet.\nEit digitalt dokument som er lagra i det digitale nettarkivet og som inneheld personopplysningar, kan krevjast klausulert eller sletta dersom informasjonen er gjord allment tilgjengeleg ved ein feil.\nEit digitalt dokument som er lagra i det digitale nettarkivet, som er utgjeve utan ansvarleg redaktør, og som inneheld personopplysningar, kan likevel krevjast klausulert eller sletta dersom eitt eller fleire av vilkåra nedanfor er oppfylte:\na. Informasjonen ikkje har vore spreidd utanfor ein lukka krins, og informasjonen aldri var meint å verta gjord allment tilgjengeleg.\nb. Informasjonen er lagt ut av ein tredjeperson utan samtykke, og den omtalte sjølv ikkje har gjort informasjonen allment kjend.\nc. Det vil vera til vesentleg ulempe for den opplysningane gjeld, at informasjonen blir oppbevart til forskingsføremål.\nInformasjon som ikkje er allment kjend, og som omhandlar mindreårige eller personar som er sette under verjemål, skal på førespurnad klausulerast eller slettast.\nAvslag på ein søknad om klausulering eller sletting kan påklagast til ei særskild nemnd. Kongen gjev føresegner om ei slik nemnd.\n0 Føyd til med lov 19 juni 2015 nr. 72 (ikr. 1 jan 2016 iflg. res. 19 juni 2015 nr. 732).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4b",
+        "source_heading": "§ 4 b."
+      }
+    },
+    {
+      "provision_ref": "4 c",
+      "section": "4 c",
+      "title": "Tilgang til det digitale nettarkivet",
+      "content": "Det digitale nettarkivet kan nyttast til forsking og dokumentasjon.\nDigitale dokument i nettarkivet som er utgjevne utan ansvarleg redaktør, og som inneheld personopplysningar som ikkje er allment kjende, skal etter søknad berre gjerast tilgjengelege for forskarar på særskilde terminalar hos Nasjonalbiblioteket.\nKlausulerte digitale dokument i nettarkivet kan berre gjerast tilgjengelege etter særskild avtale.\nKongen gjev føresegner om tilgang til det digitale nettarkivet. Føresegnene i åndsverklova gjeld for tilgang til materiale som er verna med opphavsrett.\n0 Føyd til med lov 19 juni 2015 nr. 72 (ikr. 1 jan 2016 iflg. res. 19 juni 2015 nr. 732).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4c",
+        "source_heading": "§ 4 c."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Kven som skal avlevera m.m.",
+      "content": "Avleveringsplikt kan påleggjast utgjevar, produsent og importør av dokument som vert gjort tilgjengeleg for allmenta.\nDokument skal avleverast utan vederlag. Når avleveringseksemplara representerer ein svært stor kostnad for den avleveringspliktige, kan mottaksinstitusjonen etter søknad gje heil eller delvis refusjon for produksjonskostnadene.\nSending av dokument til mottaksinstitusjonen skal kostast av den avleveringspliktige.\nKongen fastset nærare reglar om kven som har avleveringsplikt, kvar avleveringspliktig dokument skal sendast, tidspunktet for innsending og korleis sendinga skal skje.\n0 Endra med lov 19 juni 2015 nr. 72 (ikr. 1 jan 2016 iflg. res. 19 juni 2015 nr. 732).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Når den avleveringspliktige ikkje er handlefør",
+      "content": "Ved konkurs eller død skal buet oppfylla avleveringsplikta.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Inndrege dokument",
+      "content": "Kongen kan påleggja påtalemakta å syta for avleveringa, dersom avleveringspliktig dokument vert inndrege.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Tvangsfullføring",
+      "content": "Avleveringskrav etter føresegner gjevne i eller i medhald av denne lova er tvangsgrunnlag.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Straff",
+      "content": "Den som med vilje eller aktlaust handlar i strid med føresegner gjevne i eller i medhald av denne lova, kan straffast med bøter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Ikraftsetjing",
+      "content": "Kongen fastset når​1 denne lova skal ta til å gjelda. – – –\n1 Frå 1 juli 1990 iflg. res. 25 mai 1990 nr. 366.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Føremål",
+      "content": "Føremålet med denne lova er å tryggja avleveringa av dokument med allment tilgjengeleg informasjon til nasjonale samlingar, slik at desse vitnemåla om norsk kultur og samfunnsliv kan verta bevarte og gjorde tilgjengelege som kjeldemateriale for forsking og dokumentasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Geografisk verkeområde",
+      "content": "Kongen kan fastsetja at lova òg skal gjelda for Svalbard og den norske delen av kontinentalsokkelen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Definisjonar",
+      "content": "I denne lova vert desse omgrepa nytta slik:\n- Medium: noko som kan lagra informasjon.\n- Dokument: ei logisk avgrensa informasjonsmengd som er lagra på eit medium for seinare lesing, lyding, framsyning, overføring eller liknande.\n- Utgjevar: den som for eiga rekning lagar eller får laga eit dokument for å gjera det tilgjengeleg for allmenta.\n- Produsent: den som framstiller eksemplar av eit dokument for ein utgjevar.\n- Importør: den som for eiga rekning tek inn i landet dokument utgjeve i utlandet, for å gjera det tilgjengeleg for allmenta i Noreg.\nEit dokument er gjort tilgjengeleg for allmenta når\n- eksemplar av dokumentet vert bode fram for sal, utleige eller utlån, eller når dokumentet på annan måte vert spreidd utanfor ein privat krins,\n- informasjonen i dokumentet vert gjord tilgjengeleg utanfor ein privat krins gjennom framføring, framsyning, kringkasting, direktekopling e.l.\n0 Endra med lov 19 juni 2015 nr. 72 (ikr. 1 jan 2016 iflg. res. 19 juni 2015 nr. 732).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Kva som skal avleverast",
+      "content": "Både fysiske og digitale dokument som er gjorde tilgjengelege for allmenta skal avleverast i inntil sju eksemplar. Digitale grunnlagsdokument kan krevjast avleverte i tillegg til utgjevingsmedium.\nDokument laga i utlandet skal berre avleverast dersom det er laga for norsk utgjevar eller særskilt tilpassa allmenta i Noreg.\nKongen kan gjera unnatak frå eller avgrensa avleveringsplikta og gje særskilde føresegner om talet på eksemplar, kva form eller kvalitet avleveringseksemplar skal ha, og om kva opplysningar som skal følgja dokumentet.\n0 Endra med lov 19 juni 2015 nr. 72 (ikr. 1 jan 2016 iflg. res. 19 juni 2015 nr. 732).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "4 a",
+      "section": "4 a",
+      "title": "Innsamling av digitale dokument",
+      "content": "Norsk materiale som vert gjort allment tilgjengeleg gjennom elektronisk kommunikasjonsnett, kan samlast inn.\nDigitale dokument som er verna med passord, skal ikkje samlast inn eller avleverast. Unnataket er dei tilfella der det passordverna dokumentet ville ha vore omfatta av avleveringsplikt om det vart utgjeve i eit anna format. Passordverna dokument som ikkje er omfatta av avleveringsplikta, og som inneheld personopplysningar, kan samlast inn eller avleverast dersom den personopplysningane gjeld, har gjeve eit uttrykkjeleg og informert samtykke.\nNår det er naudsynt for å gjennomføra digital innsamling, kan det framstillast nye eksemplar uavhengig av åndsverklova.\n0 Føyd til med lov 19 juni 2015 nr. 72 (ikr. 1 jan 2016 iflg. res. 19 juni 2015 nr. 732).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4a",
+        "source_heading": "§ 4 a."
+      }
+    },
+    {
+      "provision_ref": "4 b",
+      "section": "4 b",
+      "title": "Handsaming av personopplysningar i det digitale nettarkivet",
+      "content": "Informasjon som er lagra i nettarkivet, skal som hovudregel ikkje slettast. Personar kan knyta merknader til personopplysningar om dei sjølve som er lagra i nettarkivet.\nEit digitalt dokument som er lagra i det digitale nettarkivet og som inneheld personopplysningar, kan krevjast klausulert eller sletta dersom informasjonen er gjord allment tilgjengeleg ved ein feil.\nEit digitalt dokument som er lagra i det digitale nettarkivet, som er utgjeve utan ansvarleg redaktør, og som inneheld personopplysningar, kan likevel krevjast klausulert eller sletta dersom eitt eller fleire av vilkåra nedanfor er oppfylte:\na. Informasjonen ikkje har vore spreidd utanfor ein lukka krins, og informasjonen aldri var meint å verta gjord allment tilgjengeleg.\nb. Informasjonen er lagt ut av ein tredjeperson utan samtykke, og den omtalte sjølv ikkje har gjort informasjonen allment kjend.\nc. Det vil vera til vesentleg ulempe for den opplysningane gjeld, at informasjonen blir oppbevart til forskingsføremål.\nInformasjon som ikkje er allment kjend, og som omhandlar mindreårige eller personar som er sette under verjemål, skal på førespurnad klausulerast eller slettast.\nAvslag på ein søknad om klausulering eller sletting kan påklagast til ei særskild nemnd. Kongen gjev føresegner om ei slik nemnd.\n0 Føyd til med lov 19 juni 2015 nr. 72 (ikr. 1 jan 2016 iflg. res. 19 juni 2015 nr. 732).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4b",
+        "source_heading": "§ 4 b."
+      }
+    },
+    {
+      "provision_ref": "4 c",
+      "section": "4 c",
+      "title": "Tilgang til det digitale nettarkivet",
+      "content": "Det digitale nettarkivet kan nyttast til forsking og dokumentasjon.\nDigitale dokument i nettarkivet som er utgjevne utan ansvarleg redaktør, og som inneheld personopplysningar som ikkje er allment kjende, skal etter søknad berre gjerast tilgjengelege for forskarar på særskilde terminalar hos Nasjonalbiblioteket.\nKlausulerte digitale dokument i nettarkivet kan berre gjerast tilgjengelege etter særskild avtale.\nKongen gjev føresegner om tilgang til det digitale nettarkivet. Føresegnene i åndsverklova gjeld for tilgang til materiale som er verna med opphavsrett.\n0 Føyd til med lov 19 juni 2015 nr. 72 (ikr. 1 jan 2016 iflg. res. 19 juni 2015 nr. 732).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4c",
+        "source_heading": "§ 4 c."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Kven som skal avlevera m.m.",
+      "content": "Avleveringsplikt kan påleggjast utgjevar, produsent og importør av dokument som vert gjort tilgjengeleg for allmenta.\nDokument skal avleverast utan vederlag. Når avleveringseksemplara representerer ein svært stor kostnad for den avleveringspliktige, kan mottaksinstitusjonen etter søknad gje heil eller delvis refusjon for produksjonskostnadene.\nSending av dokument til mottaksinstitusjonen skal kostast av den avleveringspliktige.\nKongen fastset nærare reglar om kven som har avleveringsplikt, kvar avleveringspliktig dokument skal sendast, tidspunktet for innsending og korleis sendinga skal skje.\n0 Endra med lov 19 juni 2015 nr. 72 (ikr. 1 jan 2016 iflg. res. 19 juni 2015 nr. 732).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Når den avleveringspliktige ikkje er handlefør",
+      "content": "Ved konkurs eller død skal buet oppfylla avleveringsplikta.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Inndrege dokument",
+      "content": "Kongen kan påleggja påtalemakta å syta for avleveringa, dersom avleveringspliktig dokument vert inndrege.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Tvangsfullføring",
+      "content": "Avleveringskrav etter føresegner gjevne i eller i medhald av denne lova er tvangsgrunnlag.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Straff",
+      "content": "Den som med vilje eller aktlaust handlar i strid med føresegner gjevne i eller i medhald av denne lova, kan straffast med bøter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Ikraftsetjing",
+      "content": "Kongen fastset når​1 denne lova skal ta til å gjelda. – – –\n1 Frå 1 juli 1990 iflg. res. 25 mai 1990 nr. 366.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    }
+  ]
+}

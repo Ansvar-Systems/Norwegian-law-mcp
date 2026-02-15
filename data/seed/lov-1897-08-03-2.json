@@ -1,0 +1,95 @@
+{
+  "id": "LOV-1897-08-03-2",
+  "type": "statute",
+  "title": "Lov om særlige Straffebestemmelser m.v. for Personer, som i Henhold til Grundlovens § 75 h indkaldes til at møde for Storthinget",
+  "short_name": "Lov om møteplikt til Stortinget",
+  "status": "in_force",
+  "issued_date": "1897-08-03",
+  "in_force_date": "1897-08-03",
+  "url": "https://lovdata.no/dokument/NL/lov/1897-08-03-2",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Den, som efter i Henhold til Grundlovens § 75 at være indkaldt til at møde for Storthinget, enten undlader at møde eller vægrer sig for, overensstemmende med Storthingets Forretningsorden, at afgive den Forklaring, hvortil han efter nævnte Grundlovsbestemmelse er pligtig, eller at bekræfte Forklaringen med en høitidelig Forsikring etter reglene i domstolloven § 141 bliver, forsaavidt strengere Straffebestemmelser i anden gjældende Lov ikke maatte komme til Anvendelse, at straffe med en Bod.\n0 Endret ved lov 7 apr 1995 nr. 15 (ikr. 7 apr 1995 iflg. res. 7 apr 1995 nr. 286).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den som gir en uriktig forklaring til Storthinget etter innkalling i henhold til Grundloven § 75, straffes som bestemt i straffeloven § 221.\n0 Endret ved lover 14 juni 1985 nr. 71, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Uden Forlangende af Storthinget paataler det Offentlige ikke de i nærværende Lov omhandlede Lovbrud.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne Lov træder strax i Kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Den, som efter i Henhold til Grundlovens § 75 at være indkaldt til at møde for Storthinget, enten undlader at møde eller vægrer sig for, overensstemmende med Storthingets Forretningsorden, at afgive den Forklaring, hvortil han efter nævnte Grundlovsbestemmelse er pligtig, eller at bekræfte Forklaringen med en høitidelig Forsikring etter reglene i domstolloven § 141 bliver, forsaavidt strengere Straffebestemmelser i anden gjældende Lov ikke maatte komme til Anvendelse, at straffe med en Bod.\n0 Endret ved lov 7 apr 1995 nr. 15 (ikr. 7 apr 1995 iflg. res. 7 apr 1995 nr. 286).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den som gir en uriktig forklaring til Storthinget etter innkalling i henhold til Grundloven § 75, straffes som bestemt i straffeloven § 221.\n0 Endret ved lover 14 juni 1985 nr. 71, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Uden Forlangende af Storthinget paataler det Offentlige ikke de i nærværende Lov omhandlede Lovbrud.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne Lov træder strax i Kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

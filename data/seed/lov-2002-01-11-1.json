@@ -1,0 +1,57 @@
+{
+  "id": "LOV-2002-01-11-1",
+  "type": "statute",
+  "title": "Lov om avvikling av stiftelsen «Mindegaven til Norge 1914 fra det norske utflytterfolk i Nord-Amerika» og overføring av stiftelsens kapital til stiftelsen «Norsk Utvandrermuseum».",
+  "short_name": "Lov om avvikling av «Mindegaven»",
+  "status": "in_force",
+  "issued_date": "2002-01-11",
+  "in_force_date": "2002-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/2002-01-11-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Stiftelsen «Mindegaven til Norge 1914 fra det norske utflytterfolk i Nord-Amerika» avvikles. Stiftelsens kapital overføres til stiftelsen «Norsk Utvandrermuseum».",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Ikrafttredelses- og overgangsbestemmelser",
+      "content": "Denne lov trer i kraft 1. januar 2002.\nStyret for «Mindegaven» fastsetter stiftelsens årsregnskap for 2001 og avgir beretning til Stortinget om virksomheten samme år.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Stiftelsen «Mindegaven til Norge 1914 fra det norske utflytterfolk i Nord-Amerika» avvikles. Stiftelsens kapital overføres til stiftelsen «Norsk Utvandrermuseum».",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Ikrafttredelses- og overgangsbestemmelser",
+      "content": "Denne lov trer i kraft 1. januar 2002.\nStyret for «Mindegaven» fastsetter stiftelsens årsregnskap for 2001 og avgir beretning til Stortinget om virksomheten samme år.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "LOV-1970-05-06-25",
+  "type": "statute",
+  "title": "Lov om forbud mot plukking av moltekart.",
+  "short_name": "Moltekartloven.",
+  "status": "in_force",
+  "issued_date": "1970-05-06",
+  "in_force_date": "1970-05-06",
+  "url": "https://lovdata.no/dokument/NLO/lov/1970-05-06-25",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Det er forbudt​1 å plukke molter​2 før bærene er modne.\nMolter er modne når bæret kan plukkes uten at hamsen følger med.\n1 Jfr. § 2.\n2 Jfr. strl. § 400.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den som overtrer eller medvirker til overtredelse av bestemmelser i denne lov straffes med bøter.​1\nOffentlig påtale finner bare sted når det kreves av allmenne hensyn.\n1 Jfr. strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "De enkelte fylkesting kan med alminnelig flertall bestemme at loven ikke skal være gjeldende innenfor fylket eller deler av det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Det er forbudt​1 å plukke molter​2 før bærene er modne.\nMolter er modne når bæret kan plukkes uten at hamsen følger med.\n1 Jfr. § 2.\n2 Jfr. strl. § 400.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den som overtrer eller medvirker til overtredelse av bestemmelser i denne lov straffes med bøter.​1\nOffentlig påtale finner bare sted når det kreves av allmenne hensyn.\n1 Jfr. strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "De enkelte fylkesting kan med alminnelig flertall bestemme at loven ikke skal være gjeldende innenfor fylket eller deler av det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

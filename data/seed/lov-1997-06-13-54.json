@@ -1,0 +1,807 @@
+{
+  "id": "LOV-1997-06-13-54",
+  "type": "statute",
+  "title": "Lov om tiltak mot sykdom hos fisk og andre akvatiske dyr (fiskesykdomsloven).",
+  "short_name": "Fiskesykdomsloven",
+  "status": "in_force",
+  "issued_date": "1997-06-13",
+  "in_force_date": "1998-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1997-06-13-54",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Formålet med denne loven er å forebygge, begrense og utrydde smittsom sykdom hos fisk og andre akvatiske dyr.​1\n1 Se § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens saklige og geografiske virkeområde",
+      "content": "Loven gjelder for fisk og andre akvatiske dyr,​1 samt produkter og gjenstander som kan føre med seg smitte. Departementet​2 kan gi forskrift​3 om at loven også skal gjelde for visse andre organismer.\nMed mindre departementet​2 bestemmer annet gjelder loven for sykdommer som er eller mistenkes for å være smittsomme. Bestemmelsene i §§ 23 – 26 gjelder likevel bare de smittsomme sykdommer som departementet​2 i forskrift​3 har fastsatt at bestemmelsene skal gjelde for.\nLoven gjelder for norsk land- og sjøterritorium,​4 i Norges økonomiske sone,​5 og for øvrig i den utstrekning Norge har jurisdiksjon etter internasjonal rett. Kongen bestemmer i hvilken utstrekning loven skal gjelde for Svalbard​6 og Jan Mayen.​7\n1 Se § 3, a.\n2 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n3 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n4 Jfr. lov 27 juni 2003 nr. 57.\n5 Jfr. lov 17 des 1976 nr. 91.\n6 Se lov 17 juli 1925 nr. 11 § 1 annet ledd.\n7 Loven er ved res. 19 des 1997 nr. 1325 gjort gjeldende for Svalbard og Jan Mayen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I loven forstås med\na. akvatiske dyr: vannlevende dyr, herunder sjøpattedyr, samt kjønnsprodukter, hvile- og forplantningsstadier av vannlevende dyr;\nb. akvakulturanlegg: avgrenset område hvor det holdes akvatiske dyr​1 til oppdrett eller kultivering;\nc. annen innhegning: dammer og akvarier m.v. hvor det oppbevares akvatiske dyr​1 for andre formål enn oppdrett eller kultivering;\nd. vassdrag: innsjø, vann, tjern, elv, elvearm, bekk eller kanal;​2\ne. havbeite: utsetting og gjenfangst av krepsdyr, bløtdyr og pigghuder til næringsformål.​3\n0 Endret ved lov 21 des 2000 nr. 118 (i kraft 1 jan 2001 iflg. res. 21 des 2000 nr. 1355).\n1 Se pkt. a.\n2 Jfr. lov 15 mai 1992 nr. 47 § 5, c.\n3 Jfr. lov 21 des 2000 nr. 118 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Aktsomhetsplikt",
+      "content": "Enhver skal utvise nødvendig aktsomhet, slik at det ikke oppstår fare for utvikling eller spredning av smittsom sykdom mellom akvatiske dyr.​1\n1 Se § 3, a. Jfr. § 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Melde- og opplysningsplikt​1",
+      "content": "Når det er grunn til å tro at akvatiske dyr​2 er eller står i fare for å bli angrepet av smittsom sykdom, skal offentlig myndighet straks varsles. Varslingsplikten påligger enhver som har ansvar for akvatiske dyr. Andre har også plikt til å varsle med mindre det fremstår som åpenbart unødvendig.\nEnhver skal på forespørsel fra offentlig myndighet gi opplysninger som har betydning for forebygging og bekjempelse av sykdom. Departementet​3 kan gi forskrift​4 om gjennomføringen av bestemmelsene i denne paragraf.\n1 Jfr. § 30.\n2 Se § 3, a.\n3 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Adgang til sted, virksomhet m.v.",
+      "content": "Offentlig tjenestemann​1 skal​2 gis adgang til sted eller virksomhet som loven gjelder for, og skal ytes nødvendig bistand ved utførelsen av kontroll med bestemmelser eller vedtak i eller i medhold av loven. Det samme gjelder når det er nødvendig som et ledd i særskilt program for dokumentasjon av helsetilstanden eller som ledd i oppfyllelsen av internasjonal avtale.\nTilsynsmyndigheten skal uten vederlag kunne ta ut de prøver og foreta de undersøkelser som anses nødvendige.\n1 Jfr. lov 10 feb 1967 § 2 første ledd, d.\n2 Jfr. § 30, strl. § 326.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Etablering m.v. av akvakulturanlegg​1",
+      "content": "Ingen må​2 etablere, utvide eller flytte akvakulturanlegg​3 uten at dette er godkjent av departementet.​4\nDepartementet​4 kan gi forskrift​5 om at det også må innhentes godkjenning til å etablere, utvide eller flytte annen innhegning.​6\nDet kan fastsettes vilkår knyttet til virksomheten ved godkjenning etter første og annet ledd.\n1 Jfr. § 8.\n2 Jfr. kap. 5.\n3 Se § 3, b.\n4 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n5 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n6 Se § 3, c.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Endring og omgjøring",
+      "content": "Departementet​1 kan endre eller trekke tilbake godkjenning som nevnt i § 7 dersom;\na. det foreligger brudd på vilkår i godkjenningen eller bestemmelser gitt i eller i medhold av loven;\nb. det viser seg at sykdomstilstand eller kunnskap om sykdomsmessige forhold er endret i forhold til situasjonen da godkjenning ble gitt;\nc. annen plassering av anlegget kan forbedre helsesituasjonen vesentlig; eller\nd. det er nødvendig ved opprettelse av soner etter § 26.\nKongen kan trekke godkjenning tilbake når det er nødvendig ved opprettelse av regioner etter § 9.\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Opprettelse av regioner, tiltak mellom regionene m.v.",
+      "content": "Kongen kan for å forebygge smittsom sykdom opprette epidemiologisk atskilte regioner, hvor det gis forskrift​1 som regulerer og forbyr\na. føring av levende og døde akvatiske dyr,​2 avfall, biprodukter og gjenstander som kan overføre smitte, inn eller ut av regionene,\nb. bruk av transportmiddel mellom regionene.\n1 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n2 Se § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Internkontroll",
+      "content": "Den som har tillatelse​1 til å drive akvakulturanlegg​2 skal​3 ved internkontroll sikre at krav fastsatt i eller i medhold av denne loven overholdes. Departementet​4 kan gi nærmere forskrift​5 om gjennomføringen av internkontroll.\nDepartementet​6 kan bestemme at annen virksomhet som reguleres av denne loven skal innføre slik internkontroll.\n1 Jfr. § 7.\n2 Se § 3, b.\n3 Jfr. kap. 5.\n4 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n5 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n6 Fiskeridepartementet for så vidt gjelder marine viltlevende bestander, ellers Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Innførsel og utførsel",
+      "content": "Departementet​1 kan gi forskrift​2 om innførsel og utførsel av levende akvatiske dyr,​3 planter, fiskefôr og andre produkter og gjenstander som kan føre med seg smitte.\nUtgifter ved kontroll av innførsel og utførsel som nevnt i første ledd kan kreves dekket av henholdsvis importør og eksportør.\nAkvatiske dyr,​3 varer og gjenstander som er forsøkt eller har blitt innført eller utført i strid med bestemmelser gitt i medhold av første ledd, kan departementet​1 påby destruert eller returnert for importørens eller eksportørens regning.\nUtgifter etter annet og tredje ledd er tvangsgrunnlag for utlegg.​4\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, a.\n4 Jfr. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Desinfeksjon",
+      "content": "Departementet​1 kan gi forskrift​2 om godkjenning og bruk av tekniske desinfeksjonsmidler.\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Vaksinasjon m.v.",
+      "content": "Departementet​1 kan gi forskrift​2 om bruk av vaksine og annen medikamentell behandling. Det kan også stilles kvalifikasjonskrav til den som utfører vaksinasjonen.\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Stamdyrkontroll, stryking og reproduksjon m.v.",
+      "content": "Departementet​1 kan gi forskrift​2 om kontroll av stamdyr og om stryking og reproduksjon av akvatiske dyr.​3\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Helsekontroll og helse- og opprinnelsesattest m.v.",
+      "content": "Departementet​1 kan gi forskrift​2 om helse- og opprinnelsesattest og helsekontroll, herunder nasjonale og regionale kontrollprogrammer.\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Drift av akvakulturanlegg m.v.",
+      "content": "Departementet​1 kan gi forskrift​2 om sykdomsforebyggende tiltak ved havbeitevirksomhet,​3 drift av akvakulturanlegg​4 og annen innhegning.​5\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, e.\n4 Se § 3, b.\n5 Se § 3, c.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Flytting, omsetning og utsetting av levende akvatiske dyr",
+      "content": "Departementet​1 kan gi forskrift​2 om flytting, omsetning og utsetting av levende akvatiske dyr​3 i anlegg og fritt i naturen.\nDet kan ikke settes ut akvatiske dyr​3 til havbeite​4 uten at dette er godkjent av departementet.\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, a.\n4 Se § 3, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Flytting, omsetning og bruk av døde akvatiske dyr og gjenstander",
+      "content": "Departementet​1 kan gi forskrift​2 om flytting, omsetning og bruk av døde akvatiske dyr,​3 planter, fiskefôr, gjenstander og annet materiale som kan overføre smitte. Departementet​1 kan også gi bestemmelser om behandling eller destruksjon av slike gjenstander og produkter.\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Transport og midlertidig oppbevaring. Stengsetting",
+      "content": "Departementet​1 kan gi forskrift​2 om utforming og utrustning av transportenhet, gjennomføring av transport, og annen midlertidig oppbevaring av levende og døde akvatiske dyr,​3 avfall og biprodukter, planter, fiskefôr, gjenstander og annet materiale som kan overføre smitte.\nDepartementet​4 kan gi forskrift​2 om stengsetting av akvatiske dyr.​3\n1 Fiskeridepartementet for så vidt gjelder marine viltlevende bestander, ellers Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, a.\n4 Fiskeridepartementet iflg. res. 19 des 1997 nr. 1317.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "title": "Slakting, tilvirkning, avfallsbehandling m.v.",
+      "content": "Departementet​1 kan gi forskrift​2 om utforming og drift av slakteri, tilvirkningsanlegg, anlegg for biprodukter, avfall og notvaskerier.\nDepartementet​1 kan gi forskrift​2 om slakting og tilvirkning av akvatiske dyr​3 og om behandling, oppbevaring og bruk av biprodukter og avfall.\n1 Fiskeridepartementet for så vidt gjelder marine viltlevende bestander, ellers Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "title": "Plassering av slakteri, tilvirkningsanlegg, avfallsbehandlingsanlegg m.v.",
+      "content": "Departementet​1 kan gi forskrift​2 om at slakterier, tilvirkningsanlegg og anlegg for behandling og oppbevaring av biprodukter og avfall ikke må plasseres på steder hvor dette medfører en uakseptabel smitterisiko for viltlevende bestander eller omkringliggende virksomheter.\n1 Fiskeridepartementet for så vidt gjelder marine viltlevende bestander, ellers Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Omsetning og flytting av syke og smittede akvatiske dyr",
+      "content": "Det er forbudt​1 å utby til salg, selge, gi bort, kjøpe, ta imot, flytte eller sette ut levende akvatiske dyr​2 når de er eller kan være angrepet av smittsom sykdom eller viser synlige tegn på sykdom. Det er også forbudt​1 å ta inn akvatiske dyr​2 i anlegg hvor det er påvist eller er mistanke om smittsom sykdom.\nDepartementet​3 kan gjøre unntak fra forbudene i første ledd. Departementet​3 kan gi nærmere forskrift​4 om gjennomføringen av første ledd.\n1 Jfr. kap. 5.\n2 Se § 3, a.\n3 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "title": "Tiltak ved smittsom sykdom i akvakulturanlegg m.v.",
+      "content": "Når det er påvist eller foreligger mistanke om smittsom sykdom i havbeiteområde,​2 akvakulturanlegg,​3 annen innhegning eller transportmiddel, kan departementet​4 for å hindre spredning av sykdommen gi pålegg om nødvendige tiltak, herunder avliving og destruksjon.\nØkonomiske tap som følge av tiltak som pålegges iverksatt etter loven her erstattes ikke av det offentlige.\n0 Endret ved lov 21 des 2000 nr. 118 (i kraft 1 jan 2001 iflg. res. 21 des 2000 nr. 1355).\n1 Se § 2 annet ledd.\n2 Se § 3, e.\n3 Se § 3, b.\n4 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "title": "Tiltak ved smittsom sykdom i frittlevende bestander",
+      "content": "Når det er påvist eller foreligger mistanke om smittsom sykdom hos frittlevende akvatiske dyr,​2 kan departementet​3 med de begrensninger som følger av annet ledd, gi pålegg om og iverksette tiltak som finnes nødvendige for å hindre spredning av sykdommen.\nDepartementet​3 kan bestemme at frittlevende akvatiske dyr​2 skal behandles eller avlives når det er grunn til å tro at slike tiltak vil ha vesentlig betydning for å begrense eller utrydde smittsom sykdom i et område. Departementet​3 kan ved forskrift​4 gi nærmere regler om hvordan slik behandling eller avliving skal gjennomføres, herunder gi regler om destruering av akvatiske dyr.​2\nTiltak etter denne bestemmelsen kan iverksettes uten hensyn til den enkelte grunneier eller rettighetshaver.\n1 Se § 2 annet ledd.\n2 Se § 3, a.\n3 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "title": "Sanering av anlegg og utstyr",
+      "content": "Departementet​2 kan pålegge sanering av anlegg, transportenhet og utstyr når det er mistanke om eller er påvist smittsom sykdom på akvatiske dyr.​3\nØkonomiske tap som følge av tiltak som pålegges iverksatt etter loven her erstattes ikke av det offentlige.\n1 Se § 2 annet ledd.\n2 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n3 Se § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "4:26",
+      "chapter": "4",
+      "section": "26",
+      "title": "Opprettelse av soner",
+      "content": "Når akvatiske dyr​2 er eller har vært angrepet av smittsom sykdom, eller når det foreligger mistanke om slik sykdom, kan departementet​3 opprette soner og for den enkelte sone gi bestemmelser om:\na. at det er forbudt​4 å fange eller sette ut akvatiske dyr;​2\nb. at det er forbudt​4 å overføre levende eller døde akvatiske dyr, herunder avfall og biprodukter, inn i, ut av, eller mellom slike soner;\nc. at tiltak som kan iverksettes for å begrense eller utrydde smittsom sykdom for et eller flere akvakulturanlegg​5 eller andre innhegninger,​6 skal gjelde for hele sonen;\nd. at tiltak som kan iverksettes for å begrense eller utrydde sykdom i viltlevende bestander skal gjelde for hele sonen;\ne. tiltak som er nødvendig for å oppnå eller opprettholde fristatus, eller som følge av internasjonal avtale.\n1 Se § 2 annet ledd, jfr. § 8 første ledd, d.\n2 Se § 3, a.\n3 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n4 Jfr. kap. 5.\n5 Se § 3, b.\n6 Se § 3, c.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Tvangstiltak",
+      "content": "Dersom noen som har ansvaret for akvatiske dyr​1 ikke retter seg etter påbud som er gitt i eller i medhold av denne loven, kan departementet​2 iverksette nødvendige tiltak for å gjennomføre påbudet.\nDersom det er nødvendig å gjennomføre tiltak straks, kan den som er gitt myndighet etter denne loven sørge for umiddelbar gjennomføring av nødvendige tiltak, uten at pålegg er gitt.\nPåbud og tiltak kan gjennomføres for den ansvarliges regning. Skyldige beløp etter regelen i denne paragraf er tvangsgrunnlag for utlegg.​3\n1 Se § 3, a.\n2 Fiskeridepartementet for så vidt gjelder marine viltlevende bestander, ellers Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n3 Jfr. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Innkreving ved Statens innkrevingssentral",
+      "content": "Når Statens innkrevingssentral​1 er pålagt å innkreve krav som det etter bestemmelsene i denne loven foreligger tvangsgrunnlag for, kan Statens innkrevingssentral inndrive kravene ved trekk i lønn og lignende ytelser etter reglene i dekningsloven​2 § 2-7. Statens innkrevingssentral kan også inndrive kravene ved å stifte utleggspant for kravet dersom panteretten kan gis rettsvern ved registrering i et register eller ved underretning til tredjeperson, jf. panteloven​3 kap. 5, og utleggsforretningen kan holdes på Statens innkrevingssentrals kontor etter tvangsfullbyrdelsesloven​4 § 7-9 første ledd.\n1 Jfr. strpl. § 455 og § 456.\n2 Lov 8 juni 1984 nr. 59 (deknl.).\n3 Lov 8 feb 1980 nr. 2 (pantel.).\n4 Lov 26 juni 1992 nr. 86 (tvangsl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Tvangsmulkt",
+      "content": "For å sikre at bestemmelser gitt i eller i medhold av denne loven blir gjennomført, kan den som er gitt myndighet etter denne loven fastsette tvangsmulkt til staten. Departementet​1 kan gi forskrifter​2 om fastsettelse av tvangsmulkt.\nTvangsmulkt kan fastsettes når overtredelse av loven eller vedtak i medhold av loven er oppdaget. Tvangsmulkten begynner å løpe dersom den ansvarlige oversitter den frist for retting av forholdet som myndigheten har fastsatt.\nTvangsmulkten kan også fastsettes på forhånd og løper da fra eventuell overtredelse tar til. Det kan fastsettes at tvangsmulkten løper så lenge det ulovlige forhold varer eller at den forfaller ved hver overtredelse.\nTvangsmulkt ilegges den som er ansvarlig for overtredelsen. Er overtredelsen skjedd på vegne av et selskap eller et foretak, skal tvangsmulkten pålegges virksomheten som sådan.\nTvangsmulkt er tvangsgrunnlag for utlegg.​3 Den som er gitt myndighet etter denne paragraf kan frafalle påløpt tvangsmulkt.\n1 Fiskeridepartementet for så vidt gjelder marine viltlevende bestander, ellers Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Jfr. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "title": "Straff",
+      "content": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne loven, straffes med bøter​1 eller fengsel​2 i inntil 1 år. Medvirkning er også straffbart.\nForeligger særlig skjerpende omstendigheter, kan fengsel i inntil 2 år​3 anvendes, om ikke strengere straffebud får anvendelse.\n1 Jfr. strl. § 27 og kap. 3 a.\n2 Jfr. strl. § 26 a.\n3 Jfr. strl. § 67.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "5:31",
+      "chapter": "5",
+      "section": "31",
+      "title": "Delegasjon",
+      "content": "Departementet​1 kan delegere myndighet etter denne loven til andre departementers underordnede organer.\n1 Fiskeridepartementet for så vidt gjelder marine viltlevende bestander, ellers Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "5:32",
+      "chapter": "5",
+      "section": "32",
+      "title": "Behandlingsgebyr",
+      "content": "Departementet​1 kan ved forskrift​2 fastsette gebyr for behandling av søknader og for annet arbeid som er pålagt offentlige myndigheter etter denne loven.\n1 Fiskeridepartementet for så vidt gjelder marine viltlevende bestander, ellers Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "5:33",
+      "chapter": "5",
+      "section": "33",
+      "title": "Ikrafttredelse",
+      "content": "Denne loven trer i kraft fra den tid​1 Kongen bestemmer. Samtidig oppheves midlertidig lov av 22. juni 1990 nr. 44 om tiltak mot sykdom hos akvatiske organismer.\nSå langt de ikke strider mot denne loven gjelder forskrifter og vedtak gitt i medhold av lov av 22. juni 1990 nr. 44 om tiltak mot sykdom hos akvatiske organismer, og lov av 6. desember 1968 nr. 2 om tiltak mot sykdommer hos ferskvannsfisk inntil de oppheves eller avløses av forskrifter eller vedtak fattet med hjemmel i denne loven.\n1 Fra 1 jan 1998 iflg. res. 13 juni 1997 nr. 578.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Formålet med denne loven er å forebygge, begrense og utrydde smittsom sykdom hos fisk og andre akvatiske dyr.​1\n1 Se § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens saklige og geografiske virkeområde",
+      "content": "Loven gjelder for fisk og andre akvatiske dyr,​1 samt produkter og gjenstander som kan føre med seg smitte. Departementet​2 kan gi forskrift​3 om at loven også skal gjelde for visse andre organismer.\nMed mindre departementet​2 bestemmer annet gjelder loven for sykdommer som er eller mistenkes for å være smittsomme. Bestemmelsene i §§ 23 – 26 gjelder likevel bare de smittsomme sykdommer som departementet​2 i forskrift​3 har fastsatt at bestemmelsene skal gjelde for.\nLoven gjelder for norsk land- og sjøterritorium,​4 i Norges økonomiske sone,​5 og for øvrig i den utstrekning Norge har jurisdiksjon etter internasjonal rett. Kongen bestemmer i hvilken utstrekning loven skal gjelde for Svalbard​6 og Jan Mayen.​7\n1 Se § 3, a.\n2 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n3 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n4 Jfr. lov 27 juni 2003 nr. 57.\n5 Jfr. lov 17 des 1976 nr. 91.\n6 Se lov 17 juli 1925 nr. 11 § 1 annet ledd.\n7 Loven er ved res. 19 des 1997 nr. 1325 gjort gjeldende for Svalbard og Jan Mayen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I loven forstås med\na. akvatiske dyr: vannlevende dyr, herunder sjøpattedyr, samt kjønnsprodukter, hvile- og forplantningsstadier av vannlevende dyr;\nb. akvakulturanlegg: avgrenset område hvor det holdes akvatiske dyr​1 til oppdrett eller kultivering;\nc. annen innhegning: dammer og akvarier m.v. hvor det oppbevares akvatiske dyr​1 for andre formål enn oppdrett eller kultivering;\nd. vassdrag: innsjø, vann, tjern, elv, elvearm, bekk eller kanal;​2\ne. havbeite: utsetting og gjenfangst av krepsdyr, bløtdyr og pigghuder til næringsformål.​3\n0 Endret ved lov 21 des 2000 nr. 118 (i kraft 1 jan 2001 iflg. res. 21 des 2000 nr. 1355).\n1 Se pkt. a.\n2 Jfr. lov 15 mai 1992 nr. 47 § 5, c.\n3 Jfr. lov 21 des 2000 nr. 118 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Aktsomhetsplikt",
+      "content": "Enhver skal utvise nødvendig aktsomhet, slik at det ikke oppstår fare for utvikling eller spredning av smittsom sykdom mellom akvatiske dyr.​1\n1 Se § 3, a. Jfr. § 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Melde- og opplysningsplikt​1",
+      "content": "Når det er grunn til å tro at akvatiske dyr​2 er eller står i fare for å bli angrepet av smittsom sykdom, skal offentlig myndighet straks varsles. Varslingsplikten påligger enhver som har ansvar for akvatiske dyr. Andre har også plikt til å varsle med mindre det fremstår som åpenbart unødvendig.\nEnhver skal på forespørsel fra offentlig myndighet gi opplysninger som har betydning for forebygging og bekjempelse av sykdom. Departementet​3 kan gi forskrift​4 om gjennomføringen av bestemmelsene i denne paragraf.\n1 Jfr. § 30.\n2 Se § 3, a.\n3 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Adgang til sted, virksomhet m.v.",
+      "content": "Offentlig tjenestemann​1 skal​2 gis adgang til sted eller virksomhet som loven gjelder for, og skal ytes nødvendig bistand ved utførelsen av kontroll med bestemmelser eller vedtak i eller i medhold av loven. Det samme gjelder når det er nødvendig som et ledd i særskilt program for dokumentasjon av helsetilstanden eller som ledd i oppfyllelsen av internasjonal avtale.\nTilsynsmyndigheten skal uten vederlag kunne ta ut de prøver og foreta de undersøkelser som anses nødvendige.\n1 Jfr. lov 10 feb 1967 § 2 første ledd, d.\n2 Jfr. § 30, strl. § 326.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Etablering m.v. av akvakulturanlegg​1",
+      "content": "Ingen må​2 etablere, utvide eller flytte akvakulturanlegg​3 uten at dette er godkjent av departementet.​4\nDepartementet​4 kan gi forskrift​5 om at det også må innhentes godkjenning til å etablere, utvide eller flytte annen innhegning.​6\nDet kan fastsettes vilkår knyttet til virksomheten ved godkjenning etter første og annet ledd.\n1 Jfr. § 8.\n2 Jfr. kap. 5.\n3 Se § 3, b.\n4 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n5 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n6 Se § 3, c.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Endring og omgjøring",
+      "content": "Departementet​1 kan endre eller trekke tilbake godkjenning som nevnt i § 7 dersom;\na. det foreligger brudd på vilkår i godkjenningen eller bestemmelser gitt i eller i medhold av loven;\nb. det viser seg at sykdomstilstand eller kunnskap om sykdomsmessige forhold er endret i forhold til situasjonen da godkjenning ble gitt;\nc. annen plassering av anlegget kan forbedre helsesituasjonen vesentlig; eller\nd. det er nødvendig ved opprettelse av soner etter § 26.\nKongen kan trekke godkjenning tilbake når det er nødvendig ved opprettelse av regioner etter § 9.\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Opprettelse av regioner, tiltak mellom regionene m.v.",
+      "content": "Kongen kan for å forebygge smittsom sykdom opprette epidemiologisk atskilte regioner, hvor det gis forskrift​1 som regulerer og forbyr\na. føring av levende og døde akvatiske dyr,​2 avfall, biprodukter og gjenstander som kan overføre smitte, inn eller ut av regionene,\nb. bruk av transportmiddel mellom regionene.\n1 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n2 Se § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Internkontroll",
+      "content": "Den som har tillatelse​1 til å drive akvakulturanlegg​2 skal​3 ved internkontroll sikre at krav fastsatt i eller i medhold av denne loven overholdes. Departementet​4 kan gi nærmere forskrift​5 om gjennomføringen av internkontroll.\nDepartementet​6 kan bestemme at annen virksomhet som reguleres av denne loven skal innføre slik internkontroll.\n1 Jfr. § 7.\n2 Se § 3, b.\n3 Jfr. kap. 5.\n4 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n5 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n6 Fiskeridepartementet for så vidt gjelder marine viltlevende bestander, ellers Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Innførsel og utførsel",
+      "content": "Departementet​1 kan gi forskrift​2 om innførsel og utførsel av levende akvatiske dyr,​3 planter, fiskefôr og andre produkter og gjenstander som kan føre med seg smitte.\nUtgifter ved kontroll av innførsel og utførsel som nevnt i første ledd kan kreves dekket av henholdsvis importør og eksportør.\nAkvatiske dyr,​3 varer og gjenstander som er forsøkt eller har blitt innført eller utført i strid med bestemmelser gitt i medhold av første ledd, kan departementet​1 påby destruert eller returnert for importørens eller eksportørens regning.\nUtgifter etter annet og tredje ledd er tvangsgrunnlag for utlegg.​4\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, a.\n4 Jfr. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Desinfeksjon",
+      "content": "Departementet​1 kan gi forskrift​2 om godkjenning og bruk av tekniske desinfeksjonsmidler.\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Vaksinasjon m.v.",
+      "content": "Departementet​1 kan gi forskrift​2 om bruk av vaksine og annen medikamentell behandling. Det kan også stilles kvalifikasjonskrav til den som utfører vaksinasjonen.\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Stamdyrkontroll, stryking og reproduksjon m.v.",
+      "content": "Departementet​1 kan gi forskrift​2 om kontroll av stamdyr og om stryking og reproduksjon av akvatiske dyr.​3\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Helsekontroll og helse- og opprinnelsesattest m.v.",
+      "content": "Departementet​1 kan gi forskrift​2 om helse- og opprinnelsesattest og helsekontroll, herunder nasjonale og regionale kontrollprogrammer.\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Drift av akvakulturanlegg m.v.",
+      "content": "Departementet​1 kan gi forskrift​2 om sykdomsforebyggende tiltak ved havbeitevirksomhet,​3 drift av akvakulturanlegg​4 og annen innhegning.​5\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, e.\n4 Se § 3, b.\n5 Se § 3, c.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Flytting, omsetning og utsetting av levende akvatiske dyr",
+      "content": "Departementet​1 kan gi forskrift​2 om flytting, omsetning og utsetting av levende akvatiske dyr​3 i anlegg og fritt i naturen.\nDet kan ikke settes ut akvatiske dyr​3 til havbeite​4 uten at dette er godkjent av departementet.\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, a.\n4 Se § 3, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Flytting, omsetning og bruk av døde akvatiske dyr og gjenstander",
+      "content": "Departementet​1 kan gi forskrift​2 om flytting, omsetning og bruk av døde akvatiske dyr,​3 planter, fiskefôr, gjenstander og annet materiale som kan overføre smitte. Departementet​1 kan også gi bestemmelser om behandling eller destruksjon av slike gjenstander og produkter.\n1 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Transport og midlertidig oppbevaring. Stengsetting",
+      "content": "Departementet​1 kan gi forskrift​2 om utforming og utrustning av transportenhet, gjennomføring av transport, og annen midlertidig oppbevaring av levende og døde akvatiske dyr,​3 avfall og biprodukter, planter, fiskefôr, gjenstander og annet materiale som kan overføre smitte.\nDepartementet​4 kan gi forskrift​2 om stengsetting av akvatiske dyr.​3\n1 Fiskeridepartementet for så vidt gjelder marine viltlevende bestander, ellers Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, a.\n4 Fiskeridepartementet iflg. res. 19 des 1997 nr. 1317.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "title": "Slakting, tilvirkning, avfallsbehandling m.v.",
+      "content": "Departementet​1 kan gi forskrift​2 om utforming og drift av slakteri, tilvirkningsanlegg, anlegg for biprodukter, avfall og notvaskerier.\nDepartementet​1 kan gi forskrift​2 om slakting og tilvirkning av akvatiske dyr​3 og om behandling, oppbevaring og bruk av biprodukter og avfall.\n1 Fiskeridepartementet for så vidt gjelder marine viltlevende bestander, ellers Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "title": "Plassering av slakteri, tilvirkningsanlegg, avfallsbehandlingsanlegg m.v.",
+      "content": "Departementet​1 kan gi forskrift​2 om at slakterier, tilvirkningsanlegg og anlegg for behandling og oppbevaring av biprodukter og avfall ikke må plasseres på steder hvor dette medfører en uakseptabel smitterisiko for viltlevende bestander eller omkringliggende virksomheter.\n1 Fiskeridepartementet for så vidt gjelder marine viltlevende bestander, ellers Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Omsetning og flytting av syke og smittede akvatiske dyr",
+      "content": "Det er forbudt​1 å utby til salg, selge, gi bort, kjøpe, ta imot, flytte eller sette ut levende akvatiske dyr​2 når de er eller kan være angrepet av smittsom sykdom eller viser synlige tegn på sykdom. Det er også forbudt​1 å ta inn akvatiske dyr​2 i anlegg hvor det er påvist eller er mistanke om smittsom sykdom.\nDepartementet​3 kan gjøre unntak fra forbudene i første ledd. Departementet​3 kan gi nærmere forskrift​4 om gjennomføringen av første ledd.\n1 Jfr. kap. 5.\n2 Se § 3, a.\n3 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "title": "Tiltak ved smittsom sykdom i akvakulturanlegg m.v.",
+      "content": "Når det er påvist eller foreligger mistanke om smittsom sykdom i havbeiteområde,​2 akvakulturanlegg,​3 annen innhegning eller transportmiddel, kan departementet​4 for å hindre spredning av sykdommen gi pålegg om nødvendige tiltak, herunder avliving og destruksjon.\nØkonomiske tap som følge av tiltak som pålegges iverksatt etter loven her erstattes ikke av det offentlige.\n0 Endret ved lov 21 des 2000 nr. 118 (i kraft 1 jan 2001 iflg. res. 21 des 2000 nr. 1355).\n1 Se § 2 annet ledd.\n2 Se § 3, e.\n3 Se § 3, b.\n4 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "title": "Tiltak ved smittsom sykdom i frittlevende bestander",
+      "content": "Når det er påvist eller foreligger mistanke om smittsom sykdom hos frittlevende akvatiske dyr,​2 kan departementet​3 med de begrensninger som følger av annet ledd, gi pålegg om og iverksette tiltak som finnes nødvendige for å hindre spredning av sykdommen.\nDepartementet​3 kan bestemme at frittlevende akvatiske dyr​2 skal behandles eller avlives når det er grunn til å tro at slike tiltak vil ha vesentlig betydning for å begrense eller utrydde smittsom sykdom i et område. Departementet​3 kan ved forskrift​4 gi nærmere regler om hvordan slik behandling eller avliving skal gjennomføres, herunder gi regler om destruering av akvatiske dyr.​2\nTiltak etter denne bestemmelsen kan iverksettes uten hensyn til den enkelte grunneier eller rettighetshaver.\n1 Se § 2 annet ledd.\n2 Se § 3, a.\n3 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "title": "Sanering av anlegg og utstyr",
+      "content": "Departementet​2 kan pålegge sanering av anlegg, transportenhet og utstyr når det er mistanke om eller er påvist smittsom sykdom på akvatiske dyr.​3\nØkonomiske tap som følge av tiltak som pålegges iverksatt etter loven her erstattes ikke av det offentlige.\n1 Se § 2 annet ledd.\n2 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n3 Se § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "4:26",
+      "chapter": "4",
+      "section": "26",
+      "title": "Opprettelse av soner",
+      "content": "Når akvatiske dyr​2 er eller har vært angrepet av smittsom sykdom, eller når det foreligger mistanke om slik sykdom, kan departementet​3 opprette soner og for den enkelte sone gi bestemmelser om:\na. at det er forbudt​4 å fange eller sette ut akvatiske dyr;​2\nb. at det er forbudt​4 å overføre levende eller døde akvatiske dyr, herunder avfall og biprodukter, inn i, ut av, eller mellom slike soner;\nc. at tiltak som kan iverksettes for å begrense eller utrydde smittsom sykdom for et eller flere akvakulturanlegg​5 eller andre innhegninger,​6 skal gjelde for hele sonen;\nd. at tiltak som kan iverksettes for å begrense eller utrydde sykdom i viltlevende bestander skal gjelde for hele sonen;\ne. tiltak som er nødvendig for å oppnå eller opprettholde fristatus, eller som følge av internasjonal avtale.\n1 Se § 2 annet ledd, jfr. § 8 første ledd, d.\n2 Se § 3, a.\n3 Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n4 Jfr. kap. 5.\n5 Se § 3, b.\n6 Se § 3, c.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Tvangstiltak",
+      "content": "Dersom noen som har ansvaret for akvatiske dyr​1 ikke retter seg etter påbud som er gitt i eller i medhold av denne loven, kan departementet​2 iverksette nødvendige tiltak for å gjennomføre påbudet.\nDersom det er nødvendig å gjennomføre tiltak straks, kan den som er gitt myndighet etter denne loven sørge for umiddelbar gjennomføring av nødvendige tiltak, uten at pålegg er gitt.\nPåbud og tiltak kan gjennomføres for den ansvarliges regning. Skyldige beløp etter regelen i denne paragraf er tvangsgrunnlag for utlegg.​3\n1 Se § 3, a.\n2 Fiskeridepartementet for så vidt gjelder marine viltlevende bestander, ellers Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n3 Jfr. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Innkreving ved Statens innkrevingssentral",
+      "content": "Når Statens innkrevingssentral​1 er pålagt å innkreve krav som det etter bestemmelsene i denne loven foreligger tvangsgrunnlag for, kan Statens innkrevingssentral inndrive kravene ved trekk i lønn og lignende ytelser etter reglene i dekningsloven​2 § 2-7. Statens innkrevingssentral kan også inndrive kravene ved å stifte utleggspant for kravet dersom panteretten kan gis rettsvern ved registrering i et register eller ved underretning til tredjeperson, jf. panteloven​3 kap. 5, og utleggsforretningen kan holdes på Statens innkrevingssentrals kontor etter tvangsfullbyrdelsesloven​4 § 7-9 første ledd.\n1 Jfr. strpl. § 455 og § 456.\n2 Lov 8 juni 1984 nr. 59 (deknl.).\n3 Lov 8 feb 1980 nr. 2 (pantel.).\n4 Lov 26 juni 1992 nr. 86 (tvangsl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Tvangsmulkt",
+      "content": "For å sikre at bestemmelser gitt i eller i medhold av denne loven blir gjennomført, kan den som er gitt myndighet etter denne loven fastsette tvangsmulkt til staten. Departementet​1 kan gi forskrifter​2 om fastsettelse av tvangsmulkt.\nTvangsmulkt kan fastsettes når overtredelse av loven eller vedtak i medhold av loven er oppdaget. Tvangsmulkten begynner å løpe dersom den ansvarlige oversitter den frist for retting av forholdet som myndigheten har fastsatt.\nTvangsmulkten kan også fastsettes på forhånd og løper da fra eventuell overtredelse tar til. Det kan fastsettes at tvangsmulkten løper så lenge det ulovlige forhold varer eller at den forfaller ved hver overtredelse.\nTvangsmulkt ilegges den som er ansvarlig for overtredelsen. Er overtredelsen skjedd på vegne av et selskap eller et foretak, skal tvangsmulkten pålegges virksomheten som sådan.\nTvangsmulkt er tvangsgrunnlag for utlegg.​3 Den som er gitt myndighet etter denne paragraf kan frafalle påløpt tvangsmulkt.\n1 Fiskeridepartementet for så vidt gjelder marine viltlevende bestander, ellers Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Jfr. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "title": "Straff",
+      "content": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne loven, straffes med bøter​1 eller fengsel​2 i inntil 1 år. Medvirkning er også straffbart.\nForeligger særlig skjerpende omstendigheter, kan fengsel i inntil 2 år​3 anvendes, om ikke strengere straffebud får anvendelse.\n1 Jfr. strl. § 27 og kap. 3 a.\n2 Jfr. strl. § 26 a.\n3 Jfr. strl. § 67.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "5:31",
+      "chapter": "5",
+      "section": "31",
+      "title": "Delegasjon",
+      "content": "Departementet​1 kan delegere myndighet etter denne loven til andre departementers underordnede organer.\n1 Fiskeridepartementet for så vidt gjelder marine viltlevende bestander, ellers Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "5:32",
+      "chapter": "5",
+      "section": "32",
+      "title": "Behandlingsgebyr",
+      "content": "Departementet​1 kan ved forskrift​2 fastsette gebyr for behandling av søknader og for annet arbeid som er pålagt offentlige myndigheter etter denne loven.\n1 Fiskeridepartementet for så vidt gjelder marine viltlevende bestander, ellers Landbruksdepartementet iflg. res. 19 des 1997 nr. 1317.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "5:33",
+      "chapter": "5",
+      "section": "33",
+      "title": "Ikrafttredelse",
+      "content": "Denne loven trer i kraft fra den tid​1 Kongen bestemmer. Samtidig oppheves midlertidig lov av 22. juni 1990 nr. 44 om tiltak mot sykdom hos akvatiske organismer.\nSå langt de ikke strider mot denne loven gjelder forskrifter og vedtak gitt i medhold av lov av 22. juni 1990 nr. 44 om tiltak mot sykdom hos akvatiske organismer, og lov av 6. desember 1968 nr. 2 om tiltak mot sykdommer hos ferskvannsfisk inntil de oppheves eller avløses av forskrifter eller vedtak fattet med hjemmel i denne loven.\n1 Fra 1 jan 1998 iflg. res. 13 juni 1997 nr. 578.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    }
+  ]
+}

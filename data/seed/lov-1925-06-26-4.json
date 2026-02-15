@@ -1,0 +1,235 @@
+{
+  "id": "LOV-1925-06-26-4",
+  "type": "statute",
+  "title": "Lov om hundeavgift.",
+  "short_name": "Hundeavgiftsloven.",
+  "status": "in_force",
+  "issued_date": "1925-06-26",
+  "in_force_date": "1925-06-26",
+  "url": "https://lovdata.no/dokument/NLO/lov/1925-06-26-4",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Herred- eller bystyre kan gjøre vedtak om at den som innen kommunen holder hund, skal betale for hver hund en årlig avgift til kommunekassen av op til kr. 100,00.\nFor hver hund som nogen holder over to, kan avgiften forhøies til inntil det dobbelte selv om den derved overstiger kr. 100,00.\nAvgiften skal betales av hundens besidder, uten hensyn til om han eier den; dog er eieren solidarisk ansvarlig med besidderen for avgiften.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "For hunder som nogen er kommet i besiddelse av innen 1 juli, betales hel årsavgift. For hunder som nogen kommer i besiddelse av efter denne tid, betales halv årsavgift, men således at han ikke plikter å betale avgift av hund han har fått efter 31 oktober.\nFor en og samme hund betales ikke avgift mer enn en gang innen samme kommune i samme år.\nFor hund, som er anskaffet istedenfor hund der er død eller bortkommen eller overført til en annen kommune, erlegges ikke ny avgift i samme år.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Hvalper som ikke har fylt 3 måneder, er avgiftsfri.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Hundeavgift betales ikke:\na. av den som bare oppholder seg i vedkommende kommune inntil 2 måneder i sammenheng, for så vidt angår hunder han fører med seg,\nb. ved seterdrift eller annen bruk av fjellbeiter utenfor bostedskommunen,\nc. av fjellfinner og andre som bruker hund til tamreindrift,\nd. for hunder som etter oppgave fra vedkommende militære sjef tilhører Forsvaret, eller – i det tidsrom overenskomsten gjelder – for hunder som godtgjøres å være stilt til rådighet for Forsvaret ved overenskomst mellom eieren og vedkommende militære sjef,\ne. for hunder som i henhold til godkjenning av vedkommende politimester oppøves for eller brukes i politiets tjeneste,\nf. for hunder som godtgjøres å være under opplæring til eller i bruk som førerhund for blinde.\nVedkommende herred- eller bystyre (formannskap) kan frita hundeopdrettere for å betale avgift. Likeså kan et herred- eller bystyre (formannskap) helt eller delvis frita for avgift, når det gjelder hunder som nogen har særlig behov for.\n1 Endret ved lover 28 mai 1937 nr. 2, 16 april 1948.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Enhver som kommer i besiddelse av hund som han efter denne lov skal betale avgift for, plikter​1 å melde det innen 8 dager til politiet (lensmannen) hvis ikke herred- eller bystyre anderledes bestemmer.\nDen som avhender en hund plikter å gi tilsvarende melding herom. Undlater han det, blir han solidarisk ansvarlig med den nye besidder for den avgift som denne skal betale.\n1 Se § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Vedkommende herred- eller bystyre kan med fylkesmannens stadfestelse fastsette de nærmere regler​1 som trenges for å få avgiften innkrevet.\n1 Se § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Enhver hund skal bære halsbånd forsynt med eierens navn og fullstendige adresse.​1 Politiet kan foranstalte hund, som går løs uten sådant halsbånd, optatt. Hunden blir i tilfelle å behandle som hittegods,​2 og hvis eieren ikke er kjent eller melder sig efter en av politiet bekjentgjort kortere frist, å drepe eller selge.\n1 Se § 8.\n2 Se lov 29 mai 1953 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Overtredelser av §§ 5 og 7 eller av forskrifter gitt i henhold til § 6, straffes med bøter.​1\n1 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Avgiften kan inndrives ved utpantning.​1\n1 Se tvangsfullbl. kap. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "To måneder før det første år som vedtak om avgift skal gjelde for, må vedtaket være kunngjort på den måte som herred- eller bystyre bestemmer. Samme regel gjelder når sådant vedtak forandres.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "§ 7 og § 8, forsåvidt angår overtredelse av § 7, trer i kraft straks; samtidig opheves § 4 i lov av 20 august 1915, nr. 9 angående ansvar for skade på bufe ved hund. For øvrig trer nærværende lov i kraft 1 januar 1926. Fra denne tid opheves – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Herred- eller bystyre kan gjøre vedtak om at den som innen kommunen holder hund, skal betale for hver hund en årlig avgift til kommunekassen av op til kr. 100,00.\nFor hver hund som nogen holder over to, kan avgiften forhøies til inntil det dobbelte selv om den derved overstiger kr. 100,00.\nAvgiften skal betales av hundens besidder, uten hensyn til om han eier den; dog er eieren solidarisk ansvarlig med besidderen for avgiften.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "For hunder som nogen er kommet i besiddelse av innen 1 juli, betales hel årsavgift. For hunder som nogen kommer i besiddelse av efter denne tid, betales halv årsavgift, men således at han ikke plikter å betale avgift av hund han har fått efter 31 oktober.\nFor en og samme hund betales ikke avgift mer enn en gang innen samme kommune i samme år.\nFor hund, som er anskaffet istedenfor hund der er død eller bortkommen eller overført til en annen kommune, erlegges ikke ny avgift i samme år.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Hvalper som ikke har fylt 3 måneder, er avgiftsfri.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Hundeavgift betales ikke:\na. av den som bare oppholder seg i vedkommende kommune inntil 2 måneder i sammenheng, for så vidt angår hunder han fører med seg,\nb. ved seterdrift eller annen bruk av fjellbeiter utenfor bostedskommunen,\nc. av fjellfinner og andre som bruker hund til tamreindrift,\nd. for hunder som etter oppgave fra vedkommende militære sjef tilhører Forsvaret, eller – i det tidsrom overenskomsten gjelder – for hunder som godtgjøres å være stilt til rådighet for Forsvaret ved overenskomst mellom eieren og vedkommende militære sjef,\ne. for hunder som i henhold til godkjenning av vedkommende politimester oppøves for eller brukes i politiets tjeneste,\nf. for hunder som godtgjøres å være under opplæring til eller i bruk som førerhund for blinde.\nVedkommende herred- eller bystyre (formannskap) kan frita hundeopdrettere for å betale avgift. Likeså kan et herred- eller bystyre (formannskap) helt eller delvis frita for avgift, når det gjelder hunder som nogen har særlig behov for.\n1 Endret ved lover 28 mai 1937 nr. 2, 16 april 1948.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Enhver som kommer i besiddelse av hund som han efter denne lov skal betale avgift for, plikter​1 å melde det innen 8 dager til politiet (lensmannen) hvis ikke herred- eller bystyre anderledes bestemmer.\nDen som avhender en hund plikter å gi tilsvarende melding herom. Undlater han det, blir han solidarisk ansvarlig med den nye besidder for den avgift som denne skal betale.\n1 Se § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Vedkommende herred- eller bystyre kan med fylkesmannens stadfestelse fastsette de nærmere regler​1 som trenges for å få avgiften innkrevet.\n1 Se § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Enhver hund skal bære halsbånd forsynt med eierens navn og fullstendige adresse.​1 Politiet kan foranstalte hund, som går løs uten sådant halsbånd, optatt. Hunden blir i tilfelle å behandle som hittegods,​2 og hvis eieren ikke er kjent eller melder sig efter en av politiet bekjentgjort kortere frist, å drepe eller selge.\n1 Se § 8.\n2 Se lov 29 mai 1953 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Overtredelser av §§ 5 og 7 eller av forskrifter gitt i henhold til § 6, straffes med bøter.​1\n1 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Avgiften kan inndrives ved utpantning.​1\n1 Se tvangsfullbl. kap. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "To måneder før det første år som vedtak om avgift skal gjelde for, må vedtaket være kunngjort på den måte som herred- eller bystyre bestemmer. Samme regel gjelder når sådant vedtak forandres.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "§ 7 og § 8, forsåvidt angår overtredelse av § 7, trer i kraft straks; samtidig opheves § 4 i lov av 20 august 1915, nr. 9 angående ansvar for skade på bufe ved hund. For øvrig trer nærværende lov i kraft 1 januar 1926. Fra denne tid opheves – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    }
+  ]
+}

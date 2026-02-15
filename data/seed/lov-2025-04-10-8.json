@@ -1,0 +1,103 @@
+{
+  "id": "LOV-2025-04-10-8",
+  "type": "statute",
+  "title": "Lov om den europeiske arbeidsmarknadsstyresmakta (ELA-lova)",
+  "short_name": "ELA-lova",
+  "status": "in_force",
+  "issued_date": "2025-04-10",
+  "in_force_date": "2025-04-10",
+  "url": "https://lovdata.no/dokument/NL/lov/2025-04-10-8",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Gjennomføring av forordning (EU) 2019/1149",
+      "content": "EØS-avtala vedlegg V nr. 11 (forordning (EU) 2019/1149 om innføring av ei europeisk arbeidsmarknadsstyresmakt, om endring av forordning (EF) nr. 883/2004, (EU) nr. 492/2011 og (EU) 2016/589 og om oppheving av avgjerd (EU) 2016/344) gjeld som lov med dei tilpassingar som følgjer av vedlegg V, protokoll 1 til avtala og avtala elles.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Forskrifter",
+      "content": "Departementet kan gi forskrift om kva for forvaltningsorgan som er ansvarlege for ulike oppgåver etter forordning (EU) 2019/1149, og om ansvarsfordelinga mellom dei.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Endringar i andre lover",
+      "content": "Frå den tida lova tek til å gjelde, blir følgjande endringar gjorde i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Iverksetjing",
+      "content": "Lova tek til å gjelde straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Gjennomføring av forordning (EU) 2019/1149",
+      "content": "EØS-avtala vedlegg V nr. 11 (forordning (EU) 2019/1149 om innføring av ei europeisk arbeidsmarknadsstyresmakt, om endring av forordning (EF) nr. 883/2004, (EU) nr. 492/2011 og (EU) 2016/589 og om oppheving av avgjerd (EU) 2016/344) gjeld som lov med dei tilpassingar som følgjer av vedlegg V, protokoll 1 til avtala og avtala elles.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Forskrifter",
+      "content": "Departementet kan gi forskrift om kva for forvaltningsorgan som er ansvarlege for ulike oppgåver etter forordning (EU) 2019/1149, og om ansvarsfordelinga mellom dei.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Endringar i andre lover",
+      "content": "Frå den tida lova tek til å gjelde, blir følgjande endringar gjorde i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Iverksetjing",
+      "content": "Lova tek til å gjelde straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

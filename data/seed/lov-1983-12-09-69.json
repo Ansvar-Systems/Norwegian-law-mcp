@@ -1,0 +1,59 @@
+{
+  "id": "LOV-1983-12-09-69",
+  "type": "statute",
+  "title": "Lov om avvikling av de tiltaksfond som er hjemlet i lov av 27. juni 1947 nr. 9 om tiltak til å fremme sysselsetting, § 35 og § 36, og om endringer i samme lov.",
+  "short_name": "Lov om avvikling av tiltaksfond",
+  "status": "in_force",
+  "issued_date": "1983-12-09",
+  "in_force_date": "1983-12-09",
+  "url": "https://lovdata.no/dokument/NLO/lov/1983-12-09-69",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "De tiltaksfond som er hjemlet i lov av 27. juni 1947 nr. 9 om tiltak til å fremme sysselsetting, § 35 og § 36, avvikles med virkning fra 31. desember 1983. Udisponerte midler pr. 31. desember 1983 og senere innkomne renter og avdrag på lån overføres til Folketrygdfondet.\nKongen kan gi nærmere forskrifter om avviklingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "I lov av 27. juni 1947 nr. 9 om tiltak til å fremme sysselsetting, gjøres følgende endringer: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "De tiltaksfond som er hjemlet i lov av 27. juni 1947 nr. 9 om tiltak til å fremme sysselsetting, § 35 og § 36, avvikles med virkning fra 31. desember 1983. Udisponerte midler pr. 31. desember 1983 og senere innkomne renter og avdrag på lån overføres til Folketrygdfondet.\nKongen kan gi nærmere forskrifter om avviklingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "I lov av 27. juni 1947 nr. 9 om tiltak til å fremme sysselsetting, gjøres følgende endringer: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

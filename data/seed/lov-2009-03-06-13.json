@@ -1,0 +1,103 @@
+{
+  "id": "LOV-2009-03-06-13",
+  "type": "statute",
+  "title": "Lov om Statens obligasjonsfond",
+  "short_name": "Statens obligasjonsfond-loven",
+  "status": "in_force",
+  "issued_date": "2009-03-06",
+  "in_force_date": "2009-03-06",
+  "url": "https://lovdata.no/dokument/NLO/lov/2009-03-06-13",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Statens obligasjonsfond (Obligasjonsfondet) skal bidra til økt likviditet i og kapitaltilgang til kredittobligasjonsmarkedet gjennom plasseringer i rentebærende instrumenter hvor utstederne er hjemmehørende i Norge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Forvaltning og organisasjon",
+      "content": "Obligasjonsfondet forvaltes av Finansdepartementet.\nObligasjonsfondet plasseres som et kapitalinnskudd i Folketrygdfondet.​1 Motverdien forvaltes etter nærmere regler fastsatt av departementet, jf. § 3.\nObligasjonsfondet kan ikke selv ha rettigheter eller plikter overfor private eller offentlige myndigheter, og kan ikke saksøke eller saksøkes.​2\n1 Se lov 29 juni 2007 nr. 44.\n2 Sml. lov 21 des 2005 nr. 123 § 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Utfyllende regler",
+      "content": "Departementet kan gi utfyllende bestemmelser til gjennomføring av loven.​2\n1 Sml. lov 21 des 2005 nr. 123 § 7.\n2 Se § 2 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Ikrafttredelse og overgangsbestemmelser",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.​1\nDet er adgang til å sette i kraft forskjellige deler av loven til forskjellig tid.\nKongen​2 kan gi overgangsregler.\n1 Fra 6 mars 2009 iflg. res. 6 mars 2009 nr. 266.\n2 Finansdepartementet iflg. res. 6 mars 2009 nr. 267.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Statens obligasjonsfond (Obligasjonsfondet) skal bidra til økt likviditet i og kapitaltilgang til kredittobligasjonsmarkedet gjennom plasseringer i rentebærende instrumenter hvor utstederne er hjemmehørende i Norge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Forvaltning og organisasjon",
+      "content": "Obligasjonsfondet forvaltes av Finansdepartementet.\nObligasjonsfondet plasseres som et kapitalinnskudd i Folketrygdfondet.​1 Motverdien forvaltes etter nærmere regler fastsatt av departementet, jf. § 3.\nObligasjonsfondet kan ikke selv ha rettigheter eller plikter overfor private eller offentlige myndigheter, og kan ikke saksøke eller saksøkes.​2\n1 Se lov 29 juni 2007 nr. 44.\n2 Sml. lov 21 des 2005 nr. 123 § 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Utfyllende regler",
+      "content": "Departementet kan gi utfyllende bestemmelser til gjennomføring av loven.​2\n1 Sml. lov 21 des 2005 nr. 123 § 7.\n2 Se § 2 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Ikrafttredelse og overgangsbestemmelser",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.​1\nDet er adgang til å sette i kraft forskjellige deler av loven til forskjellig tid.\nKongen​2 kan gi overgangsregler.\n1 Fra 6 mars 2009 iflg. res. 6 mars 2009 nr. 266.\n2 Finansdepartementet iflg. res. 6 mars 2009 nr. 267.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

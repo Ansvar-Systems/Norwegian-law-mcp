@@ -1,0 +1,591 @@
+{
+  "id": "LOV-2005-12-21-126",
+  "type": "statute",
+  "title": "Lov om kosmetikk og kroppspleieprodukt m.m. (kosmetikklova)",
+  "short_name": "Kosmetikklova",
+  "status": "in_force",
+  "issued_date": "2005-12-21",
+  "in_force_date": "2006-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2005-12-21-126",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Formålet med lova er å medverke til at kosmetikk, kroppspleieprodukt og andre produkt som er omfatta av lova er helsemessig sikre for menneske og dyr.\nLova skal òg fremje forbrukarinteresser, ærlegdom, dyrevelferd, etikk, miljø, mattryggleik og kvalitet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Sakleg verkeområde",
+      "content": "Lova omfattar alle forhold i samband med utvikling, produksjon, import, tilarbeiding, distribusjon, eksport og omsetning av\na. kosmetikk og kroppspleieprodukt, som er alle stoff eller blandingar av stoff som er bestemte til å kome i kontakt med kroppsoverflata til menneske, tennene eller slimhinnene i munn- eller nasehola for berre eller i hovudsak å reinse eller parfymere desse delane av kroppen, endre utsjånaden deira, påverke kroppslukter, verne dei eller halde dei i god stand\nb. kosmetikk og kroppspleieprodukt for dyr, som er alle stoff eller blandingar av stoff som er bestemte til å kome i kontakt med kroppsoverflata til dyr, tennene eller slimhinnene i munn- eller nasehola for berre eller i hovudsak å reinse eller parfymere desse delane av kroppen, endre utsjånaden deira, påverke kroppslukter, verne dei eller halde dei i god stand\nc. lækjemiddelnære kroppspleieprodukt, som er alle stoff eller blandingar av stoff som er bestemte til å kome i kontakt med kroppsoverflata til menneske eller dyr, tennene eller slimhinnene i munn- eller nasehola for berre eller i hovudsak å førebyggje, lindre eller behandle helseplager som ikkje kjem av sjukdom\nd. tatoveringsprodukt, som er alle stoff eller blandingar av stoff som er bestemte til å bli førte inn i huda til menneske eller dyr for å oppnå permanente eller langvarige mønster, teikningar, strekar, felt eller fargar på huda, medrekna tatoveringsvæske og permanent sminke\ne. injeksjonsprodukt, som er alle stoff eller blandingar av stoff som er bestemte til å bli førte inn i huda til menneske eller dyr for å endre utsjånaden til huda på andre måtar enn dei som er nemnde i bokstav d.\nLova omfattar også alle forhold i samband med produksjon av materiale og gjenstandar som er bestemte til å kome i kontakt med eller kan ha innverknad på produkta, jf. § 4 bokstav a.\nLova omfattar ikkje stoff, blandingar av stoff eller utstyr som kjem inn under lov om legemidler mv. eller lov om medisinsk utstyr. Lova omfattar ikkje næringsmiddel som kjem inn under lov om matproduksjon og mattrygghet mv.\n0 Endra med lov 7 mai 2020 nr. 37 (ikr. 26 mai 2021, iflg. res. 7 mai 2021 nr. 1454).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Stadleg verkeområde",
+      "content": "Lova gjeld for norsk land- og sjøterritorium, norske luft- og sjøfartøy og innretningar på norsk kontinentalsokkel.\nKongen kan gi forskrifter om bruken av lova på Svalbard, på Jan Mayen, i bilanda, i norsk økonomisk sone og på utanlandsregistrerte skip i rute på norske hamner. Kongen kan fastsetje særlege reglar med omsyn til forholda på staden.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Definisjonar",
+      "content": "I denne lova forstår ein med\na. produkt: kosmetikk og kroppspleieprodukt, kosmetikk og kroppspleieprodukt for dyr, lækjemiddelnære kroppspleieprodukt, tatoveringsprodukt og injeksjonsprodukt\nb. verksemd: privat eller offentlege føretak eller privatpersonar som utfører ein aktivitet som er nemnd i § 2 første ledd, bortsett frå aktivitet med privat og ikkje-kommersielt formål\nc. omsetning: innehav med sikte på sal, frambod for sal, distribusjon, sjølve salet og alle andre former for overdraging, med eller utan vederlag.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Forbod mot produkt som ikkje er helsemessig sikre",
+      "content": "Det er forbode å utvikle, produsere, importere, tilarbeide, distribuere, eksportere og omsetje produkt som ved normal bruk eller bruk som det er rimeleg å tenkje seg, ikkje er helsemessig sikre for menneske eller dyr.\nDepartementet kan gi nærmare forskrifter om når produkt skal reknast som ikkje helsemessig sikre for menneske eller dyr.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Godkjenningsplikt",
+      "content": "Departementet kan gi forskrifter om godkjenningsplikt og meldeplikt for bestemte typar produkt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Merking, presentasjon og reklame",
+      "content": "Merking og presentasjon av, reklame for og anna marknadsføring av produkt skal vere korrekt, gi mottakaren tilstrekkeleg informasjon og ikkje vere eigna til å villeie.\nDepartementet kan gi nærmare forskrifter om plikta etter første ledd, til dømes forskrifter om helsepåstandar og frivillige ordningar for merking.\nDepartementet kan gi forskrifter om plikt til å dokumentere dei påstandane som er brukte i marknadsføringa av eit produkt, og om krav til denne typen dokumentasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Produksjon, innhald, samansetjing og kvalitet",
+      "content": "Departementet kan i forskrifter stille krav til produksjonen, ingrediensane og det andre innhaldet i, samansetjinga av og kvaliteten på produkt og materiale og gjenstandar som er bestemte til å kome i kontakt med eller kan ha innverknad på produkt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Testing på dyr",
+      "content": "Departementet kan gi forskrifter om forbod mot utvikling, produksjon, import, tilarbeiding, eksport og omsetning av produkt som er testa på dyr, eller som inneheld ein eller fleire ingrediensar som er testa på dyr.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Antibiotikaresistensgen",
+      "content": "Departementet kan gi forskrifter om forbod mot produkt som inneheld gen frå prosessert genmodifisert materiale der gena kodar for antibiotikaresistens.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Etablering, utforming og drift",
+      "content": "Plassering, utforming og drift av aktivitetar knytte til produkt skal vere hygienisk forsvarleg.\nDepartementet kan i forskrifter stille utfyllande krav til etablering, plassering, utforming og drift av aktivitetar i verksemder med tilknyting til produkt, til dømes krav om melding, registrering, godkjenning og bortfall av godkjenning, og om helsa og hygienen til personalet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Etterlevingsplikt og systematiske kontrolltiltak",
+      "content": "Verksemda skal syte for at føresegner gitt i eller i medhald av denne lova blir etterlevde. Departementet kan gi forskrifter om kven som er ansvarleg i verksemda, og om plikt til å gi melding om dette til tilsynsorganet.\nDepartementet kan gi forskrifter om plikt til å etablere og gjennomføre systematiske kontrolltiltak.\nDepartementet kan gi forskrifter om den faglege kompetansen til personalet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "title": "Tilgjenge til stad, bistandsplikt m.m.",
+      "content": "Verksemda skal gi tilsynet uhindra tilgjenge til stad eller lokale der det går føre seg aktivitet omfatta av lova, slik at tilsynet kan gjere nødvendige undersøkingar. Utanlandske inspektørar kan vere med på inspeksjonar osv. når det er nødvendig for å oppfylle dei internasjonale pliktene Noreg har.\nVerksemda skal vederlagsfritt stille nødvendige lokale, inventar, arbeidshjelp og reiskapar til disposisjon for utøving av tilsyn og elles yte hjelp og leggje til rette for tilsyn.\nDepartementet kan gi nærmare forskrifter om tilgjenge til stad, bistandsplikt, prøveuttak osv.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "title": "Varslings- og opplysningsplikt",
+      "content": "Verksemda skal straks varsle tilsynsorganet ved mistanke om produkt som ikkje er helsemessig sikre for menneske eller dyr.\nVerksemda skal, når tilsynet krev det, vederlagsfritt gi eller sende inn nødvendige opplysningar, prøvemateriale og resultat av gjennomførte analysar. Tilsynsorganet kan bestemme korleis opplysningane skal bli gitt, mellom anna når det gjeld form, detaljeringsgrad osv.\nDepartementet kan gi nærmare forskrifter om opplysnings- og rapporteringsplikt for helsepersonell og andre.\nDepartementet kan gi nærmare forskrifter om plikt til å offentleggjere resultat av utført tilsyn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "title": "Dokumentasjon m.m.",
+      "content": "Departementet kan gi forskrifter om dokumentasjon, til dømes stille krav om utskriving av og plikt til å skaffe og oppbevare dokumentasjon og plikt til å leggje ved attestar, sertifikat eller annan dokumentasjon ved transport og omsetning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Tilsyn og vedtak",
+      "content": "Tilsynsorganet fører tilsyn og kan gjere nødvendige vedtak om å forby utvikling, produksjon, import, tilarbeiding, distribusjon, eksport og omsetning av produkt, og om beslaglegging, destruksjon og stenging av verksemda.\nTilsynsorganet kan påleggje den som er ansvarleg for verksemda, å dekkje faktiske kostnader i samband med beslaglegging, destruksjon og stenging av verksemda.\nDersom pålegga ikkje blir følgde, dersom det er ukjent kven som er ansvarleg, eller dersom det er nødvendig å få gjennomført tiltak raskt, kan tilsynet sjølv gjennomføre tiltak som er nemnde i første ledd. Tiltak kan gjennomførast på kostnad av den ansvarlege. Skuldige beløp er tvangsgrunnlag for utlegg.\nTilsynsorganet kan, dersom viktige samfunnsinteresser tilseier det, eller av omsyn til dei internasjonale pliktene Noreg har, fastsetje, endre eller oppheve tidsavgrensa forskrifter utan føregåande høyring og kunngjere forskrifter på særskild måte.\nOffentlege styresmakter pliktar på førespurnad frå tilsynet å gi nødvendige opplysningar utan hinder av teieplikta. Politi, tollverk, kystvakt og kommunar skal på førespurnad yte hjelp til tilsynet.\nDepartementet bestemmer kva for eit forvaltningsorgan som skal vere tilsynsorgan etter lova.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:16 a",
+      "chapter": "3",
+      "section": "16 a",
+      "title": "Ansvaret til tilsynsorganet ved mistanke om at produkt ikkje er helsemessig sikre",
+      "content": "Ved mistanke om at kosmetikk, kroppspleieprodukt og andre produkt omfatta av lova ikkje er helsemessig sikre for menneske eller dyr, skal tilsynsorganet medverke til å førebyggje eller avgrense omfanget av helseskade.\nVed mistanke om at det kan oppstå fare for helsa til menneske eller dyr som følgje av produkt omfatta av lova, skal tilsynsorganet på eige initiativ gi relevant informasjon til allmenta.\n0 Tilføyd ved lov 2 feb 2024 nr. 8 (i kraft 1 juli 2024 iflg. res. 2 feb 2024 nr. 152).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16a",
+        "source_heading": "§ 16 a."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Personregister",
+      "content": "For å sikre at føresegner gitt i eller i medhald av denne lova blir etterlevde, kan tilsynsorganet opprette personregister med nødvendige opplysningar om verksemder det fører tilsyn med.\nFor å sikre at føresegnene i denne lova blir følgde, kan tilsynsorganet innhente informasjon til register som nemnt i første ledd, også informasjon frå eksisterande register.\nDepartementet kan gi forskrifter om nærmare reglar for slike register, mellom anna krav til konfidensialitet og utlevering av opplysningar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:17 a",
+      "chapter": "3",
+      "section": "17 a",
+      "title": "Behandling av personopplysningar",
+      "content": "Tilsynsorganet kan behandle personopplysningar, medrekna personopplysningar nemnde i personvernforordninga artikkel 9 og 10, når dette er nødvendig for å utføre oppgåver etter denne lova.\nDepartementet kan gi forskrifter om behandlinga, blant anna om formålet med behandlinga, behandlingsansvar, kva slags personopplysningar som kan bli behandla, kven det kan bli behandla personopplysningar om, bruk av automatiserte avgjersler, høve til vidarebehandling, utlevering, registrering og tilgang til register.\n0 Tilføyd ved lov 2 feb 2024 nr. 8 (i kraft 1 juli 2024 iflg. res. 2 feb 2024 nr. 152).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17a",
+        "source_heading": "§ 17 a."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Avgift og gebyr",
+      "content": "Departementet kan i forskrift påleggje verksemder å betale gebyr for å dekkje kostnader ved tilsyn, kontroll og særskilde ytingar, til dømes utskriving av attestar og godkjenningar etter denne lova.\nDepartementet kan i forskrift påleggje verksemder å betale ei avgift for å dekkje kostnader ved tilsyn og kontroll etter denne lova som ikkje er dekte ved gebyr i medhald av første ledd.\nDepartementet kan gi nærmare føresegner om utrekning, innkrevjing og innbetaling av avgiftene og gebyra.\nVed forseinka betaling av gebyr skal det betalast rente i samsvar med lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.\nGebyr er tvangsgrunnlag for utlegg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Dispensasjon",
+      "content": "Departementet kan i særlege tilfelle dispensere frå føresegnene gitt i eller i medhald av denne lova, under føresetnad av at det ikkje strir mot dei internasjonale pliktene Noreg har.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "title": "Tvangsmulkt",
+      "content": "Ei verksemd som ikkje held fristen for oppfylling av pålegg gitt i medhald av denne lova, kan påleggjast tvangsmulkt av tilsynsorganet i form av eingongsmulkt eller løpande dagmulkt.\nTvangsmulkt kan fastsetjast allereie i samband med at pålegget blir gitt, når det er nødvendig at fristen blir halden.\nPålegg om tvangsmulkt er tvangsgrunnlag for utlegg.\nDepartementet kan gi nærmare føresegner om fastsetjing og utrekning av tvangsmulkt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "title": "Straff",
+      "content": "Forsettleg eller aktlaust brot på føresegner eller vedtak gitt i eller i medhald av denne lova blir straffa med bøter eller fengsel inntil eitt år eller begge delar.\n0 Endra med lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "3:22",
+      "chapter": "3",
+      "section": "22",
+      "title": "Iverksetjing og overgangsreglar",
+      "content": "Denne lova gjeld frå den tid Kongen fastset.​1\nLov 19. mai 1933 nr. 3 om tilsyn med kosmetikk og kroppspleieprodukter mv. blir oppheva frå same tidspunkt. Forskrifter eller enkeltvedtak gitt i medhald av den oppheva lova gjeld til dei blir oppheva.\n1 Frå 1 jan 2006 iflg. res. 21 des 2005 nr. 1642.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Formålet med lova er å medverke til at kosmetikk, kroppspleieprodukt og andre produkt som er omfatta av lova er helsemessig sikre for menneske og dyr.\nLova skal òg fremje forbrukarinteresser, ærlegdom, dyrevelferd, etikk, miljø, mattryggleik og kvalitet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Sakleg verkeområde",
+      "content": "Lova omfattar alle forhold i samband med utvikling, produksjon, import, tilarbeiding, distribusjon, eksport og omsetning av\na. kosmetikk og kroppspleieprodukt, som er alle stoff eller blandingar av stoff som er bestemte til å kome i kontakt med kroppsoverflata til menneske, tennene eller slimhinnene i munn- eller nasehola for berre eller i hovudsak å reinse eller parfymere desse delane av kroppen, endre utsjånaden deira, påverke kroppslukter, verne dei eller halde dei i god stand\nb. kosmetikk og kroppspleieprodukt for dyr, som er alle stoff eller blandingar av stoff som er bestemte til å kome i kontakt med kroppsoverflata til dyr, tennene eller slimhinnene i munn- eller nasehola for berre eller i hovudsak å reinse eller parfymere desse delane av kroppen, endre utsjånaden deira, påverke kroppslukter, verne dei eller halde dei i god stand\nc. lækjemiddelnære kroppspleieprodukt, som er alle stoff eller blandingar av stoff som er bestemte til å kome i kontakt med kroppsoverflata til menneske eller dyr, tennene eller slimhinnene i munn- eller nasehola for berre eller i hovudsak å førebyggje, lindre eller behandle helseplager som ikkje kjem av sjukdom\nd. tatoveringsprodukt, som er alle stoff eller blandingar av stoff som er bestemte til å bli førte inn i huda til menneske eller dyr for å oppnå permanente eller langvarige mønster, teikningar, strekar, felt eller fargar på huda, medrekna tatoveringsvæske og permanent sminke\ne. injeksjonsprodukt, som er alle stoff eller blandingar av stoff som er bestemte til å bli førte inn i huda til menneske eller dyr for å endre utsjånaden til huda på andre måtar enn dei som er nemnde i bokstav d.\nLova omfattar også alle forhold i samband med produksjon av materiale og gjenstandar som er bestemte til å kome i kontakt med eller kan ha innverknad på produkta, jf. § 4 bokstav a.\nLova omfattar ikkje stoff, blandingar av stoff eller utstyr som kjem inn under lov om legemidler mv. eller lov om medisinsk utstyr. Lova omfattar ikkje næringsmiddel som kjem inn under lov om matproduksjon og mattrygghet mv.\n0 Endra med lov 7 mai 2020 nr. 37 (ikr. 26 mai 2021, iflg. res. 7 mai 2021 nr. 1454).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Stadleg verkeområde",
+      "content": "Lova gjeld for norsk land- og sjøterritorium, norske luft- og sjøfartøy og innretningar på norsk kontinentalsokkel.\nKongen kan gi forskrifter om bruken av lova på Svalbard, på Jan Mayen, i bilanda, i norsk økonomisk sone og på utanlandsregistrerte skip i rute på norske hamner. Kongen kan fastsetje særlege reglar med omsyn til forholda på staden.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Definisjonar",
+      "content": "I denne lova forstår ein med\na. produkt: kosmetikk og kroppspleieprodukt, kosmetikk og kroppspleieprodukt for dyr, lækjemiddelnære kroppspleieprodukt, tatoveringsprodukt og injeksjonsprodukt\nb. verksemd: privat eller offentlege føretak eller privatpersonar som utfører ein aktivitet som er nemnd i § 2 første ledd, bortsett frå aktivitet med privat og ikkje-kommersielt formål\nc. omsetning: innehav med sikte på sal, frambod for sal, distribusjon, sjølve salet og alle andre former for overdraging, med eller utan vederlag.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Forbod mot produkt som ikkje er helsemessig sikre",
+      "content": "Det er forbode å utvikle, produsere, importere, tilarbeide, distribuere, eksportere og omsetje produkt som ved normal bruk eller bruk som det er rimeleg å tenkje seg, ikkje er helsemessig sikre for menneske eller dyr.\nDepartementet kan gi nærmare forskrifter om når produkt skal reknast som ikkje helsemessig sikre for menneske eller dyr.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Godkjenningsplikt",
+      "content": "Departementet kan gi forskrifter om godkjenningsplikt og meldeplikt for bestemte typar produkt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Merking, presentasjon og reklame",
+      "content": "Merking og presentasjon av, reklame for og anna marknadsføring av produkt skal vere korrekt, gi mottakaren tilstrekkeleg informasjon og ikkje vere eigna til å villeie.\nDepartementet kan gi nærmare forskrifter om plikta etter første ledd, til dømes forskrifter om helsepåstandar og frivillige ordningar for merking.\nDepartementet kan gi forskrifter om plikt til å dokumentere dei påstandane som er brukte i marknadsføringa av eit produkt, og om krav til denne typen dokumentasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Produksjon, innhald, samansetjing og kvalitet",
+      "content": "Departementet kan i forskrifter stille krav til produksjonen, ingrediensane og det andre innhaldet i, samansetjinga av og kvaliteten på produkt og materiale og gjenstandar som er bestemte til å kome i kontakt med eller kan ha innverknad på produkt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Testing på dyr",
+      "content": "Departementet kan gi forskrifter om forbod mot utvikling, produksjon, import, tilarbeiding, eksport og omsetning av produkt som er testa på dyr, eller som inneheld ein eller fleire ingrediensar som er testa på dyr.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Antibiotikaresistensgen",
+      "content": "Departementet kan gi forskrifter om forbod mot produkt som inneheld gen frå prosessert genmodifisert materiale der gena kodar for antibiotikaresistens.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Etablering, utforming og drift",
+      "content": "Plassering, utforming og drift av aktivitetar knytte til produkt skal vere hygienisk forsvarleg.\nDepartementet kan i forskrifter stille utfyllande krav til etablering, plassering, utforming og drift av aktivitetar i verksemder med tilknyting til produkt, til dømes krav om melding, registrering, godkjenning og bortfall av godkjenning, og om helsa og hygienen til personalet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Etterlevingsplikt og systematiske kontrolltiltak",
+      "content": "Verksemda skal syte for at føresegner gitt i eller i medhald av denne lova blir etterlevde. Departementet kan gi forskrifter om kven som er ansvarleg i verksemda, og om plikt til å gi melding om dette til tilsynsorganet.\nDepartementet kan gi forskrifter om plikt til å etablere og gjennomføre systematiske kontrolltiltak.\nDepartementet kan gi forskrifter om den faglege kompetansen til personalet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "title": "Tilgjenge til stad, bistandsplikt m.m.",
+      "content": "Verksemda skal gi tilsynet uhindra tilgjenge til stad eller lokale der det går føre seg aktivitet omfatta av lova, slik at tilsynet kan gjere nødvendige undersøkingar. Utanlandske inspektørar kan vere med på inspeksjonar osv. når det er nødvendig for å oppfylle dei internasjonale pliktene Noreg har.\nVerksemda skal vederlagsfritt stille nødvendige lokale, inventar, arbeidshjelp og reiskapar til disposisjon for utøving av tilsyn og elles yte hjelp og leggje til rette for tilsyn.\nDepartementet kan gi nærmare forskrifter om tilgjenge til stad, bistandsplikt, prøveuttak osv.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "title": "Varslings- og opplysningsplikt",
+      "content": "Verksemda skal straks varsle tilsynsorganet ved mistanke om produkt som ikkje er helsemessig sikre for menneske eller dyr.\nVerksemda skal, når tilsynet krev det, vederlagsfritt gi eller sende inn nødvendige opplysningar, prøvemateriale og resultat av gjennomførte analysar. Tilsynsorganet kan bestemme korleis opplysningane skal bli gitt, mellom anna når det gjeld form, detaljeringsgrad osv.\nDepartementet kan gi nærmare forskrifter om opplysnings- og rapporteringsplikt for helsepersonell og andre.\nDepartementet kan gi nærmare forskrifter om plikt til å offentleggjere resultat av utført tilsyn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "title": "Dokumentasjon m.m.",
+      "content": "Departementet kan gi forskrifter om dokumentasjon, til dømes stille krav om utskriving av og plikt til å skaffe og oppbevare dokumentasjon og plikt til å leggje ved attestar, sertifikat eller annan dokumentasjon ved transport og omsetning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Tilsyn og vedtak",
+      "content": "Tilsynsorganet fører tilsyn og kan gjere nødvendige vedtak om å forby utvikling, produksjon, import, tilarbeiding, distribusjon, eksport og omsetning av produkt, og om beslaglegging, destruksjon og stenging av verksemda.\nTilsynsorganet kan påleggje den som er ansvarleg for verksemda, å dekkje faktiske kostnader i samband med beslaglegging, destruksjon og stenging av verksemda.\nDersom pålegga ikkje blir følgde, dersom det er ukjent kven som er ansvarleg, eller dersom det er nødvendig å få gjennomført tiltak raskt, kan tilsynet sjølv gjennomføre tiltak som er nemnde i første ledd. Tiltak kan gjennomførast på kostnad av den ansvarlege. Skuldige beløp er tvangsgrunnlag for utlegg.\nTilsynsorganet kan, dersom viktige samfunnsinteresser tilseier det, eller av omsyn til dei internasjonale pliktene Noreg har, fastsetje, endre eller oppheve tidsavgrensa forskrifter utan føregåande høyring og kunngjere forskrifter på særskild måte.\nOffentlege styresmakter pliktar på førespurnad frå tilsynet å gi nødvendige opplysningar utan hinder av teieplikta. Politi, tollverk, kystvakt og kommunar skal på førespurnad yte hjelp til tilsynet.\nDepartementet bestemmer kva for eit forvaltningsorgan som skal vere tilsynsorgan etter lova.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:16 a",
+      "chapter": "3",
+      "section": "16 a",
+      "title": "Ansvaret til tilsynsorganet ved mistanke om at produkt ikkje er helsemessig sikre",
+      "content": "Ved mistanke om at kosmetikk, kroppspleieprodukt og andre produkt omfatta av lova ikkje er helsemessig sikre for menneske eller dyr, skal tilsynsorganet medverke til å førebyggje eller avgrense omfanget av helseskade.\nVed mistanke om at det kan oppstå fare for helsa til menneske eller dyr som følgje av produkt omfatta av lova, skal tilsynsorganet på eige initiativ gi relevant informasjon til allmenta.\n0 Tilføyd ved lov 2 feb 2024 nr. 8 (i kraft 1 juli 2024 iflg. res. 2 feb 2024 nr. 152).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16a",
+        "source_heading": "§ 16 a."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Personregister",
+      "content": "For å sikre at føresegner gitt i eller i medhald av denne lova blir etterlevde, kan tilsynsorganet opprette personregister med nødvendige opplysningar om verksemder det fører tilsyn med.\nFor å sikre at føresegnene i denne lova blir følgde, kan tilsynsorganet innhente informasjon til register som nemnt i første ledd, også informasjon frå eksisterande register.\nDepartementet kan gi forskrifter om nærmare reglar for slike register, mellom anna krav til konfidensialitet og utlevering av opplysningar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:17 a",
+      "chapter": "3",
+      "section": "17 a",
+      "title": "Behandling av personopplysningar",
+      "content": "Tilsynsorganet kan behandle personopplysningar, medrekna personopplysningar nemnde i personvernforordninga artikkel 9 og 10, når dette er nødvendig for å utføre oppgåver etter denne lova.\nDepartementet kan gi forskrifter om behandlinga, blant anna om formålet med behandlinga, behandlingsansvar, kva slags personopplysningar som kan bli behandla, kven det kan bli behandla personopplysningar om, bruk av automatiserte avgjersler, høve til vidarebehandling, utlevering, registrering og tilgang til register.\n0 Tilføyd ved lov 2 feb 2024 nr. 8 (i kraft 1 juli 2024 iflg. res. 2 feb 2024 nr. 152).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17a",
+        "source_heading": "§ 17 a."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Avgift og gebyr",
+      "content": "Departementet kan i forskrift påleggje verksemder å betale gebyr for å dekkje kostnader ved tilsyn, kontroll og særskilde ytingar, til dømes utskriving av attestar og godkjenningar etter denne lova.\nDepartementet kan i forskrift påleggje verksemder å betale ei avgift for å dekkje kostnader ved tilsyn og kontroll etter denne lova som ikkje er dekte ved gebyr i medhald av første ledd.\nDepartementet kan gi nærmare føresegner om utrekning, innkrevjing og innbetaling av avgiftene og gebyra.\nVed forseinka betaling av gebyr skal det betalast rente i samsvar med lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.\nGebyr er tvangsgrunnlag for utlegg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Dispensasjon",
+      "content": "Departementet kan i særlege tilfelle dispensere frå føresegnene gitt i eller i medhald av denne lova, under føresetnad av at det ikkje strir mot dei internasjonale pliktene Noreg har.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "title": "Tvangsmulkt",
+      "content": "Ei verksemd som ikkje held fristen for oppfylling av pålegg gitt i medhald av denne lova, kan påleggjast tvangsmulkt av tilsynsorganet i form av eingongsmulkt eller løpande dagmulkt.\nTvangsmulkt kan fastsetjast allereie i samband med at pålegget blir gitt, når det er nødvendig at fristen blir halden.\nPålegg om tvangsmulkt er tvangsgrunnlag for utlegg.\nDepartementet kan gi nærmare føresegner om fastsetjing og utrekning av tvangsmulkt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "title": "Straff",
+      "content": "Forsettleg eller aktlaust brot på føresegner eller vedtak gitt i eller i medhald av denne lova blir straffa med bøter eller fengsel inntil eitt år eller begge delar.\n0 Endra med lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "3:22",
+      "chapter": "3",
+      "section": "22",
+      "title": "Iverksetjing og overgangsreglar",
+      "content": "Denne lova gjeld frå den tid Kongen fastset.​1\nLov 19. mai 1933 nr. 3 om tilsyn med kosmetikk og kroppspleieprodukter mv. blir oppheva frå same tidspunkt. Forskrifter eller enkeltvedtak gitt i medhald av den oppheva lova gjeld til dei blir oppheva.\n1 Frå 1 jan 2006 iflg. res. 21 des 2005 nr. 1642.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    }
+  ]
+}

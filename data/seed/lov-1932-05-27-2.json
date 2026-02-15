@@ -1,0 +1,1895 @@
+{
+  "id": "LOV-1932-05-27-2",
+  "type": "statute",
+  "title": "Lov om veksler [vekselloven]",
+  "short_name": "Vekselloven – vl",
+  "status": "in_force",
+  "issued_date": "1932-05-27",
+  "in_force_date": "1932-11-01",
+  "url": "https://lovdata.no/dokument/NL/lov/1932-05-27-2",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "En veksel skal inneholde:\n1. benevnelsen veksel, inntatt i selve teksten og uttrykt i det sprog hvori dokumentet er avfattet;\n2. en ubetinget anmodning om å betale en bestemt pengesum (vekselsummen);\n3. navnet på den som skal betale (trassaten);\n4. angivelse av forfallstiden;\n5. angivelse av stedet hvor betalingen skal skje;\n6. navnet på den til hvem eller til hvis ordre betalingen skal skje (vekseltager, remittent);\n7. angivelse av dag og sted for vekslens utstedelse; samt\n8. underskrift av den som utsteder vekslen (trassenten).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Et dokument hvori nogen av de i foregående paragraf nevnte anførsler mangler, gjelder ikke som veksel uten i de tilfelle som omhandles i de følgende ledd.\nEn veksel hvis forfallstid ikke er angitt, anses som betalbar ved sikt.\nI mangel av særlig angivelse anses det sted som er anført ved trassatens navn, som vekslens betalingssted og samtidig som trassatens bosted.\nEn veksel som ikke angir stedet hvor den er utstedt, anses underskrevet på det sted som er anført ved trassentens navn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "En veksel kan utstedes til trassentens egen ordre.\nDen kan trekkes på trassenten selv.\nDen kan trekkes for en tredjemanns regning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "En veksel kan lyde på betaling hos en tredjemann, enten på trassatens bosted eller på et annet sted.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "I en veksel som er betalbar ved sikt eller en viss tid efter sikt, kan trassenten bestemme at der skal svares rente av vekselsummen. I enhver annen veksel anses en sådan bestemmelse som uskrevet.\nRentefoten skal angis i vekslen; er den ikke angitt anses bestemmelsen om rente som uskrevet.\nRentene løper fra vekslens utstedelsesdag, hvis ikke en annen dag er angitt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "En veksel hvori beløpet er anført både med bokstaver og med tall, gjelder i tilfelle av uoverensstemmelse for den sum som er anført med bokstaver.\nEn veksel hvori beløpet er anført flere ganger, enten med bokstaver eller med tall, gjelder i tilfelle av uoverensstemmelse bare for den minste sum.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Finnes der på en veksel underskrift av nogen som mangler evne til å påta sig vekselforpliktelse, falsk underskrift, underskrift av opdiktede personer, eller underskrift som av annen grunn ikke er forpliktende for underskriveren eller for den i hvis navn underskriften er gitt, er de andre vekselskyldneres forpliktelse ikke desto mindre gyldig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Den som tegner sitt navn på en veksel på vegne av en annen, for hvem han ikke var bemyndiget til å handle, blir selv forpliktet efter vekslen og erhverver, når han har betalt, samme rett som vilde ha tilkommet den annen. Det samme gjelder den som har overskredet sin bemyndigelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Trassenten innestår for vekslens godkjennelse (aksept) og betaling.\nHan kan fraskrive sig ansvaret for aksept; enhver bestemmelse hvorved han fraskriver sig ansvaret for betalingen, anses som uskrevet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Hvis en veksel som ved utgivelsen var ufullstendig, er blitt utfylt i strid med truffen avtale, kan denne omstendighet ikke gjøres gjeldende mot vekselinnehaveren, medmindre han da han erhvervet vekslen var i ond tro eller utviste grov uaktsomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Enhver veksel kan ved endossement overdras til en annen (endossatar), selv om den ikke uttrykkelig er utstedt til ordre.\nHar trassenten satt inn i vekslen ordene «ikke til ordre» eller tilsvarende uttrykk, kan den alene overdras i den form og med de virkninger, som gjelder for almindelig overdragelse av fordring.\nEn veksel kan endosseres også til trassaten, hvad enten han har akseptert eller ikke, til trassenten eller til en annen vekselskyldner. Disse kan endossere vekslen videre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Endossementet skal være ubetinget. Er det gjort avhengig av en betingelse, anses denne som uskrevet.\nEndossement for en del av vekselsummen er ugyldig.\nEndossement til ihendehaveren anses som blankoendossement.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Endossementet skal skrives på vekslen eller på et blad som er heftet til denne (allonge). Det skal underskrives av endossenten.\nEndossementet er gyldig selv om det ikke angir hvem vekslen overdras til, eller om endossenten bare har tegnet sitt navn (blankoendossement). I det sistnevnte tilfelle må endossementet for å være gyldig skrives på vekslens bakside eller på en allonge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "Ved endossement overføres alle rettigheter efter vekslen.\nHvis endossementet er et blankoendossement, kan vekselinnehaveren\n1. utfylle det enten med sitt eget eller med en annens navn,\n2. endossere vekslen påny in blanco eller til en annen person, eller\n3. gi vekslen videre til en tredjemann uten å utfylle blankoendossementet eller endossere vekslen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Endossenten innestår for vekslens aksept og betaling, med mindre han har tatt særlig forbehold.\nHan kan forby at den endosseres på nytt; i så fall er han fri for ansvaret overfor dem som vekslen derefter blir endossert til.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Den som har en veksel ihende, anses som rettmessig vekselinnehaver når han godtgjør sin rett ved en ubrutt rekke av endossementer, selv om det siste endossement er in blanco. Utstrøkne endossementer anses i denne forbindelse som uskrevne. Når der efter et blankoendossement følger et annet endossement, antas den som har undertegnet dette, å ha erhvervet vekslen ved blankoendossementet.\nHvis en veksel, likegyldig på hvilken måte, er kommet bort fra besidderen, er en innehaver som godtgjør sin rett på den måte som er angitt i foregående ledd, ikke pliktig til å utlevere vekslen, medmindre han ved erhvervelsen var i ond tro eller utviste grov uaktsomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Den som saksøkes efter en veksel, kan ikke mot vekselinnehaveren gjøre gjeldende innsigelser, som grunnes på hans særlige forhold til trassenten eller tidligere vekselinnehavere, medmindre vekselinnehaveren, da han erhvervet vekslen handlet forsettlig til skade for skyldneren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Inneholder endossementet anførslen «valuta til innfordring», «til inkasso», eller nogen annen anførsel, hvori der bare ligger en fullmakt (prokuraendossement), kan vekselinnehaveren utøve alle rettigheter efter vekslen, men ikke endossere den uten ved prokuraendossement.\nVekselskyldnerne kan i så fall overfor innehaveren bare påberope de innsigelser, som vilde kunne fremsettes mot endossenten.\nDen fullmakt som inneholdes i et prokuraendossement, ophører ikke selv om opdragsgiveren dør eller mister evnen til å forplikte sig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Inneholder et endossement anførslen «valuta til sikkerhet», «valuta til pant» eller nogen annen anførsel som går ut på en pantsettelse, kan vekselinnehaveren utøve alle rettigheter efter vekslen, men et endossement som han tegner, gjelder bare som prokuraendossement.\nVekselskyldnerne kan ikke påberope mot innehaveren de innsigelser som grunnes på deres særlige forhold til endossenten, medmindre innehaveren, da han mottok vekslen, handlet forsettlig til skade for skyldneren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "Et endossement som tegnes efter vekslens forfallstid, har samme virkning som et tidligere endossement. Tegnes endossementet først efterat protest for manglende betaling er optatt, eller efterat den for optagelsen fastsatte frist er utløpet, har det dog bare virkning som en almindelig overdragelse av fordring.\nHvis ikke det motsatte bevises, anses et udatert endossement for å være foretatt før utløpet av protestfristen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "Enhver som har vekslen ihende, kan like til forfallsdag forevise den til aksept av trassaten på dennes bosted.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "I enhver veksel kan trassenten foreskrive at vekslen skal forevises til aksept, med eller uten tilføielse av en frist for forevisningen.\nHan kan i vekslen forby at den forevises til aksept, medmindre den er betalbar hos en tredjemann eller på et annet sted enn trassatens bosted, eller den er betalbar en viss tid efter sikt.\nHan kan også foreskrive at forevisning til aksept ikke kan finne sted før et bestemt tidspunkt.\nEnhver endossent kan foreskrive at vekslen skal forevises til aksept, med eller uten tilføielse av en frist; dog gjelder dette ikke, hvis trassenten har forbudt vekslens forevisning til aksept.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "En veksel som skal betales en viss tid efter sikt, skal forevises til aksept innen ett år fra utstedelsesdagen.\nTrassenten kan forkorte denne frist eller bestemme en lengere frist.\nDisse frister kan forkortes av endossentene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Trassaten kan kreve at vekslen blir forevist ham på nytt dagen efter den første forevisning. At et sådant krav ikke er efterkommet, kan ikke gjøres gjeldende medmindre kravet er nevnt i protesten.\nVekselinnehaveren er ikke forpliktet til å overgi vekslen i trassatens besiddelse når den forevises til aksept.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Aksepten skrives på vekslen. Den uttrykkes ved ordet «akseptert» eller et annet tilsvarende uttrykk og underskrives av trassaten. Dennes blotte navnetegning på vekslens forside gjelder som aksept.\nHvis vekslen skal betales en viss tid efter sikt, eller den i henhold til særskilt bestemmelse skal forevises til aksept innen en viss frist, skal aksepten dateres og som datum anføres den dag da aksepten meddeles, medmindre innehaveren krever at forevisningsdagens datum skal anføres. Mangler datering, må vekselinnehaveren, for å bevare sin regressrett mot endossentene og trassenten, godtgjøre undlatelsen ved en i rette tid optatt protest.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Aksepten skal være ubetinget, men trassaten kan begrense den til en del av vekselsummen.\nGjøres ved aksepten ellers nogen avvikelse fra vekslens innhold, anses det som nektelse av aksept. Dog er akseptanten bundet efter akseptens lydende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "Har trassenten i vekslen angitt et annet betalingssted enn trassatens bosted, uten å angi en tredjemann hos hvem betalingen skal skje, kan trassaten ved sin aksept angi en sådan. I mangel av sådan angivelse anses akseptanten for å ha forpliktet sig til selv å betale vekslen på betalingsstedet.\nHvis vekslen er betalbar hos trassaten, kan denne i aksepten angi hvor på betalingsstedet betaling skal erlegges eller opgi en annen som skal betale på samme sted.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "Ved aksepten forplikter trassaten sig til å betale vekslen på forfallsdagen.\nBetales den ikke har innehaveren, selv om det er trassenten, et umiddelbart krav efter vekslen mot akseptanten på alt som kan fordres efter §§ 48 og 49.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "Hvis trassaten har forsynt vekslen med sin aksept, men har strøket den ut før vekslen blir tilbakelevert, anses aksept nektet. Hvis ikke det motsatte bevises, anses utstrykningen for å være foretatt før vekslen blev tilbakelevert.\nDog er trassaten, hvis han har gitt skriftlig underretning om sin aksept til vekselinnehaveren eller nogen vekselskyldner, bundet overfor disse efter akseptens lydende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "30",
+      "section": "30",
+      "content": "Betalingen av en veksel kan sikres ved aval for hele vekselsummen eller for en del av den.\nAval kan tegnes så vel av en vekselskyldner som av en tredjemann.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "31",
+      "section": "31",
+      "content": "Aval tegnes på vekslen eller på en allonge.\nDen uttrykkes ved ordene «som aval» eller et tilsvarende uttrykk; den undertegnes av den som går i borgen (avalisten).\nDen blotte navnetegning på vekslens forside anses som aval medmindre det er trassaten eller trassenten som har tegnet sitt navn.\nAval skal angi for hvem den tegnes. I mangel av sådan angivelse anses den tegnet for trassenten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "32",
+      "section": "32",
+      "content": "Avalisten er forpliktet på samme måte som den for hvem han har gått i borgen.\nHans forpliktelse er gyldig, selv om den forpliktelse som han er gått i borgen for, skulde være ugyldig av nogen annen grunn enn formfeil.\nNår en avalist betaler vekslen, erhverver han alle rettigheter efter vekslen mot den som han er gått i borgen for, og mot dem som efter vekslen er ansvarlige overfor denne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "33",
+      "section": "33",
+      "content": "En veksel kan lyde på betaling:\nved forevisning (ved sikt, a vista);\nen viss tid efter forevisning (efter sikt, a viso);\nen viss tid efter sin utstedelsesdag; eller\npå en bestemt dag.\nEn veksel hvor forfallstiden er anderledes bestemt, eller som forfaller efterhånden til forskjellige tider, er ugyldig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "34",
+      "section": "34",
+      "content": "En veksel som forfaller ved sikt, skal betales ved forevisningen. Den skal forevises til betaling innen ett år fra utstedelsesdagen. Trassenten kan forkorte denne frist eller bestemme en lengere frist. Disse frister kan forkortes av endossentene.\nTrassenten kan bestemme at en veksel som er betalbar ved sikt, ikke skal forevises til betaling før et bestemt tidspunkt. I så fall løper forevisningsfristen fra dette tidspunkt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "35",
+      "section": "35",
+      "content": "Forfallstiden for en veksel som lyder på betaling en viss tid efter sikt, bestemmes ved akseptens eller protestens datum.\nEr aksepten ikke datert og er protest heller ikke optatt, skal aksepten i forhold til akseptanten anses som meddelt på den siste dag av den frist som er bestemt for forevisning til aksept.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "36",
+      "section": "36",
+      "content": "En veksel som lyder på betaling en eller flere måneder efter utstedelsesdagen eller efter sikt, forfaller på den tilsvarende dag i den måned i hvilken vekslen skal betales. I mangel av tilsvarende dag forfaller vekslen på månedens siste dag.\nLyder en veksel på betaling en eller flere hele måneder og en halv måned efter sin utstedelsesdag eller efter sikt, regnes de hele måneder først.\nEr forfallstiden bestemt til begynnelsen av en måned, midten av en måned (medio januar, medio februar o.s.v.) eller slutningen av en måned, skal ved disse uttrykk forståes den første, den femtende eller den siste dag i måneden.\nVed uttrykkene «åtte dager» eller «femten dager» forståes ikke en eller to uker, men et tidsrum av fulle åtte eller femten dager.\nUttrykket «en halv måned» betegner et tidsrum av femten dager.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "37",
+      "section": "37",
+      "content": "Når en veksel lyder på betaling på en bestemt dag på et sted hvis kalender er forskjellig fra den som gjelder på utstedelsesstedet, anses forfallsdagen fastsatt efter betalingsstedets kalender.\nNår en veksel som er trukket mellem to steder med forskjellig kalender, er betalbar en viss tid efter utstedelsesdagen, blir denne å omregne til den tilsvarende dag efter betalingsstedets kalender, og forfallsdagen bestemmes overensstemmende hermed.\nForevisningsfristene for veksler beregnes overensstemmende med reglene i foregående ledd.\nDisse regler kommer ikke til anvendelse, hvis det fremgår av en særskilt bestemmelse i vekslen eller i øvrig av dennes innhold at hensikten har vært å anvende andre regler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "38",
+      "section": "38",
+      "content": "Innehaveren av en veksel som er betalbar på en bestemt dag eller en viss tid efter utstedelsesdagen eller efter sikt, skal forevise vekslen til betaling, enten på den dag da den er betalbar, eller på en av de to følgende virkedager.\nVekslens innlevering til et avregningskontor (clearinghouse) likestilles med forevisning til betaling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "39",
+      "section": "39",
+      "content": "Når trassaten betaler vekslen, kan han kreve den utlevert med påtegnet kvittering fra vekselinnehaveren.\nVekselinnehaveren kan ikke nekte å ta imot delvis betaling.\nI tilfelle av delvis betaling kan trassaten kreve at vekslen får påtegning om betalingen; dessuten kan han kreve særskilt kvittering.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "40",
+      "section": "40",
+      "content": "Vekselinnehaveren er ikke forpliktet til å motta betaling før vekslens forfallstid.\nBetaler trassaten før forfallstid, gjør han det på egen risiko.\nDen som betaler når forfallstid er kommet, blir gyldig befridd for sin forpliktelse medmindre der foreligger svik eller grov uaktsomhet fra hans side. Han er forpliktet til å forvisse sig om at endossementene utgjør en behørig sammenhengende rekke, men ikke om ektheten av endossentenes underskrifter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "41",
+      "section": "41",
+      "content": "Når en veksel lyder på betaling i en myntsort som ikke er gangbar på betalingsstedet, kan beløpet betales i landets mynt efter sin verdi på forfallsdag. Betaler skyldneren ikke i rette tid, kan vekselinnehaveren hvis han ønsker det, kreve beløpet betalt i landets mynt enten efter forfallsdagens kurs eller efter betalingsdagens.\nVed beregningen av den fremmede mynts verdi skal handelsbruken på betalingsstedet følges, hvis ikke trassenten har foreskrevet at vekselsummen skal betales efter en i vekslen fastsatt kurs.\nForanstående regler kommer ikke til anvendelse i de tilfelle hvor trassenten har fastsatt at betalingen skal erlegges i en bestemt angitt myntsort (bestemmelse om effektiv betaling i fremmed mynt).\nEr vekselbeløpet angitt i en myntsort som har samme benevnelse, men en forskjellig verdi, i det land hvor vekslen er utstedt, og det land hvor den skal betales, er formodningen for at det er betalingsstedets mynt som er ment.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "42",
+      "section": "42",
+      "content": "Blir en veksel ikke forevist til betaling innen den i § 38 nevnte frist, har enhver skyldner rett til, for vekselinnehaverens regning og risiko, å deponere beløpet enten i Norges Bank eller hos politimesteren på det sted hvor skyldneren bor eller har sin forretning, eller hvor vekslen skal betales.\nDet deponerte beløp skal være ledsaget av en av deponenten underskrevet nøiaktig redegjørelse for vekslens innhold. Beløpet utbetales til den som på behørig måte godtgjør sin rett til å få betaling efter vekslen. Har der ikke innen seks måneder meldt sig nogen med krav på å få beløpet utbetalt efter vekslen, kan det også utbetales til deponenten hvis han krever det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "43",
+      "section": "43",
+      "content": "Når forfallstid er inne, kan vekselinnehaveren, dersom vekslen ikke er blitt betalt, søke regress hos endossentene, trassenten og andre vekselskyldnere.\nSamme rett har vekselinnehaveren allerede før forfallstid:\n1. hvis aksept helt eller delvis er nektet;\n2. hvis trassaten, hva enten han har akseptert eller ikke, er kommet under konkurs eller har åpnet gjeldsforhandling etter loven, eller det ved tvangsforretning hos ham er funnet at han mangler midler til å betale sin gjeld, eller han har innstilt sine betalinger; eller\n3. hvis trassenten i tilfelle hvor han har forbudt vekslens forevisning til aksept, er kommet under konkurs eller har åpnet gjeldsforhandling etter loven.\n0 Endret ved lover 8 juni 1984 nr. 60, 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "44",
+      "section": "44",
+      "content": "Nektelse av aksept eller betaling skal godtgjøres ved offentlig bevidnelse (protest for manglende aksept eller for manglende betaling).\nProtest for manglende aksept skal optas innen den frist som er fastsatt for vekslens forevisning til aksept. Hvis den første forevisning i det tilfelle som omhandles i § 24 første ledd, har funnet sted på fristens siste dag, kan protesten ennu optas dagen efter.\nProtest for manglende betaling skal, når det gjelder en veksel som er betalbar på en bestemt dag eller en viss tid efter utstedelsen eller efter sikt, optas en av de to første virkedager efter forfallsdag. Med hensyn til protest for manglende betaling av en veksel som lyder på betaling ved sikt, skal det som i forrige ledd er bestemt om protest for manglende aksept, få tilsvarende anvendelse.\nProtest for manglende aksept fritar for forevisning til betaling og for protest for manglende betaling.\nHvis det ved tvangsforretning hos trassaten er funnet at han mangler midler til betaling av gjeld, eller han har innstilt sine betalinger kan vekselinnehaveren ikke søke regress før han har forevist vekslen for trassaten til betaling og opptatt protest.\nHvis trassaten er kommet under konkurs eller har åpnet gjeldsforhandling etter loven, er det for iverksettelse av regress tilstrekkelig at vekselinnehaveren legger frem rettens bevitnelse for at konkurs eller gjeldsforhandling er åpnet. Det samme gjelder hvis en trassent, som har forbudt vekselens forevisning til aksept, er kommet under konkurs eller har åpnet gjeldsforhandling etter loven.\n0 Endret ved lov 8 juni 1984 nr. 60.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "45",
+      "section": "45",
+      "content": "Vekselinnehaveren skal gi den siste endossent og trassenten meddelelse om den manglende aksept eller betaling innen fire virkedager efter protestdagen eller, hvis der er tatt forbehold om regress uten omkostninger, efter forevisningsdagen. Enhver endossent skal, senest annen virkedag efter den dag da han har mottatt sådan meddelelse, underrette den nærmest foregående endossent om den meddelelse som han selv har mottat, og oplyse navn og adresse på dem som har gitt de foregående meddelelser, og således videre idet man går tilbake like til trassenten. Ovennevnte frister regnes fra mottagelsen av den foregående meddelelse.\nNår der overensstemmende med foregående ledd er gitt meddelelse til en vekselskyldner, skal tilsvarende meddelelse innen samme frist gis til dem som har tegnet aval for ham.\nHar en endossent ikke angitt sin adresse, eller er denne uleselig, er det nok at meddelelsen gis den endossent som står nærmest foran ham på vekslen.\nDen som plikter å gi underretning, kan gjøre det på hvilken som helst måte, endog bare ved å sende vekslen tilbake.\nDet påhviler ham å bevise at han har gitt meddelelsen innen den foreskrevne frist. Fristen anses overholdt, hvis et brev som inneholder meddelelsen, er innlevert til tilbyder av posttjenester innen fristens utløp.\nDen som ikke gir underretning innen den ovennevnte frist, taper ikke sin regressrett, men er i tilfelle ansvarlig for den skade som måtte være voldt ved hans forsømmelse; dog kan skadeserstatningen ikke overstige vekslens beløp.\n0 Endret ved lover 9 jan 1998 nr. 5, 4 sep 2015 nr. 91 (ikr. 1 jan 2016 iflg. res. 4 sep 2015 nr. 1027).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "46",
+      "section": "46",
+      "content": "Anførslen «uten omkostninger», «uten protest» eller tilsvarende anførsel, påført vekslen og undertegnet av trassenten, en endossent eller en avalist, fritar vekselinnehaveren for å opta protest for manglende aksept eller manglende betaling som betingelse for regress.\nEn sådan bestemmelse fritar ikke vekselinnehaveren for å forevise vekslen innen de foreskrevne frister eller for å gi de i § 45 foreskrevne meddelelser. Beviset for at fristene ikke er overholdt, påhviler den som gjør det gjeldende overfor vekselinnehaveren.\nEr bestemmelsen truffet av trassenten, har den virkning for alle vekselskyldnere; er den truffet av en endossent eller en avalist, har den bare virkning overfor denne. Hvis vekselinnehaveren lar opta protest til tross for at trassenten har truffet en sådan bestemmelse, bærer han selv omkostningene. Er bestemmelsen truffet av en endossent eller en avalist kan omkostningene ved en protest, om sådan optas, kreves erstattet hos enhver vekselskyldner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "47",
+      "section": "47",
+      "content": "De som har utstedt, akseptert eller endossert en veksel eller tegnet aval på samme, er ansvarlige en for alle og alle for en overfor vekselinnehaveren.\nVekselinnehaveren har rett til å reise krav mot enhver av dem, særskilt eller i fellesskap, uten å være bundet til den rekkefølge hvori de har forpliktet sig.\nSamme rett tilkommer enhver vekselskyldner som har innfridd vekslen.\nAt sak er anlagt mot en vekselskyldner, hindrer ikke at krav reises mot de andre, selv om de står efter den som først blev saksøkt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "48",
+      "section": "48",
+      "content": "Vekselinnehaveren kan kreve av den hos hvem han søker regress:\n1. den ikke aksepterte eller ikke betalte vekselsum tillikemed renter hvis sådanne er betinget;\n2. renter fra forfallsdagen efter en rentefot av seks pct.;\n3. omkostningene ved protesten og ved de meddelelser som er sendt i medhold av § 45, så vel som andre omkostninger; samt\n4. provisjon, 1/3 pct. av vekselsummen.\nHvis regress søkes før vekslens forfallstid, skal der fra vekselsummen trekkes en diskonto, som beregnes efter den offisielle diskontosats på vekslinnehaverens bosted på den dag da regresskravet gjøres gjeldende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "49",
+      "section": "49",
+      "content": "Den som har innløst vekslen, kan kreve av dem som er ansvarlige overfor ham:\n1. hele det beløp som han har betalt;\n2. renter av dette beløp fra den dag da han betalte det, efter en rentefot av seks pct.;\n3. de omkostninger som han har hatt; samt\n4. provisjon, 1/3 pct. av vekselsummen, idet dog retten til å beregne provisjon ophører når provisjonenes samlede beløp er nådd op til 2 pct. av vekselsummen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "50",
+      "section": "50",
+      "content": "Enhver vekselskyldner mot hvem regresskrav er reist eller kan gjøres gjeldende, kan mot å betale innløsningssummen kreve vekslen utlevert tillikemed protesten og en kvittert regning.\nEnhver endossent som har innløst vekslen, kan utstryke sitt eget og de efterfølgende endossementer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "51",
+      "section": "51",
+      "content": "Hvis regress søkes efter delvis aksept, kan den som betaler den ikke aksepterte del av vekselsummen, kreve at vekslen får påtegning om betalingen, og at han får særskilt kvittering. Vekselinnehaveren skal dessuten levere ham en bekreftet avskrift av vekslen tillikemed protesten for å sette ham i stand til å søke videre regress.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "52",
+      "section": "52",
+      "content": "Enhver som har rett til å søke regress, kan, hvis ikke annet er betinget, skaffe sig betaling ved hjelp av en ny veksel (motveksel) som er betalbar ved sikt, og som trekkes på en av dem som er ansvarlige overfor ham, og gjøres betalbar på dennes bosted.\nMotvekslen omfatter, foruten de i §§ 48 og 49 angitte beløp, også meglergebyr og stempelavgift for motvekslen.\nHvis motvekslen trekkes av vekselinnehaveren, fastsettes dens beløp efter kursen for en siktveksel, som trekkes fra det sted hvor den oprinnelige veksel var betalbar og på vedkommende vekselskyldners bosted. Trekkes motvekslen av en endossent, fastsettes beløpet efter kursen for en siktveksel, som trekkes fra hans bosted og på vekselskyldnerens bosted.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "53",
+      "section": "53",
+      "content": "Oversittes de frister som er fastsatt\nfor forevisning av en veksel som lyder på betaling ved sikt eller en viss tid efter sikt,\nfor optagelse av protest for manglende aksept eller for manglende betaling,\nfor forevisning til betaling, når der er truffet bestemmelse om regress uten omkostninger,\nEr en veksel ikke blitt forevist til aksept innen den frist som trassenten har bestemt, taper vekselinnehaveren sin rett til regress så vel for manglende betaling som for manglende aksept, medmindre det fremgår av bestemmelsen at trassentens mening har vært alene å fraskrive sig ansvar for aksept.\nEr en frist for forevisningen bestemt i et endossement, kan den bare påberopes av endossenten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "54",
+      "section": "54",
+      "content": "Hvis forevisning av vekslen eller optagelse av protest innen de foreskrevne frister ikke kan iverksettes på grunn av en uovervinnelig hindring (innenlandsk eller utenlandsk lovforskrift eller annet tilfelle av vis major), forlenges fristene.\nVekselinnehaveren er forpliktet til uten ophold å gi siste endossent meddelelse om hindringen og til å forsyne vekslen eller en allonge med datert og av ham underskrevet påtegning om meddelelsen; for øvrig kommer forskriftene i § 45 til anvendelse.\nSå snart hindringen er ophørt, skal innehaveren uten ophold forevise vekslen til aksept eller betaling og i tilfelle la opta protest.\nVedvarer hindringen lenger enn tretti dager fra forfallstiden, kan regress søkes uten at forevisning eller optagelse av protest er nødvendig.\nFor veksler som lyder på betaling ved sikt eller en viss tid efter sikt, regnes de tretti dager fra den dag da vekselinnehaveren har gitt den siste endossent meddelelse om hindringen, selv om sådan meddelelse er gitt før forevisningsfristens utløp; for veksler som er betalbare en viss tid efter sikt, legges denne tid til de tretti dager.\nSom vis major anses ikke tildragelser av rent personlig natur for vekselinnehaveren eller den, som han har overdratt å forevise vekslen eller opta protesten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "54 a",
+      "section": "54 a",
+      "content": "Kongen kan i påtrengende tilfelle ved forskrift gi unntaksbestemmelser om forlengelse av fristene for de handlinger som er nødvendige for å bevare regress.\n0 Tilføyd ved lov 7 juni 1985 nr. 52.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54a",
+        "source_heading": "§ 54 a."
+      }
+    },
+    {
+      "provision_ref": "55",
+      "section": "55",
+      "content": "Trassenten, en endossent eller en avalist kan opgi en nødsadressat til å akseptere eller betale vekslen.\nEn veksel kan, under de nedenfor angitte betingelser, aksepteres eller betales av nogen som inntrer (intervenerer) for regning av en vekselskyldner, mot hvem regresskrav kan gjøres gjeldende.\nSom intervenient kan optre en som ikke er vekselskyldner, også trassaten, eller en som allerede er forpliktet efter vekslen, med undtagelse av akseptanten.\nIntervenienten er forpliktet til å gi den for hvem han har intervenert, underretning om intervensjonen i løpet av to virkedager. Iakttar han ikke denne frist, er han ansvarlig for den skade som måtte følge av hans forsømmelse; dog kan skadeserstatningen ikke overstige vekselsummen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "56",
+      "section": "56",
+      "content": "Intervensjonsaksept kan finne sted i alle tilfelle hvor innehaveren av en veksel kan søke regress før forfallstid, undtagen når vekslens forevisning til aksept er forbudt.\nNår der i vekslen er angitt en nødsadressat på betalingsstedet, kan vekselinnehaveren ikke utøve sin regressrett før forfallstid mot den som har tilføiet nødsadressen eller mot efterfølgende vekselskyldnere, medmindre han har forevist vekslen for nødsadressaten og, hvis denne nekter aksept, har latt nektelsen godtgjøre ved protest.\nI andre tilfelle kan vekselinnehaveren nekte å motta intervensjonsaksept. Mottar han den allikevel, taper han retten til regress før forfallstid mot den for hvem aksepten er gitt og mot efterfølgende vekselskyldnere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "57",
+      "section": "57",
+      "content": "Intervensjonsaksept skrives på vekslen; den underskrives av intervenienten. Den skal angi for hvis regning den tegnes; i mangel av sådan angivelse anses aksepten for tegnet for trassentens regning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    },
+    {
+      "provision_ref": "58",
+      "section": "58",
+      "content": "Intervensjonsakseptanten er forpliktet overfor vekselinnehaveren og de endossenter som følger efter den for hvis regning han har intervenert, på samme måte som denne.\nTil tross for intervensjonsaksepten kan den for hvem den er tegnet, og de som er ansvarlige overfor ham, mot betaling av det i § 48 angitte beløp, forlange at vekselinnehaveren skal utlevere vekslen, kvittert regning og protesten hvis sådan er optatt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_58",
+        "source_heading": "§ 58."
+      }
+    },
+    {
+      "provision_ref": "59",
+      "section": "59",
+      "content": "Intervensjonsbetaling kan finne sted i alle tilfelle hvor regress kan iverksettes av vekselinnehaveren, ved eller før forfallstid.\nBetalingen skal omfatte hele det beløp som skulde utredes av den for hvis regning den skjer.\nDen skal skje senest dagen efter den siste dag på hvilken protest for manglende betaling kunde optas.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_59",
+        "source_heading": "§ 59."
+      }
+    },
+    {
+      "provision_ref": "60",
+      "section": "60",
+      "content": "Er en veksel blitt akseptert av en intervenient som har sin bopel på betalingsstedet, eller er der opgitt en eller flere nødsadressater som har sin bopel på dette sted, skal vekselinnehaveren forevise vekslen for enhver av dem og i tilfelle la opta protest for manglende betaling senest dagen efter den siste til optagelse av protest bestemte dag.\nOptas protest ikke innen denne frist, er den som har opgitt nødsadressaten, eller for hvis regning vekslen er akseptert, så vel som de efterfølgende endossenter, fri for sine forpliktelser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_60",
+        "source_heading": "§ 60."
+      }
+    },
+    {
+      "provision_ref": "61",
+      "section": "61",
+      "content": "En vekselinnehaver som nekter å motta intervensjonsbetaling, taper sin rett til regress mot dem som vilde være blitt fri ved betalingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_61",
+        "source_heading": "§ 61."
+      }
+    },
+    {
+      "provision_ref": "62",
+      "section": "62",
+      "content": "At intervensjonsbetaling har funnet sted skal godtgjøres ved kvittering på vekslen med angivelse av den for hvis regning betalingen er skjedd. Mangler sådan angivelse, anses betalingen skjedd for trassentens regning.\nVekslen tillikemed protesten, hvis sådan er optatt, skal utleveres til intervenienten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_62",
+        "source_heading": "§ 62."
+      }
+    },
+    {
+      "provision_ref": "63",
+      "section": "63",
+      "content": "Den som betaler som intervenient, erhverver de av vekslen flytende rettigheter mot den for hvem han har betalt, og mot dem som er ansvarlige overfor ham efter vekslen. Dog kan han ikke endossere vekslen på nytt.\nDe endossenter som følger efter den vekselskyldner for hvis regning betalingen er skjedd, blir frigjort ved denne.\nTilbyr flere intervensjonsbetaling, har den ved hvem de fleste vekselskyldnere befries, fortrinnet. Den som med kjennskap til forholdet intervenerer i strid med denne regel, taper sin regress mot dem som vilde blitt befridd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_63",
+        "source_heading": "§ 63."
+      }
+    },
+    {
+      "provision_ref": "64",
+      "section": "64",
+      "content": "En veksel kan utstedes i flere enslydende eksemplarer (duplikater).\nEksemplarene skal være nummerert i selve teksten; i mangel herav anses ethvert av dem som en selvstendig veksel.\nEnhver innehaver av en veksel som ikke angir at den er utstedt i et eneste eksemplar, kan kreve at der på hans bekostning leveres ham duplikater. I dette øiemed skal han henvende sig til sin umiddelbare forgjenger; denne er pliktig til å yde ham sin bistand ved å foreta henvendelse til sin egen umiddelbare forgjenger, og således videre idet man går tilbake like til trassenten. Endossentene er forpliktet til å gjenta sine endossementer på de nye eksemplarer.\n0 Endret ved lov 20 juni 2008 nr. 46.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_64",
+        "source_heading": "§ 64."
+      }
+    },
+    {
+      "provision_ref": "65",
+      "section": "65",
+      "content": "Betaling efter ett av eksemplarene har befriende virkning, selv om det ikke er betinget at sådan betaling setter de andre ut av kraft. Dog svarer trassaten fremdeles for ethvert eksemplar som er forsynt med hans aksept og som han ikke har fått tilbake.\nHar en endossent overdratt eksemplarene til forskjellige personer, svarer han så vel som de efterfølgende endossenter for ethvert eksemplar som bærer deres navnetegning og som ikke er tilbakelevert.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_65",
+        "source_heading": "§ 65."
+      }
+    },
+    {
+      "provision_ref": "66",
+      "section": "66",
+      "content": "Den som har sendt et av eksemplarene til aksept, skal på de andre eksemplarer opgi navnet på den hos hvem dette eksemplar finnes; denne er forpliktet til å utlevere det til den rettmessige innehaver av et annet eksemplar.\nNekter han det, kan vekselinnehaveren ikke søke regress før han ved en protest har godtgjort\n1. at det eksemplar som er sendt til aksept, ikke er blitt utlevert ham på hans forlangende, og\n2. at han ikke har kunnet få aksept eller betaling efter et annet eksemplar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_66",
+        "source_heading": "§ 66."
+      }
+    },
+    {
+      "provision_ref": "67",
+      "section": "67",
+      "content": "Enhver innehaver av en veksel har rett til å ta kopier av den.\nKopien skal nøiaktig gjengi orginalen med de endossementer og alle andre påtegninger som finnes på den. Den skal angi hvor langt avskriften går.\nDen kan endosseres og forsynes med aval på samme måte og med samme virkning som originalen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_67",
+        "source_heading": "§ 67."
+      }
+    },
+    {
+      "provision_ref": "68",
+      "section": "68",
+      "content": "Kopien skal angi hvem som har den originale veksel ihende. Ihendehaveren er forpliktet til å utlevere originalen til den rettmessige innehaver av kopien.\nNekter han det, kan innehaveren ikke søke regress hos dem som har endossert kopien eller tegnet aval på den, før han ved protest har godtgjort at originalen ikke er blitt utlevert ham på hans forlangende.\nHvis den originale veksel efter det siste endossement som er påført før kopien blev tatt, bærer påtegning: «herfra gjelder endossement bare på kopi» eller tilsvarende påtegning, er et efterfølgende endossement på originalen ugyldig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_68",
+        "source_heading": "§ 68."
+      }
+    },
+    {
+      "provision_ref": "69",
+      "section": "69",
+      "content": "Er der gjort forandring i en veksels tekst, er de som efter forandringen har tegnet sitt navn på vekslen, forpliktet overensstemmende med den endrede tekst. De som har tegnet sitt navn før forandringen, er forpliktet overensstemmende med den oprinnelige tekst.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_69",
+        "source_heading": "§ 69."
+      }
+    },
+    {
+      "provision_ref": "70",
+      "section": "70",
+      "content": "Ethvert krav efter vekslen mot akseptanten foreldes i tre år fra forfallsdagen.\nVekselinnehaverens krav mot endossentene og trassenten foreldes i et år fra den dag da protest i rette tid blev optatt, eller, hvis der er truffet bestemmelse om regress uten omkostninger, fra forfallsdagen.\nEndossentenes regresskrav mot andre endossenter eller mot trassenten foreldes i seks måneder fra den dag da endossenten innløste vekslen, eller da foreldelsen blev avbrutt overfor ham (jfr. § 71).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_70",
+        "source_heading": "§ 70."
+      }
+    },
+    {
+      "provision_ref": "71",
+      "section": "71",
+      "content": "Vekselforeldelsen avbrytes\nved at stevning er sendt til retten eller i tilfelle klage til forliksrådet, eller ved at vekselkravet under rettssak gjøres gjeldende til motregning, eller for øvrig inndras i saken (jf. tvisteloven § 15-1) eller\nved at vekselfordringen anmeldes i skyldnerens bo dersom dette behandles av offentlige myndigheter eller\nved at den mot hvem søksmål (motregningskrav) som foran omtalt er reist, gir en forgjenger varsel om søksmålet (tvisteloven § 15-9). Den som har mottatt sådan innvarsling, kan avbryte foreldelsen ved likeledes å gi sin forgjenger prosessvarsel.\nVed stevning til utenlandsk domstol avbrytes vekselforeldelsen hvis skyldneren har sitt hjemsted i vedkommende land eller han uten å gjøre innvending mot domstolens kompetanse tar til gjenmæle i saken, eller hvis stevningen er forkynt for ham personlig. Prosessvarsel til utenlandsk domstol avbryter foreldelsen under samme betingelser som stevning. Likeledes avbrytes foreldelsen ved at vekselkravet under en ved utenlandsk domstol verserende sak efter den på stedet gjeldende lovgivning gjøres gjeldende til motregning.\nForeldelsen avbrytes ved anmeldelse i skyldnerens bo i fremmed land dersom dette behandles av offentlige myndigheter, og skyldneren var bosatt i vedkommende land da bobehandlingen ble åpnet.\nForeldelsen avbrytes ikke i forhold til andre vekselskyldnere enn den mot hvem nogen av de ovennevnte handlinger foretas; men avbrytelsen virker til fordel for alle dens forgjengere, som har foretatt avbrytelsen.\nHar avbrytelsen av foreldelse funnet sted, uten at vekselsøksmålet bringes til avslutning, begynner en ny foreldelsesfrist å løpe fra den dag da saken sist foretokes i retten.\nHvis avbrytelse av foreldelse hindres av nogen sådan omstendighet som omhandles i § 54, inntrer foreldelsen ikke i noget tilfelle før en måned efter hindringens ophør.\n0 Endret ved lover 14 feb 1969 nr. 9, 8 juni 1984 nr. 60, 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lover 26 jan 2007 nr. 3 og 21 des 2007 nr. 127, 20 juni 2008 nr. 46.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_71",
+        "source_heading": "§ 71."
+      }
+    },
+    {
+      "provision_ref": "72",
+      "section": "72",
+      "content": "Forfaller en veksel på en søndag eller helligdag, kan betaling først kreves den første virkedag derefter. Likeså kan alle andre handlinger vedkommende vekslen, såsom forevisning til aksept og optagelse av protest, bare foretas på en virkedag.\nSkal en sådan handling foretas innen en frist hvis siste dag er en søndag eller helligdag, utstrekkes fristen til den første virkedag derefter. Mellemliggende søndager eller helligdager tas med ved fristers beregning.\nLike med helgedag anses i denne forbindelse lørdag og den 1 og 17 mai.\nI lovbestemte eller avtalte frister medregnes ikke den dag som tjener til utgangspunkt for fristen.\nLøpedager finner ikke anvendelse på veksler.\n0 Endret ved lov 27 feb 1970 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_72",
+        "source_heading": "§ 72."
+      }
+    },
+    {
+      "provision_ref": "73",
+      "section": "73",
+      "content": "Er en veksel som er betalbar her i riket bortkommet, kan den bli mortifisert overensstemmende med de om mortifikasjon ellers givne regler, dog således at mortifikasjonssaken skal anlegges ved tingretten på det sted hvor vekslen er betalbar.\nNår retten har besluttet å fremme mortifikasjonssaken, er trassenten forpliktet til å utstede nytt vekselbrev. Var den bortkomme veksel akseptert, er akseptanten, når forfallstid er kommet, pliktig til å betale til den som godtgjør sin rett til å oppebære betalingen. Dog skal der i disse tilfelle stilles trassenten eller akseptanten antagelig sikkerhet, inntil vekslen er blitt mortifisert eller deres ansvar efter den bortkomne veksel er ophørt på annen måte.\n0 Endret ved lover 18 des 1959 nr. 1 § 16, 14 des 2001 nr. 98 (ikr. 1 jan 2002 iflg. res. 14 des 2001 nr. 1416).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_73",
+        "source_heading": "§ 73."
+      }
+    },
+    {
+      "provision_ref": "74",
+      "section": "74",
+      "content": "Er vekselfordringen foreldet, eller er vekselretten tapt ved forsømmelse av den til dens bevaring foreskrevne omgang, er dog vekselinnehaveren ikke utelukket fra som almindelig gjeldsfordring å inntale hos en vekselskyldner hvad denne vilde bli beriket med på hans bekostning, hvis ethvert krav bortfalt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_74",
+        "source_heading": "§ 74."
+      }
+    },
+    {
+      "provision_ref": "75",
+      "section": "75",
+      "content": "En egen veksel skal inneholde:\n1. benevnelsen veksel, innført i selve teksten og uttrykt i det sprog hvori dokumentet er avfattet;\n2. et ubetinget tilsagn om å betale en bestemt pengesum;\n3. angivelse av forfallstiden;\n4. angivelse av stedet hvor betalingen skal skje;\n5. navnet på den til hvem eller til hvis ordre betalingen skal skje;\n6. angivelse av dag og sted for vekslens underskrift; samt\n7. underskrift av den som utsteder dokumentet (utstederen).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_75",
+        "source_heading": "§ 75."
+      }
+    },
+    {
+      "provision_ref": "76",
+      "section": "76",
+      "content": "Et dokument hvori en av de i den foregående paragraf nevnte anførsler mangler, gjelder ikke som egen veksel uten i de tilfelle som omhandles i de følgende ledd.\nEn egen veksel hvis forfallstid ikke er angitt, anses som betalbar ved sikt.\nI mangel av særlig angivelse anses dokumentets utstedelsessted som betalingssted og tillike som utstederens bosted.\nEn egen veksel som ikke angir stedet hvor den er utstedt, anses underskrevet på det sted som er anført ved utstederens navn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_76",
+        "source_heading": "§ 76."
+      }
+    },
+    {
+      "provision_ref": "77",
+      "section": "77",
+      "content": "Om den egne veksel gjelder, sålangt de ikke er uforenlige med dens natur, de bestemmelser om den trukne veksel som angår\nendossement (§§ 11-20),\nforfallstid (§§ 33-37),\nbetaling (§§ 38-42),\nregress for manglende betaling (§§ 43 til 50 og 52 til 54a),\nintervensjonsbetaling (§§ 55, 59-63),\nkopier (§§ 67 og 68),\nforandringer i vekslen (§ 69),\nforeldelse (§§ 70-71),\nsøndager og helligdager, beregningen av frister og forbud mot løpedager (§ 72), bortkomne veksler (§ 73) samt\nvekselinnehaverens rett til efter inntrådt foreldelse eller fortapelse av vekselretten å anlegge berikelsessøksmål (§ 74).\nVidere gjelder for den egne veksel bestemmelsene om veksler som er betalbare hos en tredjemann eller på et annet sted enn trassatens bosted (§§ 4 og 27), om adgangen til å betinge renter (§ 5), om uoverensstemmelser i angivelsen av den sum som skal betales (§ 6), om virkningene av at en underskrift er påført under de omstendigheter som omhandles i § 7, eller av at en underskrift er påført av en person som har handlet uten bemyndigelse eller som har overskredet sin bemyndigelse (§ 8), og om ufullstendige veksler (§ 10).\nLikeså gjelder for den egne veksel bestemmelsene om aval (§§ 30-32); i det tilfelle som omhandles i § 31, siste ledd, anses aval, når den ikke angir for hvem den er gitt, som gitt for utstederen av den egne veksel.\n0 Endret ved lov 7 juni 1985 nr. 52.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_77",
+        "source_heading": "§ 77."
+      }
+    },
+    {
+      "provision_ref": "78",
+      "section": "78",
+      "content": "Utstederen av en egen veksel er forpliktet på samme måte som akseptanten av en trukken veksel.\nEn egen veksel som lyder på betaling en viss tid efter sikt, skal forevises for utstederen til påtegning om forevisningen innen de i § 23 bestemte frister. Fristen fra sikt løper fra datum for den av utstederen underskrevne forevisningspåtegning på vekslen. Utstederens vegring ved å gi datert påtegning godtgjøres ved protest (§ 25), hvis datum tjener til utgangspunkt for fristen fra sikt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_78",
+        "source_heading": "§ 78."
+      }
+    },
+    {
+      "provision_ref": "79",
+      "section": "79",
+      "content": "En utlendings evne til å påta sig vekselforpliktelse bedømmes efter loven i det land hvor han er statsborger. Bestemmer denne lov at et annet lands lov skal komme til anvendelse, er den sistnevnte lov avgjørende.\nEn utlending som vilde mangle evnen til å forplikte sig vekselrettslig efter den lov som således kommer til anvendelse, er allikevel her i riket ansvarlig for en vekselforpliktelse som han har påtatt sig i et land efter hvis lovgivning han vilde hatt evne dertil.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_79",
+        "source_heading": "§ 79."
+      }
+    },
+    {
+      "provision_ref": "80",
+      "section": "80",
+      "content": "Formen for en vekselforpliktelse bestemmes ved loven i det land hvor forpliktelsen underskrives.\nHvis en vekselforpliktelse er ugyldig på grunn av bestemmelsen i første ledd, men tilfredsstiller lovgivningen i annet land hvor en senere forpliktelse er underskrevet, blir den sistnevnte forpliktelse ikke ugyldig fordi den førstnevnte lider av formfeil.\nEn vekselforpliktelse som en norsk statsborger har påtatt sig utenfor riket, og som opfyller norsk lovs fordringer med hensyn til formen, er her i riket gyldig overfor en annen norsk statsborger, selv om den ellers vilde vært ugyldig efter bestemmelsen i første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_80",
+        "source_heading": "§ 80."
+      }
+    },
+    {
+      "provision_ref": "81",
+      "section": "81",
+      "content": "Rettsvirkningene av en veksels aksept eller av utstedelsen av en egen veksel bedømmes efter loven i det land hvor vekselen skal betales.\nVirkningen av andre vekselerklæringer bedømmes efter loven i det land hvor erklæringen er underskrevet, såfremt ikke annet følger av hvad nedenfor er bestemt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_81",
+        "source_heading": "§ 81."
+      }
+    },
+    {
+      "provision_ref": "82",
+      "section": "82",
+      "content": "Fristen for anlegg av regress-søksmål bestemmes for alle vekselskyldneres vedkommende ved loven i det land hvor vekselen er utstedt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_82",
+        "source_heading": "§ 82."
+      }
+    },
+    {
+      "provision_ref": "83",
+      "section": "83",
+      "content": "Skal vekselinnehaveren efter loven i det land hvor vekselen er utstedt, tillike anses som innehaver av den fordring som har foranlediget vekselens utstedelse, legges den nevnte lov i så henseende til grunn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_83",
+        "source_heading": "§ 83."
+      }
+    },
+    {
+      "provision_ref": "84",
+      "section": "84",
+      "content": "Spørsmålet om hvorvidt aksept av en veksel kan begrenses til en del av vekselsummen og hvorvidt vekselinnehaveren kan nekte å motta delvis betaling, avgjøres efter loven i det land hvor vekselen er betalbar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_84",
+        "source_heading": "§ 84."
+      }
+    },
+    {
+      "provision_ref": "85",
+      "section": "85",
+      "content": "Formen og fristene for protest, samt formen for andre handlinger som er nødvendige for å utøve eller bevare rettigheter efter en veksel, bestemmes av loven i det land hvor protesten skal optas eller vedkommende handling foretas.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_85",
+        "source_heading": "§ 85."
+      }
+    },
+    {
+      "provision_ref": "86",
+      "section": "86",
+      "content": "Loven i det land hvor en veksel er betalbar, bestemmer de forholdsregler som må treffes i tilfelle av at vekselen forkommer eller stjeles.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_86",
+        "source_heading": "§ 86."
+      }
+    },
+    {
+      "provision_ref": "87",
+      "section": "87",
+      "content": "Protest tas opp av namsmannen.\nDersom det er nødvendig for at protesten skal kunne opptas i tide, kan namsmannen ta opp protest utenfor sitt distrikt.\nTilkalling av vitne er ikke nødvendig.\n0 Endret ved lover 21 juni 1963 nr. 7, 18 juni 1965 nr. 3, 25 juni 2004 nr. 53 (ikr. 1 jan 2006 iflg. res. 19 aug 2005 nr. 901) som endret ved lov 17 juni 2005 nr. 84, 11 mai 2017 nr. 26 (ikr. 1 juni 2017 iflg. res. 11 mai 2017 nr. 563).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_87",
+        "source_heading": "§ 87."
+      }
+    },
+    {
+      "provision_ref": "88",
+      "section": "88",
+      "content": "Den som ønsker optatt protest, skal i tide levere vedkommende tjenestemann vekslen eller i tilfelle vekselkopien med fornøden muntlig eller skriftlig begjæring.\nTjenestemannen skal derefter uten ophold henvende seg til den som protesten kreves optatt hos, og forevise vekslen (vekselkopien) med opfordring om å efterkomme rekvirentens krav.\nNår den som protest for manglende betaling skal optas hos, tilbyr betaling, skal tjenestemannen ta imot det tilbudte, dersom ingen annen er til stede som kan ta imot på vegne av rekvirenten. Tjenestemannen er bemyndiget til å kvittere vekselen når ikke trassaten har fått motsatt meddelelse av vekselinnehaveren. Betales vekselsummen fullt ut (i tilfelle med tillegg av de i vekslen lovlig foreskrevne renter, jfr. § 5), skal tjenestemannen kvittere og utlevere vekselen, når ikke rekvirenten skriftlig har anmodet ham om noget annet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_88",
+        "source_heading": "§ 88."
+      }
+    },
+    {
+      "provision_ref": "89",
+      "section": "89",
+      "content": "Hvis ikke annet vedtas, skal den i § 88, annet ledd, foreskrevne henvendelse skje i vedkommendes forretningslokale eller, om han ikke vites å ha sådant på stedet, i hans bolig der og i tiden mellom kl. 9 formiddag og kl. 7 eftermiddag. Kan rekvirenten ikke oplyse hvor på stedet vedkommende har forretningslokale eller bolig, og er dette også ukjent for tjenestemannen, skal denne søke oplysning hos politiet på stedet.\nForanstående bestemmelser om tid og sted for optagelse av protest får også anvendelse på vekselens forevisning til aksept og betaling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_89",
+        "source_heading": "§ 89."
+      }
+    },
+    {
+      "provision_ref": "90",
+      "section": "90",
+      "content": "Tjenestemannen skal innen 24 timer utferdige en underskrevet bevidnelse om den avholdte forretning (protesten).\nProtesten skal inneholde avskrift av vekselen (vekselkopien) med alt som er tegnet på den, og oplysning om rekvirentens begjæring, tjenestemannens henvendelse med angivelse av sted og tid derfor, samt det svar som gis på henvendelsen. Hvis vedkommende ikke er påtruffet eller ikke har gitt noget svar, påføres dette. Har der ikke kunnet skje nogen henvendelse, fordi vedkommendes forretningslokale eller bolig er ukjent, skal der i protesten tas inn fornøden forklaring for å vise at forskriftene i § 89, annet punktum er fulgt. Er protest i medhold av § 87 annet ledd opptatt av en tjenestemann utenfor sitt distrikt, skal det i protesten anføres at den tjenestemann som normalt skulle ha opptatt protesten, ikke kunne gjøre det i tide.\nTjenestemannen skal gjøre bemerkning om protesten på vekselen (vekselkopien).\n0 Endret ved lov 25 juni 2004 nr. 53 (ikr. 1 jan 2006 iflg. res. 19 aug 2005 nr. 901).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_90",
+        "source_heading": "§ 90."
+      }
+    },
+    {
+      "provision_ref": "91",
+      "section": "91",
+      "content": "Protesten skal ordrett føres inn i tjenestemannens protokoll.\nUtskrift av protokollen må ikke meddeles andre enn protestrekvirenten.\n0 Endret ved lover 21 juli 1963 nr. 7, 25 juni 2004 nr. 53 (ikr. 1 jan 2006 iflg. res. 19 aug 2005 nr. 901).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_91",
+        "source_heading": "§ 91."
+      }
+    },
+    {
+      "provision_ref": "92",
+      "section": "92",
+      "content": "Begjærer nogen samtidig protest optatt hos flere personer på samme sted efter samme veksel, utfordres bare én forretning og et protestdokument.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_92",
+        "source_heading": "§ 92."
+      }
+    },
+    {
+      "provision_ref": "93",
+      "section": "93",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\nFra samme tid opheves – – –\n1 Fra 1 nov 1932 ved res. 15 juli 1932.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_93",
+        "source_heading": "§ 93."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "En veksel skal inneholde:\n1. benevnelsen veksel, inntatt i selve teksten og uttrykt i det sprog hvori dokumentet er avfattet;\n2. en ubetinget anmodning om å betale en bestemt pengesum (vekselsummen);\n3. navnet på den som skal betale (trassaten);\n4. angivelse av forfallstiden;\n5. angivelse av stedet hvor betalingen skal skje;\n6. navnet på den til hvem eller til hvis ordre betalingen skal skje (vekseltager, remittent);\n7. angivelse av dag og sted for vekslens utstedelse; samt\n8. underskrift av den som utsteder vekslen (trassenten).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Et dokument hvori nogen av de i foregående paragraf nevnte anførsler mangler, gjelder ikke som veksel uten i de tilfelle som omhandles i de følgende ledd.\nEn veksel hvis forfallstid ikke er angitt, anses som betalbar ved sikt.\nI mangel av særlig angivelse anses det sted som er anført ved trassatens navn, som vekslens betalingssted og samtidig som trassatens bosted.\nEn veksel som ikke angir stedet hvor den er utstedt, anses underskrevet på det sted som er anført ved trassentens navn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "En veksel kan utstedes til trassentens egen ordre.\nDen kan trekkes på trassenten selv.\nDen kan trekkes for en tredjemanns regning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "En veksel kan lyde på betaling hos en tredjemann, enten på trassatens bosted eller på et annet sted.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "I en veksel som er betalbar ved sikt eller en viss tid efter sikt, kan trassenten bestemme at der skal svares rente av vekselsummen. I enhver annen veksel anses en sådan bestemmelse som uskrevet.\nRentefoten skal angis i vekslen; er den ikke angitt anses bestemmelsen om rente som uskrevet.\nRentene løper fra vekslens utstedelsesdag, hvis ikke en annen dag er angitt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "En veksel hvori beløpet er anført både med bokstaver og med tall, gjelder i tilfelle av uoverensstemmelse for den sum som er anført med bokstaver.\nEn veksel hvori beløpet er anført flere ganger, enten med bokstaver eller med tall, gjelder i tilfelle av uoverensstemmelse bare for den minste sum.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Finnes der på en veksel underskrift av nogen som mangler evne til å påta sig vekselforpliktelse, falsk underskrift, underskrift av opdiktede personer, eller underskrift som av annen grunn ikke er forpliktende for underskriveren eller for den i hvis navn underskriften er gitt, er de andre vekselskyldneres forpliktelse ikke desto mindre gyldig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Den som tegner sitt navn på en veksel på vegne av en annen, for hvem han ikke var bemyndiget til å handle, blir selv forpliktet efter vekslen og erhverver, når han har betalt, samme rett som vilde ha tilkommet den annen. Det samme gjelder den som har overskredet sin bemyndigelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Trassenten innestår for vekslens godkjennelse (aksept) og betaling.\nHan kan fraskrive sig ansvaret for aksept; enhver bestemmelse hvorved han fraskriver sig ansvaret for betalingen, anses som uskrevet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Hvis en veksel som ved utgivelsen var ufullstendig, er blitt utfylt i strid med truffen avtale, kan denne omstendighet ikke gjøres gjeldende mot vekselinnehaveren, medmindre han da han erhvervet vekslen var i ond tro eller utviste grov uaktsomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Enhver veksel kan ved endossement overdras til en annen (endossatar), selv om den ikke uttrykkelig er utstedt til ordre.\nHar trassenten satt inn i vekslen ordene «ikke til ordre» eller tilsvarende uttrykk, kan den alene overdras i den form og med de virkninger, som gjelder for almindelig overdragelse av fordring.\nEn veksel kan endosseres også til trassaten, hvad enten han har akseptert eller ikke, til trassenten eller til en annen vekselskyldner. Disse kan endossere vekslen videre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Endossementet skal være ubetinget. Er det gjort avhengig av en betingelse, anses denne som uskrevet.\nEndossement for en del av vekselsummen er ugyldig.\nEndossement til ihendehaveren anses som blankoendossement.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Endossementet skal skrives på vekslen eller på et blad som er heftet til denne (allonge). Det skal underskrives av endossenten.\nEndossementet er gyldig selv om det ikke angir hvem vekslen overdras til, eller om endossenten bare har tegnet sitt navn (blankoendossement). I det sistnevnte tilfelle må endossementet for å være gyldig skrives på vekslens bakside eller på en allonge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "Ved endossement overføres alle rettigheter efter vekslen.\nHvis endossementet er et blankoendossement, kan vekselinnehaveren\n1. utfylle det enten med sitt eget eller med en annens navn,\n2. endossere vekslen påny in blanco eller til en annen person, eller\n3. gi vekslen videre til en tredjemann uten å utfylle blankoendossementet eller endossere vekslen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Endossenten innestår for vekslens aksept og betaling, med mindre han har tatt særlig forbehold.\nHan kan forby at den endosseres på nytt; i så fall er han fri for ansvaret overfor dem som vekslen derefter blir endossert til.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Den som har en veksel ihende, anses som rettmessig vekselinnehaver når han godtgjør sin rett ved en ubrutt rekke av endossementer, selv om det siste endossement er in blanco. Utstrøkne endossementer anses i denne forbindelse som uskrevne. Når der efter et blankoendossement følger et annet endossement, antas den som har undertegnet dette, å ha erhvervet vekslen ved blankoendossementet.\nHvis en veksel, likegyldig på hvilken måte, er kommet bort fra besidderen, er en innehaver som godtgjør sin rett på den måte som er angitt i foregående ledd, ikke pliktig til å utlevere vekslen, medmindre han ved erhvervelsen var i ond tro eller utviste grov uaktsomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Den som saksøkes efter en veksel, kan ikke mot vekselinnehaveren gjøre gjeldende innsigelser, som grunnes på hans særlige forhold til trassenten eller tidligere vekselinnehavere, medmindre vekselinnehaveren, da han erhvervet vekslen handlet forsettlig til skade for skyldneren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Inneholder endossementet anførslen «valuta til innfordring», «til inkasso», eller nogen annen anførsel, hvori der bare ligger en fullmakt (prokuraendossement), kan vekselinnehaveren utøve alle rettigheter efter vekslen, men ikke endossere den uten ved prokuraendossement.\nVekselskyldnerne kan i så fall overfor innehaveren bare påberope de innsigelser, som vilde kunne fremsettes mot endossenten.\nDen fullmakt som inneholdes i et prokuraendossement, ophører ikke selv om opdragsgiveren dør eller mister evnen til å forplikte sig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Inneholder et endossement anførslen «valuta til sikkerhet», «valuta til pant» eller nogen annen anførsel som går ut på en pantsettelse, kan vekselinnehaveren utøve alle rettigheter efter vekslen, men et endossement som han tegner, gjelder bare som prokuraendossement.\nVekselskyldnerne kan ikke påberope mot innehaveren de innsigelser som grunnes på deres særlige forhold til endossenten, medmindre innehaveren, da han mottok vekslen, handlet forsettlig til skade for skyldneren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "Et endossement som tegnes efter vekslens forfallstid, har samme virkning som et tidligere endossement. Tegnes endossementet først efterat protest for manglende betaling er optatt, eller efterat den for optagelsen fastsatte frist er utløpet, har det dog bare virkning som en almindelig overdragelse av fordring.\nHvis ikke det motsatte bevises, anses et udatert endossement for å være foretatt før utløpet av protestfristen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "Enhver som har vekslen ihende, kan like til forfallsdag forevise den til aksept av trassaten på dennes bosted.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "I enhver veksel kan trassenten foreskrive at vekslen skal forevises til aksept, med eller uten tilføielse av en frist for forevisningen.\nHan kan i vekslen forby at den forevises til aksept, medmindre den er betalbar hos en tredjemann eller på et annet sted enn trassatens bosted, eller den er betalbar en viss tid efter sikt.\nHan kan også foreskrive at forevisning til aksept ikke kan finne sted før et bestemt tidspunkt.\nEnhver endossent kan foreskrive at vekslen skal forevises til aksept, med eller uten tilføielse av en frist; dog gjelder dette ikke, hvis trassenten har forbudt vekslens forevisning til aksept.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "En veksel som skal betales en viss tid efter sikt, skal forevises til aksept innen ett år fra utstedelsesdagen.\nTrassenten kan forkorte denne frist eller bestemme en lengere frist.\nDisse frister kan forkortes av endossentene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Trassaten kan kreve at vekslen blir forevist ham på nytt dagen efter den første forevisning. At et sådant krav ikke er efterkommet, kan ikke gjøres gjeldende medmindre kravet er nevnt i protesten.\nVekselinnehaveren er ikke forpliktet til å overgi vekslen i trassatens besiddelse når den forevises til aksept.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Aksepten skrives på vekslen. Den uttrykkes ved ordet «akseptert» eller et annet tilsvarende uttrykk og underskrives av trassaten. Dennes blotte navnetegning på vekslens forside gjelder som aksept.\nHvis vekslen skal betales en viss tid efter sikt, eller den i henhold til særskilt bestemmelse skal forevises til aksept innen en viss frist, skal aksepten dateres og som datum anføres den dag da aksepten meddeles, medmindre innehaveren krever at forevisningsdagens datum skal anføres. Mangler datering, må vekselinnehaveren, for å bevare sin regressrett mot endossentene og trassenten, godtgjøre undlatelsen ved en i rette tid optatt protest.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Aksepten skal være ubetinget, men trassaten kan begrense den til en del av vekselsummen.\nGjøres ved aksepten ellers nogen avvikelse fra vekslens innhold, anses det som nektelse av aksept. Dog er akseptanten bundet efter akseptens lydende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "Har trassenten i vekslen angitt et annet betalingssted enn trassatens bosted, uten å angi en tredjemann hos hvem betalingen skal skje, kan trassaten ved sin aksept angi en sådan. I mangel av sådan angivelse anses akseptanten for å ha forpliktet sig til selv å betale vekslen på betalingsstedet.\nHvis vekslen er betalbar hos trassaten, kan denne i aksepten angi hvor på betalingsstedet betaling skal erlegges eller opgi en annen som skal betale på samme sted.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "Ved aksepten forplikter trassaten sig til å betale vekslen på forfallsdagen.\nBetales den ikke har innehaveren, selv om det er trassenten, et umiddelbart krav efter vekslen mot akseptanten på alt som kan fordres efter §§ 48 og 49.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "Hvis trassaten har forsynt vekslen med sin aksept, men har strøket den ut før vekslen blir tilbakelevert, anses aksept nektet. Hvis ikke det motsatte bevises, anses utstrykningen for å være foretatt før vekslen blev tilbakelevert.\nDog er trassaten, hvis han har gitt skriftlig underretning om sin aksept til vekselinnehaveren eller nogen vekselskyldner, bundet overfor disse efter akseptens lydende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "30",
+      "section": "30",
+      "content": "Betalingen av en veksel kan sikres ved aval for hele vekselsummen eller for en del av den.\nAval kan tegnes så vel av en vekselskyldner som av en tredjemann.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "31",
+      "section": "31",
+      "content": "Aval tegnes på vekslen eller på en allonge.\nDen uttrykkes ved ordene «som aval» eller et tilsvarende uttrykk; den undertegnes av den som går i borgen (avalisten).\nDen blotte navnetegning på vekslens forside anses som aval medmindre det er trassaten eller trassenten som har tegnet sitt navn.\nAval skal angi for hvem den tegnes. I mangel av sådan angivelse anses den tegnet for trassenten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "32",
+      "section": "32",
+      "content": "Avalisten er forpliktet på samme måte som den for hvem han har gått i borgen.\nHans forpliktelse er gyldig, selv om den forpliktelse som han er gått i borgen for, skulde være ugyldig av nogen annen grunn enn formfeil.\nNår en avalist betaler vekslen, erhverver han alle rettigheter efter vekslen mot den som han er gått i borgen for, og mot dem som efter vekslen er ansvarlige overfor denne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "33",
+      "section": "33",
+      "content": "En veksel kan lyde på betaling:\nved forevisning (ved sikt, a vista);\nen viss tid efter forevisning (efter sikt, a viso);\nen viss tid efter sin utstedelsesdag; eller\npå en bestemt dag.\nEn veksel hvor forfallstiden er anderledes bestemt, eller som forfaller efterhånden til forskjellige tider, er ugyldig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "34",
+      "section": "34",
+      "content": "En veksel som forfaller ved sikt, skal betales ved forevisningen. Den skal forevises til betaling innen ett år fra utstedelsesdagen. Trassenten kan forkorte denne frist eller bestemme en lengere frist. Disse frister kan forkortes av endossentene.\nTrassenten kan bestemme at en veksel som er betalbar ved sikt, ikke skal forevises til betaling før et bestemt tidspunkt. I så fall løper forevisningsfristen fra dette tidspunkt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "35",
+      "section": "35",
+      "content": "Forfallstiden for en veksel som lyder på betaling en viss tid efter sikt, bestemmes ved akseptens eller protestens datum.\nEr aksepten ikke datert og er protest heller ikke optatt, skal aksepten i forhold til akseptanten anses som meddelt på den siste dag av den frist som er bestemt for forevisning til aksept.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "36",
+      "section": "36",
+      "content": "En veksel som lyder på betaling en eller flere måneder efter utstedelsesdagen eller efter sikt, forfaller på den tilsvarende dag i den måned i hvilken vekslen skal betales. I mangel av tilsvarende dag forfaller vekslen på månedens siste dag.\nLyder en veksel på betaling en eller flere hele måneder og en halv måned efter sin utstedelsesdag eller efter sikt, regnes de hele måneder først.\nEr forfallstiden bestemt til begynnelsen av en måned, midten av en måned (medio januar, medio februar o.s.v.) eller slutningen av en måned, skal ved disse uttrykk forståes den første, den femtende eller den siste dag i måneden.\nVed uttrykkene «åtte dager» eller «femten dager» forståes ikke en eller to uker, men et tidsrum av fulle åtte eller femten dager.\nUttrykket «en halv måned» betegner et tidsrum av femten dager.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "37",
+      "section": "37",
+      "content": "Når en veksel lyder på betaling på en bestemt dag på et sted hvis kalender er forskjellig fra den som gjelder på utstedelsesstedet, anses forfallsdagen fastsatt efter betalingsstedets kalender.\nNår en veksel som er trukket mellem to steder med forskjellig kalender, er betalbar en viss tid efter utstedelsesdagen, blir denne å omregne til den tilsvarende dag efter betalingsstedets kalender, og forfallsdagen bestemmes overensstemmende hermed.\nForevisningsfristene for veksler beregnes overensstemmende med reglene i foregående ledd.\nDisse regler kommer ikke til anvendelse, hvis det fremgår av en særskilt bestemmelse i vekslen eller i øvrig av dennes innhold at hensikten har vært å anvende andre regler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "38",
+      "section": "38",
+      "content": "Innehaveren av en veksel som er betalbar på en bestemt dag eller en viss tid efter utstedelsesdagen eller efter sikt, skal forevise vekslen til betaling, enten på den dag da den er betalbar, eller på en av de to følgende virkedager.\nVekslens innlevering til et avregningskontor (clearinghouse) likestilles med forevisning til betaling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "39",
+      "section": "39",
+      "content": "Når trassaten betaler vekslen, kan han kreve den utlevert med påtegnet kvittering fra vekselinnehaveren.\nVekselinnehaveren kan ikke nekte å ta imot delvis betaling.\nI tilfelle av delvis betaling kan trassaten kreve at vekslen får påtegning om betalingen; dessuten kan han kreve særskilt kvittering.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "40",
+      "section": "40",
+      "content": "Vekselinnehaveren er ikke forpliktet til å motta betaling før vekslens forfallstid.\nBetaler trassaten før forfallstid, gjør han det på egen risiko.\nDen som betaler når forfallstid er kommet, blir gyldig befridd for sin forpliktelse medmindre der foreligger svik eller grov uaktsomhet fra hans side. Han er forpliktet til å forvisse sig om at endossementene utgjør en behørig sammenhengende rekke, men ikke om ektheten av endossentenes underskrifter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "41",
+      "section": "41",
+      "content": "Når en veksel lyder på betaling i en myntsort som ikke er gangbar på betalingsstedet, kan beløpet betales i landets mynt efter sin verdi på forfallsdag. Betaler skyldneren ikke i rette tid, kan vekselinnehaveren hvis han ønsker det, kreve beløpet betalt i landets mynt enten efter forfallsdagens kurs eller efter betalingsdagens.\nVed beregningen av den fremmede mynts verdi skal handelsbruken på betalingsstedet følges, hvis ikke trassenten har foreskrevet at vekselsummen skal betales efter en i vekslen fastsatt kurs.\nForanstående regler kommer ikke til anvendelse i de tilfelle hvor trassenten har fastsatt at betalingen skal erlegges i en bestemt angitt myntsort (bestemmelse om effektiv betaling i fremmed mynt).\nEr vekselbeløpet angitt i en myntsort som har samme benevnelse, men en forskjellig verdi, i det land hvor vekslen er utstedt, og det land hvor den skal betales, er formodningen for at det er betalingsstedets mynt som er ment.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "42",
+      "section": "42",
+      "content": "Blir en veksel ikke forevist til betaling innen den i § 38 nevnte frist, har enhver skyldner rett til, for vekselinnehaverens regning og risiko, å deponere beløpet enten i Norges Bank eller hos politimesteren på det sted hvor skyldneren bor eller har sin forretning, eller hvor vekslen skal betales.\nDet deponerte beløp skal være ledsaget av en av deponenten underskrevet nøiaktig redegjørelse for vekslens innhold. Beløpet utbetales til den som på behørig måte godtgjør sin rett til å få betaling efter vekslen. Har der ikke innen seks måneder meldt sig nogen med krav på å få beløpet utbetalt efter vekslen, kan det også utbetales til deponenten hvis han krever det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "43",
+      "section": "43",
+      "content": "Når forfallstid er inne, kan vekselinnehaveren, dersom vekslen ikke er blitt betalt, søke regress hos endossentene, trassenten og andre vekselskyldnere.\nSamme rett har vekselinnehaveren allerede før forfallstid:\n1. hvis aksept helt eller delvis er nektet;\n2. hvis trassaten, hva enten han har akseptert eller ikke, er kommet under konkurs eller har åpnet gjeldsforhandling etter loven, eller det ved tvangsforretning hos ham er funnet at han mangler midler til å betale sin gjeld, eller han har innstilt sine betalinger; eller\n3. hvis trassenten i tilfelle hvor han har forbudt vekslens forevisning til aksept, er kommet under konkurs eller har åpnet gjeldsforhandling etter loven.\n0 Endret ved lover 8 juni 1984 nr. 60, 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "44",
+      "section": "44",
+      "content": "Nektelse av aksept eller betaling skal godtgjøres ved offentlig bevidnelse (protest for manglende aksept eller for manglende betaling).\nProtest for manglende aksept skal optas innen den frist som er fastsatt for vekslens forevisning til aksept. Hvis den første forevisning i det tilfelle som omhandles i § 24 første ledd, har funnet sted på fristens siste dag, kan protesten ennu optas dagen efter.\nProtest for manglende betaling skal, når det gjelder en veksel som er betalbar på en bestemt dag eller en viss tid efter utstedelsen eller efter sikt, optas en av de to første virkedager efter forfallsdag. Med hensyn til protest for manglende betaling av en veksel som lyder på betaling ved sikt, skal det som i forrige ledd er bestemt om protest for manglende aksept, få tilsvarende anvendelse.\nProtest for manglende aksept fritar for forevisning til betaling og for protest for manglende betaling.\nHvis det ved tvangsforretning hos trassaten er funnet at han mangler midler til betaling av gjeld, eller han har innstilt sine betalinger kan vekselinnehaveren ikke søke regress før han har forevist vekslen for trassaten til betaling og opptatt protest.\nHvis trassaten er kommet under konkurs eller har åpnet gjeldsforhandling etter loven, er det for iverksettelse av regress tilstrekkelig at vekselinnehaveren legger frem rettens bevitnelse for at konkurs eller gjeldsforhandling er åpnet. Det samme gjelder hvis en trassent, som har forbudt vekselens forevisning til aksept, er kommet under konkurs eller har åpnet gjeldsforhandling etter loven.\n0 Endret ved lov 8 juni 1984 nr. 60.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "45",
+      "section": "45",
+      "content": "Vekselinnehaveren skal gi den siste endossent og trassenten meddelelse om den manglende aksept eller betaling innen fire virkedager efter protestdagen eller, hvis der er tatt forbehold om regress uten omkostninger, efter forevisningsdagen. Enhver endossent skal, senest annen virkedag efter den dag da han har mottatt sådan meddelelse, underrette den nærmest foregående endossent om den meddelelse som han selv har mottat, og oplyse navn og adresse på dem som har gitt de foregående meddelelser, og således videre idet man går tilbake like til trassenten. Ovennevnte frister regnes fra mottagelsen av den foregående meddelelse.\nNår der overensstemmende med foregående ledd er gitt meddelelse til en vekselskyldner, skal tilsvarende meddelelse innen samme frist gis til dem som har tegnet aval for ham.\nHar en endossent ikke angitt sin adresse, eller er denne uleselig, er det nok at meddelelsen gis den endossent som står nærmest foran ham på vekslen.\nDen som plikter å gi underretning, kan gjøre det på hvilken som helst måte, endog bare ved å sende vekslen tilbake.\nDet påhviler ham å bevise at han har gitt meddelelsen innen den foreskrevne frist. Fristen anses overholdt, hvis et brev som inneholder meddelelsen, er innlevert til tilbyder av posttjenester innen fristens utløp.\nDen som ikke gir underretning innen den ovennevnte frist, taper ikke sin regressrett, men er i tilfelle ansvarlig for den skade som måtte være voldt ved hans forsømmelse; dog kan skadeserstatningen ikke overstige vekslens beløp.\n0 Endret ved lover 9 jan 1998 nr. 5, 4 sep 2015 nr. 91 (ikr. 1 jan 2016 iflg. res. 4 sep 2015 nr. 1027).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "46",
+      "section": "46",
+      "content": "Anførslen «uten omkostninger», «uten protest» eller tilsvarende anførsel, påført vekslen og undertegnet av trassenten, en endossent eller en avalist, fritar vekselinnehaveren for å opta protest for manglende aksept eller manglende betaling som betingelse for regress.\nEn sådan bestemmelse fritar ikke vekselinnehaveren for å forevise vekslen innen de foreskrevne frister eller for å gi de i § 45 foreskrevne meddelelser. Beviset for at fristene ikke er overholdt, påhviler den som gjør det gjeldende overfor vekselinnehaveren.\nEr bestemmelsen truffet av trassenten, har den virkning for alle vekselskyldnere; er den truffet av en endossent eller en avalist, har den bare virkning overfor denne. Hvis vekselinnehaveren lar opta protest til tross for at trassenten har truffet en sådan bestemmelse, bærer han selv omkostningene. Er bestemmelsen truffet av en endossent eller en avalist kan omkostningene ved en protest, om sådan optas, kreves erstattet hos enhver vekselskyldner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "47",
+      "section": "47",
+      "content": "De som har utstedt, akseptert eller endossert en veksel eller tegnet aval på samme, er ansvarlige en for alle og alle for en overfor vekselinnehaveren.\nVekselinnehaveren har rett til å reise krav mot enhver av dem, særskilt eller i fellesskap, uten å være bundet til den rekkefølge hvori de har forpliktet sig.\nSamme rett tilkommer enhver vekselskyldner som har innfridd vekslen.\nAt sak er anlagt mot en vekselskyldner, hindrer ikke at krav reises mot de andre, selv om de står efter den som først blev saksøkt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "48",
+      "section": "48",
+      "content": "Vekselinnehaveren kan kreve av den hos hvem han søker regress:\n1. den ikke aksepterte eller ikke betalte vekselsum tillikemed renter hvis sådanne er betinget;\n2. renter fra forfallsdagen efter en rentefot av seks pct.;\n3. omkostningene ved protesten og ved de meddelelser som er sendt i medhold av § 45, så vel som andre omkostninger; samt\n4. provisjon, 1/3 pct. av vekselsummen.\nHvis regress søkes før vekslens forfallstid, skal der fra vekselsummen trekkes en diskonto, som beregnes efter den offisielle diskontosats på vekslinnehaverens bosted på den dag da regresskravet gjøres gjeldende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "49",
+      "section": "49",
+      "content": "Den som har innløst vekslen, kan kreve av dem som er ansvarlige overfor ham:\n1. hele det beløp som han har betalt;\n2. renter av dette beløp fra den dag da han betalte det, efter en rentefot av seks pct.;\n3. de omkostninger som han har hatt; samt\n4. provisjon, 1/3 pct. av vekselsummen, idet dog retten til å beregne provisjon ophører når provisjonenes samlede beløp er nådd op til 2 pct. av vekselsummen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "50",
+      "section": "50",
+      "content": "Enhver vekselskyldner mot hvem regresskrav er reist eller kan gjøres gjeldende, kan mot å betale innløsningssummen kreve vekslen utlevert tillikemed protesten og en kvittert regning.\nEnhver endossent som har innløst vekslen, kan utstryke sitt eget og de efterfølgende endossementer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "51",
+      "section": "51",
+      "content": "Hvis regress søkes efter delvis aksept, kan den som betaler den ikke aksepterte del av vekselsummen, kreve at vekslen får påtegning om betalingen, og at han får særskilt kvittering. Vekselinnehaveren skal dessuten levere ham en bekreftet avskrift av vekslen tillikemed protesten for å sette ham i stand til å søke videre regress.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "52",
+      "section": "52",
+      "content": "Enhver som har rett til å søke regress, kan, hvis ikke annet er betinget, skaffe sig betaling ved hjelp av en ny veksel (motveksel) som er betalbar ved sikt, og som trekkes på en av dem som er ansvarlige overfor ham, og gjøres betalbar på dennes bosted.\nMotvekslen omfatter, foruten de i §§ 48 og 49 angitte beløp, også meglergebyr og stempelavgift for motvekslen.\nHvis motvekslen trekkes av vekselinnehaveren, fastsettes dens beløp efter kursen for en siktveksel, som trekkes fra det sted hvor den oprinnelige veksel var betalbar og på vedkommende vekselskyldners bosted. Trekkes motvekslen av en endossent, fastsettes beløpet efter kursen for en siktveksel, som trekkes fra hans bosted og på vekselskyldnerens bosted.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "53",
+      "section": "53",
+      "content": "Oversittes de frister som er fastsatt\nfor forevisning av en veksel som lyder på betaling ved sikt eller en viss tid efter sikt,\nfor optagelse av protest for manglende aksept eller for manglende betaling,\nfor forevisning til betaling, når der er truffet bestemmelse om regress uten omkostninger,\nEr en veksel ikke blitt forevist til aksept innen den frist som trassenten har bestemt, taper vekselinnehaveren sin rett til regress så vel for manglende betaling som for manglende aksept, medmindre det fremgår av bestemmelsen at trassentens mening har vært alene å fraskrive sig ansvar for aksept.\nEr en frist for forevisningen bestemt i et endossement, kan den bare påberopes av endossenten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "54",
+      "section": "54",
+      "content": "Hvis forevisning av vekslen eller optagelse av protest innen de foreskrevne frister ikke kan iverksettes på grunn av en uovervinnelig hindring (innenlandsk eller utenlandsk lovforskrift eller annet tilfelle av vis major), forlenges fristene.\nVekselinnehaveren er forpliktet til uten ophold å gi siste endossent meddelelse om hindringen og til å forsyne vekslen eller en allonge med datert og av ham underskrevet påtegning om meddelelsen; for øvrig kommer forskriftene i § 45 til anvendelse.\nSå snart hindringen er ophørt, skal innehaveren uten ophold forevise vekslen til aksept eller betaling og i tilfelle la opta protest.\nVedvarer hindringen lenger enn tretti dager fra forfallstiden, kan regress søkes uten at forevisning eller optagelse av protest er nødvendig.\nFor veksler som lyder på betaling ved sikt eller en viss tid efter sikt, regnes de tretti dager fra den dag da vekselinnehaveren har gitt den siste endossent meddelelse om hindringen, selv om sådan meddelelse er gitt før forevisningsfristens utløp; for veksler som er betalbare en viss tid efter sikt, legges denne tid til de tretti dager.\nSom vis major anses ikke tildragelser av rent personlig natur for vekselinnehaveren eller den, som han har overdratt å forevise vekslen eller opta protesten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "54 a",
+      "section": "54 a",
+      "content": "Kongen kan i påtrengende tilfelle ved forskrift gi unntaksbestemmelser om forlengelse av fristene for de handlinger som er nødvendige for å bevare regress.\n0 Tilføyd ved lov 7 juni 1985 nr. 52.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54a",
+        "source_heading": "§ 54 a."
+      }
+    },
+    {
+      "provision_ref": "55",
+      "section": "55",
+      "content": "Trassenten, en endossent eller en avalist kan opgi en nødsadressat til å akseptere eller betale vekslen.\nEn veksel kan, under de nedenfor angitte betingelser, aksepteres eller betales av nogen som inntrer (intervenerer) for regning av en vekselskyldner, mot hvem regresskrav kan gjøres gjeldende.\nSom intervenient kan optre en som ikke er vekselskyldner, også trassaten, eller en som allerede er forpliktet efter vekslen, med undtagelse av akseptanten.\nIntervenienten er forpliktet til å gi den for hvem han har intervenert, underretning om intervensjonen i løpet av to virkedager. Iakttar han ikke denne frist, er han ansvarlig for den skade som måtte følge av hans forsømmelse; dog kan skadeserstatningen ikke overstige vekselsummen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "56",
+      "section": "56",
+      "content": "Intervensjonsaksept kan finne sted i alle tilfelle hvor innehaveren av en veksel kan søke regress før forfallstid, undtagen når vekslens forevisning til aksept er forbudt.\nNår der i vekslen er angitt en nødsadressat på betalingsstedet, kan vekselinnehaveren ikke utøve sin regressrett før forfallstid mot den som har tilføiet nødsadressen eller mot efterfølgende vekselskyldnere, medmindre han har forevist vekslen for nødsadressaten og, hvis denne nekter aksept, har latt nektelsen godtgjøre ved protest.\nI andre tilfelle kan vekselinnehaveren nekte å motta intervensjonsaksept. Mottar han den allikevel, taper han retten til regress før forfallstid mot den for hvem aksepten er gitt og mot efterfølgende vekselskyldnere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "57",
+      "section": "57",
+      "content": "Intervensjonsaksept skrives på vekslen; den underskrives av intervenienten. Den skal angi for hvis regning den tegnes; i mangel av sådan angivelse anses aksepten for tegnet for trassentens regning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    },
+    {
+      "provision_ref": "58",
+      "section": "58",
+      "content": "Intervensjonsakseptanten er forpliktet overfor vekselinnehaveren og de endossenter som følger efter den for hvis regning han har intervenert, på samme måte som denne.\nTil tross for intervensjonsaksepten kan den for hvem den er tegnet, og de som er ansvarlige overfor ham, mot betaling av det i § 48 angitte beløp, forlange at vekselinnehaveren skal utlevere vekslen, kvittert regning og protesten hvis sådan er optatt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_58",
+        "source_heading": "§ 58."
+      }
+    },
+    {
+      "provision_ref": "59",
+      "section": "59",
+      "content": "Intervensjonsbetaling kan finne sted i alle tilfelle hvor regress kan iverksettes av vekselinnehaveren, ved eller før forfallstid.\nBetalingen skal omfatte hele det beløp som skulde utredes av den for hvis regning den skjer.\nDen skal skje senest dagen efter den siste dag på hvilken protest for manglende betaling kunde optas.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_59",
+        "source_heading": "§ 59."
+      }
+    },
+    {
+      "provision_ref": "60",
+      "section": "60",
+      "content": "Er en veksel blitt akseptert av en intervenient som har sin bopel på betalingsstedet, eller er der opgitt en eller flere nødsadressater som har sin bopel på dette sted, skal vekselinnehaveren forevise vekslen for enhver av dem og i tilfelle la opta protest for manglende betaling senest dagen efter den siste til optagelse av protest bestemte dag.\nOptas protest ikke innen denne frist, er den som har opgitt nødsadressaten, eller for hvis regning vekslen er akseptert, så vel som de efterfølgende endossenter, fri for sine forpliktelser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_60",
+        "source_heading": "§ 60."
+      }
+    },
+    {
+      "provision_ref": "61",
+      "section": "61",
+      "content": "En vekselinnehaver som nekter å motta intervensjonsbetaling, taper sin rett til regress mot dem som vilde være blitt fri ved betalingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_61",
+        "source_heading": "§ 61."
+      }
+    },
+    {
+      "provision_ref": "62",
+      "section": "62",
+      "content": "At intervensjonsbetaling har funnet sted skal godtgjøres ved kvittering på vekslen med angivelse av den for hvis regning betalingen er skjedd. Mangler sådan angivelse, anses betalingen skjedd for trassentens regning.\nVekslen tillikemed protesten, hvis sådan er optatt, skal utleveres til intervenienten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_62",
+        "source_heading": "§ 62."
+      }
+    },
+    {
+      "provision_ref": "63",
+      "section": "63",
+      "content": "Den som betaler som intervenient, erhverver de av vekslen flytende rettigheter mot den for hvem han har betalt, og mot dem som er ansvarlige overfor ham efter vekslen. Dog kan han ikke endossere vekslen på nytt.\nDe endossenter som følger efter den vekselskyldner for hvis regning betalingen er skjedd, blir frigjort ved denne.\nTilbyr flere intervensjonsbetaling, har den ved hvem de fleste vekselskyldnere befries, fortrinnet. Den som med kjennskap til forholdet intervenerer i strid med denne regel, taper sin regress mot dem som vilde blitt befridd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_63",
+        "source_heading": "§ 63."
+      }
+    },
+    {
+      "provision_ref": "64",
+      "section": "64",
+      "content": "En veksel kan utstedes i flere enslydende eksemplarer (duplikater).\nEksemplarene skal være nummerert i selve teksten; i mangel herav anses ethvert av dem som en selvstendig veksel.\nEnhver innehaver av en veksel som ikke angir at den er utstedt i et eneste eksemplar, kan kreve at der på hans bekostning leveres ham duplikater. I dette øiemed skal han henvende sig til sin umiddelbare forgjenger; denne er pliktig til å yde ham sin bistand ved å foreta henvendelse til sin egen umiddelbare forgjenger, og således videre idet man går tilbake like til trassenten. Endossentene er forpliktet til å gjenta sine endossementer på de nye eksemplarer.\n0 Endret ved lov 20 juni 2008 nr. 46.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_64",
+        "source_heading": "§ 64."
+      }
+    },
+    {
+      "provision_ref": "65",
+      "section": "65",
+      "content": "Betaling efter ett av eksemplarene har befriende virkning, selv om det ikke er betinget at sådan betaling setter de andre ut av kraft. Dog svarer trassaten fremdeles for ethvert eksemplar som er forsynt med hans aksept og som han ikke har fått tilbake.\nHar en endossent overdratt eksemplarene til forskjellige personer, svarer han så vel som de efterfølgende endossenter for ethvert eksemplar som bærer deres navnetegning og som ikke er tilbakelevert.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_65",
+        "source_heading": "§ 65."
+      }
+    },
+    {
+      "provision_ref": "66",
+      "section": "66",
+      "content": "Den som har sendt et av eksemplarene til aksept, skal på de andre eksemplarer opgi navnet på den hos hvem dette eksemplar finnes; denne er forpliktet til å utlevere det til den rettmessige innehaver av et annet eksemplar.\nNekter han det, kan vekselinnehaveren ikke søke regress før han ved en protest har godtgjort\n1. at det eksemplar som er sendt til aksept, ikke er blitt utlevert ham på hans forlangende, og\n2. at han ikke har kunnet få aksept eller betaling efter et annet eksemplar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_66",
+        "source_heading": "§ 66."
+      }
+    },
+    {
+      "provision_ref": "67",
+      "section": "67",
+      "content": "Enhver innehaver av en veksel har rett til å ta kopier av den.\nKopien skal nøiaktig gjengi orginalen med de endossementer og alle andre påtegninger som finnes på den. Den skal angi hvor langt avskriften går.\nDen kan endosseres og forsynes med aval på samme måte og med samme virkning som originalen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_67",
+        "source_heading": "§ 67."
+      }
+    },
+    {
+      "provision_ref": "68",
+      "section": "68",
+      "content": "Kopien skal angi hvem som har den originale veksel ihende. Ihendehaveren er forpliktet til å utlevere originalen til den rettmessige innehaver av kopien.\nNekter han det, kan innehaveren ikke søke regress hos dem som har endossert kopien eller tegnet aval på den, før han ved protest har godtgjort at originalen ikke er blitt utlevert ham på hans forlangende.\nHvis den originale veksel efter det siste endossement som er påført før kopien blev tatt, bærer påtegning: «herfra gjelder endossement bare på kopi» eller tilsvarende påtegning, er et efterfølgende endossement på originalen ugyldig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_68",
+        "source_heading": "§ 68."
+      }
+    },
+    {
+      "provision_ref": "69",
+      "section": "69",
+      "content": "Er der gjort forandring i en veksels tekst, er de som efter forandringen har tegnet sitt navn på vekslen, forpliktet overensstemmende med den endrede tekst. De som har tegnet sitt navn før forandringen, er forpliktet overensstemmende med den oprinnelige tekst.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_69",
+        "source_heading": "§ 69."
+      }
+    },
+    {
+      "provision_ref": "70",
+      "section": "70",
+      "content": "Ethvert krav efter vekslen mot akseptanten foreldes i tre år fra forfallsdagen.\nVekselinnehaverens krav mot endossentene og trassenten foreldes i et år fra den dag da protest i rette tid blev optatt, eller, hvis der er truffet bestemmelse om regress uten omkostninger, fra forfallsdagen.\nEndossentenes regresskrav mot andre endossenter eller mot trassenten foreldes i seks måneder fra den dag da endossenten innløste vekslen, eller da foreldelsen blev avbrutt overfor ham (jfr. § 71).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_70",
+        "source_heading": "§ 70."
+      }
+    },
+    {
+      "provision_ref": "71",
+      "section": "71",
+      "content": "Vekselforeldelsen avbrytes\nved at stevning er sendt til retten eller i tilfelle klage til forliksrådet, eller ved at vekselkravet under rettssak gjøres gjeldende til motregning, eller for øvrig inndras i saken (jf. tvisteloven § 15-1) eller\nved at vekselfordringen anmeldes i skyldnerens bo dersom dette behandles av offentlige myndigheter eller\nved at den mot hvem søksmål (motregningskrav) som foran omtalt er reist, gir en forgjenger varsel om søksmålet (tvisteloven § 15-9). Den som har mottatt sådan innvarsling, kan avbryte foreldelsen ved likeledes å gi sin forgjenger prosessvarsel.\nVed stevning til utenlandsk domstol avbrytes vekselforeldelsen hvis skyldneren har sitt hjemsted i vedkommende land eller han uten å gjøre innvending mot domstolens kompetanse tar til gjenmæle i saken, eller hvis stevningen er forkynt for ham personlig. Prosessvarsel til utenlandsk domstol avbryter foreldelsen under samme betingelser som stevning. Likeledes avbrytes foreldelsen ved at vekselkravet under en ved utenlandsk domstol verserende sak efter den på stedet gjeldende lovgivning gjøres gjeldende til motregning.\nForeldelsen avbrytes ved anmeldelse i skyldnerens bo i fremmed land dersom dette behandles av offentlige myndigheter, og skyldneren var bosatt i vedkommende land da bobehandlingen ble åpnet.\nForeldelsen avbrytes ikke i forhold til andre vekselskyldnere enn den mot hvem nogen av de ovennevnte handlinger foretas; men avbrytelsen virker til fordel for alle dens forgjengere, som har foretatt avbrytelsen.\nHar avbrytelsen av foreldelse funnet sted, uten at vekselsøksmålet bringes til avslutning, begynner en ny foreldelsesfrist å løpe fra den dag da saken sist foretokes i retten.\nHvis avbrytelse av foreldelse hindres av nogen sådan omstendighet som omhandles i § 54, inntrer foreldelsen ikke i noget tilfelle før en måned efter hindringens ophør.\n0 Endret ved lover 14 feb 1969 nr. 9, 8 juni 1984 nr. 60, 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lover 26 jan 2007 nr. 3 og 21 des 2007 nr. 127, 20 juni 2008 nr. 46.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_71",
+        "source_heading": "§ 71."
+      }
+    },
+    {
+      "provision_ref": "72",
+      "section": "72",
+      "content": "Forfaller en veksel på en søndag eller helligdag, kan betaling først kreves den første virkedag derefter. Likeså kan alle andre handlinger vedkommende vekslen, såsom forevisning til aksept og optagelse av protest, bare foretas på en virkedag.\nSkal en sådan handling foretas innen en frist hvis siste dag er en søndag eller helligdag, utstrekkes fristen til den første virkedag derefter. Mellemliggende søndager eller helligdager tas med ved fristers beregning.\nLike med helgedag anses i denne forbindelse lørdag og den 1 og 17 mai.\nI lovbestemte eller avtalte frister medregnes ikke den dag som tjener til utgangspunkt for fristen.\nLøpedager finner ikke anvendelse på veksler.\n0 Endret ved lov 27 feb 1970 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_72",
+        "source_heading": "§ 72."
+      }
+    },
+    {
+      "provision_ref": "73",
+      "section": "73",
+      "content": "Er en veksel som er betalbar her i riket bortkommet, kan den bli mortifisert overensstemmende med de om mortifikasjon ellers givne regler, dog således at mortifikasjonssaken skal anlegges ved tingretten på det sted hvor vekslen er betalbar.\nNår retten har besluttet å fremme mortifikasjonssaken, er trassenten forpliktet til å utstede nytt vekselbrev. Var den bortkomme veksel akseptert, er akseptanten, når forfallstid er kommet, pliktig til å betale til den som godtgjør sin rett til å oppebære betalingen. Dog skal der i disse tilfelle stilles trassenten eller akseptanten antagelig sikkerhet, inntil vekslen er blitt mortifisert eller deres ansvar efter den bortkomne veksel er ophørt på annen måte.\n0 Endret ved lover 18 des 1959 nr. 1 § 16, 14 des 2001 nr. 98 (ikr. 1 jan 2002 iflg. res. 14 des 2001 nr. 1416).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_73",
+        "source_heading": "§ 73."
+      }
+    },
+    {
+      "provision_ref": "74",
+      "section": "74",
+      "content": "Er vekselfordringen foreldet, eller er vekselretten tapt ved forsømmelse av den til dens bevaring foreskrevne omgang, er dog vekselinnehaveren ikke utelukket fra som almindelig gjeldsfordring å inntale hos en vekselskyldner hvad denne vilde bli beriket med på hans bekostning, hvis ethvert krav bortfalt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_74",
+        "source_heading": "§ 74."
+      }
+    },
+    {
+      "provision_ref": "75",
+      "section": "75",
+      "content": "En egen veksel skal inneholde:\n1. benevnelsen veksel, innført i selve teksten og uttrykt i det sprog hvori dokumentet er avfattet;\n2. et ubetinget tilsagn om å betale en bestemt pengesum;\n3. angivelse av forfallstiden;\n4. angivelse av stedet hvor betalingen skal skje;\n5. navnet på den til hvem eller til hvis ordre betalingen skal skje;\n6. angivelse av dag og sted for vekslens underskrift; samt\n7. underskrift av den som utsteder dokumentet (utstederen).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_75",
+        "source_heading": "§ 75."
+      }
+    },
+    {
+      "provision_ref": "76",
+      "section": "76",
+      "content": "Et dokument hvori en av de i den foregående paragraf nevnte anførsler mangler, gjelder ikke som egen veksel uten i de tilfelle som omhandles i de følgende ledd.\nEn egen veksel hvis forfallstid ikke er angitt, anses som betalbar ved sikt.\nI mangel av særlig angivelse anses dokumentets utstedelsessted som betalingssted og tillike som utstederens bosted.\nEn egen veksel som ikke angir stedet hvor den er utstedt, anses underskrevet på det sted som er anført ved utstederens navn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_76",
+        "source_heading": "§ 76."
+      }
+    },
+    {
+      "provision_ref": "77",
+      "section": "77",
+      "content": "Om den egne veksel gjelder, sålangt de ikke er uforenlige med dens natur, de bestemmelser om den trukne veksel som angår\nendossement (§§ 11-20),\nforfallstid (§§ 33-37),\nbetaling (§§ 38-42),\nregress for manglende betaling (§§ 43 til 50 og 52 til 54a),\nintervensjonsbetaling (§§ 55, 59-63),\nkopier (§§ 67 og 68),\nforandringer i vekslen (§ 69),\nforeldelse (§§ 70-71),\nsøndager og helligdager, beregningen av frister og forbud mot løpedager (§ 72), bortkomne veksler (§ 73) samt\nvekselinnehaverens rett til efter inntrådt foreldelse eller fortapelse av vekselretten å anlegge berikelsessøksmål (§ 74).\nVidere gjelder for den egne veksel bestemmelsene om veksler som er betalbare hos en tredjemann eller på et annet sted enn trassatens bosted (§§ 4 og 27), om adgangen til å betinge renter (§ 5), om uoverensstemmelser i angivelsen av den sum som skal betales (§ 6), om virkningene av at en underskrift er påført under de omstendigheter som omhandles i § 7, eller av at en underskrift er påført av en person som har handlet uten bemyndigelse eller som har overskredet sin bemyndigelse (§ 8), og om ufullstendige veksler (§ 10).\nLikeså gjelder for den egne veksel bestemmelsene om aval (§§ 30-32); i det tilfelle som omhandles i § 31, siste ledd, anses aval, når den ikke angir for hvem den er gitt, som gitt for utstederen av den egne veksel.\n0 Endret ved lov 7 juni 1985 nr. 52.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_77",
+        "source_heading": "§ 77."
+      }
+    },
+    {
+      "provision_ref": "78",
+      "section": "78",
+      "content": "Utstederen av en egen veksel er forpliktet på samme måte som akseptanten av en trukken veksel.\nEn egen veksel som lyder på betaling en viss tid efter sikt, skal forevises for utstederen til påtegning om forevisningen innen de i § 23 bestemte frister. Fristen fra sikt løper fra datum for den av utstederen underskrevne forevisningspåtegning på vekslen. Utstederens vegring ved å gi datert påtegning godtgjøres ved protest (§ 25), hvis datum tjener til utgangspunkt for fristen fra sikt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_78",
+        "source_heading": "§ 78."
+      }
+    },
+    {
+      "provision_ref": "79",
+      "section": "79",
+      "content": "En utlendings evne til å påta sig vekselforpliktelse bedømmes efter loven i det land hvor han er statsborger. Bestemmer denne lov at et annet lands lov skal komme til anvendelse, er den sistnevnte lov avgjørende.\nEn utlending som vilde mangle evnen til å forplikte sig vekselrettslig efter den lov som således kommer til anvendelse, er allikevel her i riket ansvarlig for en vekselforpliktelse som han har påtatt sig i et land efter hvis lovgivning han vilde hatt evne dertil.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_79",
+        "source_heading": "§ 79."
+      }
+    },
+    {
+      "provision_ref": "80",
+      "section": "80",
+      "content": "Formen for en vekselforpliktelse bestemmes ved loven i det land hvor forpliktelsen underskrives.\nHvis en vekselforpliktelse er ugyldig på grunn av bestemmelsen i første ledd, men tilfredsstiller lovgivningen i annet land hvor en senere forpliktelse er underskrevet, blir den sistnevnte forpliktelse ikke ugyldig fordi den førstnevnte lider av formfeil.\nEn vekselforpliktelse som en norsk statsborger har påtatt sig utenfor riket, og som opfyller norsk lovs fordringer med hensyn til formen, er her i riket gyldig overfor en annen norsk statsborger, selv om den ellers vilde vært ugyldig efter bestemmelsen i første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_80",
+        "source_heading": "§ 80."
+      }
+    },
+    {
+      "provision_ref": "81",
+      "section": "81",
+      "content": "Rettsvirkningene av en veksels aksept eller av utstedelsen av en egen veksel bedømmes efter loven i det land hvor vekselen skal betales.\nVirkningen av andre vekselerklæringer bedømmes efter loven i det land hvor erklæringen er underskrevet, såfremt ikke annet følger av hvad nedenfor er bestemt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_81",
+        "source_heading": "§ 81."
+      }
+    },
+    {
+      "provision_ref": "82",
+      "section": "82",
+      "content": "Fristen for anlegg av regress-søksmål bestemmes for alle vekselskyldneres vedkommende ved loven i det land hvor vekselen er utstedt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_82",
+        "source_heading": "§ 82."
+      }
+    },
+    {
+      "provision_ref": "83",
+      "section": "83",
+      "content": "Skal vekselinnehaveren efter loven i det land hvor vekselen er utstedt, tillike anses som innehaver av den fordring som har foranlediget vekselens utstedelse, legges den nevnte lov i så henseende til grunn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_83",
+        "source_heading": "§ 83."
+      }
+    },
+    {
+      "provision_ref": "84",
+      "section": "84",
+      "content": "Spørsmålet om hvorvidt aksept av en veksel kan begrenses til en del av vekselsummen og hvorvidt vekselinnehaveren kan nekte å motta delvis betaling, avgjøres efter loven i det land hvor vekselen er betalbar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_84",
+        "source_heading": "§ 84."
+      }
+    },
+    {
+      "provision_ref": "85",
+      "section": "85",
+      "content": "Formen og fristene for protest, samt formen for andre handlinger som er nødvendige for å utøve eller bevare rettigheter efter en veksel, bestemmes av loven i det land hvor protesten skal optas eller vedkommende handling foretas.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_85",
+        "source_heading": "§ 85."
+      }
+    },
+    {
+      "provision_ref": "86",
+      "section": "86",
+      "content": "Loven i det land hvor en veksel er betalbar, bestemmer de forholdsregler som må treffes i tilfelle av at vekselen forkommer eller stjeles.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_86",
+        "source_heading": "§ 86."
+      }
+    },
+    {
+      "provision_ref": "87",
+      "section": "87",
+      "content": "Protest tas opp av namsmannen.\nDersom det er nødvendig for at protesten skal kunne opptas i tide, kan namsmannen ta opp protest utenfor sitt distrikt.\nTilkalling av vitne er ikke nødvendig.\n0 Endret ved lover 21 juni 1963 nr. 7, 18 juni 1965 nr. 3, 25 juni 2004 nr. 53 (ikr. 1 jan 2006 iflg. res. 19 aug 2005 nr. 901) som endret ved lov 17 juni 2005 nr. 84, 11 mai 2017 nr. 26 (ikr. 1 juni 2017 iflg. res. 11 mai 2017 nr. 563).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_87",
+        "source_heading": "§ 87."
+      }
+    },
+    {
+      "provision_ref": "88",
+      "section": "88",
+      "content": "Den som ønsker optatt protest, skal i tide levere vedkommende tjenestemann vekslen eller i tilfelle vekselkopien med fornøden muntlig eller skriftlig begjæring.\nTjenestemannen skal derefter uten ophold henvende seg til den som protesten kreves optatt hos, og forevise vekslen (vekselkopien) med opfordring om å efterkomme rekvirentens krav.\nNår den som protest for manglende betaling skal optas hos, tilbyr betaling, skal tjenestemannen ta imot det tilbudte, dersom ingen annen er til stede som kan ta imot på vegne av rekvirenten. Tjenestemannen er bemyndiget til å kvittere vekselen når ikke trassaten har fått motsatt meddelelse av vekselinnehaveren. Betales vekselsummen fullt ut (i tilfelle med tillegg av de i vekslen lovlig foreskrevne renter, jfr. § 5), skal tjenestemannen kvittere og utlevere vekselen, når ikke rekvirenten skriftlig har anmodet ham om noget annet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_88",
+        "source_heading": "§ 88."
+      }
+    },
+    {
+      "provision_ref": "89",
+      "section": "89",
+      "content": "Hvis ikke annet vedtas, skal den i § 88, annet ledd, foreskrevne henvendelse skje i vedkommendes forretningslokale eller, om han ikke vites å ha sådant på stedet, i hans bolig der og i tiden mellom kl. 9 formiddag og kl. 7 eftermiddag. Kan rekvirenten ikke oplyse hvor på stedet vedkommende har forretningslokale eller bolig, og er dette også ukjent for tjenestemannen, skal denne søke oplysning hos politiet på stedet.\nForanstående bestemmelser om tid og sted for optagelse av protest får også anvendelse på vekselens forevisning til aksept og betaling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_89",
+        "source_heading": "§ 89."
+      }
+    },
+    {
+      "provision_ref": "90",
+      "section": "90",
+      "content": "Tjenestemannen skal innen 24 timer utferdige en underskrevet bevidnelse om den avholdte forretning (protesten).\nProtesten skal inneholde avskrift av vekselen (vekselkopien) med alt som er tegnet på den, og oplysning om rekvirentens begjæring, tjenestemannens henvendelse med angivelse av sted og tid derfor, samt det svar som gis på henvendelsen. Hvis vedkommende ikke er påtruffet eller ikke har gitt noget svar, påføres dette. Har der ikke kunnet skje nogen henvendelse, fordi vedkommendes forretningslokale eller bolig er ukjent, skal der i protesten tas inn fornøden forklaring for å vise at forskriftene i § 89, annet punktum er fulgt. Er protest i medhold av § 87 annet ledd opptatt av en tjenestemann utenfor sitt distrikt, skal det i protesten anføres at den tjenestemann som normalt skulle ha opptatt protesten, ikke kunne gjøre det i tide.\nTjenestemannen skal gjøre bemerkning om protesten på vekselen (vekselkopien).\n0 Endret ved lov 25 juni 2004 nr. 53 (ikr. 1 jan 2006 iflg. res. 19 aug 2005 nr. 901).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_90",
+        "source_heading": "§ 90."
+      }
+    },
+    {
+      "provision_ref": "91",
+      "section": "91",
+      "content": "Protesten skal ordrett føres inn i tjenestemannens protokoll.\nUtskrift av protokollen må ikke meddeles andre enn protestrekvirenten.\n0 Endret ved lover 21 juli 1963 nr. 7, 25 juni 2004 nr. 53 (ikr. 1 jan 2006 iflg. res. 19 aug 2005 nr. 901).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_91",
+        "source_heading": "§ 91."
+      }
+    },
+    {
+      "provision_ref": "92",
+      "section": "92",
+      "content": "Begjærer nogen samtidig protest optatt hos flere personer på samme sted efter samme veksel, utfordres bare én forretning og et protestdokument.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_92",
+        "source_heading": "§ 92."
+      }
+    },
+    {
+      "provision_ref": "93",
+      "section": "93",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\nFra samme tid opheves – – –\n1 Fra 1 nov 1932 ved res. 15 juli 1932.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_93",
+        "source_heading": "§ 93."
+      }
+    }
+  ]
+}

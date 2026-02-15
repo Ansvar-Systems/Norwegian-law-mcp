@@ -1,0 +1,2251 @@
+{
+  "id": "LOV-1902-05-22-13",
+  "type": "statute",
+  "title": "Militær Straffelov",
+  "short_name": "Militær Straffelov – milstrl",
+  "status": "in_force",
+  "issued_date": "1902-05-22",
+  "in_force_date": "1902-05-22",
+  "url": "https://lovdata.no/dokument/NL/lov/1902-05-22-13",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Straffelovens første Del finder Anvendelse paa de strafbare Handlinger, som omhandles i nærværende Lov, forsaavidt denne intet modsat bestemmer.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Militære Lovbrud er alene de strafbare Handlinger, som omhandles i denne Lov.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne Lovs tredje Del finder kun Anvendelse paa Handlinger, som forøves i Krigstid, hvorunder ogsaa indbefattes den Tid, fra hvilken den væbnede Magt eller vedkommende Afdeling af samme er beordret sat paa Krigsfod, og indtil den atter er sat paa Fredsfod. Bestemmelsene i lovens tredje del gjelder også i den utstrekning Kongen har truffet bestemmelse i medhold av straffeprosessloven § 463 femte ledd andre punktum.\nLovens § 108 får anvendelse når vilkårene i de der nevnte konvensjoner og protokoller foreligger.\n0 Endret ved lover 15 des 1950 nr. 6, 12 juni 1981 nr. 65, 24 juni 1994 nr. 36 (ikr. 1 juli 1997 iflg. res. 13 juni 1997 nr. 573).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Ved Krigsmænd forstaaes i denne Lov:\n1. Fastlønnede militære Tjenestemænd fra Ansættelsesdagen indtil Tjenesteforholdets Ophør.\n2. Værnepligtige Befalingsmænd, Spillemænd og menige i Tjenestetiden (jfr. § 5), samt naar de er indsatte i militært Fængsel.\n3. Frivillige, ved den væbnede Magt tjenestgjørende militære Personer fra Tiltrædelsesdagen indtil Tjenesteforholdets Ophør.\n4. Civilmilitære Personer i tilsvarende Stillinger med Undtagelse af de ved Udskrivningsvæsenet ansatte Tjenestemænd.\n0 Endret ved lov 24 nov 2023 nr. 84 (i kraft 1 juli 2024 iflg. res. 31 mai 2024 nr. 875).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Ved Tjenestetiden forstaaes for de i § 4 Nr. 2 nævnte Personers vedkommende den Tid, hvori de skal deltage i de militære Øvelser, tjenestgjøre ved de militære Verksteder eller Verfter eller paa anden Maade forrette som tjenestgjørende ved Rigets væbnede Magt, samt den Tid, som medgaar til Reise til Tjenestestedet og tilbage, i hvert Fald mindst 24 Timer før Fremmødet og lige lang Tid efter Dimissionen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Enhver, som er berettiget til at give en Befaling, der skal adlydes af en anden (den undergivne), er dennes foresatte.\nEnhver, som har høiere Grad end en anden (den underordnede), er dennes overordnede. Har begge samme Grad, er den, der har ældst Anciennetet, den overordnede.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Ved militær Vagt forstaaes i denne Lov enhver Krigsmand eller militær Afdeling, der har at forrette Vagt- eller Sikkerhedstjeneste.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Ved Sjøtogt forstaaes Togt paa fremmede Farvand, beregnet paa en Varighed af mindst 14 Dage.\nEt Skib ansees for at være paa Togt fra den Tid, Kommandoen ombord er heist, og til den igjen stryges, men paa Sjøtogt fra den Tid, det forlader Udrustningsstationen, og til det vender tilbage til Oplagsstedet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Efter denne lov straffes, forsåvidt intet annet uttrykkelig er bestemt eller fremgår av sammenhengen,\n1. alle ved rikets vebnede makt ansatte eller dertil hørende personer;\n2. medfarende på skib, når skibet er på sjøtokt,\n3. enhver, som i hvilkensomhelst egenskap gjør tjeneste ved den vebnede makt eller følger avdeling av samme;\n4. krigsfanger, som står under militær bevoktning;\n5. enhver som gjør seg skyldig i overtredelse av § 108, eller som på krigsskueplassen gjør seg skyldig i forbrytelse mot §§ 101 til 105.\nDen som ikke omfattes av loven etter første ledd, straffes bare for medvirkning til handling som etter denne loven kan straffes med fengsel i 2 år eller mer, eller som rammes av § 34.\n0 Endret ved lover 6 mai 1921 nr. 2, 15 des 1950 nr. 6, 26 nov 1954 nr. 6, 24 juni 1994 nr. 36 (ikr. 1 juli 1997 iflg. res. 13 juni 1997 nr. 573), 19 juni 2020 nr. 81 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1252), 20 des 2023 nr. 110 (i kraft 24 mai 2024 iflg. res. 24 mai 2024 nr. 811), 24 nov 2023 nr. 84 (i kraft 1 juli 2024 iflg. res. 31 mai 2024 nr. 875).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Under fælles Tjenestgjøring af norsk og anden med Norge forbunden Stats Krigsmagt bliver i Tilfælde af Gjensidighed strafbare Handlinger, forøvede af norske Krigsmænd mod den anden Stats Krigsmænd, at straffe paa samme Maade, som om de var forøvede mod norske Krigsmænd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Nærværende Lov kommer til Anvendelse, ogsaa naar den strafbare Handling er forøvet i Udlandet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "1. De straffer, som anvendes efter denne lov, er fengsel, arrest og bøter. Forvaring kan idømmes efter reglene i straffeloven § 40. I særlige tilfelle anvendes rettighetstap som nevnt i straffeloven § 56.\n2. Med ovennævnte Straffe kan som Tillægsstraffe forbindes:\na. Kunngjøring av dommen, hvorved lov 13. juni 1969 nr. 26 om skadeserstatning § 3-6, jf. nærværende lov §§ 41, 59 og 60, får tilsvarende anvendelse;\nb. Forvisning fra bestemte Steder overensstemmende med straffeloven § 57.\n0 Endret ved lover 6 mai 1921 nr. 2, 15 des 1950 nr. 6, 22 mai 1953 nr. 3, 26 nov 1954 nr. 6, 12 des 1958 nr. 1, 26 jan 1973 nr. 2, 8 juni 1979 nr. 43, 17 jan 1997 nr. 11 (ikr. 1 jan 2002 iflg. lov 15 juni 2001 nr. 64), 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712), 19 juni 2015 nr. 65 (ikr. 1 okt 2015), 20 des 2023 nr. 110 (i kraft 24 mai 2024 iflg. res. 24 mai 2024 nr. 811).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "De i straffeloven og i straffegjennomføringsloven givne Regler om Fængsel og Bøder kommer, forsaavidt intet modsat er bestemt, til Anvendelse paa de militære Fængsels- og Bødestraffe.\nNaar Bøder idømmes, kan der istedenfor Fængselsstraf fastsættes et bestemt Antal Arrestdage, der skal træde istedenfor Bøder, som ikke erlægges.\n0 Endret ved lover 12 des 1958 nr. 1, 19 juni 2015 nr. 65 (ikr. 1 okt 2015), 22 apr 2016 nr. 3 (ikr. 22 apr 2016 iflg. res. 22 apr 2016 nr. 407).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lov 15 des 1950 nr. 6, opphevet ved lov 8 juni 1979 nr. 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Arrest anvendes kun paa militære og civilmilitære Personer samt Krigsfanger og medfarende paa Skib og idømmes som Husarrest fra 1 til 30 Dage eller som Vagtarrest fra 1 til 60 Dage, men i de i § 27, jf. straffeloven § 79 bokstav a, omhandlede Tilfælde henholdsvis indtil 45 og 90 Dage.\n1 dags Arrest svarer til 1 Dags Fængsel.\n0 Endret ved lover 15 mars 1991 nr. 5, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Husarrest anvendes kun paa Befalingsmænd, paa Elever af militære Skoler og paa civile Personer. Den udholdes i Arrestantens Bolig eller Lukaf. Husarrestant maa ikke uden Tilladelse modtage Besøg.\nVagtarrest udholdes i militært Arrestlokale, saavidt muligt i Enrum. Brevveksling er Arrestanten tilladt. Til bestemte Tider bør det ogsaa tillades ham at modtage Besøg, forsaavidt tjenestlige Hensyn ikke er til Hinder derfor.\nHvor Benyttelse af militært Arrestlokale vilde volde uforholdsmæssig Ulempe eller Bekostning, kan Arresten udholdes i Kredsfængsel eller Hjælpefængsel. Uden eget Samtykke maa Arrestanten ikke sættes sammen med nogen, der udstaar Straf af Fængsel eller med Varetægtsfange.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Fange, der udholder Arrest, kan af vedkommende Befalingsmand paalægges at udføre militære Tjenestepligter, men kan ikke paalægges andet Arbeide. Afbrydes Arresten, bliver dette uden indflydelse paa Beregningen af Arresttiden, forsaavidt Afbrydelsen ikke i Sammenhæng varer længere end 12 Timer.\nHusarrestant sørger selv for sit Underhold. Det samme tillades ogsaa Vagtarrestant inden de Grænser, som god Orden foreskriver.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Arrest kan etter domfeltes begjæring eller med hans samtykke ved fullbyrdelsen omsettes til hefte eller, for så vidt den skyldige ikke er befalingsmann, til fengsel.\n0 Endret ved lov 12 des 1958 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Nærmere Regler angaaende Arrest og Arrestfangers Behandling gives af Kongen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "Den som dømmes for overtredelse av krigsartiklene, kan idømmes tap av stemmerett i offentlige anliggender for en tid av inntil 10 år. For øvrig får reglene om rettighetstap i straffeloven § 56 tilsvarende anvendelse.\n0 Endret ved lover 6 mai 1921 nr. 2, 15 des 1950 nr. 6, 22 mai 1953 nr. 3, 30 aug 2002 nr. 67 (ikr. 1 jan 2003 iflg. res. 30 aug 2002 nr. 938), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lov 6 mai 1921 nr. 2, opphevet ved lov 22 mai 1953 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Dømmes nogen, der ikke har udtjent sin Værnepligt, til Tjenestens Tab, eller omfatter det Tidsrum, hvorfor nogen er frakjendt Retten til Tjenestgjøring i Rigets Krigsmagt, ikke hele hans tilbageværende Værnepligtstid, er han forpligtet til at udføre den gjenstaaende Del af sin Værnepligt som menig.\nDet samme gjælder ogsaa den, der gjenerhverver Retten til Tjenestgjøring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "Med hensyn til inndragning finner straffeloven §§ 67 til 75 tilsvarende anvendelse.\n0 Endret ved lover 26 jan 1973 nr. 2, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Foresattes Befaling i Tjenesteanliggender fritager den undergivne for Straf, uden forsaavidt som han overskrider Befalingen, eller han har indseet eller klarlig maatte have indseet, at han ved Befalingens Udførelse medvirker til en retsstridig Handling. I ethvert Fald kan Retten nedsætte Straffen under det for Handlingen bestemte Lavmaal og til en mildere Strafart.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Paa Handling, der under paatrængende Fare eller Nød foretages for at faa givne Befalinger adlydte, finder straffeloven §§ 17, 18 og 80 tilsvarende Anvendelse.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Frygt for personlig Fare begrunder ved Forsømmelse af militær Tjenestepligt ikke Udelukkelse af Strafskylden eller Nedsættelse i Straffen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "Bestemmelserne i straffeloven §§ 34 til 39 kan bringes i Anvendelse, ogsaa hvor der idømmes Arrest. Samme Lovs § 79 bokstav a finder tilsvarende Anvendelse, hvor nogen af de strafbare Handlinger skulde have medført nævnte Straf.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "Naar en efter denne Lov strafbar Handling forøves af flere Krigsmænd i Fællesskab, kan Straffen, hvor vedkommende Straffebud ikke selv tager særligt Sigte paa Forholdet, inden de for vedkommende Strafart fastsatte Grænser forhøies med indtil en Halvdel.\nPaa samme Maade og under samme Forudsætning kan Straffen forhøies for en foresat som forsætlig har samvirket med nogen ham undergiven eller under hans Opsyn staaende Person.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "Når en handling er foretatt av en som på domstidspunktet har status som krigsfange, kan retten nedsette straffen under det lavmål som er bestemt for handlingen.\n0 Opphevet ved lov 26 nov 1956 nr. 6, tilføyd ved lov 24 juni 1994 nr. 36 (ikr. 1 juli 1997 iflg. res. 13 juni 1997 nr. 573).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "30",
+      "section": "30",
+      "content": "Med hensyn til foreldelse gjelder for arrest de samme regler som i straffelovens 15de kapitel bestemt.\nFristen for foreldelse er 25 år når fengsel på livstid kan idømmes.\n0 Endret ved lover 6 mai 1921 nr. 2, 8 juni 1979 nr. 43, 24 juni 1994 nr. 36 (ikr. 1 juli 1997 iflg. res. 13 juni 1997 nr. 573), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "31",
+      "section": "31",
+      "content": "Er en efter denne lov straffbar handling forøvet av den høistbefalende for en avsondret del av krigsmakten, begynner foreldelsen ikke sitt løp før fra den dag, da felttoget eller toktet er endt, eller den avsondrede del av krigsmakten er kommet under kommando av en høiere befalingsmann.\n0 Endret ved lov 6 mai 1921 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "32",
+      "section": "32",
+      "content": "Forbrydelse eller Forseelse ved trykt Skrift, hvis Forfatter ikke har navngivet sig eller paa anden Maade betegnet sig som hørende til den væbnede Magt, er ikke at anse som militær Forbrydelse eller Forseelse uden i de i §§ 47, 49, 69 og 86 nævnte Tilfælde.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "33",
+      "section": "33",
+      "content": "Alle militære Lovbrud er offentlig Paatale undergivet.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "34",
+      "section": "34",
+      "content": "Den, som retsstridig forlader eller bliver borte fra det Sted, hvor det paaligger ham som militær Pligt at være tilstede, straffes med Bøder eller med Arrest.\nEr den skyldige Krigsmand, straffes han for saadant ulovligt fravær med Arrest eller med Fængsel indtil 3 Maaneder og, ifald hans Fravær varer mer end 7 Dage, med Arrest eller med Fængsel indtil 2 Aar.\nPaa samme Maade straffes den, som retsstridig bevirker at en anden forlader eller bliver borte fra det Sted, hvor det paaligger ham som militær Pligt at være tilstede.\n0 Endret ved lover 7 juni 1985 nr. 49, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "35",
+      "section": "35",
+      "content": "Den, som i hensikt aldeles å unddra sig sin militære tjenesteplikt forbryter sig således som i § 34 omhandlet eller som efter å være fremmøtt eller fremstillet til militær tjeneste rettsstridig nekter aldeles å utføre sin tjenesteplikt, straffes med fengsel fra 3 måneder inntil 2 år, men inntil 3 år, hvis det skjer i tjenestetiden med fartøi på tokt.\nI gjentagelsestilfeller er straffen fengsel fra 1 til 3 år og for alltid fradømmelse av retten til å gjøre tjeneste i rikets krigsmakt.\nFremstiller den skyldige sig innen 7 dager igjen frivillig til utførelse av sin militære tjeneste eller erklærer han sig innen samme tid villig dertil, straffes han med fengsel inntil 2 år; under særdeles formildende omstendigheter kan arrest anvendes.\nDen som medvirker til lovbruddet straffes som bestemt i 1. og 3. ledd, efter sistnevnte ledd dog alene såfremt han har medvirket til at den skyldige forholder sig som i dette ledd anført.\n0 Endret ved lover 24 mars 1922 nr. 3, 10 juli 1925 nr. 2, 26 nov 1954 nr. 6, 19 mars 1965 nr. 3, 22 juni 1990 nr. 43, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "36",
+      "section": "36",
+      "content": "Den, som i Hensigt at unddrage sig sin militære Tjeneste ved Lemlæstelse eller paa anden Maade gjør sig helt eller delvis ubrugbar dertil, straffes med Fængsel indtil 2 Aar.\nPaa samme Maade straffes den, som ved at foregive Sygdom eller Legemsfeil søger at unddrage sig fra militær Tjeneste.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "37",
+      "section": "37",
+      "content": "Husarrestant, som i Arresttiden forlader de Rum, hvor Arresten skal udholdes, eller som uden Tilladelse modtager Besøg, straffes med Vagtarrest i mindst dobbelt saa lang Tid som den idømte Husarrest eller med Fængsel indtil 3 Maaneder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "38",
+      "section": "38",
+      "content": "Den, som under tjenestlige Forhandlinger og Møder, eller naar han er iført militær Dragt, undlader at vise en overordnet de paabudte Tegn paa Respekt, straffes med Arrest indtil 10 Dage.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "39",
+      "section": "39",
+      "content": "Med Arrest straffes den, som i Anledning af Tjenesten eller under Udførelse af militære Tjenestepligter ligeoverfor en foresat tilkjendegiver Uvilje mod hans Befaling eller tager til Gjenmæle mod hans Tilrettevisning eller ligeoverfor en overordnet gjør sig skyldig i respektstridig Opførsel, som ikke er omhandlet i § 38. Sker det med truende Holdning eller i Nærvær af samlet Trop eller Skibsmandskab eller nogen betydelig Del deraf, straffes den skyldige med Fængsel indtil 6 Maaneder.\nPaa samme Maade straffes den, som ved Forledelse eller Tilskyndelse medvirker til, at en anden forser sig saaledes som oven nævnt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "40",
+      "section": "40",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "41",
+      "section": "41",
+      "content": "Den, som ved uriktig anklage for militært Lovbrud mot nogen foresatt eller overordnet forgår sig på sådan måte som i straffeloven §§ 222 til 225 omhandlet, straffes med de der bestemte straffer, dog så, at arrest trer istedenfor bøter.\nDen, som ellers mot bedre vitende inngir nogen ubeføiet besværing eller klage over foresatte eller overordnede i anledning av tjenesteforhold, straffes med arrest eller fængsel inntil 6 måneder. Skjer det ikke mot bedre vitende, men dog uten rimelig grunn og besværingen eller klagen viser sig å være aldeles ubeføiet, straffes den skyldige med arrest.\n0 Endret ved lover 6 mai 1921 nr. 2, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "42",
+      "section": "42",
+      "content": "Den, som mod en foresat eller overordnet i Anledning af Tjenesten eller under Udførelse af militære Tjenestepligter gjør sig skyldig i noget Lovbrud mod den personlige Frihed, straffes med de i straffeloven bestemte Straffe, dog saa, at Arrest træder istedenfor Bøder, og at Straffen inden de for vedkommende Strafart fastsatte Grænser kan forhøies med indtil en Halvdel.\nEr Lovbruddet forøvet i Nærvær af samlet Trop eller Skibsmandskab eller nogen betydelig Del deraf, straffes den skyldige med Fængsel i mindst 1 Aar.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "43",
+      "section": "43",
+      "content": "Den, som ved Vold eller Trusel søger at formaa en foresat eller overordnet til at foretage eller undlade en Tjenestehandling eller at hindre ham under en saadan, straffes med Fængsel indtil 6 Aar.\nMed Fængsel indtil 3 Aar straffes den, som ved Vold eller Trusel søger at hindre en anden Krigsmand fra at udføre en ham af foresatte given Befaling i Tjenesteanliggende.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "44",
+      "section": "44",
+      "content": "Den, som mod en foresat eller overordnet i Anledning af Tjenesten eller under Udførelse af militære Tjenestepligter gjør sig skyldig i noget Lovbrud mod Liv, Kropp og Helse, straffes med de i straffeloven bestemte Straffe, dog saa, at Arrest træder istedenfor Bøder, og at Straffen inden de for vedkommende Strafart fastsatte Grænser kan forhøies med indtil en Halvdel.\nEr Lovbruddet forsætlig og forøvet i Nærvær af samlet Trop eller Skibsmandskab eller nogen betydelig Del deraf, straffes den skyldige med Fængsel i mindst 1 Aar.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "45",
+      "section": "45",
+      "content": "Straf efter §§ 39, 42 og 44 finder ogsaa Anvendelse, forsaavidt Handlingen er forøvet under tjenestlige Forhandlinger og Møder med den skyldiges foresatte eller overordnede, eller naar den skyldige er iført militær Dragt. For værnepligtige gjælder det her bestemte fra den Tid, de har faaet fornøden Undervisning om sine Pligter.\n0 Endret ved lov 20 des 2023 nr. 110 (i kraft 24 mai 2024 iflg. res. 24 mai 2024 nr. 811).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "46",
+      "section": "46",
+      "content": "Den, som undlader at vise skyldig Lydighed mod en foresats Befaling i Tjenesteanliggende eller retsstridig handler mod eller overskrider Befalingen eller mod bedre Vidende giver en foresat et usandt Svar paa Spørsmaal i Tjenesteanliggende, straffes med Arrest eller med Fængsel indtil 3 Maaneder.\nVedbliver den undergivne trods gjentagen Befaling sin Ulydighed, eller giver han ved Ord eller Adfærd sin foresatte udtrykkelig tilkjende, at han ikke vil udføre hans Befaling, straffes han med Fængsel indtil 1 Aar. Sker dette i Nærvær af samlet Trop eller Skibsmandskab eller nogen betydelig Del deraf, kan Straffetiden forlænges til 2 Aar.\nForøves den strafbare Handling under saadanne Omstændigheder, at Tab af Menneskeliv eller betydelig Skade maatte befrygtes at ville voldes derved, straffes den skyldige med Fængsel indtil 3 Aar. Voldes derved saadant Tab eller saadan Skade, kan Straffetiden forlænges til 10 Aar.\nPaa samme Maade som oven bestemt straffes den, som forleder eller tilskynder en anden til saadan Ulydighed.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "47",
+      "section": "47",
+      "content": "Den, som søger at ophidse Krigsmand til Uvilje mod Tjenesten eller til Had mod foresatte eller overordnede, straffes med Arrest eller med Fængsel indtil 3 Aar. Dersom Lovbruddet er forøvet ved trykt Skrift, skal dette utgjøre et skjerpende Moment ved utmålingen av Straff.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "48",
+      "section": "48",
+      "content": "Har den foresatte eller overordnede ved utilbørligt Forhold givet Anledning til nogen i §§ 38-47 omhandlet strafbar Handling, kan Straffen nedsættes under det for Handlingen bestemte Lavmaal og til en mildere Strafart og, hvor den bestaar i Arrest, under særdeles formildende Omstændigheder endog helt bortfalde.\nHar den foresattes eller overordnedes utilbørlige Forhold bestaaet i Mishandling eller nedværdigende Behandling af den skyldige, maa Fængsel paa Livstid ikke anvendes og Straffen ikke overstige Tredjedelen af høieste Straf, naar denne er tidsbestemt Frihedsstraf.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "49",
+      "section": "49",
+      "content": "Den, som søger at ophidse Krigsmænd til i Fællesskab retsstridig\na. at øve Vold mod en foresat eller overordnet, eller\nb. at tvinge en saadan til at foretage eller undlade en Tjenestehandling, eller\nc. at negte Lydighed mod en foresats Befaling i Tjenesteanliggende, straffes for Opvigleri med Fængsel indtil 6 Aar.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "50",
+      "section": "50",
+      "content": "Aftaler flere Krigsmænd at ville i Fællesskab øve saadan Vold, Tvang eller Ulydighed som i § 49 omhandlet, straffes de for Mytteri med Fængsel indtil 3 Aar, men med Fængsel indtil 6 Maaneder, hvis de alle opgiver den strafbare Plan, før nogen militær Myndighed er kommen til Kundskab om samme; under særdeles formildende Omstændigheder kan i saa Fald Straf helt bortfalde.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "51",
+      "section": "51",
+      "content": "Med Fængsel indtil 2 Aar straffes den Krigsmand, som undlader gjennem betimelig Anmeldelse for vedkommende Myndighed eller paa anden Maade at søge afverget et Mytteri eller et Lovbrud mod §§ 42 eller 44 af nogen i straffeloven §§ 254, 272, 275 eller 287 omhandlet Slags eller sammes Følger, uagtet han til en Tid, da Lovbruddet eller dets Følger endnu kunde forebygges, har erholdt paalidelig Kundskab om, at den er igjære eller er forøvet.\nDog er han straffri, dersom det ikke kommer til Udførelse af Planen eller til strafbart Forsøg eller Anmeldelsen ikke kunde ske uden at udsætte nogen af hans nærmeste for Tiltale eller Fare for Liv, Helse eller Velfærd.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "52",
+      "section": "52",
+      "content": "Søger flere Krigsmænd i Fællesskab retsstridig\na. at øve Vold mod en foresat eller overordnet, eller\nb. at tvinge en saadan til at foretage eller undlade en Tjenestehandling, eller\nc. at negte Lydighed mod en foresats Befaling i Tjenesteanliggende,\nVoldes ved Oprøret Tab af Menneskeliv eller betydelig Skade for Krigsvæsenet, eller foregaar Lovbruddet i Havsnød, eller medfører den Fare for Skibets Sikkerhed, kan Straffen for Anstiftere og Hovedmænd forlænges til Fængsel paa Livstid og for de øvrige medvirkende til Fængsel indtil 10 Aar.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "53",
+      "section": "53",
+      "content": "For de Deltagere i Oprør, som vender tilbage til Lydighed, førend det er kommet til Forøvelse af Vold eller Tvang mod den foresatte eller overordnede, nedsættes Straffen, forsaavidt de ikke er Anstiftere eller Hovedmænd til Fængsel indtil 2 Aar. For Anstiftere og Hovedmænd nedsættes den til Fængsel indtil 6 Aar, saafremt alle Deltagere vender tilbage til Lydighed, inden det er kommet til saadan Forøvelse af Vold eller Tvang.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "54",
+      "section": "54",
+      "content": "Som Hovedmænd i Oprør ansees\n1. den, der optræder som Anfører for Deltagerne;\n2. den blandt Oprørerne, der indehar den høieste Grad eller ældst Anciennetet;\n3. den, der befordrer Oprøret ved Misbrug af militære Signaler;\n4. den, der udtrykkelig ved Ord eller Handling negter at efterkomme den foresattes Opfordring til ham personlig om at vise Lydighed.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "55",
+      "section": "55",
+      "content": "Den, som gjør sig skyldig i nogen i §§ 39-47, 49, 50 eller 52 nævnt strafbar Handling mod en militær Vagt under Udførelsen af dens Tjeneste, straffes paa samme Maade, som om Handlingen var forøvet mod en foresat.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "56",
+      "section": "56",
+      "content": "Den, som ved at misbruge sin Myndighed eller ved uretmæssig at tiltage sig saadan retsstridig søger at formaa en undergiven eller underordnet til at gjøre, taale eller undlade noget, straffes med Arrest eller med Fængsel indtil 2 Aar, men i Gjentagelsestilfælde indtil 3 Aar. Har den skyldige søgt at formaa den undergivne eller underordnede til at forøve en strafbar Handling, kan Fængsel indtil 6 Aar anvendes.\nDen, som gjør sig skyldig i anden mod Reglementer eller Forholdsordrer stridende Behandling af undergivne eller underordnede, straffes med Arrest eller med Fængsel indtil 3 Maaneder.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "57",
+      "section": "57",
+      "content": "Den, som retsstridig søger at afholde en undergiven eller underordnet fra at fremkomme med eller fastholde en Ansøgning, Forestilling, Besværing eller Klage, eller som ved Modtagelsen af nogen saadan unddrager sig fra at foretage, hvad der i den Anledning paaligger ham, straffes med Arrest eller med Fængsel indtil 2 Aar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    },
+    {
+      "provision_ref": "58",
+      "section": "58",
+      "content": "Den som uberettiget udøver Disciplinærmyndighed, eller som overskrider sin Disciplinærmyndighed, straffes med Arrest eller med Fængsel indtil 6 Aar.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_58",
+        "source_heading": "§ 58."
+      }
+    },
+    {
+      "provision_ref": "59",
+      "section": "59",
+      "content": "Den, som mod en undergiven eller underordnet i Anledning af Tjenesten eller under Udførelse af militære Tjenestepligter gjør sig skyldig i noget Lovbrud mod Liv, Kropp eller Helse, straffes med de i straffeloven bestemte Straffe, dog saa, at Arrest træder istedenfor Bøder, og at der for de i § 271 første ledd omhandlede Lovbrud kan anvendes Fængsel indtil 1 Aar.\nDenne Bestemmelse kommer ogsaa til Anvendelse, forsaavidt Handlingen er forøvet under tjenestlige Forhandlinger og Møder med den skyldiges undergivne eller underordnede, eller naar den skyldige er iført militær Dragt.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_59",
+        "source_heading": "§ 59."
+      }
+    },
+    {
+      "provision_ref": "60",
+      "section": "60",
+      "content": "Den, som ved uriktig anklage for militært lovbrudd mot nogen undergiven eller underordnet forgår sig på sådan måte som i straffeloven §§ 222 til 225 omhandlet, straffes med de der bestemte straffer, dog så at arrest trer istedenfor bøter.\n0 Endret ved lover 6 mai 1921 nr. 2, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_60",
+        "source_heading": "§ 60."
+      }
+    },
+    {
+      "provision_ref": "61",
+      "section": "61",
+      "content": "En foresat eller overordnet, som forleder eller tilskynder nogen ham i Tjenesten undergiven Befalingsmand til at forøve noget i dette Kapitel omhandlet Lovbrud eller bistaar ham dermed eller vidende lader ham forøve den, eller som misbruger sin Stilling til at tilskynde en anden Befalingsmand til at forøve en saadan eller til at bistaa ham dermed, straffes efter de samme Straffebud som denne, dog saa, at Straffen inden de for vedkommende Strafart fastsatte Grænser kan forhøies med indtil en Halvdel.\nStraffen kommer til Anvendelse uden Hensyn til, om den anden Person paa Grund af god Tro eller af andre Grunde ikke er strafskyldig.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_61",
+        "source_heading": "§ 61."
+      }
+    },
+    {
+      "provision_ref": "62",
+      "section": "62",
+      "content": "En militær Vagt, som forøver nogen i §§ 56 eller 59 omhandlet strafbar Handling, straffes, som om en foresat havde forøvet Handlingen.\nForøves den mod nogen, som udenfor Vagttjenesten er Vagtens foresatte, kan Straffen forhøies med indtil en Halvdel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_62",
+        "source_heading": "§ 62."
+      }
+    },
+    {
+      "provision_ref": "63",
+      "section": "63",
+      "content": "Krigsmand, som forbryder sig paa saadan Maade som i straffeloven § 387, jf. § 388 omhandlet, straffes saaledes som der bestemt, dog saa, at Arrest træder istedenfor Bøder.\n0 Endret ved lover 4 juli 2003 nr. 79, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_63",
+        "source_heading": "§ 63."
+      }
+    },
+    {
+      "provision_ref": "64",
+      "section": "64",
+      "content": "Krigsmand, som i Anledning af Tjenesten modtager nogen Gave eller Fordel af undergivne eller underordnede uden deres fælles foresattes udtrykkelige eller stiltiende Samtykke, eller som modtager nogen Gave eller uberettiget Fordel af den, hvis Ydelser til Krigsmagten han har eller i det sidst forløbne Aar har havt Befatning med, straffes med Arrest, men i Gjentagelsestilfælde med Arrest eller Tjenestens Tab.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_64",
+        "source_heading": "§ 64."
+      }
+    },
+    {
+      "provision_ref": "65",
+      "section": "65",
+      "content": "Krigsmand, som pligtstridig undlader at anmelde sine undergivnes strafbare Handlinger eller at udøve sin Disciplinærmyndighed, straffes med Arrest eller med Fængsel indtil 3 Aar, men med Arrest indtil 3 Maaneder, saafremt Undladelsen er skeet af Uagtsomhed.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_65",
+        "source_heading": "§ 65."
+      }
+    },
+    {
+      "provision_ref": "66",
+      "section": "66",
+      "content": "Krigsmand, som bevirker, at en Fange, der staar under militær bevogtning, undviger, eller som undlader at udføre en Paagribelse, der paaligger ham ifølge Tjenestepligt eller særlig Befaling, straffes med Fængsel indtil 6 Aar, men, hvis det er skeet af Uagtsomhed, med Arrest indtil 6 Maaneder.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_66",
+        "source_heading": "§ 66."
+      }
+    },
+    {
+      "provision_ref": "67",
+      "section": "67",
+      "content": "Den, som afgiver urigtige tjenestlige Attester, Meddelelser eller Erklæringer, straffes med Arrest eller med Fængsel indtil 3 Aar.\nHvor Feilen er uvæsentlig og ingen Skade tilsigtet eller voldt, kan Bøder anvendes og under særdeles formildende Omstændigheder Straf helt bortfalde.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_67",
+        "source_heading": "§ 67."
+      }
+    },
+    {
+      "provision_ref": "68",
+      "section": "68",
+      "content": "Den, som bevirker at der i nogen Tjenesten vedkommende Protokol anføres Usandhed eller lægges Skjul paa Sandheden, eller at der ved Udferdigelsen af Protokoludskrift, Telegram eller Telefonmeddelelse eller anden tjenestlig Erklæring, der er afgiven for at tjene som Bevis, anføres eller bevidnes Usandhed eller lægges Skjul paa Sandheden, straffes med Tjenestens Tab eller med Fængsel indtil 3 Aar, men indtil 6 Aar, saafremt den skyldige har handlet i Hensigt at forskaffe sig eller andre en uberettiget Vinding eller at skade nogen.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_68",
+        "source_heading": "§ 68."
+      }
+    },
+    {
+      "provision_ref": "69",
+      "section": "69",
+      "content": "Den, som uden skjellig Grund aabenbarer, hvad der i den militære Tjenestes Medfør er blevet ham betroet eller ved Lov eller anden gyldig Bestemmelse er betegnet som Tjenestehemmelighed, straffes med Arrest eller Tjenestens Tab eller med Fængsel indtil 6 Aar.\nDenne Bestemmelse kommer til Anvendelse ogsaa paa den, der efter at være fratraadt Tjenesten forbryder sig som anført med Hensyn til, hvad han under denne har faaet vide.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_69",
+        "source_heading": "§ 69."
+      }
+    },
+    {
+      "provision_ref": "70",
+      "section": "70",
+      "content": "Den, som ulovlig aabner eller tilsteder nogen at aabne et ham i Tjenestens Medfør betroet Brev, straffes med Tjenestens Tab eller med Fængsel indtil 3 Aar, men indtil 6 Aar, saafremt han forøver Lovbruddet for at forskaffe sig eller andre en uberettiget Vinding.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_70",
+        "source_heading": "§ 70."
+      }
+    },
+    {
+      "provision_ref": "71",
+      "section": "71",
+      "content": "Krigsmand som under Udførelse af Vagttjeneste eller i Egenskab af Befalingsmand for en militær Vagt eller for Fartøi eller anden Afdeling, der er beordret til lignende Tjeneste, forsætlig eller af Uagtsomhed forsømmer de ham i nævnte Tjeneste paahvilende Pligter eller sætter sig ud af Stand til at varetage dem, straffes med Arrest eller med Fængsel indtil 1 Aar.\nEr ved Lovbruddet voldt betydelig Skade, eller er noget Skib derved blevet udsat for Fare, kan Fængsel indtil 3 Aar anvendes, men indtil 10 Aar, saafremt Lovbruddet er forøvet ombord i Havsnød.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_71",
+        "source_heading": "§ 71."
+      }
+    },
+    {
+      "provision_ref": "72",
+      "section": "72",
+      "content": "Med Arrest eller med Fængsel indtil 3 Maaneder straffes den, som viser sig beruset under Udførelse af militære Tjenestepligter, eller naar Tjeneste ham vitterlig forestaar, eller under tjenestlige Forhandlinger og Møder, eller naar han er iført militær Dragt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_72",
+        "source_heading": "§ 72."
+      }
+    },
+    {
+      "provision_ref": "73",
+      "section": "73",
+      "content": "Krigsmand, som under Udførelse af militære Tjenestepligter eller under tjenestlige Forhandlinger og Møder bruger raa eller utilbørlig Tale, straffes med Arrest, men i Gjentagelsestilfælde med Arrest eller med Fængsel indtil 3 Maaneder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_73",
+        "source_heading": "§ 73."
+      }
+    },
+    {
+      "provision_ref": "74",
+      "section": "74",
+      "content": "Krigsmand, som udfordrer en anden Krigsmand til Tvekamp, eller som modtager Udfordringen, eller som deltager i eller medvirker ved Tvekamp, straffes med Arrest eller Tjenestens Tab. § 48, 1ste Led finder tilsvarende Anvendelse.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_74",
+        "source_heading": "§ 74."
+      }
+    },
+    {
+      "provision_ref": "75",
+      "section": "75",
+      "content": "Krigsmand, som ved uforsigtig Behandling af militære Vaaben eller Ammunition skader nogen paa Legeme, straffes med Arrest eller med Fængsel indtil 3 Aar, men indtil 6 Aar, saafremt nogens Død derved er voldt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_75",
+        "source_heading": "§ 75."
+      }
+    },
+    {
+      "provision_ref": "76",
+      "section": "76",
+      "content": "Misbruger en Befalingsmand sin Stilling til ved Foretagelse eller Undladelse af Tjenestehandling at krænke nogens Ret, straffes han med Arrest eller Tjenestens Tab eller med Fængsel indtil 1 Aar.\nHar han handlet for at forskaffe sig eller andre en uberettiget Vinding, eller er ved Lovbruddet betydelig Skade eller Retskrænkelse voldt, kan Fængsel indtil 6 Aar anvendes.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_76",
+        "source_heading": "§ 76."
+      }
+    },
+    {
+      "provision_ref": "77",
+      "section": "77",
+      "content": "Undlader en Krigsmand at udføre nogen Tjenestepligt, eller overtræder han paa anden Maade sine Tjenestepligter, straffes han med Arrest eller med Fængsel indtil 6 Maaneder, men, hvis den skyldige er Befalingsmand, med Arrest eller Tjenestens Tab eller med Fængsel indtil 2 Aar.\nEr betydelig Skade voldt, kan Fængsel indtil 2 Aar eller for Befalingsmænd indtil 3 Aar anvendes. Er nogens Død voldt, kan Fængsel indtil 6 Aar anvendes.\nPaa samme Maade straffes den, som forleder eller tilskynder en anden til at undlade eller overtræde sin Tjenestepligt.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_77",
+        "source_heading": "§ 77."
+      }
+    },
+    {
+      "provision_ref": "78",
+      "section": "78",
+      "content": "Befalingsmand, som gjør sig skyldig i Forsømmelighed eller Skjødesløshed ved Udførelsen af sine Tjenestepligter, straffes med Arrest eller Tjenestens Tab.\nPaa samme Maade straffes Befalingsmand, som gjør sig skyldig i grov Uforstand i Tjenesten eller foretager nogen Handling, der paa Grund af hans Stilling er ham forbudt.\nEr ved Befalingsmandens Forsømmelighed, Skjødesløshed eller Uforstand betydelig Skade voldt, kan Fængsel indtil 2 Aar anvendes, men Fængsel indtil 6 Aar, saafremt nogens Død derved er voldt.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_78",
+        "source_heading": "§ 78."
+      }
+    },
+    {
+      "provision_ref": "79",
+      "section": "79",
+      "content": "Befalingsmand som ved Drikfældighed eller forøvrigt ved sit Forhold i eller udenfor Tjenesten gjør sig uværdig til den for hans Stilling fornødne Tillid eller Agtelse, straffes med Tjenestens Tab.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_79",
+        "source_heading": "§ 79."
+      }
+    },
+    {
+      "provision_ref": "80",
+      "section": "80",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lov 8 juni 1979 nr. 43, opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_80",
+        "source_heading": "§ 80."
+      }
+    },
+    {
+      "provision_ref": "81",
+      "section": "81",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lov 15 des 1950 nr. 6, opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_81",
+        "source_heading": "§ 81."
+      }
+    },
+    {
+      "provision_ref": "81 a",
+      "section": "81 a",
+      "title": "(Opphevet)",
+      "content": "0 Tilføyd ved lov 15 des 1950 nr. 6, endret ved lov 8 juni 1979 nr. 43, opphevet ved lov 24 juni 1994 nr. 36 (ikr. 1 juli 1997 iflg. res. 13 juni 1997 nr. 573).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_81a",
+        "source_heading": "§ 81 a."
+      }
+    },
+    {
+      "provision_ref": "82",
+      "section": "82",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_82",
+        "source_heading": "§ 82."
+      }
+    },
+    {
+      "provision_ref": "83",
+      "section": "83",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_83",
+        "source_heading": "§ 83."
+      }
+    },
+    {
+      "provision_ref": "84",
+      "section": "84",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_84",
+        "source_heading": "§ 84."
+      }
+    },
+    {
+      "provision_ref": "85",
+      "section": "85",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_85",
+        "source_heading": "§ 85."
+      }
+    },
+    {
+      "provision_ref": "86",
+      "section": "86",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_86",
+        "source_heading": "§ 86."
+      }
+    },
+    {
+      "provision_ref": "87",
+      "section": "87",
+      "content": "Med fengsel inntil på livstid straffes\n1. den høistbefalende paa Fæstning eller befæstet Plads, som uden at have udtømt alle Midler til Forsvar overgiver Fæstningen eller Pladsen til Fienden;\n2. den Befalingsmand, som i aaben Mark overgiver sig og sit Mandskab til Fienden, uagtet der endnu var Udsigt for ham til at kunne slaa sig igjennem eller til at faa Undsætning, eller som uden at have udtømt alle Midler til Forsvar forlader den ham anbetroede Post;\n3. den høistbefalende paa Flaade eller Krigsskib, som overgiver sig til Fienden uden at have udtømt alle Midler til Forsvar eller til at bringe sin Flaade eller sit Skib i Sikkerhed.\n0 Endret ved lover 8 juni 1979 nr. 43, lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_87",
+        "source_heading": "§ 87."
+      }
+    },
+    {
+      "provision_ref": "88",
+      "section": "88",
+      "content": "Krigsmand, som under Fegtning selv griber Flugten og ved Ord eller Tegn søger at forlede sine Vaabenfæller til Flugt, straffes med Fængsel indtil paa Livstid.\n0 Endret ved lover 8 juni 1979 nr. 43, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_88",
+        "source_heading": "§ 88."
+      }
+    },
+    {
+      "provision_ref": "89",
+      "section": "89",
+      "content": "Krigsmand, under Fegtning, eller naar Fegtning forestaar, griber Flugten, hemmelig bliver tilbage fra sin Trop, sniger sig bort, holder sig skjult, kaster Vaaben eller Ammunition eller lader sig tage til Fange uden at gjøre tilbørlig Modstand, eller som ved forsætlig at paaføre sig eller lade sig paaføre Sygdom eller Kroppsskade eller ved forsætlig Beruselse eller under usandfærdigt Paaskud af at være syg eller saaret unddrager sig nogen med Fare for hans Person forbunden Tjeneste, straffes med Fængsel.\nGiver han senere fremragende Beviser paa Tapperhed og Opofrelse, kan Straffen nedsættes til Arrest eller endog ganske bortfalde.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_89",
+        "source_heading": "§ 89."
+      }
+    },
+    {
+      "provision_ref": "90",
+      "section": "90",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lov 8 juni 1979 nr. 43, opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_90",
+        "source_heading": "§ 90."
+      }
+    },
+    {
+      "provision_ref": "91",
+      "section": "91",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lov 8 juni 1979 nr. 43, opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_91",
+        "source_heading": "§ 91."
+      }
+    },
+    {
+      "provision_ref": "92",
+      "section": "92",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lover 8 juni 1979 nr. 43, 12 juni 1981 nr. 65, opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_92",
+        "source_heading": "§ 92."
+      }
+    },
+    {
+      "provision_ref": "93",
+      "section": "93",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_93",
+        "source_heading": "§ 93."
+      }
+    },
+    {
+      "provision_ref": "94",
+      "section": "94",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_94",
+        "source_heading": "§ 94."
+      }
+    },
+    {
+      "provision_ref": "94 a",
+      "section": "94 a",
+      "title": "(Opphevet)",
+      "content": "0 Tilføyd ved lov 15 des 1950 nr. 6, endret ved lov 8 juni 1979 nr. 43, opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_94a",
+        "source_heading": "§ 94 a."
+      }
+    },
+    {
+      "provision_ref": "95",
+      "section": "95",
+      "content": "For ulovligt Fravær (§ 34) kan den skyldige straffes med Fængsel indtil 3 Aar.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_95",
+        "source_heading": "§ 95."
+      }
+    },
+    {
+      "provision_ref": "96",
+      "section": "96",
+      "content": "For de i § 35 og § 36 omhandlede Lovbrud straffes den skyldige med fængsel inntil 6 år.\nHar flere i forening avtalt og utført Lovbrud, som omhandles i § 35, straffes anstifteren og anføreren med fængsel inntil på livstid, de øvrige deltagere med inntil 10 år.\n0 Endret ved lover 24 mars 1922 nr. 3, 8 juni 1979 nr. 43, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_96",
+        "source_heading": "§ 96."
+      }
+    },
+    {
+      "provision_ref": "97",
+      "section": "97",
+      "content": "Den, som gjør sig skyldig i nedennævnte Lovbrud, kan straffes\n1. For Lovbrud af den i §§ 42 og 44 omhandlede Art med Fængsel indtil paa Livstid;\n2. for Lovbrud af den i § 43 omhandlede Art med Fængsel indtil 10 Aar;\n3. for Lovbrud af den i § 46, 1ste Led omhandlede Art med Fængsel indtil 1 Aar og for Lovbrud af den i 2det Led omhandlede Art med Fængsel indtil 10 Aar;\n4. for Lovbrud af den i § 47 omhandlede Art med Fængsel indtil 6 Aar;\n5. for Lovbrud af den i §§ 49 og 50 omhandlede Art med Fængsel indtil 15 Aar;\n6. For Lovbrud af den i § 51 omhandlede Art med Fængsel indtil 3 Aar;\n7. for Lovbrud mod § 52 med Fængsel indtil paa Livstid.\n0 Endret ved lover 8 juni 1979 nr. 43, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_97",
+        "source_heading": "§ 97."
+      }
+    },
+    {
+      "provision_ref": "98",
+      "section": "98",
+      "content": "Straffen for mod Forholdsordrer eller Reglementer stridende Behandling af undergivne eller underordnede (§ 56) kan skjærpes til Fængsel indtil 3 Aar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_98",
+        "source_heading": "§ 98."
+      }
+    },
+    {
+      "provision_ref": "99",
+      "section": "99",
+      "content": "Straffen for Forsømmelse af Vagtpligter efter § 71 kan skjærpes til Fængsel indtil 2 Aar, men indtil 10 Aar, saafremt Krigsmagten er bleven udsat for Fare og til Fængsel indtil paa Livstid, saafremt betydelig Skade for Krigsmakten er voldt.\nStraffen for Lovbrud mod § 77, 1ste Led kan skjærpes til Fængsel indtil 2 Aar, men for Befalingsmænd indtil 3 Aar.\nStraffen for Lovbrud mod § 77, 2det Punktum kan skjærpes til Fængsel indtil 3 Aar, men for Befalingsmænd indtil 6 Aar.\nStraffen for Lovbrud mod § 78 kan skjærpes til Fængsel indtil 2 Aar, men indtil 3 Aar, saafremt betydelig Skade er voldt.\nEr i de i §§ 77 eller 78 omhandlede Tilfælde nogens Død voldt, kan Straffen skjærpes til Fængsel indtil 10 Aar.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_99",
+        "source_heading": "§ 99."
+      }
+    },
+    {
+      "provision_ref": "100",
+      "section": "100",
+      "content": "Med Fængsel indtil 6 Aar straffes den Krigsmand, som i Hensigt derved at forskaffe sig eller andre en uberettiget Vinding retsstridig\n1. udskriver Krigsskat eller Tvangsydelse eller\n2. forhøier retmessige Rekvisitioner eller\n3. negter at udstede Modtagelsesbevis for borttagen eller rekvireret Eiendom.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_100",
+        "source_heading": "§ 100."
+      }
+    },
+    {
+      "provision_ref": "101",
+      "section": "101",
+      "content": "Med Fængsel indtil 6 Aar straffes den, som forøver et i straffeloven §§ 321, 324 eller 330 omhandlet Lovbrud\n1. under Benyttelse af Krigsfrygten eller militær Overlegenhed eller\n2. mod en i Krigen falden eller mod en syg eller saaret paa Kamppladsen, paa Marschen, under Transporten eller i Lasarettet eller mod en til hans Varetægt betroet Krigsfange.\nForøves saadant Lovbrud efter Aftale af flere i Fællesskab, straffes Anstiftere og Anførere med Fængsel indtil paa Livstid og de øvrige Deltagere med Fængsel indtil 10 Aar.\n0 Endret ved lover 8 juni 1979 nr. 43, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_101",
+        "source_heading": "§ 101."
+      }
+    },
+    {
+      "provision_ref": "102",
+      "section": "102",
+      "content": "Med Fængsel indtil paa Livstid straffes den, som forøver et i straffeloven § 327 omhandlet Lovbrud\n1. under Benyttelse af Krigsfrygten eller militær Overlegenhed;\n2. mod en syg eller saaret paa Marschen, under Transporten eller Lasarettet eller mod en til hans Varetægt betroet Krigsfange;\n3. paa Krigsskuepladsen.\n0 Endret ved lover 8 juni 1979 nr. 43, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_102",
+        "source_heading": "§ 102."
+      }
+    },
+    {
+      "provision_ref": "103",
+      "section": "103",
+      "content": "Den, som uden Nødvendighed ødelegger eller beskadiger fremmed Eiendom, straffes med Fængsel indtil 6 Aar, men med Fængsel indtil paa Livstid, hvis det sker ved Forvoldelse af Ildebrand, Sammenstyrtning, Sprengning, Oversvømmelse, Sjøskade eller Jernbaneulykke.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_103",
+        "source_heading": "§ 103."
+      }
+    },
+    {
+      "provision_ref": "104",
+      "section": "104",
+      "content": "Den, som forøver en etter straffeloven kapittel 27, eller §§ 332, 337, 343, 351, 352 annet ledd eller 390 straffbar handling med hensyn til noen krigsvesenets øyemed tjenende gjenstand, straffes med de i nevnte lov bestemte straffer, dog så at arrest trer istedenfor bøter, og at straffen innen de for vedkommende straffart fastsatte grenser kan forhøyes med inntil en halvdel.\n0 Endret ved lover 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_104",
+        "source_heading": "§ 104."
+      }
+    },
+    {
+      "provision_ref": "105",
+      "section": "105",
+      "content": "Den, som forøver nogen i § 104 nævnt strafbar Handling med Hensyn til Krigsbytte, straffes som i straffeloven bestemt, dog saa, at Arrest træder istedenfor Bøder.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_105",
+        "source_heading": "§ 105."
+      }
+    },
+    {
+      "provision_ref": "106",
+      "section": "106",
+      "content": "Krigsmand, som egenmægtig søger at gjøre Krigsbytte, straffes med Fængsel indtil 1 Aar.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_106",
+        "source_heading": "§ 106."
+      }
+    },
+    {
+      "provision_ref": "107",
+      "section": "107",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lover 8 juni 1979 nr. 43, 12 juni 1981 nr. 65, opphevet ved lov 20 mai 2005 nr. 28 (ikr. 7 mars 2008 iflg. res. 7 mars 2008 nr. 225).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_107",
+        "source_heading": "§ 107."
+      }
+    },
+    {
+      "provision_ref": "108",
+      "section": "108",
+      "content": "Med fengsel inntil 3 år straffes den som overtrer bestemmelse som er gitt til beskyttelse for personer eller eiendom\na. i Geneve-konvensjonene av 12 august 1949 om forbedring av såredes og sykes kår i de væpnede styrker i felten, om forbedring av såredes, sykes og skipbrudnes kår i de væpnede styrker til sjøs, om behandling av krigsfanger og om beskyttelse av sivile i krigstid,\nb. i de to tilleggsprotokoller 10 juni 1977 til disse konvensjonene,\n0 Tilføyd ved lov 26 nov 1954 nr. 3, endret ved lover 12 juni 1981 nr. 65, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_108",
+        "source_heading": "§ 108."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Straffelovens første Del finder Anvendelse paa de strafbare Handlinger, som omhandles i nærværende Lov, forsaavidt denne intet modsat bestemmer.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Militære Lovbrud er alene de strafbare Handlinger, som omhandles i denne Lov.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne Lovs tredje Del finder kun Anvendelse paa Handlinger, som forøves i Krigstid, hvorunder ogsaa indbefattes den Tid, fra hvilken den væbnede Magt eller vedkommende Afdeling af samme er beordret sat paa Krigsfod, og indtil den atter er sat paa Fredsfod. Bestemmelsene i lovens tredje del gjelder også i den utstrekning Kongen har truffet bestemmelse i medhold av straffeprosessloven § 463 femte ledd andre punktum.\nLovens § 108 får anvendelse når vilkårene i de der nevnte konvensjoner og protokoller foreligger.\n0 Endret ved lover 15 des 1950 nr. 6, 12 juni 1981 nr. 65, 24 juni 1994 nr. 36 (ikr. 1 juli 1997 iflg. res. 13 juni 1997 nr. 573).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Ved Krigsmænd forstaaes i denne Lov:\n1. Fastlønnede militære Tjenestemænd fra Ansættelsesdagen indtil Tjenesteforholdets Ophør.\n2. Værnepligtige Befalingsmænd, Spillemænd og menige i Tjenestetiden (jfr. § 5), samt naar de er indsatte i militært Fængsel.\n3. Frivillige, ved den væbnede Magt tjenestgjørende militære Personer fra Tiltrædelsesdagen indtil Tjenesteforholdets Ophør.\n4. Civilmilitære Personer i tilsvarende Stillinger med Undtagelse af de ved Udskrivningsvæsenet ansatte Tjenestemænd.\n0 Endret ved lov 24 nov 2023 nr. 84 (i kraft 1 juli 2024 iflg. res. 31 mai 2024 nr. 875).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Ved Tjenestetiden forstaaes for de i § 4 Nr. 2 nævnte Personers vedkommende den Tid, hvori de skal deltage i de militære Øvelser, tjenestgjøre ved de militære Verksteder eller Verfter eller paa anden Maade forrette som tjenestgjørende ved Rigets væbnede Magt, samt den Tid, som medgaar til Reise til Tjenestestedet og tilbage, i hvert Fald mindst 24 Timer før Fremmødet og lige lang Tid efter Dimissionen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Enhver, som er berettiget til at give en Befaling, der skal adlydes af en anden (den undergivne), er dennes foresatte.\nEnhver, som har høiere Grad end en anden (den underordnede), er dennes overordnede. Har begge samme Grad, er den, der har ældst Anciennetet, den overordnede.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Ved militær Vagt forstaaes i denne Lov enhver Krigsmand eller militær Afdeling, der har at forrette Vagt- eller Sikkerhedstjeneste.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Ved Sjøtogt forstaaes Togt paa fremmede Farvand, beregnet paa en Varighed af mindst 14 Dage.\nEt Skib ansees for at være paa Togt fra den Tid, Kommandoen ombord er heist, og til den igjen stryges, men paa Sjøtogt fra den Tid, det forlader Udrustningsstationen, og til det vender tilbage til Oplagsstedet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Efter denne lov straffes, forsåvidt intet annet uttrykkelig er bestemt eller fremgår av sammenhengen,\n1. alle ved rikets vebnede makt ansatte eller dertil hørende personer;\n2. medfarende på skib, når skibet er på sjøtokt,\n3. enhver, som i hvilkensomhelst egenskap gjør tjeneste ved den vebnede makt eller følger avdeling av samme;\n4. krigsfanger, som står under militær bevoktning;\n5. enhver som gjør seg skyldig i overtredelse av § 108, eller som på krigsskueplassen gjør seg skyldig i forbrytelse mot §§ 101 til 105.\nDen som ikke omfattes av loven etter første ledd, straffes bare for medvirkning til handling som etter denne loven kan straffes med fengsel i 2 år eller mer, eller som rammes av § 34.\n0 Endret ved lover 6 mai 1921 nr. 2, 15 des 1950 nr. 6, 26 nov 1954 nr. 6, 24 juni 1994 nr. 36 (ikr. 1 juli 1997 iflg. res. 13 juni 1997 nr. 573), 19 juni 2020 nr. 81 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1252), 20 des 2023 nr. 110 (i kraft 24 mai 2024 iflg. res. 24 mai 2024 nr. 811), 24 nov 2023 nr. 84 (i kraft 1 juli 2024 iflg. res. 31 mai 2024 nr. 875).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Under fælles Tjenestgjøring af norsk og anden med Norge forbunden Stats Krigsmagt bliver i Tilfælde af Gjensidighed strafbare Handlinger, forøvede af norske Krigsmænd mod den anden Stats Krigsmænd, at straffe paa samme Maade, som om de var forøvede mod norske Krigsmænd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Nærværende Lov kommer til Anvendelse, ogsaa naar den strafbare Handling er forøvet i Udlandet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "1. De straffer, som anvendes efter denne lov, er fengsel, arrest og bøter. Forvaring kan idømmes efter reglene i straffeloven § 40. I særlige tilfelle anvendes rettighetstap som nevnt i straffeloven § 56.\n2. Med ovennævnte Straffe kan som Tillægsstraffe forbindes:\na. Kunngjøring av dommen, hvorved lov 13. juni 1969 nr. 26 om skadeserstatning § 3-6, jf. nærværende lov §§ 41, 59 og 60, får tilsvarende anvendelse;\nb. Forvisning fra bestemte Steder overensstemmende med straffeloven § 57.\n0 Endret ved lover 6 mai 1921 nr. 2, 15 des 1950 nr. 6, 22 mai 1953 nr. 3, 26 nov 1954 nr. 6, 12 des 1958 nr. 1, 26 jan 1973 nr. 2, 8 juni 1979 nr. 43, 17 jan 1997 nr. 11 (ikr. 1 jan 2002 iflg. lov 15 juni 2001 nr. 64), 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712), 19 juni 2015 nr. 65 (ikr. 1 okt 2015), 20 des 2023 nr. 110 (i kraft 24 mai 2024 iflg. res. 24 mai 2024 nr. 811).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "De i straffeloven og i straffegjennomføringsloven givne Regler om Fængsel og Bøder kommer, forsaavidt intet modsat er bestemt, til Anvendelse paa de militære Fængsels- og Bødestraffe.\nNaar Bøder idømmes, kan der istedenfor Fængselsstraf fastsættes et bestemt Antal Arrestdage, der skal træde istedenfor Bøder, som ikke erlægges.\n0 Endret ved lover 12 des 1958 nr. 1, 19 juni 2015 nr. 65 (ikr. 1 okt 2015), 22 apr 2016 nr. 3 (ikr. 22 apr 2016 iflg. res. 22 apr 2016 nr. 407).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lov 15 des 1950 nr. 6, opphevet ved lov 8 juni 1979 nr. 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Arrest anvendes kun paa militære og civilmilitære Personer samt Krigsfanger og medfarende paa Skib og idømmes som Husarrest fra 1 til 30 Dage eller som Vagtarrest fra 1 til 60 Dage, men i de i § 27, jf. straffeloven § 79 bokstav a, omhandlede Tilfælde henholdsvis indtil 45 og 90 Dage.\n1 dags Arrest svarer til 1 Dags Fængsel.\n0 Endret ved lover 15 mars 1991 nr. 5, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Husarrest anvendes kun paa Befalingsmænd, paa Elever af militære Skoler og paa civile Personer. Den udholdes i Arrestantens Bolig eller Lukaf. Husarrestant maa ikke uden Tilladelse modtage Besøg.\nVagtarrest udholdes i militært Arrestlokale, saavidt muligt i Enrum. Brevveksling er Arrestanten tilladt. Til bestemte Tider bør det ogsaa tillades ham at modtage Besøg, forsaavidt tjenestlige Hensyn ikke er til Hinder derfor.\nHvor Benyttelse af militært Arrestlokale vilde volde uforholdsmæssig Ulempe eller Bekostning, kan Arresten udholdes i Kredsfængsel eller Hjælpefængsel. Uden eget Samtykke maa Arrestanten ikke sættes sammen med nogen, der udstaar Straf af Fængsel eller med Varetægtsfange.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Fange, der udholder Arrest, kan af vedkommende Befalingsmand paalægges at udføre militære Tjenestepligter, men kan ikke paalægges andet Arbeide. Afbrydes Arresten, bliver dette uden indflydelse paa Beregningen af Arresttiden, forsaavidt Afbrydelsen ikke i Sammenhæng varer længere end 12 Timer.\nHusarrestant sørger selv for sit Underhold. Det samme tillades ogsaa Vagtarrestant inden de Grænser, som god Orden foreskriver.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Arrest kan etter domfeltes begjæring eller med hans samtykke ved fullbyrdelsen omsettes til hefte eller, for så vidt den skyldige ikke er befalingsmann, til fengsel.\n0 Endret ved lov 12 des 1958 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Nærmere Regler angaaende Arrest og Arrestfangers Behandling gives af Kongen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "Den som dømmes for overtredelse av krigsartiklene, kan idømmes tap av stemmerett i offentlige anliggender for en tid av inntil 10 år. For øvrig får reglene om rettighetstap i straffeloven § 56 tilsvarende anvendelse.\n0 Endret ved lover 6 mai 1921 nr. 2, 15 des 1950 nr. 6, 22 mai 1953 nr. 3, 30 aug 2002 nr. 67 (ikr. 1 jan 2003 iflg. res. 30 aug 2002 nr. 938), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lov 6 mai 1921 nr. 2, opphevet ved lov 22 mai 1953 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Dømmes nogen, der ikke har udtjent sin Værnepligt, til Tjenestens Tab, eller omfatter det Tidsrum, hvorfor nogen er frakjendt Retten til Tjenestgjøring i Rigets Krigsmagt, ikke hele hans tilbageværende Værnepligtstid, er han forpligtet til at udføre den gjenstaaende Del af sin Værnepligt som menig.\nDet samme gjælder ogsaa den, der gjenerhverver Retten til Tjenestgjøring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "Med hensyn til inndragning finner straffeloven §§ 67 til 75 tilsvarende anvendelse.\n0 Endret ved lover 26 jan 1973 nr. 2, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Foresattes Befaling i Tjenesteanliggender fritager den undergivne for Straf, uden forsaavidt som han overskrider Befalingen, eller han har indseet eller klarlig maatte have indseet, at han ved Befalingens Udførelse medvirker til en retsstridig Handling. I ethvert Fald kan Retten nedsætte Straffen under det for Handlingen bestemte Lavmaal og til en mildere Strafart.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Paa Handling, der under paatrængende Fare eller Nød foretages for at faa givne Befalinger adlydte, finder straffeloven §§ 17, 18 og 80 tilsvarende Anvendelse.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Frygt for personlig Fare begrunder ved Forsømmelse af militær Tjenestepligt ikke Udelukkelse af Strafskylden eller Nedsættelse i Straffen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "Bestemmelserne i straffeloven §§ 34 til 39 kan bringes i Anvendelse, ogsaa hvor der idømmes Arrest. Samme Lovs § 79 bokstav a finder tilsvarende Anvendelse, hvor nogen af de strafbare Handlinger skulde have medført nævnte Straf.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "Naar en efter denne Lov strafbar Handling forøves af flere Krigsmænd i Fællesskab, kan Straffen, hvor vedkommende Straffebud ikke selv tager særligt Sigte paa Forholdet, inden de for vedkommende Strafart fastsatte Grænser forhøies med indtil en Halvdel.\nPaa samme Maade og under samme Forudsætning kan Straffen forhøies for en foresat som forsætlig har samvirket med nogen ham undergiven eller under hans Opsyn staaende Person.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "Når en handling er foretatt av en som på domstidspunktet har status som krigsfange, kan retten nedsette straffen under det lavmål som er bestemt for handlingen.\n0 Opphevet ved lov 26 nov 1956 nr. 6, tilføyd ved lov 24 juni 1994 nr. 36 (ikr. 1 juli 1997 iflg. res. 13 juni 1997 nr. 573).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "30",
+      "section": "30",
+      "content": "Med hensyn til foreldelse gjelder for arrest de samme regler som i straffelovens 15de kapitel bestemt.\nFristen for foreldelse er 25 år når fengsel på livstid kan idømmes.\n0 Endret ved lover 6 mai 1921 nr. 2, 8 juni 1979 nr. 43, 24 juni 1994 nr. 36 (ikr. 1 juli 1997 iflg. res. 13 juni 1997 nr. 573), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "31",
+      "section": "31",
+      "content": "Er en efter denne lov straffbar handling forøvet av den høistbefalende for en avsondret del av krigsmakten, begynner foreldelsen ikke sitt løp før fra den dag, da felttoget eller toktet er endt, eller den avsondrede del av krigsmakten er kommet under kommando av en høiere befalingsmann.\n0 Endret ved lov 6 mai 1921 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "32",
+      "section": "32",
+      "content": "Forbrydelse eller Forseelse ved trykt Skrift, hvis Forfatter ikke har navngivet sig eller paa anden Maade betegnet sig som hørende til den væbnede Magt, er ikke at anse som militær Forbrydelse eller Forseelse uden i de i §§ 47, 49, 69 og 86 nævnte Tilfælde.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "33",
+      "section": "33",
+      "content": "Alle militære Lovbrud er offentlig Paatale undergivet.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "34",
+      "section": "34",
+      "content": "Den, som retsstridig forlader eller bliver borte fra det Sted, hvor det paaligger ham som militær Pligt at være tilstede, straffes med Bøder eller med Arrest.\nEr den skyldige Krigsmand, straffes han for saadant ulovligt fravær med Arrest eller med Fængsel indtil 3 Maaneder og, ifald hans Fravær varer mer end 7 Dage, med Arrest eller med Fængsel indtil 2 Aar.\nPaa samme Maade straffes den, som retsstridig bevirker at en anden forlader eller bliver borte fra det Sted, hvor det paaligger ham som militær Pligt at være tilstede.\n0 Endret ved lover 7 juni 1985 nr. 49, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "35",
+      "section": "35",
+      "content": "Den, som i hensikt aldeles å unddra sig sin militære tjenesteplikt forbryter sig således som i § 34 omhandlet eller som efter å være fremmøtt eller fremstillet til militær tjeneste rettsstridig nekter aldeles å utføre sin tjenesteplikt, straffes med fengsel fra 3 måneder inntil 2 år, men inntil 3 år, hvis det skjer i tjenestetiden med fartøi på tokt.\nI gjentagelsestilfeller er straffen fengsel fra 1 til 3 år og for alltid fradømmelse av retten til å gjøre tjeneste i rikets krigsmakt.\nFremstiller den skyldige sig innen 7 dager igjen frivillig til utførelse av sin militære tjeneste eller erklærer han sig innen samme tid villig dertil, straffes han med fengsel inntil 2 år; under særdeles formildende omstendigheter kan arrest anvendes.\nDen som medvirker til lovbruddet straffes som bestemt i 1. og 3. ledd, efter sistnevnte ledd dog alene såfremt han har medvirket til at den skyldige forholder sig som i dette ledd anført.\n0 Endret ved lover 24 mars 1922 nr. 3, 10 juli 1925 nr. 2, 26 nov 1954 nr. 6, 19 mars 1965 nr. 3, 22 juni 1990 nr. 43, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "36",
+      "section": "36",
+      "content": "Den, som i Hensigt at unddrage sig sin militære Tjeneste ved Lemlæstelse eller paa anden Maade gjør sig helt eller delvis ubrugbar dertil, straffes med Fængsel indtil 2 Aar.\nPaa samme Maade straffes den, som ved at foregive Sygdom eller Legemsfeil søger at unddrage sig fra militær Tjeneste.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "37",
+      "section": "37",
+      "content": "Husarrestant, som i Arresttiden forlader de Rum, hvor Arresten skal udholdes, eller som uden Tilladelse modtager Besøg, straffes med Vagtarrest i mindst dobbelt saa lang Tid som den idømte Husarrest eller med Fængsel indtil 3 Maaneder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "38",
+      "section": "38",
+      "content": "Den, som under tjenestlige Forhandlinger og Møder, eller naar han er iført militær Dragt, undlader at vise en overordnet de paabudte Tegn paa Respekt, straffes med Arrest indtil 10 Dage.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "39",
+      "section": "39",
+      "content": "Med Arrest straffes den, som i Anledning af Tjenesten eller under Udførelse af militære Tjenestepligter ligeoverfor en foresat tilkjendegiver Uvilje mod hans Befaling eller tager til Gjenmæle mod hans Tilrettevisning eller ligeoverfor en overordnet gjør sig skyldig i respektstridig Opførsel, som ikke er omhandlet i § 38. Sker det med truende Holdning eller i Nærvær af samlet Trop eller Skibsmandskab eller nogen betydelig Del deraf, straffes den skyldige med Fængsel indtil 6 Maaneder.\nPaa samme Maade straffes den, som ved Forledelse eller Tilskyndelse medvirker til, at en anden forser sig saaledes som oven nævnt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "40",
+      "section": "40",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "41",
+      "section": "41",
+      "content": "Den, som ved uriktig anklage for militært Lovbrud mot nogen foresatt eller overordnet forgår sig på sådan måte som i straffeloven §§ 222 til 225 omhandlet, straffes med de der bestemte straffer, dog så, at arrest trer istedenfor bøter.\nDen, som ellers mot bedre vitende inngir nogen ubeføiet besværing eller klage over foresatte eller overordnede i anledning av tjenesteforhold, straffes med arrest eller fængsel inntil 6 måneder. Skjer det ikke mot bedre vitende, men dog uten rimelig grunn og besværingen eller klagen viser sig å være aldeles ubeføiet, straffes den skyldige med arrest.\n0 Endret ved lover 6 mai 1921 nr. 2, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "42",
+      "section": "42",
+      "content": "Den, som mod en foresat eller overordnet i Anledning af Tjenesten eller under Udførelse af militære Tjenestepligter gjør sig skyldig i noget Lovbrud mod den personlige Frihed, straffes med de i straffeloven bestemte Straffe, dog saa, at Arrest træder istedenfor Bøder, og at Straffen inden de for vedkommende Strafart fastsatte Grænser kan forhøies med indtil en Halvdel.\nEr Lovbruddet forøvet i Nærvær af samlet Trop eller Skibsmandskab eller nogen betydelig Del deraf, straffes den skyldige med Fængsel i mindst 1 Aar.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "43",
+      "section": "43",
+      "content": "Den, som ved Vold eller Trusel søger at formaa en foresat eller overordnet til at foretage eller undlade en Tjenestehandling eller at hindre ham under en saadan, straffes med Fængsel indtil 6 Aar.\nMed Fængsel indtil 3 Aar straffes den, som ved Vold eller Trusel søger at hindre en anden Krigsmand fra at udføre en ham af foresatte given Befaling i Tjenesteanliggende.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "44",
+      "section": "44",
+      "content": "Den, som mod en foresat eller overordnet i Anledning af Tjenesten eller under Udførelse af militære Tjenestepligter gjør sig skyldig i noget Lovbrud mod Liv, Kropp og Helse, straffes med de i straffeloven bestemte Straffe, dog saa, at Arrest træder istedenfor Bøder, og at Straffen inden de for vedkommende Strafart fastsatte Grænser kan forhøies med indtil en Halvdel.\nEr Lovbruddet forsætlig og forøvet i Nærvær af samlet Trop eller Skibsmandskab eller nogen betydelig Del deraf, straffes den skyldige med Fængsel i mindst 1 Aar.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "45",
+      "section": "45",
+      "content": "Straf efter §§ 39, 42 og 44 finder ogsaa Anvendelse, forsaavidt Handlingen er forøvet under tjenestlige Forhandlinger og Møder med den skyldiges foresatte eller overordnede, eller naar den skyldige er iført militær Dragt. For værnepligtige gjælder det her bestemte fra den Tid, de har faaet fornøden Undervisning om sine Pligter.\n0 Endret ved lov 20 des 2023 nr. 110 (i kraft 24 mai 2024 iflg. res. 24 mai 2024 nr. 811).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "46",
+      "section": "46",
+      "content": "Den, som undlader at vise skyldig Lydighed mod en foresats Befaling i Tjenesteanliggende eller retsstridig handler mod eller overskrider Befalingen eller mod bedre Vidende giver en foresat et usandt Svar paa Spørsmaal i Tjenesteanliggende, straffes med Arrest eller med Fængsel indtil 3 Maaneder.\nVedbliver den undergivne trods gjentagen Befaling sin Ulydighed, eller giver han ved Ord eller Adfærd sin foresatte udtrykkelig tilkjende, at han ikke vil udføre hans Befaling, straffes han med Fængsel indtil 1 Aar. Sker dette i Nærvær af samlet Trop eller Skibsmandskab eller nogen betydelig Del deraf, kan Straffetiden forlænges til 2 Aar.\nForøves den strafbare Handling under saadanne Omstændigheder, at Tab af Menneskeliv eller betydelig Skade maatte befrygtes at ville voldes derved, straffes den skyldige med Fængsel indtil 3 Aar. Voldes derved saadant Tab eller saadan Skade, kan Straffetiden forlænges til 10 Aar.\nPaa samme Maade som oven bestemt straffes den, som forleder eller tilskynder en anden til saadan Ulydighed.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "47",
+      "section": "47",
+      "content": "Den, som søger at ophidse Krigsmand til Uvilje mod Tjenesten eller til Had mod foresatte eller overordnede, straffes med Arrest eller med Fængsel indtil 3 Aar. Dersom Lovbruddet er forøvet ved trykt Skrift, skal dette utgjøre et skjerpende Moment ved utmålingen av Straff.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "48",
+      "section": "48",
+      "content": "Har den foresatte eller overordnede ved utilbørligt Forhold givet Anledning til nogen i §§ 38-47 omhandlet strafbar Handling, kan Straffen nedsættes under det for Handlingen bestemte Lavmaal og til en mildere Strafart og, hvor den bestaar i Arrest, under særdeles formildende Omstændigheder endog helt bortfalde.\nHar den foresattes eller overordnedes utilbørlige Forhold bestaaet i Mishandling eller nedværdigende Behandling af den skyldige, maa Fængsel paa Livstid ikke anvendes og Straffen ikke overstige Tredjedelen af høieste Straf, naar denne er tidsbestemt Frihedsstraf.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "49",
+      "section": "49",
+      "content": "Den, som søger at ophidse Krigsmænd til i Fællesskab retsstridig\na. at øve Vold mod en foresat eller overordnet, eller\nb. at tvinge en saadan til at foretage eller undlade en Tjenestehandling, eller\nc. at negte Lydighed mod en foresats Befaling i Tjenesteanliggende, straffes for Opvigleri med Fængsel indtil 6 Aar.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "50",
+      "section": "50",
+      "content": "Aftaler flere Krigsmænd at ville i Fællesskab øve saadan Vold, Tvang eller Ulydighed som i § 49 omhandlet, straffes de for Mytteri med Fængsel indtil 3 Aar, men med Fængsel indtil 6 Maaneder, hvis de alle opgiver den strafbare Plan, før nogen militær Myndighed er kommen til Kundskab om samme; under særdeles formildende Omstændigheder kan i saa Fald Straf helt bortfalde.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "51",
+      "section": "51",
+      "content": "Med Fængsel indtil 2 Aar straffes den Krigsmand, som undlader gjennem betimelig Anmeldelse for vedkommende Myndighed eller paa anden Maade at søge afverget et Mytteri eller et Lovbrud mod §§ 42 eller 44 af nogen i straffeloven §§ 254, 272, 275 eller 287 omhandlet Slags eller sammes Følger, uagtet han til en Tid, da Lovbruddet eller dets Følger endnu kunde forebygges, har erholdt paalidelig Kundskab om, at den er igjære eller er forøvet.\nDog er han straffri, dersom det ikke kommer til Udførelse af Planen eller til strafbart Forsøg eller Anmeldelsen ikke kunde ske uden at udsætte nogen af hans nærmeste for Tiltale eller Fare for Liv, Helse eller Velfærd.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "52",
+      "section": "52",
+      "content": "Søger flere Krigsmænd i Fællesskab retsstridig\na. at øve Vold mod en foresat eller overordnet, eller\nb. at tvinge en saadan til at foretage eller undlade en Tjenestehandling, eller\nc. at negte Lydighed mod en foresats Befaling i Tjenesteanliggende,\nVoldes ved Oprøret Tab af Menneskeliv eller betydelig Skade for Krigsvæsenet, eller foregaar Lovbruddet i Havsnød, eller medfører den Fare for Skibets Sikkerhed, kan Straffen for Anstiftere og Hovedmænd forlænges til Fængsel paa Livstid og for de øvrige medvirkende til Fængsel indtil 10 Aar.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "53",
+      "section": "53",
+      "content": "For de Deltagere i Oprør, som vender tilbage til Lydighed, førend det er kommet til Forøvelse af Vold eller Tvang mod den foresatte eller overordnede, nedsættes Straffen, forsaavidt de ikke er Anstiftere eller Hovedmænd til Fængsel indtil 2 Aar. For Anstiftere og Hovedmænd nedsættes den til Fængsel indtil 6 Aar, saafremt alle Deltagere vender tilbage til Lydighed, inden det er kommet til saadan Forøvelse af Vold eller Tvang.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "54",
+      "section": "54",
+      "content": "Som Hovedmænd i Oprør ansees\n1. den, der optræder som Anfører for Deltagerne;\n2. den blandt Oprørerne, der indehar den høieste Grad eller ældst Anciennetet;\n3. den, der befordrer Oprøret ved Misbrug af militære Signaler;\n4. den, der udtrykkelig ved Ord eller Handling negter at efterkomme den foresattes Opfordring til ham personlig om at vise Lydighed.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "55",
+      "section": "55",
+      "content": "Den, som gjør sig skyldig i nogen i §§ 39-47, 49, 50 eller 52 nævnt strafbar Handling mod en militær Vagt under Udførelsen af dens Tjeneste, straffes paa samme Maade, som om Handlingen var forøvet mod en foresat.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "56",
+      "section": "56",
+      "content": "Den, som ved at misbruge sin Myndighed eller ved uretmæssig at tiltage sig saadan retsstridig søger at formaa en undergiven eller underordnet til at gjøre, taale eller undlade noget, straffes med Arrest eller med Fængsel indtil 2 Aar, men i Gjentagelsestilfælde indtil 3 Aar. Har den skyldige søgt at formaa den undergivne eller underordnede til at forøve en strafbar Handling, kan Fængsel indtil 6 Aar anvendes.\nDen, som gjør sig skyldig i anden mod Reglementer eller Forholdsordrer stridende Behandling af undergivne eller underordnede, straffes med Arrest eller med Fængsel indtil 3 Maaneder.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "57",
+      "section": "57",
+      "content": "Den, som retsstridig søger at afholde en undergiven eller underordnet fra at fremkomme med eller fastholde en Ansøgning, Forestilling, Besværing eller Klage, eller som ved Modtagelsen af nogen saadan unddrager sig fra at foretage, hvad der i den Anledning paaligger ham, straffes med Arrest eller med Fængsel indtil 2 Aar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    },
+    {
+      "provision_ref": "58",
+      "section": "58",
+      "content": "Den som uberettiget udøver Disciplinærmyndighed, eller som overskrider sin Disciplinærmyndighed, straffes med Arrest eller med Fængsel indtil 6 Aar.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_58",
+        "source_heading": "§ 58."
+      }
+    },
+    {
+      "provision_ref": "59",
+      "section": "59",
+      "content": "Den, som mod en undergiven eller underordnet i Anledning af Tjenesten eller under Udførelse af militære Tjenestepligter gjør sig skyldig i noget Lovbrud mod Liv, Kropp eller Helse, straffes med de i straffeloven bestemte Straffe, dog saa, at Arrest træder istedenfor Bøder, og at der for de i § 271 første ledd omhandlede Lovbrud kan anvendes Fængsel indtil 1 Aar.\nDenne Bestemmelse kommer ogsaa til Anvendelse, forsaavidt Handlingen er forøvet under tjenestlige Forhandlinger og Møder med den skyldiges undergivne eller underordnede, eller naar den skyldige er iført militær Dragt.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_59",
+        "source_heading": "§ 59."
+      }
+    },
+    {
+      "provision_ref": "60",
+      "section": "60",
+      "content": "Den, som ved uriktig anklage for militært lovbrudd mot nogen undergiven eller underordnet forgår sig på sådan måte som i straffeloven §§ 222 til 225 omhandlet, straffes med de der bestemte straffer, dog så at arrest trer istedenfor bøter.\n0 Endret ved lover 6 mai 1921 nr. 2, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_60",
+        "source_heading": "§ 60."
+      }
+    },
+    {
+      "provision_ref": "61",
+      "section": "61",
+      "content": "En foresat eller overordnet, som forleder eller tilskynder nogen ham i Tjenesten undergiven Befalingsmand til at forøve noget i dette Kapitel omhandlet Lovbrud eller bistaar ham dermed eller vidende lader ham forøve den, eller som misbruger sin Stilling til at tilskynde en anden Befalingsmand til at forøve en saadan eller til at bistaa ham dermed, straffes efter de samme Straffebud som denne, dog saa, at Straffen inden de for vedkommende Strafart fastsatte Grænser kan forhøies med indtil en Halvdel.\nStraffen kommer til Anvendelse uden Hensyn til, om den anden Person paa Grund af god Tro eller af andre Grunde ikke er strafskyldig.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_61",
+        "source_heading": "§ 61."
+      }
+    },
+    {
+      "provision_ref": "62",
+      "section": "62",
+      "content": "En militær Vagt, som forøver nogen i §§ 56 eller 59 omhandlet strafbar Handling, straffes, som om en foresat havde forøvet Handlingen.\nForøves den mod nogen, som udenfor Vagttjenesten er Vagtens foresatte, kan Straffen forhøies med indtil en Halvdel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_62",
+        "source_heading": "§ 62."
+      }
+    },
+    {
+      "provision_ref": "63",
+      "section": "63",
+      "content": "Krigsmand, som forbryder sig paa saadan Maade som i straffeloven § 387, jf. § 388 omhandlet, straffes saaledes som der bestemt, dog saa, at Arrest træder istedenfor Bøder.\n0 Endret ved lover 4 juli 2003 nr. 79, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_63",
+        "source_heading": "§ 63."
+      }
+    },
+    {
+      "provision_ref": "64",
+      "section": "64",
+      "content": "Krigsmand, som i Anledning af Tjenesten modtager nogen Gave eller Fordel af undergivne eller underordnede uden deres fælles foresattes udtrykkelige eller stiltiende Samtykke, eller som modtager nogen Gave eller uberettiget Fordel af den, hvis Ydelser til Krigsmagten han har eller i det sidst forløbne Aar har havt Befatning med, straffes med Arrest, men i Gjentagelsestilfælde med Arrest eller Tjenestens Tab.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_64",
+        "source_heading": "§ 64."
+      }
+    },
+    {
+      "provision_ref": "65",
+      "section": "65",
+      "content": "Krigsmand, som pligtstridig undlader at anmelde sine undergivnes strafbare Handlinger eller at udøve sin Disciplinærmyndighed, straffes med Arrest eller med Fængsel indtil 3 Aar, men med Arrest indtil 3 Maaneder, saafremt Undladelsen er skeet af Uagtsomhed.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_65",
+        "source_heading": "§ 65."
+      }
+    },
+    {
+      "provision_ref": "66",
+      "section": "66",
+      "content": "Krigsmand, som bevirker, at en Fange, der staar under militær bevogtning, undviger, eller som undlader at udføre en Paagribelse, der paaligger ham ifølge Tjenestepligt eller særlig Befaling, straffes med Fængsel indtil 6 Aar, men, hvis det er skeet af Uagtsomhed, med Arrest indtil 6 Maaneder.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_66",
+        "source_heading": "§ 66."
+      }
+    },
+    {
+      "provision_ref": "67",
+      "section": "67",
+      "content": "Den, som afgiver urigtige tjenestlige Attester, Meddelelser eller Erklæringer, straffes med Arrest eller med Fængsel indtil 3 Aar.\nHvor Feilen er uvæsentlig og ingen Skade tilsigtet eller voldt, kan Bøder anvendes og under særdeles formildende Omstændigheder Straf helt bortfalde.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_67",
+        "source_heading": "§ 67."
+      }
+    },
+    {
+      "provision_ref": "68",
+      "section": "68",
+      "content": "Den, som bevirker at der i nogen Tjenesten vedkommende Protokol anføres Usandhed eller lægges Skjul paa Sandheden, eller at der ved Udferdigelsen af Protokoludskrift, Telegram eller Telefonmeddelelse eller anden tjenestlig Erklæring, der er afgiven for at tjene som Bevis, anføres eller bevidnes Usandhed eller lægges Skjul paa Sandheden, straffes med Tjenestens Tab eller med Fængsel indtil 3 Aar, men indtil 6 Aar, saafremt den skyldige har handlet i Hensigt at forskaffe sig eller andre en uberettiget Vinding eller at skade nogen.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_68",
+        "source_heading": "§ 68."
+      }
+    },
+    {
+      "provision_ref": "69",
+      "section": "69",
+      "content": "Den, som uden skjellig Grund aabenbarer, hvad der i den militære Tjenestes Medfør er blevet ham betroet eller ved Lov eller anden gyldig Bestemmelse er betegnet som Tjenestehemmelighed, straffes med Arrest eller Tjenestens Tab eller med Fængsel indtil 6 Aar.\nDenne Bestemmelse kommer til Anvendelse ogsaa paa den, der efter at være fratraadt Tjenesten forbryder sig som anført med Hensyn til, hvad han under denne har faaet vide.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_69",
+        "source_heading": "§ 69."
+      }
+    },
+    {
+      "provision_ref": "70",
+      "section": "70",
+      "content": "Den, som ulovlig aabner eller tilsteder nogen at aabne et ham i Tjenestens Medfør betroet Brev, straffes med Tjenestens Tab eller med Fængsel indtil 3 Aar, men indtil 6 Aar, saafremt han forøver Lovbruddet for at forskaffe sig eller andre en uberettiget Vinding.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_70",
+        "source_heading": "§ 70."
+      }
+    },
+    {
+      "provision_ref": "71",
+      "section": "71",
+      "content": "Krigsmand som under Udførelse af Vagttjeneste eller i Egenskab af Befalingsmand for en militær Vagt eller for Fartøi eller anden Afdeling, der er beordret til lignende Tjeneste, forsætlig eller af Uagtsomhed forsømmer de ham i nævnte Tjeneste paahvilende Pligter eller sætter sig ud af Stand til at varetage dem, straffes med Arrest eller med Fængsel indtil 1 Aar.\nEr ved Lovbruddet voldt betydelig Skade, eller er noget Skib derved blevet udsat for Fare, kan Fængsel indtil 3 Aar anvendes, men indtil 10 Aar, saafremt Lovbruddet er forøvet ombord i Havsnød.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_71",
+        "source_heading": "§ 71."
+      }
+    },
+    {
+      "provision_ref": "72",
+      "section": "72",
+      "content": "Med Arrest eller med Fængsel indtil 3 Maaneder straffes den, som viser sig beruset under Udførelse af militære Tjenestepligter, eller naar Tjeneste ham vitterlig forestaar, eller under tjenestlige Forhandlinger og Møder, eller naar han er iført militær Dragt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_72",
+        "source_heading": "§ 72."
+      }
+    },
+    {
+      "provision_ref": "73",
+      "section": "73",
+      "content": "Krigsmand, som under Udførelse af militære Tjenestepligter eller under tjenestlige Forhandlinger og Møder bruger raa eller utilbørlig Tale, straffes med Arrest, men i Gjentagelsestilfælde med Arrest eller med Fængsel indtil 3 Maaneder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_73",
+        "source_heading": "§ 73."
+      }
+    },
+    {
+      "provision_ref": "74",
+      "section": "74",
+      "content": "Krigsmand, som udfordrer en anden Krigsmand til Tvekamp, eller som modtager Udfordringen, eller som deltager i eller medvirker ved Tvekamp, straffes med Arrest eller Tjenestens Tab. § 48, 1ste Led finder tilsvarende Anvendelse.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_74",
+        "source_heading": "§ 74."
+      }
+    },
+    {
+      "provision_ref": "75",
+      "section": "75",
+      "content": "Krigsmand, som ved uforsigtig Behandling af militære Vaaben eller Ammunition skader nogen paa Legeme, straffes med Arrest eller med Fængsel indtil 3 Aar, men indtil 6 Aar, saafremt nogens Død derved er voldt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_75",
+        "source_heading": "§ 75."
+      }
+    },
+    {
+      "provision_ref": "76",
+      "section": "76",
+      "content": "Misbruger en Befalingsmand sin Stilling til ved Foretagelse eller Undladelse af Tjenestehandling at krænke nogens Ret, straffes han med Arrest eller Tjenestens Tab eller med Fængsel indtil 1 Aar.\nHar han handlet for at forskaffe sig eller andre en uberettiget Vinding, eller er ved Lovbruddet betydelig Skade eller Retskrænkelse voldt, kan Fængsel indtil 6 Aar anvendes.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_76",
+        "source_heading": "§ 76."
+      }
+    },
+    {
+      "provision_ref": "77",
+      "section": "77",
+      "content": "Undlader en Krigsmand at udføre nogen Tjenestepligt, eller overtræder han paa anden Maade sine Tjenestepligter, straffes han med Arrest eller med Fængsel indtil 6 Maaneder, men, hvis den skyldige er Befalingsmand, med Arrest eller Tjenestens Tab eller med Fængsel indtil 2 Aar.\nEr betydelig Skade voldt, kan Fængsel indtil 2 Aar eller for Befalingsmænd indtil 3 Aar anvendes. Er nogens Død voldt, kan Fængsel indtil 6 Aar anvendes.\nPaa samme Maade straffes den, som forleder eller tilskynder en anden til at undlade eller overtræde sin Tjenestepligt.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_77",
+        "source_heading": "§ 77."
+      }
+    },
+    {
+      "provision_ref": "78",
+      "section": "78",
+      "content": "Befalingsmand, som gjør sig skyldig i Forsømmelighed eller Skjødesløshed ved Udførelsen af sine Tjenestepligter, straffes med Arrest eller Tjenestens Tab.\nPaa samme Maade straffes Befalingsmand, som gjør sig skyldig i grov Uforstand i Tjenesten eller foretager nogen Handling, der paa Grund af hans Stilling er ham forbudt.\nEr ved Befalingsmandens Forsømmelighed, Skjødesløshed eller Uforstand betydelig Skade voldt, kan Fængsel indtil 2 Aar anvendes, men Fængsel indtil 6 Aar, saafremt nogens Død derved er voldt.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_78",
+        "source_heading": "§ 78."
+      }
+    },
+    {
+      "provision_ref": "79",
+      "section": "79",
+      "content": "Befalingsmand som ved Drikfældighed eller forøvrigt ved sit Forhold i eller udenfor Tjenesten gjør sig uværdig til den for hans Stilling fornødne Tillid eller Agtelse, straffes med Tjenestens Tab.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_79",
+        "source_heading": "§ 79."
+      }
+    },
+    {
+      "provision_ref": "80",
+      "section": "80",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lov 8 juni 1979 nr. 43, opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_80",
+        "source_heading": "§ 80."
+      }
+    },
+    {
+      "provision_ref": "81",
+      "section": "81",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lov 15 des 1950 nr. 6, opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_81",
+        "source_heading": "§ 81."
+      }
+    },
+    {
+      "provision_ref": "81 a",
+      "section": "81 a",
+      "title": "(Opphevet)",
+      "content": "0 Tilføyd ved lov 15 des 1950 nr. 6, endret ved lov 8 juni 1979 nr. 43, opphevet ved lov 24 juni 1994 nr. 36 (ikr. 1 juli 1997 iflg. res. 13 juni 1997 nr. 573).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_81a",
+        "source_heading": "§ 81 a."
+      }
+    },
+    {
+      "provision_ref": "82",
+      "section": "82",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_82",
+        "source_heading": "§ 82."
+      }
+    },
+    {
+      "provision_ref": "83",
+      "section": "83",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_83",
+        "source_heading": "§ 83."
+      }
+    },
+    {
+      "provision_ref": "84",
+      "section": "84",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_84",
+        "source_heading": "§ 84."
+      }
+    },
+    {
+      "provision_ref": "85",
+      "section": "85",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_85",
+        "source_heading": "§ 85."
+      }
+    },
+    {
+      "provision_ref": "86",
+      "section": "86",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_86",
+        "source_heading": "§ 86."
+      }
+    },
+    {
+      "provision_ref": "87",
+      "section": "87",
+      "content": "Med fengsel inntil på livstid straffes\n1. den høistbefalende paa Fæstning eller befæstet Plads, som uden at have udtømt alle Midler til Forsvar overgiver Fæstningen eller Pladsen til Fienden;\n2. den Befalingsmand, som i aaben Mark overgiver sig og sit Mandskab til Fienden, uagtet der endnu var Udsigt for ham til at kunne slaa sig igjennem eller til at faa Undsætning, eller som uden at have udtømt alle Midler til Forsvar forlader den ham anbetroede Post;\n3. den høistbefalende paa Flaade eller Krigsskib, som overgiver sig til Fienden uden at have udtømt alle Midler til Forsvar eller til at bringe sin Flaade eller sit Skib i Sikkerhed.\n0 Endret ved lover 8 juni 1979 nr. 43, lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_87",
+        "source_heading": "§ 87."
+      }
+    },
+    {
+      "provision_ref": "88",
+      "section": "88",
+      "content": "Krigsmand, som under Fegtning selv griber Flugten og ved Ord eller Tegn søger at forlede sine Vaabenfæller til Flugt, straffes med Fængsel indtil paa Livstid.\n0 Endret ved lover 8 juni 1979 nr. 43, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_88",
+        "source_heading": "§ 88."
+      }
+    },
+    {
+      "provision_ref": "89",
+      "section": "89",
+      "content": "Krigsmand, under Fegtning, eller naar Fegtning forestaar, griber Flugten, hemmelig bliver tilbage fra sin Trop, sniger sig bort, holder sig skjult, kaster Vaaben eller Ammunition eller lader sig tage til Fange uden at gjøre tilbørlig Modstand, eller som ved forsætlig at paaføre sig eller lade sig paaføre Sygdom eller Kroppsskade eller ved forsætlig Beruselse eller under usandfærdigt Paaskud af at være syg eller saaret unddrager sig nogen med Fare for hans Person forbunden Tjeneste, straffes med Fængsel.\nGiver han senere fremragende Beviser paa Tapperhed og Opofrelse, kan Straffen nedsættes til Arrest eller endog ganske bortfalde.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_89",
+        "source_heading": "§ 89."
+      }
+    },
+    {
+      "provision_ref": "90",
+      "section": "90",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lov 8 juni 1979 nr. 43, opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_90",
+        "source_heading": "§ 90."
+      }
+    },
+    {
+      "provision_ref": "91",
+      "section": "91",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lov 8 juni 1979 nr. 43, opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_91",
+        "source_heading": "§ 91."
+      }
+    },
+    {
+      "provision_ref": "92",
+      "section": "92",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lover 8 juni 1979 nr. 43, 12 juni 1981 nr. 65, opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_92",
+        "source_heading": "§ 92."
+      }
+    },
+    {
+      "provision_ref": "93",
+      "section": "93",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_93",
+        "source_heading": "§ 93."
+      }
+    },
+    {
+      "provision_ref": "94",
+      "section": "94",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_94",
+        "source_heading": "§ 94."
+      }
+    },
+    {
+      "provision_ref": "94 a",
+      "section": "94 a",
+      "title": "(Opphevet)",
+      "content": "0 Tilføyd ved lov 15 des 1950 nr. 6, endret ved lov 8 juni 1979 nr. 43, opphevet ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_94a",
+        "source_heading": "§ 94 a."
+      }
+    },
+    {
+      "provision_ref": "95",
+      "section": "95",
+      "content": "For ulovligt Fravær (§ 34) kan den skyldige straffes med Fængsel indtil 3 Aar.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_95",
+        "source_heading": "§ 95."
+      }
+    },
+    {
+      "provision_ref": "96",
+      "section": "96",
+      "content": "For de i § 35 og § 36 omhandlede Lovbrud straffes den skyldige med fængsel inntil 6 år.\nHar flere i forening avtalt og utført Lovbrud, som omhandles i § 35, straffes anstifteren og anføreren med fængsel inntil på livstid, de øvrige deltagere med inntil 10 år.\n0 Endret ved lover 24 mars 1922 nr. 3, 8 juni 1979 nr. 43, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_96",
+        "source_heading": "§ 96."
+      }
+    },
+    {
+      "provision_ref": "97",
+      "section": "97",
+      "content": "Den, som gjør sig skyldig i nedennævnte Lovbrud, kan straffes\n1. For Lovbrud af den i §§ 42 og 44 omhandlede Art med Fængsel indtil paa Livstid;\n2. for Lovbrud af den i § 43 omhandlede Art med Fængsel indtil 10 Aar;\n3. for Lovbrud af den i § 46, 1ste Led omhandlede Art med Fængsel indtil 1 Aar og for Lovbrud af den i 2det Led omhandlede Art med Fængsel indtil 10 Aar;\n4. for Lovbrud af den i § 47 omhandlede Art med Fængsel indtil 6 Aar;\n5. for Lovbrud af den i §§ 49 og 50 omhandlede Art med Fængsel indtil 15 Aar;\n6. For Lovbrud af den i § 51 omhandlede Art med Fængsel indtil 3 Aar;\n7. for Lovbrud mod § 52 med Fængsel indtil paa Livstid.\n0 Endret ved lover 8 juni 1979 nr. 43, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_97",
+        "source_heading": "§ 97."
+      }
+    },
+    {
+      "provision_ref": "98",
+      "section": "98",
+      "content": "Straffen for mod Forholdsordrer eller Reglementer stridende Behandling af undergivne eller underordnede (§ 56) kan skjærpes til Fængsel indtil 3 Aar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_98",
+        "source_heading": "§ 98."
+      }
+    },
+    {
+      "provision_ref": "99",
+      "section": "99",
+      "content": "Straffen for Forsømmelse af Vagtpligter efter § 71 kan skjærpes til Fængsel indtil 2 Aar, men indtil 10 Aar, saafremt Krigsmagten er bleven udsat for Fare og til Fængsel indtil paa Livstid, saafremt betydelig Skade for Krigsmakten er voldt.\nStraffen for Lovbrud mod § 77, 1ste Led kan skjærpes til Fængsel indtil 2 Aar, men for Befalingsmænd indtil 3 Aar.\nStraffen for Lovbrud mod § 77, 2det Punktum kan skjærpes til Fængsel indtil 3 Aar, men for Befalingsmænd indtil 6 Aar.\nStraffen for Lovbrud mod § 78 kan skjærpes til Fængsel indtil 2 Aar, men indtil 3 Aar, saafremt betydelig Skade er voldt.\nEr i de i §§ 77 eller 78 omhandlede Tilfælde nogens Død voldt, kan Straffen skjærpes til Fængsel indtil 10 Aar.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_99",
+        "source_heading": "§ 99."
+      }
+    },
+    {
+      "provision_ref": "100",
+      "section": "100",
+      "content": "Med Fængsel indtil 6 Aar straffes den Krigsmand, som i Hensigt derved at forskaffe sig eller andre en uberettiget Vinding retsstridig\n1. udskriver Krigsskat eller Tvangsydelse eller\n2. forhøier retmessige Rekvisitioner eller\n3. negter at udstede Modtagelsesbevis for borttagen eller rekvireret Eiendom.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_100",
+        "source_heading": "§ 100."
+      }
+    },
+    {
+      "provision_ref": "101",
+      "section": "101",
+      "content": "Med Fængsel indtil 6 Aar straffes den, som forøver et i straffeloven §§ 321, 324 eller 330 omhandlet Lovbrud\n1. under Benyttelse af Krigsfrygten eller militær Overlegenhed eller\n2. mod en i Krigen falden eller mod en syg eller saaret paa Kamppladsen, paa Marschen, under Transporten eller i Lasarettet eller mod en til hans Varetægt betroet Krigsfange.\nForøves saadant Lovbrud efter Aftale af flere i Fællesskab, straffes Anstiftere og Anførere med Fængsel indtil paa Livstid og de øvrige Deltagere med Fængsel indtil 10 Aar.\n0 Endret ved lover 8 juni 1979 nr. 43, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_101",
+        "source_heading": "§ 101."
+      }
+    },
+    {
+      "provision_ref": "102",
+      "section": "102",
+      "content": "Med Fængsel indtil paa Livstid straffes den, som forøver et i straffeloven § 327 omhandlet Lovbrud\n1. under Benyttelse af Krigsfrygten eller militær Overlegenhed;\n2. mod en syg eller saaret paa Marschen, under Transporten eller Lasarettet eller mod en til hans Varetægt betroet Krigsfange;\n3. paa Krigsskuepladsen.\n0 Endret ved lover 8 juni 1979 nr. 43, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_102",
+        "source_heading": "§ 102."
+      }
+    },
+    {
+      "provision_ref": "103",
+      "section": "103",
+      "content": "Den, som uden Nødvendighed ødelegger eller beskadiger fremmed Eiendom, straffes med Fængsel indtil 6 Aar, men med Fængsel indtil paa Livstid, hvis det sker ved Forvoldelse af Ildebrand, Sammenstyrtning, Sprengning, Oversvømmelse, Sjøskade eller Jernbaneulykke.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_103",
+        "source_heading": "§ 103."
+      }
+    },
+    {
+      "provision_ref": "104",
+      "section": "104",
+      "content": "Den, som forøver en etter straffeloven kapittel 27, eller §§ 332, 337, 343, 351, 352 annet ledd eller 390 straffbar handling med hensyn til noen krigsvesenets øyemed tjenende gjenstand, straffes med de i nevnte lov bestemte straffer, dog så at arrest trer istedenfor bøter, og at straffen innen de for vedkommende straffart fastsatte grenser kan forhøyes med inntil en halvdel.\n0 Endret ved lover 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_104",
+        "source_heading": "§ 104."
+      }
+    },
+    {
+      "provision_ref": "105",
+      "section": "105",
+      "content": "Den, som forøver nogen i § 104 nævnt strafbar Handling med Hensyn til Krigsbytte, straffes som i straffeloven bestemt, dog saa, at Arrest træder istedenfor Bøder.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_105",
+        "source_heading": "§ 105."
+      }
+    },
+    {
+      "provision_ref": "106",
+      "section": "106",
+      "content": "Krigsmand, som egenmægtig søger at gjøre Krigsbytte, straffes med Fængsel indtil 1 Aar.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_106",
+        "source_heading": "§ 106."
+      }
+    },
+    {
+      "provision_ref": "107",
+      "section": "107",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lover 8 juni 1979 nr. 43, 12 juni 1981 nr. 65, opphevet ved lov 20 mai 2005 nr. 28 (ikr. 7 mars 2008 iflg. res. 7 mars 2008 nr. 225).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_107",
+        "source_heading": "§ 107."
+      }
+    },
+    {
+      "provision_ref": "108",
+      "section": "108",
+      "content": "Med fengsel inntil 3 år straffes den som overtrer bestemmelse som er gitt til beskyttelse for personer eller eiendom\na. i Geneve-konvensjonene av 12 august 1949 om forbedring av såredes og sykes kår i de væpnede styrker i felten, om forbedring av såredes, sykes og skipbrudnes kår i de væpnede styrker til sjøs, om behandling av krigsfanger og om beskyttelse av sivile i krigstid,\nb. i de to tilleggsprotokoller 10 juni 1977 til disse konvensjonene,\n0 Tilføyd ved lov 26 nov 1954 nr. 3, endret ved lover 12 juni 1981 nr. 65, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_108",
+        "source_heading": "§ 108."
+      }
+    }
+  ]
+}

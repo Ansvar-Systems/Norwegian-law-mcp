@@ -1,0 +1,37 @@
+{
+  "id": "LOV-1977-06-10-60",
+  "type": "statute",
+  "title": "Lov om endringer i lov 24 mai 1961 nr. 2 om forretningsbanker.",
+  "short_name": "Endringslov om forretningsbanker.",
+  "status": "in_force",
+  "issued_date": "1977-06-10",
+  "in_force_date": "1977-06-10",
+  "url": "https://lovdata.no/dokument/NLO/lov/1977-06-10-60",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "2:1",
+      "chapter": "2",
+      "section": "1",
+      "content": "Ved beregning av det tidsrom en person etter § 13 a kan ha tillitsverv i en forretningsbank, medregnes bare den tid han etter lovens ikrafttreden har tillitsverv i banken.\nKontrakter inngått med en forretningsbank før lovens ikrafttreden er etter lovens ikrafttreden fremdeles bindende for banken og dens medkontrahenter.\n0 Endret ved lov 26 mai 1978 nr. 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "2:1",
+      "chapter": "2",
+      "section": "1",
+      "content": "Ved beregning av det tidsrom en person etter § 13 a kan ha tillitsverv i en forretningsbank, medregnes bare den tid han etter lovens ikrafttreden har tillitsverv i banken.\nKontrakter inngått med en forretningsbank før lovens ikrafttreden er etter lovens ikrafttreden fremdeles bindende for banken og dens medkontrahenter.\n0 Endret ved lov 26 mai 1978 nr. 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "LOV-2020-11-06-126",
+  "type": "statute",
+  "title": "Midlertidig lov om unntak fra kommuneloven",
+  "short_name": "Midlertidig lov om unntak fra kommuneloven",
+  "status": "in_force",
+  "issued_date": "2020-11-06",
+  "in_force_date": "2020-11-06",
+  "url": "https://lovdata.no/dokument/NLO/lov/2020-11-06-126",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Utvidet adgang til å gjennomføre lukket møte som fjernmøte",
+      "content": "Folkevalgte organer kan gjennomføre fjernmøter også i de tilfellene møtet er lukket etter kommuneloven § 11-5 andre ledd. Dette gjelder tilsvarende for Longyearbyen lokalstyre på Svalbard.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 28 mai 2021 nr. 47 (ikr. 1 juni 2021).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Lovens ikrafttredelse og opphevelse",
+      "content": "Loven trer i kraft straks og oppheves 1. desember 2021.\n0 Endret ved lov 28 mai 2021 nr. 47.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Utvidet adgang til å gjennomføre lukket møte som fjernmøte",
+      "content": "Folkevalgte organer kan gjennomføre fjernmøter også i de tilfellene møtet er lukket etter kommuneloven § 11-5 andre ledd. Dette gjelder tilsvarende for Longyearbyen lokalstyre på Svalbard.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 28 mai 2021 nr. 47 (ikr. 1 juni 2021).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Lovens ikrafttredelse og opphevelse",
+      "content": "Loven trer i kraft straks og oppheves 1. desember 2021.\n0 Endret ved lov 28 mai 2021 nr. 47.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

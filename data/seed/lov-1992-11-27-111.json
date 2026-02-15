@@ -1,0 +1,279 @@
+{
+  "id": "LOV-1992-11-27-111",
+  "type": "statute",
+  "title": "Lov om lovvalg i forsikring [forsikringslovvalgsloven]",
+  "short_name": "Forsikringslovvalgsloven – intprfal",
+  "status": "in_force",
+  "issued_date": "1992-11-27",
+  "in_force_date": "1993-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/1992-11-27-111",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Lovens virkeområde",
+      "content": "Loven gjelder lovvalg i direkte forsikringsavtaler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Definisjoner",
+      "content": "I denne lov menes med:\n1. Det land der forpliktelsen består: Det land der forsikringstakeren har sitt vanlige bosted eller, dersom forsikringstakeren er en juridisk person, det land der den virksomhet som avtalen gjelder, ligger.\n2. Det land der risikoen består:\na. Det land der eiendommen ligger, når forsikringen gjelder enten fast eiendom eller fast eiendom med innbo, i den utstrekning innboet er dekket av den samme forsikringspolisen,\nb. det land der registrering er foretatt, når forsikringen gjelder transportmidler av enhver art,\nc. det land der forsikringstakeren tegnet forsikringen, når det gjelder forsikringsavtaler med en varighet på fire måneder eller mindre, som dekker risikoer i forbindelse med reiser og ferier, uansett forsikringsklasse,\nd. det land der forsikringstakeren har sitt vanlige bosted eller, dersom forsikringstakeren er en juridisk person, det land der den virksomhet som avtalen gjelder ligger, i alle tilfeller som ikke uttrykkelig er nevnt i bokstav a til c.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Henvisning til et lands lov omfatter ikke lovvalgsreglene",
+      "content": "Når denne loven bestemmer at et lands lov skal legges til grunn, betyr det landets rettsregler bortsett fra lovvalgsreglene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Stater med mer enn ett rettssystem",
+      "content": "Omfatter en stat flere territoriale enheter som hver har sine egne rettsregler for avtaleforpliktelser, regnes hver territorial enhet som ett land når det avgjøres hvilket lands lov som skal anvendes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Internasjonalt preseptoriske regler",
+      "content": "Selv om fremmed lov legges til grunn, skal norske domstoler anvende ufravikelige regler i norsk lov når de er tvingende uansett hvilket lands lov som ellers anvendes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Lovpliktig forsikring",
+      "content": "For lovpliktige forsikringer skal alle ufravikelige regler i det landet som pålegger forsikringsplikten, anvendes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Loven er ikke uttømmende",
+      "content": "Ulovfestede lovvalgsregler om avtaleforpliktelser får anvendelse så fremt de ikke strider mot bestemmelser i denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Lovvalg i livsforsikring",
+      "content": "En avtale om tegning av livsforsikring står under lovgivningen i det land der forpliktelsen består.\nNår forsikringstakeren er en fysisk person og har vanlig bosted i et land der vedkommende ikke er statsborger, kan partene også velge lovgivningen i det land der vedkommende er statsborger.\nNår forsikringstakeren er en juridisk person og forpliktelsen består i Norge, kan partene, når den forsikrede har vanlig bosted eller er statsborger i et annet land, også velge dette landets lovgivning.\nNår forpliktelsen består i et annet land enn Norge, og dette landets lovgivning tillater avtalefrihet utover det som følger av første og annet ledd, kan partene velge lovgivning i den utstrekning dette landets lovgivning tillater det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Lovvalg i annen forsikring enn livsforsikring",
+      "content": "En avtale om tegning av annen forsikring enn livsforsikring står under lovgivningen i det land der risikoen består, når forsikringstakeren har vanlig bosted eller hovedsete i vedkommende land.\nNår en forsikringstaker ikke har vanlig bosted eller hovedsete i det land der risikoen består, kan partene i forsikringsavtalen velge å anvende enten lovgivningen i det land der risikoen består, eller lovgivningen i det land der forsikringstakeren har vanlig bosted eller hovedsete.\nNår en forsikringstaker utøver handels- eller industrivirksomhet eller et fritt yrke, og avtalen dekker to eller flere risikoer som gjelder disse virksomhetene og består i forskjellige land, kan partene velge mellom lovgivningen i disse land og i det land der forsikringstakeren har vanlig bosted eller hovedsete.\nNår de risikoer som dekkes av avtalen, er begrenset til skader som oppstår i et annet land enn det land der risikoen består, kan partene alltid velge lovgivningen i landet der skaden kan oppstå.\nPartenes vedtakelse av en bestemt lovgivning kan, hvis alle andre relevante omstendigheter på vedtakelsestidspunktet bare har tilknytning til ett enkelt land, ikke sette til side ufravikelige regler i dette landets lovgivning.\n0 Endret ved lov 24 juni 1994 nr. 40.\n1 Jf. EØS-avtalen vedlegg IX nr. 7a (dir 92/49), se nå nr. 1 (dir 2009/138).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "9 a",
+      "section": "9 a",
+      "title": "Utvidet adgang til avtalt lovvalg i annen forsikring enn livsforsikring​2",
+      "content": "I avtaler som gjelder følgende forsikringsklasser, kan partene alltid velge et hvilket som helst lands lovgivning:\n- rullende jernbanemateriell,\n- luftfartøyer,\n- havgående fartøyer og fartøyer på innsjø, elv og kanal,\n- gods under transport,\n- ansvarsforsikring for luftfartøyer,\n- ansvarsforsikring for havgående fartøyer og fartøyer på innsjø, elv og kanal.\nNår forsikringstakeren utøver handels- eller industrivirksomhet eller et fritt yrke, kan partene også velge et hvilket som helst lands lovgivning i følgende forsikringsklasser:\n- kreditt,\n- kausjon,\nNår forsikringstakeren er et foretak som omfattes av forsikringsavtaleloven § 1-3 annet ledd bokstav a, kan partene også velge et hvilket som helst lands lovgivning i følgende forsikringsklasser:\n- landkjøretøyer,\n- brann- og naturskader,\n- annen skade på eiendom og eiendeler,\n- ansvarsforsikring for motorvogner,\n- alminnelig ansvarsforsikring,\n- diverse økonomisk tap.\nI forhold der norsk rett vil komme til anvendelse etter § 9 første ledd, eller kunne komme til anvendelse etter partenes valg i medhold av § 9 annet eller tredje ledd, gjelder følgende:\n1. For forsikring som er omfattet av forsikringsavtaleloven § 1-3 annet ledd bokstav c, kan partene velge et hvilket som helst lands lovgivning.\n2. For personforsikring der den forsikrede har fast bosted eller er statsborger i et annet land enn Norge, kan partene, i tillegg til den valgfrihet som følger av § 9 annet og tredje ledd, velge dette landets lovgivning.\nI forhold der lovgivningen i et annet land enn Norge ville komme til anvendelse etter § 9 første ledd eller kunne komme til anvendelse etter partenes valg i medhold av § 9 annet eller tredje ledd, kan partene også velge tredjelands lovgivning i den utstrekning det annet lands lovgivning tillater det.\n§ 9 femte ledd gjelder tilsvarende ved paragrafen her.\n0 Tilføyd ved lov 24 juni 1994 nr. 40, endret ved lov 24 jan 1997 nr. 14.\n1 Jf. EØS-avtalen vedlegg IX nr. 7a (dir 92/49), se nå dir 2009/138, jf. EØS-avtalen vedlegg IX nr. 2 (dir 90/618) og nr. 7a (dir 92/49, se nå dir 2009/138.\n2 Jf. frd. 593/2008 art 7 nr. 2 og 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9a",
+        "source_heading": "§ 9 a."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Den alminnelige lovvalgsregel for annen forsikring enn livsforsikring",
+      "content": "Hvis partene i en avtale om annen forsikring enn livsforsikring ikke har vedtatt et gyldig lovvalg, og lovvalget ikke følger av bestemmelsene i denne loven, står et rettsforhold under loven i det land som det har sin nærmeste tilknytning til etter de tilknytningspunkter som er nevnt i § 9. Det skal legges til grunn at avtalen har sterkest tilknytning til det land der risikoen består, når ikke noe annet alt i alt fremgår.\nDersom en del av avtalen kan skilles ut og har en sterkere tilknytning til et annet av de land som kan komme i betraktning etter § 9, kan lovgivningen i vedkommende land anvendes på denne delen av avtalen når særlige grunner taler for det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid​1 Kongen bestemmer.\n1 Fra 1 jan 1993.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Lovens virkeområde",
+      "content": "Loven gjelder lovvalg i direkte forsikringsavtaler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Definisjoner",
+      "content": "I denne lov menes med:\n1. Det land der forpliktelsen består: Det land der forsikringstakeren har sitt vanlige bosted eller, dersom forsikringstakeren er en juridisk person, det land der den virksomhet som avtalen gjelder, ligger.\n2. Det land der risikoen består:\na. Det land der eiendommen ligger, når forsikringen gjelder enten fast eiendom eller fast eiendom med innbo, i den utstrekning innboet er dekket av den samme forsikringspolisen,\nb. det land der registrering er foretatt, når forsikringen gjelder transportmidler av enhver art,\nc. det land der forsikringstakeren tegnet forsikringen, når det gjelder forsikringsavtaler med en varighet på fire måneder eller mindre, som dekker risikoer i forbindelse med reiser og ferier, uansett forsikringsklasse,\nd. det land der forsikringstakeren har sitt vanlige bosted eller, dersom forsikringstakeren er en juridisk person, det land der den virksomhet som avtalen gjelder ligger, i alle tilfeller som ikke uttrykkelig er nevnt i bokstav a til c.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Henvisning til et lands lov omfatter ikke lovvalgsreglene",
+      "content": "Når denne loven bestemmer at et lands lov skal legges til grunn, betyr det landets rettsregler bortsett fra lovvalgsreglene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Stater med mer enn ett rettssystem",
+      "content": "Omfatter en stat flere territoriale enheter som hver har sine egne rettsregler for avtaleforpliktelser, regnes hver territorial enhet som ett land når det avgjøres hvilket lands lov som skal anvendes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Internasjonalt preseptoriske regler",
+      "content": "Selv om fremmed lov legges til grunn, skal norske domstoler anvende ufravikelige regler i norsk lov når de er tvingende uansett hvilket lands lov som ellers anvendes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Lovpliktig forsikring",
+      "content": "For lovpliktige forsikringer skal alle ufravikelige regler i det landet som pålegger forsikringsplikten, anvendes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Loven er ikke uttømmende",
+      "content": "Ulovfestede lovvalgsregler om avtaleforpliktelser får anvendelse så fremt de ikke strider mot bestemmelser i denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Lovvalg i livsforsikring",
+      "content": "En avtale om tegning av livsforsikring står under lovgivningen i det land der forpliktelsen består.\nNår forsikringstakeren er en fysisk person og har vanlig bosted i et land der vedkommende ikke er statsborger, kan partene også velge lovgivningen i det land der vedkommende er statsborger.\nNår forsikringstakeren er en juridisk person og forpliktelsen består i Norge, kan partene, når den forsikrede har vanlig bosted eller er statsborger i et annet land, også velge dette landets lovgivning.\nNår forpliktelsen består i et annet land enn Norge, og dette landets lovgivning tillater avtalefrihet utover det som følger av første og annet ledd, kan partene velge lovgivning i den utstrekning dette landets lovgivning tillater det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Lovvalg i annen forsikring enn livsforsikring",
+      "content": "En avtale om tegning av annen forsikring enn livsforsikring står under lovgivningen i det land der risikoen består, når forsikringstakeren har vanlig bosted eller hovedsete i vedkommende land.\nNår en forsikringstaker ikke har vanlig bosted eller hovedsete i det land der risikoen består, kan partene i forsikringsavtalen velge å anvende enten lovgivningen i det land der risikoen består, eller lovgivningen i det land der forsikringstakeren har vanlig bosted eller hovedsete.\nNår en forsikringstaker utøver handels- eller industrivirksomhet eller et fritt yrke, og avtalen dekker to eller flere risikoer som gjelder disse virksomhetene og består i forskjellige land, kan partene velge mellom lovgivningen i disse land og i det land der forsikringstakeren har vanlig bosted eller hovedsete.\nNår de risikoer som dekkes av avtalen, er begrenset til skader som oppstår i et annet land enn det land der risikoen består, kan partene alltid velge lovgivningen i landet der skaden kan oppstå.\nPartenes vedtakelse av en bestemt lovgivning kan, hvis alle andre relevante omstendigheter på vedtakelsestidspunktet bare har tilknytning til ett enkelt land, ikke sette til side ufravikelige regler i dette landets lovgivning.\n0 Endret ved lov 24 juni 1994 nr. 40.\n1 Jf. EØS-avtalen vedlegg IX nr. 7a (dir 92/49), se nå nr. 1 (dir 2009/138).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "9 a",
+      "section": "9 a",
+      "title": "Utvidet adgang til avtalt lovvalg i annen forsikring enn livsforsikring​2",
+      "content": "I avtaler som gjelder følgende forsikringsklasser, kan partene alltid velge et hvilket som helst lands lovgivning:\n- rullende jernbanemateriell,\n- luftfartøyer,\n- havgående fartøyer og fartøyer på innsjø, elv og kanal,\n- gods under transport,\n- ansvarsforsikring for luftfartøyer,\n- ansvarsforsikring for havgående fartøyer og fartøyer på innsjø, elv og kanal.\nNår forsikringstakeren utøver handels- eller industrivirksomhet eller et fritt yrke, kan partene også velge et hvilket som helst lands lovgivning i følgende forsikringsklasser:\n- kreditt,\n- kausjon,\nNår forsikringstakeren er et foretak som omfattes av forsikringsavtaleloven § 1-3 annet ledd bokstav a, kan partene også velge et hvilket som helst lands lovgivning i følgende forsikringsklasser:\n- landkjøretøyer,\n- brann- og naturskader,\n- annen skade på eiendom og eiendeler,\n- ansvarsforsikring for motorvogner,\n- alminnelig ansvarsforsikring,\n- diverse økonomisk tap.\nI forhold der norsk rett vil komme til anvendelse etter § 9 første ledd, eller kunne komme til anvendelse etter partenes valg i medhold av § 9 annet eller tredje ledd, gjelder følgende:\n1. For forsikring som er omfattet av forsikringsavtaleloven § 1-3 annet ledd bokstav c, kan partene velge et hvilket som helst lands lovgivning.\n2. For personforsikring der den forsikrede har fast bosted eller er statsborger i et annet land enn Norge, kan partene, i tillegg til den valgfrihet som følger av § 9 annet og tredje ledd, velge dette landets lovgivning.\nI forhold der lovgivningen i et annet land enn Norge ville komme til anvendelse etter § 9 første ledd eller kunne komme til anvendelse etter partenes valg i medhold av § 9 annet eller tredje ledd, kan partene også velge tredjelands lovgivning i den utstrekning det annet lands lovgivning tillater det.\n§ 9 femte ledd gjelder tilsvarende ved paragrafen her.\n0 Tilføyd ved lov 24 juni 1994 nr. 40, endret ved lov 24 jan 1997 nr. 14.\n1 Jf. EØS-avtalen vedlegg IX nr. 7a (dir 92/49), se nå dir 2009/138, jf. EØS-avtalen vedlegg IX nr. 2 (dir 90/618) og nr. 7a (dir 92/49, se nå dir 2009/138.\n2 Jf. frd. 593/2008 art 7 nr. 2 og 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9a",
+        "source_heading": "§ 9 a."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Den alminnelige lovvalgsregel for annen forsikring enn livsforsikring",
+      "content": "Hvis partene i en avtale om annen forsikring enn livsforsikring ikke har vedtatt et gyldig lovvalg, og lovvalget ikke følger av bestemmelsene i denne loven, står et rettsforhold under loven i det land som det har sin nærmeste tilknytning til etter de tilknytningspunkter som er nevnt i § 9. Det skal legges til grunn at avtalen har sterkest tilknytning til det land der risikoen består, når ikke noe annet alt i alt fremgår.\nDersom en del av avtalen kan skilles ut og har en sterkere tilknytning til et annet av de land som kan komme i betraktning etter § 9, kan lovgivningen i vedkommende land anvendes på denne delen av avtalen når særlige grunner taler for det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid​1 Kongen bestemmer.\n1 Fra 1 jan 1993.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    }
+  ]
+}

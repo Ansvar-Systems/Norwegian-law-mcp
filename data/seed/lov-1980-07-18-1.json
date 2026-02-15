@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1980-07-18-1",
+  "type": "statute",
+  "title": "Provisorisk anordning om lønnsnemndsbehandling av arbeidstvistene på de faste produksjonsplattformene i Nordsjøen.",
+  "short_name": "Provisorisk anordning om lønnsnemndsbehan",
+  "status": "in_force",
+  "issued_date": "1980-07-18",
+  "in_force_date": "1980-07-18",
+  "url": "https://lovdata.no/dokument/NLO/lov/1980-07-18-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvistene mellom Operatørfagforeningenes Samarbeidsutvalg (OFS) og:\n1. Mobil Exploration Norway Inc.\n2. Elf Aquitaine Norge A/S\n3. Phillips Petroleum Company Norway\nDet er forbudt å iverksette eller opprettholde arbeidsstans eller blokade til løsning av tvistene.\nReglene i lov 19. desember 1952 nr. 7 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne anordning trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvistene mellom Operatørfagforeningenes Samarbeidsutvalg (OFS) og:\n1. Mobil Exploration Norway Inc.\n2. Elf Aquitaine Norge A/S\n3. Phillips Petroleum Company Norway\nDet er forbudt å iverksette eller opprettholde arbeidsstans eller blokade til løsning av tvistene.\nReglene i lov 19. desember 1952 nr. 7 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne anordning trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

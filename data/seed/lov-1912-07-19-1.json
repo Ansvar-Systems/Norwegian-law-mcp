@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1912-07-19-1",
+  "type": "statute",
+  "title": "Lov om offentlig veining av malm, som utskipes",
+  "short_name": "Lov om veining av malm som utskipes",
+  "status": "in_force",
+  "issued_date": "1912-07-19",
+  "in_force_date": "1912-07-19",
+  "url": "https://lovdata.no/dokument/NLO/lov/1912-07-19-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Paa steder, hvor malm utskibes,​1 skal der – efter anmodning av vedkommende utskiber – være adgang til at faa ansat offentlig veier, som med fornøden hjelp paa forlangende har at utføre eller kontrolere veining av malm, som utskibes fra stedet.\nVeieren har for hver skibning at utstede et vegtcertifikat, som vedlægges skibspapirene.\n1 Lov 8 mars 1935 kap. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Saadanne veiere og deres medhjelpere beskikkes i byene av [magistrat og]​1 formandskap, paa landet av politimester og formandskap – med approbation av amtmanden.\n1 Se lov 9 mars 1917 § 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Veiningspengenes størrelse fastsættes av vedkommende amtmand, som likeledes fastsætter de nærmere regler for veiningens utførelse og andre forskrifter, som viser sig nødvendige for øiemedet, alt efter samraad med vedkommende kommunestyre og med vedkommende private bedrifter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Paa steder, hvor malm utskibes,​1 skal der – efter anmodning av vedkommende utskiber – være adgang til at faa ansat offentlig veier, som med fornøden hjelp paa forlangende har at utføre eller kontrolere veining av malm, som utskibes fra stedet.\nVeieren har for hver skibning at utstede et vegtcertifikat, som vedlægges skibspapirene.\n1 Lov 8 mars 1935 kap. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Saadanne veiere og deres medhjelpere beskikkes i byene av [magistrat og]​1 formandskap, paa landet av politimester og formandskap – med approbation av amtmanden.\n1 Se lov 9 mars 1917 § 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Veiningspengenes størrelse fastsættes av vedkommende amtmand, som likeledes fastsætter de nærmere regler for veiningens utførelse og andre forskrifter, som viser sig nødvendige for øiemedet, alt efter samraad med vedkommende kommunestyre og med vedkommende private bedrifter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

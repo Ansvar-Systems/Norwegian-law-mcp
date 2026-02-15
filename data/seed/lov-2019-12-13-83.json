@@ -1,0 +1,81 @@
+{
+  "id": "LOV-2019-12-13-83",
+  "type": "statute",
+  "title": "Lov om opphevelse av omstillingslova",
+  "short_name": "Lov om opphevelse av omstillingslova",
+  "status": "in_force",
+  "issued_date": "2019-12-13",
+  "in_force_date": "2020-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2019-12-13-83",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Opphevelse",
+      "content": "Lov 6. juni 2008 nr. 38 om meldeplikt ved nedlegging av næringsverksemd oppheves.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Meldinger under behandling",
+      "content": "Meldinger som er mottatt eller er under behandling i fylkeskommunen når loven trer i kraft, avsluttes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Ikraftsetting",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer.\n1 Fra 1 jan 2020 iflg. res. 13 des 2019 nr. 1751.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Opphevelse",
+      "content": "Lov 6. juni 2008 nr. 38 om meldeplikt ved nedlegging av næringsverksemd oppheves.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Meldinger under behandling",
+      "content": "Meldinger som er mottatt eller er under behandling i fylkeskommunen når loven trer i kraft, avsluttes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Ikraftsetting",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer.\n1 Fra 1 jan 2020 iflg. res. 13 des 2019 nr. 1751.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1932-06-17-2",
+  "type": "statute",
+  "title": "Lov om enkelte bestemmelser om fremmede konsulers rettsstilling.",
+  "short_name": "Lov om fremmede konsulers rettsstilling.",
+  "status": "in_force",
+  "issued_date": "1932-06-17",
+  "in_force_date": "1932-06-17",
+  "url": "https://lovdata.no/dokument/NLO/lov/1932-06-17-2",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ved overenskomst med fremmed stat kan det vedtas, at konsulære tjenestemenn som ikke utøver nogen privat erhvervsvirksomhet her i landet, og som er borgere av den stat som har utnevnt dem, skal:\na. være fritatt for personlig arrest​1 og andre innskrenkninger i den personlige frihet, medmindre de siktes for en straffbar handling som efter norsk lov er forbrytelse,​2\nb. ha rett til å avgi vidnesbyrd i civile saker på sin bopel eller på konsulatkontoret. Tvistelovens​3 regler om bevisopptak i rettssak​4 får i så fall anvendelse.\n0 Endret ved lov 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Se strpl. kap. 14, tvl. § 33-1 og §§ 33-11 flg.\n2 Se strl. 1902 § 2, milstrl. § 2 og strl.ikrl. § 5.\n3 Lov 17 juni 2005 nr. 90.\n4 Se tvl. kap. 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ved overenskomst med fremmed stat kan det vedtas, at konsulære tjenestemenn som ikke utøver nogen privat erhvervsvirksomhet her i landet, og som er borgere av den stat som har utnevnt dem, skal:\na. være fritatt for personlig arrest​1 og andre innskrenkninger i den personlige frihet, medmindre de siktes for en straffbar handling som efter norsk lov er forbrytelse,​2\nb. ha rett til å avgi vidnesbyrd i civile saker på sin bopel eller på konsulatkontoret. Tvistelovens​3 regler om bevisopptak i rettssak​4 får i så fall anvendelse.\n0 Endret ved lov 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Se strpl. kap. 14, tvl. § 33-1 og §§ 33-11 flg.\n2 Se strl. 1902 § 2, milstrl. § 2 og strl.ikrl. § 5.\n3 Lov 17 juni 2005 nr. 90.\n4 Se tvl. kap. 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

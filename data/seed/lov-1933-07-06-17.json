@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1933-07-06-17",
+  "type": "statute",
+  "title": "Lov om fordringer lydende på flere myntsorter",
+  "short_name": "Lov om fordringer i flere myntsorter",
+  "status": "in_force",
+  "issued_date": "1933-07-06",
+  "in_force_date": "1933-07-06",
+  "url": "https://lovdata.no/dokument/NLO/lov/1933-07-06-17",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "En fordringshaver som er norsk​1 og bosatt i Norge (herunder også norske selskaper og institusjoner), kan, hvor fordringen lyder på norske kroner ved siden av utenlandsk mynt, bare kreve betaling idet avtalte beløp av norske kroner. Han må ikke overdra eller pantsette fordringen til nogen som ikke er norsk og bosatt i Norge og må heller ikke føre ut av landet gjeldsbrever og kuponger som er knyttet til fordringen.\n1 Se lov 8 des. 1950 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den som overtreder forbudet i § 1, annet punktum, eller medvirker dertil straffes med bøter. At en fordring overdras eller pantsettes i strid med forbudet, medfører ingen økning av debitors forpliktelser.\n1 Endret ved lov 26 jan. 1973 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks. Så lenge Norges banks seddelinnfrielse er utsatt i medhold av lov av 23 april 1892 § 7, siste ledd, får loven også anvendelse på fordringer som er stiftet før lovens ikrafttreden, for så vidt ikke vedkommende departement bestemmer noe annet; foretrekker fordringshaveren å vente med å få betaling inntil utløpet av det nevnte tidsrom, kan han i mellomtiden kreve 2 pst. av kronebeløpet i årlig rente. Fordringer som den 3 januar 1933 tilhørte nogen som uansett loven vilde kunne kreve betaling i utenlandsk mynt, berøres ikke av loven fordi om de senere kommer i norsk eie.\n– – –\n1 Endret ved lov 28 juni 1946 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "En fordringshaver som er norsk​1 og bosatt i Norge (herunder også norske selskaper og institusjoner), kan, hvor fordringen lyder på norske kroner ved siden av utenlandsk mynt, bare kreve betaling idet avtalte beløp av norske kroner. Han må ikke overdra eller pantsette fordringen til nogen som ikke er norsk og bosatt i Norge og må heller ikke føre ut av landet gjeldsbrever og kuponger som er knyttet til fordringen.\n1 Se lov 8 des. 1950 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den som overtreder forbudet i § 1, annet punktum, eller medvirker dertil straffes med bøter. At en fordring overdras eller pantsettes i strid med forbudet, medfører ingen økning av debitors forpliktelser.\n1 Endret ved lov 26 jan. 1973 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks. Så lenge Norges banks seddelinnfrielse er utsatt i medhold av lov av 23 april 1892 § 7, siste ledd, får loven også anvendelse på fordringer som er stiftet før lovens ikrafttreden, for så vidt ikke vedkommende departement bestemmer noe annet; foretrekker fordringshaveren å vente med å få betaling inntil utløpet av det nevnte tidsrom, kan han i mellomtiden kreve 2 pst. av kronebeløpet i årlig rente. Fordringer som den 3 januar 1933 tilhørte nogen som uansett loven vilde kunne kreve betaling i utenlandsk mynt, berøres ikke av loven fordi om de senere kommer i norsk eie.\n– – –\n1 Endret ved lov 28 juni 1946 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

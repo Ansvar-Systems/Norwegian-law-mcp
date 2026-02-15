@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1978-06-02-39",
+  "type": "statute",
+  "title": "Lov om samtykke til ratifikasjon av Haag-konvensjonen 1970 om anerkjennelse av skilsmisser og separasjoner.",
+  "short_name": "Lov om skilsmissekonvensjon.",
+  "status": "in_force",
+  "issued_date": "1978-06-02",
+  "in_force_date": "1978-06-02",
+  "url": "https://lovdata.no/dokument/NLO/lov/1978-06-02-39",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Stortinget samtykker til ratifikasjon av en konvensjon om anerkjennelse av skilsmisser og separasjoner, datert Haag 1. juni 1970.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Stortinget samtykker til ratifikasjon av en konvensjon om anerkjennelse av skilsmisser og separasjoner, datert Haag 1. juni 1970.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

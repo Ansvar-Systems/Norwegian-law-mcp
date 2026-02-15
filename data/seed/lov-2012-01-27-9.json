@@ -1,0 +1,1575 @@
+{
+  "id": "LOV-2012-01-27-9",
+  "type": "statute",
+  "title": "Lov om arbeidstvister (arbeidstvistloven)",
+  "short_name": "Arbeidstvistloven – arbtvl",
+  "status": "in_force",
+  "issued_date": "2012-01-27",
+  "in_force_date": "2012-03-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2012-01-27-9",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Definisjoner",
+      "content": "I denne lov menes med:\na. arbeidstaker: enhver som utfører arbeid for og underordnet en annen, og som ikke går inn under lov om offentlige tjenestetvister.\nb. arbeidsgiver: enhver som har ansatt arbeidstaker for å utføre arbeid i sin tjeneste.\nc. fagforening: enhver sammenslutning av arbeidstakere eller av arbeidstakeres foreninger som har til formål å vareta arbeidstakernes interesser overfor deres arbeidsgivere.\nd. arbeidsgiverforening: enhver sammenslutning av arbeidsgivere eller arbeidsgiveres foreninger som har til formål å vareta arbeidsgivernes interesser overfor deres arbeidstakere.\ne. tariffavtale: en avtale mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om arbeids- og lønnsvilkår eller andre arbeidsforhold.\nf. streik: hel eller delvis arbeidsstans som arbeidstakere i fellesskap eller i forståelse med hverandre iverksetter for å tvinge frem en løsning av en tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening. Som ledd i en streik regnes også når vedkommende bedrift søkes sperret for arbeidskraft.\ng. lockout: hel eller delvis arbeidsstans som en arbeidsgiver iverksetter for å tvinge frem en løsning av en tvist mellom en arbeidsgiver eller arbeidsgiverforening og en fagforening, uten hensyn til om andre arbeidstakere tas inn istedenfor de utestengte. Som ledd i en lockout regnes også når de utestengte arbeidstakerne søkes hindret i å få annet arbeid.\nh. plassoppsigelse: oppsigelse av arbeidsavtaler med det formål å iverksette streik eller lockout.\ni. rettstvist: tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om en tariffavtales gyldighet, forståelse eller eksistens eller om krav som bygger på en tariffavtale.\nj. interessetvist: tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om ordningen av fremtidige arbeids- og lønnsvilkår eller andre arbeidsforhold som ikke omfattes av en tariffavtale eller som skal avløse en tidligere tariffavtale.\nk. virkedag: alle dager som ikke er søndager eller lovbestemte hellig- eller høytidsdager.\n0 Endret ved lover 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235), 17 mars 2023 nr. 3 (i kraft 1 jan 2024 iflg. res. 17 mars 2023 nr. 341).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Opplysningsplikt",
+      "content": "Fagforening og arbeidsgiverforening eller sammenslutning av slike skal når departementet eller riksmekleren krever det, gi opplysninger om foreningens eller sammenslutningens organisasjon, medlemsforhold mv. En sammenslutning av foreninger plikter å gi slike opplysninger også om sine underavdelinger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "title": "Forhandlinger om inngåelse av tariffavtale",
+      "content": "Fagforening, arbeidsgiver, arbeidsgiverforening eller sammenslutning av slike kan fremsette krav om forhandlinger med sikte på å inngå eller revidere en tariffavtale. Dersom motparten ikke møter til forhandlinger eller forhandlingene ikke fører til inngåelse av en ny eller revidert tariffavtale, kan streik eller lockout iverksettes når de vilkår som fremgår av §§ 18 og 25 er oppfylt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Tariffavtalens form og innhold",
+      "content": "En tariffavtale skal opprettes skriftlig og bør inneholde bestemmelser om ikrafttredelsestidspunkt, varighet og oppsigelsesfrist.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Tariffavtalens varighet og oppsigelse",
+      "content": "(1) Med mindre annet er fastsatt, gjelder tariffavtalen i tre år regnet fra den dag den ble underskrevet.\n(2) Oppsigelse av tariffavtale skal gjøres skriftlig og senest tre måneder før avtalen utløper, med mindre annen oppsigelsesfrist er fastsatt.\n(3) Blir en tariffavtale ikke sagt opp innen fristen, forlenges den med ett år.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Tariffavtalens ufravikelighet",
+      "content": "Bestemmelse i arbeidsavtale som strider mot en tariffavtale som begge parter er bundet av, er ugyldig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Virkning av utmeldelse av fagforening eller arbeidsgiverforening",
+      "content": "Et medlem eller en underavdeling av en fagforening eller arbeidsgiverforening blir ikke ved utmeldelse eller eksklusjon fri for sine forpliktelser etter de tariffavtaler som gjelder for foreningen ved uttredelsen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Fredsplikt",
+      "content": "(1) Rettstvist må ikke søkes løst ved streik, lockout eller annen arbeidskamp.\n(2) Interessetvist må ikke søkes løst ved streik, lockout eller annen arbeidskamp før vilkårene i §§ 18 og 25 er oppfylt. Gjelder interessetvisten revisjon av tariffavtale, må dessuten gyldighetstiden for denne være utløpt.\n(3) Med mindre annet er avtalt, skal den tariffavtale og de lønns- og arbeidsvilkår som gjaldt ved tvistens utbrudd, gjelde så lenge streik, lockout eller annen arbeidskamp ikke må iverksettes etter andre ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Erstatningsansvar for brudd på tariffavtale mv.",
+      "content": "(1) Har medlemmer av en fagforening eller arbeidsgiverforening brutt en tariffavtale, er foreningen og vedkommende medlemmer erstatningsansvarlige. Foreningens ansvar inntrer bare når den selv er skyld i bruddet eller i fortsettelsen av det tariffstridige forholdet. En arbeidsgiver, arbeidsgiverforening, fagforening eller deres medlemmer er også erstatningsansvarlige for ulovlig streik, lockout eller annen arbeidskamp, jf. § 8 andre ledd. Andre punktum i bestemmelsen her gjelder tilsvarende.\n(2) Erstatningsansvaret etter første ledd første og tredje punktum gjelder tilsvarende for andre arbeidstakere som deltar i den tariffstridige eller ulovlige streiken.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Fastsettelse av erstatning for brudd på tariffavtale mv.",
+      "content": "Erstatning for brudd på tariffavtale eller ulovlig streik eller lockout skal av retten fastsettes under hensyn til skadens størrelse, skadevolderens skyld og økonomiske bæreevne, skadelidtes forhold og omstendighetene for øvrig. Ved særlig formildende omstendigheter kan erstatningen falle helt bort.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Meklere",
+      "content": "(1) Kongen oppnevner for tre år av gangen en fast mekler for hele riket (riksmekleren) og en eller flere faste meklere for de enkelte meklingskretser (kretsmeklere). Meklingskretsene fastsettes av Kongen.\n(2) Kongen kan etter innstilling fra riksmekleren oppnevne særskilte meklere for begrensede tidsrom eller for enkelte tilfeller, samt fast stedfortreder for riksmekleren.\n(3) Meklerne må oppfylle vilkårene i § 36 første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Meklingsinstitusjonens oppgaver og organisering",
+      "content": "(1) Meklerne skal mekle i interessetvister mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening i samsvar med bestemmelsene i dette kapitlet. Meklerne skal forsøke å oppnå enighet mellom partene om et rimelig forlik.\n(2) Riksmekleren leder meklingsinstitusjonen og er de øvrige meklernes overordnede.\n(3) Riksmekleren kan overlate meklingen i en sak til en kretsmekler eller en særskilt mekler. Riksmekleren kan selv overta meklingen i saker som hører under kretsmeklerne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Meklerløfte",
+      "content": "Ingen må gjøre tjeneste som mekler før de har avlagt skriftlig forsikring om at de samvittighetsfullt vil oppfylle sine plikter. Forsikringen sendes til departementet. Kongen fastsetter hvordan den skal lyde, jf. domstolloven § 60.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Inhabilitet",
+      "content": "(1) Reglene om inhabilitet i domstolloven §§ 106 flg. gjelder tilsvarende for meklerne så langt de passer.\n(2) Anser riksmekleren seg for inhabil i en tvist, meldes dette snarest mulig til departementet. Er departementet enig i at riksmekleren ikke bør behandle tvisten, overlates behandlingen av saken til en annen oppnevnt mekler.\n(3) Anser en annen mekler seg for inhabil i en tvist, meldes dette snarest mulig til riksmekleren. Riksmekleren kan enten selv overta behandlingen av tvisten eller overlate den til en annen oppnevnt mekler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Plassoppsigelse",
+      "content": "(1) Plassoppsigelse som ledd i interessetvist skal gis skriftlig. Oppsigelsesfristen er 14 dager hvis ikke annet er fastsatt ved tariffavtale eller annen skriftlig avtale.\n(2) Plassoppsigelse for den enkelte arbeidstaker gis av arbeidstakeren selv eller dennes fagforening overfor arbeidsgiver, eller av den enkelte arbeidsgiver overfor den enkelte arbeidstaker.\n(3) Der dette følger av tariffavtale, kan hver av partene gi plassoppsigelse for sine medlemmer til den annen part (kollektiv plassoppsigelse).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Melding til riksmekleren",
+      "content": "(1) Når det gis plassoppsigelse i interessetvist, skal det samtidig gis skriftlig melding om dette til riksmekleren.\n(2) Meldingen skal inneholde:\na. kopi av plassoppsigelsen,\nb. redegjørelse for hva tvisten gjelder,\nc. opplysninger om ved hvilke bedrifter plassoppsigelse foretas og hvor mange arbeidstakere ved hver bedrift plassoppsigelsen omfatter,\nd. opplysninger om når plassoppsigelsesfristen løper ut,\ne. opplysninger om hvorvidt forhandlinger mellom partene er åpnet og i tilfelle om de fremdeles pågår eller er avbrutt.\n(3) Pågår forhandlinger når melding om plassoppsigelse sendes, skal melding om senere avbrytelse av forhandlingene på samme måte sendes til riksmekleren.\n(4) Meldingen sendes av den fagforening, arbeidsgiver eller arbeidsgiverforening som har foretatt plassoppsigelsen. Er den aktuelle fagforening, arbeidsgiver eller arbeidsgiverforening medlem i en organisasjon med innstillingsrett etter § 39, sendes meldingen om plassoppsigelse til riksmekleren gjennom denne organisasjonen.\n(5) Meldinger til riksmekleren etter denne paragraf sendes samtidig i kopi til motparten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Hvem som omfattes av streik eller lockout",
+      "content": "Streik eller lockout iverksettes for samtlige arbeidstakere som omfattes av plassoppsigelsen, med mindre partene er enige om noe annet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Tidspunkt for iverksettelse av streik eller lockout",
+      "content": "(1) Streik eller lockout må ikke iverksettes før det er gitt plassoppsigelse og oppsigelsesfristen som følger av denne er utløpt, og ikke i noe tilfelle før fire virkedager har gått fra riksmekleren har mottatt melding om at forhandlinger ikke er innledet eller er brutt eller at plassoppsigelsen er utvidet, jf. §§ 16 og 17.\n(2) Fristen i første ledd starter å løpe første virkedag etter at riksmekleren har mottatt meldingen.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Midlertidig forbud mot arbeidsstans",
+      "content": "(1) Når riksmekleren har fått melding om eller på annen måte er blitt kjent med at forhandlinger ikke er innledet eller er brutt, jf. § 16, skal riksmekleren midlertidig forby partene å iverksette streik eller lockout som kan medføre skade for allmenne interesser, inntil mekling etter dette kapitlet er avsluttet.\n(2) Blir plassoppsigelsen utvidet, skal riksmekleren på tilsvarende vilkår forby streik eller lockout som følger av utvidelsen.\n(3) Forbudet sendes til den forening som har sendt eller skulle ha sendt meldingen om plassoppsigelsen. Kopi av melding om forbud skal sendes til motparten.\n(4) For å være bindende må forbudet være sendt fra riksmekleren innen utløpet av to virkedager etter at riksmekleren mottok melding om at forhandlinger ikke er innledet eller er brutt eller at plassoppsigelsen er utvidet. Fristen i første punktum starter å løpe første virkedag etter at riksmekleren har mottatt meldingen.\n(5) Hvis det nedlegges forbud mot streik eller lockout i tvist hvor kommune, fylkeskommune eller sammenslutning av slike er part, kan riksmekleren samtidig bestemme at de frister som følger av tjenestetvistloven § 14 tredje ledd og § 17 første og andre ledd skal gjelde for meklingen.\n(6) Riksmekleren kan overlate til en annen oppnevnt mekler å forby streik eller lockout.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "title": "Innkalling til mekling",
+      "content": "(1) Hvis det er nedlagt forbud mot streik eller lockout etter § 19, skal riksmekleren eller mekleren som saken er overdratt til, straks iverksette mekling.\n(2) Hvis forbud mot streik eller lockout ikke er nedlagt, kan riksmekleren eller en kretsmekler av eget tiltak eller etter begjæring av en part likevel iverksette mekling i en tvist.\n(3) Hvis riksmekleren eller en kretsmekler mener det er hensiktsmessig, kan det innkalles til mekling etter reglene i dette kapittel selv om det ikke er gitt plassoppsigelse etter § 15.\n(4) Mekleren fastsetter tid og sted for meklingen. Meklingsmøte kan også holdes utenfor meklingskretsen. Partene innkalles på den måte mekleren finner hensiktsmessig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "title": "Parter og partsrepresentanter",
+      "content": "Partene kan møte selv og ved fullmektig. Rådgivere kan også møte. Om partenes plikt til å møte til mekling gjelder reglene i § 51 tilsvarende så langt de passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "3:22",
+      "chapter": "3",
+      "section": "22",
+      "title": "Innhenting av opplysninger",
+      "content": "(1) Mekleren skal innhente alle opplysninger som er nødvendige for å behandle tvisten.\n(2) Ved innhenting av opplysninger har mekleren myndighet som nevnt i § 48 så langt det passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "3:23",
+      "chapter": "3",
+      "section": "23",
+      "title": "Taushetsplikt",
+      "content": "(1) Meklingsmøtene skal holdes for lukkede dører.\n(2) Enhver som deltar i meklingen, plikter å bevare taushet om det som er fremkommet under meklingen, hvis ikke mekleren tillater offentliggjøring. Taushetsplikten omfatter også en parts egne krav og tilbud.\n(3) Taushetsplikten gjelder ikke ved forklaringer for Arbeidsretten.\n(4) Mekleren har ikke vitneplikt for Arbeidsretten om forhold fremkommet under meklingen.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "3:24",
+      "chapter": "3",
+      "section": "24",
+      "title": "Møtebok",
+      "content": "(1) I møteboken føres inn tid og sted for meklingsmøtet og meklerens, partenes og partsrepresentantenes navn. Møteboken skal angi de bevis som er gjennomgått og meklingens gang i korthet.\n(2) Resultatet av meklingen oppsummeres. Har mekleren lagt frem et endelig forslag til løsning av tvisten, skal forslaget føres inn i møteboken uavhengig av utfallet av meklingen. Eventuell frist etter § 26 første ledd for når et avstemningsresultat skal foreligge, skal gjengis.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "3:25",
+      "chapter": "3",
+      "section": "25",
+      "title": "Meklingens avslutning",
+      "content": "(1) Hver av partene kan kreve meklingen avsluttet når det har gått ti dager etter at forbudet mot streik eller lockout ble nedlagt etter § 19 første ledd. Dette gjelder ikke hvis vedkommende part ved fravær eller på annen måte ikke har medvirket til meklingen.\n(2) Meklingen skal avsluttes senest fire dager etter at krav om avslutning er fremsatt.\n(3) Kommer forlik i stand, skal tariffavtale i overensstemmelse med dette opprettes i samarbeid med mekleren. Tariffavtalen undertegnes av partene eller deres representanter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "3:26",
+      "chapter": "3",
+      "section": "26",
+      "title": "Avstemning over meklingsforslag",
+      "content": "(1) Dersom det skal stemmes over et meklingsforslag, skal mekleren i samråd med partene sette frist for når avstemningsresultatet skal foreligge.\n(2) Avstemningen skal bare gjelde meklingsforslaget som det foreligger fra mekleren. Avstemningen skal være hemmelig og skriftlig med rene ja- eller nei-stemmer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "3:27",
+      "chapter": "3",
+      "section": "27",
+      "title": "Melding om avstemningsresultat",
+      "content": "(1) Partene skal gi riksmekleren skriftlig melding om hvorvidt meklingsforslaget er vedtatt eller forkastet.\n(2) Forkastes forslaget, skal meldingen gi opplysninger om antallet stemmer for og imot forslaget og om antallet stemmeberettigede. Dersom avstemningsresultatet ikke foreligger innen fristen, anses meklingsforslaget som vedtatt.\n(3) Ingen deler av avstemningsresultatet må offentliggjøres før riksmekleren har kunngjort hovedresultatet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "3:28",
+      "chapter": "3",
+      "section": "28",
+      "title": "Iverksettelse av streik eller lockout når meklingsforslaget forkastes",
+      "content": "Dersom meklingsforslaget forkastes og varsel om plassoppsigelse etter § 15 fortsatt gjelder, kan plassoppsigelsen iverksettes med fire dagers varsel mellom partene. Partene kan i tariffavtale avtale kortere frist.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "3:29",
+      "chapter": "3",
+      "section": "29",
+      "title": "Senere vedtakelse av et meklingsforslag",
+      "content": "Vil noen av partene vedta meklerens forslag til løsning av tvisten etter at meklingen er avsluttet, kan erklæring om dette sendes til vedkommende mekler. Mekleren sender kopi av erklæringen til motparten. Godkjenner også denne parten forslaget, innkaller mekleren partene til et møte for opprettelse av tariffavtale.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "3:30",
+      "chapter": "3",
+      "section": "30",
+      "title": "Gjenopptakelse av mekling",
+      "content": "(1) Partene kan i fellesskap kreve en avsluttet mekling gjenopptatt.\n(2) Riksmekleren og mekleren som har behandlet saken kan når som helst gjenoppta meklingen.\n(3) Er det gått en måned etter at meklingen ble avsluttet uten at tvisten i mellomtiden er løst, skal mekleren som har behandlet saken, gjenoppta kontakt med partene med henblikk på å få avsluttet konflikten. Er et meklingsforslag til behandling hos partene, skal mekleren vente til behandlingen er avsluttet.\n(4) Om partenes plikt til å møte til mekling gjelder reglene i § 51 tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "3:31",
+      "chapter": "3",
+      "section": "31",
+      "title": "Klage",
+      "content": "Vedtak etter dette kapitlet truffet av riksmekleren eller annen mekler oppnevnt etter loven, kan ikke påklages.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "3:32",
+      "chapter": "3",
+      "section": "32",
+      "title": "Partenes kostnader",
+      "content": "Partene bærer hver sine kostnader med meklingen, med mindre annet er avtalt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "4:33",
+      "chapter": "4",
+      "section": "33",
+      "title": "Arbeidsrettens sete",
+      "content": "Arbeidsretten har sete i Oslo. Ved behov kan retten settes andre steder.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "4:34",
+      "chapter": "4",
+      "section": "34",
+      "title": "Arbeidsrettens domsmyndighet",
+      "content": "(1) Arbeidsretten skal behandle rettstvister som nevnt i § 1 bokstav i, tvister om det foreligger brudd på § 8 om fredsplikt og tvister om erstatningsansvar etter § 9.\n(2) Arbeidsretten skal likevel ikke behandle tvister om erstatningsansvar etter § 9 når saken kun er anlagt mot arbeidstakere som nevnt i § 9 andre ledd.\n(3) Tvister som knytter seg til tariffavtaler om europeiske samarbeidsutvalg eller tilsvarende samarbeidsordninger, behandles etter lov 23. august 1996 nr. 63 om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutvalg m.v. Arbeidsretten skal heller ikke behandle tvister som knytter seg til tariffavtaler inngått etter bestemmelser gitt i medhold av SE-loven § 3 eller SCE-loven § 3.\n(4) Partene kan vedta privat voldgift om de tvistene som er nevnt i § 8 første ledd og § 9.\n(5) I en sak om en tariffavtale kan det også inndras krav som utspringer av en arbeidsavtale, hvis kravet etter arbeidsavtalen vil få sin umiddelbare avgjørelse ved dommen i hovedsaken.\n(6) Domstolloven og tvisteloven får tilsvarende anvendelse for Arbeidsretten så langt de passer og ikke strider mot bestemmelsene i denne loven.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "4:35",
+      "chapter": "4",
+      "section": "35",
+      "title": "Søksmål",
+      "content": "(1) Er en tariffavtale sluttet mellom en fagforening, dens underavdelinger og medlemmer på den ene side og en arbeidsgiver eller en arbeidsgiverforening, dens underavdelinger og medlemmer på den annen side, er det bare den overordnede fagforening eller arbeidsgiverforening eller den enkeltstående arbeidsgiver som har søksmålsrett.\n(2) Den overordnede fagforening eller arbeidsgiverforening kan likevel overdra sin søksmålsrett til en underavdeling som har undertegnet tariffavtalen. Det skal gis skriftlig melding om overdragelsen til Arbeidsretten og tariffmotparten. Overdragelsen kan begrenses til en enkelt tvist eller gis virkning for hele tariffperioden. I sistnevnte tilfelle kan vedkommende underavdeling saksøkes direkte og alene av den annen søksmålsberettigede part i tariffavtalen.\n(3) Før en sak kan bringes inn for Arbeidsretten, skal partene ha gjennomført eller forsøkt gjennomført forhandlinger om tvisten.\n(4) Vil en part nedlegge påstand mot navngitte medlemmer av en forening, skal disse stevnes ved siden av foreningen. Tilsvarende gjelder om det skal nedlegges påstand mot andre navngitte personer, jf. § 9 andre ledd.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "4:36",
+      "chapter": "4",
+      "section": "36",
+      "title": "Krav til Arbeidsrettens dommere",
+      "content": "(1) Dommere i Arbeidsretten må være norske statsborgere som er vederheftige og som ikke er fradømt stemmerett i offentlige anliggender. De må ikke være medlem av styret i en fagforening eller arbeidsgiverforening eller være fast ansatt i en slik forening.\n(2) Rettens fagdommere skal i tillegg oppfylle de krav som gjelder for høyesterettsdommere.\n(3) En fagdommer i Arbeidsretten må søke departementet om godkjenning for sidegjøremål i slike tilfeller som fremgår av domstolloven § 121c. Departementet fører register over fagdommernes sidegjøremål i samsvar med domstolloven § 121e. En fagdommer skal melde fra om sidegjøremål snarest mulig, og senest innen en måned etter at dommeren påtok seg sidegjøremålet. Enhver har rett til å gjøre seg kjent med opplysningene i registeret. Departementet bestemmer hvordan opplysninger skal gjøres tilgjengelige for den som ber om det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "4:37",
+      "chapter": "4",
+      "section": "37",
+      "title": "Arbeidsrettens organisering. Oppnevning og utnevning av dommere mv.",
+      "content": "(1) De faste dommere i Arbeidsretten er tre fagdommere, hvorav en leder og en nestleder, og fire andre dommere.\n(2) De tre fagdommerne er embetsmenn. De øvrige fire dommerne og minst to varadommere for hver av rettens sju dommere oppnevnes av Kongen for tre år. De fire dommerne med varadommere oppnevnes etter innstilling, jf. § 39.\n(3) Departementet kan gi permisjoner, frita og oppnevne dommere og varadommere i Arbeidsretten i oppnevningsperioden. Gjelder permisjonen eller fritaket en dommer eller en varadommer som er oppnevnt etter innstilling, jf. § 39, skal vedkommende organisasjon gis adgang til å innstille på nytt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "4:38",
+      "chapter": "4",
+      "section": "38",
+      "title": "Arbeidsrettens sammensetning i den enkelte sak",
+      "content": "(1) I den enkelte sak settes Arbeidsretten med sju dommere. Som hovedregel tilkalles to faste fagdommere og en varadommer for fagdommerne. Videre tilkalles fire dommere oppnevnt etter innstilling etter § 39. Varadommer som er oppnevnt etter innstilling fra en forening hvis innstilling ikke er fulgt ved oppnevningen av de faste dommerne, skal i saker som gjelder denne foreningen eller dens medlemmer likevel tilkalles i stedet for den dommer vedkommende er varadommer for.\n(2) Hvis en dommer under forhandlingene får forfall som må antas å ville vare lenger enn en uke, oppnevnes stedfortreder etter § 41. Dersom stedfortreder oppnevnes, skal hovedforhandlingen starte på nytt.\n(3) De dommere som har begynt hovedforhandlingen av en sak, skal føre saken til ende selv om deres tjenestetid løper ut under behandlingen av saken.\n(4) Arbeidsrettens leder kan ved særlig langvarige saker eller ved andre særlige omstendigheter beslutte at det i tillegg til dommere tilkalt etter første ledd skal tilkalles en varadommer for fagdommerne og en varadommer fra hver side for dommere oppnevnt etter innstilling etter § 39. Første ledd fjerde punktum gjelder tilsvarende. Varadommerne skal følge forhandlingene og tre inn ved forfall.\n(5) Dersom begge parter samtykker, og retten finner det ubetenkelig, kan retten settes med tre fagdommere eller en fagdommer og en dommer fra hver side oppnevnt etter innstilling etter § 39. Første ledd fjerde punktum gjelder tilsvarende.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "4:39",
+      "chapter": "4",
+      "section": "39",
+      "title": "Innstillingsretten",
+      "content": "(1) Arbeidsgiverforening som omfatter minst 100 arbeidsgivere som til sammen sysselsetter minst 10 000 arbeidstakere, samt fagforening som har minst 10 000 arbeidstakere som medlemmer, kan hver for seg fremsette forslag til to dommere med varadommere. De som foreslås, må ha sagt seg villige til å motta vervet.\n(2) Blant dem som er foreslått, oppnevnes to dommere med varadommere fra hver side. Er det innkommet konkurrerende forslag fra forskjellige fagforeninger eller arbeidsgiverforeninger, skal de faste dommerne fra hver side oppnevnes blant dem som er foreslått av den fagforening og den arbeidsgiverforening som har flest medlemmer innenfor lovens område.\n(3) Er ikke innstilling kommet inn til departementet innen en fastsatt frist, skjer oppnevningen uten innstilling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "4:40",
+      "chapter": "4",
+      "section": "40",
+      "title": "Inhabilitet",
+      "content": "(1) Reglene om inhabilitet i domstolloven §§ 106 og 107 gjelder tilsvarende for dommere i Arbeidsretten. Når andre særlige omstendigheter foreligger, som er egnet til å svekke tilliten til en dommers habilitet, skal dommeren vike sete. Spørsmål om inhabilitet kan reises av dommerne og partene. Domstolloven § 113 gjelder tilsvarende så langt den passer.\n(2) Retten avgjør ved kjennelse om noen skal utelukkes som inhabil. Reises spørsmål om å utelukke en innstilt dommer forut for hovedforhandlingen hvor saken skal behandles, treffer rettens tre fagdommere avgjørelsen ved kjennelse.\n(3) Reises spørsmål om å utelukke en av Arbeidsrettens fagdommere, skal Arbeidsrettens leder innkalle en varadommer for å delta i avgjørelsen av spørsmålet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "4:41",
+      "chapter": "4",
+      "section": "41",
+      "title": "Stedfortreder for en dommer som er inhabil eller har forfall",
+      "content": "(1) Hvis alle rettens fagdommere er inhabile eller har forfall, oppnevner departementet stedfortreder for rettens leder.\n(2) Hvis det kan ventes fremsatt en inhabilitetsinnsigelse mot en dommer som er oppnevnt etter innstilling, og rettens leder eller saksforberedende dommer antar innsigelsen kan bli godkjent av retten, skal varadommer tilkalles.\n(3) Hvis en dommer er inhabil eller har forfall, skal det tilkalles en varadommer i den rekkefølge oppnevningen viser. For en dommer som er oppnevnt etter innstilling, skal varadommer fra samme forening likevel tilkalles før andre varadommere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "4:42",
+      "chapter": "4",
+      "section": "42",
+      "title": "Rettens forhandlingsdyktighet",
+      "content": "Retten er forhandlings- eller beslutningsdyktig når alle dommere eller varadommere som skal behandle saken er til stede. Ved avgjørelsen av inhabilitetsspørsmål gjelder § 40.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "4:43",
+      "chapter": "4",
+      "section": "43",
+      "title": "Dommerløfte",
+      "content": "Ingen må gjøre tjeneste som dommer i Arbeidsretten før de har avlagt skriftlig forsikring om at de samvittighetsfullt vil oppfylle sine plikter. Forsikringen sendes til departementet. Kongen fastsetter hvordan den skal lyde, jf. domstolloven § 60.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "4:44",
+      "chapter": "4",
+      "section": "44",
+      "title": "Partsrepresentanter og prosessfullmektiger",
+      "content": "(1) En part kan møte selv eller ved prosessfullmektig.\n(2) En part kan møte med inntil tre personer i tillegg til en eller flere prosessfullmektiger.\n(3) Utenlandsk advokat kan være prosessfullmektig når retten etter sakens art og forholdene ellers finner det ubetenkelig.\n(4) En prosessfullmakt må være uinnskrenket.\n(5) For øvrig gjelder bestemmelsene i tvisteloven kapittel 2 om parter, prosessdyktighet og stedfortredere og kapittel 3 om prosessfullmektiger og rettslige medhjelpere tilsvarende så langt de passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "4:45",
+      "chapter": "4",
+      "section": "45",
+      "title": "Forberedelsen av saken",
+      "content": "(1) Saken bringes inn for Arbeidsretten ved skriftlig stevning. Blir stevningen sendt som papirdokument, skal det sendes så mange eksemplarer at dommerne i saken og saksøkte kan få hvert sitt eksemplar.\n(2) Stevningen skal inneholde:\na. navn og adresse på parter og prosessfullmektiger,\nb. en fremstilling av saken og de krav som gjøres gjeldende,\nc. en påstand som angir det domsresultat saksøker krever,\nd. den faktiske og rettslige begrunnelse for saksøkerens krav,\ne. oppgave over de bevis som vil bli ført, hvordan de tenkes skaffet til veie, og hva saksøkeren akter å godtgjøre ved dem,\nf. oppgave over de bevis saksøkeren ønsker fremskaffet av motparten eller ved rettens hjelp,\ng. grunnlaget for at retten kan behandle saken dersom det kan være tvil om dette,\nh. saksøkerens syn på den videre behandling av saken.\n(3) Er det mangler ved stevningen, skal saksøkeren snarest mulig gjøres oppmerksom på dem og forklares hvordan de bør rettes. Retten skal sette en frist for å rette manglene i stevningen. Fristen skal normalt være to uker.\n(4) Med stevningen skal sendes protokoll fra forhandlinger etter § 35 tredje ledd eller bevis for at saksøkeren har forsøkt å gjennomføre slike forhandlinger. Dersom det ikke er gjennomført eller forsøkt gjennomført forhandlinger, skal saksøkeren gjøres oppmerksom på at retten ikke kan ta saken under behandling, og det skal settes en frist for å gjennomføre slike forhandlinger. Blir det ikke gjennomført eller forsøkt gjennomført forhandlinger innen fristen, kan saksforberedende dommer ved kjennelse bestemme at saken avvises.\n(5) Når stevningen er i orden, sendes den uten opphold til saksøkte. Retten skal fastsette en frist, som normalt bør være tre uker, til å inngi skriftlig tilsvar. I tilsvaret skal saksøkte fremsette sine bemerkninger til stevningen, eventuelle innsigelser mot at retten behandler saken, nevne de krav som saksøkte vil reise, gi bevisoppgaver svarende til dem som er nevnt under andre ledd bokstav e og f, samt angi saksøktes syn på den videre behandling av saken. Første ledd gjelder tilsvarende.\n(6) Saksforberedende dommer fastsetter tid og sted for hovedforhandlingen, som skal holdes snarest mulig, men tidligst 48 timer etter at innkallingen er bekreftet mottatt av partene. Hovedforhandlingen skal påbegynnes senest seks måneder etter at vilkårene i femte ledd første punktum er oppfylt, med mindre særlige grunner taler for at det brukes lengre tid til saksforberedelsen. Fristen starter å løpe når stevningen er forkynt for motparten. Hovedforhandlingen kan holdes utenfor rettens faste sete.\n(7) Er arrest gjort for å sikre et erstatningskrav hvis avgjørelse hører under Arbeidsretten, må sak om erstatningskravet reises innen seks dager.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "4:46",
+      "chapter": "4",
+      "section": "46",
+      "title": "Partshjelp",
+      "content": "(1) Partshjelp kan tillates for\na. den som har reelt behov begrunnet i egen rettsstilling for at den ene parten vinner, og\nb. arbeidsgiver- og arbeidstakerorganisasjoner som har et slikt behov begrunnet i sine medlemmers rettsstilling.\n(2) Medlem eller underavdeling som ikke har søksmålsrett etter § 35 første ledd, kan ikke opptre som partshjelper med mindre den som har søksmålsrett gir sitt samtykke.\n(3) Partshjelp må erklæres i prosesskriv senest fire uker før hovedforhandlingen. Retten kan i særlige tilfeller tillate partshjelp som erklæres på et senere tidspunkt. Erklæringen skal angi det som er grunnlaget for partshjelpen, og meddeles partene med en frist for å bestride partshjelpen. Bestrides den, avgjøres spørsmålet om retten til partshjelp ved kjennelse. Inntil det er avsagt kjennelse som nekter partshjelp, kan den som har erklært partshjelp, utøve prosessuelle rettigheter etter fjerde ledd.\n(4) Partshjelperen trer inn i saken slik den står. Partshjelperen kan foreta prosesshandlinger på vegne av parten. Prosesshandlingene må ikke stride mot partens prosesshandlinger\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "4:47",
+      "chapter": "4",
+      "section": "47",
+      "title": "Forening av saker til felles behandling",
+      "content": "Saker som reiser likeartede spørsmål, og som skal behandles med samme sammensetning av retten, kan forenes til felles behandling og til felles avgjørelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "4:48",
+      "chapter": "4",
+      "section": "48",
+      "title": "Saksbehandlingen",
+      "content": "(1) Retten skal sørge for at saken blir fullt opplyst.\n(2) Retten skal på ethvert trinn av saken vurdere muligheten for å få tvisten løst i minnelighet ved å oppfordre partene til å finne en utenrettslig løsning. Plikten etter første punktum gjelder ikke dersom sakens karakter eller forholdene for øvrig taler mot en slik løsning.\n(3) Saksforberedelsen og hovedforhandlingen styres av en av rettens fagdommere.\n(4) Saken behandles og bevisene føres på den måte som retten finner passende. Hovedforhandlingen skal være muntlig, med mindre begge parter samtykker i skriftlig behandling og retten finner det ubetenkelig. Tvisteloven § 9-13 om styringen av hovedforhandlingen og § 9-14 andre ledd om muntlig hovedforhandling gjelder tilsvarende så langt de passer.\n(5) Retten kan innhente forklaringer av parter, sakkyndige og enhver annen hvis forklaring kan være av betydning for saken. Tvisteloven § 22-9 om bevisfritak for belastende personopplysninger gjelder tilsvarende så langt den passer. Det kan ikke føres bevis med opplysninger fra meklere om det som har fremkommet under meklingen.\n(6) Retten kan pålegge enhver å fremlegge dokumenter, forretningsbøker og andre bevis som vedkommende har rådighet over. Retten kan pålegge en part eller et vitne å undersøke registrerte regnskapsopplysninger, regnskapsmateriale eller andre bevis, samt å legge frem en oversikt over dette.\n(7) Retten kan foreta befaring og bevisundersøkelse enten selv eller ved ett eller flere av sine medlemmer eller ved oppnevnte sakkyndige.\n(8) Arbeidsretten kan kreve bevisopptak ved tingretten. Tvisteloven § 21-11 om bevisopptak, § 21-13 om bevisføringen i saker som behandles skriftlig og bestemmelsene i kapittel 27 om bevisopptak i rettssak gjelder tilsvarende så langt de passer.\n(9) Tvisteloven § 16-4 om utsettelse av hovedforhandlingen gjelder tilsvarende så langt den passer.\n(10) En part som vil ha gyldig fravær ved et rettsmøte, kan kreve at møtet omberammes. Det samme gjelder når en partsrepresentant eller prosessfullmektig vil ha gyldig fravær og det vil innebære vesentlig ulempe at en annen møter i stedet. Rettens leder eller saksforberedende dommer kan ellers omberamme rettsmøter når det er nødvendig for å sikre forsvarlig behandling eller hvis tungtveiende grunner ellers taler for det. Ved avgjørelsen skal det legges vekt på behovet for rask, forsvarlig og kostnadseffektiv behandling. Ved omberammelse skal det så vidt mulig fastsettes ny tid for rettsmøtet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "4:49",
+      "chapter": "4",
+      "section": "49",
+      "title": "Stansing av saken",
+      "content": "(1) Saksforberedende dommer kan stanse en sak på begjæring fra en part dersom utfallet helt eller delvis avhenger av et rettsforhold som vil bli bindende avgjort i en annen sak. Saken kan også stanses dersom tungtveiende grunner ellers taler for det. Det skal legges vekt på behovet for hurtig, forsvarlig og kostnadseffektiv behandling.\n(2) Avgjørelse om stansing treffes ved kjennelse av saksforberedende dommer. Virkningen av stansing inntrer når kjennelsen er avsagt. Saken bringes i gang igjen når behandlingen kan fortsette.\n(3) Partene kan avtale stansing av en sak i minst tre måneder. Avtalen får virkning når retten har mottatt den. Saksforberedende dommer bringer saken i gang igjen på begjæring fra en part. Samme sak kan stanses ved avtale mellom partene flere ganger. En sak som er stanset etter avtale mellom partene, heves når den har vært stanset i til sammen to år.\n(4) Tvisteloven § 16-15 om virkning av stansing og § 16-16 om stansing etter loven gjelder tilsvarende så langt de passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "4:50",
+      "chapter": "4",
+      "section": "50",
+      "title": "Fravær for parter, partsrepresentanter og prosessfullmektiger",
+      "content": "(1) Hvis en part, partsrepresentant eller prosessfullmektig ikke møter, og det er opplyst eller sannsynlig at vedkommende har gyldig fravær, skal saken utsettes. Tvisteloven § 13-4 om gyldig fravær gjelder tilsvarende så langt den passer.\n(2) Dersom saksøker ikke møter uten at det er opplyst eller sannsynlig at vedkommende har gyldig fravær, skal saken avvises.\n(3) Dersom saksøkte ikke møter uten at det er opplyst eller sannsynlig at vedkommende har gyldig fravær, og saksøkeren møter, kan denne kreve saken fremmet. Saken skal i så fall så langt det er mulig behandles som om den fraværende part hadde vært til stede.\n(4) Hvis ingen part møter, og det ikke er opplyst eller sannsynlig at noen av dem har gyldig fravær, skal saken heves.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "4:51",
+      "chapter": "4",
+      "section": "51",
+      "title": "Møteplikt for vitner, parter og sakkyndige",
+      "content": "(1) Enhver som bor eller oppholder seg i Norge, plikter etter innkalling fra retten å møte som vitne for Arbeidsretten. Ved innkallingen skal det bestemmes om forklaringen skal gis direkte for Arbeidsretten eller ved fjernavhør. Tvisteloven § 21-10 om fjernavhør gjelder tilsvarende så langt den passer.\n(2) Om partenes plikt til å møte personlig etter særlig pålegg gjelder de samme regler som for vitner etter første ledd.\n(3) Enhver som plikter å vitne i saken, er etter oppnevning av retten pliktig til å gjøre tjeneste som sakkyndig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "4:52",
+      "chapter": "4",
+      "section": "52",
+      "title": "Innkalling av vitner, parter og sakkyndige",
+      "content": "(1) Vitner, sakkyndige og andre skal om mulig innkalles med én ukes varsel. Fristen kan innskrenkes til én dag dersom hensynet til rask behandling av saken gjør det påkrevd eller det legges til rette for at vitnet kan avhøres uten å forsømme viktige gjøremål. Vitner og sakkyndige som befinner seg i nærheten av rettsstedet eller et sted hvor fjernavhør kan foretas, plikter å møte straks om dette kan skje uten vesentlig ulempe.\n(2) Parter skal innkalles med minst 48 timers varsel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "4:53",
+      "chapter": "4",
+      "section": "53",
+      "title": "Godtgjøring for vitner og sakkyndige",
+      "content": "(1) Vitner som retten har innkalt og oppnevnte sakkyndige har krav på godtgjøring etter reglene i lov 21. juli 1916 nr. 2 om vidners og sakkyndiges godtgjørelse mv.\n(2) Retten kan bestemme at også vitner som fremstilles av partene og sakkyndige som ikke er oppnevnt, skal ha slik godtgjøring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "4:54",
+      "chapter": "4",
+      "section": "54",
+      "title": "Offentlighet og innsynsrett",
+      "content": "(1) Rettsmøtene er offentlige hvis ikke retten bestemmer noe annet. Dørene skal lukkes når forhandlingene omfatter forretnings- eller foreningshemmeligheter eller annet som ikke uvedkommende bør få kunnskap om.\n(2) Enhver som har vært til stede under forhandlinger for lukkede dører, plikter å bevare taushet om det som er fremkommet under forhandlingene, hvis ikke retten tillater offentliggjøring.\n(3) Bestemmelsene i tvisteloven kapittel 14 om offentlighet og innsynsrett gjelder tilsvarende så langt de passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "4:55",
+      "chapter": "4",
+      "section": "55",
+      "title": "Rettsbok",
+      "content": "(1) I rettsboken føres inn tid og sted for rettsmøtet, navnene på dommere, protokollfører, parter, partsrepresentanter, prosessfullmektiger, vitner og sakkyndige.\n(2) Rettsboken skal angi de bevis som er gjennomgått og forhandlingenes gang skal gjengis i korthet. Påstander og innsigelser skal føres inn fullstendig eller vedlegges. På samme måte skal alle rettens avgjørelser og forlik som sluttes mellom partene, føres inn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "4:56",
+      "chapter": "4",
+      "section": "56",
+      "title": "Rettens avgjørelser",
+      "content": "(1) Rettens avgjørelser treffes med stemmeflertall.\n(2) Dom skal avsies snarest mulig etter at saksbehandlingen er avsluttet, og senest fire uker etter avslutning av hovedforhandling. Domsavsigelsen kan skje senere dersom særlige omstendigheter gjør at det ikke er mulig å overholde fristen. Hvis fristen ikke overholdes, skal årsaken oppgis i dommen.\n(3) Tvisteloven § 19-4 første til tredje ledd om avsigelse og § 19-5 om underretning om avgjørelsen gjelder så langt de passer.\n(4) Retten kan beslutte å rette en avgjørelse som på grunn av skrive- eller regnefeil, misforståelser, forglemmelser eller lignende klare feil har fått en utforming som ikke stemte med rettens mening. Slik retting kan retten foreta av eget tiltak eller på begjæring av en part. Den dommer som ledet forhandlingene, kan foreta rettelsene dersom det ikke er tvil om hvordan de skal utføres. Beslutning om retting skal tilføyes avgjørelsen slik at det fremgår hva som er rettet. Partene skal underrettes straks.\n(5) Saksstyrende kjennelser og andre beslutninger kan retten omgjøre når omgjøringen ikke er uforholdsmessig tyngende for en part som har innrettet seg etter avgjørelsen. Tvisteloven § 19-10 fjerde ledd om omgjøring gjelder tilsvarende så langt den passer.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "4:57",
+      "chapter": "4",
+      "section": "57",
+      "title": "Rettsforlik",
+      "content": "(1) Det kan inngås rettsforlik under hovedforhandlingen. Rettsforlik føres inn i rettsboken og undertegnes av partene og rettens medlemmer. Har forliket ikke bestemmelser om sakskostnader, skal retten på begjæring fra partene avgjøre spørsmålet etter skjønn. Tvisteloven § 19-11 tredje ledd om rettens kontroll med forliket gjelder tilsvarende.\n(2) Et rettsforlik har samme virkning som en rettskraftig dom av Arbeidsretten.\n(3) Spørsmål om et rettsforliks gyldighet kan ankes til Høyesteretts ankeutvalg. Ankefristen er en måned.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    },
+    {
+      "provision_ref": "4:58",
+      "chapter": "4",
+      "section": "58",
+      "title": "Sakskostnader",
+      "content": "(1) Som hovedregel tilkjennes ikke sakskostnader for Arbeidsretten. Når særlige grunner taler for det, kan retten tilkjenne en part som har vunnet en sak, erstatning for sine sakskostnader fra motparten. Saken anses også vunnet dersom motpartens sak blir avvist eller hevet.\n(2) Heves en sak som forlikt uten at forliket omfatter sakskostnadene, avgjøres spørsmålet om sakskostnader etter rettens skjønn dersom en av partene krever det.\n(3) Arbeidsretten kan i særlige tilfeller pålegge en av partene eller begge å dekke statens utgifter til en rettssak etter denne loven.\n0 Endret ved lover 20 des 2018 nr. 98 (ikr. 1 jan 2019), 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_58",
+        "source_heading": "§ 58."
+      }
+    },
+    {
+      "provision_ref": "4:59",
+      "chapter": "4",
+      "section": "59",
+      "title": "Virkningen av rettens avgjørelser. Rettsmidler",
+      "content": "(1) Arbeidsrettens dommer og kjennelser som ikke kan ankes etter tredje eller fjerde ledd, er endelige og kan fullbyrdes etter reglene for høyesterettsdommer.\n(2) Har Arbeidsretten i sin domsslutning fastslått en bestemt forståelse av en tariffavtale, gjelder denne forståelsen også for enhver arbeidsavtale som bygger på tariffavtalen.\n(3) En dom kan ankes til Høyesterett til oppheving på det grunnlaget at saken ikke hører under Arbeidsrettens domsmyndighet. En kjennelse som avviser en sak fra Arbeidsretten, kan ankes til Høyesterett. Ankefristen er en måned.\n(4) Den som ikke er part, kan anke en kjennelse eller beslutning som pålegger vedkommende plikter eller ilegger straff- eller omkostningsansvar. Partene kan anke kjennelser som ilegger dem selv straff- og omkostningsansvar etter §§ 60 og 62.\n(5) Anke etter fjerde ledd må erklæres straks hvis vedkommende er til stede i retten, og ellers senest tre dager etter at vedkommende har fått meddelelse om avgjørelsen. Så fremt noen har opptrådt som motpart eller kan betraktes som motpart, bør vedkommende underrettes om anken. Anken har oppsettende virkning for den som anker.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_59",
+        "source_heading": "§ 59."
+      }
+    },
+    {
+      "provision_ref": "5:60",
+      "chapter": "5",
+      "section": "60",
+      "title": "Fornærmelig oppførsel mv.",
+      "content": "(1) Den som i et møte for Arbeidsretten fornærmer retten eller noen som møter for den, forstyrrer møtet, krenker rettens verdighet eller ikke lyder påbud fra retten eller fagdommeren som styrer saken, kan utvises og ilegges bøter. Den som skriver noe usømmelig eller fornærmelig i et prosesskriv, kan ilegges bot. Avgjørelsen treffes ved kjennelse.\n(2) Bestemmelsene i første ledd gjelder også ved saksbehandling for meklingsinstitusjonen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_60",
+        "source_heading": "§ 60."
+      }
+    },
+    {
+      "provision_ref": "5:61",
+      "chapter": "5",
+      "section": "61",
+      "title": "Brudd på taushetsplikt mv.",
+      "content": "Den som forsettlig eller grovt uaktsomt bryter taushetsplikten etter § 23 eller § 54 andre ledd, straffes med bot etter straffeloven § 209. På samme måte straffes den som overtrer § 22 andre ledd ved å videreformidle opplysninger som mekleren innhenter under meklingen, § 26 andre ledd ved å videreformidle opplysninger om avstemningen over meklingsforslaget og § 27 tredje ledd ved å videreformidle avstemningsresultatet før riksmekleren har kunngjort hovedresultatet.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_61",
+        "source_heading": "§ 61."
+      }
+    },
+    {
+      "provision_ref": "5:62",
+      "chapter": "5",
+      "section": "62",
+      "title": "Fravær mv.",
+      "content": "(1) Hvis et vitne eller noen som ellers har fått særlig pålegg om å møte personlig, uteblir uten gyldig fravær, ikke i tide melder forfall eller uten tillatelse forlater møtet før det er slutt, kan vedkommende ilegges bot og pålegges helt eller delvis å erstatte de omkostninger som er pådratt. Avgjørelsen treffes ved kjennelse.\n(2) Uteblir vedkommende etter ny innkalling eller oppfordring til å møte, kan det enda en gang ilegges bot og omkostningsansvar.\n(3) Som ugyldig fravær regnes også at noen uten gyldig grunn nekter å påta seg oppgaven som sakkyndig, at en sakkyndig forsømmer sin plikt, og at noen må avvises fordi vedkommende møter beruset.\n(4) Nekter noen uten gyldig grunn å forklare seg eller avlegge forsikring, kan vedkommende ved kjennelse under saken ilegges bøter og pålegges helt eller delvis å erstatte de omkostninger som nektelsen har forårsaket. Vedkommende kan ikke ilegges slik straff og slikt omkostningsansvar mer enn to ganger i samme sak.\n(5) Hvis noen ikke etterkommer pålegg om å fremlegge et dokument eller fremvise, forelegge eller gi adgang til en ting eller å etterse og gjøre utdrag av et dokument eller lignende, regnes det som å nekte å forklare seg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_62",
+        "source_heading": "§ 62."
+      }
+    },
+    {
+      "provision_ref": "5:63",
+      "chapter": "5",
+      "section": "63",
+      "title": "Ansvar for anke",
+      "content": "For åpenbart grunnløs anke kan Høyesteretts ankeutvalg ilegge bøter og omkostningsansvar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_63",
+        "source_heading": "§ 63."
+      }
+    },
+    {
+      "provision_ref": "6:64",
+      "chapter": "6",
+      "section": "64",
+      "title": "Ikraftsetting",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.​1 Fra den tid loven trer i kraft, oppheves lov 5. mai 1927 nr. 1 om arbeidstvister.\n1 Fra 1 mars 2012 iflg. res. 27 jan 2012 nr. 71.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_64",
+        "source_heading": "§ 64."
+      }
+    },
+    {
+      "provision_ref": "6:65",
+      "chapter": "6",
+      "section": "65",
+      "title": "Endringer i andre lover",
+      "content": "– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_65",
+        "source_heading": "§ 65."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Definisjoner",
+      "content": "I denne lov menes med:\na. arbeidstaker: enhver som utfører arbeid for og underordnet en annen, og som ikke går inn under lov om offentlige tjenestetvister.\nb. arbeidsgiver: enhver som har ansatt arbeidstaker for å utføre arbeid i sin tjeneste.\nc. fagforening: enhver sammenslutning av arbeidstakere eller av arbeidstakeres foreninger som har til formål å vareta arbeidstakernes interesser overfor deres arbeidsgivere.\nd. arbeidsgiverforening: enhver sammenslutning av arbeidsgivere eller arbeidsgiveres foreninger som har til formål å vareta arbeidsgivernes interesser overfor deres arbeidstakere.\ne. tariffavtale: en avtale mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om arbeids- og lønnsvilkår eller andre arbeidsforhold.\nf. streik: hel eller delvis arbeidsstans som arbeidstakere i fellesskap eller i forståelse med hverandre iverksetter for å tvinge frem en løsning av en tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening. Som ledd i en streik regnes også når vedkommende bedrift søkes sperret for arbeidskraft.\ng. lockout: hel eller delvis arbeidsstans som en arbeidsgiver iverksetter for å tvinge frem en løsning av en tvist mellom en arbeidsgiver eller arbeidsgiverforening og en fagforening, uten hensyn til om andre arbeidstakere tas inn istedenfor de utestengte. Som ledd i en lockout regnes også når de utestengte arbeidstakerne søkes hindret i å få annet arbeid.\nh. plassoppsigelse: oppsigelse av arbeidsavtaler med det formål å iverksette streik eller lockout.\ni. rettstvist: tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om en tariffavtales gyldighet, forståelse eller eksistens eller om krav som bygger på en tariffavtale.\nj. interessetvist: tvist mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening om ordningen av fremtidige arbeids- og lønnsvilkår eller andre arbeidsforhold som ikke omfattes av en tariffavtale eller som skal avløse en tidligere tariffavtale.\nk. virkedag: alle dager som ikke er søndager eller lovbestemte hellig- eller høytidsdager.\n0 Endret ved lover 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235), 17 mars 2023 nr. 3 (i kraft 1 jan 2024 iflg. res. 17 mars 2023 nr. 341).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Opplysningsplikt",
+      "content": "Fagforening og arbeidsgiverforening eller sammenslutning av slike skal når departementet eller riksmekleren krever det, gi opplysninger om foreningens eller sammenslutningens organisasjon, medlemsforhold mv. En sammenslutning av foreninger plikter å gi slike opplysninger også om sine underavdelinger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "title": "Forhandlinger om inngåelse av tariffavtale",
+      "content": "Fagforening, arbeidsgiver, arbeidsgiverforening eller sammenslutning av slike kan fremsette krav om forhandlinger med sikte på å inngå eller revidere en tariffavtale. Dersom motparten ikke møter til forhandlinger eller forhandlingene ikke fører til inngåelse av en ny eller revidert tariffavtale, kan streik eller lockout iverksettes når de vilkår som fremgår av §§ 18 og 25 er oppfylt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Tariffavtalens form og innhold",
+      "content": "En tariffavtale skal opprettes skriftlig og bør inneholde bestemmelser om ikrafttredelsestidspunkt, varighet og oppsigelsesfrist.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Tariffavtalens varighet og oppsigelse",
+      "content": "(1) Med mindre annet er fastsatt, gjelder tariffavtalen i tre år regnet fra den dag den ble underskrevet.\n(2) Oppsigelse av tariffavtale skal gjøres skriftlig og senest tre måneder før avtalen utløper, med mindre annen oppsigelsesfrist er fastsatt.\n(3) Blir en tariffavtale ikke sagt opp innen fristen, forlenges den med ett år.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Tariffavtalens ufravikelighet",
+      "content": "Bestemmelse i arbeidsavtale som strider mot en tariffavtale som begge parter er bundet av, er ugyldig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Virkning av utmeldelse av fagforening eller arbeidsgiverforening",
+      "content": "Et medlem eller en underavdeling av en fagforening eller arbeidsgiverforening blir ikke ved utmeldelse eller eksklusjon fri for sine forpliktelser etter de tariffavtaler som gjelder for foreningen ved uttredelsen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Fredsplikt",
+      "content": "(1) Rettstvist må ikke søkes løst ved streik, lockout eller annen arbeidskamp.\n(2) Interessetvist må ikke søkes løst ved streik, lockout eller annen arbeidskamp før vilkårene i §§ 18 og 25 er oppfylt. Gjelder interessetvisten revisjon av tariffavtale, må dessuten gyldighetstiden for denne være utløpt.\n(3) Med mindre annet er avtalt, skal den tariffavtale og de lønns- og arbeidsvilkår som gjaldt ved tvistens utbrudd, gjelde så lenge streik, lockout eller annen arbeidskamp ikke må iverksettes etter andre ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Erstatningsansvar for brudd på tariffavtale mv.",
+      "content": "(1) Har medlemmer av en fagforening eller arbeidsgiverforening brutt en tariffavtale, er foreningen og vedkommende medlemmer erstatningsansvarlige. Foreningens ansvar inntrer bare når den selv er skyld i bruddet eller i fortsettelsen av det tariffstridige forholdet. En arbeidsgiver, arbeidsgiverforening, fagforening eller deres medlemmer er også erstatningsansvarlige for ulovlig streik, lockout eller annen arbeidskamp, jf. § 8 andre ledd. Andre punktum i bestemmelsen her gjelder tilsvarende.\n(2) Erstatningsansvaret etter første ledd første og tredje punktum gjelder tilsvarende for andre arbeidstakere som deltar i den tariffstridige eller ulovlige streiken.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Fastsettelse av erstatning for brudd på tariffavtale mv.",
+      "content": "Erstatning for brudd på tariffavtale eller ulovlig streik eller lockout skal av retten fastsettes under hensyn til skadens størrelse, skadevolderens skyld og økonomiske bæreevne, skadelidtes forhold og omstendighetene for øvrig. Ved særlig formildende omstendigheter kan erstatningen falle helt bort.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Meklere",
+      "content": "(1) Kongen oppnevner for tre år av gangen en fast mekler for hele riket (riksmekleren) og en eller flere faste meklere for de enkelte meklingskretser (kretsmeklere). Meklingskretsene fastsettes av Kongen.\n(2) Kongen kan etter innstilling fra riksmekleren oppnevne særskilte meklere for begrensede tidsrom eller for enkelte tilfeller, samt fast stedfortreder for riksmekleren.\n(3) Meklerne må oppfylle vilkårene i § 36 første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Meklingsinstitusjonens oppgaver og organisering",
+      "content": "(1) Meklerne skal mekle i interessetvister mellom en fagforening og en arbeidsgiver eller arbeidsgiverforening i samsvar med bestemmelsene i dette kapitlet. Meklerne skal forsøke å oppnå enighet mellom partene om et rimelig forlik.\n(2) Riksmekleren leder meklingsinstitusjonen og er de øvrige meklernes overordnede.\n(3) Riksmekleren kan overlate meklingen i en sak til en kretsmekler eller en særskilt mekler. Riksmekleren kan selv overta meklingen i saker som hører under kretsmeklerne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Meklerløfte",
+      "content": "Ingen må gjøre tjeneste som mekler før de har avlagt skriftlig forsikring om at de samvittighetsfullt vil oppfylle sine plikter. Forsikringen sendes til departementet. Kongen fastsetter hvordan den skal lyde, jf. domstolloven § 60.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Inhabilitet",
+      "content": "(1) Reglene om inhabilitet i domstolloven §§ 106 flg. gjelder tilsvarende for meklerne så langt de passer.\n(2) Anser riksmekleren seg for inhabil i en tvist, meldes dette snarest mulig til departementet. Er departementet enig i at riksmekleren ikke bør behandle tvisten, overlates behandlingen av saken til en annen oppnevnt mekler.\n(3) Anser en annen mekler seg for inhabil i en tvist, meldes dette snarest mulig til riksmekleren. Riksmekleren kan enten selv overta behandlingen av tvisten eller overlate den til en annen oppnevnt mekler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Plassoppsigelse",
+      "content": "(1) Plassoppsigelse som ledd i interessetvist skal gis skriftlig. Oppsigelsesfristen er 14 dager hvis ikke annet er fastsatt ved tariffavtale eller annen skriftlig avtale.\n(2) Plassoppsigelse for den enkelte arbeidstaker gis av arbeidstakeren selv eller dennes fagforening overfor arbeidsgiver, eller av den enkelte arbeidsgiver overfor den enkelte arbeidstaker.\n(3) Der dette følger av tariffavtale, kan hver av partene gi plassoppsigelse for sine medlemmer til den annen part (kollektiv plassoppsigelse).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Melding til riksmekleren",
+      "content": "(1) Når det gis plassoppsigelse i interessetvist, skal det samtidig gis skriftlig melding om dette til riksmekleren.\n(2) Meldingen skal inneholde:\na. kopi av plassoppsigelsen,\nb. redegjørelse for hva tvisten gjelder,\nc. opplysninger om ved hvilke bedrifter plassoppsigelse foretas og hvor mange arbeidstakere ved hver bedrift plassoppsigelsen omfatter,\nd. opplysninger om når plassoppsigelsesfristen løper ut,\ne. opplysninger om hvorvidt forhandlinger mellom partene er åpnet og i tilfelle om de fremdeles pågår eller er avbrutt.\n(3) Pågår forhandlinger når melding om plassoppsigelse sendes, skal melding om senere avbrytelse av forhandlingene på samme måte sendes til riksmekleren.\n(4) Meldingen sendes av den fagforening, arbeidsgiver eller arbeidsgiverforening som har foretatt plassoppsigelsen. Er den aktuelle fagforening, arbeidsgiver eller arbeidsgiverforening medlem i en organisasjon med innstillingsrett etter § 39, sendes meldingen om plassoppsigelse til riksmekleren gjennom denne organisasjonen.\n(5) Meldinger til riksmekleren etter denne paragraf sendes samtidig i kopi til motparten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Hvem som omfattes av streik eller lockout",
+      "content": "Streik eller lockout iverksettes for samtlige arbeidstakere som omfattes av plassoppsigelsen, med mindre partene er enige om noe annet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Tidspunkt for iverksettelse av streik eller lockout",
+      "content": "(1) Streik eller lockout må ikke iverksettes før det er gitt plassoppsigelse og oppsigelsesfristen som følger av denne er utløpt, og ikke i noe tilfelle før fire virkedager har gått fra riksmekleren har mottatt melding om at forhandlinger ikke er innledet eller er brutt eller at plassoppsigelsen er utvidet, jf. §§ 16 og 17.\n(2) Fristen i første ledd starter å løpe første virkedag etter at riksmekleren har mottatt meldingen.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Midlertidig forbud mot arbeidsstans",
+      "content": "(1) Når riksmekleren har fått melding om eller på annen måte er blitt kjent med at forhandlinger ikke er innledet eller er brutt, jf. § 16, skal riksmekleren midlertidig forby partene å iverksette streik eller lockout som kan medføre skade for allmenne interesser, inntil mekling etter dette kapitlet er avsluttet.\n(2) Blir plassoppsigelsen utvidet, skal riksmekleren på tilsvarende vilkår forby streik eller lockout som følger av utvidelsen.\n(3) Forbudet sendes til den forening som har sendt eller skulle ha sendt meldingen om plassoppsigelsen. Kopi av melding om forbud skal sendes til motparten.\n(4) For å være bindende må forbudet være sendt fra riksmekleren innen utløpet av to virkedager etter at riksmekleren mottok melding om at forhandlinger ikke er innledet eller er brutt eller at plassoppsigelsen er utvidet. Fristen i første punktum starter å løpe første virkedag etter at riksmekleren har mottatt meldingen.\n(5) Hvis det nedlegges forbud mot streik eller lockout i tvist hvor kommune, fylkeskommune eller sammenslutning av slike er part, kan riksmekleren samtidig bestemme at de frister som følger av tjenestetvistloven § 14 tredje ledd og § 17 første og andre ledd skal gjelde for meklingen.\n(6) Riksmekleren kan overlate til en annen oppnevnt mekler å forby streik eller lockout.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "title": "Innkalling til mekling",
+      "content": "(1) Hvis det er nedlagt forbud mot streik eller lockout etter § 19, skal riksmekleren eller mekleren som saken er overdratt til, straks iverksette mekling.\n(2) Hvis forbud mot streik eller lockout ikke er nedlagt, kan riksmekleren eller en kretsmekler av eget tiltak eller etter begjæring av en part likevel iverksette mekling i en tvist.\n(3) Hvis riksmekleren eller en kretsmekler mener det er hensiktsmessig, kan det innkalles til mekling etter reglene i dette kapittel selv om det ikke er gitt plassoppsigelse etter § 15.\n(4) Mekleren fastsetter tid og sted for meklingen. Meklingsmøte kan også holdes utenfor meklingskretsen. Partene innkalles på den måte mekleren finner hensiktsmessig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "title": "Parter og partsrepresentanter",
+      "content": "Partene kan møte selv og ved fullmektig. Rådgivere kan også møte. Om partenes plikt til å møte til mekling gjelder reglene i § 51 tilsvarende så langt de passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "3:22",
+      "chapter": "3",
+      "section": "22",
+      "title": "Innhenting av opplysninger",
+      "content": "(1) Mekleren skal innhente alle opplysninger som er nødvendige for å behandle tvisten.\n(2) Ved innhenting av opplysninger har mekleren myndighet som nevnt i § 48 så langt det passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "3:23",
+      "chapter": "3",
+      "section": "23",
+      "title": "Taushetsplikt",
+      "content": "(1) Meklingsmøtene skal holdes for lukkede dører.\n(2) Enhver som deltar i meklingen, plikter å bevare taushet om det som er fremkommet under meklingen, hvis ikke mekleren tillater offentliggjøring. Taushetsplikten omfatter også en parts egne krav og tilbud.\n(3) Taushetsplikten gjelder ikke ved forklaringer for Arbeidsretten.\n(4) Mekleren har ikke vitneplikt for Arbeidsretten om forhold fremkommet under meklingen.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "3:24",
+      "chapter": "3",
+      "section": "24",
+      "title": "Møtebok",
+      "content": "(1) I møteboken føres inn tid og sted for meklingsmøtet og meklerens, partenes og partsrepresentantenes navn. Møteboken skal angi de bevis som er gjennomgått og meklingens gang i korthet.\n(2) Resultatet av meklingen oppsummeres. Har mekleren lagt frem et endelig forslag til løsning av tvisten, skal forslaget føres inn i møteboken uavhengig av utfallet av meklingen. Eventuell frist etter § 26 første ledd for når et avstemningsresultat skal foreligge, skal gjengis.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "3:25",
+      "chapter": "3",
+      "section": "25",
+      "title": "Meklingens avslutning",
+      "content": "(1) Hver av partene kan kreve meklingen avsluttet når det har gått ti dager etter at forbudet mot streik eller lockout ble nedlagt etter § 19 første ledd. Dette gjelder ikke hvis vedkommende part ved fravær eller på annen måte ikke har medvirket til meklingen.\n(2) Meklingen skal avsluttes senest fire dager etter at krav om avslutning er fremsatt.\n(3) Kommer forlik i stand, skal tariffavtale i overensstemmelse med dette opprettes i samarbeid med mekleren. Tariffavtalen undertegnes av partene eller deres representanter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "3:26",
+      "chapter": "3",
+      "section": "26",
+      "title": "Avstemning over meklingsforslag",
+      "content": "(1) Dersom det skal stemmes over et meklingsforslag, skal mekleren i samråd med partene sette frist for når avstemningsresultatet skal foreligge.\n(2) Avstemningen skal bare gjelde meklingsforslaget som det foreligger fra mekleren. Avstemningen skal være hemmelig og skriftlig med rene ja- eller nei-stemmer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "3:27",
+      "chapter": "3",
+      "section": "27",
+      "title": "Melding om avstemningsresultat",
+      "content": "(1) Partene skal gi riksmekleren skriftlig melding om hvorvidt meklingsforslaget er vedtatt eller forkastet.\n(2) Forkastes forslaget, skal meldingen gi opplysninger om antallet stemmer for og imot forslaget og om antallet stemmeberettigede. Dersom avstemningsresultatet ikke foreligger innen fristen, anses meklingsforslaget som vedtatt.\n(3) Ingen deler av avstemningsresultatet må offentliggjøres før riksmekleren har kunngjort hovedresultatet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "3:28",
+      "chapter": "3",
+      "section": "28",
+      "title": "Iverksettelse av streik eller lockout når meklingsforslaget forkastes",
+      "content": "Dersom meklingsforslaget forkastes og varsel om plassoppsigelse etter § 15 fortsatt gjelder, kan plassoppsigelsen iverksettes med fire dagers varsel mellom partene. Partene kan i tariffavtale avtale kortere frist.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "3:29",
+      "chapter": "3",
+      "section": "29",
+      "title": "Senere vedtakelse av et meklingsforslag",
+      "content": "Vil noen av partene vedta meklerens forslag til løsning av tvisten etter at meklingen er avsluttet, kan erklæring om dette sendes til vedkommende mekler. Mekleren sender kopi av erklæringen til motparten. Godkjenner også denne parten forslaget, innkaller mekleren partene til et møte for opprettelse av tariffavtale.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "3:30",
+      "chapter": "3",
+      "section": "30",
+      "title": "Gjenopptakelse av mekling",
+      "content": "(1) Partene kan i fellesskap kreve en avsluttet mekling gjenopptatt.\n(2) Riksmekleren og mekleren som har behandlet saken kan når som helst gjenoppta meklingen.\n(3) Er det gått en måned etter at meklingen ble avsluttet uten at tvisten i mellomtiden er løst, skal mekleren som har behandlet saken, gjenoppta kontakt med partene med henblikk på å få avsluttet konflikten. Er et meklingsforslag til behandling hos partene, skal mekleren vente til behandlingen er avsluttet.\n(4) Om partenes plikt til å møte til mekling gjelder reglene i § 51 tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "3:31",
+      "chapter": "3",
+      "section": "31",
+      "title": "Klage",
+      "content": "Vedtak etter dette kapitlet truffet av riksmekleren eller annen mekler oppnevnt etter loven, kan ikke påklages.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "3:32",
+      "chapter": "3",
+      "section": "32",
+      "title": "Partenes kostnader",
+      "content": "Partene bærer hver sine kostnader med meklingen, med mindre annet er avtalt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "4:33",
+      "chapter": "4",
+      "section": "33",
+      "title": "Arbeidsrettens sete",
+      "content": "Arbeidsretten har sete i Oslo. Ved behov kan retten settes andre steder.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "4:34",
+      "chapter": "4",
+      "section": "34",
+      "title": "Arbeidsrettens domsmyndighet",
+      "content": "(1) Arbeidsretten skal behandle rettstvister som nevnt i § 1 bokstav i, tvister om det foreligger brudd på § 8 om fredsplikt og tvister om erstatningsansvar etter § 9.\n(2) Arbeidsretten skal likevel ikke behandle tvister om erstatningsansvar etter § 9 når saken kun er anlagt mot arbeidstakere som nevnt i § 9 andre ledd.\n(3) Tvister som knytter seg til tariffavtaler om europeiske samarbeidsutvalg eller tilsvarende samarbeidsordninger, behandles etter lov 23. august 1996 nr. 63 om allmenngjøring av bestemmelser i tariffavtale om europeiske samarbeidsutvalg m.v. Arbeidsretten skal heller ikke behandle tvister som knytter seg til tariffavtaler inngått etter bestemmelser gitt i medhold av SE-loven § 3 eller SCE-loven § 3.\n(4) Partene kan vedta privat voldgift om de tvistene som er nevnt i § 8 første ledd og § 9.\n(5) I en sak om en tariffavtale kan det også inndras krav som utspringer av en arbeidsavtale, hvis kravet etter arbeidsavtalen vil få sin umiddelbare avgjørelse ved dommen i hovedsaken.\n(6) Domstolloven og tvisteloven får tilsvarende anvendelse for Arbeidsretten så langt de passer og ikke strider mot bestemmelsene i denne loven.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "4:35",
+      "chapter": "4",
+      "section": "35",
+      "title": "Søksmål",
+      "content": "(1) Er en tariffavtale sluttet mellom en fagforening, dens underavdelinger og medlemmer på den ene side og en arbeidsgiver eller en arbeidsgiverforening, dens underavdelinger og medlemmer på den annen side, er det bare den overordnede fagforening eller arbeidsgiverforening eller den enkeltstående arbeidsgiver som har søksmålsrett.\n(2) Den overordnede fagforening eller arbeidsgiverforening kan likevel overdra sin søksmålsrett til en underavdeling som har undertegnet tariffavtalen. Det skal gis skriftlig melding om overdragelsen til Arbeidsretten og tariffmotparten. Overdragelsen kan begrenses til en enkelt tvist eller gis virkning for hele tariffperioden. I sistnevnte tilfelle kan vedkommende underavdeling saksøkes direkte og alene av den annen søksmålsberettigede part i tariffavtalen.\n(3) Før en sak kan bringes inn for Arbeidsretten, skal partene ha gjennomført eller forsøkt gjennomført forhandlinger om tvisten.\n(4) Vil en part nedlegge påstand mot navngitte medlemmer av en forening, skal disse stevnes ved siden av foreningen. Tilsvarende gjelder om det skal nedlegges påstand mot andre navngitte personer, jf. § 9 andre ledd.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "4:36",
+      "chapter": "4",
+      "section": "36",
+      "title": "Krav til Arbeidsrettens dommere",
+      "content": "(1) Dommere i Arbeidsretten må være norske statsborgere som er vederheftige og som ikke er fradømt stemmerett i offentlige anliggender. De må ikke være medlem av styret i en fagforening eller arbeidsgiverforening eller være fast ansatt i en slik forening.\n(2) Rettens fagdommere skal i tillegg oppfylle de krav som gjelder for høyesterettsdommere.\n(3) En fagdommer i Arbeidsretten må søke departementet om godkjenning for sidegjøremål i slike tilfeller som fremgår av domstolloven § 121c. Departementet fører register over fagdommernes sidegjøremål i samsvar med domstolloven § 121e. En fagdommer skal melde fra om sidegjøremål snarest mulig, og senest innen en måned etter at dommeren påtok seg sidegjøremålet. Enhver har rett til å gjøre seg kjent med opplysningene i registeret. Departementet bestemmer hvordan opplysninger skal gjøres tilgjengelige for den som ber om det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "4:37",
+      "chapter": "4",
+      "section": "37",
+      "title": "Arbeidsrettens organisering. Oppnevning og utnevning av dommere mv.",
+      "content": "(1) De faste dommere i Arbeidsretten er tre fagdommere, hvorav en leder og en nestleder, og fire andre dommere.\n(2) De tre fagdommerne er embetsmenn. De øvrige fire dommerne og minst to varadommere for hver av rettens sju dommere oppnevnes av Kongen for tre år. De fire dommerne med varadommere oppnevnes etter innstilling, jf. § 39.\n(3) Departementet kan gi permisjoner, frita og oppnevne dommere og varadommere i Arbeidsretten i oppnevningsperioden. Gjelder permisjonen eller fritaket en dommer eller en varadommer som er oppnevnt etter innstilling, jf. § 39, skal vedkommende organisasjon gis adgang til å innstille på nytt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "4:38",
+      "chapter": "4",
+      "section": "38",
+      "title": "Arbeidsrettens sammensetning i den enkelte sak",
+      "content": "(1) I den enkelte sak settes Arbeidsretten med sju dommere. Som hovedregel tilkalles to faste fagdommere og en varadommer for fagdommerne. Videre tilkalles fire dommere oppnevnt etter innstilling etter § 39. Varadommer som er oppnevnt etter innstilling fra en forening hvis innstilling ikke er fulgt ved oppnevningen av de faste dommerne, skal i saker som gjelder denne foreningen eller dens medlemmer likevel tilkalles i stedet for den dommer vedkommende er varadommer for.\n(2) Hvis en dommer under forhandlingene får forfall som må antas å ville vare lenger enn en uke, oppnevnes stedfortreder etter § 41. Dersom stedfortreder oppnevnes, skal hovedforhandlingen starte på nytt.\n(3) De dommere som har begynt hovedforhandlingen av en sak, skal føre saken til ende selv om deres tjenestetid løper ut under behandlingen av saken.\n(4) Arbeidsrettens leder kan ved særlig langvarige saker eller ved andre særlige omstendigheter beslutte at det i tillegg til dommere tilkalt etter første ledd skal tilkalles en varadommer for fagdommerne og en varadommer fra hver side for dommere oppnevnt etter innstilling etter § 39. Første ledd fjerde punktum gjelder tilsvarende. Varadommerne skal følge forhandlingene og tre inn ved forfall.\n(5) Dersom begge parter samtykker, og retten finner det ubetenkelig, kan retten settes med tre fagdommere eller en fagdommer og en dommer fra hver side oppnevnt etter innstilling etter § 39. Første ledd fjerde punktum gjelder tilsvarende.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "4:39",
+      "chapter": "4",
+      "section": "39",
+      "title": "Innstillingsretten",
+      "content": "(1) Arbeidsgiverforening som omfatter minst 100 arbeidsgivere som til sammen sysselsetter minst 10 000 arbeidstakere, samt fagforening som har minst 10 000 arbeidstakere som medlemmer, kan hver for seg fremsette forslag til to dommere med varadommere. De som foreslås, må ha sagt seg villige til å motta vervet.\n(2) Blant dem som er foreslått, oppnevnes to dommere med varadommere fra hver side. Er det innkommet konkurrerende forslag fra forskjellige fagforeninger eller arbeidsgiverforeninger, skal de faste dommerne fra hver side oppnevnes blant dem som er foreslått av den fagforening og den arbeidsgiverforening som har flest medlemmer innenfor lovens område.\n(3) Er ikke innstilling kommet inn til departementet innen en fastsatt frist, skjer oppnevningen uten innstilling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "4:40",
+      "chapter": "4",
+      "section": "40",
+      "title": "Inhabilitet",
+      "content": "(1) Reglene om inhabilitet i domstolloven §§ 106 og 107 gjelder tilsvarende for dommere i Arbeidsretten. Når andre særlige omstendigheter foreligger, som er egnet til å svekke tilliten til en dommers habilitet, skal dommeren vike sete. Spørsmål om inhabilitet kan reises av dommerne og partene. Domstolloven § 113 gjelder tilsvarende så langt den passer.\n(2) Retten avgjør ved kjennelse om noen skal utelukkes som inhabil. Reises spørsmål om å utelukke en innstilt dommer forut for hovedforhandlingen hvor saken skal behandles, treffer rettens tre fagdommere avgjørelsen ved kjennelse.\n(3) Reises spørsmål om å utelukke en av Arbeidsrettens fagdommere, skal Arbeidsrettens leder innkalle en varadommer for å delta i avgjørelsen av spørsmålet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "4:41",
+      "chapter": "4",
+      "section": "41",
+      "title": "Stedfortreder for en dommer som er inhabil eller har forfall",
+      "content": "(1) Hvis alle rettens fagdommere er inhabile eller har forfall, oppnevner departementet stedfortreder for rettens leder.\n(2) Hvis det kan ventes fremsatt en inhabilitetsinnsigelse mot en dommer som er oppnevnt etter innstilling, og rettens leder eller saksforberedende dommer antar innsigelsen kan bli godkjent av retten, skal varadommer tilkalles.\n(3) Hvis en dommer er inhabil eller har forfall, skal det tilkalles en varadommer i den rekkefølge oppnevningen viser. For en dommer som er oppnevnt etter innstilling, skal varadommer fra samme forening likevel tilkalles før andre varadommere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "4:42",
+      "chapter": "4",
+      "section": "42",
+      "title": "Rettens forhandlingsdyktighet",
+      "content": "Retten er forhandlings- eller beslutningsdyktig når alle dommere eller varadommere som skal behandle saken er til stede. Ved avgjørelsen av inhabilitetsspørsmål gjelder § 40.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "4:43",
+      "chapter": "4",
+      "section": "43",
+      "title": "Dommerløfte",
+      "content": "Ingen må gjøre tjeneste som dommer i Arbeidsretten før de har avlagt skriftlig forsikring om at de samvittighetsfullt vil oppfylle sine plikter. Forsikringen sendes til departementet. Kongen fastsetter hvordan den skal lyde, jf. domstolloven § 60.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "4:44",
+      "chapter": "4",
+      "section": "44",
+      "title": "Partsrepresentanter og prosessfullmektiger",
+      "content": "(1) En part kan møte selv eller ved prosessfullmektig.\n(2) En part kan møte med inntil tre personer i tillegg til en eller flere prosessfullmektiger.\n(3) Utenlandsk advokat kan være prosessfullmektig når retten etter sakens art og forholdene ellers finner det ubetenkelig.\n(4) En prosessfullmakt må være uinnskrenket.\n(5) For øvrig gjelder bestemmelsene i tvisteloven kapittel 2 om parter, prosessdyktighet og stedfortredere og kapittel 3 om prosessfullmektiger og rettslige medhjelpere tilsvarende så langt de passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "4:45",
+      "chapter": "4",
+      "section": "45",
+      "title": "Forberedelsen av saken",
+      "content": "(1) Saken bringes inn for Arbeidsretten ved skriftlig stevning. Blir stevningen sendt som papirdokument, skal det sendes så mange eksemplarer at dommerne i saken og saksøkte kan få hvert sitt eksemplar.\n(2) Stevningen skal inneholde:\na. navn og adresse på parter og prosessfullmektiger,\nb. en fremstilling av saken og de krav som gjøres gjeldende,\nc. en påstand som angir det domsresultat saksøker krever,\nd. den faktiske og rettslige begrunnelse for saksøkerens krav,\ne. oppgave over de bevis som vil bli ført, hvordan de tenkes skaffet til veie, og hva saksøkeren akter å godtgjøre ved dem,\nf. oppgave over de bevis saksøkeren ønsker fremskaffet av motparten eller ved rettens hjelp,\ng. grunnlaget for at retten kan behandle saken dersom det kan være tvil om dette,\nh. saksøkerens syn på den videre behandling av saken.\n(3) Er det mangler ved stevningen, skal saksøkeren snarest mulig gjøres oppmerksom på dem og forklares hvordan de bør rettes. Retten skal sette en frist for å rette manglene i stevningen. Fristen skal normalt være to uker.\n(4) Med stevningen skal sendes protokoll fra forhandlinger etter § 35 tredje ledd eller bevis for at saksøkeren har forsøkt å gjennomføre slike forhandlinger. Dersom det ikke er gjennomført eller forsøkt gjennomført forhandlinger, skal saksøkeren gjøres oppmerksom på at retten ikke kan ta saken under behandling, og det skal settes en frist for å gjennomføre slike forhandlinger. Blir det ikke gjennomført eller forsøkt gjennomført forhandlinger innen fristen, kan saksforberedende dommer ved kjennelse bestemme at saken avvises.\n(5) Når stevningen er i orden, sendes den uten opphold til saksøkte. Retten skal fastsette en frist, som normalt bør være tre uker, til å inngi skriftlig tilsvar. I tilsvaret skal saksøkte fremsette sine bemerkninger til stevningen, eventuelle innsigelser mot at retten behandler saken, nevne de krav som saksøkte vil reise, gi bevisoppgaver svarende til dem som er nevnt under andre ledd bokstav e og f, samt angi saksøktes syn på den videre behandling av saken. Første ledd gjelder tilsvarende.\n(6) Saksforberedende dommer fastsetter tid og sted for hovedforhandlingen, som skal holdes snarest mulig, men tidligst 48 timer etter at innkallingen er bekreftet mottatt av partene. Hovedforhandlingen skal påbegynnes senest seks måneder etter at vilkårene i femte ledd første punktum er oppfylt, med mindre særlige grunner taler for at det brukes lengre tid til saksforberedelsen. Fristen starter å løpe når stevningen er forkynt for motparten. Hovedforhandlingen kan holdes utenfor rettens faste sete.\n(7) Er arrest gjort for å sikre et erstatningskrav hvis avgjørelse hører under Arbeidsretten, må sak om erstatningskravet reises innen seks dager.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "4:46",
+      "chapter": "4",
+      "section": "46",
+      "title": "Partshjelp",
+      "content": "(1) Partshjelp kan tillates for\na. den som har reelt behov begrunnet i egen rettsstilling for at den ene parten vinner, og\nb. arbeidsgiver- og arbeidstakerorganisasjoner som har et slikt behov begrunnet i sine medlemmers rettsstilling.\n(2) Medlem eller underavdeling som ikke har søksmålsrett etter § 35 første ledd, kan ikke opptre som partshjelper med mindre den som har søksmålsrett gir sitt samtykke.\n(3) Partshjelp må erklæres i prosesskriv senest fire uker før hovedforhandlingen. Retten kan i særlige tilfeller tillate partshjelp som erklæres på et senere tidspunkt. Erklæringen skal angi det som er grunnlaget for partshjelpen, og meddeles partene med en frist for å bestride partshjelpen. Bestrides den, avgjøres spørsmålet om retten til partshjelp ved kjennelse. Inntil det er avsagt kjennelse som nekter partshjelp, kan den som har erklært partshjelp, utøve prosessuelle rettigheter etter fjerde ledd.\n(4) Partshjelperen trer inn i saken slik den står. Partshjelperen kan foreta prosesshandlinger på vegne av parten. Prosesshandlingene må ikke stride mot partens prosesshandlinger\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "4:47",
+      "chapter": "4",
+      "section": "47",
+      "title": "Forening av saker til felles behandling",
+      "content": "Saker som reiser likeartede spørsmål, og som skal behandles med samme sammensetning av retten, kan forenes til felles behandling og til felles avgjørelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "4:48",
+      "chapter": "4",
+      "section": "48",
+      "title": "Saksbehandlingen",
+      "content": "(1) Retten skal sørge for at saken blir fullt opplyst.\n(2) Retten skal på ethvert trinn av saken vurdere muligheten for å få tvisten løst i minnelighet ved å oppfordre partene til å finne en utenrettslig løsning. Plikten etter første punktum gjelder ikke dersom sakens karakter eller forholdene for øvrig taler mot en slik løsning.\n(3) Saksforberedelsen og hovedforhandlingen styres av en av rettens fagdommere.\n(4) Saken behandles og bevisene føres på den måte som retten finner passende. Hovedforhandlingen skal være muntlig, med mindre begge parter samtykker i skriftlig behandling og retten finner det ubetenkelig. Tvisteloven § 9-13 om styringen av hovedforhandlingen og § 9-14 andre ledd om muntlig hovedforhandling gjelder tilsvarende så langt de passer.\n(5) Retten kan innhente forklaringer av parter, sakkyndige og enhver annen hvis forklaring kan være av betydning for saken. Tvisteloven § 22-9 om bevisfritak for belastende personopplysninger gjelder tilsvarende så langt den passer. Det kan ikke føres bevis med opplysninger fra meklere om det som har fremkommet under meklingen.\n(6) Retten kan pålegge enhver å fremlegge dokumenter, forretningsbøker og andre bevis som vedkommende har rådighet over. Retten kan pålegge en part eller et vitne å undersøke registrerte regnskapsopplysninger, regnskapsmateriale eller andre bevis, samt å legge frem en oversikt over dette.\n(7) Retten kan foreta befaring og bevisundersøkelse enten selv eller ved ett eller flere av sine medlemmer eller ved oppnevnte sakkyndige.\n(8) Arbeidsretten kan kreve bevisopptak ved tingretten. Tvisteloven § 21-11 om bevisopptak, § 21-13 om bevisføringen i saker som behandles skriftlig og bestemmelsene i kapittel 27 om bevisopptak i rettssak gjelder tilsvarende så langt de passer.\n(9) Tvisteloven § 16-4 om utsettelse av hovedforhandlingen gjelder tilsvarende så langt den passer.\n(10) En part som vil ha gyldig fravær ved et rettsmøte, kan kreve at møtet omberammes. Det samme gjelder når en partsrepresentant eller prosessfullmektig vil ha gyldig fravær og det vil innebære vesentlig ulempe at en annen møter i stedet. Rettens leder eller saksforberedende dommer kan ellers omberamme rettsmøter når det er nødvendig for å sikre forsvarlig behandling eller hvis tungtveiende grunner ellers taler for det. Ved avgjørelsen skal det legges vekt på behovet for rask, forsvarlig og kostnadseffektiv behandling. Ved omberammelse skal det så vidt mulig fastsettes ny tid for rettsmøtet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "4:49",
+      "chapter": "4",
+      "section": "49",
+      "title": "Stansing av saken",
+      "content": "(1) Saksforberedende dommer kan stanse en sak på begjæring fra en part dersom utfallet helt eller delvis avhenger av et rettsforhold som vil bli bindende avgjort i en annen sak. Saken kan også stanses dersom tungtveiende grunner ellers taler for det. Det skal legges vekt på behovet for hurtig, forsvarlig og kostnadseffektiv behandling.\n(2) Avgjørelse om stansing treffes ved kjennelse av saksforberedende dommer. Virkningen av stansing inntrer når kjennelsen er avsagt. Saken bringes i gang igjen når behandlingen kan fortsette.\n(3) Partene kan avtale stansing av en sak i minst tre måneder. Avtalen får virkning når retten har mottatt den. Saksforberedende dommer bringer saken i gang igjen på begjæring fra en part. Samme sak kan stanses ved avtale mellom partene flere ganger. En sak som er stanset etter avtale mellom partene, heves når den har vært stanset i til sammen to år.\n(4) Tvisteloven § 16-15 om virkning av stansing og § 16-16 om stansing etter loven gjelder tilsvarende så langt de passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "4:50",
+      "chapter": "4",
+      "section": "50",
+      "title": "Fravær for parter, partsrepresentanter og prosessfullmektiger",
+      "content": "(1) Hvis en part, partsrepresentant eller prosessfullmektig ikke møter, og det er opplyst eller sannsynlig at vedkommende har gyldig fravær, skal saken utsettes. Tvisteloven § 13-4 om gyldig fravær gjelder tilsvarende så langt den passer.\n(2) Dersom saksøker ikke møter uten at det er opplyst eller sannsynlig at vedkommende har gyldig fravær, skal saken avvises.\n(3) Dersom saksøkte ikke møter uten at det er opplyst eller sannsynlig at vedkommende har gyldig fravær, og saksøkeren møter, kan denne kreve saken fremmet. Saken skal i så fall så langt det er mulig behandles som om den fraværende part hadde vært til stede.\n(4) Hvis ingen part møter, og det ikke er opplyst eller sannsynlig at noen av dem har gyldig fravær, skal saken heves.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "4:51",
+      "chapter": "4",
+      "section": "51",
+      "title": "Møteplikt for vitner, parter og sakkyndige",
+      "content": "(1) Enhver som bor eller oppholder seg i Norge, plikter etter innkalling fra retten å møte som vitne for Arbeidsretten. Ved innkallingen skal det bestemmes om forklaringen skal gis direkte for Arbeidsretten eller ved fjernavhør. Tvisteloven § 21-10 om fjernavhør gjelder tilsvarende så langt den passer.\n(2) Om partenes plikt til å møte personlig etter særlig pålegg gjelder de samme regler som for vitner etter første ledd.\n(3) Enhver som plikter å vitne i saken, er etter oppnevning av retten pliktig til å gjøre tjeneste som sakkyndig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "4:52",
+      "chapter": "4",
+      "section": "52",
+      "title": "Innkalling av vitner, parter og sakkyndige",
+      "content": "(1) Vitner, sakkyndige og andre skal om mulig innkalles med én ukes varsel. Fristen kan innskrenkes til én dag dersom hensynet til rask behandling av saken gjør det påkrevd eller det legges til rette for at vitnet kan avhøres uten å forsømme viktige gjøremål. Vitner og sakkyndige som befinner seg i nærheten av rettsstedet eller et sted hvor fjernavhør kan foretas, plikter å møte straks om dette kan skje uten vesentlig ulempe.\n(2) Parter skal innkalles med minst 48 timers varsel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "4:53",
+      "chapter": "4",
+      "section": "53",
+      "title": "Godtgjøring for vitner og sakkyndige",
+      "content": "(1) Vitner som retten har innkalt og oppnevnte sakkyndige har krav på godtgjøring etter reglene i lov 21. juli 1916 nr. 2 om vidners og sakkyndiges godtgjørelse mv.\n(2) Retten kan bestemme at også vitner som fremstilles av partene og sakkyndige som ikke er oppnevnt, skal ha slik godtgjøring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "4:54",
+      "chapter": "4",
+      "section": "54",
+      "title": "Offentlighet og innsynsrett",
+      "content": "(1) Rettsmøtene er offentlige hvis ikke retten bestemmer noe annet. Dørene skal lukkes når forhandlingene omfatter forretnings- eller foreningshemmeligheter eller annet som ikke uvedkommende bør få kunnskap om.\n(2) Enhver som har vært til stede under forhandlinger for lukkede dører, plikter å bevare taushet om det som er fremkommet under forhandlingene, hvis ikke retten tillater offentliggjøring.\n(3) Bestemmelsene i tvisteloven kapittel 14 om offentlighet og innsynsrett gjelder tilsvarende så langt de passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "4:55",
+      "chapter": "4",
+      "section": "55",
+      "title": "Rettsbok",
+      "content": "(1) I rettsboken føres inn tid og sted for rettsmøtet, navnene på dommere, protokollfører, parter, partsrepresentanter, prosessfullmektiger, vitner og sakkyndige.\n(2) Rettsboken skal angi de bevis som er gjennomgått og forhandlingenes gang skal gjengis i korthet. Påstander og innsigelser skal føres inn fullstendig eller vedlegges. På samme måte skal alle rettens avgjørelser og forlik som sluttes mellom partene, føres inn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "4:56",
+      "chapter": "4",
+      "section": "56",
+      "title": "Rettens avgjørelser",
+      "content": "(1) Rettens avgjørelser treffes med stemmeflertall.\n(2) Dom skal avsies snarest mulig etter at saksbehandlingen er avsluttet, og senest fire uker etter avslutning av hovedforhandling. Domsavsigelsen kan skje senere dersom særlige omstendigheter gjør at det ikke er mulig å overholde fristen. Hvis fristen ikke overholdes, skal årsaken oppgis i dommen.\n(3) Tvisteloven § 19-4 første til tredje ledd om avsigelse og § 19-5 om underretning om avgjørelsen gjelder så langt de passer.\n(4) Retten kan beslutte å rette en avgjørelse som på grunn av skrive- eller regnefeil, misforståelser, forglemmelser eller lignende klare feil har fått en utforming som ikke stemte med rettens mening. Slik retting kan retten foreta av eget tiltak eller på begjæring av en part. Den dommer som ledet forhandlingene, kan foreta rettelsene dersom det ikke er tvil om hvordan de skal utføres. Beslutning om retting skal tilføyes avgjørelsen slik at det fremgår hva som er rettet. Partene skal underrettes straks.\n(5) Saksstyrende kjennelser og andre beslutninger kan retten omgjøre når omgjøringen ikke er uforholdsmessig tyngende for en part som har innrettet seg etter avgjørelsen. Tvisteloven § 19-10 fjerde ledd om omgjøring gjelder tilsvarende så langt den passer.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "4:57",
+      "chapter": "4",
+      "section": "57",
+      "title": "Rettsforlik",
+      "content": "(1) Det kan inngås rettsforlik under hovedforhandlingen. Rettsforlik føres inn i rettsboken og undertegnes av partene og rettens medlemmer. Har forliket ikke bestemmelser om sakskostnader, skal retten på begjæring fra partene avgjøre spørsmålet etter skjønn. Tvisteloven § 19-11 tredje ledd om rettens kontroll med forliket gjelder tilsvarende.\n(2) Et rettsforlik har samme virkning som en rettskraftig dom av Arbeidsretten.\n(3) Spørsmål om et rettsforliks gyldighet kan ankes til Høyesteretts ankeutvalg. Ankefristen er en måned.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    },
+    {
+      "provision_ref": "4:58",
+      "chapter": "4",
+      "section": "58",
+      "title": "Sakskostnader",
+      "content": "(1) Som hovedregel tilkjennes ikke sakskostnader for Arbeidsretten. Når særlige grunner taler for det, kan retten tilkjenne en part som har vunnet en sak, erstatning for sine sakskostnader fra motparten. Saken anses også vunnet dersom motpartens sak blir avvist eller hevet.\n(2) Heves en sak som forlikt uten at forliket omfatter sakskostnadene, avgjøres spørsmålet om sakskostnader etter rettens skjønn dersom en av partene krever det.\n(3) Arbeidsretten kan i særlige tilfeller pålegge en av partene eller begge å dekke statens utgifter til en rettssak etter denne loven.\n0 Endret ved lover 20 des 2018 nr. 98 (ikr. 1 jan 2019), 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_58",
+        "source_heading": "§ 58."
+      }
+    },
+    {
+      "provision_ref": "4:59",
+      "chapter": "4",
+      "section": "59",
+      "title": "Virkningen av rettens avgjørelser. Rettsmidler",
+      "content": "(1) Arbeidsrettens dommer og kjennelser som ikke kan ankes etter tredje eller fjerde ledd, er endelige og kan fullbyrdes etter reglene for høyesterettsdommer.\n(2) Har Arbeidsretten i sin domsslutning fastslått en bestemt forståelse av en tariffavtale, gjelder denne forståelsen også for enhver arbeidsavtale som bygger på tariffavtalen.\n(3) En dom kan ankes til Høyesterett til oppheving på det grunnlaget at saken ikke hører under Arbeidsrettens domsmyndighet. En kjennelse som avviser en sak fra Arbeidsretten, kan ankes til Høyesterett. Ankefristen er en måned.\n(4) Den som ikke er part, kan anke en kjennelse eller beslutning som pålegger vedkommende plikter eller ilegger straff- eller omkostningsansvar. Partene kan anke kjennelser som ilegger dem selv straff- og omkostningsansvar etter §§ 60 og 62.\n(5) Anke etter fjerde ledd må erklæres straks hvis vedkommende er til stede i retten, og ellers senest tre dager etter at vedkommende har fått meddelelse om avgjørelsen. Så fremt noen har opptrådt som motpart eller kan betraktes som motpart, bør vedkommende underrettes om anken. Anken har oppsettende virkning for den som anker.\n0 Endret ved lov 19 juni 2020 nr. 71 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_59",
+        "source_heading": "§ 59."
+      }
+    },
+    {
+      "provision_ref": "5:60",
+      "chapter": "5",
+      "section": "60",
+      "title": "Fornærmelig oppførsel mv.",
+      "content": "(1) Den som i et møte for Arbeidsretten fornærmer retten eller noen som møter for den, forstyrrer møtet, krenker rettens verdighet eller ikke lyder påbud fra retten eller fagdommeren som styrer saken, kan utvises og ilegges bøter. Den som skriver noe usømmelig eller fornærmelig i et prosesskriv, kan ilegges bot. Avgjørelsen treffes ved kjennelse.\n(2) Bestemmelsene i første ledd gjelder også ved saksbehandling for meklingsinstitusjonen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_60",
+        "source_heading": "§ 60."
+      }
+    },
+    {
+      "provision_ref": "5:61",
+      "chapter": "5",
+      "section": "61",
+      "title": "Brudd på taushetsplikt mv.",
+      "content": "Den som forsettlig eller grovt uaktsomt bryter taushetsplikten etter § 23 eller § 54 andre ledd, straffes med bot etter straffeloven § 209. På samme måte straffes den som overtrer § 22 andre ledd ved å videreformidle opplysninger som mekleren innhenter under meklingen, § 26 andre ledd ved å videreformidle opplysninger om avstemningen over meklingsforslaget og § 27 tredje ledd ved å videreformidle avstemningsresultatet før riksmekleren har kunngjort hovedresultatet.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_61",
+        "source_heading": "§ 61."
+      }
+    },
+    {
+      "provision_ref": "5:62",
+      "chapter": "5",
+      "section": "62",
+      "title": "Fravær mv.",
+      "content": "(1) Hvis et vitne eller noen som ellers har fått særlig pålegg om å møte personlig, uteblir uten gyldig fravær, ikke i tide melder forfall eller uten tillatelse forlater møtet før det er slutt, kan vedkommende ilegges bot og pålegges helt eller delvis å erstatte de omkostninger som er pådratt. Avgjørelsen treffes ved kjennelse.\n(2) Uteblir vedkommende etter ny innkalling eller oppfordring til å møte, kan det enda en gang ilegges bot og omkostningsansvar.\n(3) Som ugyldig fravær regnes også at noen uten gyldig grunn nekter å påta seg oppgaven som sakkyndig, at en sakkyndig forsømmer sin plikt, og at noen må avvises fordi vedkommende møter beruset.\n(4) Nekter noen uten gyldig grunn å forklare seg eller avlegge forsikring, kan vedkommende ved kjennelse under saken ilegges bøter og pålegges helt eller delvis å erstatte de omkostninger som nektelsen har forårsaket. Vedkommende kan ikke ilegges slik straff og slikt omkostningsansvar mer enn to ganger i samme sak.\n(5) Hvis noen ikke etterkommer pålegg om å fremlegge et dokument eller fremvise, forelegge eller gi adgang til en ting eller å etterse og gjøre utdrag av et dokument eller lignende, regnes det som å nekte å forklare seg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_62",
+        "source_heading": "§ 62."
+      }
+    },
+    {
+      "provision_ref": "5:63",
+      "chapter": "5",
+      "section": "63",
+      "title": "Ansvar for anke",
+      "content": "For åpenbart grunnløs anke kan Høyesteretts ankeutvalg ilegge bøter og omkostningsansvar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_63",
+        "source_heading": "§ 63."
+      }
+    },
+    {
+      "provision_ref": "6:64",
+      "chapter": "6",
+      "section": "64",
+      "title": "Ikraftsetting",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.​1 Fra den tid loven trer i kraft, oppheves lov 5. mai 1927 nr. 1 om arbeidstvister.\n1 Fra 1 mars 2012 iflg. res. 27 jan 2012 nr. 71.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_64",
+        "source_heading": "§ 64."
+      }
+    },
+    {
+      "provision_ref": "6:65",
+      "chapter": "6",
+      "section": "65",
+      "title": "Endringer i andre lover",
+      "content": "– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_65",
+        "source_heading": "§ 65."
+      }
+    }
+  ]
+}

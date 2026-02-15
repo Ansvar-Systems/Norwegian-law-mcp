@@ -1,0 +1,1121 @@
+{
+  "id": "LOV-1892-04-23",
+  "type": "statute",
+  "title": "Lov om Norges Bank",
+  "short_name": "Lov om Norges Bank",
+  "status": "in_force",
+  "issued_date": "1892-04-23",
+  "in_force_date": "1892-04-23",
+  "url": "https://lovdata.no/dokument/NLO/lov/1892-04-23",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Norges Bank, oprettet ved Fundation af 14de Juni 1816, er grundet paa Aktier og har Ret til at drive Virksomhed som Laane-, Giro-, Deposito- og Seddelbank.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Banken har et indbetalt grundfond paa fem og tyve millioner kroner, hvilket efter beslutning av repræsentantskapet i forening med direktionen kan forøkes indtil 50 millioner kroner. Desuten har banken et reservefond (jfr. § 40, litr. b). Til indtægt for dette opføres i tilfælde det ved utvidelsen av grundfondet som kursavanse indvundne overskud.\n1 Endret ved lover 19 mai 1900 nr. 2 og 21 juni 1916 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Aktiebrev for Indskud til Grundfondet skal lyde paa Navn og – med den i § 47 gjorte Undtagelse – ikke paa mindre Beløb end Kr. 100,00.\nOverdragelse af Aktiebrev skal indføres i Bankens Bøger. Indførelsen kan foregaa foruden ved Hovedsædet ogsaa ved Afdelingerne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Bankens Eiere er de, paa hvis Navn Aktierne i Bankens Bøger er indføret.\nAktieeier hæfter kun med sin Aktie for Bankens Forpligtelser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Bankens Grundfond kan hverken med eller mod Aktieeiernes Vilje benyttes uden i Bankens egen Interesse og til at indfri dens Sedler og øvrige Forpligtelser.\nBanken kan ikke betynges med nogen Afgift.​1\n1 Jfr. skattelov 16 aug. 1911 nr. 8 § 26 d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "Norges Bank skal være eneberettiget til at udstede Banksedler, lydende paa Ihændehaveren og indeholdende Bankens Forpligtelse til ved Paakrav at indfri dem efter deres fulde paalydende Beløb med Guld i Kronemynt.​2 Den som i strid med denne enerett utsteder seddel som lyder på ihendehaveren, straffes med bøter.\n1 Endret ved lov 26 jan. 1973 nr. 3.\n2 Se lov 17 april 1875 § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "Saalænge Banken ved Paakrav indfrir sine Sedler efter deres fulde Paalydende med Mynt, skal de ved alle Betalinger, der ikke er bestemte i rede Guld,​2 gjælde som Penge og være tvungent Betalingsmiddel i Riget.\nSkulde Banken nogensinde standse med Indfrielsen af sine Sedler efter deres fulde Paalydende, ophører disse at være tvungent Betalingsmiddel undtagen ligeoverfor Banken selv, der skal staa i samme Forhold som enhver anden Skyldner.\nUnder særlig faretruende forhold kan Kongen bestemme,​3 at bankens indfrielse av sedlerne midlertidig utsættes. Ved saadan utsættelse med sedlernes indfrielse ophører de ikke at være tvungent betalingsmiddel.\n1 Paragafens siste ledd er tilføiet ved lov 18 aug. 1914 nr. 8.\n2 Jfr. lov 15 des. 1923.\n3 Bestemmelse herom truffet ved kgl. res. 27 sept. 1931.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "De Sedler, som Banken udfærdiger, skal lyde paa Kr. 1.000,00, Kr. 500,00, Kr. 100,00, Kr. 50,00, Kr. 10,00 og Kr. 5,00.\n1 Se lov 17 april 1875 § 18 og lov 14 des. 1917 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "Banken kan utgi sedler for et beløp som svarer til dens gullbeholdning, med tillegg av et beløp av inntil 425 mill. kroner.​2\nSom gullbeholdning regnes bankens egen beholdning av myntet og umyntet gull i bankens verge eller beroende for dens regning i det offentlige myntverk. Gull som ansees som midlertidig anbringelse av bankens tilgodehavender i utlandet, medregnes ikke i gullbeholdningen.\n1 Endret ved lover 19 mai 1900 nr. 2, 19 juli 1912 nr. 7, 21 juli 1916 nr. 8, 26 nov. 1920 nr. 2, 30 juni 1936 nr. 1, 12 mai 1939 nr. 11.\n2 Jfr. § 11 og lov 14 des. 1917 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "Under særlig ekstraordinære forhold, såsom krig, krigsfare eller alvorlig pengekrise, kan Kongen med Stortingets efterfølgende godkjennelse tillate banken ytterligere å utgi sedler inntil et i tillatelsen nærmere fastsatt beløp.​2 Tillatelsen gis for et bestemt tidsrum, eller inntil Kongen anderledes bestemmer.\nAv det seddelbeløp, banken måtte utstede i medhold av tillatelse efter denne paragraf, har den å svare avgift til statskassen. Avgiften beregnes av de beløp, som er i omløp ved hvert av de opgjør banken vil ha å avgi (§ 37) og for den tid, som er forløpet siden næstforegående opgjør og erlægges efter en rentesats av 1 pct. under bankens vekseldiskonto ved sistnevnte opgjør.​2\n1 Endret ved lover 19 juli 1912 nr. 7, 21 juli 1916 nr. 8, 25 mai 1917 nr. 4 og 26 nov. 1920 nr. 2.\n2 Jfr. § 11 og lov 14 des. 1917 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "Skulde det ved de opgjør, som banken vil ha å avgi (§ 37), vise sig, at der er i omløp et større beløp i sedler enn efter paragrafene 9 og 10 tillatt, skal banken straks innsende forklaring til vedkommende regjeringsdepartement​2 om årsaken til overskridelsen, hvorhos den av det beløp, hvormed seddelutstedelsesretten er overskredet, har å erlegge avgift til statskassen efter en rentesats svarende til bankens vekseldiskonto ved det opgjør da overskridelsen først viste sig, og stigende med 1/2 pct. for hver måned, hvori overskridelsen måtte vedvare utover den nærmest følgende måneds utgang. Avgiften beregnes av de beløp, som overskridelsen utgjør ved ethvert av de ovennevnte opgjør, og for den tid som er forløpet siden næstforegående opgjør.\n1 Endret ved lover 19 mai 1900 nr. 2, 18 aug. 1914 nr. 8, 21 juli 1916 nr. 8 og 26 nov. 1920 nr. 2.\n2 Finansdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "content": "Naar Bankens Sedler af en vis Sort skal sættes ud af Omløb, udsteder den herom Bekjendtgørelse, der thinglæses ved Rigets samtlige almindelige Underretter og indrykkes i Kundgjørelsestidenden.​1\nDe indkaldte Sedler ophører at være tvungent Betalingsmiddel i det tidligste 1 Aar, efterat Bekjendtgjørelsen sidste Gang er thinglæst, hvorimod Banken fremdeles er forpligtet til at indløse dem. Dog kan der gives Banken Bevilling til med præklusiv Virkning at indkalde Seddelsorter, som har været Gjenstand for Forfalskning.\nNaar 2 Aar er forløbne, efterat Sedlerne har ophørt at være tvungent Betalingsmiddel, bliver de uindløste Sedler ikke længere at medregne ligeoverfor Bestemmelserne om Bankens Seddeludstedelsesret.​2\n1 Se lov 11 okt. 1946 nr. 1.\n2 Se § 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "content": "Norges Bank har sit Hovedsæde i Kristiania. Desuden har Banken Afdelinger, hvor det er eller bliver bestemt.​2\n1 Endret ved lov 27 juli 1896 nr. 18.\n2 Se §§ 27 e og 48.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "content": "Udvexling af Guld mod Sedler kan foruden ved Bankens Hovedsæde ogsaa finde Sted ved de Afdelinger, som af Bankens Repræsentantskab bestemmes.\nForsaavidt de til Vexling leverede Sedler ikke svarer til et helt Antal Guldmynt, skal den overskydende Del indløses med Sølvmynt eller anden Skillemynt.\nBanken er forpligtet til ved sit Hovedsæde samt ved enhver af sine Afdelinger at udlevere Sedler mod Guld i Kronemynt.​1 Ligeledes er den ved sit Hovedsæde samt ved de Afdelinger, Bankens Repræsentantskab bestemmer, forpligtet til at udlevere Sedler mod Guldbarrer, hvis Finhed er godtgjort paa saadan Maade, som af Repræsentantskabet foreskrevet, efter en Pris af Kr. 2.480,00 for hvert Kilogram fint Guld, med Fradrag af indtil 1/4 pCt. i Myntningsomkostninger.\n1 Se lov 17 april 1875 § 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "content": "Banken har rett til å anvende sine midler:\na. ved utlån mot pant på bestemt tid, dog ikke over 6 måneder. Som pant antas ikke bankens egne aktier;\nb. ved diskontering av veksler og vekselobligasjoner og utlån på gjeldsbrev. Papirene må være betalbare her i riket innen 6 måneder;\nc. ved utlån på kassekreditiv, som bevilges for en tid av høist 12 måneder mot sikkerhet i håndfått pant eller fast eiendom;\nd. ved å kjøpe og selge veksler på utlandet;\ne. ved å kjøpe og selge gull og sølv;\nf. ved anbringelse i norske stats- og hypotekbankobligasjoner samt andre rentebærende innen- og utenlandske verdipapirer, som er lett avsettelige. De med omsetningen av disse verdipapirer forbundne inntekter og utgifter kan opføres på et kursreguleringsfonds konto.\nBanken kan dessuten anbringe en del av sine midler i fordringer på utenlandske bankforretninger og i aktier i internasjonal sammenslutning av seddelbanker, likesom den har rett til å deponere i utenlandsk bank eller depositoanstalt gull, myntet eller umyntet.\n1 Endret ved lover 19 mai 1900 nr. 2, 26 nov. 1920 nr. 2, 22 mai 1931 nr. 1, 30 juni 1936 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "Banken modtager uden Gebyr Penge til Indsættelse paa Folio og til Overførsel (Giro).\nFor Anvisninger, der ikke honoreres af Banken, erhverves ved Optagelse af Protest Vexelret.​1\n1 Jfr. lov 27 mai 1932 nr. 3 § 40.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "Banken modtager mod Gebyr som Depositum ædle Metaller, Værdigjenstande og Værdipapirer, af hvilke sidste Banken kan besørge indkrævet Renter og Afdrag, Kupons og udtrukne Obligationer.\nDen kan derhos modtage Deposita under Forsegling eller Laas.\n1 Jfr. lov 17 feb. 1939 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "Banken kan mod Gebyr overtage:\na. mod Indbetaling at kjøbe og efter Overleverelse at sælge Værdipapirer af alle Slags;\nb. at inkassere Beløb og efter Betaling at overføre eller anvise samme paa sine Afdelinger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "content": "Banken er forpligtet til uten godtgjørelse og uten utgift for det offentlige:\na. at motta staten og de offentlige fonds tilhørende indtægter og at besørge deres utbetalinger samt i det hele at overta statens pengeomsætninger, dog uten at staa i forskud;\nb. at motta til opbevaring og forvaltning staten og de offentlige fonds tilhørende eller overfor samme deponerte værdipapirer og andre værdigjenstande;\nc. å utføre (så vel ved hovedsetet som ved avdelingene) forsendelse av skillemynt til offentlige betjenter samt private personer og institusjoner m.v.\nNærmere forskrifter angaaende disse forpligtelser og det i den anledning fornødne regnskapshold gives av Kongen.\nHvorvidt og i tilfælde hvilken rente der skal svares av de i banken indestaaende offentlige midler, fastsættes i mangel av overenskomst mellem vedkommende regeringsdepartement og bankens direktion av bankens repræsentantskap.\n1 Endret ved lover 19 juli 1912 nr. 7, 21 juli 1916 nr. 8, 22 des. 1961 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "content": "Banken står under overbestyrelse av et representantskap på 15 medlemmer og under bestyrelse av en direksjon på 5 medlemmer. Enhver avdeling foreståes av en bestyrelse bestående av 3 stortingsvalgte bestyrere og den administrerende direktør, hvor sådan ansettes.​2\n1 Endret ved lov 22 mai 1931 nr. 1.\n2 Se § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "content": "Repræsentantskapets medlemmer vælges av Stortinget og vedblir som saadanne i 6 aar. Hvert 3dje aar avtræder vekselvis 7 og 8. Desuten vælges hvert 3dje aar 7 varamænd. Repræsentanter oppebærer, forsaavidt de bor i en avstand av mindst 10 kilometer fra hovedsætet, skyss- og kostgodtgjørelse som bestemt for stortingsmænd paa reiser til og fra Stortinget.​2 Formanden og medlemmer av repræsentantskapets komiteer kan tillægges avlønning.\n1 Endret ved lover 19 juli 1912 nr. 7 og 25 mai 1917 nr. 4.\n2 Se lov 30 juni 1954 nr. 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "content": "Formanden og næstformanden i direktionen beskikkes av Kongen, efterat repræsentantskapet har hat anledning til at uttale sig. De ansættes med en gjensidig opsigelsesfrist av 6 maaneder, dog saaledes, at de straks kan fjernes mot utbetaling av løn for den nævnte tid. De maa ikke indeha nogen anden lønnet stilling, heller ikke drive nogen handels-, fabrik- eller bankvirksomhet. Deres lønn fastsettes av departementet. Bankens representantskap fastsetter pensjonen for direksjones formann og nestformann, og deres etterlatte.\nDe øvrige direktører vælges av Stortinget for en tid av 6 aar. Hvert 3dje aar avtræder vekselvis 1 og 2. Desuten vælges hvert 3dje aar 3 varamænd.\n1 Endret ved lover 13 juli 1905 nr. 1, 25 mai 1917 nr. 4 og 13 mars 1970 nr. 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "content": "Bestyrerne ved avdelingene velges av Stortinget for en tid av 6 år. Hvert 3dje år avtrer vekselvis 1 og 2. Dessuten velges hvert 3dje år 3 suppleanter.\nBestyrerne kan av representantskapet midlertidig suspenderes; den trufne bestemmelse forelegges uten ophold Stortinget til endelig avgjørelse.\nRepresentantskapet i forening med direksjonen bestemmer, ved hvilke avdelinger administrende direktører skal ansettes, samt fastsetter deres lønn og øvrige ansettelsesvilkår. Administrerende direktører ansettes av representantskapet, efterat direksjonen har uttalt sig.\n1 Endret ved lover 14 mai 1902 nr. 3 og 22 mai 1931 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "content": "De valgte Repræsentanter, Direktører og Bestyrere tiltræder førstkommende 1ste Januar efter Valget.\nLønninger for Repræsentantskabets Formand, de valgte Direktører og Bestyrerne bestemmes af Storthinget efter Forslag af Bankens Repræsentantskab.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "content": "Suppleanter for repræsentantskapet, direktionen eller bestyrelserne tiltræder i forfaldstilfælde efter den orden, hvori de er valgt. Suppleant, der er indtraadt som fast medlem, fratræder, naar den, i hvis sted han forretter, skulde avgaa. En suppleant ansees alene som fast indtraadt, hvis indtrædelsen er skedd som følge av indtruffet dødsfald eller betalingsindstilling (sml. § 32).\nI tilfælde av, at en direktør eller bestyrer fraflytter stedet, eller overhodet i tvilsomme tilfælde, træffer repræsentantskapet, under indberetning til Stortinget, midlertidig bestemmelse om, hvorvidt vedkommende skal fungere eller ikke.\nEr flere suppleanter indtraadt for repræsentanter, direktører eller bestyrere, hvis gjenværende funktionstid er forskjellig, fratræder suppleanterne i omvendt orden av den, hvori de er valgt.\n1 Endret ved lov 1 mai 1909 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "4:26",
+      "chapter": "4",
+      "section": "26",
+      "content": "Inden hvert Aars Udgang vælger Repræsentantskabet inden sin Midte Formand og Næstformand for det følgende Aar.\nRepræsentantskabet holder Møder hvert Fjerdingaar og ellers saa ofte, det selv maatte anse det nødvendigt, eller Direktionen derom anmoder. Beslutning kan ikke fattes, medmindre mindst 9 Medlemmer er tilstede. I Tilfælde af Stemmelighed gjør Formandens Stemme Udslaget. Over Forhandlingerne føres Protokol. Repræsentantskabet kan kræve, at Direktionen deltager i disse Møder. Direktionen er berettiget til at være tilstede, medmindre Repræsentantskabet for Tilfældet fatter Beslutning om det modsatte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "4:27",
+      "chapter": "4",
+      "section": "27",
+      "content": "Repræsentantskapet har:\na. at afgive Reglement for Bankens Bestyrelse og Forretningsorden, derunder Bestemmelse om, ved hvis Underskrifter Banken forpligtes; Reglementet bliver at indføre i Norsk Lovtidende;\nb. at fordele Forretningerne mellem Direktionens Formand, Næstformand og de øvrige Direktører;\nc. at avgi forslag til Stortinget og foreløbig at fatte bestemmelse om lønninger for repræsentantskapets formand, de valgte direktører og bestyrerne. Desuten bestemmer repræsentantskapet honorar for sine komiteer og sin sekretær. Formanden oppebærer dog intet særskilt honorar som medlem av komiteer.\nd. at fastsætte Lønninger for Bankens Betjente og bestemme om deres Pensionering samt efter at have indhentet Erklæring fra Direktionen og vedkommende Afdelings Bestyrelse at ansætte og afskedige disse, udfærdige de for dem fornødne Instrukser og bestemme den Kaution, Kassererne har at stille. Bankens Betjente ansættes med gjensidig Opsigelsesfrist af 3 Maaneder;\ne. i Forening med Direktionen at fatte Beslutning om Afdelingers Oprettelse og Nedlæggelse;\nf. i Forening med Direktionen at bestemme, hvor stort Beløb af Bankens Laanekapital der skal stilles til enhver Afdelings Raadighed;\ng. midlertidig at vælge Bestyrer og Suppleanter for nyoprettede Afdelinger samt Suppleanter ved Hovedsædet og Afdelingerne, naar dette formedelst Forfald maatte gjøres nødvendigt;\nh. selv eller ved Befuldmægtigede til ubestemte Tider, mindst en Gang hvert Fjerdingaar, at efterse Direktionens og Bestyrelsernes Protokoller samt Bankens Deposita, Kasse og øvrige Beholdninger;\ni. at afgjøre Tvistigheder Banken vedkommende mellem Bankens Foresatte og Klager af Betjente over deres Foresatte;\nk. selv eller, naar hurtig Afgjørelse kræves, ved et Udvalg, bestaaende af fem Medlemmer, at afgjøre Andragender om Akkord efter at have indhentet Direktionens Betænkning.\nDirektionen er berettiget til at være tilstede ved Udvalgets Møder, medmindre dette for Tilfældet fatter Beslutning om det modsatte;\nl. at foranstalte Bankens Regnskab revideret og at decidere samme;\nm. at fatte Beslutning om Fordelingen af Aarets Indtægt (jfr. §§ 39 og 40);\nn. at afgive Beslutning i alle de Sager, der af Direktionen forelægges det.\n1 Endret ved lover 14 mai 1902 nr. 3, 13 juli 1905 nr. 1 og 19 juli 1912 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "4:28",
+      "chapter": "4",
+      "section": "28",
+      "content": "Direktionen samles daglig til offentlig bekjendtgjort Tid. Ingen Beslutning kan fattes, medmindre tre Medlemmer er tilstede. Formandens eller, saafremt han ikke er tilstede, Næstformandens Stemme gjør Udslaget i Tilfælde af Stemmelighed. I Direktionens Møder føres Protokol.\nDirektionen har at forvalte alle Bankens Midler og at sørge for, at dens Forretninger føres overensstemmende med denne Lov og Repræsentantskabets Bestemmelser, hvorhos den særlig har at overtage Forretningerne i det Hovedsædet underlagte Distrikt.\nI Forretningstiden skal daglig være tilstede mindst to Direktører, hvoraf altid enten Formanden eller Næstformanden. Der føres Dagbog, som forelægges i Direktionsmøderne.\n1 Endret ved lov 13 juli 1905 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "4:29",
+      "chapter": "4",
+      "section": "29",
+      "content": "For hver avdelings bestyrelse velges årlig av og blandt de stortingsvalgte medlemmer en formann.\nHvor administrerende direktør er ansatt​2 er denne medlem av bestyrelsen og har stemme i dennes møter. Bestyrelsen samles til offentlig bekjentgjort tid efter representantskapets bestemmelse og ellers så ofte, den finner det påkrevet. Ingen beslutning kan fattes medmindre to medlemmer er til stede. Hvor der er ansatt administrerende direktør, skal minst 3 medlemmer være til stede. Beslutninger fattes ved stemmeflerhet. I tilfelle av stemmelikhet gjør formannens stemme utslaget. Såfremt lovlig møte holdes alene med 2 medlemmer til stede, må disse være enige for at beslutning skal være gyldig. I bestyrelsens møter føres protokoll.\nVed avdelingene drives, forsåvidt ikke anderledes av representsntskapet i forening med direksjonen bestemmes, de samme forretninger som ved hovedsetet.\nEn av de stortingsvalgte bestyrere er daglig tilstede i forretningstiden; han fører dagbok, som forelegges i bestyrelsesmøtene.\nEn bestyrer, som er bosatt utenfor den by hvor vedkommende avdeling har kontor, kan tilståes godtgjørelse for nødvendige reiseutgifter efter representantskapets nærmere bestemmelse.\n1 Endret ved lover 6 juli 1923 nr. 11 og 22 mai 1931 nr. 1.\n2 Se § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "4:30",
+      "chapter": "4",
+      "section": "30",
+      "content": "De Direktører eller den Bestyrer, der efter §§ 28 og 29 er tilstede i Forretningstiden, kan træffe Afgjørelser i saadan Udstrekning og efter saadanne Regler, som af Direktionen eller vedkommende Bestyrelse med Repræsentantskabets Godkjendelse fastsættes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "4:31",
+      "chapter": "4",
+      "section": "31",
+      "content": "Direktør eller Bestyrer maa ikke deltage i Behandlingen af Sager, som angaar ham selv eller nogen, der er ham saa nær beslægtet eller besvogret som Sødskendebarn, eller hvori han selv eller nogen saadan Person har en fremtrædende økonomisk Interesse.\nPapir med Direktørs eller Bestyrers Navn maa ikke diskonteres ved den avdeling hvor han forretter. Det samme gjælder om Firma, hvori Direktør eller Bestyrer har en fremtrædende økonomisk Interesse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "4:32",
+      "chapter": "4",
+      "section": "32",
+      "content": "Et medlem av regjeringen kan ikke, sålenge han innehar denne stilling fungere som representant, direktør eller bestyrer.\nDirektør eller bestyrer eller suppleant for disse kan ikke samtidig være medlem av eller suppleant for direksjon eller uten representantskapets tillatelse inneha annen stilling i annen bank.\nRepresentant, direktør eller bestyrer, der har innstillet sine betalinger, fratrer sin stilling og kan, selv om han atter blir rådig over sitt bo, ikke inntre i samme uten efter nytt valg.​2\n1 Endret ved lover 1 mai 1909 nr. 4 og 6 juli 1923 nr. 11.\n2 Jfr. § 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "4:33",
+      "chapter": "4",
+      "section": "33",
+      "content": "Tjenestemænd ved Banken skal med Hensyn til, hvad de som saadanne erfarer angaaende Personers eller Indretningers Formuesstilling, være forpligtede til derom at iagttage Taushed​1 i alle Tilfælde, hvor det ikke maatte være deres Pligt at tale. Denne Taushedspligt paaligger dog ikke Bankens Foresatte, naar det efter Fællesbeslutning overdrages nogen af dem at anstille Undersøgelser.\n1 Se strl. § 121.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "4:34",
+      "chapter": "4",
+      "section": "34",
+      "title": "(Opphevet ved lov 8 feb. 1980 nr. 2.)",
+      "content": "§ 34.(Opphevet ved lov 8 feb. 1980 nr. 2.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "4:35",
+      "chapter": "4",
+      "section": "35",
+      "content": "Bankens Betjente ved Hovedsædet og Afdelingerne har at rette sig efter de dem af Direktionen eller vedkommende Bestyrelse givne almindelige eller særlige Paalæg. Tvistigheder dem imellem, Banken vedkommende, afgjøres af Direktionen eller vedkommende Bestyrelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "4:36",
+      "chapter": "4",
+      "section": "36",
+      "content": "Banken skal årlig avgi beretning om sin virksomhet. Beretningen sendes til vedkommende departement for å forelegges for Kongen og meddeles Stortinget. Bankens bøker og beholdninger skal framlegges for de menn som Stortinget oppnevner.\n1 Endret ved lov 8 juli 1949 nr. 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "5:37",
+      "chapter": "5",
+      "section": "37",
+      "content": "Banken har mindst 2 Gange om Maaneden til de Tider, som af Repræsentantskabet bestemmes, at meddele Oversigt over sin Stilling. Denne Oversigt skal snarest mulig offentliggjøres.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "5:38",
+      "chapter": "5",
+      "section": "38",
+      "content": "Bankens Aarsregnskab afsluttes og indsendes til Repræsentantskabet inden Udgangen af det følgende Aars Februar Maaned.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "5:39",
+      "chapter": "5",
+      "section": "39",
+      "content": "Av årets intekter utredes:\na. samtlige omkostninger og driftsutgifter; dog kan omkostninger ved seddelfabrikasjon og bygninger fordeles på inntil 5 år;\nb. endelige og skjønnsmessige tap; og avsettes:\nc. et passende beløp til delkrederefondet. Det på delkrederefondets konto innestående beløp som ikke måtte tiltrenges til dekning av tap, blir efter representantskapets bestemmelse å tillegge årsoverskuddet og fordeles efter reglene i § 40.\n1 Endret ved lover 26 nov. 1920 nr. 2, 30 juni 1936 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "5:40",
+      "chapter": "5",
+      "section": "40",
+      "content": "Av resten utredes:\na. til aktieeierne 6 pct. av aktienes pålydende.\nb. derefter inntil 10 pct. av det tilbakeværende beløp til reservefondet​2 eller kursreguleringsfondet eller ved fordeling mellem disse fond inntil de har nådd henholdsvis 1/2 og 1/5 av aktiekapitalen.\nSådan avsetning til fondene kan efter representantskapets bestemmelse finne sted også efterat de har nådd de nevnte grenser.\nSynker fondene under de nevnte grenser, blir de atter å fylle efter samme regel.\nBestemmelsen i § 39, c, annet punktum, får tilsvarende anvendelse for kursreguleringsfondet.\nc. av det overskytende halvdelen til staten og halvdelen til aktieeierne, inntil disses samlede utbytte utgjør 8 pct.\nd. derpå efter representantskapets bestemmelse ytterligere et passende beløp til reservefondet og kursreguleringsfondet eller til et av dem.\ne. av resten 4/5 til staten og 1/5 til aktieeierne.\nDet som efter disse bestemmelser faller på aktieeierne utover 8 pct. av aktienes pålydende, kan i sin helhet eller for en del henlegges til utbyttereguleringsfondet. Ved hjelp av fondet kan ikke aktionærenes utbytte forøkes til mer enn 8 pct. Beslutninger om overførsler til eller fra utbyttereguleringsfondet treffes av representantskapet.\nUtbytte utbetales kun efter avskrivning på aktiebrev eller mot kupons.\n1 Endret ved lover 19 mai 1900 nr. 2, 19 juli 1912 nr. 7, 21 juli 1916 nr. 8, 30 juli 1936 nr. 1.\n2 Se § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "5:41",
+      "chapter": "5",
+      "section": "41",
+      "content": "Forsaavidt Aarsindtægten ikke strækker til at dække Aarets opgjorte og paaregnelige Tab, bliver det manglende at tilskyde af Reservefondet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "5:42",
+      "chapter": "5",
+      "section": "42",
+      "content": "Udbytte hæves ved Bankens Hovedsæde eller dens Afdelinger;​1 hvor ingen Afdeling findes, kan det hæves hos Fogderne,​2 som derfor oppebærer af Banken en af denne bestemt Godtgjørelse.\n1 Se § 13.\n2 Se lov 21 juli 1894 nr. 5 § 1 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "6:43",
+      "chapter": "6",
+      "section": "43",
+      "content": "Naar Tvangsauktion, herunder ogsaa indbefattet Konkursauktion,​2 forlanges over fast Eiendom, skal Auktionsforvalteren undersøge, om den er pantsat til Norges Bank, og derom afgive Bevidnelse i Auktionsforretningen. I Tilfælde skal han derom gjøre Indberetning til vedkommende Bankafdeling saa betimelig, at dens Bestyrelse kan møde eller lade møde ved Auktionen. – – –​3\n1 Jfr. tvangsfullbl. § 122.\n2 Se konkurslov § 127.\n3 Siste punktum ophevet ved sportellov 4 feb. 1938 § 163.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "6:44",
+      "chapter": "6",
+      "section": "44",
+      "title": "(Opphevd ved lov 12 des. 1975 nr. 59.)",
+      "content": "§ 44.(Opphevd ved lov 12 des. 1975 nr. 59.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "6:45",
+      "chapter": "6",
+      "section": "45",
+      "title": "(Ophevet ved lov 14 aug. 1918 nr. 4 § 2.)",
+      "content": "§ 45.(Ophevet ved lov 14 aug. 1918 nr. 4 § 2.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "6:46",
+      "chapter": "6",
+      "section": "46",
+      "content": "Pantsættes Obligationer eller andre Forskrivninger til Banken, og disse ikke til bestemt Tid indfries, skal Banken være berettiget til uden retslig Forføining mod den, som til Banken har pantsat saadanne Forskrivninger, at søge sin Betaling efter de pantsatte Forskrivningens Indhold.​1\n1 Jfr. tvangsfullbl. §§ 216 flg. og lov 17 feb. 1939 nr. 1 § 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "7:47",
+      "chapter": "7",
+      "section": "47",
+      "content": "Eiere af de for Indskud til Grundfondet udfærdigede Interimskvitteringer kan ved at indsende dem til Banken inden 10 Aar fra denne Lovs Ikrafttræden faa dem efter eget Valg enten indløste efter Dagens Kurs paa Bankens Aktier eller ombyttede med aktiebrev, det sidste dog kun, forsaavidt Aktiebrevet kan gjøres lydende på mindst 50 Kroner​2 eller et større med 10 deleligt Bøløb. Efter Udløbet af ovenangivne Frist taber Interimskvitteringerne Ret til Udbytte.\nFor Beløbet af de indløste Interimskvitteringer udferdiger og afhænder Banken Aktiebreve.\nFor de ved Fristens Udløb ikke indsendte Interimskvitteringer udfærdiges Aktiebrev til Staten, dog kun for et saa stort Beløb, at samtlige Aktiebreves Paalydende ikke overstiger det lovbestemte Grundfond 12 1/2 Million Kroner tillagt det paalydende Beløb af mulig senere indbetalt Aktiekapital, og mod Forpligtelse for Staten til at indløse samtlige tilbageværende Interimskvitteringer efter Dagens Kurs paa Bankens Aktier. Det Beløb i Interimskvitteringer, hvorfor Aktiebrev ikke udfærdiges, overføres til Reservefondet.\n1 Endret ved lov 19 mai 1900 nr. 2.\n2 Jfr. § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "7:48",
+      "chapter": "7",
+      "section": "48",
+      "content": "De i denne Lov om Afdelinger under Banken givne Bestemmelser​1 gjælder ogsaa de nuværende Bankkontorer, der herefter benævnes Afdelinger.\n1 Se §§ 13 og 27 e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "7:49",
+      "chapter": "7",
+      "section": "49",
+      "content": "De ved denne Lovs Ikrafttræden valgte Repræsentanter, Direktører, Administratorer, Kontorbestyrere og Suppleanter vedbliver som saadanne i den Tid, for hvilken de er valgte.\nDen i § 22 omhandlede Næstformand ansættes, uanseet om der er nogen Plads ledig i Direktionen. Ved første Valg paa Direktører, som derefter finder Sted, vælges kun én saadan. Senere aftræder vekselvis 1 og 2.\n1 Endret ved lov 13 juli 1905 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "7:50",
+      "chapter": "7",
+      "section": "50",
+      "content": "Denne Lov træder i Kraft 1ste Januar neste Aar. Fra samme Tid ophæves samtlige i ældre Love indeholdte Bestemmelser om Norges Bank.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Norges Bank, oprettet ved Fundation af 14de Juni 1816, er grundet paa Aktier og har Ret til at drive Virksomhed som Laane-, Giro-, Deposito- og Seddelbank.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Banken har et indbetalt grundfond paa fem og tyve millioner kroner, hvilket efter beslutning av repræsentantskapet i forening med direktionen kan forøkes indtil 50 millioner kroner. Desuten har banken et reservefond (jfr. § 40, litr. b). Til indtægt for dette opføres i tilfælde det ved utvidelsen av grundfondet som kursavanse indvundne overskud.\n1 Endret ved lover 19 mai 1900 nr. 2 og 21 juni 1916 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Aktiebrev for Indskud til Grundfondet skal lyde paa Navn og – med den i § 47 gjorte Undtagelse – ikke paa mindre Beløb end Kr. 100,00.\nOverdragelse af Aktiebrev skal indføres i Bankens Bøger. Indførelsen kan foregaa foruden ved Hovedsædet ogsaa ved Afdelingerne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Bankens Eiere er de, paa hvis Navn Aktierne i Bankens Bøger er indføret.\nAktieeier hæfter kun med sin Aktie for Bankens Forpligtelser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Bankens Grundfond kan hverken med eller mod Aktieeiernes Vilje benyttes uden i Bankens egen Interesse og til at indfri dens Sedler og øvrige Forpligtelser.\nBanken kan ikke betynges med nogen Afgift.​1\n1 Jfr. skattelov 16 aug. 1911 nr. 8 § 26 d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "Norges Bank skal være eneberettiget til at udstede Banksedler, lydende paa Ihændehaveren og indeholdende Bankens Forpligtelse til ved Paakrav at indfri dem efter deres fulde paalydende Beløb med Guld i Kronemynt.​2 Den som i strid med denne enerett utsteder seddel som lyder på ihendehaveren, straffes med bøter.\n1 Endret ved lov 26 jan. 1973 nr. 3.\n2 Se lov 17 april 1875 § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "Saalænge Banken ved Paakrav indfrir sine Sedler efter deres fulde Paalydende med Mynt, skal de ved alle Betalinger, der ikke er bestemte i rede Guld,​2 gjælde som Penge og være tvungent Betalingsmiddel i Riget.\nSkulde Banken nogensinde standse med Indfrielsen af sine Sedler efter deres fulde Paalydende, ophører disse at være tvungent Betalingsmiddel undtagen ligeoverfor Banken selv, der skal staa i samme Forhold som enhver anden Skyldner.\nUnder særlig faretruende forhold kan Kongen bestemme,​3 at bankens indfrielse av sedlerne midlertidig utsættes. Ved saadan utsættelse med sedlernes indfrielse ophører de ikke at være tvungent betalingsmiddel.\n1 Paragafens siste ledd er tilføiet ved lov 18 aug. 1914 nr. 8.\n2 Jfr. lov 15 des. 1923.\n3 Bestemmelse herom truffet ved kgl. res. 27 sept. 1931.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "De Sedler, som Banken udfærdiger, skal lyde paa Kr. 1.000,00, Kr. 500,00, Kr. 100,00, Kr. 50,00, Kr. 10,00 og Kr. 5,00.\n1 Se lov 17 april 1875 § 18 og lov 14 des. 1917 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "Banken kan utgi sedler for et beløp som svarer til dens gullbeholdning, med tillegg av et beløp av inntil 425 mill. kroner.​2\nSom gullbeholdning regnes bankens egen beholdning av myntet og umyntet gull i bankens verge eller beroende for dens regning i det offentlige myntverk. Gull som ansees som midlertidig anbringelse av bankens tilgodehavender i utlandet, medregnes ikke i gullbeholdningen.\n1 Endret ved lover 19 mai 1900 nr. 2, 19 juli 1912 nr. 7, 21 juli 1916 nr. 8, 26 nov. 1920 nr. 2, 30 juni 1936 nr. 1, 12 mai 1939 nr. 11.\n2 Jfr. § 11 og lov 14 des. 1917 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "Under særlig ekstraordinære forhold, såsom krig, krigsfare eller alvorlig pengekrise, kan Kongen med Stortingets efterfølgende godkjennelse tillate banken ytterligere å utgi sedler inntil et i tillatelsen nærmere fastsatt beløp.​2 Tillatelsen gis for et bestemt tidsrum, eller inntil Kongen anderledes bestemmer.\nAv det seddelbeløp, banken måtte utstede i medhold av tillatelse efter denne paragraf, har den å svare avgift til statskassen. Avgiften beregnes av de beløp, som er i omløp ved hvert av de opgjør banken vil ha å avgi (§ 37) og for den tid, som er forløpet siden næstforegående opgjør og erlægges efter en rentesats av 1 pct. under bankens vekseldiskonto ved sistnevnte opgjør.​2\n1 Endret ved lover 19 juli 1912 nr. 7, 21 juli 1916 nr. 8, 25 mai 1917 nr. 4 og 26 nov. 1920 nr. 2.\n2 Jfr. § 11 og lov 14 des. 1917 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "Skulde det ved de opgjør, som banken vil ha å avgi (§ 37), vise sig, at der er i omløp et større beløp i sedler enn efter paragrafene 9 og 10 tillatt, skal banken straks innsende forklaring til vedkommende regjeringsdepartement​2 om årsaken til overskridelsen, hvorhos den av det beløp, hvormed seddelutstedelsesretten er overskredet, har å erlegge avgift til statskassen efter en rentesats svarende til bankens vekseldiskonto ved det opgjør da overskridelsen først viste sig, og stigende med 1/2 pct. for hver måned, hvori overskridelsen måtte vedvare utover den nærmest følgende måneds utgang. Avgiften beregnes av de beløp, som overskridelsen utgjør ved ethvert av de ovennevnte opgjør, og for den tid som er forløpet siden næstforegående opgjør.\n1 Endret ved lover 19 mai 1900 nr. 2, 18 aug. 1914 nr. 8, 21 juli 1916 nr. 8 og 26 nov. 1920 nr. 2.\n2 Finansdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "content": "Naar Bankens Sedler af en vis Sort skal sættes ud af Omløb, udsteder den herom Bekjendtgørelse, der thinglæses ved Rigets samtlige almindelige Underretter og indrykkes i Kundgjørelsestidenden.​1\nDe indkaldte Sedler ophører at være tvungent Betalingsmiddel i det tidligste 1 Aar, efterat Bekjendtgjørelsen sidste Gang er thinglæst, hvorimod Banken fremdeles er forpligtet til at indløse dem. Dog kan der gives Banken Bevilling til med præklusiv Virkning at indkalde Seddelsorter, som har været Gjenstand for Forfalskning.\nNaar 2 Aar er forløbne, efterat Sedlerne har ophørt at være tvungent Betalingsmiddel, bliver de uindløste Sedler ikke længere at medregne ligeoverfor Bestemmelserne om Bankens Seddeludstedelsesret.​2\n1 Se lov 11 okt. 1946 nr. 1.\n2 Se § 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "content": "Norges Bank har sit Hovedsæde i Kristiania. Desuden har Banken Afdelinger, hvor det er eller bliver bestemt.​2\n1 Endret ved lov 27 juli 1896 nr. 18.\n2 Se §§ 27 e og 48.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "content": "Udvexling af Guld mod Sedler kan foruden ved Bankens Hovedsæde ogsaa finde Sted ved de Afdelinger, som af Bankens Repræsentantskab bestemmes.\nForsaavidt de til Vexling leverede Sedler ikke svarer til et helt Antal Guldmynt, skal den overskydende Del indløses med Sølvmynt eller anden Skillemynt.\nBanken er forpligtet til ved sit Hovedsæde samt ved enhver af sine Afdelinger at udlevere Sedler mod Guld i Kronemynt.​1 Ligeledes er den ved sit Hovedsæde samt ved de Afdelinger, Bankens Repræsentantskab bestemmer, forpligtet til at udlevere Sedler mod Guldbarrer, hvis Finhed er godtgjort paa saadan Maade, som af Repræsentantskabet foreskrevet, efter en Pris af Kr. 2.480,00 for hvert Kilogram fint Guld, med Fradrag af indtil 1/4 pCt. i Myntningsomkostninger.\n1 Se lov 17 april 1875 § 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "content": "Banken har rett til å anvende sine midler:\na. ved utlån mot pant på bestemt tid, dog ikke over 6 måneder. Som pant antas ikke bankens egne aktier;\nb. ved diskontering av veksler og vekselobligasjoner og utlån på gjeldsbrev. Papirene må være betalbare her i riket innen 6 måneder;\nc. ved utlån på kassekreditiv, som bevilges for en tid av høist 12 måneder mot sikkerhet i håndfått pant eller fast eiendom;\nd. ved å kjøpe og selge veksler på utlandet;\ne. ved å kjøpe og selge gull og sølv;\nf. ved anbringelse i norske stats- og hypotekbankobligasjoner samt andre rentebærende innen- og utenlandske verdipapirer, som er lett avsettelige. De med omsetningen av disse verdipapirer forbundne inntekter og utgifter kan opføres på et kursreguleringsfonds konto.\nBanken kan dessuten anbringe en del av sine midler i fordringer på utenlandske bankforretninger og i aktier i internasjonal sammenslutning av seddelbanker, likesom den har rett til å deponere i utenlandsk bank eller depositoanstalt gull, myntet eller umyntet.\n1 Endret ved lover 19 mai 1900 nr. 2, 26 nov. 1920 nr. 2, 22 mai 1931 nr. 1, 30 juni 1936 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "Banken modtager uden Gebyr Penge til Indsættelse paa Folio og til Overførsel (Giro).\nFor Anvisninger, der ikke honoreres af Banken, erhverves ved Optagelse af Protest Vexelret.​1\n1 Jfr. lov 27 mai 1932 nr. 3 § 40.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "Banken modtager mod Gebyr som Depositum ædle Metaller, Værdigjenstande og Værdipapirer, af hvilke sidste Banken kan besørge indkrævet Renter og Afdrag, Kupons og udtrukne Obligationer.\nDen kan derhos modtage Deposita under Forsegling eller Laas.\n1 Jfr. lov 17 feb. 1939 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "Banken kan mod Gebyr overtage:\na. mod Indbetaling at kjøbe og efter Overleverelse at sælge Værdipapirer af alle Slags;\nb. at inkassere Beløb og efter Betaling at overføre eller anvise samme paa sine Afdelinger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "content": "Banken er forpligtet til uten godtgjørelse og uten utgift for det offentlige:\na. at motta staten og de offentlige fonds tilhørende indtægter og at besørge deres utbetalinger samt i det hele at overta statens pengeomsætninger, dog uten at staa i forskud;\nb. at motta til opbevaring og forvaltning staten og de offentlige fonds tilhørende eller overfor samme deponerte værdipapirer og andre værdigjenstande;\nc. å utføre (så vel ved hovedsetet som ved avdelingene) forsendelse av skillemynt til offentlige betjenter samt private personer og institusjoner m.v.\nNærmere forskrifter angaaende disse forpligtelser og det i den anledning fornødne regnskapshold gives av Kongen.\nHvorvidt og i tilfælde hvilken rente der skal svares av de i banken indestaaende offentlige midler, fastsættes i mangel av overenskomst mellem vedkommende regeringsdepartement og bankens direktion av bankens repræsentantskap.\n1 Endret ved lover 19 juli 1912 nr. 7, 21 juli 1916 nr. 8, 22 des. 1961 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "content": "Banken står under overbestyrelse av et representantskap på 15 medlemmer og under bestyrelse av en direksjon på 5 medlemmer. Enhver avdeling foreståes av en bestyrelse bestående av 3 stortingsvalgte bestyrere og den administrerende direktør, hvor sådan ansettes.​2\n1 Endret ved lov 22 mai 1931 nr. 1.\n2 Se § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "content": "Repræsentantskapets medlemmer vælges av Stortinget og vedblir som saadanne i 6 aar. Hvert 3dje aar avtræder vekselvis 7 og 8. Desuten vælges hvert 3dje aar 7 varamænd. Repræsentanter oppebærer, forsaavidt de bor i en avstand av mindst 10 kilometer fra hovedsætet, skyss- og kostgodtgjørelse som bestemt for stortingsmænd paa reiser til og fra Stortinget.​2 Formanden og medlemmer av repræsentantskapets komiteer kan tillægges avlønning.\n1 Endret ved lover 19 juli 1912 nr. 7 og 25 mai 1917 nr. 4.\n2 Se lov 30 juni 1954 nr. 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "content": "Formanden og næstformanden i direktionen beskikkes av Kongen, efterat repræsentantskapet har hat anledning til at uttale sig. De ansættes med en gjensidig opsigelsesfrist av 6 maaneder, dog saaledes, at de straks kan fjernes mot utbetaling av løn for den nævnte tid. De maa ikke indeha nogen anden lønnet stilling, heller ikke drive nogen handels-, fabrik- eller bankvirksomhet. Deres lønn fastsettes av departementet. Bankens representantskap fastsetter pensjonen for direksjones formann og nestformann, og deres etterlatte.\nDe øvrige direktører vælges av Stortinget for en tid av 6 aar. Hvert 3dje aar avtræder vekselvis 1 og 2. Desuten vælges hvert 3dje aar 3 varamænd.\n1 Endret ved lover 13 juli 1905 nr. 1, 25 mai 1917 nr. 4 og 13 mars 1970 nr. 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "content": "Bestyrerne ved avdelingene velges av Stortinget for en tid av 6 år. Hvert 3dje år avtrer vekselvis 1 og 2. Dessuten velges hvert 3dje år 3 suppleanter.\nBestyrerne kan av representantskapet midlertidig suspenderes; den trufne bestemmelse forelegges uten ophold Stortinget til endelig avgjørelse.\nRepresentantskapet i forening med direksjonen bestemmer, ved hvilke avdelinger administrende direktører skal ansettes, samt fastsetter deres lønn og øvrige ansettelsesvilkår. Administrerende direktører ansettes av representantskapet, efterat direksjonen har uttalt sig.\n1 Endret ved lover 14 mai 1902 nr. 3 og 22 mai 1931 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "content": "De valgte Repræsentanter, Direktører og Bestyrere tiltræder førstkommende 1ste Januar efter Valget.\nLønninger for Repræsentantskabets Formand, de valgte Direktører og Bestyrerne bestemmes af Storthinget efter Forslag af Bankens Repræsentantskab.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "content": "Suppleanter for repræsentantskapet, direktionen eller bestyrelserne tiltræder i forfaldstilfælde efter den orden, hvori de er valgt. Suppleant, der er indtraadt som fast medlem, fratræder, naar den, i hvis sted han forretter, skulde avgaa. En suppleant ansees alene som fast indtraadt, hvis indtrædelsen er skedd som følge av indtruffet dødsfald eller betalingsindstilling (sml. § 32).\nI tilfælde av, at en direktør eller bestyrer fraflytter stedet, eller overhodet i tvilsomme tilfælde, træffer repræsentantskapet, under indberetning til Stortinget, midlertidig bestemmelse om, hvorvidt vedkommende skal fungere eller ikke.\nEr flere suppleanter indtraadt for repræsentanter, direktører eller bestyrere, hvis gjenværende funktionstid er forskjellig, fratræder suppleanterne i omvendt orden av den, hvori de er valgt.\n1 Endret ved lov 1 mai 1909 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "4:26",
+      "chapter": "4",
+      "section": "26",
+      "content": "Inden hvert Aars Udgang vælger Repræsentantskabet inden sin Midte Formand og Næstformand for det følgende Aar.\nRepræsentantskabet holder Møder hvert Fjerdingaar og ellers saa ofte, det selv maatte anse det nødvendigt, eller Direktionen derom anmoder. Beslutning kan ikke fattes, medmindre mindst 9 Medlemmer er tilstede. I Tilfælde af Stemmelighed gjør Formandens Stemme Udslaget. Over Forhandlingerne føres Protokol. Repræsentantskabet kan kræve, at Direktionen deltager i disse Møder. Direktionen er berettiget til at være tilstede, medmindre Repræsentantskabet for Tilfældet fatter Beslutning om det modsatte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "4:27",
+      "chapter": "4",
+      "section": "27",
+      "content": "Repræsentantskapet har:\na. at afgive Reglement for Bankens Bestyrelse og Forretningsorden, derunder Bestemmelse om, ved hvis Underskrifter Banken forpligtes; Reglementet bliver at indføre i Norsk Lovtidende;\nb. at fordele Forretningerne mellem Direktionens Formand, Næstformand og de øvrige Direktører;\nc. at avgi forslag til Stortinget og foreløbig at fatte bestemmelse om lønninger for repræsentantskapets formand, de valgte direktører og bestyrerne. Desuten bestemmer repræsentantskapet honorar for sine komiteer og sin sekretær. Formanden oppebærer dog intet særskilt honorar som medlem av komiteer.\nd. at fastsætte Lønninger for Bankens Betjente og bestemme om deres Pensionering samt efter at have indhentet Erklæring fra Direktionen og vedkommende Afdelings Bestyrelse at ansætte og afskedige disse, udfærdige de for dem fornødne Instrukser og bestemme den Kaution, Kassererne har at stille. Bankens Betjente ansættes med gjensidig Opsigelsesfrist af 3 Maaneder;\ne. i Forening med Direktionen at fatte Beslutning om Afdelingers Oprettelse og Nedlæggelse;\nf. i Forening med Direktionen at bestemme, hvor stort Beløb af Bankens Laanekapital der skal stilles til enhver Afdelings Raadighed;\ng. midlertidig at vælge Bestyrer og Suppleanter for nyoprettede Afdelinger samt Suppleanter ved Hovedsædet og Afdelingerne, naar dette formedelst Forfald maatte gjøres nødvendigt;\nh. selv eller ved Befuldmægtigede til ubestemte Tider, mindst en Gang hvert Fjerdingaar, at efterse Direktionens og Bestyrelsernes Protokoller samt Bankens Deposita, Kasse og øvrige Beholdninger;\ni. at afgjøre Tvistigheder Banken vedkommende mellem Bankens Foresatte og Klager af Betjente over deres Foresatte;\nk. selv eller, naar hurtig Afgjørelse kræves, ved et Udvalg, bestaaende af fem Medlemmer, at afgjøre Andragender om Akkord efter at have indhentet Direktionens Betænkning.\nDirektionen er berettiget til at være tilstede ved Udvalgets Møder, medmindre dette for Tilfældet fatter Beslutning om det modsatte;\nl. at foranstalte Bankens Regnskab revideret og at decidere samme;\nm. at fatte Beslutning om Fordelingen af Aarets Indtægt (jfr. §§ 39 og 40);\nn. at afgive Beslutning i alle de Sager, der af Direktionen forelægges det.\n1 Endret ved lover 14 mai 1902 nr. 3, 13 juli 1905 nr. 1 og 19 juli 1912 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "4:28",
+      "chapter": "4",
+      "section": "28",
+      "content": "Direktionen samles daglig til offentlig bekjendtgjort Tid. Ingen Beslutning kan fattes, medmindre tre Medlemmer er tilstede. Formandens eller, saafremt han ikke er tilstede, Næstformandens Stemme gjør Udslaget i Tilfælde af Stemmelighed. I Direktionens Møder føres Protokol.\nDirektionen har at forvalte alle Bankens Midler og at sørge for, at dens Forretninger føres overensstemmende med denne Lov og Repræsentantskabets Bestemmelser, hvorhos den særlig har at overtage Forretningerne i det Hovedsædet underlagte Distrikt.\nI Forretningstiden skal daglig være tilstede mindst to Direktører, hvoraf altid enten Formanden eller Næstformanden. Der føres Dagbog, som forelægges i Direktionsmøderne.\n1 Endret ved lov 13 juli 1905 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "4:29",
+      "chapter": "4",
+      "section": "29",
+      "content": "For hver avdelings bestyrelse velges årlig av og blandt de stortingsvalgte medlemmer en formann.\nHvor administrerende direktør er ansatt​2 er denne medlem av bestyrelsen og har stemme i dennes møter. Bestyrelsen samles til offentlig bekjentgjort tid efter representantskapets bestemmelse og ellers så ofte, den finner det påkrevet. Ingen beslutning kan fattes medmindre to medlemmer er til stede. Hvor der er ansatt administrerende direktør, skal minst 3 medlemmer være til stede. Beslutninger fattes ved stemmeflerhet. I tilfelle av stemmelikhet gjør formannens stemme utslaget. Såfremt lovlig møte holdes alene med 2 medlemmer til stede, må disse være enige for at beslutning skal være gyldig. I bestyrelsens møter føres protokoll.\nVed avdelingene drives, forsåvidt ikke anderledes av representsntskapet i forening med direksjonen bestemmes, de samme forretninger som ved hovedsetet.\nEn av de stortingsvalgte bestyrere er daglig tilstede i forretningstiden; han fører dagbok, som forelegges i bestyrelsesmøtene.\nEn bestyrer, som er bosatt utenfor den by hvor vedkommende avdeling har kontor, kan tilståes godtgjørelse for nødvendige reiseutgifter efter representantskapets nærmere bestemmelse.\n1 Endret ved lover 6 juli 1923 nr. 11 og 22 mai 1931 nr. 1.\n2 Se § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "4:30",
+      "chapter": "4",
+      "section": "30",
+      "content": "De Direktører eller den Bestyrer, der efter §§ 28 og 29 er tilstede i Forretningstiden, kan træffe Afgjørelser i saadan Udstrekning og efter saadanne Regler, som af Direktionen eller vedkommende Bestyrelse med Repræsentantskabets Godkjendelse fastsættes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "4:31",
+      "chapter": "4",
+      "section": "31",
+      "content": "Direktør eller Bestyrer maa ikke deltage i Behandlingen af Sager, som angaar ham selv eller nogen, der er ham saa nær beslægtet eller besvogret som Sødskendebarn, eller hvori han selv eller nogen saadan Person har en fremtrædende økonomisk Interesse.\nPapir med Direktørs eller Bestyrers Navn maa ikke diskonteres ved den avdeling hvor han forretter. Det samme gjælder om Firma, hvori Direktør eller Bestyrer har en fremtrædende økonomisk Interesse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "4:32",
+      "chapter": "4",
+      "section": "32",
+      "content": "Et medlem av regjeringen kan ikke, sålenge han innehar denne stilling fungere som representant, direktør eller bestyrer.\nDirektør eller bestyrer eller suppleant for disse kan ikke samtidig være medlem av eller suppleant for direksjon eller uten representantskapets tillatelse inneha annen stilling i annen bank.\nRepresentant, direktør eller bestyrer, der har innstillet sine betalinger, fratrer sin stilling og kan, selv om han atter blir rådig over sitt bo, ikke inntre i samme uten efter nytt valg.​2\n1 Endret ved lover 1 mai 1909 nr. 4 og 6 juli 1923 nr. 11.\n2 Jfr. § 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "4:33",
+      "chapter": "4",
+      "section": "33",
+      "content": "Tjenestemænd ved Banken skal med Hensyn til, hvad de som saadanne erfarer angaaende Personers eller Indretningers Formuesstilling, være forpligtede til derom at iagttage Taushed​1 i alle Tilfælde, hvor det ikke maatte være deres Pligt at tale. Denne Taushedspligt paaligger dog ikke Bankens Foresatte, naar det efter Fællesbeslutning overdrages nogen af dem at anstille Undersøgelser.\n1 Se strl. § 121.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "4:34",
+      "chapter": "4",
+      "section": "34",
+      "title": "(Opphevet ved lov 8 feb. 1980 nr. 2.)",
+      "content": "§ 34.(Opphevet ved lov 8 feb. 1980 nr. 2.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "4:35",
+      "chapter": "4",
+      "section": "35",
+      "content": "Bankens Betjente ved Hovedsædet og Afdelingerne har at rette sig efter de dem af Direktionen eller vedkommende Bestyrelse givne almindelige eller særlige Paalæg. Tvistigheder dem imellem, Banken vedkommende, afgjøres af Direktionen eller vedkommende Bestyrelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "4:36",
+      "chapter": "4",
+      "section": "36",
+      "content": "Banken skal årlig avgi beretning om sin virksomhet. Beretningen sendes til vedkommende departement for å forelegges for Kongen og meddeles Stortinget. Bankens bøker og beholdninger skal framlegges for de menn som Stortinget oppnevner.\n1 Endret ved lov 8 juli 1949 nr. 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "5:37",
+      "chapter": "5",
+      "section": "37",
+      "content": "Banken har mindst 2 Gange om Maaneden til de Tider, som af Repræsentantskabet bestemmes, at meddele Oversigt over sin Stilling. Denne Oversigt skal snarest mulig offentliggjøres.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "5:38",
+      "chapter": "5",
+      "section": "38",
+      "content": "Bankens Aarsregnskab afsluttes og indsendes til Repræsentantskabet inden Udgangen af det følgende Aars Februar Maaned.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "5:39",
+      "chapter": "5",
+      "section": "39",
+      "content": "Av årets intekter utredes:\na. samtlige omkostninger og driftsutgifter; dog kan omkostninger ved seddelfabrikasjon og bygninger fordeles på inntil 5 år;\nb. endelige og skjønnsmessige tap; og avsettes:\nc. et passende beløp til delkrederefondet. Det på delkrederefondets konto innestående beløp som ikke måtte tiltrenges til dekning av tap, blir efter representantskapets bestemmelse å tillegge årsoverskuddet og fordeles efter reglene i § 40.\n1 Endret ved lover 26 nov. 1920 nr. 2, 30 juni 1936 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "5:40",
+      "chapter": "5",
+      "section": "40",
+      "content": "Av resten utredes:\na. til aktieeierne 6 pct. av aktienes pålydende.\nb. derefter inntil 10 pct. av det tilbakeværende beløp til reservefondet​2 eller kursreguleringsfondet eller ved fordeling mellem disse fond inntil de har nådd henholdsvis 1/2 og 1/5 av aktiekapitalen.\nSådan avsetning til fondene kan efter representantskapets bestemmelse finne sted også efterat de har nådd de nevnte grenser.\nSynker fondene under de nevnte grenser, blir de atter å fylle efter samme regel.\nBestemmelsen i § 39, c, annet punktum, får tilsvarende anvendelse for kursreguleringsfondet.\nc. av det overskytende halvdelen til staten og halvdelen til aktieeierne, inntil disses samlede utbytte utgjør 8 pct.\nd. derpå efter representantskapets bestemmelse ytterligere et passende beløp til reservefondet og kursreguleringsfondet eller til et av dem.\ne. av resten 4/5 til staten og 1/5 til aktieeierne.\nDet som efter disse bestemmelser faller på aktieeierne utover 8 pct. av aktienes pålydende, kan i sin helhet eller for en del henlegges til utbyttereguleringsfondet. Ved hjelp av fondet kan ikke aktionærenes utbytte forøkes til mer enn 8 pct. Beslutninger om overførsler til eller fra utbyttereguleringsfondet treffes av representantskapet.\nUtbytte utbetales kun efter avskrivning på aktiebrev eller mot kupons.\n1 Endret ved lover 19 mai 1900 nr. 2, 19 juli 1912 nr. 7, 21 juli 1916 nr. 8, 30 juli 1936 nr. 1.\n2 Se § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "5:41",
+      "chapter": "5",
+      "section": "41",
+      "content": "Forsaavidt Aarsindtægten ikke strækker til at dække Aarets opgjorte og paaregnelige Tab, bliver det manglende at tilskyde af Reservefondet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "5:42",
+      "chapter": "5",
+      "section": "42",
+      "content": "Udbytte hæves ved Bankens Hovedsæde eller dens Afdelinger;​1 hvor ingen Afdeling findes, kan det hæves hos Fogderne,​2 som derfor oppebærer af Banken en af denne bestemt Godtgjørelse.\n1 Se § 13.\n2 Se lov 21 juli 1894 nr. 5 § 1 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "6:43",
+      "chapter": "6",
+      "section": "43",
+      "content": "Naar Tvangsauktion, herunder ogsaa indbefattet Konkursauktion,​2 forlanges over fast Eiendom, skal Auktionsforvalteren undersøge, om den er pantsat til Norges Bank, og derom afgive Bevidnelse i Auktionsforretningen. I Tilfælde skal han derom gjøre Indberetning til vedkommende Bankafdeling saa betimelig, at dens Bestyrelse kan møde eller lade møde ved Auktionen. – – –​3\n1 Jfr. tvangsfullbl. § 122.\n2 Se konkurslov § 127.\n3 Siste punktum ophevet ved sportellov 4 feb. 1938 § 163.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "6:44",
+      "chapter": "6",
+      "section": "44",
+      "title": "(Opphevd ved lov 12 des. 1975 nr. 59.)",
+      "content": "§ 44.(Opphevd ved lov 12 des. 1975 nr. 59.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "6:45",
+      "chapter": "6",
+      "section": "45",
+      "title": "(Ophevet ved lov 14 aug. 1918 nr. 4 § 2.)",
+      "content": "§ 45.(Ophevet ved lov 14 aug. 1918 nr. 4 § 2.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "6:46",
+      "chapter": "6",
+      "section": "46",
+      "content": "Pantsættes Obligationer eller andre Forskrivninger til Banken, og disse ikke til bestemt Tid indfries, skal Banken være berettiget til uden retslig Forføining mod den, som til Banken har pantsat saadanne Forskrivninger, at søge sin Betaling efter de pantsatte Forskrivningens Indhold.​1\n1 Jfr. tvangsfullbl. §§ 216 flg. og lov 17 feb. 1939 nr. 1 § 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "7:47",
+      "chapter": "7",
+      "section": "47",
+      "content": "Eiere af de for Indskud til Grundfondet udfærdigede Interimskvitteringer kan ved at indsende dem til Banken inden 10 Aar fra denne Lovs Ikrafttræden faa dem efter eget Valg enten indløste efter Dagens Kurs paa Bankens Aktier eller ombyttede med aktiebrev, det sidste dog kun, forsaavidt Aktiebrevet kan gjøres lydende på mindst 50 Kroner​2 eller et større med 10 deleligt Bøløb. Efter Udløbet af ovenangivne Frist taber Interimskvitteringerne Ret til Udbytte.\nFor Beløbet af de indløste Interimskvitteringer udferdiger og afhænder Banken Aktiebreve.\nFor de ved Fristens Udløb ikke indsendte Interimskvitteringer udfærdiges Aktiebrev til Staten, dog kun for et saa stort Beløb, at samtlige Aktiebreves Paalydende ikke overstiger det lovbestemte Grundfond 12 1/2 Million Kroner tillagt det paalydende Beløb af mulig senere indbetalt Aktiekapital, og mod Forpligtelse for Staten til at indløse samtlige tilbageværende Interimskvitteringer efter Dagens Kurs paa Bankens Aktier. Det Beløb i Interimskvitteringer, hvorfor Aktiebrev ikke udfærdiges, overføres til Reservefondet.\n1 Endret ved lov 19 mai 1900 nr. 2.\n2 Jfr. § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "7:48",
+      "chapter": "7",
+      "section": "48",
+      "content": "De i denne Lov om Afdelinger under Banken givne Bestemmelser​1 gjælder ogsaa de nuværende Bankkontorer, der herefter benævnes Afdelinger.\n1 Se §§ 13 og 27 e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "7:49",
+      "chapter": "7",
+      "section": "49",
+      "content": "De ved denne Lovs Ikrafttræden valgte Repræsentanter, Direktører, Administratorer, Kontorbestyrere og Suppleanter vedbliver som saadanne i den Tid, for hvilken de er valgte.\nDen i § 22 omhandlede Næstformand ansættes, uanseet om der er nogen Plads ledig i Direktionen. Ved første Valg paa Direktører, som derefter finder Sted, vælges kun én saadan. Senere aftræder vekselvis 1 og 2.\n1 Endret ved lov 13 juli 1905 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "7:50",
+      "chapter": "7",
+      "section": "50",
+      "content": "Denne Lov træder i Kraft 1ste Januar neste Aar. Fra samme Tid ophæves samtlige i ældre Love indeholdte Bestemmelser om Norges Bank.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    }
+  ]
+}

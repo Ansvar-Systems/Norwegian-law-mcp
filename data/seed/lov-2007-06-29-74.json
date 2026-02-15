@@ -1,0 +1,1217 @@
+{
+  "id": "LOV-2007-06-29-74",
+  "type": "statute",
+  "title": "Lov om regulerte markeder (børsloven)",
+  "short_name": "Børsloven",
+  "status": "in_force",
+  "issued_date": "2007-06-29",
+  "in_force_date": "2007-11-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/2007-06-29-74",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Lovens formål er å legge til rette for effektive, velordnede og tillitvekkende markeder for finansielle instrumenter.​1\n1 Jf. lov 29 juni 2007 nr. 75 § 2-2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens virkeområde",
+      "content": "(1) Loven gjelder virksomhet som regulert marked​1 i Norge. Lovens kapittel 6 gjelder kun for regulerte markeder som er børser.​2\n(2) Loven gjelder også virksomhet som norsk regulert marked driver i utlandet gjennom filial eller ved grenseoverskridende virksomhet, med mindre annet er fastsatt av departementet.\n(3) Kongen gir forskrift om lovens anvendelse på Svalbard og kontinentalsokkelen, og kan fastsette særlige regler under hensyn til de stedlige forhold.\n1 Se § 3 (1).\n2 Se § 3 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner mv.",
+      "content": "(1) Med regulert marked menes foretak med tillatelse etter § 4 som beslutter opptak​1 til handel av finansielle instrumenter​2 på markedet, og som organiserer eller driver et multilateralt system som legger til rette for regelmessig omsetning av noterte instrumenter i samsvar med lov, forskrift og objektive handelsregler fastsatt av markedet selv.​3\n(2) Med børs menes regulert marked med særskilt tillatelse etter § 33.\n(3) Departementet kan i forskrift fastsette regler om hva som menes med regulert marked, samt organiseringen og driften av regulert marked.\n1 Jf. § 24.\n2 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n3 Jf. lov 29 juni 2007 nr. 75 § 2-3 (4).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Tillatelse til å drive virksomhet som regulert marked",
+      "content": "(1) Virksomhet som regulert marked​1 kan bare drives av foretak​2 som har tillatelse til dette fra departementet.​3\n(2) Foretak som ikke har tillatelse som regulert marked etter denne lov kan ikke benytte betegnelsen regulert marked i eller som tillegg til sitt navn, eller ved omtale av sin virksomhet, dersom bruken er egnet til å gi inntrykk av at foretaket har tillatelse etter denne loven.​4\n1 Se § 3 (1).\n2 Jf. § 9.\n3 Se § 48 (1).\n4 Se § 48 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Konsesjonsmyndighet. Søknad om tillatelse",
+      "content": "(1) Departementet kan gi tillatelse som regulert marked​1 til foretak som oppfyller kravene i loven her. Tillatelse kan bare gis dersom eiere av betydelige eierandeler​2 er egnet. Reglene om egnethetsvurdering ved erverv av eierandel i §§ 17 og 35 gjelder tilsvarende. Søknad om tillatelse som regulert marked skal inneholde virksomhetsplan, opplysninger om organiseringen av foretaket som viser at de lovbestemte krav er oppfylt, og opplysninger som er nødvendige for å gjennomføre eierkontroll etter §§ 17 eller 35. Utkast til regler og forretningsvilkår i henhold til § 22 tredje ledd skal vedlegges søknaden. Departementet kan be om ytterligere opplysninger.\n(2) Vedtak om tillatelse skal meddeles søker snarest mulig og senest seks måneder etter at søknaden ble mottatt. Dersom søknaden ikke inneholder opplysninger som er nødvendige for å avgjøre om tillatelse skal gis, regnes fristen fra det tidspunkt slike opplysninger ble mottatt.\n0 Endret ved lov 20 juni 2014 nr. 29 (ikr. 1 juli 2014 iflg. vedtak 26 juni 2014 nr. 866).\n1 Se § 3 (1).\n2 Se § 17 (1) annet punktum.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Bortfall, endring og tilbakekall av tillatelse",
+      "content": "(1) Tillatelse etter § 5 bortfaller dersom regulert marked​1 kommer under konkursbehandling​2 eller tvangsakkord.​3\n(2) Departementet kan helt eller delvis endre, herunder sette nye vilkår, eller tilbakekalle tillatelse for regulert marked​1 dersom:\na. foretaket ikke gjør bruk av tillatelsen innen tolv måneder, gir uttrykkelig avkall på tillatelsen eller har opphørt å drive virksomhet som regulert marked i mer enn seks måneder,\nb. foretaket har fått tillatelsen ved hjelp av uriktige opplysninger​4 eller andre uregelmessigheter,\nc. foretaket ikke lenger oppfyller de vilkår som kreves for tillatelsen, herunder kravene til ansvarlig kapital​5 og likviditet,​6\nd. foretaket alvorlig eller systematisk overtrer bestemmelser gitt i eller i medhold av lov,\ne. mislige forhold hos foretaket gir grunn til å frykte at en fortsettelse av virksomheten kan skade allmenne interesser, eller\nf. foretaket ikke etterkommer pålegg gitt i medhold av § 47 eller lov 7. desember 1956 nr. 1 om tilsynet med finansinstitusjoner mv. (finanstilsynsloven) § 4 første ledd nr. 7.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (1).\n2 Jf. kkl. § 60.\n3 Jf. kkl. § 123.\n4 Sml. lov 31 mai 1918 nr. 4 § 33.\n5 Jf. § 20.\n6 Jf. § 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Sammenslåing og deling av regulert marked mv.",
+      "content": "Vedtak om sammenslåing​1 og deling​2 av regulert marked​3 skal meddeles departementet minst tre måneder før vedtaket gjennomføres. Tilsvarende gjelder ved avhendelse av en vesentlig del av regulert markeds konsesjonspliktige virksomhet. Departementet avgjør i tvilstilfelle om en avhendelse omfatter en vesentlig del av den konsesjonspliktige virksomheten. Departementet kan innen tre måneder fra melding er mottatt nekte sammenslåing, deling eller avhendelse, sette vilkår for gjennomføring av transaksjonen eller endre konsesjonen.\n1 Se asal. kap. 13.\n2 Se asal. kap. 14.\n3 Se § 3 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Virksomhet i utlandet",
+      "content": "Norsk regulert marked​1 som skal utøve virksomhet i utlandet gjennom datterselskap eller filial, skal ha tillatelse fra departementet.\n1 Se § 3 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Organisasjonsform",
+      "content": "Regulert marked​1 skal være organisert som allmennaksjeselskap.​2\n1 Se § 3 (1).\n2 Jf. asal.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Styre og ledelse",
+      "content": "(1) Regulert marked​1 skal ha et styre med minst fem medlemmer.​2 Daglig leder​3 kan ikke være medlem av styret.​4\n(2) Styremedlemmer, daglig leder og andre som faktisk deltar i ledelsen av regulert marked skal ha relevante kvalifikasjoner og yrkeserfaring, ha ført en hederlig vandel​5 og for øvrig ikke ha utvist utilbørlig atferd som gir grunn til å anta at stillingen eller vervet ikke vil kunne ivaretas på forsvarlig måte.\n(3) Regulert marked skal gi Finanstilsynet​6 melding ved endring av styrets sammensetning og ved skifte av daglig leder eller andre som faktisk deltar i ledelsen av virksomheten. Meldingen skal så vidt mulig gis på forhånd, og skal inneholde nødvendige opplysninger om kvalifikasjoner og yrkeserfaring, vandel, verv eller stilling i annen virksomhet.\n(4) Finanstilsynet​6 kan gi pålegg om at endringer ikke skal iverksettes dersom endringen kan antas å medføre at vilkårene i første og annet ledd ikke vil oppfylles.\n(5) Personer som nevnt i annet ledd skal fremlegge ordinær politiattest etter politiregisterloven​7 § 40.\n0 Endret ved lover 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603), 22 juni 2012 nr. 35 (ikr. 1 juli 2014 iflg. res. 22 juni 2012 nr. 566 og res. 13 des 2013 nr. 1449).\n1 Se § 3 (1).\n2 Sml. asal. § 6-1, sml. § 6-11 a.\n3 Se asal. § 6-2.\n4 Jf. asal. § 6-1 (3).\n5 Se § 47 (1) annet punktum.\n6 Jf. lov 7 des 1956 nr. 1.\n7 Lov 28 mai 2010 nr. 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Internkontroll",
+      "content": "(1) Styret skal fastsette retningslinjer for internkontroll, og skal forvisse seg om at internkontrollen etableres, gjennomføres og dokumenteres på en forsvarlig måte i samsvar med styrets retningslinjer og pålegg.​1 Finanstilsynet​2 kan gi nærmere regler om gjennomføringen av internkontroll.\n(2) Daglig leder skal sørge for at internkontroll etableres og gjennomføres i henhold til lov og forskrifter samt styrets retningslinjer og pålegg.​3\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Jf. asal. § 6-12.\n2 Jf. lov 7 des 1956 nr. 1.\n3 Jf. asal. § 6-13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Revisor",
+      "content": "Finanstilsynet​1 kan gi nærmere regler om revisors​2 arbeidsoppgaver i regulert marked.​3\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Jf. lov 7 des 1956 nr. 1.\n2 Jf. asal. kap. 7.\n3 Se § 3 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Organisatoriske krav",
+      "content": "Regulert marked​1 skal fastsette interne regler og treffe nødvendige tiltak som til enhver tid sikrer:\na. identifisering og håndtering av interessekonflikter mellom det regulerte markedet eller dets eiere på den ene siden og markedets oppgaver og funksjoner på den annen,​2\nb. identifisering og håndtering av signifikante risikoer som virksomheten utsettes for,\nc. gjennomsiktige og faste handelsregler og prosedyrer i henhold til § 24, herunder etablering av objektive kriterier for effektiv gjennomføring av ordre,\nd. at markedet har systemer for en forsvarlig drift av det tekniske systemet, herunder effektive ordninger i tilfelle av teknisk avbrudd (reserveløsninger), og\ne. at det legges til rette for effektiv og rettidig gjennomføring av transaksjoner.\n1 Se § 3 (1).\n2 Jf. asal. § 3-8 og § 6-27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Taushetsplikt",
+      "content": "(1) Tillitsvalgte, ansatte og revisor ved regulert marked​1 plikter å hindre at noen får adgang eller kjennskap til det som de i sitt arbeid får vite om andres forretningsmessige eller personlige forhold med mindre annet følger av denne eller annen lov. Vedkommende må heller ikke gjøre bruk av slike opplysninger ved ervervsvirksomhet eller ved kjøp og salg av finansielle instrumenter.​2 Bestemmelsene i forvaltningsloven​3 §§ 13a til 13e får tilsvarende anvendelse.\n(2) Taushetsplikten gjelder også etter at vedkommende har sluttet i tjenesten eller vervet.\n(3) Taushetsplikt etter første og annet ledd i denne bestemmelse er ikke til hinder for at opplysninger gis tilsynsmyndighetene.​4\n(4) Departementet kan i forskrift eller ved enkeltvedtak gjøre unntak fra taushetsplikten overfor annet regulert marked,​1 verdipapirregister,​5 sentral motpart, og utenlandske tilsynsmyndigheter.\n0 Endret ved lov 16 des 2016 nr. 91 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1607).\n1 Se § 3 (1).\n2 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n3 Lov 10 feb 1967.\n4 Se § 44.\n5 Jf. lov 5 juli 2002 nr. 64 § 1-3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Habilitetsregler",
+      "content": "(1) Tillitsvalgte og ansatte ved regulert marked​1 må ikke delta i behandlingen eller avgjørelsen av spørsmål som har slik særlig betydning for egen del eller for noen nærstående​2 at vedkommende må anses for å ha en fremtredende personlig eller økonomisk særinteresse i saken.​3 Vedkommende må heller ikke delta i behandlingen eller avgjørelsen av noe spørsmål som har fremtredende økonomisk særinteresse for selskap, forening eller annen offentlig eller privat institusjon som vedkommende er knyttet til.\n(2) Departementet kan i forskrift fastsette begrensninger i ansattes og tillitsvalgtes adgang til å ha styreverv eller bierverv i selskap hvis finansielle instrumenter​4 er opptatt til notering og handel på vedkommende regulerte marked.​5 Departementet kan fastsette tilsvarende begrensning for ansatte og tillitsvalgte i foretak som inngår i samme konsern​6 som regulert marked.\n1 Se § 3 (1).\n2 Jf. lov 29 juni 2007 nr. 75 § 2-5. Jf. § 18 (1).\n3 Sml. asal. § 6-27.\n4 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n5 Jf. § 24.\n6 Jf. asal. § 1-3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Adgangen til å eie finansielle instrumenter m.m.",
+      "content": "(1) Regulert marked​1 kan ikke eie finansielle instrumenter​2 som er opptatt til notering og handel på vedkommende marked,​3 eller rettigheter til slike, med unntak av obligasjoner og sertifikater utstedt av en EØS-stat.\n(2) Ansatte i regulert marked kan bare erverve eller avhende finansielle instrumenter i den utstrekning det følger av forskrift fastsatt av departementet. Departementet kan i forskrift fastsette begrensninger i tillitsvalgtes adgang til å foreta slike transaksjoner. Departementet kan fastsette forskrift om at ansatte og tillitsvalgte skal melde egne handler og handler foretatt av nærstående​4 til det regulerte markedet eller Finanstilsynet. Reglene i annet og tredje punktum gjelder tilsvarende for ansatte og tillitsvalgte i foretak som inngår i samme konsern​5 som regulert marked.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (1).\n2 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n3 Jf. § 24.\n4 Jf. lov 29 juni 2007 nr. 75 § 2-5.\n5 Jf. asal. § 1-3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Eierkontroll i regulert marked som ikke er børs",
+      "content": "(1) Erverv som fører til at erververen blir eier av en betydelig eierandel​1 i et regulert marked​2 som ikke er børs,​3 kan bare gjennomføres etter at melding om dette på forhånd er sendt til Finanstilsynet.​4 Med betydelig eierandel menes direkte eller indirekte eierandel som representerer minst 10 prosent av aksjekapitalen eller stemmene,​5 eller som på annen måte gjør det mulig å utøve betydelig innflytelse over forvaltningen av selskapet. Likt med erververens egne aksjer regnes aksjer som eies eller erverves av aksjeeiere som nevnt i § 18.​6 Likestilt med eie av aksjer etter første til tredje punktum regnes erverv av rett til å bli eier av aksjer når dette må anses som reelt aksjeeie.\n(2) Ethvert erverv som øker eierandelen slik at denne direkte eller indirekte overstiger 20, 30 eller 50 prosent av aksjekapitalen eller stemmene i et regulert marked som ikke er børs, kan bare gjennomføres etter at melding om dette på forhånd er sendt til Finanstilsynet. Første ledd tredje og fjerde punktum gjelder tilsvarende.\n(3) Finanstilsynet skal innen tre måneder fra den dag melding som nevnt i første og annet ledd er komplett, nekte slikt erverv dersom vedkommende aksjeeier ikke anses egnet til å sikre en god og fornuftig forvaltning av foretaket. Den som erverver betydelig eierandel etter reglene i første og annet ledd, skal fremlegge ordinær politiattest etter politiregisterloven​7 § 40 dersom Finanstilsynet ber om det.\n(4) Ved avhendelse av eierandel som medfører at eierandelens størrelse kommer under grensene som nevnt i første eller annet ledd, skal det gis melding til Finanstilsynet.\n(5) Departementet kan gi forskrift om innholdet i melding som nevnt i første og annet ledd, om når denne anses som komplett, og om den nærmere behandlingen av meldingen.\n0 Endret ved lover 19 juni 2009 nr. 59 (ikr. 1 juli 2009 iflg. res. 19 juni 2009 nr. 691), 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603), 22 juni 2012 nr. 35 (ikr. 1 juli 2014 iflg. res. 22 juni 2012 nr. 566 og res. 13 des 2013 nr. 1449), 20 juni 2014 nr. 29 (ikr. 1 juli 2014 iflg. vedtak 26 juni 2014 nr. 866).\n1 Se annet ledd.\n2 Se § 3 (1).\n3 Sml. § 35.\n4 Jf. lov 7 des 1956 nr. 1.\n5 Jf. asal. § 2-2 (1) nr. 5 og § 5-4.\n6 Sml. lov 29 juni 2007 nr. 75 § 2-4 (5).\n7 Lov 28 mai 2010 nr. 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Konsolidering",
+      "content": "(1) Likt med aksjeeierens egne aksjer regnes i forhold til reglene i § 17 de aksjer som eies eller overtas av aksjeeiernes nærstående, jf. verdipapirhandelloven​1 § 2-5.\n(2) Departementet avgjør i tvilstilfelle om aksjer som aksjeeieren ikke eier skal likestilles med egne aksjer etter reglene i første ledd.\n1 Lov 29 juni 2007 nr. 75.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Opptak til notering av finansielle instrumenter utstedt av regulert marked",
+      "content": "(1) Regulert marked​1 kan ikke oppta til notering omsettelige verdipapirer​2 utstedt av det regulerte markedet, eller finansielle instrumenter​3 knyttet til slike.\n(2) Departementet kan gi samtykke til at et regulert marked opptar til notering omsettelige verdipapirer som er utstedt av et foretak som inngår i konsernforhold​4 med vedkommende marked eller finansielle instrumenter knyttet til slike. Det kan stilles vilkår for slikt samtykke, herunder at slikt foretak skal underlegges særlig tilsyn fra Finanstilsynet,​5 samt at foretaket skal ha opplysningsplikt overfor Finanstilsynet.\n(3) Departementet kan gi nærmere regler om prosedyrer, beslutning og kontroll vedrørende slikt opptak, om løpende notering og om tilsyn med utsteder og det regulerte markedet.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (1).\n2 Jf. lov 29 juni 2007 nr. 75 § 2-2 (2).\n3 Jf. lov 29 juni 2007 nr. 75 § 2-2 (1).\n4 Jf. asal. § 1-3.\n5 Jf. lov 7 des 1956 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Krav til ansvarlig kapital",
+      "content": "(1) Regulert marked​1 skal til enhver tid ha en ansvarlig kapital som er forsvarlig ut fra risikoen ved og omfanget av virksomheten i foretaket.​2\n(2) Ved vurderingen av foretakets risiko skal det blant annet tas hensyn til virksomhetsrisiko, kontraktsrisiko, operasjonell risiko og annen særlig risiko som foretakets virksomhet er eksponert for.\n(3) Departementet kan gi nærmere regler om hva som skal regnes som foretakets ansvarlige kapital, samt om minstekrav til ansvarlig kapital.\n1 Se § 3 (1).\n2 Sml. asal. § 3-4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Likviditetskrav",
+      "content": "Regulert marked​1 skal ha en beholdning av likvide midler, eller tilgang på slike, som anses betryggende ut fra foretakets virksomhet og situasjon. Departementet kan gi nærmere regler om beregning av likvide midler og om hva som kan anses som betryggende beholdning.\n1 Se § 3 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Generelle krav til virksomheten",
+      "content": "(1) Regulert marked​1 skal drive sin virksomhet med tilbørlig hensyn til prinsipper om effektivitet, nøytralitet​2 og likebehandling av aktører samt for å sikre at markedet har god gjennomsiktighet og at kursnoteringen gjenspeiler de noterte instrumentenes markedsverdi.\n(2) Regulert marked​1 skal ha de systemer for gjennomføring av handel, kursnoteringer, gjennomsiktighet,​3 informasjonsgivning og markedsovervåking​4 som er nødvendige i forhold til den måten virksomheten er organisert på.\n(3) Regulert marked​1 skal sende sine regler og forretningsvilkår, og endringer i disse, til Finanstilsynet.​5 Finanstilsynet kan kreve reglene eller forretningsvilkårene endret dersom de ikke oppfyller lov eller forskrift. Finanstilsynet kan fastsette frist for innsending av endring og tillegg i regler og forretningsvilkår før endringen eller tillegget settes i verk.​6\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (1).\n2 Jf. § 23 (1).\n3 Jf. § 28 og § 29.\n4 Jf. § 27.\n5 Jf. lov 7 des 1956 nr. 1.\n6 Jf. § 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Virksomhetsbegrensninger",
+      "content": "(1) Regulert marked​1 kan i tillegg til virksomhet som regulert marked bare drive virksomhet som har naturlig sammenheng med markedsplassvirksomhet og som ikke svekker tilliten til markedsplassens integritet og uavhengighet. Departementet avgjør i tvilstilfelle om vilkårene i første punktum er oppfylt.\n(2) Dersom et regulert marked​1 driver oppgjørsvirksomhet etter verdipapirhandelloven​2 kapittel 13, må virksomheten drives i eget foretak. Departementet kan i forskrift eller enkeltvedtak gjøre unntak fra bestemmelsen i første punktum.\n(3) Finanstilsynet​3 kan pålegge regulert marked​1 som driver annen virksomhet, å drive denne i et eget foretak.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (1).\n2 Lov 29 juni 2007 nr. 75.\n3 Jf. lov 7 des 1956 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Opptak til og handel av finansielle instrumenter mv.",
+      "content": "(1) Regulert marked​1 skal ha regler om opptak av finansielle instrumenter​2 til handel.\n(2) Regler fastsatt i medhold av første ledd, skal sørge for at finansielle instrumenter kan handles på en redelig, velordnet og effektiv måte, samt at omsettelige verdipapirer etter verdipapirhandelloven​3 § 2-2 annet ledd er fritt omsettelige. Ved opptak av derivater​4 til handel skal reglene sørge for at derivatkontraktene er utformet på en slik måte at de legger til rette for en velordnet prisdannelse og effektive oppgjørsbetingelser.\n(3) Regulert marked​1 skal være innrettet på en slik måte at det påser at utstedere av omsettelige verdipapirer som er tatt opp til handel, oppfyller sine forpliktelser etter verdipapirhandelloven​3 kapittel 5 og 7.\n(4) Regulert marked​1 skal være innrettet på en slik måte at det letter medlemmenes tilgang til opplysninger som offentliggjøres i medhold av verdipapirhandelloven​2 kapittel 5 og 7.\n(5) Regulert marked​1 skal være innrettet slik at det regelmessig påser at vilkårene for opptak til handel av finansielle instrumenter oppfylles.\n(6) Regulert marked​1 kan uten utsteders samtykke ta opp til handel omsettelige verdipapirer som allerede er tatt opp til handel på et annet regulert marked, forutsatt at reglene i verdipapirhandelloven​3 kapittel 7 oppfylles. Utstederen skal gis melding av det regulerte markedet om at opptak til handel finner sted. Utstederen skal ikke underlegges informasjonsforpliktelser som følge av opptaket.\n(7) Regulert marked​1 kan kreve at utsteder av finansielle instrumenter som er eller søkes tatt opp til handel, utstederes tillitsvalgte og ansatte uten hinder av taushetsplikt gir regulert marked de opplysninger som er nødvendig for at markedet skal kunne oppfylle sine lovbestemte plikter.​5 Første punktum gjelder tilsvarende for annen person som har søkt om opptak til handel av finansielle instrumenter.\n(8) Departementet kan i forskrift fastsette nærmere regler om opptak av finansielle instrumenter til handel, herunder om utstederes rettigheter og plikter som følge av opptaket.\n1 Se § 3 (1).\n2 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n3 Lov 29 juni 2007 nr. 75.\n4 Se lov 29 juni 2007 nr. 75 § 2-2 (5).\n5 Se § 48 (2) og § 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Suspensjon og strykning av finansielle instrumenter",
+      "content": "(1) Regulert marked​1 kan suspendere eller stryke et finansielt instrument​2 hvis det ikke lenger tilfredsstiller det regulerte markedets vilkår eller regler​3 eller særlige grunner for øvrig tilsier det. Regulert marked kan likevel ikke suspendere eller stryke et finansielt instrument hvis dette kan ventes å medføre vesentlig ulempe for eierne av instrumentet eller markedets oppgaver og funksjon.\n(2) Regulert marked​1 som suspenderer eller stryker et finansielt instrument fra handel, skal umiddelbart offentliggjøre og gi Finanstilsynet opplysninger om dette.\n(3) Finanstilsynet kan beslutte at et regulert marked​1 skal suspendere eller stryke et finansielt instrument i medhold av første ledd hvis det ikke lenger tilfredsstiller vilkårene for opptak til handel eller særlige grunner for øvrig tilsier det.\n(4) Departementet kan gi nærmere regler om suspensjon og strykning av finansielle instrumenter.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (1).\n2 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n3 Jf. § 24 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Medlemskap i regulert marked",
+      "content": "(1) Regulert marked​1 skal ha ikke-diskriminerende regler basert på objektive kriterier om medlemskap og tilgang til markedet.\n(2) Reglene som nevnt i første ledd, skal beskrive et medlems forpliktelser som følger av:\na. reguleringen av og virksomheten til det regulerte markedet,\nb. handelsreglene til markedet,\nc. profesjonelle standarder for ansatte i verdipapirforetak​2 eller kredittinstitusjoner​3 som deltar på markedet,\nd. vilkårene som gjelder for medlemmer som ikke er verdipapirforetak eller kredittinstitusjoner etter tredje ledd, og\ne. regler og prosedyrer for oppgjør av transaksjoner som gjelder på markedet.\n(3) Regulert marked​1 kan oppta verdipapirforetak​2 og kredittinstitusjoner​3 som medlem. Medlemmet skal ha en forsvarlig kapital, formålstjenlig organisasjon, tilstrekkelige tekniske systemer og for øvrig anses skikket til å delta i handelen i forhold til de forpliktelser medlemskapet innebærer. Regulert marked kan også oppta andre juridiske og fysiske personer som medlem, såfremt denne personen:\na. anses egnet,\nb. har tilstrekkelig kompetanse knyttet til handel og transaksjoner,\nc. har, der hvor det er relevant, tilstrekkelige organisatoriske foranstaltninger, og\nd. har nødvendige finansielle ressurser i forhold til den stilling personen legger opp til å ha i markedet.\n(4) Kravene i verdipapirhandelloven​4 §§ 10-11, 10-12 og 10-13 gjelder ikke for transaksjoner som sluttes mellom medlemmer i et regulert marked.​1 Kravene i verdipapirhandelloven §§ 10-11, 10-12 og 10-13 gjelder imidlertid overfor medlemmers kunder.\n(5) Regulert marked​1 skal gi foretak med hovedkontor i annen EØS-stat og som har tillatelse til å yte investeringstjenester,​5 adgang til medlemskap på like vilkår som andre medlemmer.\n(6) Regulert marked​1 skal gi Finanstilsynet​6 melding hvis det har til hensikt å etablere ordninger i annen EØS-stat som kan lette fjernmedlemmers adgang til og mulighet for å handle på markedet. Finanstilsynet skal innen én måned gi opplysningene til tilsynsmyndigheten i den andre EØS-staten.\n(7) Medlem på regulert marked​1 samt tillitsvalgte og ansatte hos medlem er uten hinder av taushetsplikt forpliktet til å gi vedkommende regulerte marked de opplysninger som er nødvendig for at markedet skal kunne oppfylle sine plikter etter denne lov og annen lovgivning.​7\n(8) Departementet kan fastsette nærmere regler om vilkår for medlemskap og medlemmers forpliktelser.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (1).\n2 Jf. lov 29 juni 2007 nr. 75 § 2-3 (1).\n3 Jf. lov 29 juni 2007 nr. 75 § 2-3 (2).\n4 Lov 29 juni 2007 nr. 75.\n5 Jf. lov 29 juni 2007 nr. 75 § 2-1.\n6 Jf. lov 7 des 1956 nr. 1.\n7 Se § 48 (2), § 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Markedsovervåking​1",
+      "content": "(1) Regulert marked​2 skal etablere effektive ordninger og prosedyrer som sikrer en regelmessig overvåking av medlemmers etterlevelse av markedets egne regler.​3 Regulerte markeder skal overvåke transaksjoner på markedet med sikte på å avdekke brudd på relevante lover og regler, markedets egne regler og rettsstridige handelsforhold.\n(2) Regulert marked​2 skal umiddelbart gi melding til Finanstilsynet​4 ved mistanke om vesentlige brudd på relevante lover og regler, markedets egne regler og rettsstridige handelsforhold.\n(3) Regulert marked​2 kan kreve at verdipapirregister​5 og sentral motpart uten hinder av taushetsplikt​6 gir slike opplysninger som er nødvendige for at markedet skal kunne oppfylle sine plikter etter første og annet ledd. Opplysningene kan ikke benyttes til andre formål.\n(4) Departementet kan i forskrift fastsette nærmere regler om markedsovervåkingen. Departementet kan videre fastsette nærmere regler om opplysningsplikten etter tredje ledd, herunder om innskrenkninger i opplysningsplikten og om det formål opplysningene kan benyttes til, samt om og i hvilken utstrekning det skal kunne kreves betaling for kostnader ved utlevering av opplysninger.\n0 Endret ved lover 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603), 16 des 2016 nr. 91 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1607).\n1 Sml. lov 29 juni 2007 nr. 75 § 11-2.\n2 Se § 3 (1).\n3 Jf. § 24 (1).\n4 Jf. lov 7 des 1956 nr. 1.\n5 Jf. lov 5 juli 2002 nr. 64 § 1-3.\n6 Jf. lover 5 juli 2002 nr. 64 § 8-1 og 29 juni 2007 nr. 75 § 13-5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Offentliggjøring av opplysninger om ordre mv.​1",
+      "content": "(1) Regulert marked​2 skal offentliggjøre kjøps- og salgstilbud i aksjer, herunder ordredybde på ulike prisnivåer, som legges inn i markedets handelssystem.​3 Opplysningene skal på alminnelige forretningsmessige vilkår offentliggjøres løpende i løpet av handelsdagen. Regulert marked skal fastsette regler om offentliggjøring av opplysninger om ordre mv.\n(2) Regulert marked kan på alminnelige forretningsmessige vilkår og ikke-diskriminerende basis gi verdipapirforetak som omfattes av verdipapirhandelloven​4 § 10-19, tilgang til de ordningene som benyttes for offentliggjøring av opplysningene nevnt i første ledd.\n(3) Finanstilsynet​5 kan frita regulert marked​2 fra forpliktelsene i henhold til første ledd.\n(4) Departementet kan i forskrift fastsette regler om offentliggjøring av opplysninger om ordre mv., herunder at det skal gis opplysninger om andre finansielle instrumenter enn aksjer,​6 samt om Finanstilsynets​5 fritaksadgang etter tredje ledd.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Sml. lov 29 juni 2007 nr. 75 § 11-3.\n2 Se § 3 (1).\n3 Jf. § 22 (1).\n4 Lov 29 juni 2007 nr. 75.\n5 Jf. lov 7 des 1956 nr. 1.\n6 Jf. lov 29 juni 2007 nr. 75 § 11-4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Offentliggjøring av opplysninger om handler mv.​1",
+      "content": "(1) Regulert marked​2 skal offentliggjøre pris, volum og tidspunkt for transaksjoner i aksjer opptatt til handel på vedkommende marked.​3 Opplysningene skal på alminnelige forretningsmessige vilkår offentliggjøres så raskt som mulig etter gjennomføring av transaksjonene. Regulert marked skal fastsette regler om offentliggjøring av opplysninger om handler mv.\n(2) Regulert marked kan på alminnelige forretningsmessige vilkår og ikke-diskriminerende basis gi verdipapirforetak som omfattes av verdipapirhandelloven​4 § 10-19, tilgang til de ordningene som benyttes for offentliggjøring av opplysningene nevnt i første ledd.\n(3) Finanstilsynet​5 kan gi regulert marked adgang til å utsette offentliggjøring etter første ledd.\n(4) Departementet kan i forskrift fastsette regler om offentliggjøring av opplysninger om handler mv., herunder at det skal gis opplysninger om andre finansielle instrumenter enn aksjer,​6 samt om Finanstilsynets fritaksadgang etter tredje ledd.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Sml. lov 29 juni 2007 nr. 75 § 11-4.\n2 Se § 3 (1).\n3 Jf. § 22 (1).\n4 Lov 29 juni 2007 nr. 75.\n5 Jf. lov 7 des 1956 nr. 1.\n6 Jf. lov 29 juni 2007 nr. 75 § 2-2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "title": "Løpende mulkt",
+      "content": "Regulert marked kan pålegge et foretak eller en person som ikke oppfyller sin opplysningsplikt etter §§ 24 syvende ledd og 26 syvende ledd eller forskrift gitt i medhold av disse, en daglig løpende mulkt inntil opplysningsplikten er oppfylt. Pålegg om mulkt er tvangsgrunnlag for utlegg.​1 Departementet kan gi nærmere regler om ileggelse av løpende mulkt.\n1 Jf. tvangsl. § 7-2 (1), d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "5:31",
+      "chapter": "5",
+      "section": "31",
+      "title": "Overtredelsesgebyr",
+      "content": "Ved brudd på denne lov eller forskrifter gitt i medhold av denne lov eller ved vesentlige brudd på regulert markeds​1 regler og forretningsvilkår, kan regulert marked pålegge utsteder av finansielle instrumenter​2 notert på vedkommende regulerte marked eller medlemmer​3 i vedkommende regulerte marked å betale et overtredelsesgebyr. Departementet kan gi nærmere regler om ileggelse av overtredelsesgebyr.\n1 Se § 3 (1).\n2 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n3 Jf. § 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "5:32",
+      "chapter": "5",
+      "section": "32",
+      "title": "Forvaltningslovens anvendelse på avgjørelser truffet av regulert marked",
+      "content": "Departementet kan i forskrift fastsette i hvilken utstrekning forvaltningsloven​1 skal gjelde når regulert marked​2 treffer avgjørelser. Departementet kan fastsette nærmere regler om saksbehandlingen.\n1 Lov 10 feb 1967.\n2 Se § 3 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "33",
+      "section": "33",
+      "title": "Tillatelse til å drive virksomhet som børs mv.",
+      "content": "(1) Virksomhet som børs​1 kan bare drives av foretak som har tillatelse til dette fra departementet.​2 Foretak som ikke har tillatelse som børs etter denne lov, kan ikke benytte betegnelsen børs i eller som tillegg til sitt navn, eller ved omtale av sin virksomhet, dersom bruken er egnet til å gi inntrykk av at foretaket har tillatelse etter denne loven.​3\n(2) Vedtektene og endringer i disse​4 skal forelegges departementet til godkjennelse. Departementet kan gi forskrift om innhold og godkjenning av børsers vedtekter.\n(3) Vedtak om avhendelse​4 av en vesentlig del av den konsesjonspliktige virksomheten skal treffes av generalforsamlingen med flertall som for vedtektsendring.​5\n0 Endret ved lov 4 juni 2010 nr. 20 (ikr. 1 juli 2010 iflg. res. 4 juni 2010 nr. 771).\n1 Se § 3 (2).\n2 Se § 4 (1) jf. § 48 (1).\n3 Se § 48 (1).\n4 Sml. § 7.\n5 Jf. asal. § 5-18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "34",
+      "section": "34",
+      "title": "Opptak til handel av finansielle instrumenter på børs",
+      "content": "(1) Finansielle instrumenter​1 kan opptas til handel på børs​2 etter reglene i § 24 og forskrift gitt i medhold av denne, og børsens egne regler dersom vedkommende børs finner at de finansielle instrumentene er egnet for dette og kan forventes å bli gjenstand for regelmessig omsetning.\n(2) Departementet kan i forskrift fastsette nærmere regler om børsnotering av finansielle instrumenter.\n1 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n2 Se § 3 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "35",
+      "section": "35",
+      "title": "Eierkontroll i børs",
+      "content": "(1) Erverv som fører til at erververen blir eier av en betydelig eierandel i en børs​1 krever tillatelse fra departementet.​2 Med betydelig eierandel menes direkte eller indirekte eierandel som representerer minst 10 prosent av aksjekapitalen​3 eller stemmene,​4 eller som på annen måte gjør det mulig å utøve betydelig innflytelse over forvaltningen av selskapet.​5 Likt med erververens egne aksjer regnes aksjer som eies eller erverves av aksjeeiere som nevnt i § 18. Likestilt med eie av aksjer etter første til tredje punktum regnes erverv av rett til å bli eier av aksjer når dette må anses som reelt aksjeeie.\n(2) Ethvert erverv som øker eierandelen slik at denne direkte eller indirekte overstiger 20, 30 eller 50 prosent av aksjekapitalen eller stemmene i en børs, krever tillatelse fra departementet. Første ledd tredje punktum gjelder tilsvarende.\n(3) Søknad om tillatelse etter første og annet ledd sendes særskilt for hver aksjeeier som ved ervervet direkte eller indirekte får en eierandel i en børs som utgjør eller overstiger 10, 20, 30 eller 50 prosent.\n(4) Tillatelse etter første og annet ledd kan bare gis når erververen anses egnet til å sikre en god og fornuftig forvaltning av foretaket. Ved denne vurderingen skal det særlig legges vekt på:\na. erververens tidligere handlemåte,\nb. erververens tilgjengelige økonomiske ressurser og hensynet til forsvarlig virksomhet,\nc. om eierskapet vil kunne føre til uønskede virkninger for finansmarkedenes virkemåte, eller børsens evne til å betjene det norske kapitalmarkedet,\nd. muligheten for å utøve et effektivt tilsyn, herunder om det er etablert samarbeid med tilsynsmyndighetene i erververens hjemland,\ne. om eierskapet vil kunne påvirke rettigheter og plikter for aktørene på vedkommende børs,\nf. om den bakenforliggende eierstrukturen hos erververen er i samsvar med de hensyn som ivaretas i denne bestemmelse,\ng. om det er grunn til å anta at det i forbindelse med ervervet foregår eller blir gjort forsøk på hvitvasking av penger eller finansiering av terrorvirksomhet, eller at ervervet vil øke risikoen for dette.\n(5) Søknad om tillatelse etter første og annet ledd skal sendes Finanstilsynet med kopi til departementet.\n(6) Ved avhendelse av aksjer slik at eierandelen kommer under grensene etter første og annet ledd, skal det gis melding til Finanstilsynet.\n(7) Departementet kan i forskrift gi nærmere regler om innholdet i søknaden som nevnt i femte ledd, regler for behandling av søknaden, samt regler om plikt for børs til å gi melding om eiere av betydelige eierandeler i foretaket, og om plikt for juridiske personer som har betydelige eierandeler i børs, til å gi melding om hvem som inngår i styret og ledelsen.\n0 Endret ved lover 19 juni 2009 nr. 59 (ikr. 1 juli 2009 iflg. res. 19 juni 2009 nr. 691), 20 juni 2014 nr. 29 (ikr. 1 juli 2014 iflg. vedtak 26 juni 2014 nr. 866).\n1 Se § 3 (2). Sml. § 17.\n2 Se § 36.\n3 Jf. asal.§ 2-2 (1) nr. 5.\n4 Jf. asal. § 5-4.\n5 Jf. § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "36",
+      "section": "36",
+      "title": "Erverv uten tillatelse",
+      "content": "(1) Dersom en aksjeeier har ervervet aksjer uten nødvendig tillatelse etter § 35, kan departementet fastsette en frist for å redusere eierandelen eller søke nødvendig tillatelse. Dersom denne fristen overskrides, kan departementet selge aksjene. Reglene om tvangssalg av omsettelige verdipapirer gjelder så langt de passer. Tvangsfullbyrdelsesloven​1 § 10-6, jf. § 8-16, kommer ikke til anvendelse. Aksjeeieren skal varsles om at tvangssalg vil bli foretatt senest to uker før salget gjennomføres.\n(2) Inntil nedsalg eller tvangssalg har funnet sted kan aksjeeieren for den del av aksjene som overstiger tillatt nivå, ikke utøve andre rettigheter i selskapet enn retten til å heve utbytte og til å utøve fortrinnsrett ved kapitalforhøyelse.​2\n0 Endret ved lover 19 juni 2009 nr. 59 (ikr. 1 juli 2009 iflg. res. 19 juni 2009 nr. 691), 20 juni 2014 nr. 29 (ikr. 1 juli 2014 iflg. vedtak 26 juni 2014 nr. 866).\n1 Lov 26 juni 1992 nr. 86.\n2 Sml. asal. § 5-4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "37",
+      "section": "37",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 20 juni 2014 nr. 29 (ikr. 1 juli 2014 iflg. vedtak 26 juni 2014 nr. 866).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "38",
+      "section": "38",
+      "title": "Kontrollkomité",
+      "content": "Departementet kan i forskrift fastsette regler om at børs​1 skal ha kontrollkomité, herunder om kontrollkomiteens sammensetning, oppgaver, instruks og melding til Finanstilsynet.​2\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (2).\n2 Jf. lov 7 des 1956 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "39",
+      "section": "39",
+      "title": "Stans i handel",
+      "content": "Departementet kan i ekstraordinære situasjoner vedta at all notering og handel ved børs​1 skal stanses. Så vidt mulig skal børsens​1 og Finanstilsynets​2 uttalelse innhentes før beslutning fattes. Dersom departementets vedtak ikke kan avventes, kan Finanstilsynet treffe slik avgjørelse. Dersom Finanstilsynets vedtak ikke kan avventes, kan børs treffe slik avgjørelse.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (2).\n2 Jf. lov 7 des 1956 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "40",
+      "section": "40",
+      "title": "Forvaltningslovens anvendelse på avgjørelser truffet av børs​1",
+      "content": "Når børs​2 treffer avgjørelser etter denne lov §§ 25, 26, 30, 31 og 34, samt verdipapirhandelloven​3 kapittel 6 og 7 og § 17-4 tredje ledd, skal forvaltningslovens​4 kapittel III, IV, V, VI og VIII, med unntak av § 13, få anvendelse. Departementet kan fastsette nærmere regler om saksbehandlingen.\n1 Se § 41.\n2 Se § 3 (2).\n3 Lov 29 juni 2007 nr. 75.\n4 Lov 10 feb 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "41",
+      "section": "41",
+      "title": "Oppnevning av klagenemnd og kompetanse mv.",
+      "content": "(1) Departementet kan oppnevne en egen klagenemnd for å avgjøre klager på slike vedtak som nevnt i § 40. Klagenemnden skal ha en leder og en nestleder som begge skal ha juridisk embetseksamen. Departementet kan i forskrift fastsette at også andre vedtak fattet av børs enn de som er nevnt i § 40 skal kunne påklages, og fastsette unntak fra klageadgangen. Departementet kan i forskrift fastsette i hvilken utstrekning avgjørelser truffet av annet regulert marked kan bringes inn for klagenemnden.\n(2) Klagenemnden kan i tvister mellom private parter opptre som voldgiftsrett​1 etter nærmere regler fastsatt av departementet.\n(3) Forvaltningsloven​2 kommer til anvendelse for klagenemndens virksomhet. Departementet kan fastsette nærmere regler om frister, innholdet av klage, tilsvar og muntlig forhandling og om klagenemndens sammensetning og virksomhet. Slike regler kan utfylle, supplere eller avvike fra regler gitt i eller i medhold av denne lov.\n1 Jf. lov 14 mai 2004 nr. 25.\n2 Lov 10 feb 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "42",
+      "section": "42",
+      "title": "Dekning av klagenemndens utgifter",
+      "content": "(1) Klagenemndens utgifter dekkes av børser​1 og andre regulerte markeder​2 på bakgrunn av fordeling fastsatt av departementet etter forslag fra klagenemnden. Departementet fastsetter medlemmenes godtgjørelse.\n(2) Det kan kreves gebyr for behandling av klage som angitt i § 41 første ledd. Departementet kan gi nærmere regler om når gebyr skal kreves, om gebyrenes størrelse og om innkrevingen.\n(3) Departementet kan gi nærmere regler om når en part kan bli tilkjent saksomkostninger fra det offentlige og om en parts rett til dekning av saksomkostninger fra andre parter.​3\n1 Se § 3 (2).\n2 Se § 3 (1).\n3 Sml. fvl. § 36.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "43",
+      "section": "43",
+      "title": "Søksmålsadgang",
+      "content": "(1) Søksmål mot vedtak som omhandlet i § 40 kan ikke reises før klageadgangen er utnyttet. Klagenemnden kan i særlige tilfeller gjøre vedtak om at det likevel kan reises søksmål mot avgjørelsen. Frist for søksmål er 6 måneder fra det tidspunkt klagen er avgjort eller tillatelse til søksmål er gitt.\n(2) Søksmål mot vedtak truffet av en børs​1 eller annet regulert marked​2 reises mot vedkommende foretak. Staten kan på ethvert trinn tre inn i saken som hjelpeintervenient​3 og kan etter avtale med børsen eller det regulerte markedet overta saken.\n1 Se § 3 (2).\n2 Se § 3 (1).\n3 Jf. tvl. § 15-7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "7:44",
+      "chapter": "7",
+      "section": "44",
+      "title": "Tilsynsmyndighet",
+      "content": "Finanstilsynet​1 forestår tilsyn med regulerte markeder.​2\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Jf. lov 7 des 1956 nr. 1.\n2 Se § 3 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "7:45",
+      "chapter": "7",
+      "section": "45",
+      "title": "Opplysningsplikt overfor Finanstilsynet",
+      "content": "(1) Regulert marked​1 og selskap i samme konsern​2 har plikt til å gi de opplysninger som Finanstilsynet​3 krever om forhold som angår foretakets virksomhet, samt til å fremvise og utlevere til Finanstilsynet dokumentasjon som angår virksomheten. Ved mistanke om brudd på verdipapirhandelloven​4 kapittel 3 eller ureglementerte markedsforhold eller ved vesentlige brudd på reglene til regulert marked,​5 plikter regulert marked og selskap i samme konsern straks å melde fra til og bistå Finanstilsynet. Opplysningene og bistanden skal gis uten kostnad for Finanstilsynet.\n(2) Dersom det inntreffer forhold som medfører risiko for at regulert marked​1 ikke vil kunne oppfylle de fastsatte krav til ansvarlig kapital​6 og likviditet,​7 eller det oppstår andre forhold som kan innebære betydelig risiko knyttet til driften av foretaket, skal foretaket straks gi melding til Finanstilsynet​3 om dette.\n(3) Utsteder av finansielle instrumenter​8 som er børsnotert​9 eller opptatt til handel på et regulert marked,​10 plikter å gi Finanstilsynet​3 de opplysninger som Finanstilsynet anser nødvendige for å avgjøre om det har skjedd overtredelse av bestemmelser gitt i eller i medhold av denne lov vedrørende de finansielle instrumentene. Medlem i regulert marked​11 samt tillitsvalgte og ansatte hos børsmedlemmet plikter å gi Finanstilsynet de opplysninger som Finanstilsynet anser nødvendige for å avgjøre om det har skjedd overtredelse av bestemmelser gitt i eller i medhold av denne lov vedrørende medlemskapet eller deltagelsen i handel på regulert marked.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (1).\n2 Jf. asal. § 1-3.\n3 Jf. lov 7 des 1956 nr. 1.\n4 Lov 29 juni 2007 nr. 75.\n5 Jf. § 13.\n6 Jf. § 20.\n7 Jf. § 21.\n8 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n9 Jf. § 34.\n10 Jf. § 24.\n11 Jf. § 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "7:46",
+      "chapter": "7",
+      "section": "46",
+      "title": "Innskrenking av Finanstilsynets taushetsplikt",
+      "content": "Dersom Finanstilsynet​1 gjennom sitt tilsyn med regulerte markeder får grunn til å anta at noen er eller vil bli påført tap som følge av at bestemmelser i lov eller i medhold av lov ikke er overholdt, kan Finanstilsynet uten hinder av lovbestemt taushetsplikt​2 underrette vedkommende om forholdet.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Jf. lov 7 des 1956 nr. 1.\n2 Jf. lov 7 des 1956 nr. 1 § 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "7:47",
+      "chapter": "7",
+      "section": "47",
+      "title": "Pålegg fra Finanstilsynet",
+      "content": "(1) Finanstilsynet kan gi regulert marked​1 pålegg om retting dersom foretaket opptrer i strid med lov eller bestemmelser gitt med hjemmel i lov eller egne regler og forretningsvilkår. Tilsvarende gjelder dersom foretakets ledelse eller styremedlemmer ikke oppfyller kravene til hederlig vandel og erfaring som fastsatt i § 10 annet ledd.\n(2) Dersom en aksjeeier med betydelig eierandel​2 ikke anses egnet til å sikre en god og fornuftig forvaltning av foretaket eller har aksjer i strid med §§ 17 eller 35, kan Finanstilsynet gi pålegg om at det ikke kan utøves stemmerett for aksjene.​3\n(3) Dersom Finanstilsynet har grunn til å anta at noen handler i strid med bestemmelser gitt i eller i medhold av denne lov, kan Finanstilsynet gi pålegg om å bringe handlingen til opphør. Pålegget kan omfatte ethvert tiltak som er nødvendig for å bringe overtredelsen til opphør.\n0 Endret ved lover 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603), 20 juni 2014 nr. 29 (ikr. 1 juli 2014 iflg. vedtak 26 juni 2014 nr. 866).\n1 Se § 3 (1).\n2 Se § 17 (1) annet punktum og § 35 (1) annet punktum.\n3 Jf. asal. § 5-4 (1) jf. § 4-2 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "7:48",
+      "chapter": "7",
+      "section": "48",
+      "title": "Straff",
+      "content": "(1) Med bøter straffes den som forsettlig eller uaktsomt driver virksomhet som regulert marked uten tillatelse etter § 4 første ledd eller benytter betegnelsen regulert marked eller børs i strid med § 4 annet ledd eller § 33 første ledd.\n(2) Den som forsettlig eller uaktsomt tilsidesetter sin opplysningsplikt etter § 24 syvende ledd eller § 26 syvende ledd straffes med bøter eller fengsel inntil 1 år eller begge deler. Foreligger det særlig skjerpende omstendigheter kan fengsel inntil 3 år anvendes.\n(3) Hvis ikke handlingen går inn under noen strengere straffebestemmelse, straffes tillitsvalgte eller ansatte ved regulert marked​1 som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne lov, med bøter eller under særlig skjerpende omstendigheter med fengsel inntil 1 år eller begge deler.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Se § 3 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "8:49",
+      "chapter": "8",
+      "section": "49",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid departementet bestemmer.​1 Departementet kan sette i kraft de enkelte bestemmelsene til forskjellig tid.\n1 Fra 1 nov 2007 iflg. vedtak 29 juni 2007 nr. 749.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "8:50",
+      "chapter": "8",
+      "section": "50",
+      "title": "Overgangsregler",
+      "content": "(1) Tillatelser gitt etter lov 17. november 2000 nr. 80 om børsvirksomhet m.m. § 2-1 videreføres. Foretak med slike tillatelser må innrette sin virksomhet etter reglene i loven her og i lov om verdipapirhandel fra lovens ikrafttredelse.\n(2) Departementet kan gi ytterligere overgangsregler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "8:51",
+      "chapter": "8",
+      "section": "51",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Lovens formål er å legge til rette for effektive, velordnede og tillitvekkende markeder for finansielle instrumenter.​1\n1 Jf. lov 29 juni 2007 nr. 75 § 2-2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens virkeområde",
+      "content": "(1) Loven gjelder virksomhet som regulert marked​1 i Norge. Lovens kapittel 6 gjelder kun for regulerte markeder som er børser.​2\n(2) Loven gjelder også virksomhet som norsk regulert marked driver i utlandet gjennom filial eller ved grenseoverskridende virksomhet, med mindre annet er fastsatt av departementet.\n(3) Kongen gir forskrift om lovens anvendelse på Svalbard og kontinentalsokkelen, og kan fastsette særlige regler under hensyn til de stedlige forhold.\n1 Se § 3 (1).\n2 Se § 3 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner mv.",
+      "content": "(1) Med regulert marked menes foretak med tillatelse etter § 4 som beslutter opptak​1 til handel av finansielle instrumenter​2 på markedet, og som organiserer eller driver et multilateralt system som legger til rette for regelmessig omsetning av noterte instrumenter i samsvar med lov, forskrift og objektive handelsregler fastsatt av markedet selv.​3\n(2) Med børs menes regulert marked med særskilt tillatelse etter § 33.\n(3) Departementet kan i forskrift fastsette regler om hva som menes med regulert marked, samt organiseringen og driften av regulert marked.\n1 Jf. § 24.\n2 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n3 Jf. lov 29 juni 2007 nr. 75 § 2-3 (4).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Tillatelse til å drive virksomhet som regulert marked",
+      "content": "(1) Virksomhet som regulert marked​1 kan bare drives av foretak​2 som har tillatelse til dette fra departementet.​3\n(2) Foretak som ikke har tillatelse som regulert marked etter denne lov kan ikke benytte betegnelsen regulert marked i eller som tillegg til sitt navn, eller ved omtale av sin virksomhet, dersom bruken er egnet til å gi inntrykk av at foretaket har tillatelse etter denne loven.​4\n1 Se § 3 (1).\n2 Jf. § 9.\n3 Se § 48 (1).\n4 Se § 48 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Konsesjonsmyndighet. Søknad om tillatelse",
+      "content": "(1) Departementet kan gi tillatelse som regulert marked​1 til foretak som oppfyller kravene i loven her. Tillatelse kan bare gis dersom eiere av betydelige eierandeler​2 er egnet. Reglene om egnethetsvurdering ved erverv av eierandel i §§ 17 og 35 gjelder tilsvarende. Søknad om tillatelse som regulert marked skal inneholde virksomhetsplan, opplysninger om organiseringen av foretaket som viser at de lovbestemte krav er oppfylt, og opplysninger som er nødvendige for å gjennomføre eierkontroll etter §§ 17 eller 35. Utkast til regler og forretningsvilkår i henhold til § 22 tredje ledd skal vedlegges søknaden. Departementet kan be om ytterligere opplysninger.\n(2) Vedtak om tillatelse skal meddeles søker snarest mulig og senest seks måneder etter at søknaden ble mottatt. Dersom søknaden ikke inneholder opplysninger som er nødvendige for å avgjøre om tillatelse skal gis, regnes fristen fra det tidspunkt slike opplysninger ble mottatt.\n0 Endret ved lov 20 juni 2014 nr. 29 (ikr. 1 juli 2014 iflg. vedtak 26 juni 2014 nr. 866).\n1 Se § 3 (1).\n2 Se § 17 (1) annet punktum.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Bortfall, endring og tilbakekall av tillatelse",
+      "content": "(1) Tillatelse etter § 5 bortfaller dersom regulert marked​1 kommer under konkursbehandling​2 eller tvangsakkord.​3\n(2) Departementet kan helt eller delvis endre, herunder sette nye vilkår, eller tilbakekalle tillatelse for regulert marked​1 dersom:\na. foretaket ikke gjør bruk av tillatelsen innen tolv måneder, gir uttrykkelig avkall på tillatelsen eller har opphørt å drive virksomhet som regulert marked i mer enn seks måneder,\nb. foretaket har fått tillatelsen ved hjelp av uriktige opplysninger​4 eller andre uregelmessigheter,\nc. foretaket ikke lenger oppfyller de vilkår som kreves for tillatelsen, herunder kravene til ansvarlig kapital​5 og likviditet,​6\nd. foretaket alvorlig eller systematisk overtrer bestemmelser gitt i eller i medhold av lov,\ne. mislige forhold hos foretaket gir grunn til å frykte at en fortsettelse av virksomheten kan skade allmenne interesser, eller\nf. foretaket ikke etterkommer pålegg gitt i medhold av § 47 eller lov 7. desember 1956 nr. 1 om tilsynet med finansinstitusjoner mv. (finanstilsynsloven) § 4 første ledd nr. 7.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (1).\n2 Jf. kkl. § 60.\n3 Jf. kkl. § 123.\n4 Sml. lov 31 mai 1918 nr. 4 § 33.\n5 Jf. § 20.\n6 Jf. § 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Sammenslåing og deling av regulert marked mv.",
+      "content": "Vedtak om sammenslåing​1 og deling​2 av regulert marked​3 skal meddeles departementet minst tre måneder før vedtaket gjennomføres. Tilsvarende gjelder ved avhendelse av en vesentlig del av regulert markeds konsesjonspliktige virksomhet. Departementet avgjør i tvilstilfelle om en avhendelse omfatter en vesentlig del av den konsesjonspliktige virksomheten. Departementet kan innen tre måneder fra melding er mottatt nekte sammenslåing, deling eller avhendelse, sette vilkår for gjennomføring av transaksjonen eller endre konsesjonen.\n1 Se asal. kap. 13.\n2 Se asal. kap. 14.\n3 Se § 3 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Virksomhet i utlandet",
+      "content": "Norsk regulert marked​1 som skal utøve virksomhet i utlandet gjennom datterselskap eller filial, skal ha tillatelse fra departementet.\n1 Se § 3 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Organisasjonsform",
+      "content": "Regulert marked​1 skal være organisert som allmennaksjeselskap.​2\n1 Se § 3 (1).\n2 Jf. asal.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Styre og ledelse",
+      "content": "(1) Regulert marked​1 skal ha et styre med minst fem medlemmer.​2 Daglig leder​3 kan ikke være medlem av styret.​4\n(2) Styremedlemmer, daglig leder og andre som faktisk deltar i ledelsen av regulert marked skal ha relevante kvalifikasjoner og yrkeserfaring, ha ført en hederlig vandel​5 og for øvrig ikke ha utvist utilbørlig atferd som gir grunn til å anta at stillingen eller vervet ikke vil kunne ivaretas på forsvarlig måte.\n(3) Regulert marked skal gi Finanstilsynet​6 melding ved endring av styrets sammensetning og ved skifte av daglig leder eller andre som faktisk deltar i ledelsen av virksomheten. Meldingen skal så vidt mulig gis på forhånd, og skal inneholde nødvendige opplysninger om kvalifikasjoner og yrkeserfaring, vandel, verv eller stilling i annen virksomhet.\n(4) Finanstilsynet​6 kan gi pålegg om at endringer ikke skal iverksettes dersom endringen kan antas å medføre at vilkårene i første og annet ledd ikke vil oppfylles.\n(5) Personer som nevnt i annet ledd skal fremlegge ordinær politiattest etter politiregisterloven​7 § 40.\n0 Endret ved lover 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603), 22 juni 2012 nr. 35 (ikr. 1 juli 2014 iflg. res. 22 juni 2012 nr. 566 og res. 13 des 2013 nr. 1449).\n1 Se § 3 (1).\n2 Sml. asal. § 6-1, sml. § 6-11 a.\n3 Se asal. § 6-2.\n4 Jf. asal. § 6-1 (3).\n5 Se § 47 (1) annet punktum.\n6 Jf. lov 7 des 1956 nr. 1.\n7 Lov 28 mai 2010 nr. 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Internkontroll",
+      "content": "(1) Styret skal fastsette retningslinjer for internkontroll, og skal forvisse seg om at internkontrollen etableres, gjennomføres og dokumenteres på en forsvarlig måte i samsvar med styrets retningslinjer og pålegg.​1 Finanstilsynet​2 kan gi nærmere regler om gjennomføringen av internkontroll.\n(2) Daglig leder skal sørge for at internkontroll etableres og gjennomføres i henhold til lov og forskrifter samt styrets retningslinjer og pålegg.​3\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Jf. asal. § 6-12.\n2 Jf. lov 7 des 1956 nr. 1.\n3 Jf. asal. § 6-13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Revisor",
+      "content": "Finanstilsynet​1 kan gi nærmere regler om revisors​2 arbeidsoppgaver i regulert marked.​3\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Jf. lov 7 des 1956 nr. 1.\n2 Jf. asal. kap. 7.\n3 Se § 3 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Organisatoriske krav",
+      "content": "Regulert marked​1 skal fastsette interne regler og treffe nødvendige tiltak som til enhver tid sikrer:\na. identifisering og håndtering av interessekonflikter mellom det regulerte markedet eller dets eiere på den ene siden og markedets oppgaver og funksjoner på den annen,​2\nb. identifisering og håndtering av signifikante risikoer som virksomheten utsettes for,\nc. gjennomsiktige og faste handelsregler og prosedyrer i henhold til § 24, herunder etablering av objektive kriterier for effektiv gjennomføring av ordre,\nd. at markedet har systemer for en forsvarlig drift av det tekniske systemet, herunder effektive ordninger i tilfelle av teknisk avbrudd (reserveløsninger), og\ne. at det legges til rette for effektiv og rettidig gjennomføring av transaksjoner.\n1 Se § 3 (1).\n2 Jf. asal. § 3-8 og § 6-27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Taushetsplikt",
+      "content": "(1) Tillitsvalgte, ansatte og revisor ved regulert marked​1 plikter å hindre at noen får adgang eller kjennskap til det som de i sitt arbeid får vite om andres forretningsmessige eller personlige forhold med mindre annet følger av denne eller annen lov. Vedkommende må heller ikke gjøre bruk av slike opplysninger ved ervervsvirksomhet eller ved kjøp og salg av finansielle instrumenter.​2 Bestemmelsene i forvaltningsloven​3 §§ 13a til 13e får tilsvarende anvendelse.\n(2) Taushetsplikten gjelder også etter at vedkommende har sluttet i tjenesten eller vervet.\n(3) Taushetsplikt etter første og annet ledd i denne bestemmelse er ikke til hinder for at opplysninger gis tilsynsmyndighetene.​4\n(4) Departementet kan i forskrift eller ved enkeltvedtak gjøre unntak fra taushetsplikten overfor annet regulert marked,​1 verdipapirregister,​5 sentral motpart, og utenlandske tilsynsmyndigheter.\n0 Endret ved lov 16 des 2016 nr. 91 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1607).\n1 Se § 3 (1).\n2 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n3 Lov 10 feb 1967.\n4 Se § 44.\n5 Jf. lov 5 juli 2002 nr. 64 § 1-3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Habilitetsregler",
+      "content": "(1) Tillitsvalgte og ansatte ved regulert marked​1 må ikke delta i behandlingen eller avgjørelsen av spørsmål som har slik særlig betydning for egen del eller for noen nærstående​2 at vedkommende må anses for å ha en fremtredende personlig eller økonomisk særinteresse i saken.​3 Vedkommende må heller ikke delta i behandlingen eller avgjørelsen av noe spørsmål som har fremtredende økonomisk særinteresse for selskap, forening eller annen offentlig eller privat institusjon som vedkommende er knyttet til.\n(2) Departementet kan i forskrift fastsette begrensninger i ansattes og tillitsvalgtes adgang til å ha styreverv eller bierverv i selskap hvis finansielle instrumenter​4 er opptatt til notering og handel på vedkommende regulerte marked.​5 Departementet kan fastsette tilsvarende begrensning for ansatte og tillitsvalgte i foretak som inngår i samme konsern​6 som regulert marked.\n1 Se § 3 (1).\n2 Jf. lov 29 juni 2007 nr. 75 § 2-5. Jf. § 18 (1).\n3 Sml. asal. § 6-27.\n4 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n5 Jf. § 24.\n6 Jf. asal. § 1-3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Adgangen til å eie finansielle instrumenter m.m.",
+      "content": "(1) Regulert marked​1 kan ikke eie finansielle instrumenter​2 som er opptatt til notering og handel på vedkommende marked,​3 eller rettigheter til slike, med unntak av obligasjoner og sertifikater utstedt av en EØS-stat.\n(2) Ansatte i regulert marked kan bare erverve eller avhende finansielle instrumenter i den utstrekning det følger av forskrift fastsatt av departementet. Departementet kan i forskrift fastsette begrensninger i tillitsvalgtes adgang til å foreta slike transaksjoner. Departementet kan fastsette forskrift om at ansatte og tillitsvalgte skal melde egne handler og handler foretatt av nærstående​4 til det regulerte markedet eller Finanstilsynet. Reglene i annet og tredje punktum gjelder tilsvarende for ansatte og tillitsvalgte i foretak som inngår i samme konsern​5 som regulert marked.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (1).\n2 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n3 Jf. § 24.\n4 Jf. lov 29 juni 2007 nr. 75 § 2-5.\n5 Jf. asal. § 1-3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Eierkontroll i regulert marked som ikke er børs",
+      "content": "(1) Erverv som fører til at erververen blir eier av en betydelig eierandel​1 i et regulert marked​2 som ikke er børs,​3 kan bare gjennomføres etter at melding om dette på forhånd er sendt til Finanstilsynet.​4 Med betydelig eierandel menes direkte eller indirekte eierandel som representerer minst 10 prosent av aksjekapitalen eller stemmene,​5 eller som på annen måte gjør det mulig å utøve betydelig innflytelse over forvaltningen av selskapet. Likt med erververens egne aksjer regnes aksjer som eies eller erverves av aksjeeiere som nevnt i § 18.​6 Likestilt med eie av aksjer etter første til tredje punktum regnes erverv av rett til å bli eier av aksjer når dette må anses som reelt aksjeeie.\n(2) Ethvert erverv som øker eierandelen slik at denne direkte eller indirekte overstiger 20, 30 eller 50 prosent av aksjekapitalen eller stemmene i et regulert marked som ikke er børs, kan bare gjennomføres etter at melding om dette på forhånd er sendt til Finanstilsynet. Første ledd tredje og fjerde punktum gjelder tilsvarende.\n(3) Finanstilsynet skal innen tre måneder fra den dag melding som nevnt i første og annet ledd er komplett, nekte slikt erverv dersom vedkommende aksjeeier ikke anses egnet til å sikre en god og fornuftig forvaltning av foretaket. Den som erverver betydelig eierandel etter reglene i første og annet ledd, skal fremlegge ordinær politiattest etter politiregisterloven​7 § 40 dersom Finanstilsynet ber om det.\n(4) Ved avhendelse av eierandel som medfører at eierandelens størrelse kommer under grensene som nevnt i første eller annet ledd, skal det gis melding til Finanstilsynet.\n(5) Departementet kan gi forskrift om innholdet i melding som nevnt i første og annet ledd, om når denne anses som komplett, og om den nærmere behandlingen av meldingen.\n0 Endret ved lover 19 juni 2009 nr. 59 (ikr. 1 juli 2009 iflg. res. 19 juni 2009 nr. 691), 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603), 22 juni 2012 nr. 35 (ikr. 1 juli 2014 iflg. res. 22 juni 2012 nr. 566 og res. 13 des 2013 nr. 1449), 20 juni 2014 nr. 29 (ikr. 1 juli 2014 iflg. vedtak 26 juni 2014 nr. 866).\n1 Se annet ledd.\n2 Se § 3 (1).\n3 Sml. § 35.\n4 Jf. lov 7 des 1956 nr. 1.\n5 Jf. asal. § 2-2 (1) nr. 5 og § 5-4.\n6 Sml. lov 29 juni 2007 nr. 75 § 2-4 (5).\n7 Lov 28 mai 2010 nr. 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Konsolidering",
+      "content": "(1) Likt med aksjeeierens egne aksjer regnes i forhold til reglene i § 17 de aksjer som eies eller overtas av aksjeeiernes nærstående, jf. verdipapirhandelloven​1 § 2-5.\n(2) Departementet avgjør i tvilstilfelle om aksjer som aksjeeieren ikke eier skal likestilles med egne aksjer etter reglene i første ledd.\n1 Lov 29 juni 2007 nr. 75.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Opptak til notering av finansielle instrumenter utstedt av regulert marked",
+      "content": "(1) Regulert marked​1 kan ikke oppta til notering omsettelige verdipapirer​2 utstedt av det regulerte markedet, eller finansielle instrumenter​3 knyttet til slike.\n(2) Departementet kan gi samtykke til at et regulert marked opptar til notering omsettelige verdipapirer som er utstedt av et foretak som inngår i konsernforhold​4 med vedkommende marked eller finansielle instrumenter knyttet til slike. Det kan stilles vilkår for slikt samtykke, herunder at slikt foretak skal underlegges særlig tilsyn fra Finanstilsynet,​5 samt at foretaket skal ha opplysningsplikt overfor Finanstilsynet.\n(3) Departementet kan gi nærmere regler om prosedyrer, beslutning og kontroll vedrørende slikt opptak, om løpende notering og om tilsyn med utsteder og det regulerte markedet.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (1).\n2 Jf. lov 29 juni 2007 nr. 75 § 2-2 (2).\n3 Jf. lov 29 juni 2007 nr. 75 § 2-2 (1).\n4 Jf. asal. § 1-3.\n5 Jf. lov 7 des 1956 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Krav til ansvarlig kapital",
+      "content": "(1) Regulert marked​1 skal til enhver tid ha en ansvarlig kapital som er forsvarlig ut fra risikoen ved og omfanget av virksomheten i foretaket.​2\n(2) Ved vurderingen av foretakets risiko skal det blant annet tas hensyn til virksomhetsrisiko, kontraktsrisiko, operasjonell risiko og annen særlig risiko som foretakets virksomhet er eksponert for.\n(3) Departementet kan gi nærmere regler om hva som skal regnes som foretakets ansvarlige kapital, samt om minstekrav til ansvarlig kapital.\n1 Se § 3 (1).\n2 Sml. asal. § 3-4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Likviditetskrav",
+      "content": "Regulert marked​1 skal ha en beholdning av likvide midler, eller tilgang på slike, som anses betryggende ut fra foretakets virksomhet og situasjon. Departementet kan gi nærmere regler om beregning av likvide midler og om hva som kan anses som betryggende beholdning.\n1 Se § 3 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Generelle krav til virksomheten",
+      "content": "(1) Regulert marked​1 skal drive sin virksomhet med tilbørlig hensyn til prinsipper om effektivitet, nøytralitet​2 og likebehandling av aktører samt for å sikre at markedet har god gjennomsiktighet og at kursnoteringen gjenspeiler de noterte instrumentenes markedsverdi.\n(2) Regulert marked​1 skal ha de systemer for gjennomføring av handel, kursnoteringer, gjennomsiktighet,​3 informasjonsgivning og markedsovervåking​4 som er nødvendige i forhold til den måten virksomheten er organisert på.\n(3) Regulert marked​1 skal sende sine regler og forretningsvilkår, og endringer i disse, til Finanstilsynet.​5 Finanstilsynet kan kreve reglene eller forretningsvilkårene endret dersom de ikke oppfyller lov eller forskrift. Finanstilsynet kan fastsette frist for innsending av endring og tillegg i regler og forretningsvilkår før endringen eller tillegget settes i verk.​6\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (1).\n2 Jf. § 23 (1).\n3 Jf. § 28 og § 29.\n4 Jf. § 27.\n5 Jf. lov 7 des 1956 nr. 1.\n6 Jf. § 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Virksomhetsbegrensninger",
+      "content": "(1) Regulert marked​1 kan i tillegg til virksomhet som regulert marked bare drive virksomhet som har naturlig sammenheng med markedsplassvirksomhet og som ikke svekker tilliten til markedsplassens integritet og uavhengighet. Departementet avgjør i tvilstilfelle om vilkårene i første punktum er oppfylt.\n(2) Dersom et regulert marked​1 driver oppgjørsvirksomhet etter verdipapirhandelloven​2 kapittel 13, må virksomheten drives i eget foretak. Departementet kan i forskrift eller enkeltvedtak gjøre unntak fra bestemmelsen i første punktum.\n(3) Finanstilsynet​3 kan pålegge regulert marked​1 som driver annen virksomhet, å drive denne i et eget foretak.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (1).\n2 Lov 29 juni 2007 nr. 75.\n3 Jf. lov 7 des 1956 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Opptak til og handel av finansielle instrumenter mv.",
+      "content": "(1) Regulert marked​1 skal ha regler om opptak av finansielle instrumenter​2 til handel.\n(2) Regler fastsatt i medhold av første ledd, skal sørge for at finansielle instrumenter kan handles på en redelig, velordnet og effektiv måte, samt at omsettelige verdipapirer etter verdipapirhandelloven​3 § 2-2 annet ledd er fritt omsettelige. Ved opptak av derivater​4 til handel skal reglene sørge for at derivatkontraktene er utformet på en slik måte at de legger til rette for en velordnet prisdannelse og effektive oppgjørsbetingelser.\n(3) Regulert marked​1 skal være innrettet på en slik måte at det påser at utstedere av omsettelige verdipapirer som er tatt opp til handel, oppfyller sine forpliktelser etter verdipapirhandelloven​3 kapittel 5 og 7.\n(4) Regulert marked​1 skal være innrettet på en slik måte at det letter medlemmenes tilgang til opplysninger som offentliggjøres i medhold av verdipapirhandelloven​2 kapittel 5 og 7.\n(5) Regulert marked​1 skal være innrettet slik at det regelmessig påser at vilkårene for opptak til handel av finansielle instrumenter oppfylles.\n(6) Regulert marked​1 kan uten utsteders samtykke ta opp til handel omsettelige verdipapirer som allerede er tatt opp til handel på et annet regulert marked, forutsatt at reglene i verdipapirhandelloven​3 kapittel 7 oppfylles. Utstederen skal gis melding av det regulerte markedet om at opptak til handel finner sted. Utstederen skal ikke underlegges informasjonsforpliktelser som følge av opptaket.\n(7) Regulert marked​1 kan kreve at utsteder av finansielle instrumenter som er eller søkes tatt opp til handel, utstederes tillitsvalgte og ansatte uten hinder av taushetsplikt gir regulert marked de opplysninger som er nødvendig for at markedet skal kunne oppfylle sine lovbestemte plikter.​5 Første punktum gjelder tilsvarende for annen person som har søkt om opptak til handel av finansielle instrumenter.\n(8) Departementet kan i forskrift fastsette nærmere regler om opptak av finansielle instrumenter til handel, herunder om utstederes rettigheter og plikter som følge av opptaket.\n1 Se § 3 (1).\n2 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n3 Lov 29 juni 2007 nr. 75.\n4 Se lov 29 juni 2007 nr. 75 § 2-2 (5).\n5 Se § 48 (2) og § 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Suspensjon og strykning av finansielle instrumenter",
+      "content": "(1) Regulert marked​1 kan suspendere eller stryke et finansielt instrument​2 hvis det ikke lenger tilfredsstiller det regulerte markedets vilkår eller regler​3 eller særlige grunner for øvrig tilsier det. Regulert marked kan likevel ikke suspendere eller stryke et finansielt instrument hvis dette kan ventes å medføre vesentlig ulempe for eierne av instrumentet eller markedets oppgaver og funksjon.\n(2) Regulert marked​1 som suspenderer eller stryker et finansielt instrument fra handel, skal umiddelbart offentliggjøre og gi Finanstilsynet opplysninger om dette.\n(3) Finanstilsynet kan beslutte at et regulert marked​1 skal suspendere eller stryke et finansielt instrument i medhold av første ledd hvis det ikke lenger tilfredsstiller vilkårene for opptak til handel eller særlige grunner for øvrig tilsier det.\n(4) Departementet kan gi nærmere regler om suspensjon og strykning av finansielle instrumenter.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (1).\n2 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n3 Jf. § 24 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Medlemskap i regulert marked",
+      "content": "(1) Regulert marked​1 skal ha ikke-diskriminerende regler basert på objektive kriterier om medlemskap og tilgang til markedet.\n(2) Reglene som nevnt i første ledd, skal beskrive et medlems forpliktelser som følger av:\na. reguleringen av og virksomheten til det regulerte markedet,\nb. handelsreglene til markedet,\nc. profesjonelle standarder for ansatte i verdipapirforetak​2 eller kredittinstitusjoner​3 som deltar på markedet,\nd. vilkårene som gjelder for medlemmer som ikke er verdipapirforetak eller kredittinstitusjoner etter tredje ledd, og\ne. regler og prosedyrer for oppgjør av transaksjoner som gjelder på markedet.\n(3) Regulert marked​1 kan oppta verdipapirforetak​2 og kredittinstitusjoner​3 som medlem. Medlemmet skal ha en forsvarlig kapital, formålstjenlig organisasjon, tilstrekkelige tekniske systemer og for øvrig anses skikket til å delta i handelen i forhold til de forpliktelser medlemskapet innebærer. Regulert marked kan også oppta andre juridiske og fysiske personer som medlem, såfremt denne personen:\na. anses egnet,\nb. har tilstrekkelig kompetanse knyttet til handel og transaksjoner,\nc. har, der hvor det er relevant, tilstrekkelige organisatoriske foranstaltninger, og\nd. har nødvendige finansielle ressurser i forhold til den stilling personen legger opp til å ha i markedet.\n(4) Kravene i verdipapirhandelloven​4 §§ 10-11, 10-12 og 10-13 gjelder ikke for transaksjoner som sluttes mellom medlemmer i et regulert marked.​1 Kravene i verdipapirhandelloven §§ 10-11, 10-12 og 10-13 gjelder imidlertid overfor medlemmers kunder.\n(5) Regulert marked​1 skal gi foretak med hovedkontor i annen EØS-stat og som har tillatelse til å yte investeringstjenester,​5 adgang til medlemskap på like vilkår som andre medlemmer.\n(6) Regulert marked​1 skal gi Finanstilsynet​6 melding hvis det har til hensikt å etablere ordninger i annen EØS-stat som kan lette fjernmedlemmers adgang til og mulighet for å handle på markedet. Finanstilsynet skal innen én måned gi opplysningene til tilsynsmyndigheten i den andre EØS-staten.\n(7) Medlem på regulert marked​1 samt tillitsvalgte og ansatte hos medlem er uten hinder av taushetsplikt forpliktet til å gi vedkommende regulerte marked de opplysninger som er nødvendig for at markedet skal kunne oppfylle sine plikter etter denne lov og annen lovgivning.​7\n(8) Departementet kan fastsette nærmere regler om vilkår for medlemskap og medlemmers forpliktelser.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (1).\n2 Jf. lov 29 juni 2007 nr. 75 § 2-3 (1).\n3 Jf. lov 29 juni 2007 nr. 75 § 2-3 (2).\n4 Lov 29 juni 2007 nr. 75.\n5 Jf. lov 29 juni 2007 nr. 75 § 2-1.\n6 Jf. lov 7 des 1956 nr. 1.\n7 Se § 48 (2), § 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Markedsovervåking​1",
+      "content": "(1) Regulert marked​2 skal etablere effektive ordninger og prosedyrer som sikrer en regelmessig overvåking av medlemmers etterlevelse av markedets egne regler.​3 Regulerte markeder skal overvåke transaksjoner på markedet med sikte på å avdekke brudd på relevante lover og regler, markedets egne regler og rettsstridige handelsforhold.\n(2) Regulert marked​2 skal umiddelbart gi melding til Finanstilsynet​4 ved mistanke om vesentlige brudd på relevante lover og regler, markedets egne regler og rettsstridige handelsforhold.\n(3) Regulert marked​2 kan kreve at verdipapirregister​5 og sentral motpart uten hinder av taushetsplikt​6 gir slike opplysninger som er nødvendige for at markedet skal kunne oppfylle sine plikter etter første og annet ledd. Opplysningene kan ikke benyttes til andre formål.\n(4) Departementet kan i forskrift fastsette nærmere regler om markedsovervåkingen. Departementet kan videre fastsette nærmere regler om opplysningsplikten etter tredje ledd, herunder om innskrenkninger i opplysningsplikten og om det formål opplysningene kan benyttes til, samt om og i hvilken utstrekning det skal kunne kreves betaling for kostnader ved utlevering av opplysninger.\n0 Endret ved lover 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603), 16 des 2016 nr. 91 (ikr. 1 jan 2017 iflg. res. 16 des 2016 nr. 1607).\n1 Sml. lov 29 juni 2007 nr. 75 § 11-2.\n2 Se § 3 (1).\n3 Jf. § 24 (1).\n4 Jf. lov 7 des 1956 nr. 1.\n5 Jf. lov 5 juli 2002 nr. 64 § 1-3.\n6 Jf. lover 5 juli 2002 nr. 64 § 8-1 og 29 juni 2007 nr. 75 § 13-5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Offentliggjøring av opplysninger om ordre mv.​1",
+      "content": "(1) Regulert marked​2 skal offentliggjøre kjøps- og salgstilbud i aksjer, herunder ordredybde på ulike prisnivåer, som legges inn i markedets handelssystem.​3 Opplysningene skal på alminnelige forretningsmessige vilkår offentliggjøres løpende i løpet av handelsdagen. Regulert marked skal fastsette regler om offentliggjøring av opplysninger om ordre mv.\n(2) Regulert marked kan på alminnelige forretningsmessige vilkår og ikke-diskriminerende basis gi verdipapirforetak som omfattes av verdipapirhandelloven​4 § 10-19, tilgang til de ordningene som benyttes for offentliggjøring av opplysningene nevnt i første ledd.\n(3) Finanstilsynet​5 kan frita regulert marked​2 fra forpliktelsene i henhold til første ledd.\n(4) Departementet kan i forskrift fastsette regler om offentliggjøring av opplysninger om ordre mv., herunder at det skal gis opplysninger om andre finansielle instrumenter enn aksjer,​6 samt om Finanstilsynets​5 fritaksadgang etter tredje ledd.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Sml. lov 29 juni 2007 nr. 75 § 11-3.\n2 Se § 3 (1).\n3 Jf. § 22 (1).\n4 Lov 29 juni 2007 nr. 75.\n5 Jf. lov 7 des 1956 nr. 1.\n6 Jf. lov 29 juni 2007 nr. 75 § 11-4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Offentliggjøring av opplysninger om handler mv.​1",
+      "content": "(1) Regulert marked​2 skal offentliggjøre pris, volum og tidspunkt for transaksjoner i aksjer opptatt til handel på vedkommende marked.​3 Opplysningene skal på alminnelige forretningsmessige vilkår offentliggjøres så raskt som mulig etter gjennomføring av transaksjonene. Regulert marked skal fastsette regler om offentliggjøring av opplysninger om handler mv.\n(2) Regulert marked kan på alminnelige forretningsmessige vilkår og ikke-diskriminerende basis gi verdipapirforetak som omfattes av verdipapirhandelloven​4 § 10-19, tilgang til de ordningene som benyttes for offentliggjøring av opplysningene nevnt i første ledd.\n(3) Finanstilsynet​5 kan gi regulert marked adgang til å utsette offentliggjøring etter første ledd.\n(4) Departementet kan i forskrift fastsette regler om offentliggjøring av opplysninger om handler mv., herunder at det skal gis opplysninger om andre finansielle instrumenter enn aksjer,​6 samt om Finanstilsynets fritaksadgang etter tredje ledd.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Sml. lov 29 juni 2007 nr. 75 § 11-4.\n2 Se § 3 (1).\n3 Jf. § 22 (1).\n4 Lov 29 juni 2007 nr. 75.\n5 Jf. lov 7 des 1956 nr. 1.\n6 Jf. lov 29 juni 2007 nr. 75 § 2-2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "title": "Løpende mulkt",
+      "content": "Regulert marked kan pålegge et foretak eller en person som ikke oppfyller sin opplysningsplikt etter §§ 24 syvende ledd og 26 syvende ledd eller forskrift gitt i medhold av disse, en daglig løpende mulkt inntil opplysningsplikten er oppfylt. Pålegg om mulkt er tvangsgrunnlag for utlegg.​1 Departementet kan gi nærmere regler om ileggelse av løpende mulkt.\n1 Jf. tvangsl. § 7-2 (1), d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "5:31",
+      "chapter": "5",
+      "section": "31",
+      "title": "Overtredelsesgebyr",
+      "content": "Ved brudd på denne lov eller forskrifter gitt i medhold av denne lov eller ved vesentlige brudd på regulert markeds​1 regler og forretningsvilkår, kan regulert marked pålegge utsteder av finansielle instrumenter​2 notert på vedkommende regulerte marked eller medlemmer​3 i vedkommende regulerte marked å betale et overtredelsesgebyr. Departementet kan gi nærmere regler om ileggelse av overtredelsesgebyr.\n1 Se § 3 (1).\n2 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n3 Jf. § 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "5:32",
+      "chapter": "5",
+      "section": "32",
+      "title": "Forvaltningslovens anvendelse på avgjørelser truffet av regulert marked",
+      "content": "Departementet kan i forskrift fastsette i hvilken utstrekning forvaltningsloven​1 skal gjelde når regulert marked​2 treffer avgjørelser. Departementet kan fastsette nærmere regler om saksbehandlingen.\n1 Lov 10 feb 1967.\n2 Se § 3 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "33",
+      "section": "33",
+      "title": "Tillatelse til å drive virksomhet som børs mv.",
+      "content": "(1) Virksomhet som børs​1 kan bare drives av foretak som har tillatelse til dette fra departementet.​2 Foretak som ikke har tillatelse som børs etter denne lov, kan ikke benytte betegnelsen børs i eller som tillegg til sitt navn, eller ved omtale av sin virksomhet, dersom bruken er egnet til å gi inntrykk av at foretaket har tillatelse etter denne loven.​3\n(2) Vedtektene og endringer i disse​4 skal forelegges departementet til godkjennelse. Departementet kan gi forskrift om innhold og godkjenning av børsers vedtekter.\n(3) Vedtak om avhendelse​4 av en vesentlig del av den konsesjonspliktige virksomheten skal treffes av generalforsamlingen med flertall som for vedtektsendring.​5\n0 Endret ved lov 4 juni 2010 nr. 20 (ikr. 1 juli 2010 iflg. res. 4 juni 2010 nr. 771).\n1 Se § 3 (2).\n2 Se § 4 (1) jf. § 48 (1).\n3 Se § 48 (1).\n4 Sml. § 7.\n5 Jf. asal. § 5-18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "34",
+      "section": "34",
+      "title": "Opptak til handel av finansielle instrumenter på børs",
+      "content": "(1) Finansielle instrumenter​1 kan opptas til handel på børs​2 etter reglene i § 24 og forskrift gitt i medhold av denne, og børsens egne regler dersom vedkommende børs finner at de finansielle instrumentene er egnet for dette og kan forventes å bli gjenstand for regelmessig omsetning.\n(2) Departementet kan i forskrift fastsette nærmere regler om børsnotering av finansielle instrumenter.\n1 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n2 Se § 3 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "35",
+      "section": "35",
+      "title": "Eierkontroll i børs",
+      "content": "(1) Erverv som fører til at erververen blir eier av en betydelig eierandel i en børs​1 krever tillatelse fra departementet.​2 Med betydelig eierandel menes direkte eller indirekte eierandel som representerer minst 10 prosent av aksjekapitalen​3 eller stemmene,​4 eller som på annen måte gjør det mulig å utøve betydelig innflytelse over forvaltningen av selskapet.​5 Likt med erververens egne aksjer regnes aksjer som eies eller erverves av aksjeeiere som nevnt i § 18. Likestilt med eie av aksjer etter første til tredje punktum regnes erverv av rett til å bli eier av aksjer når dette må anses som reelt aksjeeie.\n(2) Ethvert erverv som øker eierandelen slik at denne direkte eller indirekte overstiger 20, 30 eller 50 prosent av aksjekapitalen eller stemmene i en børs, krever tillatelse fra departementet. Første ledd tredje punktum gjelder tilsvarende.\n(3) Søknad om tillatelse etter første og annet ledd sendes særskilt for hver aksjeeier som ved ervervet direkte eller indirekte får en eierandel i en børs som utgjør eller overstiger 10, 20, 30 eller 50 prosent.\n(4) Tillatelse etter første og annet ledd kan bare gis når erververen anses egnet til å sikre en god og fornuftig forvaltning av foretaket. Ved denne vurderingen skal det særlig legges vekt på:\na. erververens tidligere handlemåte,\nb. erververens tilgjengelige økonomiske ressurser og hensynet til forsvarlig virksomhet,\nc. om eierskapet vil kunne føre til uønskede virkninger for finansmarkedenes virkemåte, eller børsens evne til å betjene det norske kapitalmarkedet,\nd. muligheten for å utøve et effektivt tilsyn, herunder om det er etablert samarbeid med tilsynsmyndighetene i erververens hjemland,\ne. om eierskapet vil kunne påvirke rettigheter og plikter for aktørene på vedkommende børs,\nf. om den bakenforliggende eierstrukturen hos erververen er i samsvar med de hensyn som ivaretas i denne bestemmelse,\ng. om det er grunn til å anta at det i forbindelse med ervervet foregår eller blir gjort forsøk på hvitvasking av penger eller finansiering av terrorvirksomhet, eller at ervervet vil øke risikoen for dette.\n(5) Søknad om tillatelse etter første og annet ledd skal sendes Finanstilsynet med kopi til departementet.\n(6) Ved avhendelse av aksjer slik at eierandelen kommer under grensene etter første og annet ledd, skal det gis melding til Finanstilsynet.\n(7) Departementet kan i forskrift gi nærmere regler om innholdet i søknaden som nevnt i femte ledd, regler for behandling av søknaden, samt regler om plikt for børs til å gi melding om eiere av betydelige eierandeler i foretaket, og om plikt for juridiske personer som har betydelige eierandeler i børs, til å gi melding om hvem som inngår i styret og ledelsen.\n0 Endret ved lover 19 juni 2009 nr. 59 (ikr. 1 juli 2009 iflg. res. 19 juni 2009 nr. 691), 20 juni 2014 nr. 29 (ikr. 1 juli 2014 iflg. vedtak 26 juni 2014 nr. 866).\n1 Se § 3 (2). Sml. § 17.\n2 Se § 36.\n3 Jf. asal.§ 2-2 (1) nr. 5.\n4 Jf. asal. § 5-4.\n5 Jf. § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "36",
+      "section": "36",
+      "title": "Erverv uten tillatelse",
+      "content": "(1) Dersom en aksjeeier har ervervet aksjer uten nødvendig tillatelse etter § 35, kan departementet fastsette en frist for å redusere eierandelen eller søke nødvendig tillatelse. Dersom denne fristen overskrides, kan departementet selge aksjene. Reglene om tvangssalg av omsettelige verdipapirer gjelder så langt de passer. Tvangsfullbyrdelsesloven​1 § 10-6, jf. § 8-16, kommer ikke til anvendelse. Aksjeeieren skal varsles om at tvangssalg vil bli foretatt senest to uker før salget gjennomføres.\n(2) Inntil nedsalg eller tvangssalg har funnet sted kan aksjeeieren for den del av aksjene som overstiger tillatt nivå, ikke utøve andre rettigheter i selskapet enn retten til å heve utbytte og til å utøve fortrinnsrett ved kapitalforhøyelse.​2\n0 Endret ved lover 19 juni 2009 nr. 59 (ikr. 1 juli 2009 iflg. res. 19 juni 2009 nr. 691), 20 juni 2014 nr. 29 (ikr. 1 juli 2014 iflg. vedtak 26 juni 2014 nr. 866).\n1 Lov 26 juni 1992 nr. 86.\n2 Sml. asal. § 5-4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "37",
+      "section": "37",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 20 juni 2014 nr. 29 (ikr. 1 juli 2014 iflg. vedtak 26 juni 2014 nr. 866).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "38",
+      "section": "38",
+      "title": "Kontrollkomité",
+      "content": "Departementet kan i forskrift fastsette regler om at børs​1 skal ha kontrollkomité, herunder om kontrollkomiteens sammensetning, oppgaver, instruks og melding til Finanstilsynet.​2\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (2).\n2 Jf. lov 7 des 1956 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "39",
+      "section": "39",
+      "title": "Stans i handel",
+      "content": "Departementet kan i ekstraordinære situasjoner vedta at all notering og handel ved børs​1 skal stanses. Så vidt mulig skal børsens​1 og Finanstilsynets​2 uttalelse innhentes før beslutning fattes. Dersom departementets vedtak ikke kan avventes, kan Finanstilsynet treffe slik avgjørelse. Dersom Finanstilsynets vedtak ikke kan avventes, kan børs treffe slik avgjørelse.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (2).\n2 Jf. lov 7 des 1956 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "40",
+      "section": "40",
+      "title": "Forvaltningslovens anvendelse på avgjørelser truffet av børs​1",
+      "content": "Når børs​2 treffer avgjørelser etter denne lov §§ 25, 26, 30, 31 og 34, samt verdipapirhandelloven​3 kapittel 6 og 7 og § 17-4 tredje ledd, skal forvaltningslovens​4 kapittel III, IV, V, VI og VIII, med unntak av § 13, få anvendelse. Departementet kan fastsette nærmere regler om saksbehandlingen.\n1 Se § 41.\n2 Se § 3 (2).\n3 Lov 29 juni 2007 nr. 75.\n4 Lov 10 feb 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "41",
+      "section": "41",
+      "title": "Oppnevning av klagenemnd og kompetanse mv.",
+      "content": "(1) Departementet kan oppnevne en egen klagenemnd for å avgjøre klager på slike vedtak som nevnt i § 40. Klagenemnden skal ha en leder og en nestleder som begge skal ha juridisk embetseksamen. Departementet kan i forskrift fastsette at også andre vedtak fattet av børs enn de som er nevnt i § 40 skal kunne påklages, og fastsette unntak fra klageadgangen. Departementet kan i forskrift fastsette i hvilken utstrekning avgjørelser truffet av annet regulert marked kan bringes inn for klagenemnden.\n(2) Klagenemnden kan i tvister mellom private parter opptre som voldgiftsrett​1 etter nærmere regler fastsatt av departementet.\n(3) Forvaltningsloven​2 kommer til anvendelse for klagenemndens virksomhet. Departementet kan fastsette nærmere regler om frister, innholdet av klage, tilsvar og muntlig forhandling og om klagenemndens sammensetning og virksomhet. Slike regler kan utfylle, supplere eller avvike fra regler gitt i eller i medhold av denne lov.\n1 Jf. lov 14 mai 2004 nr. 25.\n2 Lov 10 feb 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "42",
+      "section": "42",
+      "title": "Dekning av klagenemndens utgifter",
+      "content": "(1) Klagenemndens utgifter dekkes av børser​1 og andre regulerte markeder​2 på bakgrunn av fordeling fastsatt av departementet etter forslag fra klagenemnden. Departementet fastsetter medlemmenes godtgjørelse.\n(2) Det kan kreves gebyr for behandling av klage som angitt i § 41 første ledd. Departementet kan gi nærmere regler om når gebyr skal kreves, om gebyrenes størrelse og om innkrevingen.\n(3) Departementet kan gi nærmere regler om når en part kan bli tilkjent saksomkostninger fra det offentlige og om en parts rett til dekning av saksomkostninger fra andre parter.​3\n1 Se § 3 (2).\n2 Se § 3 (1).\n3 Sml. fvl. § 36.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "43",
+      "section": "43",
+      "title": "Søksmålsadgang",
+      "content": "(1) Søksmål mot vedtak som omhandlet i § 40 kan ikke reises før klageadgangen er utnyttet. Klagenemnden kan i særlige tilfeller gjøre vedtak om at det likevel kan reises søksmål mot avgjørelsen. Frist for søksmål er 6 måneder fra det tidspunkt klagen er avgjort eller tillatelse til søksmål er gitt.\n(2) Søksmål mot vedtak truffet av en børs​1 eller annet regulert marked​2 reises mot vedkommende foretak. Staten kan på ethvert trinn tre inn i saken som hjelpeintervenient​3 og kan etter avtale med børsen eller det regulerte markedet overta saken.\n1 Se § 3 (2).\n2 Se § 3 (1).\n3 Jf. tvl. § 15-7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "7:44",
+      "chapter": "7",
+      "section": "44",
+      "title": "Tilsynsmyndighet",
+      "content": "Finanstilsynet​1 forestår tilsyn med regulerte markeder.​2\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Jf. lov 7 des 1956 nr. 1.\n2 Se § 3 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "7:45",
+      "chapter": "7",
+      "section": "45",
+      "title": "Opplysningsplikt overfor Finanstilsynet",
+      "content": "(1) Regulert marked​1 og selskap i samme konsern​2 har plikt til å gi de opplysninger som Finanstilsynet​3 krever om forhold som angår foretakets virksomhet, samt til å fremvise og utlevere til Finanstilsynet dokumentasjon som angår virksomheten. Ved mistanke om brudd på verdipapirhandelloven​4 kapittel 3 eller ureglementerte markedsforhold eller ved vesentlige brudd på reglene til regulert marked,​5 plikter regulert marked og selskap i samme konsern straks å melde fra til og bistå Finanstilsynet. Opplysningene og bistanden skal gis uten kostnad for Finanstilsynet.\n(2) Dersom det inntreffer forhold som medfører risiko for at regulert marked​1 ikke vil kunne oppfylle de fastsatte krav til ansvarlig kapital​6 og likviditet,​7 eller det oppstår andre forhold som kan innebære betydelig risiko knyttet til driften av foretaket, skal foretaket straks gi melding til Finanstilsynet​3 om dette.\n(3) Utsteder av finansielle instrumenter​8 som er børsnotert​9 eller opptatt til handel på et regulert marked,​10 plikter å gi Finanstilsynet​3 de opplysninger som Finanstilsynet anser nødvendige for å avgjøre om det har skjedd overtredelse av bestemmelser gitt i eller i medhold av denne lov vedrørende de finansielle instrumentene. Medlem i regulert marked​11 samt tillitsvalgte og ansatte hos børsmedlemmet plikter å gi Finanstilsynet de opplysninger som Finanstilsynet anser nødvendige for å avgjøre om det har skjedd overtredelse av bestemmelser gitt i eller i medhold av denne lov vedrørende medlemskapet eller deltagelsen i handel på regulert marked.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Se § 3 (1).\n2 Jf. asal. § 1-3.\n3 Jf. lov 7 des 1956 nr. 1.\n4 Lov 29 juni 2007 nr. 75.\n5 Jf. § 13.\n6 Jf. § 20.\n7 Jf. § 21.\n8 Jf. lov 29 juni 2007 nr. 75 § 2-2.\n9 Jf. § 34.\n10 Jf. § 24.\n11 Jf. § 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "7:46",
+      "chapter": "7",
+      "section": "46",
+      "title": "Innskrenking av Finanstilsynets taushetsplikt",
+      "content": "Dersom Finanstilsynet​1 gjennom sitt tilsyn med regulerte markeder får grunn til å anta at noen er eller vil bli påført tap som følge av at bestemmelser i lov eller i medhold av lov ikke er overholdt, kan Finanstilsynet uten hinder av lovbestemt taushetsplikt​2 underrette vedkommende om forholdet.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).\n1 Jf. lov 7 des 1956 nr. 1.\n2 Jf. lov 7 des 1956 nr. 1 § 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "7:47",
+      "chapter": "7",
+      "section": "47",
+      "title": "Pålegg fra Finanstilsynet",
+      "content": "(1) Finanstilsynet kan gi regulert marked​1 pålegg om retting dersom foretaket opptrer i strid med lov eller bestemmelser gitt med hjemmel i lov eller egne regler og forretningsvilkår. Tilsvarende gjelder dersom foretakets ledelse eller styremedlemmer ikke oppfyller kravene til hederlig vandel og erfaring som fastsatt i § 10 annet ledd.\n(2) Dersom en aksjeeier med betydelig eierandel​2 ikke anses egnet til å sikre en god og fornuftig forvaltning av foretaket eller har aksjer i strid med §§ 17 eller 35, kan Finanstilsynet gi pålegg om at det ikke kan utøves stemmerett for aksjene.​3\n(3) Dersom Finanstilsynet har grunn til å anta at noen handler i strid med bestemmelser gitt i eller i medhold av denne lov, kan Finanstilsynet gi pålegg om å bringe handlingen til opphør. Pålegget kan omfatte ethvert tiltak som er nødvendig for å bringe overtredelsen til opphør.\n0 Endret ved lover 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603), 20 juni 2014 nr. 29 (ikr. 1 juli 2014 iflg. vedtak 26 juni 2014 nr. 866).\n1 Se § 3 (1).\n2 Se § 17 (1) annet punktum og § 35 (1) annet punktum.\n3 Jf. asal. § 5-4 (1) jf. § 4-2 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "7:48",
+      "chapter": "7",
+      "section": "48",
+      "title": "Straff",
+      "content": "(1) Med bøter straffes den som forsettlig eller uaktsomt driver virksomhet som regulert marked uten tillatelse etter § 4 første ledd eller benytter betegnelsen regulert marked eller børs i strid med § 4 annet ledd eller § 33 første ledd.\n(2) Den som forsettlig eller uaktsomt tilsidesetter sin opplysningsplikt etter § 24 syvende ledd eller § 26 syvende ledd straffes med bøter eller fengsel inntil 1 år eller begge deler. Foreligger det særlig skjerpende omstendigheter kan fengsel inntil 3 år anvendes.\n(3) Hvis ikke handlingen går inn under noen strengere straffebestemmelse, straffes tillitsvalgte eller ansatte ved regulert marked​1 som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne lov, med bøter eller under særlig skjerpende omstendigheter med fengsel inntil 1 år eller begge deler.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Se § 3 (1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "8:49",
+      "chapter": "8",
+      "section": "49",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid departementet bestemmer.​1 Departementet kan sette i kraft de enkelte bestemmelsene til forskjellig tid.\n1 Fra 1 nov 2007 iflg. vedtak 29 juni 2007 nr. 749.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "8:50",
+      "chapter": "8",
+      "section": "50",
+      "title": "Overgangsregler",
+      "content": "(1) Tillatelser gitt etter lov 17. november 2000 nr. 80 om børsvirksomhet m.m. § 2-1 videreføres. Foretak med slike tillatelser må innrette sin virksomhet etter reglene i loven her og i lov om verdipapirhandel fra lovens ikrafttredelse.\n(2) Departementet kan gi ytterligere overgangsregler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "8:51",
+      "chapter": "8",
+      "section": "51",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    }
+  ]
+}

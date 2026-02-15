@@ -1,0 +1,747 @@
+{
+  "id": "LOV-1932-02-05-2",
+  "type": "statute",
+  "title": "Lov om rettergangsmåten i riksrettssaker [riksrettsrettergangsloven]",
+  "short_name": "Riksrettsrettergangsloven – riksrgl",
+  "status": "in_force",
+  "issued_date": "1932-02-05",
+  "in_force_date": "1932-02-05",
+  "url": "https://lovdata.no/dokument/NL/lov/1932-02-05-2",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Rettsmøtene i Riksretten er offentlige. Når hensynet til statens forhold til en fremmed makt eller andre særlige hensyn krever det, kan retten beslutte at forhandlingene skal foregå for lukkede dører og at de skal holdes hemmelig. Forhandling om å utelukke offentligheten foregår for lukkede dører.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Forhandlingene i Riksretten er muntlige.\nOver forhandlingene føres en for hver sak innrettet rettsbok, som autoriseres av Stortingets president. De forklaringer og fremstillinger som den anklagede og forsvareren, anklageren, vidner og sakkyndige gir, gjengis i rettsboken i den utstrekning retten bestemmer.\nRetten kan beslutte at forhandlingene istedenfor å innføres i rettsboken skal optas med de tekniske midler som retten bestemmer, og at de skal trykkes og utgis offentlig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Riksretten trer sammen i Høyesteretts lokaler. Foreligger særlige grunner til å holde rettsforhandlingene et annet sted, i eller utenfor rikets hovedstad, kan dette bestemmes av rettens president forsåvidt det første rettsmøte angår, og senere av Riksretten selv.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Blir Riksrettens president kjent ugild, eller har han forfall, trer den efter utnevnelsestiden eldste høiesterettsdommer i hans sted.\nBlir et annet av Høyesteretts medlemmer kjent ugild, eller har forfall, trer den neste efter utnevnelsestiden eldste høyesterettsdommer i hans sted.\nBlir et av Stortinget valgt medlem kjent ugild eller har forfall, trer en av Riksrettsutvalgets valgte stedfortredere i hans sted etter fastsatt rekkefølge.\nRiksrettens president kan bestemme at en eller flere av stedfortrederne etter henholdsvis annet og tredje ledd skal overvære forhandlingene for å tiltre retten om noen av dommerne får forfall.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Som protokollfører ved Riksretten tjenestegjør Høyesteretts direktør. I stedet for eller ved siden av denne kan presidenten anta en eller flere særskilte protokollførere.\n0 Endret ved lov 28 apr 2000 nr. 34 (ikr. 1 juli 2000 iflg. res. 28 apr 2000 nr. 366).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "Om ugildhetsgrunner for dommere og protokollførere i Riksretten gjelder forskriftene i lovgivningen om de alminnelige domstoler. Også den dommer som det er spørsmål om å utelukke som ugild deltar i avgjørelsen.\n0 Endret ved lov 28 apr 2000 nr. 34 (ikr. 1 juli 2000 iflg. res. 28 apr 2000 nr. 366).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "Har nogen dommer i Riksretten vært fraværende fra et eller flere rettsmøter, avgjør retten om fraværet skal tillegges den betydning at han ikke lenger kan tjenestegjøre som dommer i saken. I avgjørelsen kan vedkommende dommer ikke selv delta.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "content": "Den anklagede innkalles til å møte personlig for Riksretten. Uteblir han, kan saken allikevel fremmes og pådømmes. Dog skal saken utsettes, dersom det er oplyst eller sannsynlig at han har gyldig forfall, og retten finner hans nærvær nødvendig av hensyn til oplysningen av saken.\nRetten kan bestemme at en anklaget eller domfelt skal undergis fengslig forvaring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "content": "Bevisførsel foregår umiddelbart for Riksretten.\nRetten kan dog beslutte at et bevis skal føres gjennem særskilt bevisoptagelse, som i så fall foretas ved tingretten på vedkommende sted efter reglene i tvisteloven. Anke mot tingrettens avgjørelser går til Riksretten.\nFinner Riksretten det hensiktsmessig kan den også bestemme at vidner som innkalles for å avgi forklaring skal avhøres for et utvalg av rettens medlemmer. Dette utvalg som velges av retten skal i tilfelle ha tre medlemmer, derav én høiesterettsdommer, som tjenestegjør som leder, og to av medlemmene valgt av Stortinget. Spørsmålet om vidneplikt avgjøres av utvalget, hvis ikke dette finner at avgjørelsen bør treffes av den samlede rett. Treffer utvalget avgjørelsen, kan den med opsettende virkning innbringes for Riksretten innen en av utvalget fastsatt frist. I Riksrettens avgjørelse deltar i så fall også utvalgets medlemmer.\nVidneforklaringer som er avgitt for det særskilte utvalg, skal leses op i møte av den samlede rett, hvis ikke retten beslutter at oplesning kan undlates.\nSkriftlige bevis som fremlegges i saken leses op i rettsmøte i den utstrekning retten finner det nødvendig.\n0 Endret ved lover 14 des 2001 nr. 98 (ikr. 1 jan 2002 iflg. res. 14 des 2001 nr. 1416), 30 mars 2007 nr. 13, 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3, 9 mai 2014 nr. 16 (ikr. 9 mai 2014 iflg. res. 9 mai 2014 nr. 625).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "content": "Enhver som opholder sig i riket og enhver norsk statsborger er efter innkallelse pliktig til å møte som vidne ved Riksretten uten hensyn til avstanden mellem vidnets opholdssted og rettsstedet. Den samme møteplikt har den som retten opnevner til å gjøre tjeneste som sakkyndig i saken.\nRiksretten bestemmer om der skal mottas vidnesbyrd om hemmelige underhandlinger, rådslagninger eller beslutninger i saker som har betydning for rikets sikkerhet eller rettigheter i forhold til en annen stat. Likeledes bestemmer Riksretten om et vidne skal fritas for den taushetsplikt som efter lov eller annen gyldig bestemmelse påhviler vidnet.\nFor øvrig gjelder om vidneplikten og plikten til å gjøre tjeneste som sakkyndig, og om fremgangsmåten ved innkallelse og avhøring av vidner og sakkyndige, reglene i tvisteloven. Vidner har rett til godtgjørelse av statskassen efter bestemmelsene i den almindelige lovgivning. Dog kan retten fastsette en høiere godtgjørelse. Godtgjørelsen til sakkyndige fastsettes av retten og utredes av statskassen.\n0 Endret ved lov 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "1:11",
+      "chapter": "1",
+      "section": "11",
+      "content": "For at straff skal kunne ilegges ved dom av Riksretten, må et flertall av den dømmende retts medlemmer ha stemt for fellelse. Det samme gjelder ved avgjørelsen av om skadeserstatning eller erstatning for saksomkostninger skal idømmes. Ved andre avgjørelser gjør presidentens stemme utslaget dersom stemmene står likt.\nNår noget medlem av retten forlanger det, skal avgjørelser av Riksretten under sakens gang treffes efter rådslagning og votering således som bestemt i denne lovs § 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "1:12",
+      "chapter": "1",
+      "section": "12",
+      "content": "Om fremgangsmåten ved forkynnelser, om beregningen av frister og om rettergangsstraffer gjelder forskriftene i lovgivningen om de almindelige domstoler, forsåvidt ikke annet følger av bestemmelsene i denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "1:13",
+      "chapter": "1",
+      "section": "13",
+      "content": "Forsåvidt denne lov ikke har gitt forskrifter om rettergangsmåten, kan Riksretten under saksbehandlingen gå frem på den måte den finner hensiktsmessig og stemmende med de almindelige rettergangsregler.\nEnhver offentlig myndighet har plikt til å yde Riksretten den bistand den begjærer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "content": "Om Stortingets ansvarskommisjon gjelder reglene i kapittel 3.\nNår beslutning om tiltale for Riksrett er fattet, antar Stortinget en eller flere anklagere til å føre saken.\nStortingets president sender utskrift av tiltalebeslutningen til Regjeringen og til Høyesteretts formann, og underretter denne om at Riksrett er besluttet nedsatt og om valget av anklager eller anklagere. Som president i Riksretten sørger Høyesteretts formann for at tiltalebeslutningen uten ophold blir forkynt for den anklagede. Forkynnelsen utføres ved notarius publicus. Dog kan skriftlig erkjennelse fra den anklagede tre istedenfor sådan forkynnelse. Ved forkynnelsen gjøres den anklagede bekjent med bestemmelsene i denne lovs § 15.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "content": "Så snart Stortinget har fattet beslutning om tiltale for Riksrett, kan den eller de anklagede kreve opnevnt en forsvarer som de selv utpeker. Er det flere anklagere, kan et tilsvarende antall forsvarere kreves opnevnt.\nOpnevnelsen foretas av Riksrettens president. Finner han det rimelig, kan han efter begjæring opnevne særskilte forsvarere for en enkelt eller enkelte av flere anklagede. Blir en begjæring om opnevnelse av flere forsvarere ikke tatt tilfølge, kan avgjørelsen prøves av Riksretten.\nBlir begjæring om opnevnelse av forsvarer ikke fremsatt innen to uker fra forkynnelsen av tiltalebeslutningen, opnevner presidenten i alle tilfelle forsvarer.\nPresidenten underretter den anklagede og anklageren om oppnevnelsen.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "2:16",
+      "chapter": "2",
+      "section": "16",
+      "content": "Når forsvarer er oppnevnt, sender Riksrettens president i rekommandert brev en fortegnelse over Høyesteretts medlemmer og de av Stortinget valgte medlemmer til anklageren, den anklagede og forsvareren. Samtidig berammer han rettsmøte i saken. Han utferdiger innkallelse til den anklagede med et varsel av minst to uker og sørger for at innkallelsen blir forkynt. Om forkynnelsesmåten gjelder bestemmelsen i § 14 tredje ledd.\nPresidenten underretter anklageren og forsvareren om berammelsen og innkaller til rettsmøte.\n0 Endret ved lover 9 jan 1998 nr. 5, 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "2:17",
+      "chapter": "2",
+      "section": "17",
+      "content": "Når Riksretten er trådt sammen, avgir de av Stortinget valgte medlemmer skriftlig dommerforsikring etter reglene i domstolloven § 60, for så vidt de ikke tidligere har avgitt slik forsikring. Om forsikringens innhold gjelder de samme regler som for utnevnte dommere. Det personale som tjenestegjør ved retten, avgir skriftlig forsikring etter reglene i domstolloven § 141 om at de vil bevare taushet om forhandlinger som besluttes holdt hemmelig.\nDerefter retter presidenten spørsmål til rettens medlemmer, anklageren, den anklagede og forsvareren, om der for nogen dommer antas å foreligge nogen ugildhetsgrunn, idet presidenten samtidig uttrykkelig gjør opmerksom på, at domstolslovens § 111 også gjelder for Riksretten. Anklageren og forsvareren får i tilfelle adgang til å uttale sig hver to ganger før spørsmålet om ugildhet blir avgjort. Den anklagede har adgang til å uttale sig ved siden av forsvareren.\n0 Endret ved lover 7 apr 1995 nr. 15 (ikr. 7 apr 1995 iflg. res. 7 apr 1995 nr. 286), 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "2:18",
+      "chapter": "2",
+      "section": "18",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "2:19",
+      "chapter": "2",
+      "section": "19",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lov 20 juni 2003 nr. 45 (i kraft 1 juli 2003 iflg. res. 20 juni 2003 nr. 712), opphevet ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "2:20",
+      "chapter": "2",
+      "section": "20",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "2:21",
+      "chapter": "2",
+      "section": "21",
+      "content": "Når retten har fått sin lovlige sammensetning, gir anklageren en kort fremstilling av saken og en kort oversikt over de bevis som vil bli ført og hvad dermed aktes godtgjort.\nEfterat forsvareren har fått ordet til en tilsvarende fremstilling og bevisoversikt, avhøres den anklagede såfremt han er villig til å avgi forklaring.\nAvhøringen ledes av Riksrettens president eller, når han har forfall eller bestemmer det, av den eldste høiesterettsdommer. Anklageren og forsvareren kan stille spørsmål direkte til den anklagede, når presidenten tillater det.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "2:22",
+      "chapter": "2",
+      "section": "22",
+      "content": "Efterat den anklagede er avhørt, foregår bevisførselen. Anklageren og forsvareren er forpliktet til i tide å forevise hinannen de dokumenter, som de under prosedyren akter å benytte og intet dokument må av anklageren fremlegges i retten, som ikke er forsynt med forsvarerens forevisningspåtegning. Det samme gjelder forsvareren eller den anklagede. Har tiden ikke vært tilstrekkelig til å forberede bevisførselen, kan retten av denne grunn utsette saken i så lang tid som finnes påkrevet.\nNår vidner avhøres for den samlede rett, ledes avhøringen av Riksrettens president eller, når han bestemmer det, av den eldste høiesterettsdommer. Det samme gjelder om avhøringen av sakkyndige. Det kan overlates til anklageren og forsvareren helt eller delvis å foreta avhøringen.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "2:23",
+      "chapter": "2",
+      "section": "23",
+      "content": "Når bevisførselen er tilendebragt, kan retten efter begjæring utsette saken i så lang tid som finnes nødvendig for at anklageren og forsvareren kan forberede sine fremstillinger til retten.\nAnklageren får ordet først og nedlegger påstand. Derefter får forsvareren ordet og nedlegger sin påstand.\nAnklageren og forsvareren har rett til å få ordet to ganger hver. Den anklagede, eller om det er flere anklagede enhver av dem, kan uttale sig hver gang forsvareren har hatt ordet. Er det flere anklagere og forsvarere, kan hver av dem ta ordet to ganger.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "2:24",
+      "chapter": "2",
+      "section": "24",
+      "content": "Når retten finner at saken er ferdig til å pådømmes, erklærer Riksrettens president forhandlingen sluttet og saken optatt til doms.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "2:25",
+      "chapter": "2",
+      "section": "25",
+      "content": "Medlemmene av den dømmende rett trer uten ophold sammen til rådslagning og votering for lukkede dører.\nVoteringen begynner senest den 6te virkedag efterat saken er optatt til doms. Når voteringen er påbegynt, må den ikke avbrytes, før dommen er avsagt. Høiesteretts dommere, undtagen Riksrettens president, voterer først. Efterat de av Stortinget valgte medlemmer har votert, avgir presidenten sitt votum. Rekkefølgen i voteringen bestemmes for øvrig ved loddtrekning.\nUnder voteringen skal hvert av rettens medlemmer gi en fullstendig begrunnelse av den domsslutning han foreslår, dog således at en senere voterende helt eller delvis kan henvise til det som er uttalt i et tidligere votum.\nDommen avleses av Riksrettens president for åpne dører.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "2:26",
+      "chapter": "2",
+      "section": "26",
+      "content": "I forbindelse med domsavsigelsen fastsetter retten den godtgjørelse som tilkommer anklageren, forsvareren og særskilt oppnevnte protokollførere. Godtgjørelsen utredes av statskassen. Har Høyesteretts direktør eller noen av Høyesteretts protokollsekretærer tjenestegjort som protokollfører ved Riksretten, kan han tilstås godtgjørelse i den utstrekning retten finner rimelig.\nBlir den anklagede dømt eller retten finner at den anklagedes forhold ikke har vært rettmessig efter forfatningen, kan det ved dommen pålegges ham å betale erstatning til statskassen for omkostningene ved saken. Omkostningsansvaret skal i så fall fastsettes til et beløp som avpasses efter den domfeltes skyld og økonomiske evne.\n0 Endret ved lov 28 apr 2000 nr. 34 (ikr. 1 juli 2000 iflg. res. 28 apr 2000 nr. 366).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "2:27",
+      "chapter": "2",
+      "section": "27",
+      "content": "Når Riksrettens dom avsies, offentliggjøres voteringen enten ved oplesning i retten eller på annen måte som retten bestemmer. Samtidig offentliggjøres de voteringer som ligger til grunn for avgjørelser der er truffet under sakens gang, dersom disse voteringer ikke tidligere er offentliggjort eller efter beslutning av retten skal være hemmelige.\nEr nogen del av Riksrettens forhandlinger eller voteringer besluttet å skulle være hemmelige, kan det senere av Stortinget bestemmes om, når og i hvilken utstrekning de kan offentliggjøres.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "2:28",
+      "chapter": "2",
+      "section": "28",
+      "content": "Når saken således er tilendebragt, utferdiges avskrift av dommen, som underskrives av Riksrettens president og paraferes av dens sekretær. Hvis Stortinget er samlet, når dommen faller, blir denne domsavskrift først å tilstille Stortingets president, for å opleses i Stortinget, hvorefter den forsynes med publikasjonspåtegning av Stortingets president og sendes tilbake til Riksrettspresidenten, som derefter sender den til Regjeringen med anmodning om dennes foranstaltning i henseende til dommens fullbyrdelse. Er Stortinget ikke samlet, sender Riksrettens president, efter å ha underrettet Stortingets president, domsavskriften direkte til Regjeringen med sådan anmodning som nevnt.\nSakens dokumenter og rettsboken i saken opbevares i Stortingets arkiv.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "2:29",
+      "chapter": "2",
+      "section": "29",
+      "content": "Om fullbyrdelse av en av Riksretten avsagt dom gjelder forskriftene i den almindelige lovgivning om fullbyrdelse av dommer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "3:30",
+      "chapter": "3",
+      "section": "30",
+      "content": "Når Stortinget ber om det, iverksetter Stortingets ansvarskommisjon undersøkelser for å klarlegge om det er grunnlag for å ta ut tiltale for Riksrett i henhold til Grunnloven § 86.\nAnsvarskommisjonen skal ha 5 medlemmer som velges av Stortinget for en periode på inntil 6 år etter innstilling fra Stortingets presidentskap. Hvis særlige grunner tilsier det, kan Stortinget velge stedfortreder for medlem av kommisjonen i en enkelt sak, eller løse et medlem fra vervet og foreta nytt valg for den resterende del av perioden.\nStortinget kan fastsette nærmere regler om kommisjonens sammensetning, arbeidsmåte og administrasjon. For øvrig bestemmer kommisjonen selv sin arbeidsmåte, og antar den bistand den finner nødvendig. Kommisjonen kan ikke instrueres om sin utøving av myndighet.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "3:31",
+      "chapter": "3",
+      "section": "31",
+      "content": "Ansvarskommisjonen gir en vurdering av om den mener det er grunnlag for å gjøre konstitusjonelt ansvar gjeldende mot noen og rapporterer til Stortinget. Rapporten skal være offentlig, med mindre særlige hensyn tilsier at den helt eller delvis bør være taushetsbelagt.\n0 Tilføyd ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "3:32",
+      "chapter": "3",
+      "section": "32",
+      "content": "Så snart Stortinget har besluttet å be ansvarskommisjonen iverksette undersøkelser, har den som undersøkelsene er rettet mot krav på å få oppnevnt offentlig forsvarer. Oppnevnelsen foretas av kommisjonens leder. Den som undersøkelsene er rettet mot har for øvrig de samme rettigheter som en som etterforskes i medhold av straffeprosessloven.\n0 Tilføyd ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "3:33",
+      "chapter": "3",
+      "section": "33",
+      "content": "Ansvarskommisjonen kan iverksette slike etterforskningsskritt som etter straffeprosessloven kan besluttes av politi eller påtalemyndighet.\nEnhver plikter etter innkalling å møte for kommisjonen. Kommisjonen eller en som handler på vegne av den, kan foreta avhør etter reglene om politiavhør. Etter reglene i straffeprosessloven kan kommisjonen sette frem begjæring for tingretten om gransking, bruk av tvangsmidler eller om bevisopptak, og kommisjonen kan søke bistand hos sakkyndige. Kommisjonen kan anmode politiet om å utføre nærmere angitte etterforskningsskritt.\n§ 10 tredje ledd annet punktum om godtgjørelse til vitner gjelder tilsvarende for den som etterkommer pålegg om å møte for kommisjonen.\n0 Tilføyd ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Rettsmøtene i Riksretten er offentlige. Når hensynet til statens forhold til en fremmed makt eller andre særlige hensyn krever det, kan retten beslutte at forhandlingene skal foregå for lukkede dører og at de skal holdes hemmelig. Forhandling om å utelukke offentligheten foregår for lukkede dører.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Forhandlingene i Riksretten er muntlige.\nOver forhandlingene føres en for hver sak innrettet rettsbok, som autoriseres av Stortingets president. De forklaringer og fremstillinger som den anklagede og forsvareren, anklageren, vidner og sakkyndige gir, gjengis i rettsboken i den utstrekning retten bestemmer.\nRetten kan beslutte at forhandlingene istedenfor å innføres i rettsboken skal optas med de tekniske midler som retten bestemmer, og at de skal trykkes og utgis offentlig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Riksretten trer sammen i Høyesteretts lokaler. Foreligger særlige grunner til å holde rettsforhandlingene et annet sted, i eller utenfor rikets hovedstad, kan dette bestemmes av rettens president forsåvidt det første rettsmøte angår, og senere av Riksretten selv.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Blir Riksrettens president kjent ugild, eller har han forfall, trer den efter utnevnelsestiden eldste høiesterettsdommer i hans sted.\nBlir et annet av Høyesteretts medlemmer kjent ugild, eller har forfall, trer den neste efter utnevnelsestiden eldste høyesterettsdommer i hans sted.\nBlir et av Stortinget valgt medlem kjent ugild eller har forfall, trer en av Riksrettsutvalgets valgte stedfortredere i hans sted etter fastsatt rekkefølge.\nRiksrettens president kan bestemme at en eller flere av stedfortrederne etter henholdsvis annet og tredje ledd skal overvære forhandlingene for å tiltre retten om noen av dommerne får forfall.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Som protokollfører ved Riksretten tjenestegjør Høyesteretts direktør. I stedet for eller ved siden av denne kan presidenten anta en eller flere særskilte protokollførere.\n0 Endret ved lov 28 apr 2000 nr. 34 (ikr. 1 juli 2000 iflg. res. 28 apr 2000 nr. 366).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "Om ugildhetsgrunner for dommere og protokollførere i Riksretten gjelder forskriftene i lovgivningen om de alminnelige domstoler. Også den dommer som det er spørsmål om å utelukke som ugild deltar i avgjørelsen.\n0 Endret ved lov 28 apr 2000 nr. 34 (ikr. 1 juli 2000 iflg. res. 28 apr 2000 nr. 366).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "Har nogen dommer i Riksretten vært fraværende fra et eller flere rettsmøter, avgjør retten om fraværet skal tillegges den betydning at han ikke lenger kan tjenestegjøre som dommer i saken. I avgjørelsen kan vedkommende dommer ikke selv delta.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "content": "Den anklagede innkalles til å møte personlig for Riksretten. Uteblir han, kan saken allikevel fremmes og pådømmes. Dog skal saken utsettes, dersom det er oplyst eller sannsynlig at han har gyldig forfall, og retten finner hans nærvær nødvendig av hensyn til oplysningen av saken.\nRetten kan bestemme at en anklaget eller domfelt skal undergis fengslig forvaring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "content": "Bevisførsel foregår umiddelbart for Riksretten.\nRetten kan dog beslutte at et bevis skal føres gjennem særskilt bevisoptagelse, som i så fall foretas ved tingretten på vedkommende sted efter reglene i tvisteloven. Anke mot tingrettens avgjørelser går til Riksretten.\nFinner Riksretten det hensiktsmessig kan den også bestemme at vidner som innkalles for å avgi forklaring skal avhøres for et utvalg av rettens medlemmer. Dette utvalg som velges av retten skal i tilfelle ha tre medlemmer, derav én høiesterettsdommer, som tjenestegjør som leder, og to av medlemmene valgt av Stortinget. Spørsmålet om vidneplikt avgjøres av utvalget, hvis ikke dette finner at avgjørelsen bør treffes av den samlede rett. Treffer utvalget avgjørelsen, kan den med opsettende virkning innbringes for Riksretten innen en av utvalget fastsatt frist. I Riksrettens avgjørelse deltar i så fall også utvalgets medlemmer.\nVidneforklaringer som er avgitt for det særskilte utvalg, skal leses op i møte av den samlede rett, hvis ikke retten beslutter at oplesning kan undlates.\nSkriftlige bevis som fremlegges i saken leses op i rettsmøte i den utstrekning retten finner det nødvendig.\n0 Endret ved lover 14 des 2001 nr. 98 (ikr. 1 jan 2002 iflg. res. 14 des 2001 nr. 1416), 30 mars 2007 nr. 13, 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3, 9 mai 2014 nr. 16 (ikr. 9 mai 2014 iflg. res. 9 mai 2014 nr. 625).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "content": "Enhver som opholder sig i riket og enhver norsk statsborger er efter innkallelse pliktig til å møte som vidne ved Riksretten uten hensyn til avstanden mellem vidnets opholdssted og rettsstedet. Den samme møteplikt har den som retten opnevner til å gjøre tjeneste som sakkyndig i saken.\nRiksretten bestemmer om der skal mottas vidnesbyrd om hemmelige underhandlinger, rådslagninger eller beslutninger i saker som har betydning for rikets sikkerhet eller rettigheter i forhold til en annen stat. Likeledes bestemmer Riksretten om et vidne skal fritas for den taushetsplikt som efter lov eller annen gyldig bestemmelse påhviler vidnet.\nFor øvrig gjelder om vidneplikten og plikten til å gjøre tjeneste som sakkyndig, og om fremgangsmåten ved innkallelse og avhøring av vidner og sakkyndige, reglene i tvisteloven. Vidner har rett til godtgjørelse av statskassen efter bestemmelsene i den almindelige lovgivning. Dog kan retten fastsette en høiere godtgjørelse. Godtgjørelsen til sakkyndige fastsettes av retten og utredes av statskassen.\n0 Endret ved lov 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "1:11",
+      "chapter": "1",
+      "section": "11",
+      "content": "For at straff skal kunne ilegges ved dom av Riksretten, må et flertall av den dømmende retts medlemmer ha stemt for fellelse. Det samme gjelder ved avgjørelsen av om skadeserstatning eller erstatning for saksomkostninger skal idømmes. Ved andre avgjørelser gjør presidentens stemme utslaget dersom stemmene står likt.\nNår noget medlem av retten forlanger det, skal avgjørelser av Riksretten under sakens gang treffes efter rådslagning og votering således som bestemt i denne lovs § 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "1:12",
+      "chapter": "1",
+      "section": "12",
+      "content": "Om fremgangsmåten ved forkynnelser, om beregningen av frister og om rettergangsstraffer gjelder forskriftene i lovgivningen om de almindelige domstoler, forsåvidt ikke annet følger av bestemmelsene i denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "1:13",
+      "chapter": "1",
+      "section": "13",
+      "content": "Forsåvidt denne lov ikke har gitt forskrifter om rettergangsmåten, kan Riksretten under saksbehandlingen gå frem på den måte den finner hensiktsmessig og stemmende med de almindelige rettergangsregler.\nEnhver offentlig myndighet har plikt til å yde Riksretten den bistand den begjærer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "content": "Om Stortingets ansvarskommisjon gjelder reglene i kapittel 3.\nNår beslutning om tiltale for Riksrett er fattet, antar Stortinget en eller flere anklagere til å føre saken.\nStortingets president sender utskrift av tiltalebeslutningen til Regjeringen og til Høyesteretts formann, og underretter denne om at Riksrett er besluttet nedsatt og om valget av anklager eller anklagere. Som president i Riksretten sørger Høyesteretts formann for at tiltalebeslutningen uten ophold blir forkynt for den anklagede. Forkynnelsen utføres ved notarius publicus. Dog kan skriftlig erkjennelse fra den anklagede tre istedenfor sådan forkynnelse. Ved forkynnelsen gjøres den anklagede bekjent med bestemmelsene i denne lovs § 15.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "content": "Så snart Stortinget har fattet beslutning om tiltale for Riksrett, kan den eller de anklagede kreve opnevnt en forsvarer som de selv utpeker. Er det flere anklagere, kan et tilsvarende antall forsvarere kreves opnevnt.\nOpnevnelsen foretas av Riksrettens president. Finner han det rimelig, kan han efter begjæring opnevne særskilte forsvarere for en enkelt eller enkelte av flere anklagede. Blir en begjæring om opnevnelse av flere forsvarere ikke tatt tilfølge, kan avgjørelsen prøves av Riksretten.\nBlir begjæring om opnevnelse av forsvarer ikke fremsatt innen to uker fra forkynnelsen av tiltalebeslutningen, opnevner presidenten i alle tilfelle forsvarer.\nPresidenten underretter den anklagede og anklageren om oppnevnelsen.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "2:16",
+      "chapter": "2",
+      "section": "16",
+      "content": "Når forsvarer er oppnevnt, sender Riksrettens president i rekommandert brev en fortegnelse over Høyesteretts medlemmer og de av Stortinget valgte medlemmer til anklageren, den anklagede og forsvareren. Samtidig berammer han rettsmøte i saken. Han utferdiger innkallelse til den anklagede med et varsel av minst to uker og sørger for at innkallelsen blir forkynt. Om forkynnelsesmåten gjelder bestemmelsen i § 14 tredje ledd.\nPresidenten underretter anklageren og forsvareren om berammelsen og innkaller til rettsmøte.\n0 Endret ved lover 9 jan 1998 nr. 5, 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "2:17",
+      "chapter": "2",
+      "section": "17",
+      "content": "Når Riksretten er trådt sammen, avgir de av Stortinget valgte medlemmer skriftlig dommerforsikring etter reglene i domstolloven § 60, for så vidt de ikke tidligere har avgitt slik forsikring. Om forsikringens innhold gjelder de samme regler som for utnevnte dommere. Det personale som tjenestegjør ved retten, avgir skriftlig forsikring etter reglene i domstolloven § 141 om at de vil bevare taushet om forhandlinger som besluttes holdt hemmelig.\nDerefter retter presidenten spørsmål til rettens medlemmer, anklageren, den anklagede og forsvareren, om der for nogen dommer antas å foreligge nogen ugildhetsgrunn, idet presidenten samtidig uttrykkelig gjør opmerksom på, at domstolslovens § 111 også gjelder for Riksretten. Anklageren og forsvareren får i tilfelle adgang til å uttale sig hver to ganger før spørsmålet om ugildhet blir avgjort. Den anklagede har adgang til å uttale sig ved siden av forsvareren.\n0 Endret ved lover 7 apr 1995 nr. 15 (ikr. 7 apr 1995 iflg. res. 7 apr 1995 nr. 286), 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "2:18",
+      "chapter": "2",
+      "section": "18",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "2:19",
+      "chapter": "2",
+      "section": "19",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lov 20 juni 2003 nr. 45 (i kraft 1 juli 2003 iflg. res. 20 juni 2003 nr. 712), opphevet ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "2:20",
+      "chapter": "2",
+      "section": "20",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "2:21",
+      "chapter": "2",
+      "section": "21",
+      "content": "Når retten har fått sin lovlige sammensetning, gir anklageren en kort fremstilling av saken og en kort oversikt over de bevis som vil bli ført og hvad dermed aktes godtgjort.\nEfterat forsvareren har fått ordet til en tilsvarende fremstilling og bevisoversikt, avhøres den anklagede såfremt han er villig til å avgi forklaring.\nAvhøringen ledes av Riksrettens president eller, når han har forfall eller bestemmer det, av den eldste høiesterettsdommer. Anklageren og forsvareren kan stille spørsmål direkte til den anklagede, når presidenten tillater det.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "2:22",
+      "chapter": "2",
+      "section": "22",
+      "content": "Efterat den anklagede er avhørt, foregår bevisførselen. Anklageren og forsvareren er forpliktet til i tide å forevise hinannen de dokumenter, som de under prosedyren akter å benytte og intet dokument må av anklageren fremlegges i retten, som ikke er forsynt med forsvarerens forevisningspåtegning. Det samme gjelder forsvareren eller den anklagede. Har tiden ikke vært tilstrekkelig til å forberede bevisførselen, kan retten av denne grunn utsette saken i så lang tid som finnes påkrevet.\nNår vidner avhøres for den samlede rett, ledes avhøringen av Riksrettens president eller, når han bestemmer det, av den eldste høiesterettsdommer. Det samme gjelder om avhøringen av sakkyndige. Det kan overlates til anklageren og forsvareren helt eller delvis å foreta avhøringen.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "2:23",
+      "chapter": "2",
+      "section": "23",
+      "content": "Når bevisførselen er tilendebragt, kan retten efter begjæring utsette saken i så lang tid som finnes nødvendig for at anklageren og forsvareren kan forberede sine fremstillinger til retten.\nAnklageren får ordet først og nedlegger påstand. Derefter får forsvareren ordet og nedlegger sin påstand.\nAnklageren og forsvareren har rett til å få ordet to ganger hver. Den anklagede, eller om det er flere anklagede enhver av dem, kan uttale sig hver gang forsvareren har hatt ordet. Er det flere anklagere og forsvarere, kan hver av dem ta ordet to ganger.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "2:24",
+      "chapter": "2",
+      "section": "24",
+      "content": "Når retten finner at saken er ferdig til å pådømmes, erklærer Riksrettens president forhandlingen sluttet og saken optatt til doms.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "2:25",
+      "chapter": "2",
+      "section": "25",
+      "content": "Medlemmene av den dømmende rett trer uten ophold sammen til rådslagning og votering for lukkede dører.\nVoteringen begynner senest den 6te virkedag efterat saken er optatt til doms. Når voteringen er påbegynt, må den ikke avbrytes, før dommen er avsagt. Høiesteretts dommere, undtagen Riksrettens president, voterer først. Efterat de av Stortinget valgte medlemmer har votert, avgir presidenten sitt votum. Rekkefølgen i voteringen bestemmes for øvrig ved loddtrekning.\nUnder voteringen skal hvert av rettens medlemmer gi en fullstendig begrunnelse av den domsslutning han foreslår, dog således at en senere voterende helt eller delvis kan henvise til det som er uttalt i et tidligere votum.\nDommen avleses av Riksrettens president for åpne dører.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "2:26",
+      "chapter": "2",
+      "section": "26",
+      "content": "I forbindelse med domsavsigelsen fastsetter retten den godtgjørelse som tilkommer anklageren, forsvareren og særskilt oppnevnte protokollførere. Godtgjørelsen utredes av statskassen. Har Høyesteretts direktør eller noen av Høyesteretts protokollsekretærer tjenestegjort som protokollfører ved Riksretten, kan han tilstås godtgjørelse i den utstrekning retten finner rimelig.\nBlir den anklagede dømt eller retten finner at den anklagedes forhold ikke har vært rettmessig efter forfatningen, kan det ved dommen pålegges ham å betale erstatning til statskassen for omkostningene ved saken. Omkostningsansvaret skal i så fall fastsettes til et beløp som avpasses efter den domfeltes skyld og økonomiske evne.\n0 Endret ved lov 28 apr 2000 nr. 34 (ikr. 1 juli 2000 iflg. res. 28 apr 2000 nr. 366).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "2:27",
+      "chapter": "2",
+      "section": "27",
+      "content": "Når Riksrettens dom avsies, offentliggjøres voteringen enten ved oplesning i retten eller på annen måte som retten bestemmer. Samtidig offentliggjøres de voteringer som ligger til grunn for avgjørelser der er truffet under sakens gang, dersom disse voteringer ikke tidligere er offentliggjort eller efter beslutning av retten skal være hemmelige.\nEr nogen del av Riksrettens forhandlinger eller voteringer besluttet å skulle være hemmelige, kan det senere av Stortinget bestemmes om, når og i hvilken utstrekning de kan offentliggjøres.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "2:28",
+      "chapter": "2",
+      "section": "28",
+      "content": "Når saken således er tilendebragt, utferdiges avskrift av dommen, som underskrives av Riksrettens president og paraferes av dens sekretær. Hvis Stortinget er samlet, når dommen faller, blir denne domsavskrift først å tilstille Stortingets president, for å opleses i Stortinget, hvorefter den forsynes med publikasjonspåtegning av Stortingets president og sendes tilbake til Riksrettspresidenten, som derefter sender den til Regjeringen med anmodning om dennes foranstaltning i henseende til dommens fullbyrdelse. Er Stortinget ikke samlet, sender Riksrettens president, efter å ha underrettet Stortingets president, domsavskriften direkte til Regjeringen med sådan anmodning som nevnt.\nSakens dokumenter og rettsboken i saken opbevares i Stortingets arkiv.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "2:29",
+      "chapter": "2",
+      "section": "29",
+      "content": "Om fullbyrdelse av en av Riksretten avsagt dom gjelder forskriftene i den almindelige lovgivning om fullbyrdelse av dommer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "3:30",
+      "chapter": "3",
+      "section": "30",
+      "content": "Når Stortinget ber om det, iverksetter Stortingets ansvarskommisjon undersøkelser for å klarlegge om det er grunnlag for å ta ut tiltale for Riksrett i henhold til Grunnloven § 86.\nAnsvarskommisjonen skal ha 5 medlemmer som velges av Stortinget for en periode på inntil 6 år etter innstilling fra Stortingets presidentskap. Hvis særlige grunner tilsier det, kan Stortinget velge stedfortreder for medlem av kommisjonen i en enkelt sak, eller løse et medlem fra vervet og foreta nytt valg for den resterende del av perioden.\nStortinget kan fastsette nærmere regler om kommisjonens sammensetning, arbeidsmåte og administrasjon. For øvrig bestemmer kommisjonen selv sin arbeidsmåte, og antar den bistand den finner nødvendig. Kommisjonen kan ikke instrueres om sin utøving av myndighet.\n0 Endret ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "3:31",
+      "chapter": "3",
+      "section": "31",
+      "content": "Ansvarskommisjonen gir en vurdering av om den mener det er grunnlag for å gjøre konstitusjonelt ansvar gjeldende mot noen og rapporterer til Stortinget. Rapporten skal være offentlig, med mindre særlige hensyn tilsier at den helt eller delvis bør være taushetsbelagt.\n0 Tilføyd ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "3:32",
+      "chapter": "3",
+      "section": "32",
+      "content": "Så snart Stortinget har besluttet å be ansvarskommisjonen iverksette undersøkelser, har den som undersøkelsene er rettet mot krav på å få oppnevnt offentlig forsvarer. Oppnevnelsen foretas av kommisjonens leder. Den som undersøkelsene er rettet mot har for øvrig de samme rettigheter som en som etterforskes i medhold av straffeprosessloven.\n0 Tilføyd ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "3:33",
+      "chapter": "3",
+      "section": "33",
+      "content": "Ansvarskommisjonen kan iverksette slike etterforskningsskritt som etter straffeprosessloven kan besluttes av politi eller påtalemyndighet.\nEnhver plikter etter innkalling å møte for kommisjonen. Kommisjonen eller en som handler på vegne av den, kan foreta avhør etter reglene om politiavhør. Etter reglene i straffeprosessloven kan kommisjonen sette frem begjæring for tingretten om gransking, bruk av tvangsmidler eller om bevisopptak, og kommisjonen kan søke bistand hos sakkyndige. Kommisjonen kan anmode politiet om å utføre nærmere angitte etterforskningsskritt.\n§ 10 tredje ledd annet punktum om godtgjørelse til vitner gjelder tilsvarende for den som etterkommer pålegg om å møte for kommisjonen.\n0 Tilføyd ved lov 30 mars 2007 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    }
+  ]
+}

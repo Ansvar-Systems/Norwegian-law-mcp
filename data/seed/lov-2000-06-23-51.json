@@ -1,0 +1,75 @@
+{
+  "id": "LOV-2000-06-23-51",
+  "type": "statute",
+  "title": "Lov om lønnsnemndbehandling av arbeidstvisten mellom Det norske maskinistforbund og Kommunenes Sentralforbund i forbindelse med tariffrevisjonen per 1. mai 2000.",
+  "short_name": "Lov om lønnsnemnd, maskinistene/KS",
+  "status": "in_force",
+  "issued_date": "2000-06-23",
+  "in_force_date": "2000-06-23",
+  "url": "https://lovdata.no/dokument/NLO/lov/2000-06-23-51",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom Det norske maskinistforbund og Kommunenes Sentralforbund i forbindelse med tariffrevisjonen per 1. mai 2000 skal avgjøres av Rikslønnsnemnda.\nReglene i lov av 19. desember 1952 nr. 7 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans eller blokade til løsning av tvisten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven her trer i kraft straks.\nLoven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse i tvisten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom Det norske maskinistforbund og Kommunenes Sentralforbund i forbindelse med tariffrevisjonen per 1. mai 2000 skal avgjøres av Rikslønnsnemnda.\nReglene i lov av 19. desember 1952 nr. 7 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans eller blokade til løsning av tvisten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven her trer i kraft straks.\nLoven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse i tvisten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

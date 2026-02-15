@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1982-10-18-62",
+  "type": "statute",
+  "title": "Lov nr. 62 om lønnsnemndhandsaming av tvisten mellom Operatøransattes Forbund (OAF) og Norsk Arbeidsgiverforening (NAF) i samband med revisjonen av tariffavtalen pr. 1. april 1982.",
+  "short_name": "Lov om lønnsnemnd for operatøransatte.",
+  "status": "in_force",
+  "issued_date": "1982-10-18",
+  "in_force_date": "1982-10-18",
+  "url": "https://lovdata.no/dokument/NLO/lov/1982-10-18-62",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom Norsk Arbeidsgiverforening, Norske Operatørselskapers Arbeidsgiverforening og de i foreningen stående operatørselskaper på den ene side og Operatøransattes Forbund og vedkommende avdelinger av forbundet på den annen side i forbindelse med revisjon av tariffavtalen pr. 1. april 1982 skal avgjøres av Rikslønnsnemnda.\nDet er forbudt å iverksette eller opprettholde arbeidsstans eller blokade til løsning av tvisten.\nReglene i lov 19. desember 1952 nr. 7 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven her trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom Norsk Arbeidsgiverforening, Norske Operatørselskapers Arbeidsgiverforening og de i foreningen stående operatørselskaper på den ene side og Operatøransattes Forbund og vedkommende avdelinger av forbundet på den annen side i forbindelse med revisjon av tariffavtalen pr. 1. april 1982 skal avgjøres av Rikslønnsnemnda.\nDet er forbudt å iverksette eller opprettholde arbeidsstans eller blokade til løsning av tvisten.\nReglene i lov 19. desember 1952 nr. 7 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven her trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

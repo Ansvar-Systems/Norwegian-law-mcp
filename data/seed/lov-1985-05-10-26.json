@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1985-05-10-26",
+  "type": "statute",
+  "title": "Lov til vern om vitskaplege stillingtitlar.",
+  "short_name": "Lov om vitskaplege stillingtitlar.",
+  "status": "in_force",
+  "issued_date": "1985-05-10",
+  "in_force_date": "1985-05-10",
+  "url": "https://lovdata.no/dokument/NLO/lov/1985-05-10-26",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen kan i føresegn fastsetja at visse titlar skal vera berre for vitskaplege stillingar på statlege høgre undervisnings- og forskningsinstitusjonar.\nDen som med vilje eller i aktløyse brukar ein slik tittel, åleine eller som del av ein tittel, i strid med føresegn etter første leden blir straffa med bøter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen​1 kan gjeva andre institusjonar som driv undervisning og forsking løyve til å bruke tittel som er verna med heimel i § 1. Det er eit vilkår for slikt løyve at institusjonane fagleg er på høgd med dei statlege, og at omdømingi av kvalifikasjonane i all hovudsak er den same.\n1 Kulturdepartementet iflg res 10 april 1987 nr 236.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lovi tek til å gjelda med det same.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen kan i føresegn fastsetja at visse titlar skal vera berre for vitskaplege stillingar på statlege høgre undervisnings- og forskningsinstitusjonar.\nDen som med vilje eller i aktløyse brukar ein slik tittel, åleine eller som del av ein tittel, i strid med føresegn etter første leden blir straffa med bøter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen​1 kan gjeva andre institusjonar som driv undervisning og forsking løyve til å bruke tittel som er verna med heimel i § 1. Det er eit vilkår for slikt løyve at institusjonane fagleg er på høgd med dei statlege, og at omdømingi av kvalifikasjonane i all hovudsak er den same.\n1 Kulturdepartementet iflg res 10 april 1987 nr 236.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lovi tek til å gjelda med det same.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

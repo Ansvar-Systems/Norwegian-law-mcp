@@ -1,0 +1,103 @@
+{
+  "id": "LOV-2021-05-21-39",
+  "type": "statute",
+  "title": "Midlertidig lov om forvaltning av personell i Forsvaret for å avhjelpe konsekvenser av covid-19",
+  "short_name": "Midl. lov om forvaltning av personell i Forsvaret, covid-19",
+  "status": "in_force",
+  "issued_date": "2021-05-21",
+  "in_force_date": "2021-05-21",
+  "url": "https://lovdata.no/dokument/NLO/lov/2021-05-21-39",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Formål og virkeområde",
+      "content": "Lovens formål er å sikre at Forsvarets operative evne, beredskap og styrkeproduksjon opprettholdes gjennom covid-19-pandemien.\nLoven gjelder på norsk territorium og på norske skip og luftfartøy.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Myndighet til å endre arbeidsoppgaver, ansvar og arbeidssted for sivilt tilsatte",
+      "content": "Forsvaret kan endre arbeidsoppgavene, ansvaret og arbeidsstedet for sine sivilt tilsatte dersom det kan dokumenteres at dette på grunn av utbruddet av covid-19 er strengt nødvendig for å opprettholde Forsvarets operative evne, beredskap og styrkeproduksjon.\nI vurderingen av om sivilt tilsatte skal pålegges endringer i arbeidsoppgaver, ansvar eller arbeidssted, skal den enkeltes personlige forhold vektlegges.\nMyndigheten til å pålegge endringer etter første ledd kan ikke delegeres lenger ned enn nivå to i Forsvarets organisasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Tiltak for å forebygge smittsomme sykdommer",
+      "content": "Forsvaret kan overfor sivilt tilsatte, militært tilsatte og andre tjenestepliktige som er innkalt til tjeneste, gjennomføre tiltak som er strengt nødvendige for å forebygge smittsomme sykdommer i den hensikt å opprettholde Forsvarets operative evne, beredskap og styrkeproduksjon. Slike tiltak kan omfatte å innføre restriksjoner i reise- og bevegelsesfriheten, og de kan gjelde både i og utenfor arbeidstid.\nMyndigheten til å gjennomføre tiltak etter første ledd kan ikke delegeres lenger ned enn nivå to i Forsvarets organisasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Ikrafttredelse og opphevelse",
+      "content": "Loven trer i kraft straks og oppheves 10. november 2021.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Formål og virkeområde",
+      "content": "Lovens formål er å sikre at Forsvarets operative evne, beredskap og styrkeproduksjon opprettholdes gjennom covid-19-pandemien.\nLoven gjelder på norsk territorium og på norske skip og luftfartøy.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Myndighet til å endre arbeidsoppgaver, ansvar og arbeidssted for sivilt tilsatte",
+      "content": "Forsvaret kan endre arbeidsoppgavene, ansvaret og arbeidsstedet for sine sivilt tilsatte dersom det kan dokumenteres at dette på grunn av utbruddet av covid-19 er strengt nødvendig for å opprettholde Forsvarets operative evne, beredskap og styrkeproduksjon.\nI vurderingen av om sivilt tilsatte skal pålegges endringer i arbeidsoppgaver, ansvar eller arbeidssted, skal den enkeltes personlige forhold vektlegges.\nMyndigheten til å pålegge endringer etter første ledd kan ikke delegeres lenger ned enn nivå to i Forsvarets organisasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Tiltak for å forebygge smittsomme sykdommer",
+      "content": "Forsvaret kan overfor sivilt tilsatte, militært tilsatte og andre tjenestepliktige som er innkalt til tjeneste, gjennomføre tiltak som er strengt nødvendige for å forebygge smittsomme sykdommer i den hensikt å opprettholde Forsvarets operative evne, beredskap og styrkeproduksjon. Slike tiltak kan omfatte å innføre restriksjoner i reise- og bevegelsesfriheten, og de kan gjelde både i og utenfor arbeidstid.\nMyndigheten til å gjennomføre tiltak etter første ledd kan ikke delegeres lenger ned enn nivå to i Forsvarets organisasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Ikrafttredelse og opphevelse",
+      "content": "Loven trer i kraft straks og oppheves 10. november 2021.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

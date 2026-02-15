@@ -1,0 +1,257 @@
+{
+  "id": "LOV-2020-06-19-83",
+  "type": "statute",
+  "title": "Midlertidig lov om innreiserestriksjoner for utlendinger av hensyn til folkehelsen",
+  "short_name": "Innreiserestriksjonsloven",
+  "status": "in_force",
+  "issued_date": "2020-06-19",
+  "in_force_date": "2020-07-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/2020-06-19-83",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Lovens formål og virkeområde",
+      "content": "Formålet med loven er å begrense retten til innreise for utlendinger som ellers vil ha lovlig adgang til innreise etter utlendingsloven, når det er nødvendig for å trygge folkehelsen ved utbrudd av den allmennfarlige smittsomme sykdommen covid-19.\nLoven gjelder ikke for norske statsborgere. Loven gjelder heller ikke statsborgere fra et annet nordisk land som er bosatt i Norge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Innreise til Norge og bortvisning",
+      "content": "Utlendinger har bare rett til innreise dersom\na. utlendingen er bosatt i Norge med oppholdstillatelse eller oppholdsrett etter utlendingsloven\nb. utlendingen søker beskyttelse i riket (asyl) eller på annen måte påberoper en rett til internasjonal beskyttelse på grunn av fare ved forfølgelse mv., jf. utlendingsloven § 73\nc. utlendingens tilstedeværelse i riket er strengt nødvendig for å kunne opprettholde forsvarlig drift av kritiske samfunnsfunksjoner eller ivareta befolkningens grunnleggende behov\nd. utlendingen er gitt oppholdstillatelse uten utsatt innreise, jf. § 3, og omfattes av unntak fra innreiserestriksjoner i loven eller forskrift gitt i medhold av loven på tidspunktet for innreise\ne. utlendingen er gitt innreisevisum etter utlendingsloven § 12, og omfattes av unntak fra innreiserestriksjoner i loven eller forskrift gitt i medhold av loven på tidspunktet for innreise\nf. utlendingen har visum og omfattes av unntak fra innreiserestriksjoner i loven eller forskrift gitt i medhold av loven på tidspunktet for innreise.\nI andre tilfeller kan en utlending gis rett til innreise dersom særlige grunner tilsier det, slik som særskilt omsorgsansvar for personer i Norge eller andre sterke velferdshensyn.\nEn utlending som kommer til eller har reist inn i riket i strid med denne loven eller forskrift gitt i medhold av denne loven, kan bortvises. Tilsvarende gjelder dersom konkrete holdepunkter tilsier at det er klar sannsynlighetsovervekt for at en utlending som ikke omfattes av første ledd bokstav a eller b, forsettlig har begått eller vil begå alvorlige brudd på krav om gjennomføring av innreisekarantene etter covid-19-forskriften. Utlendinger som bortvises, skal forlate riket uten ugrunnet opphold.\nKongen kan gi forskrift om bortvisning, unntak fra innreiserestriksjoner og krav om registrering og test for SARS-CoV-2 i forbindelse med innreise til Norge. Kongen kan gi forskrift om bruk av koronasertifikat som dokumentasjon på vaksinasjonsstatus, gjennomgått covid-19 og testresultat for SARS-CoV-2, herunder bestemmelser om at koronasertifikat er eneste aksepterte dokumentasjon når det anses nødvendig med effektiv og sikker verifikasjon.\n0 Endret ved lover 30 okt 2020 nr. 120, 22 jan 2021 nr. 3, 28 mai 2021 nr. 45, 11 juni 2021 nr. 66 (ikr. 11 juni 2021 iflg. res. 11 juni 2021 nr. 1857).\n1 Loven må leses i sammenheng med forskrift om innreiserestriksjoner for utlendinger av hensyn til folkehelsen § 1. Denne bestemmelsen innebærer at det fra 26. november 2021 er åpnet for innreise for alle utlendinger som har rett til innreise etter utlendingslovens alminnelige regler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Utsatt innreise for utlendinger med oppholdstillatelse",
+      "content": "For utlendinger som gis oppholdstillatelse i medhold av utlendingsloven, kan adgangen til innreise utsettes inntil videre.\nUtstedelse av innreisevisum, jf. utlendingsloven § 12 og utlendingsforskriften § 3-13 første ledd, til visumpliktig utlending som er gitt oppholdstillatelse, kan utsettes inntil videre. Utstedelse av innreisevisum kan også utsettes dersom tillatelsen vurderes tilbakekalt.\nUtlendinger som omfattes av unntak i § 2 første ledd bokstav c eller annet ledd, eller av unntak gitt i medhold av loven, skal likevel gis adgang til innreise uten utsettelse. Kongen kan i forskrift gi nærmere regler om innreise for utlendinger med oppholdstillatelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Ansvar for utgifter mv.",
+      "content": "For utlendinger som i medhold av loven føres ut av riket gjelder utlendingsloven § 91 første ledd om betaling av utgifter til egen utreise tilsvarende.\nTransportøransvaret etter utlendingsloven § 91 tredje ledd gjelder tilsvarende for vedtak om bortvisning etter loven her.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Unntak fra andre regler",
+      "content": "Forvaltningsloven kapittel IV og V gjelder ikke for vedtak om bortvisning etter loven her. Reglene om saksbehandling i utlendingsloven kapittel 11 og utlendingsforskriften kapittel 17 gjelder bare så langt de lar seg forene med en forenklet og rask behandling av vedtak om bortvisning. Vedtak etter loven § 3 om utsatt innreise for utlending som gis oppholdstillatelse, kan ikke påklages.\nReglene om fritt rettsråd i utlendingsloven § 92 første ledd gjelder ikke for vedtak om bortvisning etter loven her.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Forenklet saksbehandling for vedtak, begrunnelse, vedtaksmyndighet og klage",
+      "content": "Vedtak om bortvisning skal være skriftlig. Begrunnelsen kan være kort og standardisert. Begrunnelsen skal angi reglene som vedtaket bygger på. Det skal gis opplysning om klagerett etter fjerde ledd.\nVedtak kan være muntlig hvis avgjørelsen haster eller skriftlighet av andre grunner ikke er praktisk mulig. Når vedtaket ikke er skriftlig, skal det gis opplysninger som nevnt i første ledd. Vedtaksorganet skal bekrefte vedtaket og dets begrunnelse skriftlig hvis parten ber om det.\nVedtak treffes av Utlendingsdirektoratet eller politiet. Justis- og beredskapsdepartementet kan gi vedtakskompetanse til annen myndighet. Utlendingsdirektoratet kan gi nærmere retningslinjer om vedtaksmyndighet.\nVedtak om bortvisning kan påklages til Utlendingsdirektoratet, eller til Utlendingsnemnda hvis Utlendingsdirektoratet har truffet vedtak i første instans, etter reglene i forvaltningsloven kapittel VI. Forvaltningsloven § 42 om utsatt iverksetting gjelder ikke.\nKongen kan i forskrift gi nærmere regler om saksbehandlingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Utvisning",
+      "content": "En utlending uten oppholdstillatelse kan utvises etter utlendingsloven § 66 første ledd bokstav a når utlendingen grovt eller gjentatte ganger har overtrådt innreiserestriksjonene i §§ 2 eller 3, unndrar seg gjennomføringen av et vedtak som innebærer at vedkommende skal forlate riket, eller har gitt vesentlig uriktige eller åpenbart villedende opplysninger i forbindelse med innreisekontroll eller senere behandling av spørsmålet om innreiseadgang etter loven her.\n0 Endret ved lov 30 okt 2020 nr. 120.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Tvangsmidler",
+      "content": "Reglene om bruk av tvangsmidler i utlendingsloven kapittel 12 gjelder tilsvarende som ved bortvisning etter utlendingsloven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Straff",
+      "content": "Med bot eller med fengsel inntil seks måneder eller med begge deler straffes den som\na. overtrer innreiserestriksjonene i § 2 eller 3, eller\nb. gir vesentlig uriktige eller åpenbart villedende opplysninger i forbindelse med innreisekontroll eller senere behandling av spørsmålet om innreiseadgang etter loven her.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Ikrafttredelse og overgangsbestemmelser",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer. Kongen kan gi overgangsbestemmelser.\nLoven oppheves 1. mai 2022.\n0 Endret ved lover 30 okt 2020 nr. 120, 28 mai 2021 nr. 45, 26 nov 2021 nr. 142.\n1 Fra 1 juli 2020 iflg. vedtak 29 juni 2020 nr. 1412.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "Endringer i andre lover",
+      "content": "I lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her skal § 18 tredje ledd nytt annet punktum lyde: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Lovens formål og virkeområde",
+      "content": "Formålet med loven er å begrense retten til innreise for utlendinger som ellers vil ha lovlig adgang til innreise etter utlendingsloven, når det er nødvendig for å trygge folkehelsen ved utbrudd av den allmennfarlige smittsomme sykdommen covid-19.\nLoven gjelder ikke for norske statsborgere. Loven gjelder heller ikke statsborgere fra et annet nordisk land som er bosatt i Norge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Innreise til Norge og bortvisning",
+      "content": "Utlendinger har bare rett til innreise dersom\na. utlendingen er bosatt i Norge med oppholdstillatelse eller oppholdsrett etter utlendingsloven\nb. utlendingen søker beskyttelse i riket (asyl) eller på annen måte påberoper en rett til internasjonal beskyttelse på grunn av fare ved forfølgelse mv., jf. utlendingsloven § 73\nc. utlendingens tilstedeværelse i riket er strengt nødvendig for å kunne opprettholde forsvarlig drift av kritiske samfunnsfunksjoner eller ivareta befolkningens grunnleggende behov\nd. utlendingen er gitt oppholdstillatelse uten utsatt innreise, jf. § 3, og omfattes av unntak fra innreiserestriksjoner i loven eller forskrift gitt i medhold av loven på tidspunktet for innreise\ne. utlendingen er gitt innreisevisum etter utlendingsloven § 12, og omfattes av unntak fra innreiserestriksjoner i loven eller forskrift gitt i medhold av loven på tidspunktet for innreise\nf. utlendingen har visum og omfattes av unntak fra innreiserestriksjoner i loven eller forskrift gitt i medhold av loven på tidspunktet for innreise.\nI andre tilfeller kan en utlending gis rett til innreise dersom særlige grunner tilsier det, slik som særskilt omsorgsansvar for personer i Norge eller andre sterke velferdshensyn.\nEn utlending som kommer til eller har reist inn i riket i strid med denne loven eller forskrift gitt i medhold av denne loven, kan bortvises. Tilsvarende gjelder dersom konkrete holdepunkter tilsier at det er klar sannsynlighetsovervekt for at en utlending som ikke omfattes av første ledd bokstav a eller b, forsettlig har begått eller vil begå alvorlige brudd på krav om gjennomføring av innreisekarantene etter covid-19-forskriften. Utlendinger som bortvises, skal forlate riket uten ugrunnet opphold.\nKongen kan gi forskrift om bortvisning, unntak fra innreiserestriksjoner og krav om registrering og test for SARS-CoV-2 i forbindelse med innreise til Norge. Kongen kan gi forskrift om bruk av koronasertifikat som dokumentasjon på vaksinasjonsstatus, gjennomgått covid-19 og testresultat for SARS-CoV-2, herunder bestemmelser om at koronasertifikat er eneste aksepterte dokumentasjon når det anses nødvendig med effektiv og sikker verifikasjon.\n0 Endret ved lover 30 okt 2020 nr. 120, 22 jan 2021 nr. 3, 28 mai 2021 nr. 45, 11 juni 2021 nr. 66 (ikr. 11 juni 2021 iflg. res. 11 juni 2021 nr. 1857).\n1 Loven må leses i sammenheng med forskrift om innreiserestriksjoner for utlendinger av hensyn til folkehelsen § 1. Denne bestemmelsen innebærer at det fra 26. november 2021 er åpnet for innreise for alle utlendinger som har rett til innreise etter utlendingslovens alminnelige regler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Utsatt innreise for utlendinger med oppholdstillatelse",
+      "content": "For utlendinger som gis oppholdstillatelse i medhold av utlendingsloven, kan adgangen til innreise utsettes inntil videre.\nUtstedelse av innreisevisum, jf. utlendingsloven § 12 og utlendingsforskriften § 3-13 første ledd, til visumpliktig utlending som er gitt oppholdstillatelse, kan utsettes inntil videre. Utstedelse av innreisevisum kan også utsettes dersom tillatelsen vurderes tilbakekalt.\nUtlendinger som omfattes av unntak i § 2 første ledd bokstav c eller annet ledd, eller av unntak gitt i medhold av loven, skal likevel gis adgang til innreise uten utsettelse. Kongen kan i forskrift gi nærmere regler om innreise for utlendinger med oppholdstillatelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Ansvar for utgifter mv.",
+      "content": "For utlendinger som i medhold av loven føres ut av riket gjelder utlendingsloven § 91 første ledd om betaling av utgifter til egen utreise tilsvarende.\nTransportøransvaret etter utlendingsloven § 91 tredje ledd gjelder tilsvarende for vedtak om bortvisning etter loven her.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Unntak fra andre regler",
+      "content": "Forvaltningsloven kapittel IV og V gjelder ikke for vedtak om bortvisning etter loven her. Reglene om saksbehandling i utlendingsloven kapittel 11 og utlendingsforskriften kapittel 17 gjelder bare så langt de lar seg forene med en forenklet og rask behandling av vedtak om bortvisning. Vedtak etter loven § 3 om utsatt innreise for utlending som gis oppholdstillatelse, kan ikke påklages.\nReglene om fritt rettsråd i utlendingsloven § 92 første ledd gjelder ikke for vedtak om bortvisning etter loven her.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Forenklet saksbehandling for vedtak, begrunnelse, vedtaksmyndighet og klage",
+      "content": "Vedtak om bortvisning skal være skriftlig. Begrunnelsen kan være kort og standardisert. Begrunnelsen skal angi reglene som vedtaket bygger på. Det skal gis opplysning om klagerett etter fjerde ledd.\nVedtak kan være muntlig hvis avgjørelsen haster eller skriftlighet av andre grunner ikke er praktisk mulig. Når vedtaket ikke er skriftlig, skal det gis opplysninger som nevnt i første ledd. Vedtaksorganet skal bekrefte vedtaket og dets begrunnelse skriftlig hvis parten ber om det.\nVedtak treffes av Utlendingsdirektoratet eller politiet. Justis- og beredskapsdepartementet kan gi vedtakskompetanse til annen myndighet. Utlendingsdirektoratet kan gi nærmere retningslinjer om vedtaksmyndighet.\nVedtak om bortvisning kan påklages til Utlendingsdirektoratet, eller til Utlendingsnemnda hvis Utlendingsdirektoratet har truffet vedtak i første instans, etter reglene i forvaltningsloven kapittel VI. Forvaltningsloven § 42 om utsatt iverksetting gjelder ikke.\nKongen kan i forskrift gi nærmere regler om saksbehandlingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Utvisning",
+      "content": "En utlending uten oppholdstillatelse kan utvises etter utlendingsloven § 66 første ledd bokstav a når utlendingen grovt eller gjentatte ganger har overtrådt innreiserestriksjonene i §§ 2 eller 3, unndrar seg gjennomføringen av et vedtak som innebærer at vedkommende skal forlate riket, eller har gitt vesentlig uriktige eller åpenbart villedende opplysninger i forbindelse med innreisekontroll eller senere behandling av spørsmålet om innreiseadgang etter loven her.\n0 Endret ved lov 30 okt 2020 nr. 120.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Tvangsmidler",
+      "content": "Reglene om bruk av tvangsmidler i utlendingsloven kapittel 12 gjelder tilsvarende som ved bortvisning etter utlendingsloven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Straff",
+      "content": "Med bot eller med fengsel inntil seks måneder eller med begge deler straffes den som\na. overtrer innreiserestriksjonene i § 2 eller 3, eller\nb. gir vesentlig uriktige eller åpenbart villedende opplysninger i forbindelse med innreisekontroll eller senere behandling av spørsmålet om innreiseadgang etter loven her.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Ikrafttredelse og overgangsbestemmelser",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer. Kongen kan gi overgangsbestemmelser.\nLoven oppheves 1. mai 2022.\n0 Endret ved lover 30 okt 2020 nr. 120, 28 mai 2021 nr. 45, 26 nov 2021 nr. 142.\n1 Fra 1 juli 2020 iflg. vedtak 29 juni 2020 nr. 1412.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "Endringer i andre lover",
+      "content": "I lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her skal § 18 tredje ledd nytt annet punktum lyde: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    }
+  ]
+}

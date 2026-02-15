@@ -1,0 +1,687 @@
+{
+  "id": "LOV-2016-06-17-29",
+  "type": "statute",
+  "title": "Lov om godkjenning av klageorganer for forbrukersaker (godkjenningsloven)",
+  "short_name": "Godkjenningsloven",
+  "status": "in_force",
+  "issued_date": "2016-06-17",
+  "in_force_date": "2016-07-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2016-06-17-29",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Virkeområde",
+      "content": "Loven gjelder klageorganer som behandler forbrukersaker, og som søker om godkjenning eller som er godkjent i medhold av denne loven. Loven §§ 23 og 26 gjelder Forbrukertilsynet.\nLoven § 25 gjelder også Forbrukertilsynet og klageorganer som er opprettet med hjemmel i annen lov og som tilfredsstiller kravene i direktiv 2013/11/EU om alternativ tvisteløsning i forbrukersaker.\nLoven gjelder ikke saker om\na. helsetjenester som ytes av helsepersonell, jf. helsepersonelloven § 3,\nb. offentlig tilbud om videregående eller høyere utdanning,\nc. ikke-økonomiske tjenester av allmenn interesse,\nd. kjøp og salg av fast eiendom.\nLoven gjelder for Svalbard og Jan Mayen i den utstrekning Kongen bestemmer. Kongen kan gjøre unntak fra loven og fastsette slike særlige regler som de stedlige forholdene tilsier.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjoner",
+      "content": "I loven menes med\na. forbruker: en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet,\nb. klageorgan: nemnd og meklingsorgan som definert i bokstav c og d,\nc. nemnd: kollegialt organ som gir rådgivende uttalelse eller treffer bindende avgjørelse,\nd. meklingsorgan: organ som bistår med å oppnå en minnelig løsning,\ne. forbrukersak: sak om vare- og tjenestekontrakter mellom næringsdrivende og forbruker,\nf. innmeldt klageorgan: klageorgan som etter § 25 er meldt til EFTA-statenes faste komité for oppføring på EU-kommisjonens liste over klageorganer som oppfyller kravene i direktiv 2013/11/EU om alternativ tvisteløsning i forbrukersaker.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "title": "Søknad om å bli godkjent som klageorgan mv.",
+      "content": "Et klageorgan kan godkjennes etter søknad dersom det oppfyller kravene i loven. Departementet er godkjenningsmyndighet.\nDepartementet kan i forskrift gi bestemmelser om hvilke opplysninger som skal gis i søknaden om godkjenning og om hvordan opplysningene skal gis.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Endringer av krav",
+      "content": "Dersom krav i eller gitt i medhold av denne loven endres, gjelder endringene også klageorganer som er godkjent. Det samme skal gjelde dersom nye krav gis i eller i medhold av denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Stiftelsesgrunnlag og vedtekter",
+      "content": "Klageorganet skal være etablert ved lov eller avtale mellom en eller flere bransjer og Forbrukerrådet eller en annen organisasjon som representerer forbrukerne på et bestemt saksområde.\nKlageorganet skal ha vedtekter. Departementet kan i forskrift gi bestemmelser om vedtektenes innhold.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Klageorganets saksområde. Beløpsgrenser",
+      "content": "Klageorganet skal ha et klart definert saksområde.\nKlageorganet kan fastsette at det bare skal behandle tvister om krav som overstiger en viss sum. Summen må ikke settes så høy at den i vesentlig grad svekker forbrukerens adgang til å få saker behandlet. Klageorganet kan også sette en øvre grense for tvistesummen.\nKlageorganet skal ikke behandle saker om inndrivelse av krav som klagerens motpart har erkjent.\nKlageorganet skal behandle saker mellom næringsdrivende etablert i Norge og forbruker bosatt i Norge eller i andre EØS-stater.\nKlageorganet skal behandle klage fra forbruker som har et reelt behov for å få avgjort kravet mot den næringsdrivende. Klageorganet kan gi næringsdrivende klageadgang på tilsvarende vilkår.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Klagefrist. Gebyr",
+      "content": "Klageorganet kan fastsette frist for å bringe saker inn for klageorganet. Fristen kan ikke settes kortere enn ett år etter at klageren har inngitt skriftlig klage til motparten.\nKlageorganet kan kreve saksbehandlingsgebyr. For forbrukere kan gebyret bare utgjøre et mindre beløp.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Krav til leder, nemndmedlemmer, meklere og saksbehandlere",
+      "content": "Ledere, nemndmedlemmer, meklere og saksbehandlere i klageorganet skal ved ansettelsen eller oppnevnelsen opplyse om ethvert forhold som kan påvirke deres upartiskhet. Personer nevnt i første punktum skal ikke være underlagt instrukser fra partene eller deres representanter, og ansettelsen eller oppnevnelsen skal være av en slik varighet at kravet til upartiskhet sikres. Godtgjørelse skal være uavhengig av resultatet i saken.\nDepartementet kan i forskrift gi bestemmelser om krav til kompetanse og upartiskhet for klageorganers ledere, nemndmedlemmer, meklere og saksbehandlere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Klageorganets rapporterings- og opplysningsplikt",
+      "content": "Klageorganet plikter til enhver tid å gi departementet de opplysningene som departementet krever for å kunne ivareta sin godkjenningsmyndighet. Klageorganet skal uten unødig opphold opplyse departementet om endringer i forhold til hva som ble opplyst i søknaden om godkjenning.\nKlageorganet skal utarbeide årsrapport. Departementet kan i forskrift gi bestemmelser om rapportens innhold, formidling til departementet og offentliggjøring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Tilbakekallelse av godkjenning",
+      "content": "Godkjente klageorganer skal følge kravene i eller gitt i medhold av loven for å opprettholde godkjenningen.\nFinner departementet at klageorganets virksomhet ikke lenger oppfyller kravene i loven, skal klageorganet gis en frist på tre måneder til å rette forholdet. Blir forholdet ikke rettet innen fristen, skal departementet tilbakekalle godkjenningen.\nEt klageorgan som får godkjenningen tilbakekalt, skal straks informere partene i saker som er til behandling om tilbakekallelsen og hvilke virkninger den får for deres sak. Klageorganet skal informere partene om muligheten til å trekke saken og om adgangen til å få saken behandlet av Forbrukertilsynet etter reglene i forbrukerklageloven. Informasjonen skal gis skriftlig.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Upartiskhet, habilitet og taushetsplikt",
+      "content": "Klageorganet skal opptre upartisk.\nForvaltningslovens regler om habilitet og taushetsplikt får anvendelse for leder, nemndmedlemmer, meklere og andre saksbehandlere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Klagen",
+      "content": "Klageorganet skal legge til rette for at forbrukeren kan inngi klage både elektronisk og på papir. Etter anmodning skal klageorganet gi forbrukeren bistand med å sette opp klagen.\nKlageorganet skal kunne motta og behandle klager gjennom EUs nettbaserte klageportal i henhold til kravene i forordning om nettbasert tvisteløsning i forbrukersaker, jf. § 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Bistand fra tredjepart",
+      "content": "Klagebehandling skal tilbys også i de tilfeller partene får juridisk bistand av en tredjepart. Klageorganet skal informere partene om dette før klagebehandlingen begynner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Avvisning",
+      "content": "Klageorganet kan avvise en sak dersom\na. klageren ikke har forsøkt å løse saken direkte med motparten,\nb. klagen er useriøs eller grunnløs,\nc. saken er under behandling eller har blitt behandlet av et innmeldt klageorgan, eller av domstol,\nd. tvistesummen er under eller over fastsatt grense, jf. § 6 annet ledd,\ne. fristen for å klage er oversittet, jf. § 7 første ledd,\nf. saken ikke lar seg behandle uten at dette i særlig grad går utover klageorganets effektivitet.\nVedtak om avvisning skal være begrunnet. Vedtaket skal meddeles partene innen tre uker fra klageorganet mottok klagen, eller fra det tidspunkt klageorganet mottok nødvendig dokumentasjon for å kunne ta stilling til om saken kan avvises.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Utveksling av informasjon",
+      "content": "Klageorganet skal oversende partene klagen, saksdokumenter, argumenter, bevis og fakta som den andre parten har framlagt, samt eventuelle erklæringer og uttalelser fra sakkyndige. Partene skal samtidig gis anledning til å uttale seg om faktiske og rettslige sider ved saken. Klageorganet skal sette rimelige frister for uttalelser og sluttbemerkninger.\nKlageorganet skal sørge for at partene kan utveksle informasjon om saken elektronisk eller per post.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Saksbehandlingsfrist og krav til begrunnelse",
+      "content": "Klageorganet skal informere partene så snart det har mottatt nødvendige og relevante dokumenter fra begge parter og saksbehandlingen kan begynne. Resultatet av klagebehandlingen skal gjøres tilgjengelig for partene innen 90 dager fra dette tidspunktet. I særlig komplekse saker kan fristen forlenges. Partene skal informeres om forlengelsen og om ny frist.\nPartene skal informeres skriftlig eller på varig medium om resultatet og begrunnelsen. Med varig medium menes enhver innretning som gjør partene i stand til å lagre opplysninger på en slik måte at opplysningene i fremtiden er tilgjengelig i uendret form.\nDer klagebehandlingen er organisert slik at en eller begge parter skal akseptere eller avvise en foreslått løsning, skal klageorganet gi partene rimelig betenkningstid for å vurdere resultatet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Informasjon om klagebehandling",
+      "content": "Der klagebehandlingen er organisert slik at en eller begge parter skal akseptere eller avvise en foreslått løsning, skal partene informeres om:\na. at muligheten til å fremme søksmål ved domstolene ikke bortfaller ved bruk av klageorganets tilbud om klagebehandling,\nb. at klageorganets løsning kan avvike fra domstolsavgjørelse,\nc. at de kan velge om de vil følge klageorganets løsning,\nd. rettsvirkningen av å akseptere eller følge klageorganets løsning.\nDepartementet kan i forskrift gi bestemmelser om klageorganets plikt til å informere om klagebehandlingen, og om på hvilken måte informasjonen skal gis.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Organisering",
+      "content": "Nemnda skal ha et sekretariat som skal veilede partene og bidra til å finne en minnelig løsning i samsvar med gjeldende rett og nemndas praksis, og utføre saksforberedelse for nemnda. Sekretariatet kan gi en vurdering av saken på bakgrunn av vedtak om tilsvarende saker.\nDepartementet kan i forskrift gi utfyllende bestemmelser om organisering av nemnda, herunder om sekretariat og styre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Partenes adgang til å trekke saken fra nemndsbehandling mv.",
+      "content": "Hver av partene skal på ethvert stadium gis adgang til å trekke saken fra klagebehandlingen i nemnd som treffer rådgivende uttalelser.\nDersom den næringsdrivende er rettslig forpliktet til å delta i nemndsbehandlingen, skal kun forbrukeren gis adgang til å trekke saken.\nPartene skal informeres om sin adgang til å trekke saken før klagebehandlingen begynner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Saksbehandling i nemndmøter",
+      "content": "Nemndas saksbehandling skal være skriftlig. Saken skal behandles i møte for lukkede dører.\nNemnda skal behandle saken på grunnlag av de opplysningene som er fremkommet under saksforberedelsen. Dersom motparten ikke har kommet med uttalelse, kan nemnda avgjøre saken på grunnlag av saksfremstillingen i klagen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Avgjørelser",
+      "content": "Nemnda skal ha et likt antall medlemmer fra næringen og fra Forbrukerrådet eller medlemmer oppnevnt av Forbrukerrådet eller en annen organisasjon som representerer forbrukerne på et bestemt saksområde. Nemnda er beslutningsdyktig når minst to medlemmer og leder er til stede. Avgjørelse skal treffes ved alminnelig flertall. Ved stemmelikhet skal nemndas leder ha dobbeltstemme.\nNemndas avgjørelse skal begrunnes. I begrunnelsen skal det fremgå om avgjørelsen er enstemmig. Det skal opplyses om partstilhørigheten til medlemmene som eventuelt dissenterer. Mindretallets syn skal også begrunnes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Delegering av avgjørelsesmyndighet",
+      "content": "Nemnda kan beslutte at nemndas leder eller sekretariat kan treffe avgjørelse om å avvise saker, samt treffe realitetsavgjørelse der det foreligger fast praksis eller prinsipiell avgjørelse fra nemnda i tilsvarende saker.\nAvgjørelse truffet av nemndas leder eller sekretariat kan klages inn for nemnda. Partene skal informeres om klageadgangen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Bistand til forbruker ved handel over landegrensene",
+      "content": "Forbrukertilsynet skal bistå forbrukere i å få kontakt med et innmeldt klageorgan i en annen EØS-stat i saker mellom forbruker og næringsdrivende ved handel over landegrenser.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285, tidligere § 25).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Forholdet til de alminnelige domstolene",
+      "content": "Så lenge en sak er til behandling i innmeldt klageorgan, kan en part ikke bringe saken inn for de alminnelige domstolene. En sak anses for å være til behandling fra det tidspunktet klageorganet mottok klagen.\nOm en part bringer en sak som er til behandling hos de alminnelige domstolene inn for et innmeldt klageorgan, kan domstolen stanse saken etter begjæring av vedkommende part. Reglene i tvisteloven § 16-15, § 16-18 tredje og fjerde ledd og § 16-19 gjelder tilsvarende. Ved rettens avgjørelse av om saken skal stanses, skal det legges vekt på om det er rimelig å stanse saken i påvente av klageorganets avgjørelse når hensyn tas til tidsbruken og kostnadene som vil påløpe for partene ved stansing.\nEn sak som har vært behandlet i en innmeldt nemnd, kan bringes inn for tingretten uten forutgående behandling i forliksrådet.\n0 Endret ved lover 17 feb 2017 nr. 7 (ikr. 1 mars 2017 iflg. res. 17 feb 2017 nr. 196), 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285, tidligere § 26).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Innmelding til EU-kommisjonens liste over klageorganer",
+      "content": "Klageorganer som er godkjent etter loven her, skal meldes til EFTA-statenes faste komité for oppføring på EU-kommisjonens liste over klageorganer som oppfyller kravene i direktiv 2013/11/EU om alternativ tvisteløsning i forbrukersaker. Også Forbrukertilsynet og klageorganer som er opprettet med hjemmel i annen lov som tilfredsstiller kravene i direktivet, kan meldes inn.\nInnmeldingen etter første ledd foretas av departementet. Departementet skal på sine hjemmesider ha en lett tilgjengelig elektronisk lenke til EU-kommisjonens liste over klageorganer.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285, tidligere § 27).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285, tidligere § 28), opphevet ved lov 20 juni 2025 nr. 41 (i kraft 1 juli 2025 iflg. res. 20. juni 2025 nr. 1097).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Ikraftsettings- og overgangsregler",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.\nDepartementet kan gi nærmere overgangsregler.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285, tidligere § 29).\n1 Fra 1 juli 2016 med unntak av § 12 annet ledd, § 28 og ny § 10a tredje ledd i lov 9 jan 2009 nr. 2 om kontroll med markedsføring og avtalevilkår mv. iflg. res. 17 juni 2016 nr. 703. I kraft 25 aug 2017 for § 12 annet ledd, § 28 og ny § 10a tredje ledd i lov 9. januar 2009 nr. 2 om kontroll med markedsføring og avtalevilkår mv. iflg. res. 25 aug 2017 nr. 1287.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:28",
+      "chapter": "6",
+      "section": "28",
+      "title": "Endringer i andre lover",
+      "content": "– – –\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285, tidligere § 30).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Virkeområde",
+      "content": "Loven gjelder klageorganer som behandler forbrukersaker, og som søker om godkjenning eller som er godkjent i medhold av denne loven. Loven §§ 23 og 26 gjelder Forbrukertilsynet.\nLoven § 25 gjelder også Forbrukertilsynet og klageorganer som er opprettet med hjemmel i annen lov og som tilfredsstiller kravene i direktiv 2013/11/EU om alternativ tvisteløsning i forbrukersaker.\nLoven gjelder ikke saker om\na. helsetjenester som ytes av helsepersonell, jf. helsepersonelloven § 3,\nb. offentlig tilbud om videregående eller høyere utdanning,\nc. ikke-økonomiske tjenester av allmenn interesse,\nd. kjøp og salg av fast eiendom.\nLoven gjelder for Svalbard og Jan Mayen i den utstrekning Kongen bestemmer. Kongen kan gjøre unntak fra loven og fastsette slike særlige regler som de stedlige forholdene tilsier.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjoner",
+      "content": "I loven menes med\na. forbruker: en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet,\nb. klageorgan: nemnd og meklingsorgan som definert i bokstav c og d,\nc. nemnd: kollegialt organ som gir rådgivende uttalelse eller treffer bindende avgjørelse,\nd. meklingsorgan: organ som bistår med å oppnå en minnelig løsning,\ne. forbrukersak: sak om vare- og tjenestekontrakter mellom næringsdrivende og forbruker,\nf. innmeldt klageorgan: klageorgan som etter § 25 er meldt til EFTA-statenes faste komité for oppføring på EU-kommisjonens liste over klageorganer som oppfyller kravene i direktiv 2013/11/EU om alternativ tvisteløsning i forbrukersaker.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "title": "Søknad om å bli godkjent som klageorgan mv.",
+      "content": "Et klageorgan kan godkjennes etter søknad dersom det oppfyller kravene i loven. Departementet er godkjenningsmyndighet.\nDepartementet kan i forskrift gi bestemmelser om hvilke opplysninger som skal gis i søknaden om godkjenning og om hvordan opplysningene skal gis.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Endringer av krav",
+      "content": "Dersom krav i eller gitt i medhold av denne loven endres, gjelder endringene også klageorganer som er godkjent. Det samme skal gjelde dersom nye krav gis i eller i medhold av denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Stiftelsesgrunnlag og vedtekter",
+      "content": "Klageorganet skal være etablert ved lov eller avtale mellom en eller flere bransjer og Forbrukerrådet eller en annen organisasjon som representerer forbrukerne på et bestemt saksområde.\nKlageorganet skal ha vedtekter. Departementet kan i forskrift gi bestemmelser om vedtektenes innhold.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Klageorganets saksområde. Beløpsgrenser",
+      "content": "Klageorganet skal ha et klart definert saksområde.\nKlageorganet kan fastsette at det bare skal behandle tvister om krav som overstiger en viss sum. Summen må ikke settes så høy at den i vesentlig grad svekker forbrukerens adgang til å få saker behandlet. Klageorganet kan også sette en øvre grense for tvistesummen.\nKlageorganet skal ikke behandle saker om inndrivelse av krav som klagerens motpart har erkjent.\nKlageorganet skal behandle saker mellom næringsdrivende etablert i Norge og forbruker bosatt i Norge eller i andre EØS-stater.\nKlageorganet skal behandle klage fra forbruker som har et reelt behov for å få avgjort kravet mot den næringsdrivende. Klageorganet kan gi næringsdrivende klageadgang på tilsvarende vilkår.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Klagefrist. Gebyr",
+      "content": "Klageorganet kan fastsette frist for å bringe saker inn for klageorganet. Fristen kan ikke settes kortere enn ett år etter at klageren har inngitt skriftlig klage til motparten.\nKlageorganet kan kreve saksbehandlingsgebyr. For forbrukere kan gebyret bare utgjøre et mindre beløp.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Krav til leder, nemndmedlemmer, meklere og saksbehandlere",
+      "content": "Ledere, nemndmedlemmer, meklere og saksbehandlere i klageorganet skal ved ansettelsen eller oppnevnelsen opplyse om ethvert forhold som kan påvirke deres upartiskhet. Personer nevnt i første punktum skal ikke være underlagt instrukser fra partene eller deres representanter, og ansettelsen eller oppnevnelsen skal være av en slik varighet at kravet til upartiskhet sikres. Godtgjørelse skal være uavhengig av resultatet i saken.\nDepartementet kan i forskrift gi bestemmelser om krav til kompetanse og upartiskhet for klageorganers ledere, nemndmedlemmer, meklere og saksbehandlere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Klageorganets rapporterings- og opplysningsplikt",
+      "content": "Klageorganet plikter til enhver tid å gi departementet de opplysningene som departementet krever for å kunne ivareta sin godkjenningsmyndighet. Klageorganet skal uten unødig opphold opplyse departementet om endringer i forhold til hva som ble opplyst i søknaden om godkjenning.\nKlageorganet skal utarbeide årsrapport. Departementet kan i forskrift gi bestemmelser om rapportens innhold, formidling til departementet og offentliggjøring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Tilbakekallelse av godkjenning",
+      "content": "Godkjente klageorganer skal følge kravene i eller gitt i medhold av loven for å opprettholde godkjenningen.\nFinner departementet at klageorganets virksomhet ikke lenger oppfyller kravene i loven, skal klageorganet gis en frist på tre måneder til å rette forholdet. Blir forholdet ikke rettet innen fristen, skal departementet tilbakekalle godkjenningen.\nEt klageorgan som får godkjenningen tilbakekalt, skal straks informere partene i saker som er til behandling om tilbakekallelsen og hvilke virkninger den får for deres sak. Klageorganet skal informere partene om muligheten til å trekke saken og om adgangen til å få saken behandlet av Forbrukertilsynet etter reglene i forbrukerklageloven. Informasjonen skal gis skriftlig.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Upartiskhet, habilitet og taushetsplikt",
+      "content": "Klageorganet skal opptre upartisk.\nForvaltningslovens regler om habilitet og taushetsplikt får anvendelse for leder, nemndmedlemmer, meklere og andre saksbehandlere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Klagen",
+      "content": "Klageorganet skal legge til rette for at forbrukeren kan inngi klage både elektronisk og på papir. Etter anmodning skal klageorganet gi forbrukeren bistand med å sette opp klagen.\nKlageorganet skal kunne motta og behandle klager gjennom EUs nettbaserte klageportal i henhold til kravene i forordning om nettbasert tvisteløsning i forbrukersaker, jf. § 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Bistand fra tredjepart",
+      "content": "Klagebehandling skal tilbys også i de tilfeller partene får juridisk bistand av en tredjepart. Klageorganet skal informere partene om dette før klagebehandlingen begynner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Avvisning",
+      "content": "Klageorganet kan avvise en sak dersom\na. klageren ikke har forsøkt å løse saken direkte med motparten,\nb. klagen er useriøs eller grunnløs,\nc. saken er under behandling eller har blitt behandlet av et innmeldt klageorgan, eller av domstol,\nd. tvistesummen er under eller over fastsatt grense, jf. § 6 annet ledd,\ne. fristen for å klage er oversittet, jf. § 7 første ledd,\nf. saken ikke lar seg behandle uten at dette i særlig grad går utover klageorganets effektivitet.\nVedtak om avvisning skal være begrunnet. Vedtaket skal meddeles partene innen tre uker fra klageorganet mottok klagen, eller fra det tidspunkt klageorganet mottok nødvendig dokumentasjon for å kunne ta stilling til om saken kan avvises.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Utveksling av informasjon",
+      "content": "Klageorganet skal oversende partene klagen, saksdokumenter, argumenter, bevis og fakta som den andre parten har framlagt, samt eventuelle erklæringer og uttalelser fra sakkyndige. Partene skal samtidig gis anledning til å uttale seg om faktiske og rettslige sider ved saken. Klageorganet skal sette rimelige frister for uttalelser og sluttbemerkninger.\nKlageorganet skal sørge for at partene kan utveksle informasjon om saken elektronisk eller per post.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Saksbehandlingsfrist og krav til begrunnelse",
+      "content": "Klageorganet skal informere partene så snart det har mottatt nødvendige og relevante dokumenter fra begge parter og saksbehandlingen kan begynne. Resultatet av klagebehandlingen skal gjøres tilgjengelig for partene innen 90 dager fra dette tidspunktet. I særlig komplekse saker kan fristen forlenges. Partene skal informeres om forlengelsen og om ny frist.\nPartene skal informeres skriftlig eller på varig medium om resultatet og begrunnelsen. Med varig medium menes enhver innretning som gjør partene i stand til å lagre opplysninger på en slik måte at opplysningene i fremtiden er tilgjengelig i uendret form.\nDer klagebehandlingen er organisert slik at en eller begge parter skal akseptere eller avvise en foreslått løsning, skal klageorganet gi partene rimelig betenkningstid for å vurdere resultatet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Informasjon om klagebehandling",
+      "content": "Der klagebehandlingen er organisert slik at en eller begge parter skal akseptere eller avvise en foreslått løsning, skal partene informeres om:\na. at muligheten til å fremme søksmål ved domstolene ikke bortfaller ved bruk av klageorganets tilbud om klagebehandling,\nb. at klageorganets løsning kan avvike fra domstolsavgjørelse,\nc. at de kan velge om de vil følge klageorganets løsning,\nd. rettsvirkningen av å akseptere eller følge klageorganets løsning.\nDepartementet kan i forskrift gi bestemmelser om klageorganets plikt til å informere om klagebehandlingen, og om på hvilken måte informasjonen skal gis.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Organisering",
+      "content": "Nemnda skal ha et sekretariat som skal veilede partene og bidra til å finne en minnelig løsning i samsvar med gjeldende rett og nemndas praksis, og utføre saksforberedelse for nemnda. Sekretariatet kan gi en vurdering av saken på bakgrunn av vedtak om tilsvarende saker.\nDepartementet kan i forskrift gi utfyllende bestemmelser om organisering av nemnda, herunder om sekretariat og styre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Partenes adgang til å trekke saken fra nemndsbehandling mv.",
+      "content": "Hver av partene skal på ethvert stadium gis adgang til å trekke saken fra klagebehandlingen i nemnd som treffer rådgivende uttalelser.\nDersom den næringsdrivende er rettslig forpliktet til å delta i nemndsbehandlingen, skal kun forbrukeren gis adgang til å trekke saken.\nPartene skal informeres om sin adgang til å trekke saken før klagebehandlingen begynner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Saksbehandling i nemndmøter",
+      "content": "Nemndas saksbehandling skal være skriftlig. Saken skal behandles i møte for lukkede dører.\nNemnda skal behandle saken på grunnlag av de opplysningene som er fremkommet under saksforberedelsen. Dersom motparten ikke har kommet med uttalelse, kan nemnda avgjøre saken på grunnlag av saksfremstillingen i klagen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Avgjørelser",
+      "content": "Nemnda skal ha et likt antall medlemmer fra næringen og fra Forbrukerrådet eller medlemmer oppnevnt av Forbrukerrådet eller en annen organisasjon som representerer forbrukerne på et bestemt saksområde. Nemnda er beslutningsdyktig når minst to medlemmer og leder er til stede. Avgjørelse skal treffes ved alminnelig flertall. Ved stemmelikhet skal nemndas leder ha dobbeltstemme.\nNemndas avgjørelse skal begrunnes. I begrunnelsen skal det fremgå om avgjørelsen er enstemmig. Det skal opplyses om partstilhørigheten til medlemmene som eventuelt dissenterer. Mindretallets syn skal også begrunnes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Delegering av avgjørelsesmyndighet",
+      "content": "Nemnda kan beslutte at nemndas leder eller sekretariat kan treffe avgjørelse om å avvise saker, samt treffe realitetsavgjørelse der det foreligger fast praksis eller prinsipiell avgjørelse fra nemnda i tilsvarende saker.\nAvgjørelse truffet av nemndas leder eller sekretariat kan klages inn for nemnda. Partene skal informeres om klageadgangen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Bistand til forbruker ved handel over landegrensene",
+      "content": "Forbrukertilsynet skal bistå forbrukere i å få kontakt med et innmeldt klageorgan i en annen EØS-stat i saker mellom forbruker og næringsdrivende ved handel over landegrenser.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285, tidligere § 25).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Forholdet til de alminnelige domstolene",
+      "content": "Så lenge en sak er til behandling i innmeldt klageorgan, kan en part ikke bringe saken inn for de alminnelige domstolene. En sak anses for å være til behandling fra det tidspunktet klageorganet mottok klagen.\nOm en part bringer en sak som er til behandling hos de alminnelige domstolene inn for et innmeldt klageorgan, kan domstolen stanse saken etter begjæring av vedkommende part. Reglene i tvisteloven § 16-15, § 16-18 tredje og fjerde ledd og § 16-19 gjelder tilsvarende. Ved rettens avgjørelse av om saken skal stanses, skal det legges vekt på om det er rimelig å stanse saken i påvente av klageorganets avgjørelse når hensyn tas til tidsbruken og kostnadene som vil påløpe for partene ved stansing.\nEn sak som har vært behandlet i en innmeldt nemnd, kan bringes inn for tingretten uten forutgående behandling i forliksrådet.\n0 Endret ved lover 17 feb 2017 nr. 7 (ikr. 1 mars 2017 iflg. res. 17 feb 2017 nr. 196), 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285, tidligere § 26).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Innmelding til EU-kommisjonens liste over klageorganer",
+      "content": "Klageorganer som er godkjent etter loven her, skal meldes til EFTA-statenes faste komité for oppføring på EU-kommisjonens liste over klageorganer som oppfyller kravene i direktiv 2013/11/EU om alternativ tvisteløsning i forbrukersaker. Også Forbrukertilsynet og klageorganer som er opprettet med hjemmel i annen lov som tilfredsstiller kravene i direktivet, kan meldes inn.\nInnmeldingen etter første ledd foretas av departementet. Departementet skal på sine hjemmesider ha en lett tilgjengelig elektronisk lenke til EU-kommisjonens liste over klageorganer.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285, tidligere § 27).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285, tidligere § 28), opphevet ved lov 20 juni 2025 nr. 41 (i kraft 1 juli 2025 iflg. res. 20. juni 2025 nr. 1097).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Ikraftsettings- og overgangsregler",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.\nDepartementet kan gi nærmere overgangsregler.\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285, tidligere § 29).\n1 Fra 1 juli 2016 med unntak av § 12 annet ledd, § 28 og ny § 10a tredje ledd i lov 9 jan 2009 nr. 2 om kontroll med markedsføring og avtalevilkår mv. iflg. res. 17 juni 2016 nr. 703. I kraft 25 aug 2017 for § 12 annet ledd, § 28 og ny § 10a tredje ledd i lov 9. januar 2009 nr. 2 om kontroll med markedsføring og avtalevilkår mv. iflg. res. 25 aug 2017 nr. 1287.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:28",
+      "chapter": "6",
+      "section": "28",
+      "title": "Endringer i andre lover",
+      "content": "– – –\n0 Endret ved lov 23 juni 2020 nr. 98 (ikr. 1 jan 2021 iflg. res. 23 juni 2020 nr. 1285, tidligere § 30).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    }
+  ]
+}

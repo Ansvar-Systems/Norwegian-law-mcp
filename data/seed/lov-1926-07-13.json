@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1926-07-13",
+  "type": "statute",
+  "title": "Midlertidig lov om foranstaltninger til opprettholdelse eller regulering av kursen på norske kroner i fremmed mynt",
+  "short_name": "Midl. lov om norske kroner i fremmed mynt",
+  "status": "in_force",
+  "issued_date": "1926-07-13",
+  "in_force_date": "1926-07-13",
+  "url": "https://lovdata.no/dokument/NLO/lov/1926-07-13",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "For å oprettholde eller regulere kursen på den norske krone i forhold til utenlandsk mynt kan Kongen eller det departement han bemyndiger utferdige bestemmelser, som anses tjenlige til å hindre spekulasjon i den norske krone eller til å motvirke sådan spekulasjons innflytelse på kronens kurs, når det gjelder midler, der av norske banker eller andre firmaer (eller personer) direkte eller indirekte holdes for utenlandsk regning.\nForinnen sådanne bestemmelser som omhandlet i nærværende paragraf utferdiges, skal Norges Bank være gitt anledning til å uttale sig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den som overtrer bestemmelser utferdiget i henhold til denne lov eller medvirker hertil, straffes med bøter​1 eller med fengsel inntil 6 måneder.\n1 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "For å oprettholde eller regulere kursen på den norske krone i forhold til utenlandsk mynt kan Kongen eller det departement han bemyndiger utferdige bestemmelser, som anses tjenlige til å hindre spekulasjon i den norske krone eller til å motvirke sådan spekulasjons innflytelse på kronens kurs, når det gjelder midler, der av norske banker eller andre firmaer (eller personer) direkte eller indirekte holdes for utenlandsk regning.\nForinnen sådanne bestemmelser som omhandlet i nærværende paragraf utferdiges, skal Norges Bank være gitt anledning til å uttale sig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den som overtrer bestemmelser utferdiget i henhold til denne lov eller medvirker hertil, straffes med bøter​1 eller med fengsel inntil 6 måneder.\n1 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

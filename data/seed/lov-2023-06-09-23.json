@@ -1,0 +1,75 @@
+{
+  "id": "LOV-2023-06-09-23",
+  "type": "statute",
+  "title": "Lov om lønnsnemndbehandling av arbeidstvisten mellom Parat/YS og NHO Luftfart/NHO i forbindelse med tariffrevisjonen 2022",
+  "short_name": "Lov om lønnsnemndbehandling, Parat/YS og NHO Luftfart/NHO",
+  "status": "in_force",
+  "issued_date": "2023-06-09",
+  "in_force_date": "2023-06-09",
+  "url": "https://lovdata.no/dokument/NLO/lov/2023-06-09-23",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom Parat/YS på arbeidstakersiden og NHO Luftfart/NHO på arbeidsgiversiden i forbindelse med tariffrevisjonen 2022 skal avgjøres av Rikslønnsnemnda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans, jf. lov 27. januar 2012 nr. 9 om arbeidstvister (arbeidstvistloven) § 1 bokstav f. og g. for å løse tvisten.\nReglene i lov 27. januar 2012 nr. 10 om lønnsnemnd i arbeidstvister (lønnsnemndloven) får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks. Loven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse​1 i tvisten.\n1 Se Rikslønnsnemndas kjennelse 1/2023 avsagt 22. september 2023.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom Parat/YS på arbeidstakersiden og NHO Luftfart/NHO på arbeidsgiversiden i forbindelse med tariffrevisjonen 2022 skal avgjøres av Rikslønnsnemnda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans, jf. lov 27. januar 2012 nr. 9 om arbeidstvister (arbeidstvistloven) § 1 bokstav f. og g. for å løse tvisten.\nReglene i lov 27. januar 2012 nr. 10 om lønnsnemnd i arbeidstvister (lønnsnemndloven) får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks. Loven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse​1 i tvisten.\n1 Se Rikslønnsnemndas kjennelse 1/2023 avsagt 22. september 2023.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

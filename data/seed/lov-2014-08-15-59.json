@@ -1,0 +1,615 @@
+{
+  "id": "LOV-2014-08-15-59",
+  "type": "statute",
+  "title": "Lov om erstatning for naturskader (naturskadeerstatningsloven)",
+  "short_name": "Naturskadeerstatningsloven",
+  "status": "in_force",
+  "issued_date": "2014-08-15",
+  "in_force_date": "2017-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2014-08-15-59",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Den statlige erstatningsordningen for naturskader har til formål å yte erstatning etter en naturulykke slik at skadelidte kan fortsette sin virksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens virkeområde",
+      "content": "Det ytes erstatning etter denne loven for naturskade på fast eiendom og løsøre i Norge. For Svalbard, Jan Mayen og bilandene gjelder loven i det omfang og med de stedlige tilpasninger Kongen bestemmer.\nDet ytes ikke erstatning dersom det er adgang til å forsikre seg mot skaden ved en alminnelig forsikringsordning, eller dersom skadelidte faktisk får dekket skaden av en forsikring.\nLoven omfatter ikke skade som rammer avling på rot.\nLoven omfatter ikke stormskader på skog. Kongen kan i forskrift bestemme at slike skader likevel kan dekkes.\nLoven omfatter ikke petroleumsvirksomheten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Kretsen av erstatningsberettigede",
+      "content": "Eier av fast eiendom og løsøre har krav på erstatning etter denne loven.\nTomtefestere og andre rettighetshavere kan også kreve erstatning dersom de kan godtgjøre å ha den økonomiske interessen i og rådigheten over skadeobjektet. Dette gjelder også i de tilfellene hvor skaden er skjedd på eiendom som nevnt i tredje ledd.\nSkade på eiendom som tilhører staten, en kommune eller en fylkeskommune erstattes ikke. Det samme gjelder for eiendom som tilhører selskap, foretak eller stiftelse mv. som er dannet ved overføring av midler fra stat, kommune eller fylkeskommune, eller hvor noen av disse har en fremtredende økonomisk interesse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Erstatningsvilkår",
+      "content": "Erstatning ytes ved naturskade som direkte skyldes naturulykke, så som skred, storm, flom, stormflo, jordskjelv og vulkanutbrudd.\nI særlige tilfeller kan det ytes hel eller delvis erstatning for skader som er en nærliggende følge av naturulykken, selv om årsakskravet etter første ledd ikke er oppfylt.\nDet kan også ytes hel eller delvis erstatning for skade som direkte skyldes nedbør eller isgang når særlige forhold tilsier det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Grunnlag for erstatningsutmåling",
+      "content": "Erstatningen fastsettes på grunnlag av kostnaden ved nødvendige tiltak for å føre skadeobjektet tilbake til samme stand som rett før skadetidspunktet.\nDersom gjenopprettingskostnaden er vesentlig større enn bruksverdien eller gjenoppretting ikke kan skje av andre grunner, erstattes den verdiforringelse skaden har medført.\nTapt løsøre erstattes med gjenanskaffelsesverdien på skadetidspunktet.\nTil grunn for kostnadsvurderingen legges prisforholdene på skadetidspunktet.\nUtgifter til sikringstiltak erstattes ikke med mindre annet følger av denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Avkorting",
+      "content": "Erstatningen etter § 5 kan nedsettes eller etter omstendighetene helt nektes når:\na. skaden har rammet eiendom der gjenopprettingskostnaden overstiger bruksverdien,\nb. skadens inntreden eller omfang helt eller delvis skyldes svak konstruksjon sammenlignet med de påkjenninger eiendommen kan ventes å bli utsatt for, dårlig vedlikehold eller manglende tilsyn,\nc. den skadelidte kan lastes for ikke å ha forebygget skaden eller hindret skadens omfang,\nd. gjenopprettingen medfører en verdistigning på skadeobjektet.\nVed avgjørelse etter første ledd bokstav b og c skal det legges vekt på den skadelidtes forutsetninger for å innse hvilke krav som må stilles, skadelidtes mulighet for utbedring av mangelen og forholdene ellers. Avkorting skal ikke skje hvis den skadelidte bare er lite å legge til last.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Dekning av merkostnader",
+      "content": "Det kan etter søknad fra skadelidte ytes tilskudd til dekning av merkostnader når skaden utbedres på en slik måte at faren for naturskade minskes.\nKongen kan i forskrift fastsette vilkår og nærmere regler for dekning av merkostnader.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Redningsomkostninger",
+      "content": "Det kan ytes erstatning for rimelige og nødvendige utlegg som skadelidte har hatt for å avverge naturskaden eller for å begrense skadens omfang.\nKongen kan i forskrift fastsette vilkår og nærmere regler for dekning av redningsomkostninger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Egenandel og minsteutbetaling",
+      "content": "Ved erstatning for naturskade etter denne loven, skal det trekkes en egenandel fastsatt av Kongen. Kongen kan i forskrift gi regler om egenandel.\nKongen kan i forskrift gi regler om at dersom erstatningsbeløpet ikke overstiger et nærmere angitt beløp, skal det ikke utbetales erstatning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Reduksjon i erstatningene ved større naturulykker",
+      "content": "Hvis det etter en større naturulykke ikke bevilges tilstrekkelige midler til å dekke de krav som de skadelidte har etter lovens bestemmelser, kan erstatningen reduseres. Allerede fastsatte og ikke utbetalte erstatninger for skader som inntraff før ulykken, kan reduseres i samme grad. Det skal likevel tas hensyn til om dette vil være urimelig overfor skadelidte som har pådratt seg forpliktelser for å få skaden gjenopprettet. Det kan gjennomføres tilsvarende reduksjoner i erstatningene for skader som inntreffer senere i det løpende og det kommende budsjettåret. Vedtaket kan ikke påklages.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Ansvarlig myndighet",
+      "content": "Landbruksdirektoratet avgjør søknader om naturskadeerstatning etter denne loven.\n0 Endret ved lov 24 mai 2019 nr. 18 (ikr. 1 juli 2019 iflg. res. 24 mai 2019 nr. 673).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Innsending av søknad og søknadsfrist",
+      "content": "Søknad om erstatning rettes til Landbruksdirektoratet på fastsatt skjema innen tre måneder etter at skaden har skjedd. Er søknadsfristen oversittet, kan søknaden behandles dersom særlige grunner taler for det.\n0 Endret ved lov 24 mai 2019 nr. 18 (ikr. 1 juli 2019 iflg. res. 24 mai 2019 nr. 673).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Dokumentasjon og taksering",
+      "content": "Skadelidte skal gjennom søknaden dokumentere at det foreligger en naturskade og hvilke kostnader som er nødvendige for å gjenopprette skaden.\nLandbruksdirektoratet kan innhente takst når det anses nødvendig for å opplyse saken.\nKongen kan i forskrift gi nærmere regler om søknadens innhold og om taksering.\n0 Endret ved lov 24 mai 2019 nr. 18 (ikr. 1 juli 2019 iflg. res. 24 mai 2019 nr. 673).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Utbetaling og bruk av erstatningen",
+      "content": "Erstatning til gjenoppretting av skaden utbetales når skadelidte kan dokumentere at gjenoppretting er skjedd. Skadelidte kan etter søknad få utbetalt erstatningen til fri rådighet dersom det foreligger særlige grunner. Erstatningen bortfaller dersom gjenoppretting ikke er skjedd innen tre år etter at erstatningen ble endelig fastsatt. Landbruksdirektoratet kan etter søknad fra skadelidte forlenge fristen.\nDet kan utbetales forskudd på erstatningen etter søknad fra skadelidte. Utbetalingen kan gjøres betinget av at skadelidte dokumenterer at forskuddet skal anvendes i tråd med erstatningsvedtaket. Vedtak om forskudd kan ikke påklages.\nUtbetaling av erstatning til fri rådighet og erstatning etter § 5 andre og tredje ledd skjer straks vedtaket er fattet.\nKongen kan i forskrift gi nærmere bestemmelser om vilkår, dokumentasjon og kontroll for utbetaling av erstatningen.\n0 Endret ved lov 24 mai 2019 nr. 18 (ikr. 1 juli 2019 iflg. res. 24 mai 2019 nr. 673).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Tvist om hvem som har rett til erstatning",
+      "content": "Ved tvist om hvem som har rett til naturskadeerstatning, går eier foran fester og andre rettighetshavere. Dette gjelder ikke dersom fester eller rettighetshaver etter avtale eller rettskraftig avgjørelse har rett til å gjenopprette skaden.\nHar både eier og fester eller annen rettighetshaver rett til erstatning, kan rettighetshaverne ikke motsette seg at hele erstatningen utbetales til den som har gjenopprettet skaden.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Regress",
+      "content": "Dersom handlinger eller unnlatelser fra tredjeperson har bidratt til at skadeomfanget har blitt mer omfattende enn det ellers ville ha vært, går skadelidtes eventuelle erstatningskrav mot tredjepersonen over på staten i den utstrekning det utbetales erstatning etter denne loven.\nKongen kan i forskrift gi nærmere bestemmelser om behandlingen av krav etter første ledd, herunder bestemmelser om forhåndsvarsel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Tilbakebetaling",
+      "content": "Dersom en skadelidt har mottatt erstatning i strid med redelighet og god tro, kan beløpet kreves tilbakebetalt.\nFeilaktig utbetalt erstatning kan også kreves tilbakebetalt dersom skadelidte eller noen som har handlet på skadelidtes vegne, har gitt uriktige eller mangelfulle opplysninger, eller når skadelidte har fått dekket tapet på annen måte. Det samme gjelder dersom utbetalingen skyldes feil fra Landbruksdirektoratet eller annet organ som foretar utbetaling på vegne av Landbruksdirektoratet.\n0 Endret ved lov 24 mai 2019 nr. 18 (ikr. 1 juli 2019 iflg. res. 24 mai 2019 nr. 673).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Overdragelse og transport av erstatning",
+      "content": "Krav om erstatning etter denne lov kan ikke overdras uten samtykke fra Landbruksdirektoratet. Krav om erstatning kan ikke gjøres til gjenstand for utlegg, eller arrest, eller inndras i konkursbo eller insolvent dødsbo.\nErstatningsbeløpet kan transporteres til den som skal stå for gjenopprettingen av skaden.\n0 Endret ved lov 24 mai 2019 nr. 18 (ikr. 1 juli 2019 iflg. res. 24 mai 2019 nr. 673).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Forenklet saksbehandling ved store naturulykker",
+      "content": "Kongen kan i forskrift bestemme at reglene i §§ 13 og 14, og forskrifter gitt med hjemmel i disse, kan fravikes ved store naturulykker som har rammet et stort område og et stort antall personer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Klage",
+      "content": "Skadelidte kan klage over vedtak etter denne lov til Klagenemnda for naturskadesaker. Fristen for å klage er tre uker etter at vedtak om erstatning er mottatt. For øvrig gjelder bestemmelsene i forvaltningsloven kapittel VI med mindre annet følger av loven her.\nKrav om sakskostnader etter forvaltningsloven § 36 avgjøres av Landbruksdirektoratet. Avgjørelsen kan påklages til Klagenemnda for naturskadesaker.\nKongen er klageinstans for avgjørelser Landbruksdirektoratet tar om partsinnsyn etter forvaltningsloven kapittel V i saker etter loven her. Det samme gjelder for avgjørelser Landbruksdirektoratet tar etter offentleglova, dersom innsynskravet knytter seg til en sak etter loven her.\n0 Endret ved lov 24 mai 2019 nr. 18 (ikr. 1 juli 2019 iflg. res. 24 mai 2019 nr. 673).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Klagenemnda for naturskadesaker",
+      "content": "Klagenemnda for naturskadesaker skal bestå av fem medlemmer med personlige stedfortredere. Klagenemnda oppnevnes av Kongen for fem år av gangen. Klagenemnda skal bestå av to jurister og tre fagkyndige. Klagenemndas leder skal være jurist.\nKlagenemnda er et uavhengig forvaltningsorgan administrativt underordnet Kongen og departementet. Kongen eller departementet kan ikke gi instruks om eller omgjøre Klagenemndas utøving av myndighet i enkeltsaker.\nKongen kan i forskrift gi nærmere bestemmelser om Klagenemndas sammensetning og organisering.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Søksmålsadgang",
+      "content": "Søksmål kan ikke reises med mindre skadelidte har benyttet adgangen til å klage til Klagenemnda for naturskadesaker. Søksmål må reises innen tre måneder etter at skadelidte har mottatt nemndas vedtak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1\n1 Fra 1 jan 2017 iflg. res. 15 aug 2014 nr. 1084.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Overgangsbestemmelser",
+      "content": "Naturskader som er meldt inn til lensmann, namsfogd eller politistasjon med sivile rettspleieoppgaver før lovens ikrafttredelse, oversendes Landbruksdirektoratet for videre behandling. Reglene i lov 25. mars 1994 nr. 7 om sikring mot og erstatning for naturskader legges til grunn for erstatningsvedtaket så langt de passer. Dersom rettskraftig lensmannsskjønn foreligger, legges dette til grunn for erstatningsvedtaket.\nKlagesaker som ikke er behandlet før lovens ikrafttredelse, behandles av Klagenemnda for naturskadesaker. Klagenemnda skal legge reglene i lov 25. mars 1994 nr. 7 om sikring mot og erstatning for naturskader til grunn for sitt vedtak så langt de passer.\n0 Endret ved lov 24 mai 2019 nr. 18 (ikr. 1 juli 2019 iflg. res. 24 mai 2019 nr. 673).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Den statlige erstatningsordningen for naturskader har til formål å yte erstatning etter en naturulykke slik at skadelidte kan fortsette sin virksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens virkeområde",
+      "content": "Det ytes erstatning etter denne loven for naturskade på fast eiendom og løsøre i Norge. For Svalbard, Jan Mayen og bilandene gjelder loven i det omfang og med de stedlige tilpasninger Kongen bestemmer.\nDet ytes ikke erstatning dersom det er adgang til å forsikre seg mot skaden ved en alminnelig forsikringsordning, eller dersom skadelidte faktisk får dekket skaden av en forsikring.\nLoven omfatter ikke skade som rammer avling på rot.\nLoven omfatter ikke stormskader på skog. Kongen kan i forskrift bestemme at slike skader likevel kan dekkes.\nLoven omfatter ikke petroleumsvirksomheten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Kretsen av erstatningsberettigede",
+      "content": "Eier av fast eiendom og løsøre har krav på erstatning etter denne loven.\nTomtefestere og andre rettighetshavere kan også kreve erstatning dersom de kan godtgjøre å ha den økonomiske interessen i og rådigheten over skadeobjektet. Dette gjelder også i de tilfellene hvor skaden er skjedd på eiendom som nevnt i tredje ledd.\nSkade på eiendom som tilhører staten, en kommune eller en fylkeskommune erstattes ikke. Det samme gjelder for eiendom som tilhører selskap, foretak eller stiftelse mv. som er dannet ved overføring av midler fra stat, kommune eller fylkeskommune, eller hvor noen av disse har en fremtredende økonomisk interesse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Erstatningsvilkår",
+      "content": "Erstatning ytes ved naturskade som direkte skyldes naturulykke, så som skred, storm, flom, stormflo, jordskjelv og vulkanutbrudd.\nI særlige tilfeller kan det ytes hel eller delvis erstatning for skader som er en nærliggende følge av naturulykken, selv om årsakskravet etter første ledd ikke er oppfylt.\nDet kan også ytes hel eller delvis erstatning for skade som direkte skyldes nedbør eller isgang når særlige forhold tilsier det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Grunnlag for erstatningsutmåling",
+      "content": "Erstatningen fastsettes på grunnlag av kostnaden ved nødvendige tiltak for å føre skadeobjektet tilbake til samme stand som rett før skadetidspunktet.\nDersom gjenopprettingskostnaden er vesentlig større enn bruksverdien eller gjenoppretting ikke kan skje av andre grunner, erstattes den verdiforringelse skaden har medført.\nTapt løsøre erstattes med gjenanskaffelsesverdien på skadetidspunktet.\nTil grunn for kostnadsvurderingen legges prisforholdene på skadetidspunktet.\nUtgifter til sikringstiltak erstattes ikke med mindre annet følger av denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Avkorting",
+      "content": "Erstatningen etter § 5 kan nedsettes eller etter omstendighetene helt nektes når:\na. skaden har rammet eiendom der gjenopprettingskostnaden overstiger bruksverdien,\nb. skadens inntreden eller omfang helt eller delvis skyldes svak konstruksjon sammenlignet med de påkjenninger eiendommen kan ventes å bli utsatt for, dårlig vedlikehold eller manglende tilsyn,\nc. den skadelidte kan lastes for ikke å ha forebygget skaden eller hindret skadens omfang,\nd. gjenopprettingen medfører en verdistigning på skadeobjektet.\nVed avgjørelse etter første ledd bokstav b og c skal det legges vekt på den skadelidtes forutsetninger for å innse hvilke krav som må stilles, skadelidtes mulighet for utbedring av mangelen og forholdene ellers. Avkorting skal ikke skje hvis den skadelidte bare er lite å legge til last.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Dekning av merkostnader",
+      "content": "Det kan etter søknad fra skadelidte ytes tilskudd til dekning av merkostnader når skaden utbedres på en slik måte at faren for naturskade minskes.\nKongen kan i forskrift fastsette vilkår og nærmere regler for dekning av merkostnader.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Redningsomkostninger",
+      "content": "Det kan ytes erstatning for rimelige og nødvendige utlegg som skadelidte har hatt for å avverge naturskaden eller for å begrense skadens omfang.\nKongen kan i forskrift fastsette vilkår og nærmere regler for dekning av redningsomkostninger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Egenandel og minsteutbetaling",
+      "content": "Ved erstatning for naturskade etter denne loven, skal det trekkes en egenandel fastsatt av Kongen. Kongen kan i forskrift gi regler om egenandel.\nKongen kan i forskrift gi regler om at dersom erstatningsbeløpet ikke overstiger et nærmere angitt beløp, skal det ikke utbetales erstatning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Reduksjon i erstatningene ved større naturulykker",
+      "content": "Hvis det etter en større naturulykke ikke bevilges tilstrekkelige midler til å dekke de krav som de skadelidte har etter lovens bestemmelser, kan erstatningen reduseres. Allerede fastsatte og ikke utbetalte erstatninger for skader som inntraff før ulykken, kan reduseres i samme grad. Det skal likevel tas hensyn til om dette vil være urimelig overfor skadelidte som har pådratt seg forpliktelser for å få skaden gjenopprettet. Det kan gjennomføres tilsvarende reduksjoner i erstatningene for skader som inntreffer senere i det løpende og det kommende budsjettåret. Vedtaket kan ikke påklages.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Ansvarlig myndighet",
+      "content": "Landbruksdirektoratet avgjør søknader om naturskadeerstatning etter denne loven.\n0 Endret ved lov 24 mai 2019 nr. 18 (ikr. 1 juli 2019 iflg. res. 24 mai 2019 nr. 673).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Innsending av søknad og søknadsfrist",
+      "content": "Søknad om erstatning rettes til Landbruksdirektoratet på fastsatt skjema innen tre måneder etter at skaden har skjedd. Er søknadsfristen oversittet, kan søknaden behandles dersom særlige grunner taler for det.\n0 Endret ved lov 24 mai 2019 nr. 18 (ikr. 1 juli 2019 iflg. res. 24 mai 2019 nr. 673).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Dokumentasjon og taksering",
+      "content": "Skadelidte skal gjennom søknaden dokumentere at det foreligger en naturskade og hvilke kostnader som er nødvendige for å gjenopprette skaden.\nLandbruksdirektoratet kan innhente takst når det anses nødvendig for å opplyse saken.\nKongen kan i forskrift gi nærmere regler om søknadens innhold og om taksering.\n0 Endret ved lov 24 mai 2019 nr. 18 (ikr. 1 juli 2019 iflg. res. 24 mai 2019 nr. 673).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Utbetaling og bruk av erstatningen",
+      "content": "Erstatning til gjenoppretting av skaden utbetales når skadelidte kan dokumentere at gjenoppretting er skjedd. Skadelidte kan etter søknad få utbetalt erstatningen til fri rådighet dersom det foreligger særlige grunner. Erstatningen bortfaller dersom gjenoppretting ikke er skjedd innen tre år etter at erstatningen ble endelig fastsatt. Landbruksdirektoratet kan etter søknad fra skadelidte forlenge fristen.\nDet kan utbetales forskudd på erstatningen etter søknad fra skadelidte. Utbetalingen kan gjøres betinget av at skadelidte dokumenterer at forskuddet skal anvendes i tråd med erstatningsvedtaket. Vedtak om forskudd kan ikke påklages.\nUtbetaling av erstatning til fri rådighet og erstatning etter § 5 andre og tredje ledd skjer straks vedtaket er fattet.\nKongen kan i forskrift gi nærmere bestemmelser om vilkår, dokumentasjon og kontroll for utbetaling av erstatningen.\n0 Endret ved lov 24 mai 2019 nr. 18 (ikr. 1 juli 2019 iflg. res. 24 mai 2019 nr. 673).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Tvist om hvem som har rett til erstatning",
+      "content": "Ved tvist om hvem som har rett til naturskadeerstatning, går eier foran fester og andre rettighetshavere. Dette gjelder ikke dersom fester eller rettighetshaver etter avtale eller rettskraftig avgjørelse har rett til å gjenopprette skaden.\nHar både eier og fester eller annen rettighetshaver rett til erstatning, kan rettighetshaverne ikke motsette seg at hele erstatningen utbetales til den som har gjenopprettet skaden.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Regress",
+      "content": "Dersom handlinger eller unnlatelser fra tredjeperson har bidratt til at skadeomfanget har blitt mer omfattende enn det ellers ville ha vært, går skadelidtes eventuelle erstatningskrav mot tredjepersonen over på staten i den utstrekning det utbetales erstatning etter denne loven.\nKongen kan i forskrift gi nærmere bestemmelser om behandlingen av krav etter første ledd, herunder bestemmelser om forhåndsvarsel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Tilbakebetaling",
+      "content": "Dersom en skadelidt har mottatt erstatning i strid med redelighet og god tro, kan beløpet kreves tilbakebetalt.\nFeilaktig utbetalt erstatning kan også kreves tilbakebetalt dersom skadelidte eller noen som har handlet på skadelidtes vegne, har gitt uriktige eller mangelfulle opplysninger, eller når skadelidte har fått dekket tapet på annen måte. Det samme gjelder dersom utbetalingen skyldes feil fra Landbruksdirektoratet eller annet organ som foretar utbetaling på vegne av Landbruksdirektoratet.\n0 Endret ved lov 24 mai 2019 nr. 18 (ikr. 1 juli 2019 iflg. res. 24 mai 2019 nr. 673).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Overdragelse og transport av erstatning",
+      "content": "Krav om erstatning etter denne lov kan ikke overdras uten samtykke fra Landbruksdirektoratet. Krav om erstatning kan ikke gjøres til gjenstand for utlegg, eller arrest, eller inndras i konkursbo eller insolvent dødsbo.\nErstatningsbeløpet kan transporteres til den som skal stå for gjenopprettingen av skaden.\n0 Endret ved lov 24 mai 2019 nr. 18 (ikr. 1 juli 2019 iflg. res. 24 mai 2019 nr. 673).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Forenklet saksbehandling ved store naturulykker",
+      "content": "Kongen kan i forskrift bestemme at reglene i §§ 13 og 14, og forskrifter gitt med hjemmel i disse, kan fravikes ved store naturulykker som har rammet et stort område og et stort antall personer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Klage",
+      "content": "Skadelidte kan klage over vedtak etter denne lov til Klagenemnda for naturskadesaker. Fristen for å klage er tre uker etter at vedtak om erstatning er mottatt. For øvrig gjelder bestemmelsene i forvaltningsloven kapittel VI med mindre annet følger av loven her.\nKrav om sakskostnader etter forvaltningsloven § 36 avgjøres av Landbruksdirektoratet. Avgjørelsen kan påklages til Klagenemnda for naturskadesaker.\nKongen er klageinstans for avgjørelser Landbruksdirektoratet tar om partsinnsyn etter forvaltningsloven kapittel V i saker etter loven her. Det samme gjelder for avgjørelser Landbruksdirektoratet tar etter offentleglova, dersom innsynskravet knytter seg til en sak etter loven her.\n0 Endret ved lov 24 mai 2019 nr. 18 (ikr. 1 juli 2019 iflg. res. 24 mai 2019 nr. 673).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Klagenemnda for naturskadesaker",
+      "content": "Klagenemnda for naturskadesaker skal bestå av fem medlemmer med personlige stedfortredere. Klagenemnda oppnevnes av Kongen for fem år av gangen. Klagenemnda skal bestå av to jurister og tre fagkyndige. Klagenemndas leder skal være jurist.\nKlagenemnda er et uavhengig forvaltningsorgan administrativt underordnet Kongen og departementet. Kongen eller departementet kan ikke gi instruks om eller omgjøre Klagenemndas utøving av myndighet i enkeltsaker.\nKongen kan i forskrift gi nærmere bestemmelser om Klagenemndas sammensetning og organisering.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Søksmålsadgang",
+      "content": "Søksmål kan ikke reises med mindre skadelidte har benyttet adgangen til å klage til Klagenemnda for naturskadesaker. Søksmål må reises innen tre måneder etter at skadelidte har mottatt nemndas vedtak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1\n1 Fra 1 jan 2017 iflg. res. 15 aug 2014 nr. 1084.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Overgangsbestemmelser",
+      "content": "Naturskader som er meldt inn til lensmann, namsfogd eller politistasjon med sivile rettspleieoppgaver før lovens ikrafttredelse, oversendes Landbruksdirektoratet for videre behandling. Reglene i lov 25. mars 1994 nr. 7 om sikring mot og erstatning for naturskader legges til grunn for erstatningsvedtaket så langt de passer. Dersom rettskraftig lensmannsskjønn foreligger, legges dette til grunn for erstatningsvedtaket.\nKlagesaker som ikke er behandlet før lovens ikrafttredelse, behandles av Klagenemnda for naturskadesaker. Klagenemnda skal legge reglene i lov 25. mars 1994 nr. 7 om sikring mot og erstatning for naturskader til grunn for sitt vedtak så langt de passer.\n0 Endret ved lov 24 mai 2019 nr. 18 (ikr. 1 juli 2019 iflg. res. 24 mai 2019 nr. 673).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    }
+  ]
+}

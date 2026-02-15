@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1894-07-23-5",
+  "type": "statute",
+  "title": "Lov om Adgang til Deling af Bygdealmenninger.",
+  "short_name": "Lov om Deling af Bygdealmenninger.",
+  "status": "in_force",
+  "issued_date": "1894-07-23",
+  "in_force_date": "1894-07-23",
+  "url": "https://lovdata.no/dokument/NLO/lov/1894-07-23-5",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Naar Bygdealmenning har Eiere og Brugsberettigede i flere Herreder eller Sogne, kan Eierne fra et eller flere af disse i Fællesmøde, sammenkaldt efter Reglerne i § 27 i Lov om Skogvæsenet af 22de Juni 1863 af Bestyrelsesmedlemmerne for vedkommende Distrikt, beslutte Almenningen delt saaledes, at de til enkelt eller hvert enkelt Herred eller Sogn hørende Eiere og Brugsberettigede faar sin særskilte Almenning.\nDe særskilte Rettigheder, som maatte paahvile Almenningen, ligesom den Havne- eller Sæterret, som maatte tilkomme de Brugsberettigede, kan lades uberørt af Delingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Beslutning om saadan Deling blir ikke gyldig, uden at den stadfæstes af Kongen.\nNaar Kongen meddeler Tilladelse dertil, kan Delingen foregaa ved offentlig Foranstaltning. I saadant Tilfælde udføres den ved en af Kongen anordnet Kommission, sammensat paa samme Maade og med samme Myndighed som Kommissioner, der nedsættes til Udførelse af Storskifter, dog saa, at de nærmere Bestemmelser, der knyttes til den kongelige Tilladelse, blir at iagttage.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Kommissionens Godtgjørelse bestemmes af Kongen. Den udredes tilligemed Forretningens øvrige Omkostninger forskudsvis af Statskassen og blir senere at fordele paa de ved Delingen oprettede særskilte Almenningskasser i saadant Forhold, som af Kommissionen bestemmes.\n1 Paragrafens annet ledd er opphevet ved lov 14 aug 1918 nr. 4 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Naar Bygdealmenning har Eiere og Brugsberettigede i flere Herreder eller Sogne, kan Eierne fra et eller flere af disse i Fællesmøde, sammenkaldt efter Reglerne i § 27 i Lov om Skogvæsenet af 22de Juni 1863 af Bestyrelsesmedlemmerne for vedkommende Distrikt, beslutte Almenningen delt saaledes, at de til enkelt eller hvert enkelt Herred eller Sogn hørende Eiere og Brugsberettigede faar sin særskilte Almenning.\nDe særskilte Rettigheder, som maatte paahvile Almenningen, ligesom den Havne- eller Sæterret, som maatte tilkomme de Brugsberettigede, kan lades uberørt af Delingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Beslutning om saadan Deling blir ikke gyldig, uden at den stadfæstes af Kongen.\nNaar Kongen meddeler Tilladelse dertil, kan Delingen foregaa ved offentlig Foranstaltning. I saadant Tilfælde udføres den ved en af Kongen anordnet Kommission, sammensat paa samme Maade og med samme Myndighed som Kommissioner, der nedsættes til Udførelse af Storskifter, dog saa, at de nærmere Bestemmelser, der knyttes til den kongelige Tilladelse, blir at iagttage.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Kommissionens Godtgjørelse bestemmes af Kongen. Den udredes tilligemed Forretningens øvrige Omkostninger forskudsvis af Statskassen og blir senere at fordele paa de ved Delingen oprettede særskilte Almenningskasser i saadant Forhold, som af Kommissionen bestemmes.\n1 Paragrafens annet ledd er opphevet ved lov 14 aug 1918 nr. 4 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1935-05-31-2",
+  "type": "statute",
+  "title": "Lov om betalingsutjevning [betalingsutjevningsloven]",
+  "short_name": "Betalingsutjevningsloven",
+  "status": "in_force",
+  "issued_date": "1935-05-31",
+  "in_force_date": "1935-05-31",
+  "url": "https://lovdata.no/dokument/NL/lov/1935-05-31-2",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Hvis et fremmed land begrenser eller hindrer overføring av betalingsmidler til Norge, kan Finansdepartementet treffe de bestemmelser som finnes påkrevd for at norske tilgodehavender i vedkommende land kan få dekning ved utjevning i tilgodehavender i Norge.\nDersom det av fremmed land gjennem valutarestriksjoner legges hindringer i veien for det frie varebytte mellem dette land og Norge, kan Finansdepartementet bestemme at landets tilgodehavender i Norge bare kan anvendes til dekning av norske tilgodehavender i vedkommende land og treffe de bestemmelser som finnes påkrevd til gjennemføring herav.\n0 Endret ved lov 13 mai 1938 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Overtredelse av bestemmelser truffet i medhold av § 1 straffes med bøter eller fengsel i inntil 3 måneder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks. – – –.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Hvis et fremmed land begrenser eller hindrer overføring av betalingsmidler til Norge, kan Finansdepartementet treffe de bestemmelser som finnes påkrevd for at norske tilgodehavender i vedkommende land kan få dekning ved utjevning i tilgodehavender i Norge.\nDersom det av fremmed land gjennem valutarestriksjoner legges hindringer i veien for det frie varebytte mellem dette land og Norge, kan Finansdepartementet bestemme at landets tilgodehavender i Norge bare kan anvendes til dekning av norske tilgodehavender i vedkommende land og treffe de bestemmelser som finnes påkrevd til gjennemføring herav.\n0 Endret ved lov 13 mai 1938 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Overtredelse av bestemmelser truffet i medhold av § 1 straffes med bøter eller fengsel i inntil 3 måneder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks. – – –.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

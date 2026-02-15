@@ -1,0 +1,591 @@
+{
+  "id": "LOV-2005-06-17-103",
+  "type": "statute",
+  "title": "Lov om statens embets- og tjenestemenn.",
+  "short_name": "Embets- og tjenestemannsloven",
+  "status": "in_force",
+  "issued_date": "2005-06-17",
+  "in_force_date": "2006-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/2005-06-17-103",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens virkeområde",
+      "content": "(1) Denne lov gjelder arbeidstakere ansatt i statens tjeneste. Arbeidstakere betyr i denne lov embets- og tjenestemenn. Loven gjelder ikke statsråder, statssekretærer og politiske rådgivere.\n(2) Reglene i §§ 5 og 6 gjelder ikke for tjenestemenn som ansettes ved Stortinget, Riksrevisjonen, Sametinget eller hos Stortingets ombudsmenn.\n(3) Med embetsmann menes den som er utnevnt av Kongen og gitt bestalling som embetsmann, eller er konstituert av Kongen i et embete. Med tjenestemann menes enhver arbeidstaker i statens tjeneste som ikke er embetsmann.\n(4) Når det foreligger særlige grunner kan Kongen i forskrift bestemme at arbeidstakere nevnt i første ledd første punktum eller grupper av arbeidstakere ikke skal omfattes av loven. Kongen kan da i stedet fastsette særlige regler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Forbud mot gaver i tjenesten mv.",
+      "content": "(1) Ingen embets- eller tjenestemann må for seg eller andre motta gave, provisjon, tjeneste eller annen ytelse som er egnet til, eller av giveren er ment, å påvirke hans tjenestlige handlinger, eller som det er forbudt å motta etter bestemmelse i reglement for virksomheten.\n(2) Overtredelse kan medføre oppsigelse eller avskjed.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Reglementer",
+      "content": "(1) Bestemmelser som etter denne lov kan fastsettes ved reglement, gis av virksomheten. Forslag til nytt eller endret reglement skal alltid legges frem til uttalelse for de tjenestemannsorganisasjoner som har forhandlingsrett etter lov 18. juli 1958 nr. 2 om offentlige tjenestetvister. Godtar ikke disse tjenestemannsorganisasjonene virksomhetens forslag, fastsettes endelig reglement eller reglementsbestemmelse av Kongen.\n(2) Kongen fastsetter reglement for tjenesten ved regjeringens kontorer. Kongen kan i slikt reglement bestemme at uttalelsesretten etter § 6 tredje ledd kan legges til et kollegialt organ med representanter for arbeidsgiver og de forhandlingsberettigede tjenestemannsorganisasjonene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Kvalifikasjonsprinsippet",
+      "content": "(1) I ledig embete eller stilling skal den best kvalifiserte søker for den aktuelle stillingen eller det aktuelle embetet ansettes, med mindre noe annet er bestemt i lov eller i medhold av lov.\n(2) Ved vurderingen av hvem som er best kvalifisert, skal det i første rekke legges vekt på søkerens utdanning, yrkeserfaring og personlige skikkethet, sammenholdt med de kvalifikasjonskrav som er oppstilt i kunngjøringen av stillingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Kunngjøring av embeter og stillinger",
+      "content": "(1) Ledig embete eller stilling skal kunngjøres offentlig, om ikke annet er fastsatt i lov eller i medhold av lov eller i tariffavtale.\n(2) Konstitusjoner og midlertidige ansettelser inntil ett år kan unntas fra kravet om offentlig kunngjøring.\n(3) I reglement for virksomheten kan det fastsettes at stillinger som ikke er embeter og andre stillinger som ikke er lederstillinger kan kunngjøres bare internt i virksomheten dersom særlige forhold tilsier dette. Slikt unntak fra kravet om offentlig kunngjøring kan ikke fastsettes som alminnelig ordning. I virksomhet under omstilling kan slikt unntak likevel gjøres for en begrenset periode på inntil ett år. I reglement som omfatter utenrikstjenesten kan det fastsettes at ledig embete eller stilling bare kunngjøres internt eller i bestemte virksomheter, og at kunngjøring helt kan unnlates i særlige tilfeller.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Ansettelse",
+      "content": "(1) Kongen kan fastsette regler om hvem som skal utarbeide forslag til ansettelse og hvem som skal ha rett til uttalelse når embetsmann skal utnevnes eller konstitueres. Det samme gjelder når tjenestemann skal beskikkes fast eller midlertidig av Kongen.\n(2) Tjenestemann som er øverste leder av en virksomhet ansettes av Kongen, eller om Kongen fastsetter det, av et departement eller av et kollegialt styre for en virksomhet eller gruppe av virksomheter. Kongen kan fastsette regler om hvem som skal utarbeide forslag til ansettelse og hvem som skal ha rett til uttalelse, når et departement eller kollegialt styre skal ansette slik tjenestemann.\n(3) Andre tjenestemenn enn de som er nevnt i første og annet ledd ansettes av arbeidsgiver i den enkelte statlige virksomhet. Arbeidsgivers forslag til ansettelse skal forelegges de berørte tjenestemannsorganisasjoner som har forhandlingsrett etter lov 18. juli 1958 nr. 2 om offentlige tjenestetvister, eventuelt et nærmere bestemt utvalg av disse, til uttalelse før ansettelsesvedtak fattes. Nærmere regler om saksbehandlingen ved ansettelse og hvem som har rett til å uttale seg kan fastsettes i reglement.\n(4) Kongen kan i forskrift gi alminnelige retningslinjer om hvordan retten til ansettelse skal benyttes og fastsette særlige regler om saksbehandlingen ved ansettelse etter denne paragraf.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Adgang til konstitusjon m.m.",
+      "content": "(1) Embetsmann utnevnes fast i embete, men kan konstitueres når:\na. embetsmannen bare trengs for et begrenset tidsrom eller for å utføre et bestemt oppdrag,\nb. embetet ennå ikke er fast organisert, eller arbeidsområdet eller virkekretsen er planlagt endret,\nc. embetsmannen skal gjøre tjeneste i stedet for en annen (vikar).\n(2) I tilfeller som nevnt i første ledd bokstav b, kan Kongen, i stedet for å benytte konstitusjon, ta forbehold om at embetsmannen må finne seg i slike endringer i embetets arbeidsområde eller virkekrets som senere blir fastsatt.\n(3) Fylkesmenn kan utnevnes på åremål.\n(4) Arbeidsmiljøloven §§ 14-9, 14-10 og 14-11 gjelder ikke for embetsmenn.\n(5) Innleie kan ikke benyttes til embete. Arbeidsmiljøloven § 14-14 gjelder ikke for slik innleie.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Særregler om midlertidighet",
+      "content": "Kongen kan i forskrift fastsette nærmere regler om utnevning av embetsmenn i åremålsstilling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Plikt til å overta annen stilling",
+      "content": "(1) Embetsmenn ved regjeringens kontorer er forpliktet til å finne seg i omorganiseringer og endringer i ansvar og arbeidsoppgaver eller pålegg om å stå til rådighet for spesielle oppdrag.\n(2) Embetsmenn som ikke omfattes av hovedtariffavtalen i staten og som får sine lønns- og arbeidsvilkår fastsatt i særskilt kontrakt, er forpliktet til å finne seg i omplassering til andre arbeidsoppgaver eller pålegg om å stå til rådighet for spesielle oppdrag. Dette gjelder selv om vilkårene for avskjed etter § 12 første ledd bokstav a eller b ikke er til stede. Paragrafen her gjelder ikke embetsmenn som omfattes av Grunnloven § 22 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Opphør av konstitusjon",
+      "content": "Når en embetsmann er konstituert i embetet og grunnen til at konstitusjonsformen ble benyttet er falt bort, skal vedkommende pålegges å fratre embetet. Dersom embetsmannen er utnevnt i åremålsstilling, plikter vedkommende å fratre når åremålet er utløpt. Hvis konstitusjonen eller åremålsstillingen har vart mer enn ett år, skal vedkommende ha minst en måneds varsel. Hvis embetsmannen har vært konstituert av Kongen etter forutgående kunngjøring, kan vedkommende i stedet utnevnes uten ny kunngjøring. Embetsmann utnevnt i åremålsstilling kan ikke utnevnes i embetet uten ny kunngjøring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Suspensjon",
+      "content": "(1) Dersom tjenestens tarv krever det, kan en embetsmann med øyeblikkelig virkning fjernes midlertidig fra sin stilling (suspenderes) når det er grunn til å anta at vedkommende har gjort seg skyldig i adferd som kan føre til avskjed etter § 12 første ledd bokstav c eller d. Foreligger ikke lenger slik grunn, skal suspensjonen straks oppheves. En suspensjon skal også oppheves om innledet straffeforfølgning innstilles eller avskjedssak for domstolene trekkes tilbake.\n(2) Suspensjon skal videre oppheves om vedtak om avskjed ikke er truffet innen seks måneder. Dersom det er reist tiltale for adferd som kan begrunne avskjed etter § 12 første ledd bokstav c eller d, eller kan medføre tjenestens tap som straff, eller det er reist sivilt søksmål til fradømmelse av stillingen etter straffelovens ikrafttredelseslov § 10, kan suspensjonen forlenges med inntil seks måneder om gangen til saken er endelig avgjort. Suspensjonen kan også forlenges med inntil seks måneder om gangen hvis embetsmannen har en særlig betrodd stilling og det ville virke skadelig for tjenesten om vedkommende gjenopptok arbeidet før avgjørelse er truffet, eller vedkommende kan forspille bevis som trengs ved avgjørelse av avskjedssaken.\n(3) Dersom det er truffet vedtak om suspensjon, skal avskjedssaken fremmes uten unødig opphold.\n(4) I stedet for suspensjon kan embetsmenn ved regjeringens kontorer, i Forsvaret eller utenrikstjenesten midlertidig overføres til annen, mindre betrodd tjeneste. For slik overføring gjelder de samme regler som for suspensjon.\n(5) Inntil det foreligger avskjedsvedtak, har en suspendert embetsmann krav på stillingens lønn. I embetsmannens lønn kan det gjøres fradrag for inntekt vedkommende måtte få ved å ta annet arbeid i suspensjonstiden.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Avskjed",
+      "content": "(1) Embetsmann kan avskjediges når vedkommende\na. på grunn av sykdom er varig uskikket til forsvarlig å utføre sin tjeneste,\nb. ikke lenger har de kvalifikasjoner som er nødvendige eller foreskrevet for stillingen, eller av andre grunner er varig uskikket for stillingen,\nc. har vist grov uforstand i tjenesten eller grovt har krenket sine tjenesteplikter eller trass i skriftlig advarsel eller irettesettelse gjentatt har krenket sine tjenesteplikter,\nd. ved utilbørlig adferd i eller utenfor tjenesten viser seg uverdig til sin stilling eller bryter ned den aktelse eller tillit som er nødvendig for stillingen.\n(2) Bestemmelsene i denne paragraf begrenser ikke adgangen til å fradømme en embetsmann stillingen som straff i medhold av straffelovgivningens regler.\n(3) Ved tvist om avskjed er søksmålsfristen åtte uker fra det tidspunkt underretning om vedtaket er kommet frem til embetsmannen. Dersom embetsmannen bare krever erstatning, er søksmålsfristen seks måneder.\n(4) Ved søksmål fra embetsmann som nevnt i Grunnloven § 22 første ledd gjelder arbeidsmiljøloven § 15-14 tredje ledd annet punktum og fjerde ledd og §§ 17-1 og 17-7 tilsvarende.\n(5) For øvrig gjelder arbeidsmiljøloven §§ 15-8, 15-9 og 15-10 tilsvarende for embetsmenn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Saksbehandlingsregler",
+      "content": "(1) Embetsmann har rett til å forklare seg muntlig for vedkommende departement hvis departementet vil fremme forslag om avskjed. Embetsmann skal varsles før vedtak treffes og gis anledning til å uttale seg skriftlig innen en nærmere angitt frist.\n(2) Når spørsmål om avskjed er tatt opp av den myndighet som forbereder eller avgjør saken, kan embetsmann kreve bevisopptak etter domstolloven § 43 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Nærmere regler om avskjed av embetsmann i medhold av § 12 første ledd bokstav a eller b",
+      "content": "(1) Vedtak om avskjed i medhold av § 12 første ledd bokstav a eller b kan ikke iverksettes før to uker etter at underretning om vedtaket er kommet frem til embetsmannen.\n(2) Dersom embetsmannen i dette tidsrommet reiser søksmål eller skriftlig varsler arbeidsgiver om at søksmål vil bli reist, kan vedtak om avskjed ikke iverksettes før saken er rettskraftig avgjort.\n(3) Etter krav fra arbeidsgiver kan retten likevel bestemme at embetsmannen skal fratre under sakens behandling dersom retten finner det urimelig at arbeidsforholdet opprettholdes under sakens behandling. Retten skal samtidig fastsette frist for iverksettelsen av vedtaket.\n(4) Retten til å fortsette i stillingen gjelder ikke under ankebehandling dersom dommen fastslår at avskjeden er gyldig. Etter krav fra embetsmannen kan retten likevel bestemme at arbeidsforholdet skal fortsette inntil saken er rettskraftig avgjort.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Vedtaksmyndighet – embetsmann og tjenestemann som ansettes av Kongen",
+      "content": "(1) Embetsmann som nevnt i Grunnloven § 22 annet ledd kan før oppnådd aldersgrense bare avskjediges ved dom. Embetsmann som nevnt i Grunnloven § 22 første ledd kan også avskjediges av Kongen i statsråd. Kongen i statsråd treffer vedtak om suspensjon eller overføring til annen tjeneste etter § 11.\n(2) Kongen kan gi vedkommende departement fullmakt til å gi embetsmann avskjed etter søknad eller ved oppnådd aldersgrense og vedta opphør av suspensjon eller konstitusjon. Det samme gjelder tjenestemann som beskikkes fast eller midlertidig av Kongen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Fortrinnsrett",
+      "content": "(1) Før en embetsmann blir avskjediget fordi vedkommende\na. på grunn av sykdom er varig uskikket til forsvarlig å utføre sin tjeneste eller\nb. ikke lenger har de kvalifikasjoner som er nødvendige eller foreskrevet for stillingen,\n(2) Dersom embetsmannen likevel blir avskjediget, har vedkommende fortrinnsrett til ansettelse i annen stilling i staten.\n(3) Fortrinnsrett til annen stilling i staten gjelder fra avskjedstidspunktet og inntil ett år etter fratreden. Dersom embetsmannen ikke har akseptert tilbud om ansettelse i en passende stilling senest 14 dager etter at tilbudet er mottatt, faller fortrinnsretten endelig bort.\n(4) Fortrinnsrett etter første til tredje ledd gjelder uansett tjenestetid. Fortrinnsretten gjelder ikke for konstituert embetsmann og gjelder heller ikke til embete eller stilling som besettes av Kongen i statsråd. Fortrinnsretten gjelder bare der embetsmannen har de nødvendige faglige og personlige egenskaper for stillingen.\n(5) Arbeidsmiljøloven §§ 14-2, 14-3 og 14-4 gjelder ikke for fortrinnsrett for embetsmenn.\n(6) Kongen kan i forskrift gi nærmere regler om fortrinnsrett for embetsmenn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Midlertidig ansettelse og innleie",
+      "content": "(1) Arbeidsmiljøloven § 14-11 gjelder ikke for tjenestemann som beskikkes av Kongen i statsråd.\n(2) Innleie kan ikke benyttes til stilling hvor Kongen beskikker en tjenestemann. Arbeidsmiljøloven § 14-14 gjelder ikke for slik innleie.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Vedtaksmyndighet",
+      "content": "(1) Vedtak om oppsigelse, suspensjon og avskjed av en tjenestemann som er øverste leder av en virksomhet treffes av ansettelsesorganet.\n(2) Vedtak som gjelder annen tjenestemann enn nevnt i første ledd, treffes av arbeidsgiver, med mindre det i reglement for virksomheten er bestemt at vedtaket skal treffes av annen myndighet.\n(3) Nærmere regler om saksbehandlingen når vedtaksmyndigheten er lagt til et kollegialt styre kan fastsettes i reglement for den enkelte virksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Overgangsregler – oppsigelsesfrister",
+      "content": "Tjenestemenn som på det tidspunkt loven her trer i kraft har opparbeidet tjenestetid i samsvar med lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. §§ 9 eller 10, og som sies opp på grunn av virksomhetens forhold etter arbeidsmiljøloven § 15-7 første ledd, følger oppsigelsesfristene i de nevnte paragrafer. Oppsigelsesfristen løper fra det tidspunkt oppsigelsen er kommet frem til tjenestemannen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Overgangsregler – ventelønn",
+      "content": "(1) Den som ved lovens ikrafttredelse har rett til ventelønn, beholder retten til ventelønn etter de regler som gjelder ved opphevelse av lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m.\n(2) For arbeidstakere i virksomheter som ved særlig lovgivning er gitt rettigheter etter lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. § 13 nr. 6, kan det i henhold til den enkelte bestemmelse i slik særlig lovgivning tilstås ventelønn også etter opphevelse av lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m.\n(3) Departementet kan bestemme at arbeidstakere i navngitte statlige virksomheter kan tilstås ventelønn etter opphevelse av lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m., likevel ikke slik at ventelønn tilstås for ansatte med fratredelse senere enn ett år etter lovens ikrafttredelse.\n(4) Tilståelse av ventelønn etter annet og tredje ledd kan bare skje dersom vilkårene i lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. § 13 nr. 6 er oppfylt.\n(5) Nærmere regler om ventelønn etter denne bestemmelse kan fastsettes av Kongen i forskrift.\n(6) Lov 28. juli 1949 nr. 26 om Statens Pensjonskasse § 20 første ledd bokstav f skal fortsatt gjelde for dem som har ventelønn etter den tidligere bestemmelsen i lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. § 13 nr. 6 også etter denne bestemmelsens opphevelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Overgangsregler – vartpenger",
+      "content": "(1) Medlemmer i Statens Pensjonskasse som ved opphevelse av lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. har rett til vartpenger etter lov 28. juli 1949 nr. 26 om Statens Pensjonskasse § 24 tredje ledd, kan motta vartpenger etter de regler som gjelder ved opphevelsen.\n(2) Lov 28. juli 1949 nr. 26 om Statens Pensjonskasse § 20 første ledd bokstav f skal fortsatt gjelde for dem som har vartpenger etter den tidligere bestemmelsen i § 24 tredje ledd også etter denne bestemmelsens opphevelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Overgangsregler – personalreglementer",
+      "content": "Personalreglementer som er gitt med hjemmel i lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. er gyldige inntil de blir opphevet eller avløst av nytt reglement for virksomheten, men ikke lenger enn to år etter denne lovs ikrafttredelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "6:23",
+      "chapter": "6",
+      "section": "23",
+      "title": "Ikrafttredelse",
+      "content": "(1) Loven gjelder fra den tid Kongen bestemmer.​1\n(2) Fra samme tid oppheves lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. Kongen kan bestemme at reglene i lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. §§ 3 og 7 med forskrifter fortsatt skal gjelde i en begrenset periode ved ansettelser i undervisnings-, forsker- og utdanningsstillinger ved universiteter og høyskoler.\n1 Opprinnelig fastsatt til 1 jan 2006 iflg. res. 17 juni 2005 nr. 585, men ble deretter opphevet av lov 21 des 2005 nr. 136 (i kraft 1 jan 2006). Den ble således aldri satt i kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "6:24",
+      "chapter": "6",
+      "section": "24",
+      "title": "Endringer i andre lover",
+      "content": "Fra lovens ikrafttredelse gjøres følgende endringer i andre lover:\n1. Lov 28. juli 1949 nr. 26 om Statens Pensjonskasse endres slik:\n§ 20 første ledd bokstav f oppheves. Nåværende bokstav g blir ny bokstav f.\n§ 24 tredje ledd oppheves.\n§ 27 annet ledd tredje punktum skal lyde:\nBestemmelsen i dette ledd gjelder også permittert medlem.\n2. I lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) skal § 3 annet ledd tredje punktum lyde:\nVedtak om oppsigelse, suspensjon eller avskjed som treffes av et statlig, kommunalt eller fylkeskommunalt organ, er unntatt fra reglene om forhåndsvarsel i § 16 og klage i §§ 28 til 34.\n3. Lov 30. august 1991 nr. 71 om statsforetak endres slik:\n§ 4 annet punktum skal lyde:\nLov 18. juli 1958 nr. 2 om offentlige tjenestetvister (tjenestetvistloven) og lov om statens embets- og tjenestemenn (embets- og tjenestemannsloven) gjelder ikke for ansatte i statsforetak.\n§ 55 tredje ledd oppheves.\nNåværende § 55 fjerde ledd blir nytt tredje ledd og skal lyde:\nKongen kan i forskrift eller for det enkelte tilfelle gi nærmere bestemmelser om overføring av virksomhet til statsforetak etter første og annet ledd.\n4. Lov 12. mai 1995 nr. 22 om universiteter og høgskoler​1 endres slik:\n§ 29 skal lyde:\nVed tilsettinger m.m. ved institusjoner under denne lov gjelder de alminnelige regler i lov om statens embets- og tjenestemenn, med de særregler som følger av loven her, for stillinger som omfattes av embets- og tjenestemannsloven.\n§ 31 skal lyde:\nTilsetting i teknisk eller administrativ stilling skjer i samsvar med reglene i lov om statens embets- og tjenestemenn, hvis ikke styret selv skal foreta tilsetting, jf. § 32 nr. 1.\n§§ 33, 34 og 35 oppheves.\n5. Lov 7. mai 2004 nr. 21 om Riksrevisjonen endres slik:\n§ 5 annet ledd skal lyde:\nBestemmelsene i lov om statens embets- og tjenestemenn § 5 om kunngjøring av embeter og stillinger og § 6 om ansettelse gjelder så langt de passer.\n6. Lov 2. juli 2004 nr. 59 om personell i Forsvaret endres slik:\n§ 4 første ledd skal lyde:\nBefal og vervede mannskaper tilsettes på de vilkår som er fastsatt i lov om statens embets- og tjenestemenn (embets- og tjenestemannsloven) med de avvik som følger i eller i medhold av denne lov.\n§ 4 fjerde ledd skal lyde:\nDepartementet gir regler om hvem som skal tilsette befal og vervede mannskaper, og om fremgangsmåten ved tilsetting. Reglene kan fravike embets- og tjenestemannsloven.\n§ 8 annet ledd skal lyde:\nAvdelingsbefal, kontraktsbefal og vervede mannskaper kan etter endt tilsettingsforhold ikke gjøre gjeldende fortrinnsrett etter arbeidsmiljølovens regler.\n§ 13 annet ledd skal lyde:\nEmbets- og tjenestemannsloven §§ 5 og 6 kommer ikke til anvendelse under tjenestegjøring i internasjonale operasjoner.\n1 Loven er opphevet, se nå lov 1 april 2005 nr. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens virkeområde",
+      "content": "(1) Denne lov gjelder arbeidstakere ansatt i statens tjeneste. Arbeidstakere betyr i denne lov embets- og tjenestemenn. Loven gjelder ikke statsråder, statssekretærer og politiske rådgivere.\n(2) Reglene i §§ 5 og 6 gjelder ikke for tjenestemenn som ansettes ved Stortinget, Riksrevisjonen, Sametinget eller hos Stortingets ombudsmenn.\n(3) Med embetsmann menes den som er utnevnt av Kongen og gitt bestalling som embetsmann, eller er konstituert av Kongen i et embete. Med tjenestemann menes enhver arbeidstaker i statens tjeneste som ikke er embetsmann.\n(4) Når det foreligger særlige grunner kan Kongen i forskrift bestemme at arbeidstakere nevnt i første ledd første punktum eller grupper av arbeidstakere ikke skal omfattes av loven. Kongen kan da i stedet fastsette særlige regler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Forbud mot gaver i tjenesten mv.",
+      "content": "(1) Ingen embets- eller tjenestemann må for seg eller andre motta gave, provisjon, tjeneste eller annen ytelse som er egnet til, eller av giveren er ment, å påvirke hans tjenestlige handlinger, eller som det er forbudt å motta etter bestemmelse i reglement for virksomheten.\n(2) Overtredelse kan medføre oppsigelse eller avskjed.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Reglementer",
+      "content": "(1) Bestemmelser som etter denne lov kan fastsettes ved reglement, gis av virksomheten. Forslag til nytt eller endret reglement skal alltid legges frem til uttalelse for de tjenestemannsorganisasjoner som har forhandlingsrett etter lov 18. juli 1958 nr. 2 om offentlige tjenestetvister. Godtar ikke disse tjenestemannsorganisasjonene virksomhetens forslag, fastsettes endelig reglement eller reglementsbestemmelse av Kongen.\n(2) Kongen fastsetter reglement for tjenesten ved regjeringens kontorer. Kongen kan i slikt reglement bestemme at uttalelsesretten etter § 6 tredje ledd kan legges til et kollegialt organ med representanter for arbeidsgiver og de forhandlingsberettigede tjenestemannsorganisasjonene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Kvalifikasjonsprinsippet",
+      "content": "(1) I ledig embete eller stilling skal den best kvalifiserte søker for den aktuelle stillingen eller det aktuelle embetet ansettes, med mindre noe annet er bestemt i lov eller i medhold av lov.\n(2) Ved vurderingen av hvem som er best kvalifisert, skal det i første rekke legges vekt på søkerens utdanning, yrkeserfaring og personlige skikkethet, sammenholdt med de kvalifikasjonskrav som er oppstilt i kunngjøringen av stillingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Kunngjøring av embeter og stillinger",
+      "content": "(1) Ledig embete eller stilling skal kunngjøres offentlig, om ikke annet er fastsatt i lov eller i medhold av lov eller i tariffavtale.\n(2) Konstitusjoner og midlertidige ansettelser inntil ett år kan unntas fra kravet om offentlig kunngjøring.\n(3) I reglement for virksomheten kan det fastsettes at stillinger som ikke er embeter og andre stillinger som ikke er lederstillinger kan kunngjøres bare internt i virksomheten dersom særlige forhold tilsier dette. Slikt unntak fra kravet om offentlig kunngjøring kan ikke fastsettes som alminnelig ordning. I virksomhet under omstilling kan slikt unntak likevel gjøres for en begrenset periode på inntil ett år. I reglement som omfatter utenrikstjenesten kan det fastsettes at ledig embete eller stilling bare kunngjøres internt eller i bestemte virksomheter, og at kunngjøring helt kan unnlates i særlige tilfeller.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Ansettelse",
+      "content": "(1) Kongen kan fastsette regler om hvem som skal utarbeide forslag til ansettelse og hvem som skal ha rett til uttalelse når embetsmann skal utnevnes eller konstitueres. Det samme gjelder når tjenestemann skal beskikkes fast eller midlertidig av Kongen.\n(2) Tjenestemann som er øverste leder av en virksomhet ansettes av Kongen, eller om Kongen fastsetter det, av et departement eller av et kollegialt styre for en virksomhet eller gruppe av virksomheter. Kongen kan fastsette regler om hvem som skal utarbeide forslag til ansettelse og hvem som skal ha rett til uttalelse, når et departement eller kollegialt styre skal ansette slik tjenestemann.\n(3) Andre tjenestemenn enn de som er nevnt i første og annet ledd ansettes av arbeidsgiver i den enkelte statlige virksomhet. Arbeidsgivers forslag til ansettelse skal forelegges de berørte tjenestemannsorganisasjoner som har forhandlingsrett etter lov 18. juli 1958 nr. 2 om offentlige tjenestetvister, eventuelt et nærmere bestemt utvalg av disse, til uttalelse før ansettelsesvedtak fattes. Nærmere regler om saksbehandlingen ved ansettelse og hvem som har rett til å uttale seg kan fastsettes i reglement.\n(4) Kongen kan i forskrift gi alminnelige retningslinjer om hvordan retten til ansettelse skal benyttes og fastsette særlige regler om saksbehandlingen ved ansettelse etter denne paragraf.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Adgang til konstitusjon m.m.",
+      "content": "(1) Embetsmann utnevnes fast i embete, men kan konstitueres når:\na. embetsmannen bare trengs for et begrenset tidsrom eller for å utføre et bestemt oppdrag,\nb. embetet ennå ikke er fast organisert, eller arbeidsområdet eller virkekretsen er planlagt endret,\nc. embetsmannen skal gjøre tjeneste i stedet for en annen (vikar).\n(2) I tilfeller som nevnt i første ledd bokstav b, kan Kongen, i stedet for å benytte konstitusjon, ta forbehold om at embetsmannen må finne seg i slike endringer i embetets arbeidsområde eller virkekrets som senere blir fastsatt.\n(3) Fylkesmenn kan utnevnes på åremål.\n(4) Arbeidsmiljøloven §§ 14-9, 14-10 og 14-11 gjelder ikke for embetsmenn.\n(5) Innleie kan ikke benyttes til embete. Arbeidsmiljøloven § 14-14 gjelder ikke for slik innleie.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Særregler om midlertidighet",
+      "content": "Kongen kan i forskrift fastsette nærmere regler om utnevning av embetsmenn i åremålsstilling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Plikt til å overta annen stilling",
+      "content": "(1) Embetsmenn ved regjeringens kontorer er forpliktet til å finne seg i omorganiseringer og endringer i ansvar og arbeidsoppgaver eller pålegg om å stå til rådighet for spesielle oppdrag.\n(2) Embetsmenn som ikke omfattes av hovedtariffavtalen i staten og som får sine lønns- og arbeidsvilkår fastsatt i særskilt kontrakt, er forpliktet til å finne seg i omplassering til andre arbeidsoppgaver eller pålegg om å stå til rådighet for spesielle oppdrag. Dette gjelder selv om vilkårene for avskjed etter § 12 første ledd bokstav a eller b ikke er til stede. Paragrafen her gjelder ikke embetsmenn som omfattes av Grunnloven § 22 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Opphør av konstitusjon",
+      "content": "Når en embetsmann er konstituert i embetet og grunnen til at konstitusjonsformen ble benyttet er falt bort, skal vedkommende pålegges å fratre embetet. Dersom embetsmannen er utnevnt i åremålsstilling, plikter vedkommende å fratre når åremålet er utløpt. Hvis konstitusjonen eller åremålsstillingen har vart mer enn ett år, skal vedkommende ha minst en måneds varsel. Hvis embetsmannen har vært konstituert av Kongen etter forutgående kunngjøring, kan vedkommende i stedet utnevnes uten ny kunngjøring. Embetsmann utnevnt i åremålsstilling kan ikke utnevnes i embetet uten ny kunngjøring.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Suspensjon",
+      "content": "(1) Dersom tjenestens tarv krever det, kan en embetsmann med øyeblikkelig virkning fjernes midlertidig fra sin stilling (suspenderes) når det er grunn til å anta at vedkommende har gjort seg skyldig i adferd som kan føre til avskjed etter § 12 første ledd bokstav c eller d. Foreligger ikke lenger slik grunn, skal suspensjonen straks oppheves. En suspensjon skal også oppheves om innledet straffeforfølgning innstilles eller avskjedssak for domstolene trekkes tilbake.\n(2) Suspensjon skal videre oppheves om vedtak om avskjed ikke er truffet innen seks måneder. Dersom det er reist tiltale for adferd som kan begrunne avskjed etter § 12 første ledd bokstav c eller d, eller kan medføre tjenestens tap som straff, eller det er reist sivilt søksmål til fradømmelse av stillingen etter straffelovens ikrafttredelseslov § 10, kan suspensjonen forlenges med inntil seks måneder om gangen til saken er endelig avgjort. Suspensjonen kan også forlenges med inntil seks måneder om gangen hvis embetsmannen har en særlig betrodd stilling og det ville virke skadelig for tjenesten om vedkommende gjenopptok arbeidet før avgjørelse er truffet, eller vedkommende kan forspille bevis som trengs ved avgjørelse av avskjedssaken.\n(3) Dersom det er truffet vedtak om suspensjon, skal avskjedssaken fremmes uten unødig opphold.\n(4) I stedet for suspensjon kan embetsmenn ved regjeringens kontorer, i Forsvaret eller utenrikstjenesten midlertidig overføres til annen, mindre betrodd tjeneste. For slik overføring gjelder de samme regler som for suspensjon.\n(5) Inntil det foreligger avskjedsvedtak, har en suspendert embetsmann krav på stillingens lønn. I embetsmannens lønn kan det gjøres fradrag for inntekt vedkommende måtte få ved å ta annet arbeid i suspensjonstiden.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Avskjed",
+      "content": "(1) Embetsmann kan avskjediges når vedkommende\na. på grunn av sykdom er varig uskikket til forsvarlig å utføre sin tjeneste,\nb. ikke lenger har de kvalifikasjoner som er nødvendige eller foreskrevet for stillingen, eller av andre grunner er varig uskikket for stillingen,\nc. har vist grov uforstand i tjenesten eller grovt har krenket sine tjenesteplikter eller trass i skriftlig advarsel eller irettesettelse gjentatt har krenket sine tjenesteplikter,\nd. ved utilbørlig adferd i eller utenfor tjenesten viser seg uverdig til sin stilling eller bryter ned den aktelse eller tillit som er nødvendig for stillingen.\n(2) Bestemmelsene i denne paragraf begrenser ikke adgangen til å fradømme en embetsmann stillingen som straff i medhold av straffelovgivningens regler.\n(3) Ved tvist om avskjed er søksmålsfristen åtte uker fra det tidspunkt underretning om vedtaket er kommet frem til embetsmannen. Dersom embetsmannen bare krever erstatning, er søksmålsfristen seks måneder.\n(4) Ved søksmål fra embetsmann som nevnt i Grunnloven § 22 første ledd gjelder arbeidsmiljøloven § 15-14 tredje ledd annet punktum og fjerde ledd og §§ 17-1 og 17-7 tilsvarende.\n(5) For øvrig gjelder arbeidsmiljøloven §§ 15-8, 15-9 og 15-10 tilsvarende for embetsmenn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Saksbehandlingsregler",
+      "content": "(1) Embetsmann har rett til å forklare seg muntlig for vedkommende departement hvis departementet vil fremme forslag om avskjed. Embetsmann skal varsles før vedtak treffes og gis anledning til å uttale seg skriftlig innen en nærmere angitt frist.\n(2) Når spørsmål om avskjed er tatt opp av den myndighet som forbereder eller avgjør saken, kan embetsmann kreve bevisopptak etter domstolloven § 43 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Nærmere regler om avskjed av embetsmann i medhold av § 12 første ledd bokstav a eller b",
+      "content": "(1) Vedtak om avskjed i medhold av § 12 første ledd bokstav a eller b kan ikke iverksettes før to uker etter at underretning om vedtaket er kommet frem til embetsmannen.\n(2) Dersom embetsmannen i dette tidsrommet reiser søksmål eller skriftlig varsler arbeidsgiver om at søksmål vil bli reist, kan vedtak om avskjed ikke iverksettes før saken er rettskraftig avgjort.\n(3) Etter krav fra arbeidsgiver kan retten likevel bestemme at embetsmannen skal fratre under sakens behandling dersom retten finner det urimelig at arbeidsforholdet opprettholdes under sakens behandling. Retten skal samtidig fastsette frist for iverksettelsen av vedtaket.\n(4) Retten til å fortsette i stillingen gjelder ikke under ankebehandling dersom dommen fastslår at avskjeden er gyldig. Etter krav fra embetsmannen kan retten likevel bestemme at arbeidsforholdet skal fortsette inntil saken er rettskraftig avgjort.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Vedtaksmyndighet – embetsmann og tjenestemann som ansettes av Kongen",
+      "content": "(1) Embetsmann som nevnt i Grunnloven § 22 annet ledd kan før oppnådd aldersgrense bare avskjediges ved dom. Embetsmann som nevnt i Grunnloven § 22 første ledd kan også avskjediges av Kongen i statsråd. Kongen i statsråd treffer vedtak om suspensjon eller overføring til annen tjeneste etter § 11.\n(2) Kongen kan gi vedkommende departement fullmakt til å gi embetsmann avskjed etter søknad eller ved oppnådd aldersgrense og vedta opphør av suspensjon eller konstitusjon. Det samme gjelder tjenestemann som beskikkes fast eller midlertidig av Kongen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Fortrinnsrett",
+      "content": "(1) Før en embetsmann blir avskjediget fordi vedkommende\na. på grunn av sykdom er varig uskikket til forsvarlig å utføre sin tjeneste eller\nb. ikke lenger har de kvalifikasjoner som er nødvendige eller foreskrevet for stillingen,\n(2) Dersom embetsmannen likevel blir avskjediget, har vedkommende fortrinnsrett til ansettelse i annen stilling i staten.\n(3) Fortrinnsrett til annen stilling i staten gjelder fra avskjedstidspunktet og inntil ett år etter fratreden. Dersom embetsmannen ikke har akseptert tilbud om ansettelse i en passende stilling senest 14 dager etter at tilbudet er mottatt, faller fortrinnsretten endelig bort.\n(4) Fortrinnsrett etter første til tredje ledd gjelder uansett tjenestetid. Fortrinnsretten gjelder ikke for konstituert embetsmann og gjelder heller ikke til embete eller stilling som besettes av Kongen i statsråd. Fortrinnsretten gjelder bare der embetsmannen har de nødvendige faglige og personlige egenskaper for stillingen.\n(5) Arbeidsmiljøloven §§ 14-2, 14-3 og 14-4 gjelder ikke for fortrinnsrett for embetsmenn.\n(6) Kongen kan i forskrift gi nærmere regler om fortrinnsrett for embetsmenn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Midlertidig ansettelse og innleie",
+      "content": "(1) Arbeidsmiljøloven § 14-11 gjelder ikke for tjenestemann som beskikkes av Kongen i statsråd.\n(2) Innleie kan ikke benyttes til stilling hvor Kongen beskikker en tjenestemann. Arbeidsmiljøloven § 14-14 gjelder ikke for slik innleie.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Vedtaksmyndighet",
+      "content": "(1) Vedtak om oppsigelse, suspensjon og avskjed av en tjenestemann som er øverste leder av en virksomhet treffes av ansettelsesorganet.\n(2) Vedtak som gjelder annen tjenestemann enn nevnt i første ledd, treffes av arbeidsgiver, med mindre det i reglement for virksomheten er bestemt at vedtaket skal treffes av annen myndighet.\n(3) Nærmere regler om saksbehandlingen når vedtaksmyndigheten er lagt til et kollegialt styre kan fastsettes i reglement for den enkelte virksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Overgangsregler – oppsigelsesfrister",
+      "content": "Tjenestemenn som på det tidspunkt loven her trer i kraft har opparbeidet tjenestetid i samsvar med lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. §§ 9 eller 10, og som sies opp på grunn av virksomhetens forhold etter arbeidsmiljøloven § 15-7 første ledd, følger oppsigelsesfristene i de nevnte paragrafer. Oppsigelsesfristen løper fra det tidspunkt oppsigelsen er kommet frem til tjenestemannen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Overgangsregler – ventelønn",
+      "content": "(1) Den som ved lovens ikrafttredelse har rett til ventelønn, beholder retten til ventelønn etter de regler som gjelder ved opphevelse av lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m.\n(2) For arbeidstakere i virksomheter som ved særlig lovgivning er gitt rettigheter etter lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. § 13 nr. 6, kan det i henhold til den enkelte bestemmelse i slik særlig lovgivning tilstås ventelønn også etter opphevelse av lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m.\n(3) Departementet kan bestemme at arbeidstakere i navngitte statlige virksomheter kan tilstås ventelønn etter opphevelse av lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m., likevel ikke slik at ventelønn tilstås for ansatte med fratredelse senere enn ett år etter lovens ikrafttredelse.\n(4) Tilståelse av ventelønn etter annet og tredje ledd kan bare skje dersom vilkårene i lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. § 13 nr. 6 er oppfylt.\n(5) Nærmere regler om ventelønn etter denne bestemmelse kan fastsettes av Kongen i forskrift.\n(6) Lov 28. juli 1949 nr. 26 om Statens Pensjonskasse § 20 første ledd bokstav f skal fortsatt gjelde for dem som har ventelønn etter den tidligere bestemmelsen i lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. § 13 nr. 6 også etter denne bestemmelsens opphevelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Overgangsregler – vartpenger",
+      "content": "(1) Medlemmer i Statens Pensjonskasse som ved opphevelse av lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. har rett til vartpenger etter lov 28. juli 1949 nr. 26 om Statens Pensjonskasse § 24 tredje ledd, kan motta vartpenger etter de regler som gjelder ved opphevelsen.\n(2) Lov 28. juli 1949 nr. 26 om Statens Pensjonskasse § 20 første ledd bokstav f skal fortsatt gjelde for dem som har vartpenger etter den tidligere bestemmelsen i § 24 tredje ledd også etter denne bestemmelsens opphevelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Overgangsregler – personalreglementer",
+      "content": "Personalreglementer som er gitt med hjemmel i lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. er gyldige inntil de blir opphevet eller avløst av nytt reglement for virksomheten, men ikke lenger enn to år etter denne lovs ikrafttredelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "6:23",
+      "chapter": "6",
+      "section": "23",
+      "title": "Ikrafttredelse",
+      "content": "(1) Loven gjelder fra den tid Kongen bestemmer.​1\n(2) Fra samme tid oppheves lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. Kongen kan bestemme at reglene i lov 4. mars 1983 nr. 3 om statens tjenestemenn m.m. §§ 3 og 7 med forskrifter fortsatt skal gjelde i en begrenset periode ved ansettelser i undervisnings-, forsker- og utdanningsstillinger ved universiteter og høyskoler.\n1 Opprinnelig fastsatt til 1 jan 2006 iflg. res. 17 juni 2005 nr. 585, men ble deretter opphevet av lov 21 des 2005 nr. 136 (i kraft 1 jan 2006). Den ble således aldri satt i kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "6:24",
+      "chapter": "6",
+      "section": "24",
+      "title": "Endringer i andre lover",
+      "content": "Fra lovens ikrafttredelse gjøres følgende endringer i andre lover:\n1. Lov 28. juli 1949 nr. 26 om Statens Pensjonskasse endres slik:\n§ 20 første ledd bokstav f oppheves. Nåværende bokstav g blir ny bokstav f.\n§ 24 tredje ledd oppheves.\n§ 27 annet ledd tredje punktum skal lyde:\nBestemmelsen i dette ledd gjelder også permittert medlem.\n2. I lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) skal § 3 annet ledd tredje punktum lyde:\nVedtak om oppsigelse, suspensjon eller avskjed som treffes av et statlig, kommunalt eller fylkeskommunalt organ, er unntatt fra reglene om forhåndsvarsel i § 16 og klage i §§ 28 til 34.\n3. Lov 30. august 1991 nr. 71 om statsforetak endres slik:\n§ 4 annet punktum skal lyde:\nLov 18. juli 1958 nr. 2 om offentlige tjenestetvister (tjenestetvistloven) og lov om statens embets- og tjenestemenn (embets- og tjenestemannsloven) gjelder ikke for ansatte i statsforetak.\n§ 55 tredje ledd oppheves.\nNåværende § 55 fjerde ledd blir nytt tredje ledd og skal lyde:\nKongen kan i forskrift eller for det enkelte tilfelle gi nærmere bestemmelser om overføring av virksomhet til statsforetak etter første og annet ledd.\n4. Lov 12. mai 1995 nr. 22 om universiteter og høgskoler​1 endres slik:\n§ 29 skal lyde:\nVed tilsettinger m.m. ved institusjoner under denne lov gjelder de alminnelige regler i lov om statens embets- og tjenestemenn, med de særregler som følger av loven her, for stillinger som omfattes av embets- og tjenestemannsloven.\n§ 31 skal lyde:\nTilsetting i teknisk eller administrativ stilling skjer i samsvar med reglene i lov om statens embets- og tjenestemenn, hvis ikke styret selv skal foreta tilsetting, jf. § 32 nr. 1.\n§§ 33, 34 og 35 oppheves.\n5. Lov 7. mai 2004 nr. 21 om Riksrevisjonen endres slik:\n§ 5 annet ledd skal lyde:\nBestemmelsene i lov om statens embets- og tjenestemenn § 5 om kunngjøring av embeter og stillinger og § 6 om ansettelse gjelder så langt de passer.\n6. Lov 2. juli 2004 nr. 59 om personell i Forsvaret endres slik:\n§ 4 første ledd skal lyde:\nBefal og vervede mannskaper tilsettes på de vilkår som er fastsatt i lov om statens embets- og tjenestemenn (embets- og tjenestemannsloven) med de avvik som følger i eller i medhold av denne lov.\n§ 4 fjerde ledd skal lyde:\nDepartementet gir regler om hvem som skal tilsette befal og vervede mannskaper, og om fremgangsmåten ved tilsetting. Reglene kan fravike embets- og tjenestemannsloven.\n§ 8 annet ledd skal lyde:\nAvdelingsbefal, kontraktsbefal og vervede mannskaper kan etter endt tilsettingsforhold ikke gjøre gjeldende fortrinnsrett etter arbeidsmiljølovens regler.\n§ 13 annet ledd skal lyde:\nEmbets- og tjenestemannsloven §§ 5 og 6 kommer ikke til anvendelse under tjenestegjøring i internasjonale operasjoner.\n1 Loven er opphevet, se nå lov 1 april 2005 nr. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    }
+  ]
+}

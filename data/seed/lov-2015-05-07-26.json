@@ -1,0 +1,519 @@
+{
+  "id": "LOV-2015-05-07-26",
+  "type": "statute",
+  "title": "Lov om obduksjon og avgjeving av lik til undervisning og forsking (obduksjonslova)",
+  "short_name": "Obduksjonslova",
+  "status": "in_force",
+  "issued_date": "2015-05-07",
+  "in_force_date": "2016-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2015-05-07-26",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Formålet med lova er å:\na. bidra til at obduksjonar og anna behandling av lik blir utført på ein verdig måte med respekt for den døde og dei pårørande til den døde,\nb. gi kunnskap om dødsprosessar og dødsårsaker, førebygging av skadar og ulykker og bidra til ein påliteleg dødsårsaksstatistikk, og\nc. legge til rette for kvalitetssikring i helse- og omsorgstenesta og for undervisning og tileigning av kunnskap.\n0 Endra ved lov 6 mars 2020 nr. 2 (ikr. 1 mai 2020 iflg. res. 6 mars 2020 nr. 244).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Verkeområde",
+      "content": "Lova gjeld for medisinsk obduksjon, rettsmedisinsk obduksjon av drepne i vegtrafikken etter § 7 a første ledd andre punktum og donasjon av lekam til undervisning og forsking og anna behandling av lik:\na. §§ 4, 5, 6, 7, 8 og 8 a gjeld for medisinsk obduksjon.\nb. §§ 7 a, 8 og 8 a gjeld for rettsmedisinsk obduksjon etter § 7 a første ledd andre punktum.\nc. Kapittel 3 gjeld for donasjon av lekam til undervisning og forsking og anna behandling av lik.\n§ 7 gjeld tilsvarande for forsking på biologisk materiale som er tatt ut i samband med ein rettsmedisinsk obduksjon.\nKongen kan gi forskrift om at lova og forskrifter med heimel i lova heilt eller delvis skal gjelde på Svalbard og Jan Mayen og kan fastsette særlege reglar under omsyn til forholda på staden.\n0 Endra ved lov 6 mars 2020 nr. 2 (ikr. 1 mai 2020 iflg. res. 6 mars 2020 nr. 244).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjonar",
+      "content": "I denne lova meines med:\na. obduksjon: ei systematisk utvendig og innvendig medisinsk undersøking av ein død person\nb. medisinsk obduksjon: obduksjon som ein lege har kravd, der formålet er å påvise eller utelukke forandringar som er forårsaka av sjukdom eller skade\nc. rettsmedisinsk obduksjon: obduksjon som er kravd etter straffeprosessloven § 228 om sakkyndig likundersøking og obduksjon etter § 7 a første ledd andre punktum\nd. næraste pårørande: næraste pårørande etter pasient- og brukerrettighetsloven § 1-3 bokstav b.\n0 Endra ved lov 6 mars 2020 nr. 2 (ikr. 1 mai 2020 iflg. res. 6 mars 2020 nr. 244).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Dei regionale helseføretaka sitt ansvar for obduksjonsverksemdene",
+      "content": "Dei regionale helseføretaka skal sørge for nødvendig kompetanse og kapasitet til å gjennomføre medisinske obduksjonar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Krav om medisinsk obduksjon",
+      "content": "Krav om medisinsk obduksjon må setjast fram av ein lege.\nLegen som konstaterer at døden har inntreft skal, så langt det er mogeleg, vurdere om det bør gjennomførast ein medisinsk obduksjon og dokumentere at vurderinga er gjort.\nSjukehuset som mottek krav om obduksjon, jf. første ledd, avgjer om obduksjonen skal gjennomførast.\nDepartementet kan gi forskrift om framsetting av krav om obduksjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Forholdet til rettsmedisinsk obduksjon etter straffeprosessloven",
+      "content": "Dersom legen etter helsepersonelloven § 36 tredje ledd har plikt til å melde frå til politiet fordi det er grunn til å tru at dødsfallet er unaturleg, kan medisinsk obduksjon ikkje setjast i gang før påtalemakta har avgjort at det ikkje skal gjennomførast ein rettsmedisinsk obduksjon.\nDersom det under ein medisinsk obduksjon blir avdekt forhold som tydar på unaturleg død, skal obduksjonen avbrytast og politiet underrettast utan opphald.\n0 Endra ved lov 6 mars 2020 nr. 2 (ikr. 1 mai 2020 iflg. res. 6 mars 2020 nr. 244).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Vilkår for gjennomføring av medisinsk obduksjon og rett for pårørande til å nekte obduksjon",
+      "content": "Medisinsk obduksjon kan berre gjennomførast når det ikkje er grunn til å tru at den døde ville ha motsett seg ei slik undersøking. Dei pårørande skal, så sant det er mogeleg, spørjast om det ligg føre forhold som tilseier at den døde ville ha motsett seg obduksjon.\nMedisinsk obduksjon kan ikkje gjennomførast dersom ein av dei næraste pårørande til den døde, jf. § 3 bokstav d, nektar obduksjon. Næraste pårørande til den døde skal, så sant det er mogeleg, informerast om at det er ønskeleg med obduksjon, kva den inneber og om mogelegheita for å nekte obduksjon.\nReglane i første og andre ledd gjeld tilsvarande for uttak av biologisk materiale frå avdøde til bruk i undervisning eller forsking.\nDersom det ligg føre særlege grunnar til at den døde bør obduserast, kan statsforvaltaren tillate at obduksjon blir gjennomført sjølv om vilkåra i første og andre ledd ikkje er oppfylt.\n0 Endra ved lov 7 mai 2021 nr. 34 (ikr. 1 juni 2021 iflg. res. 7 mai 2021 nr. 1416).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:7 a",
+      "chapter": "2",
+      "section": "7 a",
+      "title": "Rettsmedisinsk obduksjon av trafikkdrepne",
+      "content": "Alle drepne i vegtrafikken skal obduserast. Dersom påtalemakta ikkje krev obduksjon etter straffeprosessloven § 228, skal politiet sjå til at rettsmedisinsk obduksjon blir utført etter lova her. Formålet med rettsmedisinsk obduksjon etter lova her er å fastslå dødsårsaka, påvise moglege teikn på sjukdom, skade og inntak av legemiddel og giftstoff, og sjå funna i samanheng med omstende kring dødsfallet.\nFør rettsmedisinsk obduksjon av den trafikkdrepne etter lova her blir utført, skal pårørande varslast og få høve til å uttale seg, så sant det er mogleg. Obduksjonen skal ikkje gjennomførast dersom ein av avdødes næraste pårørande av religiøs eller livssynsmessig overtyding nektar obduksjon.\nRettsmedisinsk obduksjon skal utførast av sakkunnig.\n0 Tilføyd ved lov 6 mars 2020 nr. 2 (ikr. 1 mai 2020 iflg. res. 6 mars 2020 nr. 244).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7a",
+        "source_heading": "§ 7 a."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Gjennomføring av obduksjon etter lova her",
+      "content": "Organ og anna biologisk materiale kan takast ut av kroppen for nærare undersøking og prøvetaking. Organ skal leggjast tilbake i kroppen når undersøkinga og prøvetakinga er avslutta, med mindre formålet med obduksjonen krev at organet må behaldast for å sluttføre undersøkinga eller organet skal brukast til undervisning.\nDet kan gjevast undervisning i samband med obduksjonar etter lova her.\nDepartementet kan gi forskrift om korleis obduksjonar etter lova her skal gjennomførast og om avgjeving og bruk av obduksjonsmateriale.\n0 Endra ved lov 6 mars 2020 nr. 2 (ikr. 1 mai 2020 iflg. res. 6 mars 2020 nr. 244).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:8 a",
+      "chapter": "2",
+      "section": "8 a",
+      "title": "Innhenting av helseopplysningar",
+      "content": "Legen som obduserer etter lova her skal utan omsyn til at opplysningane er underlagde teieplikt få nødvendige helseopplysningar om avdøde.\n0 Tilføyd ved lov 6 mars 2020 nr. 2 (ikr. 1 mai 2020 iflg. res. 6 mars 2020 nr. 244).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8a",
+        "source_heading": "§ 8 a."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Samtykke til bruk av lik i undervisning og forsking",
+      "content": "Personar som har fylt 18 år kan samtykke til at kroppen deira kan brukast i undervisning og forsking etter at dei er døde.\nDersom det kan godtgjerast at det er i tråd med ønsket til ein avdød som hadde fylt 18 år, kan næraste pårørande, jf. § 3 bokstav d, samtykke til at kroppen kan brukast i undervisning og forsking.\nSamtykke til bruk av lik til undervisning og forsking skal vere skriftlege.\nDepartementet kan gi forskrift om registrering og anna behandling av helseopplysingar og andre personopplysingar som er nødvendige for bruk av lik til undervisning og forsking.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Utlevering av lik til bruk i undervisning og forsking",
+      "content": "Departementet skal peike ut institusjonar som kan bruke lik til undervisning og forsking.\nInstitusjonar etter første ledd kan krevje å få utlevert lik som er gitt til undervisning og forsking. Eit lik kan ikkje krevjast utlevert før det er avklart at det ikkje vil bli kravd rettsmedisinsk obduksjon eller medisinsk obduksjon etter § 7 fjerde ledd.\nDepartementet kan gi forskrift om utlevering av lik til bruk i undervisning og forsking.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Bruk av lik i undervisning og forsking",
+      "content": "Eit lik som er utlevert etter § 10 andre ledd, skal tilbakeførast til dei pårørande for kremasjon innan to år etter dødsfallet. Næraste pårørande kan samtykke til at institusjonen kan behalde liket, eller delar av liket utover to år. Dersom den døde ikkje har pårørande, kan departementet samtykke til at institusjonen kan behalde liket eller delar av liket utover to år.\nDepartementet kan gi forskrift om bruk av lik i undervisning og forsking.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Dekning av kostnader ved bruk av lik til undervisning og forsking",
+      "content": "Kostnader til transport og kremasjon skal dekkjast av den institusjonen som har fått utlevert liket.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Fjerning av implantat",
+      "content": "Nødvendig uttak av implantat før kremasjon skal utførast av helsepersonell. Slikt uttak krev ikkje samtykke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Gravferd og utførsel av lik ved mistanke om unaturleg dødsfall",
+      "content": "Dersom det er grunn til mistanke om at ein persons død er forårsaka ved straffbar handling, eller det elles er grunn til å tru at rettsmedisinsk obduksjon vil bli kravd, må liket ikkje førast ut av landet eller gravleggjast utan tillating frå politiet.\nDepartementet kan gi forskrift om krav til dokumentasjon ved utførsel av lik.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Forholdet til forvaltningsloven",
+      "content": "Forvaltningsloven kapittel IV, V, VI og VIII gjeld ikkje for avgjerder som blir treft etter lova her. Heile forvaltningsloven gjeld likevel for avgjerder etter § 7 fjerde ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Pålegg og tvangsmulkt",
+      "content": "Statens helsetilsyn kan gi pålegg om retting og stenging, og fastsette tvangsmulkt etter reglane i helsetilsynsloven §§ 8 og 9.\n0 Endra ved lover 16 juni 2017 nr. 54 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 761). 15 des 2017 nr. 107 (ikr. 1 juli 2019 iflg. res. 26 apr 2019 nr. 541).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:16 a",
+      "chapter": "4",
+      "section": "16 a",
+      "title": "Straff",
+      "content": "Den som forsettleg eller grovt aktlaust bryt reglane i §§ 7, 8, 9, 10, 11 eller 14, eller i forskrifter som er gjevne med heimel i dei, blir straffa med bøter eller fengsel inntil 3 månader.\n0 Tilføyd ved lov 16 juni 2017 nr. 54 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 761), endra ved lov 18 juni 2021 nr. 122 (i kraft 1 juli 2022 iflg. res. 8 april 2022 nr. 570).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16a",
+        "source_heading": "§ 16 a."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Endringar i andre lover",
+      "content": "– – –\nLov 4. juni 1898 indeholdende visse Bestemmelser om Behandlingen af Lig opphevast.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Iverksetjing",
+      "content": "Lova gjeld frå den tida Kongen fastset.​1 Kongen kan setje i verk dei einskilde føresegnene til ulik tid.\n1 Frå 1 jan 2016 iflg. res. 13 nov 2015 nr. 1289.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Formålet med lova er å:\na. bidra til at obduksjonar og anna behandling av lik blir utført på ein verdig måte med respekt for den døde og dei pårørande til den døde,\nb. gi kunnskap om dødsprosessar og dødsårsaker, førebygging av skadar og ulykker og bidra til ein påliteleg dødsårsaksstatistikk, og\nc. legge til rette for kvalitetssikring i helse- og omsorgstenesta og for undervisning og tileigning av kunnskap.\n0 Endra ved lov 6 mars 2020 nr. 2 (ikr. 1 mai 2020 iflg. res. 6 mars 2020 nr. 244).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Verkeområde",
+      "content": "Lova gjeld for medisinsk obduksjon, rettsmedisinsk obduksjon av drepne i vegtrafikken etter § 7 a første ledd andre punktum og donasjon av lekam til undervisning og forsking og anna behandling av lik:\na. §§ 4, 5, 6, 7, 8 og 8 a gjeld for medisinsk obduksjon.\nb. §§ 7 a, 8 og 8 a gjeld for rettsmedisinsk obduksjon etter § 7 a første ledd andre punktum.\nc. Kapittel 3 gjeld for donasjon av lekam til undervisning og forsking og anna behandling av lik.\n§ 7 gjeld tilsvarande for forsking på biologisk materiale som er tatt ut i samband med ein rettsmedisinsk obduksjon.\nKongen kan gi forskrift om at lova og forskrifter med heimel i lova heilt eller delvis skal gjelde på Svalbard og Jan Mayen og kan fastsette særlege reglar under omsyn til forholda på staden.\n0 Endra ved lov 6 mars 2020 nr. 2 (ikr. 1 mai 2020 iflg. res. 6 mars 2020 nr. 244).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjonar",
+      "content": "I denne lova meines med:\na. obduksjon: ei systematisk utvendig og innvendig medisinsk undersøking av ein død person\nb. medisinsk obduksjon: obduksjon som ein lege har kravd, der formålet er å påvise eller utelukke forandringar som er forårsaka av sjukdom eller skade\nc. rettsmedisinsk obduksjon: obduksjon som er kravd etter straffeprosessloven § 228 om sakkyndig likundersøking og obduksjon etter § 7 a første ledd andre punktum\nd. næraste pårørande: næraste pårørande etter pasient- og brukerrettighetsloven § 1-3 bokstav b.\n0 Endra ved lov 6 mars 2020 nr. 2 (ikr. 1 mai 2020 iflg. res. 6 mars 2020 nr. 244).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Dei regionale helseføretaka sitt ansvar for obduksjonsverksemdene",
+      "content": "Dei regionale helseføretaka skal sørge for nødvendig kompetanse og kapasitet til å gjennomføre medisinske obduksjonar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Krav om medisinsk obduksjon",
+      "content": "Krav om medisinsk obduksjon må setjast fram av ein lege.\nLegen som konstaterer at døden har inntreft skal, så langt det er mogeleg, vurdere om det bør gjennomførast ein medisinsk obduksjon og dokumentere at vurderinga er gjort.\nSjukehuset som mottek krav om obduksjon, jf. første ledd, avgjer om obduksjonen skal gjennomførast.\nDepartementet kan gi forskrift om framsetting av krav om obduksjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Forholdet til rettsmedisinsk obduksjon etter straffeprosessloven",
+      "content": "Dersom legen etter helsepersonelloven § 36 tredje ledd har plikt til å melde frå til politiet fordi det er grunn til å tru at dødsfallet er unaturleg, kan medisinsk obduksjon ikkje setjast i gang før påtalemakta har avgjort at det ikkje skal gjennomførast ein rettsmedisinsk obduksjon.\nDersom det under ein medisinsk obduksjon blir avdekt forhold som tydar på unaturleg død, skal obduksjonen avbrytast og politiet underrettast utan opphald.\n0 Endra ved lov 6 mars 2020 nr. 2 (ikr. 1 mai 2020 iflg. res. 6 mars 2020 nr. 244).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Vilkår for gjennomføring av medisinsk obduksjon og rett for pårørande til å nekte obduksjon",
+      "content": "Medisinsk obduksjon kan berre gjennomførast når det ikkje er grunn til å tru at den døde ville ha motsett seg ei slik undersøking. Dei pårørande skal, så sant det er mogeleg, spørjast om det ligg føre forhold som tilseier at den døde ville ha motsett seg obduksjon.\nMedisinsk obduksjon kan ikkje gjennomførast dersom ein av dei næraste pårørande til den døde, jf. § 3 bokstav d, nektar obduksjon. Næraste pårørande til den døde skal, så sant det er mogeleg, informerast om at det er ønskeleg med obduksjon, kva den inneber og om mogelegheita for å nekte obduksjon.\nReglane i første og andre ledd gjeld tilsvarande for uttak av biologisk materiale frå avdøde til bruk i undervisning eller forsking.\nDersom det ligg føre særlege grunnar til at den døde bør obduserast, kan statsforvaltaren tillate at obduksjon blir gjennomført sjølv om vilkåra i første og andre ledd ikkje er oppfylt.\n0 Endra ved lov 7 mai 2021 nr. 34 (ikr. 1 juni 2021 iflg. res. 7 mai 2021 nr. 1416).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:7 a",
+      "chapter": "2",
+      "section": "7 a",
+      "title": "Rettsmedisinsk obduksjon av trafikkdrepne",
+      "content": "Alle drepne i vegtrafikken skal obduserast. Dersom påtalemakta ikkje krev obduksjon etter straffeprosessloven § 228, skal politiet sjå til at rettsmedisinsk obduksjon blir utført etter lova her. Formålet med rettsmedisinsk obduksjon etter lova her er å fastslå dødsårsaka, påvise moglege teikn på sjukdom, skade og inntak av legemiddel og giftstoff, og sjå funna i samanheng med omstende kring dødsfallet.\nFør rettsmedisinsk obduksjon av den trafikkdrepne etter lova her blir utført, skal pårørande varslast og få høve til å uttale seg, så sant det er mogleg. Obduksjonen skal ikkje gjennomførast dersom ein av avdødes næraste pårørande av religiøs eller livssynsmessig overtyding nektar obduksjon.\nRettsmedisinsk obduksjon skal utførast av sakkunnig.\n0 Tilføyd ved lov 6 mars 2020 nr. 2 (ikr. 1 mai 2020 iflg. res. 6 mars 2020 nr. 244).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7a",
+        "source_heading": "§ 7 a."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Gjennomføring av obduksjon etter lova her",
+      "content": "Organ og anna biologisk materiale kan takast ut av kroppen for nærare undersøking og prøvetaking. Organ skal leggjast tilbake i kroppen når undersøkinga og prøvetakinga er avslutta, med mindre formålet med obduksjonen krev at organet må behaldast for å sluttføre undersøkinga eller organet skal brukast til undervisning.\nDet kan gjevast undervisning i samband med obduksjonar etter lova her.\nDepartementet kan gi forskrift om korleis obduksjonar etter lova her skal gjennomførast og om avgjeving og bruk av obduksjonsmateriale.\n0 Endra ved lov 6 mars 2020 nr. 2 (ikr. 1 mai 2020 iflg. res. 6 mars 2020 nr. 244).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:8 a",
+      "chapter": "2",
+      "section": "8 a",
+      "title": "Innhenting av helseopplysningar",
+      "content": "Legen som obduserer etter lova her skal utan omsyn til at opplysningane er underlagde teieplikt få nødvendige helseopplysningar om avdøde.\n0 Tilføyd ved lov 6 mars 2020 nr. 2 (ikr. 1 mai 2020 iflg. res. 6 mars 2020 nr. 244).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8a",
+        "source_heading": "§ 8 a."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Samtykke til bruk av lik i undervisning og forsking",
+      "content": "Personar som har fylt 18 år kan samtykke til at kroppen deira kan brukast i undervisning og forsking etter at dei er døde.\nDersom det kan godtgjerast at det er i tråd med ønsket til ein avdød som hadde fylt 18 år, kan næraste pårørande, jf. § 3 bokstav d, samtykke til at kroppen kan brukast i undervisning og forsking.\nSamtykke til bruk av lik til undervisning og forsking skal vere skriftlege.\nDepartementet kan gi forskrift om registrering og anna behandling av helseopplysingar og andre personopplysingar som er nødvendige for bruk av lik til undervisning og forsking.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Utlevering av lik til bruk i undervisning og forsking",
+      "content": "Departementet skal peike ut institusjonar som kan bruke lik til undervisning og forsking.\nInstitusjonar etter første ledd kan krevje å få utlevert lik som er gitt til undervisning og forsking. Eit lik kan ikkje krevjast utlevert før det er avklart at det ikkje vil bli kravd rettsmedisinsk obduksjon eller medisinsk obduksjon etter § 7 fjerde ledd.\nDepartementet kan gi forskrift om utlevering av lik til bruk i undervisning og forsking.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Bruk av lik i undervisning og forsking",
+      "content": "Eit lik som er utlevert etter § 10 andre ledd, skal tilbakeførast til dei pårørande for kremasjon innan to år etter dødsfallet. Næraste pårørande kan samtykke til at institusjonen kan behalde liket, eller delar av liket utover to år. Dersom den døde ikkje har pårørande, kan departementet samtykke til at institusjonen kan behalde liket eller delar av liket utover to år.\nDepartementet kan gi forskrift om bruk av lik i undervisning og forsking.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Dekning av kostnader ved bruk av lik til undervisning og forsking",
+      "content": "Kostnader til transport og kremasjon skal dekkjast av den institusjonen som har fått utlevert liket.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Fjerning av implantat",
+      "content": "Nødvendig uttak av implantat før kremasjon skal utførast av helsepersonell. Slikt uttak krev ikkje samtykke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Gravferd og utførsel av lik ved mistanke om unaturleg dødsfall",
+      "content": "Dersom det er grunn til mistanke om at ein persons død er forårsaka ved straffbar handling, eller det elles er grunn til å tru at rettsmedisinsk obduksjon vil bli kravd, må liket ikkje førast ut av landet eller gravleggjast utan tillating frå politiet.\nDepartementet kan gi forskrift om krav til dokumentasjon ved utførsel av lik.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Forholdet til forvaltningsloven",
+      "content": "Forvaltningsloven kapittel IV, V, VI og VIII gjeld ikkje for avgjerder som blir treft etter lova her. Heile forvaltningsloven gjeld likevel for avgjerder etter § 7 fjerde ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Pålegg og tvangsmulkt",
+      "content": "Statens helsetilsyn kan gi pålegg om retting og stenging, og fastsette tvangsmulkt etter reglane i helsetilsynsloven §§ 8 og 9.\n0 Endra ved lover 16 juni 2017 nr. 54 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 761). 15 des 2017 nr. 107 (ikr. 1 juli 2019 iflg. res. 26 apr 2019 nr. 541).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:16 a",
+      "chapter": "4",
+      "section": "16 a",
+      "title": "Straff",
+      "content": "Den som forsettleg eller grovt aktlaust bryt reglane i §§ 7, 8, 9, 10, 11 eller 14, eller i forskrifter som er gjevne med heimel i dei, blir straffa med bøter eller fengsel inntil 3 månader.\n0 Tilføyd ved lov 16 juni 2017 nr. 54 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 761), endra ved lov 18 juni 2021 nr. 122 (i kraft 1 juli 2022 iflg. res. 8 april 2022 nr. 570).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16a",
+        "source_heading": "§ 16 a."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Endringar i andre lover",
+      "content": "– – –\nLov 4. juni 1898 indeholdende visse Bestemmelser om Behandlingen af Lig opphevast.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Iverksetjing",
+      "content": "Lova gjeld frå den tida Kongen fastset.​1 Kongen kan setje i verk dei einskilde føresegnene til ulik tid.\n1 Frå 1 jan 2016 iflg. res. 13 nov 2015 nr. 1289.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    }
+  ]
+}

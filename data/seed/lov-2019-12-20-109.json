@@ -1,0 +1,759 @@
+{
+  "id": "LOV-2019-12-20-109",
+  "type": "statute",
+  "title": "Lov om behandling av opplysninger i kredittopplysningsvirksomhet (kredittopplysningsloven)",
+  "short_name": "Kredittopplysningsloven",
+  "status": "in_force",
+  "issued_date": "2019-12-20",
+  "in_force_date": "2022-07-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2019-12-20-109",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Saklig virkeområde",
+      "content": "Loven gjelder for utlevering og annen behandling av opplysninger som ledd i kredittopplysningsvirksomhet dersom annet ikke er bestemt i eller i medhold av lov.\nFølgende regnes ikke som kredittopplysningsvirksomhet:\na. meldinger fra offentlige registre om rettigheter og heftelser i fast eiendom eller løsøre,\nb. meldinger til den opplysningene gjelder,\nc. Brønnøysundregistrenes behandling av lovpålagte registre,\nd. meldinger fra Løsøreregisteret om registrerte utleggstrekk og forretninger om «intet til utlegg».",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Geografisk virkeområde",
+      "content": "Loven gjelder for behandling av kredittopplysninger som utføres i forbindelse med aktivitetene ved virksomheten til en behandlingsansvarlig i Norge, uavhengig av om behandlingen finner sted i Norge eller ikke.\nKongen kan i forskrift bestemme at loven helt eller delvis skal gjelde for Svalbard og Jan Mayen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I denne loven menes med\na. personopplysning: enhver opplysning om en identifisert eller identifiserbar fysisk person; en identifiserbar fysisk person er en person som direkte eller indirekte kan identifiseres, særlig ved hjelp av en identifikator, f.eks. et navn, et identifikasjonsnummer, lokaliseringsopplysninger, en nettidentifikator eller ett eller flere elementer som er spesifikke for nevnte fysiske persons fysiske, fysiologiske, genetiske, psykiske, økonomiske, kulturelle eller sosiale identitet,\nb. kredittopplysning: opplysning som belyser kredittevnen til en fysisk eller juridisk person,\nc. gjeldsopplysning: opplysninger som nevnt i gjeldsinformasjonsloven § 2 bokstav d,\nd. kredittopplysningsvirksomhet: virksomhet som består i ervervsmessig eller stadig utlevering av kredittopplysninger i den hensikt å belyse kredittevne,\ne. kredittopplysningsregister: enhver strukturert samling av opplysninger som er tilgjengelig etter særlige kriterier, enten samlingen er plassert sentralt, er desentralisert eller spredt på et funksjonelt eller geografisk grunnlag, og som brukes i kredittopplysningsvirksomhet,\nf. behandling: enhver operasjon eller rekke av operasjoner som gjøres med opplysninger om fysiske eller juridiske personer, enten automatisert eller ikke, f.eks. innsamling, registrering, organisering, strukturering, lagring, tilpasning eller endring, gjenfinning, konsultering, bruk, utlevering ved overføring, spredning eller alle andre former for tilgjengeliggjøring, sammenstilling eller samkjøring, begrensning, sletting eller tilintetgjøring,\ng. kredittrating og kredittscore: matematisk beregnet poengsum eller kode som beskriver risikoprofil og som brukes til å bedømme kredittevne,\nh. inkassoforetak: foretak som driver inkassovirksomhet i henhold til inkassoloven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Forholdet til personopplysningsloven og personvernforordningen",
+      "content": "Personopplysningsloven og personvernforordningen gjelder for behandling av personopplysninger i kredittopplysningsvirksomhet dersom annet ikke følger av denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Behandlingsansvarliges og databehandlers ansvar",
+      "content": "Personvernforordningen artikkel 24, 26 og 28 til 34 om behandlingsansvarliges og databehandleres ansvar gjelder tilsvarende for behandling av opplysninger om juridiske personer i kredittopplysningsvirksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Opplysninger som kan behandles i kredittopplysningsvirksomhet",
+      "content": "I kredittopplysningsvirksomhet kan det behandles grunndata, kredittopplysninger og gjeldsopplysninger fra gjeldsinformasjonsforetak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Særlige kategorier av personopplysninger",
+      "content": "Personopplysninger om rasemessig eller etnisk opprinnelse, politisk oppfatning, religion, filosofisk overbevisning eller fagforeningsmedlemskap, samt behandling av genetiske opplysninger og biometriske opplysninger med det formål å entydig identifisere en fysisk person, helseopplysninger eller opplysninger om en fysisk persons seksuelle forhold eller seksuelle orientering, jf. personvernforordningen artikkel 9 nr. 1, kan ikke brukes i kredittopplysningsvirksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Opplysninger om straffedommer og lovovertredelser",
+      "content": "Opplysninger om fysiske eller juridiske personers straffedommer og lovovertredelser eller tilknyttede sikkerhetstiltak kan ikke brukes i kredittopplysningsvirksomhet.\nFørste ledd gjelder likevel ikke opplysninger om overtredelser av straffeloven §§ 392 til 394.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Kilder",
+      "content": "Kredittopplysninger kan innhentes fra følgende kilder:\n1. offentlig tilgjengelige kilder,\n2. inkassoforetak,\n3. Statens kartverk og virksomheter som videreformidler eiendomsopplysninger fra Statens kartverk i henhold til forskrift om utlevering, viderebruk og annen behandling av opplysninger fra grunnboken og matrikkelen,\n4. Folkeregisteret,\n5. Skattedirektoratet,\n6. gjeldsinformasjonsforetak,\n7. den registrerte selv,\n8. register over kredittsperrer, jf. § 16.\nOpplysninger om konkurs, akkord og gjeldsforhandlinger kan bare hentes fra Brønnøysundregistrene og Norsk lysingsblad.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Inkassoopplysninger",
+      "content": "Inkassoopplysninger om krav mot fysiske personer kan ikke brukes i kredittopplysningsvirksomhet før en måned etter at inkassoforetaket har sendt stevning eller begjæring om rettslige skritt i saken. Ved eventuelt brudd på en nedbetalingsavtale som er inngått med et inkassoforetak, gjelder ikke denne begrensningen. Dersom betalingsavtalen gjenopptas, skal bruddet ikke registreres som en betalingsanmerkning.\nRegistrerte inkassoopplysninger om juridiske personer kan ikke brukes i kredittopplysningsvirksomhet før en måned etter at inkassoforetaket har sendt krav om inndrivelse av gjelden.\nDersom flere inkassoopplysninger knytter seg til samme krav, skal opplysningene registreres som én anmerkning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Omtvistet fordring",
+      "content": "Inkassoopplysninger som stammer fra en omtvistet fordring, skal ikke brukes i kredittopplysningsvirksomhet. Fordringen skal anses som omtvistet dersom skyldneren har innsigelser mot denne, med mindre innsigelsene er åpenbart grunnløse.\nEn fordring er ikke lenger å regne som omtvistet når det foreligger tvangsgrunnlag, jf. tvangsfullbyrdelsesloven § 4-1. En rettskraftig avgjørelse som er foranlediget av en omtvistet fordring, skal ikke brukes i kredittopplysningsvirksomhet dersom den registrerte gjør opp for seg innenfor domstolens fastsatte frist.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Kredittrating eller kredittscore av juridiske personer",
+      "content": "Som grunnlag for kredittrating eller kredittscore av juridiske personer er det bare tillatt å gjøre bruk av opplysninger om den juridiske personen.\nOpplysninger om personer i ledende stillinger hos den juridiske personen kan likevel brukes som grunnlag for utarbeidelse av kredittrating eller kredittscore frem til første regnskap er tilgjengelig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "title": "Opplysninger om tidligere forespørsler",
+      "content": "Opplysninger om tidligere forespørsler om kredittopplysninger kan ikke brukes i kredittopplysningsvirksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Utlevering av kredittopplysninger",
+      "content": "Kredittopplysninger kan bare utleveres til mottakere som har saklig behov for opplysningene i forbindelse med vurdering av kredittevne.\nKredittopplysninger kan bare utleveres på grunnlag av søkekriterier som gir unike treff i kredittopplysningsregisteret.\nKredittopplysninger skal utleveres skriftlig. Tilgang til direkte søk i kredittopplysninger skal ikke gis til privatpersoner.\nKredittopplysninger kan utleveres i form av kredittrating eller kredittscore for juridiske personer eller kredittscore for fysiske personer.\nAvtaler som går ut på at mottakeren skal få utlevert fremtidige kredittopplysninger (kredittovervåking), kan bare omfatte opplysninger om juridiske personer.\nFørste ledd er ikke til hinder for at kredittopplysninger utleveres\na. for bruk til journalistiske formål. Kredittopplysninger om fysiske personer kan bare utleveres til journalistiske formål i samsvar med personopplysningsloven § 3 dersom mottaker kunne innhentet de samme opplysningene fra en offentlig tilgjengelig kilde,\nb. til Statistisk sentralbyrå, Norges Bank og Finanstilsynet for analyse-, overvåkings- og statistikkformål. Slik utlevering skal skje vederlagsfritt for mottaker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Utlevering av gjeldsopplysninger",
+      "content": "Gjeldsopplysninger om fysiske personer kan bare utleveres i samsvar med gjeldsinformasjonsloven § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Adgang til å motsette seg utlevering av opplysninger (kredittsperre)",
+      "content": "Den registrerte har rett til å motsette seg at opplysninger utleveres i kredittopplysningsvirksomhet (kredittsperre). Dersom den registrerte har registrert kredittsperre, er det kun informasjon om kredittsperren som kan utleveres.\nKredittopplysninger kan likevel utleveres til bank, kreditt- eller finansieringsforetak som ledd i gjennomføring av deres lovpålagte risikovurderinger og til inkassoforetak.\nDen som ønsker å registrere eller oppheve en kredittsperre, skal legitimere seg ved bruk av elektronisk ID.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Innsynsrett og informasjon til den registrerte",
+      "content": "Fysiske personer har rett til å få en forklaring på eventuell kredittscore. Forklaringen skal tilfredsstille kravene i personvernforordningen artikkel 15 nr. 1 bokstav h.\nJuridiske personer har rett til innsyn tilsvarende retten etter personvernforordningen artikkel 15.\nBåde fysiske og juridiske personer kan kreve å få opplyst hvilke opplysninger som er utlevert om dem de siste seks måneder, hvem opplysningene ble utlevert til, og hvilke kilder opplysningene er hentet fra.\nInnsyn skal være gratis for den registrerte. Unntakene i personvernforordningen artikkel 12 nr. 5 gjelder tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Gjenpartsplikt",
+      "content": "Ved utlevering av kredittopplysninger om fysiske personer skal gjenpart, kopi eller annen melding om innholdet i kredittopplysningene samtidig sendes vederlagsfritt til den registrerte.\nGjenpartsbrevet skal i tillegg inneholde informasjon om:\n1. identiteten og kontaktopplysningene til den behandlingsansvarlige for utleveringen og eventuelt den behandlingsansvarliges representant,\n2. kontaktopplysninger til personvernombudet, dersom dette er relevant,\n3. kilden som de utleverte opplysningene er hentet fra,\n4. hvem som har etterspurt kredittopplysninger,\n5. personopplysningene som ligger til grunn for en eventuell kredittscore,\n6. forklaring på den underliggende logikken i beregningen av en eventuell kredittscore,\n7. dato for når kredittvurderingen ble foretatt.\nPlikten til å sende gjenpart gjelder ikke når kredittopplysninger utleveres til et inkassoforetak som tidligere har fått utlevert disse opplysningene i forbindelse med inndrivingen av den samme fordringen.\nPlikten til å sende gjenpart gjelder ikke når kredittopplysninger utleveres til bank, kreditt- og finansieringsforetak til bruk i risiko- og soliditetsvurderinger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Forhåndsvarsel til fysiske personer",
+      "content": "Når kredittopplysninger om en fysisk person registreres i et kredittopplysningsregister, skal den behandlingsansvarlige straks sende kopi av opplysningene til den registrerte. Forhåndsvarselet skal, i tillegg til den registrerte kredittopplysningen, inneholde den informasjonen som fremgår i personvernforordningen artikkel 14.\nPlikten til forhåndsvarsling gjelder ikke ved registrering av opplysninger om skattefastsetting fra Skattedirektoratet, ved registrering av næringsinteresser fra Brønnøysundregistrene eller ved oppdatering av grunndata.\nPlikten til forhåndsvarsling gjelder heller ikke ved innhenting av opplysninger om utlegg og innhenting av opplysninger om utleggsforretning og andre tvangsforretninger når varsel om slik innhenting er gitt i forbindelse med utsendelse av namsboken.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Retting av uriktige opplysninger",
+      "content": "Registrerte fysiske personer skal i forhåndsvarselet etter § 19 oppfordres til å be om retting av eventuelle uriktige opplysninger innen 14 dager fra mottak av forhåndsvarselet. De nyregistrerte opplysningene kan ikke brukes i kredittopplysningsvirksomhet før fristen er utløpt. Opplysninger om at gjeldsordning eller konkurs er åpnet, kan likevel brukes samtidig med at varsel sendes.\nDen behandlingsansvarlige er ansvarlig for og skal kunne påvise at opplysninger om både fysiske og juridiske personer som behandles som ledd i kredittopplysningsvirksomhet, er korrekte og om nødvendig oppdaterte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Brukstid",
+      "content": "En opplysning skal ikke behandles i kredittopplysningsvirksomhet lenger enn fire år regnet fra den dato opplysningen første gang ble lovlig registrert med mindre annet følger av dette kapitlet.\nOpplysninger som på et tidligere tidspunkt rettes eller slettes hos kilden for opplysningene, skal rettes eller slettes i kredittopplysningsvirksomheten så snart den behandlingsansvarlige får kjennskap til endringen hos kilden.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Fordring med lengre brukstid",
+      "content": "Opplysninger om tvangsforretning i fast eiendom eller løsøre kan behandles i kredittopplysningsvirksomhet så lenge de er registrert i det relevante offentlige registeret.\nEn fordring som ikke kan tvangsinndrives, kan behandles i kredittopplysningsvirksomhet i ytterligere fire år, dersom det tas nye rettslige skritt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Gjeldsordning",
+      "content": "Opplysning om åpning av gjeldsforhandling etter gjeldsordningsloven kan ikke behandles i kredittopplysningsvirksomhet dersom\na. saken om gjeldsordning er hevet,\nb. gjeldsordning er fastsatt,\nc. gjeldsforhandlingsperioden er avsluttet uten at det er mottatt melding om at gjeldsordning er fastsatt.\nOpplysning om åpning av gjeldsforhandling kan ikke behandles i kredittopplysningsvirksomhet lenger enn ett år fra åpningtidspunktet.\nOpplysning om registrert gjeldsordning i henhold til gjeldsordningsloven § 7-1 kan behandles i kredittopplysningsvirksomhet så lenge ordningen varer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Fordring som er oppgjort",
+      "content": "Når en fordring er gjort opp, skal registreringen av fordringen ikke lenger brukes i kredittopplysningsvirksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Historisk arkiv",
+      "content": "Opplysninger som ikke lenger kan behandles i kredittopplysningsvirksomhet, jf. §§ 21 til 24, skal slettes eller overføres til historisk arkiv.\nOpplysningene i historisk arkiv skal slettes eller anonymiseres når det ikke lenger er nødvendig for formålet med behandlingen at opplysningene lagres i identifiserbar form, og senest når det er gått ti år fra det tidspunktet opplysningen første gang ble registrert i kredittopplysningsvirksomheten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Opphør av virksomhet",
+      "content": "Dersom virksomheten opphører, skal opplysningene slettes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Overtredelsesgebyr, tvangsmulkt og erstatning",
+      "content": "Ved overtredelse av bestemmelsene i denne loven, gjelder personvernforordningen artikkel 82 og 83 nr. 5 og personopplysningsloven §§ 26 til 30 tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:28",
+      "chapter": "6",
+      "section": "28",
+      "title": "Tilsyn og klage",
+      "content": "Personvernforordningen artikkel 55 til 58 og personopplysningsloven §§ 20 til 25 gjelder tilsvarende for tilsyn og klage etter denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "title": "Forskrifter",
+      "content": "Kongen kan i forskrift gi nærmere regler om kredittopplysningsvirksomhet og behandling av opplysninger i slik virksomhet, herunder hvilke opplysninger som kan behandles etter § 6, og hvilke kilder opplysningene kan innhentes fra i henhold til § 9.\nKongen kan gi forskrift om dekning av Datatilsynets kostnader ved kontroll med etterlevelse av denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "7:30",
+      "chapter": "7",
+      "section": "30",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer​1.\n1 Fra 1 juli 2022 iflg. res. 20 mai 2022 nr. 872.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "7:31",
+      "chapter": "7",
+      "section": "31",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tiden loven her trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Saklig virkeområde",
+      "content": "Loven gjelder for utlevering og annen behandling av opplysninger som ledd i kredittopplysningsvirksomhet dersom annet ikke er bestemt i eller i medhold av lov.\nFølgende regnes ikke som kredittopplysningsvirksomhet:\na. meldinger fra offentlige registre om rettigheter og heftelser i fast eiendom eller løsøre,\nb. meldinger til den opplysningene gjelder,\nc. Brønnøysundregistrenes behandling av lovpålagte registre,\nd. meldinger fra Løsøreregisteret om registrerte utleggstrekk og forretninger om «intet til utlegg».",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Geografisk virkeområde",
+      "content": "Loven gjelder for behandling av kredittopplysninger som utføres i forbindelse med aktivitetene ved virksomheten til en behandlingsansvarlig i Norge, uavhengig av om behandlingen finner sted i Norge eller ikke.\nKongen kan i forskrift bestemme at loven helt eller delvis skal gjelde for Svalbard og Jan Mayen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I denne loven menes med\na. personopplysning: enhver opplysning om en identifisert eller identifiserbar fysisk person; en identifiserbar fysisk person er en person som direkte eller indirekte kan identifiseres, særlig ved hjelp av en identifikator, f.eks. et navn, et identifikasjonsnummer, lokaliseringsopplysninger, en nettidentifikator eller ett eller flere elementer som er spesifikke for nevnte fysiske persons fysiske, fysiologiske, genetiske, psykiske, økonomiske, kulturelle eller sosiale identitet,\nb. kredittopplysning: opplysning som belyser kredittevnen til en fysisk eller juridisk person,\nc. gjeldsopplysning: opplysninger som nevnt i gjeldsinformasjonsloven § 2 bokstav d,\nd. kredittopplysningsvirksomhet: virksomhet som består i ervervsmessig eller stadig utlevering av kredittopplysninger i den hensikt å belyse kredittevne,\ne. kredittopplysningsregister: enhver strukturert samling av opplysninger som er tilgjengelig etter særlige kriterier, enten samlingen er plassert sentralt, er desentralisert eller spredt på et funksjonelt eller geografisk grunnlag, og som brukes i kredittopplysningsvirksomhet,\nf. behandling: enhver operasjon eller rekke av operasjoner som gjøres med opplysninger om fysiske eller juridiske personer, enten automatisert eller ikke, f.eks. innsamling, registrering, organisering, strukturering, lagring, tilpasning eller endring, gjenfinning, konsultering, bruk, utlevering ved overføring, spredning eller alle andre former for tilgjengeliggjøring, sammenstilling eller samkjøring, begrensning, sletting eller tilintetgjøring,\ng. kredittrating og kredittscore: matematisk beregnet poengsum eller kode som beskriver risikoprofil og som brukes til å bedømme kredittevne,\nh. inkassoforetak: foretak som driver inkassovirksomhet i henhold til inkassoloven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Forholdet til personopplysningsloven og personvernforordningen",
+      "content": "Personopplysningsloven og personvernforordningen gjelder for behandling av personopplysninger i kredittopplysningsvirksomhet dersom annet ikke følger av denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Behandlingsansvarliges og databehandlers ansvar",
+      "content": "Personvernforordningen artikkel 24, 26 og 28 til 34 om behandlingsansvarliges og databehandleres ansvar gjelder tilsvarende for behandling av opplysninger om juridiske personer i kredittopplysningsvirksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Opplysninger som kan behandles i kredittopplysningsvirksomhet",
+      "content": "I kredittopplysningsvirksomhet kan det behandles grunndata, kredittopplysninger og gjeldsopplysninger fra gjeldsinformasjonsforetak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Særlige kategorier av personopplysninger",
+      "content": "Personopplysninger om rasemessig eller etnisk opprinnelse, politisk oppfatning, religion, filosofisk overbevisning eller fagforeningsmedlemskap, samt behandling av genetiske opplysninger og biometriske opplysninger med det formål å entydig identifisere en fysisk person, helseopplysninger eller opplysninger om en fysisk persons seksuelle forhold eller seksuelle orientering, jf. personvernforordningen artikkel 9 nr. 1, kan ikke brukes i kredittopplysningsvirksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Opplysninger om straffedommer og lovovertredelser",
+      "content": "Opplysninger om fysiske eller juridiske personers straffedommer og lovovertredelser eller tilknyttede sikkerhetstiltak kan ikke brukes i kredittopplysningsvirksomhet.\nFørste ledd gjelder likevel ikke opplysninger om overtredelser av straffeloven §§ 392 til 394.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Kilder",
+      "content": "Kredittopplysninger kan innhentes fra følgende kilder:\n1. offentlig tilgjengelige kilder,\n2. inkassoforetak,\n3. Statens kartverk og virksomheter som videreformidler eiendomsopplysninger fra Statens kartverk i henhold til forskrift om utlevering, viderebruk og annen behandling av opplysninger fra grunnboken og matrikkelen,\n4. Folkeregisteret,\n5. Skattedirektoratet,\n6. gjeldsinformasjonsforetak,\n7. den registrerte selv,\n8. register over kredittsperrer, jf. § 16.\nOpplysninger om konkurs, akkord og gjeldsforhandlinger kan bare hentes fra Brønnøysundregistrene og Norsk lysingsblad.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Inkassoopplysninger",
+      "content": "Inkassoopplysninger om krav mot fysiske personer kan ikke brukes i kredittopplysningsvirksomhet før en måned etter at inkassoforetaket har sendt stevning eller begjæring om rettslige skritt i saken. Ved eventuelt brudd på en nedbetalingsavtale som er inngått med et inkassoforetak, gjelder ikke denne begrensningen. Dersom betalingsavtalen gjenopptas, skal bruddet ikke registreres som en betalingsanmerkning.\nRegistrerte inkassoopplysninger om juridiske personer kan ikke brukes i kredittopplysningsvirksomhet før en måned etter at inkassoforetaket har sendt krav om inndrivelse av gjelden.\nDersom flere inkassoopplysninger knytter seg til samme krav, skal opplysningene registreres som én anmerkning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Omtvistet fordring",
+      "content": "Inkassoopplysninger som stammer fra en omtvistet fordring, skal ikke brukes i kredittopplysningsvirksomhet. Fordringen skal anses som omtvistet dersom skyldneren har innsigelser mot denne, med mindre innsigelsene er åpenbart grunnløse.\nEn fordring er ikke lenger å regne som omtvistet når det foreligger tvangsgrunnlag, jf. tvangsfullbyrdelsesloven § 4-1. En rettskraftig avgjørelse som er foranlediget av en omtvistet fordring, skal ikke brukes i kredittopplysningsvirksomhet dersom den registrerte gjør opp for seg innenfor domstolens fastsatte frist.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Kredittrating eller kredittscore av juridiske personer",
+      "content": "Som grunnlag for kredittrating eller kredittscore av juridiske personer er det bare tillatt å gjøre bruk av opplysninger om den juridiske personen.\nOpplysninger om personer i ledende stillinger hos den juridiske personen kan likevel brukes som grunnlag for utarbeidelse av kredittrating eller kredittscore frem til første regnskap er tilgjengelig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "title": "Opplysninger om tidligere forespørsler",
+      "content": "Opplysninger om tidligere forespørsler om kredittopplysninger kan ikke brukes i kredittopplysningsvirksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Utlevering av kredittopplysninger",
+      "content": "Kredittopplysninger kan bare utleveres til mottakere som har saklig behov for opplysningene i forbindelse med vurdering av kredittevne.\nKredittopplysninger kan bare utleveres på grunnlag av søkekriterier som gir unike treff i kredittopplysningsregisteret.\nKredittopplysninger skal utleveres skriftlig. Tilgang til direkte søk i kredittopplysninger skal ikke gis til privatpersoner.\nKredittopplysninger kan utleveres i form av kredittrating eller kredittscore for juridiske personer eller kredittscore for fysiske personer.\nAvtaler som går ut på at mottakeren skal få utlevert fremtidige kredittopplysninger (kredittovervåking), kan bare omfatte opplysninger om juridiske personer.\nFørste ledd er ikke til hinder for at kredittopplysninger utleveres\na. for bruk til journalistiske formål. Kredittopplysninger om fysiske personer kan bare utleveres til journalistiske formål i samsvar med personopplysningsloven § 3 dersom mottaker kunne innhentet de samme opplysningene fra en offentlig tilgjengelig kilde,\nb. til Statistisk sentralbyrå, Norges Bank og Finanstilsynet for analyse-, overvåkings- og statistikkformål. Slik utlevering skal skje vederlagsfritt for mottaker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Utlevering av gjeldsopplysninger",
+      "content": "Gjeldsopplysninger om fysiske personer kan bare utleveres i samsvar med gjeldsinformasjonsloven § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Adgang til å motsette seg utlevering av opplysninger (kredittsperre)",
+      "content": "Den registrerte har rett til å motsette seg at opplysninger utleveres i kredittopplysningsvirksomhet (kredittsperre). Dersom den registrerte har registrert kredittsperre, er det kun informasjon om kredittsperren som kan utleveres.\nKredittopplysninger kan likevel utleveres til bank, kreditt- eller finansieringsforetak som ledd i gjennomføring av deres lovpålagte risikovurderinger og til inkassoforetak.\nDen som ønsker å registrere eller oppheve en kredittsperre, skal legitimere seg ved bruk av elektronisk ID.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Innsynsrett og informasjon til den registrerte",
+      "content": "Fysiske personer har rett til å få en forklaring på eventuell kredittscore. Forklaringen skal tilfredsstille kravene i personvernforordningen artikkel 15 nr. 1 bokstav h.\nJuridiske personer har rett til innsyn tilsvarende retten etter personvernforordningen artikkel 15.\nBåde fysiske og juridiske personer kan kreve å få opplyst hvilke opplysninger som er utlevert om dem de siste seks måneder, hvem opplysningene ble utlevert til, og hvilke kilder opplysningene er hentet fra.\nInnsyn skal være gratis for den registrerte. Unntakene i personvernforordningen artikkel 12 nr. 5 gjelder tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Gjenpartsplikt",
+      "content": "Ved utlevering av kredittopplysninger om fysiske personer skal gjenpart, kopi eller annen melding om innholdet i kredittopplysningene samtidig sendes vederlagsfritt til den registrerte.\nGjenpartsbrevet skal i tillegg inneholde informasjon om:\n1. identiteten og kontaktopplysningene til den behandlingsansvarlige for utleveringen og eventuelt den behandlingsansvarliges representant,\n2. kontaktopplysninger til personvernombudet, dersom dette er relevant,\n3. kilden som de utleverte opplysningene er hentet fra,\n4. hvem som har etterspurt kredittopplysninger,\n5. personopplysningene som ligger til grunn for en eventuell kredittscore,\n6. forklaring på den underliggende logikken i beregningen av en eventuell kredittscore,\n7. dato for når kredittvurderingen ble foretatt.\nPlikten til å sende gjenpart gjelder ikke når kredittopplysninger utleveres til et inkassoforetak som tidligere har fått utlevert disse opplysningene i forbindelse med inndrivingen av den samme fordringen.\nPlikten til å sende gjenpart gjelder ikke når kredittopplysninger utleveres til bank, kreditt- og finansieringsforetak til bruk i risiko- og soliditetsvurderinger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Forhåndsvarsel til fysiske personer",
+      "content": "Når kredittopplysninger om en fysisk person registreres i et kredittopplysningsregister, skal den behandlingsansvarlige straks sende kopi av opplysningene til den registrerte. Forhåndsvarselet skal, i tillegg til den registrerte kredittopplysningen, inneholde den informasjonen som fremgår i personvernforordningen artikkel 14.\nPlikten til forhåndsvarsling gjelder ikke ved registrering av opplysninger om skattefastsetting fra Skattedirektoratet, ved registrering av næringsinteresser fra Brønnøysundregistrene eller ved oppdatering av grunndata.\nPlikten til forhåndsvarsling gjelder heller ikke ved innhenting av opplysninger om utlegg og innhenting av opplysninger om utleggsforretning og andre tvangsforretninger når varsel om slik innhenting er gitt i forbindelse med utsendelse av namsboken.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Retting av uriktige opplysninger",
+      "content": "Registrerte fysiske personer skal i forhåndsvarselet etter § 19 oppfordres til å be om retting av eventuelle uriktige opplysninger innen 14 dager fra mottak av forhåndsvarselet. De nyregistrerte opplysningene kan ikke brukes i kredittopplysningsvirksomhet før fristen er utløpt. Opplysninger om at gjeldsordning eller konkurs er åpnet, kan likevel brukes samtidig med at varsel sendes.\nDen behandlingsansvarlige er ansvarlig for og skal kunne påvise at opplysninger om både fysiske og juridiske personer som behandles som ledd i kredittopplysningsvirksomhet, er korrekte og om nødvendig oppdaterte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Brukstid",
+      "content": "En opplysning skal ikke behandles i kredittopplysningsvirksomhet lenger enn fire år regnet fra den dato opplysningen første gang ble lovlig registrert med mindre annet følger av dette kapitlet.\nOpplysninger som på et tidligere tidspunkt rettes eller slettes hos kilden for opplysningene, skal rettes eller slettes i kredittopplysningsvirksomheten så snart den behandlingsansvarlige får kjennskap til endringen hos kilden.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Fordring med lengre brukstid",
+      "content": "Opplysninger om tvangsforretning i fast eiendom eller løsøre kan behandles i kredittopplysningsvirksomhet så lenge de er registrert i det relevante offentlige registeret.\nEn fordring som ikke kan tvangsinndrives, kan behandles i kredittopplysningsvirksomhet i ytterligere fire år, dersom det tas nye rettslige skritt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Gjeldsordning",
+      "content": "Opplysning om åpning av gjeldsforhandling etter gjeldsordningsloven kan ikke behandles i kredittopplysningsvirksomhet dersom\na. saken om gjeldsordning er hevet,\nb. gjeldsordning er fastsatt,\nc. gjeldsforhandlingsperioden er avsluttet uten at det er mottatt melding om at gjeldsordning er fastsatt.\nOpplysning om åpning av gjeldsforhandling kan ikke behandles i kredittopplysningsvirksomhet lenger enn ett år fra åpningtidspunktet.\nOpplysning om registrert gjeldsordning i henhold til gjeldsordningsloven § 7-1 kan behandles i kredittopplysningsvirksomhet så lenge ordningen varer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Fordring som er oppgjort",
+      "content": "Når en fordring er gjort opp, skal registreringen av fordringen ikke lenger brukes i kredittopplysningsvirksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Historisk arkiv",
+      "content": "Opplysninger som ikke lenger kan behandles i kredittopplysningsvirksomhet, jf. §§ 21 til 24, skal slettes eller overføres til historisk arkiv.\nOpplysningene i historisk arkiv skal slettes eller anonymiseres når det ikke lenger er nødvendig for formålet med behandlingen at opplysningene lagres i identifiserbar form, og senest når det er gått ti år fra det tidspunktet opplysningen første gang ble registrert i kredittopplysningsvirksomheten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Opphør av virksomhet",
+      "content": "Dersom virksomheten opphører, skal opplysningene slettes.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Overtredelsesgebyr, tvangsmulkt og erstatning",
+      "content": "Ved overtredelse av bestemmelsene i denne loven, gjelder personvernforordningen artikkel 82 og 83 nr. 5 og personopplysningsloven §§ 26 til 30 tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:28",
+      "chapter": "6",
+      "section": "28",
+      "title": "Tilsyn og klage",
+      "content": "Personvernforordningen artikkel 55 til 58 og personopplysningsloven §§ 20 til 25 gjelder tilsvarende for tilsyn og klage etter denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "title": "Forskrifter",
+      "content": "Kongen kan i forskrift gi nærmere regler om kredittopplysningsvirksomhet og behandling av opplysninger i slik virksomhet, herunder hvilke opplysninger som kan behandles etter § 6, og hvilke kilder opplysningene kan innhentes fra i henhold til § 9.\nKongen kan gi forskrift om dekning av Datatilsynets kostnader ved kontroll med etterlevelse av denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "7:30",
+      "chapter": "7",
+      "section": "30",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer​1.\n1 Fra 1 juli 2022 iflg. res. 20 mai 2022 nr. 872.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "7:31",
+      "chapter": "7",
+      "section": "31",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tiden loven her trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    }
+  ]
+}

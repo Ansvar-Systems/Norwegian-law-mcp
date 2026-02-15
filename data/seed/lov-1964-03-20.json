@@ -1,0 +1,115 @@
+{
+  "id": "LOV-1964-03-20",
+  "type": "statute",
+  "title": "Lov om tillegg til lov om pengevesenet av 17. april 1875",
+  "short_name": "Lov om tillegg til lov om pengevesenet",
+  "status": "in_force",
+  "issued_date": "1964-03-20",
+  "in_force_date": "1964-03-20",
+  "url": "https://lovdata.no/dokument/NLO/lov/1964-03-20",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "I anledning av 150-års jubileet for Norges Grunnlov utmyntes en skillemynt i sølv pålydende 10 kroner og med metallinnhold 900 promille sølv og 100 promille kobber.\nKongen fastsetter skillemyntens form, størrelse, vekt, preg og det antall som skal myntes ut.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Lov om pengevesenet av 17. april 1875 med tilleggslover​1 gjelder så langt det passer og ikke annet følger av denne lov.\nIngen skal være forpliktet til i én betaling å motta et høyere beløp enn 100 kroner i denne mynt.​2\n1 Se lov 17. april 1875 med note 1.\n2 Jfr. s.l. § 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Differansen mellom verdien av den mynt som settes i sirkulasjon og produksjonsomkostningene, disponeres til almennyttige formål etter godkjenning av Stortinget.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Blanketter eller annet materiale for denne mynt skal være fritatt for toll og avgifter til statskassen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "I anledning av 150-års jubileet for Norges Grunnlov utmyntes en skillemynt i sølv pålydende 10 kroner og med metallinnhold 900 promille sølv og 100 promille kobber.\nKongen fastsetter skillemyntens form, størrelse, vekt, preg og det antall som skal myntes ut.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Lov om pengevesenet av 17. april 1875 med tilleggslover​1 gjelder så langt det passer og ikke annet følger av denne lov.\nIngen skal være forpliktet til i én betaling å motta et høyere beløp enn 100 kroner i denne mynt.​2\n1 Se lov 17. april 1875 med note 1.\n2 Jfr. s.l. § 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Differansen mellom verdien av den mynt som settes i sirkulasjon og produksjonsomkostningene, disponeres til almennyttige formål etter godkjenning av Stortinget.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Blanketter eller annet materiale for denne mynt skal være fritatt for toll og avgifter til statskassen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ]
+}

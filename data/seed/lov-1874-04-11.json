@@ -1,0 +1,57 @@
+{
+  "id": "LOV-1874-04-11",
+  "type": "statute",
+  "title": "Lov angaaende Overdragelse til Staten af Skove tilhørende offentlige Fonds m.V.",
+  "short_name": "Lov om Skove tilhørende offentlig Fonds.",
+  "status": "in_force",
+  "issued_date": "1874-04-11",
+  "in_force_date": "1874-04-11",
+  "url": "https://lovdata.no/dokument/NLO/lov/1874-04-11",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Naar der til geistlig, civil eller militær Embedsgaard, til geistligt Enkesæde eller til beneficeret Gods hører Skov, som det ansees af Vigtighed at bevare, kan den hele Eiendom eller den til samme hørende Skov eller en Del af denne overdrages til Staten uden Afholdelse af Auktion og saaledes, at Kjøbesummen fastsættes ved Skjøn, anordnet paa saadan Maade, som af Kongen bestemmes.\n1 Opphevet ved lov 9 des 1955 nr. 11 § 20 for så vidt angår geistlige embetsgårder og geistlige enkeseter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "(Opphevet ved lov 31 mai 1963 nr. 1.)",
+      "content": "§ 2.(Opphevet ved lov 31 mai 1963 nr. 1.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Naar der til geistlig, civil eller militær Embedsgaard, til geistligt Enkesæde eller til beneficeret Gods hører Skov, som det ansees af Vigtighed at bevare, kan den hele Eiendom eller den til samme hørende Skov eller en Del af denne overdrages til Staten uden Afholdelse af Auktion og saaledes, at Kjøbesummen fastsættes ved Skjøn, anordnet paa saadan Maade, som af Kongen bestemmes.\n1 Opphevet ved lov 9 des 1955 nr. 11 § 20 for så vidt angår geistlige embetsgårder og geistlige enkeseter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "(Opphevet ved lov 31 mai 1963 nr. 1.)",
+      "content": "§ 2.(Opphevet ved lov 31 mai 1963 nr. 1.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

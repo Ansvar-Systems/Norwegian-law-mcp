@@ -1,0 +1,115 @@
+{
+  "id": "LOV-1937-03-19-2",
+  "type": "statute",
+  "title": "Lov om enkelte bestemmelser angående underfogder",
+  "short_name": "Underfogdloven",
+  "status": "in_force",
+  "issued_date": "1937-03-19",
+  "in_force_date": "1937-03-19",
+  "url": "https://lovdata.no/dokument/NLO/lov/1937-03-19-2",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Enhver underfogd plikter å stille sikkerhet for det ansvar han ved egen eller underordnedes retsstridige adferd pådrar sig i tjenesten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Vedkommende kommune plikter uten utgift for staten å la utføre revisjon og kasseeftersyn ved stedets underfogdkontor.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Kommunen skal utferdige instruks for stedets underfogd. Instruksen trenger godkjenning av vedkommende regjeringsdepartement,​1 som også kan påby forandringer i tidligere utferdiget instruks.\nForandring i vilkårene for underfogdens avlønning trenger også godkjenning av departementet.\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Vedkommende regjeringsdepartement​1 kan gi nærmere bestemmelser om sikkerhetsstillelse – herunder regler om fremgangsmåten når det begjæres dekning av den stillede sikkerhet – og om revisjon og kasseeftersyn. Departementet kan også gi bestemmelser om underfogdenes forretningsføring og regnskapsordning.\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.\n0 Etter res. 27 sept. 1946 skal loven fortsatt være i kraft utover 1 okt. 1946.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Enhver underfogd plikter å stille sikkerhet for det ansvar han ved egen eller underordnedes retsstridige adferd pådrar sig i tjenesten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Vedkommende kommune plikter uten utgift for staten å la utføre revisjon og kasseeftersyn ved stedets underfogdkontor.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Kommunen skal utferdige instruks for stedets underfogd. Instruksen trenger godkjenning av vedkommende regjeringsdepartement,​1 som også kan påby forandringer i tidligere utferdiget instruks.\nForandring i vilkårene for underfogdens avlønning trenger også godkjenning av departementet.\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Vedkommende regjeringsdepartement​1 kan gi nærmere bestemmelser om sikkerhetsstillelse – herunder regler om fremgangsmåten når det begjæres dekning av den stillede sikkerhet – og om revisjon og kasseeftersyn. Departementet kan også gi bestemmelser om underfogdenes forretningsføring og regnskapsordning.\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.\n0 Etter res. 27 sept. 1946 skal loven fortsatt være i kraft utover 1 okt. 1946.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ]
+}

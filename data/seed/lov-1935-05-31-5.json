@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1935-05-31-5",
+  "type": "statute",
+  "title": "Lov om adgang til å utferdige forbud mot omsetning av ustemplet kjøtt og skinn av tamrein.",
+  "short_name": "Lov om salg av kjøtt og skinn av tamrein.",
+  "status": "in_force",
+  "issued_date": "1935-05-31",
+  "in_force_date": "1935-05-31",
+  "url": "https://lovdata.no/dokument/NLO/lov/1935-05-31-5",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen​1 kan for fylke eller del derav bestemme at det skal være forbudt å avhende, falby, kjøpe eller motta kjøtt eller skinn av tamrein med mindre det er behørig stemplet.\nDe nærmere regler om stemplingen fastsettes av Kongen eller den han bemyndiger.​1 Herunder kan fastsettes avgift for stemplingen og nærmere regler om de legitimasjoner som skal kreves før stempling foretas.\nKongen eller den han bemyndiger kan gi nærmere regler til gjennomføring av denne lov.\n0 Endret ved lov 29 mars 1946 nr. 4.\n1 Landbruks- og matdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Overtredelse av bestemmelser fastsatt i medhold av § 1 straffes med bøter.​1\n1 Jfr. lov 22 mai 1902 nr. 10 (strl.) § 27 og kap. 3 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen​1 kan for fylke eller del derav bestemme at det skal være forbudt å avhende, falby, kjøpe eller motta kjøtt eller skinn av tamrein med mindre det er behørig stemplet.\nDe nærmere regler om stemplingen fastsettes av Kongen eller den han bemyndiger.​1 Herunder kan fastsettes avgift for stemplingen og nærmere regler om de legitimasjoner som skal kreves før stempling foretas.\nKongen eller den han bemyndiger kan gi nærmere regler til gjennomføring av denne lov.\n0 Endret ved lov 29 mars 1946 nr. 4.\n1 Landbruks- og matdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Overtredelse av bestemmelser fastsatt i medhold av § 1 straffes med bøter.​1\n1 Jfr. lov 22 mai 1902 nr. 10 (strl.) § 27 og kap. 3 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

@@ -1,0 +1,781 @@
+{
+  "id": "LOV-1995-05-05-19",
+  "type": "statute",
+  "title": "Lov om barnehager (barnehageloven).",
+  "short_name": "Barnehageloven – bhl.",
+  "status": "in_force",
+  "issued_date": "1995-05-05",
+  "in_force_date": "1996-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1995-05-05-19",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Barnehagen skal gi barn under opplæringspliktig alder​1 gode utviklings- og aktivitetsmuligheter i nær forståelse og samarbeid med barnas hjem.\nBarnehagen skal hjelpe til med å gi barna en oppdragelse i samsvar med kristne grunnverdier.\nEiere av private barnehager kan i vedtektene bestemme at andre ledd ikke skal gjelde.​2\nPrivate barnehager og barnehager eiet eller drevet av menigheter innen Den norske kirke,​3 kan i vedtektene fastsette særlige bestemmelser om livssynsformål.​4\n1 Jfr. lov 17 juli 1998 nr. 61 § 2-1 tredje ledd.\n2 Se § 15 tredje ledd, c.\n3 Se lov 7 juni 1996 nr. 31.\n4 Se § 15 tredje ledd og § 19 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Barnehagens innhold",
+      "content": "Barnehagen skal være en pedagogisk tilrettelagt virksomhet.​1\nDepartementet​2 skal fastsette en rammeplan for barnehagen. Rammeplanen skal gi retningslinjer for barnehagens innhold og oppgaver.\nBarnehagens eier kan tilpasse rammeplanen til lokale forhold. Samarbeidsutvalget​3 for hver barnehage skal fastsette en årsplan for den pedagogiske virksomheten.\n1 Jfr. § 17 tredje ledd.\n2 Barne- og familiedepartementet.\n3 Se § 4 og § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Barnehagens utforming",
+      "content": "Barnehagen skal ha lokaler og uteområde som er egnet for formålet ut fra hensynet til barnas alder og oppholdstid. Barna skal ha mulighet for varierte aktiviteter i trygge omgivelser.\nUteområdet skal normalt ligge i umiddelbar tilknytning til barnehagens lokaler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Foreldreråd og samarbeidsutvalg",
+      "content": "For å sikre samarbeidet med barnas hjem, skal hver barnehage ha et foreldreråd​1 og et samarbeidsutvalg.​2\nForeldrerådet består av foreldrene/de foresatte til alle barna i barnehagen.\nSamarbeidsutvalget består av foreldre/foresatte og ansatte i barnehagen, slik at hver gruppe er likt representert. Barnehagens eier kan delta etter eget ønske, men ikke med flere representanter enn hver av de andre gruppene.\nDepartementet​3 gir forskrifter​4 om foreldrerådets og samarbeidsutvalgets oppgaver.\n1 Sml. lov 17 juli 1998 nr. 61 § 11-4.\n2 Sml. lov 17 juli 1998 nr. 61 § 11-1.\n3 Barne- og familiedepartementet.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Felles samarbeidsutvalg​1 for barnehage og skole",
+      "content": "Kommunen kan bestemme at det skal være et felles samarbeidsutvalg for kommunal barnehage og grunnskole. Der begge parter ønsker det, kan det etableres tilsvarende ordning for privat barnehage og kommunal eller privat skole. Samarbeidsutvalget settes også i slike tilfeller sammen etter § 4 tredje ledd, men slik at foreldrene/foresatte og ansatte fra både barnehagen og skolen skal være representert, jf. lov om grunnskolen og den vidaregåande opplæringa (opplæringslova)​2 § 11-1 femte ledd.\n0 Endret ved lov 17 juli 1998 nr. 61 (i kraft 1 aug 1999 iflg. res. 27 nov 1998 nr. 1096).\n1 Se § 4.\n2 Lov 17 juli 1998 nr. 61.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Eierstyre opprettet etter kommuneloven § 11",
+      "content": "Dersom kommunestyret oppretter eget styre for kommunale barnehager, jf. kommuneloven​1 § 11, skal minst to representanter for foreldrene være med i styret. Har styret bare tre medlemmer, skal foreldrene ha én representant.\n1 Lov 25 sep 1992 nr. 107.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Kommunens ansvar",
+      "content": "Kommunen har ansvar for utbygging og drift av barnehager i kommunen.\nKommunen har plikt til å sørge for at det finnes et tilstrekkelig antall barnehageplasser for barn under opplæringspliktig alder.\nUtbyggingsmønster og driftsformer skal tilpasses lokale forhold og behov.\nBarnehager for samiske barn i samiske distrikt​1 skal bygge på samisk språk og kultur.\n0 Endret ved lov 4 juli 2003 nr. 73 (i kraft 4 juli 2003 iflg. res. 4 juli 2003 nr. 899).\n1 Jfr. lov 17 juli 1998 nr. 61 § 6-1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:7 a",
+      "chapter": "3",
+      "section": "7 a",
+      "title": "Samordnet opptaksprosess i kommunen",
+      "content": "Alle godkjente​1 barnehager i kommunen skal samarbeide om opptak av barn. Kommunen skal legge til rette for en samordnet opptaksprosess, der det tas hensyn til barnehagenes mangfold og egenart. Brukernes ønsker og behov skal tillegges stor vekt ved selve opptaket. Ved en samordnet opptaksprosess skal likebehandling av barn og likebehandling av kommunale og private barnehager sikres.\n0 Tilføyd ved lov 4 juli 2003 nr. 73 (i kraft 4 juli 2003 iflg. res. 4 juli 2003 nr. 899).\n1 Se § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7a",
+        "source_heading": "§ 7a."
+      }
+    },
+    {
+      "provision_ref": "3:7 b",
+      "chapter": "3",
+      "section": "7 b",
+      "title": "Offentlig tilskudd til private barnehager",
+      "content": "Godkjente​1 barnehager skal behandles likeverdig i forhold til offentlige tilskudd.​2\nKongen kan gi forskrifter​3 med nærmere bestemmelser om hva som menes med likeverdig behandling.\n0 Tilføyd ved lov 4 juli 2003 nr. 73 (i kraft 1 mai 2004 iflg. res. 19 mars 2004 nr. 544).\n1 Se § 8 og kap. IV.\n2 Jfr. § 8 siste ledd.\n3 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7b",
+        "source_heading": "§ 7b."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Godkjenningsmyndigheten og forvaltning av statens driftstilskudd til private barnehager",
+      "content": "Kommunen godkjenner barnehager.​1\nFør kommunen fatter vedtak om godkjenning etter denne lov, skal vilkår stilt i eller med hjemmel i annen lov være klarlagt.\nKommunens vedtak kan påklages til fylkesmannen.​2\nKommunen forvalter tilskuddene​3 til private barnehager i kommunen.\n0 Endret ved lov 19 juni 1997 nr. 64 (i kraft 1 juli 1997).\n1 Jfr. § 7a, § 12, § 13, § 14 og § 15 siste ledd.\n2 Jfr. lov 10 feb 1967 kap. VI.\n3 Jfr. § 7b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:8 a",
+      "chapter": "3",
+      "section": "8 a",
+      "title": "Kontantstøtte – kommunens plikt til å føre register​1",
+      "content": "Hver kommune skal opprette og føre register til bruk for trygdekontorene i forbindelse med kontroll av beregning og utbetaling av kontantstøtte etter kontantstøtteloven.​2 Registeret kan samkjøres mot trygdekontorets register over mottakere av kontantstøtte.\nRegisteret skal inneholde opplysninger om:\na. navn, fødselsnummer​3 og adresse til barn i alderen 1 til 3 år som har barnehageplass med statlig driftstilskudd\nb. navn, fødselsnummer​3 og adresse til den/de barnet bor fast hos\nc. avtalt ukentlig oppholdstid i barnehagen\nd. barnehagens navn, adresse og organisasjonsnummer\ne. tidspunktet for når barnet begynte i barnehagen, når det eventuelt fikk endret oppholdstiden, eller eventuelt sluttet i barnehagen.\nDet er ikke tillatt å registrere andre opplysninger enn nevnt i bokstav a-e.\nRegisterføring skal skje på bakgrunn av innsamlede opplysninger fra barnehageeier.​4 Registeret skal ajourføres månedlig. Kommunen fører kontroll med opplysningene fra barnehageeier.\nAlle registrerte opplysninger skal oppbevares fram til barnet fyller 6 år. Opplysningene skal slettes fra registeret måneden etter at barnet fyller 6 år.\nDe registrerte har rett til å få opplyst hvilke opplysninger om dem selv eller deres barn som er registrert i registeret. Utlevering av opplysninger fra registeret til andre kan bare skje etter skriftlig avtale med den registrerte eller dens foresatte eller dersom utleveringen er hjemlet i lov.\nDepartementet​5 kan gi regler​6 om opprettelse, føring og sikring av register etter bestemmelsene her.\n0 Tilføyd ved lov 26 juni 1998 nr. 41 (i kraft 1 aug 1998), endret ved lov 4 juli 2003 nr. 73 (i kraft 4 juli 2003 iflg. res. 4 juli 2003 nr. 899).\n1 Se lov 14 april 2000 nr. 31 § 5.\n2 Lov 26 juni 1998 nr. 41.\n3 Jfr. lov 16 jan 1970 nr. 1 § 4.\n4 Se § 11a.\n5 Barne- og familiedepartementet.\n6 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8a",
+        "source_heading": "§ 8a."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Barn med funksjonshemming",
+      "content": "Barn med funksjonshemming skal ha prioritet ved opptak, dersom barnet etter en sakkyndig vurdering er funnet å kunne ha nytte av opphold i barnehage. Den sakkyndige vurderingen skal foretas i samarbeid med den eller de som har foreldreansvaret.​1 Den eller de som har foreldreansvaret avgjør endelig om barnet kan ha nytte av oppholdet.\nKommunen har ansvaret for at barn med funksjonshemming får plass i barnehage.\n1 Jfr. lov 8 april 1981 nr. 7 § 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Tilsyn",
+      "content": "Kommunen fører det lokale tilsynet med virksomheter etter denne lov. Kommunen skal gi veiledning til barnehager, og kan gi pålegg​1 om retting av uforsvarlige eller ulovlige forhold ved godkjente eller godkjenningspliktige​2 virksomheter. Hvis fristen for å etterkomme pålegget ikke overholdes, eller hvis forholdet ikke lar seg rette, kan kommunen vedta tidsbegrenset eller varig stenging av virksomheten. Kommunens stengingsvedtak skal sendes fylkesmannen til orientering. Vedtak om retting og stenging kan påklages​3 til fylkesmannen.​4\nFylkesmannen har veiledningsansvar overfor kommuner og eiere av virksomheter​4 etter denne lov, og kan av eget tiltak føre tilsvarende tilsyn som kommunen.\nFylkesmannens vedtak i første instans kan påklages til departementet.​5\n0 Endres ved lov 19 juni 1997 nr. 64 (i kraft fra den tid Kongen bestemmer).\n1 Jfr. lov 10 feb 1967 § 2 og kap. IV-VI.\n2 Se §§ 12 og 13.\n3 Jfr. lov 10 feb 1967 kap. VI.\n4 Jfr. lov 10 feb 1967 § 11\n5 Barne- og familiedepartementet. – Jfr. lov 10 feb 1967 kap. VI.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Barnehagemyndighetenes rett til innsyn",
+      "content": "Kommunen og fylkesmannen er barnehagemyndighet etter denne lov.\nVirksomhetens styrer eller eier plikter å gi barnehagemyndighetene de opplysninger som anses påkrevet for å utøve myndighetenes oppgaver etter denne lov.​1\nVirksomhetens styrer eller eier plikter også å gi barnehagemyndighetene adgang​2 til lokaler der det drives barnehage eller virksomhet som er eller kan være godkjenningspliktige etter denne lov.\n0 Endret ved lov 4 juli 2003 nr. 73 (i kraft 4 juli 2003 iflg. res. 4 juli 2003 nr. 899).\n1 Sml. § 11a.\n2 Jfr. strl. § 326.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:11 a",
+      "chapter": "3",
+      "section": "11 a",
+      "title": "Kontantstøtte – barnehageeiers opplysningsplikt​1",
+      "content": "Barnehageeier plikter å gi barnets bostedskommune de opplysninger som er nødvendige for å kunne føre et register som nevnt i § 8a.\n0 Tilføyd ved lov 26 juni 1998 nr. 41 (i kraft 1 aug 1998).\n1 Sml. § 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11a",
+        "source_heading": "§ 11a."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Godkjenning​1",
+      "content": "Virksomheter som tilfredsstiller gjeldende krav til barnehage har rett til godkjenning.\nGodkjente virksomheter skal være registrert i Enhetsregisteret.\nVed godkjenningen​1 fastsetter godkjenningsmyndigheten​2 barnas leke- og oppholdsareal. Det kan settes begrensninger når det gjelder barnas alder og deres daglige eller ukentlige oppholdstid.​3\n0 Endret ved lov 4 juli 2003 nr. 73 (i kraft 4 juli 2003 iflg. res. 4 juli 2003 nr. 899).\n1 Jfr. lov 10 feb 1967 § 2 og kap. IV-VI.\n2 Jfr. § 8 og § 15 siste ledd.\n3 Se § 14 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Godkjenningsplikt",
+      "content": "Virksomheter som gir tilsyn og omsorg for barn under opplæringspliktig alder,​1 plikter å søke godkjenning som barnehage når:\na. virksomheten er regelmessig og flertallet av barna har en ukentlig oppholdstid på mer enn 20 timer, og\nb. antall barn som er tilstede samtidig er 10 eller flere når barna er tre år eller eldre, eventuelt fem eller flere når barna er under tre år, og\nc. tilsynet utføres mot godtgjøring.\nVirksomheter etter første ledd må være godkjent før driften settes i gang.\n1 Jfr. lov 17 juli 1998 nr. 61 § 2-1 tredje ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Familiebarnehager",
+      "content": "Godkjenning av familiebarnehager omfatter både virksomhetens organisering og det enkelte hjem.\nDepartementet​1 kan gi forskrifter​2 om godkjenning og drift av familiebarnehager. Forskriftene kan fravike bestemmelsene i § 12 andre ledd​3 og § 15 tredje ledd bokstav h.\n1 Barne- og familiedepartementet.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Står nå som tredje ledd.\n1 Står nå som tredje ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Vedtekter",
+      "content": "Enhver barnehage skal ha vedtekter.\nVedtektene skal gi opplysninger som er av betydning for foreldrenes/de foresattes forhold til barnehagen.\nVedtektene skal inneholde bestemmelser om:\na. eierforhold,\nb. formål, dersom eier ønsker særlige bestemmelser om livssyn etter § 1 fjerde ledd,\nc. eventuell reservasjon fra denne lov § 1 andre ledd, jf. tredje ledd,\nd. hvem som er opptaksmyndighet,\ne. opptakskriterier,​1\nf. opptaksperiode og oppsigelsesfrist,\ng. hvem som fastsetter foreldrebetalingen,\nh. leke- og oppholdsareal pr. barn​2 og\ni. barnehagens åpningstid.\nBarnehagens eier fastsetter selv de bestemmelsene i vedtektene som ikke følger av kommunens vilkår for kommunal støtte. Dersom kommunen har satt slike vilkår, skal disse fremgå av vedtektene.\nVedtektene skal henvise til eller gjengi den dokumentasjon barnehagen har for barnehagens internkontrollsystem.\nUtkast til vedtekter skal legges frem ved søknad om godkjenning.​3 Endelige vedtekter og vedtektsendringer skal sendes kommunen til orientering.\n1 Jfr. § 9.\n2 Jfr. § 12 tredje ledd, se § 14 annet ledd.\n3 Jfr. § 8, § 12 og § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:15 a",
+      "chapter": "4",
+      "section": "15 a",
+      "title": "Foreldrebetaling",
+      "content": "Kongen kan gi forskrifter​1 med nærmere bestemmelser om foreldrebetaling i barnehagen, herunder søskenmoderasjon og inntektsgradering.\n0 Tilføyd ved lov 4 juli 2003 nr. 73 (i kraft 4 juli 2003 iflg. res. 4 juli 2003 nr. 899).\n1 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15a",
+        "source_heading": "§ 15a."
+      }
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "title": "Styreren​1",
+      "content": "Hver barnehage skal ha en styrer som har den daglige ledelsen av virksomheten.​2\nStyreren skal ha utdanning som førskolelærer.​3\nNår barnehage og grunnskole er organisert som én virksomhet, kan skolens rektor være styrer for barnehagen.\nKommunen kan i særlige tilfeller gi midlertidig dispensasjon​4 fra utdanningskravet etter andre ledd. Det kan knyttes vilkår til dispensasjonen. Departementet​5 gir utfyllende forskrifter.​6\nDepartementet​5 kan gi forskrifter​6 om varig dispensasjon fra utdanningskravet.\n1 Se § 20.\n2 Jfr. § 22 siste punktum og § 23 siste punktum.\n3 Se lov 12 mai 1995 nr. 22 § 54 b nr, 2.\n4 Jfr. lov 10 feb 1967 § 2 og kap. IV-VI.\n5 Barne- og familiedepartementet\n6 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Barnehagens øvrige personale​1",
+      "content": "Pedagogiske ledere må ha utdanning som førskolelærer.​2\nKommunen kan gi midlertidig dispensasjon​3 fra utdanningskravet. Det kan knyttes vilkår til dispensasjonen. Fylkesmannen kan i særlige tilfeller gi varig dispensasjon fra utdanningskravet. Departementet​4 gir utfyllende forskrifter.​5\nBemanningen i barnehagen må være tilstrekkelig til at personalet kan drive en tilfredsstillende pedagogisk virksomhet.​6 Departementet​4 gir utfyllende forskrifter​5 om pedagogisk bemanning.\n1 Se § 20.\n2 Jfr. § 18. – Se lov 12 mai 1995 nr. 22 § 54 b nr. 2.\n3 Jfr. lov 10 feb 1967 § 2 og kap. IV-VI.\n4 Barne- og familiedepartementet\n5 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n6 Jfr. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Personale som arbeider i barnehagen på nattid​1",
+      "content": "Utdanningskravet i § 17 første ledd gjelder ikke for personer som arbeider i barnehagen på nattid. Kommunen skal godkjenne​2 bemanningsplanen og den enkelte ansettelsen.\nKommunens vedtak kan påklages til fylkesmannen.​3\n1 Se § 20.\n2 Jfr. 10 feb 1967 § 2 og kap. IV-VI.\n3 Jfr. 10 feb 1967 § 2 og kap. VI, sml. dens § 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Utlysing av stillinger​1",
+      "content": "Barnehagens eier må ikke i utlysingen etter nye arbeidstakere eller på annen måte kreve at søkerne skal gi opplysninger om hvordan de stiller seg til politiske, religiøse eller kulturelle spørsmål, eller om de er medlemmer av lønnstakerorganisasjoner. Eier må heller ikke iverksette tiltak for å innhente slike opplysninger på annen måte.\nDisse bestemmelsene gjelder ikke dersom eier har fastsatt særlige bestemmelser om livssyn i barnehagens vedtekter,​2 og opplysningene er begrunnet i stillingens karakter og stillingen er av betydning for gjennomføringen av formålet. I tilfelle slike opplysninger vil bli krevet, må dette angis i utlysingen av stillingen.\n0 Endret ved lov 20 juni 2003 nr. 45 (i kraft 1 juli 2003 iflg. res. 20 juni 2003 nr. 712).\n1 Jfr. lov 4 feb 1977 nr. 4 § 55 A.\n2 Se § 1 siste ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Politiattest",
+      "content": "Den som skal arbeide i barnehage​1 må legge frem tilfredsstillende politiattest.​2 Attesten skal vise om vedkommende er siktet, tiltalt eller dømt for seksuelle overgrep mot barn.​3\nPersoner som er dømt for seksuelle overgrep mot barn,​3 er utelukket fra arbeid i barnehager.\nKommunen kan kreve politiattest etter første ledd også for andre personer som regelmessig oppholder seg i barnehagen.\nDepartementet​4 gir utfyllende forskrifter​5 til denne paragrafen.\n1 Jfr. § 16, § 17 og § 24.\n2 Se lov 11 juni 1971 nr. 52 § 5.\n3 Jfr. strl. § 195, § 196, § 197, § 199, § 200 og § 201.\n4 Barne- og familiedepartementet.\n5 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "6:21",
+      "chapter": "6",
+      "section": "21",
+      "title": "Taushetsplikt​1",
+      "content": "For virksomheter etter denne lov, gjelder reglene om taushetsplikt i forvaltningsloven​2 §§ 13 til 13f tilsvarende.​3\n1 Jfr. § 22, § 23 og lov 17 juli 1992 nr. 100 § 2-4 annet ledd.\n2 Lov 10 feb 1967.\n3 Jfr. strl. § 121.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "6:22",
+      "chapter": "6",
+      "section": "22",
+      "title": "Opplysningsplikt til sosialtjenesten",
+      "content": "Barnehagepersonalet skal gi sosialtjenesten​1 bistand i klientsaker. De skal i sitt arbeid være oppmerksom på forhold som bør føre til tiltak fra sosialtjenestens side, og de skal av eget tiltak gi sosialtjenesten opplysninger om slike forhold. Av eget tiltak kan opplysninger bare gis etter samtykke fra klienten, eller så langt opplysningene ellers kan gis uten hinder av taushetsplikt.​2 Opplysninger skal normalt gis av styrer.​3\n1 Jfr. lov 13 des 1991 nr. 81.\n2 Jfr. § 21.\n3 Se § 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "6:23",
+      "chapter": "6",
+      "section": "23",
+      "title": "Opplysningsplikt til barneverntjenesten​1",
+      "content": "Barnehagepersonalet skal i sitt arbeid være oppmerksom på forhold som kan føre til tiltak fra barneverntjenestens​2 side.\nUten hinder av taushetsplikt​3 skal barnehagepersonalet av eget tiltak gi opplysninger til barneverntjenesten, når det er grunn til å tro at et barn blir mishandlet i hjemmet eller det foreligger andre former for alvorlig omsorgssvikt, jf. lov om barneverntjenester​4 § 4-10, § 4-11, § 4-12, eller når et barn har vist vedvarende alvorlige adferdsvansker, jf. samme lov § 4-24. Også etter pålegg fra de organer som er ansvarlige for gjennomføringen av lov om barneverntjenester,​4 plikter barnehagepersonalet å gi slike opplysninger. Opplysninger skal normalt gis av styrer.​5\n1 Jfr. lov 17 juli 1992 nr. 100 § 2-4 annet ledd.\n2 Jfr. lov 17 juli 1992 nr. 100.\n3 Jfr. § 21.\n4 Lov 17 juli 1992 nr. 100.\n5 Se § 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "7:24",
+      "chapter": "7",
+      "section": "24",
+      "title": "Øvingsopplæring",
+      "content": "Barnehagens eier plikter å stille barnehagen til disposisjon for øvingsopplæring for studenter​1 som tar førskolelærerutdanning.​2\nBarnehagens styrer​3 og pedagogiske​4 ledere plikter å veilede studenter i slik øvingsopplæring.\n1 Jfr. § 20.\n2 Se lover 11 juli 1986 nr. 53 § 10h, § 10i og § 10j, 12 mai 1995 nr. 22 § 42, § 42 a og 42 b. og kap. 10a.\n3 Se § 16.\n4 Se § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "7:25",
+      "chapter": "7",
+      "section": "25",
+      "title": "Helsekontroll av barn og personale",
+      "content": "Før et barn begynner i barnehage, skal det legges frem erklæring om barnets helse. Dersom barnet har møtt til de ordinære undersøkelser på helsestasjon,​1 kan slik erklæring gis av barnets foresatte.\nBarnehagens personale​2 har plikt til å gjennomgå adekvat tuberkulosekontroll.\n1 Se lov 19 nov 1982 nr. 66 § 2-2.\n2 Jfr. §§ 16 til 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "7:26",
+      "chapter": "7",
+      "section": "26",
+      "content": "Departementet​1 kan gi forskrift​2 om lovens anvendelse på Svalbard​3 og kan fastsette særlige regler under hensyn til de stedlige forhold.\n0 Opphevet ved lov 19 juni 1997 nr. 64, tilføyd igjen ved lov 15 juni 2001 nr. 66 (i kraft 1 jan 2002 iflg. res. 15 juni 2001 nr. 695).\n1 Barne- og familiedepartementet.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se lov 17 juli 1925 nr. 11 § 1 annet ledd, § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "8:27",
+      "chapter": "8",
+      "section": "27",
+      "title": "Ikrafttredelse. Endringer i andre lover",
+      "content": "I.\nDenne lov trer i kraft fra den dag​1 Kongen bestemmer. – – –\nII.\nFra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –\n1 Fra 1 jan 1996 iflg. res. 1 des 1995 nr. 925.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Barnehagen skal gi barn under opplæringspliktig alder​1 gode utviklings- og aktivitetsmuligheter i nær forståelse og samarbeid med barnas hjem.\nBarnehagen skal hjelpe til med å gi barna en oppdragelse i samsvar med kristne grunnverdier.\nEiere av private barnehager kan i vedtektene bestemme at andre ledd ikke skal gjelde.​2\nPrivate barnehager og barnehager eiet eller drevet av menigheter innen Den norske kirke,​3 kan i vedtektene fastsette særlige bestemmelser om livssynsformål.​4\n1 Jfr. lov 17 juli 1998 nr. 61 § 2-1 tredje ledd.\n2 Se § 15 tredje ledd, c.\n3 Se lov 7 juni 1996 nr. 31.\n4 Se § 15 tredje ledd og § 19 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Barnehagens innhold",
+      "content": "Barnehagen skal være en pedagogisk tilrettelagt virksomhet.​1\nDepartementet​2 skal fastsette en rammeplan for barnehagen. Rammeplanen skal gi retningslinjer for barnehagens innhold og oppgaver.\nBarnehagens eier kan tilpasse rammeplanen til lokale forhold. Samarbeidsutvalget​3 for hver barnehage skal fastsette en årsplan for den pedagogiske virksomheten.\n1 Jfr. § 17 tredje ledd.\n2 Barne- og familiedepartementet.\n3 Se § 4 og § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Barnehagens utforming",
+      "content": "Barnehagen skal ha lokaler og uteområde som er egnet for formålet ut fra hensynet til barnas alder og oppholdstid. Barna skal ha mulighet for varierte aktiviteter i trygge omgivelser.\nUteområdet skal normalt ligge i umiddelbar tilknytning til barnehagens lokaler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Foreldreråd og samarbeidsutvalg",
+      "content": "For å sikre samarbeidet med barnas hjem, skal hver barnehage ha et foreldreråd​1 og et samarbeidsutvalg.​2\nForeldrerådet består av foreldrene/de foresatte til alle barna i barnehagen.\nSamarbeidsutvalget består av foreldre/foresatte og ansatte i barnehagen, slik at hver gruppe er likt representert. Barnehagens eier kan delta etter eget ønske, men ikke med flere representanter enn hver av de andre gruppene.\nDepartementet​3 gir forskrifter​4 om foreldrerådets og samarbeidsutvalgets oppgaver.\n1 Sml. lov 17 juli 1998 nr. 61 § 11-4.\n2 Sml. lov 17 juli 1998 nr. 61 § 11-1.\n3 Barne- og familiedepartementet.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Felles samarbeidsutvalg​1 for barnehage og skole",
+      "content": "Kommunen kan bestemme at det skal være et felles samarbeidsutvalg for kommunal barnehage og grunnskole. Der begge parter ønsker det, kan det etableres tilsvarende ordning for privat barnehage og kommunal eller privat skole. Samarbeidsutvalget settes også i slike tilfeller sammen etter § 4 tredje ledd, men slik at foreldrene/foresatte og ansatte fra både barnehagen og skolen skal være representert, jf. lov om grunnskolen og den vidaregåande opplæringa (opplæringslova)​2 § 11-1 femte ledd.\n0 Endret ved lov 17 juli 1998 nr. 61 (i kraft 1 aug 1999 iflg. res. 27 nov 1998 nr. 1096).\n1 Se § 4.\n2 Lov 17 juli 1998 nr. 61.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Eierstyre opprettet etter kommuneloven § 11",
+      "content": "Dersom kommunestyret oppretter eget styre for kommunale barnehager, jf. kommuneloven​1 § 11, skal minst to representanter for foreldrene være med i styret. Har styret bare tre medlemmer, skal foreldrene ha én representant.\n1 Lov 25 sep 1992 nr. 107.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Kommunens ansvar",
+      "content": "Kommunen har ansvar for utbygging og drift av barnehager i kommunen.\nKommunen har plikt til å sørge for at det finnes et tilstrekkelig antall barnehageplasser for barn under opplæringspliktig alder.\nUtbyggingsmønster og driftsformer skal tilpasses lokale forhold og behov.\nBarnehager for samiske barn i samiske distrikt​1 skal bygge på samisk språk og kultur.\n0 Endret ved lov 4 juli 2003 nr. 73 (i kraft 4 juli 2003 iflg. res. 4 juli 2003 nr. 899).\n1 Jfr. lov 17 juli 1998 nr. 61 § 6-1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:7 a",
+      "chapter": "3",
+      "section": "7 a",
+      "title": "Samordnet opptaksprosess i kommunen",
+      "content": "Alle godkjente​1 barnehager i kommunen skal samarbeide om opptak av barn. Kommunen skal legge til rette for en samordnet opptaksprosess, der det tas hensyn til barnehagenes mangfold og egenart. Brukernes ønsker og behov skal tillegges stor vekt ved selve opptaket. Ved en samordnet opptaksprosess skal likebehandling av barn og likebehandling av kommunale og private barnehager sikres.\n0 Tilføyd ved lov 4 juli 2003 nr. 73 (i kraft 4 juli 2003 iflg. res. 4 juli 2003 nr. 899).\n1 Se § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7a",
+        "source_heading": "§ 7a."
+      }
+    },
+    {
+      "provision_ref": "3:7 b",
+      "chapter": "3",
+      "section": "7 b",
+      "title": "Offentlig tilskudd til private barnehager",
+      "content": "Godkjente​1 barnehager skal behandles likeverdig i forhold til offentlige tilskudd.​2\nKongen kan gi forskrifter​3 med nærmere bestemmelser om hva som menes med likeverdig behandling.\n0 Tilføyd ved lov 4 juli 2003 nr. 73 (i kraft 1 mai 2004 iflg. res. 19 mars 2004 nr. 544).\n1 Se § 8 og kap. IV.\n2 Jfr. § 8 siste ledd.\n3 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7b",
+        "source_heading": "§ 7b."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Godkjenningsmyndigheten og forvaltning av statens driftstilskudd til private barnehager",
+      "content": "Kommunen godkjenner barnehager.​1\nFør kommunen fatter vedtak om godkjenning etter denne lov, skal vilkår stilt i eller med hjemmel i annen lov være klarlagt.\nKommunens vedtak kan påklages til fylkesmannen.​2\nKommunen forvalter tilskuddene​3 til private barnehager i kommunen.\n0 Endret ved lov 19 juni 1997 nr. 64 (i kraft 1 juli 1997).\n1 Jfr. § 7a, § 12, § 13, § 14 og § 15 siste ledd.\n2 Jfr. lov 10 feb 1967 kap. VI.\n3 Jfr. § 7b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:8 a",
+      "chapter": "3",
+      "section": "8 a",
+      "title": "Kontantstøtte – kommunens plikt til å føre register​1",
+      "content": "Hver kommune skal opprette og føre register til bruk for trygdekontorene i forbindelse med kontroll av beregning og utbetaling av kontantstøtte etter kontantstøtteloven.​2 Registeret kan samkjøres mot trygdekontorets register over mottakere av kontantstøtte.\nRegisteret skal inneholde opplysninger om:\na. navn, fødselsnummer​3 og adresse til barn i alderen 1 til 3 år som har barnehageplass med statlig driftstilskudd\nb. navn, fødselsnummer​3 og adresse til den/de barnet bor fast hos\nc. avtalt ukentlig oppholdstid i barnehagen\nd. barnehagens navn, adresse og organisasjonsnummer\ne. tidspunktet for når barnet begynte i barnehagen, når det eventuelt fikk endret oppholdstiden, eller eventuelt sluttet i barnehagen.\nDet er ikke tillatt å registrere andre opplysninger enn nevnt i bokstav a-e.\nRegisterføring skal skje på bakgrunn av innsamlede opplysninger fra barnehageeier.​4 Registeret skal ajourføres månedlig. Kommunen fører kontroll med opplysningene fra barnehageeier.\nAlle registrerte opplysninger skal oppbevares fram til barnet fyller 6 år. Opplysningene skal slettes fra registeret måneden etter at barnet fyller 6 år.\nDe registrerte har rett til å få opplyst hvilke opplysninger om dem selv eller deres barn som er registrert i registeret. Utlevering av opplysninger fra registeret til andre kan bare skje etter skriftlig avtale med den registrerte eller dens foresatte eller dersom utleveringen er hjemlet i lov.\nDepartementet​5 kan gi regler​6 om opprettelse, føring og sikring av register etter bestemmelsene her.\n0 Tilføyd ved lov 26 juni 1998 nr. 41 (i kraft 1 aug 1998), endret ved lov 4 juli 2003 nr. 73 (i kraft 4 juli 2003 iflg. res. 4 juli 2003 nr. 899).\n1 Se lov 14 april 2000 nr. 31 § 5.\n2 Lov 26 juni 1998 nr. 41.\n3 Jfr. lov 16 jan 1970 nr. 1 § 4.\n4 Se § 11a.\n5 Barne- og familiedepartementet.\n6 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8a",
+        "source_heading": "§ 8a."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Barn med funksjonshemming",
+      "content": "Barn med funksjonshemming skal ha prioritet ved opptak, dersom barnet etter en sakkyndig vurdering er funnet å kunne ha nytte av opphold i barnehage. Den sakkyndige vurderingen skal foretas i samarbeid med den eller de som har foreldreansvaret.​1 Den eller de som har foreldreansvaret avgjør endelig om barnet kan ha nytte av oppholdet.\nKommunen har ansvaret for at barn med funksjonshemming får plass i barnehage.\n1 Jfr. lov 8 april 1981 nr. 7 § 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Tilsyn",
+      "content": "Kommunen fører det lokale tilsynet med virksomheter etter denne lov. Kommunen skal gi veiledning til barnehager, og kan gi pålegg​1 om retting av uforsvarlige eller ulovlige forhold ved godkjente eller godkjenningspliktige​2 virksomheter. Hvis fristen for å etterkomme pålegget ikke overholdes, eller hvis forholdet ikke lar seg rette, kan kommunen vedta tidsbegrenset eller varig stenging av virksomheten. Kommunens stengingsvedtak skal sendes fylkesmannen til orientering. Vedtak om retting og stenging kan påklages​3 til fylkesmannen.​4\nFylkesmannen har veiledningsansvar overfor kommuner og eiere av virksomheter​4 etter denne lov, og kan av eget tiltak føre tilsvarende tilsyn som kommunen.\nFylkesmannens vedtak i første instans kan påklages til departementet.​5\n0 Endres ved lov 19 juni 1997 nr. 64 (i kraft fra den tid Kongen bestemmer).\n1 Jfr. lov 10 feb 1967 § 2 og kap. IV-VI.\n2 Se §§ 12 og 13.\n3 Jfr. lov 10 feb 1967 kap. VI.\n4 Jfr. lov 10 feb 1967 § 11\n5 Barne- og familiedepartementet. – Jfr. lov 10 feb 1967 kap. VI.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Barnehagemyndighetenes rett til innsyn",
+      "content": "Kommunen og fylkesmannen er barnehagemyndighet etter denne lov.\nVirksomhetens styrer eller eier plikter å gi barnehagemyndighetene de opplysninger som anses påkrevet for å utøve myndighetenes oppgaver etter denne lov.​1\nVirksomhetens styrer eller eier plikter også å gi barnehagemyndighetene adgang​2 til lokaler der det drives barnehage eller virksomhet som er eller kan være godkjenningspliktige etter denne lov.\n0 Endret ved lov 4 juli 2003 nr. 73 (i kraft 4 juli 2003 iflg. res. 4 juli 2003 nr. 899).\n1 Sml. § 11a.\n2 Jfr. strl. § 326.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:11 a",
+      "chapter": "3",
+      "section": "11 a",
+      "title": "Kontantstøtte – barnehageeiers opplysningsplikt​1",
+      "content": "Barnehageeier plikter å gi barnets bostedskommune de opplysninger som er nødvendige for å kunne føre et register som nevnt i § 8a.\n0 Tilføyd ved lov 26 juni 1998 nr. 41 (i kraft 1 aug 1998).\n1 Sml. § 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11a",
+        "source_heading": "§ 11a."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Godkjenning​1",
+      "content": "Virksomheter som tilfredsstiller gjeldende krav til barnehage har rett til godkjenning.\nGodkjente virksomheter skal være registrert i Enhetsregisteret.\nVed godkjenningen​1 fastsetter godkjenningsmyndigheten​2 barnas leke- og oppholdsareal. Det kan settes begrensninger når det gjelder barnas alder og deres daglige eller ukentlige oppholdstid.​3\n0 Endret ved lov 4 juli 2003 nr. 73 (i kraft 4 juli 2003 iflg. res. 4 juli 2003 nr. 899).\n1 Jfr. lov 10 feb 1967 § 2 og kap. IV-VI.\n2 Jfr. § 8 og § 15 siste ledd.\n3 Se § 14 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Godkjenningsplikt",
+      "content": "Virksomheter som gir tilsyn og omsorg for barn under opplæringspliktig alder,​1 plikter å søke godkjenning som barnehage når:\na. virksomheten er regelmessig og flertallet av barna har en ukentlig oppholdstid på mer enn 20 timer, og\nb. antall barn som er tilstede samtidig er 10 eller flere når barna er tre år eller eldre, eventuelt fem eller flere når barna er under tre år, og\nc. tilsynet utføres mot godtgjøring.\nVirksomheter etter første ledd må være godkjent før driften settes i gang.\n1 Jfr. lov 17 juli 1998 nr. 61 § 2-1 tredje ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Familiebarnehager",
+      "content": "Godkjenning av familiebarnehager omfatter både virksomhetens organisering og det enkelte hjem.\nDepartementet​1 kan gi forskrifter​2 om godkjenning og drift av familiebarnehager. Forskriftene kan fravike bestemmelsene i § 12 andre ledd​3 og § 15 tredje ledd bokstav h.\n1 Barne- og familiedepartementet.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Står nå som tredje ledd.\n1 Står nå som tredje ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Vedtekter",
+      "content": "Enhver barnehage skal ha vedtekter.\nVedtektene skal gi opplysninger som er av betydning for foreldrenes/de foresattes forhold til barnehagen.\nVedtektene skal inneholde bestemmelser om:\na. eierforhold,\nb. formål, dersom eier ønsker særlige bestemmelser om livssyn etter § 1 fjerde ledd,\nc. eventuell reservasjon fra denne lov § 1 andre ledd, jf. tredje ledd,\nd. hvem som er opptaksmyndighet,\ne. opptakskriterier,​1\nf. opptaksperiode og oppsigelsesfrist,\ng. hvem som fastsetter foreldrebetalingen,\nh. leke- og oppholdsareal pr. barn​2 og\ni. barnehagens åpningstid.\nBarnehagens eier fastsetter selv de bestemmelsene i vedtektene som ikke følger av kommunens vilkår for kommunal støtte. Dersom kommunen har satt slike vilkår, skal disse fremgå av vedtektene.\nVedtektene skal henvise til eller gjengi den dokumentasjon barnehagen har for barnehagens internkontrollsystem.\nUtkast til vedtekter skal legges frem ved søknad om godkjenning.​3 Endelige vedtekter og vedtektsendringer skal sendes kommunen til orientering.\n1 Jfr. § 9.\n2 Jfr. § 12 tredje ledd, se § 14 annet ledd.\n3 Jfr. § 8, § 12 og § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:15 a",
+      "chapter": "4",
+      "section": "15 a",
+      "title": "Foreldrebetaling",
+      "content": "Kongen kan gi forskrifter​1 med nærmere bestemmelser om foreldrebetaling i barnehagen, herunder søskenmoderasjon og inntektsgradering.\n0 Tilføyd ved lov 4 juli 2003 nr. 73 (i kraft 4 juli 2003 iflg. res. 4 juli 2003 nr. 899).\n1 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15a",
+        "source_heading": "§ 15a."
+      }
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "title": "Styreren​1",
+      "content": "Hver barnehage skal ha en styrer som har den daglige ledelsen av virksomheten.​2\nStyreren skal ha utdanning som førskolelærer.​3\nNår barnehage og grunnskole er organisert som én virksomhet, kan skolens rektor være styrer for barnehagen.\nKommunen kan i særlige tilfeller gi midlertidig dispensasjon​4 fra utdanningskravet etter andre ledd. Det kan knyttes vilkår til dispensasjonen. Departementet​5 gir utfyllende forskrifter.​6\nDepartementet​5 kan gi forskrifter​6 om varig dispensasjon fra utdanningskravet.\n1 Se § 20.\n2 Jfr. § 22 siste punktum og § 23 siste punktum.\n3 Se lov 12 mai 1995 nr. 22 § 54 b nr, 2.\n4 Jfr. lov 10 feb 1967 § 2 og kap. IV-VI.\n5 Barne- og familiedepartementet\n6 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Barnehagens øvrige personale​1",
+      "content": "Pedagogiske ledere må ha utdanning som førskolelærer.​2\nKommunen kan gi midlertidig dispensasjon​3 fra utdanningskravet. Det kan knyttes vilkår til dispensasjonen. Fylkesmannen kan i særlige tilfeller gi varig dispensasjon fra utdanningskravet. Departementet​4 gir utfyllende forskrifter.​5\nBemanningen i barnehagen må være tilstrekkelig til at personalet kan drive en tilfredsstillende pedagogisk virksomhet.​6 Departementet​4 gir utfyllende forskrifter​5 om pedagogisk bemanning.\n1 Se § 20.\n2 Jfr. § 18. – Se lov 12 mai 1995 nr. 22 § 54 b nr. 2.\n3 Jfr. lov 10 feb 1967 § 2 og kap. IV-VI.\n4 Barne- og familiedepartementet\n5 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n6 Jfr. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Personale som arbeider i barnehagen på nattid​1",
+      "content": "Utdanningskravet i § 17 første ledd gjelder ikke for personer som arbeider i barnehagen på nattid. Kommunen skal godkjenne​2 bemanningsplanen og den enkelte ansettelsen.\nKommunens vedtak kan påklages til fylkesmannen.​3\n1 Se § 20.\n2 Jfr. 10 feb 1967 § 2 og kap. IV-VI.\n3 Jfr. 10 feb 1967 § 2 og kap. VI, sml. dens § 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Utlysing av stillinger​1",
+      "content": "Barnehagens eier må ikke i utlysingen etter nye arbeidstakere eller på annen måte kreve at søkerne skal gi opplysninger om hvordan de stiller seg til politiske, religiøse eller kulturelle spørsmål, eller om de er medlemmer av lønnstakerorganisasjoner. Eier må heller ikke iverksette tiltak for å innhente slike opplysninger på annen måte.\nDisse bestemmelsene gjelder ikke dersom eier har fastsatt særlige bestemmelser om livssyn i barnehagens vedtekter,​2 og opplysningene er begrunnet i stillingens karakter og stillingen er av betydning for gjennomføringen av formålet. I tilfelle slike opplysninger vil bli krevet, må dette angis i utlysingen av stillingen.\n0 Endret ved lov 20 juni 2003 nr. 45 (i kraft 1 juli 2003 iflg. res. 20 juni 2003 nr. 712).\n1 Jfr. lov 4 feb 1977 nr. 4 § 55 A.\n2 Se § 1 siste ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Politiattest",
+      "content": "Den som skal arbeide i barnehage​1 må legge frem tilfredsstillende politiattest.​2 Attesten skal vise om vedkommende er siktet, tiltalt eller dømt for seksuelle overgrep mot barn.​3\nPersoner som er dømt for seksuelle overgrep mot barn,​3 er utelukket fra arbeid i barnehager.\nKommunen kan kreve politiattest etter første ledd også for andre personer som regelmessig oppholder seg i barnehagen.\nDepartementet​4 gir utfyllende forskrifter​5 til denne paragrafen.\n1 Jfr. § 16, § 17 og § 24.\n2 Se lov 11 juni 1971 nr. 52 § 5.\n3 Jfr. strl. § 195, § 196, § 197, § 199, § 200 og § 201.\n4 Barne- og familiedepartementet.\n5 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "6:21",
+      "chapter": "6",
+      "section": "21",
+      "title": "Taushetsplikt​1",
+      "content": "For virksomheter etter denne lov, gjelder reglene om taushetsplikt i forvaltningsloven​2 §§ 13 til 13f tilsvarende.​3\n1 Jfr. § 22, § 23 og lov 17 juli 1992 nr. 100 § 2-4 annet ledd.\n2 Lov 10 feb 1967.\n3 Jfr. strl. § 121.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "6:22",
+      "chapter": "6",
+      "section": "22",
+      "title": "Opplysningsplikt til sosialtjenesten",
+      "content": "Barnehagepersonalet skal gi sosialtjenesten​1 bistand i klientsaker. De skal i sitt arbeid være oppmerksom på forhold som bør føre til tiltak fra sosialtjenestens side, og de skal av eget tiltak gi sosialtjenesten opplysninger om slike forhold. Av eget tiltak kan opplysninger bare gis etter samtykke fra klienten, eller så langt opplysningene ellers kan gis uten hinder av taushetsplikt.​2 Opplysninger skal normalt gis av styrer.​3\n1 Jfr. lov 13 des 1991 nr. 81.\n2 Jfr. § 21.\n3 Se § 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "6:23",
+      "chapter": "6",
+      "section": "23",
+      "title": "Opplysningsplikt til barneverntjenesten​1",
+      "content": "Barnehagepersonalet skal i sitt arbeid være oppmerksom på forhold som kan føre til tiltak fra barneverntjenestens​2 side.\nUten hinder av taushetsplikt​3 skal barnehagepersonalet av eget tiltak gi opplysninger til barneverntjenesten, når det er grunn til å tro at et barn blir mishandlet i hjemmet eller det foreligger andre former for alvorlig omsorgssvikt, jf. lov om barneverntjenester​4 § 4-10, § 4-11, § 4-12, eller når et barn har vist vedvarende alvorlige adferdsvansker, jf. samme lov § 4-24. Også etter pålegg fra de organer som er ansvarlige for gjennomføringen av lov om barneverntjenester,​4 plikter barnehagepersonalet å gi slike opplysninger. Opplysninger skal normalt gis av styrer.​5\n1 Jfr. lov 17 juli 1992 nr. 100 § 2-4 annet ledd.\n2 Jfr. lov 17 juli 1992 nr. 100.\n3 Jfr. § 21.\n4 Lov 17 juli 1992 nr. 100.\n5 Se § 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "7:24",
+      "chapter": "7",
+      "section": "24",
+      "title": "Øvingsopplæring",
+      "content": "Barnehagens eier plikter å stille barnehagen til disposisjon for øvingsopplæring for studenter​1 som tar førskolelærerutdanning.​2\nBarnehagens styrer​3 og pedagogiske​4 ledere plikter å veilede studenter i slik øvingsopplæring.\n1 Jfr. § 20.\n2 Se lover 11 juli 1986 nr. 53 § 10h, § 10i og § 10j, 12 mai 1995 nr. 22 § 42, § 42 a og 42 b. og kap. 10a.\n3 Se § 16.\n4 Se § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "7:25",
+      "chapter": "7",
+      "section": "25",
+      "title": "Helsekontroll av barn og personale",
+      "content": "Før et barn begynner i barnehage, skal det legges frem erklæring om barnets helse. Dersom barnet har møtt til de ordinære undersøkelser på helsestasjon,​1 kan slik erklæring gis av barnets foresatte.\nBarnehagens personale​2 har plikt til å gjennomgå adekvat tuberkulosekontroll.\n1 Se lov 19 nov 1982 nr. 66 § 2-2.\n2 Jfr. §§ 16 til 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "7:26",
+      "chapter": "7",
+      "section": "26",
+      "content": "Departementet​1 kan gi forskrift​2 om lovens anvendelse på Svalbard​3 og kan fastsette særlige regler under hensyn til de stedlige forhold.\n0 Opphevet ved lov 19 juni 1997 nr. 64, tilføyd igjen ved lov 15 juni 2001 nr. 66 (i kraft 1 jan 2002 iflg. res. 15 juni 2001 nr. 695).\n1 Barne- og familiedepartementet.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Se lov 17 juli 1925 nr. 11 § 1 annet ledd, § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "8:27",
+      "chapter": "8",
+      "section": "27",
+      "title": "Ikrafttredelse. Endringer i andre lover",
+      "content": "I.\nDenne lov trer i kraft fra den dag​1 Kongen bestemmer. – – –\nII.\nFra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –\n1 Fra 1 jan 1996 iflg. res. 1 des 1995 nr. 925.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    }
+  ]
+}

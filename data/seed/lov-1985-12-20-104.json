@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1985-12-20-104",
+  "type": "statute",
+  "title": "Lov om samtykke til ratifikasjon av endringsprotokoller 16 november 1982 til Pariskonvensjonen 29 juli 1960 og Tilleggskonvensjonen 31 januar 1963 om erstatningsansvar på kjerneenergiens område.",
+  "short_name": "Lov om ratifikasjon av endringsprotokoller.",
+  "status": "in_force",
+  "issued_date": "1985-12-20",
+  "in_force_date": "1985-12-20",
+  "url": "https://lovdata.no/dokument/NLO/lov/1985-12-20-104",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Stortinget samtykker i ratifikasjon av endringsprotokoller 16 november 1982 til Pariskonvensjonen 29 juli 1960 og Tilleggskonvensjonen 31 januar 1963 om erstatningsansvar på kjerneenergiens område.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Stortinget samtykker i ratifikasjon av endringsprotokoller 16 november 1982 til Pariskonvensjonen 29 juli 1960 og Tilleggskonvensjonen 31 januar 1963 om erstatningsansvar på kjerneenergiens område.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

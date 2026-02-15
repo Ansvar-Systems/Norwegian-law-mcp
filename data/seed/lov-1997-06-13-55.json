@@ -1,0 +1,711 @@
+{
+  "id": "LOV-1997-06-13-55",
+  "type": "statute",
+  "title": "Lov om serveringsvirksomhet (serveringsloven)",
+  "short_name": "Serveringsloven",
+  "status": "in_force",
+  "issued_date": "1997-06-13",
+  "in_force_date": "1998-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/1997-06-13-55",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Lovens formål er å sikre forsvarlig drift av serveringssteder av hensyn til næringen, gjestene og samfunnet for øvrig. Loven skal bidra til å gi serveringssteder stabile og forutsigbare rammevilkår og til å hindre illojal konkurranse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens virkeområde",
+      "content": "Loven gjelder etablering og drift av alle serveringssteder der det foregår servering av mat og/eller drikke og hvor forholdene ligger til rette for fortæring på stedet.\nLoven gjelder ikke for:\na. servering som ikke skjer i næring,\nb. serveringssteder ved helseinstitusjoner, skoler og barnehager når disse må godkjennes av offentlig myndighet etter annen lov eller forskrift, og serveringen skjer i institusjonens regi,\nc. serveringssteder som drives av staten til bruk for ansatte og annet personell i offentlig tjeneste, og for andre som har adgang etter gjeldende bestemmelser for virksomheten,\nd. servering i kantine som et foretak driver etter selvkostprinsippet og som er til bruk for egne ansatte,\ne. servering i tog, fly og båter i rutetrafikk,\nf. serveringssteder på flyttbare innretninger og faste installasjoner i forbindelse med undersøkelser etter eller utnyttelse av undersjøiske petroleumsforekomster på norsk kontinentalsokkel,\ng. serveringssteder som drives av lag, foreninger o l, hvor formålet med serveringen utelukkende er å skaffe inntekter til drift av laget, foreningen o l.\nDepartementet kan i forskrift bestemme at også andre grupper serveringssteder helt eller delvis skal unntas fra loven.\nDepartementet kan i forskrift bestemme at loven helt eller delvis skal gjelde for Svalbard og Jan Mayen.\n0 Endret ved lov 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "title": "Bevilling",
+      "content": "Den som vil gjøre seg næring av å drive serveringssted må ha serveringsbevilling gitt av kommunen.\nBevilling skal gis dersom kravene i §§ 4 til 6, jf § 7, er oppfylt, og det ikke foreligger forhold som av politimessige hensyn gjør det utilrådelig at serveringsbevilling gis. Bevilling gis til den for hvis regning serveringsstedet drives. Den gjelder for det serveringssted som er nevnt i bevillingen.\nKommunen kan sette som vilkår for bevillingen at krav i §§ 3 og 5 oppfylles innen en nærmere fastsatt tidsfrist.\n0 Endret ved lov 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710, men nytt tredje ledd gjelder ikke for serveringssteder som før ikrafttredelsen av endringsloven ikke var omfattet av lovens virkeområde, jf. § 2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Daglig leder",
+      "content": "Serveringsstedet skal ha en daglig leder som har det reelle ansvar for den daglige drift av serveringsstedet. Daglig leder må være myndig.\n0 Endret ved lov 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Krav om etablererprøve",
+      "content": "Serveringsstedets daglige leder må ha gjennomført en etablererprøve.\nDepartementet kan i forskrift gi nærmere regler om innholdet i og gjennomføringen av etablererprøven, samt om kommunens adgang til å kreve gebyr for prøveavleggelsen.\n0 Endret ved lover 22 des 1999 nr. 104 (ikr. 1 jan 2000 iflg. res. 22 des. 1999 nr. 1372), 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710, men kravet om etablererpøve gjelder ikke for daglig leder i virksomhet som er i drift ved ikrafttredelsen av endringsloven).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Krav til vandel",
+      "content": "Bevillingshaver, daglig leder og personer som har vesentlig innflytelse på virksomheten, må ha utvist uklanderlig vandel i forhold til straffelovgivningen, skatte- og avgiftslovgivningen, regnskapslovgivningen og likestillings- og diskrimineringsloven. Personer som nevnt i første punktum må heller ikke ha brutt annen lovgivning på en måte som vil være uforenlig med drift av serveringssted.\nPerson som eier en vesentlig del av virksomheten eller av selskap som driver virksomheten eller som oppebærer en vesentlig del av dens avkastning eller i kraft av sin stilling som leder har vesentlig innflytelse på den, vil alltid anses å ha vesentlig innflytelse på virksomheten.\nVed vurderingen av bevillingshavers og andre personers vandel etter første ledd kan det ikke tas hensyn til forhold som er eldre enn fem år.\n0 Endret ved lover 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710), 21 juni 2019 nr. 57 (ikr. 1 jan 2020 iflg. res. 21 juni 2019 nr. 776).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Konsolidering av eierandeler",
+      "content": "I vurderingen av om en person har vesentlig innflytelse på virksomheten, regnes vedkommendes eierandeler eller stemmer sammen med eierandeler eller stemmer som tilhører følgende personer:\n1. ektefelle eller person som vedkommende bor sammen med i ekteskapslignende forhold,\n2. slektninger i rett oppstigende eller nedstigende linje samt søsken,\n3. ektefelle til person som nevnt i nr. 2 eller person som bor i ekteskapslignende forhold sammen med person som nevnt i nr. 2.\n0 Endret ved lov 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Krav til søknaden",
+      "content": "Den som vil etablere et serveringssted skal sende skriftlig søknad til kommunen. Søknaden skal inneholde følgende opplysninger:\na. navn og adresse på den for hvis regning serveringsstedet skal drives. Dersom serveringsstedet drives av en juridisk person, skal det også gis opplysninger om organisasjonsnummer og eiersammensetning,\nb. angivelse av det sted hvor serveringsstedet skal drives,\nc. navn og adresse på daglig leder og personer som etter § 6 har vesentlig innflytelse på virksomheten,\nd. dokumentasjon av faglige kvalifikasjoner i henhold til § 5,\ne. skatteattest for den for hvis regning serveringsstedet skal drives.\nI tillegg kan kommunen, når den finner det påkrevet, kreve fremlagt:\na. leiekontrakt,\nb. finansieringsplan,\nc. driftbudsjett og\nd. likviditetsbudsjett.\nOpplysningene som nevnt i andre ledd må kreves uten ugrunnet opphold etter at kommunen har mottatt søknad om serveringsbevilling.\nServeringssteder som er børsnoterte eller notert på annet regulert marked, plikter ikke å legge frem informasjon som er taushetsbelagt etter verdipapirhandelloven med forskrifter.\n0 Endret ved lover 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710), 15 mars 2019 nr. 6 (ikr. 1 jan 2020 iflg. res. 6 des 2019 nr. 1656).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Innhenting av uttalelser",
+      "content": "Før søknaden avgjøres skal kommunen innhente uttalelse fra politiet om det foreligger forhold som nevnt i § 6, jf § 7, eller forhold som av politimessige hensyn gjør det utilrådelig at serveringsbevilling gis.\nKommunen kan også innhente uttalelser fra andre offentlige myndigheter i sakens anledning.\nKommunen kan sette tidsfrister for uttalelser fra andre offentlige myndigheter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Behandlingsfrist",
+      "content": "Kommunene skal ta stilling til bevillingssøknaden så raskt som mulig og senest innen 60 dager.\nKommunen skal så raskt som mulig gi søkeren et foreløpig svar med opplysning om den frist som gjelder for saksbehandlingen og om klagerett.\nSaksbehandlingsfristen regnes fra det tidspunkt da søkeren har gitt kommunen all nødvendig dokumentasjon. Mangler nødvendig dokumentasjon fra søkere, skal denne så snart som mulig oppfordres til å gi fullstendig dokumentasjon og opplyses om at saksbehandlingsfristen først løper fra det er gjort.\nFristen kan forlenges én gang dersom sakens kompleksitet gjør det nødvendig. Fristforlengelsen skal begrunnes og skal meddeles søkeren før den opprinnelige fristen er ute.\nBevilling anses ikke for gitt selv om fristen er ute.\n0 Endret ved lov 19 juni 2009 nr. 103 (ikr. 28 des 2009 iflg. res. 19 juni 2009 nr. 672).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Opplysnings- og meldeplikt",
+      "content": "Politiet, skatte- og avgiftsmyndighetene, tollmyndighetene, Mattilsynet, Arbeidstilsynet, Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda plikter uten hinder av taushetsplikt å gi de opplysninger som kommunen anser nødvendige for behandling av saker etter denne lov.\nDersom politiet, skatte- og avgiftsmyndighetene, tollmyndighetene, Mattilsynet, Arbeidstilsynet, Likestillings- og diskrimineringsombudet eller Diskrimineringsnemnda avdekker forhold som de har grunn til å anta har vesentlig betydning for bevillingsspørsmålet eller i vurderingen av om stedet bør stenges etter §§ 18 eller 19, plikter de av eget tiltak og uten hinder av taushetsplikt, å informere kommunen om dette.\nDepartementet kan i forskrift gi nærmere bestemmelser om opplysnings- og meldeplikten.\n0 Endret ved lover 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710), 21 juni 2019 nr. 57 (ikr. 1 jan 2020 iflg. res. 21 juni 2019 nr. 776).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Krav som skal være oppfylt i driftsfasen",
+      "content": "Kravene som fremgår av §§ 4 til 6, jf § 7, skal til enhver tid være oppfylt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Kontroll",
+      "content": "Kommunen kan til enhver tid kreve dokumentasjon for at kravene som fremgår av §§ 4 til 6, jf § 7, er oppfylt.\nKommunen kan foreta den inspeksjon ved serveringsstedet som er nødvendig for å kontrollere at lovens krav er oppfylt, og at de opplysninger som er gitt av bevillingshaver er korrekte og fullstendige.\nPolitiet kan foreta nødvendig inspeksjon av serveringssteder ved mistanke om lovbrudd knyttet til serveringsvirksomheten.\nDepartementet kan i forskrift gi nærmere regler om utøvelse av kontroll ved serveringssteder.\n0 Endret ved lov 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Melding om endringer ved serveringsstedet",
+      "content": "Bevillingshaveren plikter uten ugrunnet opphold å sende melding til kommunen ved:\na. skifte av daglig leder,\nb. andre endringer i den personkrets som er nevnt i § 6, jf § 7,\nc. innstilt drift av serveringsstedet.\nMelding om forhold som nevnt i bokstav a og b skal inneholde slik dokumentasjon som kreves etter § 8.\n0 Endret ved lov 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Åpningstider",
+      "content": "Kommunen kan i forskrift fastsette åpningstider for de serveringsstedene som ligger i kommunen.\nKommunen kan, når særlige grunner foreligger, gjøre unntak fra gjeldende åpningstidsbestemmelser for det enkelte serveringssted.\nVedtak om å innskrenke åpningstidene fastsatt etter kommunale forskrifter kan tidligst tre i kraft tre måneder etter at vedtaket er truffet.\nKommunen kan ved enkeltstående anledninger gi tillatelse til å lukke senere eller åpne tidligere enn til de tider som er fastsatt etter første eller andre ledd. Når en innehaver av skjenkebevilling får innvilget søknad om utvidet skjenketid ved enkeltanledninger etter alkohollovens § 4-4, innebærer dette samtidig at åpningstiden er utvidet tilsvarende.\nÅpningstider fastsatt etter første, andre eller fjerde ledd gjelder ikke servering ved overnattingssteder til overnattingsgjester.\n0 Endret ved lover 22 des 1999 nr. 104 (ikr. 1 jan 2000 iflg. res. 22 des. 1999 nr. 1372), 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710, men slik at gjeldende åpningstidsbestemmelser gis virkning inntil det er fastsatt kommunale forskrifter, dog ikke lenger enn ett år).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Ordensvakter og bortvisning av gjester",
+      "content": "Når politiet finner det påkrevet, skal det ved serveringssteder holdes ordensvakter i henhold til lov 5. januar 2001 nr. 1 om vaktvirksomhet.\nPersoner som gjentagne ganger har brutt serveringsstedets ordensregler eller forstyrrer ro og orden i virksomheten, kan i særlige tilfeller nektes adgang for kortere eller lengre tid. Beslutning om bortvisning skal være skriftlig, begrunnet og angi hvor lenge utestengingen skal vare. Beslutning om bortvisning foretas av politiet.\n0 Endret ved lover 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710), 19 juni 2009 nr. 85 (i kraft 1 okt 2023 iflg. res. 11 mai 2023 nr. 690).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Politiets adgang til midlertidig stenging av serveringssted",
+      "content": "Politiet kan stenge et serveringssted for inntil syv dager dersom det er nødvendig:\na. for å stanse forstyrrelser av den offentlige ro og orden eller når omstendighetene gir grunn til frykt for slike forstyrrelser,\nb. for å ivareta enkeltpersoners eller allmennhetens sikkerhet,\nc. for å avverge eller stanse lovbrudd.\nPolitiet skal uten ugrunnet opphold gi melding til kommunen om stenging av serveringssted.\n0 Endret ved lov 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Suspensjon av bevilling",
+      "content": "Kommunen kan straks sette en serveringsbevilling ut av kraft inntil videre dersom dette er nødvendig for å avverge eller stanse lovbrudd, og det er skjellig grunn til å tro at bevillingen vil bli kalt tilbake etter § 19, eller at bevillingshaveren vil bli fradømt retten til å drive serveringsstedet etter straffeloven § 56 første ledd bokstav b.\nKommunen kan straks stenge et serveringssted inntil videre dersom dette er nødvendig for å stanse brudd på lovgivning som nevnt i § 6 første ledd. Slik stenging skal opphøre når forholdene som lå til grunn for stengingsvedtaket, er rettet.\n0 Endret ved lover 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Tilbakekall av serveringsbevilling",
+      "content": "Dersom lovens krav i §§ 4 til 6, jf § 7, ikke lenger er oppfylt eller spesielle grunner i tilknytning til serveringsstedet eller driften av dette gjør det utilrådelig at serveringsstedet drives, kan kommunen tilbakekalle bevillingen etter at det er gitt varsel med rimelig frist til å rette opp forholdene.\nI vurderingen av om serveringsbevilling bør tilbakekalles skal det blant annet legges vekt på overtredelsens art, overtredelsens grovhet, om det foreligger gjentagelser, om noen tilknyttet serveringsstedet, jf. § 6 første ledd, kan klandres for overtredelsen og hva som er gjort for å rette opp forholdet.\n0 Endret ved lov 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Politiets stenging av serveringssted",
+      "content": "Politiet skal stenge et serveringssted som mangler serveringsbevilling eller som fortsetter å drive etter at det er fattet vedtak om suspensjon etter § 18 eller tilbakekall av bevilling etter § 19. Det samme gjelder dersom serveringsbevillingen er falt bort etter §§ 22 til 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Straff",
+      "content": "Med bøter straffes den som forsettlig eller uaktsomt:\na. driver serveringssted uten serveringsbevilling som kreves i henhold til § 3,\nb. overtrer §§ 4 og 5 jf § 12,\nc. ikke overholder åpningstidene som er fastsatt i medhold av § 15,\nd. ikke oppfyller politiets pålegg i medhold av § 16 om å holde godkjent ordensvakt.\ne. unnlater å melde endringer til kommunen etter § 14.\n0 Endret ved lover 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Overdragelse av serveringssted",
+      "content": "Ved overdragelse av serveringssted faller serveringsbevillingen bort såfremt det ikke søkes om ny bevilling innen 30 dager etter at det ble inngått avtale om overdragelse.\nOverdragelse av eierandeler i selskaper som driver serveringssted likestilles med overdragelse av serveringsstedet etter første ledd dersom erververen derved blir innehaver av mer enn halvparten av samtlige eierandeler i selskapet.\nDersom søknad om serveringsbevilling er sendt kommunen i samsvar med første ledd, kan driften av serveringsstedet fortsette inntil søknaden er avgjort av kommunen.\nKommunen kan i særlige tilfeller gi utsettelse med innsendelse av søknad om ny bevilling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Bortfall av bevilling ved konkurs",
+      "content": "Går bevillingshaver konkurs, faller serveringsbevillingen bort såfremt konkursboet ikke velger å fortsette driften av serveringsstedet. Konkursboet skal uten ugrunnet opphold melde fra til kommunen dersom det fortsetter driften.\nKravene i §§ 5 og 6 gjelder ikke i den perioden serveringsstedet drives av konkursboet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Bortfall av bevilling ved død",
+      "content": "Ved bevillingshavers død faller serveringsbevillingen bort såfremt dødsboet ikke velger å fortsette driften av serveringsstedet. Dødsboet må uten ugrunnet opphold melde fra til kommunen dersom det fortsetter driften. Dødsboet kan drive serveringsstedet videre inntil ett år etter dødsfallet. Kommunen kan gi tillatelse til fortsatt drift ut over denne fristen.\nKravet i § 5 gjelder ikke i den perioden serveringsstedet drives av dødsboet. Det gjøres unntak for kravene i § 6 for forhold som var til stede før arvefallet.\nVed overdragelse av serveringsstedet gjelder § 22 tilsvarende. For bevillingshavers arvinger gjøres det unntak fra kravene i § 6 for forhold som var til stede før arvefallet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Bortfall av bevilling ved innstilt eller manglende drift",
+      "content": "Dersom serveringsstedet er ute av drift i mer enn ett år, faller serveringsbevillingen bort. Det samme gjelder dersom serveringsstedet ikke er kommet i drift ett år etter at bevillingen ble gitt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "Tilbakeholdsrett",
+      "content": "Serveringsstedet har tilbakeholdsrett i gjenstander en gjest har med seg når gjesten ikke gjør opp for seg eller stiller fullgod sikkerhet for den sum gjesten skylder.\nDersom gjelden ikke blir gjort opp innen 60 dager, skal serveringsstedet overlate de tilbakeholdte gjenstander til politiet. Politiet følger reglene i lov av 29. mai 1953 nr. 3 om hittegods så langt disse passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Klage",
+      "content": "Kommunens vedtak etter denne lov kan påklages til statsforvalteren.\n0 Endret ved lov 7 mai 2021 nr. 34 (ikr. 1 juni 2021 iflg. res. 7 mai 2021 nr. 1416).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:28",
+      "chapter": "6",
+      "section": "28",
+      "title": "Lovens ikrafttredelse",
+      "content": "Loven trer i kraft fra det tidspunkt​1 Kongen bestemmer.\nFra samme tidspunkt gjøres følgende endringer:\n– – –\n1 Fra 1 jan 1998 iflg. res. 13 juni 1997 nr. 579.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "title": "Overgangsbestemmelse",
+      "content": "Loven gjelder også for den som har serveringsbevilling gitt med hjemmel i lov av 3. juni 1983 nr. 52 om overnattings- og serveringssteder (hotelloven).​1 Vedkommende kan fortsette virksomheten uten å søke om ny bevilling fra kommunen.\nFor den person som er styrer ved et igangværende serveringssted ved denne lovs ikrafttredelse​2 gjøres det unntak fra kravet i § 5. For øvrig må lovens krav om gjennomført etablererprøve i § 5 være oppfylt senest seks måneder etter ikrafttredelsestidspunktet, med mindre departementet bestemmer noe annet.\n1 Inkurie: Opphevet.\n2 1 jan 1998 iflg. res. 13 juni 1997 nr. 579.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Lovens formål er å sikre forsvarlig drift av serveringssteder av hensyn til næringen, gjestene og samfunnet for øvrig. Loven skal bidra til å gi serveringssteder stabile og forutsigbare rammevilkår og til å hindre illojal konkurranse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens virkeområde",
+      "content": "Loven gjelder etablering og drift av alle serveringssteder der det foregår servering av mat og/eller drikke og hvor forholdene ligger til rette for fortæring på stedet.\nLoven gjelder ikke for:\na. servering som ikke skjer i næring,\nb. serveringssteder ved helseinstitusjoner, skoler og barnehager når disse må godkjennes av offentlig myndighet etter annen lov eller forskrift, og serveringen skjer i institusjonens regi,\nc. serveringssteder som drives av staten til bruk for ansatte og annet personell i offentlig tjeneste, og for andre som har adgang etter gjeldende bestemmelser for virksomheten,\nd. servering i kantine som et foretak driver etter selvkostprinsippet og som er til bruk for egne ansatte,\ne. servering i tog, fly og båter i rutetrafikk,\nf. serveringssteder på flyttbare innretninger og faste installasjoner i forbindelse med undersøkelser etter eller utnyttelse av undersjøiske petroleumsforekomster på norsk kontinentalsokkel,\ng. serveringssteder som drives av lag, foreninger o l, hvor formålet med serveringen utelukkende er å skaffe inntekter til drift av laget, foreningen o l.\nDepartementet kan i forskrift bestemme at også andre grupper serveringssteder helt eller delvis skal unntas fra loven.\nDepartementet kan i forskrift bestemme at loven helt eller delvis skal gjelde for Svalbard og Jan Mayen.\n0 Endret ved lov 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "title": "Bevilling",
+      "content": "Den som vil gjøre seg næring av å drive serveringssted må ha serveringsbevilling gitt av kommunen.\nBevilling skal gis dersom kravene i §§ 4 til 6, jf § 7, er oppfylt, og det ikke foreligger forhold som av politimessige hensyn gjør det utilrådelig at serveringsbevilling gis. Bevilling gis til den for hvis regning serveringsstedet drives. Den gjelder for det serveringssted som er nevnt i bevillingen.\nKommunen kan sette som vilkår for bevillingen at krav i §§ 3 og 5 oppfylles innen en nærmere fastsatt tidsfrist.\n0 Endret ved lov 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710, men nytt tredje ledd gjelder ikke for serveringssteder som før ikrafttredelsen av endringsloven ikke var omfattet av lovens virkeområde, jf. § 2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Daglig leder",
+      "content": "Serveringsstedet skal ha en daglig leder som har det reelle ansvar for den daglige drift av serveringsstedet. Daglig leder må være myndig.\n0 Endret ved lov 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Krav om etablererprøve",
+      "content": "Serveringsstedets daglige leder må ha gjennomført en etablererprøve.\nDepartementet kan i forskrift gi nærmere regler om innholdet i og gjennomføringen av etablererprøven, samt om kommunens adgang til å kreve gebyr for prøveavleggelsen.\n0 Endret ved lover 22 des 1999 nr. 104 (ikr. 1 jan 2000 iflg. res. 22 des. 1999 nr. 1372), 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710, men kravet om etablererpøve gjelder ikke for daglig leder i virksomhet som er i drift ved ikrafttredelsen av endringsloven).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Krav til vandel",
+      "content": "Bevillingshaver, daglig leder og personer som har vesentlig innflytelse på virksomheten, må ha utvist uklanderlig vandel i forhold til straffelovgivningen, skatte- og avgiftslovgivningen, regnskapslovgivningen og likestillings- og diskrimineringsloven. Personer som nevnt i første punktum må heller ikke ha brutt annen lovgivning på en måte som vil være uforenlig med drift av serveringssted.\nPerson som eier en vesentlig del av virksomheten eller av selskap som driver virksomheten eller som oppebærer en vesentlig del av dens avkastning eller i kraft av sin stilling som leder har vesentlig innflytelse på den, vil alltid anses å ha vesentlig innflytelse på virksomheten.\nVed vurderingen av bevillingshavers og andre personers vandel etter første ledd kan det ikke tas hensyn til forhold som er eldre enn fem år.\n0 Endret ved lover 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710), 21 juni 2019 nr. 57 (ikr. 1 jan 2020 iflg. res. 21 juni 2019 nr. 776).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Konsolidering av eierandeler",
+      "content": "I vurderingen av om en person har vesentlig innflytelse på virksomheten, regnes vedkommendes eierandeler eller stemmer sammen med eierandeler eller stemmer som tilhører følgende personer:\n1. ektefelle eller person som vedkommende bor sammen med i ekteskapslignende forhold,\n2. slektninger i rett oppstigende eller nedstigende linje samt søsken,\n3. ektefelle til person som nevnt i nr. 2 eller person som bor i ekteskapslignende forhold sammen med person som nevnt i nr. 2.\n0 Endret ved lov 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Krav til søknaden",
+      "content": "Den som vil etablere et serveringssted skal sende skriftlig søknad til kommunen. Søknaden skal inneholde følgende opplysninger:\na. navn og adresse på den for hvis regning serveringsstedet skal drives. Dersom serveringsstedet drives av en juridisk person, skal det også gis opplysninger om organisasjonsnummer og eiersammensetning,\nb. angivelse av det sted hvor serveringsstedet skal drives,\nc. navn og adresse på daglig leder og personer som etter § 6 har vesentlig innflytelse på virksomheten,\nd. dokumentasjon av faglige kvalifikasjoner i henhold til § 5,\ne. skatteattest for den for hvis regning serveringsstedet skal drives.\nI tillegg kan kommunen, når den finner det påkrevet, kreve fremlagt:\na. leiekontrakt,\nb. finansieringsplan,\nc. driftbudsjett og\nd. likviditetsbudsjett.\nOpplysningene som nevnt i andre ledd må kreves uten ugrunnet opphold etter at kommunen har mottatt søknad om serveringsbevilling.\nServeringssteder som er børsnoterte eller notert på annet regulert marked, plikter ikke å legge frem informasjon som er taushetsbelagt etter verdipapirhandelloven med forskrifter.\n0 Endret ved lover 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710), 15 mars 2019 nr. 6 (ikr. 1 jan 2020 iflg. res. 6 des 2019 nr. 1656).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Innhenting av uttalelser",
+      "content": "Før søknaden avgjøres skal kommunen innhente uttalelse fra politiet om det foreligger forhold som nevnt i § 6, jf § 7, eller forhold som av politimessige hensyn gjør det utilrådelig at serveringsbevilling gis.\nKommunen kan også innhente uttalelser fra andre offentlige myndigheter i sakens anledning.\nKommunen kan sette tidsfrister for uttalelser fra andre offentlige myndigheter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Behandlingsfrist",
+      "content": "Kommunene skal ta stilling til bevillingssøknaden så raskt som mulig og senest innen 60 dager.\nKommunen skal så raskt som mulig gi søkeren et foreløpig svar med opplysning om den frist som gjelder for saksbehandlingen og om klagerett.\nSaksbehandlingsfristen regnes fra det tidspunkt da søkeren har gitt kommunen all nødvendig dokumentasjon. Mangler nødvendig dokumentasjon fra søkere, skal denne så snart som mulig oppfordres til å gi fullstendig dokumentasjon og opplyses om at saksbehandlingsfristen først løper fra det er gjort.\nFristen kan forlenges én gang dersom sakens kompleksitet gjør det nødvendig. Fristforlengelsen skal begrunnes og skal meddeles søkeren før den opprinnelige fristen er ute.\nBevilling anses ikke for gitt selv om fristen er ute.\n0 Endret ved lov 19 juni 2009 nr. 103 (ikr. 28 des 2009 iflg. res. 19 juni 2009 nr. 672).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Opplysnings- og meldeplikt",
+      "content": "Politiet, skatte- og avgiftsmyndighetene, tollmyndighetene, Mattilsynet, Arbeidstilsynet, Likestillings- og diskrimineringsombudet og Diskrimineringsnemnda plikter uten hinder av taushetsplikt å gi de opplysninger som kommunen anser nødvendige for behandling av saker etter denne lov.\nDersom politiet, skatte- og avgiftsmyndighetene, tollmyndighetene, Mattilsynet, Arbeidstilsynet, Likestillings- og diskrimineringsombudet eller Diskrimineringsnemnda avdekker forhold som de har grunn til å anta har vesentlig betydning for bevillingsspørsmålet eller i vurderingen av om stedet bør stenges etter §§ 18 eller 19, plikter de av eget tiltak og uten hinder av taushetsplikt, å informere kommunen om dette.\nDepartementet kan i forskrift gi nærmere bestemmelser om opplysnings- og meldeplikten.\n0 Endret ved lover 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710), 21 juni 2019 nr. 57 (ikr. 1 jan 2020 iflg. res. 21 juni 2019 nr. 776).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Krav som skal være oppfylt i driftsfasen",
+      "content": "Kravene som fremgår av §§ 4 til 6, jf § 7, skal til enhver tid være oppfylt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Kontroll",
+      "content": "Kommunen kan til enhver tid kreve dokumentasjon for at kravene som fremgår av §§ 4 til 6, jf § 7, er oppfylt.\nKommunen kan foreta den inspeksjon ved serveringsstedet som er nødvendig for å kontrollere at lovens krav er oppfylt, og at de opplysninger som er gitt av bevillingshaver er korrekte og fullstendige.\nPolitiet kan foreta nødvendig inspeksjon av serveringssteder ved mistanke om lovbrudd knyttet til serveringsvirksomheten.\nDepartementet kan i forskrift gi nærmere regler om utøvelse av kontroll ved serveringssteder.\n0 Endret ved lov 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Melding om endringer ved serveringsstedet",
+      "content": "Bevillingshaveren plikter uten ugrunnet opphold å sende melding til kommunen ved:\na. skifte av daglig leder,\nb. andre endringer i den personkrets som er nevnt i § 6, jf § 7,\nc. innstilt drift av serveringsstedet.\nMelding om forhold som nevnt i bokstav a og b skal inneholde slik dokumentasjon som kreves etter § 8.\n0 Endret ved lov 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Åpningstider",
+      "content": "Kommunen kan i forskrift fastsette åpningstider for de serveringsstedene som ligger i kommunen.\nKommunen kan, når særlige grunner foreligger, gjøre unntak fra gjeldende åpningstidsbestemmelser for det enkelte serveringssted.\nVedtak om å innskrenke åpningstidene fastsatt etter kommunale forskrifter kan tidligst tre i kraft tre måneder etter at vedtaket er truffet.\nKommunen kan ved enkeltstående anledninger gi tillatelse til å lukke senere eller åpne tidligere enn til de tider som er fastsatt etter første eller andre ledd. Når en innehaver av skjenkebevilling får innvilget søknad om utvidet skjenketid ved enkeltanledninger etter alkohollovens § 4-4, innebærer dette samtidig at åpningstiden er utvidet tilsvarende.\nÅpningstider fastsatt etter første, andre eller fjerde ledd gjelder ikke servering ved overnattingssteder til overnattingsgjester.\n0 Endret ved lover 22 des 1999 nr. 104 (ikr. 1 jan 2000 iflg. res. 22 des. 1999 nr. 1372), 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710, men slik at gjeldende åpningstidsbestemmelser gis virkning inntil det er fastsatt kommunale forskrifter, dog ikke lenger enn ett år).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Ordensvakter og bortvisning av gjester",
+      "content": "Når politiet finner det påkrevet, skal det ved serveringssteder holdes ordensvakter i henhold til lov 5. januar 2001 nr. 1 om vaktvirksomhet.\nPersoner som gjentagne ganger har brutt serveringsstedets ordensregler eller forstyrrer ro og orden i virksomheten, kan i særlige tilfeller nektes adgang for kortere eller lengre tid. Beslutning om bortvisning skal være skriftlig, begrunnet og angi hvor lenge utestengingen skal vare. Beslutning om bortvisning foretas av politiet.\n0 Endret ved lover 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710), 19 juni 2009 nr. 85 (i kraft 1 okt 2023 iflg. res. 11 mai 2023 nr. 690).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Politiets adgang til midlertidig stenging av serveringssted",
+      "content": "Politiet kan stenge et serveringssted for inntil syv dager dersom det er nødvendig:\na. for å stanse forstyrrelser av den offentlige ro og orden eller når omstendighetene gir grunn til frykt for slike forstyrrelser,\nb. for å ivareta enkeltpersoners eller allmennhetens sikkerhet,\nc. for å avverge eller stanse lovbrudd.\nPolitiet skal uten ugrunnet opphold gi melding til kommunen om stenging av serveringssted.\n0 Endret ved lov 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Suspensjon av bevilling",
+      "content": "Kommunen kan straks sette en serveringsbevilling ut av kraft inntil videre dersom dette er nødvendig for å avverge eller stanse lovbrudd, og det er skjellig grunn til å tro at bevillingen vil bli kalt tilbake etter § 19, eller at bevillingshaveren vil bli fradømt retten til å drive serveringsstedet etter straffeloven § 56 første ledd bokstav b.\nKommunen kan straks stenge et serveringssted inntil videre dersom dette er nødvendig for å stanse brudd på lovgivning som nevnt i § 6 første ledd. Slik stenging skal opphøre når forholdene som lå til grunn for stengingsvedtaket, er rettet.\n0 Endret ved lover 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Tilbakekall av serveringsbevilling",
+      "content": "Dersom lovens krav i §§ 4 til 6, jf § 7, ikke lenger er oppfylt eller spesielle grunner i tilknytning til serveringsstedet eller driften av dette gjør det utilrådelig at serveringsstedet drives, kan kommunen tilbakekalle bevillingen etter at det er gitt varsel med rimelig frist til å rette opp forholdene.\nI vurderingen av om serveringsbevilling bør tilbakekalles skal det blant annet legges vekt på overtredelsens art, overtredelsens grovhet, om det foreligger gjentagelser, om noen tilknyttet serveringsstedet, jf. § 6 første ledd, kan klandres for overtredelsen og hva som er gjort for å rette opp forholdet.\n0 Endret ved lov 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Politiets stenging av serveringssted",
+      "content": "Politiet skal stenge et serveringssted som mangler serveringsbevilling eller som fortsetter å drive etter at det er fattet vedtak om suspensjon etter § 18 eller tilbakekall av bevilling etter § 19. Det samme gjelder dersom serveringsbevillingen er falt bort etter §§ 22 til 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Straff",
+      "content": "Med bøter straffes den som forsettlig eller uaktsomt:\na. driver serveringssted uten serveringsbevilling som kreves i henhold til § 3,\nb. overtrer §§ 4 og 5 jf § 12,\nc. ikke overholder åpningstidene som er fastsatt i medhold av § 15,\nd. ikke oppfyller politiets pålegg i medhold av § 16 om å holde godkjent ordensvakt.\ne. unnlater å melde endringer til kommunen etter § 14.\n0 Endret ved lover 21 des 2007 nr. 133 (ikr. 1 jan 2008 iflg. res. 21 des 2007 nr. 1710), 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Overdragelse av serveringssted",
+      "content": "Ved overdragelse av serveringssted faller serveringsbevillingen bort såfremt det ikke søkes om ny bevilling innen 30 dager etter at det ble inngått avtale om overdragelse.\nOverdragelse av eierandeler i selskaper som driver serveringssted likestilles med overdragelse av serveringsstedet etter første ledd dersom erververen derved blir innehaver av mer enn halvparten av samtlige eierandeler i selskapet.\nDersom søknad om serveringsbevilling er sendt kommunen i samsvar med første ledd, kan driften av serveringsstedet fortsette inntil søknaden er avgjort av kommunen.\nKommunen kan i særlige tilfeller gi utsettelse med innsendelse av søknad om ny bevilling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Bortfall av bevilling ved konkurs",
+      "content": "Går bevillingshaver konkurs, faller serveringsbevillingen bort såfremt konkursboet ikke velger å fortsette driften av serveringsstedet. Konkursboet skal uten ugrunnet opphold melde fra til kommunen dersom det fortsetter driften.\nKravene i §§ 5 og 6 gjelder ikke i den perioden serveringsstedet drives av konkursboet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Bortfall av bevilling ved død",
+      "content": "Ved bevillingshavers død faller serveringsbevillingen bort såfremt dødsboet ikke velger å fortsette driften av serveringsstedet. Dødsboet må uten ugrunnet opphold melde fra til kommunen dersom det fortsetter driften. Dødsboet kan drive serveringsstedet videre inntil ett år etter dødsfallet. Kommunen kan gi tillatelse til fortsatt drift ut over denne fristen.\nKravet i § 5 gjelder ikke i den perioden serveringsstedet drives av dødsboet. Det gjøres unntak for kravene i § 6 for forhold som var til stede før arvefallet.\nVed overdragelse av serveringsstedet gjelder § 22 tilsvarende. For bevillingshavers arvinger gjøres det unntak fra kravene i § 6 for forhold som var til stede før arvefallet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Bortfall av bevilling ved innstilt eller manglende drift",
+      "content": "Dersom serveringsstedet er ute av drift i mer enn ett år, faller serveringsbevillingen bort. Det samme gjelder dersom serveringsstedet ikke er kommet i drift ett år etter at bevillingen ble gitt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "Tilbakeholdsrett",
+      "content": "Serveringsstedet har tilbakeholdsrett i gjenstander en gjest har med seg når gjesten ikke gjør opp for seg eller stiller fullgod sikkerhet for den sum gjesten skylder.\nDersom gjelden ikke blir gjort opp innen 60 dager, skal serveringsstedet overlate de tilbakeholdte gjenstander til politiet. Politiet følger reglene i lov av 29. mai 1953 nr. 3 om hittegods så langt disse passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Klage",
+      "content": "Kommunens vedtak etter denne lov kan påklages til statsforvalteren.\n0 Endret ved lov 7 mai 2021 nr. 34 (ikr. 1 juni 2021 iflg. res. 7 mai 2021 nr. 1416).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:28",
+      "chapter": "6",
+      "section": "28",
+      "title": "Lovens ikrafttredelse",
+      "content": "Loven trer i kraft fra det tidspunkt​1 Kongen bestemmer.\nFra samme tidspunkt gjøres følgende endringer:\n– – –\n1 Fra 1 jan 1998 iflg. res. 13 juni 1997 nr. 579.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "title": "Overgangsbestemmelse",
+      "content": "Loven gjelder også for den som har serveringsbevilling gitt med hjemmel i lov av 3. juni 1983 nr. 52 om overnattings- og serveringssteder (hotelloven).​1 Vedkommende kan fortsette virksomheten uten å søke om ny bevilling fra kommunen.\nFor den person som er styrer ved et igangværende serveringssted ved denne lovs ikrafttredelse​2 gjøres det unntak fra kravet i § 5. For øvrig må lovens krav om gjennomført etablererprøve i § 5 være oppfylt senest seks måneder etter ikrafttredelsestidspunktet, med mindre departementet bestemmer noe annet.\n1 Inkurie: Opphevet.\n2 1 jan 1998 iflg. res. 13 juni 1997 nr. 579.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    }
+  ]
+}

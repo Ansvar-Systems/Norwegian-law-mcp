@@ -1,0 +1,591 @@
+{
+  "id": "LOV-1965-06-04-4",
+  "type": "statute",
+  "title": "Lov om måling av skogsvirke og skurlast",
+  "short_name": "Lov om måling av skogsvirke og skurlast",
+  "status": "in_force",
+  "issued_date": "1965-06-04",
+  "in_force_date": "1965-06-04",
+  "url": "https://lovdata.no/dokument/NLO/lov/1965-06-04-4",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål.",
+      "content": "Formålet med denne lov er å fremme en betryggende, ensartet og rasjonell måling av skogsvirke og skurlast.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjoner.",
+      "content": "I denne lov forstås med:\na. Skogsvirke: Tømmer, stolper, påler, rundlast, kubb, skogsved, minetømmer m.v. både i ubearbeidet og delvis bearbeidet stand.\nb. Skurlast: Planker, boks og bord skåret av tømmer samt uhøvlet og høvlet tønnestav.\nc. Tømmermålingsforening: En organisasjon av selgere og kjøpere av skogsvirke innen et distrikt med formål å utføre måling av skogsvirke.\nd. Skurlastmålingsforening: En organisasjon av selgere og kjøpere av skurlast innen et distrikt med formål å utføre måling av skurlast.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "(Opphevet)",
+      "content": "0 Opphevd ved lov 19 juni 1969 nr. 54.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Opprettelse og sammenslutning av tømmermålingsforeninger.",
+      "content": "I distrikt hvor det ikke er tømmermålingsforening,​1 kan departementet​2 oppfordre selgere og kjøpere av skogsvirke​1 eller deres organisasjoner til å opprette tømmermålingsforening innen en nærmere fastsatt frist.\nOpprettes det ikke tømmermålingsforening innen den fastsatte frist, kan departementet bestemme at måling av skogsvirke i vedkommende distrikt skal utføres av målere oppnevnt av departementet. Departementet fastsetter instruks for disse målere.\nDepartementet kan endre grensene for distriktet til en tømmermålingsforening og kan bestemme at to eller flere tømmermålingsforeninger skal sammensluttes til en forening.\n1 Se § 2.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Tømmermålingsforeningens ledelse.",
+      "content": "Hver tømmermålingsforening​1 skal ha et styre og et representantskap som velges av selgere og kjøpere av skogsvirke​1 i distriktet. Departementet​2 fastsetter for den enkelte forening antallet medlemmer av styre og representantskap og medlemmenes funksjonstid.\nSelgere og kjøpere skal ha like mange representanter hver i styret og representantskapet. Nærmere bestemmelser om valget gis for den enkelte forening av departementet, som kan bestemme at representantene skal velges av selgernes og kjøpernes organisasjoner eller av selgere og kjøpere av skogsvirke i distriktet.\nMedlem av styre eller representantskap kan ikke stå i tømmermålingsforeningens tjeneste.\n1 Se § 2.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Vedtekter for tømmermålingsforening og instruks for dens målere.",
+      "content": "Representantskapet fastsetter vedtekter for tømmermålingsforeningen. Ved fastsettelsen kreves et flertall som svarer til minst én mer enn halvparten av representantskapets medlemmer. For å bli gyldige må vedtektene godkjennes av departementet.​1 Tilsvarende gjelder for endringer i vedtektene.\nDersom departementet ikke finner å kunne godkjenne vedtektene, kan det fastsette midlertidige vedtekter som gjelder inntil representantskapet legger fram vedtekter som godkjennes av departementet.\nInstruks for tømmermålingsforeningens målere fastsettes av styret.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Reglement m.v. for måling av skogsvirke.",
+      "content": "Departementet​2 fastsetter et alminnelig reglement om hvordan måling av skogsvirke skal skje,​3 og om hvilke måleenheter som skal brukes for forskjellig slags skogsvirke innen de enkelte distrikter. Det kan bestemmes at måling kan utføres ved neddykking, og at virkets verdi kan bestemmes på grunnlag av veiing eller på annen måte.\nDepartementet kan fastsette:\na. Spesielle måleregler for forskjellig slags skogsvirke,\nb. kubikktabeller,\nc. prisforholdstall og grunnpristabeller.\nd. klasseinndeling for forskjellig slags skogsvirke,\ne. bestemmelser om kontroll av måling av skogsvirke,\nf. bestemmelser om hvordan skogsvirke skal legges fram til måling,\ng. bestemmelser om i hvilke tilfelle måling kan nektes.\n1 Se § 20.\n2 Landbruksdepartementet.\n3 Jfr. § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Plikt til måling.​2",
+      "content": "I distrikt hvor det er tømmermålingsforening,​3 skal alt skogsvirke​3 som selges til industrielt bruk eller foredling eller for videre salg, måles av tømmermålingsforening, jfr. dog § 20. Unntatt er salg på rot.\nDepartementet​4 kan bestemme at det samme skal gjelde:\na. skogsvirke som selges på rot til formål som nevnt i første ledd,\nb. skogsvirke fra egen skog til foredling ved egen bedrift når foredlingsproduktet vanligvis selges,\nc. skogsvirke som leieforedles når foredlingsproduktet vanligvis selges.\nMålingspliktig skogsvirke måles av tømmermålingsforeningen i det distrikt hvor det avvirkes. Skal målingspliktig skogsvirke sendes ut av distriktet, kan departementet bestemme at det skal måles av tømmermålingsforeningen i et annet distrikt, på vegne av tømmermålingsforeningen i avvirkningsdistriktet.\nTømmermålingsforeningen plikter å måle skogsvirke som ikke er målingspliktig, når det forlanges av selger eller kjøper.\nBestemmelsene foran gjelder tilsvarende i distrikt hvor målere er oppnevnt i medhold av § 4 annet ledd.\n1 Se § 20.\n2 Jfr. § 23.\n3 Se § 2.\n4 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Måling hvor tømmermålingsforening ikke er opprettet.",
+      "content": "I distrikt hvor det ikke er tømmermålingsforening, felles tømmerskurlastmålingsforening eller målere oppnevnt i medhold av § 4 annet ledd, har så vel selger som kjøper krav på at målingen blir foretatt av partene i fellesskap eller av måler som representerer begge parter. Blir partene ikke enige om dette, kan departementet​1 oppnevne målere til å utføre målingen.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Måling av eksportvirke.",
+      "content": "Tømmermålingsforeningen​1 plikter​2 i den utstrekning departementet​3 bestemmer å måle skogsvirke​1 som skal eksporteres når det forlanges av selger eller kjøper.\nDepartementet kan fastsette særlige regler for slik måling, som for øvrig skjer etter bestemmelsene i den enkelte kontrakt.\nBestemmelsene foran gjelder tilsvarende i distrikt der målere er oppnevnt i medhold av § 4 annet ledd.\nOm måling av skogsvirke som skal eksporteres til naboland på annen måte enn ved utskipning, kan departementet gi særlige bestemmelser. Det kan herunder gis bestemmelser om adgang eller plikt til å la virket måle her i landet av målingsforening i nabolandet etter måleregler godkjent av departementet.\n1 Se § 2.\n2 Jfr. § 23.\n3 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Måling av importert virke.",
+      "content": "Tømmermålingsforeningen plikter​1 i den utstrekning departementet​2 bestemmer å måle skogsvirke som er importert, når importøren forlanger det.\nBestemmelsene i § 10, annet og tredje ledd, gjelder tilsvarende.\n1 Jfr. § 23.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Reglement m.v.",
+      "content": "Bestemmelser gitt i medhold av § 7, første ledd og annet ledds bokstav a, b, e, f, og g gjelder tilsvarende for måling av skogsvirke som skal eksporteres eller er importert i den utstrekning, ikke annet følger av bestemmelser gitt i eller i medhold av §§ 10 og 11.\n1 Se § 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Skurlastmålingsforeninger.",
+      "content": "I distrikt hvor det ikke er skurlastmålingsforening,​1 gjelder § 4 første og annet ledd tilsvarende.\nBestemmelsene i §§ 4 tredje ledd, 5 og 6 gjelder tilsvarende for skurlastmålingsforeninger.\n1 Se § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Plikt til måling.​2",
+      "content": "I distrikt hvor det er skurlastmålingsforening,​3 plikter foreningen i den utstrekning departementet​4 bestemmer å måle skurlast​3 som omsettes innenlands, når det forlanges av selger og kjøper. For distrikt som nevnt kan departementet videre bestemme at sagfallende skurlast som selges innenlands til industrielt bruk eller for videre salg, skal måles av skurlastmålingsforeningen. Departementet kan bestemme hva uttrykket sagfallende skurlast skal omfatte i denne forbindelse. Det kan gis særlige bestemmelser om skurlast som sendes til annet distrikt, herunder om hvilken skurlastmålingsforening som skal utføre målingen.\nSkurlastmålingsforening plikter i den utstrekning departementet bestemmer å måle:\na. skurlast som skal eksporteres, når det forlanges av eksportør,\nb. skurlast som er importert, når det forlanges av importør.\nDepartementet kan fastsette særlige regler for slik måling som for øvrig skjer etter bestemmelsene i den enkelte kontrakt.\nBestemmelsene foran gjelder tilsvarende i distrikt der målere er oppnevnt i medhold av § 13 (jfr. § 4 annet ledd).\n1 Se § 20.\n2 Jfr. § 23.\n3 Se § 2.\n4 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Måling av tønnestav.",
+      "content": "I de distrikter som departementet​2 bestemmer, kan det opprettes målingsforening for tønnestav.\nBestemmelsene i §§ 13 og 14 gjelder tilsvarende.\n1 Se § 20.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Reglement m.v. for måling av skurlast.",
+      "content": "Departementet​2 kan fastsette et alminnelig reglement om hvordan måling av skurlast skal skje,​3 og om hvilke måleenheter som skal brukes for ulike slags skurlast av de enkelte skurlastmålingsforeninger.\nDepartementet kan for forskjellig slags skurlast fastsette:\na. spesielle måleregler,\nb. klasseinndeling,\nc. bestemmelser om kontroll av måling,\nd. bestemmelser om hvordan skurlast skal legges fram til måling,\ne. bestemmelser om i hvilke tilfelle måling kan nektes.\n1 Se § 20.\n2 Landbruksdepartementet.\n3 Jfr. § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Felles administrasjon og målere for tømmermålings- og skurlastmålingsforening.",
+      "content": "Departementet​1 kan samtykke i at tømmermålingsforening og skurlastmålingsforening har felles administrasjon og felles målere.\nVedtak om felles administrasjon m.m. treffes i hver forening av representantskapet.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Opprettelse av felles tømmer- og skurlastmålingsforening.",
+      "content": "I distrikt der det er tømmermålingsforening og skurlastmålingsforening, kan departementet​1 samtykke i at foreningene sluttes sammen til en felles forening for måling av skogsvirke og skurlast.​2 Vedtak om sammenslutning treffes i hver forening av representantskapet.\nI distrikt der det bare er en målingsforening kan departementet samtykke i at foreningen omdannes til en felles forening for måling av skogsvirke og skurlast. Vedtak om omdanning treffes av representantskapet.\nI distrikt der det ikke er målingsforening, kan departementet gi organisasjonene av selgere og kjøpere av skogsvirke og skurlast oppfordring om å opprette en felles forening for måling av skogsvirke og skurlast innen en fastsatt frist. Bestemmelsene i § 4 annet ledd, jfr. § 13, gjelder tilsvarende.\nFelles målingsforening skal ha et styre og et representantskap som velges av selgere og kjøpere av skogsvirke og skurlast i distriktet. Antall representanter fra hver gruppe fastsettes av departementet etter forslag fra vedkommende målingsforeninger, fra vedkommende selger- og kjøperorganisasjoner eller i tilfelle fra møte som ikke-representerte selger- og kjøpergrupper sammenkalles til. Nærmere bestemmelser om valget gis av departementet som kan bestemme at representantene, skal velges av selgernes og kjøpernes organisasjoner eller på annen måte.\nBestemmelsene i § 4 tredje ledd, § 5 tredje ledd og § 6 gjelder tilsvarende for felles målingsforening.\n1 Landbruksdepartementet.\n2 Se § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Bestemmelser for felles tømmer- og skurlastmålingsforening.",
+      "content": "Bestemmelsene i §§ 7, 8, 10, 11 og 12 om måling av skogsvirke og i §§ 14 og 16 om måling av skurlast gjelder tilsvarende i distrikt hvor det er opprettet felles tømmer- og skurlastmålingsforening.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "6:20",
+      "chapter": "6",
+      "section": "20",
+      "title": "Adgang til dispensasjon.",
+      "content": "Departementet​1 kan gjøre unntak fra bestemmelser gitt i eller i medhold av denne lovs §§ 7, 8, 12, 14, 15 og 16 eller tilsvarende eldre bestemmelser som fortsatt gjelder i medhold av denne lovs § 24 tredje ledd.\nDepartementet kan gi vedkommende målingsforening fullmakt til å gjøre unntak fra:\na. bestemmelser om måling av skogsvirke gitt i medhold av § 7 annet ledd bokstav a-f og bestemmelser om måling av skurlast gitt i medhold av § 16 annet ledds bokstav a-d,\nb. bestemmelser om måleplikt gitt i eller i medhold av § 8 første og annet ledd og § 14 første ledds annet punktum.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "6:21",
+      "chapter": "6",
+      "section": "21",
+      "title": "Fordeling av målingsutgiftene m.v.",
+      "content": "Utgiftene ved opprettelse av målingsforening, målernes lønn og andre utgifter ved foreningens virksomhet utliknes på det målte virke etter satser som fastsettes av foreningen. Departementet​1 kan etter klage endre forholdet mellom de satser som er nevnt foran hvis satsene anses å være urimelige.\nVed måling av virke som er målepliktig etter § 8 første ledd eller etter bestemmelse gitt i medhold av § 8 annet ledds bokstav a, eller § 14 første ledds annet punktum, bæres utgiftene av selger og kjøper med en halvpart på hver. Departementet kan gi bestemmelser om avvik fra denne fordeling i tilfelle hvor det påløper merutgifter som er forårsaket av en av partene. Foreningens styre kan bestemme at utgiftene i sin helhet dekkes av kjøperen, som trekker selgerens andel i oppgjøret med denne.\nVed måling av virke som er målepliktig etter bestemmelse gitt i medhold av § 8 annet ledds bokstav b eller c, betaler eieren av virket utgiftene.\nVed måling av virke som ikke er målepliktig, er den som forlanger målingen, ansvarlig for betalingen av utgiftene.\nDepartementet kan bestemme at det ved unntak fra pliktig måling og ved rettsstridig unnlatelse av pliktig måling skal betales avgift til vedkommende målingsforening til dekning av tilsvarende utgifter ved foreningens virksomhet. Departementet gir nærmere bestemmelser om avgiftens størrelse, berekning, betaling og i tilfelle fordeling.\nI distrikt der målingen utføres av målere oppnevnt i medhold av § 4 annet ledd (jfr. § 13 første ledd og § 18 tredje ledd), gir departementet bestemmelser om utlikning av utgiftene på det målte virke. Ellers gjelder bestemmelsene i annet, tredje og fjerde ledd. Bestemmelse som nevnt i annet ledds tredje punktum blir i tilfelle å treffe av departementet.\nMåling ved målere oppnevnt i medhold av § 9 utføres for partenes felles rekning.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "6:22",
+      "chapter": "6",
+      "section": "22",
+      "title": "Bestemmelser til gjennomføring av loven.",
+      "content": "Departementet​1 kan gi nærmere bestemmelser til gjennomføring av denne lov.\n1 Landbruksdepartementet iflg. res. 17 sept. 1965.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "6:23",
+      "chapter": "6",
+      "section": "23",
+      "title": "Straffebestemmelser.",
+      "content": "Den som rettsstridig med forsett eller av aktløyse unnlater å sørge for måling av virke som er målepliktig etter bestemmelser gitt i eller i medhold av denne lov, straffes med bøter. På samme måte straffes den som forsettlig eller aktløst overtrer de bestemmelser om utføringen av målingen som er gitt i eller i medhold av denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "6:24",
+      "chapter": "6",
+      "section": "24",
+      "title": "Ikrafttreden m.m.",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\nFra samme tid oppheves:\n1. Lov av 30. april 1892 om Maaling af Trælast som udskibes.\n2. Lov av 22. juni 1928 om tømmermåling m.v.\n3. Lov av 6. juni 1930 um annamming av skurdlast.\nBestemmelser gitt i medhold av disse lover skal fortsatt gjelde inntil de blir opphevd eller avløst av bestemmelser gitt i medhold av denne lov.​2\n1 Fra jan. 1966 iflg. res. 17 sept. 1965.\n2 Se § 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål.",
+      "content": "Formålet med denne lov er å fremme en betryggende, ensartet og rasjonell måling av skogsvirke og skurlast.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjoner.",
+      "content": "I denne lov forstås med:\na. Skogsvirke: Tømmer, stolper, påler, rundlast, kubb, skogsved, minetømmer m.v. både i ubearbeidet og delvis bearbeidet stand.\nb. Skurlast: Planker, boks og bord skåret av tømmer samt uhøvlet og høvlet tønnestav.\nc. Tømmermålingsforening: En organisasjon av selgere og kjøpere av skogsvirke innen et distrikt med formål å utføre måling av skogsvirke.\nd. Skurlastmålingsforening: En organisasjon av selgere og kjøpere av skurlast innen et distrikt med formål å utføre måling av skurlast.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "(Opphevet)",
+      "content": "0 Opphevd ved lov 19 juni 1969 nr. 54.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Opprettelse og sammenslutning av tømmermålingsforeninger.",
+      "content": "I distrikt hvor det ikke er tømmermålingsforening,​1 kan departementet​2 oppfordre selgere og kjøpere av skogsvirke​1 eller deres organisasjoner til å opprette tømmermålingsforening innen en nærmere fastsatt frist.\nOpprettes det ikke tømmermålingsforening innen den fastsatte frist, kan departementet bestemme at måling av skogsvirke i vedkommende distrikt skal utføres av målere oppnevnt av departementet. Departementet fastsetter instruks for disse målere.\nDepartementet kan endre grensene for distriktet til en tømmermålingsforening og kan bestemme at to eller flere tømmermålingsforeninger skal sammensluttes til en forening.\n1 Se § 2.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Tømmermålingsforeningens ledelse.",
+      "content": "Hver tømmermålingsforening​1 skal ha et styre og et representantskap som velges av selgere og kjøpere av skogsvirke​1 i distriktet. Departementet​2 fastsetter for den enkelte forening antallet medlemmer av styre og representantskap og medlemmenes funksjonstid.\nSelgere og kjøpere skal ha like mange representanter hver i styret og representantskapet. Nærmere bestemmelser om valget gis for den enkelte forening av departementet, som kan bestemme at representantene skal velges av selgernes og kjøpernes organisasjoner eller av selgere og kjøpere av skogsvirke i distriktet.\nMedlem av styre eller representantskap kan ikke stå i tømmermålingsforeningens tjeneste.\n1 Se § 2.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Vedtekter for tømmermålingsforening og instruks for dens målere.",
+      "content": "Representantskapet fastsetter vedtekter for tømmermålingsforeningen. Ved fastsettelsen kreves et flertall som svarer til minst én mer enn halvparten av representantskapets medlemmer. For å bli gyldige må vedtektene godkjennes av departementet.​1 Tilsvarende gjelder for endringer i vedtektene.\nDersom departementet ikke finner å kunne godkjenne vedtektene, kan det fastsette midlertidige vedtekter som gjelder inntil representantskapet legger fram vedtekter som godkjennes av departementet.\nInstruks for tømmermålingsforeningens målere fastsettes av styret.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Reglement m.v. for måling av skogsvirke.",
+      "content": "Departementet​2 fastsetter et alminnelig reglement om hvordan måling av skogsvirke skal skje,​3 og om hvilke måleenheter som skal brukes for forskjellig slags skogsvirke innen de enkelte distrikter. Det kan bestemmes at måling kan utføres ved neddykking, og at virkets verdi kan bestemmes på grunnlag av veiing eller på annen måte.\nDepartementet kan fastsette:\na. Spesielle måleregler for forskjellig slags skogsvirke,\nb. kubikktabeller,\nc. prisforholdstall og grunnpristabeller.\nd. klasseinndeling for forskjellig slags skogsvirke,\ne. bestemmelser om kontroll av måling av skogsvirke,\nf. bestemmelser om hvordan skogsvirke skal legges fram til måling,\ng. bestemmelser om i hvilke tilfelle måling kan nektes.\n1 Se § 20.\n2 Landbruksdepartementet.\n3 Jfr. § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Plikt til måling.​2",
+      "content": "I distrikt hvor det er tømmermålingsforening,​3 skal alt skogsvirke​3 som selges til industrielt bruk eller foredling eller for videre salg, måles av tømmermålingsforening, jfr. dog § 20. Unntatt er salg på rot.\nDepartementet​4 kan bestemme at det samme skal gjelde:\na. skogsvirke som selges på rot til formål som nevnt i første ledd,\nb. skogsvirke fra egen skog til foredling ved egen bedrift når foredlingsproduktet vanligvis selges,\nc. skogsvirke som leieforedles når foredlingsproduktet vanligvis selges.\nMålingspliktig skogsvirke måles av tømmermålingsforeningen i det distrikt hvor det avvirkes. Skal målingspliktig skogsvirke sendes ut av distriktet, kan departementet bestemme at det skal måles av tømmermålingsforeningen i et annet distrikt, på vegne av tømmermålingsforeningen i avvirkningsdistriktet.\nTømmermålingsforeningen plikter å måle skogsvirke som ikke er målingspliktig, når det forlanges av selger eller kjøper.\nBestemmelsene foran gjelder tilsvarende i distrikt hvor målere er oppnevnt i medhold av § 4 annet ledd.\n1 Se § 20.\n2 Jfr. § 23.\n3 Se § 2.\n4 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Måling hvor tømmermålingsforening ikke er opprettet.",
+      "content": "I distrikt hvor det ikke er tømmermålingsforening, felles tømmerskurlastmålingsforening eller målere oppnevnt i medhold av § 4 annet ledd, har så vel selger som kjøper krav på at målingen blir foretatt av partene i fellesskap eller av måler som representerer begge parter. Blir partene ikke enige om dette, kan departementet​1 oppnevne målere til å utføre målingen.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Måling av eksportvirke.",
+      "content": "Tømmermålingsforeningen​1 plikter​2 i den utstrekning departementet​3 bestemmer å måle skogsvirke​1 som skal eksporteres når det forlanges av selger eller kjøper.\nDepartementet kan fastsette særlige regler for slik måling, som for øvrig skjer etter bestemmelsene i den enkelte kontrakt.\nBestemmelsene foran gjelder tilsvarende i distrikt der målere er oppnevnt i medhold av § 4 annet ledd.\nOm måling av skogsvirke som skal eksporteres til naboland på annen måte enn ved utskipning, kan departementet gi særlige bestemmelser. Det kan herunder gis bestemmelser om adgang eller plikt til å la virket måle her i landet av målingsforening i nabolandet etter måleregler godkjent av departementet.\n1 Se § 2.\n2 Jfr. § 23.\n3 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Måling av importert virke.",
+      "content": "Tømmermålingsforeningen plikter​1 i den utstrekning departementet​2 bestemmer å måle skogsvirke som er importert, når importøren forlanger det.\nBestemmelsene i § 10, annet og tredje ledd, gjelder tilsvarende.\n1 Jfr. § 23.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Reglement m.v.",
+      "content": "Bestemmelser gitt i medhold av § 7, første ledd og annet ledds bokstav a, b, e, f, og g gjelder tilsvarende for måling av skogsvirke som skal eksporteres eller er importert i den utstrekning, ikke annet følger av bestemmelser gitt i eller i medhold av §§ 10 og 11.\n1 Se § 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Skurlastmålingsforeninger.",
+      "content": "I distrikt hvor det ikke er skurlastmålingsforening,​1 gjelder § 4 første og annet ledd tilsvarende.\nBestemmelsene i §§ 4 tredje ledd, 5 og 6 gjelder tilsvarende for skurlastmålingsforeninger.\n1 Se § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Plikt til måling.​2",
+      "content": "I distrikt hvor det er skurlastmålingsforening,​3 plikter foreningen i den utstrekning departementet​4 bestemmer å måle skurlast​3 som omsettes innenlands, når det forlanges av selger og kjøper. For distrikt som nevnt kan departementet videre bestemme at sagfallende skurlast som selges innenlands til industrielt bruk eller for videre salg, skal måles av skurlastmålingsforeningen. Departementet kan bestemme hva uttrykket sagfallende skurlast skal omfatte i denne forbindelse. Det kan gis særlige bestemmelser om skurlast som sendes til annet distrikt, herunder om hvilken skurlastmålingsforening som skal utføre målingen.\nSkurlastmålingsforening plikter i den utstrekning departementet bestemmer å måle:\na. skurlast som skal eksporteres, når det forlanges av eksportør,\nb. skurlast som er importert, når det forlanges av importør.\nDepartementet kan fastsette særlige regler for slik måling som for øvrig skjer etter bestemmelsene i den enkelte kontrakt.\nBestemmelsene foran gjelder tilsvarende i distrikt der målere er oppnevnt i medhold av § 13 (jfr. § 4 annet ledd).\n1 Se § 20.\n2 Jfr. § 23.\n3 Se § 2.\n4 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Måling av tønnestav.",
+      "content": "I de distrikter som departementet​2 bestemmer, kan det opprettes målingsforening for tønnestav.\nBestemmelsene i §§ 13 og 14 gjelder tilsvarende.\n1 Se § 20.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Reglement m.v. for måling av skurlast.",
+      "content": "Departementet​2 kan fastsette et alminnelig reglement om hvordan måling av skurlast skal skje,​3 og om hvilke måleenheter som skal brukes for ulike slags skurlast av de enkelte skurlastmålingsforeninger.\nDepartementet kan for forskjellig slags skurlast fastsette:\na. spesielle måleregler,\nb. klasseinndeling,\nc. bestemmelser om kontroll av måling,\nd. bestemmelser om hvordan skurlast skal legges fram til måling,\ne. bestemmelser om i hvilke tilfelle måling kan nektes.\n1 Se § 20.\n2 Landbruksdepartementet.\n3 Jfr. § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Felles administrasjon og målere for tømmermålings- og skurlastmålingsforening.",
+      "content": "Departementet​1 kan samtykke i at tømmermålingsforening og skurlastmålingsforening har felles administrasjon og felles målere.\nVedtak om felles administrasjon m.m. treffes i hver forening av representantskapet.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Opprettelse av felles tømmer- og skurlastmålingsforening.",
+      "content": "I distrikt der det er tømmermålingsforening og skurlastmålingsforening, kan departementet​1 samtykke i at foreningene sluttes sammen til en felles forening for måling av skogsvirke og skurlast.​2 Vedtak om sammenslutning treffes i hver forening av representantskapet.\nI distrikt der det bare er en målingsforening kan departementet samtykke i at foreningen omdannes til en felles forening for måling av skogsvirke og skurlast. Vedtak om omdanning treffes av representantskapet.\nI distrikt der det ikke er målingsforening, kan departementet gi organisasjonene av selgere og kjøpere av skogsvirke og skurlast oppfordring om å opprette en felles forening for måling av skogsvirke og skurlast innen en fastsatt frist. Bestemmelsene i § 4 annet ledd, jfr. § 13, gjelder tilsvarende.\nFelles målingsforening skal ha et styre og et representantskap som velges av selgere og kjøpere av skogsvirke og skurlast i distriktet. Antall representanter fra hver gruppe fastsettes av departementet etter forslag fra vedkommende målingsforeninger, fra vedkommende selger- og kjøperorganisasjoner eller i tilfelle fra møte som ikke-representerte selger- og kjøpergrupper sammenkalles til. Nærmere bestemmelser om valget gis av departementet som kan bestemme at representantene, skal velges av selgernes og kjøpernes organisasjoner eller på annen måte.\nBestemmelsene i § 4 tredje ledd, § 5 tredje ledd og § 6 gjelder tilsvarende for felles målingsforening.\n1 Landbruksdepartementet.\n2 Se § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Bestemmelser for felles tømmer- og skurlastmålingsforening.",
+      "content": "Bestemmelsene i §§ 7, 8, 10, 11 og 12 om måling av skogsvirke og i §§ 14 og 16 om måling av skurlast gjelder tilsvarende i distrikt hvor det er opprettet felles tømmer- og skurlastmålingsforening.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "6:20",
+      "chapter": "6",
+      "section": "20",
+      "title": "Adgang til dispensasjon.",
+      "content": "Departementet​1 kan gjøre unntak fra bestemmelser gitt i eller i medhold av denne lovs §§ 7, 8, 12, 14, 15 og 16 eller tilsvarende eldre bestemmelser som fortsatt gjelder i medhold av denne lovs § 24 tredje ledd.\nDepartementet kan gi vedkommende målingsforening fullmakt til å gjøre unntak fra:\na. bestemmelser om måling av skogsvirke gitt i medhold av § 7 annet ledd bokstav a-f og bestemmelser om måling av skurlast gitt i medhold av § 16 annet ledds bokstav a-d,\nb. bestemmelser om måleplikt gitt i eller i medhold av § 8 første og annet ledd og § 14 første ledds annet punktum.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "6:21",
+      "chapter": "6",
+      "section": "21",
+      "title": "Fordeling av målingsutgiftene m.v.",
+      "content": "Utgiftene ved opprettelse av målingsforening, målernes lønn og andre utgifter ved foreningens virksomhet utliknes på det målte virke etter satser som fastsettes av foreningen. Departementet​1 kan etter klage endre forholdet mellom de satser som er nevnt foran hvis satsene anses å være urimelige.\nVed måling av virke som er målepliktig etter § 8 første ledd eller etter bestemmelse gitt i medhold av § 8 annet ledds bokstav a, eller § 14 første ledds annet punktum, bæres utgiftene av selger og kjøper med en halvpart på hver. Departementet kan gi bestemmelser om avvik fra denne fordeling i tilfelle hvor det påløper merutgifter som er forårsaket av en av partene. Foreningens styre kan bestemme at utgiftene i sin helhet dekkes av kjøperen, som trekker selgerens andel i oppgjøret med denne.\nVed måling av virke som er målepliktig etter bestemmelse gitt i medhold av § 8 annet ledds bokstav b eller c, betaler eieren av virket utgiftene.\nVed måling av virke som ikke er målepliktig, er den som forlanger målingen, ansvarlig for betalingen av utgiftene.\nDepartementet kan bestemme at det ved unntak fra pliktig måling og ved rettsstridig unnlatelse av pliktig måling skal betales avgift til vedkommende målingsforening til dekning av tilsvarende utgifter ved foreningens virksomhet. Departementet gir nærmere bestemmelser om avgiftens størrelse, berekning, betaling og i tilfelle fordeling.\nI distrikt der målingen utføres av målere oppnevnt i medhold av § 4 annet ledd (jfr. § 13 første ledd og § 18 tredje ledd), gir departementet bestemmelser om utlikning av utgiftene på det målte virke. Ellers gjelder bestemmelsene i annet, tredje og fjerde ledd. Bestemmelse som nevnt i annet ledds tredje punktum blir i tilfelle å treffe av departementet.\nMåling ved målere oppnevnt i medhold av § 9 utføres for partenes felles rekning.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "6:22",
+      "chapter": "6",
+      "section": "22",
+      "title": "Bestemmelser til gjennomføring av loven.",
+      "content": "Departementet​1 kan gi nærmere bestemmelser til gjennomføring av denne lov.\n1 Landbruksdepartementet iflg. res. 17 sept. 1965.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "6:23",
+      "chapter": "6",
+      "section": "23",
+      "title": "Straffebestemmelser.",
+      "content": "Den som rettsstridig med forsett eller av aktløyse unnlater å sørge for måling av virke som er målepliktig etter bestemmelser gitt i eller i medhold av denne lov, straffes med bøter. På samme måte straffes den som forsettlig eller aktløst overtrer de bestemmelser om utføringen av målingen som er gitt i eller i medhold av denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "6:24",
+      "chapter": "6",
+      "section": "24",
+      "title": "Ikrafttreden m.m.",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\nFra samme tid oppheves:\n1. Lov av 30. april 1892 om Maaling af Trælast som udskibes.\n2. Lov av 22. juni 1928 om tømmermåling m.v.\n3. Lov av 6. juni 1930 um annamming av skurdlast.\nBestemmelser gitt i medhold av disse lover skal fortsatt gjelde inntil de blir opphevd eller avløst av bestemmelser gitt i medhold av denne lov.​2\n1 Fra jan. 1966 iflg. res. 17 sept. 1965.\n2 Se § 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    }
+  ]
+}

@@ -1,0 +1,687 @@
+{
+  "id": "LOV-2001-06-15-81",
+  "type": "statute",
+  "title": "Lov om elektronisk signatur (esignaturloven)",
+  "short_name": "Esignaturloven – esignl",
+  "status": "in_force",
+  "issued_date": "2001-06-15",
+  "in_force_date": "2001-07-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/2001-06-15-81",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Formålet med denne loven er å legge til rette for en sikker og effektiv bruk av elektronisk signatur​1 ved å fastsette krav til kvalifiserte sertifikater,​2 til utstederne​3 av disse sertifikatene og til sikre signaturfremstillingssystemer.​4\n1 Se § 3 nr. 1.\n2 Se § 4.\n3 Se § 3 nr. 10.\n4 Se § 3 nr. 6 og kap. II.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens virkeområde",
+      "content": "Loven gjelder for sertifikatutstedere​1 som er etablert i Norge. Loven regulerer rammebetingelsene for bruk av kvalifiserte elektroniske signaturer,​2 med unntak av § 6 annet punktum, § 7 og § 16 a som gjelder alle elektroniske signaturer.​3\nKongen kan i forskrift bestemme at loven skal gjelde for Svalbard​4 og Jan Mayen.\n0 Endret ved lov 17 juni 2005 nr. 104 (ikr. 1 juli 2005 iflg. res. 17 juni 2005 nr. 584).\n1 Se § 3 nr. 10.\n2 Se § 3 nr. 3.\n3 Se § 3 nr. 1.\n4 Se lov 17 juli 1925 nr. 11 § 1 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I denne loven menes med:\n1. elektronisk signatur: data i elektronisk form som er knyttet til andre elektroniske data og som brukes som autentiseringsmetode,\n2. avansert elektronisk signatur: en elektronisk signatur​1 som\na. er entydig knyttet til undertegneren,​2\nb. kan identifisere undertegneren,​2\nc. er laget ved hjelp av midler som bare undertegneren​2 har kontroll over, og\nd. er knyttet til andre elektroniske data på en slik måte at det kan oppdages om disse har blitt endret etter signering,\n3. kvalifisert elektronisk signatur: en avansert elektronisk signatur​1 som er basert på et kvalifisert sertifikat​3 og fremstilt av et godkjent sikkert signaturfremstillingssystem,​4\n4. undertegner: den som disponerer et signaturfremstillingssystem​5 og som handler på vegne av seg selv eller på vegne av en annen fysisk eller juridisk person,\n5. signaturfremstillingssdata:​6 unike data, som for eksempel koder eller private nøkler, som undertegneren benytter for å fremstille en elektronisk signatur,​1\n6. signaturfremstillingssystem: programvare eller maskinvare som benyttes til å fremstille elektronisk signatur​1 ved hjelp av signaturfremstillingsdata,\n7. signaturverifikasjonsdata: unike data, som for eksempel koder eller offentlige nøkler, som benyttes til å verifisere en elektronisk signatur,​1\n8. signaturverifikasjonssystem: programvare eller maskinvare som benyttes for å verifisere elektronisk signatur​1 ved hjelp av signaturverifikasjonsdata,​4\n9. sertifikat: en kopling mellom signaturverifikasjonsdata​7 og undertegner​2 som bekrefter undertegners identitet og er signert av sertifikatutsteder,​8\n10. sertifikatutsteder: en fysisk eller juridisk person som utsteder sertifikater eller tilbyr andre tjenester relatert til elektronisk signatur,​1\n11. sertifiseringsordning: enhver ordning der en tredjepart skriftlig bekrefter at en sertifikatutsteders produkter, prosesser eller tjenester oppfyller spesifiserte krav, og der sertifikatutsteder ikke er berettiget til å utøve de rettighetene som sertifiseringen gir før vedkommende har mottatt tredjeparts bekreftelse,\n12. godkjenningsordning: enhver ordning der en tredjepart gir tillatelse til at en sertifikatutsteders produkter, prosesser eller tjenester markedsføres eller brukes til nærmere angitte formål eller under angitte betingelser,\n13. selvdeklarasjonsordning: enhver ordning der sertifikatutstedere sender inn en selvdeklarasjon til tredjepart med angivelse av at nærmere angitte krav er oppfylt.\n0 Endret ved lover 20 des 2002 nr. 110 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1615), 17 juni 2005 nr. 104 (ikr. 1 juli 2005 iflg. res. 17 juni 2005 nr. 584).\n1 Se nr. 1.\n2 Se nr. 4.\n3 Se § 4.\n4 Se nr. 6 og kap. II.\n5 Se nr. 6.\n6 Skal være «signaturfremstillingsdata».\n1 Skal være «signaturfremstillingsdata».\n7 Se nr. 7.\n8 Se nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Kvalifisert sertifikat",
+      "content": "Betegnelsen kvalifisert sertifikat skal kun​1 brukes om sertifikater​2 som oppfyller kravene i denne paragrafen og utstedes for en begrenset periode av en sertifikatutsteder​3 som oppfyller kravene i §§ 10 – 15.\nEt kvalifisert sertifikat skal inneholde følgende informasjon:\na. en angivelse av at sertifikatet er utstedt som et kvalifisert sertifikat,\nb. sertifikatutstederens​3 identitet og den stat den er etablert i,\nc. undertegnerens​4 navn eller pseudonym med opplysning om at det er et pseudonym,\nd. eventuelt ytterligere opplysninger om undertegneren,​4 dersom de er relevante for bruken av sertifikatet,\ne. de signaturverifikasjonsdata,​5 som svarer til de signaturfremstillingsdata​6 som er under undertegnerens​4 kontroll,\nf. sertifikatets ikrafttredelses- og utløpsdato,\ng. sertifikatets identifikasjonskode,\nh. sertifikatutstederens​3 avanserte elektroniske signatur,​7\ni. eventuelle begrensninger i sertifikatets anvendelsesområde, og\nj. eventuelle beløpsmessige begrensninger i sertifikatet med hensyn til hvilke transaksjoner sertifikatet kan brukes til.\nKongen kan i forskrift regulere hva det kvalifiserte sertifikatet nærmere skal inneholde.\n1 Se kap. V. Se § 27.\n2 Se § 3 nr. 9.\n3 Se § 3 nr. 10.\n4 Se § 3 nr. 4.\n5 Se § 3 nr. 7.\n6 Se § 3 nr. 5.\n7 Se § 3 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Krav til kvalifiserte elektroniske signaturer brukt i kommunikasjon med og i offentlig sektor",
+      "content": "Kongen kan fastsette nærmere regler om hvilke krav som skal stilles til kvalifiserte elektroniske signaturer​1 som skal brukes ved kommunikasjon med og i offentlig sektor.\n1 Se § 3 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "title": "Rettsvirkninger av elektronisk signatur",
+      "content": "Dersom det i lov, forskrift eller på annen måte er oppstilt krav om underskrift for å få en bestemt rettsvirkning og disposisjonen kan gjennomføres elektronisk, oppfyller en kvalifisert elektronisk signatur​1 alltid et slikt krav. En elektronisk signatur​2 som ikke er kvalifisert, kan oppfylle et slikt krav.\n1 Se § 3 nr. 3.\n2 Se § 3 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "title": "Innsamling og bruk av personopplysninger",
+      "content": "En sertifikatutsteder​1 får kun innhente personopplysninger​2 direkte fra den opplysningene gjelder, eller med dennes uttrykkelige samtykke​3 og bare i den utstrekning som er nødvendig for å utstede eller opprettholde et sertifikat. Opplysningene må ikke samles inn eller behandles for andre formål,​4 så fremt ikke den opplysningene gjelder har gitt sitt uttrykkelige samtykke​3 til det.\nDatatilsynet​5 skal føre tilsyn med at denne bestemmelsen overholdes. I den utstrekning ikke annet følger av denne lov, kommer personopplysningsloven​6 §§ 42-47 med forskrifter til anvendelse ved Datatilsynets kontroll etter første punktum.\n0 Endret ved lov 20 des 2002 nr. 110 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1615). Endres ved lov 15 juni 2018 nr. 38 (ikr. samtidig med personvernforordningen).\n1 Se § 3 nr. 10.\n2 Se lov 14 apr 2000 nr. 31 § 2 nr. 1.\n3 Se lov 14 apr 2000 nr. 31 § 2 nr. 7.\n4 Se lov 14 apr 2000 nr. 31 § 11.\n5 Se lov 14 apr 2000 nr. 31 § 42.\n6 Lov 14 apr 2000 nr. 31.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Krav til sikre signaturfremstillingssystemer",
+      "content": "Et sikkert signaturfremstillingssystem​1 skal sikre at signaturen er tilfredsstillende beskyttet mot forfalskning. Videre skal et sikkert signaturfremstillingssystem sikre at signaturfremstillingsdata:​2\na. i praksis kun kan fremtre én gang og med rimelig grad av sikkerhet forblir hemmeligholdt,\nb. i rimelig utstrekning ikke kan utledes, og\nc. på pålitelig vis kan beskyttes av rette undertegner​3 mot andres bruk.\nEt sikkert signaturfremstillingssystem​1 må ikke forandre data i elektronisk form som skal signeres, eller hindre at dataene vises for undertegner​3 før det signeres.\n1 Se § 3 nr. 6.\n2 Se § 3 nr. 5.\n3 Se § 3 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Godkjennelse av sikre signaturfremstillingssystem",
+      "content": "Godkjennelse som et sikkert signaturfremstillingssystem,​1 jf. § 8, gis av det organ som Kongen utpeker. Kongen kan i forskrift gi nærmere bestemmelser om organet og om krav til sikre signaturfremstillingssystem.​1\nLikestilt med godkjennelse etter første ledd er godkjennelse fra et tilsvarende organ i en annen stat som er part i EØS-avtalen.​2\nKravene i § 8 skal anses oppfylt når den maskin- eller programvaren som benyttes, er i samsvar med de standarder for elektroniske signaturprodukter som Europakommisjonen fastsetter og som offentliggjøres i De Europeiske Fellesskaps Tidende.\n1 Se § 3 nr. 6.\n2 Jf. vedlegg til lov 27 nov 1992 nr. 109.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Krav til virksomheten",
+      "content": "Utstedere av kvalifiserte sertifikater​1 skal utøve og administrere virksomheten på en forsvarlig måte slik at den kan tilby sikre, pålitelige og velfungerende sertifikattjenester.\nSertifikatutstederen​2 skal til enhver tid ha tilstrekkelige økonomiske ressurser til å kunne drive virksomheten i henhold til kravene som er stilt i eller i medhold av denne lov.\n1 Se § 4.\n2 Se § 3 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Krav til produkter og systemer",
+      "content": "Utstedere av kvalifiserte sertifikater​1 skal bruke pålitelige produkter og systemer som er beskyttet mot endringer, og som gir teknisk og kryptografisk sikkerhet i understøttende prosesser.\nKravene i første ledd skal anses oppfylte dersom sertifikatutsteder​2 benytter seg av produkter og systemer som er godkjent av et organ i henhold til § 9 første og annet ledd, eller er i samsvar med standarder fastsatt av Europakommisjonen etter § 9 tredje ledd.\nSertifikatutsteder​2 skal iverksette tiltak mot forfalskning av sertifikatene. Dersom sertifikatutsteder fremstiller signaturfremstillingsdata,​3 skal utstederen garantere fortroligheten av disse dataene under fremstillingsprosessen.\n1 Se § 4.\n2 Se § 3 nr. 10.\n3 Se § 3 nr. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Krav om katalog- og tilbaketrekkingstjeneste",
+      "content": "Utstedere​1 av kvalifiserte sertifikater​2 skal sørge for en hurtig og sikker katalog- og tilbaketrekkingstjeneste og skal sikre at det er mulig å fastslå dato og tidspunkt for ikrafttredelse eller tilbaketrekking av et sertifikat.\n1 Se § 3 nr. 10.\n2 Se § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Krav om kontroll av undertegners identitet",
+      "content": "Utstedere​1 av kvalifiserte sertifikater​2 er ansvarlige for at identiteten til undertegner​3 og ytterligere relevante opplysninger om vedkommende blir kontrollert gjennom sikre rutiner.\nOpplysninger om rutinene som nevnt i første ledd skal være offentlig tilgjengelige.\n1 Se § 3 nr. 10.\n2 Se § 4.\n3 Se § 3 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Krav til lagring av opplysninger",
+      "content": "Utstedere​1 av kvalifiserte sertifikater​2 skal lagre alle relevante opplysninger om kvalifiserte sertifikater i en rimelig periode, dog minst 10 år etter at sertifikatet er registrert i tilbaketrekkingslisten.\nSertifikatutsteder​1 skal benytte pålitelige systemer til oppbevaring av sertifikater i verifiserbar form, slik at\na. opplysningens ekthet kan kontrolleres,\nb. sertifikatene kun er offentlig tilgjengelige i de tilfellene der innehaveren har gitt sitt samtykke, og\nc. eventuelle tekniske endringer, som bringer disse sikkerhetskravene i fare, er synlige for operatøren.\nUtstedere​1 av kvalifiserte sertifikater​2 må ikke oppbevare eller kopiere undertegners​3 signaturfremstillingsdata.​4\n1 Se § 3 nr. 10.\n2 Se § 4.\n3 Se § 3 nr. 4.\n4 Se § 3 nr. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Krav om informasjon om vilkår, begrensninger og lignende",
+      "content": "Før en sertifikatutsteder​1 inngår avtale om å utstede et kvalifisert sertifikat​2 skal utstederen skriftlig informere motparten om\na. vilkårene og begrensningene for bruken av sertifikatet,\nb. opplysninger om eventuelle frivillige sertifiserings-, godkjennings- eller selvdeklarasjonsordninger,​3 og\nc. prosedyrer for klage og avgjørelse av tvister.\nOpplysninger i henhold til første ledd kan sendes elektronisk, dersom det skjer i en for motparten umiddelbart lesbar form. Disse opplysningene skal også kunne kontrolleres av signaturmottakeren.\n0 Endret ved lov 17 juni 2005 nr. 104 (ikr. 1 juli 2005 iflg. res. 17 juni 2005 nr. 584).\n1 Se § 3 nr. 10.\n2 Se § 4.\n3 Se § 16 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Utfyllende krav",
+      "content": "Kongen kan i forskrift fastsette nærmere regler om hvilke krav som kan stilles til utstedere​1 av kvalifiserte sertifikater​2 for å oppfylle bestemmelsene i §§ 10-15.\n1 Se § 3 nr. 10.\n2 Se § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:16 a",
+      "chapter": "4",
+      "section": "16 a",
+      "title": "Etablering av frivillige sertifiseringsordninger, godkjenningsordninger eller selvdeklarasjonsordninger",
+      "content": "Departementet kan ved forskrift innføre frivillige sertifiserings-, godkjennings- eller selvdeklarasjonsordninger med sikte på å høyne nivået for sertifikattjenester for å øke tilliten til og bruken av slike tjenester.\nDepartementet kan i forskriften bestemme hvilke krav som skal stilles for slike ordninger, utpeke ansvarlig organ og bestemme at det skal betales gebyr til organet. Gebyrene må ikke overstige kostnadene ved organets virksomhet.\nFor å bringe lovstridig virksomhet til opphør eller sikre at pålegg eller vilkår gitt i forskrift med hjemmel i denne bestemmelsen etterkommes, kan organet utpekt etter annet ledd ilegge løpende tvangsmulkt etter reglene i § 20.\n0 Tilføyd ved lov 17 juni 2005 nr. 104 (ikr. 1 juli 2005 iflg. res. 17 juni 2005 nr. 584).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16a",
+        "source_heading": "§ 16 a."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Tilsyn med utstedere av kvalifiserte sertifikater​1",
+      "content": "Kongen kan utpeke et organ som skal føre tilsyn med at denne lov med forskrifter etterleves.\nTilsynet kan kreve​2 de opplysninger og dokumenter som er nødvendige for å utføre sine oppgaver, og fastsette en tidsfrist for å sende dem inn.\nTilsynet kan gi påbud om at forhold som er i strid med bestemmelser som er gitt i eller i medhold av denne loven, skal opphøre og stille vilkår som må oppfylles for at virksomheten skal være i samsvar med loven.\nTilsynet kan kreve at det gjennomføres IT-revisjon hos utstedere av kvalifiserte sertifikater​1 og utpeke en revisor til å utføre IT-revisjonen. Sertifikatutsteder​3 kan pålegges å betale for revisjonen.\nTilsynet kan frata en sertifikatutsteder​3 retten til å anvende betegnelsen kvalifisert sertifikat,​1 dersom sertifikatutstederen grovt eller gjentatte ganger ikke overholder lovens regler.\nKongen kan gi nærmere forskrifter om tilsynets virksomhet.\n1 Se § 3 nr. 10 og § 4.\n2 Jf. § 21.\n3 Se § 3 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Registrering av utstedere av kvalifiserte sertifikater",
+      "content": "En sertifikatutsteder​1 kan ikke utstede kvalifiserte sertifikater​2 før registreringsmelding er sendt til tilsynet​3. Endringer i allerede registrerte opplysninger og nye opplysninger som skal registeres, skal​4 meldes til tilsynet​3 uten ugrunnet opphold.\n1 Se § 3 nr. 10.\n2 Se § 4.\n3 Se § 17.\n4 Jf. § 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Adgang til lokaler m.v.",
+      "content": "Tilsynet​1 kan som ledd i sin kontroll, kreve​2 adgang til steder der det drives virksomhet som står under tilsyn.\nTilsynet​1 kan gjennomføre de kontroller det finner nødvendig, og kreve bistand fra personalet på stedet i den grad dette må til for å få utført kontrollen.\nLov av 10. februar 1967 om behandlingsmåten i forvaltningssaker § 15 om fremgangsmåten ved granskning, kommer til anvendelse.\n1 Se § 17.\n2 Jf. strl. § 156.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Tvangsmulkt",
+      "content": "For å sikre at bestemmelser som er gitt i eller i medhold av denne lov overholdes, kan tilsynet bestemme at sertifikatutsteder​1 skal betale en daglig løpende mulkt til staten inntil lovstridig virksomhet er opphørt eller pålegg og vilkår gitt med hjemmel i denne lov er etterkommet.\nMulkten løper ikke før klagefristen er ute. Påklages vedtaket om tvangsmulkt, løper ingen tvangsmulkt før klagesaken er avgjort med mindre klageorganet bestemmer annerledes.\nTilsynet kan frafalle påløpt tvangsmulkt.\n1 Se § 3 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Straff",
+      "content": "Med bøter straffes den som forsettlig eller grovt uaktsomt\na. unnlater å registrere/sende melding etter § 18,\nb. unnlater å gi opplysninger etter § 17,\nc. behandler personopplysninger i strid med §§ 7 og 14, eller\nd. gir uriktige eller villedende opplysninger til tilsynet.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Erstatning",
+      "content": "En sertifikatutsteder​1 som utsteder sertifikater som utgis for å være kvalifiserte,​2 eller som garanterer for slike sertifikater utgitt av en annen, er erstatningsansvarlig for tap hos en fysisk eller juridisk person som følge av at denne hadde hatt rimelig grunn til å ha tillit til at:\na. informasjonen angitt i sertifikatet var korrekt på utstedelsestidspunktet,\nb. sertifikatet inneholder alle opplysninger som kreves i henhold til § 4,\nc. signaturfremstillingsdata​3 og signaturverifikasjonsdata​4 hører sammen på en unik måte dersom sertifikatutstederen fremstiller begge,\nd. undertegner​5 disponerte korrekt signaturfremstillingsdata​3 på tidspunktet da sertifikatet ble utstedt, eller\ne. sertifikatet blir registrert i tilbaketrekkingslisten, jf. § 12.\nSertifikatutsteder​1 er ansvarlig etter første ledd medmindre han godtgjør at han, eller den han garanterer for, ikke handlet uaktsomt.\nSertifikatutsteder​1 er ikke erstatningsansvarlig for skade som skyldes at sertifikatet har blitt brukt i strid med tydelige begrensninger i sertifikatets anvendelsesområde eller utover beløpsmessige begrensninger.\n1 Se § 3 nr. 10.\n2 Se § 4.\n3 Se § 3 nr. 5.\n4 Se § 3 nr. 7.\n5 Se § 3 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Klageadgang",
+      "content": "Tilsynets​1 avgjørelser etter bestemmelser som er gitt i eller i medhold av denne loven, kan påklages til det organ Kongen utpeker.\n1 Se § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Gebyr",
+      "content": "Kongen kan i forskrift bestemme at sertifikatutstedere​1 som er registreringspliktige etter § 18, skal betale gebyr. Gebyrene må ikke overstige kostnadene ved tilsynets virksomhet.\n1 Se § 3 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "Rettslig anerkjennelse av kvalifiserte sertifikater fra utstedere etablert utenfor Norge",
+      "content": "Sertifikater fra sertifikatutstedere​1 som er etablert innen EØS,​2 anses som kvalifiserte sertifikater i henhold til denne lov dersom de oppfyller kravene til et kvalifisert sertifikat i det landet der utstederen er etablert.\nKvalifiserte sertifikater​3 fra sertifikatutstedere som er etablert i land utenfor EØS, skal gis rettslig anerkjennelse på lik linje med kvalifiserte sertifikater fra sertifikatutstedere innen EØS dersom:\na. utstederen oppfyller kravene i en EØS-stat​2 og har blitt godkjent i henhold til en frivillig sertifiserings- eller godkjenningsordning i den staten,\nb. en sertifikatutsteder som er etablert innen EØS,​2 og som oppfyller kravene i etableringsstaten, garanterer for utstederen, eller\nc. sertifikatet eller utstederen er anerkjent i henhold til multilaterale eller bilaterale avtaler mellom Norge eller EU og tredjeland eller internasjonale organisasjoner.\n0 Endret ved lover 20 des 2002 nr. 110 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1615), 17 juni 2005 nr. 104 (ikr. 1 juli 2005 iflg. res. 17 juni 2005 nr. 584).\n1 Se § 3 nr. 10.\n2 Jf. lov 27 nov 1992 nr. 109.\n3 Se § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "7:26",
+      "chapter": "7",
+      "section": "26",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.​1\n1 Fra 1 juli 2001 iflg. res. 15 juni 2001 nr. 614.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "7:27",
+      "chapter": "7",
+      "section": "27",
+      "title": "Overgangsregler",
+      "content": "Utstedere av kvalifiserte sertifikater​1 skal innen 6 måneder etter at loven har trådt i kraft registrere seg i henhold til § 18 eller innenfor samme frist opphøre med å kalle sertifikatene for kvalifiserte eller bruke betegnelse som gir inntrykk av at de er kvalifiserte.\n1 Jf. § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Formålet med denne loven er å legge til rette for en sikker og effektiv bruk av elektronisk signatur​1 ved å fastsette krav til kvalifiserte sertifikater,​2 til utstederne​3 av disse sertifikatene og til sikre signaturfremstillingssystemer.​4\n1 Se § 3 nr. 1.\n2 Se § 4.\n3 Se § 3 nr. 10.\n4 Se § 3 nr. 6 og kap. II.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens virkeområde",
+      "content": "Loven gjelder for sertifikatutstedere​1 som er etablert i Norge. Loven regulerer rammebetingelsene for bruk av kvalifiserte elektroniske signaturer,​2 med unntak av § 6 annet punktum, § 7 og § 16 a som gjelder alle elektroniske signaturer.​3\nKongen kan i forskrift bestemme at loven skal gjelde for Svalbard​4 og Jan Mayen.\n0 Endret ved lov 17 juni 2005 nr. 104 (ikr. 1 juli 2005 iflg. res. 17 juni 2005 nr. 584).\n1 Se § 3 nr. 10.\n2 Se § 3 nr. 3.\n3 Se § 3 nr. 1.\n4 Se lov 17 juli 1925 nr. 11 § 1 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I denne loven menes med:\n1. elektronisk signatur: data i elektronisk form som er knyttet til andre elektroniske data og som brukes som autentiseringsmetode,\n2. avansert elektronisk signatur: en elektronisk signatur​1 som\na. er entydig knyttet til undertegneren,​2\nb. kan identifisere undertegneren,​2\nc. er laget ved hjelp av midler som bare undertegneren​2 har kontroll over, og\nd. er knyttet til andre elektroniske data på en slik måte at det kan oppdages om disse har blitt endret etter signering,\n3. kvalifisert elektronisk signatur: en avansert elektronisk signatur​1 som er basert på et kvalifisert sertifikat​3 og fremstilt av et godkjent sikkert signaturfremstillingssystem,​4\n4. undertegner: den som disponerer et signaturfremstillingssystem​5 og som handler på vegne av seg selv eller på vegne av en annen fysisk eller juridisk person,\n5. signaturfremstillingssdata:​6 unike data, som for eksempel koder eller private nøkler, som undertegneren benytter for å fremstille en elektronisk signatur,​1\n6. signaturfremstillingssystem: programvare eller maskinvare som benyttes til å fremstille elektronisk signatur​1 ved hjelp av signaturfremstillingsdata,\n7. signaturverifikasjonsdata: unike data, som for eksempel koder eller offentlige nøkler, som benyttes til å verifisere en elektronisk signatur,​1\n8. signaturverifikasjonssystem: programvare eller maskinvare som benyttes for å verifisere elektronisk signatur​1 ved hjelp av signaturverifikasjonsdata,​4\n9. sertifikat: en kopling mellom signaturverifikasjonsdata​7 og undertegner​2 som bekrefter undertegners identitet og er signert av sertifikatutsteder,​8\n10. sertifikatutsteder: en fysisk eller juridisk person som utsteder sertifikater eller tilbyr andre tjenester relatert til elektronisk signatur,​1\n11. sertifiseringsordning: enhver ordning der en tredjepart skriftlig bekrefter at en sertifikatutsteders produkter, prosesser eller tjenester oppfyller spesifiserte krav, og der sertifikatutsteder ikke er berettiget til å utøve de rettighetene som sertifiseringen gir før vedkommende har mottatt tredjeparts bekreftelse,\n12. godkjenningsordning: enhver ordning der en tredjepart gir tillatelse til at en sertifikatutsteders produkter, prosesser eller tjenester markedsføres eller brukes til nærmere angitte formål eller under angitte betingelser,\n13. selvdeklarasjonsordning: enhver ordning der sertifikatutstedere sender inn en selvdeklarasjon til tredjepart med angivelse av at nærmere angitte krav er oppfylt.\n0 Endret ved lover 20 des 2002 nr. 110 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1615), 17 juni 2005 nr. 104 (ikr. 1 juli 2005 iflg. res. 17 juni 2005 nr. 584).\n1 Se nr. 1.\n2 Se nr. 4.\n3 Se § 4.\n4 Se nr. 6 og kap. II.\n5 Se nr. 6.\n6 Skal være «signaturfremstillingsdata».\n1 Skal være «signaturfremstillingsdata».\n7 Se nr. 7.\n8 Se nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Kvalifisert sertifikat",
+      "content": "Betegnelsen kvalifisert sertifikat skal kun​1 brukes om sertifikater​2 som oppfyller kravene i denne paragrafen og utstedes for en begrenset periode av en sertifikatutsteder​3 som oppfyller kravene i §§ 10 – 15.\nEt kvalifisert sertifikat skal inneholde følgende informasjon:\na. en angivelse av at sertifikatet er utstedt som et kvalifisert sertifikat,\nb. sertifikatutstederens​3 identitet og den stat den er etablert i,\nc. undertegnerens​4 navn eller pseudonym med opplysning om at det er et pseudonym,\nd. eventuelt ytterligere opplysninger om undertegneren,​4 dersom de er relevante for bruken av sertifikatet,\ne. de signaturverifikasjonsdata,​5 som svarer til de signaturfremstillingsdata​6 som er under undertegnerens​4 kontroll,\nf. sertifikatets ikrafttredelses- og utløpsdato,\ng. sertifikatets identifikasjonskode,\nh. sertifikatutstederens​3 avanserte elektroniske signatur,​7\ni. eventuelle begrensninger i sertifikatets anvendelsesområde, og\nj. eventuelle beløpsmessige begrensninger i sertifikatet med hensyn til hvilke transaksjoner sertifikatet kan brukes til.\nKongen kan i forskrift regulere hva det kvalifiserte sertifikatet nærmere skal inneholde.\n1 Se kap. V. Se § 27.\n2 Se § 3 nr. 9.\n3 Se § 3 nr. 10.\n4 Se § 3 nr. 4.\n5 Se § 3 nr. 7.\n6 Se § 3 nr. 5.\n7 Se § 3 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Krav til kvalifiserte elektroniske signaturer brukt i kommunikasjon med og i offentlig sektor",
+      "content": "Kongen kan fastsette nærmere regler om hvilke krav som skal stilles til kvalifiserte elektroniske signaturer​1 som skal brukes ved kommunikasjon med og i offentlig sektor.\n1 Se § 3 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "title": "Rettsvirkninger av elektronisk signatur",
+      "content": "Dersom det i lov, forskrift eller på annen måte er oppstilt krav om underskrift for å få en bestemt rettsvirkning og disposisjonen kan gjennomføres elektronisk, oppfyller en kvalifisert elektronisk signatur​1 alltid et slikt krav. En elektronisk signatur​2 som ikke er kvalifisert, kan oppfylle et slikt krav.\n1 Se § 3 nr. 3.\n2 Se § 3 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "title": "Innsamling og bruk av personopplysninger",
+      "content": "En sertifikatutsteder​1 får kun innhente personopplysninger​2 direkte fra den opplysningene gjelder, eller med dennes uttrykkelige samtykke​3 og bare i den utstrekning som er nødvendig for å utstede eller opprettholde et sertifikat. Opplysningene må ikke samles inn eller behandles for andre formål,​4 så fremt ikke den opplysningene gjelder har gitt sitt uttrykkelige samtykke​3 til det.\nDatatilsynet​5 skal føre tilsyn med at denne bestemmelsen overholdes. I den utstrekning ikke annet følger av denne lov, kommer personopplysningsloven​6 §§ 42-47 med forskrifter til anvendelse ved Datatilsynets kontroll etter første punktum.\n0 Endret ved lov 20 des 2002 nr. 110 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1615). Endres ved lov 15 juni 2018 nr. 38 (ikr. samtidig med personvernforordningen).\n1 Se § 3 nr. 10.\n2 Se lov 14 apr 2000 nr. 31 § 2 nr. 1.\n3 Se lov 14 apr 2000 nr. 31 § 2 nr. 7.\n4 Se lov 14 apr 2000 nr. 31 § 11.\n5 Se lov 14 apr 2000 nr. 31 § 42.\n6 Lov 14 apr 2000 nr. 31.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Krav til sikre signaturfremstillingssystemer",
+      "content": "Et sikkert signaturfremstillingssystem​1 skal sikre at signaturen er tilfredsstillende beskyttet mot forfalskning. Videre skal et sikkert signaturfremstillingssystem sikre at signaturfremstillingsdata:​2\na. i praksis kun kan fremtre én gang og med rimelig grad av sikkerhet forblir hemmeligholdt,\nb. i rimelig utstrekning ikke kan utledes, og\nc. på pålitelig vis kan beskyttes av rette undertegner​3 mot andres bruk.\nEt sikkert signaturfremstillingssystem​1 må ikke forandre data i elektronisk form som skal signeres, eller hindre at dataene vises for undertegner​3 før det signeres.\n1 Se § 3 nr. 6.\n2 Se § 3 nr. 5.\n3 Se § 3 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Godkjennelse av sikre signaturfremstillingssystem",
+      "content": "Godkjennelse som et sikkert signaturfremstillingssystem,​1 jf. § 8, gis av det organ som Kongen utpeker. Kongen kan i forskrift gi nærmere bestemmelser om organet og om krav til sikre signaturfremstillingssystem.​1\nLikestilt med godkjennelse etter første ledd er godkjennelse fra et tilsvarende organ i en annen stat som er part i EØS-avtalen.​2\nKravene i § 8 skal anses oppfylt når den maskin- eller programvaren som benyttes, er i samsvar med de standarder for elektroniske signaturprodukter som Europakommisjonen fastsetter og som offentliggjøres i De Europeiske Fellesskaps Tidende.\n1 Se § 3 nr. 6.\n2 Jf. vedlegg til lov 27 nov 1992 nr. 109.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Krav til virksomheten",
+      "content": "Utstedere av kvalifiserte sertifikater​1 skal utøve og administrere virksomheten på en forsvarlig måte slik at den kan tilby sikre, pålitelige og velfungerende sertifikattjenester.\nSertifikatutstederen​2 skal til enhver tid ha tilstrekkelige økonomiske ressurser til å kunne drive virksomheten i henhold til kravene som er stilt i eller i medhold av denne lov.\n1 Se § 4.\n2 Se § 3 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Krav til produkter og systemer",
+      "content": "Utstedere av kvalifiserte sertifikater​1 skal bruke pålitelige produkter og systemer som er beskyttet mot endringer, og som gir teknisk og kryptografisk sikkerhet i understøttende prosesser.\nKravene i første ledd skal anses oppfylte dersom sertifikatutsteder​2 benytter seg av produkter og systemer som er godkjent av et organ i henhold til § 9 første og annet ledd, eller er i samsvar med standarder fastsatt av Europakommisjonen etter § 9 tredje ledd.\nSertifikatutsteder​2 skal iverksette tiltak mot forfalskning av sertifikatene. Dersom sertifikatutsteder fremstiller signaturfremstillingsdata,​3 skal utstederen garantere fortroligheten av disse dataene under fremstillingsprosessen.\n1 Se § 4.\n2 Se § 3 nr. 10.\n3 Se § 3 nr. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Krav om katalog- og tilbaketrekkingstjeneste",
+      "content": "Utstedere​1 av kvalifiserte sertifikater​2 skal sørge for en hurtig og sikker katalog- og tilbaketrekkingstjeneste og skal sikre at det er mulig å fastslå dato og tidspunkt for ikrafttredelse eller tilbaketrekking av et sertifikat.\n1 Se § 3 nr. 10.\n2 Se § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Krav om kontroll av undertegners identitet",
+      "content": "Utstedere​1 av kvalifiserte sertifikater​2 er ansvarlige for at identiteten til undertegner​3 og ytterligere relevante opplysninger om vedkommende blir kontrollert gjennom sikre rutiner.\nOpplysninger om rutinene som nevnt i første ledd skal være offentlig tilgjengelige.\n1 Se § 3 nr. 10.\n2 Se § 4.\n3 Se § 3 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Krav til lagring av opplysninger",
+      "content": "Utstedere​1 av kvalifiserte sertifikater​2 skal lagre alle relevante opplysninger om kvalifiserte sertifikater i en rimelig periode, dog minst 10 år etter at sertifikatet er registrert i tilbaketrekkingslisten.\nSertifikatutsteder​1 skal benytte pålitelige systemer til oppbevaring av sertifikater i verifiserbar form, slik at\na. opplysningens ekthet kan kontrolleres,\nb. sertifikatene kun er offentlig tilgjengelige i de tilfellene der innehaveren har gitt sitt samtykke, og\nc. eventuelle tekniske endringer, som bringer disse sikkerhetskravene i fare, er synlige for operatøren.\nUtstedere​1 av kvalifiserte sertifikater​2 må ikke oppbevare eller kopiere undertegners​3 signaturfremstillingsdata.​4\n1 Se § 3 nr. 10.\n2 Se § 4.\n3 Se § 3 nr. 4.\n4 Se § 3 nr. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Krav om informasjon om vilkår, begrensninger og lignende",
+      "content": "Før en sertifikatutsteder​1 inngår avtale om å utstede et kvalifisert sertifikat​2 skal utstederen skriftlig informere motparten om\na. vilkårene og begrensningene for bruken av sertifikatet,\nb. opplysninger om eventuelle frivillige sertifiserings-, godkjennings- eller selvdeklarasjonsordninger,​3 og\nc. prosedyrer for klage og avgjørelse av tvister.\nOpplysninger i henhold til første ledd kan sendes elektronisk, dersom det skjer i en for motparten umiddelbart lesbar form. Disse opplysningene skal også kunne kontrolleres av signaturmottakeren.\n0 Endret ved lov 17 juni 2005 nr. 104 (ikr. 1 juli 2005 iflg. res. 17 juni 2005 nr. 584).\n1 Se § 3 nr. 10.\n2 Se § 4.\n3 Se § 16 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Utfyllende krav",
+      "content": "Kongen kan i forskrift fastsette nærmere regler om hvilke krav som kan stilles til utstedere​1 av kvalifiserte sertifikater​2 for å oppfylle bestemmelsene i §§ 10-15.\n1 Se § 3 nr. 10.\n2 Se § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:16 a",
+      "chapter": "4",
+      "section": "16 a",
+      "title": "Etablering av frivillige sertifiseringsordninger, godkjenningsordninger eller selvdeklarasjonsordninger",
+      "content": "Departementet kan ved forskrift innføre frivillige sertifiserings-, godkjennings- eller selvdeklarasjonsordninger med sikte på å høyne nivået for sertifikattjenester for å øke tilliten til og bruken av slike tjenester.\nDepartementet kan i forskriften bestemme hvilke krav som skal stilles for slike ordninger, utpeke ansvarlig organ og bestemme at det skal betales gebyr til organet. Gebyrene må ikke overstige kostnadene ved organets virksomhet.\nFor å bringe lovstridig virksomhet til opphør eller sikre at pålegg eller vilkår gitt i forskrift med hjemmel i denne bestemmelsen etterkommes, kan organet utpekt etter annet ledd ilegge løpende tvangsmulkt etter reglene i § 20.\n0 Tilføyd ved lov 17 juni 2005 nr. 104 (ikr. 1 juli 2005 iflg. res. 17 juni 2005 nr. 584).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16a",
+        "source_heading": "§ 16 a."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Tilsyn med utstedere av kvalifiserte sertifikater​1",
+      "content": "Kongen kan utpeke et organ som skal føre tilsyn med at denne lov med forskrifter etterleves.\nTilsynet kan kreve​2 de opplysninger og dokumenter som er nødvendige for å utføre sine oppgaver, og fastsette en tidsfrist for å sende dem inn.\nTilsynet kan gi påbud om at forhold som er i strid med bestemmelser som er gitt i eller i medhold av denne loven, skal opphøre og stille vilkår som må oppfylles for at virksomheten skal være i samsvar med loven.\nTilsynet kan kreve at det gjennomføres IT-revisjon hos utstedere av kvalifiserte sertifikater​1 og utpeke en revisor til å utføre IT-revisjonen. Sertifikatutsteder​3 kan pålegges å betale for revisjonen.\nTilsynet kan frata en sertifikatutsteder​3 retten til å anvende betegnelsen kvalifisert sertifikat,​1 dersom sertifikatutstederen grovt eller gjentatte ganger ikke overholder lovens regler.\nKongen kan gi nærmere forskrifter om tilsynets virksomhet.\n1 Se § 3 nr. 10 og § 4.\n2 Jf. § 21.\n3 Se § 3 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Registrering av utstedere av kvalifiserte sertifikater",
+      "content": "En sertifikatutsteder​1 kan ikke utstede kvalifiserte sertifikater​2 før registreringsmelding er sendt til tilsynet​3. Endringer i allerede registrerte opplysninger og nye opplysninger som skal registeres, skal​4 meldes til tilsynet​3 uten ugrunnet opphold.\n1 Se § 3 nr. 10.\n2 Se § 4.\n3 Se § 17.\n4 Jf. § 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Adgang til lokaler m.v.",
+      "content": "Tilsynet​1 kan som ledd i sin kontroll, kreve​2 adgang til steder der det drives virksomhet som står under tilsyn.\nTilsynet​1 kan gjennomføre de kontroller det finner nødvendig, og kreve bistand fra personalet på stedet i den grad dette må til for å få utført kontrollen.\nLov av 10. februar 1967 om behandlingsmåten i forvaltningssaker § 15 om fremgangsmåten ved granskning, kommer til anvendelse.\n1 Se § 17.\n2 Jf. strl. § 156.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Tvangsmulkt",
+      "content": "For å sikre at bestemmelser som er gitt i eller i medhold av denne lov overholdes, kan tilsynet bestemme at sertifikatutsteder​1 skal betale en daglig løpende mulkt til staten inntil lovstridig virksomhet er opphørt eller pålegg og vilkår gitt med hjemmel i denne lov er etterkommet.\nMulkten løper ikke før klagefristen er ute. Påklages vedtaket om tvangsmulkt, løper ingen tvangsmulkt før klagesaken er avgjort med mindre klageorganet bestemmer annerledes.\nTilsynet kan frafalle påløpt tvangsmulkt.\n1 Se § 3 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Straff",
+      "content": "Med bøter straffes den som forsettlig eller grovt uaktsomt\na. unnlater å registrere/sende melding etter § 18,\nb. unnlater å gi opplysninger etter § 17,\nc. behandler personopplysninger i strid med §§ 7 og 14, eller\nd. gir uriktige eller villedende opplysninger til tilsynet.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Erstatning",
+      "content": "En sertifikatutsteder​1 som utsteder sertifikater som utgis for å være kvalifiserte,​2 eller som garanterer for slike sertifikater utgitt av en annen, er erstatningsansvarlig for tap hos en fysisk eller juridisk person som følge av at denne hadde hatt rimelig grunn til å ha tillit til at:\na. informasjonen angitt i sertifikatet var korrekt på utstedelsestidspunktet,\nb. sertifikatet inneholder alle opplysninger som kreves i henhold til § 4,\nc. signaturfremstillingsdata​3 og signaturverifikasjonsdata​4 hører sammen på en unik måte dersom sertifikatutstederen fremstiller begge,\nd. undertegner​5 disponerte korrekt signaturfremstillingsdata​3 på tidspunktet da sertifikatet ble utstedt, eller\ne. sertifikatet blir registrert i tilbaketrekkingslisten, jf. § 12.\nSertifikatutsteder​1 er ansvarlig etter første ledd medmindre han godtgjør at han, eller den han garanterer for, ikke handlet uaktsomt.\nSertifikatutsteder​1 er ikke erstatningsansvarlig for skade som skyldes at sertifikatet har blitt brukt i strid med tydelige begrensninger i sertifikatets anvendelsesområde eller utover beløpsmessige begrensninger.\n1 Se § 3 nr. 10.\n2 Se § 4.\n3 Se § 3 nr. 5.\n4 Se § 3 nr. 7.\n5 Se § 3 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Klageadgang",
+      "content": "Tilsynets​1 avgjørelser etter bestemmelser som er gitt i eller i medhold av denne loven, kan påklages til det organ Kongen utpeker.\n1 Se § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Gebyr",
+      "content": "Kongen kan i forskrift bestemme at sertifikatutstedere​1 som er registreringspliktige etter § 18, skal betale gebyr. Gebyrene må ikke overstige kostnadene ved tilsynets virksomhet.\n1 Se § 3 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "Rettslig anerkjennelse av kvalifiserte sertifikater fra utstedere etablert utenfor Norge",
+      "content": "Sertifikater fra sertifikatutstedere​1 som er etablert innen EØS,​2 anses som kvalifiserte sertifikater i henhold til denne lov dersom de oppfyller kravene til et kvalifisert sertifikat i det landet der utstederen er etablert.\nKvalifiserte sertifikater​3 fra sertifikatutstedere som er etablert i land utenfor EØS, skal gis rettslig anerkjennelse på lik linje med kvalifiserte sertifikater fra sertifikatutstedere innen EØS dersom:\na. utstederen oppfyller kravene i en EØS-stat​2 og har blitt godkjent i henhold til en frivillig sertifiserings- eller godkjenningsordning i den staten,\nb. en sertifikatutsteder som er etablert innen EØS,​2 og som oppfyller kravene i etableringsstaten, garanterer for utstederen, eller\nc. sertifikatet eller utstederen er anerkjent i henhold til multilaterale eller bilaterale avtaler mellom Norge eller EU og tredjeland eller internasjonale organisasjoner.\n0 Endret ved lover 20 des 2002 nr. 110 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1615), 17 juni 2005 nr. 104 (ikr. 1 juli 2005 iflg. res. 17 juni 2005 nr. 584).\n1 Se § 3 nr. 10.\n2 Jf. lov 27 nov 1992 nr. 109.\n3 Se § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "7:26",
+      "chapter": "7",
+      "section": "26",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.​1\n1 Fra 1 juli 2001 iflg. res. 15 juni 2001 nr. 614.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "7:27",
+      "chapter": "7",
+      "section": "27",
+      "title": "Overgangsregler",
+      "content": "Utstedere av kvalifiserte sertifikater​1 skal innen 6 måneder etter at loven har trådt i kraft registrere seg i henhold til § 18 eller innenfor samme frist opphøre med å kalle sertifikatene for kvalifiserte eller bruke betegnelse som gir inntrykk av at de er kvalifiserte.\n1 Jf. § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    }
+  ]
+}

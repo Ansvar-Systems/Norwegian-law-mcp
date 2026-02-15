@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1991-07-04-51",
+  "type": "statute",
+  "title": "Lov om samtykke til inngåelse av Avtale om sivil luftfart mellom Norge, Sverige og Det Europeiske Økonomiske Fellesskap.",
+  "short_name": "Lov om luftfartsavtale Norge, Sverige, EF",
+  "status": "in_force",
+  "issued_date": "1991-07-04",
+  "in_force_date": "1991-07-04",
+  "url": "https://lovdata.no/dokument/NLO/lov/1991-07-04-51",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Stortinget gir sin tilslutning til inngåelse av Avtale mellom Det Europeiske Økonomiske Fellesskap, Kongeriket Norge og Kongeriket Sverige om sivil luftfart parafert i Brussel 5. april 1991.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Stortinget gir sin tilslutning til inngåelse av Avtale mellom Det Europeiske Økonomiske Fellesskap, Kongeriket Norge og Kongeriket Sverige om sivil luftfart parafert i Brussel 5. april 1991.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

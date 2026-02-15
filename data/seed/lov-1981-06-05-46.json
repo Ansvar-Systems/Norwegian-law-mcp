@@ -1,0 +1,59 @@
+{
+  "id": "LOV-1981-06-05-46",
+  "type": "statute",
+  "title": "Lov om endringer i lov 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø m.v. og i visse andre lover.",
+  "short_name": "Endringslov til arbeidsmiljøloven.",
+  "status": "in_force",
+  "issued_date": "1981-06-05",
+  "in_force_date": "1981-06-05",
+  "url": "https://lovdata.no/dokument/NLO/lov/1981-06-05-46",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "2:1",
+      "chapter": "2",
+      "section": "1",
+      "content": "Loven trer i kraft straks.\n– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "De domstoler som er utpekt etter arbeidstvistlovens​1 § 7 nr. 3 annet ledd skal fortsette å være domsmyndige til det treffes nye bestemmelser etter lov om arbeidervern og arbeidsmiljø m.v. § 61 B første ledd.​2\n1 Lov 5 mai 1927 nr. 1.\n2 Se nå lov 17 juni 2005 nr. 62.\n1 Se nå lov 17 juni 2005 nr. 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "2:1",
+      "chapter": "2",
+      "section": "1",
+      "content": "Loven trer i kraft straks.\n– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "De domstoler som er utpekt etter arbeidstvistlovens​1 § 7 nr. 3 annet ledd skal fortsette å være domsmyndige til det treffes nye bestemmelser etter lov om arbeidervern og arbeidsmiljø m.v. § 61 B første ledd.​2\n1 Lov 5 mai 1927 nr. 1.\n2 Se nå lov 17 juni 2005 nr. 62.\n1 Se nå lov 17 juni 2005 nr. 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ]
+}

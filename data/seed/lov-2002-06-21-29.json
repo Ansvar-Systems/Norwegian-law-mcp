@@ -1,0 +1,125 @@
+{
+  "id": "LOV-2002-06-21-29",
+  "type": "statute",
+  "title": "Mellombels lov om overgangsreglar i lov 6. mai 1988 nr. 22 om lønnsplikt under permittering.",
+  "short_name": "Mellombels lov om permitteringslønn",
+  "status": "in_force",
+  "issued_date": "2002-06-21",
+  "in_force_date": "2002-06-21",
+  "url": "https://lovdata.no/dokument/NLO/lov/2002-06-21-29",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Arbeidstakarar som var i ein løpande permitteringsperiode per 31. desember 2001, skal behandlast etter regelverket slik det gjaldt før lovendringa av 21. desember 2001​1 så lenge permitteringa varer.\n1 Sjå lov 21 des 2001 nr. 99.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "For arbeidstakarar som per 31. desember 2001 ikkje var i ein løpande permitteringsperiode, skal reglane bli tillempa slik at permitteringstid før 1. januar 2002 ikkje blir teken med i utrekninga av kvoten på 26 veker i lønnspliktlova § 3 nr. 2 første ledd og folketrygdlova § 4-7. Ingen kan i medhald av denne føresegna få ein større kvote enn det som ville fylgd av lønnspliktlova og folketrygdlova slik dei lydde før lovendringa.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "For asfaltbransjen gjeld ei kvote på 36 veker i lønnspliktlova § 3 nr. 2 første ledd og folketrygdlova § 4-7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Departementet kan definere omgrepet asfaltbransjen i forskrift.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Føresegnene i §§ 1 og 2 gjeld til 1. juli 2003. Føresegna i § 3 gjeld til 1. januar 2004.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Arbeidstakarar som var i ein løpande permitteringsperiode per 31. desember 2001, skal behandlast etter regelverket slik det gjaldt før lovendringa av 21. desember 2001​1 så lenge permitteringa varer.\n1 Sjå lov 21 des 2001 nr. 99.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "For arbeidstakarar som per 31. desember 2001 ikkje var i ein løpande permitteringsperiode, skal reglane bli tillempa slik at permitteringstid før 1. januar 2002 ikkje blir teken med i utrekninga av kvoten på 26 veker i lønnspliktlova § 3 nr. 2 første ledd og folketrygdlova § 4-7. Ingen kan i medhald av denne føresegna få ein større kvote enn det som ville fylgd av lønnspliktlova og folketrygdlova slik dei lydde før lovendringa.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "For asfaltbransjen gjeld ei kvote på 36 veker i lønnspliktlova § 3 nr. 2 første ledd og folketrygdlova § 4-7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Departementet kan definere omgrepet asfaltbransjen i forskrift.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Føresegnene i §§ 1 og 2 gjeld til 1. juli 2003. Føresegna i § 3 gjeld til 1. januar 2004.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ]
+}

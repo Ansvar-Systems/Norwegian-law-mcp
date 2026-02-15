@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1958-06-27-1",
+  "type": "statute",
+  "title": "Lov om rett for den norske stat til å foreta ekspropriasjon for gjennomføring av overenskomst av 18 desember 1957 mellom Norge og Sovjet-Samveldet om utnytting av vannkraften i Pasvikelven.",
+  "short_name": "Ekspropriasjonslov for Pasvikelven.",
+  "status": "in_force",
+  "issued_date": "1958-06-27",
+  "in_force_date": "1958-06-27",
+  "url": "https://lovdata.no/dokument/NLO/lov/1958-06-27-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "For å oppfylle forpliktelser som Norge har etter overenskomst med Sovjet-Samveldet om utnytting av vannkraften i Pasvikelven, kan den norske stat etter bestemmelse av Kongen kreve avstått mot erstatning eiendomsrett eller bruksrett til bebygd eller ubebygd grunn og til bygning eller annen innretning som er fast knyttet til grunnen, samt stifte, endre, overføre eller avløse servitutt eller annen rett i slik eiendom, og herunder forby at eiendommen blir utnyttet på bestemt måte.\n1 Se lov 23 okt 1959 § 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "For tvangsinngrep etter denne lov gjelder for øvrig de samme regler som for tvangsinngrep som foretas med hjemmel i vassdragslovens​1 § 62.\n1 Lov 15 mars 1940 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "For å oppfylle forpliktelser som Norge har etter overenskomst med Sovjet-Samveldet om utnytting av vannkraften i Pasvikelven, kan den norske stat etter bestemmelse av Kongen kreve avstått mot erstatning eiendomsrett eller bruksrett til bebygd eller ubebygd grunn og til bygning eller annen innretning som er fast knyttet til grunnen, samt stifte, endre, overføre eller avløse servitutt eller annen rett i slik eiendom, og herunder forby at eiendommen blir utnyttet på bestemt måte.\n1 Se lov 23 okt 1959 § 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "For tvangsinngrep etter denne lov gjelder for øvrig de samme regler som for tvangsinngrep som foretas med hjemmel i vassdragslovens​1 § 62.\n1 Lov 15 mars 1940 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

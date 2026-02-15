@@ -1,0 +1,301 @@
+{
+  "id": "LOV-2021-11-12-141",
+  "type": "statute",
+  "title": "Midlertidig lov om kompensasjonsytelse for selvstendig næringsdrivende og frilansere som har mistet inntekt som følge av utbrudd av covid-19",
+  "short_name": "Midl. lov om kompensasjonsytelse for næringsdrivende og frilansere, covid-19",
+  "status": "in_force",
+  "issued_date": "2021-11-12",
+  "in_force_date": "2021-11-12",
+  "url": "https://lovdata.no/dokument/NLO/lov/2021-11-12-141",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Virkeområde",
+      "content": "Loven gir bestemmelser om rett til kompensasjonsytelse for selvstendig næringsdrivende og frilansere som har mistet personinntekt som følge av utbrudd av covid-19.\nInntektstap som utløser rett til andre ytelser til livsopphold, gir ikke rett til kompensasjonsytelse. Kompensasjonsytelsen kan gis til næringsdrivende og frilansere som har hatt en nærings- eller frilansvirksomhet i Norge som var startet opp og aktiv før 1. mars 2020.\nLoven får også anvendelse for personer på Svalbard som er medlemmer av folketrygden i henhold til folketrygdloven § 2-3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Vilkår for ytelse",
+      "content": "Selvstendig næringsdrivende og frilansere med personinntekt fra næring eller oppdrag på over 0,75 ganger folketrygdens grunnbeløp (G), i aldersgruppen 18–67 år, som etter 12. mars 2020 har mistet hele eller deler av denne inntekten som følge av utbrudd av covid-19, kan søke om kompensasjonsytelse etter denne loven.\nKompensasjonsytelsen ytes ikke til selvstendig næringsdrivende og frilansere som i den måneden det søkes ytelse for, har arbeidsinntekt, inkludert rett til trygdeytelser som erstatter bortfalt arbeidsinntekt, på til sammen 6 G eller høyere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Grunnlag for beregning og ytelsens størrelse",
+      "content": "Grunnlaget er den inntekten kompensasjonsytelsen regnes ut etter. Grunnlaget beregnes som et årlig beløp.\nGrunnlaget for selvstendig næringsdrivende fastsettes med utgangspunkt i pensjonsgivende årsinntekt fra næring fra 2019. For selskaper som har startet opp etter 1. januar 2020 inngår inntekter fra næring fra januar og februar 2020 i grunnlaget.\nGrunnlaget for frilansere fastsettes med utgangspunkt i den gjennomsnittlige inntekten som frilanseren har hatt i oppdrag, og som er rapportert til a-ordningen de siste 12 månedene før mars 2020. For frilansere som startet virksomheten mellom 1. mars 2019 og 1. mars 2020, legges hele driftsperioden til grunn.\nMaksimalt grunnlag er 6 G. Arbeidsinntekt, inkludert inntekt som ligger til grunn for trygdeytelser som erstatter bortfalt arbeidsinntekt, trekkes fra grensen på 6 G. Det samme gjelder for frilans- eller næringsinntekt det ikke er søkt kompensasjonsytelse for. Det gis ikke kompensasjon på et grunnlag større enn differansen mellom 6 G og summen av de nevnte inntektene.\nKompensasjonsytelsen gis med 70 prosent av grunnlaget begrenset oppad til 6 G. Ytelsen gis for fem dager per uke, og dagsatsen er den årlige ytelsen delt på 260.\n0 Endret ved lov 28 jan 2022 nr. 1 (med virkning fra 1 jan 2022).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Avkorting mot inntekt",
+      "content": "Inntekter som selvstendig næringsdrivende og frilanser i stønadsperioden kommer til fradrag i ytelsen med 70 prosent.\n0 Endret ved lov 28 jan 2022 nr. 1 (med virkning fra 1 jan 2022).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Utbetalingsterminer",
+      "content": "Ytelsen gis per dag, og den utbetales etterskuddsvis for den kalendermåneden det er søkt for.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Stønadsperiode",
+      "content": "Ytelsen gis fra og med dag 17 etter dokumentert inntektsbortfall. Ved innvilgning av nye perioder innvilges ytelsen fra første dag.\nYtelsen kan gis for inntektsbortfall til og med 31. mars 2022.\n0 Endret ved lov 28 jan 2022 nr. 1 (med virkning fra 1 jan 2022).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Fremsetting av krav",
+      "content": "Krav om ytelse etter denne loven skal settes frem for Arbeids- og velferdsetaten på den måten Arbeids- og velferdsdirektoratet bestemmer.\nArbeids- og velferdsdirektoratet kan fastsette en frist for når krav om ytelse senest må være satt frem.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Saksbehandling",
+      "content": "Forvaltningsloven gjelder med de særregler som er fastsatt i loven her.\nSaksbehandlingsreglene i folketrygdloven §§ 21-3, 21-4, 21-4 a, 21-4 b, 21-4 c, 21-4 d, 21-6 og 21-7 gjelder så langt de passer for saker etter denne loven.\nVed krav om tilbakebetaling av feilutbetalte ytelser gjelder folketrygdloven § 22-15 tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Klage",
+      "content": "Vedtak kan påklages til nærmeste overordnede organ eller til det organ som Arbeids- og velferdsdirektoratet bestemmer.\nKlage settes frem skriftlig eller muntlig for den enheten som Arbeids- og velferdsdirektoratet bestemmer.\nFristen for klage er seks uker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Behandling av personopplysninger og automatisert saksbehandling",
+      "content": "Arbeids- og velferdsetaten kan behandle personopplysninger, inkludert personopplysninger som nevnt i personvernforordningen artikkel 9, når dette er nødvendig for å behandle saker etter denne loven eller gi informasjon om kompensasjonsytelsen til aktuelle søkere.\nAvgjørelser etter denne loven kan treffes automatisk. Etaten skal fastsette retningslinjer for automatiserte avgjørelser, inkludert krav til jevnlig kontroll for å begrense faren for feil. Den registrerte har rett til manuell overprøving av avgjørelsen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "Opplysninger til bruk ved utredning og produksjon av statistikk",
+      "content": "Arbeids- og velferdsetaten skal ha tilgang til opplysningene om kompensasjonsytelsen i forbindelse med utredning og produksjon av statistikk på de områdene etaten administrerer, se arbeids- og velferdsforvaltningsloven § 4 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "title": "Forskrifter",
+      "content": "Departementet kan gi forskrifter til utfylling av bestemmelsene i denne loven. Departementet kan i forskrift fastsette en lavere kompensasjonsgrad enn det som følger av § 3 femte ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "title": "Ikrafttredelse og opphevelse",
+      "content": "Loven trer i kraft straks og gis virkning fra og med 1. oktober 2021.\nLoven oppheves 1. mai 2022.\n0 Endret ved lov 28 jan 2022 nr. 1 (med virkning fra 1 jan 2022).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Virkeområde",
+      "content": "Loven gir bestemmelser om rett til kompensasjonsytelse for selvstendig næringsdrivende og frilansere som har mistet personinntekt som følge av utbrudd av covid-19.\nInntektstap som utløser rett til andre ytelser til livsopphold, gir ikke rett til kompensasjonsytelse. Kompensasjonsytelsen kan gis til næringsdrivende og frilansere som har hatt en nærings- eller frilansvirksomhet i Norge som var startet opp og aktiv før 1. mars 2020.\nLoven får også anvendelse for personer på Svalbard som er medlemmer av folketrygden i henhold til folketrygdloven § 2-3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Vilkår for ytelse",
+      "content": "Selvstendig næringsdrivende og frilansere med personinntekt fra næring eller oppdrag på over 0,75 ganger folketrygdens grunnbeløp (G), i aldersgruppen 18–67 år, som etter 12. mars 2020 har mistet hele eller deler av denne inntekten som følge av utbrudd av covid-19, kan søke om kompensasjonsytelse etter denne loven.\nKompensasjonsytelsen ytes ikke til selvstendig næringsdrivende og frilansere som i den måneden det søkes ytelse for, har arbeidsinntekt, inkludert rett til trygdeytelser som erstatter bortfalt arbeidsinntekt, på til sammen 6 G eller høyere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Grunnlag for beregning og ytelsens størrelse",
+      "content": "Grunnlaget er den inntekten kompensasjonsytelsen regnes ut etter. Grunnlaget beregnes som et årlig beløp.\nGrunnlaget for selvstendig næringsdrivende fastsettes med utgangspunkt i pensjonsgivende årsinntekt fra næring fra 2019. For selskaper som har startet opp etter 1. januar 2020 inngår inntekter fra næring fra januar og februar 2020 i grunnlaget.\nGrunnlaget for frilansere fastsettes med utgangspunkt i den gjennomsnittlige inntekten som frilanseren har hatt i oppdrag, og som er rapportert til a-ordningen de siste 12 månedene før mars 2020. For frilansere som startet virksomheten mellom 1. mars 2019 og 1. mars 2020, legges hele driftsperioden til grunn.\nMaksimalt grunnlag er 6 G. Arbeidsinntekt, inkludert inntekt som ligger til grunn for trygdeytelser som erstatter bortfalt arbeidsinntekt, trekkes fra grensen på 6 G. Det samme gjelder for frilans- eller næringsinntekt det ikke er søkt kompensasjonsytelse for. Det gis ikke kompensasjon på et grunnlag større enn differansen mellom 6 G og summen av de nevnte inntektene.\nKompensasjonsytelsen gis med 70 prosent av grunnlaget begrenset oppad til 6 G. Ytelsen gis for fem dager per uke, og dagsatsen er den årlige ytelsen delt på 260.\n0 Endret ved lov 28 jan 2022 nr. 1 (med virkning fra 1 jan 2022).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Avkorting mot inntekt",
+      "content": "Inntekter som selvstendig næringsdrivende og frilanser i stønadsperioden kommer til fradrag i ytelsen med 70 prosent.\n0 Endret ved lov 28 jan 2022 nr. 1 (med virkning fra 1 jan 2022).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Utbetalingsterminer",
+      "content": "Ytelsen gis per dag, og den utbetales etterskuddsvis for den kalendermåneden det er søkt for.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Stønadsperiode",
+      "content": "Ytelsen gis fra og med dag 17 etter dokumentert inntektsbortfall. Ved innvilgning av nye perioder innvilges ytelsen fra første dag.\nYtelsen kan gis for inntektsbortfall til og med 31. mars 2022.\n0 Endret ved lov 28 jan 2022 nr. 1 (med virkning fra 1 jan 2022).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Fremsetting av krav",
+      "content": "Krav om ytelse etter denne loven skal settes frem for Arbeids- og velferdsetaten på den måten Arbeids- og velferdsdirektoratet bestemmer.\nArbeids- og velferdsdirektoratet kan fastsette en frist for når krav om ytelse senest må være satt frem.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Saksbehandling",
+      "content": "Forvaltningsloven gjelder med de særregler som er fastsatt i loven her.\nSaksbehandlingsreglene i folketrygdloven §§ 21-3, 21-4, 21-4 a, 21-4 b, 21-4 c, 21-4 d, 21-6 og 21-7 gjelder så langt de passer for saker etter denne loven.\nVed krav om tilbakebetaling av feilutbetalte ytelser gjelder folketrygdloven § 22-15 tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Klage",
+      "content": "Vedtak kan påklages til nærmeste overordnede organ eller til det organ som Arbeids- og velferdsdirektoratet bestemmer.\nKlage settes frem skriftlig eller muntlig for den enheten som Arbeids- og velferdsdirektoratet bestemmer.\nFristen for klage er seks uker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Behandling av personopplysninger og automatisert saksbehandling",
+      "content": "Arbeids- og velferdsetaten kan behandle personopplysninger, inkludert personopplysninger som nevnt i personvernforordningen artikkel 9, når dette er nødvendig for å behandle saker etter denne loven eller gi informasjon om kompensasjonsytelsen til aktuelle søkere.\nAvgjørelser etter denne loven kan treffes automatisk. Etaten skal fastsette retningslinjer for automatiserte avgjørelser, inkludert krav til jevnlig kontroll for å begrense faren for feil. Den registrerte har rett til manuell overprøving av avgjørelsen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "Opplysninger til bruk ved utredning og produksjon av statistikk",
+      "content": "Arbeids- og velferdsetaten skal ha tilgang til opplysningene om kompensasjonsytelsen i forbindelse med utredning og produksjon av statistikk på de områdene etaten administrerer, se arbeids- og velferdsforvaltningsloven § 4 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "title": "Forskrifter",
+      "content": "Departementet kan gi forskrifter til utfylling av bestemmelsene i denne loven. Departementet kan i forskrift fastsette en lavere kompensasjonsgrad enn det som følger av § 3 femte ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "title": "Ikrafttredelse og opphevelse",
+      "content": "Loven trer i kraft straks og gis virkning fra og med 1. oktober 2021.\nLoven oppheves 1. mai 2022.\n0 Endret ved lov 28 jan 2022 nr. 1 (med virkning fra 1 jan 2022).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    }
+  ]
+}

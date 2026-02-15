@@ -1,0 +1,117 @@
+{
+  "id": "LOV-1947-04-25-1",
+  "type": "statute",
+  "title": "Lov om fullbyrdelse av straffen tvangsarbeid",
+  "short_name": "Tvangsarbeidsloven",
+  "status": "in_force",
+  "issued_date": "1947-04-25",
+  "in_force_date": "1947-04-25",
+  "url": "https://lovdata.no/dokument/NLO/lov/1947-04-25-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Personer som er ilagt tvangsarbeid som straff, behandles i samsvar med reglene i fengselsloven​2 kap. III, og løslatelse på prøve kan skje i samsvar med reglene i kap. IV i nevnte lov.\n1 Endret ved lover 12 des. 1958 nr. 1, 14 april 1972 nr. 15.\n2 Se lov 12 des. 1958 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Hvis det finnes ønskelig på grunn av en tvangsarbeiders helbred eller sinnstilstand eller av andre særlige grunner, kan han etter beslutning av Fengselsstyret føres over til fengsel eller kuranstalt eller anbringes i arbeid for det offentlige for den gjenstående del av straffetiden.\n1 Endret ved lov 12 des. 1958 nr. 9. – Jfr. lov 12 des. 1958 nr. 7 § 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Fengselsstyret gir regler om arbeidspenger til tvangsarbeidere.\n1 Endret ved lov 12 des. 1958 nr. 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "(Opphevd ved lov 12 des. 1958 nr. 9.)",
+      "content": "§ 4.(Opphevd ved lov 12 des. 1958 nr. 9.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Personer som er ilagt tvangsarbeid som straff, behandles i samsvar med reglene i fengselsloven​2 kap. III, og løslatelse på prøve kan skje i samsvar med reglene i kap. IV i nevnte lov.\n1 Endret ved lover 12 des. 1958 nr. 1, 14 april 1972 nr. 15.\n2 Se lov 12 des. 1958 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Hvis det finnes ønskelig på grunn av en tvangsarbeiders helbred eller sinnstilstand eller av andre særlige grunner, kan han etter beslutning av Fengselsstyret føres over til fengsel eller kuranstalt eller anbringes i arbeid for det offentlige for den gjenstående del av straffetiden.\n1 Endret ved lov 12 des. 1958 nr. 9. – Jfr. lov 12 des. 1958 nr. 7 § 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Fengselsstyret gir regler om arbeidspenger til tvangsarbeidere.\n1 Endret ved lov 12 des. 1958 nr. 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "(Opphevd ved lov 12 des. 1958 nr. 9.)",
+      "content": "§ 4.(Opphevd ved lov 12 des. 1958 nr. 9.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ]
+}

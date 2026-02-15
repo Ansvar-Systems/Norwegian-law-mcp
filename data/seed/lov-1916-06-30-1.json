@@ -1,0 +1,1303 @@
+{
+  "id": "LOV-1916-06-30-1",
+  "type": "statute",
+  "title": "Lov om kommisjon (kommisjonsloven)",
+  "short_name": "Kommisjonsloven – kml",
+  "status": "in_force",
+  "issued_date": "1916-06-30",
+  "in_force_date": "1916-06-30",
+  "url": "https://lovdata.no/dokument/NL/lov/1916-06-30-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Bestemmelsene i denne lov får bare anvendelse for så vidt ikke annet følger av avtale eller av handelsbruk eller annen sedvane, medmindre det er særskilt fastsatt i loven at en bestemmelse skal være ufravikelig.\n0 Endret ved lov 1 juni 1973 nr. 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 13 mai 1988 nr. 27, opphevet ved lov 19 juni 1992 nr. 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Naar nogen som efter denne lov skal «gi meddelelse», har indlevert meddelelsen til befordring med telegraf eller post eller avsendt den paa anden forsvarlig maate, gaar det ikke ut over ham om meddelelsen forsinkes eller ikke kommer frem.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Ved kommissionær forstaaes i denne lov den, som har i opdrag at sælge eller kjøpe varer eller annet løsøre for en andens regning, men i eget navn. Den for hvis regning salget eller kjøpet skal ske, kaldes kommittent (oppdragsgiver).\nEr kommisjonæren næringsdrivende, og går oppdraget ut paa salg eller kjøp, som falder indenfor hans næring, kaldes han handelskommisjonær og forholdet handelskommission.\n0 Endret ved lover 14 juni 1985 nr. 61, 19 juni 1992 nr. 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Faar den som erhvervsmæssig driver virksomhet som handelskommissionær, anmodning fra nogen, som han staar i forretningsforbindelse med, om at besørge salg eller kjøp, som falder indenfor denne hans virksomhet, skal han uten ugrundet ophold gi meddelelse, hvis han ikke vil paata seg opdraget. Ellers ansees han for at ha paatat sig det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Hvis den, som har faat gods sendt for at sælge det i kommission, ikke vil utføre opdraget, men allikevel tar sig av godset, har han panteret i det efter reglerne i §§ 31, 33 og 34 for det, som han i den anledning har krav paa.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Kommissionæren skal vareta kommittentens tarv. Han skal følge kommittentens forskrifter, saa langt det er mulig, underrette ham om forhold, som er av betydning for opdraget, særlig om avtaler, som han har sluttet, og gi ham opgjør. Handelskommissionæren pligter dog ikke at opgi til kommittenten, hvem han har sluttet avtale med, hvis ikke andet følger av §§ 57 og 58.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Kræver forholdene, at kommissionæren fraviker kommittentens forskrifter, skal han uten ophold underrette kommittenten om det og be om hans bestemmelse. Kan han ikke vente paa denne, skal han handle som forholdene kræver.\nDette gjælder ogsaa hvis kommittenten har foreskrevet, at kommissionæren ikke maa sælge billigere eller kjøpe dyrere end til en opgit pris (prisgrænse, limitum). Anførsel av en pris for varen i kommittentens nota til salgskommissionæren ansees ikke som fastsettelse av prisgrænse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Er prisgrænse sat, maa kommissionæren allikevel søke at opnaa en fordelagtigere pris, hvis forholdene paa den tid, avtalen sluttes, gjør det mulig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Kommissionæren pligter at ta vare paa gods, som kommittenten sender ham til salg, eller som han kjøper for kommittentens regning. Hvis ikke andet følger av forholdene, skal han holde godset adskilt fra andet gods.\nHandelskommissionæren pligter at holde godset brandforsikret, hvis det ikke efter godsets art, eller forholdene forøvrig er unødvendig at forsikre det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Er gods sendt en handelskommissionær til salg, pligter han at undersøke det i den utstrekning som ordentlig forretningsskik i handelskommissionen kræver.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Viser der sig ved mottagelsen eller senere mangler ved godset, som er sendt en kommissionær til salg, skal han underrette kommittenten om det. Gir han ikke underretning uten ugrundet ophold, efterat han har opdaget eller burde ha opdaget manglen, pligter han at erstatte den skade, som derved er voldt, efter regelen i § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Kommissionæren skal godskrive kommittenten alt det, han har opnaadd ved avtalen med tredjemand.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "Staar kommissionæren ifølge avtale, handelsbruk eller anden sedvane del credere, hefter han overfor kommittenten som selvskyldner for opfyldelsen av avtale, som han for dennes regning indgaar med tredjemand.\nSelv om handelskommissionæren ikke staar del credere, kan kommittenten kræve, at han opfylder avtalen, naar han ikke i sin underretning til kommittenten om opdragets utførelse har opgit, hvem han har sluttet avtalen med.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Har kommissionæren sluttet avtale for kommittentens regning, og har han ved avslutningen eller senere forsømt sine pligter kan kommittenten avvise avtalen, hvis hans tarv er væsentlig tilsidesat, eller kommissionæren har handlet svigagtig. Kan kommittenten, naar han saaledes avviser avtalen, paa grund av bestemmelsen i § 54 ikke faa tilbake gods, som kommissionæren har solgt, skal denne isteden betale dets værdi.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Har kommissionæren forsømt sine pligter ved at kjøpe over eller sælge under en fastsat prisgrænse eller forøvrig til en pris, som er ufordelagtigere, end forholdene burde ha medført, kan han avverge, at avtalen av den grund avvises, ved, at han uten ugrundet ophold betaler eller stiller betryggende sikkerhet for prisforskjellen. Dette gjælder dog ikke, hvis kommittenten ved kommissionærens forhold har lidt væsentlig skade eller ulempe, som ikke dækkes av prisforskjellen, eller hvis kommissionæren har handlet svigagtig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Forsømmer kommissionæren sine pligter mot kommittenten, skal han erstatte den skade, som derved voldes denne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Har kommissionæren forsømt sine pligter ved at sælge under eller kjøpe over en fastsat prisgrænse, og blir avtalen ikke avvist, skal erstatningen utgjøre forskjellen mellem den avtalte pris og den fastsatte prisgrænse, hvis ikke bevis for større skade er ført. Krævet forholdene, at kommissionæren fravek prisgrænsen, men er fravikelsen ved hans forsømmelse blit større end paakrævet, skal erstatningen utgjøre mindst forskjellen mellem den pris, han har opnaadd, og den, han burde ha opnaadd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Har salgskommissionæren forsømt sine pligter ved uberettiget at gi kredit eller anden henstand med kjøpesummens betaling, og blir avtalen ikke avvist, pligter han at betale kjøpesummen til den tid, kommittenten kunde ha fordret den, hvis henstanden ikke var git.\nGodtgjør kommissionæren, at godset vilde blit solgt til lavere pris, hvis han ikke hadde git kredit eller anden henstand, pligter han ikke at betale mer end denne pris.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "Finder kommittenten, at kommissionæren har forsømt sine pligter, og vil han derpaa støtte nogen ret efter § 15, § 17 eller § 19, skal han gi kommissionæren meddelelse om, at han vil paaberope sig forsømmelsen. Han skal gi meddelelsen uten ugrundet ophold, efterat han har faat underretning fra kommissionæren om, hvorledes denne har forholdt sig. Gjør han ikke det, kan han ikke paaberope sig forsømmelsen. Indeholder meddelelsen ikke, at kommittenten vil avvise en avtale, som er sluttet for hans regning, kan han ikke senere gjøre dette.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "I handelskommission har kommittenten, hvis han er næringsdrivende, og kjøpet er skjedd i forbindelse med hans næring, samme undersøkelsesplikt som kjøperen etter kjøpsloven § 31.\n0 Endret ved lov 19 juni 1992 nr. 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Viser det sig, at gods, som er kjøpt for kommittentens regning, lider av en mangel, og vil kommittenten paaberope sig denne, skal han uten ugrundet ophold gi kommissionæren meddelelse om det.\nGjør han ikke det, uagtet han har opdaget eller burde ha opdaget manglen, kan han senere alene gjøre den gjældende overfor kommissionæren i den utstrækning, denne kan faa godtgjørelse for den hos sælgeren, fragtføreren eller andre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "Er gods, som er kjøpt for kommittentens regning, levert for sent, og vil kommittenten paaberope sig dette, skal han gi kommissionæren meddelelse om det uten ugrundet ophold, efterat godset er kommet frem til ham, eller det av underretning fra kommissionæren eller sælgeren har vist sig, at leveringen er skedd for sent. Gjør han ikke det, faar § 22, andet led, tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Reglerne i §§ 20, 22 og 23 faar ikke anvendelse hvis kommissionæren har handlet svigagtig, eller hvis han har gjort sig skyldig i grov uagtsomhet, og denne medfører stor skade for kommittenten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Har kommittenten ikke inden et aar efterat han mottok gods som er kjøpt for hans regning, git kommissionæren meddelelse om, at han vil paaberope sig en mangel, kan han ikke senere gjøre den gjældende i større utstrækning end i § 22, andet led, sagt. Dette gjælder dog ikke, hvis kommissionæren har paatat sig at indestaa for godset i længere tid eller har handlet svigagtig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Avviser kommittenten gods, som kommisjonæren har kjøpt for hans regning, faar de bestemmelser, som kjøpsloven §§ 73 til 78 gir om kjøperens pligter og rettigheter, tilsvarende anvendelse paa kommittenten.\n0 Endret ved lov 19 juni 1992 nr. 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "Handelskommisjonæren har krav på provisjon av de avtaler han i oppdragstiden slutter for kommittentens regning.\nHar kommisjonæren varig oppdrag og det blir inngått avtale etter at kommisjonsforholdet opphørte, har kommisjonæren dessuten krav på provisjon (etterprovisjon) dersom avtalen kan anses å ha kommet i stand som følge av kommisjonærens virksomhet i den tid forholdet har bestått.\nI mangel av bevis for etterprovisjonens størrelse skal denne, dersom kommisjonsforholdet har bestått lengre enn ett år, utgjøre tre måneders provisjon beregnet som gjennomsnittet av månedsprovisjonene i det siste år før kommisjonsforholdet opphørte. Denne regelen gjelder ikke dersom oppdraget er opphørt ved oppsigelse med minst seks måneders frist.\nKommisjonærens rett til etterprovisjon kan ikke bindende fraskrives før kommisjonsforholdet er opphørt eller endelig oppsagt.\n0 Endret ved lover 1 juni 1973 nr. 30, 19 juni 1992 nr. 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "Blir tredjemanns forpliktelse etter avtalen ikke oppfylt, har kommisjonæren bare krav på provisjon dersom den manglende oppfyllelse skyldes kommittenten eller en hending som denne ikke kunne ha påberopt overfor tredjemann som fritakelse for erstatningsansvar, om han selv hadde sluttet avtalen.\nBlir tredjemanns forpliktelse etter avtalen bare delvis oppfylt, har kommisjonæren bare krav på provisjon av den del som er oppfylt, med mindre annet følger av bestemmelsen i første ledd.\n0 Endret ved lov 1 juni 1973 nr. 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "Kommisjonæren har krav på særskilt godtgjørelse for utlegg til porto, telegrammer, telefonsamtaler, forsikringspremier og for andre berettigede utgifter, når de ikke skal dekkes ved provisjon eller på annen måte. Han kan beregne godtgjørelse for lagerrom eller annet opplagssted og for transport og arbeid av liknende art, selv om han ikke har hatt noen særskilt utgift til det.\nStår kommisjonæren del credere (jfr. § 14), har han krav på særskilt godtgjørelse for dette.\n0 Endret ved lov 1 juni 1973 nr. 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "30",
+      "section": "30",
+      "content": "Har kommissionæren selv maattet opfylde avtalen overfor tredjemand, kan han kræve dækning hos kommittenten.\nForskud, som indkjøpskommissionæren uten kommittentens tilladelse har betalt til sælgeren, pligter kommittenten kun at dække i den utstrækning, tredjemands forpligtelse efter avtalen blir opfyldt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "31",
+      "section": "31",
+      "content": "En salgskommissionær, som har git kommittenten forskud paa kjøpesummen, eller som forøvrig i anledning av opdraget har noget krav paa kommittenten, har panteret for sit krav i det gods, som er sendt ham til salg, naar han selv eller nogen paa hans vegne er i besiddelse av godset eller av konnossement eller fragtbrev av saadan art, at avsenderen ikke uten at forevise det kan raade over godset.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "32",
+      "section": "32",
+      "content": "I handelskommission har salgskommissionæren panteret efter § 31 ogsaa, for krav, som skriver sig fra andet kommissionsopdrag fra kommittenten, naar denne er handlende, og opdraget falder indenfor hans bedrift.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "33",
+      "section": "33",
+      "content": "I kraft av sin panteret efter §§ 31 og 32 kan salgskommissionæren, forsaavidt hans sikkerhet ellers vilde utsættes for fare, holde godset tilbake, naar kommittenten forlanger det utlevert, og forøvrig undlate at følge hans forskrifter. Dog kan kommissionæren ikke sælge godset mot kommittentens vilje, undtagen i de tilfælde, som nævnes i næste paragraf.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "34",
+      "section": "34",
+      "content": "Naar den fordring, godset hefter for, er forfaldt, kan kommissionæren sælge det til dækning av fordringen. Er godset utsat for hurtig fordærvelse, eller vil det medføre uforholdsmæssig store omkostninger at bevare det, kan kommissionæren sælge det, selv om fordringen ikke er forfaldt, forsaavidt hans sikkerhet ellers vilde utsættes for fare. Kommissionæren har samme ret til provision av salget, som han ellers vilde hat. Salget skal skje på forsvarlig måte.\nFør salg finder sted, skal kommissionæren saavidt mulig gi kommittenten betimelig varsel.\n0 Endret ved lov 26 juni 1992 nr. 86.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "35",
+      "section": "35",
+      "content": "Har salgskommissionæren solgt godset i henhold til opdraget, kan han ved salg eller paa anden maate forføie over fordringen mot kjøperen, saa langt det er nødvendig til dækning av forfaldne fordringer paa kommittenten, for hvilke han vilde hat panteret i godset, om det var blit hos ham. Før kommissionæren forføier over fordringen, skal han saavidt mulig gi kommittenten betimelig varsel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "36",
+      "section": "36",
+      "content": "Det som er bestemt i §§ 31-35 om salgskommissionæren, faar tilsvarende anvendelse paa indkjøpskommissionæren i forhold til indkjøpt gods og fordring, som ved kjøpet er erhvervet mot sælgeren. Dog har en indkjøpskommissionær ikke krav paa provisjon, om han sælger godset efter § 34.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "37",
+      "section": "37",
+      "content": "Har innkjøpskommisjonæren sendt godset til kommittenten, kan kommisjonæren hindre at godset blir overgitt til kommittenten eller dennes bo eller kreve det tilbake etter reglene i dekningsloven §§ 7-2 og 7-9 og sjøloven § 307. Har kommisjonæren gjort bruk av denne rett, kan han gjøre sin panterett i godset gjeldende etter §§ 33 og 34.\nDisse regler faar tilsvarende anvendelse paa salgkommissionæren, naar han har sendt tilbake gods, som han har hat til salg for kommittenten.\n0 Endret ved lover 8 juni 1984 nr. 60, 24 juni 1994 nr. 39.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "38",
+      "section": "38",
+      "content": "Skyldes det forsinkelse fra kommittentens side, at gods, som er kjøpt for hans regning, ikke er overgit i hans besiddelse, har kommissionæren ret til at sælge det for kommittentens regning, hvis han ikke uten væsentlig omkostning eller ulempe kan vedbli at sørge for det, eller kommittenten ikke raader over det inden rimelig tid, efterat han er blit opfordret til det. Før salg finder sted, skal kommissionæren saavidt mulig gi kommittenten betimelig varsel. Salget skal skje på forsvarlig måte. Kommissionæren kan ikke beregne provision av salget.\nKan salg ikke finde sted, eller er det aapenbart, at de med et salg forbundne omkostninger ikke vil kunne dækkes av salgssummen, er kommissionæren berettiget til at skaffe godset bort.\nDisse regler faar tilsvarende anvendelse paa salgskommissionæren, naar han ikke længer pligter at beholde gods, som han har til salg. Sælger han godset, har han dog samme ret til provision, som han ellers vilde hat.\n0 Endret ved lov 26 juni 1992 nr. 86.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "39",
+      "section": "39",
+      "content": "Har kommissionæren ifølge opdraget mottat prøver, mønstre eller andet som tilhører kommittenten og ikke er bestemt til salg, kan han, forsaavidt hans sikkerhet ellers vil utsættes for fare, holde det tilbake, indtil kommittenten betaler det, som kommissionæren har at kræve i anledning av opdraget, eller stiller anden betryggende sikkerhet for kravet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "40",
+      "section": "40",
+      "content": "Kommissionæren kan kun, naar avtale, handelsbruk eller anden sedvane gir ham ret til det, utføre opdraget ved at træde ind som kjøper eller sælger for egen regning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "41",
+      "section": "41",
+      "content": "Selvindtræde sker ved, at kommissionæren i sin underretning til kommittenten om, at opdraget er utført, uttrykkelig erklærer, at han selv er kjøper eller sælger.\nVil kommittenten gjøre gjældende, at kommissionæren efter § 40 ikke hadde ret til selvindtræde, skal han gi kommissionæren meddelelse om det uten ugrundet ophold, efterat han har mottat erklæring fra kommissionæren om, at denne selv træder ind. Ellers kan han ikke av den nævnte grund avvise selvindtrædet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "42",
+      "section": "42",
+      "content": "Træder kommissionæren selv ind, skal han vareta kommittentens tarv med samme omsorg, som om han hadde utført opdraget gjennem avtale med tredjemand.\nOm prisen gjælder særlig, at den ikke i noget tilfælde maa være ufordelagtigere for kommittenten end den, som var gjængs paa det tidspunkt, da kommissionæren avgav erklæring om selvindtrædet. Har salgskommissionæren paa et tidligere tidspunkt raadet over godset for egen regning, maa opgjør ikke ske til lavere pris end den, som da var gjængs. Har indkjøpskommissionæren, efterat han fik anmodning om at paata sig opdraget, men før han avgav erklæring om selvindtrædet, kjøpt saadant gods, som opdraget gjælder, kan kommittenten kræve opgjør efter den pris, kommissionæren har betalt for godset; dette gjælder dog ikke hvis kommissionæren godtgjør, at godset ikke er kjøpt i anledning av opdraget. Forsømmer kommissionæren de pligter som saaledes paahviler ham med hensyn til prisberegningen, faar bestemmelserne i §§ 15-17, 20 og 24 tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "43",
+      "section": "43",
+      "content": "Naar selvindtræde har fundet sted, har salgskommissionæren en kjøpers og indkjøpskommissionæren en sælgers rettigheter og pligter mot kommittenten.\nTræder kommissionæren selv ind, har han samme ret til provision, som han vilde hat, hvis han hadde utført opdraget ved at slutte avtale med tredjemand. Desuten kan han kræve godtgjørelse efter § 29 for sine utgifter som kommissionær.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "44",
+      "section": "44",
+      "content": "Har kommissionæren i strid med det virkelige forhold og mot bedre vidende opgit til kommittenten, at opdraget er utført, kan denne betragte hans opgivende som erklæring om selvindtræde og kræve opgjør efter reglerne i § 42.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "45",
+      "section": "45",
+      "content": "Bestemmelserne i §§ 41, 42 og 44 kan ikke til skade for kommittenten fravikes gjennem avtale, handelsbruk eller anden sedvane. I andre tilfælde end de, som er nævnt i § 44, kan dog bestemmelserne i § 42 fravikes, hvis kommittenten er handlende, og opdraget gaar ut paa salg eller kjøp for hans bedrift.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "46",
+      "section": "46",
+      "content": "Kommittenten kan naarsomhelst kalde tilbake det opdrag, han har git kommissionæren; likeledes kan kommissionæren naarsomhelst frasi sig opdraget. Jfr. dog det, som er bestemt i §§ 50 og 51 om erstatningspligt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "47",
+      "section": "47",
+      "content": "Kommer kommittenten eller kommisjonæren under konkurs, faller oppdraget bort. Det samme gjelder når det er nedlagt rådighetsforbud overfor kommittenten etter § 75 i lov om gjeldsforhandling og konkurs.\nNår kommittenten går konkurs, gjelder likevel reglene i § 100 annet og fjerde ledd i lov om gjeldsforhandling og konkurs tilsvarende for kommisjonærens adgang til å slutte avtaler for kommittentens regning.\n0 Endret ved lov 8 juni 1984 nr. 60.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "48",
+      "section": "48",
+      "content": "Er opdraget ophørt i henhold til §§ 46 og 47, pligter kommissionæren allikevel, saavidt det kan ske uten væsentlig omkostning eller ulempe for ham, at foreta det, som er nødvendig for at verge kommittenten mot tap, indtil denne selv kan vareta sit tarv.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "49",
+      "section": "49",
+      "content": "Er oppdraget opphørt, kan kommisjonæren allikevel gjøre gjeldende de rettigheter, som han har efter §§ 31-39.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "50",
+      "section": "50",
+      "content": "Når oppsiingsfrist er eller må anses for å være avtalt eller oppdraget gjelder for et bestemt tidsrom eller en bestemt forretning som kommisjonæren må anses å ha krav på å føre til avslutning, plikter kommittenten å betale erstatning til kommisjonæren, dersom han kaller oppdraget tilbake før tiden. Har kommisjonæren varig oppdrag, har han krav på erstatning dersom kommittenten kaller oppdraget tilbake med kortere frist enn tre måneder til utløp ved slutten av en kalendermåned, selv om ingen oppsiingsfrist er avtalt eller den avtalte oppsiingsfrist er kortere enn den nevnte. Har oppdraget bestått mindre enn ett år, skal den nevnte frist være en måned.\nKommisjonæren har likevel ikke krav på erstatning dersom kommittenten hadde gyldig grunn til å kalle oppdraget tilbake, fordi kommisjonæren i vesentlig grad hadde unnlatt å oppfylle sine forpliktelser, eller det for øvrig forelå forhold av en slik art at det ville være urimelig om oppdraget fortsatt skulle bestå.\nKommisjonæren har også krav på erstatning i de tilfelle som omhandles i første ledd, dersom han frasier seg oppdraget før tiden, og kommittenten ved vesentlig pliktforsømmelse har gitt ham gyldig grunn til det.\nKommisjonæren kan ikke bindende fraskrive seg retten til erstatning etter bestemmelsene i denne paragraf før oppdraget er opphørt.\n0 Endret ved lov 1 juni 1973 nr. 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "51",
+      "section": "51",
+      "content": "Når oppsiingsfrist er eller må anses for å være avtalt, eller kommisjonæren har eller må anses å ha påtatt seg oppdraget for et bestemt tidsrom eller å føre en bestemt forretning til avslutning, plikter han å betale erstatning til kommittenten, dersom han frasier seg oppdraget før tiden. Har kommisjonæren varig oppdrag, plikter han å betale erstatning dersom han frasier seg oppdraget med kortere frist enn tre måneder til utløp ved slutten av en kalendermåned, selv om ingen oppsiingsfrist er avtalt. Har oppdraget bestått mindre enn ett år, skal den nevnte frist være en måned.\nKommittenten har likevel ikke krav på erstatning dersom kommisjonæren hadde gyldig grunn til å frasi seg oppdraget, fordi kommittenten i vesentlig grad hadde unnlatt å oppfylle sine forpliktelser, eller det for øvrig forelå forhold av en slik art at det ville være urimelig om oppdraget fortsatt skulle bestå.\nKommittenten har også krav på erstatning i de tilfelle som omhandles i første ledd, dersom han kaller oppdraget tilbake før tiden, og kommisjonæren ved vesentlig pliktforsømmelse har gitt ham gyldig grunn til det.\n0 Endret ved lov 1 juni 1973 nr. 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "52",
+      "section": "52",
+      "content": "Har kommisjonæren varig oppdrag, har han krav på en rimelig godtgjørelse for tap han lider ved at han som følge av oppdragets opphør ikke får dekning for særlige investeringer i bygninger, lager, maskiner, transportmidler eller liknende, som han har foretatt for oppdraget etter forutgående avtale eller forståelse med kommittenten.\nKommisjonæren har likevel ikke krav på slik godtgjørelse dersom kommittenten hadde gyldig grunn til å kalle oppdraget tilbake, fordi kommisjonæren i vesentlig grad har forsømt å oppfylle sine forpliktelser. Kommisjonæren kan heller ikke kreve godtgjørelse dersom han frasier seg oppdraget før tiden, med mindre han hadde gyldig grunn til det fordi kommittenten i vesentlig grad hadde unnlatt å oppfylle sine forpliktelser, eller det for øvrig forelå forhold av en slik art at det ville være urimelig om oppdraget fortsatt skulle bestå. Det samme gjelder dersom oppdraget faller bort ved at det åpnes konkurs i kommisjonærens bo.\nOpphører oppdraget av grunner som nevnt i annet ledd, taper kommisjonæren også sin rett etter § 29 første ledd til godtgjørelse for utgifter, for så vidt disse som følge av oppdragets opphør blir unyttige for kommittenten. Dette gjelder selv om kommisjonæren ikke har varig oppdrag.\nKommisjonæren kan ikke bindende fraskrive seg retten til godtgjørelse for investeringer etter første ledd før oppdraget er opphørt, med mindre dette gjøres i samband med at investeringene foretas.\n0 Endret ved lover 1 juni 1973 nr. 30, 8 juni 1984 nr. 60.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "53",
+      "section": "53",
+      "content": "Gods, som er overgit kommissionæren til salg, vedblir at være kommittentens eiendom, indtil eiendomsretten er gaat over til tredjemand, eller til kommissionæren, hvis denne selv træder ind som kjøper.\nGods, som indkjøpskommissionæren erhverver for kommittentens regning, er dennes eiendom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "54",
+      "section": "54",
+      "content": "Har salgskommissionæren faat godset i sin besiddelse, og forsømmer han sine pligter ved at sælge det til lavere pris, end forholdene burde ha medført, eller forøvrig i strid med kommittentens tarv, faar kjøperen allikevel ret til godset, hvis han, da avtalen blev sluttet, hverken visste eller burde vite, at kommissionæren ved den væsentlig tilsidesatte kommittentens tarv eller handlet svigagtig mot denne.\nForføier salgskommissionæren, mens han har godset i sin besiddelse, uberettiget over det paa anden maate end ved salg, er forføiningen allikevel bindende overfor tredjemand, hvis denne var i god tro ved erhvervelsen. Det samme gjælder, hvis indkjøpskommissionæren uberettiget forføier over gods, som han har kjøpt for kommittentens regning og har i sin besiddelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "55",
+      "section": "55",
+      "content": "Har kommissionæren godset i sin besiddelse, og forføier han uberettiget over det ved salg eller paa anden maate, efterat hans opdrag er ophørt, er forføiningen allikevel bindende overfor tredjemand, hvis denne ved erhvervelsen hverken visste eller burde vite, at opdraget var ophørt, og at forføiningen som følge derav var uberettiget. Er oppdraget opphørt på grunn av kommittentens konkurs, blir kommisjonærens forføyning likevel ikke bindende for boet i større utstrekning enn om den var foretatt av kommittenten. Er oppdraget opphørt på grunn av kommisjonærens konkurs, kan tredjemann ikke påberope at han ikke visste om konkursen i større utstrekning enn om godset tilhørte kommisjonæren.\n0 Endret ved lov 8 juni 1984 nr. 60.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "56",
+      "section": "56",
+      "content": "Ved avtale, som kommissionæren slutter for kommittentens regning, men i eget navn, faar tredjemand fordring kun paa kommissionæren og ikke paa kommittenten. Lovregler om krav mot tidligere salgsledd gjelder likevel tilsvarende for krav mot en kommittent.\nTredjemand kan ikke grunde nogen ret overfor kommissionæren paa, at denne har krav paa at faa eller har faat gods eller penger av kommittenten til opfyldelse av avtalen. Dette gjelder også om det åpnes konkurs eller gjeldsforhandling i kommisjonærens bo.\n0 Endret ved lover 8 juni 1984 nr. 60, 21 juni 2002 nr. 34 (ikr. 1 juli 2002).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "57",
+      "section": "57",
+      "content": "Utenfor handelskommission har kommittenten, under de i § 58 nævnte vilkaar, ret til naarsomhelst at gjøre gjældende den fordring, som ved avtalen er erhvervet paa tredjemand.\nI handelskommisjon har komittenten, under de samme vilkår, rett til å gjøre fordringen gjeldende når tredjemanns forpliktelse etter avtalen ikke i rette tid blir oppfylt, eller når kommisjonæren ikke har oppfylt sin plikt til å gi oppgjør eller har handlet svikaktig mot ham, eller når det er åpnet konkurs i kommisjonærens bo.\n0 Endret ved lov 8 juni 1984 nr. 60.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    },
+    {
+      "provision_ref": "58",
+      "section": "58",
+      "content": "Vil kommittenten gjøre fordringen mot tredjemand gjældende, maa han erklære dette til kommissionæren, eller i tilfælde hans konkursbo. Han maa ogsaa dække eller stille betryggende sikkerhet for kommissionærens krav paa ham, hvis de er av den art, at kommissionæren, naar de er forfaldt, kan forføie over fordringen paa tredjemand efter § 35 eller § 36.\nOpfylder kommissionæren eller hans bo tredjemands forpligtelse, kan kommittenten ikke gjøre fordringen gjældende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_58",
+        "source_heading": "§ 58."
+      }
+    },
+    {
+      "provision_ref": "59",
+      "section": "59",
+      "content": "Naar kommittenten efter §§ 57 og 58 har ret til at gjøre fordringen gjældende, kan han fordre skriftlig erkjendelse for dette fra kommissionæren eller dennes konkursbo.\nGjør kommittenten fordringen gjældende, uten at ha slik erkjendelse, pligter han paa forlangende av tredjemand at stille betryggende sikkerhet for det, som denne kan komme til at utrede til kommissionæren efter § 63.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_59",
+        "source_heading": "§ 59."
+      }
+    },
+    {
+      "provision_ref": "60",
+      "section": "60",
+      "content": "Naar kommittenten ikke efter §§ 57 og 58 har retten til at gjøre fordringen gjældende, har kommissionæren denne ret. Dette gjælder ogsaa, efterat opdraget er ophørt, dog saaledes, at i tilfælde av kommissionærens konkurs boet træder i hans sted.\nErlægges betaling til konkursboet, pligter dette at avgi det, som det har mottat, til kommittenten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_60",
+        "source_heading": "§ 60."
+      }
+    },
+    {
+      "provision_ref": "61",
+      "section": "61",
+      "content": "I fordringen paa tredjemand kan der ikke tages utlæg for kommissionærens gjæld, medmindre denne overfor kommittenten har opfyldt tredjemands forpligtelse eller efter § 35 eller § 36 kan raade over fordringen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_61",
+        "source_heading": "§ 61."
+      }
+    },
+    {
+      "provision_ref": "62",
+      "section": "62",
+      "content": "Har tredjemand opfyldt avtalen overfor kommissionæren, pligter han allikevel at opfylde den overfor kommittenten, hvis han ved opfyldelsen visste eller burde vite, at det var kommittenten, som hadde retten til at gjøre fordringen gjældende mot ham.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_62",
+        "source_heading": "§ 62."
+      }
+    },
+    {
+      "provision_ref": "63",
+      "section": "63",
+      "content": "Har tredjemand opfyldt avtalen overfor kommittenten uagtet det ikke var denne, som hadde retten til at gjøre fordringen gjældende mot ham, blir han alene fri for at opfylde avtalen overfor kommissionæren i den utstrækning, han kan godtgjøre, at kommissionæren ikke har lidt skade ved, at opfyldelse er skedd til kommittenten istedenfor til ham.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_63",
+        "source_heading": "§ 63."
+      }
+    },
+    {
+      "provision_ref": "64",
+      "section": "64",
+      "content": "Naar salgskommissionæren gjør bruk av sin ret til at gjøre fordringen paa betaling for solgt gods gjældende mot tredjemand, kan denne bringe i motregning ogsaa de krav paa kommissionæren, som han har erhvervet paa en tid, da han visste, at kommissionæren hadde solgt for en andens regning. Krav, som tredjemand har paa kommittenten, kan han kun bringe i motregning i den utstrækning, han kan godtgjøre, at kommissionæren ikke derved lider nogen skade.\nGjør kommittenten fordringen gjældende, kan tredjemand bringe i motregning ogsaa krav paa kommissionæren, som han har erhvervet, før han visste eller burde vite, at det var kommittenten, som hadde retten til at gjøre fordringen gjældende mot ham.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_64",
+        "source_heading": "§ 64."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Bestemmelsene i denne lov får bare anvendelse for så vidt ikke annet følger av avtale eller av handelsbruk eller annen sedvane, medmindre det er særskilt fastsatt i loven at en bestemmelse skal være ufravikelig.\n0 Endret ved lov 1 juni 1973 nr. 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 13 mai 1988 nr. 27, opphevet ved lov 19 juni 1992 nr. 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Naar nogen som efter denne lov skal «gi meddelelse», har indlevert meddelelsen til befordring med telegraf eller post eller avsendt den paa anden forsvarlig maate, gaar det ikke ut over ham om meddelelsen forsinkes eller ikke kommer frem.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Ved kommissionær forstaaes i denne lov den, som har i opdrag at sælge eller kjøpe varer eller annet løsøre for en andens regning, men i eget navn. Den for hvis regning salget eller kjøpet skal ske, kaldes kommittent (oppdragsgiver).\nEr kommisjonæren næringsdrivende, og går oppdraget ut paa salg eller kjøp, som falder indenfor hans næring, kaldes han handelskommisjonær og forholdet handelskommission.\n0 Endret ved lover 14 juni 1985 nr. 61, 19 juni 1992 nr. 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Faar den som erhvervsmæssig driver virksomhet som handelskommissionær, anmodning fra nogen, som han staar i forretningsforbindelse med, om at besørge salg eller kjøp, som falder indenfor denne hans virksomhet, skal han uten ugrundet ophold gi meddelelse, hvis han ikke vil paata seg opdraget. Ellers ansees han for at ha paatat sig det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Hvis den, som har faat gods sendt for at sælge det i kommission, ikke vil utføre opdraget, men allikevel tar sig av godset, har han panteret i det efter reglerne i §§ 31, 33 og 34 for det, som han i den anledning har krav paa.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Kommissionæren skal vareta kommittentens tarv. Han skal følge kommittentens forskrifter, saa langt det er mulig, underrette ham om forhold, som er av betydning for opdraget, særlig om avtaler, som han har sluttet, og gi ham opgjør. Handelskommissionæren pligter dog ikke at opgi til kommittenten, hvem han har sluttet avtale med, hvis ikke andet følger av §§ 57 og 58.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Kræver forholdene, at kommissionæren fraviker kommittentens forskrifter, skal han uten ophold underrette kommittenten om det og be om hans bestemmelse. Kan han ikke vente paa denne, skal han handle som forholdene kræver.\nDette gjælder ogsaa hvis kommittenten har foreskrevet, at kommissionæren ikke maa sælge billigere eller kjøpe dyrere end til en opgit pris (prisgrænse, limitum). Anførsel av en pris for varen i kommittentens nota til salgskommissionæren ansees ikke som fastsettelse av prisgrænse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Er prisgrænse sat, maa kommissionæren allikevel søke at opnaa en fordelagtigere pris, hvis forholdene paa den tid, avtalen sluttes, gjør det mulig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Kommissionæren pligter at ta vare paa gods, som kommittenten sender ham til salg, eller som han kjøper for kommittentens regning. Hvis ikke andet følger av forholdene, skal han holde godset adskilt fra andet gods.\nHandelskommissionæren pligter at holde godset brandforsikret, hvis det ikke efter godsets art, eller forholdene forøvrig er unødvendig at forsikre det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Er gods sendt en handelskommissionær til salg, pligter han at undersøke det i den utstrekning som ordentlig forretningsskik i handelskommissionen kræver.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Viser der sig ved mottagelsen eller senere mangler ved godset, som er sendt en kommissionær til salg, skal han underrette kommittenten om det. Gir han ikke underretning uten ugrundet ophold, efterat han har opdaget eller burde ha opdaget manglen, pligter han at erstatte den skade, som derved er voldt, efter regelen i § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Kommissionæren skal godskrive kommittenten alt det, han har opnaadd ved avtalen med tredjemand.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "content": "Staar kommissionæren ifølge avtale, handelsbruk eller anden sedvane del credere, hefter han overfor kommittenten som selvskyldner for opfyldelsen av avtale, som han for dennes regning indgaar med tredjemand.\nSelv om handelskommissionæren ikke staar del credere, kan kommittenten kræve, at han opfylder avtalen, naar han ikke i sin underretning til kommittenten om opdragets utførelse har opgit, hvem han har sluttet avtalen med.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Har kommissionæren sluttet avtale for kommittentens regning, og har han ved avslutningen eller senere forsømt sine pligter kan kommittenten avvise avtalen, hvis hans tarv er væsentlig tilsidesat, eller kommissionæren har handlet svigagtig. Kan kommittenten, naar han saaledes avviser avtalen, paa grund av bestemmelsen i § 54 ikke faa tilbake gods, som kommissionæren har solgt, skal denne isteden betale dets værdi.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Har kommissionæren forsømt sine pligter ved at kjøpe over eller sælge under en fastsat prisgrænse eller forøvrig til en pris, som er ufordelagtigere, end forholdene burde ha medført, kan han avverge, at avtalen av den grund avvises, ved, at han uten ugrundet ophold betaler eller stiller betryggende sikkerhet for prisforskjellen. Dette gjælder dog ikke, hvis kommittenten ved kommissionærens forhold har lidt væsentlig skade eller ulempe, som ikke dækkes av prisforskjellen, eller hvis kommissionæren har handlet svigagtig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "content": "Forsømmer kommissionæren sine pligter mot kommittenten, skal han erstatte den skade, som derved voldes denne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "content": "Har kommissionæren forsømt sine pligter ved at sælge under eller kjøpe over en fastsat prisgrænse, og blir avtalen ikke avvist, skal erstatningen utgjøre forskjellen mellem den avtalte pris og den fastsatte prisgrænse, hvis ikke bevis for større skade er ført. Krævet forholdene, at kommissionæren fravek prisgrænsen, men er fravikelsen ved hans forsømmelse blit større end paakrævet, skal erstatningen utgjøre mindst forskjellen mellem den pris, han har opnaadd, og den, han burde ha opnaadd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Har salgskommissionæren forsømt sine pligter ved uberettiget at gi kredit eller anden henstand med kjøpesummens betaling, og blir avtalen ikke avvist, pligter han at betale kjøpesummen til den tid, kommittenten kunde ha fordret den, hvis henstanden ikke var git.\nGodtgjør kommissionæren, at godset vilde blit solgt til lavere pris, hvis han ikke hadde git kredit eller anden henstand, pligter han ikke at betale mer end denne pris.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "content": "Finder kommittenten, at kommissionæren har forsømt sine pligter, og vil han derpaa støtte nogen ret efter § 15, § 17 eller § 19, skal han gi kommissionæren meddelelse om, at han vil paaberope sig forsømmelsen. Han skal gi meddelelsen uten ugrundet ophold, efterat han har faat underretning fra kommissionæren om, hvorledes denne har forholdt sig. Gjør han ikke det, kan han ikke paaberope sig forsømmelsen. Indeholder meddelelsen ikke, at kommittenten vil avvise en avtale, som er sluttet for hans regning, kan han ikke senere gjøre dette.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "content": "I handelskommission har kommittenten, hvis han er næringsdrivende, og kjøpet er skjedd i forbindelse med hans næring, samme undersøkelsesplikt som kjøperen etter kjøpsloven § 31.\n0 Endret ved lov 19 juni 1992 nr. 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "22",
+      "section": "22",
+      "content": "Viser det sig, at gods, som er kjøpt for kommittentens regning, lider av en mangel, og vil kommittenten paaberope sig denne, skal han uten ugrundet ophold gi kommissionæren meddelelse om det.\nGjør han ikke det, uagtet han har opdaget eller burde ha opdaget manglen, kan han senere alene gjøre den gjældende overfor kommissionæren i den utstrækning, denne kan faa godtgjørelse for den hos sælgeren, fragtføreren eller andre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "23",
+      "section": "23",
+      "content": "Er gods, som er kjøpt for kommittentens regning, levert for sent, og vil kommittenten paaberope sig dette, skal han gi kommissionæren meddelelse om det uten ugrundet ophold, efterat godset er kommet frem til ham, eller det av underretning fra kommissionæren eller sælgeren har vist sig, at leveringen er skedd for sent. Gjør han ikke det, faar § 22, andet led, tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "24",
+      "section": "24",
+      "content": "Reglerne i §§ 20, 22 og 23 faar ikke anvendelse hvis kommissionæren har handlet svigagtig, eller hvis han har gjort sig skyldig i grov uagtsomhet, og denne medfører stor skade for kommittenten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "content": "Har kommittenten ikke inden et aar efterat han mottok gods som er kjøpt for hans regning, git kommissionæren meddelelse om, at han vil paaberope sig en mangel, kan han ikke senere gjøre den gjældende i større utstrækning end i § 22, andet led, sagt. Dette gjælder dog ikke, hvis kommissionæren har paatat sig at indestaa for godset i længere tid eller har handlet svigagtig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Avviser kommittenten gods, som kommisjonæren har kjøpt for hans regning, faar de bestemmelser, som kjøpsloven §§ 73 til 78 gir om kjøperens pligter og rettigheter, tilsvarende anvendelse paa kommittenten.\n0 Endret ved lov 19 juni 1992 nr. 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "Handelskommisjonæren har krav på provisjon av de avtaler han i oppdragstiden slutter for kommittentens regning.\nHar kommisjonæren varig oppdrag og det blir inngått avtale etter at kommisjonsforholdet opphørte, har kommisjonæren dessuten krav på provisjon (etterprovisjon) dersom avtalen kan anses å ha kommet i stand som følge av kommisjonærens virksomhet i den tid forholdet har bestått.\nI mangel av bevis for etterprovisjonens størrelse skal denne, dersom kommisjonsforholdet har bestått lengre enn ett år, utgjøre tre måneders provisjon beregnet som gjennomsnittet av månedsprovisjonene i det siste år før kommisjonsforholdet opphørte. Denne regelen gjelder ikke dersom oppdraget er opphørt ved oppsigelse med minst seks måneders frist.\nKommisjonærens rett til etterprovisjon kan ikke bindende fraskrives før kommisjonsforholdet er opphørt eller endelig oppsagt.\n0 Endret ved lover 1 juni 1973 nr. 30, 19 juni 1992 nr. 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "28",
+      "section": "28",
+      "content": "Blir tredjemanns forpliktelse etter avtalen ikke oppfylt, har kommisjonæren bare krav på provisjon dersom den manglende oppfyllelse skyldes kommittenten eller en hending som denne ikke kunne ha påberopt overfor tredjemann som fritakelse for erstatningsansvar, om han selv hadde sluttet avtalen.\nBlir tredjemanns forpliktelse etter avtalen bare delvis oppfylt, har kommisjonæren bare krav på provisjon av den del som er oppfylt, med mindre annet følger av bestemmelsen i første ledd.\n0 Endret ved lov 1 juni 1973 nr. 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "29",
+      "section": "29",
+      "content": "Kommisjonæren har krav på særskilt godtgjørelse for utlegg til porto, telegrammer, telefonsamtaler, forsikringspremier og for andre berettigede utgifter, når de ikke skal dekkes ved provisjon eller på annen måte. Han kan beregne godtgjørelse for lagerrom eller annet opplagssted og for transport og arbeid av liknende art, selv om han ikke har hatt noen særskilt utgift til det.\nStår kommisjonæren del credere (jfr. § 14), har han krav på særskilt godtgjørelse for dette.\n0 Endret ved lov 1 juni 1973 nr. 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "30",
+      "section": "30",
+      "content": "Har kommissionæren selv maattet opfylde avtalen overfor tredjemand, kan han kræve dækning hos kommittenten.\nForskud, som indkjøpskommissionæren uten kommittentens tilladelse har betalt til sælgeren, pligter kommittenten kun at dække i den utstrækning, tredjemands forpligtelse efter avtalen blir opfyldt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "31",
+      "section": "31",
+      "content": "En salgskommissionær, som har git kommittenten forskud paa kjøpesummen, eller som forøvrig i anledning av opdraget har noget krav paa kommittenten, har panteret for sit krav i det gods, som er sendt ham til salg, naar han selv eller nogen paa hans vegne er i besiddelse av godset eller av konnossement eller fragtbrev av saadan art, at avsenderen ikke uten at forevise det kan raade over godset.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "32",
+      "section": "32",
+      "content": "I handelskommission har salgskommissionæren panteret efter § 31 ogsaa, for krav, som skriver sig fra andet kommissionsopdrag fra kommittenten, naar denne er handlende, og opdraget falder indenfor hans bedrift.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "33",
+      "section": "33",
+      "content": "I kraft av sin panteret efter §§ 31 og 32 kan salgskommissionæren, forsaavidt hans sikkerhet ellers vilde utsættes for fare, holde godset tilbake, naar kommittenten forlanger det utlevert, og forøvrig undlate at følge hans forskrifter. Dog kan kommissionæren ikke sælge godset mot kommittentens vilje, undtagen i de tilfælde, som nævnes i næste paragraf.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "34",
+      "section": "34",
+      "content": "Naar den fordring, godset hefter for, er forfaldt, kan kommissionæren sælge det til dækning av fordringen. Er godset utsat for hurtig fordærvelse, eller vil det medføre uforholdsmæssig store omkostninger at bevare det, kan kommissionæren sælge det, selv om fordringen ikke er forfaldt, forsaavidt hans sikkerhet ellers vilde utsættes for fare. Kommissionæren har samme ret til provision av salget, som han ellers vilde hat. Salget skal skje på forsvarlig måte.\nFør salg finder sted, skal kommissionæren saavidt mulig gi kommittenten betimelig varsel.\n0 Endret ved lov 26 juni 1992 nr. 86.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "35",
+      "section": "35",
+      "content": "Har salgskommissionæren solgt godset i henhold til opdraget, kan han ved salg eller paa anden maate forføie over fordringen mot kjøperen, saa langt det er nødvendig til dækning av forfaldne fordringer paa kommittenten, for hvilke han vilde hat panteret i godset, om det var blit hos ham. Før kommissionæren forføier over fordringen, skal han saavidt mulig gi kommittenten betimelig varsel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "36",
+      "section": "36",
+      "content": "Det som er bestemt i §§ 31-35 om salgskommissionæren, faar tilsvarende anvendelse paa indkjøpskommissionæren i forhold til indkjøpt gods og fordring, som ved kjøpet er erhvervet mot sælgeren. Dog har en indkjøpskommissionær ikke krav paa provisjon, om han sælger godset efter § 34.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "37",
+      "section": "37",
+      "content": "Har innkjøpskommisjonæren sendt godset til kommittenten, kan kommisjonæren hindre at godset blir overgitt til kommittenten eller dennes bo eller kreve det tilbake etter reglene i dekningsloven §§ 7-2 og 7-9 og sjøloven § 307. Har kommisjonæren gjort bruk av denne rett, kan han gjøre sin panterett i godset gjeldende etter §§ 33 og 34.\nDisse regler faar tilsvarende anvendelse paa salgkommissionæren, naar han har sendt tilbake gods, som han har hat til salg for kommittenten.\n0 Endret ved lover 8 juni 1984 nr. 60, 24 juni 1994 nr. 39.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "38",
+      "section": "38",
+      "content": "Skyldes det forsinkelse fra kommittentens side, at gods, som er kjøpt for hans regning, ikke er overgit i hans besiddelse, har kommissionæren ret til at sælge det for kommittentens regning, hvis han ikke uten væsentlig omkostning eller ulempe kan vedbli at sørge for det, eller kommittenten ikke raader over det inden rimelig tid, efterat han er blit opfordret til det. Før salg finder sted, skal kommissionæren saavidt mulig gi kommittenten betimelig varsel. Salget skal skje på forsvarlig måte. Kommissionæren kan ikke beregne provision av salget.\nKan salg ikke finde sted, eller er det aapenbart, at de med et salg forbundne omkostninger ikke vil kunne dækkes av salgssummen, er kommissionæren berettiget til at skaffe godset bort.\nDisse regler faar tilsvarende anvendelse paa salgskommissionæren, naar han ikke længer pligter at beholde gods, som han har til salg. Sælger han godset, har han dog samme ret til provision, som han ellers vilde hat.\n0 Endret ved lov 26 juni 1992 nr. 86.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "39",
+      "section": "39",
+      "content": "Har kommissionæren ifølge opdraget mottat prøver, mønstre eller andet som tilhører kommittenten og ikke er bestemt til salg, kan han, forsaavidt hans sikkerhet ellers vil utsættes for fare, holde det tilbake, indtil kommittenten betaler det, som kommissionæren har at kræve i anledning av opdraget, eller stiller anden betryggende sikkerhet for kravet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "40",
+      "section": "40",
+      "content": "Kommissionæren kan kun, naar avtale, handelsbruk eller anden sedvane gir ham ret til det, utføre opdraget ved at træde ind som kjøper eller sælger for egen regning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "41",
+      "section": "41",
+      "content": "Selvindtræde sker ved, at kommissionæren i sin underretning til kommittenten om, at opdraget er utført, uttrykkelig erklærer, at han selv er kjøper eller sælger.\nVil kommittenten gjøre gjældende, at kommissionæren efter § 40 ikke hadde ret til selvindtræde, skal han gi kommissionæren meddelelse om det uten ugrundet ophold, efterat han har mottat erklæring fra kommissionæren om, at denne selv træder ind. Ellers kan han ikke av den nævnte grund avvise selvindtrædet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "42",
+      "section": "42",
+      "content": "Træder kommissionæren selv ind, skal han vareta kommittentens tarv med samme omsorg, som om han hadde utført opdraget gjennem avtale med tredjemand.\nOm prisen gjælder særlig, at den ikke i noget tilfælde maa være ufordelagtigere for kommittenten end den, som var gjængs paa det tidspunkt, da kommissionæren avgav erklæring om selvindtrædet. Har salgskommissionæren paa et tidligere tidspunkt raadet over godset for egen regning, maa opgjør ikke ske til lavere pris end den, som da var gjængs. Har indkjøpskommissionæren, efterat han fik anmodning om at paata sig opdraget, men før han avgav erklæring om selvindtrædet, kjøpt saadant gods, som opdraget gjælder, kan kommittenten kræve opgjør efter den pris, kommissionæren har betalt for godset; dette gjælder dog ikke hvis kommissionæren godtgjør, at godset ikke er kjøpt i anledning av opdraget. Forsømmer kommissionæren de pligter som saaledes paahviler ham med hensyn til prisberegningen, faar bestemmelserne i §§ 15-17, 20 og 24 tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "43",
+      "section": "43",
+      "content": "Naar selvindtræde har fundet sted, har salgskommissionæren en kjøpers og indkjøpskommissionæren en sælgers rettigheter og pligter mot kommittenten.\nTræder kommissionæren selv ind, har han samme ret til provision, som han vilde hat, hvis han hadde utført opdraget ved at slutte avtale med tredjemand. Desuten kan han kræve godtgjørelse efter § 29 for sine utgifter som kommissionær.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "44",
+      "section": "44",
+      "content": "Har kommissionæren i strid med det virkelige forhold og mot bedre vidende opgit til kommittenten, at opdraget er utført, kan denne betragte hans opgivende som erklæring om selvindtræde og kræve opgjør efter reglerne i § 42.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "45",
+      "section": "45",
+      "content": "Bestemmelserne i §§ 41, 42 og 44 kan ikke til skade for kommittenten fravikes gjennem avtale, handelsbruk eller anden sedvane. I andre tilfælde end de, som er nævnt i § 44, kan dog bestemmelserne i § 42 fravikes, hvis kommittenten er handlende, og opdraget gaar ut paa salg eller kjøp for hans bedrift.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "46",
+      "section": "46",
+      "content": "Kommittenten kan naarsomhelst kalde tilbake det opdrag, han har git kommissionæren; likeledes kan kommissionæren naarsomhelst frasi sig opdraget. Jfr. dog det, som er bestemt i §§ 50 og 51 om erstatningspligt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "47",
+      "section": "47",
+      "content": "Kommer kommittenten eller kommisjonæren under konkurs, faller oppdraget bort. Det samme gjelder når det er nedlagt rådighetsforbud overfor kommittenten etter § 75 i lov om gjeldsforhandling og konkurs.\nNår kommittenten går konkurs, gjelder likevel reglene i § 100 annet og fjerde ledd i lov om gjeldsforhandling og konkurs tilsvarende for kommisjonærens adgang til å slutte avtaler for kommittentens regning.\n0 Endret ved lov 8 juni 1984 nr. 60.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "48",
+      "section": "48",
+      "content": "Er opdraget ophørt i henhold til §§ 46 og 47, pligter kommissionæren allikevel, saavidt det kan ske uten væsentlig omkostning eller ulempe for ham, at foreta det, som er nødvendig for at verge kommittenten mot tap, indtil denne selv kan vareta sit tarv.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "49",
+      "section": "49",
+      "content": "Er oppdraget opphørt, kan kommisjonæren allikevel gjøre gjeldende de rettigheter, som han har efter §§ 31-39.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "50",
+      "section": "50",
+      "content": "Når oppsiingsfrist er eller må anses for å være avtalt eller oppdraget gjelder for et bestemt tidsrom eller en bestemt forretning som kommisjonæren må anses å ha krav på å føre til avslutning, plikter kommittenten å betale erstatning til kommisjonæren, dersom han kaller oppdraget tilbake før tiden. Har kommisjonæren varig oppdrag, har han krav på erstatning dersom kommittenten kaller oppdraget tilbake med kortere frist enn tre måneder til utløp ved slutten av en kalendermåned, selv om ingen oppsiingsfrist er avtalt eller den avtalte oppsiingsfrist er kortere enn den nevnte. Har oppdraget bestått mindre enn ett år, skal den nevnte frist være en måned.\nKommisjonæren har likevel ikke krav på erstatning dersom kommittenten hadde gyldig grunn til å kalle oppdraget tilbake, fordi kommisjonæren i vesentlig grad hadde unnlatt å oppfylle sine forpliktelser, eller det for øvrig forelå forhold av en slik art at det ville være urimelig om oppdraget fortsatt skulle bestå.\nKommisjonæren har også krav på erstatning i de tilfelle som omhandles i første ledd, dersom han frasier seg oppdraget før tiden, og kommittenten ved vesentlig pliktforsømmelse har gitt ham gyldig grunn til det.\nKommisjonæren kan ikke bindende fraskrive seg retten til erstatning etter bestemmelsene i denne paragraf før oppdraget er opphørt.\n0 Endret ved lov 1 juni 1973 nr. 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "51",
+      "section": "51",
+      "content": "Når oppsiingsfrist er eller må anses for å være avtalt, eller kommisjonæren har eller må anses å ha påtatt seg oppdraget for et bestemt tidsrom eller å føre en bestemt forretning til avslutning, plikter han å betale erstatning til kommittenten, dersom han frasier seg oppdraget før tiden. Har kommisjonæren varig oppdrag, plikter han å betale erstatning dersom han frasier seg oppdraget med kortere frist enn tre måneder til utløp ved slutten av en kalendermåned, selv om ingen oppsiingsfrist er avtalt. Har oppdraget bestått mindre enn ett år, skal den nevnte frist være en måned.\nKommittenten har likevel ikke krav på erstatning dersom kommisjonæren hadde gyldig grunn til å frasi seg oppdraget, fordi kommittenten i vesentlig grad hadde unnlatt å oppfylle sine forpliktelser, eller det for øvrig forelå forhold av en slik art at det ville være urimelig om oppdraget fortsatt skulle bestå.\nKommittenten har også krav på erstatning i de tilfelle som omhandles i første ledd, dersom han kaller oppdraget tilbake før tiden, og kommisjonæren ved vesentlig pliktforsømmelse har gitt ham gyldig grunn til det.\n0 Endret ved lov 1 juni 1973 nr. 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "52",
+      "section": "52",
+      "content": "Har kommisjonæren varig oppdrag, har han krav på en rimelig godtgjørelse for tap han lider ved at han som følge av oppdragets opphør ikke får dekning for særlige investeringer i bygninger, lager, maskiner, transportmidler eller liknende, som han har foretatt for oppdraget etter forutgående avtale eller forståelse med kommittenten.\nKommisjonæren har likevel ikke krav på slik godtgjørelse dersom kommittenten hadde gyldig grunn til å kalle oppdraget tilbake, fordi kommisjonæren i vesentlig grad har forsømt å oppfylle sine forpliktelser. Kommisjonæren kan heller ikke kreve godtgjørelse dersom han frasier seg oppdraget før tiden, med mindre han hadde gyldig grunn til det fordi kommittenten i vesentlig grad hadde unnlatt å oppfylle sine forpliktelser, eller det for øvrig forelå forhold av en slik art at det ville være urimelig om oppdraget fortsatt skulle bestå. Det samme gjelder dersom oppdraget faller bort ved at det åpnes konkurs i kommisjonærens bo.\nOpphører oppdraget av grunner som nevnt i annet ledd, taper kommisjonæren også sin rett etter § 29 første ledd til godtgjørelse for utgifter, for så vidt disse som følge av oppdragets opphør blir unyttige for kommittenten. Dette gjelder selv om kommisjonæren ikke har varig oppdrag.\nKommisjonæren kan ikke bindende fraskrive seg retten til godtgjørelse for investeringer etter første ledd før oppdraget er opphørt, med mindre dette gjøres i samband med at investeringene foretas.\n0 Endret ved lover 1 juni 1973 nr. 30, 8 juni 1984 nr. 60.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "53",
+      "section": "53",
+      "content": "Gods, som er overgit kommissionæren til salg, vedblir at være kommittentens eiendom, indtil eiendomsretten er gaat over til tredjemand, eller til kommissionæren, hvis denne selv træder ind som kjøper.\nGods, som indkjøpskommissionæren erhverver for kommittentens regning, er dennes eiendom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "54",
+      "section": "54",
+      "content": "Har salgskommissionæren faat godset i sin besiddelse, og forsømmer han sine pligter ved at sælge det til lavere pris, end forholdene burde ha medført, eller forøvrig i strid med kommittentens tarv, faar kjøperen allikevel ret til godset, hvis han, da avtalen blev sluttet, hverken visste eller burde vite, at kommissionæren ved den væsentlig tilsidesatte kommittentens tarv eller handlet svigagtig mot denne.\nForføier salgskommissionæren, mens han har godset i sin besiddelse, uberettiget over det paa anden maate end ved salg, er forføiningen allikevel bindende overfor tredjemand, hvis denne var i god tro ved erhvervelsen. Det samme gjælder, hvis indkjøpskommissionæren uberettiget forføier over gods, som han har kjøpt for kommittentens regning og har i sin besiddelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "55",
+      "section": "55",
+      "content": "Har kommissionæren godset i sin besiddelse, og forføier han uberettiget over det ved salg eller paa anden maate, efterat hans opdrag er ophørt, er forføiningen allikevel bindende overfor tredjemand, hvis denne ved erhvervelsen hverken visste eller burde vite, at opdraget var ophørt, og at forføiningen som følge derav var uberettiget. Er oppdraget opphørt på grunn av kommittentens konkurs, blir kommisjonærens forføyning likevel ikke bindende for boet i større utstrekning enn om den var foretatt av kommittenten. Er oppdraget opphørt på grunn av kommisjonærens konkurs, kan tredjemann ikke påberope at han ikke visste om konkursen i større utstrekning enn om godset tilhørte kommisjonæren.\n0 Endret ved lov 8 juni 1984 nr. 60.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "56",
+      "section": "56",
+      "content": "Ved avtale, som kommissionæren slutter for kommittentens regning, men i eget navn, faar tredjemand fordring kun paa kommissionæren og ikke paa kommittenten. Lovregler om krav mot tidligere salgsledd gjelder likevel tilsvarende for krav mot en kommittent.\nTredjemand kan ikke grunde nogen ret overfor kommissionæren paa, at denne har krav paa at faa eller har faat gods eller penger av kommittenten til opfyldelse av avtalen. Dette gjelder også om det åpnes konkurs eller gjeldsforhandling i kommisjonærens bo.\n0 Endret ved lover 8 juni 1984 nr. 60, 21 juni 2002 nr. 34 (ikr. 1 juli 2002).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "57",
+      "section": "57",
+      "content": "Utenfor handelskommission har kommittenten, under de i § 58 nævnte vilkaar, ret til naarsomhelst at gjøre gjældende den fordring, som ved avtalen er erhvervet paa tredjemand.\nI handelskommisjon har komittenten, under de samme vilkår, rett til å gjøre fordringen gjeldende når tredjemanns forpliktelse etter avtalen ikke i rette tid blir oppfylt, eller når kommisjonæren ikke har oppfylt sin plikt til å gi oppgjør eller har handlet svikaktig mot ham, eller når det er åpnet konkurs i kommisjonærens bo.\n0 Endret ved lov 8 juni 1984 nr. 60.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    },
+    {
+      "provision_ref": "58",
+      "section": "58",
+      "content": "Vil kommittenten gjøre fordringen mot tredjemand gjældende, maa han erklære dette til kommissionæren, eller i tilfælde hans konkursbo. Han maa ogsaa dække eller stille betryggende sikkerhet for kommissionærens krav paa ham, hvis de er av den art, at kommissionæren, naar de er forfaldt, kan forføie over fordringen paa tredjemand efter § 35 eller § 36.\nOpfylder kommissionæren eller hans bo tredjemands forpligtelse, kan kommittenten ikke gjøre fordringen gjældende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_58",
+        "source_heading": "§ 58."
+      }
+    },
+    {
+      "provision_ref": "59",
+      "section": "59",
+      "content": "Naar kommittenten efter §§ 57 og 58 har ret til at gjøre fordringen gjældende, kan han fordre skriftlig erkjendelse for dette fra kommissionæren eller dennes konkursbo.\nGjør kommittenten fordringen gjældende, uten at ha slik erkjendelse, pligter han paa forlangende av tredjemand at stille betryggende sikkerhet for det, som denne kan komme til at utrede til kommissionæren efter § 63.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_59",
+        "source_heading": "§ 59."
+      }
+    },
+    {
+      "provision_ref": "60",
+      "section": "60",
+      "content": "Naar kommittenten ikke efter §§ 57 og 58 har retten til at gjøre fordringen gjældende, har kommissionæren denne ret. Dette gjælder ogsaa, efterat opdraget er ophørt, dog saaledes, at i tilfælde av kommissionærens konkurs boet træder i hans sted.\nErlægges betaling til konkursboet, pligter dette at avgi det, som det har mottat, til kommittenten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_60",
+        "source_heading": "§ 60."
+      }
+    },
+    {
+      "provision_ref": "61",
+      "section": "61",
+      "content": "I fordringen paa tredjemand kan der ikke tages utlæg for kommissionærens gjæld, medmindre denne overfor kommittenten har opfyldt tredjemands forpligtelse eller efter § 35 eller § 36 kan raade over fordringen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_61",
+        "source_heading": "§ 61."
+      }
+    },
+    {
+      "provision_ref": "62",
+      "section": "62",
+      "content": "Har tredjemand opfyldt avtalen overfor kommissionæren, pligter han allikevel at opfylde den overfor kommittenten, hvis han ved opfyldelsen visste eller burde vite, at det var kommittenten, som hadde retten til at gjøre fordringen gjældende mot ham.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_62",
+        "source_heading": "§ 62."
+      }
+    },
+    {
+      "provision_ref": "63",
+      "section": "63",
+      "content": "Har tredjemand opfyldt avtalen overfor kommittenten uagtet det ikke var denne, som hadde retten til at gjøre fordringen gjældende mot ham, blir han alene fri for at opfylde avtalen overfor kommissionæren i den utstrækning, han kan godtgjøre, at kommissionæren ikke har lidt skade ved, at opfyldelse er skedd til kommittenten istedenfor til ham.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_63",
+        "source_heading": "§ 63."
+      }
+    },
+    {
+      "provision_ref": "64",
+      "section": "64",
+      "content": "Naar salgskommissionæren gjør bruk av sin ret til at gjøre fordringen paa betaling for solgt gods gjældende mot tredjemand, kan denne bringe i motregning ogsaa de krav paa kommissionæren, som han har erhvervet paa en tid, da han visste, at kommissionæren hadde solgt for en andens regning. Krav, som tredjemand har paa kommittenten, kan han kun bringe i motregning i den utstrækning, han kan godtgjøre, at kommissionæren ikke derved lider nogen skade.\nGjør kommittenten fordringen gjældende, kan tredjemand bringe i motregning ogsaa krav paa kommissionæren, som han har erhvervet, før han visste eller burde vite, at det var kommittenten, som hadde retten til at gjøre fordringen gjældende mot ham.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_64",
+        "source_heading": "§ 64."
+      }
+    }
+  ]
+}

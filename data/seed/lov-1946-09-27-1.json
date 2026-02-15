@@ -1,0 +1,35 @@
+{
+  "id": "LOV-1946-09-27-1",
+  "type": "statute",
+  "title": "Lov om okkupasjonslovgjevinga.",
+  "short_name": "Lov om okkupasjonslovgjevinga.",
+  "status": "in_force",
+  "issued_date": "1946-09-27",
+  "in_force_date": "1946-09-27",
+  "url": "https://lovdata.no/dokument/NLO/lov/1946-09-27-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "1. Lovgjevingsføresegner, gjevne i Noreg under okkupasjonen, skal reknast for bortfalne frigjeringsdagen såframt dei:\na. hadde til føremål å tena okkupasjonsmakta eller må reknast for ein lekk av freistnaden frå Nasjonal Samling på å nazifisera landet eller av andre grunnar må reknast for maktmisbruk frå okkupasjonsmakta eller hjelparane hennar,\nb. var i strid med Grunnlova,\nc. fastsette straff eller inndraging.\n2. Lovgjevingsføresegner frå okkupasjonstida, som ikkje er nemnde under nr. 1, gjeld til 1 oktober 1946, dersom dei ikkje er falne bort før. Likevel skal etternemnde føresegner stå ved lag framleis:\n– – –\nc. Vedtekter, forskrifter, instruksar og andre lovgjevingsføresegner, som offentlegrettsleg eller privatrettsleg styremakt eller organ har gjeve med heimel i lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "1. Lovgjevingsføresegner, gjevne i Noreg under okkupasjonen, skal reknast for bortfalne frigjeringsdagen såframt dei:\na. hadde til føremål å tena okkupasjonsmakta eller må reknast for ein lekk av freistnaden frå Nasjonal Samling på å nazifisera landet eller av andre grunnar må reknast for maktmisbruk frå okkupasjonsmakta eller hjelparane hennar,\nb. var i strid med Grunnlova,\nc. fastsette straff eller inndraging.\n2. Lovgjevingsføresegner frå okkupasjonstida, som ikkje er nemnde under nr. 1, gjeld til 1 oktober 1946, dersom dei ikkje er falne bort før. Likevel skal etternemnde føresegner stå ved lag framleis:\n– – –\nc. Vedtekter, forskrifter, instruksar og andre lovgjevingsføresegner, som offentlegrettsleg eller privatrettsleg styremakt eller organ har gjeve med heimel i lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    }
+  ]
+}

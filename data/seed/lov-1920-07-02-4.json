@@ -1,0 +1,95 @@
+{
+  "id": "LOV-1920-07-02-4",
+  "type": "statute",
+  "title": "Lov om bemyndigelse for kontorbetjenter til å styre skiftesamlinger m.v.",
+  "short_name": "Lov om kontorbetjenter ved skiftesamlinger.",
+  "status": "in_force",
+  "issued_date": "1920-07-02",
+  "in_force_date": "1920-07-02",
+  "url": "https://lovdata.no/dokument/NLO/lov/1920-07-02-4",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Hvor arbeidsforholdene gjør det påkrevet, kan fylkesmannen inntil videre bemyndige en eller flere av de ved et embede ansatte kontorbetjenter til efter vedkommende embedsmanns​2 nærmere bestemmelse og på hans ansvar styre skiftesamlinger i dødsboer. På samme måte kan en kontorbetjent i påtrengende tilfelle bemyndiges til å styre en enkelt skiftesamling i konkursbo eller et enkelt ekstrating.\n1 Endret ved lov 14 juli 1922 nr. 3.\n2 Se skiftel. § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "En kontorbetjent, som er meddelt bemyndigelse som nevnt i § 1, kan ikke behandle og avgjøre skiftetvistigheter, avgjøre spørsmål om åpning av konkurs eller foreta utlodninger. Han kan heller ikke styre retten under vidneførsel eller avsi kjennelse om spørsmål, som er gjenstand for tvist.\n1 Endret ved lov 14 juli 1922 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Bestemmelsen i § 1 får tilsvarende anvendelse på utførelse av vekselprotester.​1\n1 Se lover 27 mai 1932 nr. 2 § 87 og nr. 3 § 65.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Hvor arbeidsforholdene gjør det påkrevet, kan fylkesmannen inntil videre bemyndige en eller flere av de ved et embede ansatte kontorbetjenter til efter vedkommende embedsmanns​2 nærmere bestemmelse og på hans ansvar styre skiftesamlinger i dødsboer. På samme måte kan en kontorbetjent i påtrengende tilfelle bemyndiges til å styre en enkelt skiftesamling i konkursbo eller et enkelt ekstrating.\n1 Endret ved lov 14 juli 1922 nr. 3.\n2 Se skiftel. § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "En kontorbetjent, som er meddelt bemyndigelse som nevnt i § 1, kan ikke behandle og avgjøre skiftetvistigheter, avgjøre spørsmål om åpning av konkurs eller foreta utlodninger. Han kan heller ikke styre retten under vidneførsel eller avsi kjennelse om spørsmål, som er gjenstand for tvist.\n1 Endret ved lov 14 juli 1922 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Bestemmelsen i § 1 får tilsvarende anvendelse på utførelse av vekselprotester.​1\n1 Se lover 27 mai 1932 nr. 2 § 87 og nr. 3 § 65.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "LOV-2022-06-17-49",
+  "type": "statute",
+  "title": "Lov om informasjonstilgang for Riksrevisjonen ved undersøkelser av saker som gjelder stortingsrepresentantenes økonomiske ordninger",
+  "short_name": "Lov om informasjonstilgang for Riksrevisjonen",
+  "status": "in_force",
+  "issued_date": "2022-06-17",
+  "in_force_date": "2022-06-17",
+  "url": "https://lovdata.no/dokument/NL/lov/2022-06-17-49",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Loven skal sikre at Riksrevisjonen, i tilfeller hvor samtykke fra de forespurte ikke er tilstrekkelig, får tilgang til nødvendige opplysninger for å gjennomføre særlige undersøkelser av stortingsrepresentantenes økonomiske ordninger i henhold til Stortingets vedtak 6. januar 2022.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 17 juni 2022 nr. 49 (i kraft 31 des 2022, se § 6).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Forbud mot bruk som bevis i senere straffesak eller sivil sak",
+      "content": "Opplysninger som Riksrevisjonen mottar fra private personer og foretak i medhold av § 2, kan ikke brukes som bevis i en senere straffesak eller sivil sak mot den som har gitt opplysningene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Rett til å la seg bistå. Kostnadsdekning",
+      "content": "Enhver som er berørt har rett til å la seg bistå under Riksrevisjonens undersøkelser i henhold til Stortingets vedtak 6. januar 2022. Den som er berørt av undersøkelsene, kan også få dekket nødvendige kostnader til slik bistand når særlige grunner taler for det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Forholdet til riksrevisjonsloven",
+      "content": "Riksrevisjonsloven, herunder § 7-1 (taushetsplikt), § 7-2 (sikkerhetslovens anvendelse), § 7-3 (behandling av personopplysninger), § 7-4 (innsyn) og § 3-2 (habilitet), gjelder tilsvarende for Riksrevisjonens særlige undersøkelser av stortingsrepresentantenes økonomiske ordninger i henhold til Stortingets vedtak 6. januar 2022. Loven § 7-1 fjerde og femte ledd og § 7-3 annet ledd gjelder likevel ikke.\n0 Endret ved lov 20 juni 2025 nr. 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Ikrafttredelse mv.",
+      "content": "Loven trer i kraft straks. § 2 oppheves 31. desember 2022.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Loven skal sikre at Riksrevisjonen, i tilfeller hvor samtykke fra de forespurte ikke er tilstrekkelig, får tilgang til nødvendige opplysninger for å gjennomføre særlige undersøkelser av stortingsrepresentantenes økonomiske ordninger i henhold til Stortingets vedtak 6. januar 2022.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 17 juni 2022 nr. 49 (i kraft 31 des 2022, se § 6).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Forbud mot bruk som bevis i senere straffesak eller sivil sak",
+      "content": "Opplysninger som Riksrevisjonen mottar fra private personer og foretak i medhold av § 2, kan ikke brukes som bevis i en senere straffesak eller sivil sak mot den som har gitt opplysningene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Rett til å la seg bistå. Kostnadsdekning",
+      "content": "Enhver som er berørt har rett til å la seg bistå under Riksrevisjonens undersøkelser i henhold til Stortingets vedtak 6. januar 2022. Den som er berørt av undersøkelsene, kan også få dekket nødvendige kostnader til slik bistand når særlige grunner taler for det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Forholdet til riksrevisjonsloven",
+      "content": "Riksrevisjonsloven, herunder § 7-1 (taushetsplikt), § 7-2 (sikkerhetslovens anvendelse), § 7-3 (behandling av personopplysninger), § 7-4 (innsyn) og § 3-2 (habilitet), gjelder tilsvarende for Riksrevisjonens særlige undersøkelser av stortingsrepresentantenes økonomiske ordninger i henhold til Stortingets vedtak 6. januar 2022. Loven § 7-1 fjerde og femte ledd og § 7-3 annet ledd gjelder likevel ikke.\n0 Endret ved lov 20 juni 2025 nr. 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Ikrafttredelse mv.",
+      "content": "Loven trer i kraft straks. § 2 oppheves 31. desember 2022.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    }
+  ]
+}

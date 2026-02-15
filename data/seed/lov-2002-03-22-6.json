@@ -1,0 +1,75 @@
+{
+  "id": "LOV-2002-03-22-6",
+  "type": "statute",
+  "title": "Lov om lønnsnemndbehandling av arbeidstvisten mellom Norsk Sykepleierforbund og Arbeidsgiverforeningen NAVO i forbindelse med den statlige overtakelsen av spesialisthelsetjenesten 1. januar 2002.",
+  "short_name": "Lov om lønnsnemnd Sykepleierforbundet/NAVO",
+  "status": "in_force",
+  "issued_date": "2002-03-22",
+  "in_force_date": "2002-03-22",
+  "url": "https://lovdata.no/dokument/NLO/lov/2002-03-22-6",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom Norsk Sykepleierforbund og Arbeidsgiverforeningen NAVO i forbindelse med den statlige overtakelsen av spesialisthelsetjenesten 1. januar 2002 skal avgjøres av Rikslønnsnemnda.\nReglene i lov 19. desember 1952 nr. 7 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans eller blokade til løsning av tvisten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven her trer i kraft straks.\nLoven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse i tvisten.​1\n1 Rikslønnsnemndas kjennelse 6 april 2002 i sak 1/2002.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom Norsk Sykepleierforbund og Arbeidsgiverforeningen NAVO i forbindelse med den statlige overtakelsen av spesialisthelsetjenesten 1. januar 2002 skal avgjøres av Rikslønnsnemnda.\nReglene i lov 19. desember 1952 nr. 7 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans eller blokade til løsning av tvisten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven her trer i kraft straks.\nLoven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse i tvisten.​1\n1 Rikslønnsnemndas kjennelse 6 april 2002 i sak 1/2002.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "LOV-1979-12-21-67",
+  "type": "statute",
+  "title": "Lov om tillegg til lov 17. april 1875 om pengevæsenet",
+  "short_name": "Tilleggslov til lov om pengevæsenet",
+  "status": "in_force",
+  "issued_date": "1979-12-21",
+  "in_force_date": "1979-12-21",
+  "url": "https://lovdata.no/dokument/NLO/lov/1979-12-21-67",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "I anledning av 35-års jubileet for frigjøringen preges en minnemynt i sølv pålydende 200 kroner.\nKongen fastsetter myntens form, størrelse, vekt, preg og legering og det antall som skal myntes ut.\n1 Endret ved lov 18 april 1980 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Lov 17. april 1875 om Pengevæsenet med tilleggslover gjelder så langt det passer og ikke annet følger av denne lov.\nIngen skal være forpliktet til i én betaling å motta et høyere beløp enn 1.000 kroner i denne mynt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Differansen mellom pålydende verdi av den mynt som settes i sirkulasjon og produksjonsomkostningene disponeres til almennyttige formål etter Kongens bestemmelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "I anledning av 35-års jubileet for frigjøringen preges en minnemynt i sølv pålydende 200 kroner.\nKongen fastsetter myntens form, størrelse, vekt, preg og legering og det antall som skal myntes ut.\n1 Endret ved lov 18 april 1980 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Lov 17. april 1875 om Pengevæsenet med tilleggslover gjelder så langt det passer og ikke annet følger av denne lov.\nIngen skal være forpliktet til i én betaling å motta et høyere beløp enn 1.000 kroner i denne mynt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Differansen mellom pålydende verdi av den mynt som settes i sirkulasjon og produksjonsomkostningene disponeres til almennyttige formål etter Kongens bestemmelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

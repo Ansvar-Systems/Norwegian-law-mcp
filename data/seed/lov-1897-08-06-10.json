@@ -1,0 +1,57 @@
+{
+  "id": "LOV-1897-08-06-10",
+  "type": "statute",
+  "title": "Lov om Adgang for visse Aktieselskaper og Bankindretninger til at udstede Obligationer, lydende paa Ihændehaveren",
+  "short_name": "Lov om adgang til å utstede obligasjoner",
+  "status": "in_force",
+  "issued_date": "1897-08-06",
+  "in_force_date": "1897-08-06",
+  "url": "https://lovdata.no/dokument/NLO/lov/1897-08-06-10",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Aktieselskaber, hvis indbetalte Aktiekapital udgjør mindst Kr. 500.000,00, skal være berettiget til at udstede rentebærende Obligationer, lydende paa Ihændehaveren, under følgende nærmere Betingelser:\na. Obligationerne, der kun maa utstedes som partialobligationer av et større laan, utgjørende mindst kr. 50.000,00, maa ikke lyde paa mindre beløp end kr. 200,00 eller tilsvarende beløp i fremmed myntsort. De kan gjøres avdragsfri i indtil 5 aar, men skal derefter indfries i løpet av et visst forut bestemt tidsrum av høist 30 aar med like store aarlige avdrag, hvorom obligationerne selv maa indeholde fornøden oplysning.\nb. Obligasjonene må være sikret ved pant i aksjeselskapets faste eiendommer (med tilbehør) med første prioritet eller med prioritet etter Statskassen, Norges Bank eller en offentlig stiftelse eller etter avgifter som enten er stedsevarende eller grunner seg på avtale om kraftleie. De pantsatte eiendeler må ikke herved beheftes utover halvdelen av den verdi, hvortil de ansettes ved en verdsettelsesmåte der i hvert enkelt tilfelle bestemmes av vedkommende regjeringsdepartement.​2\nc. Der skal være fattet betryggende Bestemmelse om, hvor de til Sikkerhed for Obligationerne udstedte Pantedokumenter skal opbevares, og hvem der er berettiget til at kvittere disse til Aflæsning.\nFør Obligationer udstedes, bliver for vedkommende Regjeringsdepartement​2 at legitimere, at foranstaaende Betingelser er opfyldte.\n1 Endret ved lover 28 juni 1913 nr. 3, 25 mars 1949 nr. 3.\n2 Finansdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "(Opphevd ved lov 11 juni 1976 nr. 71.)",
+      "content": "§ 2.(Opphevd ved lov 11 juni 1976 nr. 71.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Aktieselskaber, hvis indbetalte Aktiekapital udgjør mindst Kr. 500.000,00, skal være berettiget til at udstede rentebærende Obligationer, lydende paa Ihændehaveren, under følgende nærmere Betingelser:\na. Obligationerne, der kun maa utstedes som partialobligationer av et større laan, utgjørende mindst kr. 50.000,00, maa ikke lyde paa mindre beløp end kr. 200,00 eller tilsvarende beløp i fremmed myntsort. De kan gjøres avdragsfri i indtil 5 aar, men skal derefter indfries i løpet av et visst forut bestemt tidsrum av høist 30 aar med like store aarlige avdrag, hvorom obligationerne selv maa indeholde fornøden oplysning.\nb. Obligasjonene må være sikret ved pant i aksjeselskapets faste eiendommer (med tilbehør) med første prioritet eller med prioritet etter Statskassen, Norges Bank eller en offentlig stiftelse eller etter avgifter som enten er stedsevarende eller grunner seg på avtale om kraftleie. De pantsatte eiendeler må ikke herved beheftes utover halvdelen av den verdi, hvortil de ansettes ved en verdsettelsesmåte der i hvert enkelt tilfelle bestemmes av vedkommende regjeringsdepartement.​2\nc. Der skal være fattet betryggende Bestemmelse om, hvor de til Sikkerhed for Obligationerne udstedte Pantedokumenter skal opbevares, og hvem der er berettiget til at kvittere disse til Aflæsning.\nFør Obligationer udstedes, bliver for vedkommende Regjeringsdepartement​2 at legitimere, at foranstaaende Betingelser er opfyldte.\n1 Endret ved lover 28 juni 1913 nr. 3, 25 mars 1949 nr. 3.\n2 Finansdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "(Opphevd ved lov 11 juni 1976 nr. 71.)",
+      "content": "§ 2.(Opphevd ved lov 11 juni 1976 nr. 71.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

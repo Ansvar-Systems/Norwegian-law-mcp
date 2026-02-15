@@ -1,0 +1,75 @@
+{
+  "id": "LOV-2022-12-16-89",
+  "type": "statute",
+  "title": "Lov om lønnsnemndbehandling av arbeidstvistene mellom Utdanningsforbundet, Skolenes landsforbund og Norsk Lektorlag og KS i forbindelse med hovedoppgjøret i 2022",
+  "short_name": "Lov om lønnsnemndbehandling (Utdanningsforbundet mv. og KS)",
+  "status": "in_force",
+  "issued_date": "2022-12-16",
+  "in_force_date": "2022-12-16",
+  "url": "https://lovdata.no/dokument/NLO/lov/2022-12-16-89",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvistene mellom Utdanningsforbundet, Skolenes landsforbund og Norsk Lektorlag på arbeidstakersiden og KS på arbeidsgiversiden i forbindelse med hovedoppgjøret i 2022 (Kommuneoppgjøret) skal avgjøres av Rikslønnsnemnda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans, jf. lov 27. januar 2012 nr. 9 om arbeidstvister § 1 bokstav f og g, for å løse tvistene.\nReglene i lov 27. januar 2012 nr. 10 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks. Loven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse​1 i tvistene.\n1 Se Rikslønnsnemndas kjennelser 3/2022, 4/2022 og 5/2022 avsagt 16. februar 2023.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvistene mellom Utdanningsforbundet, Skolenes landsforbund og Norsk Lektorlag på arbeidstakersiden og KS på arbeidsgiversiden i forbindelse med hovedoppgjøret i 2022 (Kommuneoppgjøret) skal avgjøres av Rikslønnsnemnda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans, jf. lov 27. januar 2012 nr. 9 om arbeidstvister § 1 bokstav f og g, for å løse tvistene.\nReglene i lov 27. januar 2012 nr. 10 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks. Loven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse​1 i tvistene.\n1 Se Rikslønnsnemndas kjennelser 3/2022, 4/2022 og 5/2022 avsagt 16. februar 2023.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

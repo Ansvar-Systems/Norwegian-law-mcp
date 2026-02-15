@@ -1,0 +1,117 @@
+{
+  "id": "LOV-1969-06-19-50",
+  "type": "statute",
+  "title": "Lov om kateketteneste.",
+  "short_name": "Kateketlova.",
+  "status": "in_force",
+  "issued_date": "1969-06-19",
+  "in_force_date": "1970-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1969-06-19-50",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Etter avgjerd av departementet​1 kan det i ein kyrkjelyd skipast kateketstilling.​2\n1 Kirke-, utdannings- og forskningsdepartementet.\n2 Jfr. lov 29 april 1953 nr. 1 § 51 bokstav b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kateketen skal særleg ha ansvar for undervisningsarbeidet i kyrkjelyden, m.a. konfirmantundervisning,​1 ungdomsarbeid og studiearbeid.\nDepartementet​2 gjev nærare reglar om tenesteordning m.v. for kateketar i form av ein normalinstruks.​3\n1 Jfr. lov 15 aug 1911 nr. 1.\n2 Kirke-, utdannings- og forskningsdepartementet.\n3 Jfr. lov 29 april 1953 nr. 1 § 51 bokstav c.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Kateketane vert lønte etter det vanlege lønnsregulativet for tenestemenn i staten. Lønnsutgiftene vert dekte av staten.\n1 Endra med lov 5 mars 1976 nr. 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "(Opphevd)",
+      "content": "0 Opphevd med lov 5 mars 1976 nr. 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Denne lov trer i kraft frå den tid​1 Kongen tek avgjerd.\n1 Frå 1 jan 1970 etter res. 19 des 1969.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Etter avgjerd av departementet​1 kan det i ein kyrkjelyd skipast kateketstilling.​2\n1 Kirke-, utdannings- og forskningsdepartementet.\n2 Jfr. lov 29 april 1953 nr. 1 § 51 bokstav b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kateketen skal særleg ha ansvar for undervisningsarbeidet i kyrkjelyden, m.a. konfirmantundervisning,​1 ungdomsarbeid og studiearbeid.\nDepartementet​2 gjev nærare reglar om tenesteordning m.v. for kateketar i form av ein normalinstruks.​3\n1 Jfr. lov 15 aug 1911 nr. 1.\n2 Kirke-, utdannings- og forskningsdepartementet.\n3 Jfr. lov 29 april 1953 nr. 1 § 51 bokstav c.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Kateketane vert lønte etter det vanlege lønnsregulativet for tenestemenn i staten. Lønnsutgiftene vert dekte av staten.\n1 Endra med lov 5 mars 1976 nr. 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "(Opphevd)",
+      "content": "0 Opphevd med lov 5 mars 1976 nr. 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Denne lov trer i kraft frå den tid​1 Kongen tek avgjerd.\n1 Frå 1 jan 1970 etter res. 19 des 1969.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ]
+}

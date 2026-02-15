@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1932-06-17-3",
+  "type": "statute",
+  "title": "Lov om tillegg til politilovgivningen.",
+  "short_name": "Lov om tillegg til politilovgivningen.",
+  "status": "in_force",
+  "issued_date": "1932-06-17",
+  "in_force_date": "1932-06-17",
+  "url": "https://lovdata.no/dokument/NLO/lov/1932-06-17-3",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "I vedtekter som fastsettes av kommunestyre og godkjennes av Kongen,​2 kan det bestemmes at sammenkomst med dans eller annen sammenkomst av utelukkende eller overveiende selskapelig eller underholdende art ikke må holdes uten tillatelse av politiet,​3 dersom det er adgang for en ubestemt krets av personer eller for medlemmene av forening eller lignende sammenslutning.\n1 Jfr. lov 26 mai 1866 § 2 b jfr. lov 12 juni 1914 nr. 3.\n2 Justisdepartementet iflg. res. 19 aug 1932.\n3 Se strl. § 339 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "For tillatelse som nevnt i § 1 kan politiet sette sådanne vilkår som det finner grunn til eller som er bestemt i vedtektene. Avgift som betales etter lov om politiet av 13 mars 1936 nr. 3 § 27 blir å anvende til utgifter i anledning av politioppsynet.\n1 Endret ved lov 2 mars 1973 nr. 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "I vedtekter som fastsettes av kommunestyre og godkjennes av Kongen,​2 kan det bestemmes at sammenkomst med dans eller annen sammenkomst av utelukkende eller overveiende selskapelig eller underholdende art ikke må holdes uten tillatelse av politiet,​3 dersom det er adgang for en ubestemt krets av personer eller for medlemmene av forening eller lignende sammenslutning.\n1 Jfr. lov 26 mai 1866 § 2 b jfr. lov 12 juni 1914 nr. 3.\n2 Justisdepartementet iflg. res. 19 aug 1932.\n3 Se strl. § 339 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "For tillatelse som nevnt i § 1 kan politiet sette sådanne vilkår som det finner grunn til eller som er bestemt i vedtektene. Avgift som betales etter lov om politiet av 13 mars 1936 nr. 3 § 27 blir å anvende til utgifter i anledning av politioppsynet.\n1 Endret ved lov 2 mars 1973 nr. 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

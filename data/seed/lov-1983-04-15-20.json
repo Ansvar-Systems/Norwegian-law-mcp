@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1983-04-15-20",
+  "type": "statute",
+  "title": "Lov om grensene for Trondheim havnedistrikt",
+  "short_name": "Lov om Trondheim havnedistrikt",
+  "status": "in_force",
+  "issued_date": "1983-04-15",
+  "in_force_date": "1983-05-15",
+  "url": "https://lovdata.no/dokument/NLO/lov/1983-04-15-20",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Grensene i sjøen for Trondheim havnedistrikt skal være:\nEn rett linje i nordlig retning fra det punkt der kommunegrensen mellom Malvik og Trondheim skjærer høyvannslinjen til en rett linje rettvisende øst-vest gjennom jernstang på Taren,\nderfra langs denne linje til en rett linje rettvisende nordøst-sydvest gjennom fyrlampe på Frøsetskjær,\nderfra langs denne linje til en rett linje i nordlig retning fra Lundeneset,\nderfra langs denne linje til en rett linje i nordvestlig retning fra Buviken kirke,\nderfra langs denne linje til skjæringspunktet med en rett linje i nordlig retning fra Svalnestangen,\nfra dette punkt en rett linje i østsydøstlig retning til en rett linje i nordlig retning fra Brekkan,\nderfra langs denne linje til kommunegrensen mellom Trondheim og Melhus,\nderfra langs kommunegrensen oppover Gaula inntil det punkt kommunegrensen knekker sørover øst for Leinøra,\nfra dette punkt en rett linje i nordøstlig retning.\nI Nidelven langs nordre side av Stavne bru.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Fra lovens ikrafttreden​1 oppheves lov av 29. mai 1953 om grensene for Trondheim havnedistrikt.\n1 15 mai 1983.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Grensene i sjøen for Trondheim havnedistrikt skal være:\nEn rett linje i nordlig retning fra det punkt der kommunegrensen mellom Malvik og Trondheim skjærer høyvannslinjen til en rett linje rettvisende øst-vest gjennom jernstang på Taren,\nderfra langs denne linje til en rett linje rettvisende nordøst-sydvest gjennom fyrlampe på Frøsetskjær,\nderfra langs denne linje til en rett linje i nordlig retning fra Lundeneset,\nderfra langs denne linje til en rett linje i nordvestlig retning fra Buviken kirke,\nderfra langs denne linje til skjæringspunktet med en rett linje i nordlig retning fra Svalnestangen,\nfra dette punkt en rett linje i østsydøstlig retning til en rett linje i nordlig retning fra Brekkan,\nderfra langs denne linje til kommunegrensen mellom Trondheim og Melhus,\nderfra langs kommunegrensen oppover Gaula inntil det punkt kommunegrensen knekker sørover øst for Leinøra,\nfra dette punkt en rett linje i nordøstlig retning.\nI Nidelven langs nordre side av Stavne bru.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Fra lovens ikrafttreden​1 oppheves lov av 29. mai 1953 om grensene for Trondheim havnedistrikt.\n1 15 mai 1983.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

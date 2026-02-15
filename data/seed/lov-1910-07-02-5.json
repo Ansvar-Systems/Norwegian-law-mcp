@@ -1,0 +1,77 @@
+{
+  "id": "LOV-1910-07-02-5",
+  "type": "statute",
+  "title": "Lov om varemerker og om utilbørlige varekjendetegn og forretningsnavn",
+  "short_name": "Varemerkeloven av 1910",
+  "status": "in_force",
+  "issued_date": "1910-07-02",
+  "in_force_date": "1910-07-02",
+  "url": "https://lovdata.no/dokument/NLO/lov/1910-07-02-5",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "title": "(Opphevd ved lov 16 juni 1972 nr. 47.)",
+      "content": "§ 25.(Opphevd ved lov 16 juni 1972 nr. 47.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Den, som gir sin virksomhet eller sit forretningsforetagende et saadant navn, at det er egnet til at fremkalde forveksling med et navn, som en anden retmæssig allerede bruker for sin virksomhet eller for sit forretningsforetagende av samme eller lignende slags, kan efter søksmaal fra den forurettedes side frakjendes retten hertil.\nHar det været hans hensigt at fremkalde saadan forveksling, straffes han med bøter og pligter at tilsvare forvoldt skade.​2 Offentlig paatale finder alene sted efter fornærmedes forlangende.\n1 Jfr. lover 17 mai 1890 nr. 6 § 10, 3 mars 1961 nr. 4 § 3, 16 juni 1972 nr. 47 §§ 1 og 9.\n2 Jfr § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "Den, som har brukt vare- eller forretningskjendetegn i strid med nærværende lov, er pligtig til paa den forurettedes forlangende at ændre eller bortta kjendetegnet. Hvis borttagelse eller ændring ikke kan ske, kan de gjenstande, hvorpaa det findes, forlanges inddraget.\nDe inddragne gjenstande kan efter avtale mellem den domfældte og den forurettede overlates denne sidste til avgang i ham tilkommende vederlag.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "25",
+      "section": "25",
+      "title": "(Opphevd ved lov 16 juni 1972 nr. 47.)",
+      "content": "§ 25.(Opphevd ved lov 16 juni 1972 nr. 47.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "26",
+      "section": "26",
+      "content": "Den, som gir sin virksomhet eller sit forretningsforetagende et saadant navn, at det er egnet til at fremkalde forveksling med et navn, som en anden retmæssig allerede bruker for sin virksomhet eller for sit forretningsforetagende av samme eller lignende slags, kan efter søksmaal fra den forurettedes side frakjendes retten hertil.\nHar det været hans hensigt at fremkalde saadan forveksling, straffes han med bøter og pligter at tilsvare forvoldt skade.​2 Offentlig paatale finder alene sted efter fornærmedes forlangende.\n1 Jfr. lover 17 mai 1890 nr. 6 § 10, 3 mars 1961 nr. 4 § 3, 16 juni 1972 nr. 47 §§ 1 og 9.\n2 Jfr § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "27",
+      "section": "27",
+      "content": "Den, som har brukt vare- eller forretningskjendetegn i strid med nærværende lov, er pligtig til paa den forurettedes forlangende at ændre eller bortta kjendetegnet. Hvis borttagelse eller ændring ikke kan ske, kan de gjenstande, hvorpaa det findes, forlanges inddraget.\nDe inddragne gjenstande kan efter avtale mellem den domfældte og den forurettede overlates denne sidste til avgang i ham tilkommende vederlag.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    }
+  ]
+}

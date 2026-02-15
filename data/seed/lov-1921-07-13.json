@@ -1,0 +1,35 @@
+{
+  "id": "LOV-1921-07-13",
+  "type": "statute",
+  "title": "Lov om beskatning til staten av aksjeselskaper og aksjonærer",
+  "short_name": "Gamle aksjeskattelov",
+  "status": "in_force",
+  "issued_date": "1921-07-13",
+  "in_force_date": "1921-07-13",
+  "url": "https://lovdata.no/dokument/NLO/lov/1921-07-13",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "– – –\nVed inntektsansettelsen medregnes ikke – forsåvidt angår aktier (parter) i innenlandske selskaper – utbytte, friaktie, tilskrivning og annen utbetaling, som hitrører fra fond oplagt av årsoverskudd, som ved ligningen i 1921 (inntektsåret 1920) eller tidligere år er beskattet som inntekt efter de dagjeldende regler, eller som hitrører fra opskrivning av selskapers driftsmidler i kalenderåret 1921 eller tilsvarende regnskapsår. Hvis selskapet samtidig med utbytteutdeling av fondsoplegg som nevnt oplegger noget av årets inntekt som fond, blir det aktionærene (parthaverne) tildelte utbytte m.v. av fondsoplegg kun å holde utenfor inntektsbeskatningen i den utstrekning, hvori det overstiger, hvad der av årets inntekt oplegges til fond. Denne hele eller delvise fritagelse for inntektsbeskatning er dog betinget av at selskapet i forbindelse med den i § 6, første ledd omhandlede oppgave gir ligningsnemnda fullstendig redegjørelse om forholdet, legitimert ved fyldestgjørende regnskapsoppgaver.\n1 Endret ved lover 14 juli 1922 nr. 6, 9 mars 1923, 12 feb. 1926 nr. 4, 30 juni 1955 nr. 15, 17 juni 1966 nr. 27, 30 juni 1967 nr. 4, 19 juni 1969 nr. 71 (se noten til lovens overskrift).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "– – –\nVed inntektsansettelsen medregnes ikke – forsåvidt angår aktier (parter) i innenlandske selskaper – utbytte, friaktie, tilskrivning og annen utbetaling, som hitrører fra fond oplagt av årsoverskudd, som ved ligningen i 1921 (inntektsåret 1920) eller tidligere år er beskattet som inntekt efter de dagjeldende regler, eller som hitrører fra opskrivning av selskapers driftsmidler i kalenderåret 1921 eller tilsvarende regnskapsår. Hvis selskapet samtidig med utbytteutdeling av fondsoplegg som nevnt oplegger noget av årets inntekt som fond, blir det aktionærene (parthaverne) tildelte utbytte m.v. av fondsoplegg kun å holde utenfor inntektsbeskatningen i den utstrekning, hvori det overstiger, hvad der av årets inntekt oplegges til fond. Denne hele eller delvise fritagelse for inntektsbeskatning er dog betinget av at selskapet i forbindelse med den i § 6, første ledd omhandlede oppgave gir ligningsnemnda fullstendig redegjørelse om forholdet, legitimert ved fyldestgjørende regnskapsoppgaver.\n1 Endret ved lover 14 juli 1922 nr. 6, 9 mars 1923, 12 feb. 1926 nr. 4, 30 juni 1955 nr. 15, 17 juni 1966 nr. 27, 30 juni 1967 nr. 4, 19 juni 1969 nr. 71 (se noten til lovens overskrift).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

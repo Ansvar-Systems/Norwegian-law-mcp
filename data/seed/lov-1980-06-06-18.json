@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1980-06-06-18",
+  "type": "statute",
+  "title": "Lov om gjennomføring av sanksjoner mot Iran",
+  "short_name": "Sanksjonslov mot Iran",
+  "status": "in_force",
+  "issued_date": "1980-06-06",
+  "in_force_date": "1980-06-06",
+  "url": "https://lovdata.no/dokument/NLO/lov/1980-06-06-18",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen gis fullmakt til å treffe de bestemmelser som er nødvendige for å forhindre at norske borgere,​1 selskaper, foreninger eller stiftelser har økonomisk eller annet samkvem med Iran, eller fysiske eller juridiske personer i Iran. Kongen kan også forby bruk av norske varer, tjenester og transportmidler i slikt samkvem.\nKongen avgjør hva som i denne lov skal forstås med «norske» selskaper m.m.\n1 Jf. lov 10 juni 2005 nr. 51.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Ved overtredelse av bestemmelser gitt i medhold av denne lov gjelder §§ 2 og 3 i lov av 7. juni 1968 nr. 4 om gjennomføring av bindende vedtak av De Forente Nasjoners Sikkerhetsråd tilsvarende.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen gis fullmakt til å treffe de bestemmelser som er nødvendige for å forhindre at norske borgere,​1 selskaper, foreninger eller stiftelser har økonomisk eller annet samkvem med Iran, eller fysiske eller juridiske personer i Iran. Kongen kan også forby bruk av norske varer, tjenester og transportmidler i slikt samkvem.\nKongen avgjør hva som i denne lov skal forstås med «norske» selskaper m.m.\n1 Jf. lov 10 juni 2005 nr. 51.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Ved overtredelse av bestemmelser gitt i medhold av denne lov gjelder §§ 2 og 3 i lov av 7. juni 1968 nr. 4 om gjennomføring av bindende vedtak av De Forente Nasjoners Sikkerhetsråd tilsvarende.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

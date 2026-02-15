@@ -1,0 +1,75 @@
+{
+  "id": "LOV-2020-12-18-141",
+  "type": "statute",
+  "title": "Lov om lønnsnemndbehandling av arbeidstvisten mellom Den norske legeforening og KS i forbindelse med hovedtariffoppgjøret 2020",
+  "short_name": "Lov om lønnsnemndbehandling (Den norske legeforening og KS)",
+  "status": "in_force",
+  "issued_date": "2020-12-18",
+  "in_force_date": "2020-12-18",
+  "url": "https://lovdata.no/dokument/NLO/lov/2020-12-18-141",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom Den norske legeforening og KS i forbindelse med hovedtariffoppgjøret 2020 skal avgjøres av Rikslønnsnemnda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans, jf. lov 27. januar 2012 nr. 9 om arbeidstvister (arbeidstvistloven) § 1 bokstav f) og g) for å løse tvisten.\nReglene i lov 27. januar 2012 nr. 10 om lønnsnemnd i arbeidstvister (lønnsnemndloven) får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks. Loven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse​1 i tvisten.\n1 Se Rikslønnsnemndas kjennelse 01/2020 avsagt 11. juni 2021.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom Den norske legeforening og KS i forbindelse med hovedtariffoppgjøret 2020 skal avgjøres av Rikslønnsnemnda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans, jf. lov 27. januar 2012 nr. 9 om arbeidstvister (arbeidstvistloven) § 1 bokstav f) og g) for å løse tvisten.\nReglene i lov 27. januar 2012 nr. 10 om lønnsnemnd i arbeidstvister (lønnsnemndloven) får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks. Loven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse​1 i tvisten.\n1 Se Rikslønnsnemndas kjennelse 01/2020 avsagt 11. juni 2021.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

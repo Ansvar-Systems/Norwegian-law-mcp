@@ -1,0 +1,1413 @@
+{
+  "id": "LOV-1936-06-19-8",
+  "type": "statute",
+  "title": "Lov om arbeidervern",
+  "short_name": "Arbeidervernlov",
+  "status": "in_force",
+  "issued_date": "1936-06-19",
+  "in_force_date": "1937-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1936-06-19-8",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Bedrifter som går inn under loven.",
+      "content": "1. Såframt ikke annet uttrykkelig er sagt i lovens etterfølgende paragrafer,​2 gjelder denne lov hver bedrift som sysselsetter arbeider​3 eller som bruker mekanisk drivkraft på over 1 hestekraft.\nUndtatt er:\na. sjøfart,​4 fangst og fiske, herunder bearbeiding av fangsten ombord i skip,\nb. luftfart,\nc. jordbruk og annen virksomhet som går inn under mellombels lov om arbeidsvilkår for arbeidarar i jordbruket,​5\nd. den offentlige forvaltning.\nHvorvidt en virksomhet som drives av det offentlige er forvaltning, avgjøres av Kongen.\n2. Kongen kan bestemme at maskiner og andre tekniske innretninger og anlegg skal undergis tilsyn efter denne lov, selv om de ikke anvendes i bedrift som går inn under loven.\n1 Endret ved lov 3 des 1948 nr. 2.\n2 Se 5 12.\n3 Se § 2.\n4 Jfr. lov 10 mars 1939 nr. 5.\n5 Lov 3 des. 1948 nr. 4. – Jfr. lov s.d. nr. 5 § 1, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Hvad loven mener med arbeider.​1",
+      "content": "Med arbeider mener denne lov enhver som utenfor sitt hjem utfører arbeid i annen manns tjeneste.\nDrives en bedrift av flere i fellesskap for egen regning, ansees bare en av disse som arbeidsgiver efter denne lov, mens de øvrige blir å anse som arbeidere. Hvem der blir å betrakte som arbeidsgiver skal straks meldes til tilsynet.\n1 Jfr. lov 23 juli 1920 nr. 3 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Meldeplikt for bedrift.",
+      "content": "Hver bedrift som går inn under denne lov skal​1 innen 14 dager efter at loven er trådt i kraft eller efter at bedriften er satt i gang, skriftlig meldes til tilsynet. Jfr. kap. 7.\nMeldingen skal gi oplysning om bedriftens art, drivkraftens art og størrelse og om antall arbeidere.​2\nUndtatt fra denne meldeplikt er dog de bedrifter som tidligere er anmeldt til fabrikktilsynet og de bedrifter hvor bestemmelsene i kapitel 3 ikke gjelder.\nDepartementet​3 kan bestemme at meldeplikt også skal gjelde for de sistnevnte bedrifter.\n1 Se § 51 nr. 3\n2 Se § 2.\n3 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Avgjørelse av om en virksomhet går inn under loven.",
+      "content": "Tvist om en virksomhet eller et arbeid går inn under bestemmelsene i §§ 1, 2 og 3 avgjøres, hvor intet annet er bestemt, av Arbeidsrådet. Jfr. § 48.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Tilsynets uttalelse om plan for anlegg m.v. av bedrift.​1",
+      "content": "Den som vil anlegge, begynne eller omdanne bedrift som kan antas å gå inn under loven, er berettiget til, når han underretter tilsynet​2 om driftens art og forelegger planen for anlegget og dets anordning, å få tilsynets uttalelse om det av hensyn til denne lovs bestemmelser har noget å innvende mot gjennemførelsen av planen.\n1 Jfr. lover 6 juni 1891 nr. 5 § 1 og 22 feb 1924 nr. 2 §§ 123, 131 og 132.\n2 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Vern mot ulykker m.v.​1",
+      "content": "1. Arbeidsgiver skal sørge for at bedriften er således innrettet og vedlikeholdt og at arbeidet er ordnet og blir utført på sådan måte at arbeiderne​2 er vernet mot skade på liv og helse så godt og hensiktsmessig som det efter forholdene lar sig gjøre.\nHan skal sørge for at arbeiderne blir gjort opmerksom på de farer som måtte være forbundet med arbeidet, og at de får veiledning om hvordan faren kan undgåes.\nHvad foran er sagt om bedriftens innretning og vedlikehold skal også gjelde for det husvær som bedriften stiller til arbeidernes forføining.\nArbeiderne skal vise varsomhet og ellers på enhver måte gjøre sitt til at skade på liv og helse kan undgåes.\nBåde arbeidsgiver og arbeider skal sørge for at der råder orden, sømmelighet og gode seder i bedriften.\n2. Arbeidsgiveren skal særlig ha for øie at der i arbeidsrum er gode lysforhold, nok luft og høvelig luftskifte, at luften så vidt mulig er passelig varm, fri for støv, ond lukt, gass eller damp og at arbeidsrummene holdes rene. Maskiner, apparater, redskaper og transportmidler av alle slags skal være forsvarlig utført, vedlikeholdt og passet. Der skal treffes foranstaltninger for å trygge arbeiderne mot ildsfare.​3 Arbeidsgiveren skal sørge for at der på eller i nærheten av arbeidsstedet finnes drikke- og vaskevann og at der, om det trenges, finnes opvarmet spiserum og særskilt rum til å skifte og opbevare klær i. Der skal være et passende antall klosetter. Forsåvidt bedriftens art og størrelse tilsier det, skal der være adgang for arbeiderne til å få bad, og der skal være truffet sådanne foranstaltninger at en første foreløbig ulykkeshjelp kan bli ydet.\n1 Se § 51 nr. 1 og § 53.\n2 Se § 2.\n3 Jfr. lov 19 nov. 1954 § 49 og lov 6 juni 1891 nr. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Kjeler, beholdere og rørledninger.​1",
+      "content": "1. Kjeler, beholdere og rørledninger som er utsatt for damptrykk, skal være forsvarlig forarbeidet, utstyrt, opstillet og vedlikeholdt. De må ikke tas i bruk før tilsynet​2 har gitt sitt samtykke. De skal anmeldes, undersøkes og eftersees på den måte som Kongen bestemmer.\nEieren plikter å foreta de for disse undersøkelser forskriftsmessige forberedelser og for øvrig yde den nødvendige hjelp.\nTilsynet kan kreve at den som er ansvarlig for kjelens behandling skal ha et av tilsynet godkjent vidnesbyrd om at han har den kyndighet som trenges. Kongen kan bestemme at den som er ansvarlig for kjelens behandling, skal ha nærmere av Kongen fastsatte kvalifikasjoner.\n2. Kongen kan fastsette regler om offentlig eftersyn med andre beholdere og rørledninger under trykk, enn dem som er nevnt i punkt 1.\n1 Se § 51 nr. 1 og strl. § 352.\n2 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Farlige maskiner.​1",
+      "content": "Ingen tilvirker eller forhandler må levere maskiner eller maskindeler som skal brukes her i landet uten at de har de til dekning av tannhjul, kniver og andre farlige deler påbudte sikringsdeler.\nDen som selvstendig påtar sig å montere maskineri skal sørge for at maskineriet blir satt i den stand og opstillet på sådan måte at lovens krav med hensyn til forebyggelse av ulykker er iakttatt.\nDen som tilvirker, forhandler eller monterer maskineri er berettiget til å få tilsynets​2 uttalelse om hvorvidt det har noget å innvende mot en planlagt beskyttelse eller opstilling av maskineri.\n1 Se strl. § 352.\n2 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Spesielle foranstaltninger for særlig farlig bedrift eller arbeid.​1",
+      "content": "For bedrift eller arbeid som finnes å være særlig anstrengende eller særlig farlig for arbeidernes liv og helse, kan Kongen påby at særlige foranstaltninger skal treffes, såsom at bedrift ikke må anlegges uten samtykke, at der skal brukes kortere arbeidstid enn ellers fastsatt i loven, og at der skal føres regelvisst lægetilsyn med arbeidere.​2 Over sådanne bedrifter eller arbeid skal der av Kongen utferdiges en fortegnelse efterat arbeidsrådet​3 er hørt.\nSkal sådant påbud omfatte bedrift hvor arbeidere eller arbeidsgiver tilhører en faglig landssammenslutning, skal der være gitt denne adgang til uttalelse. Arbeidsrådets erklæring skal i ethvert tilfelle innhentes.\n1 Se § 51 nr. 1. Jfr. § 28.\n2 Se § 2.\n3 Se § 48.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Bedrifts melding av ulykker.​1",
+      "content": "Rammes arbeider​2 av arbeidsulykke som har voldt døden eller alvorlig skade, skal driftslederen uten ophold sende skriftlig melding direkte til tilsynet.​3 Går bedriften ikke inn under lovgivningen om ulykkestrygd for industriarbeidere​4 m.v., skal også mindre alvorlig arbeidsulykke snarest mulig og senest innen 3 dager meldes til tilsynet, når det kan antas at arbeideren som følge av ulykken vil bli arbeidsudyktig i minst 3 dager.\nHvad foran er sagt om arbeidsulykke skal også gjelde for bedriftssykdom, som ifølge lovgivningen om ulykkestrygd for industriarbeidere m.v. er likestillet med ulykke.​5\n1 Se § 51 nr. 3.\n2 Se § 2.\n3 Se kap. 7.\n4 Se lov 24 juni 1931 nr. 6 § 1.\n5 Se samme lovs § 10 og res. 7 des. 1928 og 11 janr. 1935.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Lægers melding av ulykker.​1",
+      "content": "Har en læge under behandling arbeider som lider av sådan bedriftssykdom, som ifølge lovgivningen om ulykkestrygd for industriarbeidere m. v. er likestillet med ulykke,​2 skal han gi skriftlig melding om det til tilsynet.\nDepartementet fastsetter de nærmere bestemmelser herom. Det kan bestemme at meldeplikten også skal gjelde for annen sykdom som kan antas å skyldes arbeidets art eller forholdene på arbeidsstedet.\n1 Jfr. lov 24 mai 1929 nr. 3 § 5.\n2 Se lov 24 juni 1931 nr. 6 § 10 og res. 7 des. 1928 og 11 janr. 1935.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Bedrift og arbeid som ikke omfattes av reglene om arbeidstiden.​1",
+      "content": "Dette kapitel gjelder ikke:\n1. arbeid av ledende eller kontrollerende art eller i annen særlig betrodd stilling,\n2. arbeid av representanter, agenter og handelsreisende, forsåvidt det blir utført utenfor bedriftens faste arbeidssted,\n3. skogsarbeid, tømmermåling og fløtning, herunder ikke arbeid ved faste sorteringslenser hvor arbeidet helt eller delvis foregår med maskiner,\n4. bergning og dykkerarbeid,\n5. teatre og andre forestillinger og forevisninger,\n6. herberg- og bevertningsbedrift,\n7. undervisnings- og opdragelsesanstalt.\nTvist om et arbeid går inn under punkt 1-7 avgjøres av Arbeidsrådet.​2\n1 Jfr. § 23, siste ledd.\n2 Se § 48.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Nattarbeid m.v.​1",
+      "content": "Den almindelige arbeidstid skal legges mellem kl. 6 og kl. 21.​2\nArbeid mellem kl. 21 og kl. 6 er nattarbeid og må ikke drives uten i de tilfelter som er nevnt i denne og neste paragraf.\nSom nattarbeid er tillatt:\n1. arbeid som av hensyn til bedriftens jevne gang må foregå i det i paragrafens 2. ledd nevnte tidsrum såsom opfyring, opvarmning, rengjøring, vedlikehold, istandsettelse av arbeidsrum, maskiner og andre driftsinnretningor. oprydning, vareoptelling og regnskapsopgjør,\n2. arbeid for at ikke anlegg, maskiner, råstoffer eller produkter skal ta skade,\n3. vakthold, portnerarbeid og pass av dyr,\n4. arbeid ved utsalgssteder samt i barber- og frisørforretninger,\n5. transportvirksomhet og dertil knyttet nødvendig lasting, lossing og lagring samt ekspedisjon av post, telegrammer og telefonsamtaler. Med transportvirksomhet er likestillet arbeid som av hensyn til transportmidlenes drift eller de reisendes behov må foregå i det i paragrafens 2. ledd nevnte tidsrum,\n6. bygnings- og anleggsarbeid,\n7. arbeid på to dagskift som legges mellem kl. 6 og kl. 24,\n8. arbeid i bedrift for syke- og pleiehjelp,\n9. arbeid som på grunn av sin art eller beskaffenhet ikke kan avbrytes.\nTvist om et arbeid går inn under de foran nevnte undtagelser avgjøres av Arbeidsrådet.​3\n1 Endret ved lov 18 juni 1938 nr. 13. – Se § 51 nr. 2.\n2 Jfr. § 24.\n3 Se § 48.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Departementets og tilsynets adgang til å tillate nattarbeid.",
+      "content": "1. Når der foreligger almene hensyn eller når nattarbeid av særlige økonomiske grunner må anses påkrevd kan departementet​1 tillate at bedrift eller del av bedrift utfører arbeid i det i § 13, 2. ledd nevnte tidsrum. Ved avgjørelsen skal der legges vekt på om nattarbeid antas å være sedvanlig i vedkommende yrke. Før avgjørelse treffes må Arbeidsrådets​2 uttalelse være innhentet.\nI påtrengende tilfelle kan tillatelsen gis av tilsynet​3 for et tidsrum av inntil 6 uker.\n2. For et tidsrum av op til 6 uker om gangen kan tilsynet​3 på nærmere vilkår tillate nattarbeid:\na. når der til regelmessig tilbakevendende tider av året opstår arbeidspress,\nb. når der er opstått uventet eller særlig arbeidspress,\nc. når naturomstendigheter, ulykkeshendelser eller andre upåregnelige begivenheter har forstyrret eller truer med å forstyrre den jevne drift.\nTillatelse kreves ikke for de fire første døgn.\n1 Kommunaldepartementet.\n2 Se § 48.\n3 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Søn- og helgedagsarbeid m.v.​1",
+      "content": "1. Det skal være arbeidshvile fra kl. 18 dagen før en søn- eller helgedag, – for jul-, påske- og pinseaften fra kl. 15 – til kl. 22 dagen før neste søknedag.​2\nSom søn- og helgedagsarbeid er tillatt:\na. arbeid som av hensyn til egen eller annen bedrifts jevne gang må foregå i det i paragrafens første ledd nevnte tidsrum såsom opfyring, opvarmning, rengjøring, vedlikehold, istandsettelse av arbeidsrum, maskiner og andre driftsinnretninger, oprydning, vareoptelling og regnskapsopgjør,\nb. arbeid for at ikke anlegg, maskiner, råstoffer eller produkter skal ta skade,\nc. vakthold, portnerarbeid og pass av dyr,\nd. arbeid ved utsalgssteder samt i barber- og frisørforretninger,\ne. transportvirksomhet og dertil knyttet nødvendig lasting, lossing og lagring samt ekspedisjon av post, telegrammer og telefonsamtaler. Med transportvirksomhet er likestillet arbeid som av hensyn til transportmidlenes drift eller de reisendes behov må foregå i det i paragrafens første ledd nevnte tidsrum,\nf. arbeid i bedrift for syke- og pleiehjelp,\ng. arbeid som på grunn av sin art eller beskaffenhet ikke kan avbrytes.\nTvist om et arbeid går inn under de foran nevnte undtagelser avgjøres av Arbeidsrådet.​3\n2. Arbeider​4 som har utfort søn- og helgedagsarbeid i henhold til punkt 1 litra a-f skal ha det følgende søn- eller helgedagsdøgn fri i overensstemmelse med påbudet i punkt 1, første ledd.\nDepartementet​5 kan tillate lempning heri når det av praktiske grunner må anses særlig påkrevd.\n3. For arbeid etter punkt 1, litra g skal det finne sted et ukentlig skiftombytte etter en av tilsynet​6 godkjent skiftplan.\nSkiftombyttet skal foretas slik at arbeiderne, med en gjennomsnittlig arbeidstid av 45⅓ time pr. uke, så vidt mulig får søn- og helgedagsfritid som i punkt 2, første ledd anført og minst hver tredje søndag.\n1 Endret ved lover 18 juni 1938 nr. 13, 28 juli 1949 nr. 21. – Se § 51 nr. 2. Jfr. lov 24 april 1906 § 1 og lov 26 april 1947 nr. 1 § 3.\n2 Jfr. § 24.\n3 Se § 48.\n4 Se § 2.\n5 Kommunaldepartementet.\n6 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Spesiell tillatelse til søn- og helgedagsarbeid.",
+      "content": "1. Såfremt offentlige eller almene interesser eller andre hensyn gjør det særlig påkrevd, kan departementet​1 tillate søn- eller helgedagsarbeid i den utstrekning som det efter forholdene trenges.\nTillatelsen gjelder ikke tiden mellem kl. 15 julaften til 2. juledag kl. 22, fra kl. 15 onsdag i påskeuken til langfredag kl. 22 og fra kl. 15 dagen før påske- og pinsedag til 2. påske- og pinsedag kl. 22, medmindre den uttrykkelig omfatter også disse tidsrum.\nI påtrengende tilfelle kan tillatelse for en enkelt anledning gis av tilsynet.​2\n2. Arbeid som efter sin art eller i henhold til dispensasjon går hele døgnet, men ikke uken rundt, og arbeid på 2 dagskift i henhold til § 13 punkt 7 kan med departementets​1 samtykke være i gang til kl. 22 dagen før en søn- eller helgedag.\n1 Kommunaldepartementet.\n2 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Den almindelige arbeidstid.​1",
+      "content": "1.\na. En arbeiders​2 alminnelige arbeidstid må ikke være over 8 timer daglig og ikke over 48 timer uka.​3 Er den alminnelige arbeidstid på bestemte dager regelmessig kortere enn 8 timer, kan den de øvrige dager i samme uke forlenges tilsvarende, men høyst med 1 time.\nb. Den alminnelige arbeidstid for arbeidere​2 under dagen i gruver må ikke være over 40 timer uka,​3 regnet gjennomsnittlig i et tidsrom av 3 uker. Til arbeidstida regnes også faringstida.\nFaller det i en uke en eller flere helgedager utenom søndagen, gjelder for denne uke ikke bestemmelsen i § 15 punkt 1, første ledd om tidligere arbeidshvil dagen før søn- eller helgedager. På jul-, påske- og pinseaften skal dog arbeidet slutte senest kl. 15.\nSkulle gjennomføringa av disse bestemmelser helt eller for en vesentlig del gjøre drifta av en gruve umulig, kan Kongen, etter at Arbeidstilsynsrådets uttalelse er innhentet, tillate at arbeidstida, faringstida innregnet, blir forlenget opp til de grenser som er nevnt i punkt a.\n2. For arbeid av den art som er angitt i § 15 punkt 1 g, skal den alminnelige arbeidstid, etter skiftplan godkjent av tilsynet,​4 ikke være over 45⅓ time pr. uke i gjennomsnitt i løpet av skiftperioden. Ved godkjenningen av skiftplanen skal legges særlig vekt på det som flertallet av arbeiderne ønsker.\n3. Nødvendiggjør bedriftens eller arbeidets art en uregelmessig fordeling av arbeidstiden, kan den almindelige arbeidstid for bedriftens arbeidere eller grupper av arbeidere med departementets​5 samtykke ordnes således at den i løpet av høist 6 uker blir gjennemsnittlig 48 timer i uken. Før departementet treffer sin avgjørelse skal det være gitt vedkommende arbeidere​2 eller deres organisasjoner anledning til å uttale sig.\n4. Optrer i et yrke eller i en bedrift på grunn av årstiden, klimaet eller andre forhold til regelmessig tilbakevendende tider av året sterkt arbeidspress, kan den almindelige arbeidstid for vedkommende yrke eller bedrift med departementets​5 samtykke ordnes således at den i løpet av høist 1 år blir gjennemsnittlig 48 timer uken, men således at den almindelige arbeidstid ikke overstiger 10 timer daglig og 54 timer uken. Før departementet treffer sin avgjørelse skal det være gitt vedkommende arbeidere​2 eller deres organisasjoner anledning til å uttale sig.\n5. For anlegg, drift og vedlikehold av samferdselsmidler som drives av staten, herunder post-, telegraf- og telefontjeneste, kan Kongen fastsette en sådan arbeidsordning som nevnt i punkt 3 og 4 efterat det er gitt vedkommende tjenestemenns organisasjoner anledning til å forhandle om arbeidsordningen.\n1 Endret ved lov 28 juli 1949 nr. 21. – Se § 51 nr. 2.\n2 Se § 2.\n3 Jfr. § 24.\n4 Se kap. 7.\n5 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Spesielle arbeidstidsforhold.​1",
+      "content": "1. Når den jevne drift ikke kan gå sin gang uten at enkelte arbeidere​2 må begynne før eller slutte efter de andre arbeidere, kan den almindelige arbeidstid forlenges til høist 10 timer daglig for disse arbeidere.\nUtover den efter § 17, punkt 1 tillatte arbeidstid kan kunder ekspederes ferdig i op til ½ time.\n2. Medfører bedriftens eller arbeidets art at arbeidet for enkelte arbeidere​2 eller grupper av arbeidere blir avbrutt av perioder hvor intet eller litet arbeide blir ydet, men slik at vedkommende arbeidere i disse perioder ikke kan forlate arbeidsplassen, kan den almindelige arbeidstid utstrekkes til høist 10 timer daglig for disse arbeidere.\nTvist om hvorvidt et arbeide går inn under de foran nevnte undtagelser, avgjøres av Arbeidsrådet.​3\n3. For det farmasøitiske personale i apotek samt i andre tilfelle hvor tjenesten helt eller til dels består i at arbeideren må opholde sig i bedriften for i påkommende tilfelle å yde arbeid, men hvor han, bortsett fra kortvarige eller tilfeldige avbrytelser, er fritatt for arbeid eller plikt til å vise aktpågivenhet, kan departementet​4 tillate lempning i bestemmelsene om den almindelige arbeidstids lengde. For avgjørelse treffes, må Arbeidsrådets​3 uttalelse være innhentet.\n1 Endret ved lov 18 juni 1938 nr. 13. – Se § 61 nr. 2.\n2 Se § 2.\n3 Se § 48.\n4 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Overtidsarbeid.​1",
+      "content": "1. Varer arbeidet for nogen arbeider utover den tid som utgjør hans almindelige arbeidstid efter §§ 17 og 18, jfr. §§ 9 og 24, regnes arbeidet i den overskytende arbeidstid for overtidsarbeid.​2\nOvertidsarbeid må ikke finne sted uten i følgende særlige tilfeller:\na. når uforutsette hendelser eller forfall blandt arbeiderne har forstyrret eller truer med å forstyrre den jevne drift,\nb. når overtidsarbeid trenges for at ikke anlegg, maskiner og råstoffer eller produkter skal ta skade,\nc. når det er opstått uventet eller særlig arbeidspress,\nd. når offentlige eller almene interesser eller andre hensyn særlig krever det. Dog skal arbeidsgiveren om overtidsarbeid av sådan grunn anvendes og utøves lenger enn ett døgn, innhente tilsynets​3 samtykke,\ne. i statens transportbedrifter, når den overordnede tjenestemyndighet av hensyn til driftsforholdene anser bruk av overtidsarbeid for nødvendig. Bruk av overtidsarbeid skal i så fall skje efter de til enhver tid av statsmyndighetene fastsatte regler.\n2. For overtidsarbeid skal der betales et tillegg til den lønn som er avtalt for arbeiderens tilsvarende arbeid i hans almindelige arbeidstid. Tillegget skal være minst 25 procent.\nVed akkordarbeid beregnes tillegget på grunnlag av den for vedkommen de arbeider​4 fastsatte uke-, måneds- eller timelønn medmindre særskilt avtale er truffet.\n1 Se § 51 nr. 2.\n2 Jfr. § 20.\n3 Se kap. 7.\n4 Se § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "title": "Lengden av overtidsarbeid.",
+      "content": "1. Overtidsarbeid kan finne sted i op til 10 timer i uken.\nTilsynet​1 kan for en bestemt anledning eller for et tidsrum av ikke over 6 måneder om gangen samtykke i at overtidsarbeid for den enkelte arbeider​2 kan finne sted i op til 15 timer i uken.\n2. Overtidsarbeid må ikke i noget tilfelle utgjøre over 30 timer for nogen arbeider​3 i 4 på hverandre følgende uker.\n3. For bedrifter som på grunn av produktets art eller av andre grunner til enkelte tider av året har behov for en lengere arbeidstid, kan departementet​3 fastsette andre regler for overtidsarbeid enn i punkt 1 og 2 nevnt, men så at det samlede antall overtidstimer i kalenderåret ikke må bli større enn tillatt efter punkt 2.\n1 Se kap. 7.\n2 Se § 2.\n3 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "title": "Lønningslister.​1",
+      "content": "Lønningslister skal føres slik at omfanget av overtidsarbeidet for den enkelte arbeider kan sees. De skal være tilgjengelige for tilsynet.​2\n1 Se § 51 nr. 3.\n2 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "3:22",
+      "chapter": "3",
+      "section": "22",
+      "title": "Hvilepauser og ukentlig fritid.​1",
+      "content": "1. Er en arbeiders​2 daglige arbeidstid over 8 timer skal arbeidstiden deles med to hvilepauser på tilsammen minst ¾ time eller med en av samme lengde.\nTilsynet​3 kan tillate at hvilepausen forkortes til ½ time, når dette er avtalt mellem bedrift og dens arbeidere og må ansees for ubetenkelig.\nI hvilepausen må arbeiderne ikke opholde sig i arbeidsrummene med mindre driften i disse er helt innstillet eller tilsynet​3 har samtykket i det. Det må ikke tillates arbeiderne å arbeide i hvilepausene med mindre det gjelder uopsettelig arbeid av den art som er nevnt i § 24.\nBestemmelsen om hviletid kan med vedkommende regjeringsdepartements​4 tillatelse endres overensstemmende med virksomhetens krav. Arbeiderne bør i sådanne tilfeller skiftevis eller på annen måte så vidt mulig tilståes den lovbestemte hviletid.\n2. Den almindelige arbeidstid for arbeideren skal fordeles således at han hver uke har en sammenhengende fritid av minst 24 timer.​5 Fridagen bør så vidt mulig legges på søn- eller helgedag og gis samtidig for alle bedriftens arbeidere.\nFor arbeid som utføres efter godkjent skiftplan i henhold til § 15, punkt 3 eller i andre særlige tilfelle kan departementet fastsette en annen fordeling av den ukentlige hviletid, men slik at arbeideren i løpet av skiftperioden eller et annet nærmere fastsatt tidsrum får en sammenhengende fritid på gjennomsnittlig minst 24 timer i uken.\nDepartementet​4 kan tillate også annen lempning heri når det volder uforholdsmessige vanskeligheter å skaffe avløsning eller tjenesten krever ubetydelig arbeid.\n1 Endret ved lov 18 juni 1938 nr. 13. – Se § 51 nr. 2.\n2 Se § 2.\n3 Se kap. 7.\n4 Kommunaldepartementet.\n5 Jfr. § 24.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "3:23",
+      "chapter": "3",
+      "section": "23",
+      "title": "(Opphevet ved lov 14 nov 1947 nr. 3 § 20)",
+      "content": "§ 23.(Opphevet ved lov 14 nov 1947 nr. 3 § 20)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "3:24",
+      "chapter": "3",
+      "section": "24",
+      "title": "Undtagelse fra arbeidstidsbestemmelsene.",
+      "content": "Arbeid som på grunn av naturhendelser, ulykkeshændelser eller andre uforutseelige begivenheter må foretas for å awerge fare for eller skade på liv eller eiendom kan uten hensyn til bestemmelsene i § 13, første ledd og § 15, punkt 1, første ledd foretas til enhver tid av døgnet. Innen de første fire døgn gjelder ikke begrensningen i § 17, punkt 1 og § 22, punkt 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "title": "Barselkvinner.​1",
+      "content": "1. Kvinne kan med minst 3 dagers varsel kreve å være arbeidsfri i de siste 6 uker for hun efter attest fra læge eller jordmor venter barn. Hun bør være arbeidsfri de første 6 uker efter fødselen. Hvis hun ved lægeattest godtgjer at hun lider av sykdom som er en følge av svangerskap eller fødsel, kan hun kreve å være arbeidsfri i inntil ytterligere 6 uker.\n2. Kvinne som er fraværende fra sitt arbeide i henhold til bestemmelsene i punkt 1 må ikke sies op når arbeidsgiveren er på det rene med at hennes fravær skyldes disse grunner eller hun uten ophold underretter ham om at dette er grunnen til hennes fravær. Er hun allerede sagt op til et tidspunkt som faller innenfor det i punkt 1 nevnte tidsrum, er opsigelsen gyldig, men opsigelsesfristen forlenges med dette tidsrum\nEr arbeidsavtalen inngått for et bestemt arbeide av forbigående art, kommer bestemmelsen ikke til anvendelse når arbeidet er avsluttet før hun på ny møter frem til arbeidet.\n3. Kommer kvinne i trang i den tid hun ifølge bestemmelsene i punkt 1 er fraværende fra sitt arbeid, kan hun kreve hjelp av det offentlige efter den til enhver tid gjeldende lovgivning herom. Hjelpen skal ikke regnes som forsorgshjelp.​2\n4. Kvinne som ammer sitt barn, kan kreve den frihet som hun av den grunn trenger og minst ½ time to ganger daglig.\n1 Se § 51 nr. 2. Jfr. lov 6 juni 1930 nr. 18 § 13 post 7.\n2 Jfr. lover 19 mai 1900 nr. 1 kap. 2 og 10 april 1915 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Barn og ungdom.",
+      "content": "Denne lov mener med:\n1. Barn – enhver som ikke har fylt 15 år, eller som er skolepliktig efter folkeskolelovene.​1\n2. Ungdom – enhver i alderen mellem 15 og 18 år som ikke er skolepligtig efter folkeskolelovene.​1\n1 Se lover 16 juli 1936 nr. 8 § 12 og nr. 9 § 13, 8 nov. 1946 nr. 1 § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Barnearbeid.​1",
+      "content": "1. Barn​2 må ikke brukes til arbeid i bedrift som går inn under bestemmelsene i kap. 3. For de i § 12 nevnte bedrifter kan departementet​3 bestemme hvorvidt og på hvilke vilkår barn skal kunne brukes.\n2. Barn​2 over 12 år kan sysselsettes med tørring av torv og fisketørring i fri luft, ombringelse av varer og budtjeneste i den utstrekning som omsynet for deres helse, skolegang og moral gjør forsvarlig og for øvrig på slike vilkår som departementet​3 måtte fastsette.\n1 Se § 51 nr. 2.\n2 Se § 26.\n3 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Arbeid av ungdom.​1",
+      "content": "Ungdom​2 må ikke anvendes til å passe dampkjeler eller maskiner hvis betjening krever særlig forsiktighet.\nFor bedrift eller arbeid som finnes å være særlig anstrengende eller farlig for ungdoms liv og helse eller når andre grunner tilsier det, kan Kongen påby at særlige foranstaltninger skal treffes, jfr. § 9, såsom at den unge arbeiders helse og kroppsutvikling skal undersøkes av læge før han begynner å arbeide, at hans samlede arbeids- og skoletid, om han søker teknisk eller faglig aftenskole, ikke må overskride et visst antall timer daglig eller at det skal være helt forbudt at ungdom sysselsettes.\nVed bergverk og stenbrudd må ungdom ikke anvendes til arbeid under jorden\n1 Se § 51 nr. 2.\n2 Se § 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Nattarbeid av ungdom.​1",
+      "content": "1. I industriell bedrift, anleggs- og bygningsarbeid må ungdom​2 ikke anvendes til arbeid mellem kl. 21 og kl. 6 med undtagelse av det i § 13 punkt 2 og 7 nevnte arbeid forsåvidt angår arbeidere​3 over 16 år, eller i den tid som efter § 15 punkt 1. første ledd er bestemt for søn- og helgedagshvil, såfremt arbeidet ikke er av den art som nevnt i § 15 punkt 1 litr. b, eller særlige begivenheter av den art som er nevnt i § 24 gjør det bydende nødvendig.\nHvis hensyn til den unge arbeiders oplæring i et yrke tilsier det, kan departementet​4 tillate at ungdom over 16 år settes til nattarbeid eller søn- og helgedags- arbeid på de vilkår som omsynet for den unge arbeiders helse gjør forsvarlig.\n2. Kongen kan bestemme at denne paragraf skal gjelde også for andre bedrifter enn dem som er nevnt i punkt 1.\n1 Se § 51 nr. 2.\n2 Se § 20.\n3 Se § 2.\n4 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "title": "Lengden av arbeidstiden for barn og ungdom.​1",
+      "content": "I bedrift som går inn under bestemmelsene i kapitel 3 må barn og ungdoms​2 almindelige arbeidstid ikke være lengere enn nevnt i § 17 punkt 1. Den i § 17 punkt 2-4 nevnte omlegning av arbeidstiden kan ikke anvendes på ungdom uten departementets​3 tillatelse i hvert enkelt tilfelle. Ungdom må ikke settes til forlenget almindelig arbeidstid (§ 18). Barn og ungdom må ikke settes til overtidsarbeid.\nArbeidstiden for barn og ungdom skal legges slik at den ikke hindrer skolegang som de trenger for sin utdannelse.\n1 Se § 51 nr. 2.\n2 Se § 26.\n3 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "5:31",
+      "chapter": "5",
+      "section": "31",
+      "title": "Liste over barn og ungdom.​1",
+      "content": "Departementet kan bestemme at arbeidsgiver skal føre liste over barn og ungdom som han har i arbeid.​2\n1 Se § 51 nr. 3.\n2 Regler herom er gitt 25. jan. 1949.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "title": "Arbeidslønn.​1",
+      "content": "1. Arbeidslønnen skal betales i gangbare kontante penger, såfremt ikke betaling i check eller bankanvisning er avtalt. Den skal betales på eller ved arbeidsstedet i arbeidstiden eller snarest mulig efter endt arbeidstid.\nEr time-, dag- eller ukelønn avtalt, skal utbetalingen skje minst en gang om uken. For akkordarbeid kan opgjøret utsettes til arbeidet er ferdig, men således at der hver uke skal betales et passende forskudd for det arbeid som er gjort. Andre opgjørsfrister kan fastsettes ved avtale.\nFor måneds- eller årslønnede arbeidere skal utbetaling skje minst to ganger i måneden, hvis ikke annet avtales.\n2. Fradrag i lønn må ikke gjøres uten skriftlig avtale, undtagen når det er hjemlet i lov​2 eller det gjelder reglementerte innskudd i pensjons- og sykekasser,​3 eller erstatning for skade som arbeideren har voldt forsettlig eller ved grov uaktsomhet.\n3. Ved avlønningen eller straks efter denne kan arbeideren kreve skriftlig opgave over lønnens størrelse, beregningsmåte og mulige fradrag.\n1 Se §§ 51 nr. 4 og 58, lov 31 mai 1912 § 1 nr. 1, f.\n2 Se lover 18 aug. 1911 nr. 8 § 114 og nr. 9 § 106, 10 april 1915 nr. 3 § 27 og nr. 6 § 6 (jfr. lover 31 mai 1918 nr. 2 § 58 og 20 mai 1927 nr. 1 § 5).\n3 Se lov 6 juni 1930 nr. 18 § 34 post 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "title": "Opsigelse.​1",
+      "content": "1. Såfremt ikke noget annet er avtalt skriftlig eller fastsatt i reglement, skal opsigelse kunne finne sted:\na. for arbeider​2 med time-, dag-, ukelønn eller stykkbetaling med minst 14 dagers varsel,\nb. for arbeider​2 med måneds- eller årslønn til slutten av en kalendermåned med minst en måneds varsel.\nFristen skal være like lang for begge parter.\nBestemmelsen i dette avsnitt gjelder ikke for arbeider som uttrykkelig er antatt på prøve eller til utførelse av et bestemt arbeid av forbigående art.\n2. Arbeider​2 som efter å ha fylt 25 år i minst 5 år har vært ansatt i samme bedrift, må ikke sies op med kortere varsel enn en måned ved slutten av en kalendermåned.\nOpsigelsesfristen skal være gjensidig og gjelder ikke arbeidsopsigelse efter lov om arbeidstvister av 5 mai 1927.\n3.\na. Blir en arbeider​2 som efter sitt fylte 21 år har minst 3 års sammenhengende ansettelse ved samme bedrift, opsagt fra denne stilling uten at opsigelsen har saklig grunn i bedriftsinnehaverens, arbeiderens eller bedriftens forhold, men skyldes helt utenforliggende grunner, kan han kreve erstatning av arbeidsgiveren. Erstatning kan dog ikke kreves hvis opsigelsen skyldes press fra bedriftens øvrige arbeidere eller fra en organisasjon, når arbeidsgiveren har hatt grunn til å tro at han ellers vilde påføres tap eller skade.\nb. Ved fastsettelsen av erstatningens størrelse, som ikke må overstige ½ av arbeiderens sist oppebårne årsfortjeneste, skal det tas hensyn til arbeiderens tapte fortjeneste, tjenestetid, lønn, utsikt til nytt eller annet arbeid, arbeiderens eget forhold og i øvrig til omstendigheter som det finnes rimelig og billig å ta i betraktning. Tilbakekalles opsigelsen, bortfaller erstatningen fra den tid arbeidsforholdet kan gjenoptas.\nc. Søksmål mot arbeidsgiveren må reises​3 innen 4 uker fra mottatt opsigelse.\nd. Nærværende bestemmelser kommer ikke til anvendelse på arbeidsopsigelse efter lov om arbeidstvister av 5 mai 1927. Det samme gjelder hvis en bedrift I har innført pensjonsordning for sine arbeidere og opsigelsen finner sted når retten til pensjon er inntrådt.\n4. Nødvendiggjør ulykker, naturomstendigheter eller andre uforutseelige hendelser at driften helt eller delvis må innstilles, faller opsigelsesfristen bort overfor arbeidere ved det arbeid som er innstillet. Opsigelsesfristen faller ikke bort ved arbeidsgiverens død eller konkurs og heller ikke ved arbeidsstans, som uten arbeidernes skyld er foranlediget ved, at arbeidsrum, maskiner, redskap eller arbeidsmaterialer, som arbeidsgiveren skal stille til rådighet, ikke kan brukes.\n5. Bestemmelsene i denne paragraf er ikke til hinder for at arbeider kan avskjediges uten opsigelsesfrist efter gjeldende rettsregler eller i henhold til reglement.\n6. Bestemmelsene i denne paragraf gjelder ikke for dem som går inn under lov om offentlige tjenestemenn av 15 februar 1918.\n1 Endret ved lov 18 juni 1938 nr. 13. – Se strl. § 410, lov 29 mars 1940.\n2 Se § 2.\n3 Se rettergangsl. §§ 63 og 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "title": "Arbeidsreglement.​1",
+      "content": "I industriell bedrift, handels- og kontorbedrift skal arbeidsgiveren, i samråd med 5 av arbeiderne​2 valgte representanter,​3 for de arbeidere som ikke har en ledende eller kontrollerende stilling, utarbeide et arbeidsreglement, når bedriften sysselsetter over 10 arbeidere eller når tilsynet​4 uten hensyn til arbeiderantallet finner grunn til å påby det. Reglementet skal inneholde de ordensregler som trenges, regler for arbeidsordningen, vilkår for ansettelse, opsigelse og avskjed og bestemmelse om utbetaling av lønninger. I arbeidsreglementet kan ikke fastsettes bøter for forseelser mot reglementet.​5 I Departementet​6 kan bestemme at arbeidsreglement skal utarbeides i andre bedrifter og for andre arbeidere enn nevnt foran.\n1 Se § 51 nr. 3.\n2 Se § 2.\n3 Se § 35.\n4 Se kap. 7.\n5 Jfr. lov 31 mai 1918 nr. 4 § 36.\n6 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "title": "Arbeidernes deltagelse i utarbeidelse av arbeidsreglement.",
+      "content": "Bedriftens arbeidere​1 over 18 år skal velge de i § 34 nevnte 5 representanter som må være over 21 år til på de øvriges vegne å forhandle med bedriften om reglementets bestemmelser.\nHvis arbeiderne fremsetter avvikende forslag til arbeidsreglement, skal dette vedlegges når reglementet blir sendt inn til godkjennelse.\nUndlater arbeiderne å velge representanter til å forhandle med bedriften om arbeidsreglementets oprettelse, skal arbeidsgiveren oplyse herom når han sender reglementet I til godkjennelse.\n1 Se § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "6:36",
+      "chapter": "6",
+      "section": "36",
+      "title": "Frist for innsendelse av arbeidsreglement.​1",
+      "content": "Innehaver av bedrift av den art og størrelse som er nevnt i § 34 skal innen 6 uker efter at loven er trådt i kraft eller efter at bedriften er satt i gang sende utkast til arbeidsreglement til tilsynet,​2 såfremt bedriften ikke tidligere har arbeidsreglement som er godkjent.\nHvis der i de foreliggende reglementer finnes bestemmelser som strider mot denne lov blir de forsåvidt å forandre.\nNår tilsynet forlanger at arbeidsreglement skal utarbeides i henhold til bestemmelsen i § 34, skal utkastet innsendes innen 4 uker fra den dag kravet er fremsatt.\n1 Se § 51 nr. 3.\n2 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "6:37",
+      "chapter": "6",
+      "section": "37",
+      "title": "Godkjennelse av arbeidsreglement.",
+      "content": "Tilsynet skal med sin uttalelse snarest mulig sende arbeidsreglementet til Arbeidsrådet​1 til godkjennelse. Denne kan bare meddeles såfremt arbeidsreglementet er istandbragt på lovlig måte og ikke strider mot loven eller inneholder bestemmelser som er ubillige overfor arbeiderne.\n1 Se § 48.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "6:38",
+      "chapter": "6",
+      "section": "38",
+      "title": "Forandring i arbeidsreglement.",
+      "content": "Når der ønskes forandringer i eller tillegg til et godkjent arbeidsreglement, skal reglene i §§ 34, 35 og 37 følges.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "6:39",
+      "chapter": "6",
+      "section": "39",
+      "title": "Opslag.​1",
+      "content": "De forskrifter og bestemmelser som er gitt i henhold til denne lov og som vedkommer bedriften skal være opslått i lett leselig form på ett eller flere iøinefallende steder i bedriften.\nDet samme gjelder reglene om arbeids- og hviletid ved bedriften, de dispensasjoner som måtte være gitt og arbeidsreglementet når sådant skal være utarbeidet i henhold til § 34. Et eksemplar av arbeidsreglementet skal leveres til hver arbeider​2 som det vedkommer.\n1 Se § 51 nr. 3.\n2 Se § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "6:40",
+      "chapter": "6",
+      "section": "40",
+      "title": "Lovbestemmelsenes ufravikelighet.",
+      "content": "Arbeider​1 kan ikke i videre omfang enn loven uttrykkelig hjemler,​2 rettsgyldig vedta fravikelser fra lovens bud.\n1 Se § 2.\n2 Se §§ 23, 5te ledd, 32 og 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "7:41",
+      "chapter": "7",
+      "section": "41",
+      "title": "Statens arbeidstilsyn.",
+      "content": "1. Tilsynet med at bestemmelsene i denne lov overholdes skal utføres av Statens arbeidstilsyn og stedlige arbeidsnevnder. For transportbedrift som drives av staten, herunder post-, telegraf- og telefonverket, kan Kongen bestemme hvordan tilsynet skal ordnes.​1\n2. Statens arbeidstilsyn er chefinspektøren, inspektører, tilsynsmenn og assistenter. Stillingene kan besettes med såvel kvinner som menn. Som inspektører og assistenter skal ansettes både kvinner og menn.\nTilsynet med bergverksdrift og med bergverk likeartede bedrifter kan Kongen legge under bergvesenets tjenestemenn som arbeidsinspektører. I bedrift som går inn under denne lov, utføres tilsynet med de ildsfarlige gjenstander som omfattes av ildsfarlighetsloven, av den inspektør som er nevnt i sistnevnte lov.​2\nFor enkelt leilighet og i særlige tilfeller kan departementet​3 anta andre sakkyndige til å foreta inspeksjon.\n3. Chefinspektøren og inspektørene ansettes av Kongen, de øvrige tjenestemenn av departementet. Kongen bestemmer hvilke særlige kunnskaper der skal kreves for ansettelse i de forskjellige stillinger i arbeidstilsynet.\n4. De nærmere bestemmelser om tilsynets organisasjon og virksomhet gis av Kongen. Kongen kan også gi nærmere bestemmelser om forholdet mellem arbeidstilsynet og andre tilsynsmyndigheter.\n1 Se res. 18 nov. 1938\n2 Se lov 31 mai 1871 § 26.\n3 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "7:42",
+      "chapter": "7",
+      "section": "42",
+      "title": "Det stedlige tilsyn.​2",
+      "content": "1. I hver kommune skal det være stedlig arbeidstilsyn ved en eller flere nemnder som hver skal ha minst 3 medlemmer med personlige varamenn.\n2. Tilsynets medlemmer med varamenn velges av kommunestyret for den kommunale valgperioden.​3\nI hver nemnd skal det være minst en arbeider.​4 Minst ett av medlemmene skal være kvinne. Ved valget bør has for øye at iallfall en av de valgte har kjennskap til maskiner og deres bruk og at tilsynet har medlemmer med kyndighet i de viktigste deler av arbeidslivet i kommunen. Som regel bør en læge antas som medlem. Blant medlemmene velger kommunestyret formannen og nestformannen.\nMinst en måned før valget skal kommunestyret kunngjøre hvor mange av medlemmene skal være arbeidere, og rette en oppfordring til de arbeidere som er sysselsatt ved bedrifter innen kommunen om å sende forslag om arbeidermedlemmer med varamenn.\n3. Den som har vært medlem i fire år kan unnslå seg for gjenvalg for de neste fire år.\n4. Har en nemnd under 6 medlemmer, kreves for vedtaksført møte at minst 3 medlemmer er til stede, ellers må minst to tredjedeler være til stede. Vedtak fattes med simpelt flertall. Formannens stemme gjør utslaget i tilfelle stemmelikhet.\nDispensasjonsrett som blir lagt til det stedlige tilsyn, kan i påtrengende tilfelle foreløpig utøves av formannen. Han skal snarest mulig forelegge saka fram i nemnda.\n1 Endret ved lov 3 des. 1948 nr. 2.\n2 Se lov 27 juni 1947 nr. 9 § 36\n3 Se lov 10 juli 1925 nr. 6 § 12.\n4 Se § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "7:43",
+      "chapter": "7",
+      "section": "43",
+      "title": "Tilsynets beslutninger og forandringer i disse.",
+      "content": "1. Tilsynet gir de almindelige og spesielle bestemmelser, henstillinger og pålegg som trenges til gjennemførelse av loven.\nPåleggene skal gis skriftlig og såfremt det gjelder forandringer eller utbedringer til forebyggelse av arbeidsulykker og sikring av sunde arbeidsvilkår, skal der settes en passende frist innen hvilken pålegget skal være utført. Når overhengende fare tilsier det kan tilsynet forlange at de nødvendige foranstaltninger blir iverksatt med en gang.\nHvis et pålegg ikke efterkommes og tilsynet setter ny frist for dets utførelse og denne oversittes, kan tilsynet la bedriften helt eller delvis stanse inntil det påklagede forhold er rettet.\n2. Dispensasjon fra lovens bestemmelser skal for å være gyldig avfattes skriftlig eller ved telegram.\n3. Tilsynets lovlig fattede beslutninger kan bare forandres eller opheves av tilsynet eller departementet.​1\n1 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "7:44",
+      "chapter": "7",
+      "section": "44",
+      "title": "Tilsynets adgang til bedriften.",
+      "content": "Arbeidsrådets medlemmer, tilsynet og de sakkyndige som er antatt efter bestemmelsen i § 41, punkt 2 eller tilkalt efter bestemmelsen i § 48 skal til enhver tid ha adgang​1 til hvert arbeidssted som går inn under loven eller som det er spørsmål om å bringe inn under den. Det samme gjelder for det i § 6, punkt 1 nevnte husvær. Kreves det, skal vedkommende legitimere sig.\nArbeidsgiver, arbeider​2 og enhver annen som er knyttet til bedriften, er forpliktet j til å gi alle de oplysninger som anses påkrevd for utøvelsen av tilsynet.​3\n1 Se strl. i 326.\n2 Se § 2.\n3 Se § 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "7:45",
+      "chapter": "7",
+      "section": "45",
+      "title": "Inspeksjonsbok.",
+      "content": "Tilsynet kan pålegge bedrift å holde inspeksjonsbok. Departementet kan gi del nærmere bestemmelser om hvordan boken skal innrettes, føres og opbevares.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "7:46",
+      "chapter": "7",
+      "section": "46",
+      "title": "Taushetsplikt.​1",
+      "content": "Arbeidsrådets medlemmer, tilsynet og sakkyndige skal såfremt ikke hans tjenesteplikt krever noget annet, bevare taushet om de drifts- og forretningsforhold som de under sitt arbeid er blitt kjent med, og de skal uten bedriftens samtykke holde sig fra å efterligne bedriftens innretninger og fremgangsmåter.\nNår der til arbeidsrådet eller tilsynet skjer anmeldelse av noget forhold som strider mot loven, skal anmelderens navn hemmeligholdes, hvis han ikke uttrykkelig samtykker i å navngis eller anmeldelsen viser sig å være ugrunnet.\n1 Se strl. §§ 121 og 294 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "7:47",
+      "chapter": "7",
+      "section": "47",
+      "title": "Tilsynets forhold til bedriften.​1",
+      "content": "1. Tjenestemenn i Statens arbeidstilsyn må ikke for egen eller fremmed regning drive eller ha betydelig økonomisk interesse eller ansettelse i bedrift som er underlagt deres tilsyn, og de må heller ikke ta imot opdrag fra sådan bedrift mot godtgjørelse. I særlige tilfeller og når det skjønnes å være uten skade for tjenestens utførelse, kan departementet​2 gjøre undtagelser fra forbudet.\n2. Arbeidsgiver eller drifts- eller arbeidsleder må som medlem av arbeidsrådet eller arbeidsnevnd ikke ta del i undersøkelser eller tilsynsvirksomheten når det gjelder bedrift som han selv driver, har betydelig økonomisk interesse eller ansettelse i, eller når det gjelder bedrift av samme art som hans egen. Arbeider må som medlem av arbeidsrådet eller arbeidsnevnd ikke ta del i undersøkelser eller tilsynsvirksomhet når det gjelder den bedrift han arbeider ved, med mindre departementet samtykker i det.\n1 Se strl. § 325 nr. 2.\n2 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "7:48",
+      "chapter": "7",
+      "section": "48",
+      "title": "Arbeidsrådet.​1",
+      "content": "Arbeidsrådet skal ha 5 medlemmer. Rådets formann og varaformann skal ha juridisk utdannelse og opnevnes av Kongen for fem år. Av de fire øvrige medlemmer med varamenn, hvorav to skal være arbeidsgivere og to arbeidere,​2 opnevnes en arbeidsgiver og en arbeider av departementet, resten av Stortinget. Funksjonstiden for disse medlemmer er tre år. Chefinspektøren for arbeidstilsynet deltar i rådets forhandlinger men uten stemmerett. Rådet kan for enkelte leiligheter tilkalle spesielle sakkyndige.\nArbeidsrådet har, foruten utføre de hverv som er pålagt det i denne lov, å fungere som rådgiver for departementet.​3\nDe nærmere bestemmelser om arbeidsrådets virksomhet gis av departementet.\n1 Skal iflg. lov 27 juni 1947 nr. 9 § 36 hete «Arbeidstilsynsrådet», jfr. også lover 3 des. 1948 nr. 4 § 24, nr. 5\n2 Se § 2.\n3 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "7:49",
+      "chapter": "7",
+      "section": "49",
+      "title": "Avgiftsplikt.",
+      "content": "1. Bedrift som går inn under denne lov, og som er trygdepliktig efter lovgivningen om ulykkestrygd for industriarbeidere m.v.,​1 skal betale til statskassen en årlig tilsynsavgift efter regler som Kongen fastsetter. Avgiften kan inndrives ved utpantning.​2\nKongen kan bestemme at bedrift som går inn under denne lov, men ikke omfattes av loven om ulykkestrygd skal betale en tilsvarende tilsynsavgift, og kan fastsette regler om innkrevning av denne.\n2. Til dekning av de utgifter som er forbundet med undersøkelser og prøver av kjeler, beholdere og rørledninger som er utsatt for damptrykk, skal eieren eller brukeren betale en avgift efter regler som Kongen fastsetter. Avgiften kan inndrives ved utpantning.​2\nPå samme vis kan det pålegges avgift til dekning av utgiftene til det eftersyn som måtte bli påbudt med hjemmel i § 7, punkt 2.\n1 Se lov 24 juni 1931 nr. 6.\n2 Se tvangsfullbl. kap. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "7:50",
+      "chapter": "7",
+      "section": "50",
+      "title": "Utgiftene ved det stedlige tilsyn (arbeidsnevndene.)",
+      "content": "Utgiftene ved arbeidsnevndens virksomhet bæres av kommunen, undtagen forsåvidt angår den skyss- og kostgodtgjørelse som måtte tilkomme nevndens formann. Denne godtgjørelse utredes av statskassen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "8:51",
+      "chapter": "8",
+      "section": "51",
+      "content": "Såfremt ikke strengere straffebud efter den almindelige straffelov blir å bruke, straffes en arbeidsgiver​1 eller innehaver av bedrift med bøter,​2 når han:\n1. overtrer lovens bestemmelser om forebyggelse av arbeidsulykker og sikring av sunde arbeidsvilkår eller de i medhold av disse bestemmelser utferdigede forskrifter, reglement eller pålegg,\n2. overtrer lovens bestemmelser eller de i medhold av disse bestemmelser utferdigede forskrifter om natt-, søn- eller helgedagsarbeid, eller om arbeidstidens lengde eller om hvile- og fritid eller om særvern av kvinner, barn og ungdom,\n3. undlater å gjøre de i loven påbudte anmeldelser eller opslag, eller å føre de i loven påbudte lister eller å istandbringe arbeidsreglement,\n4. overtrer bestemmelsene i § 32 om opgjør med arbeiderne.​3\n1 Se § 52.\n2 Se strl. § 27.\n3 Se § 58.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "8:52",
+      "chapter": "8",
+      "section": "52",
+      "content": "Det som i loven er bestemt om arbeidsgiveren skal også gjelde for den som i arbeidsgiverens sted leder bedriften.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "8:53",
+      "chapter": "8",
+      "section": "53",
+      "content": "Såfremt ikke strengere straffebud efter den almindelige straffelov blir å bruke, straffes en arbeider​1 med bøter​2 når han gjør sig skyldig i nogen forseelse av den art som er nevnt i § 51, punkt 1.\n1 Se § 2.\n2 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "8:54",
+      "chapter": "8",
+      "section": "54",
+      "content": "Foreldre og foresatte som lar barn utføre arbeid i strid med denne lov,​1 straffes med bøter.​2\n1 Se kap. 6.\n2 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "8:55",
+      "chapter": "8",
+      "section": "55",
+      "content": "Såfremt ikke strengere straffebud efter den almindelige straffelov​1 blir å bruke, straffes med bøter​2 den som fjerner eller forsettlig eller ved grov uaktsomhet ødelegger påbudte sikringsdeler.\nPå samme måte straffes eier eller bruker av maskiner og andre tekniske innretninger, som overtrer de i denne lov eller med hjemmel i loven utferdigede forskrifter eller pålegg om forebyggelse av ulykker ved den slags maskiner og innretninger,og den som tilvirker, forhandler eller monterer maskineri av den art som er nevnt i § 8 uten de av tilsynet påbudte sikringsdeler.\n1 Se strl. §§ 291, 352 og 391.\n2 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "8:56",
+      "chapter": "8",
+      "section": "56",
+      "content": "Såfremt ikke strengere straffebud efter den almindelige straffelov blir å bruke,​1 straffes med bøter​2 den som legger hindringer i veien for arbeidsrådets eller tilsynets undersøkelser, eller undlader å yde den bistand som han plikter, eller å gi de oplysning som ansees påkrevd for utførelsen av tilsynet.\n1 Se navnlig strl. § 326.\n2 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "8:57",
+      "chapter": "8",
+      "section": "57",
+      "content": "Enhver som er knyttet til arbeidsrådet og arbeidstilsynet, er overfor den almindelige straffelov å regne for offentlig tjenestemann.​1\n1 Se strl. kap. 11 og 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    },
+    {
+      "provision_ref": "8:58",
+      "chapter": "8",
+      "section": "58",
+      "content": "Påtalen for forseelser mot denne lov er offentlig, men forseelser mot § 32 påtales ikke uten efter begjæring fra fornærmede.\nKapitel 9. I krafttredelses- og overgangsbestemmelser",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_58",
+        "source_heading": "§ 58."
+      }
+    },
+    {
+      "provision_ref": "8:59",
+      "chapter": "8",
+      "section": "59",
+      "content": "1. Denne lov trer i kraft den 1 januar 1937.\n2. Fra den dag denne lov trer i kraft opheves lov av 18 september 1915 om arbeiderbeskyttelse i industrielle virksomheter med forandringer og tillegg av 11 juli 1919 og 29 mai 1925, dog skal de i henhold til denne lovs §§ 3, 9, 17 og 18 utferdigede forskrifter og bestemmelser bli gjeldende inntil videre. likeledes opheves § 60 i lov av 14 juli 1842 om bergverksdriften.\n3. Bestemmelser i en tariffavtale som er inngått før denne lovs ikrafttreden og sin fastsetter en lengere arbeidstid eller en mindre betaling for overtidsarbeid enn bestemt efter denne lov, skal forbli gjeldende inntil avtalens gyldighetstid er utløpet, dog ikke utover 31 desember 1938.\n4. Bestemmelsene i kapitel 3 skal ikke gjelde for bedrifter for syke- og pleiehjelp før fra den tid Kongen bestemmer. Dog skal nevnte kapitel være gjort gjeldende for alle disse bedrifter senest innen 1 juli 1939.\n1 Endret ved lov 18 juni 1938 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_59",
+        "source_heading": "§ 59."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Bedrifter som går inn under loven.",
+      "content": "1. Såframt ikke annet uttrykkelig er sagt i lovens etterfølgende paragrafer,​2 gjelder denne lov hver bedrift som sysselsetter arbeider​3 eller som bruker mekanisk drivkraft på over 1 hestekraft.\nUndtatt er:\na. sjøfart,​4 fangst og fiske, herunder bearbeiding av fangsten ombord i skip,\nb. luftfart,\nc. jordbruk og annen virksomhet som går inn under mellombels lov om arbeidsvilkår for arbeidarar i jordbruket,​5\nd. den offentlige forvaltning.\nHvorvidt en virksomhet som drives av det offentlige er forvaltning, avgjøres av Kongen.\n2. Kongen kan bestemme at maskiner og andre tekniske innretninger og anlegg skal undergis tilsyn efter denne lov, selv om de ikke anvendes i bedrift som går inn under loven.\n1 Endret ved lov 3 des 1948 nr. 2.\n2 Se 5 12.\n3 Se § 2.\n4 Jfr. lov 10 mars 1939 nr. 5.\n5 Lov 3 des. 1948 nr. 4. – Jfr. lov s.d. nr. 5 § 1, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Hvad loven mener med arbeider.​1",
+      "content": "Med arbeider mener denne lov enhver som utenfor sitt hjem utfører arbeid i annen manns tjeneste.\nDrives en bedrift av flere i fellesskap for egen regning, ansees bare en av disse som arbeidsgiver efter denne lov, mens de øvrige blir å anse som arbeidere. Hvem der blir å betrakte som arbeidsgiver skal straks meldes til tilsynet.\n1 Jfr. lov 23 juli 1920 nr. 3 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Meldeplikt for bedrift.",
+      "content": "Hver bedrift som går inn under denne lov skal​1 innen 14 dager efter at loven er trådt i kraft eller efter at bedriften er satt i gang, skriftlig meldes til tilsynet. Jfr. kap. 7.\nMeldingen skal gi oplysning om bedriftens art, drivkraftens art og størrelse og om antall arbeidere.​2\nUndtatt fra denne meldeplikt er dog de bedrifter som tidligere er anmeldt til fabrikktilsynet og de bedrifter hvor bestemmelsene i kapitel 3 ikke gjelder.\nDepartementet​3 kan bestemme at meldeplikt også skal gjelde for de sistnevnte bedrifter.\n1 Se § 51 nr. 3\n2 Se § 2.\n3 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Avgjørelse av om en virksomhet går inn under loven.",
+      "content": "Tvist om en virksomhet eller et arbeid går inn under bestemmelsene i §§ 1, 2 og 3 avgjøres, hvor intet annet er bestemt, av Arbeidsrådet. Jfr. § 48.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Tilsynets uttalelse om plan for anlegg m.v. av bedrift.​1",
+      "content": "Den som vil anlegge, begynne eller omdanne bedrift som kan antas å gå inn under loven, er berettiget til, når han underretter tilsynet​2 om driftens art og forelegger planen for anlegget og dets anordning, å få tilsynets uttalelse om det av hensyn til denne lovs bestemmelser har noget å innvende mot gjennemførelsen av planen.\n1 Jfr. lover 6 juni 1891 nr. 5 § 1 og 22 feb 1924 nr. 2 §§ 123, 131 og 132.\n2 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Vern mot ulykker m.v.​1",
+      "content": "1. Arbeidsgiver skal sørge for at bedriften er således innrettet og vedlikeholdt og at arbeidet er ordnet og blir utført på sådan måte at arbeiderne​2 er vernet mot skade på liv og helse så godt og hensiktsmessig som det efter forholdene lar sig gjøre.\nHan skal sørge for at arbeiderne blir gjort opmerksom på de farer som måtte være forbundet med arbeidet, og at de får veiledning om hvordan faren kan undgåes.\nHvad foran er sagt om bedriftens innretning og vedlikehold skal også gjelde for det husvær som bedriften stiller til arbeidernes forføining.\nArbeiderne skal vise varsomhet og ellers på enhver måte gjøre sitt til at skade på liv og helse kan undgåes.\nBåde arbeidsgiver og arbeider skal sørge for at der råder orden, sømmelighet og gode seder i bedriften.\n2. Arbeidsgiveren skal særlig ha for øie at der i arbeidsrum er gode lysforhold, nok luft og høvelig luftskifte, at luften så vidt mulig er passelig varm, fri for støv, ond lukt, gass eller damp og at arbeidsrummene holdes rene. Maskiner, apparater, redskaper og transportmidler av alle slags skal være forsvarlig utført, vedlikeholdt og passet. Der skal treffes foranstaltninger for å trygge arbeiderne mot ildsfare.​3 Arbeidsgiveren skal sørge for at der på eller i nærheten av arbeidsstedet finnes drikke- og vaskevann og at der, om det trenges, finnes opvarmet spiserum og særskilt rum til å skifte og opbevare klær i. Der skal være et passende antall klosetter. Forsåvidt bedriftens art og størrelse tilsier det, skal der være adgang for arbeiderne til å få bad, og der skal være truffet sådanne foranstaltninger at en første foreløbig ulykkeshjelp kan bli ydet.\n1 Se § 51 nr. 1 og § 53.\n2 Se § 2.\n3 Jfr. lov 19 nov. 1954 § 49 og lov 6 juni 1891 nr. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Kjeler, beholdere og rørledninger.​1",
+      "content": "1. Kjeler, beholdere og rørledninger som er utsatt for damptrykk, skal være forsvarlig forarbeidet, utstyrt, opstillet og vedlikeholdt. De må ikke tas i bruk før tilsynet​2 har gitt sitt samtykke. De skal anmeldes, undersøkes og eftersees på den måte som Kongen bestemmer.\nEieren plikter å foreta de for disse undersøkelser forskriftsmessige forberedelser og for øvrig yde den nødvendige hjelp.\nTilsynet kan kreve at den som er ansvarlig for kjelens behandling skal ha et av tilsynet godkjent vidnesbyrd om at han har den kyndighet som trenges. Kongen kan bestemme at den som er ansvarlig for kjelens behandling, skal ha nærmere av Kongen fastsatte kvalifikasjoner.\n2. Kongen kan fastsette regler om offentlig eftersyn med andre beholdere og rørledninger under trykk, enn dem som er nevnt i punkt 1.\n1 Se § 51 nr. 1 og strl. § 352.\n2 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Farlige maskiner.​1",
+      "content": "Ingen tilvirker eller forhandler må levere maskiner eller maskindeler som skal brukes her i landet uten at de har de til dekning av tannhjul, kniver og andre farlige deler påbudte sikringsdeler.\nDen som selvstendig påtar sig å montere maskineri skal sørge for at maskineriet blir satt i den stand og opstillet på sådan måte at lovens krav med hensyn til forebyggelse av ulykker er iakttatt.\nDen som tilvirker, forhandler eller monterer maskineri er berettiget til å få tilsynets​2 uttalelse om hvorvidt det har noget å innvende mot en planlagt beskyttelse eller opstilling av maskineri.\n1 Se strl. § 352.\n2 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Spesielle foranstaltninger for særlig farlig bedrift eller arbeid.​1",
+      "content": "For bedrift eller arbeid som finnes å være særlig anstrengende eller særlig farlig for arbeidernes liv og helse, kan Kongen påby at særlige foranstaltninger skal treffes, såsom at bedrift ikke må anlegges uten samtykke, at der skal brukes kortere arbeidstid enn ellers fastsatt i loven, og at der skal føres regelvisst lægetilsyn med arbeidere.​2 Over sådanne bedrifter eller arbeid skal der av Kongen utferdiges en fortegnelse efterat arbeidsrådet​3 er hørt.\nSkal sådant påbud omfatte bedrift hvor arbeidere eller arbeidsgiver tilhører en faglig landssammenslutning, skal der være gitt denne adgang til uttalelse. Arbeidsrådets erklæring skal i ethvert tilfelle innhentes.\n1 Se § 51 nr. 1. Jfr. § 28.\n2 Se § 2.\n3 Se § 48.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Bedrifts melding av ulykker.​1",
+      "content": "Rammes arbeider​2 av arbeidsulykke som har voldt døden eller alvorlig skade, skal driftslederen uten ophold sende skriftlig melding direkte til tilsynet.​3 Går bedriften ikke inn under lovgivningen om ulykkestrygd for industriarbeidere​4 m.v., skal også mindre alvorlig arbeidsulykke snarest mulig og senest innen 3 dager meldes til tilsynet, når det kan antas at arbeideren som følge av ulykken vil bli arbeidsudyktig i minst 3 dager.\nHvad foran er sagt om arbeidsulykke skal også gjelde for bedriftssykdom, som ifølge lovgivningen om ulykkestrygd for industriarbeidere m.v. er likestillet med ulykke.​5\n1 Se § 51 nr. 3.\n2 Se § 2.\n3 Se kap. 7.\n4 Se lov 24 juni 1931 nr. 6 § 1.\n5 Se samme lovs § 10 og res. 7 des. 1928 og 11 janr. 1935.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Lægers melding av ulykker.​1",
+      "content": "Har en læge under behandling arbeider som lider av sådan bedriftssykdom, som ifølge lovgivningen om ulykkestrygd for industriarbeidere m. v. er likestillet med ulykke,​2 skal han gi skriftlig melding om det til tilsynet.\nDepartementet fastsetter de nærmere bestemmelser herom. Det kan bestemme at meldeplikten også skal gjelde for annen sykdom som kan antas å skyldes arbeidets art eller forholdene på arbeidsstedet.\n1 Jfr. lov 24 mai 1929 nr. 3 § 5.\n2 Se lov 24 juni 1931 nr. 6 § 10 og res. 7 des. 1928 og 11 janr. 1935.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Bedrift og arbeid som ikke omfattes av reglene om arbeidstiden.​1",
+      "content": "Dette kapitel gjelder ikke:\n1. arbeid av ledende eller kontrollerende art eller i annen særlig betrodd stilling,\n2. arbeid av representanter, agenter og handelsreisende, forsåvidt det blir utført utenfor bedriftens faste arbeidssted,\n3. skogsarbeid, tømmermåling og fløtning, herunder ikke arbeid ved faste sorteringslenser hvor arbeidet helt eller delvis foregår med maskiner,\n4. bergning og dykkerarbeid,\n5. teatre og andre forestillinger og forevisninger,\n6. herberg- og bevertningsbedrift,\n7. undervisnings- og opdragelsesanstalt.\nTvist om et arbeid går inn under punkt 1-7 avgjøres av Arbeidsrådet.​2\n1 Jfr. § 23, siste ledd.\n2 Se § 48.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Nattarbeid m.v.​1",
+      "content": "Den almindelige arbeidstid skal legges mellem kl. 6 og kl. 21.​2\nArbeid mellem kl. 21 og kl. 6 er nattarbeid og må ikke drives uten i de tilfelter som er nevnt i denne og neste paragraf.\nSom nattarbeid er tillatt:\n1. arbeid som av hensyn til bedriftens jevne gang må foregå i det i paragrafens 2. ledd nevnte tidsrum såsom opfyring, opvarmning, rengjøring, vedlikehold, istandsettelse av arbeidsrum, maskiner og andre driftsinnretningor. oprydning, vareoptelling og regnskapsopgjør,\n2. arbeid for at ikke anlegg, maskiner, råstoffer eller produkter skal ta skade,\n3. vakthold, portnerarbeid og pass av dyr,\n4. arbeid ved utsalgssteder samt i barber- og frisørforretninger,\n5. transportvirksomhet og dertil knyttet nødvendig lasting, lossing og lagring samt ekspedisjon av post, telegrammer og telefonsamtaler. Med transportvirksomhet er likestillet arbeid som av hensyn til transportmidlenes drift eller de reisendes behov må foregå i det i paragrafens 2. ledd nevnte tidsrum,\n6. bygnings- og anleggsarbeid,\n7. arbeid på to dagskift som legges mellem kl. 6 og kl. 24,\n8. arbeid i bedrift for syke- og pleiehjelp,\n9. arbeid som på grunn av sin art eller beskaffenhet ikke kan avbrytes.\nTvist om et arbeid går inn under de foran nevnte undtagelser avgjøres av Arbeidsrådet.​3\n1 Endret ved lov 18 juni 1938 nr. 13. – Se § 51 nr. 2.\n2 Jfr. § 24.\n3 Se § 48.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Departementets og tilsynets adgang til å tillate nattarbeid.",
+      "content": "1. Når der foreligger almene hensyn eller når nattarbeid av særlige økonomiske grunner må anses påkrevd kan departementet​1 tillate at bedrift eller del av bedrift utfører arbeid i det i § 13, 2. ledd nevnte tidsrum. Ved avgjørelsen skal der legges vekt på om nattarbeid antas å være sedvanlig i vedkommende yrke. Før avgjørelse treffes må Arbeidsrådets​2 uttalelse være innhentet.\nI påtrengende tilfelle kan tillatelsen gis av tilsynet​3 for et tidsrum av inntil 6 uker.\n2. For et tidsrum av op til 6 uker om gangen kan tilsynet​3 på nærmere vilkår tillate nattarbeid:\na. når der til regelmessig tilbakevendende tider av året opstår arbeidspress,\nb. når der er opstått uventet eller særlig arbeidspress,\nc. når naturomstendigheter, ulykkeshendelser eller andre upåregnelige begivenheter har forstyrret eller truer med å forstyrre den jevne drift.\nTillatelse kreves ikke for de fire første døgn.\n1 Kommunaldepartementet.\n2 Se § 48.\n3 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Søn- og helgedagsarbeid m.v.​1",
+      "content": "1. Det skal være arbeidshvile fra kl. 18 dagen før en søn- eller helgedag, – for jul-, påske- og pinseaften fra kl. 15 – til kl. 22 dagen før neste søknedag.​2\nSom søn- og helgedagsarbeid er tillatt:\na. arbeid som av hensyn til egen eller annen bedrifts jevne gang må foregå i det i paragrafens første ledd nevnte tidsrum såsom opfyring, opvarmning, rengjøring, vedlikehold, istandsettelse av arbeidsrum, maskiner og andre driftsinnretninger, oprydning, vareoptelling og regnskapsopgjør,\nb. arbeid for at ikke anlegg, maskiner, råstoffer eller produkter skal ta skade,\nc. vakthold, portnerarbeid og pass av dyr,\nd. arbeid ved utsalgssteder samt i barber- og frisørforretninger,\ne. transportvirksomhet og dertil knyttet nødvendig lasting, lossing og lagring samt ekspedisjon av post, telegrammer og telefonsamtaler. Med transportvirksomhet er likestillet arbeid som av hensyn til transportmidlenes drift eller de reisendes behov må foregå i det i paragrafens første ledd nevnte tidsrum,\nf. arbeid i bedrift for syke- og pleiehjelp,\ng. arbeid som på grunn av sin art eller beskaffenhet ikke kan avbrytes.\nTvist om et arbeid går inn under de foran nevnte undtagelser avgjøres av Arbeidsrådet.​3\n2. Arbeider​4 som har utfort søn- og helgedagsarbeid i henhold til punkt 1 litra a-f skal ha det følgende søn- eller helgedagsdøgn fri i overensstemmelse med påbudet i punkt 1, første ledd.\nDepartementet​5 kan tillate lempning heri når det av praktiske grunner må anses særlig påkrevd.\n3. For arbeid etter punkt 1, litra g skal det finne sted et ukentlig skiftombytte etter en av tilsynet​6 godkjent skiftplan.\nSkiftombyttet skal foretas slik at arbeiderne, med en gjennomsnittlig arbeidstid av 45⅓ time pr. uke, så vidt mulig får søn- og helgedagsfritid som i punkt 2, første ledd anført og minst hver tredje søndag.\n1 Endret ved lover 18 juni 1938 nr. 13, 28 juli 1949 nr. 21. – Se § 51 nr. 2. Jfr. lov 24 april 1906 § 1 og lov 26 april 1947 nr. 1 § 3.\n2 Jfr. § 24.\n3 Se § 48.\n4 Se § 2.\n5 Kommunaldepartementet.\n6 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Spesiell tillatelse til søn- og helgedagsarbeid.",
+      "content": "1. Såfremt offentlige eller almene interesser eller andre hensyn gjør det særlig påkrevd, kan departementet​1 tillate søn- eller helgedagsarbeid i den utstrekning som det efter forholdene trenges.\nTillatelsen gjelder ikke tiden mellem kl. 15 julaften til 2. juledag kl. 22, fra kl. 15 onsdag i påskeuken til langfredag kl. 22 og fra kl. 15 dagen før påske- og pinsedag til 2. påske- og pinsedag kl. 22, medmindre den uttrykkelig omfatter også disse tidsrum.\nI påtrengende tilfelle kan tillatelse for en enkelt anledning gis av tilsynet.​2\n2. Arbeid som efter sin art eller i henhold til dispensasjon går hele døgnet, men ikke uken rundt, og arbeid på 2 dagskift i henhold til § 13 punkt 7 kan med departementets​1 samtykke være i gang til kl. 22 dagen før en søn- eller helgedag.\n1 Kommunaldepartementet.\n2 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Den almindelige arbeidstid.​1",
+      "content": "1.\na. En arbeiders​2 alminnelige arbeidstid må ikke være over 8 timer daglig og ikke over 48 timer uka.​3 Er den alminnelige arbeidstid på bestemte dager regelmessig kortere enn 8 timer, kan den de øvrige dager i samme uke forlenges tilsvarende, men høyst med 1 time.\nb. Den alminnelige arbeidstid for arbeidere​2 under dagen i gruver må ikke være over 40 timer uka,​3 regnet gjennomsnittlig i et tidsrom av 3 uker. Til arbeidstida regnes også faringstida.\nFaller det i en uke en eller flere helgedager utenom søndagen, gjelder for denne uke ikke bestemmelsen i § 15 punkt 1, første ledd om tidligere arbeidshvil dagen før søn- eller helgedager. På jul-, påske- og pinseaften skal dog arbeidet slutte senest kl. 15.\nSkulle gjennomføringa av disse bestemmelser helt eller for en vesentlig del gjøre drifta av en gruve umulig, kan Kongen, etter at Arbeidstilsynsrådets uttalelse er innhentet, tillate at arbeidstida, faringstida innregnet, blir forlenget opp til de grenser som er nevnt i punkt a.\n2. For arbeid av den art som er angitt i § 15 punkt 1 g, skal den alminnelige arbeidstid, etter skiftplan godkjent av tilsynet,​4 ikke være over 45⅓ time pr. uke i gjennomsnitt i løpet av skiftperioden. Ved godkjenningen av skiftplanen skal legges særlig vekt på det som flertallet av arbeiderne ønsker.\n3. Nødvendiggjør bedriftens eller arbeidets art en uregelmessig fordeling av arbeidstiden, kan den almindelige arbeidstid for bedriftens arbeidere eller grupper av arbeidere med departementets​5 samtykke ordnes således at den i løpet av høist 6 uker blir gjennemsnittlig 48 timer i uken. Før departementet treffer sin avgjørelse skal det være gitt vedkommende arbeidere​2 eller deres organisasjoner anledning til å uttale sig.\n4. Optrer i et yrke eller i en bedrift på grunn av årstiden, klimaet eller andre forhold til regelmessig tilbakevendende tider av året sterkt arbeidspress, kan den almindelige arbeidstid for vedkommende yrke eller bedrift med departementets​5 samtykke ordnes således at den i løpet av høist 1 år blir gjennemsnittlig 48 timer uken, men således at den almindelige arbeidstid ikke overstiger 10 timer daglig og 54 timer uken. Før departementet treffer sin avgjørelse skal det være gitt vedkommende arbeidere​2 eller deres organisasjoner anledning til å uttale sig.\n5. For anlegg, drift og vedlikehold av samferdselsmidler som drives av staten, herunder post-, telegraf- og telefontjeneste, kan Kongen fastsette en sådan arbeidsordning som nevnt i punkt 3 og 4 efterat det er gitt vedkommende tjenestemenns organisasjoner anledning til å forhandle om arbeidsordningen.\n1 Endret ved lov 28 juli 1949 nr. 21. – Se § 51 nr. 2.\n2 Se § 2.\n3 Jfr. § 24.\n4 Se kap. 7.\n5 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Spesielle arbeidstidsforhold.​1",
+      "content": "1. Når den jevne drift ikke kan gå sin gang uten at enkelte arbeidere​2 må begynne før eller slutte efter de andre arbeidere, kan den almindelige arbeidstid forlenges til høist 10 timer daglig for disse arbeidere.\nUtover den efter § 17, punkt 1 tillatte arbeidstid kan kunder ekspederes ferdig i op til ½ time.\n2. Medfører bedriftens eller arbeidets art at arbeidet for enkelte arbeidere​2 eller grupper av arbeidere blir avbrutt av perioder hvor intet eller litet arbeide blir ydet, men slik at vedkommende arbeidere i disse perioder ikke kan forlate arbeidsplassen, kan den almindelige arbeidstid utstrekkes til høist 10 timer daglig for disse arbeidere.\nTvist om hvorvidt et arbeide går inn under de foran nevnte undtagelser, avgjøres av Arbeidsrådet.​3\n3. For det farmasøitiske personale i apotek samt i andre tilfelle hvor tjenesten helt eller til dels består i at arbeideren må opholde sig i bedriften for i påkommende tilfelle å yde arbeid, men hvor han, bortsett fra kortvarige eller tilfeldige avbrytelser, er fritatt for arbeid eller plikt til å vise aktpågivenhet, kan departementet​4 tillate lempning i bestemmelsene om den almindelige arbeidstids lengde. For avgjørelse treffes, må Arbeidsrådets​3 uttalelse være innhentet.\n1 Endret ved lov 18 juni 1938 nr. 13. – Se § 61 nr. 2.\n2 Se § 2.\n3 Se § 48.\n4 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Overtidsarbeid.​1",
+      "content": "1. Varer arbeidet for nogen arbeider utover den tid som utgjør hans almindelige arbeidstid efter §§ 17 og 18, jfr. §§ 9 og 24, regnes arbeidet i den overskytende arbeidstid for overtidsarbeid.​2\nOvertidsarbeid må ikke finne sted uten i følgende særlige tilfeller:\na. når uforutsette hendelser eller forfall blandt arbeiderne har forstyrret eller truer med å forstyrre den jevne drift,\nb. når overtidsarbeid trenges for at ikke anlegg, maskiner og råstoffer eller produkter skal ta skade,\nc. når det er opstått uventet eller særlig arbeidspress,\nd. når offentlige eller almene interesser eller andre hensyn særlig krever det. Dog skal arbeidsgiveren om overtidsarbeid av sådan grunn anvendes og utøves lenger enn ett døgn, innhente tilsynets​3 samtykke,\ne. i statens transportbedrifter, når den overordnede tjenestemyndighet av hensyn til driftsforholdene anser bruk av overtidsarbeid for nødvendig. Bruk av overtidsarbeid skal i så fall skje efter de til enhver tid av statsmyndighetene fastsatte regler.\n2. For overtidsarbeid skal der betales et tillegg til den lønn som er avtalt for arbeiderens tilsvarende arbeid i hans almindelige arbeidstid. Tillegget skal være minst 25 procent.\nVed akkordarbeid beregnes tillegget på grunnlag av den for vedkommen de arbeider​4 fastsatte uke-, måneds- eller timelønn medmindre særskilt avtale er truffet.\n1 Se § 51 nr. 2.\n2 Jfr. § 20.\n3 Se kap. 7.\n4 Se § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "title": "Lengden av overtidsarbeid.",
+      "content": "1. Overtidsarbeid kan finne sted i op til 10 timer i uken.\nTilsynet​1 kan for en bestemt anledning eller for et tidsrum av ikke over 6 måneder om gangen samtykke i at overtidsarbeid for den enkelte arbeider​2 kan finne sted i op til 15 timer i uken.\n2. Overtidsarbeid må ikke i noget tilfelle utgjøre over 30 timer for nogen arbeider​3 i 4 på hverandre følgende uker.\n3. For bedrifter som på grunn av produktets art eller av andre grunner til enkelte tider av året har behov for en lengere arbeidstid, kan departementet​3 fastsette andre regler for overtidsarbeid enn i punkt 1 og 2 nevnt, men så at det samlede antall overtidstimer i kalenderåret ikke må bli større enn tillatt efter punkt 2.\n1 Se kap. 7.\n2 Se § 2.\n3 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "title": "Lønningslister.​1",
+      "content": "Lønningslister skal føres slik at omfanget av overtidsarbeidet for den enkelte arbeider kan sees. De skal være tilgjengelige for tilsynet.​2\n1 Se § 51 nr. 3.\n2 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "3:22",
+      "chapter": "3",
+      "section": "22",
+      "title": "Hvilepauser og ukentlig fritid.​1",
+      "content": "1. Er en arbeiders​2 daglige arbeidstid over 8 timer skal arbeidstiden deles med to hvilepauser på tilsammen minst ¾ time eller med en av samme lengde.\nTilsynet​3 kan tillate at hvilepausen forkortes til ½ time, når dette er avtalt mellem bedrift og dens arbeidere og må ansees for ubetenkelig.\nI hvilepausen må arbeiderne ikke opholde sig i arbeidsrummene med mindre driften i disse er helt innstillet eller tilsynet​3 har samtykket i det. Det må ikke tillates arbeiderne å arbeide i hvilepausene med mindre det gjelder uopsettelig arbeid av den art som er nevnt i § 24.\nBestemmelsen om hviletid kan med vedkommende regjeringsdepartements​4 tillatelse endres overensstemmende med virksomhetens krav. Arbeiderne bør i sådanne tilfeller skiftevis eller på annen måte så vidt mulig tilståes den lovbestemte hviletid.\n2. Den almindelige arbeidstid for arbeideren skal fordeles således at han hver uke har en sammenhengende fritid av minst 24 timer.​5 Fridagen bør så vidt mulig legges på søn- eller helgedag og gis samtidig for alle bedriftens arbeidere.\nFor arbeid som utføres efter godkjent skiftplan i henhold til § 15, punkt 3 eller i andre særlige tilfelle kan departementet fastsette en annen fordeling av den ukentlige hviletid, men slik at arbeideren i løpet av skiftperioden eller et annet nærmere fastsatt tidsrum får en sammenhengende fritid på gjennomsnittlig minst 24 timer i uken.\nDepartementet​4 kan tillate også annen lempning heri når det volder uforholdsmessige vanskeligheter å skaffe avløsning eller tjenesten krever ubetydelig arbeid.\n1 Endret ved lov 18 juni 1938 nr. 13. – Se § 51 nr. 2.\n2 Se § 2.\n3 Se kap. 7.\n4 Kommunaldepartementet.\n5 Jfr. § 24.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "3:23",
+      "chapter": "3",
+      "section": "23",
+      "title": "(Opphevet ved lov 14 nov 1947 nr. 3 § 20)",
+      "content": "§ 23.(Opphevet ved lov 14 nov 1947 nr. 3 § 20)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "3:24",
+      "chapter": "3",
+      "section": "24",
+      "title": "Undtagelse fra arbeidstidsbestemmelsene.",
+      "content": "Arbeid som på grunn av naturhendelser, ulykkeshændelser eller andre uforutseelige begivenheter må foretas for å awerge fare for eller skade på liv eller eiendom kan uten hensyn til bestemmelsene i § 13, første ledd og § 15, punkt 1, første ledd foretas til enhver tid av døgnet. Innen de første fire døgn gjelder ikke begrensningen i § 17, punkt 1 og § 22, punkt 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "title": "Barselkvinner.​1",
+      "content": "1. Kvinne kan med minst 3 dagers varsel kreve å være arbeidsfri i de siste 6 uker for hun efter attest fra læge eller jordmor venter barn. Hun bør være arbeidsfri de første 6 uker efter fødselen. Hvis hun ved lægeattest godtgjer at hun lider av sykdom som er en følge av svangerskap eller fødsel, kan hun kreve å være arbeidsfri i inntil ytterligere 6 uker.\n2. Kvinne som er fraværende fra sitt arbeide i henhold til bestemmelsene i punkt 1 må ikke sies op når arbeidsgiveren er på det rene med at hennes fravær skyldes disse grunner eller hun uten ophold underretter ham om at dette er grunnen til hennes fravær. Er hun allerede sagt op til et tidspunkt som faller innenfor det i punkt 1 nevnte tidsrum, er opsigelsen gyldig, men opsigelsesfristen forlenges med dette tidsrum\nEr arbeidsavtalen inngått for et bestemt arbeide av forbigående art, kommer bestemmelsen ikke til anvendelse når arbeidet er avsluttet før hun på ny møter frem til arbeidet.\n3. Kommer kvinne i trang i den tid hun ifølge bestemmelsene i punkt 1 er fraværende fra sitt arbeid, kan hun kreve hjelp av det offentlige efter den til enhver tid gjeldende lovgivning herom. Hjelpen skal ikke regnes som forsorgshjelp.​2\n4. Kvinne som ammer sitt barn, kan kreve den frihet som hun av den grunn trenger og minst ½ time to ganger daglig.\n1 Se § 51 nr. 2. Jfr. lov 6 juni 1930 nr. 18 § 13 post 7.\n2 Jfr. lover 19 mai 1900 nr. 1 kap. 2 og 10 april 1915 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Barn og ungdom.",
+      "content": "Denne lov mener med:\n1. Barn – enhver som ikke har fylt 15 år, eller som er skolepliktig efter folkeskolelovene.​1\n2. Ungdom – enhver i alderen mellem 15 og 18 år som ikke er skolepligtig efter folkeskolelovene.​1\n1 Se lover 16 juli 1936 nr. 8 § 12 og nr. 9 § 13, 8 nov. 1946 nr. 1 § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Barnearbeid.​1",
+      "content": "1. Barn​2 må ikke brukes til arbeid i bedrift som går inn under bestemmelsene i kap. 3. For de i § 12 nevnte bedrifter kan departementet​3 bestemme hvorvidt og på hvilke vilkår barn skal kunne brukes.\n2. Barn​2 over 12 år kan sysselsettes med tørring av torv og fisketørring i fri luft, ombringelse av varer og budtjeneste i den utstrekning som omsynet for deres helse, skolegang og moral gjør forsvarlig og for øvrig på slike vilkår som departementet​3 måtte fastsette.\n1 Se § 51 nr. 2.\n2 Se § 26.\n3 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Arbeid av ungdom.​1",
+      "content": "Ungdom​2 må ikke anvendes til å passe dampkjeler eller maskiner hvis betjening krever særlig forsiktighet.\nFor bedrift eller arbeid som finnes å være særlig anstrengende eller farlig for ungdoms liv og helse eller når andre grunner tilsier det, kan Kongen påby at særlige foranstaltninger skal treffes, jfr. § 9, såsom at den unge arbeiders helse og kroppsutvikling skal undersøkes av læge før han begynner å arbeide, at hans samlede arbeids- og skoletid, om han søker teknisk eller faglig aftenskole, ikke må overskride et visst antall timer daglig eller at det skal være helt forbudt at ungdom sysselsettes.\nVed bergverk og stenbrudd må ungdom ikke anvendes til arbeid under jorden\n1 Se § 51 nr. 2.\n2 Se § 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Nattarbeid av ungdom.​1",
+      "content": "1. I industriell bedrift, anleggs- og bygningsarbeid må ungdom​2 ikke anvendes til arbeid mellem kl. 21 og kl. 6 med undtagelse av det i § 13 punkt 2 og 7 nevnte arbeid forsåvidt angår arbeidere​3 over 16 år, eller i den tid som efter § 15 punkt 1. første ledd er bestemt for søn- og helgedagshvil, såfremt arbeidet ikke er av den art som nevnt i § 15 punkt 1 litr. b, eller særlige begivenheter av den art som er nevnt i § 24 gjør det bydende nødvendig.\nHvis hensyn til den unge arbeiders oplæring i et yrke tilsier det, kan departementet​4 tillate at ungdom over 16 år settes til nattarbeid eller søn- og helgedags- arbeid på de vilkår som omsynet for den unge arbeiders helse gjør forsvarlig.\n2. Kongen kan bestemme at denne paragraf skal gjelde også for andre bedrifter enn dem som er nevnt i punkt 1.\n1 Se § 51 nr. 2.\n2 Se § 20.\n3 Se § 2.\n4 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "title": "Lengden av arbeidstiden for barn og ungdom.​1",
+      "content": "I bedrift som går inn under bestemmelsene i kapitel 3 må barn og ungdoms​2 almindelige arbeidstid ikke være lengere enn nevnt i § 17 punkt 1. Den i § 17 punkt 2-4 nevnte omlegning av arbeidstiden kan ikke anvendes på ungdom uten departementets​3 tillatelse i hvert enkelt tilfelle. Ungdom må ikke settes til forlenget almindelig arbeidstid (§ 18). Barn og ungdom må ikke settes til overtidsarbeid.\nArbeidstiden for barn og ungdom skal legges slik at den ikke hindrer skolegang som de trenger for sin utdannelse.\n1 Se § 51 nr. 2.\n2 Se § 26.\n3 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "5:31",
+      "chapter": "5",
+      "section": "31",
+      "title": "Liste over barn og ungdom.​1",
+      "content": "Departementet kan bestemme at arbeidsgiver skal føre liste over barn og ungdom som han har i arbeid.​2\n1 Se § 51 nr. 3.\n2 Regler herom er gitt 25. jan. 1949.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "title": "Arbeidslønn.​1",
+      "content": "1. Arbeidslønnen skal betales i gangbare kontante penger, såfremt ikke betaling i check eller bankanvisning er avtalt. Den skal betales på eller ved arbeidsstedet i arbeidstiden eller snarest mulig efter endt arbeidstid.\nEr time-, dag- eller ukelønn avtalt, skal utbetalingen skje minst en gang om uken. For akkordarbeid kan opgjøret utsettes til arbeidet er ferdig, men således at der hver uke skal betales et passende forskudd for det arbeid som er gjort. Andre opgjørsfrister kan fastsettes ved avtale.\nFor måneds- eller årslønnede arbeidere skal utbetaling skje minst to ganger i måneden, hvis ikke annet avtales.\n2. Fradrag i lønn må ikke gjøres uten skriftlig avtale, undtagen når det er hjemlet i lov​2 eller det gjelder reglementerte innskudd i pensjons- og sykekasser,​3 eller erstatning for skade som arbeideren har voldt forsettlig eller ved grov uaktsomhet.\n3. Ved avlønningen eller straks efter denne kan arbeideren kreve skriftlig opgave over lønnens størrelse, beregningsmåte og mulige fradrag.\n1 Se §§ 51 nr. 4 og 58, lov 31 mai 1912 § 1 nr. 1, f.\n2 Se lover 18 aug. 1911 nr. 8 § 114 og nr. 9 § 106, 10 april 1915 nr. 3 § 27 og nr. 6 § 6 (jfr. lover 31 mai 1918 nr. 2 § 58 og 20 mai 1927 nr. 1 § 5).\n3 Se lov 6 juni 1930 nr. 18 § 34 post 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "title": "Opsigelse.​1",
+      "content": "1. Såfremt ikke noget annet er avtalt skriftlig eller fastsatt i reglement, skal opsigelse kunne finne sted:\na. for arbeider​2 med time-, dag-, ukelønn eller stykkbetaling med minst 14 dagers varsel,\nb. for arbeider​2 med måneds- eller årslønn til slutten av en kalendermåned med minst en måneds varsel.\nFristen skal være like lang for begge parter.\nBestemmelsen i dette avsnitt gjelder ikke for arbeider som uttrykkelig er antatt på prøve eller til utførelse av et bestemt arbeid av forbigående art.\n2. Arbeider​2 som efter å ha fylt 25 år i minst 5 år har vært ansatt i samme bedrift, må ikke sies op med kortere varsel enn en måned ved slutten av en kalendermåned.\nOpsigelsesfristen skal være gjensidig og gjelder ikke arbeidsopsigelse efter lov om arbeidstvister av 5 mai 1927.\n3.\na. Blir en arbeider​2 som efter sitt fylte 21 år har minst 3 års sammenhengende ansettelse ved samme bedrift, opsagt fra denne stilling uten at opsigelsen har saklig grunn i bedriftsinnehaverens, arbeiderens eller bedriftens forhold, men skyldes helt utenforliggende grunner, kan han kreve erstatning av arbeidsgiveren. Erstatning kan dog ikke kreves hvis opsigelsen skyldes press fra bedriftens øvrige arbeidere eller fra en organisasjon, når arbeidsgiveren har hatt grunn til å tro at han ellers vilde påføres tap eller skade.\nb. Ved fastsettelsen av erstatningens størrelse, som ikke må overstige ½ av arbeiderens sist oppebårne årsfortjeneste, skal det tas hensyn til arbeiderens tapte fortjeneste, tjenestetid, lønn, utsikt til nytt eller annet arbeid, arbeiderens eget forhold og i øvrig til omstendigheter som det finnes rimelig og billig å ta i betraktning. Tilbakekalles opsigelsen, bortfaller erstatningen fra den tid arbeidsforholdet kan gjenoptas.\nc. Søksmål mot arbeidsgiveren må reises​3 innen 4 uker fra mottatt opsigelse.\nd. Nærværende bestemmelser kommer ikke til anvendelse på arbeidsopsigelse efter lov om arbeidstvister av 5 mai 1927. Det samme gjelder hvis en bedrift I har innført pensjonsordning for sine arbeidere og opsigelsen finner sted når retten til pensjon er inntrådt.\n4. Nødvendiggjør ulykker, naturomstendigheter eller andre uforutseelige hendelser at driften helt eller delvis må innstilles, faller opsigelsesfristen bort overfor arbeidere ved det arbeid som er innstillet. Opsigelsesfristen faller ikke bort ved arbeidsgiverens død eller konkurs og heller ikke ved arbeidsstans, som uten arbeidernes skyld er foranlediget ved, at arbeidsrum, maskiner, redskap eller arbeidsmaterialer, som arbeidsgiveren skal stille til rådighet, ikke kan brukes.\n5. Bestemmelsene i denne paragraf er ikke til hinder for at arbeider kan avskjediges uten opsigelsesfrist efter gjeldende rettsregler eller i henhold til reglement.\n6. Bestemmelsene i denne paragraf gjelder ikke for dem som går inn under lov om offentlige tjenestemenn av 15 februar 1918.\n1 Endret ved lov 18 juni 1938 nr. 13. – Se strl. § 410, lov 29 mars 1940.\n2 Se § 2.\n3 Se rettergangsl. §§ 63 og 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "title": "Arbeidsreglement.​1",
+      "content": "I industriell bedrift, handels- og kontorbedrift skal arbeidsgiveren, i samråd med 5 av arbeiderne​2 valgte representanter,​3 for de arbeidere som ikke har en ledende eller kontrollerende stilling, utarbeide et arbeidsreglement, når bedriften sysselsetter over 10 arbeidere eller når tilsynet​4 uten hensyn til arbeiderantallet finner grunn til å påby det. Reglementet skal inneholde de ordensregler som trenges, regler for arbeidsordningen, vilkår for ansettelse, opsigelse og avskjed og bestemmelse om utbetaling av lønninger. I arbeidsreglementet kan ikke fastsettes bøter for forseelser mot reglementet.​5 I Departementet​6 kan bestemme at arbeidsreglement skal utarbeides i andre bedrifter og for andre arbeidere enn nevnt foran.\n1 Se § 51 nr. 3.\n2 Se § 2.\n3 Se § 35.\n4 Se kap. 7.\n5 Jfr. lov 31 mai 1918 nr. 4 § 36.\n6 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "title": "Arbeidernes deltagelse i utarbeidelse av arbeidsreglement.",
+      "content": "Bedriftens arbeidere​1 over 18 år skal velge de i § 34 nevnte 5 representanter som må være over 21 år til på de øvriges vegne å forhandle med bedriften om reglementets bestemmelser.\nHvis arbeiderne fremsetter avvikende forslag til arbeidsreglement, skal dette vedlegges når reglementet blir sendt inn til godkjennelse.\nUndlater arbeiderne å velge representanter til å forhandle med bedriften om arbeidsreglementets oprettelse, skal arbeidsgiveren oplyse herom når han sender reglementet I til godkjennelse.\n1 Se § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "6:36",
+      "chapter": "6",
+      "section": "36",
+      "title": "Frist for innsendelse av arbeidsreglement.​1",
+      "content": "Innehaver av bedrift av den art og størrelse som er nevnt i § 34 skal innen 6 uker efter at loven er trådt i kraft eller efter at bedriften er satt i gang sende utkast til arbeidsreglement til tilsynet,​2 såfremt bedriften ikke tidligere har arbeidsreglement som er godkjent.\nHvis der i de foreliggende reglementer finnes bestemmelser som strider mot denne lov blir de forsåvidt å forandre.\nNår tilsynet forlanger at arbeidsreglement skal utarbeides i henhold til bestemmelsen i § 34, skal utkastet innsendes innen 4 uker fra den dag kravet er fremsatt.\n1 Se § 51 nr. 3.\n2 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "6:37",
+      "chapter": "6",
+      "section": "37",
+      "title": "Godkjennelse av arbeidsreglement.",
+      "content": "Tilsynet skal med sin uttalelse snarest mulig sende arbeidsreglementet til Arbeidsrådet​1 til godkjennelse. Denne kan bare meddeles såfremt arbeidsreglementet er istandbragt på lovlig måte og ikke strider mot loven eller inneholder bestemmelser som er ubillige overfor arbeiderne.\n1 Se § 48.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "6:38",
+      "chapter": "6",
+      "section": "38",
+      "title": "Forandring i arbeidsreglement.",
+      "content": "Når der ønskes forandringer i eller tillegg til et godkjent arbeidsreglement, skal reglene i §§ 34, 35 og 37 følges.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "6:39",
+      "chapter": "6",
+      "section": "39",
+      "title": "Opslag.​1",
+      "content": "De forskrifter og bestemmelser som er gitt i henhold til denne lov og som vedkommer bedriften skal være opslått i lett leselig form på ett eller flere iøinefallende steder i bedriften.\nDet samme gjelder reglene om arbeids- og hviletid ved bedriften, de dispensasjoner som måtte være gitt og arbeidsreglementet når sådant skal være utarbeidet i henhold til § 34. Et eksemplar av arbeidsreglementet skal leveres til hver arbeider​2 som det vedkommer.\n1 Se § 51 nr. 3.\n2 Se § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "6:40",
+      "chapter": "6",
+      "section": "40",
+      "title": "Lovbestemmelsenes ufravikelighet.",
+      "content": "Arbeider​1 kan ikke i videre omfang enn loven uttrykkelig hjemler,​2 rettsgyldig vedta fravikelser fra lovens bud.\n1 Se § 2.\n2 Se §§ 23, 5te ledd, 32 og 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "7:41",
+      "chapter": "7",
+      "section": "41",
+      "title": "Statens arbeidstilsyn.",
+      "content": "1. Tilsynet med at bestemmelsene i denne lov overholdes skal utføres av Statens arbeidstilsyn og stedlige arbeidsnevnder. For transportbedrift som drives av staten, herunder post-, telegraf- og telefonverket, kan Kongen bestemme hvordan tilsynet skal ordnes.​1\n2. Statens arbeidstilsyn er chefinspektøren, inspektører, tilsynsmenn og assistenter. Stillingene kan besettes med såvel kvinner som menn. Som inspektører og assistenter skal ansettes både kvinner og menn.\nTilsynet med bergverksdrift og med bergverk likeartede bedrifter kan Kongen legge under bergvesenets tjenestemenn som arbeidsinspektører. I bedrift som går inn under denne lov, utføres tilsynet med de ildsfarlige gjenstander som omfattes av ildsfarlighetsloven, av den inspektør som er nevnt i sistnevnte lov.​2\nFor enkelt leilighet og i særlige tilfeller kan departementet​3 anta andre sakkyndige til å foreta inspeksjon.\n3. Chefinspektøren og inspektørene ansettes av Kongen, de øvrige tjenestemenn av departementet. Kongen bestemmer hvilke særlige kunnskaper der skal kreves for ansettelse i de forskjellige stillinger i arbeidstilsynet.\n4. De nærmere bestemmelser om tilsynets organisasjon og virksomhet gis av Kongen. Kongen kan også gi nærmere bestemmelser om forholdet mellem arbeidstilsynet og andre tilsynsmyndigheter.\n1 Se res. 18 nov. 1938\n2 Se lov 31 mai 1871 § 26.\n3 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "7:42",
+      "chapter": "7",
+      "section": "42",
+      "title": "Det stedlige tilsyn.​2",
+      "content": "1. I hver kommune skal det være stedlig arbeidstilsyn ved en eller flere nemnder som hver skal ha minst 3 medlemmer med personlige varamenn.\n2. Tilsynets medlemmer med varamenn velges av kommunestyret for den kommunale valgperioden.​3\nI hver nemnd skal det være minst en arbeider.​4 Minst ett av medlemmene skal være kvinne. Ved valget bør has for øye at iallfall en av de valgte har kjennskap til maskiner og deres bruk og at tilsynet har medlemmer med kyndighet i de viktigste deler av arbeidslivet i kommunen. Som regel bør en læge antas som medlem. Blant medlemmene velger kommunestyret formannen og nestformannen.\nMinst en måned før valget skal kommunestyret kunngjøre hvor mange av medlemmene skal være arbeidere, og rette en oppfordring til de arbeidere som er sysselsatt ved bedrifter innen kommunen om å sende forslag om arbeidermedlemmer med varamenn.\n3. Den som har vært medlem i fire år kan unnslå seg for gjenvalg for de neste fire år.\n4. Har en nemnd under 6 medlemmer, kreves for vedtaksført møte at minst 3 medlemmer er til stede, ellers må minst to tredjedeler være til stede. Vedtak fattes med simpelt flertall. Formannens stemme gjør utslaget i tilfelle stemmelikhet.\nDispensasjonsrett som blir lagt til det stedlige tilsyn, kan i påtrengende tilfelle foreløpig utøves av formannen. Han skal snarest mulig forelegge saka fram i nemnda.\n1 Endret ved lov 3 des. 1948 nr. 2.\n2 Se lov 27 juni 1947 nr. 9 § 36\n3 Se lov 10 juli 1925 nr. 6 § 12.\n4 Se § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "7:43",
+      "chapter": "7",
+      "section": "43",
+      "title": "Tilsynets beslutninger og forandringer i disse.",
+      "content": "1. Tilsynet gir de almindelige og spesielle bestemmelser, henstillinger og pålegg som trenges til gjennemførelse av loven.\nPåleggene skal gis skriftlig og såfremt det gjelder forandringer eller utbedringer til forebyggelse av arbeidsulykker og sikring av sunde arbeidsvilkår, skal der settes en passende frist innen hvilken pålegget skal være utført. Når overhengende fare tilsier det kan tilsynet forlange at de nødvendige foranstaltninger blir iverksatt med en gang.\nHvis et pålegg ikke efterkommes og tilsynet setter ny frist for dets utførelse og denne oversittes, kan tilsynet la bedriften helt eller delvis stanse inntil det påklagede forhold er rettet.\n2. Dispensasjon fra lovens bestemmelser skal for å være gyldig avfattes skriftlig eller ved telegram.\n3. Tilsynets lovlig fattede beslutninger kan bare forandres eller opheves av tilsynet eller departementet.​1\n1 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "7:44",
+      "chapter": "7",
+      "section": "44",
+      "title": "Tilsynets adgang til bedriften.",
+      "content": "Arbeidsrådets medlemmer, tilsynet og de sakkyndige som er antatt efter bestemmelsen i § 41, punkt 2 eller tilkalt efter bestemmelsen i § 48 skal til enhver tid ha adgang​1 til hvert arbeidssted som går inn under loven eller som det er spørsmål om å bringe inn under den. Det samme gjelder for det i § 6, punkt 1 nevnte husvær. Kreves det, skal vedkommende legitimere sig.\nArbeidsgiver, arbeider​2 og enhver annen som er knyttet til bedriften, er forpliktet j til å gi alle de oplysninger som anses påkrevd for utøvelsen av tilsynet.​3\n1 Se strl. i 326.\n2 Se § 2.\n3 Se § 56.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "7:45",
+      "chapter": "7",
+      "section": "45",
+      "title": "Inspeksjonsbok.",
+      "content": "Tilsynet kan pålegge bedrift å holde inspeksjonsbok. Departementet kan gi del nærmere bestemmelser om hvordan boken skal innrettes, føres og opbevares.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "7:46",
+      "chapter": "7",
+      "section": "46",
+      "title": "Taushetsplikt.​1",
+      "content": "Arbeidsrådets medlemmer, tilsynet og sakkyndige skal såfremt ikke hans tjenesteplikt krever noget annet, bevare taushet om de drifts- og forretningsforhold som de under sitt arbeid er blitt kjent med, og de skal uten bedriftens samtykke holde sig fra å efterligne bedriftens innretninger og fremgangsmåter.\nNår der til arbeidsrådet eller tilsynet skjer anmeldelse av noget forhold som strider mot loven, skal anmelderens navn hemmeligholdes, hvis han ikke uttrykkelig samtykker i å navngis eller anmeldelsen viser sig å være ugrunnet.\n1 Se strl. §§ 121 og 294 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "7:47",
+      "chapter": "7",
+      "section": "47",
+      "title": "Tilsynets forhold til bedriften.​1",
+      "content": "1. Tjenestemenn i Statens arbeidstilsyn må ikke for egen eller fremmed regning drive eller ha betydelig økonomisk interesse eller ansettelse i bedrift som er underlagt deres tilsyn, og de må heller ikke ta imot opdrag fra sådan bedrift mot godtgjørelse. I særlige tilfeller og når det skjønnes å være uten skade for tjenestens utførelse, kan departementet​2 gjøre undtagelser fra forbudet.\n2. Arbeidsgiver eller drifts- eller arbeidsleder må som medlem av arbeidsrådet eller arbeidsnevnd ikke ta del i undersøkelser eller tilsynsvirksomheten når det gjelder bedrift som han selv driver, har betydelig økonomisk interesse eller ansettelse i, eller når det gjelder bedrift av samme art som hans egen. Arbeider må som medlem av arbeidsrådet eller arbeidsnevnd ikke ta del i undersøkelser eller tilsynsvirksomhet når det gjelder den bedrift han arbeider ved, med mindre departementet samtykker i det.\n1 Se strl. § 325 nr. 2.\n2 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "7:48",
+      "chapter": "7",
+      "section": "48",
+      "title": "Arbeidsrådet.​1",
+      "content": "Arbeidsrådet skal ha 5 medlemmer. Rådets formann og varaformann skal ha juridisk utdannelse og opnevnes av Kongen for fem år. Av de fire øvrige medlemmer med varamenn, hvorav to skal være arbeidsgivere og to arbeidere,​2 opnevnes en arbeidsgiver og en arbeider av departementet, resten av Stortinget. Funksjonstiden for disse medlemmer er tre år. Chefinspektøren for arbeidstilsynet deltar i rådets forhandlinger men uten stemmerett. Rådet kan for enkelte leiligheter tilkalle spesielle sakkyndige.\nArbeidsrådet har, foruten utføre de hverv som er pålagt det i denne lov, å fungere som rådgiver for departementet.​3\nDe nærmere bestemmelser om arbeidsrådets virksomhet gis av departementet.\n1 Skal iflg. lov 27 juni 1947 nr. 9 § 36 hete «Arbeidstilsynsrådet», jfr. også lover 3 des. 1948 nr. 4 § 24, nr. 5\n2 Se § 2.\n3 Kommunaldepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "7:49",
+      "chapter": "7",
+      "section": "49",
+      "title": "Avgiftsplikt.",
+      "content": "1. Bedrift som går inn under denne lov, og som er trygdepliktig efter lovgivningen om ulykkestrygd for industriarbeidere m.v.,​1 skal betale til statskassen en årlig tilsynsavgift efter regler som Kongen fastsetter. Avgiften kan inndrives ved utpantning.​2\nKongen kan bestemme at bedrift som går inn under denne lov, men ikke omfattes av loven om ulykkestrygd skal betale en tilsvarende tilsynsavgift, og kan fastsette regler om innkrevning av denne.\n2. Til dekning av de utgifter som er forbundet med undersøkelser og prøver av kjeler, beholdere og rørledninger som er utsatt for damptrykk, skal eieren eller brukeren betale en avgift efter regler som Kongen fastsetter. Avgiften kan inndrives ved utpantning.​2\nPå samme vis kan det pålegges avgift til dekning av utgiftene til det eftersyn som måtte bli påbudt med hjemmel i § 7, punkt 2.\n1 Se lov 24 juni 1931 nr. 6.\n2 Se tvangsfullbl. kap. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "7:50",
+      "chapter": "7",
+      "section": "50",
+      "title": "Utgiftene ved det stedlige tilsyn (arbeidsnevndene.)",
+      "content": "Utgiftene ved arbeidsnevndens virksomhet bæres av kommunen, undtagen forsåvidt angår den skyss- og kostgodtgjørelse som måtte tilkomme nevndens formann. Denne godtgjørelse utredes av statskassen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "8:51",
+      "chapter": "8",
+      "section": "51",
+      "content": "Såfremt ikke strengere straffebud efter den almindelige straffelov blir å bruke, straffes en arbeidsgiver​1 eller innehaver av bedrift med bøter,​2 når han:\n1. overtrer lovens bestemmelser om forebyggelse av arbeidsulykker og sikring av sunde arbeidsvilkår eller de i medhold av disse bestemmelser utferdigede forskrifter, reglement eller pålegg,\n2. overtrer lovens bestemmelser eller de i medhold av disse bestemmelser utferdigede forskrifter om natt-, søn- eller helgedagsarbeid, eller om arbeidstidens lengde eller om hvile- og fritid eller om særvern av kvinner, barn og ungdom,\n3. undlater å gjøre de i loven påbudte anmeldelser eller opslag, eller å føre de i loven påbudte lister eller å istandbringe arbeidsreglement,\n4. overtrer bestemmelsene i § 32 om opgjør med arbeiderne.​3\n1 Se § 52.\n2 Se strl. § 27.\n3 Se § 58.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "8:52",
+      "chapter": "8",
+      "section": "52",
+      "content": "Det som i loven er bestemt om arbeidsgiveren skal også gjelde for den som i arbeidsgiverens sted leder bedriften.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "8:53",
+      "chapter": "8",
+      "section": "53",
+      "content": "Såfremt ikke strengere straffebud efter den almindelige straffelov blir å bruke, straffes en arbeider​1 med bøter​2 når han gjør sig skyldig i nogen forseelse av den art som er nevnt i § 51, punkt 1.\n1 Se § 2.\n2 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "8:54",
+      "chapter": "8",
+      "section": "54",
+      "content": "Foreldre og foresatte som lar barn utføre arbeid i strid med denne lov,​1 straffes med bøter.​2\n1 Se kap. 6.\n2 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "8:55",
+      "chapter": "8",
+      "section": "55",
+      "content": "Såfremt ikke strengere straffebud efter den almindelige straffelov​1 blir å bruke, straffes med bøter​2 den som fjerner eller forsettlig eller ved grov uaktsomhet ødelegger påbudte sikringsdeler.\nPå samme måte straffes eier eller bruker av maskiner og andre tekniske innretninger, som overtrer de i denne lov eller med hjemmel i loven utferdigede forskrifter eller pålegg om forebyggelse av ulykker ved den slags maskiner og innretninger,og den som tilvirker, forhandler eller monterer maskineri av den art som er nevnt i § 8 uten de av tilsynet påbudte sikringsdeler.\n1 Se strl. §§ 291, 352 og 391.\n2 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "8:56",
+      "chapter": "8",
+      "section": "56",
+      "content": "Såfremt ikke strengere straffebud efter den almindelige straffelov blir å bruke,​1 straffes med bøter​2 den som legger hindringer i veien for arbeidsrådets eller tilsynets undersøkelser, eller undlader å yde den bistand som han plikter, eller å gi de oplysning som ansees påkrevd for utførelsen av tilsynet.\n1 Se navnlig strl. § 326.\n2 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "8:57",
+      "chapter": "8",
+      "section": "57",
+      "content": "Enhver som er knyttet til arbeidsrådet og arbeidstilsynet, er overfor den almindelige straffelov å regne for offentlig tjenestemann.​1\n1 Se strl. kap. 11 og 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    },
+    {
+      "provision_ref": "8:58",
+      "chapter": "8",
+      "section": "58",
+      "content": "Påtalen for forseelser mot denne lov er offentlig, men forseelser mot § 32 påtales ikke uten efter begjæring fra fornærmede.\nKapitel 9. I krafttredelses- og overgangsbestemmelser",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_58",
+        "source_heading": "§ 58."
+      }
+    },
+    {
+      "provision_ref": "8:59",
+      "chapter": "8",
+      "section": "59",
+      "content": "1. Denne lov trer i kraft den 1 januar 1937.\n2. Fra den dag denne lov trer i kraft opheves lov av 18 september 1915 om arbeiderbeskyttelse i industrielle virksomheter med forandringer og tillegg av 11 juli 1919 og 29 mai 1925, dog skal de i henhold til denne lovs §§ 3, 9, 17 og 18 utferdigede forskrifter og bestemmelser bli gjeldende inntil videre. likeledes opheves § 60 i lov av 14 juli 1842 om bergverksdriften.\n3. Bestemmelser i en tariffavtale som er inngått før denne lovs ikrafttreden og sin fastsetter en lengere arbeidstid eller en mindre betaling for overtidsarbeid enn bestemt efter denne lov, skal forbli gjeldende inntil avtalens gyldighetstid er utløpet, dog ikke utover 31 desember 1938.\n4. Bestemmelsene i kapitel 3 skal ikke gjelde for bedrifter for syke- og pleiehjelp før fra den tid Kongen bestemmer. Dog skal nevnte kapitel være gjort gjeldende for alle disse bedrifter senest innen 1 juli 1939.\n1 Endret ved lov 18 juni 1938 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_59",
+        "source_heading": "§ 59."
+      }
+    }
+  ]
+}

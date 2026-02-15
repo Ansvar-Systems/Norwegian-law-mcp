@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1937-06-25-9",
+  "type": "statute",
+  "title": "Lov om kapiteltakster.",
+  "short_name": "Kapiteltakstloven.",
+  "status": "in_force",
+  "issued_date": "1937-06-25",
+  "in_force_date": "1937-06-25",
+  "url": "https://lovdata.no/dokument/NLO/lov/1937-06-25-9",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Statens Kornforretning​1 fastsetter kapiteltakster for hvert bispedømme efter middelpriser på korn og mel i vedkommende bispedømme.​2\n1 Jfr. lov 22 juni 1928 nr. 27.\n2 Se lov 16 juni 1939 nr. 1 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen​1 fastsetter nærmere bestemmelser om lovens gjennemføring.\n1 Kirke- og kulturdepartementet iflg. res. 27 aug 1937. Forskrifter er fastsatt 15 okt 1937.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks. Samtidig opheves – – –.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Statens Kornforretning​1 fastsetter kapiteltakster for hvert bispedømme efter middelpriser på korn og mel i vedkommende bispedømme.​2\n1 Jfr. lov 22 juni 1928 nr. 27.\n2 Se lov 16 juni 1939 nr. 1 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen​1 fastsetter nærmere bestemmelser om lovens gjennemføring.\n1 Kirke- og kulturdepartementet iflg. res. 27 aug 1937. Forskrifter er fastsatt 15 okt 1937.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks. Samtidig opheves – – –.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

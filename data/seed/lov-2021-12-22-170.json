@@ -1,0 +1,301 @@
+{
+  "id": "LOV-2021-12-22-170",
+  "type": "statute",
+  "title": "Midlertidig lov om stønad til husholdninger som følge av ekstraordinære strømutgifter (strømstønadsloven)",
+  "short_name": "Strømstønadsloven",
+  "status": "in_force",
+  "issued_date": "2021-12-22",
+  "in_force_date": "2021-12-22",
+  "url": "https://lovdata.no/dokument/NLO/lov/2021-12-22-170",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Formålet med loven er å etablere en midlertidig ordning for økonomisk stønad til husholdninger som følge av ekstraordinære strømutgifter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Virkeområde",
+      "content": "Loven gjelder på norsk landterritorium.\nLoven gjelder energibruk fra og med desember 2021 til og med desember 2025.\n0 Endret ved lover 29 april 2022 nr. 25, 16 des 2022 nr. 95, 16 juni 2023 nr. 72, 20 des 2024 nr. 83 (i kraft 1 jan 2025).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Forvaltning av ordningen",
+      "content": "Reguleringsmyndigheten for energi skal beregne og offentliggjøre et stønadsgrunnlag og en stønadssats, forestå utbetaling av stønad til nettselskapene og føre tilsyn med ordningen.\nNettselskapene skal beregne stønadsbeløp for nettkunder med rett til stønad etter at stønadsgrunnlag og stønadssatsen er fastsatt av Reguleringsmyndigheten for energi, og utbetale stønaden.\nKraftleverandører som utfører gjennomfakturering av kunder, skal sikre at stønadsbeløpet som er fastsatt av nettselskapet tilfaller kunden ved fakturering.\nDepartementet kan i forskrift gi nærmere bestemmelser om forvaltning av ordningen, herunder om behandling av personopplysninger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Rett til stønad",
+      "content": "Nettkunde med egen strømmåler og som er rettmessig registrert som husholdningskunde hos nettselskapet, har rett til stønad etter ordningen.\nDepartementet kan gi forskrift med nærmere bestemmelser om hvem som har rett til stønad og om utvidelse av ordningen til nettkunder som driver landbruksvirksomhet.\nVed uenighet mellom nettselskap og nettkunde om rett til å bli omfattet av ordningen, kan nettkunden bringe saken inn for avgjørelse hos Reguleringsmyndigheten for energi. Reguleringsmyndigheten avgjør saken ved enkeltvedtak som ikke kan påklages.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Beregning av stønad basert på månedlig gjennomsnitt",
+      "content": "Reguleringsmyndigheten for energi skal innen siste dag i måneden beregne og offentliggjøre gjennomsnittlig månedlig elspotpris for hvert prisområde (stønadsgrunnlag). Prisen skal beregnes som et aritmetisk gjennomsnitt av alle timepriser.\nStønad gis bare dersom stønadsgrunnlaget overstiger 70 øre per kWt eksklusive merverdiavgift i prisområdet hvor kunden er tilknyttet (terskelverdi).\nReguleringsmyndigheten for energi skal beregne stønadssats basert på følgende formel for følgende måneder:\na. desember 2021: 0,55 x (stønadsgrunnlag – terskelverdi)\nb. januar 2022 til og med august 2022: 0,8 x (stønadsgrunnlag – terskelverdi)\nc. september 2022 til og med mars 2023: 0,9 x (stønadsgrunnlag – terskelverdi)\nd. april 2023 til og med mai 2023: 0,8 x (stønadsgrunnlag – terskelverdi)\ne. juni 2023 til og med august 2023: 0,9 x (stønadsgrunnlag – terskelverdi).\nNettselskapet skal beregne stønadsbeløp for hver enkelt nettkunde med rett til stønad på grunnlag av stønadssats og månedlig strømforbruk. Beregningen skal ta hensyn til merverdiavgift.\nDet gis ikke stønad for forbruk over 5 000 kWt per måned per målepunkt.\n0 Endret ved lover 28 jan 2022 nr. 4, 29 april 2022 nr. 25, 21 okt 2022 nr. 85, 16 des 2022 nr. 95, 16 juni 2023 nr. 72.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "5 a",
+      "section": "5 a",
+      "title": "Beregning av stønad time for time",
+      "content": "Reguleringsmyndigheten for energi skal beregne og offentliggjøre stønadssatser.\nNettselskapene skal beregne stønadssatser fortløpende og automatisk. Stønadssatsene beregnes time for time basert på følgende formel: 0,9 x (elspotpris i prisområdet hvor kunden er tilknyttet – terskelverdi). Beregningen skal ta hensyn til merverdiavgift.\nNettselskapet skal i forbindelse med fakturering beregne stønad for hver enkelt nettkunde med rett til stønad på grunnlag av stønadssats og timesforbruk.\nStønad gis bare for timer elspotprisen overstiger 70 øre per kWt eksklusive merverdiavgift i prisområdet hvor kunden er tilknyttet (terskelverdi). For forbruk fra og med januar 2024 er terskelverdien 73 øre per kWt eksklusive merverdiavgift. For forbruk fra og med januar 2025 er terskelverdien 75 øre per kWt eksklusive merverdiavgift.\nDet gis ikke stønad for forbruk over 5 000 kWt per måned per målepunkt.\nBeregning av stønad etter annet til femte ledd gjelder for forbruk fra og med september 2023.\nDepartementet kan gi nærmere forskrift om beregning av stønad, herunder om anvendelse av forbrukstaket og om beregning av stønad for kunder uten timesmåling. Departementet kan i forskrift fastsette en nedre grense for når det utbetales strømstønad.\n0 Tilføyd ved lov 16 juni 2023 nr. 72, endret ved lover 15 des 2023 nr. 93 (i kraft 1 jan 2024), 20 des 2024 nr. 83 (i kraft 1 jan 2025).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5a",
+        "source_heading": "§ 5a."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Utbetaling av stønad",
+      "content": "Stønaden skal komme til fradrag i fakturert nettleie fra nettselskapet. Dersom nettleien faktureres separat og stønaden overstiger nettleien, skal det overskytende beløp utbetales til kunden senest ved fakturaforfall.\nVed gjennomfakturering skal kraftleverandør sørge for at utbetaling til sluttkunden skjer gjennom fradrag på faktura. Dersom stønadsbeløpet overstiger nettleien, skal nettselskapet overføre overskytende beløp til kraftleverandøren.\nInformasjon om forbruk og stønadsbeløp skal fremgå av fakturaen fra kraftleverandøren som utfører gjennomfakturering eller nettselskapet. Det skal gis informasjon til kunden om at stønadssatser time for time offentliggjøres av Reguleringsmyndigheten for energi.\nFor nettselskap med leveringsplikt etter energiloven § 3-3 gjelder første og tredje ledd tilsvarende.\n0 Endret ved lover 28 jan 2022 nr. 4, 16 juni 2023 nr. 72.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Rapportering og kontroll",
+      "content": "Nettselskapene skal hver måned snarest mulig oversende til Reguleringsmyndigheten for energi en oversikt over stønadsbeløpene som er utbetalt til nettkundene.\nReguleringsmyndigheten for energi fører tilsyn med ordningen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Innhenting av opplysninger",
+      "content": "Reguleringsmyndigheten for energi kan pålegge nettselskaper, kraftleverandører og Elhub, uten hinder av taushetsplikt, å gi opplysninger som er nødvendige for fastsetting av stønad etter denne loven og kontrollen av denne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Tilbakebetaling av uriktig utbetalt stønad",
+      "content": "Dersom det er utbetalt stønad til noen som ikke er rettmessige mottakere, kan Reguleringsmyndigheten for energi fatte vedtak med krav om tilbakebetaling av det uriktig utbetalte beløpet. Vedtaket kan påklages etter reglene i forvaltningsloven til departementet. Reguleringsmyndigheten for energi kan helt eller delvis frafalle krav om tilbakebetaling.\nKrav om tilbakebetaling etter første ledd forfaller til betaling tre uker etter at kravet er sendt til skyldner.\nDepartementet kan gi forskrift om tilbakebetaling av uriktig utbetalt stønad, herunder om tilbakebetaling til nettselskapet uten at det er fattet vedtak etter første ledd.\n0 Endret ved lov 16 juni 2023 nr. 72.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Prisreguleringen av fjernvarme",
+      "content": "Ved beregning av prisen for fjernvarme for husholdninger etter energiloven § 5-5 første ledd annet punktum, skal det gjøres fratrekk tilsvarende stønad beregnet etter § 5 og § 5a. Departementet kan gi nærmere forskrift om prisregulering av fjernvarme for kunder med eller uten tilknytningsplikt.\n0 Endret ved lover 28 jan 2022 nr. 4, 16 juni 2023 nr. 72.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "Forskrifter",
+      "content": "Departementet kan gi forskrift til utfylling av denne loven. I særskilte tilfeller kan departementet gi forskrift som fraviker bestemmelser i loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "title": "Ikrafttredelse og opphevelse",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer.\nLoven oppheves 1. juli 2026.\n0 Endret ved lover 29 april 2022 nr. 25, 16 des 2022 nr. 95, 16 juni 2023 nr. 72, 20 des 2024 nr. 83 (i kraft 1 jan 2025).\n1 Fra 22. desember 2021 iflg. res. 22 des 2021 nr. 3798.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Formålet med loven er å etablere en midlertidig ordning for økonomisk stønad til husholdninger som følge av ekstraordinære strømutgifter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Virkeområde",
+      "content": "Loven gjelder på norsk landterritorium.\nLoven gjelder energibruk fra og med desember 2021 til og med desember 2025.\n0 Endret ved lover 29 april 2022 nr. 25, 16 des 2022 nr. 95, 16 juni 2023 nr. 72, 20 des 2024 nr. 83 (i kraft 1 jan 2025).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Forvaltning av ordningen",
+      "content": "Reguleringsmyndigheten for energi skal beregne og offentliggjøre et stønadsgrunnlag og en stønadssats, forestå utbetaling av stønad til nettselskapene og føre tilsyn med ordningen.\nNettselskapene skal beregne stønadsbeløp for nettkunder med rett til stønad etter at stønadsgrunnlag og stønadssatsen er fastsatt av Reguleringsmyndigheten for energi, og utbetale stønaden.\nKraftleverandører som utfører gjennomfakturering av kunder, skal sikre at stønadsbeløpet som er fastsatt av nettselskapet tilfaller kunden ved fakturering.\nDepartementet kan i forskrift gi nærmere bestemmelser om forvaltning av ordningen, herunder om behandling av personopplysninger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Rett til stønad",
+      "content": "Nettkunde med egen strømmåler og som er rettmessig registrert som husholdningskunde hos nettselskapet, har rett til stønad etter ordningen.\nDepartementet kan gi forskrift med nærmere bestemmelser om hvem som har rett til stønad og om utvidelse av ordningen til nettkunder som driver landbruksvirksomhet.\nVed uenighet mellom nettselskap og nettkunde om rett til å bli omfattet av ordningen, kan nettkunden bringe saken inn for avgjørelse hos Reguleringsmyndigheten for energi. Reguleringsmyndigheten avgjør saken ved enkeltvedtak som ikke kan påklages.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Beregning av stønad basert på månedlig gjennomsnitt",
+      "content": "Reguleringsmyndigheten for energi skal innen siste dag i måneden beregne og offentliggjøre gjennomsnittlig månedlig elspotpris for hvert prisområde (stønadsgrunnlag). Prisen skal beregnes som et aritmetisk gjennomsnitt av alle timepriser.\nStønad gis bare dersom stønadsgrunnlaget overstiger 70 øre per kWt eksklusive merverdiavgift i prisområdet hvor kunden er tilknyttet (terskelverdi).\nReguleringsmyndigheten for energi skal beregne stønadssats basert på følgende formel for følgende måneder:\na. desember 2021: 0,55 x (stønadsgrunnlag – terskelverdi)\nb. januar 2022 til og med august 2022: 0,8 x (stønadsgrunnlag – terskelverdi)\nc. september 2022 til og med mars 2023: 0,9 x (stønadsgrunnlag – terskelverdi)\nd. april 2023 til og med mai 2023: 0,8 x (stønadsgrunnlag – terskelverdi)\ne. juni 2023 til og med august 2023: 0,9 x (stønadsgrunnlag – terskelverdi).\nNettselskapet skal beregne stønadsbeløp for hver enkelt nettkunde med rett til stønad på grunnlag av stønadssats og månedlig strømforbruk. Beregningen skal ta hensyn til merverdiavgift.\nDet gis ikke stønad for forbruk over 5 000 kWt per måned per målepunkt.\n0 Endret ved lover 28 jan 2022 nr. 4, 29 april 2022 nr. 25, 21 okt 2022 nr. 85, 16 des 2022 nr. 95, 16 juni 2023 nr. 72.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "5 a",
+      "section": "5 a",
+      "title": "Beregning av stønad time for time",
+      "content": "Reguleringsmyndigheten for energi skal beregne og offentliggjøre stønadssatser.\nNettselskapene skal beregne stønadssatser fortløpende og automatisk. Stønadssatsene beregnes time for time basert på følgende formel: 0,9 x (elspotpris i prisområdet hvor kunden er tilknyttet – terskelverdi). Beregningen skal ta hensyn til merverdiavgift.\nNettselskapet skal i forbindelse med fakturering beregne stønad for hver enkelt nettkunde med rett til stønad på grunnlag av stønadssats og timesforbruk.\nStønad gis bare for timer elspotprisen overstiger 70 øre per kWt eksklusive merverdiavgift i prisområdet hvor kunden er tilknyttet (terskelverdi). For forbruk fra og med januar 2024 er terskelverdien 73 øre per kWt eksklusive merverdiavgift. For forbruk fra og med januar 2025 er terskelverdien 75 øre per kWt eksklusive merverdiavgift.\nDet gis ikke stønad for forbruk over 5 000 kWt per måned per målepunkt.\nBeregning av stønad etter annet til femte ledd gjelder for forbruk fra og med september 2023.\nDepartementet kan gi nærmere forskrift om beregning av stønad, herunder om anvendelse av forbrukstaket og om beregning av stønad for kunder uten timesmåling. Departementet kan i forskrift fastsette en nedre grense for når det utbetales strømstønad.\n0 Tilføyd ved lov 16 juni 2023 nr. 72, endret ved lover 15 des 2023 nr. 93 (i kraft 1 jan 2024), 20 des 2024 nr. 83 (i kraft 1 jan 2025).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5a",
+        "source_heading": "§ 5a."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Utbetaling av stønad",
+      "content": "Stønaden skal komme til fradrag i fakturert nettleie fra nettselskapet. Dersom nettleien faktureres separat og stønaden overstiger nettleien, skal det overskytende beløp utbetales til kunden senest ved fakturaforfall.\nVed gjennomfakturering skal kraftleverandør sørge for at utbetaling til sluttkunden skjer gjennom fradrag på faktura. Dersom stønadsbeløpet overstiger nettleien, skal nettselskapet overføre overskytende beløp til kraftleverandøren.\nInformasjon om forbruk og stønadsbeløp skal fremgå av fakturaen fra kraftleverandøren som utfører gjennomfakturering eller nettselskapet. Det skal gis informasjon til kunden om at stønadssatser time for time offentliggjøres av Reguleringsmyndigheten for energi.\nFor nettselskap med leveringsplikt etter energiloven § 3-3 gjelder første og tredje ledd tilsvarende.\n0 Endret ved lover 28 jan 2022 nr. 4, 16 juni 2023 nr. 72.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Rapportering og kontroll",
+      "content": "Nettselskapene skal hver måned snarest mulig oversende til Reguleringsmyndigheten for energi en oversikt over stønadsbeløpene som er utbetalt til nettkundene.\nReguleringsmyndigheten for energi fører tilsyn med ordningen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Innhenting av opplysninger",
+      "content": "Reguleringsmyndigheten for energi kan pålegge nettselskaper, kraftleverandører og Elhub, uten hinder av taushetsplikt, å gi opplysninger som er nødvendige for fastsetting av stønad etter denne loven og kontrollen av denne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Tilbakebetaling av uriktig utbetalt stønad",
+      "content": "Dersom det er utbetalt stønad til noen som ikke er rettmessige mottakere, kan Reguleringsmyndigheten for energi fatte vedtak med krav om tilbakebetaling av det uriktig utbetalte beløpet. Vedtaket kan påklages etter reglene i forvaltningsloven til departementet. Reguleringsmyndigheten for energi kan helt eller delvis frafalle krav om tilbakebetaling.\nKrav om tilbakebetaling etter første ledd forfaller til betaling tre uker etter at kravet er sendt til skyldner.\nDepartementet kan gi forskrift om tilbakebetaling av uriktig utbetalt stønad, herunder om tilbakebetaling til nettselskapet uten at det er fattet vedtak etter første ledd.\n0 Endret ved lov 16 juni 2023 nr. 72.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Prisreguleringen av fjernvarme",
+      "content": "Ved beregning av prisen for fjernvarme for husholdninger etter energiloven § 5-5 første ledd annet punktum, skal det gjøres fratrekk tilsvarende stønad beregnet etter § 5 og § 5a. Departementet kan gi nærmere forskrift om prisregulering av fjernvarme for kunder med eller uten tilknytningsplikt.\n0 Endret ved lover 28 jan 2022 nr. 4, 16 juni 2023 nr. 72.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "Forskrifter",
+      "content": "Departementet kan gi forskrift til utfylling av denne loven. I særskilte tilfeller kan departementet gi forskrift som fraviker bestemmelser i loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "title": "Ikrafttredelse og opphevelse",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer.\nLoven oppheves 1. juli 2026.\n0 Endret ved lover 29 april 2022 nr. 25, 16 des 2022 nr. 95, 16 juni 2023 nr. 72, 20 des 2024 nr. 83 (i kraft 1 jan 2025).\n1 Fra 22. desember 2021 iflg. res. 22 des 2021 nr. 3798.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1981-05-22-23",
+  "type": "statute",
+  "title": "Lov om embedsed etter Grunnloven § 21 [embetsedloven]",
+  "short_name": "Embedsedloven",
+  "status": "in_force",
+  "issued_date": "1981-05-22",
+  "in_force_date": "1981-05-22",
+  "url": "https://lovdata.no/dokument/NLO/lov/1981-05-22-23",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ved utnevning i embete kan forsikring avgis istedenfor ed dersom den som utnevnes hører til et trossamfunn som ut fra sin bekjennelse eller religiøse oppfatning ikke tillater ed. Det samme gjelder dersom avleggelse av ed strider mot vedkommendes egen religiøse oppfatning, eller vedkommende ikke tror på en allmektig og allvitende Gud.\n0 Tilføyd ved lov 14 juni 1985 nr. 71.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Departementet kan frita en person som ikke er norsk borger fra plikten til å avlegge ed eller forsikring etter reglene i Grunnloven § 21, såfremt han risikerer å tape sitt fremmede statsborgerskap ved å avlegge slik ed eller forsikring, eller dersom andre særlige grunner foreligger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Ved utnevnelse i embete må ed eller forsikring etter Grunnloven § 21 være gitt før embetsbrev blir utferdiget og før vedkommende tiltrer embetet. Dersom ed eller forsikring ikke er gitt innen en frist som departementet fastsetter, faller utnevnelsen bort.\n0 Endret ved lov 14 juni 1985 nr. 71 (tidligere § 1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ved utnevning i embete kan forsikring avgis istedenfor ed dersom den som utnevnes hører til et trossamfunn som ut fra sin bekjennelse eller religiøse oppfatning ikke tillater ed. Det samme gjelder dersom avleggelse av ed strider mot vedkommendes egen religiøse oppfatning, eller vedkommende ikke tror på en allmektig og allvitende Gud.\n0 Tilføyd ved lov 14 juni 1985 nr. 71.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Departementet kan frita en person som ikke er norsk borger fra plikten til å avlegge ed eller forsikring etter reglene i Grunnloven § 21, såfremt han risikerer å tape sitt fremmede statsborgerskap ved å avlegge slik ed eller forsikring, eller dersom andre særlige grunner foreligger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Ved utnevnelse i embete må ed eller forsikring etter Grunnloven § 21 være gitt før embetsbrev blir utferdiget og før vedkommende tiltrer embetet. Dersom ed eller forsikring ikke er gitt innen en frist som departementet fastsetter, faller utnevnelsen bort.\n0 Endret ved lov 14 juni 1985 nr. 71 (tidligere § 1).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

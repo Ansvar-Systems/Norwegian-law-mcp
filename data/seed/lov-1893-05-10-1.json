@@ -1,0 +1,77 @@
+{
+  "id": "LOV-1893-05-10-1",
+  "type": "statute",
+  "title": "Lov om avgivelse av forsikring.",
+  "short_name": "Lov om avgivelse av forsikring",
+  "status": "in_force",
+  "issued_date": "1893-05-10",
+  "in_force_date": "1893-05-10",
+  "url": "https://lovdata.no/dokument/NLO/lov/1893-05-10-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Når ikke annen framgangsmåte er fastsatt i eller i medhold av lov, avgis muntlig forsikring ved at den som tar i mot forsikringen spør: «Forsikrer De at....» Til dette svarer den som skal gi forsikring stående og med løftet høyre hånd: «Det forsikrer jeg».\nNår forsikring gis skriftlig, brukes disse bekreftelsesord: «Dette forsikrer jeg».\n1 Endret ved lover 14 juni 1985 nr. 71, 18 des 1987 nr. 97.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Medlemmer av trossamfunn kan gi forsikring etter formularet i § 1 såfremt avgivelse av forsikring på ære og samvittighet strider mot trossamfunnets trosbekjennelse eller religiøse oppfatning.\n1 Endret ved lov 14 juni 1985 nr. 71.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "(Opphevelsesbestemmelse.)",
+      "content": "§ 5.(Opphevelsesbestemmelse.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Når ikke annen framgangsmåte er fastsatt i eller i medhold av lov, avgis muntlig forsikring ved at den som tar i mot forsikringen spør: «Forsikrer De at....» Til dette svarer den som skal gi forsikring stående og med løftet høyre hånd: «Det forsikrer jeg».\nNår forsikring gis skriftlig, brukes disse bekreftelsesord: «Dette forsikrer jeg».\n1 Endret ved lover 14 juni 1985 nr. 71, 18 des 1987 nr. 97.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Medlemmer av trossamfunn kan gi forsikring etter formularet i § 1 såfremt avgivelse av forsikring på ære og samvittighet strider mot trossamfunnets trosbekjennelse eller religiøse oppfatning.\n1 Endret ved lov 14 juni 1985 nr. 71.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "(Opphevelsesbestemmelse.)",
+      "content": "§ 5.(Opphevelsesbestemmelse.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ]
+}

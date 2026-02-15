@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1961-12-22-1",
+  "type": "statute",
+  "title": "Lov om overføring av myntvesenet til Norges Bank",
+  "short_name": "Lov om overføring av myntvesenet",
+  "status": "in_force",
+  "issued_date": "1961-12-22",
+  "in_force_date": "1961-12-22",
+  "url": "https://lovdata.no/dokument/NLO/lov/1961-12-22-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Myntvesenet overtas av Norges Bank.\nUtmynting av skillemynt skjer for Norges Banks regning. Norges Bank kan utmynte så meget som banken finner nødvendig for å tilfredsstille omsetningslivets behov. Den innløsnings- og ombytningsplikt som påhviler staten etter lovgivningen overtas av Norges Bank.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne lov trer i kraft fra 1. januar 1962.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Myntvesenet overtas av Norges Bank.\nUtmynting av skillemynt skjer for Norges Banks regning. Norges Bank kan utmynte så meget som banken finner nødvendig for å tilfredsstille omsetningslivets behov. Den innløsnings- og ombytningsplikt som påhviler staten etter lovgivningen overtas av Norges Bank.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne lov trer i kraft fra 1. januar 1962.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1925-05-01",
+  "type": "statute",
+  "title": "Lov um å setja i verk visse fyresegner i Aust-Grønlandsavtala frå 9 juli 1924",
+  "short_name": "Iverksetjingslov um Aust-Grønlandsavtala",
+  "status": "in_force",
+  "issued_date": "1925-05-01",
+  "in_force_date": "1925-05-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1925-05-01",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Um jakt, veiding og fiske og um retten til å leggja under seg grunn på Aust-Grønland gjeld fyresegnene i art. 3, fyrste leden og art. 4, jfr. art. 6 i den avtala som Noreg og Danmark gjorde um Aust-Grønland 9 juli 1924.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen fær fullmakt til å gjeva nærare fyresegner um jakt, veiding og fiske til å hindra at sjeldsynte eller nyttige dyreslag vert avøydde eller til å halda uppe eller reisa uppatt sovoren dyresetnad.\nBrot på desse fyresegnene vert straffa med bøter​1 eller fengsel i upptil 3 månader.\n1 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Um jakt, veiding og fiske og um retten til å leggja under seg grunn på Aust-Grønland gjeld fyresegnene i art. 3, fyrste leden og art. 4, jfr. art. 6 i den avtala som Noreg og Danmark gjorde um Aust-Grønland 9 juli 1924.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen fær fullmakt til å gjeva nærare fyresegner um jakt, veiding og fiske til å hindra at sjeldsynte eller nyttige dyreslag vert avøydde eller til å halda uppe eller reisa uppatt sovoren dyresetnad.\nBrot på desse fyresegnene vert straffa med bøter​1 eller fengsel i upptil 3 månader.\n1 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

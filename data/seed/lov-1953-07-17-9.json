@@ -1,0 +1,1581 @@
+{
+  "id": "LOV-1953-07-17-9",
+  "type": "statute",
+  "title": "Lov om kommunal beredskapsplikt, sivile beskyttelsestiltak og sivilforsvaret [sivilforsvarsloven].",
+  "short_name": "Sivilforsvarsloven.",
+  "status": "in_force",
+  "issued_date": "1953-07-17",
+  "in_force_date": "1953-07-17",
+  "url": "https://lovdata.no/dokument/NLO/lov/1953-07-17-9",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Sivilforsvarets oppgave er å planlegge og iverksette tiltak av ikke militær art, som tar sikte på å forebygge skade på sivilfolket ved krigshandlinger eller råde bot på slik skade, og som ikke ved særskilt bestemmelse er lagt til annen myndighet.\nI den utstrekning og på de vilkår som Kongen bestemmer, skal sivilforsvaret også hjelpe til med å forebygge og råde bot på skader som ikke skyldes krigshandlinger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Til gjennomføring av oppgaven etter § 1 kan det kreves​1 bistand av offentlige myndigheter, enkeltpersoner og institusjoner.\nEnhver plikter​1 å motta oppnevning eller valg til sivilforsvarsrådet (§ 6) og de nemnder som opprettes i forbindelse med sivilforsvaret (§§ 13 og 34).\nEnhver plikter​1 å gi sivilforsvarets myndigheter og tilsynsmyndigheten de opplysninger de trenger, uten hinder av taushetsplikt, for å kunne utføre sine gjøremål etter loven. Sivilforsvarets myndigheter og tilsynsmyndigheten kan bestemme i hvilken form opplysningene skal gis.\nOpplysninger som nevnt i tredje ledd kan også kreves fra andre offentlige tilsynsmyndigheter uten hinder av den taushetsplikt som ellers gjelder. Opplysningsplikten gjelder bare de opplysninger som er nødvendige for at tilsynsmyndigheten skal kunne utføre sine oppgaver etter loven.\nSom sivilforsvarets myndigheter regnes offentlig organ som ikke er sivilforsvarets tilsynsmyndighet etter § 48 annet ledd, jf. første ledd.\n0 Endret ved lov 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234).\n1 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Når riket er i krig eller krig truer, kan Kongen erklære sivilforsvarsberedskap for hele riket eller deler av det.\n1 Jf. lov 15 des 1950 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "For offentlig sted og for steder som er tilgjengelige for allmennheten kan Kongen gi bestemmelser om den alminnelige ferdsel, orden og sikkerhet under sivilforsvarsberedskap. For øvingsformål kan departementet​1 gi slike bestemmelser selv om sivilforsvarsberedskap ikke er erklært.\nUnder sivilforsvarsberedskap kan politimesteren helt eller delvis forby​2 bruken av forsamlingslokaler eller andre lokaler som er tilgjengelige for allmennheten. Han kan også forby​2 møter og tilstelninger på steder som i alminnelighet er tilgjengelige for allmennheten.\n0 Endret ved lov 4 juni 2004 nr. 34.\n1 Justisdepartementet.\n2 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "Sivilforsvaret hører under det departement​1 Kongen bestemmer.\nKongen tilsetter en sjef for sivilforsvaret og gir regler om hans myndighet. Tilsettingen kan skje på åremål.\n0 Endret ved lov 29 juni 1956 nr. 2.\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "Til sikring av samarbeidet med andre myndigheter, institusjoner og organisasjoner skal det være et sivilforsvarsråd. Kongen oppnevner medlemmene og fastsetter instruks for rådets virksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 8 juni 1979 nr. 37.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "Riket er inndelt i sivilforsvarsdistrikter, med en distriktssjef som leder av hvert distrikt.\nDepartementet​1 fastsetter distriktenes geografiske område og instruks for distriktssjefen.\n0 Endret ved lover 12 jan 1995 nr. 5, 4 juni 2004 nr. 34.\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "Innenfor sivilforsvarsdistriktet​1 kan det for byer og tettbebyggelser etter departementets​2 bestemmelse organiseres lokale sivilforsvar.\nFor hvert lokalt sivilforsvar skal det være en sjef som oppnevnes av departementet og som er underlagt distriktssjefen.​1\nDistriktssjefen er, hvis ingen annen oppnevnes, sjef for det lokale sivilforsvar hvor han har sitt kontor, såfremt dette ligger innenfor hans distrikt.\nDepartementet kan bestemme at det skal iverksettes felles sivilforsvarstiltak for en industriell bedrift og et nærmere bestemt område utenfor bedriften. I slikt lokalt sivilforsvar har bedriftens ledelse ansvaret for gjennomføringen av sivilforsvarstiltakene.\nDepartementet fastsetter instruks for den lokale sjef og for bedriftens ledelse.\n0 Endret ved lov 4 juni 2004 nr. 34.\n1 Se § 8.\n2 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "Politiets​1 embets- og tjenestemenn er pliktige​1 til å motta beskikkelse etter § 8 og til etter oppnevning eller beordring å gjøre tjeneste i embeter, bestillinger og verv i sivilforsvaret. De skal for øvrig være forpliktet​2 til å utføre de gjøremål som blir pålagt dem i forbindelse med sivilforsvaret.\n1 Jf. lov 4 aug 1995 nr. 53.\n2 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "Kongen gir regler om samordningen mellom politiet og sivilforsvaret.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "content": "Kongen gir bestemmelser om grader, stillingsbetegnelser og uniformer i sivilforsvaret.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "content": "Til å bistå sivilforsvarets myndigheter kan det etter nærmere regler som gis av Kongen, velges lokale nemnder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "content": "Den som ved lovens ikrafttreden innehar verv i sivilforsvaret, fortsetter i dette uten særskilt oppnevning.\nLikeledes fortsetter alle nemnder sin virksomhet inntil deres tidligere fastsatte funksjonstid utløper.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "content": "Kommunene skal:\n1. Bygge, utstyre og innrede offentlige tilfluktsrom overensstemmende med planer som er godkjent av departementet,​1 samt holde dem vedlike og i forsvarlig stand for bruk i krig.\n2. Sørge for reserve- og sikringstiltak for vannforsyningen og de kommunale tekniske anlegg.\n3. Forvalte og oppbevare det lokale sivilforsvars materiell.\n4. Vedlikeholde det materiell som tilhører brannvern- og rydningstjenesten i det lokale sivilforsvar.\n5. Stille kommunalt materiell, rom og kommunal grunn til rådighet ved innsats eller i utdanningsøyemed.\n6. Sørge for varme, lys og renhold i rom som sivilforsvaret har rådighet over etter nr. 5.\n7. Stille kommunal grunn til rådighet for bygging av lokale sivilforsvarsanlegg, samt tillate gjennomført forandringer av rom som stilles til rådighet etter nr. 5.\n8. Sørge for loftsrydding, merking av fortauskanter m.v. og blending på offentlig sted.\n9. Treffe tiltak for innkvartering, bespisning og annen bistand når dette er påkrevet som følge av krigshandlinger.\n10. Ha ansvaret for og lede gjenopprettingsarbeidet fra det tidspunkt sjefen for det lokale sivilforsvar bestemmer.\n11. Anskaffe og fordele materiell og utstyr til sivilforsvarsrodene (jfr. § 40) og få i stand samlingsplasser for disse.\n12. Iverksette sivilforsvarstiltak til vern om skog, avling på rot o.l.\n13. Yte råd og bistand ved løsningen av sivilforsvarets oppgaver, herunder bl.a.: Gi teknisk hjelp ved planlegging, utførelse og vedlikehold av sivilforsvarsanlegg. Innhente og gi opplysninger og bearbeide oppgaver til bruk ved utskrivning og krigsutflytting. Hjelpe til ved gjennomføring av krigsutflytting.\n14. Ivareta kommunale beredskapsplikter etter §§ 15 a og 15 b.\n0 Endret ved lov 19 juni 2009 nr. 83 (ikr. 1 jan 2010 iflg. res. 26 juni 2009 nr. 878).\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:15 a",
+      "chapter": "3",
+      "section": "15 a",
+      "content": "Kommunen plikter å kartlegge hvilke uønskede hendelser som kan inntreffe i kommunen, vurdere sannsynligheten for at disse hendelsene inntreffer og hvordan de i så fall kan påvirke kommunen. Resultatet av dette arbeidet skal vurderes og sammenstilles i en helhetlig risiko- og sårbarhetsanalyse.\nRisiko- og sårbarhetsanalysen skal legges til grunn for kommunens arbeid med samfunnssikkerhet og beredskap, herunder ved utarbeiding av planer etter lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven)(plandelen).\nRisiko- og sårbarhetsanalysen skal oppdateres i takt med revisjon av kommunedelplaner, jf. lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) (plandelen) § 11-4 første ledd, og for øvrig ved endringer i risiko- og sårbarhetsbildet.\nKongen kan i forskrift gi nærmere bestemmelser om gjennomføring av risiko- og sårbarhetsanalysen.\n0 Tilføyd ved lov 19 juni 2009 nr. 83 (ikr. 1 jan 2010 iflg. res. 26 juni 2009 nr. 878).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15a",
+        "source_heading": "§ 15 a."
+      }
+    },
+    {
+      "provision_ref": "3:15 b",
+      "chapter": "3",
+      "section": "15 b",
+      "content": "Med utgangspunkt i risiko- og sårbarhetsanalysen etter § 15 a skal kommunen utarbeide en beredskapsplan.\nBeredskapsplanen skal inneholde en oversikt over hvilke tiltak kommunen har forberedt for å håndtere uønskede hendelser. Som et minimum skal beredskapsplanen inneholde en plan for kommunens kriseledelse, varslingslister, ressursoversikt, evakueringsplan og plan for informasjon til befolkningen og media.\nBeredskapsplanen skal være oppdatert og revideres minimum én gang per år. Kommunen skal sørge for at planen blir jevnlig øvet.\nKongen kan i forskrift gi nærmere bestemmelser om beredskapsplanens innhold og øvrige krav etter denne bestemmelsen.\n0 Tilføyd ved lov 19 juni 2009 nr. 83 (ikr. 1 jan 2010 iflg. res. 26 juni 2009 nr. 878).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15b",
+        "source_heading": "§ 15 b."
+      }
+    },
+    {
+      "provision_ref": "3:15 c",
+      "chapter": "3",
+      "section": "15 c",
+      "content": "Fylkesmannen fører tilsyn med lovligheten av kommunens oppfyllelse av plikter pålagt i §§ 15 a og 15 b.\nLov 25. september 1992 nr. 107 om kommuner og fylkeskommuner (kommuneloven) kapittel 10 A gjelder for tilsynsvirksomheten etter første ledd.\n0 Tilføyd ved lov 19 juni 2009 nr. 83 (ikr. 1 jan 2010 iflg. res. 26 juni 2009 nr. 878).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15c",
+        "source_heading": "§ 15 c."
+      }
+    },
+    {
+      "provision_ref": "3:15 d",
+      "chapter": "3",
+      "section": "15 d",
+      "content": "For Svalbard gjelder bestemmelsene i §§ 15 a, 15 b og 15 c i det omfang og med de stedlige tilpasninger Kongen bestemmer.\n0 Tilføyd ved lov 19 juni 2009 nr. 83 (ikr. 1 jan 2010 iflg. res. 26 juni 2009 nr. 878).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15d",
+        "source_heading": "§ 15 d."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "Utgifter ved bygging av offentlige tilfluktsrom utredes av kommunen med refusjon​2 av staten med inntil 2/3 av godkjente omkostninger ved de anskaffelser og arbeider som av departementet​3 ansees nødvendige for å sette tilfluktsrommet i forsvarlig stand for bruk i krig.\nKongen fastsetter for de ulike typer av tilfluktsrom det høyeste beløp for statens tilskudd.\nSkal tilfluktsrommet anvendes for fredsformål, trekkes verdien av denne anvendelse fra de samlede byggeomkostninger. I disse skal i så fall regnes med de mulige merutgifter som følger av at tilfluktsrommet settes i stand for fredsformål. Krav om at det skal tas hensyn til fredsanvendelsen kan fremsettes av departementet innen 10 år etterat tilfluktsrommet er godkjent til bruk, også om refusjonen allerede er utbetalt på annet grunnlag. Verdien av tilfluktsrommets anvendelse for fredsformål og omkostningene ved å sette rommet i stand for dette formål, fastsettes i mangel av enighet ved skjønn.​4\n1 Jf. § 22.\n2 Jf. § 18.\n3 Justisdepartementet.\n4 Se skjl. kap. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "For utgifter til reservetiltak for vannforsyningen etter § 15 nr. 2 yter staten refusjon​1 etter nærmere bestemmelse av departementet.​2\nDet samme gjelder utgifter kommunen påføres om kommunal eiendom som er stillet til rådighet etter § 15 nr. 5 blir betydelig skadet.\nEtter bestemmelse av departementet kan staten bygge eller yte tilskudd til bygging av magasiner og lagerrom.\n1 Jf. § 18.\n2 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "Kommunen har ikke krav på godtgjøring for ytelser eller refusjon av utgifter om følger av § 15 utover det som er bestemt i §§ 16 og 17.\nStatens bidrag etter §§ 16 og 17 kan etter bestemmelse av departementet​1 ytes som forskudd.\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "content": "Ligger to eller flere kommuner helt eller delvis innen samme lokale sivilforsvar,​1 skal utgifter som gjelder tiltak etter § 15 nr. 3 og 4, fordeles mellom kommunene på grunnlag av folketallet i den del av kommunen som omfattes av det lokale sivilforsvar.\nNår fordeling skal skje etter første ledd, bestemmer departementet​2 hvilken av kommunene som skal ha ansvaret for gjennomføringen av de oppgaver som utgiftene gjelder. Departementet kan også treffe bestemmelse om betaling av forskudd til den kommune som skal gjennomføre oppgaven.\n1 Se § 9.\n2 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "content": "Mannskap og materiell fra et lokalt sivilforsvar​1 kan nyttes til hjelp utenfor sitt område. Utgiftene bæres av den kommune som mottar hjelpen, etter departementets​2 nærmere bestemmelse.\n1 Se § 9.\n2 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "content": "Departementet​1 kan bestemme at reglene i dette kapitel helt eller delvis skal gjelde for brannkommuner,​2 bygningskommuner​3 og havnekasser.​4\n1 Justisdepartementet.\n2 Særlige brannkommuner kunne opprettes etter § 1 i lov 19 nov 1954. Loven er opphevet og erstattet av lov 5 juni 1987 nr. 26 som ikke gir hjemmel for å opprette særlige brannkommuner.\n3 Se lov 14 juni 1985 nr. 77 kap. II.\n4 Se lov 8 juni 1984 nr. 51 kap. VI.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "3:22",
+      "chapter": "3",
+      "section": "22",
+      "content": "Departementet​1 kan bestemme at reglene i § 16, herunder de maksimumsbeløp som fastsettes etter § 16, annet ledd, også skal komme til anvendelse for tilfluktsrom som er under bygging eller som det foreligger godkjente planer for når loven trer i kraft.\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "content": "Menn og kvinner mellom 18 og 65 år som oppholder seg i riket, kan pålegges​1 tjenesteplikt i sivilforsvaret.\nI egenbeskyttelsen (jfr. kapitel VI) kan også personer over 65 år pålegges tjenesteplikt.\nPersoner mellom 16 og 18 år og over 65 år kan etter eget ønske antas til tjeneste. I så fall kommer §§ 25, 27 og 29 til anvendelse, dog slik at legeundersøkelse alltid skal foretas.\nFrivillige sivilforsvarsmannskaper har samme beskyttelse som tjenestepliktige mot oppsigelse fra stilling på grunn av tjenesten.\n0 Endret ved lov 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712).\n1 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "content": "Enhver som kan pålegges tjenesteplikt etter § 23, plikter​1 også å tjenestegjøre som befal eller instruktør og å gjennomgå den nødvendige utdannelse for stillingen.\n1 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "content": "Vernepliktig​1 kan ikke kalles inn til eller beholdes i tjeneste i sivilforsvaret når han derved hindres i å utføre sin militære tjenesteplikt.\n1 Se lov 17 juli 1953 nr. 29 § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "4:26",
+      "chapter": "4",
+      "section": "26",
+      "content": "Menn og kvinner kan i krigstid settes til å hjelpe til med sivilforsvarsarbeid som må utføres uten opphold.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "4:27",
+      "chapter": "4",
+      "section": "27",
+      "content": "Den som kan pålegges tjenesteplikt i sivilforsvaret, skal​1 underkaste seg legeundersøkelse i den utstrekning det ansees nødvendig.\nDen tjenestepliktige skal​2 delta i kurser og øvinger som han blir kalt inn til, og rette seg etter de ordrer og instrukser som gjelder for tjenesten. Han må​2 ikke forlate tjenesten uten tillatelse.\nUnder sivilforsvarsberedskap​3 må den tjenestepliktige ikke forlate området for det lokale sivilforsvar​4 uten samtykke av den lokale sjef eller den han bemyndiger.\n1 Se § 62.\n2 Se § 62 og § 63.\n3 Se § 3.\n4 Se § 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "4:28",
+      "chapter": "4",
+      "section": "28",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 9 juni 1961 nr. 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "4:29",
+      "chapter": "4",
+      "section": "29",
+      "content": "Kongen gir nærmere regler til gjennomføring av bestemmelsene om tjenesteplikt og tjenestgjøring, herunder om hel eller delvis fritakelse for tjenestgjøring samt regler om skyss, kost og husvær for tjenestepliktig.\nKongen fastsetter med Stortingets samtykke tjenestetiden i fred, herunder også tjenestetiden ved utdannelse til befalsstillinger og ved annen spesialopplæring og til ekstraordinære øvinger.\nUnder sivilforsvarsberedskap​1 er enhver pliktig​2 til å tjenestgjøre så lenge det er nødvendig.\n1 Se § 3.\n2 Se § 62 og § 63.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "content": "Departementet​1 kan mot erstatning​2 kreve avstått til staten til eie, bruk eller annen særlig rådighet fast eiendom,​3 rettigheter og løsøre av ethvert slag og elektrisk kraft som trenges til tiltak som nevnt i § 1. Avståing til bruk omfatter rett til å foreta de endringer med gjenstanden eller den faste eiendom som ansees nødvendig.\nDepartementet kan gi tillatelse til at også andre får kreve slik avståing som nevnt i første ledd.\nEier eller besitter av eiendom som nevnt i første ledd, kan pålegges å gi opplysninger om den og la den besiktige. Løsøre kan om nødvendig pålegges transportert til bestemt sted. Pålegg om slik transport skal etterkommes uten erstatning med mindre annet er bestemt av departementet.\nDen som kravet om avståing rettes mot, skal gis anledning til å uttale seg før avgjørelse treffes. Når det søkes om tillatelse til avståing til fordel for andre enn en kommune, skal vedkommende kommune gis anledning til å uttale seg om tillatelse bør gis.\n1 Justisdepartementet m.fl. ifg. res. 15 nov 1963.\n2 Se § 32, § 33 og Grl. § 105.\n3 Se lov 23 okt 1959 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "5:31",
+      "chapter": "5",
+      "section": "31",
+      "content": "Når militære myndigheter har rekvisisjonsrett etter lov om militære rekvisisjoner av 29. juni 1951, får § 8 i samme lov tilsvarende anvendelse ved krav om avståing etter § 30 i den utstrekning Kongen bestemmer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "5:32",
+      "chapter": "5",
+      "section": "32",
+      "content": "Departementet​1 kan fastsette takster for bruk av husrom til folk, stallrom til dyr, garasjer og lagerrom, samt for elektrisk kraft, varer og annet løsøre. Det samme gjelder for ytelser etter §§ 52 og 53. Takstene kan fastsettes for hele riket eller for deler av det. For øvrig fastsettes erstatningen ved skjønn.​2\n1 Justisdepartementet.\n2 Se § 34, skjl. kap. 2, lov 23 okt 1959 nr. 3 § 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "5:33",
+      "chapter": "5",
+      "section": "33",
+      "content": "Ved avståing av bruksrett til rom i et sammenhengende tidsrom av ikke over 2 døgn gis ingen annen godtgjøring enn erstatning for bevislig voldte skader, tap eller utgifter. Avstår samme besitter i løpet av samme kalenderår flere ganger bruksrett til rom som ellers er i bruk, skal godtgjøring dog gis for så vidt tidsrommet i alt utgjør mer enn 3 døgn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "5:34",
+      "chapter": "5",
+      "section": "34",
+      "content": "Departementet​1 kan bestemme at når militære myndigheter har rekvisisjonsrett etter lov om militære rekvisisjoner av 29. juni 1951, skal skjønn etter § 32, som ikke gjelder avståing av eiendomsrett til fast eiendom, avgis av skjønnsnemnder på 3 medlemmer. Departementet fastsetter hvilke områder nemndene skal oppnevnes for og hva slags saker de skal behandle.\nMedlemmene med varamenn oppnevnes av fylkesmannen for så lang tid som departementet bestemmer, dog ikke ut over 4 år. De må fylle vilkårene etter domstollovens​2 § 53. Et av medlemmene oppnevnes som formann.\nOmfatter en nemnds område flere fylker eller deler av flere fylker, avgjør departementet hvilken fylkesmann som skal foreta oppnevningen.\nMedlemmene skal ha godtgjørelse etter regler som gis av departementet. Utgiftene til nemndene utredes av staten.\nKongen kan bestemme at skjønnet i stedet skal avgis av de nemnder som er oppnevnt etter lov om militære rekvisisjoner av 29. juni 1951, § 13, jfr. § 14, eller at to skjønnsmedlemmer som fylkesmannen oppnevner til disse, skal være medlemmer av de nemnder som oppnevnes etter denne paragraf.\n0 Endret ved lov 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Justisdepartementet.\n2 Lov 13 aug 1915 nr. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "5:35",
+      "chapter": "5",
+      "section": "35",
+      "content": "Ved skjønnet legger nemnda dagens alminnelige priser til grunn. Er medlemmene ikke enige om erstatningsbeløpet, gjelder det beløp som får flest stemmer. Er det ikke flertall for noe beløp, gjelder det nest høyeste.\n0 Endret ved lov 19 juni 1969 nr. 54.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "5:36",
+      "chapter": "5",
+      "section": "36",
+      "content": "Kongen kan bestemme at takster etter § 32 istedenfor av departementet skal fastsettes av Sentralnemnda for rekvisisjonssaker når slik er oppnevnt etter lov om militære rekvisisjoner av 29. juni 1951.\n0 Endret ved lov 19 juni 1969 nr. 54.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "5:37",
+      "chapter": "5",
+      "section": "37",
+      "content": "Kongen kan gi regler om utbetaling av erstatningen.\nSlike regler kan gis med virkning også for avståing som allerede har funnet sted.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "5:38",
+      "chapter": "5",
+      "section": "38",
+      "content": "Avståing kan kreves gjennomført straks, selv om erstatning ikke er fastsatt. Når avståing skjer til andre enn staten, skal det stilles slik sikkerhet for erstatningsbetalingen som departementet​1 bestemmer. Skjønnslovens​2 § 55 gjelder ikke. Når det er nødvendig, kan avståingen gjennomføres ved politiets hjelp.\n1 Justisdepartementet.\n2 Lov 1 juni 1917 nr. 1 (skjl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "6:39",
+      "chapter": "6",
+      "section": "39",
+      "content": "Egenbeskyttelse er sivilforsvar for den enkelte faste eiendom til beskyttelse av folk eller gods der.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "6:40",
+      "chapter": "6",
+      "section": "40",
+      "content": "Et lokalt sivilforsvars område​1 kan deles i sivilforsvarsroder for egenbeskyttelsestiltak til gjensidig hjelp for eiendommene i roden. Etter departementets​2 bestemmelse kan det også på andre steder organiseres sivilforsvarsroder. For hver sivilforsvarsrode skal det være en rodemester som oppnevnes av sjefen for det lokale sivilforsvar og er underlagt denne.\nDepartementet fastsetter instruks for rodemesteren.\n1 Se § 9.\n2 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "6:41",
+      "chapter": "6",
+      "section": "41",
+      "content": "Eier og bruker av fast eiendom – offentlig eller privat – skal​1 forberede og sette i verk egenbeskyttelsestiltak for eiendommen etter nærmere bestemmelse av departementet.​2 Til pålegg om innredning av tilfluktsrom kan knyttes bestemmelse om at tilfluktsrommet skal innredes slik at det også kan nyttes av folk i naboeiendom.\nSivilforsvarets myndigheter og tilsynsmyndigheten skal​3 til enhver tid ha uhindret adgang til anlegg/virksomhet etter loven for å føre tilsyn med egenbeskyttelsestiltakene. Sivilforsvarets myndigheter og tilsynsmyndigheten skal legitimere seg i samsvar med forvaltningsloven​4 § 15, og om mulig sette seg i kontakt med stedlig leder eller industrivernleder.\nVirksomhetens leder, industrivernleder eller representant for denne har rett til, og kan pålegges, å være til stede under kontrollen. Sivilforsvarets myndigheter og tilsynsmyndigheten kan bestemme at retten ikke skal gjelde ved intervju av arbeidstaker, eller dersom slik tilstedeværelse ikke kan gjennomføres uten vesentlig ulempe, eller uten at formålet med kontrollen settes i fare.\nSivilforsvarets myndigheter og tilsynsmyndigheten gir de pålegg og treffer de enkeltvedtak ellers som er nødvendige for gjennomføringen av bestemmelsene gitt i eller i medhold av denne lov. Det skal settes en frist for når pålegget skal være utført. Ved overhengende fare kan tilsynsmyndigheten kreve at nødvendige tiltak blir iverksatt straks.\nMed mindre tungtveiende hensyn tilsier noe annet, skal tilsynsmyndigheten gi skriftlig rapport til virksomheten om resultatet av kontrollen.\n0 Endret ved lover 10 jan 1992 nr. 4, 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234).\n1 Se § 62.\n2 Justisdepartementet.\n3 Se § 62 og lov 22 mai 1902 nr. 10 (strl.) § 326.\n4 Lov 10 feb 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "6:41 a",
+      "chapter": "6",
+      "section": "41 a",
+      "content": "Departementet kan bestemme at eier og bruker av elektrisitetsverk og damanlegg av enhver art skal treffe særlige reserve- og sikringstiltak, for så vidt anleggene ikke går inn under lov 29. juni 1990 nr. 50 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. kapittel 6. Det samme gjelder gassverker.\nVed anlegg av enhver art, som kan medføre fare for omgivelsene hvis de blir ødelagt, kan det etter nærmere bestemmelse av departementet​1 pålegges eier og bruker å treffe særlige sikringstiltak.\nEgenbeskyttelsestiltakene etter § 41 første ledd og denne paragraf kan omfatte en enkelt eiendom eller være felles for flere. Det skal oppnevnes husvernledere og industrivernledere hvis plikter fastsettes ved instruks.\n0 Tilføyd ved lov 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234), endret ved lov 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712).\n1 Olje- og energidepartementet når det gjelder sikringstiltak ved damanlegg, iflg. res. 11 jan 1978, jf. res. 20 aug 1965.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41a",
+        "source_heading": "§ 41 a."
+      }
+    },
+    {
+      "provision_ref": "6:42",
+      "chapter": "6",
+      "section": "42",
+      "content": "Eier og bruker av fast eiendom plikter​1 å betale utgiftene til tiltak etter § 41 første ledd og § 41 a. Når det innredes tilfluktsrom som også skal nyttes av folk i naboeiendom (jf. § 41 første ledd annet punktum), plikter​1 eier eller bruker av naboeiendommen å bidra til dekning av utgiftene.\nFordeling av utgifter etter første ledd skjer etter regler som gis av departementet.​2\nFor utgifter ved tiltak etter § 41 a første og annet ledd, yter staten refusjon etter nærmere bestemmelse av departementet.​3\n0 Endret ved lov 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234).\n1 Se § 62.\n2 Justisdepartementet.\n3 Olje- og energidepartementet når det gjelder utgifter til sikringstiltak ved damanlegg, res. 11 jan 1978 jf. res. 20 aug 1965.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "6:43",
+      "chapter": "6",
+      "section": "43",
+      "content": "I pålegg etter loven her kan sivilforsvarets myndigheter og tilsynsmyndigheten fastsette en løpende tvangsmulkt​1 for hver dag/uke/måned som går etter utløpet av den frist som er satt for oppfylling av pålegget, inntil pålegget er oppfylt. Tvangsmulkt kan også fastsettes som engangsmulkt. Sivilforsvarets myndigheter og tilsynsmyndigheten kan frafalle påløpt tvangsmulkt.\nDersom pålegg ikke oppfylles innen fristen kan sivilforsvarets myndigheter og tilsynsmyndigheten helt eller delvis stanse virksomheten inntil pålegget er utført.\nVed overhengende fare kan tilsynsmyndigheten stanse virksomheten selv om pålegg ikke er gitt.\n0 Endret ved lover 26 juni 1992 nr. 86, 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234).\n1 Jf. tvangsl. § 7-2, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "6:43 a",
+      "chapter": "6",
+      "section": "43 a",
+      "content": "Tilsynsmyndigheten kan utferdige forelegg mot den som innen fastsatt frist unnlater å etterkomme pålegg eller forbud som er gitt med hjemmel i denne lov. Forelegget skal gi opplysninger om bestemmelsene i annet ledd og skal, så langt mulig, forkynnes​1 for den det er rettet mot.\nDen forelegget er rettet mot, kan reise søksmål mot det offentlige for å få forelegget prøvet. Blir søksmål ikke reist innen 30 dager fra forkynnelsen, har forelegget samme virkning som rettskraftig dom, og kan fullbyrdes etter reglene for dommer.\nForelegg kan ikke påklages.\n0 Tilføyd ved lov 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234).\n1 Se lov 13 aug 1915 nr. 5 kap. 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43a",
+        "source_heading": "§ 43 a."
+      }
+    },
+    {
+      "provision_ref": "6:43 b",
+      "chapter": "6",
+      "section": "43 b",
+      "content": "Blir pålegg i rettskraftig​1 dom eller dermed likestilt forelegg​2 ikke etterkommet, kan vedkommende tilsynsmyndighet selv besørge eller få besørget at pålegget utføres for regning av den som dommen eller forelegget er rettet mot uten at det er nødvendig med kjennelse etter tvangsfullbyrdelsesloven​3 § 13-14.\nVed overhengende fare kan pålegg fullbyrdes etter reglene i tvangsfullbyrdelsesloven​3 § 13-14 uten at dom eller forelegg kreves.\n0 Tilføyd ved lov 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234).\n1 Jf. tvl. § 19-14.\n2 Se § 43 a.\n3 Lov 26 juni 1992 nr. 86 (tvangsl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43b",
+        "source_heading": "§ 43 b."
+      }
+    },
+    {
+      "provision_ref": "6:44",
+      "chapter": "6",
+      "section": "44",
+      "content": "Enhver plikter​1 å finne seg i og medvirke til at det ved gjennombryting av skillevegg eller på annen måte skaffes nødutgang fra naboeiendom.\n1 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "6:45",
+      "chapter": "6",
+      "section": "45",
+      "content": "Lider noen tap eller skade ved tiltak etter § 41 første ledd og § 41 a som han ikke selv helt ut skal betale utgiftene til,​1 har han krav på erstatning, såfremt tapet eller skaden ikke regnes for uvesentlig. Erstatningen utredes av den som skal bære utgiftene ved tiltaket. Spørsmålet om erstatning skal tilkjennes og i tilfelle med hvilket beløp, avgjøres ved skjønn.​2 Tiltaket kan kreves satt i verk selv om spørsmålet om erstatning ikke er avgjort.\n0 Endret ved lov 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234).\n1 Se § 42.\n2 Se skjl. kap. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "6:46",
+      "chapter": "6",
+      "section": "46",
+      "content": "En bedrifts industrivern​1 plikter​2 på anmodning å yte annen bedrift hjelp samt å bistå det lokale sivilforsvars​3 utrykningsstyrker. For utgifter ved slik hjelp har den bedrift som yter hjelpen, etter departementets​4 nærmere bestemmelse krav på refusjon av den som mottar hjelpen. Blir materiell tilhørende bedriften betydelig skadet, kan staten yte tilskudd til gjenanskaffelse etter departementets bestemmelse.\nReglene i første ledd gjelder tilsvarende under øvelser, dog slik at refusjon for utgifter ved hjelp som er et ledd i øvelsene, ikke ytes.\n1 Se § 41.\n2 Se § 62 og § 63.\n3 Se § 9.\n4 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "6:47",
+      "chapter": "6",
+      "section": "47",
+      "content": "Kongen kan bestemme at sivilforsvarstiltak skal gjennomføres for skip, havner, jernbaner og andre kommunikasjonsmidler og anlegg. Bestemmelsene i dette kapitel får i så fall tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "6:48",
+      "chapter": "6",
+      "section": "48",
+      "content": "Kongen kan pålegge organisasjon eller institusjon å organisere og føre kontroll med egenbeskyttelsen ved bestemte bedrifter eller virksomheter. Utgifter som organisasjonen eller institusjonen herved påføres, kan den utlikne på og kreve betalt av vedkommende bedrifter eller virksomheter.\nFor bedrifter eller virksomheter som omfattes av tilsynsmyndighetens område fastsatt i medhold av første ledd, kan departementet​1 gi nærmere regler om oppfølgning av systematisk helse-, miljø- og sikkerhetsarbeid for å sikre at krav om egenbeskyttelse (industrivern) fastsatt i medhold av § 41, § 41 a, jf. § 43 og krav om internkontroll overholdes.\n0 Endret ved lover 10 jan 1992 nr. 6, 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234).\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "6:49",
+      "chapter": "6",
+      "section": "49",
+      "content": "I lokalt sivilforsvar hvor det etter § 9 fjerde ledd iverksettes felles sivilforsvarstiltak for en industriell bedrift og et nærmere bestemt område utenfor denne, skal bedriften bære utgiftene ved tiltak som påligger den etter reglene om industrivern, selv om disse tiltak også kommer områder utenfor bedriftsområdet til gode.\nUtgiftene i forbindelse med tiltak som treffes for bebyggelse utenfor bedriftsområdet, bæres av staten eller av kommunen etter § 15.\nFellesutgifter fordeles etter avtale mellom bedriften, vedkommende kommune og fylkesmannen. Blir partene ikke enige, avgjøres fordelingen av Direktoratet for samfunnssikkerhet og beredskap.\n0 Endret ved lover 7 juni 1985 nr. 49, 4 juni 2004 nr. 34.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "7:50",
+      "chapter": "7",
+      "section": "50",
+      "content": "Når riket er i krig eller krig truer, kan Kongen bestemme at utflytting av folk skal finne sted fra områder som er eller antas å kunne bli utsatt for fiendtlig virksomhet.\nKongen gir forskrifter om planlegging og iverksetting av krigsutflyttingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "7:51",
+      "chapter": "7",
+      "section": "51",
+      "content": "Ved krigsutflytting etter § 50 skal​1 enhver etter pålegg flytte til den tid, på den måte og til det sted som blir fastsatt.\nIngen må​1 uten samtykke flytte fra det anviste sted eller vende tilbake til fraflyttingsområdet.\n1 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "7:52",
+      "chapter": "7",
+      "section": "52",
+      "content": "Ved krigsutflytting etter § 50 er enhver som eier eller rår over jernbane, fartøy, motorkjøretøy eller annet transportmiddel, pliktig​1 til å transportere folk som er pålagt å flytte.\nVed krigsutflytting etter pålegg betaler staten utgiftene ved flyttingen.\n1 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "7:53",
+      "chapter": "7",
+      "section": "53",
+      "content": "Eier eller bruker av hus kan pålegges å ta imot folk som er krigsutflyttet og gi dem husvær, herunder senger og annet nødvendig utstyr, lys og brensel. Det som etter vedkommende myndighets skjønn er uomgjengelig nødvendig for innehaveren selv eller hans husstand eller til utøving av hans næringsvirksomhet, skal dog ikke kunne kreves avgitt.\nFraflyttingskommunen betaler vederlaget for husvær for de utflyttede, men kan kreve tilbakebetaling av disse. De andre utgifter ved oppholdet betales av de utflyttede.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "7:54",
+      "chapter": "7",
+      "section": "54",
+      "content": "Om fastsettelsen av vederlaget for ytelser etter §§ 52 og 53 gjelder det som er bestemt i kapitel V.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "7:55",
+      "chapter": "7",
+      "section": "55",
+      "content": "Til slik tid som nevnt i § 50 kan det etter nærmere regler som gis av Kongen, nedlegges forbud​1 for dem som oppholder seg innen et bestemt område, mot å forlate dette.\n1 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "7:56",
+      "chapter": "7",
+      "section": "56",
+      "content": "Utflytting etter § 50 skal ikke medføre noen endring i den utflyttedes rettsstilling i forhold til fraflyttingskommunen med mindre annet følger av denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "7:57",
+      "chapter": "7",
+      "section": "57",
+      "content": "Bestemmelsene i §§ 51, annet ledd, 53 og 56 får tilsvarende anvendelse for midlertidig utflyttede personer som ikke har flyttet i henhold til pålegg etter § 51, men som tilhører grupper som omfattes av slike pålegg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    },
+    {
+      "provision_ref": "7:58",
+      "chapter": "7",
+      "section": "58",
+      "content": "Tilflyttingskommunen betaler de utflyttede sosiale trygder og forsorgsunderstøttelse mot refusjon av staten eller den eller de kommuner som endelig skulle ha dekket trygdene eller understøttelsen om utflytting ikke hadde funnet sted.\nFraflyttingskommunen skal refundere tilflyttingskommunen de økte utgifter som følger med at denne må sørge for skolegang for tilflyttede barn.\nNår tilflyttingskommunens utgifter til folkeregisterføringen, rasjonerings- og forsyningsordningen og til administrasjonen ellers som følge av flyttingen øker betydelig, yter staten refusjon etter bestemmelse av departementet.​1\nFor utlegg som tilflyttingskommunen skal ha refundert etter bestemmelsene i denne paragraf, kan den kreve forskudd.\nFor så vidt ikke annet følger av lov, kan kommunene treffe avtale om sitt gjensidige forhold etter denne paragraf.\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_58",
+        "source_heading": "§ 58."
+      }
+    },
+    {
+      "provision_ref": "8:59",
+      "chapter": "8",
+      "section": "59",
+      "content": "Ingen må​1 uberettiget bruke sivilforsvarets uniformer, merker og signaler. Heller ikke må noen bruke uniform, merke og signal som lett kan forveksles med sivilforsvarets.\n1 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_59",
+        "source_heading": "§ 59."
+      }
+    },
+    {
+      "provision_ref": "8:60",
+      "chapter": "8",
+      "section": "60",
+      "content": "Når ikke annet er bestemt i medhold av forvaltningslovens​1 § 5 annet ledd, gjelder forvaltningsloven i fredstid for behandling av saker etter denne lov. Forhåndsvarsel​2 til sakens parter kan likevel unnlates dersom antallet parter i saken er stort, eller et stort antall saker behandles under ett, eller forhåndsvarsel kan medføre at saken forsinkes på en uheldig måte. Tilsvarende gjelder dersom forhåndsvarsel av hensyn til partene synes upåkrevet.\nForvaltningslovens​1 kapitlene IV-VI gjelder ikke for saker om tjenesteplikten og tjenestens utførelse, dog kan pålegg etter §§ 23 og 24 påklages til departementet.​3\n0 Endret ved lov 19 juni 1969 nr. 54.\n1 Lov 10 feb 1967.\n2 Se lov 10 feb 1967 § 16.\n3 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_60",
+        "source_heading": "§ 60."
+      }
+    },
+    {
+      "provision_ref": "8:61",
+      "chapter": "8",
+      "section": "61",
+      "content": "Departementet​1 gir nærmere forskrifter​2 til gjennomføring av bestemmelsene i denne lov.\n1 Justisdepartementet.\n2 Jf. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_61",
+        "source_heading": "§ 61."
+      }
+    },
+    {
+      "provision_ref": "8:62",
+      "chapter": "8",
+      "section": "62",
+      "content": "Den som forsettlig eller uaktsomt overtrer denne lov eller forskrifter eller pålegg som er gitt med hjemmel i loven, straffes med bot​1 eller fengsel​2 i inntil 1 år hvis ikke forholdet rammes av strengere straffebud. På samme måte straffes forsøk​3 på og medvirkning til slik overtredelse.\nOvertredelsene er forseelser.\nDen som legger hindringer i veien for undersøkelser som sivilforsvarets myndigheter og tilsynsmyndigheten iverksetter etter denne lov, eller unnlater å yte pliktig bistand eller å gi opplysninger som kreves for utførelsen av tilsynet etter denne lov, straffes med bøter såfremt forholdet ikke rammes av strengere straffebud.\nFor håndheving og sanksjoner overfor kommunen gjelder bestemmelsene i lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner (kommuneloven) kapittel 10 A.\n0 Endret ved lover 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234), 19 juni 2009 nr. 83 (ikr. 1 jan 2010 iflg. res. 26 juni 2009 nr. 878). Endres ved lov 20 mai 2005 nr. 28 (ikr. fra den tid som fastsettes ved lov) som endret ved lov 19 juni 2009 nr. 74.\n1 Jf. lov 22 mai 1902 nr. 10 (strl.) § 27; strl. 2005 kap. 9.\n2 Jf. strl. § 26 a; strl. 2005 kap. 6 og kap. 9.\n3 Se strl. § 49.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_62",
+        "source_heading": "§ 62."
+      }
+    },
+    {
+      "provision_ref": "8:63",
+      "chapter": "8",
+      "section": "63",
+      "content": "Overtredelse eller forsømmelse av tjenesteplikter i sivilforsvaret kan refses disiplinært.\nSom refselse kan anvendes:​1\n1. Irettesettelse.\n2. Straffevakt bestående i vakt utenfor tur.\n3. Nektelse av permisjon for et tidsrom av inntil én måned.\n4. Bot som fastsettes på grunnlag av det tjenestetillegg som gjelder for menige:\na. overfor menige, nestlagførere og lagførere og overfor rodemestere og deres stedfortredere, et beløp på inntil 20 ganger tjenestetillegget,\nb. overfor befal og overfor tjenestepliktige instruktører, et beløp inntil 50 ganger tjenestetillegget.\n5. Frihetsinnskrenkning bestående i forbud mot til visse tider av dagen eller hele døgnet i et tidsrom av inntil 21 dager å gå utenfor kvarteret, kasernen, leiren eller annet nærmere betegnet område. Denne art refselse må ikke brukes på ny før det er gått dobbelt så lang tid som den tid frihetsinnskrenkningen har vart.\n6. Arrest inntil 20 dager. For arrest gjelder §§ 16 og 17 i den militære straffelov av 22. mai 1902 tilsvarende.\nSak om refselse behandles etter lov 20. mai 1988 nr. 32 om militær disiplinærmyndighet og de utfyllende forskrifter som fastsettes av Kongen. Kongen bestemmer hvem som skal ha myndighet til å ilegge refselse.\nRefselsesbøter kan innkreves av Statens Innkrevingssentral.​2 Innkrevingssentralen kan inndrive bøtene ved trekk i lønn eller andre lignende ytelser som nevnt i dekningsloven​3 § 2-7.\n0 Endret ved lover 19 juni 1969 nr. 54, 3 juni 1983 nr. 43, 11 juni 1993 nr. 83 (ikr. 1 aug 1993 iflg. res. 23 juli 1993 nr. 764), 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712).\n1 Sml. lov 20 mai 1988 nr. 32 kap. 2.\n2 Se lov 22 mai 1981 nr. 25 (strpl.) § 455, § 456.\n3 Lov 8 juni 1984 nr. 59.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_63",
+        "source_heading": "§ 63."
+      }
+    },
+    {
+      "provision_ref": "8:64",
+      "chapter": "8",
+      "section": "64",
+      "content": "Denne lov trer i kraft straks.\nSamtidig oppheves – – –.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_64",
+        "source_heading": "§ 64."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Sivilforsvarets oppgave er å planlegge og iverksette tiltak av ikke militær art, som tar sikte på å forebygge skade på sivilfolket ved krigshandlinger eller råde bot på slik skade, og som ikke ved særskilt bestemmelse er lagt til annen myndighet.\nI den utstrekning og på de vilkår som Kongen bestemmer, skal sivilforsvaret også hjelpe til med å forebygge og råde bot på skader som ikke skyldes krigshandlinger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Til gjennomføring av oppgaven etter § 1 kan det kreves​1 bistand av offentlige myndigheter, enkeltpersoner og institusjoner.\nEnhver plikter​1 å motta oppnevning eller valg til sivilforsvarsrådet (§ 6) og de nemnder som opprettes i forbindelse med sivilforsvaret (§§ 13 og 34).\nEnhver plikter​1 å gi sivilforsvarets myndigheter og tilsynsmyndigheten de opplysninger de trenger, uten hinder av taushetsplikt, for å kunne utføre sine gjøremål etter loven. Sivilforsvarets myndigheter og tilsynsmyndigheten kan bestemme i hvilken form opplysningene skal gis.\nOpplysninger som nevnt i tredje ledd kan også kreves fra andre offentlige tilsynsmyndigheter uten hinder av den taushetsplikt som ellers gjelder. Opplysningsplikten gjelder bare de opplysninger som er nødvendige for at tilsynsmyndigheten skal kunne utføre sine oppgaver etter loven.\nSom sivilforsvarets myndigheter regnes offentlig organ som ikke er sivilforsvarets tilsynsmyndighet etter § 48 annet ledd, jf. første ledd.\n0 Endret ved lov 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234).\n1 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Når riket er i krig eller krig truer, kan Kongen erklære sivilforsvarsberedskap for hele riket eller deler av det.\n1 Jf. lov 15 des 1950 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "For offentlig sted og for steder som er tilgjengelige for allmennheten kan Kongen gi bestemmelser om den alminnelige ferdsel, orden og sikkerhet under sivilforsvarsberedskap. For øvingsformål kan departementet​1 gi slike bestemmelser selv om sivilforsvarsberedskap ikke er erklært.\nUnder sivilforsvarsberedskap kan politimesteren helt eller delvis forby​2 bruken av forsamlingslokaler eller andre lokaler som er tilgjengelige for allmennheten. Han kan også forby​2 møter og tilstelninger på steder som i alminnelighet er tilgjengelige for allmennheten.\n0 Endret ved lov 4 juni 2004 nr. 34.\n1 Justisdepartementet.\n2 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "Sivilforsvaret hører under det departement​1 Kongen bestemmer.\nKongen tilsetter en sjef for sivilforsvaret og gir regler om hans myndighet. Tilsettingen kan skje på åremål.\n0 Endret ved lov 29 juni 1956 nr. 2.\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "Til sikring av samarbeidet med andre myndigheter, institusjoner og organisasjoner skal det være et sivilforsvarsråd. Kongen oppnevner medlemmene og fastsetter instruks for rådets virksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 8 juni 1979 nr. 37.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "Riket er inndelt i sivilforsvarsdistrikter, med en distriktssjef som leder av hvert distrikt.\nDepartementet​1 fastsetter distriktenes geografiske område og instruks for distriktssjefen.\n0 Endret ved lover 12 jan 1995 nr. 5, 4 juni 2004 nr. 34.\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "Innenfor sivilforsvarsdistriktet​1 kan det for byer og tettbebyggelser etter departementets​2 bestemmelse organiseres lokale sivilforsvar.\nFor hvert lokalt sivilforsvar skal det være en sjef som oppnevnes av departementet og som er underlagt distriktssjefen.​1\nDistriktssjefen er, hvis ingen annen oppnevnes, sjef for det lokale sivilforsvar hvor han har sitt kontor, såfremt dette ligger innenfor hans distrikt.\nDepartementet kan bestemme at det skal iverksettes felles sivilforsvarstiltak for en industriell bedrift og et nærmere bestemt område utenfor bedriften. I slikt lokalt sivilforsvar har bedriftens ledelse ansvaret for gjennomføringen av sivilforsvarstiltakene.\nDepartementet fastsetter instruks for den lokale sjef og for bedriftens ledelse.\n0 Endret ved lov 4 juni 2004 nr. 34.\n1 Se § 8.\n2 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "Politiets​1 embets- og tjenestemenn er pliktige​1 til å motta beskikkelse etter § 8 og til etter oppnevning eller beordring å gjøre tjeneste i embeter, bestillinger og verv i sivilforsvaret. De skal for øvrig være forpliktet​2 til å utføre de gjøremål som blir pålagt dem i forbindelse med sivilforsvaret.\n1 Jf. lov 4 aug 1995 nr. 53.\n2 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "Kongen gir regler om samordningen mellom politiet og sivilforsvaret.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "content": "Kongen gir bestemmelser om grader, stillingsbetegnelser og uniformer i sivilforsvaret.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "content": "Til å bistå sivilforsvarets myndigheter kan det etter nærmere regler som gis av Kongen, velges lokale nemnder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "content": "Den som ved lovens ikrafttreden innehar verv i sivilforsvaret, fortsetter i dette uten særskilt oppnevning.\nLikeledes fortsetter alle nemnder sin virksomhet inntil deres tidligere fastsatte funksjonstid utløper.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "content": "Kommunene skal:\n1. Bygge, utstyre og innrede offentlige tilfluktsrom overensstemmende med planer som er godkjent av departementet,​1 samt holde dem vedlike og i forsvarlig stand for bruk i krig.\n2. Sørge for reserve- og sikringstiltak for vannforsyningen og de kommunale tekniske anlegg.\n3. Forvalte og oppbevare det lokale sivilforsvars materiell.\n4. Vedlikeholde det materiell som tilhører brannvern- og rydningstjenesten i det lokale sivilforsvar.\n5. Stille kommunalt materiell, rom og kommunal grunn til rådighet ved innsats eller i utdanningsøyemed.\n6. Sørge for varme, lys og renhold i rom som sivilforsvaret har rådighet over etter nr. 5.\n7. Stille kommunal grunn til rådighet for bygging av lokale sivilforsvarsanlegg, samt tillate gjennomført forandringer av rom som stilles til rådighet etter nr. 5.\n8. Sørge for loftsrydding, merking av fortauskanter m.v. og blending på offentlig sted.\n9. Treffe tiltak for innkvartering, bespisning og annen bistand når dette er påkrevet som følge av krigshandlinger.\n10. Ha ansvaret for og lede gjenopprettingsarbeidet fra det tidspunkt sjefen for det lokale sivilforsvar bestemmer.\n11. Anskaffe og fordele materiell og utstyr til sivilforsvarsrodene (jfr. § 40) og få i stand samlingsplasser for disse.\n12. Iverksette sivilforsvarstiltak til vern om skog, avling på rot o.l.\n13. Yte råd og bistand ved løsningen av sivilforsvarets oppgaver, herunder bl.a.: Gi teknisk hjelp ved planlegging, utførelse og vedlikehold av sivilforsvarsanlegg. Innhente og gi opplysninger og bearbeide oppgaver til bruk ved utskrivning og krigsutflytting. Hjelpe til ved gjennomføring av krigsutflytting.\n14. Ivareta kommunale beredskapsplikter etter §§ 15 a og 15 b.\n0 Endret ved lov 19 juni 2009 nr. 83 (ikr. 1 jan 2010 iflg. res. 26 juni 2009 nr. 878).\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:15 a",
+      "chapter": "3",
+      "section": "15 a",
+      "content": "Kommunen plikter å kartlegge hvilke uønskede hendelser som kan inntreffe i kommunen, vurdere sannsynligheten for at disse hendelsene inntreffer og hvordan de i så fall kan påvirke kommunen. Resultatet av dette arbeidet skal vurderes og sammenstilles i en helhetlig risiko- og sårbarhetsanalyse.\nRisiko- og sårbarhetsanalysen skal legges til grunn for kommunens arbeid med samfunnssikkerhet og beredskap, herunder ved utarbeiding av planer etter lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven)(plandelen).\nRisiko- og sårbarhetsanalysen skal oppdateres i takt med revisjon av kommunedelplaner, jf. lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) (plandelen) § 11-4 første ledd, og for øvrig ved endringer i risiko- og sårbarhetsbildet.\nKongen kan i forskrift gi nærmere bestemmelser om gjennomføring av risiko- og sårbarhetsanalysen.\n0 Tilføyd ved lov 19 juni 2009 nr. 83 (ikr. 1 jan 2010 iflg. res. 26 juni 2009 nr. 878).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15a",
+        "source_heading": "§ 15 a."
+      }
+    },
+    {
+      "provision_ref": "3:15 b",
+      "chapter": "3",
+      "section": "15 b",
+      "content": "Med utgangspunkt i risiko- og sårbarhetsanalysen etter § 15 a skal kommunen utarbeide en beredskapsplan.\nBeredskapsplanen skal inneholde en oversikt over hvilke tiltak kommunen har forberedt for å håndtere uønskede hendelser. Som et minimum skal beredskapsplanen inneholde en plan for kommunens kriseledelse, varslingslister, ressursoversikt, evakueringsplan og plan for informasjon til befolkningen og media.\nBeredskapsplanen skal være oppdatert og revideres minimum én gang per år. Kommunen skal sørge for at planen blir jevnlig øvet.\nKongen kan i forskrift gi nærmere bestemmelser om beredskapsplanens innhold og øvrige krav etter denne bestemmelsen.\n0 Tilføyd ved lov 19 juni 2009 nr. 83 (ikr. 1 jan 2010 iflg. res. 26 juni 2009 nr. 878).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15b",
+        "source_heading": "§ 15 b."
+      }
+    },
+    {
+      "provision_ref": "3:15 c",
+      "chapter": "3",
+      "section": "15 c",
+      "content": "Fylkesmannen fører tilsyn med lovligheten av kommunens oppfyllelse av plikter pålagt i §§ 15 a og 15 b.\nLov 25. september 1992 nr. 107 om kommuner og fylkeskommuner (kommuneloven) kapittel 10 A gjelder for tilsynsvirksomheten etter første ledd.\n0 Tilføyd ved lov 19 juni 2009 nr. 83 (ikr. 1 jan 2010 iflg. res. 26 juni 2009 nr. 878).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15c",
+        "source_heading": "§ 15 c."
+      }
+    },
+    {
+      "provision_ref": "3:15 d",
+      "chapter": "3",
+      "section": "15 d",
+      "content": "For Svalbard gjelder bestemmelsene i §§ 15 a, 15 b og 15 c i det omfang og med de stedlige tilpasninger Kongen bestemmer.\n0 Tilføyd ved lov 19 juni 2009 nr. 83 (ikr. 1 jan 2010 iflg. res. 26 juni 2009 nr. 878).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15d",
+        "source_heading": "§ 15 d."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "Utgifter ved bygging av offentlige tilfluktsrom utredes av kommunen med refusjon​2 av staten med inntil 2/3 av godkjente omkostninger ved de anskaffelser og arbeider som av departementet​3 ansees nødvendige for å sette tilfluktsrommet i forsvarlig stand for bruk i krig.\nKongen fastsetter for de ulike typer av tilfluktsrom det høyeste beløp for statens tilskudd.\nSkal tilfluktsrommet anvendes for fredsformål, trekkes verdien av denne anvendelse fra de samlede byggeomkostninger. I disse skal i så fall regnes med de mulige merutgifter som følger av at tilfluktsrommet settes i stand for fredsformål. Krav om at det skal tas hensyn til fredsanvendelsen kan fremsettes av departementet innen 10 år etterat tilfluktsrommet er godkjent til bruk, også om refusjonen allerede er utbetalt på annet grunnlag. Verdien av tilfluktsrommets anvendelse for fredsformål og omkostningene ved å sette rommet i stand for dette formål, fastsettes i mangel av enighet ved skjønn.​4\n1 Jf. § 22.\n2 Jf. § 18.\n3 Justisdepartementet.\n4 Se skjl. kap. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "For utgifter til reservetiltak for vannforsyningen etter § 15 nr. 2 yter staten refusjon​1 etter nærmere bestemmelse av departementet.​2\nDet samme gjelder utgifter kommunen påføres om kommunal eiendom som er stillet til rådighet etter § 15 nr. 5 blir betydelig skadet.\nEtter bestemmelse av departementet kan staten bygge eller yte tilskudd til bygging av magasiner og lagerrom.\n1 Jf. § 18.\n2 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "Kommunen har ikke krav på godtgjøring for ytelser eller refusjon av utgifter om følger av § 15 utover det som er bestemt i §§ 16 og 17.\nStatens bidrag etter §§ 16 og 17 kan etter bestemmelse av departementet​1 ytes som forskudd.\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "content": "Ligger to eller flere kommuner helt eller delvis innen samme lokale sivilforsvar,​1 skal utgifter som gjelder tiltak etter § 15 nr. 3 og 4, fordeles mellom kommunene på grunnlag av folketallet i den del av kommunen som omfattes av det lokale sivilforsvar.\nNår fordeling skal skje etter første ledd, bestemmer departementet​2 hvilken av kommunene som skal ha ansvaret for gjennomføringen av de oppgaver som utgiftene gjelder. Departementet kan også treffe bestemmelse om betaling av forskudd til den kommune som skal gjennomføre oppgaven.\n1 Se § 9.\n2 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "content": "Mannskap og materiell fra et lokalt sivilforsvar​1 kan nyttes til hjelp utenfor sitt område. Utgiftene bæres av den kommune som mottar hjelpen, etter departementets​2 nærmere bestemmelse.\n1 Se § 9.\n2 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "content": "Departementet​1 kan bestemme at reglene i dette kapitel helt eller delvis skal gjelde for brannkommuner,​2 bygningskommuner​3 og havnekasser.​4\n1 Justisdepartementet.\n2 Særlige brannkommuner kunne opprettes etter § 1 i lov 19 nov 1954. Loven er opphevet og erstattet av lov 5 juni 1987 nr. 26 som ikke gir hjemmel for å opprette særlige brannkommuner.\n3 Se lov 14 juni 1985 nr. 77 kap. II.\n4 Se lov 8 juni 1984 nr. 51 kap. VI.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "3:22",
+      "chapter": "3",
+      "section": "22",
+      "content": "Departementet​1 kan bestemme at reglene i § 16, herunder de maksimumsbeløp som fastsettes etter § 16, annet ledd, også skal komme til anvendelse for tilfluktsrom som er under bygging eller som det foreligger godkjente planer for når loven trer i kraft.\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "content": "Menn og kvinner mellom 18 og 65 år som oppholder seg i riket, kan pålegges​1 tjenesteplikt i sivilforsvaret.\nI egenbeskyttelsen (jfr. kapitel VI) kan også personer over 65 år pålegges tjenesteplikt.\nPersoner mellom 16 og 18 år og over 65 år kan etter eget ønske antas til tjeneste. I så fall kommer §§ 25, 27 og 29 til anvendelse, dog slik at legeundersøkelse alltid skal foretas.\nFrivillige sivilforsvarsmannskaper har samme beskyttelse som tjenestepliktige mot oppsigelse fra stilling på grunn av tjenesten.\n0 Endret ved lov 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712).\n1 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "content": "Enhver som kan pålegges tjenesteplikt etter § 23, plikter​1 også å tjenestegjøre som befal eller instruktør og å gjennomgå den nødvendige utdannelse for stillingen.\n1 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "content": "Vernepliktig​1 kan ikke kalles inn til eller beholdes i tjeneste i sivilforsvaret når han derved hindres i å utføre sin militære tjenesteplikt.\n1 Se lov 17 juli 1953 nr. 29 § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "4:26",
+      "chapter": "4",
+      "section": "26",
+      "content": "Menn og kvinner kan i krigstid settes til å hjelpe til med sivilforsvarsarbeid som må utføres uten opphold.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "4:27",
+      "chapter": "4",
+      "section": "27",
+      "content": "Den som kan pålegges tjenesteplikt i sivilforsvaret, skal​1 underkaste seg legeundersøkelse i den utstrekning det ansees nødvendig.\nDen tjenestepliktige skal​2 delta i kurser og øvinger som han blir kalt inn til, og rette seg etter de ordrer og instrukser som gjelder for tjenesten. Han må​2 ikke forlate tjenesten uten tillatelse.\nUnder sivilforsvarsberedskap​3 må den tjenestepliktige ikke forlate området for det lokale sivilforsvar​4 uten samtykke av den lokale sjef eller den han bemyndiger.\n1 Se § 62.\n2 Se § 62 og § 63.\n3 Se § 3.\n4 Se § 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "4:28",
+      "chapter": "4",
+      "section": "28",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 9 juni 1961 nr. 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "4:29",
+      "chapter": "4",
+      "section": "29",
+      "content": "Kongen gir nærmere regler til gjennomføring av bestemmelsene om tjenesteplikt og tjenestgjøring, herunder om hel eller delvis fritakelse for tjenestgjøring samt regler om skyss, kost og husvær for tjenestepliktig.\nKongen fastsetter med Stortingets samtykke tjenestetiden i fred, herunder også tjenestetiden ved utdannelse til befalsstillinger og ved annen spesialopplæring og til ekstraordinære øvinger.\nUnder sivilforsvarsberedskap​1 er enhver pliktig​2 til å tjenestgjøre så lenge det er nødvendig.\n1 Se § 3.\n2 Se § 62 og § 63.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "content": "Departementet​1 kan mot erstatning​2 kreve avstått til staten til eie, bruk eller annen særlig rådighet fast eiendom,​3 rettigheter og løsøre av ethvert slag og elektrisk kraft som trenges til tiltak som nevnt i § 1. Avståing til bruk omfatter rett til å foreta de endringer med gjenstanden eller den faste eiendom som ansees nødvendig.\nDepartementet kan gi tillatelse til at også andre får kreve slik avståing som nevnt i første ledd.\nEier eller besitter av eiendom som nevnt i første ledd, kan pålegges å gi opplysninger om den og la den besiktige. Løsøre kan om nødvendig pålegges transportert til bestemt sted. Pålegg om slik transport skal etterkommes uten erstatning med mindre annet er bestemt av departementet.\nDen som kravet om avståing rettes mot, skal gis anledning til å uttale seg før avgjørelse treffes. Når det søkes om tillatelse til avståing til fordel for andre enn en kommune, skal vedkommende kommune gis anledning til å uttale seg om tillatelse bør gis.\n1 Justisdepartementet m.fl. ifg. res. 15 nov 1963.\n2 Se § 32, § 33 og Grl. § 105.\n3 Se lov 23 okt 1959 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "5:31",
+      "chapter": "5",
+      "section": "31",
+      "content": "Når militære myndigheter har rekvisisjonsrett etter lov om militære rekvisisjoner av 29. juni 1951, får § 8 i samme lov tilsvarende anvendelse ved krav om avståing etter § 30 i den utstrekning Kongen bestemmer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "5:32",
+      "chapter": "5",
+      "section": "32",
+      "content": "Departementet​1 kan fastsette takster for bruk av husrom til folk, stallrom til dyr, garasjer og lagerrom, samt for elektrisk kraft, varer og annet løsøre. Det samme gjelder for ytelser etter §§ 52 og 53. Takstene kan fastsettes for hele riket eller for deler av det. For øvrig fastsettes erstatningen ved skjønn.​2\n1 Justisdepartementet.\n2 Se § 34, skjl. kap. 2, lov 23 okt 1959 nr. 3 § 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "5:33",
+      "chapter": "5",
+      "section": "33",
+      "content": "Ved avståing av bruksrett til rom i et sammenhengende tidsrom av ikke over 2 døgn gis ingen annen godtgjøring enn erstatning for bevislig voldte skader, tap eller utgifter. Avstår samme besitter i løpet av samme kalenderår flere ganger bruksrett til rom som ellers er i bruk, skal godtgjøring dog gis for så vidt tidsrommet i alt utgjør mer enn 3 døgn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "5:34",
+      "chapter": "5",
+      "section": "34",
+      "content": "Departementet​1 kan bestemme at når militære myndigheter har rekvisisjonsrett etter lov om militære rekvisisjoner av 29. juni 1951, skal skjønn etter § 32, som ikke gjelder avståing av eiendomsrett til fast eiendom, avgis av skjønnsnemnder på 3 medlemmer. Departementet fastsetter hvilke områder nemndene skal oppnevnes for og hva slags saker de skal behandle.\nMedlemmene med varamenn oppnevnes av fylkesmannen for så lang tid som departementet bestemmer, dog ikke ut over 4 år. De må fylle vilkårene etter domstollovens​2 § 53. Et av medlemmene oppnevnes som formann.\nOmfatter en nemnds område flere fylker eller deler av flere fylker, avgjør departementet hvilken fylkesmann som skal foreta oppnevningen.\nMedlemmene skal ha godtgjørelse etter regler som gis av departementet. Utgiftene til nemndene utredes av staten.\nKongen kan bestemme at skjønnet i stedet skal avgis av de nemnder som er oppnevnt etter lov om militære rekvisisjoner av 29. juni 1951, § 13, jfr. § 14, eller at to skjønnsmedlemmer som fylkesmannen oppnevner til disse, skal være medlemmer av de nemnder som oppnevnes etter denne paragraf.\n0 Endret ved lov 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Justisdepartementet.\n2 Lov 13 aug 1915 nr. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "5:35",
+      "chapter": "5",
+      "section": "35",
+      "content": "Ved skjønnet legger nemnda dagens alminnelige priser til grunn. Er medlemmene ikke enige om erstatningsbeløpet, gjelder det beløp som får flest stemmer. Er det ikke flertall for noe beløp, gjelder det nest høyeste.\n0 Endret ved lov 19 juni 1969 nr. 54.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "5:36",
+      "chapter": "5",
+      "section": "36",
+      "content": "Kongen kan bestemme at takster etter § 32 istedenfor av departementet skal fastsettes av Sentralnemnda for rekvisisjonssaker når slik er oppnevnt etter lov om militære rekvisisjoner av 29. juni 1951.\n0 Endret ved lov 19 juni 1969 nr. 54.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "5:37",
+      "chapter": "5",
+      "section": "37",
+      "content": "Kongen kan gi regler om utbetaling av erstatningen.\nSlike regler kan gis med virkning også for avståing som allerede har funnet sted.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "5:38",
+      "chapter": "5",
+      "section": "38",
+      "content": "Avståing kan kreves gjennomført straks, selv om erstatning ikke er fastsatt. Når avståing skjer til andre enn staten, skal det stilles slik sikkerhet for erstatningsbetalingen som departementet​1 bestemmer. Skjønnslovens​2 § 55 gjelder ikke. Når det er nødvendig, kan avståingen gjennomføres ved politiets hjelp.\n1 Justisdepartementet.\n2 Lov 1 juni 1917 nr. 1 (skjl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "6:39",
+      "chapter": "6",
+      "section": "39",
+      "content": "Egenbeskyttelse er sivilforsvar for den enkelte faste eiendom til beskyttelse av folk eller gods der.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "6:40",
+      "chapter": "6",
+      "section": "40",
+      "content": "Et lokalt sivilforsvars område​1 kan deles i sivilforsvarsroder for egenbeskyttelsestiltak til gjensidig hjelp for eiendommene i roden. Etter departementets​2 bestemmelse kan det også på andre steder organiseres sivilforsvarsroder. For hver sivilforsvarsrode skal det være en rodemester som oppnevnes av sjefen for det lokale sivilforsvar og er underlagt denne.\nDepartementet fastsetter instruks for rodemesteren.\n1 Se § 9.\n2 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "6:41",
+      "chapter": "6",
+      "section": "41",
+      "content": "Eier og bruker av fast eiendom – offentlig eller privat – skal​1 forberede og sette i verk egenbeskyttelsestiltak for eiendommen etter nærmere bestemmelse av departementet.​2 Til pålegg om innredning av tilfluktsrom kan knyttes bestemmelse om at tilfluktsrommet skal innredes slik at det også kan nyttes av folk i naboeiendom.\nSivilforsvarets myndigheter og tilsynsmyndigheten skal​3 til enhver tid ha uhindret adgang til anlegg/virksomhet etter loven for å føre tilsyn med egenbeskyttelsestiltakene. Sivilforsvarets myndigheter og tilsynsmyndigheten skal legitimere seg i samsvar med forvaltningsloven​4 § 15, og om mulig sette seg i kontakt med stedlig leder eller industrivernleder.\nVirksomhetens leder, industrivernleder eller representant for denne har rett til, og kan pålegges, å være til stede under kontrollen. Sivilforsvarets myndigheter og tilsynsmyndigheten kan bestemme at retten ikke skal gjelde ved intervju av arbeidstaker, eller dersom slik tilstedeværelse ikke kan gjennomføres uten vesentlig ulempe, eller uten at formålet med kontrollen settes i fare.\nSivilforsvarets myndigheter og tilsynsmyndigheten gir de pålegg og treffer de enkeltvedtak ellers som er nødvendige for gjennomføringen av bestemmelsene gitt i eller i medhold av denne lov. Det skal settes en frist for når pålegget skal være utført. Ved overhengende fare kan tilsynsmyndigheten kreve at nødvendige tiltak blir iverksatt straks.\nMed mindre tungtveiende hensyn tilsier noe annet, skal tilsynsmyndigheten gi skriftlig rapport til virksomheten om resultatet av kontrollen.\n0 Endret ved lover 10 jan 1992 nr. 4, 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234).\n1 Se § 62.\n2 Justisdepartementet.\n3 Se § 62 og lov 22 mai 1902 nr. 10 (strl.) § 326.\n4 Lov 10 feb 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "6:41 a",
+      "chapter": "6",
+      "section": "41 a",
+      "content": "Departementet kan bestemme at eier og bruker av elektrisitetsverk og damanlegg av enhver art skal treffe særlige reserve- og sikringstiltak, for så vidt anleggene ikke går inn under lov 29. juni 1990 nr. 50 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. kapittel 6. Det samme gjelder gassverker.\nVed anlegg av enhver art, som kan medføre fare for omgivelsene hvis de blir ødelagt, kan det etter nærmere bestemmelse av departementet​1 pålegges eier og bruker å treffe særlige sikringstiltak.\nEgenbeskyttelsestiltakene etter § 41 første ledd og denne paragraf kan omfatte en enkelt eiendom eller være felles for flere. Det skal oppnevnes husvernledere og industrivernledere hvis plikter fastsettes ved instruks.\n0 Tilføyd ved lov 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234), endret ved lov 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712).\n1 Olje- og energidepartementet når det gjelder sikringstiltak ved damanlegg, iflg. res. 11 jan 1978, jf. res. 20 aug 1965.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41a",
+        "source_heading": "§ 41 a."
+      }
+    },
+    {
+      "provision_ref": "6:42",
+      "chapter": "6",
+      "section": "42",
+      "content": "Eier og bruker av fast eiendom plikter​1 å betale utgiftene til tiltak etter § 41 første ledd og § 41 a. Når det innredes tilfluktsrom som også skal nyttes av folk i naboeiendom (jf. § 41 første ledd annet punktum), plikter​1 eier eller bruker av naboeiendommen å bidra til dekning av utgiftene.\nFordeling av utgifter etter første ledd skjer etter regler som gis av departementet.​2\nFor utgifter ved tiltak etter § 41 a første og annet ledd, yter staten refusjon etter nærmere bestemmelse av departementet.​3\n0 Endret ved lov 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234).\n1 Se § 62.\n2 Justisdepartementet.\n3 Olje- og energidepartementet når det gjelder utgifter til sikringstiltak ved damanlegg, res. 11 jan 1978 jf. res. 20 aug 1965.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "6:43",
+      "chapter": "6",
+      "section": "43",
+      "content": "I pålegg etter loven her kan sivilforsvarets myndigheter og tilsynsmyndigheten fastsette en løpende tvangsmulkt​1 for hver dag/uke/måned som går etter utløpet av den frist som er satt for oppfylling av pålegget, inntil pålegget er oppfylt. Tvangsmulkt kan også fastsettes som engangsmulkt. Sivilforsvarets myndigheter og tilsynsmyndigheten kan frafalle påløpt tvangsmulkt.\nDersom pålegg ikke oppfylles innen fristen kan sivilforsvarets myndigheter og tilsynsmyndigheten helt eller delvis stanse virksomheten inntil pålegget er utført.\nVed overhengende fare kan tilsynsmyndigheten stanse virksomheten selv om pålegg ikke er gitt.\n0 Endret ved lover 26 juni 1992 nr. 86, 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234).\n1 Jf. tvangsl. § 7-2, d.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "6:43 a",
+      "chapter": "6",
+      "section": "43 a",
+      "content": "Tilsynsmyndigheten kan utferdige forelegg mot den som innen fastsatt frist unnlater å etterkomme pålegg eller forbud som er gitt med hjemmel i denne lov. Forelegget skal gi opplysninger om bestemmelsene i annet ledd og skal, så langt mulig, forkynnes​1 for den det er rettet mot.\nDen forelegget er rettet mot, kan reise søksmål mot det offentlige for å få forelegget prøvet. Blir søksmål ikke reist innen 30 dager fra forkynnelsen, har forelegget samme virkning som rettskraftig dom, og kan fullbyrdes etter reglene for dommer.\nForelegg kan ikke påklages.\n0 Tilføyd ved lov 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234).\n1 Se lov 13 aug 1915 nr. 5 kap. 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43a",
+        "source_heading": "§ 43 a."
+      }
+    },
+    {
+      "provision_ref": "6:43 b",
+      "chapter": "6",
+      "section": "43 b",
+      "content": "Blir pålegg i rettskraftig​1 dom eller dermed likestilt forelegg​2 ikke etterkommet, kan vedkommende tilsynsmyndighet selv besørge eller få besørget at pålegget utføres for regning av den som dommen eller forelegget er rettet mot uten at det er nødvendig med kjennelse etter tvangsfullbyrdelsesloven​3 § 13-14.\nVed overhengende fare kan pålegg fullbyrdes etter reglene i tvangsfullbyrdelsesloven​3 § 13-14 uten at dom eller forelegg kreves.\n0 Tilføyd ved lov 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234).\n1 Jf. tvl. § 19-14.\n2 Se § 43 a.\n3 Lov 26 juni 1992 nr. 86 (tvangsl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43b",
+        "source_heading": "§ 43 b."
+      }
+    },
+    {
+      "provision_ref": "6:44",
+      "chapter": "6",
+      "section": "44",
+      "content": "Enhver plikter​1 å finne seg i og medvirke til at det ved gjennombryting av skillevegg eller på annen måte skaffes nødutgang fra naboeiendom.\n1 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "6:45",
+      "chapter": "6",
+      "section": "45",
+      "content": "Lider noen tap eller skade ved tiltak etter § 41 første ledd og § 41 a som han ikke selv helt ut skal betale utgiftene til,​1 har han krav på erstatning, såfremt tapet eller skaden ikke regnes for uvesentlig. Erstatningen utredes av den som skal bære utgiftene ved tiltaket. Spørsmålet om erstatning skal tilkjennes og i tilfelle med hvilket beløp, avgjøres ved skjønn.​2 Tiltaket kan kreves satt i verk selv om spørsmålet om erstatning ikke er avgjort.\n0 Endret ved lov 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234).\n1 Se § 42.\n2 Se skjl. kap. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "6:46",
+      "chapter": "6",
+      "section": "46",
+      "content": "En bedrifts industrivern​1 plikter​2 på anmodning å yte annen bedrift hjelp samt å bistå det lokale sivilforsvars​3 utrykningsstyrker. For utgifter ved slik hjelp har den bedrift som yter hjelpen, etter departementets​4 nærmere bestemmelse krav på refusjon av den som mottar hjelpen. Blir materiell tilhørende bedriften betydelig skadet, kan staten yte tilskudd til gjenanskaffelse etter departementets bestemmelse.\nReglene i første ledd gjelder tilsvarende under øvelser, dog slik at refusjon for utgifter ved hjelp som er et ledd i øvelsene, ikke ytes.\n1 Se § 41.\n2 Se § 62 og § 63.\n3 Se § 9.\n4 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "6:47",
+      "chapter": "6",
+      "section": "47",
+      "content": "Kongen kan bestemme at sivilforsvarstiltak skal gjennomføres for skip, havner, jernbaner og andre kommunikasjonsmidler og anlegg. Bestemmelsene i dette kapitel får i så fall tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "6:48",
+      "chapter": "6",
+      "section": "48",
+      "content": "Kongen kan pålegge organisasjon eller institusjon å organisere og føre kontroll med egenbeskyttelsen ved bestemte bedrifter eller virksomheter. Utgifter som organisasjonen eller institusjonen herved påføres, kan den utlikne på og kreve betalt av vedkommende bedrifter eller virksomheter.\nFor bedrifter eller virksomheter som omfattes av tilsynsmyndighetens område fastsatt i medhold av første ledd, kan departementet​1 gi nærmere regler om oppfølgning av systematisk helse-, miljø- og sikkerhetsarbeid for å sikre at krav om egenbeskyttelse (industrivern) fastsatt i medhold av § 41, § 41 a, jf. § 43 og krav om internkontroll overholdes.\n0 Endret ved lover 10 jan 1992 nr. 6, 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234).\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "6:49",
+      "chapter": "6",
+      "section": "49",
+      "content": "I lokalt sivilforsvar hvor det etter § 9 fjerde ledd iverksettes felles sivilforsvarstiltak for en industriell bedrift og et nærmere bestemt område utenfor denne, skal bedriften bære utgiftene ved tiltak som påligger den etter reglene om industrivern, selv om disse tiltak også kommer områder utenfor bedriftsområdet til gode.\nUtgiftene i forbindelse med tiltak som treffes for bebyggelse utenfor bedriftsområdet, bæres av staten eller av kommunen etter § 15.\nFellesutgifter fordeles etter avtale mellom bedriften, vedkommende kommune og fylkesmannen. Blir partene ikke enige, avgjøres fordelingen av Direktoratet for samfunnssikkerhet og beredskap.\n0 Endret ved lover 7 juni 1985 nr. 49, 4 juni 2004 nr. 34.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "7:50",
+      "chapter": "7",
+      "section": "50",
+      "content": "Når riket er i krig eller krig truer, kan Kongen bestemme at utflytting av folk skal finne sted fra områder som er eller antas å kunne bli utsatt for fiendtlig virksomhet.\nKongen gir forskrifter om planlegging og iverksetting av krigsutflyttingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "7:51",
+      "chapter": "7",
+      "section": "51",
+      "content": "Ved krigsutflytting etter § 50 skal​1 enhver etter pålegg flytte til den tid, på den måte og til det sted som blir fastsatt.\nIngen må​1 uten samtykke flytte fra det anviste sted eller vende tilbake til fraflyttingsområdet.\n1 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "7:52",
+      "chapter": "7",
+      "section": "52",
+      "content": "Ved krigsutflytting etter § 50 er enhver som eier eller rår over jernbane, fartøy, motorkjøretøy eller annet transportmiddel, pliktig​1 til å transportere folk som er pålagt å flytte.\nVed krigsutflytting etter pålegg betaler staten utgiftene ved flyttingen.\n1 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "7:53",
+      "chapter": "7",
+      "section": "53",
+      "content": "Eier eller bruker av hus kan pålegges å ta imot folk som er krigsutflyttet og gi dem husvær, herunder senger og annet nødvendig utstyr, lys og brensel. Det som etter vedkommende myndighets skjønn er uomgjengelig nødvendig for innehaveren selv eller hans husstand eller til utøving av hans næringsvirksomhet, skal dog ikke kunne kreves avgitt.\nFraflyttingskommunen betaler vederlaget for husvær for de utflyttede, men kan kreve tilbakebetaling av disse. De andre utgifter ved oppholdet betales av de utflyttede.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "7:54",
+      "chapter": "7",
+      "section": "54",
+      "content": "Om fastsettelsen av vederlaget for ytelser etter §§ 52 og 53 gjelder det som er bestemt i kapitel V.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "7:55",
+      "chapter": "7",
+      "section": "55",
+      "content": "Til slik tid som nevnt i § 50 kan det etter nærmere regler som gis av Kongen, nedlegges forbud​1 for dem som oppholder seg innen et bestemt område, mot å forlate dette.\n1 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "7:56",
+      "chapter": "7",
+      "section": "56",
+      "content": "Utflytting etter § 50 skal ikke medføre noen endring i den utflyttedes rettsstilling i forhold til fraflyttingskommunen med mindre annet følger av denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "7:57",
+      "chapter": "7",
+      "section": "57",
+      "content": "Bestemmelsene i §§ 51, annet ledd, 53 og 56 får tilsvarende anvendelse for midlertidig utflyttede personer som ikke har flyttet i henhold til pålegg etter § 51, men som tilhører grupper som omfattes av slike pålegg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    },
+    {
+      "provision_ref": "7:58",
+      "chapter": "7",
+      "section": "58",
+      "content": "Tilflyttingskommunen betaler de utflyttede sosiale trygder og forsorgsunderstøttelse mot refusjon av staten eller den eller de kommuner som endelig skulle ha dekket trygdene eller understøttelsen om utflytting ikke hadde funnet sted.\nFraflyttingskommunen skal refundere tilflyttingskommunen de økte utgifter som følger med at denne må sørge for skolegang for tilflyttede barn.\nNår tilflyttingskommunens utgifter til folkeregisterføringen, rasjonerings- og forsyningsordningen og til administrasjonen ellers som følge av flyttingen øker betydelig, yter staten refusjon etter bestemmelse av departementet.​1\nFor utlegg som tilflyttingskommunen skal ha refundert etter bestemmelsene i denne paragraf, kan den kreve forskudd.\nFor så vidt ikke annet følger av lov, kan kommunene treffe avtale om sitt gjensidige forhold etter denne paragraf.\n1 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_58",
+        "source_heading": "§ 58."
+      }
+    },
+    {
+      "provision_ref": "8:59",
+      "chapter": "8",
+      "section": "59",
+      "content": "Ingen må​1 uberettiget bruke sivilforsvarets uniformer, merker og signaler. Heller ikke må noen bruke uniform, merke og signal som lett kan forveksles med sivilforsvarets.\n1 Se § 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_59",
+        "source_heading": "§ 59."
+      }
+    },
+    {
+      "provision_ref": "8:60",
+      "chapter": "8",
+      "section": "60",
+      "content": "Når ikke annet er bestemt i medhold av forvaltningslovens​1 § 5 annet ledd, gjelder forvaltningsloven i fredstid for behandling av saker etter denne lov. Forhåndsvarsel​2 til sakens parter kan likevel unnlates dersom antallet parter i saken er stort, eller et stort antall saker behandles under ett, eller forhåndsvarsel kan medføre at saken forsinkes på en uheldig måte. Tilsvarende gjelder dersom forhåndsvarsel av hensyn til partene synes upåkrevet.\nForvaltningslovens​1 kapitlene IV-VI gjelder ikke for saker om tjenesteplikten og tjenestens utførelse, dog kan pålegg etter §§ 23 og 24 påklages til departementet.​3\n0 Endret ved lov 19 juni 1969 nr. 54.\n1 Lov 10 feb 1967.\n2 Se lov 10 feb 1967 § 16.\n3 Justisdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_60",
+        "source_heading": "§ 60."
+      }
+    },
+    {
+      "provision_ref": "8:61",
+      "chapter": "8",
+      "section": "61",
+      "content": "Departementet​1 gir nærmere forskrifter​2 til gjennomføring av bestemmelsene i denne lov.\n1 Justisdepartementet.\n2 Jf. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_61",
+        "source_heading": "§ 61."
+      }
+    },
+    {
+      "provision_ref": "8:62",
+      "chapter": "8",
+      "section": "62",
+      "content": "Den som forsettlig eller uaktsomt overtrer denne lov eller forskrifter eller pålegg som er gitt med hjemmel i loven, straffes med bot​1 eller fengsel​2 i inntil 1 år hvis ikke forholdet rammes av strengere straffebud. På samme måte straffes forsøk​3 på og medvirkning til slik overtredelse.\nOvertredelsene er forseelser.\nDen som legger hindringer i veien for undersøkelser som sivilforsvarets myndigheter og tilsynsmyndigheten iverksetter etter denne lov, eller unnlater å yte pliktig bistand eller å gi opplysninger som kreves for utførelsen av tilsynet etter denne lov, straffes med bøter såfremt forholdet ikke rammes av strengere straffebud.\nFor håndheving og sanksjoner overfor kommunen gjelder bestemmelsene i lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner (kommuneloven) kapittel 10 A.\n0 Endret ved lover 8 des 2000 nr. 85 (ikr. 1 jan 2001 iflg. res. 8 des 2000 nr. 1234), 19 juni 2009 nr. 83 (ikr. 1 jan 2010 iflg. res. 26 juni 2009 nr. 878). Endres ved lov 20 mai 2005 nr. 28 (ikr. fra den tid som fastsettes ved lov) som endret ved lov 19 juni 2009 nr. 74.\n1 Jf. lov 22 mai 1902 nr. 10 (strl.) § 27; strl. 2005 kap. 9.\n2 Jf. strl. § 26 a; strl. 2005 kap. 6 og kap. 9.\n3 Se strl. § 49.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_62",
+        "source_heading": "§ 62."
+      }
+    },
+    {
+      "provision_ref": "8:63",
+      "chapter": "8",
+      "section": "63",
+      "content": "Overtredelse eller forsømmelse av tjenesteplikter i sivilforsvaret kan refses disiplinært.\nSom refselse kan anvendes:​1\n1. Irettesettelse.\n2. Straffevakt bestående i vakt utenfor tur.\n3. Nektelse av permisjon for et tidsrom av inntil én måned.\n4. Bot som fastsettes på grunnlag av det tjenestetillegg som gjelder for menige:\na. overfor menige, nestlagførere og lagførere og overfor rodemestere og deres stedfortredere, et beløp på inntil 20 ganger tjenestetillegget,\nb. overfor befal og overfor tjenestepliktige instruktører, et beløp inntil 50 ganger tjenestetillegget.\n5. Frihetsinnskrenkning bestående i forbud mot til visse tider av dagen eller hele døgnet i et tidsrom av inntil 21 dager å gå utenfor kvarteret, kasernen, leiren eller annet nærmere betegnet område. Denne art refselse må ikke brukes på ny før det er gått dobbelt så lang tid som den tid frihetsinnskrenkningen har vart.\n6. Arrest inntil 20 dager. For arrest gjelder §§ 16 og 17 i den militære straffelov av 22. mai 1902 tilsvarende.\nSak om refselse behandles etter lov 20. mai 1988 nr. 32 om militær disiplinærmyndighet og de utfyllende forskrifter som fastsettes av Kongen. Kongen bestemmer hvem som skal ha myndighet til å ilegge refselse.\nRefselsesbøter kan innkreves av Statens Innkrevingssentral.​2 Innkrevingssentralen kan inndrive bøtene ved trekk i lønn eller andre lignende ytelser som nevnt i dekningsloven​3 § 2-7.\n0 Endret ved lover 19 juni 1969 nr. 54, 3 juni 1983 nr. 43, 11 juni 1993 nr. 83 (ikr. 1 aug 1993 iflg. res. 23 juli 1993 nr. 764), 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712).\n1 Sml. lov 20 mai 1988 nr. 32 kap. 2.\n2 Se lov 22 mai 1981 nr. 25 (strpl.) § 455, § 456.\n3 Lov 8 juni 1984 nr. 59.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_63",
+        "source_heading": "§ 63."
+      }
+    },
+    {
+      "provision_ref": "8:64",
+      "chapter": "8",
+      "section": "64",
+      "content": "Denne lov trer i kraft straks.\nSamtidig oppheves – – –.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_64",
+        "source_heading": "§ 64."
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "LOV-1775-06-08",
+  "type": "statute",
+  "title": "Kongelig Resolution ang. Jorddelingen i Finmarken samt Bopladses Udvisning og Skyldlægning sammesteds",
+  "short_name": "Res. anggående jorddelingen i Finmark m.v.",
+  "status": "in_force",
+  "issued_date": "1775-06-08",
+  "in_force_date": "1775-06-08",
+  "url": "https://lovdata.no/dokument/NL/lov/1775-06-08",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "De Herligheder, som hidindtil have været tilfælles for hele Bygder eller Almuen i Almindelighed, være sig Fiskerie i Havet og de store Elve, samt Landings-Steder og deslige, forblive fremdeles til saadan almindelig Brug.\n0 Opphevet ved lov 8 apr 1905 nr. 1 § 47, forsåvidt den strider mot lovgivningen om laks- og sjøørretfiskeriene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "De Herligheder, som hidindtil have været tilfælles for hele Bygder eller Almuen i Almindelighed, være sig Fiskerie i Havet og de store Elve, samt Landings-Steder og deslige, forblive fremdeles til saadan almindelig Brug.\n0 Opphevet ved lov 8 apr 1905 nr. 1 § 47, forsåvidt den strider mot lovgivningen om laks- og sjøørretfiskeriene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    }
+  ]
+}

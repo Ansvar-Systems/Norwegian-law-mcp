@@ -1,0 +1,115 @@
+{
+  "id": "LOV-2009-05-15-28",
+  "type": "statute",
+  "title": "Lov om gjennomføring av Konvensjonen om klaseammunisjon",
+  "short_name": "Klaseammunisjonsloven",
+  "status": "in_force",
+  "issued_date": "2009-05-15",
+  "in_force_date": "2010-08-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2009-05-15-28",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Det er forbudt å bruke, utvikle, produsere, erverve, lagre eller overføre klaseammunisjon i strid med Konvensjon av 30. mai 2008 om klaseammunisjon.\nKongen kan gi nærmere regler for å oppfylle Norges forpliktelser etter konvensjonen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne loven gjelder også for Svalbard, Jan Mayen og de norske bilandene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Den som bryter denne loven eller forskrifter gitt med hjemmel i loven, straffes med bøter eller fengsel inntil 2 år. Uaktsomme handlinger straffes med bøter eller fengsel inntil 6 måneder.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer.\n1 Fra 1 aug 2010 iflg. res. 26 mars 2010 nr. 446.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Fra den tid denne lov trer i kraft, gjøres følgende endringer i Almindelig borgerlig Straffelov 22. mai 1902 nr. 10: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Det er forbudt å bruke, utvikle, produsere, erverve, lagre eller overføre klaseammunisjon i strid med Konvensjon av 30. mai 2008 om klaseammunisjon.\nKongen kan gi nærmere regler for å oppfylle Norges forpliktelser etter konvensjonen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne loven gjelder også for Svalbard, Jan Mayen og de norske bilandene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Den som bryter denne loven eller forskrifter gitt med hjemmel i loven, straffes med bøter eller fengsel inntil 2 år. Uaktsomme handlinger straffes med bøter eller fengsel inntil 6 måneder.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer.\n1 Fra 1 aug 2010 iflg. res. 26 mars 2010 nr. 446.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Fra den tid denne lov trer i kraft, gjøres følgende endringer i Almindelig borgerlig Straffelov 22. mai 1902 nr. 10: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ]
+}

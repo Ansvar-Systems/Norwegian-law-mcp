@@ -1,0 +1,421 @@
+{
+  "id": "LOV-1916-07-21-9",
+  "type": "statute",
+  "title": "Lov om kjøp på avbetaling",
+  "short_name": "Avbetalingsloven",
+  "status": "in_force",
+  "issued_date": "1916-07-21",
+  "in_force_date": "1916-07-21",
+  "url": "https://lovdata.no/dokument/NLO/lov/1916-07-21-9",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ved kjøp på avbetaling forstås i denne loven kjøp hvor det er avtalt at kjøpesummen skal betales avdragsvis, at ett eller flere avdrag først skal betales etter at tingen er overgitt til kjøperen, og at selgeren skal ha salgspant i det solgte til sikkerhet for sitt krav på kjøpesummen, jfr. panteloven §§ 3-14 til 3-22. Loven gjelder bare for kjøp av løsøre.\nOm forholdet er kalt leie, eller betalingen ellers er betegnet som vederlag for bruk av tingen, ansees det allikevel som kjøp på avbetaling, hvis det er meningen at mottageren skal bli eier av tingen.\nSummen av de avdrag som selgeren har krav på etter avtalen kalles i denne lov avbetalingsprisen.\n1 Endret ved lover 29 mai 1928 nr. 5, 22 mai 1953 nr. 1, 8 feb. 1980 nr. 2. – Se strl. § 278. Jfr. lov 18 juni 1965 nr. 4 § 41.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Selgeren kan ikke gjøre gjeldende en avtalt særlig rettsvirkning av kjøperens unnlatelse av å betale hva han skylder, såsom rett til å ta tingen tilbake eller til å forlange betaling av avdrag som ellers ikke ville være forfalt, hvis ikke kjøperen i 14 dager har skyldt og fremdeles skylder enten det siste beløp han skal betale eller et beløp som utgjør minst en tiendedel av avbetalingsprisen​2 eller om beløpet omfatter to eller flere avdrag, minst en tyvendedel av den.\nHvis kjøperen før utlevering av tingen er foretatt betaler det han skulle ha betalt etter avtalen med tillegg av rente og mulige omkostninger, kan selgeren selv om fristen etter første ledd er oversittet, ikke gjøre gjeldende noen rettsvirkning som der nevnt hvis dette ville virke urimelig fordi forsinkelsen har sin grunn i sykdom, arbeidsløshet eller andre særlige forhold.\n1 Endret ved lov 22 mai 1953 nr. 1.\n2 Se § 1 i.f.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Vil sælgeren ta tingen tilbake, skal ved opgjøret mellem parterne kjøperen godskrives den værdi,​2 tingen har paa den tid, den blir tat tilbake.\nVed tingens verdi forståes det beløp som selgeren kan innvinne ved å selge tingen på hensiktsmessig måte, i tilfelle etter en rimelig reparasjon.\n1 Endret ved lov 22 mai 1953 nr. 1.\n2 Se § 12 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Selgeren kan på sin side godskrive seg:\n1. de avdrag som er forfalt, men ennå ikke betalt når tingen blir tatt tilbake, dog ikke avdrag som bare er forfalt fordi kjøperen har misligholdt sine plikter,\n2. en så stor brøkdel av de andre ubetalte avdrag som kontantprisen utgjør av avbetalingsprisen,​2\n3. rente og forsikringspremie som kjøperen plikter å betale, og som ikke er regnet inn i avbetalingsprisen,\n4. de omkostninger som har vært nødvendige for å få tingen tilbake.\nVed kontantprisen forståes den pris tingen kunne være kjøpt for mot kontant betaling på den tid kjøpet ble sluttet. Når avtalen oppgir den pris som selgeren ville kreve ved kontant betaling, legges denne pris til grunn for oppgjøret hvis det ikke må antas at tingen kunne være kjøpt for lavere pris.\n1 Endret ved lov 22 mai 1953 nr. 1.\n2 Se § 1 i.f.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Er tingens værdi paa den tid, den blir tat tilbake, større end det beløp sælgeren kan godskrive sig efter § 4, kan han ikke ta tingen tilbake, uten at han samtidig betaler det, som kjøperen faar tilgode efter opgjøret.​1\nEr tingens værdi mindre end sælgerens fordring efter § 4, kan sælgeren ikke kræve mer end forskjellen.\n1 Jfr. § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Har sælgeren forlangt tingen tilbake, kan kjøperen gjøre op sit mellemværende med ham ved at betale det, som skal godskrives sælgeren efter § 4. Gjør han det, beholder han tingen.\nHar sælgeren alt faat tingen tilbake, har kjøperen i fjorten dage ret til at løse den ind mot at betale det, som sælgeren har tilgode efter § 4.​2 Har sælgeren betalt noget i henhold til § 5, første led, maa kjøperen ogsaa betale det tilbake.\nSelv om selgeren ikke har forlangt tingen tilbake, kan kjøperen når som helst forlange slikt oppgjør som bestemt i første ledd. Betaler han utenfor en av de forfallsdager som er fastsatt for avdragene, skal han ikke ha nedsettelse etter § 4 nr. 2 i det første avdrag som forfaller etterat betaling skjer.\n1 Endret ved lov 22 mai 1953 nr. 1.\n2 Jfr. § 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Forlanger sælgeren tilbake flere ting; som er solgt underett, har kjøperen ret til at ta ut en eller flere av tingene efter eget valg mot at betale sælgerens tilgodehavende efter § 4 med fradrag av værdien (jfr. § 3) av den eller de ting, som sælgeren efter dette faar tilbake. Er værdien av denne eller disse ting større end sælgerens fordring efter § 4, kan selgeren ikke ta den (dem) tilbake uten samtidig at betale forskjellen.\nHar sælgeren alt faat tingene tilbake, kan kjøperen benytte sin ret efter foregaaende led ved indløsning overensstemmende med § 6, andet led. Værdien av den eller de ting som kjøperen ikke indløser, blir da at trække fra det beløp, som kjøperen skal betale efter § 6, andet led.​1\nKjøperen kan dog ikke gjøre gjældende sin ret efter nærværende paragraf, hvis de ting, som vilde bli igjen, har slik sammenhæng med de ting, som han ønsker at ta ut, at de vilde tape væsentlig i værdi ved at bli skilt fra dem.\n1 Jfr. § 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Selgeren kan ikke gyldig forbeholde seg at, kjøperens rett etter et kjøp på avbetaling skal være avhengig av at han oppfyller sine plikter etter et annet avbetalingskjøp eller for øvrig betaler annet enn det som selgeren kan godskrive etter § 4.\nNår det gjelder krav på kjøperen for utgifter til reparasjon av tingen eller lignende påkostninger, kan det avtales at innbetalinger til selgeren blir avskrevet på dette krav. Ellers kan kjøperen ikke gyldig fraskrive seg retten til ved betalingen å bestemme hvilken gjeldspost beløpet skal avskrives på.\nEr det avtalt en avbetalingspris som må regnes for urimelig, skal prisen nedsettes til det som finnes rimelig. Er avbetalingsprisen ellers ulovlig, skal den nedsettes til lovlig pris. Tilsvarende gjelder for avtalt rente og forsikringspremie. Avkortingen skjer i det eller de siste beløp som skal betales etter avtalen. Har selgeren krevd urimelig vederlag for å gi kjøperen utsettelse med betalingen eller andre lempninger i kontraktsvilkårene, skjer avkorting på samme måte.\n1 Endret ved lover 22 mai 1953 nr. 1, 4 mars 1983 nr. 4. – Jfr. lov 31 mai 1918 nr. 4 § 36.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Vil selgeren kreve det som kjøperen skylder ham etter en avtale om kjøp på avbetaling, skal de avdrag som bare er forfalt fordi kjøperen har misligholdt sine forpliktelser, nedsettes etter reglene i § 4 nr. 2.\nUtlegg for selgerens krav kan ikke tas i den ting som er solgt. Namsmannen​2 kan beslutte at selgeren, før utlegg blir gitt i annet gods, skal ta tingen tilbake etter reglene i denne lov såfremt en annen dekningsmåte ville være urimelig.\n1 Endret ved lov 22 mai 1953 nr. 1.\n2 Jfr. tvangsfullbl. § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Vil selgeren ta tingen tilbake, kan han kreve utlevering uten søksmål såfremt det er opprettet skriftlig kjøpekontrakt som\n1. inneholder forbehold om salgspant,\n2. oppgir den pris som selgeren ville kreve ved kontant betaling,\n3. oppgir hva kjøperen skal betale og forfallstiden for hvert enkelt avdrag.\nUtleveringsforretningen foregår etter reglene i §§ 11-14. Lov om tvangsfullbyrdelse av 13. august 1915 gjelder tilsvarende så langt den passer.\nEn selger som ikke ved salget har slik tillatelse som han trenger etter lov om handelsnæring av 8. mars 1935 § 103 a, kan ikke kreve utlevering uten søksmål.\n1 Opphevet ved lov 14 aug. 1918 nr. 4 § 2, tilføyd ved lov 29 mai 1928 nr 5, endret ved lover 22 mai 1953 nr. 1, 9 juni 1961 nr. 25, 8 feb. 1980 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Utleveringen foretas av den myndighet som utleggsforretningen hører under.​2 Bestyreren kan tilkalle rettsvitne dersom han av særlige grunner finner det ønskelig. Skal det etter § 12 annet ledd foretas verdsetting som krever særlige kunnskaper, bør rettsvitnet ha slike kunnskaper. Anses det påkrevd, kan det i slike tilfeller tilkalles to rettsvitner. Ved verdsetting etter § 12 annet ledd kan hver av partene kreve at det tilkalles rettsvitner.\nBegjæringen om utlevering skal være skriftlig og inneholde en beregning over hva saksøkeren vil godskrive seg etter reglene i § 4. Bestyreren fastsetter tid og sted for forretningen og gir begjæringen påtegning om det. Deretter lar bestyreren begjæringen forkynne for saksøkte med varsel som for forliksklager bestemt.​3 Saksøker meddeles tiden og stedet for forretningen.\nFinnes det betenkelig å gi saksøkte varsel, eller kan forkynning overensstemmende med lov om domstolene av 13 august 1915 § 163 a eller §§ 168-171 ikke iverksettes, blir forretningen på saksøkerens begjæring å sette, uten at saksøkte er varslet. Forretningen kan imidlertid i så fall alene fremmes, dersom saksøkte er til stede. Er han ikke til stede, kan bestyreren beslutte, at tingen skal tas i forvaring av ham eller av en tredjemann, som han opnevner. Forretningen utsettes til en bestemt tid, minst 14 dager derefter, og til denne skal bestyreren varsle saksøkte gjennem skriftlig meddelelse, som han på stedet leverer til nogen, som kan ta imot forkynnelse for saksøkte efter lov om domstolene av 13 august 1915 §§ 169-171; kan dette ikke skje, blir meddelelsen å opslå eller efterlate på stedet, og dessuten av saksøkeren å forkynne for saksøkte overensstemmende med lov om domstolene av 13 august 1915 §§ 168-171, hvis dertil er anledning. Forretningen blir derefter å fremme, enten saksøkte møter eller ikke.\n1 Opphevet ved lov 14 aug. 1918 nr. 4 § 2, tilføyet ved lov 29 mai 1928 nr. 5, endret ved lover 22 mai 1953 nr. 1, 22 mai 1981 nr. 24, 7 juni 1985 nr 56 (i kraft 1 jan 1986).\n2 Se tvangsfullbl. kap. 3.\n3 Se rettergangsl. § 277.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Forretningens bestyrer megler forlik mellem partene hvis begge er til stede. Han skal under forretningen gjøre saksøkte eller den som er til stede på dennes vegne, bekjendt med en kjøpers rettigheter efter denne lov. Møter ikke saksøkte, skal bestyreren vareta hans interesser under forretningen (tvangsfullbyrdelsesloven § 241, annet ledd).\nEnes ikke partene om tingenes verdi (§ 3), fastsettes den ved skjønn av forretningens bestyrer i forening med eventuelle rettsvitner etter § 11.\n1 Opphevet ved lov 14 aug. 1918 nr. 4 § 2, tilføyd ved lov 29 mai 1928 nr. 5, endret ved lover 26 jan. 1973 nr. 3, 22 mai 1981 nr. 24.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Gjør saksøkte innsigelse mot utleveringen, kan den bare foregå, hvis bestyreren finner at innsigelsen er åpenbart grunnløs.\nForretningen kan utsettes i inntil tre måneder fra den dag da begjæringen om utlevering ble fremsatt dersom bestyreren finner det sannsynliggjort at kjøperen på grunn av sykdom, arbeidsløshet eller andre særlige forhold er kommet i betalingsvanskeligheter som antas å være forbigående. Hvis særlige grunner taler for det, kan ytterligere utsettelse gis i inntil seks måneder fra den nevnte dag. Har selgeren frivillig gitt kjøperen utsettelse før utlevering ble forlangt, skal det tas hensyn til dette. Utsettelse gis ikke hvis dette setter selgerens sikkerhet i fare, eller utsettelsen av andre grunner vil virke urimelig. Bestyreren kan sette særlige vilkår for utsettelsen. Gir kjøperens forhold i utsettelsestiden grunn til det, kan bestyreren bestemme at utsettelsen ikke lenger skal gjelde.\nEr det tvist om, hvorvidt selgeren skal betale noe i henhold til § 5, første ledd eller om hvor meget han skal betale, kan utlevering foregå uten hinder av bestemmelsen i første ledd, hvis selgeren deponerer en så stor sum hos bestyreren som denne fastsetter. Finner bestyreren saken tilstrekkelig opplyst, kan han deretter uten videre forhandling avgjøre hvem som skal ha det deponerte beløp. I motsatt fall fastsetter bestyreren samtidig et nytt møte til en bestemt tid minst 14 dager deretter hvortil saksøkte, om han ikke har møtt, varsles således som i § 11, nest siste punktum, bestemt. I dette møte kan partene nærmere begrunne sine påstander, hvoretter bestyreren avgjør hvem som skal ha det deponerte beløp. Beløpet blir ikke å utbetale før avgjørelsen er blitt endelig. Gjør kjøperen gjeldende at § 8 tredje ledd eller avtaleloven § 36 skal anvendes, kan namsmannen ikke avgjøre tvisten.\nNamsmannens avgjørelser kan påklages til namsretten​2 selv om fullbyrdelsen er avsluttet. Klage kan fremsettes innen tre måneder, men ikke senere enn fjorten dager etter at fullbyrdelsen er avsluttet. Ellers gjelder reglene i tvangsfullbyrdelseslovens § 49 tilsvarende.\n1 Opphevet ved lov 14 aug. 1918 nr. 4 § 2, tilføyd ved lov 29 mai 1928 nr 5, endret ved lover 22 mai 1953 nr. 1, 4 mars 1983 nr. 4.\n2 Se tvangsfullbl. § 49.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "title": "(Opphevet ved lov 26 jan. 1973 nr. 3.)",
+      "content": "§ 14.(Opphevet ved lov 26 jan. 1973 nr. 3.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Vil kjøperen benytte sin rett etter § 6 eller § 7 til å løse inn ting som selgeren har fått tilbake, kan han forlange utlevering uten søksmål. Reglene i §§ 11 og 12, jfr. § 10 annet ledds annet punktum, får tilsvarende anvendelse.\nEr det tvist om hvor meget kjøperen skal betale etter § 6 annet ledd, jfr. § 7, kan utlevering skje når han foruten å betale hva han mener å skylde, deponerer en så stor sum hos bestyreren som denne bestemmer.\nDenne tvist avgjøres på den måte som er foreskrevet i § 13.\nHar selgeren deponert noe i henhold til § 13 tredje ledds første punktum, skal det utbetales til ham når tingen igjen utleveres til kjøperen.\n1 Opphevet ved lov 14 aug. 1918 nr. 4 § 2, tilføyet ved lov 29 mai 1928 nr. 5, endret ved lover 22 mai 1953 nr. 1, 26 jan. 1973 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Kjøperen kan ikke på forhånd fraskrive sig rettigheter som hjemles ham i denne lov eller vedta annet verneting enn det lovbestemte.\nHeller ikke kan han på forhånd gi fullmakt til å slutte forlik på hans vegne.​2\nAvtale om at tvist som måtte opstå av et kjøp efter denne lov skal avgjøres ved voldgift, er ugyldig, såfremt den er inngått før eller samtidig med kontraktens oprettelse.​3\n1 Endret ved lov 29 mai 1928 nr 5.\n2 Jfr. rettergangsl. § 279.\n3 Jfr. rettergangsl. § 452.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "16 a",
+      "section": "16 a",
+      "content": "Når det er avtalt salgspant etter pantelovens § 3-14 bokstav b, kan panthaveren ved mislighold av kredittavtalen kreve tingen utlevert med oppgjør etter tilsvarende regler som fastsatt i denne lov for utlevering etter krav fra selgeren.\nVilkårene i § 2 gjelder også for krav om utlevering etter denne paragrafen, men slik at lånesummen trer istedenfor avbetalingsprisen.\n1 Tilføyet ved lov 8 feb. 1980 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16a",
+        "source_heading": "§ 16 a."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "title": "(Opphevet ved lov 9 juni 1961 nr. 25)",
+      "content": "§ 17.(Opphevet ved lov 9 juni 1961 nr. 25)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "title": "(Opphevet ved sportellov § 163.)",
+      "content": "§ 18.(Opphevet ved sportellov § 163.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Denne lov træder i kraft 1 august 1916. Den er bare anvendelig paa avtaler, som sluttes, efterat den er traadt i kraft.​1\n1 Loven oppheves ved ny lov om kredittkjøp 21 juni 1985 nr 82 når denne trer i kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ved kjøp på avbetaling forstås i denne loven kjøp hvor det er avtalt at kjøpesummen skal betales avdragsvis, at ett eller flere avdrag først skal betales etter at tingen er overgitt til kjøperen, og at selgeren skal ha salgspant i det solgte til sikkerhet for sitt krav på kjøpesummen, jfr. panteloven §§ 3-14 til 3-22. Loven gjelder bare for kjøp av løsøre.\nOm forholdet er kalt leie, eller betalingen ellers er betegnet som vederlag for bruk av tingen, ansees det allikevel som kjøp på avbetaling, hvis det er meningen at mottageren skal bli eier av tingen.\nSummen av de avdrag som selgeren har krav på etter avtalen kalles i denne lov avbetalingsprisen.\n1 Endret ved lover 29 mai 1928 nr. 5, 22 mai 1953 nr. 1, 8 feb. 1980 nr. 2. – Se strl. § 278. Jfr. lov 18 juni 1965 nr. 4 § 41.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Selgeren kan ikke gjøre gjeldende en avtalt særlig rettsvirkning av kjøperens unnlatelse av å betale hva han skylder, såsom rett til å ta tingen tilbake eller til å forlange betaling av avdrag som ellers ikke ville være forfalt, hvis ikke kjøperen i 14 dager har skyldt og fremdeles skylder enten det siste beløp han skal betale eller et beløp som utgjør minst en tiendedel av avbetalingsprisen​2 eller om beløpet omfatter to eller flere avdrag, minst en tyvendedel av den.\nHvis kjøperen før utlevering av tingen er foretatt betaler det han skulle ha betalt etter avtalen med tillegg av rente og mulige omkostninger, kan selgeren selv om fristen etter første ledd er oversittet, ikke gjøre gjeldende noen rettsvirkning som der nevnt hvis dette ville virke urimelig fordi forsinkelsen har sin grunn i sykdom, arbeidsløshet eller andre særlige forhold.\n1 Endret ved lov 22 mai 1953 nr. 1.\n2 Se § 1 i.f.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Vil sælgeren ta tingen tilbake, skal ved opgjøret mellem parterne kjøperen godskrives den værdi,​2 tingen har paa den tid, den blir tat tilbake.\nVed tingens verdi forståes det beløp som selgeren kan innvinne ved å selge tingen på hensiktsmessig måte, i tilfelle etter en rimelig reparasjon.\n1 Endret ved lov 22 mai 1953 nr. 1.\n2 Se § 12 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Selgeren kan på sin side godskrive seg:\n1. de avdrag som er forfalt, men ennå ikke betalt når tingen blir tatt tilbake, dog ikke avdrag som bare er forfalt fordi kjøperen har misligholdt sine plikter,\n2. en så stor brøkdel av de andre ubetalte avdrag som kontantprisen utgjør av avbetalingsprisen,​2\n3. rente og forsikringspremie som kjøperen plikter å betale, og som ikke er regnet inn i avbetalingsprisen,\n4. de omkostninger som har vært nødvendige for å få tingen tilbake.\nVed kontantprisen forståes den pris tingen kunne være kjøpt for mot kontant betaling på den tid kjøpet ble sluttet. Når avtalen oppgir den pris som selgeren ville kreve ved kontant betaling, legges denne pris til grunn for oppgjøret hvis det ikke må antas at tingen kunne være kjøpt for lavere pris.\n1 Endret ved lov 22 mai 1953 nr. 1.\n2 Se § 1 i.f.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Er tingens værdi paa den tid, den blir tat tilbake, større end det beløp sælgeren kan godskrive sig efter § 4, kan han ikke ta tingen tilbake, uten at han samtidig betaler det, som kjøperen faar tilgode efter opgjøret.​1\nEr tingens værdi mindre end sælgerens fordring efter § 4, kan sælgeren ikke kræve mer end forskjellen.\n1 Jfr. § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Har sælgeren forlangt tingen tilbake, kan kjøperen gjøre op sit mellemværende med ham ved at betale det, som skal godskrives sælgeren efter § 4. Gjør han det, beholder han tingen.\nHar sælgeren alt faat tingen tilbake, har kjøperen i fjorten dage ret til at løse den ind mot at betale det, som sælgeren har tilgode efter § 4.​2 Har sælgeren betalt noget i henhold til § 5, første led, maa kjøperen ogsaa betale det tilbake.\nSelv om selgeren ikke har forlangt tingen tilbake, kan kjøperen når som helst forlange slikt oppgjør som bestemt i første ledd. Betaler han utenfor en av de forfallsdager som er fastsatt for avdragene, skal han ikke ha nedsettelse etter § 4 nr. 2 i det første avdrag som forfaller etterat betaling skjer.\n1 Endret ved lov 22 mai 1953 nr. 1.\n2 Jfr. § 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Forlanger sælgeren tilbake flere ting; som er solgt underett, har kjøperen ret til at ta ut en eller flere av tingene efter eget valg mot at betale sælgerens tilgodehavende efter § 4 med fradrag av værdien (jfr. § 3) av den eller de ting, som sælgeren efter dette faar tilbake. Er værdien av denne eller disse ting større end sælgerens fordring efter § 4, kan selgeren ikke ta den (dem) tilbake uten samtidig at betale forskjellen.\nHar sælgeren alt faat tingene tilbake, kan kjøperen benytte sin ret efter foregaaende led ved indløsning overensstemmende med § 6, andet led. Værdien av den eller de ting som kjøperen ikke indløser, blir da at trække fra det beløp, som kjøperen skal betale efter § 6, andet led.​1\nKjøperen kan dog ikke gjøre gjældende sin ret efter nærværende paragraf, hvis de ting, som vilde bli igjen, har slik sammenhæng med de ting, som han ønsker at ta ut, at de vilde tape væsentlig i værdi ved at bli skilt fra dem.\n1 Jfr. § 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Selgeren kan ikke gyldig forbeholde seg at, kjøperens rett etter et kjøp på avbetaling skal være avhengig av at han oppfyller sine plikter etter et annet avbetalingskjøp eller for øvrig betaler annet enn det som selgeren kan godskrive etter § 4.\nNår det gjelder krav på kjøperen for utgifter til reparasjon av tingen eller lignende påkostninger, kan det avtales at innbetalinger til selgeren blir avskrevet på dette krav. Ellers kan kjøperen ikke gyldig fraskrive seg retten til ved betalingen å bestemme hvilken gjeldspost beløpet skal avskrives på.\nEr det avtalt en avbetalingspris som må regnes for urimelig, skal prisen nedsettes til det som finnes rimelig. Er avbetalingsprisen ellers ulovlig, skal den nedsettes til lovlig pris. Tilsvarende gjelder for avtalt rente og forsikringspremie. Avkortingen skjer i det eller de siste beløp som skal betales etter avtalen. Har selgeren krevd urimelig vederlag for å gi kjøperen utsettelse med betalingen eller andre lempninger i kontraktsvilkårene, skjer avkorting på samme måte.\n1 Endret ved lover 22 mai 1953 nr. 1, 4 mars 1983 nr. 4. – Jfr. lov 31 mai 1918 nr. 4 § 36.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "Vil selgeren kreve det som kjøperen skylder ham etter en avtale om kjøp på avbetaling, skal de avdrag som bare er forfalt fordi kjøperen har misligholdt sine forpliktelser, nedsettes etter reglene i § 4 nr. 2.\nUtlegg for selgerens krav kan ikke tas i den ting som er solgt. Namsmannen​2 kan beslutte at selgeren, før utlegg blir gitt i annet gods, skal ta tingen tilbake etter reglene i denne lov såfremt en annen dekningsmåte ville være urimelig.\n1 Endret ved lov 22 mai 1953 nr. 1.\n2 Jfr. tvangsfullbl. § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Vil selgeren ta tingen tilbake, kan han kreve utlevering uten søksmål såfremt det er opprettet skriftlig kjøpekontrakt som\n1. inneholder forbehold om salgspant,\n2. oppgir den pris som selgeren ville kreve ved kontant betaling,\n3. oppgir hva kjøperen skal betale og forfallstiden for hvert enkelt avdrag.\nUtleveringsforretningen foregår etter reglene i §§ 11-14. Lov om tvangsfullbyrdelse av 13. august 1915 gjelder tilsvarende så langt den passer.\nEn selger som ikke ved salget har slik tillatelse som han trenger etter lov om handelsnæring av 8. mars 1935 § 103 a, kan ikke kreve utlevering uten søksmål.\n1 Opphevet ved lov 14 aug. 1918 nr. 4 § 2, tilføyd ved lov 29 mai 1928 nr 5, endret ved lover 22 mai 1953 nr. 1, 9 juni 1961 nr. 25, 8 feb. 1980 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Utleveringen foretas av den myndighet som utleggsforretningen hører under.​2 Bestyreren kan tilkalle rettsvitne dersom han av særlige grunner finner det ønskelig. Skal det etter § 12 annet ledd foretas verdsetting som krever særlige kunnskaper, bør rettsvitnet ha slike kunnskaper. Anses det påkrevd, kan det i slike tilfeller tilkalles to rettsvitner. Ved verdsetting etter § 12 annet ledd kan hver av partene kreve at det tilkalles rettsvitner.\nBegjæringen om utlevering skal være skriftlig og inneholde en beregning over hva saksøkeren vil godskrive seg etter reglene i § 4. Bestyreren fastsetter tid og sted for forretningen og gir begjæringen påtegning om det. Deretter lar bestyreren begjæringen forkynne for saksøkte med varsel som for forliksklager bestemt.​3 Saksøker meddeles tiden og stedet for forretningen.\nFinnes det betenkelig å gi saksøkte varsel, eller kan forkynning overensstemmende med lov om domstolene av 13 august 1915 § 163 a eller §§ 168-171 ikke iverksettes, blir forretningen på saksøkerens begjæring å sette, uten at saksøkte er varslet. Forretningen kan imidlertid i så fall alene fremmes, dersom saksøkte er til stede. Er han ikke til stede, kan bestyreren beslutte, at tingen skal tas i forvaring av ham eller av en tredjemann, som han opnevner. Forretningen utsettes til en bestemt tid, minst 14 dager derefter, og til denne skal bestyreren varsle saksøkte gjennem skriftlig meddelelse, som han på stedet leverer til nogen, som kan ta imot forkynnelse for saksøkte efter lov om domstolene av 13 august 1915 §§ 169-171; kan dette ikke skje, blir meddelelsen å opslå eller efterlate på stedet, og dessuten av saksøkeren å forkynne for saksøkte overensstemmende med lov om domstolene av 13 august 1915 §§ 168-171, hvis dertil er anledning. Forretningen blir derefter å fremme, enten saksøkte møter eller ikke.\n1 Opphevet ved lov 14 aug. 1918 nr. 4 § 2, tilføyet ved lov 29 mai 1928 nr. 5, endret ved lover 22 mai 1953 nr. 1, 22 mai 1981 nr. 24, 7 juni 1985 nr 56 (i kraft 1 jan 1986).\n2 Se tvangsfullbl. kap. 3.\n3 Se rettergangsl. § 277.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Forretningens bestyrer megler forlik mellem partene hvis begge er til stede. Han skal under forretningen gjøre saksøkte eller den som er til stede på dennes vegne, bekjendt med en kjøpers rettigheter efter denne lov. Møter ikke saksøkte, skal bestyreren vareta hans interesser under forretningen (tvangsfullbyrdelsesloven § 241, annet ledd).\nEnes ikke partene om tingenes verdi (§ 3), fastsettes den ved skjønn av forretningens bestyrer i forening med eventuelle rettsvitner etter § 11.\n1 Opphevet ved lov 14 aug. 1918 nr. 4 § 2, tilføyd ved lov 29 mai 1928 nr. 5, endret ved lover 26 jan. 1973 nr. 3, 22 mai 1981 nr. 24.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "content": "Gjør saksøkte innsigelse mot utleveringen, kan den bare foregå, hvis bestyreren finner at innsigelsen er åpenbart grunnløs.\nForretningen kan utsettes i inntil tre måneder fra den dag da begjæringen om utlevering ble fremsatt dersom bestyreren finner det sannsynliggjort at kjøperen på grunn av sykdom, arbeidsløshet eller andre særlige forhold er kommet i betalingsvanskeligheter som antas å være forbigående. Hvis særlige grunner taler for det, kan ytterligere utsettelse gis i inntil seks måneder fra den nevnte dag. Har selgeren frivillig gitt kjøperen utsettelse før utlevering ble forlangt, skal det tas hensyn til dette. Utsettelse gis ikke hvis dette setter selgerens sikkerhet i fare, eller utsettelsen av andre grunner vil virke urimelig. Bestyreren kan sette særlige vilkår for utsettelsen. Gir kjøperens forhold i utsettelsestiden grunn til det, kan bestyreren bestemme at utsettelsen ikke lenger skal gjelde.\nEr det tvist om, hvorvidt selgeren skal betale noe i henhold til § 5, første ledd eller om hvor meget han skal betale, kan utlevering foregå uten hinder av bestemmelsen i første ledd, hvis selgeren deponerer en så stor sum hos bestyreren som denne fastsetter. Finner bestyreren saken tilstrekkelig opplyst, kan han deretter uten videre forhandling avgjøre hvem som skal ha det deponerte beløp. I motsatt fall fastsetter bestyreren samtidig et nytt møte til en bestemt tid minst 14 dager deretter hvortil saksøkte, om han ikke har møtt, varsles således som i § 11, nest siste punktum, bestemt. I dette møte kan partene nærmere begrunne sine påstander, hvoretter bestyreren avgjør hvem som skal ha det deponerte beløp. Beløpet blir ikke å utbetale før avgjørelsen er blitt endelig. Gjør kjøperen gjeldende at § 8 tredje ledd eller avtaleloven § 36 skal anvendes, kan namsmannen ikke avgjøre tvisten.\nNamsmannens avgjørelser kan påklages til namsretten​2 selv om fullbyrdelsen er avsluttet. Klage kan fremsettes innen tre måneder, men ikke senere enn fjorten dager etter at fullbyrdelsen er avsluttet. Ellers gjelder reglene i tvangsfullbyrdelseslovens § 49 tilsvarende.\n1 Opphevet ved lov 14 aug. 1918 nr. 4 § 2, tilføyd ved lov 29 mai 1928 nr 5, endret ved lover 22 mai 1953 nr. 1, 4 mars 1983 nr. 4.\n2 Se tvangsfullbl. § 49.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "title": "(Opphevet ved lov 26 jan. 1973 nr. 3.)",
+      "content": "§ 14.(Opphevet ved lov 26 jan. 1973 nr. 3.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "content": "Vil kjøperen benytte sin rett etter § 6 eller § 7 til å løse inn ting som selgeren har fått tilbake, kan han forlange utlevering uten søksmål. Reglene i §§ 11 og 12, jfr. § 10 annet ledds annet punktum, får tilsvarende anvendelse.\nEr det tvist om hvor meget kjøperen skal betale etter § 6 annet ledd, jfr. § 7, kan utlevering skje når han foruten å betale hva han mener å skylde, deponerer en så stor sum hos bestyreren som denne bestemmer.\nDenne tvist avgjøres på den måte som er foreskrevet i § 13.\nHar selgeren deponert noe i henhold til § 13 tredje ledds første punktum, skal det utbetales til ham når tingen igjen utleveres til kjøperen.\n1 Opphevet ved lov 14 aug. 1918 nr. 4 § 2, tilføyet ved lov 29 mai 1928 nr. 5, endret ved lover 22 mai 1953 nr. 1, 26 jan. 1973 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "content": "Kjøperen kan ikke på forhånd fraskrive sig rettigheter som hjemles ham i denne lov eller vedta annet verneting enn det lovbestemte.\nHeller ikke kan han på forhånd gi fullmakt til å slutte forlik på hans vegne.​2\nAvtale om at tvist som måtte opstå av et kjøp efter denne lov skal avgjøres ved voldgift, er ugyldig, såfremt den er inngått før eller samtidig med kontraktens oprettelse.​3\n1 Endret ved lov 29 mai 1928 nr 5.\n2 Jfr. rettergangsl. § 279.\n3 Jfr. rettergangsl. § 452.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "16 a",
+      "section": "16 a",
+      "content": "Når det er avtalt salgspant etter pantelovens § 3-14 bokstav b, kan panthaveren ved mislighold av kredittavtalen kreve tingen utlevert med oppgjør etter tilsvarende regler som fastsatt i denne lov for utlevering etter krav fra selgeren.\nVilkårene i § 2 gjelder også for krav om utlevering etter denne paragrafen, men slik at lånesummen trer istedenfor avbetalingsprisen.\n1 Tilføyet ved lov 8 feb. 1980 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16a",
+        "source_heading": "§ 16 a."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "title": "(Opphevet ved lov 9 juni 1961 nr. 25)",
+      "content": "§ 17.(Opphevet ved lov 9 juni 1961 nr. 25)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "title": "(Opphevet ved sportellov § 163.)",
+      "content": "§ 18.(Opphevet ved sportellov § 163.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "content": "Denne lov træder i kraft 1 august 1916. Den er bare anvendelig paa avtaler, som sluttes, efterat den er traadt i kraft.​1\n1 Loven oppheves ved ny lov om kredittkjøp 21 juni 1985 nr 82 når denne trer i kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    }
+  ]
+}

@@ -1,0 +1,633 @@
+{
+  "id": "LOV-1928-06-08-2",
+  "type": "statute",
+  "title": "Lov om postvesenet.",
+  "short_name": "Postloven – postl.",
+  "status": "in_force",
+  "issued_date": "1928-06-08",
+  "in_force_date": "1928-06-08",
+  "url": "https://lovdata.no/dokument/NLO/lov/1928-06-08-2",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Postverkets takster og avgifter fastsettes av departementet. Departementet kan, med unntak av fastsettelse av porto for A-post innenlands, delegere denne myndighet til Styret for Postverket.\nAvsenderen av en postforsendelse er ansvarlig for betaling av påhvilende porto og avgifter, hvis postvesenet fremsetter krav derom innen et år efter innleveringen. Beløpene er tvangsgrunnlag for utlegg.​2\n1 Endret ved lov 26 juni 1992 nr. 86, 30 april 1993 nr. 43.\n2 Se tvangsl. kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2:2",
+      "chapter": "2",
+      "section": "2",
+      "content": "Postvesenets egne tjenestesaker er portofri.\nKongen eller den han bemyndiger​2 kan bestemme at portofrihet som ved mellomfolkelig postoverenskomst tiltrådt av Norge er fastsatt for internasjonal postutveksling,​3 helt eller delvis skal gjelde tilsvarende for innenrikske sendinger.\n1 Endret ved lover 9 juni 1933, 27 juni 1947 nr. 2, 8 juli 1954 nr. 1, 25 mars 1983 nr. 13. – Se § 27 nr. 6.\n2 Samferdselsdepartementet, jfr. res. 31 mai 1929.\n3 Se § 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3:3",
+      "chapter": "3",
+      "section": "3",
+      "content": "Postvesenet har enerett​1 til regelmessig og mot vederlag å motta til utlevering eller befordre innen riket og til å befordre mellem Norge og utlandet:\n1. lukkede brev,\n2. kort med skriftlige eller med skrift utfylte trykte meddelelser.\nKongen eller den han bemyndiger, kan gjøre undtagelse fra denne bestemmelse, når særlige forhold gjør det ønskelig.\n1 Se § 27 første ledd nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "3:4",
+      "chapter": "3",
+      "section": "4",
+      "content": "Det er forbudt uten postvesenets mellemkomst å la befordre de i foregående paragraf nevnte postsaker med samferdselsmiddel som går i regelmessig fart innen riket eller mellem Norge og utlandet, medmindre de er utstyrt med postvesenets frankeringsmerker overensstemmende med dettes almindelige takster. Merkene skal på betryggende måte kasseres av den som mottar forsendelsen til befordring; avtrykk av frankeringsmaskiner kasseres dog ikke.\nForbudet gjelder dog ikke forsendelser i tjenstlige anliggender mellem vedkommende samferdselsmiddels styre og dets tjenestemenn eller mellem tjenestemennene innbyrdes.\nKongen eller den han bemyndiger,​2 kan forby dannelse eller oprettholdelse av sammenslutninger til privat besørgelse av deltagernes eller andres forsendelser av den foran nevnte art.\nKongen eller den han bemyndiger,​3 kan utferdige forbud mot eller treffe andre nødvendige forføininger til å hindre at personer og firmaer som bor her i landet, gjør bruk av et fremmed lands postvesen til besørgelse av sine lukkede eller åpne brevpostforsendelser i nogen større mengde til adressater i Norge.\n1 Se § 27 nr. 2.\n2 Samferdselsdepartementet iflg. res. 2 feb 1951.\n3 Samferdselsdepartementet iflg. res. 7 okt 1955.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "4:5",
+      "chapter": "4",
+      "section": "5",
+      "content": "Enhver som er i besiddelse av transportmidler, er pliktig til mot erstatning å stille dem til postvesenets rådighet, dersom de måtte trenges til hjelp til postførslen.\nLikeledes plikter eier eller besidder av grunneiendom mot erstatning å gi postvesenet adkomst over eiendommen i den utstrekning det trenges til postførslen.\nPostvesenet kan kreve rådighet over tingene eller adkomst over eiendommen straks, selv om erstatningen ikke er bestemt.\nI mangel av mindelig overenskomst fastsettes erstatningen ved skjønn.​1\n1 Se skjl. kap. 2, lov 23 okt 1959 § 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "4:6",
+      "chapter": "4",
+      "section": "6",
+      "content": "Norsk skib og luftfartøi er på forlangende av postvesenet og efter dettes nærmere bestemmelse pliktig til å medta postsaker og avlevere dem på anløpsstedene så vel i innen- som i utenriks fart.​1\nErstatningen fastsettes i mangel av mindelig overenskomst ved skjønn.​2\n1 Se § 27 nr. 3.\n2 Se skjl. kap. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "4:7",
+      "chapter": "4",
+      "section": "7",
+      "title": "(Opphevet ved lov 23 okt 1959.)",
+      "content": "§ 7.(Opphevet ved lov 23 okt 1959.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "5:8",
+      "chapter": "5",
+      "section": "8",
+      "content": "Enhver som er betrodd å stelle med postsaker, plikter overfor uvedkommende å bevare taushet​2 om andres bruk av posten og om hva han ellers får kjennskap til gjennom postsendingene. Han plikter​3 også å påse at uvedkommende ikke får høve til selv å skaffe seg kjennskap til andres bruk av posten eller postsendingenes innhold.​4\nBestemmelsene i første ledd er ikke til hinder for at politiet ved bruk av tekniske hjelpemidler eller narkotikahund med fører undersøker om postsendinger inneholder narkotika. De som foretar slike undersøkelser er, når det gjelder forhold som ikke angår oppdraget, underlagt taushetsplikt etter loven her.\nTillatelse til å gi forklaring etter tvistemålsloven § 204 annet ledd og straffeprosessloven § 118 første ledd kan gis av Poststyret.\n1 Endret ved lover 27 juni 1947 nr. 2, 14 juni 1985 nr. 71, 27 juni 1986 nr. 63.\n2 Se strl. § 121.\n3 Se § 27 nr. 4.\n4 Se kkl. § 104.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "6:9",
+      "chapter": "6",
+      "section": "9",
+      "content": "Er det begrunnet mistanke om at en postforsendelse ikke er forsvarlig innpakket eller at den inneholder ting som det er forbudt å innlevere i posten, kan det avsendende eller mottagende poststed forlange å åpne og undersøke forsendelsen i nærvær av avsender eller mottager. Innrømmes et sådant forlangende ikke, kan postvesenet nekte å motta eller utlevere forsendelsen og kan i tilfelle behandle den som ubesørgelig.​2\n1 Jfr. strl. § 122.\n2 Se § 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "6:10",
+      "chapter": "6",
+      "section": "10",
+      "content": "I den utstrekning det er nødvendig for å komme til kunnskap om hvem der er avsender eller mottager av en ubesørgelig postforsendelse, kan Poststyret la den åpne og undersøke.​1 Det påligger vedkommende tjenestemenn taushetsplikt, se § 8.​2\n1 Jfr. strl. § 122.\n2 Jfr. strl. § 121.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "7:11",
+      "chapter": "7",
+      "section": "11",
+      "content": "Postsaker som ikke kan besørges til adressaten eller leveres tilbake til avsenderen, kan, efter å være bekjentgjort på den måte Poststyret bestemmer, tilintetgjøres eller selges til fordel for postvesenet. Nettoutbyttet av salget kan efter bestemmelse av Poststyret betales til den som melder sig innen et år efterat salget har funnet sted, og godtgjør å ha billig krav på beløpet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "8:12",
+      "chapter": "8",
+      "section": "12",
+      "content": "Så lenge en postforsendelse er i postvesenets verge, har avsenderen rett til å råde​1 over den.\n1 Jfr. deknl. § 7-2, lov 13 mai 1988 nr. 27 § 10 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "9:13",
+      "chapter": "9",
+      "section": "13",
+      "content": "Penger må ikke legges i postforsendelser uten at verdien angis. Det samme gjelder frimerker og tjenestemerker til større verdi enn 5 kroner.\nDog kan Kongen eller den han bemyndiger,​2 bestemme at penger, frimerker og tjenestemerker inntil et bestemt beløp skal kunne legges i rekommanderte forsendelser uten angivelse av verdien, når de regler som gjelder for omslag og forsegling av verdibrev iakttas.\nDet er forbudt å angi en postforsendelse til høiere verdi enn den virkelige.\n1 Se § 27 nr. 4 og 5.\n2 Samferdselsdepartementet iflg. res. 30 juni 1961.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "10:14",
+      "chapter": "10",
+      "section": "14",
+      "content": "Er en rekommandert forsendelse kommet bort mens den var i postvesenets verge, gir postvesenet erstatning​1 til et beløp som Kongen eller den han bemyndiger,​2 bestemmer.\nEr innholdet helt eller delvis gått tapt eller skadet og forsendelsen har vært forsynt med omslag og forsegling som for verdiforsendelser bestemt, erstatter postvesenet tapet eller skaden, dog ikke utover det beløp som erstattes for hel bortkomst.\n1 Jfr. § 22 annet ledd.\n2 Samferdselsdepartementet iflg. res. 30 juni 1961.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "10:15",
+      "chapter": "10",
+      "section": "15",
+      "content": "Er en pakke uten angitt verdi kommet bort, er den skadet, eller er innholdet helt eller delvis gått tapt mens den var i postvesenets verge, erstatter​1 postvesenet tapet eller skaden.\nKongen eller den han bemyndiger,​2 kan dog bestemme at erstatningen skal begrenses til bestemte beløp. Ut over disse yder da postvesenet ikke erstatning medmindre det bevises at tapet eller skaden skyldes grov uaktsomhet fra postvesenets side.\n1 Jfr. § 22 annet ledd.\n2 Samferdselsdepartementet iflg. res. 11 des 1959.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "10:16",
+      "chapter": "10",
+      "section": "16",
+      "content": "Er en postforsendelse med angitt verdi kommet bort, erstatter​1 postvesenet den angitte verdi, medmindre det godtgjør at denne er for høit angitt. I så fall erstattes tapet. Er forsendelsen skadet eller er innholdet helt eller delvis gått tapt, erstatter postvesenet tapet eller skaden, dog ikke ut over det beløp som erstattes for hel bortkomst.\nHar innholdet ikke vært eftertellet ved avsendelsespoststedet, erstattes dog det manglende bare dersom forsendelsen fremkommer således beskadiget på omslag eller segl, at det manglende verdiinnhold kan være kommet ut.\n1 Jfr. § 22 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "10:17",
+      "chapter": "10",
+      "section": "17",
+      "content": "For et innbetalt postanvisnings-, postkreditiv-, postopkravs- eller postinkassasjonsbeløp er postvesenet ansvarlig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "10:18",
+      "chapter": "10",
+      "section": "18",
+      "content": "Kommer en postopkravsforsendelse bort, eller skades den mens den er i postvesenets verge, betaler postvesenet erstatning som for lignende forsendelse uten postopkrav.\nHar postvesenet levert ut forsendelsen uten å motta opkravsbeløpet, erstatter postvesenet det derved opståtte tap. Erstatningen kan dog ikke være høiere enn opkravsbeløpet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "10:19",
+      "chapter": "10",
+      "section": "19",
+      "content": "Når postvesenet betaler erstatning for en bortkommet eller helt ødelagt pakke eller verdiforsendelse, erstattes også den betalte porto. Rekommandasjons- og assuranseavgift erstattes ikke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "10:20",
+      "chapter": "10",
+      "section": "20",
+      "content": "Erstatning betales ikke:\n1. når skaden eller den uriktige utlevering eller utbetaling skyldes avsender eller mottager, eller skaden har sin grunn i innholdets beskaffenhet, eller forsendelsen ikke har vært innpakket overensstemmende med gjeldende regler,\n2. når forsendelsen har inneholdt saker som er undtatt fra postførsel,​1\n3. når de særlige bestemmelser som er gitt med hensyn til forsendelsesmåten, ikke er iakttatt,\n4. når forsendelsen svikaktig er angitt til en høiere verdi enn den virkelige.\n1 Se § 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "10:21",
+      "chapter": "10",
+      "section": "21",
+      "content": "For andre postsaker enn i paragrafene 14-18 nevnt gis ingen erstatning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "10:22",
+      "chapter": "10",
+      "section": "22",
+      "content": "Postvesenet gir ikke erstatning for følger av forsinkelse eller feilsending.\nDen erstatning som postvesenet i henhold til paragrafene 14-16 betaler, omfatter bare den bortkomne tings verdi eller den verdiforringelse den skadede forsendelse har lidt, beregnet efter omsetningsverdien ved innleveringen.\nAnnen erstatning for følger av bortkomst eller beskadigelse gir postvesenet ikke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "10:23",
+      "chapter": "10",
+      "section": "23",
+      "content": "Erstatningsbeløpet utbetales til avsenderen. Når forsendelsen er utlevert til adressaten, eller avsenderen ikke finnes, kan det dog utbetales til adressaten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "10:24",
+      "chapter": "10",
+      "section": "24",
+      "content": "Postvesenets estatningsplikt bortfaller, når krav ikke er fremsatt for postvesenet innen 1 år efter forsendelsens innlevering eller beløpets innbetaling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "11:25",
+      "chapter": "11",
+      "section": "25",
+      "content": "Kongen eller den han bemyndiger, fastsetter de bestemmelser som er nødvendige for å utfylle denne lov.\nLikeledes kan Kongen eller den han bemyndiger, treffe bestemmelse om at visse saker skal være undtatt fra postførsel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "12:26",
+      "chapter": "12",
+      "section": "26",
+      "content": "Kongen eller den han bemyndiger,​1 kan forsåvidt angår postforsendelser mellem Norge og utlandet foreta de modifikasjoner i foranstående bestemmelser som påkreves i medfør av postoverenskomster mellem Norge og fremmede land.\n1 Samferdselsdepartementet, jfr. res. 2 mars 1962.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "13:27",
+      "chapter": "13",
+      "section": "27",
+      "content": "Hvis ikke strengere straffebestemmelser kommer til anvendelse, straffes med bøter​2\n1. den som innleverer til postførsel saker som er unntatt fra postførsel eller som medvirker til det,\n2. den som krenker postverkets enerett til postførsel etter §§ 3 og 4, eller som medvirker til det,\n3. den som unnlater å etterkomme krav som stilles av postverket i henhold til § 6,\n4. den som overtrer bestemmelsene i § 8 om posthemmeligheten,\n5. den som innleverer til postførsel postsending som inneholder penger, eller som inneholder frimerker eller tjenestemerker til verdi over 5 kroner uten å angi verdien, eller rekommandert sending som inneholder penger, frimerker eller tjenestemerker til høyere verdi enn tillatt i slike sendinger, eller som medvirker til det, jfr. § 13,\n6. den som svikaktig angir en postsending til høyere verdi enn den virkelige, eller som medvirker til det,\n7. den som uberettiget nytter tjenestemerker til postsending som ikke kan frigjøres med tjenestemerker, eller som medvirker til det,\n8. den som nytter tidligere brukte frankeringsmerker til frigjøring av postsending, eller som medvirker til det.\nOvertredelser av bestemmelsene under nr. 1-5, 7 og 8 er straffbare også når de er begått av uaktsomhet.\n1 Endret ved lov 27 juni 1947 nr. 2.\n2 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "14:28",
+      "chapter": "14",
+      "section": "28",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\nFra samme tid opheves – – –\n1 Fra 1 aug 1929 ifølge res. 31 mai 1929.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Postverkets takster og avgifter fastsettes av departementet. Departementet kan, med unntak av fastsettelse av porto for A-post innenlands, delegere denne myndighet til Styret for Postverket.\nAvsenderen av en postforsendelse er ansvarlig for betaling av påhvilende porto og avgifter, hvis postvesenet fremsetter krav derom innen et år efter innleveringen. Beløpene er tvangsgrunnlag for utlegg.​2\n1 Endret ved lov 26 juni 1992 nr. 86, 30 april 1993 nr. 43.\n2 Se tvangsl. kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2:2",
+      "chapter": "2",
+      "section": "2",
+      "content": "Postvesenets egne tjenestesaker er portofri.\nKongen eller den han bemyndiger​2 kan bestemme at portofrihet som ved mellomfolkelig postoverenskomst tiltrådt av Norge er fastsatt for internasjonal postutveksling,​3 helt eller delvis skal gjelde tilsvarende for innenrikske sendinger.\n1 Endret ved lover 9 juni 1933, 27 juni 1947 nr. 2, 8 juli 1954 nr. 1, 25 mars 1983 nr. 13. – Se § 27 nr. 6.\n2 Samferdselsdepartementet, jfr. res. 31 mai 1929.\n3 Se § 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3:3",
+      "chapter": "3",
+      "section": "3",
+      "content": "Postvesenet har enerett​1 til regelmessig og mot vederlag å motta til utlevering eller befordre innen riket og til å befordre mellem Norge og utlandet:\n1. lukkede brev,\n2. kort med skriftlige eller med skrift utfylte trykte meddelelser.\nKongen eller den han bemyndiger, kan gjøre undtagelse fra denne bestemmelse, når særlige forhold gjør det ønskelig.\n1 Se § 27 første ledd nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "3:4",
+      "chapter": "3",
+      "section": "4",
+      "content": "Det er forbudt uten postvesenets mellemkomst å la befordre de i foregående paragraf nevnte postsaker med samferdselsmiddel som går i regelmessig fart innen riket eller mellem Norge og utlandet, medmindre de er utstyrt med postvesenets frankeringsmerker overensstemmende med dettes almindelige takster. Merkene skal på betryggende måte kasseres av den som mottar forsendelsen til befordring; avtrykk av frankeringsmaskiner kasseres dog ikke.\nForbudet gjelder dog ikke forsendelser i tjenstlige anliggender mellem vedkommende samferdselsmiddels styre og dets tjenestemenn eller mellem tjenestemennene innbyrdes.\nKongen eller den han bemyndiger,​2 kan forby dannelse eller oprettholdelse av sammenslutninger til privat besørgelse av deltagernes eller andres forsendelser av den foran nevnte art.\nKongen eller den han bemyndiger,​3 kan utferdige forbud mot eller treffe andre nødvendige forføininger til å hindre at personer og firmaer som bor her i landet, gjør bruk av et fremmed lands postvesen til besørgelse av sine lukkede eller åpne brevpostforsendelser i nogen større mengde til adressater i Norge.\n1 Se § 27 nr. 2.\n2 Samferdselsdepartementet iflg. res. 2 feb 1951.\n3 Samferdselsdepartementet iflg. res. 7 okt 1955.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "4:5",
+      "chapter": "4",
+      "section": "5",
+      "content": "Enhver som er i besiddelse av transportmidler, er pliktig til mot erstatning å stille dem til postvesenets rådighet, dersom de måtte trenges til hjelp til postførslen.\nLikeledes plikter eier eller besidder av grunneiendom mot erstatning å gi postvesenet adkomst over eiendommen i den utstrekning det trenges til postførslen.\nPostvesenet kan kreve rådighet over tingene eller adkomst over eiendommen straks, selv om erstatningen ikke er bestemt.\nI mangel av mindelig overenskomst fastsettes erstatningen ved skjønn.​1\n1 Se skjl. kap. 2, lov 23 okt 1959 § 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "4:6",
+      "chapter": "4",
+      "section": "6",
+      "content": "Norsk skib og luftfartøi er på forlangende av postvesenet og efter dettes nærmere bestemmelse pliktig til å medta postsaker og avlevere dem på anløpsstedene så vel i innen- som i utenriks fart.​1\nErstatningen fastsettes i mangel av mindelig overenskomst ved skjønn.​2\n1 Se § 27 nr. 3.\n2 Se skjl. kap. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "4:7",
+      "chapter": "4",
+      "section": "7",
+      "title": "(Opphevet ved lov 23 okt 1959.)",
+      "content": "§ 7.(Opphevet ved lov 23 okt 1959.)🔗Del paragraf",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "5:8",
+      "chapter": "5",
+      "section": "8",
+      "content": "Enhver som er betrodd å stelle med postsaker, plikter overfor uvedkommende å bevare taushet​2 om andres bruk av posten og om hva han ellers får kjennskap til gjennom postsendingene. Han plikter​3 også å påse at uvedkommende ikke får høve til selv å skaffe seg kjennskap til andres bruk av posten eller postsendingenes innhold.​4\nBestemmelsene i første ledd er ikke til hinder for at politiet ved bruk av tekniske hjelpemidler eller narkotikahund med fører undersøker om postsendinger inneholder narkotika. De som foretar slike undersøkelser er, når det gjelder forhold som ikke angår oppdraget, underlagt taushetsplikt etter loven her.\nTillatelse til å gi forklaring etter tvistemålsloven § 204 annet ledd og straffeprosessloven § 118 første ledd kan gis av Poststyret.\n1 Endret ved lover 27 juni 1947 nr. 2, 14 juni 1985 nr. 71, 27 juni 1986 nr. 63.\n2 Se strl. § 121.\n3 Se § 27 nr. 4.\n4 Se kkl. § 104.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "6:9",
+      "chapter": "6",
+      "section": "9",
+      "content": "Er det begrunnet mistanke om at en postforsendelse ikke er forsvarlig innpakket eller at den inneholder ting som det er forbudt å innlevere i posten, kan det avsendende eller mottagende poststed forlange å åpne og undersøke forsendelsen i nærvær av avsender eller mottager. Innrømmes et sådant forlangende ikke, kan postvesenet nekte å motta eller utlevere forsendelsen og kan i tilfelle behandle den som ubesørgelig.​2\n1 Jfr. strl. § 122.\n2 Se § 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "6:10",
+      "chapter": "6",
+      "section": "10",
+      "content": "I den utstrekning det er nødvendig for å komme til kunnskap om hvem der er avsender eller mottager av en ubesørgelig postforsendelse, kan Poststyret la den åpne og undersøke.​1 Det påligger vedkommende tjenestemenn taushetsplikt, se § 8.​2\n1 Jfr. strl. § 122.\n2 Jfr. strl. § 121.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "7:11",
+      "chapter": "7",
+      "section": "11",
+      "content": "Postsaker som ikke kan besørges til adressaten eller leveres tilbake til avsenderen, kan, efter å være bekjentgjort på den måte Poststyret bestemmer, tilintetgjøres eller selges til fordel for postvesenet. Nettoutbyttet av salget kan efter bestemmelse av Poststyret betales til den som melder sig innen et år efterat salget har funnet sted, og godtgjør å ha billig krav på beløpet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "8:12",
+      "chapter": "8",
+      "section": "12",
+      "content": "Så lenge en postforsendelse er i postvesenets verge, har avsenderen rett til å råde​1 over den.\n1 Jfr. deknl. § 7-2, lov 13 mai 1988 nr. 27 § 10 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "9:13",
+      "chapter": "9",
+      "section": "13",
+      "content": "Penger må ikke legges i postforsendelser uten at verdien angis. Det samme gjelder frimerker og tjenestemerker til større verdi enn 5 kroner.\nDog kan Kongen eller den han bemyndiger,​2 bestemme at penger, frimerker og tjenestemerker inntil et bestemt beløp skal kunne legges i rekommanderte forsendelser uten angivelse av verdien, når de regler som gjelder for omslag og forsegling av verdibrev iakttas.\nDet er forbudt å angi en postforsendelse til høiere verdi enn den virkelige.\n1 Se § 27 nr. 4 og 5.\n2 Samferdselsdepartementet iflg. res. 30 juni 1961.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "10:14",
+      "chapter": "10",
+      "section": "14",
+      "content": "Er en rekommandert forsendelse kommet bort mens den var i postvesenets verge, gir postvesenet erstatning​1 til et beløp som Kongen eller den han bemyndiger,​2 bestemmer.\nEr innholdet helt eller delvis gått tapt eller skadet og forsendelsen har vært forsynt med omslag og forsegling som for verdiforsendelser bestemt, erstatter postvesenet tapet eller skaden, dog ikke utover det beløp som erstattes for hel bortkomst.\n1 Jfr. § 22 annet ledd.\n2 Samferdselsdepartementet iflg. res. 30 juni 1961.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "10:15",
+      "chapter": "10",
+      "section": "15",
+      "content": "Er en pakke uten angitt verdi kommet bort, er den skadet, eller er innholdet helt eller delvis gått tapt mens den var i postvesenets verge, erstatter​1 postvesenet tapet eller skaden.\nKongen eller den han bemyndiger,​2 kan dog bestemme at erstatningen skal begrenses til bestemte beløp. Ut over disse yder da postvesenet ikke erstatning medmindre det bevises at tapet eller skaden skyldes grov uaktsomhet fra postvesenets side.\n1 Jfr. § 22 annet ledd.\n2 Samferdselsdepartementet iflg. res. 11 des 1959.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "10:16",
+      "chapter": "10",
+      "section": "16",
+      "content": "Er en postforsendelse med angitt verdi kommet bort, erstatter​1 postvesenet den angitte verdi, medmindre det godtgjør at denne er for høit angitt. I så fall erstattes tapet. Er forsendelsen skadet eller er innholdet helt eller delvis gått tapt, erstatter postvesenet tapet eller skaden, dog ikke ut over det beløp som erstattes for hel bortkomst.\nHar innholdet ikke vært eftertellet ved avsendelsespoststedet, erstattes dog det manglende bare dersom forsendelsen fremkommer således beskadiget på omslag eller segl, at det manglende verdiinnhold kan være kommet ut.\n1 Jfr. § 22 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "10:17",
+      "chapter": "10",
+      "section": "17",
+      "content": "For et innbetalt postanvisnings-, postkreditiv-, postopkravs- eller postinkassasjonsbeløp er postvesenet ansvarlig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "10:18",
+      "chapter": "10",
+      "section": "18",
+      "content": "Kommer en postopkravsforsendelse bort, eller skades den mens den er i postvesenets verge, betaler postvesenet erstatning som for lignende forsendelse uten postopkrav.\nHar postvesenet levert ut forsendelsen uten å motta opkravsbeløpet, erstatter postvesenet det derved opståtte tap. Erstatningen kan dog ikke være høiere enn opkravsbeløpet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "10:19",
+      "chapter": "10",
+      "section": "19",
+      "content": "Når postvesenet betaler erstatning for en bortkommet eller helt ødelagt pakke eller verdiforsendelse, erstattes også den betalte porto. Rekommandasjons- og assuranseavgift erstattes ikke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "10:20",
+      "chapter": "10",
+      "section": "20",
+      "content": "Erstatning betales ikke:\n1. når skaden eller den uriktige utlevering eller utbetaling skyldes avsender eller mottager, eller skaden har sin grunn i innholdets beskaffenhet, eller forsendelsen ikke har vært innpakket overensstemmende med gjeldende regler,\n2. når forsendelsen har inneholdt saker som er undtatt fra postførsel,​1\n3. når de særlige bestemmelser som er gitt med hensyn til forsendelsesmåten, ikke er iakttatt,\n4. når forsendelsen svikaktig er angitt til en høiere verdi enn den virkelige.\n1 Se § 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "10:21",
+      "chapter": "10",
+      "section": "21",
+      "content": "For andre postsaker enn i paragrafene 14-18 nevnt gis ingen erstatning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "10:22",
+      "chapter": "10",
+      "section": "22",
+      "content": "Postvesenet gir ikke erstatning for følger av forsinkelse eller feilsending.\nDen erstatning som postvesenet i henhold til paragrafene 14-16 betaler, omfatter bare den bortkomne tings verdi eller den verdiforringelse den skadede forsendelse har lidt, beregnet efter omsetningsverdien ved innleveringen.\nAnnen erstatning for følger av bortkomst eller beskadigelse gir postvesenet ikke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "10:23",
+      "chapter": "10",
+      "section": "23",
+      "content": "Erstatningsbeløpet utbetales til avsenderen. Når forsendelsen er utlevert til adressaten, eller avsenderen ikke finnes, kan det dog utbetales til adressaten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "10:24",
+      "chapter": "10",
+      "section": "24",
+      "content": "Postvesenets estatningsplikt bortfaller, når krav ikke er fremsatt for postvesenet innen 1 år efter forsendelsens innlevering eller beløpets innbetaling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "11:25",
+      "chapter": "11",
+      "section": "25",
+      "content": "Kongen eller den han bemyndiger, fastsetter de bestemmelser som er nødvendige for å utfylle denne lov.\nLikeledes kan Kongen eller den han bemyndiger, treffe bestemmelse om at visse saker skal være undtatt fra postførsel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "12:26",
+      "chapter": "12",
+      "section": "26",
+      "content": "Kongen eller den han bemyndiger,​1 kan forsåvidt angår postforsendelser mellem Norge og utlandet foreta de modifikasjoner i foranstående bestemmelser som påkreves i medfør av postoverenskomster mellem Norge og fremmede land.\n1 Samferdselsdepartementet, jfr. res. 2 mars 1962.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "13:27",
+      "chapter": "13",
+      "section": "27",
+      "content": "Hvis ikke strengere straffebestemmelser kommer til anvendelse, straffes med bøter​2\n1. den som innleverer til postførsel saker som er unntatt fra postførsel eller som medvirker til det,\n2. den som krenker postverkets enerett til postførsel etter §§ 3 og 4, eller som medvirker til det,\n3. den som unnlater å etterkomme krav som stilles av postverket i henhold til § 6,\n4. den som overtrer bestemmelsene i § 8 om posthemmeligheten,\n5. den som innleverer til postførsel postsending som inneholder penger, eller som inneholder frimerker eller tjenestemerker til verdi over 5 kroner uten å angi verdien, eller rekommandert sending som inneholder penger, frimerker eller tjenestemerker til høyere verdi enn tillatt i slike sendinger, eller som medvirker til det, jfr. § 13,\n6. den som svikaktig angir en postsending til høyere verdi enn den virkelige, eller som medvirker til det,\n7. den som uberettiget nytter tjenestemerker til postsending som ikke kan frigjøres med tjenestemerker, eller som medvirker til det,\n8. den som nytter tidligere brukte frankeringsmerker til frigjøring av postsending, eller som medvirker til det.\nOvertredelser av bestemmelsene under nr. 1-5, 7 og 8 er straffbare også når de er begått av uaktsomhet.\n1 Endret ved lov 27 juni 1947 nr. 2.\n2 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "14:28",
+      "chapter": "14",
+      "section": "28",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\nFra samme tid opheves – – –\n1 Fra 1 aug 1929 ifølge res. 31 mai 1929.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    }
+  ]
+}

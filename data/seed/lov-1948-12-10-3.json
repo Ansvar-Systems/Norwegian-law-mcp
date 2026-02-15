@@ -1,0 +1,785 @@
+{
+  "id": "LOV-1948-12-10-3",
+  "type": "statute",
+  "title": "Lov om veterinærer m.v.",
+  "short_name": "Veterinærloven.",
+  "status": "in_force",
+  "issued_date": "1948-12-10",
+  "in_force_date": "1948-12-10",
+  "url": "https://lovdata.no/dokument/NLO/lov/1948-12-10-3",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "En veterinærs eller dyrleges oppgave er å verne dyrene og å arbeide for husdyrbestandens sunnhet​1 og medvirke til øking av dens als- og yteevne. Han skal verne samfunnet mot fare og skader forårsaket ved dyresjukdommer eller gjennom næringsmidler og produkter av animalsk opprinnelse.\n1 Jfr. lov 8 juni 1962 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Rett til å utøve veterinærvirksomhet og kalle seg veterinær (dyrlege)​1 har den som vedkommende departement​2 har gitt autorisasjon som veterinær.\nFor å få autorisasjon må søkeren godtgjøre:\n1. at han har bestått avgangseksamen ved Norges veterinærhøgskole​3 eller har utenlandsk veterinærmedisinsk eksamen som er godkjent i medhold av internasjonale avtaler,​4 eller annen eksamen som departementet anerkjenner som faglig jevngod.\n2. at han har utført den praktiske tjeneste som departementet​2 til enhver tid setter som vilkår for å utøve veterinærvirksomhet,\n3. at han fører en hederlig vandel.\nVidere må han gi skriftlig løfte om at han vil utøve virksomheten i samsvar med hva ære og samvittighet krever.\nNår vilkårene etter 2. ledd foreligger, kan autorisasjon ikke nektes med mindre søkerens forhold er slik at det ville ha kunnet medføre tap av en meddelt autorisasjon, jfr. § 6. Departementets nektelse kan bringes inn for Kongen.\n0 Endret ved lover 27 feb 1987 nr. 13, 4 des 1992 nr. 129 (i kraft 1 jan 1994).\n1 Se § 33.\n2 Landbruksdepartementet.\n3 Se lov 12 mai 1995 nr. 22.\n4 Jfr. EØS-avtalen vedlegg VII punkt 12 (dir 78/1026) og punkt 13 (dir 78/1027).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Departementet​1 kan i særlige tilfelle gi norsk eller fremmed statsborger tillatelse, med eller uten innskrenkning, til å utøve veterinærvirksomhet og til å kalle seg veterinær (dyrlege), dersom vedkommende, uten å fylle vilkårene i § 2, annet ledd har bestått avgangseksamen i veterinærfag ved utenlandsk universitet eller høgskole. Før slik tillatelse gis, skal erklæring være innhentet fra Norges Veterinærhøgskoles professorråd.​2\nDepartementet​1 kan videre, etter at uttalelse er innhentet fra Norges Veterinærhøgskoles professorråd,​2 utferdige nærmere bestemmelser om adgang for viderekomne av Norges veterinærhøgskoles studenter til å utføre kortere assistenttjeneste hos praktiserende veterinær eller i annet veterinæryrke.​3\n0 Endret ved lover 1 mars 1968 nr. 3, 27 feb 1987 nr. 13.\n1 Landbruksdepartementet.\n2 Se nå lov 12 mai 1995 nr. 22 § 4 og § 6.\n3 Jfr. forskrift 10 april 1985 nr. 838.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Departementet​1 kan godkjenne veterinær som spesialist på nærmere angitte områder innen sitt fag. Uten slik godkjenning kan en veterinær ikke kalle seg spesialist.​2 Departementet​1 fastsetter nærmere regler for hva det skal kreves for å få slik godkjenning og i hvilken utstrekning den skal gjelde.\n1 Landbruksdepartementet.\n2 Se § 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "En veterinær har ikke rett til​1 å utøve veterinærvirksomhet i den tid han har bevilling som apoteker eller styrer apotek.​2\n0 Endret ved lov 2 juni 1960 nr. 22.\n1 Se § 33.\n2 Jfr. lov 2 juni 2000 nr. 39.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "Dersom en veterinær på grunn av sinnssjukdom eller sjelelig svekkelse eller på grunn av misbruk av sterke drikker eller bedøvende midler eller av liknende grunner må anses uskikket til å utøve sin virksomhet, kan retten til det frakjennes ham ved dom for den tid tilstanden varer.​1 Retten kan frakjennes ham for bestandig, hvis han har gjort seg skyldig i utilbørlig forhold eller på annen måte har gjort seg uverdig til den tillit som er påkrevd for en veterinær.\nDepartementet​2 kan, fra den tid det beslutter sak reist og inntil den er avgjort ved endelig dom, frata vedkommende retten til å utøve veterinær virksomhet.\nI saker etter denne paragraf foretas ikke mekling i forliksrådet. Gir vedkommende veterinær, i samsvar med § 12, avkall på sin autorisasjon (tillatelse), kan søksmål unnlates eller saken heves.\nAutorisasjon eller tillatelse til å utøve veterinærtjeneste gitt på grunnlag av tilsvarende godkjenning i et annet land, kan kalles tilbake dersom godkjenningen i det annet land taper sin gyldighet.\n0 Endret ved lov 27 feb 1987 nr. 13.\n1 Jfr. strl.ikrl. § 10.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "Når en veterinær i henhold til foregående paragraf er fradømt eller har gitt avkall på sin autorisasjon, kan departementet​1 på søknad gi ham ny autorisasjon, dersom han godtgjør at de forhold som ga grunn til fradømmelsen eller avkallet ikke lenger foreligger. Autorisasjonen kan i dette tilfelle gis på prøve.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "content": "Enhver veterinær har rett til – med de innskrenkninger som bestemmes i lov eller forskrift gitt med hjemmel i lov – å forskrive legemidler​1 som er nødvendige for utøvingen av hans virksomhet.\nDet departement​2 som helselovgivningen hører under, gir – med den begrensning som følger av veterinærens taushetsplikt​3 – alminnelige bestemmelser om avfatting av resepter og kan, etter innhentet uttalelse fra Norges Veterinærhøgskoles professorråd,​4 fastsette at resept på spesielt nevnte legemidler skal oppbevares på apotek til ettersyn for vedkommende tilsynsmyndighet. Om påkrevd kan slik resept kreves framlagt som bevismiddel under straffesak og under søksmål som reises til fradømmelse av vedkommende veterinærs rett til å utøve veterinærvirksomhet eller til fradømmelse av offentlig veterinærstilling​5 og i umyndiggjørelsessak.​6\nApotek som har grunn til å tro at en veterinær misbruker bedøvende midler, kan uten hinder av sin taushetsplikt​7 gi melding herom til departementet.\nI saker etter denne paragraf foretas ikke mekling i forliksrådet.\n1 Jfr. lov 4 des 1992 nr. 132 § 2 og § 26 annet ledd.\n2 Sosial- og helsedepartementet.\n3 Se § 16.\n4 Se nå lov 12 mai 1995 nr. 22 § 4 og § 6.\n5 Se § 6, jfr. strl.ikrl. § 10.\n6 Se lov 28 nov 1898.\n7 Se lov 4 des 1992 nr. 132 § 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "content": "Husdyr angrepet av smittsom sjukdom må ikke​2 tas under behandling av andre enn veterinær.​3\nNår det gjelder behandling av dyr, kan bare​2 veterinær iverksette fullstendig eller lokal bedøvelse og bruke legemidler som det er forbudt for apotekene å levere ut til alle og enhver.\nDepartementet​4 kan bestemme at særlige undersøkelses- og behandlingsmetoder bare kan​2 utføres av veterinær.\n1 Jfr. lov 8 juni 1962 nr. 4 § 2.\n2 Se § 33.\n3 Se § 2, § 3.\n4 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "content": "Enhver veterinær plikter​1 på anmodning uoppholdelig å yte den veterinærhjelp han evner – personlig eller ved stedfortreder – når han etter de foreliggende opplysninger eller sitt kjennskap til sjukdomstilfellet må anta at veterinærhjelp er påtrengende nødvendig i anledning av fødselsvansker, sværere ulykkestilfelle, forblødninger eller andre sjukdomstilstander etter departementets​2 nærmere bestemmelse.\nEr veterinæren sjuk, overanstrengt eller har han annet gyldig forfall eller han etter sine ansettelsesvilkår ikke har rett til å praktisere eller er han over 70 år, inntrer ikke plikten. Det samme gjelder når han har forvisset seg om at hjelpen i betimelig tid kan bli ytt av annen veterinær som etter sin stilling er nærmere til å yte den.\n1 Se § 33, og lov 8 juni 1962 nr. 4 § 2.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "1:11",
+      "chapter": "1",
+      "section": "11",
+      "content": "For den hjelp en veterinær har ytt etter foregående paragraf kan han kreve en passende godtgjørelse av den kommune som hjelpen ble ytt i, dersom han ikke etter påkrav får betaling av rekvirenten eller den som har betalingsplikten. Dette gjelder ikke forretninger som etter de gjeldende bestemmelser betales av det offentlige.\nKravet på kommunen framsettes tidligst en måned og senest seks måneder etter at hjelpen ble ytt. Kravet må bare omfatte hjelp som er gitt i henhold til foregående paragraf som påtrengende nødvendig, og ikke godtgjørelse for mulig fortsatt veterinærhjelp.\nTvist om størrelsen av denne godtgjørelse avgjøres av Veterinærdirektøren.​1\nBeløp, som etter disse regler er lagt ut av offentlig kasse, er tvangsgrunnlag for utlegg.​2\n0 Endret ved lov 26 juni 1992 nr. 86.\n1 Statens dyrehelsetilsyn iflg. vedtak 28 sep 1998 nr. 914.\n2 Jfr. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "1:12",
+      "chapter": "1",
+      "section": "12",
+      "content": "En veterinær plikter​1 å melde fra til veterinærmyndighetene på nærmere av Veterinærdirektøren​2 foreskrevet måte, når han vil\n1. nedsette seg for å drive praksis i et veterinærdistrikt,​3\n2. flytte eller regelmessig utstrekke sin virksomhet til et annet veterinærdistrikt,​3\n3. fortsette med å drive privat praksis etter at han er gått av som distrikts- eller fylkesveterinær etter oppnådd aldersgrense.\nDersom en veterinær slutter sin praksis i et veterinærdistrikt​3 eller gir avkall på sin autorisasjon, plikter​1 han å melde dette på tilsvarende måte. Autorisasjonsdokumentet skal i siste fall sendes inn med meldingen.\nPraktiserende veterinær skal​1 hvert år gi en alminnelig melding om sin virksomhet etter forskrifter som fastsettes av departementet.​4 De skal​1 videre ved utgangen av hver måned eller oftere – etter nærmere regler som Veterinærdirektøren​2 gir – sende inn oppgave over de tilfelle av smittsomme husdyrsjukdommer som de har iakttatt.\nFor øvrig plikter​1 enhver veterinær å gi slike oppgaver og meldinger som departementet​4 bestemmer.\n1 Se § 33.\n2 Statens dyrehelsetilsyn iflg. vedtak 28 sep 1998 nr. 914.\n3 Se § 17.\n4 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "1:13",
+      "chapter": "1",
+      "section": "13",
+      "content": "Enhver veterinær plikter​1 å gjøre ordnede opptegnelser over sin veterinærvirksomhet i den utstrekning at han kan gi meldinger etter foregående paragraf.\nDepartementet​2 gir nærmere regler om på hvilken måte han skal gjøre disse opptegnelser, om deres oppbevaring og videre behandling.\nOm påkrevd kan bekreftet utskrift av opptegnelsene kreves framlagt som bevismiddel under straffesak og til bruk for departementet,​2 når det er spørsmål om å reise sak til fradømmelse av vedkommende veterinærs rett til å utøve veterinærvirksomhet​3 eller til fradømmelse av offentlig veterinærstilling.\n1 Se § 33.\n2 Landbruksdepartementet.\n3 Se § 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "1:14",
+      "chapter": "1",
+      "section": "14",
+      "content": "Enhver veterinær skal ved sine reiser, forskrivning av legemidler og øvrige tiltak vise den sparsomhet som er forenlig med sjukdommens art og det offentliges tarv.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "1:15",
+      "chapter": "1",
+      "section": "15",
+      "content": "Enhver veterinær plikter å motta oppnevnelse som medlem av Det veterinærmedisinske rettsråd,​1 såfremt departementet​2 finner at det ikke er særlige forhold til hinder.\n1 Se kap. 3.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "1:16",
+      "chapter": "1",
+      "section": "16",
+      "content": "Enhver veterinær skal – med de innskrenkninger som er fastsatt i lov​1 eller ved bestemmelse av Kongen eller som for øvrig følger av hans tjenesteplikter – tie stille​2 om det som blir betrodd ham under utøvingen av hans virksomhet. Samme taushetsplikt har veterinærens medhjelpere.\nEnhver som i medfør av bestemmelsene i denne lov får kjennskap til forhold som er omhandlet i § 6, 8 og 13, har den samme taushetsplikt som veterinæren selv.\n0 Endret ved lov 28 juni 1952 nr. 9.\n1 Se strpl. § 118, tvml. § 205, lov 4 des 1992 nr. 132 § 30.\n2 Se § 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "2:17",
+      "chapter": "2",
+      "section": "17",
+      "content": "Riket deles i veterinærdistrikter som består av en eller flere kommuner. En kommune kan deles mellom to eller flere distrikter.\nDistriktenes grenser og distriktsveterinærens​2 bopel fastsettes av departementet​1 etter at vedkommende fylkesting – i Oslo kommunestyre – har hatt høve til å uttale seg.\n0 Endret ved lover 8 mars 1963 nr. 1, 5 juni 1970 nr. 36.\n1 Landbruksdepartementet.\n2 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "2:18",
+      "chapter": "2",
+      "section": "18",
+      "content": "I de fastsatte distrikter​1 ansettes distriktsveterinærer.\nStortinget fastsetter distriktsveterinærenes lønnsregulativ og bestemmer hvem som skal utre lønningene. Stillingene fordeles på de forskjellige lønnsklasser i samsvar med de regler som er eller blir fastsatt herfor.\n1 Se § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "2:19",
+      "chapter": "2",
+      "section": "19",
+      "content": "Enhver fylkes-​1 og distriktsveterinær plikter​2 etter Veterinærdirektørens​3 pålegg:\n1. Straks og hvor som helst i landet å yte det offentlige hjelp i kampen mot dyresjukdommene. Kongen gir nærmere bestemmelser om hvilke sjukdommer dette skal gjelde,​4\n2. å gjøre tjeneste i den veterinære sentraladministrasjon for et tidsrom av inntil 2 år,\n3. å møte som deltaker i eller lærer ved utdannelseskurser, kompletteringskurser m.v. Departementet​5 fastsetter godtgjørelsen for utføringen av denne tjeneste.\n0 Endret ved lov 8 juni 1962 nr. 5.\n1 Se § 21.\n2 Se § 33.\n3 Statens dyrehelsetilsyn iflg. vedtak 28 sep 1998 nr. 914.\n4 Gitt ved res. 19 mars 1965, jfr. lov 8 juni 1962 nr. 4.\n5 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "2:20",
+      "chapter": "2",
+      "section": "20",
+      "content": "Distriktsveterinærene skal være forpliktet til å yte veterinærhjelp til befolkningen i sine distrikter mot en passende godtgjørelse og i den utstrekning deres offentlige forretninger tillater.\nForuten å behandle sjukdomstilfelle, plikter distriktsveterinærene å ta seg av det forebyggende arbeid og opplysningsarbeidet så vel ved smittsomme som ved andre husdyrsjukdommer. De plikter likeledes å arbeide for fremme av dyrevernsaken og den veterinære hygiene og næringsmiddelhygienen.\nDistriktsveterinærene skal videre, etter departementets​1 nærmere bestemmelse, ha plikt til å avgi regelmessige frammøter på bestemte steder innen sine distrikter mot skyss- og kostgodtgjørelse etter gjeldende bestemmelser og mot at vedkommende kommune stiller oppvarmet kontorrom til disposisjon.\n0 Endret ved lov 8 mars 1963 nr. 1.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "2:21",
+      "chapter": "2",
+      "section": "21",
+      "content": "Bestemmelsene om fylkesveterinærer​1 i denne lov gjelder så fremt Stortinget gir bevilgning til opprettelse av sådanne embeter.\n1 Landbruksdepartementet har iflg. res. 23 nov 1984 nr. 1945 myndighet til å meddele tjenestefrihet, unnlate utlysing og utferdige konstitusjon ved ledighet og ved permisjon, forsåvidt det gjelder konstitusjon i slik stilling i inntil 1 år.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "2:22",
+      "chapter": "2",
+      "section": "22",
+      "content": "Fylkesveterinæren​1 skal føre et overordnet tilsyn med veterinærvesenet innen sitt embetsområde, og skal særlig ta seg av den planmessige bekjempelse av tapbringende husdyrsjukdommer og av de veterinærhygieniske oppgaver og den animalske næringsmiddelkontroll innen sitt embetsdistrikt. Han skal være fylkesmennenes rådgiver angående administrative tiltak i kampen mot husdyrsjukdommene og for øvrig når det gjelder saker av veterinær art.\nFylkesveterinæren​1 kan av Veterinærdirektøren​2 pålegges midlertidig å gjøre tjeneste utenfor sitt embetsdistrikt.\nDer det ikke måtte være opprettet fylkesveterinærembeter​1 kan Veterinærdirektøren​2 i spesielle tilfelle, som f.eks. under dyrefarsott, gi en distriktsveterinær​3 pålegg om mot en rimelig godtgjørelse å overta ett eller flere av de gjøremål som tilligger en fylkesveterinær.\nFylkesveterinærens bopel fastsettes av departementet.​4\n1 Se § 21.\n2 Statens dyrehelsetilsyn iflg. vedtak 28 sep 1998 nr. 914.\n3 Se § 18.\n4 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "2:23",
+      "chapter": "2",
+      "section": "23",
+      "content": "Fylkesveterinærens​1 lønn, kontorholdsgodtgjørelse og skyss- og kostgodtgjørelse utres av staten.\n1 Se § 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "2:24",
+      "chapter": "2",
+      "section": "24",
+      "content": "For å kunne ansettes, så vel i de foran nevnte offentlige veterinærstillinger som i andre offentlige veterinærstillinger, må vedkommende ha autorisasjon som veterinær etter bestemmelsene i denne lov.​1 Departementet​2 kan dessuten gjøre adgangen til alle eller noen av disse stillinger avhengig av en særskilt utdannelse eller prøve.\n1 Se §§ 2 flg.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "2:25",
+      "chapter": "2",
+      "section": "25",
+      "content": "De offentlige veterinærer som går inn under loven er forpliktet til​1 å rette seg etter de instrukser som til enhver tid måtte være utferdiget for dem.\n1 Se § 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "2:26",
+      "chapter": "2",
+      "section": "26",
+      "content": "Departementet​1 kan for et enkelt distrikt eller del derav bestemme at offentlige gjøremål, som etter denne eller andre lover eller bestemmelser påligger distriktsveterinæren, i stedet skal utføres av annen veterinær, som departementet på nærmere avtalte vilkår antar til det.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "2:27",
+      "chapter": "2",
+      "section": "27",
+      "content": "En distriktsveterinær​1 er forpliktet til uten erstatning å rette seg etter forandringer med omsyn til bopel og distriktets grenser.\nEn distriktsveterinær​1 er forpliktet til uten erstatning å finne seg i å bli overført til et annet distrikt, når departementet finner en slik flytning nødvendig for å få gjennomført en forenkling eller omregulering.\nDen, som således blir forflyttet mot sin vilje, skal dog ikke ha mindre fast lønn i det nye distrikt enn han hadde opptjent før flytningen, beregnet etter det til enhver tid gjeldende lønnsregulativ for vedkommende lønnsklasse.\n1 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "3:28",
+      "chapter": "3",
+      "section": "28",
+      "content": "Såfremt Stortinget bevilger de nødvendige midler eller disse skaffes til veie på annen måte, opprettes det et veterinærmedisinsk rettsråd som består av 5 medlemmer, som med personlige varamenn oppnevnes av Kongen for et tidsrom av 5 år. Et av medlemmene oppnevnes som rådets formann.\nTil rådet knyttes en juridisk sekretær, som etter innstilling av rådet ansettes av departementet.​1\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "3:29",
+      "chapter": "3",
+      "section": "29",
+      "content": "Enhver som i anledning av sivile saker eller straffesaker tjenstgjør som offentlig oppnevnt sakkyndig​1 i veterinærmedisinske spørsmål, plikter​2 uoppholdelig å sende Det veterinærmedisinske rettsråd​3 melding om den foretatte forretning i form av en avskrift av den skriftlige erklæring som er gitt retten eller påtalemyndigheten. Dessuten sendes om mulig de nødvendige preparater og annet for hånden værende bevismateriell.\nSåfremt det under hovedforhandlingen gis sakkyndige uttalelser som avviker fra den skriftlige erklæring, eller på vesentlige punkter utfyller den, skal​2 den sakkyndige likeledes sende rådet referat av sin muntlige forklaring.\nRådet skal gjennomgå de innkomne dokumenter, og finnes det vesentlige mangler ved beskrivelsen eller erklæringen, skal det gjøre retten eller i tilfelle påtalemyndigheten oppmerksom herpå.\nRådet skal videre stå til disposisjon for retten, påtalemyndigheten, de offentlig beskikkede forsvarere og oppnevnte sakkyndige når det gjelder veterinærmedisinske spørsmål i forbindelse med sivile saker eller straffesaker.\n1 Se strpl. kap. 11 og tvml. kap. 18.\n2 Jfr. § 33.\n3 Se § 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "3:30",
+      "chapter": "3",
+      "section": "30",
+      "content": "Rådet skal være rådgiver for sentraladministrasjonen i saker av veterinærmedisinsk art.\nRådet kan også avgi uttalelser og foreta undersøkelser for andre. Det kan fungere som ankeinstans i saker om forsikring av husdyr. Det betales i disse tilfelle og ellers for erklæringer som avgis i henhold til § 29, siste ledd, et honorar etter en norm som departementet​1 fastsetter.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "3:31",
+      "chapter": "3",
+      "section": "31",
+      "content": "Rådets medlemmer og sekretæren tilstås en årlig godtgjørelse som fastsettes av departementet,​1 som også fastsetter det honorar som varamennene og spesielt tilkalte sakkyndige skal ha. Hvis rådet finner det nødvendig at ett eller flere av dets medlemmer eller spesielt tilkalte sakkyndige foretar reise for å anstille nærmere undersøkelser, tilstås det dem skyss- og kostgodtgjørelse som for offentlige tjenestemenn bestemt.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "3:32",
+      "chapter": "3",
+      "section": "32",
+      "content": "Rådet avgir hvert år melding til departementet​1 om sin virksomhet. Denne melding skal offentliggjøres og sendes veterinærene.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "4:33",
+      "chapter": "4",
+      "section": "33",
+      "content": "Den som overtrer bestemmelsene i denne lov eller i forskrifter og instrukser gitt med hjemmel i loven straffes med bøter​1 eller med fengsel​2 i inntil 3 måneder, dersom ikke forholdet rammes av strengere straffebud. Medvirkning straffes på samme måte.\nNår det gjelder overtredelse av § 9 eller bestemmelser som er gitt i medhold av § 9, kan straffen i gjentakelsestilfelle eller under særdeles skjerpende omstendigheter forhøyes inntil 6 måneders fengsel. Det fritar ikke vedkommende for straff at han på grunn av manglende veterinærkunnskap ikke har forstått sjukdommens eller legemidlets art.\n1 Se strl. § 27.\n2 Jfr. strl. § 26 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "5:34",
+      "chapter": "5",
+      "section": "34",
+      "content": "Departementet​1 utferdiger de nærmere bestemmelser og instrukser m.v. som anses påkrevd til gjennomføring av denne lov.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "5:35",
+      "chapter": "5",
+      "section": "35",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\n1 Fra 1 sep 1949 iflg. res. 12 aug 1949.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "En veterinærs eller dyrleges oppgave er å verne dyrene og å arbeide for husdyrbestandens sunnhet​1 og medvirke til øking av dens als- og yteevne. Han skal verne samfunnet mot fare og skader forårsaket ved dyresjukdommer eller gjennom næringsmidler og produkter av animalsk opprinnelse.\n1 Jfr. lov 8 juni 1962 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Rett til å utøve veterinærvirksomhet og kalle seg veterinær (dyrlege)​1 har den som vedkommende departement​2 har gitt autorisasjon som veterinær.\nFor å få autorisasjon må søkeren godtgjøre:\n1. at han har bestått avgangseksamen ved Norges veterinærhøgskole​3 eller har utenlandsk veterinærmedisinsk eksamen som er godkjent i medhold av internasjonale avtaler,​4 eller annen eksamen som departementet anerkjenner som faglig jevngod.\n2. at han har utført den praktiske tjeneste som departementet​2 til enhver tid setter som vilkår for å utøve veterinærvirksomhet,\n3. at han fører en hederlig vandel.\nVidere må han gi skriftlig løfte om at han vil utøve virksomheten i samsvar med hva ære og samvittighet krever.\nNår vilkårene etter 2. ledd foreligger, kan autorisasjon ikke nektes med mindre søkerens forhold er slik at det ville ha kunnet medføre tap av en meddelt autorisasjon, jfr. § 6. Departementets nektelse kan bringes inn for Kongen.\n0 Endret ved lover 27 feb 1987 nr. 13, 4 des 1992 nr. 129 (i kraft 1 jan 1994).\n1 Se § 33.\n2 Landbruksdepartementet.\n3 Se lov 12 mai 1995 nr. 22.\n4 Jfr. EØS-avtalen vedlegg VII punkt 12 (dir 78/1026) og punkt 13 (dir 78/1027).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Departementet​1 kan i særlige tilfelle gi norsk eller fremmed statsborger tillatelse, med eller uten innskrenkning, til å utøve veterinærvirksomhet og til å kalle seg veterinær (dyrlege), dersom vedkommende, uten å fylle vilkårene i § 2, annet ledd har bestått avgangseksamen i veterinærfag ved utenlandsk universitet eller høgskole. Før slik tillatelse gis, skal erklæring være innhentet fra Norges Veterinærhøgskoles professorråd.​2\nDepartementet​1 kan videre, etter at uttalelse er innhentet fra Norges Veterinærhøgskoles professorråd,​2 utferdige nærmere bestemmelser om adgang for viderekomne av Norges veterinærhøgskoles studenter til å utføre kortere assistenttjeneste hos praktiserende veterinær eller i annet veterinæryrke.​3\n0 Endret ved lover 1 mars 1968 nr. 3, 27 feb 1987 nr. 13.\n1 Landbruksdepartementet.\n2 Se nå lov 12 mai 1995 nr. 22 § 4 og § 6.\n3 Jfr. forskrift 10 april 1985 nr. 838.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Departementet​1 kan godkjenne veterinær som spesialist på nærmere angitte områder innen sitt fag. Uten slik godkjenning kan en veterinær ikke kalle seg spesialist.​2 Departementet​1 fastsetter nærmere regler for hva det skal kreves for å få slik godkjenning og i hvilken utstrekning den skal gjelde.\n1 Landbruksdepartementet.\n2 Se § 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "En veterinær har ikke rett til​1 å utøve veterinærvirksomhet i den tid han har bevilling som apoteker eller styrer apotek.​2\n0 Endret ved lov 2 juni 1960 nr. 22.\n1 Se § 33.\n2 Jfr. lov 2 juni 2000 nr. 39.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "Dersom en veterinær på grunn av sinnssjukdom eller sjelelig svekkelse eller på grunn av misbruk av sterke drikker eller bedøvende midler eller av liknende grunner må anses uskikket til å utøve sin virksomhet, kan retten til det frakjennes ham ved dom for den tid tilstanden varer.​1 Retten kan frakjennes ham for bestandig, hvis han har gjort seg skyldig i utilbørlig forhold eller på annen måte har gjort seg uverdig til den tillit som er påkrevd for en veterinær.\nDepartementet​2 kan, fra den tid det beslutter sak reist og inntil den er avgjort ved endelig dom, frata vedkommende retten til å utøve veterinær virksomhet.\nI saker etter denne paragraf foretas ikke mekling i forliksrådet. Gir vedkommende veterinær, i samsvar med § 12, avkall på sin autorisasjon (tillatelse), kan søksmål unnlates eller saken heves.\nAutorisasjon eller tillatelse til å utøve veterinærtjeneste gitt på grunnlag av tilsvarende godkjenning i et annet land, kan kalles tilbake dersom godkjenningen i det annet land taper sin gyldighet.\n0 Endret ved lov 27 feb 1987 nr. 13.\n1 Jfr. strl.ikrl. § 10.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "Når en veterinær i henhold til foregående paragraf er fradømt eller har gitt avkall på sin autorisasjon, kan departementet​1 på søknad gi ham ny autorisasjon, dersom han godtgjør at de forhold som ga grunn til fradømmelsen eller avkallet ikke lenger foreligger. Autorisasjonen kan i dette tilfelle gis på prøve.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "content": "Enhver veterinær har rett til – med de innskrenkninger som bestemmes i lov eller forskrift gitt med hjemmel i lov – å forskrive legemidler​1 som er nødvendige for utøvingen av hans virksomhet.\nDet departement​2 som helselovgivningen hører under, gir – med den begrensning som følger av veterinærens taushetsplikt​3 – alminnelige bestemmelser om avfatting av resepter og kan, etter innhentet uttalelse fra Norges Veterinærhøgskoles professorråd,​4 fastsette at resept på spesielt nevnte legemidler skal oppbevares på apotek til ettersyn for vedkommende tilsynsmyndighet. Om påkrevd kan slik resept kreves framlagt som bevismiddel under straffesak og under søksmål som reises til fradømmelse av vedkommende veterinærs rett til å utøve veterinærvirksomhet eller til fradømmelse av offentlig veterinærstilling​5 og i umyndiggjørelsessak.​6\nApotek som har grunn til å tro at en veterinær misbruker bedøvende midler, kan uten hinder av sin taushetsplikt​7 gi melding herom til departementet.\nI saker etter denne paragraf foretas ikke mekling i forliksrådet.\n1 Jfr. lov 4 des 1992 nr. 132 § 2 og § 26 annet ledd.\n2 Sosial- og helsedepartementet.\n3 Se § 16.\n4 Se nå lov 12 mai 1995 nr. 22 § 4 og § 6.\n5 Se § 6, jfr. strl.ikrl. § 10.\n6 Se lov 28 nov 1898.\n7 Se lov 4 des 1992 nr. 132 § 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "content": "Husdyr angrepet av smittsom sjukdom må ikke​2 tas under behandling av andre enn veterinær.​3\nNår det gjelder behandling av dyr, kan bare​2 veterinær iverksette fullstendig eller lokal bedøvelse og bruke legemidler som det er forbudt for apotekene å levere ut til alle og enhver.\nDepartementet​4 kan bestemme at særlige undersøkelses- og behandlingsmetoder bare kan​2 utføres av veterinær.\n1 Jfr. lov 8 juni 1962 nr. 4 § 2.\n2 Se § 33.\n3 Se § 2, § 3.\n4 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "content": "Enhver veterinær plikter​1 på anmodning uoppholdelig å yte den veterinærhjelp han evner – personlig eller ved stedfortreder – når han etter de foreliggende opplysninger eller sitt kjennskap til sjukdomstilfellet må anta at veterinærhjelp er påtrengende nødvendig i anledning av fødselsvansker, sværere ulykkestilfelle, forblødninger eller andre sjukdomstilstander etter departementets​2 nærmere bestemmelse.\nEr veterinæren sjuk, overanstrengt eller har han annet gyldig forfall eller han etter sine ansettelsesvilkår ikke har rett til å praktisere eller er han over 70 år, inntrer ikke plikten. Det samme gjelder når han har forvisset seg om at hjelpen i betimelig tid kan bli ytt av annen veterinær som etter sin stilling er nærmere til å yte den.\n1 Se § 33, og lov 8 juni 1962 nr. 4 § 2.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "1:11",
+      "chapter": "1",
+      "section": "11",
+      "content": "For den hjelp en veterinær har ytt etter foregående paragraf kan han kreve en passende godtgjørelse av den kommune som hjelpen ble ytt i, dersom han ikke etter påkrav får betaling av rekvirenten eller den som har betalingsplikten. Dette gjelder ikke forretninger som etter de gjeldende bestemmelser betales av det offentlige.\nKravet på kommunen framsettes tidligst en måned og senest seks måneder etter at hjelpen ble ytt. Kravet må bare omfatte hjelp som er gitt i henhold til foregående paragraf som påtrengende nødvendig, og ikke godtgjørelse for mulig fortsatt veterinærhjelp.\nTvist om størrelsen av denne godtgjørelse avgjøres av Veterinærdirektøren.​1\nBeløp, som etter disse regler er lagt ut av offentlig kasse, er tvangsgrunnlag for utlegg.​2\n0 Endret ved lov 26 juni 1992 nr. 86.\n1 Statens dyrehelsetilsyn iflg. vedtak 28 sep 1998 nr. 914.\n2 Jfr. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "1:12",
+      "chapter": "1",
+      "section": "12",
+      "content": "En veterinær plikter​1 å melde fra til veterinærmyndighetene på nærmere av Veterinærdirektøren​2 foreskrevet måte, når han vil\n1. nedsette seg for å drive praksis i et veterinærdistrikt,​3\n2. flytte eller regelmessig utstrekke sin virksomhet til et annet veterinærdistrikt,​3\n3. fortsette med å drive privat praksis etter at han er gått av som distrikts- eller fylkesveterinær etter oppnådd aldersgrense.\nDersom en veterinær slutter sin praksis i et veterinærdistrikt​3 eller gir avkall på sin autorisasjon, plikter​1 han å melde dette på tilsvarende måte. Autorisasjonsdokumentet skal i siste fall sendes inn med meldingen.\nPraktiserende veterinær skal​1 hvert år gi en alminnelig melding om sin virksomhet etter forskrifter som fastsettes av departementet.​4 De skal​1 videre ved utgangen av hver måned eller oftere – etter nærmere regler som Veterinærdirektøren​2 gir – sende inn oppgave over de tilfelle av smittsomme husdyrsjukdommer som de har iakttatt.\nFor øvrig plikter​1 enhver veterinær å gi slike oppgaver og meldinger som departementet​4 bestemmer.\n1 Se § 33.\n2 Statens dyrehelsetilsyn iflg. vedtak 28 sep 1998 nr. 914.\n3 Se § 17.\n4 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "1:13",
+      "chapter": "1",
+      "section": "13",
+      "content": "Enhver veterinær plikter​1 å gjøre ordnede opptegnelser over sin veterinærvirksomhet i den utstrekning at han kan gi meldinger etter foregående paragraf.\nDepartementet​2 gir nærmere regler om på hvilken måte han skal gjøre disse opptegnelser, om deres oppbevaring og videre behandling.\nOm påkrevd kan bekreftet utskrift av opptegnelsene kreves framlagt som bevismiddel under straffesak og til bruk for departementet,​2 når det er spørsmål om å reise sak til fradømmelse av vedkommende veterinærs rett til å utøve veterinærvirksomhet​3 eller til fradømmelse av offentlig veterinærstilling.\n1 Se § 33.\n2 Landbruksdepartementet.\n3 Se § 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "1:14",
+      "chapter": "1",
+      "section": "14",
+      "content": "Enhver veterinær skal ved sine reiser, forskrivning av legemidler og øvrige tiltak vise den sparsomhet som er forenlig med sjukdommens art og det offentliges tarv.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "1:15",
+      "chapter": "1",
+      "section": "15",
+      "content": "Enhver veterinær plikter å motta oppnevnelse som medlem av Det veterinærmedisinske rettsråd,​1 såfremt departementet​2 finner at det ikke er særlige forhold til hinder.\n1 Se kap. 3.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "1:16",
+      "chapter": "1",
+      "section": "16",
+      "content": "Enhver veterinær skal – med de innskrenkninger som er fastsatt i lov​1 eller ved bestemmelse av Kongen eller som for øvrig følger av hans tjenesteplikter – tie stille​2 om det som blir betrodd ham under utøvingen av hans virksomhet. Samme taushetsplikt har veterinærens medhjelpere.\nEnhver som i medfør av bestemmelsene i denne lov får kjennskap til forhold som er omhandlet i § 6, 8 og 13, har den samme taushetsplikt som veterinæren selv.\n0 Endret ved lov 28 juni 1952 nr. 9.\n1 Se strpl. § 118, tvml. § 205, lov 4 des 1992 nr. 132 § 30.\n2 Se § 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "2:17",
+      "chapter": "2",
+      "section": "17",
+      "content": "Riket deles i veterinærdistrikter som består av en eller flere kommuner. En kommune kan deles mellom to eller flere distrikter.\nDistriktenes grenser og distriktsveterinærens​2 bopel fastsettes av departementet​1 etter at vedkommende fylkesting – i Oslo kommunestyre – har hatt høve til å uttale seg.\n0 Endret ved lover 8 mars 1963 nr. 1, 5 juni 1970 nr. 36.\n1 Landbruksdepartementet.\n2 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "2:18",
+      "chapter": "2",
+      "section": "18",
+      "content": "I de fastsatte distrikter​1 ansettes distriktsveterinærer.\nStortinget fastsetter distriktsveterinærenes lønnsregulativ og bestemmer hvem som skal utre lønningene. Stillingene fordeles på de forskjellige lønnsklasser i samsvar med de regler som er eller blir fastsatt herfor.\n1 Se § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "2:19",
+      "chapter": "2",
+      "section": "19",
+      "content": "Enhver fylkes-​1 og distriktsveterinær plikter​2 etter Veterinærdirektørens​3 pålegg:\n1. Straks og hvor som helst i landet å yte det offentlige hjelp i kampen mot dyresjukdommene. Kongen gir nærmere bestemmelser om hvilke sjukdommer dette skal gjelde,​4\n2. å gjøre tjeneste i den veterinære sentraladministrasjon for et tidsrom av inntil 2 år,\n3. å møte som deltaker i eller lærer ved utdannelseskurser, kompletteringskurser m.v. Departementet​5 fastsetter godtgjørelsen for utføringen av denne tjeneste.\n0 Endret ved lov 8 juni 1962 nr. 5.\n1 Se § 21.\n2 Se § 33.\n3 Statens dyrehelsetilsyn iflg. vedtak 28 sep 1998 nr. 914.\n4 Gitt ved res. 19 mars 1965, jfr. lov 8 juni 1962 nr. 4.\n5 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "2:20",
+      "chapter": "2",
+      "section": "20",
+      "content": "Distriktsveterinærene skal være forpliktet til å yte veterinærhjelp til befolkningen i sine distrikter mot en passende godtgjørelse og i den utstrekning deres offentlige forretninger tillater.\nForuten å behandle sjukdomstilfelle, plikter distriktsveterinærene å ta seg av det forebyggende arbeid og opplysningsarbeidet så vel ved smittsomme som ved andre husdyrsjukdommer. De plikter likeledes å arbeide for fremme av dyrevernsaken og den veterinære hygiene og næringsmiddelhygienen.\nDistriktsveterinærene skal videre, etter departementets​1 nærmere bestemmelse, ha plikt til å avgi regelmessige frammøter på bestemte steder innen sine distrikter mot skyss- og kostgodtgjørelse etter gjeldende bestemmelser og mot at vedkommende kommune stiller oppvarmet kontorrom til disposisjon.\n0 Endret ved lov 8 mars 1963 nr. 1.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "2:21",
+      "chapter": "2",
+      "section": "21",
+      "content": "Bestemmelsene om fylkesveterinærer​1 i denne lov gjelder så fremt Stortinget gir bevilgning til opprettelse av sådanne embeter.\n1 Landbruksdepartementet har iflg. res. 23 nov 1984 nr. 1945 myndighet til å meddele tjenestefrihet, unnlate utlysing og utferdige konstitusjon ved ledighet og ved permisjon, forsåvidt det gjelder konstitusjon i slik stilling i inntil 1 år.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "2:22",
+      "chapter": "2",
+      "section": "22",
+      "content": "Fylkesveterinæren​1 skal føre et overordnet tilsyn med veterinærvesenet innen sitt embetsområde, og skal særlig ta seg av den planmessige bekjempelse av tapbringende husdyrsjukdommer og av de veterinærhygieniske oppgaver og den animalske næringsmiddelkontroll innen sitt embetsdistrikt. Han skal være fylkesmennenes rådgiver angående administrative tiltak i kampen mot husdyrsjukdommene og for øvrig når det gjelder saker av veterinær art.\nFylkesveterinæren​1 kan av Veterinærdirektøren​2 pålegges midlertidig å gjøre tjeneste utenfor sitt embetsdistrikt.\nDer det ikke måtte være opprettet fylkesveterinærembeter​1 kan Veterinærdirektøren​2 i spesielle tilfelle, som f.eks. under dyrefarsott, gi en distriktsveterinær​3 pålegg om mot en rimelig godtgjørelse å overta ett eller flere av de gjøremål som tilligger en fylkesveterinær.\nFylkesveterinærens bopel fastsettes av departementet.​4\n1 Se § 21.\n2 Statens dyrehelsetilsyn iflg. vedtak 28 sep 1998 nr. 914.\n3 Se § 18.\n4 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "2:23",
+      "chapter": "2",
+      "section": "23",
+      "content": "Fylkesveterinærens​1 lønn, kontorholdsgodtgjørelse og skyss- og kostgodtgjørelse utres av staten.\n1 Se § 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "2:24",
+      "chapter": "2",
+      "section": "24",
+      "content": "For å kunne ansettes, så vel i de foran nevnte offentlige veterinærstillinger som i andre offentlige veterinærstillinger, må vedkommende ha autorisasjon som veterinær etter bestemmelsene i denne lov.​1 Departementet​2 kan dessuten gjøre adgangen til alle eller noen av disse stillinger avhengig av en særskilt utdannelse eller prøve.\n1 Se §§ 2 flg.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "2:25",
+      "chapter": "2",
+      "section": "25",
+      "content": "De offentlige veterinærer som går inn under loven er forpliktet til​1 å rette seg etter de instrukser som til enhver tid måtte være utferdiget for dem.\n1 Se § 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "2:26",
+      "chapter": "2",
+      "section": "26",
+      "content": "Departementet​1 kan for et enkelt distrikt eller del derav bestemme at offentlige gjøremål, som etter denne eller andre lover eller bestemmelser påligger distriktsveterinæren, i stedet skal utføres av annen veterinær, som departementet på nærmere avtalte vilkår antar til det.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "2:27",
+      "chapter": "2",
+      "section": "27",
+      "content": "En distriktsveterinær​1 er forpliktet til uten erstatning å rette seg etter forandringer med omsyn til bopel og distriktets grenser.\nEn distriktsveterinær​1 er forpliktet til uten erstatning å finne seg i å bli overført til et annet distrikt, når departementet finner en slik flytning nødvendig for å få gjennomført en forenkling eller omregulering.\nDen, som således blir forflyttet mot sin vilje, skal dog ikke ha mindre fast lønn i det nye distrikt enn han hadde opptjent før flytningen, beregnet etter det til enhver tid gjeldende lønnsregulativ for vedkommende lønnsklasse.\n1 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "3:28",
+      "chapter": "3",
+      "section": "28",
+      "content": "Såfremt Stortinget bevilger de nødvendige midler eller disse skaffes til veie på annen måte, opprettes det et veterinærmedisinsk rettsråd som består av 5 medlemmer, som med personlige varamenn oppnevnes av Kongen for et tidsrom av 5 år. Et av medlemmene oppnevnes som rådets formann.\nTil rådet knyttes en juridisk sekretær, som etter innstilling av rådet ansettes av departementet.​1\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "3:29",
+      "chapter": "3",
+      "section": "29",
+      "content": "Enhver som i anledning av sivile saker eller straffesaker tjenstgjør som offentlig oppnevnt sakkyndig​1 i veterinærmedisinske spørsmål, plikter​2 uoppholdelig å sende Det veterinærmedisinske rettsråd​3 melding om den foretatte forretning i form av en avskrift av den skriftlige erklæring som er gitt retten eller påtalemyndigheten. Dessuten sendes om mulig de nødvendige preparater og annet for hånden værende bevismateriell.\nSåfremt det under hovedforhandlingen gis sakkyndige uttalelser som avviker fra den skriftlige erklæring, eller på vesentlige punkter utfyller den, skal​2 den sakkyndige likeledes sende rådet referat av sin muntlige forklaring.\nRådet skal gjennomgå de innkomne dokumenter, og finnes det vesentlige mangler ved beskrivelsen eller erklæringen, skal det gjøre retten eller i tilfelle påtalemyndigheten oppmerksom herpå.\nRådet skal videre stå til disposisjon for retten, påtalemyndigheten, de offentlig beskikkede forsvarere og oppnevnte sakkyndige når det gjelder veterinærmedisinske spørsmål i forbindelse med sivile saker eller straffesaker.\n1 Se strpl. kap. 11 og tvml. kap. 18.\n2 Jfr. § 33.\n3 Se § 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "3:30",
+      "chapter": "3",
+      "section": "30",
+      "content": "Rådet skal være rådgiver for sentraladministrasjonen i saker av veterinærmedisinsk art.\nRådet kan også avgi uttalelser og foreta undersøkelser for andre. Det kan fungere som ankeinstans i saker om forsikring av husdyr. Det betales i disse tilfelle og ellers for erklæringer som avgis i henhold til § 29, siste ledd, et honorar etter en norm som departementet​1 fastsetter.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "3:31",
+      "chapter": "3",
+      "section": "31",
+      "content": "Rådets medlemmer og sekretæren tilstås en årlig godtgjørelse som fastsettes av departementet,​1 som også fastsetter det honorar som varamennene og spesielt tilkalte sakkyndige skal ha. Hvis rådet finner det nødvendig at ett eller flere av dets medlemmer eller spesielt tilkalte sakkyndige foretar reise for å anstille nærmere undersøkelser, tilstås det dem skyss- og kostgodtgjørelse som for offentlige tjenestemenn bestemt.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "3:32",
+      "chapter": "3",
+      "section": "32",
+      "content": "Rådet avgir hvert år melding til departementet​1 om sin virksomhet. Denne melding skal offentliggjøres og sendes veterinærene.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "4:33",
+      "chapter": "4",
+      "section": "33",
+      "content": "Den som overtrer bestemmelsene i denne lov eller i forskrifter og instrukser gitt med hjemmel i loven straffes med bøter​1 eller med fengsel​2 i inntil 3 måneder, dersom ikke forholdet rammes av strengere straffebud. Medvirkning straffes på samme måte.\nNår det gjelder overtredelse av § 9 eller bestemmelser som er gitt i medhold av § 9, kan straffen i gjentakelsestilfelle eller under særdeles skjerpende omstendigheter forhøyes inntil 6 måneders fengsel. Det fritar ikke vedkommende for straff at han på grunn av manglende veterinærkunnskap ikke har forstått sjukdommens eller legemidlets art.\n1 Se strl. § 27.\n2 Jfr. strl. § 26 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "5:34",
+      "chapter": "5",
+      "section": "34",
+      "content": "Departementet​1 utferdiger de nærmere bestemmelser og instrukser m.v. som anses påkrevd til gjennomføring av denne lov.\n1 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "5:35",
+      "chapter": "5",
+      "section": "35",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\n1 Fra 1 sep 1949 iflg. res. 12 aug 1949.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1851-07-09",
+  "type": "statute",
+  "title": "Lov om Forkyndelsesmaaden af Indkaldelser og Stevninger i visse Sager angaaende Almindinger (samt om Gebyrer for visse offentlige Forretninger vedkommende saadanne Eiendomme).",
+  "short_name": "Lov om Forkyndelse ang. Almindinger.",
+  "status": "in_force",
+  "issued_date": "1851-07-09",
+  "in_force_date": "1851-07-09",
+  "url": "https://lovdata.no/dokument/NLO/lov/1851-07-09",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Naar de i en almenning bruksberettigede i saker angaaende almenningen​2 skal indkaldes til forliksraadet​3 eller indstevnes til retten, er det ikke nødvendig i klagen eller stevningen at anføre de bruksberettigedes eller brukernes navne eller at la forkyndelse foregaa paa sedvanlig maate, hvorimot det skal være tilstrækkelig, at klagen eller stevningen lyder paa de i almenningen bruksberettigede i almindelighet samt at den tillikemed indkaldelsen bekjendtgjøres i Norsk Kundgjørelsestidende​4 og desuten, med angivelse av dagen for denne bekjendtgjørelse, uten ophold indrykkes i lokale aviser og opslaaes paa bekvemme steder, alt efter nærmere bestemmelse av forliksraadet eller rettens formand. Varslet er 6 uker regnet fra bekjendtgjørelsen i Kundgjørelsestidenden.​4 I indkaldelsen skal det uttrykkelig bemerkes, at anden forkyndelse ikke finder sted.\nSamme forkyndelsesmaate kan, forsaavidt parterne angaar, benyttes ved indkaldelser til bevisoptagelser til bruk under saken, saavel som ved erklæringer om anke, kjæremaal, opfriskning eller gjenoptagelse.\n1 Endret ved lov 14 aug 1918 nr. 4 § 15. – Se lover 22 juni 1863 §§ 27 og 70, 11 mars 1905 § 3, 14 des 1917 nr. 17 § 16 post 1, 15 mars 1940 nr. 3 § 130 nr. 4 og 6 juni 1975 nr. 31 § 33.\n2 Jfr. N.L. 3-12-1.\n3 Se domstolsl. §§ 1 og 27.\n4 Se lov 11 okt 1946 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Naar en Alminding er bleven skyldsat,​1 skal Fordelingen af dens hele Skyld paa hver enkelt af de Parceller, hvori Almindingen udskiftes, kunne skee ved een Forretning. – – –​2\n1 Jfr. lov 22 juni 1863 §§ 35, 36 og 42.\n2 Paragrafens annet og tredje punktum er opphevet ved lov 6 aug 1897 § 179.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Naar de i en almenning bruksberettigede i saker angaaende almenningen​2 skal indkaldes til forliksraadet​3 eller indstevnes til retten, er det ikke nødvendig i klagen eller stevningen at anføre de bruksberettigedes eller brukernes navne eller at la forkyndelse foregaa paa sedvanlig maate, hvorimot det skal være tilstrækkelig, at klagen eller stevningen lyder paa de i almenningen bruksberettigede i almindelighet samt at den tillikemed indkaldelsen bekjendtgjøres i Norsk Kundgjørelsestidende​4 og desuten, med angivelse av dagen for denne bekjendtgjørelse, uten ophold indrykkes i lokale aviser og opslaaes paa bekvemme steder, alt efter nærmere bestemmelse av forliksraadet eller rettens formand. Varslet er 6 uker regnet fra bekjendtgjørelsen i Kundgjørelsestidenden.​4 I indkaldelsen skal det uttrykkelig bemerkes, at anden forkyndelse ikke finder sted.\nSamme forkyndelsesmaate kan, forsaavidt parterne angaar, benyttes ved indkaldelser til bevisoptagelser til bruk under saken, saavel som ved erklæringer om anke, kjæremaal, opfriskning eller gjenoptagelse.\n1 Endret ved lov 14 aug 1918 nr. 4 § 15. – Se lover 22 juni 1863 §§ 27 og 70, 11 mars 1905 § 3, 14 des 1917 nr. 17 § 16 post 1, 15 mars 1940 nr. 3 § 130 nr. 4 og 6 juni 1975 nr. 31 § 33.\n2 Jfr. N.L. 3-12-1.\n3 Se domstolsl. §§ 1 og 27.\n4 Se lov 11 okt 1946 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Naar en Alminding er bleven skyldsat,​1 skal Fordelingen af dens hele Skyld paa hver enkelt af de Parceller, hvori Almindingen udskiftes, kunne skee ved een Forretning. – – –​2\n1 Jfr. lov 22 juni 1863 §§ 35, 36 og 42.\n2 Paragrafens annet og tredje punktum er opphevet ved lov 6 aug 1897 § 179.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

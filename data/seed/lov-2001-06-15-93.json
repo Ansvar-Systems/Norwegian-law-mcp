@@ -1,0 +1,1407 @@
+{
+  "id": "LOV-2001-06-15-93",
+  "type": "statute",
+  "title": "Lov om helseforetak m.m. (helseforetaksloven)",
+  "short_name": "Helseforetaksloven – hfl",
+  "status": "in_force",
+  "issued_date": "2001-06-15",
+  "in_force_date": "2002-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2001-06-15-93",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens og helseforetakenes formål",
+      "content": "Lovens formål er å bidra til å oppfylle de målsettinger som er nedfelt i spesialisthelsetjenesteloven § 1-1 og pasient- og brukerrettighetsloven § 1-1, ved\n1. at det opprettes regionale helseforetak som etter eiers retningslinjer skal planlegge og organisere spesialisthelsetjenesten og legge til rette for forskning og undervisning,\n2. at det legges til rette for at de regionale helseforetakene skal organisere sine sykehus og andre helseinstitusjoner som helseforetak.\nHelseforetakenes formål er å yte gode og likeverdige spesialisthelsetjenester til alle som trenger det når de trenger det, uavhengig av alder, kjønn, bosted, økonomi og etnisk bakgrunn, samt å legge til rette for forskning og undervisning.\n0 Endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens virkeområde",
+      "content": "Denne loven gjelder for regionale helseforetak og helseforetak.\nRegionalt helseforetak er virksomhet som eies av staten alene og som er opprettet i medhold av § 8. Regionalt helseforetak legger til rette for spesialisthelsetjenester, forskning, undervisning og andre tjenester som står i naturlig sammenheng med dette eller er pålagt i lov.\nHelseforetak er virksomhet som eies av ett eller flere regionale helseforetak eller helseforetak og som er opprettet i medhold av § 9. Helseforetak yter spesialisthelsetjenester, forskning og undervisning samt andre tjenester som står i naturlig sammenheng med dette, eller som er pålagt i lov eller avtalt med den kommunale helse- og omsorgstjenesten.\nLoven gjelder ikke på Svalbard og Jan Mayen. Kongen kan bestemme at den helt eller delvis skal gjelde på Svalbard og Jan Mayen og kan fastsette nærmere regler under hensyn til de stedlige forhold, herunder regler som fraviker bestemmelser i denne lov.\n0 Endret ved lover 28 feb 2003 nr. 14 (ikr. 1 jan 2004 iflg. res. 28 nov 2003 nr. 1402), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:2 a",
+      "chapter": "1",
+      "section": "2 a",
+      "title": "Regionale helseforetaks ansvar og oppgaver",
+      "content": "Regionale helseforetak har et overordnet ansvar for å iverksette den nasjonale helsepolitikken i helseregionen. Regionale helseforetak skal planlegge, organisere, styre og samordne virksomhetene i helseforetakene som de eier. I forbindelse med langsiktig planlegging skal regionale helseforetak vurdere om deler av tjenestene skal ytes gjennom inngåelse av avtale med private eller offentlige virksomheter som de ikke eier selv.\n0 Tilføyd ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2a",
+        "source_heading": "§ 2a."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I denne lov menes med:\n1. foretak: regionale helseforetak og helseforetak\n2. eier: staten ved departementet i regionale helseforetak og staten ved regionale helseforetak i helseforetak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Helseregioner",
+      "content": "Riket inndeles i så mange helseregioner som Kongen bestemmer. I hver helseregion skal det være ett regionalt helseforetak.\nStaten skal organisere sitt eierskap til virksomheter som yter spesialisthelsetjeneste og tjenester som står i naturlig sammenheng med dette etter denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Forholdet til annen lovgivning",
+      "content": "Forvaltningsloven gjelder for foretakenes virksomhet. I saker om ansettelse, oppsigelse eller andre personalsaker kommer likevel bare forvaltningslovens kapittel 2 og 3 til anvendelse. Departementet er klageinstans for enkeltvedtak truffet av foretakene, når ikke særskilt klageinstans er fastsatt i lov eller forskrift. Departementet kan gi forskrift om hvem som skal være klageinstans for enkeltvedtak fattet av foretakene.\nLov 18. juli 1958 nr. 2 om offentlige tjenestetvister og lov 16. juni 2017 nr. 67 om statens ansatte mv. gjelder ikke for foretak.\nKonkurs og gjeldsforhandling etter konkursloven kan ikke åpnes i foretak. Foretakenes eiendeler kan ikke være gjenstand for utlegg eller arrest.\nForetakene regnes som organer etter arkivlova § 2 bokstav h.\n0 Endret ved lover 19 mai 2006 nr. 16 (ikr. 1 jan 2009 iflg. res. 17 okt 2008 nr. 1118), 10 juni 2022 nr. 37, 20 juni 2025 nr. 96 (i kraft 1 jan 2026 iflg. res. 12 des 2025 nr. 2510).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Partsstilling",
+      "content": "Foretaket har selv rettigheter og plikter, er part i avtaler med private og offentlige myndigheter og har partsstilling overfor domstoler og andre myndigheter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Ansvar for foretakets forpliktelser",
+      "content": "Eier hefter ubegrenset for foretakets forpliktelser. Når flere foretak eier virksomhet sammen, blir samtlige eiere ansvarlige for virksomhetens forpliktelser.\nEn fordringshaver må først gjøre krav gjeldende mot foretaket. En fordringshaver som har krevd foretaket for klar og forfalt gjeld som ikke er betryggende sikret, kan gjøre kravet gjeldende mot en eier. For å gjøre kravet gjeldende mot en eier må fordringshaveren tidligst fire uker etter første påkrav sende ytterligere et påkrav til den opprinnelige skyldneren med betalingsfrist på minst fire uker, og betaling må ikke være mottatt innen utløpet av fristen.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Opprettelse av regionale helseforetak",
+      "content": "Kongen i statsråd treffer vedtak om å opprette regionalt helseforetak. Vedtaket skal uttrykkelig benevne foretaket som regionalt helseforetak og skal inneholde foretakets vedtekter. Det skal dessuten inneholde bestemmelser om:\n1. hvem som skal være medlemmer av styret, herunder styrets leder og nestleder,\n2. hvem som skal være foretakets revisor,\n3. statens innskudd, herunder hvilke sykehus og andre institusjoner foretaket skal overta ved opprettelsen.\nDet regionale helseforetaket er stiftet når Kongen har truffet vedtak etter første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Opprettelse av helseforetak",
+      "content": "Utøvende virksomhet skal organiseres som helseforetak. Styret selv i regionale helseforetak eller helseforetak treffer vedtak om å opprette helseforetak. Vedtaket skal uttrykkelig benevne foretaket som helseforetak og inneholde foretakets vedtekter. Det skal dessuten inneholde bestemmelser om:\n1. hvem som skal være medlem av styret, herunder styrets leder og nestleder,\n2. hvem som skal være foretakets revisor,\n3. eierens innskudd.\nHelseforetaket er stiftet når styret i eiende foretak har truffet vedtak etter første ledd. Dersom flere foretak stifter et helseforetak for å eie det sammen, må styrene dessuten inngå en skriftlig selskapsavtale.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Vedtekter for regionale helseforetak",
+      "content": "Regionalt helseforetak skal ha vedtekter som i det minste skal angi:\n1. det regionale helseforetakets navn,\n2. den helseregion det regionale helseforetaket omfatter,\n3. det regionale helseforetakets formål,\n4. den kommune der det regionale helseforetaket skal ha sitt hovedkontor,\n5. antall styremedlemmer, eller laveste og høyeste antall styremedlemmer,\n6. helsepolitiske, utdanningspolitiske og forskningspolitiske målsettinger og hovedoppgaver, samt nærmere bestemmelser om universitets- eller høgskolens rettigheter i tilknytning til disse oppgavene,\n7. bestemmelser om låneopptak, jf. § 33,\n8. hvilke saker eller typer av saker som skal forelegges departementet, jf. § 30,\n9. nærmere regler om melding til departementet om foretaket og foretakets virksomhet, jf. § 34.\nAlle foretakene skal ha en og samme arbeidsgivertilknytning. Kongen i statsråd bestemmer hvilken arbeidsgivertilknytning foretakene skal ha. Vedtektene skal angi hvilken arbeidsgivertilknytning Kongen har bestemt at foretakene skal ha.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Vedtekter i helseforetak",
+      "content": "Helseforetak skal ha vedtekter som i det minste skal angi:\n1. foretakets navn,\n2. foretak som eier helseforetaket,\n3. foretakets virksomhet, herunder hvilke helsetjenester som skal ytes, og hvilke undervisningsoppgaver og forskningsoppgaver helseforetaket skal ha, samt nærmere bestemmelser om universitetets- eller høgskolens rettigheter i tilknytning til disse oppgavene,\n4. den kommune der helseforetaket har sitt hovedkontor,\n5. antall styremedlemmer, eller laveste og høyeste antall styremedlemmer,\n6. helsepolitiske, utdanningspolitiske og forskningspolitiske målsettinger og oppgaver,\n7. nærmere regler om rapportering til eieren om foretaket og foretakets virksomhet,\n8. bestemmelser om låneopptak, jf. § 33,\n9. hvilke saker eller typer saker som skal forelegges departementet, jf. § 30,\n10. hvilken arbeidsgivertilknytning helseforetaket skal ha, jf. § 10 annet ledd.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Vedtektsendringer",
+      "content": "Endringer i vedtektene vedtas av foretaksmøtet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Registrering i Foretaksregisteret",
+      "content": "Foretak skal meldes til Foretaksregisteret senest tre måneder etter at vedtak om å opprette foretak er truffet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Foretakets egenkapital",
+      "content": "Foretaket skal ha en egenkapital som står i forsvarlig forhold til foretakets virksomhet.\nHvis det må antas at foretakets egenkapital er lavere enn forsvarlig ut fra risikoen ved og omfanget av virksomheten, skal styret straks behandle saken. Styret skal innen rimelig tid varsle foretakets eier, eller foretakets eiere, gi en redegjørelse for foretakets økonomiske stilling og foreslå tiltak som vil gi foretaket en forsvarlig egenkapital.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Disponering av foretakets midler",
+      "content": "Disponering av foretakets midler besluttes av foretaksmøtet etter forslag fra styret, eller med styrets samtykke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "title": "Eierstyring. Foretaksmøtets myndighet mv.",
+      "content": "Eiere utøver den øverste myndighet i foretak i foretaksmøte. Eier kan ikke utøve eierstyring i foretak utenom foretaksmøte.\nEier kan avholde felles foretaksmøte for foretak med en eier.\nEiere kan utenfor foretaksmøte tildele foretak bevilgning og sette vilkår for tildelingen.\nDepartementet skal årlig avholde foretaksmøte i løpet av årets to første måneder for å fastsette økonomiske og organisatoriske krav og rammer for regionale helseforetak.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:16 a",
+      "chapter": "5",
+      "section": "16 a",
+      "title": "Departementets innhenting av opplysninger fra regionale helseforetak",
+      "content": "Departementet skal holde seg orientert om foretakenes virksomhet og om virksomheten drives i samsvar med de krav som er stilt i foretaksmøter og de vilkår som er satt for tildeling av bevilgning. Departementet skal innhente skriftlige opplysninger fra regionale helseforetak og avholde rapporteringsmøter. Rapporteringsmøte kan holdes utenom foretaksmøte.\n0 Tilføyd ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16a",
+        "source_heading": "§ 16a."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Ledelsens rett og plikt til å være til stede i foretaksmøtet",
+      "content": "Styreleder og daglig leder skal være til stede i foretaksmøtet. Ved forfall skal det utpekes en stedfortreder. Andre styremedlemmer kan være til stede i foretaksmøtet.\nStyremedlemmer og daglig leder har rett til å uttale seg i foretaksmøtet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Innkalling til foretaksmøtet",
+      "content": "Eieren innkaller til foretaksmøte og bestemmer innkallingsmåten. Innkallingen skal skje med minst en ukes varsel, med mindre kortere frist i særlige tilfeller er nødvendig. Til møtet innkalles daglig leder, styrets medlemmer og dessuten revisor som reviderte foretakets årsregnskap, dersom de saker som skal behandles er av en slik art at revisors nærvær kan være ønskelig. Revisor skal ellers innkalles når Riksrevisjonen krever det. Etter innkalling har revisor plikt til å møte i foretaksmøtet.\nInnkallingen skal klart angi de saker som skal behandles i foretaksmøtet. Forslag om å endre vedtektene skal gjengis i innkallingen.\nEiere kan bestemme at foretaksmøtet holdes som video- eller telefonmøte.\nForetaksmøtet kan ikke treffe vedtak i andre saker enn de som er nevnt i innkallingen, med mindre samtlige av de som har rett til å være tilstede etter § 17 samtykker i det. Det kan ikke gis samtykke til å vedta andre endringer i vedtektene enn de forslagene til endringer som er gjengitt i innkallingen.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Saksbehandlingen i foretaksmøtet",
+      "content": "Foretaksmøtet ledes av eieren. Eieren kan overlate til styrets leder å lede foretaksmøtet.\nForetaksmøter for helseforetak ledes av styrets leder.\nMøtelederen skal sørge for at det føres protokoll for foretaksmøtet. Foretaksmøtets beslutninger skal gjengis i protokollen. Protokollen skal undertegnes av møtelederen og en annen person som velges blant de tilstedeværende. Er noen av de som etter § 17 har rett til å være til stede uenig i eierens beslutning, skal deres oppfatning føres inn i protokollen.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "6:20",
+      "chapter": "6",
+      "section": "20",
+      "title": "Foretakets ledelse",
+      "content": "Et foretak ledes av et styre og en daglig leder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "6:21",
+      "chapter": "6",
+      "section": "21",
+      "title": "Styrets sammensetning mv.",
+      "content": "Styret skal ha minst fem medlemmer. I helseforetak skal styret ha minst syv medlemmer når de ansatte har representasjon i henhold til § 23 annet ledd. Reglene i aksjeloven § 20-6 om representasjon av begge kjønn i styret gjelder tilsvarende.\nForetakets daglige leder kan ikke være medlem av styret. Daglig leder av et helseforetak kan ikke være medlem av styret i det regionale helseforetaket som eier helseforetaket.\nStyremedlemmene velges av foretaksmøtet med de unntak som følger av §§ 22 og 23. I regionalt helseforetak skal styremedlemmene som velges av foretaksmøtet, ha tilknytning til den regionen som foretaket hører under. Styremedlemmenes godtgjørelse fastsettes av foretaksmøtet.\nStyret skal ha en leder og en nestleder som velges av foretaksmøtet. Det kan bestemmes i vedtektene at styret velger leder og nestleder blant de styremedlemmene som foretaksmøtet har valgt.\n0 Endret ved lover 19 des 2003 nr. 120 (ikr. 1 jan 2004), 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "6:21 a",
+      "chapter": "6",
+      "section": "21 a",
+      "title": "Styrets revisjonsutvalg",
+      "content": "Styret i regionalt helseforetak velger blant sine medlemmer minst tre personer til styrets revisjonsutvalg. Begge kjønn skal være representert. Styreleder kan ikke velges. Minst ett av medlemmene skal ha kunnskap om regnskap eller revisjon.\nStyret tilsetter leder for internrevisjonen og fastsetter instruks og årsplaner for internrevisjonen.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21a",
+        "source_heading": "§ 21a."
+      }
+    },
+    {
+      "provision_ref": "6:22",
+      "chapter": "6",
+      "section": "22",
+      "title": "Ansattes styrerepresentasjon i regionalt helseforetak",
+      "content": "Inntil en tredel og minst to av styrets medlemmer med varamedlemmer skal velges av og blant de ansatte i regionalt helseforetak og helseforetak som regionalt helseforetak eier.\nKongen kan gi forskrift om valget, herunder om vilkår for stemmerett og valgbarhet, valgmåten og om avgjørelse av tvister om valget, samt om bortfall av vervet som styremedlem. I vedtektene kan det fastsettes at de av styrets medlemmer som er valgt etter første ledd, ikke deltar i behandlingen av saker som gjelder arbeidsgivers forberedelse til forhandlinger med arbeidstakere, arbeidskonflikter, rettstvister med arbeidstakerorganisasjoner eller oppsigelse av tariffavtaler.\n0 Endret ved lover 19 des 2003 nr. 120 (ikr. 1 jan 2004), 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "6:23",
+      "chapter": "6",
+      "section": "23",
+      "title": "Ansattes styrerepresentasjon i helseforetak",
+      "content": "I helseforetak som har flere enn 30 ansatte, kan et flertall av de ansatte kreve at inntil en tredel og minst to av styrets medlemmer med varamedlemmer, velges av og blant de ansatte.\nHar helseforetaket flere enn 200 ansatte, skal de ansatte velge ett styremedlem og varamedlem i tillegg til den representasjon som følger av første ledd. Det kan inngås avtale mellom helseforetaket og fagforening som omfatter to tredeler av de ansatte eller et flertall av de ansatte, om at de ansatte i stedet for dette styremedlemmet skal velge to observatører og varamedlemmer.\nKongen kan gi forskrift om beregningen av antall ansatte, herunder om bruk av gjennomsnittstall. § 22 annet ledd gjelder tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "6:24",
+      "chapter": "6",
+      "section": "24",
+      "title": "Tjenestetid",
+      "content": "Styremedlemmene velges for to år. I vedtektene kan det fastsettes kortere eller lengre tjenestetid, likevel ikke lengre enn fire år. Kortere tjenestetid kan fastsettes ved suppleringsvalg.\nEt styremedlem blir stående inntil nytt styremedlem er valgt selv om tjenestetiden er utløpt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "Opphør av styreverv før tjenestetiden er utløpt",
+      "content": "Når særlige forhold foreligger, har et styremedlem rett til å tre tilbake før tjenestetiden er ute. Styret og den som har valgt styremedlemmet skal gis rimelig forhåndsvarsel.\nEt styremedlem kan avsettes av den som har valgt styremedlemmet. Dette gjelder ikke et styremedlem som er valgt etter §§ 22 eller 23.\nI forbindelse med omorganisering av foretak kan det foretas nytt valg eller suppleringsvalg av styremedlem som er valgt etter §§ 22 eller 23. Departementet kan i forskrift fastsette nærmere bestemmelser om slike valg.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "Styremøter",
+      "content": "Styrets leder sørger for at styret holder møter så ofte som det trengs. Medlem av styret og daglig leder kan kreve at styret sammenkalles.\nMed mindre styret i det enkelte tilfellet bestemmer noe annet, har daglig leder rett og plikt til å være til stede og rett til å uttale seg på styremøter.\nStyremøter ledes av lederen, eller i hans fravær, av nestlederen. Er ingen av disse til stede, velger styret selv sin møteleder.\nVed styremøter skal det føres protokoll som underskrives av samtlige tilstedeværende styremedlemmer. Styremedlem eller daglig leder som er uenig i styrets beslutning, kan kreve sin oppfatning innført i protokollen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:26 a",
+      "chapter": "6",
+      "section": "26 a",
+      "title": "Åpne styremøter",
+      "content": "Styremøter i foretak skal holdes for åpne dører hvis ikke annet følger av lovbestemt taushetsplikt eller av vedtak etter annet ledd.\nDersom det foreligger et reelt og saklig behov, kan styret vedta å behandle en sak for lukkede dører i følgende tilfeller:\n1. Av hensyn til personvernet. Personalsaker skal alltid behandles for lukkede dører.\n2. Orientering om sak som er på et forberedende stadium i saksbehandlingen i foretaket.\n3. Informasjon om lovbrudd, saksanlegg eller av hensyn til foretakets partsstilling i sak for norsk domstol.\n4. Av hensyn til forsvarlig gjennomføring av økonomi-, lønns-, eller personalforvaltningen til foretaket.\n5. Saker som gjelder tilbud og protokoll etter regelverket om offentlige anskaffelser til valget av leverandør er gjort.\nVurderingen av om møtet eller deler av møtet skal foregå for lukkede dører, skal gjøres på møtetidspunktet.\n0 Tilføyd ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26a",
+        "source_heading": "§ 26a."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Vedtaksførhet og flertallskrav",
+      "content": "Styret har vedtakskompetanse når mer enn halvparten av samtlige styremedlemmer er til stede. Styret kan ikke treffe beslutning med mindre alle medlemmer av styret så vidt mulig er gitt mulighet til å delta i behandlingen av saken. Har et styremedlem forfall og det finnes varamedlem, skal varamedlemmet gis mulighet til å møte.\nSom styrets beslutning gjelder det som flertallet av de møtende har stemt for, dersom ikke annet er fastsatt i vedtektene. Ved stemmelikhet er møtelederens stemme avgjørende. De som stemmer for et forslag, må likevel utgjøre mer enn en tredel av samtlige styremedlemmer for at forslaget skal anses som vedtatt.\nVed valg og ansettelser anses den valgt eller ansatt som får flest stemmer. Styret kan på forhånd bestemme at det skal holdes ny avstemning dersom ingen får flertall av de avgitte stemmene. Står stemmetallet likt ved valg av styreleder, nestleder eller møteleder, avgjøres valget ved loddtrekning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "7:28",
+      "chapter": "7",
+      "section": "28",
+      "title": "Styrets oppgaver",
+      "content": "Forvaltningen av foretaket hører under styret som har ansvar for en tilfredsstillende organisering av foretakets samlede virksomhet.\nStyret skal fastsette budsjett og planer for foretakets virksomhet.\nStyret skal holde seg orientert om foretakets virksomhet og økonomiske stilling. Det skal føre tilsyn med at virksomheten drives i samsvar med målene som er nedfelt i § 1, foretakets vedtekter, vedtak truffet av foretaksmøtet og vedtatte planer og budsjetter.\nI regionalt helseforetak omfatter styrets plikter etter tredje ledd også helseforetak som foretaket eier.\nStyret skal sørge for at bokføring og formueforvaltning er gjenstand for betryggende kontroll.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "7:29",
+      "chapter": "7",
+      "section": "29",
+      "title": "Styrets tilsyn med daglig leder",
+      "content": "Styret skal føre tilsyn med daglig leder og kan fastsette instruks for denne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "7:30",
+      "chapter": "7",
+      "section": "30",
+      "title": "Saker av vesentlig betydning",
+      "content": "Foretaksmøtet i regionalt helseforetak treffer vedtak i saker som antas å være av vesentlig betydning for foretakets virksomhet eller løsningen av fastsatte målsettinger eller oppgaver. Det samme gjelder vedtak i andre saker som antas å ha prinsipielle sider av betydning eller som antas å kunne ha vesentlige samfunnsmessige virkninger, som:\n1. Vedtak som kan endre virksomhetens karakter\n2. Vedtak om nedleggelse av sykehus.\n3. Omfattende endringer i sykehusstrukturen i helseregionen.\n4. Omfattende endringer i tjenestetilbudet.\n5. Vedtak om endringer i antallet helseforetak i helseregionen.\n6. Vedtak om vesentlige endringer i opptaksområdet for helseforetak.\nHvilke saker foretaksmøtet i regionalt helseforetak skal fatte vedtak i etter denne bestemmelsen, kan det fastsettes nærmere bestemmelser om i vedtektene.\nSaker som nevnt i første og annet ledd skal forelegges departementet av styret i det regionale helseforetaket.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "7:31",
+      "chapter": "7",
+      "section": "31",
+      "title": "Salg av foretakets faste eiendommer mv.",
+      "content": "Vedtak om å pantsette eller avhende fast eiendom treffes av foretaksmøtet etter forslag fra styret.\nNår foretaksmøte i helseforetak skal fatte vedtak etter denne bestemmelsen, skal saken legges fram for departementet før vedtak fattes. Det kan i vedtektene gjøres unntak fra denne bestemmelsen i tilfeller hvor eiendommens verdi ikke overstiger et nærmere bestemt beløp.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "7:32",
+      "chapter": "7",
+      "section": "32",
+      "title": "Salg av sykehusvirksomhet",
+      "content": "Sykehusvirksomhet kan ikke selges uten Stortingets samtykke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "7:33",
+      "chapter": "7",
+      "section": "33",
+      "title": "Lån og garantier",
+      "content": "Foretak kan ikke ta opp lån med mindre det er særskilt fastsatt i vedtektene at det skal ha slik adgang. Nærmere bestemmelser om låneopptak fastsettes i vedtektene.\nForetaket kan ikke stille garanti eller pantsette sine eiendeler til sikkerhet for andres økonomiske forpliktelser.\n0 Endret ved lover 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 46, 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "7:34",
+      "chapter": "7",
+      "section": "34",
+      "title": "Årlig melding om virksomheten mv. i regionalt helseforetak",
+      "content": "Regionalt helseforetak skal hvert år utarbeide en melding om foretaket og foretakets virksomhet som forelegges departementet. Meldingen skal også omfatte de helseforetak som det regionale helseforetaket eier.\nMeldingen skal blant annet redegjøre for virksomheten i det foregående år, herunder skal det redegjøres for gjennomføringen av krav departementet har stilt til virksomheten. Meldingen skal inneholde en plan for virksomheten i de kommende år.\nNærmere regler om meldingens innhold og frist for å forelegge den for departementet fastsettes i vedtektene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "7:35",
+      "chapter": "7",
+      "section": "35",
+      "title": "Pasienters og andre brukeres innflytelse",
+      "content": "Regionalt helseforetak skal sørge for at representanter for pasienter og andre brukere blir hørt i forbindelse med utarbeidelse av plan i henhold til § 34 annet ledd annet punktum.\nRegionalt helseforetak skal sørge for at virksomheter som yter spesialisthelsetjenester og andre tjenester som hører naturlig sammen med dette, etablerer systemer for innhenting av pasienters og andre brukeres erfaringer og synspunkter.\nRegionalt helseforetak skal sørge for at den enkelte pasients utvidede rett til bruk av samisk språk i spesialisthelsetjenesten blir ivaretatt, jf. sameloven § 3-1 nr. 4 og § 3-5.\n0 Endret ved lov 22 juni 2012 nr. 46.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "8:36",
+      "chapter": "8",
+      "section": "36",
+      "title": "Daglig leder",
+      "content": "Foretaket skal ha en daglig leder som tilsettes av styret, som også fastsetter daglig leders lønn. Styret treffer vedtak om å si opp eller avskjedige daglig leder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "8:37",
+      "chapter": "8",
+      "section": "37",
+      "title": "Daglig leders myndighet",
+      "content": "Daglig leder forestår den daglige ledelsen av foretaket og skal følge de retningslinjer og pålegg som styret har gitt.\nDaglig leder i regionalt helseforetak skal også føre tilsyn med helseforetak som det regionale helseforetaket eier, og skal påse at virksomheten der er i samsvar med det regionale helseforetakets vedtekter og vedtak truffet av foretaksmøtet og styret.\nDen daglige ledelsen omfatter ikke saker som etter foretakets forhold er av uvanlig art eller av stor betydning. Slike saker kan daglig leder bare avgjøre når styret i den enkelte sak har gitt daglig leder myndighet til det, eller når styrets beslutning ikke kan avventes uten vesentlig ulempe for foretakets virksomhet. Styret skal i så fall snarest underrettes om saken.\nDaglig leder skal sørge for at foretakets registrering og dokumentasjon av regnskapsopplysninger er i samsvar med lov og forskrifter og at formuesforvaltningen er ordnet på betryggende måte.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "8:37 a",
+      "chapter": "8",
+      "section": "37 a",
+      "title": "Internrevisjon",
+      "content": "De regionale helseforetakene skal etablere en uavhengig og objektiv internrevisjon.\nInternrevisjonen skal gjennom en systematisk og strukturert metode og avgivelse av bekreftelse bidra til forbedringer i risikostyring, internkontroll og virksomhetsstyring. Internrevisjonen skal rapportere funksjonelt til styret og administrativt til daglig leder. Internrevisjonen skal også omfatte helseforetakene som det regionale helseforetaket eier, og inngåelse og oppfølging av avtaler med andre tjenesteytere.\nInternrevisjonen skal gjennomføres i henhold til anerkjente standarder og løpende følge virksomheten.\nInternrevisjonen kan, uten hinder av taushetsplikt, kreve enhver opplysning, redegjørelse eller ethvert dokument og foreta de undersøkelser som den finner nødvendig for å gjennomføre oppgavene. Opplysningene skal så langt det er mulig gis uten individualiserende kjennetegn. Reglene om taushetsplikt gjelder tilsvarende for den som mottar opplysningene.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37a",
+        "source_heading": "§ 37a."
+      }
+    },
+    {
+      "provision_ref": "8:38",
+      "chapter": "8",
+      "section": "38",
+      "title": "Daglig leders rapportering til styret",
+      "content": "Daglig leder skal minst hver fjerde måned gi styret skriftlig underretning om foretakets virksomhet. I regionalt helseforetak skal underretningen også omfatte virksomheten til de helseforetak som det regionale helseforetaket eier. Det skal særlig redegjøres for foretakets stilling og utvikling i forhold til vedtatte planer og budsjetter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "9:39",
+      "chapter": "9",
+      "section": "39",
+      "title": "Foretakets representasjon",
+      "content": "Styret representerer foretaket utad og tegner dets firma.\nStyret kan gi styremedlem eller daglig leder rett til å tegne foretakets firma. Vedtektene kan begrense styrets myndighet etter forrige punktum og også selv gi bestemmelser om fullmakt som der nevnt.\nDaglig leder representerer foretaket utad i saker som faller inn under dennes myndighet etter § 37.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "9:40",
+      "chapter": "9",
+      "section": "40",
+      "title": "Overskridelse av representasjonsretten",
+      "content": "Har noen som representerer foretaket utad etter reglene i § 39 ved disposisjon på selskapets vegne gått ut over sin myndighet, er disposisjonen ikke bindende for foretaket når foretaket godtgjør at medkontrahenten forsto eller burde ha forstått at myndighet ble overskredet, og det ville stride mot redelighet å gjøre disposisjonen gjeldende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "10:41",
+      "chapter": "10",
+      "section": "41",
+      "title": "Samarbeid med andre",
+      "content": "Foretak skal samarbeide med andre når dette er nødvendig for å fremme foretakets formål eller det er pålagt eller forutsatt i lovgivningen. Foretaket skal også samarbeide med andre når dette er egnet til å fremme de oppgaver og målsettinger foretaket skal ivareta.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "10:42",
+      "chapter": "10",
+      "section": "42",
+      "title": "Ansvarsform for virksomhet eid av foretak",
+      "content": "Foretak kan ikke eie hele eller deler av virksomhet som yter spesialisthelsetjenester og som er organisert med begrenset ansvar. Virksomhet som yter spesialisthelsetjenester skal organiseres som helseforetak.\nForetak kan ikke eie virksomhet som yter spesialisthelsetjenester sammen med andre enn foretak. Dersom flere foretak eier virksomhet som yter spesialisthelsetjenester sammen, skal virksomheten organiseres som helseforetak eller som ansvarlig selskap i medhold av selskapsloven.\nNår det er egnet til å fremme foretakets formål, kan foretak eie virksomhet som ikke yter spesialisthelsetjenester alene eller sammen med andre. Kun virksomhet som er en nødvendig og sentral forutsetning for at det kan ytes spesialisthelsetjenester, kan organiseres som helseforetak. Annen virksomhet skal organiseres som selskaper med begrenset ansvar.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "11:43",
+      "chapter": "11",
+      "section": "43",
+      "title": "Regnskap mv.",
+      "content": "Regnskapslovens bestemmelser gjelder for foretak. Departementet kan i forskrift utfylle eller fravike bestemmelser i regnskapsloven om regnskapsføring av pensjonsforhold.\nÅrsregnskap og årsberetning skal godkjennes av foretaksmøtet.\n0 Endret ved lov 20 juni 2025 nr. 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "11:44",
+      "chapter": "11",
+      "section": "44",
+      "title": "Revisjon",
+      "content": "Foretak skal ha revisor som velges av foretaksmøtet.\nForetaksmøtet godkjenner revisors godtgjørelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "11:45",
+      "chapter": "11",
+      "section": "45",
+      "title": "Riksrevisjonens kontroll",
+      "content": "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser mv. i regionalt helseforetak, helseforetak og heleide datterselskaper til slike foretak etter lov om Riksrevisjonen og instruks fastsatt av Stortinget.\n0 Endret ved lov 7 mai 2004 nr. 21 (ikr. 1 juli 2004).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "12:46",
+      "chapter": "12",
+      "section": "46",
+      "title": "Vedtak om oppløsning",
+      "content": "Foretaksmøtet treffer vedtak om oppløsning av foretaket.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "12:47",
+      "chapter": "12",
+      "section": "47",
+      "title": "Avviklingsstyre mv.",
+      "content": "Når foretaksmøtet har truffet vedtak om oppløsning etter § 46, skal det snarest velges avviklingsstyre og gis nærmere regler om avviklingsmåten. Avviklingsstyret velger selv leder og nestleder hvis ikke foretaksmøtet har gjort det.\nNår avviklingsstyret er valgt, trer det ordinære styret ut av funksjon.\nBeslutning om oppløsning skal straks meldes til Foretaksregisteret. Foretaksregisteret skal samtidig med registrering av meldingen kunngjøre beslutningen i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon og varsle foretakets fordringshavere om at de må melde seg til foretaket innen seks uker fra kunngjøringen.\nNår varslingsfristen overfor kreditorene er utløpt og foretakets forpliktelser eventuelt er dekket, skal avviklingsstyret legge et skriftlig forslag til avviklingsoppgjør frem for foretaksmøtet til godkjenning.\nNår avviklingsoppgjøret er godkjent av foretaksmøtet, skal avviklingsstyret straks melde fra til Foretaksregisteret om at foretaket er avviklet.\n0 Endret ved lover 5 sep 2003 nr. 92 (ikr. 1 jan 2004 iflg. res. 5 sep 2003 nr. 1119), 14 juni 2013 nr. 41 (ikr. 1 juli 2013 iflg. res. 14 juni 2013 nr. 638).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "12:48",
+      "chapter": "12",
+      "section": "48",
+      "title": "Ansvar etter avviklingen",
+      "content": "Etter at foretaket er avviklet, svarer i regionalt helseforetak staten og i helseforetak det foretaket eller de foretakene som eide helseforetaket, overfor kreditorer som ikke har fått dekning.\nKrav som forfaller innen tre år etter det tidspunktet da avviklingen av foretaket ble registrert i Foretaksregisteret, foreldes senest tre år etter registreringen, men likevel ikke tidligere enn seks måneder etter forfall. For øvrig gjelder de alminnelige reglene om foreldelse.\nFor krav som forfaller etter utløpet av treårsfristen, gjelder foreldelseslovens alminnelige regler.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "13:49",
+      "chapter": "13",
+      "section": "49",
+      "title": "Erstatningsansvar",
+      "content": "Styremedlem, daglig leder og medlem av avviklingsstyret plikter å erstatte tap som vedkommende forsettlig eller uaktsomt har voldt foretaket, foretakets eier eller andre under utførelsen av sin oppgave.\nErstatningsansvar etter første ledd kan lempes etter lov 13. juni 1969 nr. 26 om skadeserstatning § 5-2.\nBeslutning om at foretaket skal gjøre ansvar gjeldende, treffes av foretaksmøtet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "14:50",
+      "chapter": "14",
+      "section": "50",
+      "title": "Omdanning",
+      "content": "Fylkeskommunal, kommunal og statlig virksomhet eller del av slik virksomhet kan overføres til regionalt helseforetak eller helseforetak ved at eiendeler, rettigheter, herunder offentlige tillatelser, og forpliktelser som er knyttet til virksomheten, overføres som en helhet til foretaket.\nOverføring til foretaket av forpliktelser knyttet til fylkeskommunen, kommunen og staten har frigjørende virkning for denne. Fordringshavere og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at overføringen utgjør en bortfallsgrunn for rettsforholdet.\nDet skal ikke betales dokumentavgift etter § 6 i lov 12. desember 1975 nr. 59 om dokumentavgift, omregistreringsavgift etter § 1 i lov 19. juni 1959 nr. 2 om avgifter vedrørende kjøretøy og båter eller rettsgebyr etter § 21 i lov 17. desember 1982 nr. 86 om rettsgebyr i forbindelse med omdanninger i medhold av denne bestemmelsen.\nDet som er bestemt i paragrafen her, gjelder tilsvarende ved overføring av virksomhet til foretak etter loven her fra heleid fylkeskommunalt, kommunalt og statlig selskap eller foretak.\nBestemmelsene i paragrafen her gjelder også ved overføring av virksomhet mellom foretak etter loven her. Forrige punktum medfører ingen begrensninger i ansvaret etter § 7.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "15:51",
+      "chapter": "15",
+      "section": "51",
+      "title": "Ikraftsetting",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.\n1 Fra 1 juli 2001 for § 1 til § 21, § 23 til § 51, § 52 nr. 1, nr. 2, nr. 3, nr. 9, nr. 10 og nr. 11 og § 53 nr. 5, nr. 6, nr. 8, nr. 11 og nr. 17 iflg. res. 15 juni 2001 nr. 669.Fra 1 jan 2002 for resten av loven iflg. res. 14 des 2001 nr. 1417.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "15:52",
+      "chapter": "15",
+      "section": "52",
+      "title": "Overgangsbestemmelser​1",
+      "content": "1. Kongen kan gi nærmere overgangsbestemmelser.\n2. Dersom regionalt helseforetak opprettes før bestemmelsen om statens ansvar for spesialisthelsetjenester, jf. lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. § 2-1, trer i kraft, skal fylkeskommunene gi staten nødvendig innsyn i og tilgang til fylkeskommunens virksomhet.\n3. Tjenestemannsloven § 13 nr. 2 til 6 om fortrinnsrett til annen statsstilling og ventelønn skal ved omdanning av den statlige spesialisthelsetjenesten til statlige helseforetak fortsatt gjelde for arbeidstakere som blir sagt opp på grunn av forhold som nevnt i tjenestemannsloven § 13 nr. 1 bokstavene a, b og c. Fortrinnsrett til annen statsstilling og ventelønn etter første punktum opphører tre år etter omdanning til helseforetak. Første og annet punktum gjør ingen innskrenkninger i rettighetene arbeidstakeren har etter arbeidsmiljøloven​2 §§ 60 nr. 2 og 67.\n4. Regionale helseforetak trer inn i og overtar fylkeskommunenes rettigheter og plikter etter avtaler som foreligger ved lovens ikraftsetting mellom fylkeskommuner og legespesialister og spesialister i klinisk psykologi, om hel eller delvis godtgjøring av utgifter til drift av privat praksis.\n5. Staten dekker delvis utgiftene til renter og avdrag for byggearbeider ved private sykehus som har inngått i en regional helseplan og har mottatt tilskudd til drift og vedlikehold fra en fylkeskommune dersom:\na. byggearbeider anslått til samlet mer enn 50 millioner kroner er godkjent av departementet før lovens ikraftsetting, eller\nb. byggearbeider anslått til samlet mindre enn 50 millioner kroner er vedtatt av fylkestinget før lovens ikraftsetting.\nDersom fylkeskommunen har avtale med sykehuset om å dekke tilsvarende utgifter til renter og avdrag som nevnt i første ledd, trer staten inn i denne avtalen i fylkeskommunens sted i stedet for å foreta utbetaling til sykehuset etter bestemmelsene i første ledd.\nKongen kan gi forskrift om beregning og utbetaling av statens tilskudd etter første ledd.\n6. Fra og med ikraftsettingen av denne loven har staten ved regionale helseforetak, rett og plikt til å overta alle formuesposisjoner som er knyttet til offentlige virksomheter innen spesialisthelsetjenestene somatisk helsevern, psykisk helsevern, rehabiliterings- og habiliteringstjenester, medisinsk nødmeldetjeneste og ambulansetjenester. Videre overtar staten alle formuesposisjoner som er knyttet til virksomhetene offentlige sykehusapotek og alle formuesposisjoner som er knyttet til offentlige tiltak for rusmiddelmisbrukere og som er organisert etter spesialisthelsetjenesteloven. Staten ved regionale helseforetak overtar alle fylkeskommunalt eide formuesposisjoner som er knyttet til universitets- og høgskolefunksjoner. Overtakelsen skal omfatte alle rettigheter og plikter som er knyttet til virksomhetene. Lov 6. april 1984 nr. 17 om vederlag ved oreigning av fast eiendom, får ikke anvendelse på overtakelsen.\nDersom det åpenbart ikke er naturlig sammenheng mellom en virksomhet og rettigheter som er knyttet til virksomheten, kan det besluttes at staten ikke har rett eller plikt til å overta slike rettigheter dersom det er rimelig at fylkeskommunen eller kommunen beholder dem.\n7. Dersom det i forbindelse med overføring til staten av rettigheter og plikter, som nevnt i nr. 6 første ledd, overføres gjeld eller andre forpliktelser knyttet til virksomhetene, er det frigjørende for fylkeskommunen og kommunen.\nKreditor og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at den utgjør en bortfallsgrunn for rettsforholdet.\n8. Det skal ikke betales dokumentavgift etter § 6 i lov 12. desember 1975 nr. 59 om dokumentavgift, omregistreringsavgift etter § 1 i lov 19. juni 1959 nr. 2 om avgifter vedrørende kjøretøy og båter eller rettsgebyr etter §§ 21 og 24 i lov 17. desember 1982 nr. 86 om rettsgebyr i forbindelse med statens overtakelse av formuesposisjoner som er en direkte følge av denne loven.\n9. Både staten og vedkommende fylkeskommune kan kreve at spørsmål som gjelder nærmere klargjøring og konkretisering av hvilke formuesposisjoner staten har rett og plikt til å overta fra den enkelte fylkeskommune etter nr. 6 første og annet ledd, skal avgjøres av en nemnd. Nemnda vurderer ikke hvilke konkrete gjeldsforpliktelser staten har rett og plikt til å tre inn i. Hvilke regionale helseforetak som skal overta de enkelte formuesposisjoner besluttes av departementet.\nNemnda skal ha syv medlemmer. Departementet oppnevner tre medlemmer og varamedlemmer for disse til nemnda. Kommunenes Sentralforbund oppnevner tre medlemmer og varamedlemmer for disse til nemnda. I tillegg utpeker førstelagmannen i Borgarting leder for nemnda og leders varamedlem. Nemndas leder og leders varamedlem skal ha de egenskapene som er foreskrevet for dommere, se domstolsloven § 53, jf. § 54 annet ledd.\nNemndas avgjørelse, som treffes ved kjennelse, skal være begrunnet.\nUtgiftene til nemndas virksomhet fastsettes og dekkes av departementet. Departementet kan gi nærmere regler for nemndas virksomhet.\n10. Spørsmål om rettigheter og plikter etter nr. 6 første og annet ledd, kan ikke bringes inn for de alminnelige domstoler før muligheten til å få saken avgjort av nemnd opprettet etter nr. 9 annet ledd, er nyttet.\n11. Klage over beslutninger truffet i medhold av denne loven, gir ikke oppsettende virkning for statens rettigheter og plikter etter nr. 6.\n1 Iflg. res. 15 juni 2001 nr. 669 trådte nr. 1, nr. 2, nr. 3, nr. 9, nr. 10 og nr. 11 ikr. 1 juli 2001. Iflg. res. 14 des 2001 nr. 1417 trådte resten av paragrafen ikr. 1 jan 2002.\n2 Inkurie: Lov 4 feb 1977 nr. 4, se nå lov 17 juni 2005 nr. 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "15:53",
+      "chapter": "15",
+      "section": "53",
+      "title": "Endring i andre lover",
+      "content": "Fra den tid​1 loven trer i kraft, gjøres følgende endringer i andre lover: – – –\n1 Fra 1 juli 2001 for § 53 nr. 5, nr. 6, nr. 8, nr. 11 og nr. 17 iflg. res. 15 juni 2001 nr. 669.Fra 1 jan 2002 for resten av loven iflg. res. 14 des 2001 nr. 1417.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens og helseforetakenes formål",
+      "content": "Lovens formål er å bidra til å oppfylle de målsettinger som er nedfelt i spesialisthelsetjenesteloven § 1-1 og pasient- og brukerrettighetsloven § 1-1, ved\n1. at det opprettes regionale helseforetak som etter eiers retningslinjer skal planlegge og organisere spesialisthelsetjenesten og legge til rette for forskning og undervisning,\n2. at det legges til rette for at de regionale helseforetakene skal organisere sine sykehus og andre helseinstitusjoner som helseforetak.\nHelseforetakenes formål er å yte gode og likeverdige spesialisthelsetjenester til alle som trenger det når de trenger det, uavhengig av alder, kjønn, bosted, økonomi og etnisk bakgrunn, samt å legge til rette for forskning og undervisning.\n0 Endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens virkeområde",
+      "content": "Denne loven gjelder for regionale helseforetak og helseforetak.\nRegionalt helseforetak er virksomhet som eies av staten alene og som er opprettet i medhold av § 8. Regionalt helseforetak legger til rette for spesialisthelsetjenester, forskning, undervisning og andre tjenester som står i naturlig sammenheng med dette eller er pålagt i lov.\nHelseforetak er virksomhet som eies av ett eller flere regionale helseforetak eller helseforetak og som er opprettet i medhold av § 9. Helseforetak yter spesialisthelsetjenester, forskning og undervisning samt andre tjenester som står i naturlig sammenheng med dette, eller som er pålagt i lov eller avtalt med den kommunale helse- og omsorgstjenesten.\nLoven gjelder ikke på Svalbard og Jan Mayen. Kongen kan bestemme at den helt eller delvis skal gjelde på Svalbard og Jan Mayen og kan fastsette nærmere regler under hensyn til de stedlige forhold, herunder regler som fraviker bestemmelser i denne lov.\n0 Endret ved lover 28 feb 2003 nr. 14 (ikr. 1 jan 2004 iflg. res. 28 nov 2003 nr. 1402), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:2 a",
+      "chapter": "1",
+      "section": "2 a",
+      "title": "Regionale helseforetaks ansvar og oppgaver",
+      "content": "Regionale helseforetak har et overordnet ansvar for å iverksette den nasjonale helsepolitikken i helseregionen. Regionale helseforetak skal planlegge, organisere, styre og samordne virksomhetene i helseforetakene som de eier. I forbindelse med langsiktig planlegging skal regionale helseforetak vurdere om deler av tjenestene skal ytes gjennom inngåelse av avtale med private eller offentlige virksomheter som de ikke eier selv.\n0 Tilføyd ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2a",
+        "source_heading": "§ 2a."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I denne lov menes med:\n1. foretak: regionale helseforetak og helseforetak\n2. eier: staten ved departementet i regionale helseforetak og staten ved regionale helseforetak i helseforetak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Helseregioner",
+      "content": "Riket inndeles i så mange helseregioner som Kongen bestemmer. I hver helseregion skal det være ett regionalt helseforetak.\nStaten skal organisere sitt eierskap til virksomheter som yter spesialisthelsetjeneste og tjenester som står i naturlig sammenheng med dette etter denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Forholdet til annen lovgivning",
+      "content": "Forvaltningsloven gjelder for foretakenes virksomhet. I saker om ansettelse, oppsigelse eller andre personalsaker kommer likevel bare forvaltningslovens kapittel 2 og 3 til anvendelse. Departementet er klageinstans for enkeltvedtak truffet av foretakene, når ikke særskilt klageinstans er fastsatt i lov eller forskrift. Departementet kan gi forskrift om hvem som skal være klageinstans for enkeltvedtak fattet av foretakene.\nLov 18. juli 1958 nr. 2 om offentlige tjenestetvister og lov 16. juni 2017 nr. 67 om statens ansatte mv. gjelder ikke for foretak.\nKonkurs og gjeldsforhandling etter konkursloven kan ikke åpnes i foretak. Foretakenes eiendeler kan ikke være gjenstand for utlegg eller arrest.\nForetakene regnes som organer etter arkivlova § 2 bokstav h.\n0 Endret ved lover 19 mai 2006 nr. 16 (ikr. 1 jan 2009 iflg. res. 17 okt 2008 nr. 1118), 10 juni 2022 nr. 37, 20 juni 2025 nr. 96 (i kraft 1 jan 2026 iflg. res. 12 des 2025 nr. 2510).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Partsstilling",
+      "content": "Foretaket har selv rettigheter og plikter, er part i avtaler med private og offentlige myndigheter og har partsstilling overfor domstoler og andre myndigheter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Ansvar for foretakets forpliktelser",
+      "content": "Eier hefter ubegrenset for foretakets forpliktelser. Når flere foretak eier virksomhet sammen, blir samtlige eiere ansvarlige for virksomhetens forpliktelser.\nEn fordringshaver må først gjøre krav gjeldende mot foretaket. En fordringshaver som har krevd foretaket for klar og forfalt gjeld som ikke er betryggende sikret, kan gjøre kravet gjeldende mot en eier. For å gjøre kravet gjeldende mot en eier må fordringshaveren tidligst fire uker etter første påkrav sende ytterligere et påkrav til den opprinnelige skyldneren med betalingsfrist på minst fire uker, og betaling må ikke være mottatt innen utløpet av fristen.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Opprettelse av regionale helseforetak",
+      "content": "Kongen i statsråd treffer vedtak om å opprette regionalt helseforetak. Vedtaket skal uttrykkelig benevne foretaket som regionalt helseforetak og skal inneholde foretakets vedtekter. Det skal dessuten inneholde bestemmelser om:\n1. hvem som skal være medlemmer av styret, herunder styrets leder og nestleder,\n2. hvem som skal være foretakets revisor,\n3. statens innskudd, herunder hvilke sykehus og andre institusjoner foretaket skal overta ved opprettelsen.\nDet regionale helseforetaket er stiftet når Kongen har truffet vedtak etter første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Opprettelse av helseforetak",
+      "content": "Utøvende virksomhet skal organiseres som helseforetak. Styret selv i regionale helseforetak eller helseforetak treffer vedtak om å opprette helseforetak. Vedtaket skal uttrykkelig benevne foretaket som helseforetak og inneholde foretakets vedtekter. Det skal dessuten inneholde bestemmelser om:\n1. hvem som skal være medlem av styret, herunder styrets leder og nestleder,\n2. hvem som skal være foretakets revisor,\n3. eierens innskudd.\nHelseforetaket er stiftet når styret i eiende foretak har truffet vedtak etter første ledd. Dersom flere foretak stifter et helseforetak for å eie det sammen, må styrene dessuten inngå en skriftlig selskapsavtale.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Vedtekter for regionale helseforetak",
+      "content": "Regionalt helseforetak skal ha vedtekter som i det minste skal angi:\n1. det regionale helseforetakets navn,\n2. den helseregion det regionale helseforetaket omfatter,\n3. det regionale helseforetakets formål,\n4. den kommune der det regionale helseforetaket skal ha sitt hovedkontor,\n5. antall styremedlemmer, eller laveste og høyeste antall styremedlemmer,\n6. helsepolitiske, utdanningspolitiske og forskningspolitiske målsettinger og hovedoppgaver, samt nærmere bestemmelser om universitets- eller høgskolens rettigheter i tilknytning til disse oppgavene,\n7. bestemmelser om låneopptak, jf. § 33,\n8. hvilke saker eller typer av saker som skal forelegges departementet, jf. § 30,\n9. nærmere regler om melding til departementet om foretaket og foretakets virksomhet, jf. § 34.\nAlle foretakene skal ha en og samme arbeidsgivertilknytning. Kongen i statsråd bestemmer hvilken arbeidsgivertilknytning foretakene skal ha. Vedtektene skal angi hvilken arbeidsgivertilknytning Kongen har bestemt at foretakene skal ha.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Vedtekter i helseforetak",
+      "content": "Helseforetak skal ha vedtekter som i det minste skal angi:\n1. foretakets navn,\n2. foretak som eier helseforetaket,\n3. foretakets virksomhet, herunder hvilke helsetjenester som skal ytes, og hvilke undervisningsoppgaver og forskningsoppgaver helseforetaket skal ha, samt nærmere bestemmelser om universitetets- eller høgskolens rettigheter i tilknytning til disse oppgavene,\n4. den kommune der helseforetaket har sitt hovedkontor,\n5. antall styremedlemmer, eller laveste og høyeste antall styremedlemmer,\n6. helsepolitiske, utdanningspolitiske og forskningspolitiske målsettinger og oppgaver,\n7. nærmere regler om rapportering til eieren om foretaket og foretakets virksomhet,\n8. bestemmelser om låneopptak, jf. § 33,\n9. hvilke saker eller typer saker som skal forelegges departementet, jf. § 30,\n10. hvilken arbeidsgivertilknytning helseforetaket skal ha, jf. § 10 annet ledd.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Vedtektsendringer",
+      "content": "Endringer i vedtektene vedtas av foretaksmøtet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Registrering i Foretaksregisteret",
+      "content": "Foretak skal meldes til Foretaksregisteret senest tre måneder etter at vedtak om å opprette foretak er truffet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Foretakets egenkapital",
+      "content": "Foretaket skal ha en egenkapital som står i forsvarlig forhold til foretakets virksomhet.\nHvis det må antas at foretakets egenkapital er lavere enn forsvarlig ut fra risikoen ved og omfanget av virksomheten, skal styret straks behandle saken. Styret skal innen rimelig tid varsle foretakets eier, eller foretakets eiere, gi en redegjørelse for foretakets økonomiske stilling og foreslå tiltak som vil gi foretaket en forsvarlig egenkapital.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Disponering av foretakets midler",
+      "content": "Disponering av foretakets midler besluttes av foretaksmøtet etter forslag fra styret, eller med styrets samtykke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "title": "Eierstyring. Foretaksmøtets myndighet mv.",
+      "content": "Eiere utøver den øverste myndighet i foretak i foretaksmøte. Eier kan ikke utøve eierstyring i foretak utenom foretaksmøte.\nEier kan avholde felles foretaksmøte for foretak med en eier.\nEiere kan utenfor foretaksmøte tildele foretak bevilgning og sette vilkår for tildelingen.\nDepartementet skal årlig avholde foretaksmøte i løpet av årets to første måneder for å fastsette økonomiske og organisatoriske krav og rammer for regionale helseforetak.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:16 a",
+      "chapter": "5",
+      "section": "16 a",
+      "title": "Departementets innhenting av opplysninger fra regionale helseforetak",
+      "content": "Departementet skal holde seg orientert om foretakenes virksomhet og om virksomheten drives i samsvar med de krav som er stilt i foretaksmøter og de vilkår som er satt for tildeling av bevilgning. Departementet skal innhente skriftlige opplysninger fra regionale helseforetak og avholde rapporteringsmøter. Rapporteringsmøte kan holdes utenom foretaksmøte.\n0 Tilføyd ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16a",
+        "source_heading": "§ 16a."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Ledelsens rett og plikt til å være til stede i foretaksmøtet",
+      "content": "Styreleder og daglig leder skal være til stede i foretaksmøtet. Ved forfall skal det utpekes en stedfortreder. Andre styremedlemmer kan være til stede i foretaksmøtet.\nStyremedlemmer og daglig leder har rett til å uttale seg i foretaksmøtet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Innkalling til foretaksmøtet",
+      "content": "Eieren innkaller til foretaksmøte og bestemmer innkallingsmåten. Innkallingen skal skje med minst en ukes varsel, med mindre kortere frist i særlige tilfeller er nødvendig. Til møtet innkalles daglig leder, styrets medlemmer og dessuten revisor som reviderte foretakets årsregnskap, dersom de saker som skal behandles er av en slik art at revisors nærvær kan være ønskelig. Revisor skal ellers innkalles når Riksrevisjonen krever det. Etter innkalling har revisor plikt til å møte i foretaksmøtet.\nInnkallingen skal klart angi de saker som skal behandles i foretaksmøtet. Forslag om å endre vedtektene skal gjengis i innkallingen.\nEiere kan bestemme at foretaksmøtet holdes som video- eller telefonmøte.\nForetaksmøtet kan ikke treffe vedtak i andre saker enn de som er nevnt i innkallingen, med mindre samtlige av de som har rett til å være tilstede etter § 17 samtykker i det. Det kan ikke gis samtykke til å vedta andre endringer i vedtektene enn de forslagene til endringer som er gjengitt i innkallingen.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Saksbehandlingen i foretaksmøtet",
+      "content": "Foretaksmøtet ledes av eieren. Eieren kan overlate til styrets leder å lede foretaksmøtet.\nForetaksmøter for helseforetak ledes av styrets leder.\nMøtelederen skal sørge for at det føres protokoll for foretaksmøtet. Foretaksmøtets beslutninger skal gjengis i protokollen. Protokollen skal undertegnes av møtelederen og en annen person som velges blant de tilstedeværende. Er noen av de som etter § 17 har rett til å være til stede uenig i eierens beslutning, skal deres oppfatning føres inn i protokollen.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "6:20",
+      "chapter": "6",
+      "section": "20",
+      "title": "Foretakets ledelse",
+      "content": "Et foretak ledes av et styre og en daglig leder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "6:21",
+      "chapter": "6",
+      "section": "21",
+      "title": "Styrets sammensetning mv.",
+      "content": "Styret skal ha minst fem medlemmer. I helseforetak skal styret ha minst syv medlemmer når de ansatte har representasjon i henhold til § 23 annet ledd. Reglene i aksjeloven § 20-6 om representasjon av begge kjønn i styret gjelder tilsvarende.\nForetakets daglige leder kan ikke være medlem av styret. Daglig leder av et helseforetak kan ikke være medlem av styret i det regionale helseforetaket som eier helseforetaket.\nStyremedlemmene velges av foretaksmøtet med de unntak som følger av §§ 22 og 23. I regionalt helseforetak skal styremedlemmene som velges av foretaksmøtet, ha tilknytning til den regionen som foretaket hører under. Styremedlemmenes godtgjørelse fastsettes av foretaksmøtet.\nStyret skal ha en leder og en nestleder som velges av foretaksmøtet. Det kan bestemmes i vedtektene at styret velger leder og nestleder blant de styremedlemmene som foretaksmøtet har valgt.\n0 Endret ved lover 19 des 2003 nr. 120 (ikr. 1 jan 2004), 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "6:21 a",
+      "chapter": "6",
+      "section": "21 a",
+      "title": "Styrets revisjonsutvalg",
+      "content": "Styret i regionalt helseforetak velger blant sine medlemmer minst tre personer til styrets revisjonsutvalg. Begge kjønn skal være representert. Styreleder kan ikke velges. Minst ett av medlemmene skal ha kunnskap om regnskap eller revisjon.\nStyret tilsetter leder for internrevisjonen og fastsetter instruks og årsplaner for internrevisjonen.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21a",
+        "source_heading": "§ 21a."
+      }
+    },
+    {
+      "provision_ref": "6:22",
+      "chapter": "6",
+      "section": "22",
+      "title": "Ansattes styrerepresentasjon i regionalt helseforetak",
+      "content": "Inntil en tredel og minst to av styrets medlemmer med varamedlemmer skal velges av og blant de ansatte i regionalt helseforetak og helseforetak som regionalt helseforetak eier.\nKongen kan gi forskrift om valget, herunder om vilkår for stemmerett og valgbarhet, valgmåten og om avgjørelse av tvister om valget, samt om bortfall av vervet som styremedlem. I vedtektene kan det fastsettes at de av styrets medlemmer som er valgt etter første ledd, ikke deltar i behandlingen av saker som gjelder arbeidsgivers forberedelse til forhandlinger med arbeidstakere, arbeidskonflikter, rettstvister med arbeidstakerorganisasjoner eller oppsigelse av tariffavtaler.\n0 Endret ved lover 19 des 2003 nr. 120 (ikr. 1 jan 2004), 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "6:23",
+      "chapter": "6",
+      "section": "23",
+      "title": "Ansattes styrerepresentasjon i helseforetak",
+      "content": "I helseforetak som har flere enn 30 ansatte, kan et flertall av de ansatte kreve at inntil en tredel og minst to av styrets medlemmer med varamedlemmer, velges av og blant de ansatte.\nHar helseforetaket flere enn 200 ansatte, skal de ansatte velge ett styremedlem og varamedlem i tillegg til den representasjon som følger av første ledd. Det kan inngås avtale mellom helseforetaket og fagforening som omfatter to tredeler av de ansatte eller et flertall av de ansatte, om at de ansatte i stedet for dette styremedlemmet skal velge to observatører og varamedlemmer.\nKongen kan gi forskrift om beregningen av antall ansatte, herunder om bruk av gjennomsnittstall. § 22 annet ledd gjelder tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "6:24",
+      "chapter": "6",
+      "section": "24",
+      "title": "Tjenestetid",
+      "content": "Styremedlemmene velges for to år. I vedtektene kan det fastsettes kortere eller lengre tjenestetid, likevel ikke lengre enn fire år. Kortere tjenestetid kan fastsettes ved suppleringsvalg.\nEt styremedlem blir stående inntil nytt styremedlem er valgt selv om tjenestetiden er utløpt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "Opphør av styreverv før tjenestetiden er utløpt",
+      "content": "Når særlige forhold foreligger, har et styremedlem rett til å tre tilbake før tjenestetiden er ute. Styret og den som har valgt styremedlemmet skal gis rimelig forhåndsvarsel.\nEt styremedlem kan avsettes av den som har valgt styremedlemmet. Dette gjelder ikke et styremedlem som er valgt etter §§ 22 eller 23.\nI forbindelse med omorganisering av foretak kan det foretas nytt valg eller suppleringsvalg av styremedlem som er valgt etter §§ 22 eller 23. Departementet kan i forskrift fastsette nærmere bestemmelser om slike valg.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "Styremøter",
+      "content": "Styrets leder sørger for at styret holder møter så ofte som det trengs. Medlem av styret og daglig leder kan kreve at styret sammenkalles.\nMed mindre styret i det enkelte tilfellet bestemmer noe annet, har daglig leder rett og plikt til å være til stede og rett til å uttale seg på styremøter.\nStyremøter ledes av lederen, eller i hans fravær, av nestlederen. Er ingen av disse til stede, velger styret selv sin møteleder.\nVed styremøter skal det føres protokoll som underskrives av samtlige tilstedeværende styremedlemmer. Styremedlem eller daglig leder som er uenig i styrets beslutning, kan kreve sin oppfatning innført i protokollen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:26 a",
+      "chapter": "6",
+      "section": "26 a",
+      "title": "Åpne styremøter",
+      "content": "Styremøter i foretak skal holdes for åpne dører hvis ikke annet følger av lovbestemt taushetsplikt eller av vedtak etter annet ledd.\nDersom det foreligger et reelt og saklig behov, kan styret vedta å behandle en sak for lukkede dører i følgende tilfeller:\n1. Av hensyn til personvernet. Personalsaker skal alltid behandles for lukkede dører.\n2. Orientering om sak som er på et forberedende stadium i saksbehandlingen i foretaket.\n3. Informasjon om lovbrudd, saksanlegg eller av hensyn til foretakets partsstilling i sak for norsk domstol.\n4. Av hensyn til forsvarlig gjennomføring av økonomi-, lønns-, eller personalforvaltningen til foretaket.\n5. Saker som gjelder tilbud og protokoll etter regelverket om offentlige anskaffelser til valget av leverandør er gjort.\nVurderingen av om møtet eller deler av møtet skal foregå for lukkede dører, skal gjøres på møtetidspunktet.\n0 Tilføyd ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26a",
+        "source_heading": "§ 26a."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Vedtaksførhet og flertallskrav",
+      "content": "Styret har vedtakskompetanse når mer enn halvparten av samtlige styremedlemmer er til stede. Styret kan ikke treffe beslutning med mindre alle medlemmer av styret så vidt mulig er gitt mulighet til å delta i behandlingen av saken. Har et styremedlem forfall og det finnes varamedlem, skal varamedlemmet gis mulighet til å møte.\nSom styrets beslutning gjelder det som flertallet av de møtende har stemt for, dersom ikke annet er fastsatt i vedtektene. Ved stemmelikhet er møtelederens stemme avgjørende. De som stemmer for et forslag, må likevel utgjøre mer enn en tredel av samtlige styremedlemmer for at forslaget skal anses som vedtatt.\nVed valg og ansettelser anses den valgt eller ansatt som får flest stemmer. Styret kan på forhånd bestemme at det skal holdes ny avstemning dersom ingen får flertall av de avgitte stemmene. Står stemmetallet likt ved valg av styreleder, nestleder eller møteleder, avgjøres valget ved loddtrekning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "7:28",
+      "chapter": "7",
+      "section": "28",
+      "title": "Styrets oppgaver",
+      "content": "Forvaltningen av foretaket hører under styret som har ansvar for en tilfredsstillende organisering av foretakets samlede virksomhet.\nStyret skal fastsette budsjett og planer for foretakets virksomhet.\nStyret skal holde seg orientert om foretakets virksomhet og økonomiske stilling. Det skal føre tilsyn med at virksomheten drives i samsvar med målene som er nedfelt i § 1, foretakets vedtekter, vedtak truffet av foretaksmøtet og vedtatte planer og budsjetter.\nI regionalt helseforetak omfatter styrets plikter etter tredje ledd også helseforetak som foretaket eier.\nStyret skal sørge for at bokføring og formueforvaltning er gjenstand for betryggende kontroll.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "7:29",
+      "chapter": "7",
+      "section": "29",
+      "title": "Styrets tilsyn med daglig leder",
+      "content": "Styret skal føre tilsyn med daglig leder og kan fastsette instruks for denne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "7:30",
+      "chapter": "7",
+      "section": "30",
+      "title": "Saker av vesentlig betydning",
+      "content": "Foretaksmøtet i regionalt helseforetak treffer vedtak i saker som antas å være av vesentlig betydning for foretakets virksomhet eller løsningen av fastsatte målsettinger eller oppgaver. Det samme gjelder vedtak i andre saker som antas å ha prinsipielle sider av betydning eller som antas å kunne ha vesentlige samfunnsmessige virkninger, som:\n1. Vedtak som kan endre virksomhetens karakter\n2. Vedtak om nedleggelse av sykehus.\n3. Omfattende endringer i sykehusstrukturen i helseregionen.\n4. Omfattende endringer i tjenestetilbudet.\n5. Vedtak om endringer i antallet helseforetak i helseregionen.\n6. Vedtak om vesentlige endringer i opptaksområdet for helseforetak.\nHvilke saker foretaksmøtet i regionalt helseforetak skal fatte vedtak i etter denne bestemmelsen, kan det fastsettes nærmere bestemmelser om i vedtektene.\nSaker som nevnt i første og annet ledd skal forelegges departementet av styret i det regionale helseforetaket.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "7:31",
+      "chapter": "7",
+      "section": "31",
+      "title": "Salg av foretakets faste eiendommer mv.",
+      "content": "Vedtak om å pantsette eller avhende fast eiendom treffes av foretaksmøtet etter forslag fra styret.\nNår foretaksmøte i helseforetak skal fatte vedtak etter denne bestemmelsen, skal saken legges fram for departementet før vedtak fattes. Det kan i vedtektene gjøres unntak fra denne bestemmelsen i tilfeller hvor eiendommens verdi ikke overstiger et nærmere bestemt beløp.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "7:32",
+      "chapter": "7",
+      "section": "32",
+      "title": "Salg av sykehusvirksomhet",
+      "content": "Sykehusvirksomhet kan ikke selges uten Stortingets samtykke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "7:33",
+      "chapter": "7",
+      "section": "33",
+      "title": "Lån og garantier",
+      "content": "Foretak kan ikke ta opp lån med mindre det er særskilt fastsatt i vedtektene at det skal ha slik adgang. Nærmere bestemmelser om låneopptak fastsettes i vedtektene.\nForetaket kan ikke stille garanti eller pantsette sine eiendeler til sikkerhet for andres økonomiske forpliktelser.\n0 Endret ved lover 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 22 juni 2012 nr. 46, 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "7:34",
+      "chapter": "7",
+      "section": "34",
+      "title": "Årlig melding om virksomheten mv. i regionalt helseforetak",
+      "content": "Regionalt helseforetak skal hvert år utarbeide en melding om foretaket og foretakets virksomhet som forelegges departementet. Meldingen skal også omfatte de helseforetak som det regionale helseforetaket eier.\nMeldingen skal blant annet redegjøre for virksomheten i det foregående år, herunder skal det redegjøres for gjennomføringen av krav departementet har stilt til virksomheten. Meldingen skal inneholde en plan for virksomheten i de kommende år.\nNærmere regler om meldingens innhold og frist for å forelegge den for departementet fastsettes i vedtektene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "7:35",
+      "chapter": "7",
+      "section": "35",
+      "title": "Pasienters og andre brukeres innflytelse",
+      "content": "Regionalt helseforetak skal sørge for at representanter for pasienter og andre brukere blir hørt i forbindelse med utarbeidelse av plan i henhold til § 34 annet ledd annet punktum.\nRegionalt helseforetak skal sørge for at virksomheter som yter spesialisthelsetjenester og andre tjenester som hører naturlig sammen med dette, etablerer systemer for innhenting av pasienters og andre brukeres erfaringer og synspunkter.\nRegionalt helseforetak skal sørge for at den enkelte pasients utvidede rett til bruk av samisk språk i spesialisthelsetjenesten blir ivaretatt, jf. sameloven § 3-1 nr. 4 og § 3-5.\n0 Endret ved lov 22 juni 2012 nr. 46.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "8:36",
+      "chapter": "8",
+      "section": "36",
+      "title": "Daglig leder",
+      "content": "Foretaket skal ha en daglig leder som tilsettes av styret, som også fastsetter daglig leders lønn. Styret treffer vedtak om å si opp eller avskjedige daglig leder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "8:37",
+      "chapter": "8",
+      "section": "37",
+      "title": "Daglig leders myndighet",
+      "content": "Daglig leder forestår den daglige ledelsen av foretaket og skal følge de retningslinjer og pålegg som styret har gitt.\nDaglig leder i regionalt helseforetak skal også føre tilsyn med helseforetak som det regionale helseforetaket eier, og skal påse at virksomheten der er i samsvar med det regionale helseforetakets vedtekter og vedtak truffet av foretaksmøtet og styret.\nDen daglige ledelsen omfatter ikke saker som etter foretakets forhold er av uvanlig art eller av stor betydning. Slike saker kan daglig leder bare avgjøre når styret i den enkelte sak har gitt daglig leder myndighet til det, eller når styrets beslutning ikke kan avventes uten vesentlig ulempe for foretakets virksomhet. Styret skal i så fall snarest underrettes om saken.\nDaglig leder skal sørge for at foretakets registrering og dokumentasjon av regnskapsopplysninger er i samsvar med lov og forskrifter og at formuesforvaltningen er ordnet på betryggende måte.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "8:37 a",
+      "chapter": "8",
+      "section": "37 a",
+      "title": "Internrevisjon",
+      "content": "De regionale helseforetakene skal etablere en uavhengig og objektiv internrevisjon.\nInternrevisjonen skal gjennom en systematisk og strukturert metode og avgivelse av bekreftelse bidra til forbedringer i risikostyring, internkontroll og virksomhetsstyring. Internrevisjonen skal rapportere funksjonelt til styret og administrativt til daglig leder. Internrevisjonen skal også omfatte helseforetakene som det regionale helseforetaket eier, og inngåelse og oppfølging av avtaler med andre tjenesteytere.\nInternrevisjonen skal gjennomføres i henhold til anerkjente standarder og løpende følge virksomheten.\nInternrevisjonen kan, uten hinder av taushetsplikt, kreve enhver opplysning, redegjørelse eller ethvert dokument og foreta de undersøkelser som den finner nødvendig for å gjennomføre oppgavene. Opplysningene skal så langt det er mulig gis uten individualiserende kjennetegn. Reglene om taushetsplikt gjelder tilsvarende for den som mottar opplysningene.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37a",
+        "source_heading": "§ 37a."
+      }
+    },
+    {
+      "provision_ref": "8:38",
+      "chapter": "8",
+      "section": "38",
+      "title": "Daglig leders rapportering til styret",
+      "content": "Daglig leder skal minst hver fjerde måned gi styret skriftlig underretning om foretakets virksomhet. I regionalt helseforetak skal underretningen også omfatte virksomheten til de helseforetak som det regionale helseforetaket eier. Det skal særlig redegjøres for foretakets stilling og utvikling i forhold til vedtatte planer og budsjetter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "9:39",
+      "chapter": "9",
+      "section": "39",
+      "title": "Foretakets representasjon",
+      "content": "Styret representerer foretaket utad og tegner dets firma.\nStyret kan gi styremedlem eller daglig leder rett til å tegne foretakets firma. Vedtektene kan begrense styrets myndighet etter forrige punktum og også selv gi bestemmelser om fullmakt som der nevnt.\nDaglig leder representerer foretaket utad i saker som faller inn under dennes myndighet etter § 37.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "9:40",
+      "chapter": "9",
+      "section": "40",
+      "title": "Overskridelse av representasjonsretten",
+      "content": "Har noen som representerer foretaket utad etter reglene i § 39 ved disposisjon på selskapets vegne gått ut over sin myndighet, er disposisjonen ikke bindende for foretaket når foretaket godtgjør at medkontrahenten forsto eller burde ha forstått at myndighet ble overskredet, og det ville stride mot redelighet å gjøre disposisjonen gjeldende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "10:41",
+      "chapter": "10",
+      "section": "41",
+      "title": "Samarbeid med andre",
+      "content": "Foretak skal samarbeide med andre når dette er nødvendig for å fremme foretakets formål eller det er pålagt eller forutsatt i lovgivningen. Foretaket skal også samarbeide med andre når dette er egnet til å fremme de oppgaver og målsettinger foretaket skal ivareta.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "10:42",
+      "chapter": "10",
+      "section": "42",
+      "title": "Ansvarsform for virksomhet eid av foretak",
+      "content": "Foretak kan ikke eie hele eller deler av virksomhet som yter spesialisthelsetjenester og som er organisert med begrenset ansvar. Virksomhet som yter spesialisthelsetjenester skal organiseres som helseforetak.\nForetak kan ikke eie virksomhet som yter spesialisthelsetjenester sammen med andre enn foretak. Dersom flere foretak eier virksomhet som yter spesialisthelsetjenester sammen, skal virksomheten organiseres som helseforetak eller som ansvarlig selskap i medhold av selskapsloven.\nNår det er egnet til å fremme foretakets formål, kan foretak eie virksomhet som ikke yter spesialisthelsetjenester alene eller sammen med andre. Kun virksomhet som er en nødvendig og sentral forutsetning for at det kan ytes spesialisthelsetjenester, kan organiseres som helseforetak. Annen virksomhet skal organiseres som selskaper med begrenset ansvar.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "11:43",
+      "chapter": "11",
+      "section": "43",
+      "title": "Regnskap mv.",
+      "content": "Regnskapslovens bestemmelser gjelder for foretak. Departementet kan i forskrift utfylle eller fravike bestemmelser i regnskapsloven om regnskapsføring av pensjonsforhold.\nÅrsregnskap og årsberetning skal godkjennes av foretaksmøtet.\n0 Endret ved lov 20 juni 2025 nr. 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "11:44",
+      "chapter": "11",
+      "section": "44",
+      "title": "Revisjon",
+      "content": "Foretak skal ha revisor som velges av foretaksmøtet.\nForetaksmøtet godkjenner revisors godtgjørelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "11:45",
+      "chapter": "11",
+      "section": "45",
+      "title": "Riksrevisjonens kontroll",
+      "content": "Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan foreta undersøkelser mv. i regionalt helseforetak, helseforetak og heleide datterselskaper til slike foretak etter lov om Riksrevisjonen og instruks fastsatt av Stortinget.\n0 Endret ved lov 7 mai 2004 nr. 21 (ikr. 1 juli 2004).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "12:46",
+      "chapter": "12",
+      "section": "46",
+      "title": "Vedtak om oppløsning",
+      "content": "Foretaksmøtet treffer vedtak om oppløsning av foretaket.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "12:47",
+      "chapter": "12",
+      "section": "47",
+      "title": "Avviklingsstyre mv.",
+      "content": "Når foretaksmøtet har truffet vedtak om oppløsning etter § 46, skal det snarest velges avviklingsstyre og gis nærmere regler om avviklingsmåten. Avviklingsstyret velger selv leder og nestleder hvis ikke foretaksmøtet har gjort det.\nNår avviklingsstyret er valgt, trer det ordinære styret ut av funksjon.\nBeslutning om oppløsning skal straks meldes til Foretaksregisteret. Foretaksregisteret skal samtidig med registrering av meldingen kunngjøre beslutningen i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon og varsle foretakets fordringshavere om at de må melde seg til foretaket innen seks uker fra kunngjøringen.\nNår varslingsfristen overfor kreditorene er utløpt og foretakets forpliktelser eventuelt er dekket, skal avviklingsstyret legge et skriftlig forslag til avviklingsoppgjør frem for foretaksmøtet til godkjenning.\nNår avviklingsoppgjøret er godkjent av foretaksmøtet, skal avviklingsstyret straks melde fra til Foretaksregisteret om at foretaket er avviklet.\n0 Endret ved lover 5 sep 2003 nr. 92 (ikr. 1 jan 2004 iflg. res. 5 sep 2003 nr. 1119), 14 juni 2013 nr. 41 (ikr. 1 juli 2013 iflg. res. 14 juni 2013 nr. 638).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "12:48",
+      "chapter": "12",
+      "section": "48",
+      "title": "Ansvar etter avviklingen",
+      "content": "Etter at foretaket er avviklet, svarer i regionalt helseforetak staten og i helseforetak det foretaket eller de foretakene som eide helseforetaket, overfor kreditorer som ikke har fått dekning.\nKrav som forfaller innen tre år etter det tidspunktet da avviklingen av foretaket ble registrert i Foretaksregisteret, foreldes senest tre år etter registreringen, men likevel ikke tidligere enn seks måneder etter forfall. For øvrig gjelder de alminnelige reglene om foreldelse.\nFor krav som forfaller etter utløpet av treårsfristen, gjelder foreldelseslovens alminnelige regler.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "13:49",
+      "chapter": "13",
+      "section": "49",
+      "title": "Erstatningsansvar",
+      "content": "Styremedlem, daglig leder og medlem av avviklingsstyret plikter å erstatte tap som vedkommende forsettlig eller uaktsomt har voldt foretaket, foretakets eier eller andre under utførelsen av sin oppgave.\nErstatningsansvar etter første ledd kan lempes etter lov 13. juni 1969 nr. 26 om skadeserstatning § 5-2.\nBeslutning om at foretaket skal gjøre ansvar gjeldende, treffes av foretaksmøtet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "14:50",
+      "chapter": "14",
+      "section": "50",
+      "title": "Omdanning",
+      "content": "Fylkeskommunal, kommunal og statlig virksomhet eller del av slik virksomhet kan overføres til regionalt helseforetak eller helseforetak ved at eiendeler, rettigheter, herunder offentlige tillatelser, og forpliktelser som er knyttet til virksomheten, overføres som en helhet til foretaket.\nOverføring til foretaket av forpliktelser knyttet til fylkeskommunen, kommunen og staten har frigjørende virkning for denne. Fordringshavere og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at overføringen utgjør en bortfallsgrunn for rettsforholdet.\nDet skal ikke betales dokumentavgift etter § 6 i lov 12. desember 1975 nr. 59 om dokumentavgift, omregistreringsavgift etter § 1 i lov 19. juni 1959 nr. 2 om avgifter vedrørende kjøretøy og båter eller rettsgebyr etter § 21 i lov 17. desember 1982 nr. 86 om rettsgebyr i forbindelse med omdanninger i medhold av denne bestemmelsen.\nDet som er bestemt i paragrafen her, gjelder tilsvarende ved overføring av virksomhet til foretak etter loven her fra heleid fylkeskommunalt, kommunalt og statlig selskap eller foretak.\nBestemmelsene i paragrafen her gjelder også ved overføring av virksomhet mellom foretak etter loven her. Forrige punktum medfører ingen begrensninger i ansvaret etter § 7.\n0 Endret ved lov 14 des 2012 nr. 86 (ikr. 1 jan 2013 iflg. res. 14 des 2012 nr. 1210).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "15:51",
+      "chapter": "15",
+      "section": "51",
+      "title": "Ikraftsetting",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.\n1 Fra 1 juli 2001 for § 1 til § 21, § 23 til § 51, § 52 nr. 1, nr. 2, nr. 3, nr. 9, nr. 10 og nr. 11 og § 53 nr. 5, nr. 6, nr. 8, nr. 11 og nr. 17 iflg. res. 15 juni 2001 nr. 669.Fra 1 jan 2002 for resten av loven iflg. res. 14 des 2001 nr. 1417.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "15:52",
+      "chapter": "15",
+      "section": "52",
+      "title": "Overgangsbestemmelser​1",
+      "content": "1. Kongen kan gi nærmere overgangsbestemmelser.\n2. Dersom regionalt helseforetak opprettes før bestemmelsen om statens ansvar for spesialisthelsetjenester, jf. lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. § 2-1, trer i kraft, skal fylkeskommunene gi staten nødvendig innsyn i og tilgang til fylkeskommunens virksomhet.\n3. Tjenestemannsloven § 13 nr. 2 til 6 om fortrinnsrett til annen statsstilling og ventelønn skal ved omdanning av den statlige spesialisthelsetjenesten til statlige helseforetak fortsatt gjelde for arbeidstakere som blir sagt opp på grunn av forhold som nevnt i tjenestemannsloven § 13 nr. 1 bokstavene a, b og c. Fortrinnsrett til annen statsstilling og ventelønn etter første punktum opphører tre år etter omdanning til helseforetak. Første og annet punktum gjør ingen innskrenkninger i rettighetene arbeidstakeren har etter arbeidsmiljøloven​2 §§ 60 nr. 2 og 67.\n4. Regionale helseforetak trer inn i og overtar fylkeskommunenes rettigheter og plikter etter avtaler som foreligger ved lovens ikraftsetting mellom fylkeskommuner og legespesialister og spesialister i klinisk psykologi, om hel eller delvis godtgjøring av utgifter til drift av privat praksis.\n5. Staten dekker delvis utgiftene til renter og avdrag for byggearbeider ved private sykehus som har inngått i en regional helseplan og har mottatt tilskudd til drift og vedlikehold fra en fylkeskommune dersom:\na. byggearbeider anslått til samlet mer enn 50 millioner kroner er godkjent av departementet før lovens ikraftsetting, eller\nb. byggearbeider anslått til samlet mindre enn 50 millioner kroner er vedtatt av fylkestinget før lovens ikraftsetting.\nDersom fylkeskommunen har avtale med sykehuset om å dekke tilsvarende utgifter til renter og avdrag som nevnt i første ledd, trer staten inn i denne avtalen i fylkeskommunens sted i stedet for å foreta utbetaling til sykehuset etter bestemmelsene i første ledd.\nKongen kan gi forskrift om beregning og utbetaling av statens tilskudd etter første ledd.\n6. Fra og med ikraftsettingen av denne loven har staten ved regionale helseforetak, rett og plikt til å overta alle formuesposisjoner som er knyttet til offentlige virksomheter innen spesialisthelsetjenestene somatisk helsevern, psykisk helsevern, rehabiliterings- og habiliteringstjenester, medisinsk nødmeldetjeneste og ambulansetjenester. Videre overtar staten alle formuesposisjoner som er knyttet til virksomhetene offentlige sykehusapotek og alle formuesposisjoner som er knyttet til offentlige tiltak for rusmiddelmisbrukere og som er organisert etter spesialisthelsetjenesteloven. Staten ved regionale helseforetak overtar alle fylkeskommunalt eide formuesposisjoner som er knyttet til universitets- og høgskolefunksjoner. Overtakelsen skal omfatte alle rettigheter og plikter som er knyttet til virksomhetene. Lov 6. april 1984 nr. 17 om vederlag ved oreigning av fast eiendom, får ikke anvendelse på overtakelsen.\nDersom det åpenbart ikke er naturlig sammenheng mellom en virksomhet og rettigheter som er knyttet til virksomheten, kan det besluttes at staten ikke har rett eller plikt til å overta slike rettigheter dersom det er rimelig at fylkeskommunen eller kommunen beholder dem.\n7. Dersom det i forbindelse med overføring til staten av rettigheter og plikter, som nevnt i nr. 6 første ledd, overføres gjeld eller andre forpliktelser knyttet til virksomhetene, er det frigjørende for fylkeskommunen og kommunen.\nKreditor og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at den utgjør en bortfallsgrunn for rettsforholdet.\n8. Det skal ikke betales dokumentavgift etter § 6 i lov 12. desember 1975 nr. 59 om dokumentavgift, omregistreringsavgift etter § 1 i lov 19. juni 1959 nr. 2 om avgifter vedrørende kjøretøy og båter eller rettsgebyr etter §§ 21 og 24 i lov 17. desember 1982 nr. 86 om rettsgebyr i forbindelse med statens overtakelse av formuesposisjoner som er en direkte følge av denne loven.\n9. Både staten og vedkommende fylkeskommune kan kreve at spørsmål som gjelder nærmere klargjøring og konkretisering av hvilke formuesposisjoner staten har rett og plikt til å overta fra den enkelte fylkeskommune etter nr. 6 første og annet ledd, skal avgjøres av en nemnd. Nemnda vurderer ikke hvilke konkrete gjeldsforpliktelser staten har rett og plikt til å tre inn i. Hvilke regionale helseforetak som skal overta de enkelte formuesposisjoner besluttes av departementet.\nNemnda skal ha syv medlemmer. Departementet oppnevner tre medlemmer og varamedlemmer for disse til nemnda. Kommunenes Sentralforbund oppnevner tre medlemmer og varamedlemmer for disse til nemnda. I tillegg utpeker førstelagmannen i Borgarting leder for nemnda og leders varamedlem. Nemndas leder og leders varamedlem skal ha de egenskapene som er foreskrevet for dommere, se domstolsloven § 53, jf. § 54 annet ledd.\nNemndas avgjørelse, som treffes ved kjennelse, skal være begrunnet.\nUtgiftene til nemndas virksomhet fastsettes og dekkes av departementet. Departementet kan gi nærmere regler for nemndas virksomhet.\n10. Spørsmål om rettigheter og plikter etter nr. 6 første og annet ledd, kan ikke bringes inn for de alminnelige domstoler før muligheten til å få saken avgjort av nemnd opprettet etter nr. 9 annet ledd, er nyttet.\n11. Klage over beslutninger truffet i medhold av denne loven, gir ikke oppsettende virkning for statens rettigheter og plikter etter nr. 6.\n1 Iflg. res. 15 juni 2001 nr. 669 trådte nr. 1, nr. 2, nr. 3, nr. 9, nr. 10 og nr. 11 ikr. 1 juli 2001. Iflg. res. 14 des 2001 nr. 1417 trådte resten av paragrafen ikr. 1 jan 2002.\n2 Inkurie: Lov 4 feb 1977 nr. 4, se nå lov 17 juni 2005 nr. 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "15:53",
+      "chapter": "15",
+      "section": "53",
+      "title": "Endring i andre lover",
+      "content": "Fra den tid​1 loven trer i kraft, gjøres følgende endringer i andre lover: – – –\n1 Fra 1 juli 2001 for § 53 nr. 5, nr. 6, nr. 8, nr. 11 og nr. 17 iflg. res. 15 juni 2001 nr. 669.Fra 1 jan 2002 for resten av loven iflg. res. 14 des 2001 nr. 1417.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    }
+  ]
+}

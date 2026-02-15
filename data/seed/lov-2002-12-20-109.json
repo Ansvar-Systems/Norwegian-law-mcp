@@ -1,0 +1,75 @@
+{
+  "id": "LOV-2002-12-20-109",
+  "type": "statute",
+  "title": "Lov om lønnsnemndbehandling av arbeidstvistene mellom Norsk Helse- og Sosialforbund og Norsk Kommuneforbund på den ene siden og Servicebedriftenes Landsforening på den andre siden i forbindelse med tariffrevisjonen 2002.",
+  "short_name": "Lov om lønnsnemnd NHS/NKF, SBL",
+  "status": "in_force",
+  "issued_date": "2002-12-20",
+  "in_force_date": "2002-12-20",
+  "url": "https://lovdata.no/dokument/NLO/lov/2002-12-20-109",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvistene mellom Norsk Helse- og Sosialforbund og Norsk Kommuneforbund på den ene siden og Servicebedriftenes Landsforening på den andre siden i forbindelse med tariffrevisjonen 2002 skal avgjøres av Rikslønnsnemnda.\nReglene i lov 19. desember 1952 nr. 7 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans eller blokade til løsning av tvistene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks.\nLoven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelser i tvistene.​1\n1 Rikslønnsnemndas kjennelser 28 jan 2003 i sak 3/2002 og 4/2002.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvistene mellom Norsk Helse- og Sosialforbund og Norsk Kommuneforbund på den ene siden og Servicebedriftenes Landsforening på den andre siden i forbindelse med tariffrevisjonen 2002 skal avgjøres av Rikslønnsnemnda.\nReglene i lov 19. desember 1952 nr. 7 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans eller blokade til løsning av tvistene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks.\nLoven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelser i tvistene.​1\n1 Rikslønnsnemndas kjennelser 28 jan 2003 i sak 3/2002 og 4/2002.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

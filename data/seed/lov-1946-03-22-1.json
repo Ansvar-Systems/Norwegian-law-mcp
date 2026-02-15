@@ -1,0 +1,59 @@
+{
+  "id": "LOV-1946-03-22-1",
+  "type": "statute",
+  "title": "Midlertidig lov om pålegg til trykkerier om å overta offentlige trykningsarbeider.",
+  "short_name": "Midlertidig lov om pålegg til trykkerier.",
+  "status": "in_force",
+  "issued_date": "1946-03-22",
+  "in_force_date": "1946-03-22",
+  "url": "https://lovdata.no/dokument/NLO/lov/1946-03-22-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Når det er tvingende nødvendig for i rett tid å få trykt skriftstykker og liknende av offentlig interesse kan vedkommende departement eller den dette bemyndiger pålegge trykkerier å overta trykningsarbeidet foran andre oppdrag som de har tatt på seg.\nDen som overtrer pålegg gitt etter denne lov eller medvirker til det, straffes med bøter.​1\n1 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2:2",
+      "chapter": "2",
+      "section": "2",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Når det er tvingende nødvendig for i rett tid å få trykt skriftstykker og liknende av offentlig interesse kan vedkommende departement eller den dette bemyndiger pålegge trykkerier å overta trykningsarbeidet foran andre oppdrag som de har tatt på seg.\nDen som overtrer pålegg gitt etter denne lov eller medvirker til det, straffes med bøter.​1\n1 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2:2",
+      "chapter": "2",
+      "section": "2",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

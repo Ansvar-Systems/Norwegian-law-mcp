@@ -1,0 +1,75 @@
+{
+  "id": "LOV-2010-11-12-58",
+  "type": "statute",
+  "title": "Lov om internasjonale sikkerhetsretter i mobilt løsøre",
+  "short_name": "Lov om internasjonal sikkerhet i mobilt løsøre",
+  "status": "in_force",
+  "issued_date": "2010-11-12",
+  "in_force_date": "2011-04-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2010-11-12-58",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Cape Town-konvensjonen 16. november 2001 om internasjonale sikkerhetsretter i mobilt løsøre og protokoll 16. november 2001 til konvensjonen om særlige forhold for luftfartøysløsøre gjelder som lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer.\n1 Iflg. res. 12 nov 2010 nr. 1421 trer loven ikr. fra det tidspunktet konvensjon om internasjonale sikkerhetsretter i mobilt løsøre og protokoll til konvensjonen om internasjonale sikkerhetsretter i mobilt løsøre, om særlige forhold for luftfartøysløsøre trer ikr. for Norge. Iflg. meddelelse fra Justisdepartementet 28 mars 2011 nr. 322 inntrådte dette 1 apr 2011.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Cape Town-konvensjonen 16. november 2001 om internasjonale sikkerhetsretter i mobilt løsøre og protokoll 16. november 2001 til konvensjonen om særlige forhold for luftfartøysløsøre gjelder som lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer.\n1 Iflg. res. 12 nov 2010 nr. 1421 trer loven ikr. fra det tidspunktet konvensjon om internasjonale sikkerhetsretter i mobilt løsøre og protokoll til konvensjonen om internasjonale sikkerhetsretter i mobilt løsøre, om særlige forhold for luftfartøysløsøre trer ikr. for Norge. Iflg. meddelelse fra Justisdepartementet 28 mars 2011 nr. 322 inntrådte dette 1 apr 2011.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

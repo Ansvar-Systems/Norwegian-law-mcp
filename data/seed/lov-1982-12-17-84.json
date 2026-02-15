@@ -1,0 +1,235 @@
+{
+  "id": "LOV-1982-12-17-84",
+  "type": "statute",
+  "title": "Lov om sikre containere [containerloven]",
+  "short_name": "Containerloven",
+  "status": "in_force",
+  "issued_date": "1982-12-17",
+  "in_force_date": "1984-05-01",
+  "url": "https://lovdata.no/dokument/NL/lov/1982-12-17-84",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Anvendelse.",
+      "content": "Loven gjelder for containere som brukes i transport til eller fra Norge eller i transitt gjennom Norge.\nPå norske skip utenfor riket kan skipsføreren avvise container som ikke tilfredsstiller kravene i loven eller bestemmelser gitt i medhold av denne lov.\nLoven gjelder ikke containere som er særskilt konstruert for lufttransport.\nKongen i statsråd kan bestemme at loven helt eller delvis skal gjelde for containere som bare anvendes innenlands.\nDepartementet fastsetter forskrift om besiktelse, godkjenning, prøving, vedlikehold og kontroll av slike containere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Definisjoner.",
+      "content": "1. Containerkonvensjonen: Den internasjonale konvensjon 2. desember 1972 om sikre containere med eventuelle framtidige endringer som Norge har sluttet seg til.\n2. Container: Transportutstyr som er:\na. av permanent karakter og av tilstrekkelig styrke til å være egnet for gjentatt bruk,\nb. spesielt konstruert for å forenkle transport av varer, for én eller flere transportmåter, uten omlasting,\nc. konstruert for sikring og/eller enkel håndtering, med hjørnebeslag til disse formål, og\nd. av en slik størrelse at arealet innenfor de fire ytre hjørner i bunnen enten er minst 14 kvadratmeter (150 kvadratfot) eller, dersom det er montert hjørnebeslag på toppen, minst 7 kvadratmeter (75 kvadratfot).\n3. Hjørnebeslag: Et arrangement av åpninger og flater øverst og/eller nederst på en container til bruk ved håndtering, stabling og/eller sikring.\n4. Tilsynsmyndighet: Departementet og offentlig eller privat institusjon eller person som er tildelt myndighet av departementet, jfr. § 7 første ledd.\n5. Godkjent: Godkjent av tilsynsmyndigheten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Besiktelse og godkjenning. Forskrifter.",
+      "content": "Containere skal være besiktet og godkjent av tilsynsmyndigheten. Departementet kan i samsvar med containerkonvensjonen gi nærmere forskrifter om besiktelse, godkjenning, prøving, vedlikehold og kontroll av containere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Andre lands godkjenning og merking.",
+      "content": "Dersom en container er godkjent i et annet land og utstyrt med et sikkerhetsskilt i henhold til containerkonvensjonen, gjelder godkjenningen også i Norge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Eierens kontroll.",
+      "content": "Eier av container skal holde denne i sikker forfatning og kontrollere den i henhold til den til enhver tid gjeldende forskrift (egenkontroll). Denne plikt gjelder også når containeren anvendes i transport utenfor Norge mellom andre stater hvor minst én av statene er tilsluttet containerkonvensjonen, når eieren har bosted eller hovedkontor i Norge eller det forretningssted som har nærmest tilknytning til bruken av containeren, ligger her i landet.\nEieren kan ved skriftlig avtale med den som i eierens sted har rett til å forføye over containeren, overlate sitt ansvar til denne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Forbud mot bruk av container.",
+      "content": "Eieren må ikke bruke container uten at den er godkjent, og utstyrt med gyldig sikkerhetsskilt og har gjennomgått egenkontroll innen de frister som er fastsatt i forskrift. Bestemmelsen i § 5 annet ledd gjelder tilsvarende.\nContainer som ikke har gjennomgått egenkontroll som nevnt, kan likevel brukes etter særskilt tillatelse fra tilsynsmyndigheten dersom den for øvrig anses tilstrekkelig sikker.\nEn container må ikke brukes dersom den er i en slik forfatning at den representerer en åpenbar sikkerhetsrisiko.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Tilsyn.",
+      "content": "Tilsyn med at lovens bestemmelser overholdes tilligger departementet, som også gir nærmere forskrift om tilsynet. Departementet kan utøve tilsyn ved hjelp av:\na. skipsinspektører\nb. offentlige institusjoner\nc. konsuler\nd. anerkjente klassifikasjonsselskaper\ne. andre private institusjoner eller personer\nf. fremmede lands myndigheter.\nTilsynsmyndigheten har rett til av produsent, eier eller bruker å kreve de opplysninger om foretatte prøver som anses nødvendig for gjennomføringen av tilsynet.\nEier eller bruker kan ikke kreve erstatning for container som tas ut for prøver.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Gebyr",
+      "content": "1. Kongen kan fastsette gebyr til Statskassen for det arbeid tilsynet utfører i medhold av denne lov. Gebyret skal betales av produsent, leverandør eller andre som ber om godkjenning av sine containere.\n2. Kongen fastsetter hvilken godtgjørelse som tilkommer tilsynsmyndighet nevnt i § 7 bokstav d og e for deres gjøremål etter denne lov, og kan bestemme at disse selv skal oppkreve godtgjørelsen direkte hos den som har begjært forretningen.\n0 Tilføyd ved lov 11 nov 1983 nr. 67.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Straff.",
+      "content": "Forsettlig eller uaktsom overtredelse av loven her eller forskrift gitt med hjemmel i loven straffes med bøter eller fengsel inntil tre måneder eller begge deler dersom forholdet ikke rammes av strengere straffebud. Medvirkning straffes ikke.\n0 Endret ved lover 11 nov 1983 nr. 67, tidligere § 8, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Ikrafttreden.",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.​1\n0 Endret ved lov 11 nov 1983 nr. 67, tidligere § 9.\n1 Fra 1 mai 1984 iflg. res. 2 apr 1984 nr. 826.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Anvendelse.",
+      "content": "Loven gjelder for containere som brukes i transport til eller fra Norge eller i transitt gjennom Norge.\nPå norske skip utenfor riket kan skipsføreren avvise container som ikke tilfredsstiller kravene i loven eller bestemmelser gitt i medhold av denne lov.\nLoven gjelder ikke containere som er særskilt konstruert for lufttransport.\nKongen i statsråd kan bestemme at loven helt eller delvis skal gjelde for containere som bare anvendes innenlands.\nDepartementet fastsetter forskrift om besiktelse, godkjenning, prøving, vedlikehold og kontroll av slike containere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Definisjoner.",
+      "content": "1. Containerkonvensjonen: Den internasjonale konvensjon 2. desember 1972 om sikre containere med eventuelle framtidige endringer som Norge har sluttet seg til.\n2. Container: Transportutstyr som er:\na. av permanent karakter og av tilstrekkelig styrke til å være egnet for gjentatt bruk,\nb. spesielt konstruert for å forenkle transport av varer, for én eller flere transportmåter, uten omlasting,\nc. konstruert for sikring og/eller enkel håndtering, med hjørnebeslag til disse formål, og\nd. av en slik størrelse at arealet innenfor de fire ytre hjørner i bunnen enten er minst 14 kvadratmeter (150 kvadratfot) eller, dersom det er montert hjørnebeslag på toppen, minst 7 kvadratmeter (75 kvadratfot).\n3. Hjørnebeslag: Et arrangement av åpninger og flater øverst og/eller nederst på en container til bruk ved håndtering, stabling og/eller sikring.\n4. Tilsynsmyndighet: Departementet og offentlig eller privat institusjon eller person som er tildelt myndighet av departementet, jfr. § 7 første ledd.\n5. Godkjent: Godkjent av tilsynsmyndigheten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Besiktelse og godkjenning. Forskrifter.",
+      "content": "Containere skal være besiktet og godkjent av tilsynsmyndigheten. Departementet kan i samsvar med containerkonvensjonen gi nærmere forskrifter om besiktelse, godkjenning, prøving, vedlikehold og kontroll av containere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Andre lands godkjenning og merking.",
+      "content": "Dersom en container er godkjent i et annet land og utstyrt med et sikkerhetsskilt i henhold til containerkonvensjonen, gjelder godkjenningen også i Norge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Eierens kontroll.",
+      "content": "Eier av container skal holde denne i sikker forfatning og kontrollere den i henhold til den til enhver tid gjeldende forskrift (egenkontroll). Denne plikt gjelder også når containeren anvendes i transport utenfor Norge mellom andre stater hvor minst én av statene er tilsluttet containerkonvensjonen, når eieren har bosted eller hovedkontor i Norge eller det forretningssted som har nærmest tilknytning til bruken av containeren, ligger her i landet.\nEieren kan ved skriftlig avtale med den som i eierens sted har rett til å forføye over containeren, overlate sitt ansvar til denne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Forbud mot bruk av container.",
+      "content": "Eieren må ikke bruke container uten at den er godkjent, og utstyrt med gyldig sikkerhetsskilt og har gjennomgått egenkontroll innen de frister som er fastsatt i forskrift. Bestemmelsen i § 5 annet ledd gjelder tilsvarende.\nContainer som ikke har gjennomgått egenkontroll som nevnt, kan likevel brukes etter særskilt tillatelse fra tilsynsmyndigheten dersom den for øvrig anses tilstrekkelig sikker.\nEn container må ikke brukes dersom den er i en slik forfatning at den representerer en åpenbar sikkerhetsrisiko.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Tilsyn.",
+      "content": "Tilsyn med at lovens bestemmelser overholdes tilligger departementet, som også gir nærmere forskrift om tilsynet. Departementet kan utøve tilsyn ved hjelp av:\na. skipsinspektører\nb. offentlige institusjoner\nc. konsuler\nd. anerkjente klassifikasjonsselskaper\ne. andre private institusjoner eller personer\nf. fremmede lands myndigheter.\nTilsynsmyndigheten har rett til av produsent, eier eller bruker å kreve de opplysninger om foretatte prøver som anses nødvendig for gjennomføringen av tilsynet.\nEier eller bruker kan ikke kreve erstatning for container som tas ut for prøver.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Gebyr",
+      "content": "1. Kongen kan fastsette gebyr til Statskassen for det arbeid tilsynet utfører i medhold av denne lov. Gebyret skal betales av produsent, leverandør eller andre som ber om godkjenning av sine containere.\n2. Kongen fastsetter hvilken godtgjørelse som tilkommer tilsynsmyndighet nevnt i § 7 bokstav d og e for deres gjøremål etter denne lov, og kan bestemme at disse selv skal oppkreve godtgjørelsen direkte hos den som har begjært forretningen.\n0 Tilføyd ved lov 11 nov 1983 nr. 67.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Straff.",
+      "content": "Forsettlig eller uaktsom overtredelse av loven her eller forskrift gitt med hjemmel i loven straffes med bøter eller fengsel inntil tre måneder eller begge deler dersom forholdet ikke rammes av strengere straffebud. Medvirkning straffes ikke.\n0 Endret ved lover 11 nov 1983 nr. 67, tidligere § 8, 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Ikrafttreden.",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.​1\n0 Endret ved lov 11 nov 1983 nr. 67, tidligere § 9.\n1 Fra 1 mai 1984 iflg. res. 2 apr 1984 nr. 826.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    }
+  ]
+}

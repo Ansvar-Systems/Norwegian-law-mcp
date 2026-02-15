@@ -1,0 +1,411 @@
+{
+  "id": "LOV-2015-02-13-9",
+  "type": "statute",
+  "title": "Lov om utenrikstjenesten (utenrikstjenesteloven)",
+  "short_name": "Utenrikstjenesteloven",
+  "status": "in_force",
+  "issued_date": "2015-02-13",
+  "in_force_date": "2015-03-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2015-02-13-9",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Utenrikstjenestens oppgaver",
+      "content": "Utenrikstjenestens oppgaver er\n1. å ivareta og fremme Norges interesser overfor utlandet, både norske særinteresser og de interesser Norge har felles med andre land,\n2. å gi norske statsborgere og juridiske personer råd og hjelp overfor utenlandske myndigheter, personer og institusjoner, og\n3. å gi bistand til norske statsborgere i utlandet, inkludert bistand i forbindelse med strafforfølging, ulykker, sykdom og dødsfall.\nUtenrikstjenestens oppgaver ivaretas av utenriksstasjonene og det departementet som Kongen bestemmer. Departementet forvalter utenrikstjenestens virksomhet og påser at lover og forskrifter blir overholdt.\nKongen gir nærmere forskrifter for utenrikstjenesten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Utenriksstasjon",
+      "content": "Som utenriksstasjon regnes ambassade, konsulær stasjon, fast delegasjon eller annen utenriksrepresentasjon som opprettes av Kongen eller departementet.\nSom diplomatisk fagstasjon regnes ambassade, fast delegasjon og annen utenriksrepresentasjon bestyrt av utsendt utenrikstjenesteansatt.\nSom konsulær fagstasjon regnes generalkonsulat og konsulat bestyrt av utsendt utenrikstjenesteansatt.\nSom honorær utenriksstasjon regnes generalkonsulat, konsulat, visekonsulat og konsularagentur bestyrt av honorær representant.\n0 Endret ved lov 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Utsendt utenrikstjenesteansatt",
+      "content": "Utsendt utenrikstjenesteansatt er en embetsmann utnevnt eller konstituert i departementet eller statsansatt som er fast eller midlertidig ansatt i departementet, og som har stilling ved en utenriksstasjon.\nSpesialutsending er en utsendt utenrikstjenesteansatt som er finansiert av en annen statlig etat, utsendt for særlige formål ved utenriksstasjon for et bestemt tidsrom og ansatt midlertidig i departementet. Kravet om midlertidig ansettelse kan fravikes for spesialutsendinger fra forsvarsmyndighetene.\nUtsendt utenrikstjenesteansatt som har ansvar for fagområder som utenriksstasjonen ivaretar på vegne av annen statlig etat, kan ansettes på åremål. Åremålsperioden kan være inntil fire år, med adgang til gjentagelse. Ingen kan være ansatt på åremål etter denne bestemmelsen i mer enn åtte år til sammen.\nUtsendt utenrikstjenesteansatt er underlagt stasjonssjefen.\nBestemmelsene i § 12 andre ledd, og §§ 13 og 14 gjelder ikke for spesialutsending, med mindre departementet bestemmer noe annet.\nDet kan inngås avtale om midlertidig ansettelse for stilling som utsendt utenrikstjenesteansatt.\nAmbassadør eller generalkonsul er embetsmann. Dette gjelder likevel ikke honorær generalkonsul.\nDepartementet fastsetter forskrift om bruk av titlene ambassadør, ministerråd, ambassaderåd, ambassadesekretær, attaché, generalkonsul, konsul, visekonsul og konsularagent.\n0 Endret ved lover 16 juni 2017 nr. 67 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 763), 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Annen utsending",
+      "content": "Annen utsending er utsending som etter departementets bestemmelse knyttes til utenriksstasjon for et bestemt tidsrom, og som er ansatt i selvstendig rettssubjekt.\nAnnen utsending er underlagt stasjonssjefen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Honorær representant",
+      "content": "Honorær representant oppnevnes av departementet som honorær generalkonsul, konsul, visekonsul eller konsularagent.\nDepartementet kan løse honorær representant fra vervet når det anses å være i Norges interesse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Lokalt ansatt",
+      "content": "Lokalt ansatt er arbeidstaker som er ansatt ved utenriksstasjonen.\nUtenriksstasjonen har myndighet til å ansette, suspendere, si opp og avskjedige lokalt ansatt.\nSaker som gjelder suspensjon, oppsigelse eller avskjed, skal på forhånd forelegges departementet til godkjenning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Flytteplikt",
+      "content": "Flyttepliktig embetsmann, statsansatt eller utsendt utenrikstjenesteansatt har plikt til å motta forflytning til likeverdig eller høyere stilling i departementet eller ved utenriksstasjon, med mindre det i særlige tilfeller blir bestemt noe annet. Departementet treffer vedtak om forflytning.\nFast ansatt arbeidstaker i departementet blir flyttepliktig utenrikstjenesteansatt ved å tiltre stilling av minst ett års sammenhengende varighet ved utenriksstasjon.\nDepartementet bestemmer hvilke stillinger ved utenriksstasjon og i departementet som skal anses likeverdige når det gjelder forflytning.\nKongen gir forskrift om hvilke stillinger som inngår i den flyttepliktige rotasjonsordningen i utenrikstjenesten, normering av rotasjonsstillinger og tjenestetid. Departementet kan i særlige tilfeller bestemme at en stilling i rotasjonsordningen skal utlyses utenfor virksomheten.\nKongen gir forskrift om rekruttering til utenrikstjenesten ved gruppeopptak og om beordring til tjeneste på utenriksstasjon.\n0 Endret ved lov 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Hjemkalling og rådighet",
+      "content": "Når tjenstlige hensyn tilsier det, kan en utsendt utenrikstjenesteansatt hjemkalles og stilles til rådighet for departementet.\n0 Endret ved lov 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Statsborgerskap",
+      "content": "En utsendt utenrikstjenesteansatt skal være norsk statsborger.\n0 Endret ved lov 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Verv og forretningsdrift mv.",
+      "content": "En utsendt utenrikstjenesteansatt, annen utsending eller honorær representant har ikke adgang til å motta noe verv av diplomatisk, konsulær eller annen offisiell art av en annen stats regjering eller av internasjonal organisasjon, med mindre departementet samtykker.\nEn utsendt utenrikstjenesteansatt eller annen utsending har ikke adgang til, for egen eller andres regning, å drive noen form for forretningsvirksomhet på tjenestestedet eller i utenriksstasjonens embetsdistrikt.\n0 Endret ved lov 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "Verneting",
+      "content": "I rettssaker angående tjenesteanliggender har alt personell som er nevnt i §§ 3 og 4, verneting i Oslo, med mindre annet følger av folkeretten, eller saken etter alminnelige regler hører inn under annet verneting.\nI rettssaker angående tjenesteanliggender har alt personell som er nevnt i §§ 5 og 6, verneting på arbeidsstedet, med mindre annet følger av folkeretten, eller saken etter alminnelige regler hører inn under annet verneting. Etter at tvist har oppstått, kan partene som er nevnt her, avtale annet verneting.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "title": "Overoppsyn",
+      "content": "Fagstasjonene har overoppsyn med underliggende honorære utenriksstasjoner i sitt embetsdistrikt. Diplomatiske fagstasjoner virker samtidig som konsulære fagstasjoner så langt departementet bestemmer.\nEmbetshandlinger som ifølge lov skal utføres av en konsulær fagstasjon, eller av en utenrikstjenesteansatt ved en konsulær fagstasjon, kan med samme rettsvirkning utføres av en utenrikstjenesteansatt ved diplomatisk fagstasjon.\n0 Endret ved lov 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "title": "Notarialforretning",
+      "content": "Dersom norsk lov, overenskomst med fremmed stat eller denne statens lovgivning ikke er til hinder for det, kan utsendt utenrikstjenesteansatt, honorær representant eller den denne gir fullmakt, utføre enhver forretning som notarius publicus i Norge kan utføre, dersom det skjer til fordel for norsk borger, eller forholdet ellers har tilknytning til Norge eller norske interesser.\nDepartementet gir forskrift om de nærmere vilkår for utførelse av notarialforretninger ved utenriksstasjon.\nForsikring etter domstolloven § 141 kan likevel bare mottas av en utsendt utenrikstjenesteansatt eller honorær representant som departementet har gitt fullmakt, eller, ved forfall, av dennes stedfortreder.\n0 Endret ved lov 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "title": "Vigsel",
+      "content": "Dersom norsk lov eller internasjonal overenskomst ikke er til hinder for det, og overenskomst med vedkommende vertsland tillater det, kan utsendte utenrikstjenesteansatte ved utenriksstasjon som departementet har gitt fullmakt, utføre vigsel. Det kan gis fullmakt til å utføre vigsel også når bare én av brudefolkene er norsk statsborger eller bosatt i Norge. Fullmakt kan ikke gis til vigsel av person som er borger av den stat hvor vigsel skal finne sted.\nDersom vigsel er utført i strid med første ledd, gjelder lov 30. juni 1955 nr. 20 om når norsk tenestemakt kan halda brudvigjing i utlandet og utenlandsk tenestemakt i Noreg § 11 tilsvarende.\nKongen gir forskrift om vigsel ved utsendt utenrikstjenesteansatt.\n0 Endret ved lov 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "14 a",
+      "section": "14 a",
+      "title": "Utenrikstjenestens tilgang til opplysninger fra Folkeregisteret",
+      "content": "Utenrikstjenesten kan uten hinder av taushetsplikt innhente fra folkeregistermyndigheten de opplysningene som er nødvendige for utførelsen av oppgaver etter denne loven eller andre oppgaver som er fastsatt i lov.\n0 Tilføyd ved lov 22 juni 2018 nr. 70.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14a",
+        "source_heading": "§ 14 a."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "title": "Gebyr",
+      "content": "Utenriksstasjonene kan innkreve gebyr for tjenestehandlinger etter forskrift fastsatt av departementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft på det tidspunkt​1 Kongen bestemmer. Fra samme tidspunkt oppheves lov 3. mai 2002 nr. 13 om utenrikstjenesten. Forskrifter gitt med hjemmel i lov 18. juli 1958 nr. 1 om utenrikstjenesten og lov 3. mai 2002 nr. 13 om utenrikstjenesten gjelder også etter at loven har trådt i kraft, så langt det er hjemmel for å gi slik forskrift også etter loven her.\n1 Fra 1 mars 2015 iflg. res. 13 feb 2015 nr. 131.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "title": "Endringer i andre lover",
+      "content": "Fra det tidspunktet loven trer i kraft gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Utenrikstjenestens oppgaver",
+      "content": "Utenrikstjenestens oppgaver er\n1. å ivareta og fremme Norges interesser overfor utlandet, både norske særinteresser og de interesser Norge har felles med andre land,\n2. å gi norske statsborgere og juridiske personer råd og hjelp overfor utenlandske myndigheter, personer og institusjoner, og\n3. å gi bistand til norske statsborgere i utlandet, inkludert bistand i forbindelse med strafforfølging, ulykker, sykdom og dødsfall.\nUtenrikstjenestens oppgaver ivaretas av utenriksstasjonene og det departementet som Kongen bestemmer. Departementet forvalter utenrikstjenestens virksomhet og påser at lover og forskrifter blir overholdt.\nKongen gir nærmere forskrifter for utenrikstjenesten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Utenriksstasjon",
+      "content": "Som utenriksstasjon regnes ambassade, konsulær stasjon, fast delegasjon eller annen utenriksrepresentasjon som opprettes av Kongen eller departementet.\nSom diplomatisk fagstasjon regnes ambassade, fast delegasjon og annen utenriksrepresentasjon bestyrt av utsendt utenrikstjenesteansatt.\nSom konsulær fagstasjon regnes generalkonsulat og konsulat bestyrt av utsendt utenrikstjenesteansatt.\nSom honorær utenriksstasjon regnes generalkonsulat, konsulat, visekonsulat og konsularagentur bestyrt av honorær representant.\n0 Endret ved lov 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Utsendt utenrikstjenesteansatt",
+      "content": "Utsendt utenrikstjenesteansatt er en embetsmann utnevnt eller konstituert i departementet eller statsansatt som er fast eller midlertidig ansatt i departementet, og som har stilling ved en utenriksstasjon.\nSpesialutsending er en utsendt utenrikstjenesteansatt som er finansiert av en annen statlig etat, utsendt for særlige formål ved utenriksstasjon for et bestemt tidsrom og ansatt midlertidig i departementet. Kravet om midlertidig ansettelse kan fravikes for spesialutsendinger fra forsvarsmyndighetene.\nUtsendt utenrikstjenesteansatt som har ansvar for fagområder som utenriksstasjonen ivaretar på vegne av annen statlig etat, kan ansettes på åremål. Åremålsperioden kan være inntil fire år, med adgang til gjentagelse. Ingen kan være ansatt på åremål etter denne bestemmelsen i mer enn åtte år til sammen.\nUtsendt utenrikstjenesteansatt er underlagt stasjonssjefen.\nBestemmelsene i § 12 andre ledd, og §§ 13 og 14 gjelder ikke for spesialutsending, med mindre departementet bestemmer noe annet.\nDet kan inngås avtale om midlertidig ansettelse for stilling som utsendt utenrikstjenesteansatt.\nAmbassadør eller generalkonsul er embetsmann. Dette gjelder likevel ikke honorær generalkonsul.\nDepartementet fastsetter forskrift om bruk av titlene ambassadør, ministerråd, ambassaderåd, ambassadesekretær, attaché, generalkonsul, konsul, visekonsul og konsularagent.\n0 Endret ved lover 16 juni 2017 nr. 67 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 763), 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Annen utsending",
+      "content": "Annen utsending er utsending som etter departementets bestemmelse knyttes til utenriksstasjon for et bestemt tidsrom, og som er ansatt i selvstendig rettssubjekt.\nAnnen utsending er underlagt stasjonssjefen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Honorær representant",
+      "content": "Honorær representant oppnevnes av departementet som honorær generalkonsul, konsul, visekonsul eller konsularagent.\nDepartementet kan løse honorær representant fra vervet når det anses å være i Norges interesse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Lokalt ansatt",
+      "content": "Lokalt ansatt er arbeidstaker som er ansatt ved utenriksstasjonen.\nUtenriksstasjonen har myndighet til å ansette, suspendere, si opp og avskjedige lokalt ansatt.\nSaker som gjelder suspensjon, oppsigelse eller avskjed, skal på forhånd forelegges departementet til godkjenning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Flytteplikt",
+      "content": "Flyttepliktig embetsmann, statsansatt eller utsendt utenrikstjenesteansatt har plikt til å motta forflytning til likeverdig eller høyere stilling i departementet eller ved utenriksstasjon, med mindre det i særlige tilfeller blir bestemt noe annet. Departementet treffer vedtak om forflytning.\nFast ansatt arbeidstaker i departementet blir flyttepliktig utenrikstjenesteansatt ved å tiltre stilling av minst ett års sammenhengende varighet ved utenriksstasjon.\nDepartementet bestemmer hvilke stillinger ved utenriksstasjon og i departementet som skal anses likeverdige når det gjelder forflytning.\nKongen gir forskrift om hvilke stillinger som inngår i den flyttepliktige rotasjonsordningen i utenrikstjenesten, normering av rotasjonsstillinger og tjenestetid. Departementet kan i særlige tilfeller bestemme at en stilling i rotasjonsordningen skal utlyses utenfor virksomheten.\nKongen gir forskrift om rekruttering til utenrikstjenesten ved gruppeopptak og om beordring til tjeneste på utenriksstasjon.\n0 Endret ved lov 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Hjemkalling og rådighet",
+      "content": "Når tjenstlige hensyn tilsier det, kan en utsendt utenrikstjenesteansatt hjemkalles og stilles til rådighet for departementet.\n0 Endret ved lov 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Statsborgerskap",
+      "content": "En utsendt utenrikstjenesteansatt skal være norsk statsborger.\n0 Endret ved lov 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Verv og forretningsdrift mv.",
+      "content": "En utsendt utenrikstjenesteansatt, annen utsending eller honorær representant har ikke adgang til å motta noe verv av diplomatisk, konsulær eller annen offisiell art av en annen stats regjering eller av internasjonal organisasjon, med mindre departementet samtykker.\nEn utsendt utenrikstjenesteansatt eller annen utsending har ikke adgang til, for egen eller andres regning, å drive noen form for forretningsvirksomhet på tjenestestedet eller i utenriksstasjonens embetsdistrikt.\n0 Endret ved lov 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "Verneting",
+      "content": "I rettssaker angående tjenesteanliggender har alt personell som er nevnt i §§ 3 og 4, verneting i Oslo, med mindre annet følger av folkeretten, eller saken etter alminnelige regler hører inn under annet verneting.\nI rettssaker angående tjenesteanliggender har alt personell som er nevnt i §§ 5 og 6, verneting på arbeidsstedet, med mindre annet følger av folkeretten, eller saken etter alminnelige regler hører inn under annet verneting. Etter at tvist har oppstått, kan partene som er nevnt her, avtale annet verneting.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "title": "Overoppsyn",
+      "content": "Fagstasjonene har overoppsyn med underliggende honorære utenriksstasjoner i sitt embetsdistrikt. Diplomatiske fagstasjoner virker samtidig som konsulære fagstasjoner så langt departementet bestemmer.\nEmbetshandlinger som ifølge lov skal utføres av en konsulær fagstasjon, eller av en utenrikstjenesteansatt ved en konsulær fagstasjon, kan med samme rettsvirkning utføres av en utenrikstjenesteansatt ved diplomatisk fagstasjon.\n0 Endret ved lov 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "title": "Notarialforretning",
+      "content": "Dersom norsk lov, overenskomst med fremmed stat eller denne statens lovgivning ikke er til hinder for det, kan utsendt utenrikstjenesteansatt, honorær representant eller den denne gir fullmakt, utføre enhver forretning som notarius publicus i Norge kan utføre, dersom det skjer til fordel for norsk borger, eller forholdet ellers har tilknytning til Norge eller norske interesser.\nDepartementet gir forskrift om de nærmere vilkår for utførelse av notarialforretninger ved utenriksstasjon.\nForsikring etter domstolloven § 141 kan likevel bare mottas av en utsendt utenrikstjenesteansatt eller honorær representant som departementet har gitt fullmakt, eller, ved forfall, av dennes stedfortreder.\n0 Endret ved lov 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "title": "Vigsel",
+      "content": "Dersom norsk lov eller internasjonal overenskomst ikke er til hinder for det, og overenskomst med vedkommende vertsland tillater det, kan utsendte utenrikstjenesteansatte ved utenriksstasjon som departementet har gitt fullmakt, utføre vigsel. Det kan gis fullmakt til å utføre vigsel også når bare én av brudefolkene er norsk statsborger eller bosatt i Norge. Fullmakt kan ikke gis til vigsel av person som er borger av den stat hvor vigsel skal finne sted.\nDersom vigsel er utført i strid med første ledd, gjelder lov 30. juni 1955 nr. 20 om når norsk tenestemakt kan halda brudvigjing i utlandet og utenlandsk tenestemakt i Noreg § 11 tilsvarende.\nKongen gir forskrift om vigsel ved utsendt utenrikstjenesteansatt.\n0 Endret ved lov 16 juni 2023 nr. 34 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 944).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "14 a",
+      "section": "14 a",
+      "title": "Utenrikstjenestens tilgang til opplysninger fra Folkeregisteret",
+      "content": "Utenrikstjenesten kan uten hinder av taushetsplikt innhente fra folkeregistermyndigheten de opplysningene som er nødvendige for utførelsen av oppgaver etter denne loven eller andre oppgaver som er fastsatt i lov.\n0 Tilføyd ved lov 22 juni 2018 nr. 70.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14a",
+        "source_heading": "§ 14 a."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "title": "Gebyr",
+      "content": "Utenriksstasjonene kan innkreve gebyr for tjenestehandlinger etter forskrift fastsatt av departementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft på det tidspunkt​1 Kongen bestemmer. Fra samme tidspunkt oppheves lov 3. mai 2002 nr. 13 om utenrikstjenesten. Forskrifter gitt med hjemmel i lov 18. juli 1958 nr. 1 om utenrikstjenesten og lov 3. mai 2002 nr. 13 om utenrikstjenesten gjelder også etter at loven har trådt i kraft, så langt det er hjemmel for å gi slik forskrift også etter loven her.\n1 Fra 1 mars 2015 iflg. res. 13 feb 2015 nr. 131.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "title": "Endringer i andre lover",
+      "content": "Fra det tidspunktet loven trer i kraft gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    }
+  ]
+}

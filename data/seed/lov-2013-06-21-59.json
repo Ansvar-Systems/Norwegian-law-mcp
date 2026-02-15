@@ -1,0 +1,759 @@
+{
+  "id": "LOV-2013-06-21-59",
+  "type": "statute",
+  "title": "Lov om likestilling mellom kjønnene (likestillingsloven)",
+  "short_name": "Likestillingsloven",
+  "status": "in_force",
+  "issued_date": "2013-06-21",
+  "in_force_date": "2014-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/2013-06-21-59",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Lovens formål er å fremme likestilling uavhengig av kjønn. Likestilling innebærer:\na. likeverd,\nb. like muligheter og rettigheter,\nc. tilgjengelighet og\nd. tilrettelegging.\nLoven tar særlig sikte på å bedre kvinners stilling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens saklige virkeområde",
+      "content": "Loven gjelder på alle områder i samfunnet.\nKongen kan gi forskrift om at kvinners tjeneste i Forsvaret helt eller delvis skal unntas fra lovens virkeområde.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Lovens stedlige virkeområde",
+      "content": "Loven gjelder i hele landet, herunder på Svalbard og Jan Mayen. Loven gjelder også på faste og flyttbare installasjoner i virksomhet på norsk kontinentalsokkel,​1 på norske skip og norske luftfartøyer.\nKongen gir forskrift om lovens anvendelse for utsendte arbeidstakere, jf. arbeidsmiljøloven​2 § 1-7.\n1 Se lov 21 juni 1963 nr. 12 § 1 annet punktum.\n2 Lov 17 juni 2005 nr. 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Ufravikelighet",
+      "content": "Bestemmelsene i denne loven kan ikke fravikes ved avtale.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Hovedregel om forbud mot diskriminering​1",
+      "content": "Diskriminering på grunn av kjønn er forbudt.​2 Diskriminering på grunn av graviditet og permisjon ved fødsel eller adopsjon regnes som diskriminering på grunn av kjønn. Forbudet gjelder diskriminering på grunn av en persons faktiske, antatte, tidligere eller fremtidige graviditet eller permisjon. Forbudet gjelder også diskriminering på grunn av kjønn til en person som den som diskrimineres har tilknytning til.\nMed diskriminering menes direkte og indirekte forskjellsbehandling som ikke er lovlig etter § 6 eller § 7. Med direkte forskjellsbehandling menes en handling eller unnlatelse som har som formål eller virkning at en person blir behandlet dårligere enn andre i tilsvarende situasjon, og at dette skyldes kjønn. Med indirekte forskjellsbehandling menes enhver tilsynelatende nøytral bestemmelse, betingelse, praksis, handling eller unnlatelse som fører til at personer stilles dårligere enn andre, og at dette skjer på grunn av kjønn.​2\n1 Jf. Grl. § 98.\n2 Se §§ 26 og 28, jf. lov 10 juni 2005 nr. 40 §§ 4, 7, 8 og 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Lovlig forskjellsbehandling",
+      "content": "Forskjellsbehandling er ikke i strid med forbudet i § 5 når:\na. den har et saklig formål,\nb. den er nødvendig for å oppnå formålet og\nc. det er et rimelig forhold mellom det man ønsker å oppnå og hvor inngripende forskjellsbehandlingen er for den eller de som stilles dårligere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Positiv særbehandling",
+      "content": "Positiv særbehandling av det ene kjønn er ikke i strid med forbudet i § 5 dersom:\na. særbehandlingen er egnet til å fremme lovens formål,​1\nb. det er et rimelig forhold mellom det man ønsker å oppnå og hvor inngripende forskjellsbehandlingen er for den eller de som stilles dårligere og\nc. særbehandlingen opphører når formålet med den er oppnådd.\nKongen kan gi forskrift om hvilke former for særbehandling som tillates i medhold av denne loven, herunder bestemmelser om særbehandling av menn i forbindelse med undervisning av og omsorg for barn.\n1 Se § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Forbud mot trakassering",
+      "content": "Trakassering på grunn av kjønn og seksuell trakassering er forbudt.\nMed trakassering på grunn av kjønn menes handlinger, unnlatelser eller ytringer som virker eller har til formål å virke krenkende, skremmende, fiendtlige, nedverdigende eller ydmykende. Med seksuell trakassering menes uønsket seksuell oppmerksomhet som er plagsom for den oppmerksomheten rammer.​1\n1 Sml. strl. 2005 § 298.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Forbud mot gjengjeldelse",
+      "content": "Det er forbudt å gjøre gjengjeld mot noen som har fremmet klage om brudd på denne loven, eller som har gitt uttrykk for at klage kan bli fremmet. Dette gjelder ikke dersom klageren har opptrådt grovt uaktsomt. Forbudet gjelder også overfor vitner i en klagesak.\nDet er forbudt å gjøre gjengjeld mot noen som unnlater å følge en instruks som er i strid med § 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Forbud mot instruks",
+      "content": "Det er forbudt å instruere noen om å diskriminere, trakassere eller gjøre gjengjeld i strid med denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Forbud mot medvirkning",
+      "content": "Det er forbudt å medvirke til å diskriminere, trakassere, gjøre gjengjeld eller instruere i strid med denne loven.​1\n1 Sml. strl. 2005 § 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Offentlige myndigheters plikt til aktivt likestillingsarbeid​1",
+      "content": "Offentlige myndigheter skal arbeide aktivt, målrettet og planmessig for likestilling​2 mellom kjønnene.\n1 Sml. lov 1 apr 2005 nr. 15 § 6-2.\n2 Se § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Kjønnsbalanse i offentlige utvalg",
+      "content": "Når et offentlig organ oppnevner eller velger utvalg, styrer, råd, nemnder, delegasjoner mv., skal begge kjønn være representert på følgende måte:\na. Har utvalget to eller tre medlemmer, skal begge kjønn være representert.\nb. Har utvalget fire eller fem medlemmer, skal hvert kjønn være representert med minst to.\nc. Har utvalget seks til åtte medlemmer, skal hvert kjønn være representert med minst tre.\nd. Har utvalget ni medlemmer, skal hvert kjønn være representert med minst fire.\ne. Har utvalget flere medlemmer, skal hvert kjønn være representert med minst 40 prosent.\nFørste ledd gjelder også ved valg av varamedlemmer.\nDepartementet kan gi dispensasjon når det foreligger særlige forhold som gjør det åpenbart urimelig å oppfylle kravene.\nFørste ledd gjelder ikke for utvalg mv. som etter lov bare skal ha medlemmer fra direkte valgte forsamlinger.​1 For utvalg mv. valgt av folkevalgte organer i kommuner og fylkeskommuner, gjelder bestemmelsene i kommuneloven.​2\nKongen gir forskrift om håndheving og rapportering. Kongen kan også gi forskrift med utfyllende bestemmelser etter denne bestemmelsen.\n1 Se lov 28 juni 2002 nr. 57.\n2 Lov 25 sep 1992 nr. 107.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Arbeidslivets organisasjoners aktivitetsplikt",
+      "content": "Arbeidslivets organisasjoner skal arbeide aktivt, målrettet og planmessig for å fremme lovens formål innenfor sitt virkefelt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Organisasjoners og utdanningsinstitusjoners plikt til å forebygge og forhindre trakassering",
+      "content": "Ledelsen i organisasjoner og utdanningsinstitusjoner skal innenfor sitt ansvarsområde forebygge og søke å hindre at det forekommer trakassering i strid med § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Læremidlers innhold",
+      "content": "I skoler​1 og andre undervisningsinstitusjoner skal læremidlene bygge på likestilling uavhengig av kjønn.\n1 Se lov 17 juli 1998 nr. 61 § 1-1 (4) annet punktum.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Diskrimineringsforbudet i arbeidsforhold",
+      "content": "Forbudene i kapittel 2 gjelder alle sider av et ansettelsesforhold. Dette omfatter blant annet:\na. utlysning av stilling,\nb. ansettelse, omplassering og forfremmelse,\nc. opplæring og kompetanseutvikling,\nd. lønns- og arbeidsvilkår og\ne. opphør av ansettelsesforholdet.\nFørste ledd gjelder tilsvarende for arbeidsgivers valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Forbud mot innhenting av opplysninger ved ansettelse",
+      "content": "En arbeidsgiver må ikke​1 i ansettelsesprosessen, herunder under intervju eller på annen måte, innhente opplysninger om graviditet, adopsjon​2 eller planer om å få barn.\n1 Se §§ 26 og 28, jf. lov 10 juni 2005 nr. 40 §§ 4, 7, 8 og 13.\n2 Jf. lov 28 feb 1986 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Arbeidsgivers opplysningsplikt overfor arbeidssøker",
+      "content": "En arbeidssøker som mener seg forbigått i strid med denne loven, kan kreve at arbeidsgiveren skriftlig gir opplysninger om den som ble ansatt. Arbeidsgiver skal​1 opplyse om utdanning, praksis og andre formelle kvalifikasjoner.\n1 Se § 26, jf. lov 10 juni 2005 nr. 40 §§ 4, 7, 8 og 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Arbeidstakeres rettigheter ved foreldrepermisjon",
+      "content": "En arbeidstaker som er eller har vært i foreldrepermisjon etter arbeidsmiljøloven​1 § 12-5 har rett​2 til å:\na. vende tilbake til samme, eventuelt tilsvarende, stilling,\nb. nyte godt av forbedringer av arbeidsvilkårene som arbeidstakeren ellers ville vært berettiget til under fraværet og\nc. fremme lønnskrav og å bli vurdert i lønnsforhandlinger på samme måte som de øvrige arbeidstakerne i virksomheten.\nFørste ledd regulerer ikke fastsettelse eller endringer av lønns- og arbeidsvilkår som er en følge av andre forhold enn foreldrepermisjon.\nParagrafen her gjelder tilsvarende ved andre permisjoner knyttet til graviditet og fødsel, jf. arbeidsmiljøloven​1 § 12-2 til § 12-8.\n1 Lov 17 juni 2005 nr. 62.\n2 Se § 28 og § 26, jf. lov 10 juni 2005 nr. 40 §§ 4, 7, 8 og 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Lik lønn for arbeid av lik verdi",
+      "content": "Kvinner og menn i samme virksomhet skal​1 ha lik lønn for samme arbeid eller arbeid av lik verdi. Lønnen skal fastsettes på samme måte for kvinner og menn uten hensyn til kjønn.\nRetten til lik lønn for samme arbeid eller arbeid av lik verdi gjelder uavhengig av om arbeidene tilhører ulike fag eller om lønnen reguleres i ulike tariffavtaler.\nOm arbeidene er av lik verdi, avgjøres etter en helhetsvurdering der det legges vekt på den kompetanse som er nødvendig for å utføre arbeidet og andre relevante faktorer, som for eksempel anstrengelse, ansvar og arbeidsforhold.\nMed lønn menes det alminnelige arbeidsvederlag samt alle andre tillegg eller fordeler eller andre goder som ytes av arbeidsgiveren.\nKongen kan i forskrifter gi nærmere regler om hva som regnes som samme virksomhet i stat og kommune.\n1 Se § 28 og § 26, jf. lov 10 juni 2005 nr. 40 §§ 4, 7, 8 og 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Arbeidsgivers opplysningsplikt om lønn",
+      "content": "En arbeidstaker som har mistanke om diskriminering ved lønnsfastsettelsen, kan kreve at arbeidsgiver skriftlig opplyser om lønnsnivå og kriteriene for fastsettelsen av lønn for den eller de vedkommende sammenlikner seg med.\nDen som mottar opplysninger om lønn​1 i medhold av denne bestemmelsen har taushetsplikt og skal underskrive en taushetserklæring. Dette gjelder ikke opplysninger som omfattes av offentleglova.\nArbeidsgiver som utleverer lønnsopplysninger om en ansatt etter denne bestemmelsen skal samtidig informere vedkommende om hvilke opplysninger som er utlevert, og til hvem.\n1 Se § 26, jf. lov 10 juni 2005 nr. 40 §§ 4, 7, 8 og 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "title": "Arbeidsgivers aktivitetsplikt",
+      "content": "Arbeidsgivere skal arbeide aktivt, målrettet og planmessig for å fremme lovens formål innenfor sin virksomhet. Aktivitetsplikten omfatter blant annet rekruttering, lønns- og arbeidsvilkår, forfremmelse, utviklingsmuligheter og beskyttelse mot trakassering.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "title": "Arbeidsgivers redegjørelsesplikt",
+      "content": "Arbeidsgivere skal redegjøre for:\na. den faktiske tilstanden når det gjelder kjønnslikestilling i virksomheten og\nb. likestillingstiltak som er iverksatt og som planlegges iverksatt for å oppfylle aktivitetsplikten etter § 23.\nRedegjørelsesplikten gjelder for virksomheter som i lov er pålagt å utarbeide årsberetning.​1 Disse skal ta redegjørelsene inn i virksomhetens årsberetning.\nRedegjørelsesplikten gjelder også for offentlige myndigheter og offentlige virksomheter som ikke er pålagt å utarbeide årsberetning. Disse skal ta redegjørelsene inn i årsbudsjettet.\n1 Se rskl. § 3-1, se § 1-2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "title": "Arbeidsgivers plikt til å forebygge og forhindre trakassering",
+      "content": "Arbeidsgivere skal forebygge og søke å hindre at det forekommer trakassering i strid med § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Håndheving av loven",
+      "content": "Likestillings- og diskrimineringsombudet og Likestillings- og diskrimineringsnemnda skal håndheve og medvirke til gjennomføringen av denne loven, jf. diskrimineringsombudsloven.​1 Ombudet og nemnda skal likevel ikke håndheve reglene om:\na. seksuell trakassering i § 8,\nb. aktivt likestillingsarbeid i kapittel 3 og § 23,\nc. behandling av lønnsopplysninger i § 22 andre ledd og\nd. oppreisning og erstatning i § 28.\nOmbudet og nemnda skal ikke håndheve forbudet mot diskriminering i familieliv og andre rent personlige forhold.\n1 Lov 10 juni 2005 nr. 40.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Bevisbyrde",
+      "content": "Det skal legges til grunn at diskriminering​1 har funnet sted hvis:\na. det foreligger omstendigheter som gir grunn til å tro at det har skjedd diskriminering og\nb. den ansvarlige ikke sannsynliggjør at diskriminering likevel ikke har funnet sted.\nDette gjelder ved påståtte brudd på bestemmelsene i kapittel 2 og §§ 17, 18, 20 og 21.\n1 Se § 5 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Oppreisning og erstatning",
+      "content": "Den som er blitt diskriminert​1 kan kreve oppreisning og erstatning. Dette gjelder ved brudd på bestemmelsene i kapittel 2 og §§ 17, 18, 20 og 21.\nI ansettelsesforhold gjelder ansvaret uavhengig av om arbeidsgiveren kan bebreides for diskrimineringen. På andre samfunnsområder gjelder ansvaret dersom den som har diskriminert kan bebreides for dette.\nErstatningen skal dekke økonomisk tap som følge av diskrimineringen. Oppreisning​2 for ikke-økonomisk skade fastsettes til det som er rimelig ut fra skadens omfang og art, partenes forhold og omstendighetene for øvrig.\nDisse reglene begrenser ikke personens rett til å kreve oppreisning og erstatning etter alminnelige erstatningsregler.​3\n1 Se § 5 (2).\n2 Sml. lov 13 juni 1969 nr. 26 § 3-5.\n3 Se lov 13 juni 1969 nr. 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Organisasjoners adgang til å opptre som fullmektig",
+      "content": "I saker som behandles av Likestillings- og diskrimineringsombudet og Likestillings- og diskrimineringsnemnda, kan en organisasjon som helt eller delvis har til formål å arbeide mot diskriminering​1 brukes som fullmektig.\nI saker for domstolene kan en person utpekt av og med tilknytning til en organisasjon som helt eller delvis har til formål å arbeide mot diskriminering, brukes som prosessfullmektig.​2 Dette gjelder ikke for Høyesterett. Retten kan nekte å godta en prosessfullmakt hvis det etter rettens skjønn er fare for at prosessfullmektigen ikke har tilstrekkelige kvalifikasjoner til å ivareta partens interesser på en tilfredsstillende måte. En prosessfullmektig skal ved siden av fullmakt som nevnt i tvisteloven​3 § 3-4 til samme tid fremlegge skriftlig orientering fra organisasjonen om prosessfullmektigens kvalifikasjoner.\n1 Se § 5 (2).\n2 Se tvistel. kap. 3.\n3 Lov 17 juni 2005 nr. 90.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1 Fra samme tid oppheves lov 9. juni 1978 nr. 45 om likestilling mellom kjønnene.\n1 Fra 1 jan 2014 iflg. res. 21 juni 2013 nr. 705.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "title": "Videreføring av forskrifter",
+      "content": "Forskrifter gitt i medhold av lov 9. juni 1978 nr. 45 om likestilling mellom kjønnene § 2 fjerde ledd gjelder også etter at loven her har trådt i kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Lovens formål er å fremme likestilling uavhengig av kjønn. Likestilling innebærer:\na. likeverd,\nb. like muligheter og rettigheter,\nc. tilgjengelighet og\nd. tilrettelegging.\nLoven tar særlig sikte på å bedre kvinners stilling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens saklige virkeområde",
+      "content": "Loven gjelder på alle områder i samfunnet.\nKongen kan gi forskrift om at kvinners tjeneste i Forsvaret helt eller delvis skal unntas fra lovens virkeområde.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Lovens stedlige virkeområde",
+      "content": "Loven gjelder i hele landet, herunder på Svalbard og Jan Mayen. Loven gjelder også på faste og flyttbare installasjoner i virksomhet på norsk kontinentalsokkel,​1 på norske skip og norske luftfartøyer.\nKongen gir forskrift om lovens anvendelse for utsendte arbeidstakere, jf. arbeidsmiljøloven​2 § 1-7.\n1 Se lov 21 juni 1963 nr. 12 § 1 annet punktum.\n2 Lov 17 juni 2005 nr. 62.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Ufravikelighet",
+      "content": "Bestemmelsene i denne loven kan ikke fravikes ved avtale.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Hovedregel om forbud mot diskriminering​1",
+      "content": "Diskriminering på grunn av kjønn er forbudt.​2 Diskriminering på grunn av graviditet og permisjon ved fødsel eller adopsjon regnes som diskriminering på grunn av kjønn. Forbudet gjelder diskriminering på grunn av en persons faktiske, antatte, tidligere eller fremtidige graviditet eller permisjon. Forbudet gjelder også diskriminering på grunn av kjønn til en person som den som diskrimineres har tilknytning til.\nMed diskriminering menes direkte og indirekte forskjellsbehandling som ikke er lovlig etter § 6 eller § 7. Med direkte forskjellsbehandling menes en handling eller unnlatelse som har som formål eller virkning at en person blir behandlet dårligere enn andre i tilsvarende situasjon, og at dette skyldes kjønn. Med indirekte forskjellsbehandling menes enhver tilsynelatende nøytral bestemmelse, betingelse, praksis, handling eller unnlatelse som fører til at personer stilles dårligere enn andre, og at dette skjer på grunn av kjønn.​2\n1 Jf. Grl. § 98.\n2 Se §§ 26 og 28, jf. lov 10 juni 2005 nr. 40 §§ 4, 7, 8 og 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Lovlig forskjellsbehandling",
+      "content": "Forskjellsbehandling er ikke i strid med forbudet i § 5 når:\na. den har et saklig formål,\nb. den er nødvendig for å oppnå formålet og\nc. det er et rimelig forhold mellom det man ønsker å oppnå og hvor inngripende forskjellsbehandlingen er for den eller de som stilles dårligere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Positiv særbehandling",
+      "content": "Positiv særbehandling av det ene kjønn er ikke i strid med forbudet i § 5 dersom:\na. særbehandlingen er egnet til å fremme lovens formål,​1\nb. det er et rimelig forhold mellom det man ønsker å oppnå og hvor inngripende forskjellsbehandlingen er for den eller de som stilles dårligere og\nc. særbehandlingen opphører når formålet med den er oppnådd.\nKongen kan gi forskrift om hvilke former for særbehandling som tillates i medhold av denne loven, herunder bestemmelser om særbehandling av menn i forbindelse med undervisning av og omsorg for barn.\n1 Se § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Forbud mot trakassering",
+      "content": "Trakassering på grunn av kjønn og seksuell trakassering er forbudt.\nMed trakassering på grunn av kjønn menes handlinger, unnlatelser eller ytringer som virker eller har til formål å virke krenkende, skremmende, fiendtlige, nedverdigende eller ydmykende. Med seksuell trakassering menes uønsket seksuell oppmerksomhet som er plagsom for den oppmerksomheten rammer.​1\n1 Sml. strl. 2005 § 298.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Forbud mot gjengjeldelse",
+      "content": "Det er forbudt å gjøre gjengjeld mot noen som har fremmet klage om brudd på denne loven, eller som har gitt uttrykk for at klage kan bli fremmet. Dette gjelder ikke dersom klageren har opptrådt grovt uaktsomt. Forbudet gjelder også overfor vitner i en klagesak.\nDet er forbudt å gjøre gjengjeld mot noen som unnlater å følge en instruks som er i strid med § 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Forbud mot instruks",
+      "content": "Det er forbudt å instruere noen om å diskriminere, trakassere eller gjøre gjengjeld i strid med denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Forbud mot medvirkning",
+      "content": "Det er forbudt å medvirke til å diskriminere, trakassere, gjøre gjengjeld eller instruere i strid med denne loven.​1\n1 Sml. strl. 2005 § 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Offentlige myndigheters plikt til aktivt likestillingsarbeid​1",
+      "content": "Offentlige myndigheter skal arbeide aktivt, målrettet og planmessig for likestilling​2 mellom kjønnene.\n1 Sml. lov 1 apr 2005 nr. 15 § 6-2.\n2 Se § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Kjønnsbalanse i offentlige utvalg",
+      "content": "Når et offentlig organ oppnevner eller velger utvalg, styrer, råd, nemnder, delegasjoner mv., skal begge kjønn være representert på følgende måte:\na. Har utvalget to eller tre medlemmer, skal begge kjønn være representert.\nb. Har utvalget fire eller fem medlemmer, skal hvert kjønn være representert med minst to.\nc. Har utvalget seks til åtte medlemmer, skal hvert kjønn være representert med minst tre.\nd. Har utvalget ni medlemmer, skal hvert kjønn være representert med minst fire.\ne. Har utvalget flere medlemmer, skal hvert kjønn være representert med minst 40 prosent.\nFørste ledd gjelder også ved valg av varamedlemmer.\nDepartementet kan gi dispensasjon når det foreligger særlige forhold som gjør det åpenbart urimelig å oppfylle kravene.\nFørste ledd gjelder ikke for utvalg mv. som etter lov bare skal ha medlemmer fra direkte valgte forsamlinger.​1 For utvalg mv. valgt av folkevalgte organer i kommuner og fylkeskommuner, gjelder bestemmelsene i kommuneloven.​2\nKongen gir forskrift om håndheving og rapportering. Kongen kan også gi forskrift med utfyllende bestemmelser etter denne bestemmelsen.\n1 Se lov 28 juni 2002 nr. 57.\n2 Lov 25 sep 1992 nr. 107.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Arbeidslivets organisasjoners aktivitetsplikt",
+      "content": "Arbeidslivets organisasjoner skal arbeide aktivt, målrettet og planmessig for å fremme lovens formål innenfor sitt virkefelt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Organisasjoners og utdanningsinstitusjoners plikt til å forebygge og forhindre trakassering",
+      "content": "Ledelsen i organisasjoner og utdanningsinstitusjoner skal innenfor sitt ansvarsområde forebygge og søke å hindre at det forekommer trakassering i strid med § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Læremidlers innhold",
+      "content": "I skoler​1 og andre undervisningsinstitusjoner skal læremidlene bygge på likestilling uavhengig av kjønn.\n1 Se lov 17 juli 1998 nr. 61 § 1-1 (4) annet punktum.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Diskrimineringsforbudet i arbeidsforhold",
+      "content": "Forbudene i kapittel 2 gjelder alle sider av et ansettelsesforhold. Dette omfatter blant annet:\na. utlysning av stilling,\nb. ansettelse, omplassering og forfremmelse,\nc. opplæring og kompetanseutvikling,\nd. lønns- og arbeidsvilkår og\ne. opphør av ansettelsesforholdet.\nFørste ledd gjelder tilsvarende for arbeidsgivers valg og behandling av selvstendig næringsdrivende og innleide arbeidstakere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Forbud mot innhenting av opplysninger ved ansettelse",
+      "content": "En arbeidsgiver må ikke​1 i ansettelsesprosessen, herunder under intervju eller på annen måte, innhente opplysninger om graviditet, adopsjon​2 eller planer om å få barn.\n1 Se §§ 26 og 28, jf. lov 10 juni 2005 nr. 40 §§ 4, 7, 8 og 13.\n2 Jf. lov 28 feb 1986 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Arbeidsgivers opplysningsplikt overfor arbeidssøker",
+      "content": "En arbeidssøker som mener seg forbigått i strid med denne loven, kan kreve at arbeidsgiveren skriftlig gir opplysninger om den som ble ansatt. Arbeidsgiver skal​1 opplyse om utdanning, praksis og andre formelle kvalifikasjoner.\n1 Se § 26, jf. lov 10 juni 2005 nr. 40 §§ 4, 7, 8 og 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Arbeidstakeres rettigheter ved foreldrepermisjon",
+      "content": "En arbeidstaker som er eller har vært i foreldrepermisjon etter arbeidsmiljøloven​1 § 12-5 har rett​2 til å:\na. vende tilbake til samme, eventuelt tilsvarende, stilling,\nb. nyte godt av forbedringer av arbeidsvilkårene som arbeidstakeren ellers ville vært berettiget til under fraværet og\nc. fremme lønnskrav og å bli vurdert i lønnsforhandlinger på samme måte som de øvrige arbeidstakerne i virksomheten.\nFørste ledd regulerer ikke fastsettelse eller endringer av lønns- og arbeidsvilkår som er en følge av andre forhold enn foreldrepermisjon.\nParagrafen her gjelder tilsvarende ved andre permisjoner knyttet til graviditet og fødsel, jf. arbeidsmiljøloven​1 § 12-2 til § 12-8.\n1 Lov 17 juni 2005 nr. 62.\n2 Se § 28 og § 26, jf. lov 10 juni 2005 nr. 40 §§ 4, 7, 8 og 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Lik lønn for arbeid av lik verdi",
+      "content": "Kvinner og menn i samme virksomhet skal​1 ha lik lønn for samme arbeid eller arbeid av lik verdi. Lønnen skal fastsettes på samme måte for kvinner og menn uten hensyn til kjønn.\nRetten til lik lønn for samme arbeid eller arbeid av lik verdi gjelder uavhengig av om arbeidene tilhører ulike fag eller om lønnen reguleres i ulike tariffavtaler.\nOm arbeidene er av lik verdi, avgjøres etter en helhetsvurdering der det legges vekt på den kompetanse som er nødvendig for å utføre arbeidet og andre relevante faktorer, som for eksempel anstrengelse, ansvar og arbeidsforhold.\nMed lønn menes det alminnelige arbeidsvederlag samt alle andre tillegg eller fordeler eller andre goder som ytes av arbeidsgiveren.\nKongen kan i forskrifter gi nærmere regler om hva som regnes som samme virksomhet i stat og kommune.\n1 Se § 28 og § 26, jf. lov 10 juni 2005 nr. 40 §§ 4, 7, 8 og 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Arbeidsgivers opplysningsplikt om lønn",
+      "content": "En arbeidstaker som har mistanke om diskriminering ved lønnsfastsettelsen, kan kreve at arbeidsgiver skriftlig opplyser om lønnsnivå og kriteriene for fastsettelsen av lønn for den eller de vedkommende sammenlikner seg med.\nDen som mottar opplysninger om lønn​1 i medhold av denne bestemmelsen har taushetsplikt og skal underskrive en taushetserklæring. Dette gjelder ikke opplysninger som omfattes av offentleglova.\nArbeidsgiver som utleverer lønnsopplysninger om en ansatt etter denne bestemmelsen skal samtidig informere vedkommende om hvilke opplysninger som er utlevert, og til hvem.\n1 Se § 26, jf. lov 10 juni 2005 nr. 40 §§ 4, 7, 8 og 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "title": "Arbeidsgivers aktivitetsplikt",
+      "content": "Arbeidsgivere skal arbeide aktivt, målrettet og planmessig for å fremme lovens formål innenfor sin virksomhet. Aktivitetsplikten omfatter blant annet rekruttering, lønns- og arbeidsvilkår, forfremmelse, utviklingsmuligheter og beskyttelse mot trakassering.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "title": "Arbeidsgivers redegjørelsesplikt",
+      "content": "Arbeidsgivere skal redegjøre for:\na. den faktiske tilstanden når det gjelder kjønnslikestilling i virksomheten og\nb. likestillingstiltak som er iverksatt og som planlegges iverksatt for å oppfylle aktivitetsplikten etter § 23.\nRedegjørelsesplikten gjelder for virksomheter som i lov er pålagt å utarbeide årsberetning.​1 Disse skal ta redegjørelsene inn i virksomhetens årsberetning.\nRedegjørelsesplikten gjelder også for offentlige myndigheter og offentlige virksomheter som ikke er pålagt å utarbeide årsberetning. Disse skal ta redegjørelsene inn i årsbudsjettet.\n1 Se rskl. § 3-1, se § 1-2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "title": "Arbeidsgivers plikt til å forebygge og forhindre trakassering",
+      "content": "Arbeidsgivere skal forebygge og søke å hindre at det forekommer trakassering i strid med § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Håndheving av loven",
+      "content": "Likestillings- og diskrimineringsombudet og Likestillings- og diskrimineringsnemnda skal håndheve og medvirke til gjennomføringen av denne loven, jf. diskrimineringsombudsloven.​1 Ombudet og nemnda skal likevel ikke håndheve reglene om:\na. seksuell trakassering i § 8,\nb. aktivt likestillingsarbeid i kapittel 3 og § 23,\nc. behandling av lønnsopplysninger i § 22 andre ledd og\nd. oppreisning og erstatning i § 28.\nOmbudet og nemnda skal ikke håndheve forbudet mot diskriminering i familieliv og andre rent personlige forhold.\n1 Lov 10 juni 2005 nr. 40.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Bevisbyrde",
+      "content": "Det skal legges til grunn at diskriminering​1 har funnet sted hvis:\na. det foreligger omstendigheter som gir grunn til å tro at det har skjedd diskriminering og\nb. den ansvarlige ikke sannsynliggjør at diskriminering likevel ikke har funnet sted.\nDette gjelder ved påståtte brudd på bestemmelsene i kapittel 2 og §§ 17, 18, 20 og 21.\n1 Se § 5 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Oppreisning og erstatning",
+      "content": "Den som er blitt diskriminert​1 kan kreve oppreisning og erstatning. Dette gjelder ved brudd på bestemmelsene i kapittel 2 og §§ 17, 18, 20 og 21.\nI ansettelsesforhold gjelder ansvaret uavhengig av om arbeidsgiveren kan bebreides for diskrimineringen. På andre samfunnsområder gjelder ansvaret dersom den som har diskriminert kan bebreides for dette.\nErstatningen skal dekke økonomisk tap som følge av diskrimineringen. Oppreisning​2 for ikke-økonomisk skade fastsettes til det som er rimelig ut fra skadens omfang og art, partenes forhold og omstendighetene for øvrig.\nDisse reglene begrenser ikke personens rett til å kreve oppreisning og erstatning etter alminnelige erstatningsregler.​3\n1 Se § 5 (2).\n2 Sml. lov 13 juni 1969 nr. 26 § 3-5.\n3 Se lov 13 juni 1969 nr. 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Organisasjoners adgang til å opptre som fullmektig",
+      "content": "I saker som behandles av Likestillings- og diskrimineringsombudet og Likestillings- og diskrimineringsnemnda, kan en organisasjon som helt eller delvis har til formål å arbeide mot diskriminering​1 brukes som fullmektig.\nI saker for domstolene kan en person utpekt av og med tilknytning til en organisasjon som helt eller delvis har til formål å arbeide mot diskriminering, brukes som prosessfullmektig.​2 Dette gjelder ikke for Høyesterett. Retten kan nekte å godta en prosessfullmakt hvis det etter rettens skjønn er fare for at prosessfullmektigen ikke har tilstrekkelige kvalifikasjoner til å ivareta partens interesser på en tilfredsstillende måte. En prosessfullmektig skal ved siden av fullmakt som nevnt i tvisteloven​3 § 3-4 til samme tid fremlegge skriftlig orientering fra organisasjonen om prosessfullmektigens kvalifikasjoner.\n1 Se § 5 (2).\n2 Se tvistel. kap. 3.\n3 Lov 17 juni 2005 nr. 90.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1 Fra samme tid oppheves lov 9. juni 1978 nr. 45 om likestilling mellom kjønnene.\n1 Fra 1 jan 2014 iflg. res. 21 juni 2013 nr. 705.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "title": "Videreføring av forskrifter",
+      "content": "Forskrifter gitt i medhold av lov 9. juni 1978 nr. 45 om likestilling mellom kjønnene § 2 fjerde ledd gjelder også etter at loven her har trådt i kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1982-06-11-52",
+  "type": "statute",
+  "title": "Lov om et nytt bispedømme på Nord-Vestlandet.",
+  "short_name": "Lov om Møre bispedømme.",
+  "status": "in_force",
+  "issued_date": "1982-06-11",
+  "in_force_date": "1983-09-18",
+  "url": "https://lovdata.no/dokument/NLO/lov/1982-06-11-52",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Frå den tid​1 Kongen fastset skal det opprettast eit nytt Møre bispedømme, med grenser som Møre og Romsdal fylke og med Molde by som bispesete.\nFylkesmannen i Møre og Romsdal trer inn som medlem av stiftsdireksjonen for bispedømmet.\n1 Frå 18 sep 1983, etter res. 24 juni 1983 nr. 1171.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen gjev nærare føresegner i samband med opprettinga av det nye bispedømmet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Frå den tid​1 Kongen fastset skal det opprettast eit nytt Møre bispedømme, med grenser som Møre og Romsdal fylke og med Molde by som bispesete.\nFylkesmannen i Møre og Romsdal trer inn som medlem av stiftsdireksjonen for bispedømmet.\n1 Frå 18 sep 1983, etter res. 24 juni 1983 nr. 1171.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen gjev nærare føresegner i samband med opprettinga av det nye bispedømmet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

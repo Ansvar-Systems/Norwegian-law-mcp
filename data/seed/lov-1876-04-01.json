@@ -1,0 +1,175 @@
+{
+  "id": "LOV-1876-04-01",
+  "type": "statute",
+  "title": "Lov angaaende Udgivelse af en Lovtidende og Bekjendtgjørelse af Love m.V.",
+  "short_name": "Lov angaaende Udgivelse af en Lovtidende",
+  "status": "in_force",
+  "issued_date": "1876-04-01",
+  "in_force_date": "1877-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1876-04-01",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Norsk Lovtidend utgis for offentlig regning og skal inneholde:​1\na. grundlovsbestemmelser,\nb. lover,\nc. provisoriske anordninger og kunngjøringer om oppheving av slike anordninger,\nd. anordninger og bestemmelser som Kongen eller et regjeringsdepartement har gitt eller godkjent – når overtredelse kan medføre ansvar eller tap av rettigheter​2 for privatfolk,\ne. vedtak om skattepålegg.\nEtter forskrifter som Kongen gir,​3 kan også inntas anordninger og bestemmelser med innhold som nevnt under bokstav d, når de er gitt eller godkjent av et direktorat eller et annet sentralt organ for forvaltningen.\nNår en lov er blitt endret, kan Kongen fastsette at loven skal tas inn i lovtidende på nytt, med den nye ordlyd.\n0 Endret ved lover 27 juli 1896 nr. 5 og 23 mai 1947 nr. 3.\n1 Jfr. lover 11 april 1885 nr. 2 § 1, 23 april 1892 § 27 a, 31 mai 1918 nr. 2 § 27.\n2 Jfr. lov 26 juni 1953 nr. 4. Jfr. også lover 4 juli 1919 nr. 1 § 3 og 12 mars 1920 nr. 5 §§ 5, 7, 23 og 35, 4de ledd.\n3 Se res. 28 mai 1948.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den hidtil foreskrevne Thinglæsning af Love og andre i foregaaende § omhandlede Bestemmelser bortfalder. Enhver Lov træder, forsaavidt den ikke selv bestemmer noget andet, i Kraft overalt i Riget 4 Uger efter den Dag, da det Nummer af Lovtidenden, hvori den bekjendtgjøres, er udgivet. Det Samme gjælder de i § l litr. c, d og e omhandlede Anordninger og Beslutninger. Ethvert Nummer af Lovtidenden skal betegne den Dag, da det udgives.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Saafremt en Lov foreskriver, at den skal gjælde, forsaavidt en tilsvarende Bestemmelse er i Kraft i et andet Rige, bliver ved Bekjendtgjørelse i Lovtidenden angaaende dette Vilkaars Indtræden eller Ophør tillige at kundgjøre, fra hvilket Tidspunkt Loven i Norge skal træde i eller ud af Virksomhed.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Foruden de i § 1 nævnte kan desuden i Lovtidenden, men i en særskilt Afdeling, indrykkes andre af Kongen eller et Regjeringsdepartement eller af anden Autoritet udfærdigede Bestemmelser, saasom Resolutioner, Konventioner, Traktater, Plakater, Bekjendtgjørelser, Instruxer, Reglementer, Skrivelser m.M., forsaavidt de findes af saadan Betydning, at deres Offentliggjørelse paa denne Maade ansees hensigtsinæssig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Exemplarer af Lovtidenden tilstilles uden Betaling samtlige Øvrigheder, Dommere og Kommunebestyrelser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Ethvert Nummer af Lovtidenden bør snarest muligt bekjendtgjøres ved Opslag eller Udlæggelse til Eftersyn i Retslokalerne eller paa andre hensigtsmæssige Steder, hvorhos Underdommerne have at give de paa Thinget Forsamlede Underretning om hvilke Love og Anordninger ere indførte i Lovtidenden samt at meddele en kort Oversigt over Bestemmelsemes væsentligste Indhold, forsaavidt dette kan antages for vedkommende Distrikt at være af Interesse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "De nærmere Bestemmelser vedkommende denne Lovs Gjennemførelse, deri under om Fordeling uden Betaling af Lovtidenden udover det i § 5 Bestemte og om andet Slags Bekjendtgjørelsesmaade ved Siden af den i § 6 bestemte, gives​1 af Kongen eller hvem han dertil bemyndiger.​2\n1 Gitt ved res. 10 janr. 1877, 5 april 1879 og 1 mai 1914.\n2 Justisdepartementet iflg. res. 21 okt. 1949.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Denne Lov træder i Kraft fra 1ste Januar næste Aar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Norsk Lovtidend utgis for offentlig regning og skal inneholde:​1\na. grundlovsbestemmelser,\nb. lover,\nc. provisoriske anordninger og kunngjøringer om oppheving av slike anordninger,\nd. anordninger og bestemmelser som Kongen eller et regjeringsdepartement har gitt eller godkjent – når overtredelse kan medføre ansvar eller tap av rettigheter​2 for privatfolk,\ne. vedtak om skattepålegg.\nEtter forskrifter som Kongen gir,​3 kan også inntas anordninger og bestemmelser med innhold som nevnt under bokstav d, når de er gitt eller godkjent av et direktorat eller et annet sentralt organ for forvaltningen.\nNår en lov er blitt endret, kan Kongen fastsette at loven skal tas inn i lovtidende på nytt, med den nye ordlyd.\n0 Endret ved lover 27 juli 1896 nr. 5 og 23 mai 1947 nr. 3.\n1 Jfr. lover 11 april 1885 nr. 2 § 1, 23 april 1892 § 27 a, 31 mai 1918 nr. 2 § 27.\n2 Jfr. lov 26 juni 1953 nr. 4. Jfr. også lover 4 juli 1919 nr. 1 § 3 og 12 mars 1920 nr. 5 §§ 5, 7, 23 og 35, 4de ledd.\n3 Se res. 28 mai 1948.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den hidtil foreskrevne Thinglæsning af Love og andre i foregaaende § omhandlede Bestemmelser bortfalder. Enhver Lov træder, forsaavidt den ikke selv bestemmer noget andet, i Kraft overalt i Riget 4 Uger efter den Dag, da det Nummer af Lovtidenden, hvori den bekjendtgjøres, er udgivet. Det Samme gjælder de i § l litr. c, d og e omhandlede Anordninger og Beslutninger. Ethvert Nummer af Lovtidenden skal betegne den Dag, da det udgives.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Saafremt en Lov foreskriver, at den skal gjælde, forsaavidt en tilsvarende Bestemmelse er i Kraft i et andet Rige, bliver ved Bekjendtgjørelse i Lovtidenden angaaende dette Vilkaars Indtræden eller Ophør tillige at kundgjøre, fra hvilket Tidspunkt Loven i Norge skal træde i eller ud af Virksomhed.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Foruden de i § 1 nævnte kan desuden i Lovtidenden, men i en særskilt Afdeling, indrykkes andre af Kongen eller et Regjeringsdepartement eller af anden Autoritet udfærdigede Bestemmelser, saasom Resolutioner, Konventioner, Traktater, Plakater, Bekjendtgjørelser, Instruxer, Reglementer, Skrivelser m.M., forsaavidt de findes af saadan Betydning, at deres Offentliggjørelse paa denne Maade ansees hensigtsinæssig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Exemplarer af Lovtidenden tilstilles uden Betaling samtlige Øvrigheder, Dommere og Kommunebestyrelser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Ethvert Nummer af Lovtidenden bør snarest muligt bekjendtgjøres ved Opslag eller Udlæggelse til Eftersyn i Retslokalerne eller paa andre hensigtsmæssige Steder, hvorhos Underdommerne have at give de paa Thinget Forsamlede Underretning om hvilke Love og Anordninger ere indførte i Lovtidenden samt at meddele en kort Oversigt over Bestemmelsemes væsentligste Indhold, forsaavidt dette kan antages for vedkommende Distrikt at være af Interesse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "De nærmere Bestemmelser vedkommende denne Lovs Gjennemførelse, deri under om Fordeling uden Betaling af Lovtidenden udover det i § 5 Bestemte og om andet Slags Bekjendtgjørelsesmaade ved Siden af den i § 6 bestemte, gives​1 af Kongen eller hvem han dertil bemyndiger.​2\n1 Gitt ved res. 10 janr. 1877, 5 april 1879 og 1 mai 1914.\n2 Justisdepartementet iflg. res. 21 okt. 1949.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Denne Lov træder i Kraft fra 1ste Januar næste Aar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    }
+  ]
+}

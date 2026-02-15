@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1937-03-19-1",
+  "type": "statute",
+  "title": "Lov angående forholdsregler for å hindre deltagelse i krig i fremmed land.",
+  "short_name": "Lov om krigsdeltagelse i fremmed land.",
+  "status": "in_force",
+  "issued_date": "1937-03-19",
+  "in_force_date": "1937-03-19",
+  "url": "https://lovdata.no/dokument/NLO/lov/1937-03-19-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen kan utferdige forbud mot\n1. at noen her i riket lar sig hverve til fremmed krigstjeneste for et land hvis statsborger han ikke er og ikke har vært i en nærmere fastsatt tid;\n2. at noen reiser fra Norge til et sådant land for å delta i krig.\nOvertredelse av sådant forbud eller medvirkning hertil straffes med bøter​1 eller fengsel​2 inntil 3 måneder.​3\n1 Se strl. 1902 § 27 og kap. 3 a; strl. 2005 kap. 4 og kap. 9.\n2 Jf. strl. 1902 § 26 a; strl. 2005 kap. 6 og kap. 9.\n3 Jf. strl. 1902 § 25; strl. 2005 § 31 (3).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Vedkommende departement​1 kan treffe de forføininger som er nødvendige for å gjennemføre og påse overholdt forbud som omhandlet i § 1.\n1 Justisdepartementet ifølge res. 19 mars 1937.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen kan utferdige forbud mot\n1. at noen her i riket lar sig hverve til fremmed krigstjeneste for et land hvis statsborger han ikke er og ikke har vært i en nærmere fastsatt tid;\n2. at noen reiser fra Norge til et sådant land for å delta i krig.\nOvertredelse av sådant forbud eller medvirkning hertil straffes med bøter​1 eller fengsel​2 inntil 3 måneder.​3\n1 Se strl. 1902 § 27 og kap. 3 a; strl. 2005 kap. 4 og kap. 9.\n2 Jf. strl. 1902 § 26 a; strl. 2005 kap. 6 og kap. 9.\n3 Jf. strl. 1902 § 25; strl. 2005 § 31 (3).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Vedkommende departement​1 kan treffe de forføininger som er nødvendige for å gjennemføre og påse overholdt forbud som omhandlet i § 1.\n1 Justisdepartementet ifølge res. 19 mars 1937.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

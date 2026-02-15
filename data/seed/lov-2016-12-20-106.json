@@ -1,0 +1,519 @@
+{
+  "id": "LOV-2016-12-20-106",
+  "type": "statute",
+  "title": "Lov om godtgjørelse for stortingsrepresentanter (stortingsgodtgjørelsesloven)",
+  "short_name": "Stortingsgodtgjørelsesloven",
+  "status": "in_force",
+  "issued_date": "2016-12-20",
+  "in_force_date": "2017-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/2016-12-20-106",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Virkeområde og definisjoner",
+      "content": "Loven har bestemmelser om den godtgjørelse som tilkommer stortingsrepresentanter etter Grunnloven § 65 samt regler om dekning av utgifter mv.\nLoven gjelder for valgte stortingsrepresentanter og for fast møtende og innkalte vararepresentanter, samt andre der dette er særskilt fastsatt.\nSom fast møtende vararepresentanter regnes representanter som møter for stortingsrepresentanter som er utnevnt til statsråder, statssekretærer eller politiske rådgivere i regjeringen, eller for stortingsrepresentanter som er avgått ved døden.\nSom innkalte vararepresentanter regnes representanter som møter for stortingsrepresentanter i andre tilfeller enn dem som er nevnt i tredje ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Stortingets godtgjøringsutvalg",
+      "content": "Etter innstilling fra Stortingets godtgjøringsutvalg fastsetter Stortinget den godtgjørelsen som tilkommer stortingsrepresentanter, statsministeren og regjeringens medlemmer. Godtgjørelsen fastsettes som et årlig beløp.\nStortingets presidentskap oppnevner leder og to andre medlemmer til Stortingets godtgjøringsutvalg, med funksjonstid på fire år. Utvalget er beslutningsdyktig når alle medlemmer er til stede. Stortingets presidentskap kan fastsette nærmere retningslinjer om utvalgets virksomhet.\n0 Endret ved lov 11 juni 2021 nr. 64 (ikr. 1 okt 2021).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "title": "Stortingsrepresentanters godtgjørelse",
+      "content": "Stortingets president tilkommer samme godtgjørelse som statsministeren. For øvrig fastsettes samme godtgjørelse til alle stortingsrepresentanter, med de tillegg som fremgår av § 5.\nDen årlige godtgjørelsen utbetales med 1/12 hver måned. Dette gjelder også for fast møtende vararepresentanter i den perioden de møter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Innkalte vararepresentanters godtgjørelse",
+      "content": "Innkalte vararepresentanter tilkommer samme godtgjørelse som stortingsrepresentantene for de dagene eller den perioden de er innkalt til å møte. Det ytes også godtgjørelse for hver dag eller del av dag på mer enn seks timer som er nødvendig for reise til og fra Stortinget og som faller utenom de dagene vararepresentanten møter i Stortinget.\nInnkalte vararepresentanter kan etter søknad til Stortingets presidentskap også gis rett til å beholde godtgjørelsen i perioder de ikke er innkalt i følgende tilfeller:\na. I perioder uten møter i plenum, når vararepresentanten møter for en representant som må antas å fortsette sitt fravær også etter den aktuelle perioden.\nb. Ut kalenderåret etter siste innkallingsdag før jul hvis vararepresentanten har møtt minst to måneder i sesjonen og ikke har annen inntekt i den perioden det søkes om å beholde godtgjørelsen.\nc. I andre særlige tilfeller.\nInnkalte vararepresentanters opptjente godtgjørelse utbetales månedlig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Tilleggsgodtgjørelse",
+      "content": "Stortingets første visepresident tilkommer en tilleggsgodtgjørelse på 14 prosent av den årlige godtgjørelsen. De øvrige visepresidentene tilkommer en tilleggsgodtgjørelse på 7 prosent.\nLederne for Stortingets fagkomiteer tilkommer en tilleggsgodtgjørelse på 7 prosent av den årlige godtgjørelsen. Den som fungerer som komitéleder ut over fem dager, tilkommer tilsvarende tilleggsgodtgjørelse som komitélederen for den tid fungeringen varer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Forskudd på godtgjørelse",
+      "content": "Representantene kan etter søknad i særskilte tilfeller gis inntil to måneders godtgjørelse utbetalt på forskudd. Vilkårene for rett til forskudd og reglene for tilbakebetaling er de samme som for ansatte i staten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Godtgjørelse under permisjoner",
+      "content": "Under permisjon fra Stortinget beholder representantene godtgjørelsen i inntil 14 dager, med mindre de meddeler at de gir avkall på slik godtgjørelse.\nStortingets presidentskap kan etter søknad beslutte at en representant skal beholde godtgjørelsen ut over 14 dager i følgende tilfeller:\na. Ved permisjon på grunn av representantens sykdom eller skade.\nb. Ved permisjon til deltakelse på reise som medlem av delegasjon oppnevnt av Stortinget eller Stortingets presidentskap.\nc. Ved permisjon for å delta i møter eller utføre andre oppdrag etter oppnevning av Kongen, Stortinget eller et departement.\nd. Ved permisjon innvilget av velferdsgrunner.\nVed søknad om permisjon etter bokstav a må sykmelding fremlegges enten sammen med permisjonssøknaden eller snarest mulig etter at permisjonen er innvilget. Dersom dette ikke etterkommes, kan Stortingets presidentskap bestemme at godtgjørelsen skal falle bort for den resterende del av permisjonen.\nUnder svangerskaps-, omsorgs- og fødselspermisjon, og permisjon ved barns og barnepassers sykdom, har representantene rett til å beholde godtgjørelsen etter tilsvarende regler som for tilsatte i staten etter arbeidsmiljøloven kapittel 12, folketrygdloven kapittel 14 og reglene i Hovedtariffavtalen i staten. Dette gjelder også for innkalte vararepresentanter for den perioden de er innkalt til å gjøre tjeneste.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Generelt om reiseutgifter",
+      "content": "Alle reiser som skal dekkes av Stortinget, skal foretas på den mest kostnadseffektive måte, så langt dette er forenelig med reisens formål.\nReisene skal dokumenteres, også om de helt eller delvis dekkes av andre enn Stortinget.\nReiseregninger skal gjøres opp snarest.\nStortingets presidentskap gir nærmere retningslinjer om dekning av reiseutgifter etter dette kapittel.\n0 Endret ved lov 11 juni 2021 nr. 64 (ikr. 1 okt 2021).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Utgifter på tjenestereise",
+      "content": "Representanter som foretar tjenestereiser i sammenheng med utøvelsen av stortingsvervet, innenlands og utenlands, får dekket sine reiseutgifter etter reglene i statens alminnelige reiseregulativer, bestemmelser etter kapittel IV og retningslinjer etter § 8 fjerde ledd.\nFor tjenestereiser som skal dekkes av Stortinget må reisens formål og innhold i hovedsak være tjenesterelatert.\nTjenestereiser utenlands i forbindelse med de faste parlamentarikerdelegasjoners virksomhet skal være godkjent av delegasjonsleder. Alle andre tjenestereiser utenlands skal være godkjent av Stortingets presidentskap.\nPå tjenestereiser utenlands kan det bare kreves dekning for legitimerte utgifter til overnatting.\nSom hovedregel kan det ikke kreves dekning av reiseutgifter for ledsager. Når det er nødvendig for å ivareta Stortingets representative funksjoner, kan Stortingets presidentskap etter søknad likevel beslutte at slike utgifter helt eller delvis skal dekkes.\nStortingets presidentskap kan beslutte at representanter på tjenestereise kan få dekket nødvendige merutgifter til barnetilsyn, eventuelt reise- og oppholdsutgifter for én barnepasser. Dette gjelder inntil barnet fyller ett år, med mindre det foreligger særlige grunner som tilsier noe annet. Tapt arbeidsinntekt for ledsager dekkes ikke.\nDet kan ytes forskudd til utgifter til tjenestereiser, jf. § 6.\n0 Endret ved lov 21 juni 2019 nr. 33 (ikr. 1 juli 2019).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Utgifter i forbindelse med fravær fra hjemmet",
+      "content": "Stortinget anses som fast arbeidssted for representantene. Med mindre noe annet er særskilt bestemt, betraktes arbeidsreiser mellom Stortinget og bosted (pendlerbolig eller privat bolig) som privatreiser og dekkes av representantene selv. Innkalte vararepresentanter får dekket faktiske utgifter til overnatting i den tiden de gjør tjeneste. Ved sykdom eller skade kan representantene få dekket særlige utgifter til transport til og fra Stortinget.\nRepresentanter som bor mer enn 40 km fra Stortinget, kan få dekket utgifter til reiser tur/retur Stortinget ved tiltredelse og fratredelse, sesjonsåpning og avslutning.\nRepresentanter som bor mer enn 40 km fra Stortinget, kan få dekket reiseutgifter mellom Stortinget eller pendlerboligen og representantenes hjemsted inntil én gang tur/retur per uke. Representanter med barn under 20 år som bor på hjemstedet, får dekket utgifter til inntil én ekstra hjemreise per uke. Stortingets presidentskap kan i særlige tilfeller utvide antall pendlerreiser per uke. Første og andre punktum gjelder ikke innkalte vararepresentanter som er innkalt for en kortere periode enn én hel uke.\nI uker med helligdag tirsdag, onsdag eller torsdag dekkes ytterligere én pendlerreise tur/retur hjemsted og Oslo. Det dekkes inntil to pendlerreiser tur/retur i slike uker, også for representanter med barn under 20 år.\nVed permisjon på grunn av sykdom, skade eller velferdsgrunner kan representantene få dekket reiseutgifter for en reise tur/retur Stortinget og hjemsted eller annet innenlands oppholdssted.\nVed bruk av egen bil til reiser etter paragrafen her dekkes kilometergodtgjørelse etter satsene for tjenestereiser i staten.\n0 Endret ved lover 21 juni 2019 nr. 33 (ikr. 1 juli 2019), 11 juni 2021 nr. 64 (ikr. 1 okt 2021), 15 des 2023 nr. 89 (i kraft 1 jan 2024).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Utgifter til flytting",
+      "content": "Representantene kan få dekket nødvendige utgifter til én flytting fra hjemsted til Oslo og én flytting fra Oslo til hjemsted. Dette gjelder ikke innkalte vararepresentanter.\nFlytting mellom pendlerboliger må representanten selv bekoste.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Utgifter til besøksreiser for representantenes familie",
+      "content": "Representanter kan få dekket reiseutgifter mellom representantens hjemsted og Oslo for medlemmer av representantens husstand samt egne barn under 18 år. Som medlemmer av husstanden menes ektefelle, samboer og barn under 18 år. For representantens barn under 18 år med annet bosted enn representantens hjemsted, dekkes reisekostnad mellom barnets hjemsted og Oslo. Ordningen omfatter inntil to besøksreiser per berettiget person per år for representanter som bor mer enn 40 km fra Oslo. Representanter som har foreldreansvar for barn alene, kan i tillegg få dekket reiseutgifter til ledsager for barnet inntil det fyller 12 år.\nInnkalte vararepresentanter som har gjort tjeneste i til sammen seks måneder eller mer i løpet av et kalenderår, har rett til dekning av besøksreiser etter første ledd.\n0 Endret ved lov 11 juni 2021 nr. 64 (ikr. 1 okt 2021).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Dekning av innkalte vararepresentanters utgifter til barnepass",
+      "content": "Etter søknad til Stortingets presidentskap kan innkalte vararepresentanter i særlige tilfeller få dekket nødvendige og dokumenterte utgifter til barnepass. Tapt arbeidsinntekt for barnepasser dekkes ikke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Feriepenger",
+      "content": "Innkalte vararepresentanter får feriepenger på siste ordinære utbetalingsdag før avbrytelse av Stortingets forhandlinger i juni. Feriepengegrunnlaget beregnes på grunnlag av den mottatte godtgjørelsen i foregående kalenderår. Leddet her gjelder tilsvarende for fast møtende vararepresentanter som trer ut av Stortinget mellom 1. januar og 30. juni.\nFor valgte stortingsrepresentanter som trer ut av Stortinget utenom valg, eller innvilges permisjon ut valgperioden, gjelder samme regler som for fast møtende vararepresentanter som trer ut av Stortinget.\nStortingsrepresentanter som trer inn i regjeringen, har ikke krav på feriepenger. Feriepenger ytes heller ikke til innkalte vararepresentanter som etter beslutning av Stortingets presidentskap beholder godtgjørelsen i perioden etter at Stortinget har avbrutt forhandlingene i juni. Disse mottar feriepenger etter satsene fastsatt i Hovedtariffavtalen i staten i januar påfølgende år. Feriepengegrunnlaget beregnes på grunnlag av godtgjørelsen utbetalt i siste kalenderår, inkludert eventuell fratredelsesytelse etter § 15.\n0 Endret ved lov 15 des 2023 nr. 89 (i kraft 1 jan 2024, se endringslovens del II for overgangsregel).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Fratredelsesytelse",
+      "content": "Stortingsrepresentanter og fast møtende vararepresentanter som etter valg ikke fortsetter på Stortinget, kan etter søknad til Stortingets presidentskap tilstås fratredelsesytelse tilsvarende månedlig godtgjørelse etter § 3 første ledd andre punktum, for inntil tre måneder. Tilleggsgodtgjørelse etter § 5, eller forhøyet godtgjørelse til stortingspresidenten etter § 3 første ledd første punktum, inngår ikke i beregningsgrunnlaget. Reglene i leddet her gjelder tilsvarende for fast møtende vararepresentanter som trer ut av Stortinget i løpet av valgperioden.\nInnkalte vararepresentanter som har møtt sammenhengende i minst 12 måneder i én valgperiode, kan etter søknad til Stortingets presidentskap også tilstås fratredelsesytelse etter første ledd. I særlige tilfeller kan Stortingets presidentskap etter søknad beslutte at innkalt vararepresentant skal tilstås fratredelsesytelse i inntil én måned også ved kortere møtetid.\nFratredelsesytelse kan ikke innvilges for mer enn til sammen tre måneder i løpet av én og samme valgperiode.\nStortingets presidentskap gir nærmere retningslinjer om fratredelsesytelse.\n0 Endret ved lov 21 juni 2019 nr. 33 (ikr. 1 juli 2019).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Etterlønn",
+      "content": "Stortingsrepresentanter og faste vararepresentanter som etter valg ikke fortsetter på Stortinget, kan etter søknad til Stortingets presidentskap tilstås etterlønn for inntil tolv måneder etter opphør av fratredelsesytelse.\nEtterlønn utgjør 66 prosent av godtgjørelsen etter § 3 første ledd andre punktum. Tilleggsgodtgjørelse etter § 5, eller forhøyet godtgjørelse til stortingspresidenten etter § 3 første ledd første punktum, inngår ikke i grunnlaget for etterlønn.\nEtterlønn er forbeholdt mottakere som kan dokumentere at de er aktivt arbeidssøkende eller gjennomfører relevant kompetanseheving. Det gis ikke etterlønn ved etablering eller ny oppstart av egen virksomhet.\nStortingets presidentskap gir nærmere retningslinjer om etterlønn.\n0 Endret ved lov 11 juni 2021 nr. 64 (ikr. 1 okt 2021).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Innhenting av opplysninger",
+      "content": "Stortinget kan innhente de opplysninger som er nødvendige for å kontrollere om vilkårene for fratredelsesytelse og etterlønn er eller har vært oppfylt i tilbakelagte perioder. Opplysninger kan blant annet innhentes fra nåværende og tidligere arbeidsgivere, pensjonsordninger, folketrygdens organer og skattemyndighetene.\nDen som blir pålagt å gi opplysninger, plikter å gjøre dette uten godtgjørelse og uten hinder av eventuell taushetsplikt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Bortfall og avkorting av fratredelsesytelse og etterlønn",
+      "content": "Dersom en representant har annen skattepliktig inntekt i ytelsesperioden, skal fratredelsesytelse og etterlønn bortfalle eller avkortes etter følgende regler:\na. Bruttoinntekt fra hel stilling (minst 30 timer per uke), eller full pensjon (80 prosent eller mer), medfører bortfall av hele ytelsen for den perioden inntekten gjelder.\nb. Ytelsen skal ellers avkortes krone for krone mot annen inntekt i ytelsesperioden, herunder brutto lønns- og pensjonsinntekt, netto næringsinntekt og kapitalinntekt med unntak av renteinntekter. Ytelsen avkortes likevel ikke dersom annen inntekt i hele ytelsesperioden (fratredelsesytelses- og etterlønnsperiode vurdert samlet) ikke overstiger 5 000 kroner. Dersom inntekten i perioden overstiger 5 000 kroner, kommer hele beløpet til avkortning.\nc. Inntekt som opptjenes i utlandet eller i Norge fra internasjonal organisasjon, regnes som inntekt etter bokstav b selv om inntekten er skattefri i Norge.\nd. Det skal ikke avkortes mot feriepenger etter § 14.\nStortingets presidentskap gir nærmere retningslinjer om bortfall og avkorting av fratredelsesytelse og etterlønn.\n0 Endret ved lover 21 juni 2017 nr. 87 (ikr. 1 jan 2018), 21 juni 2019 nr. 33 (ikr. 1 juli 2019).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Dødsfall og yrkesskade",
+      "content": "Hvis en stortingsrepresentant eller fast møtende vararepresentant dør i løpet av valgperioden, skal de etterlatte utbetales representantens godtgjørelse for hele dødsmåneden samt de tre påfølgende månedene. I tillegg dekkes nødvendige utgifter i forbindelse med representantens begravelse.\nHvis en innkalt vararepresentant dør under reise til eller fra Stortinget eller i perioden vedkommende er innkalt for, dekkes nødvendige utgifter i forbindelse med vararepresentantens begravelse.\nEn stortingsrepresentant eller fast møtende vararepresentant skal ha gruppelivsforsikring (ytelse ved dødsfall) tilsvarende arbeidstakere ansatt i staten. En innkalt vararepresentant skal ha forsikring for den perioden han eller hun er innkalt for. Dette leddet gjelder også for stortingsrepresentanter som er i regjering.\nEn stortingsrepresentant eller fast møtende vararepresentant har rett til ytelser ved yrkesskade tilsvarende arbeidstakere ansatt i staten. En innkalt vararepresentant har samme rett for den perioden han eller hun er innkalt for. Dette leddet gjelder også for stortingsrepresentanter som er i regjering.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Tilbakebetaling",
+      "content": "Dersom noen har mottatt en ytelse etter denne loven i strid med redelighet og god tro, kan beløpet kreves tilbakebetalt. En ytelse kan også kreves tilbake når mottaker, eller noen som har handlet på mottakers vegne, uaktsomt har gitt feilaktige eller mangelfulle opplysninger. Det samme gjelder dersom utbetalingen skyldes feil fra Stortingets side og mottageren burde ha forstått dette.\nI andre tilfeller enn nevnt i første ledd kan det som er utbetalt for mye, kreves tilbake dersom særlige grunner gjør det rimelig. Ved vurderingen av om det foreligger særlige grunner skal det legges vekt på blant annet hvor lang tid det er gått siden den feilaktige utbetalingen fant sted og om vedkommende har innrettet seg i tillit til utbetalingen. Kravet om tilbakebetaling etter dette leddet er begrenset til det beløp som er i behold når vedkommende blir kjent med at utbetalingen var feilaktig.\nEt beløp som blir krevd tilbake etter første eller andre ledd, kan enten dekkes ved trekk i fremtidige ytelser eller inndrives etter bestemmelsene i skattebetalingsloven. Slikt trekk avbryter foreldelsesfristen etter foreldelsesloven. Det kan kreves renter etter forsinkelsesrenteloven.\nDet kan gjøres trekk i godtgjørelse, fratredelsesytelse, etterlønn og feriepenger dersom utlegg betalt direkte av Stortinget ikke er dokumentert innen tre måneder. Kravet frafalles eller tilbakebetales ved dokumentasjon av utlegget.\n0 Endret ved lov 11 juni 2021 nr. 64 (ikr. 1 okt 2021).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft 1. januar 2017.\nFra samme tid oppheves lov 16. desember 2011 nr. 61 om godtgjørelse for stortingsrepresentanter og forskrift 8. desember 2011 om godtgjørelse for stortingsrepresentanter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Virkeområde og definisjoner",
+      "content": "Loven har bestemmelser om den godtgjørelse som tilkommer stortingsrepresentanter etter Grunnloven § 65 samt regler om dekning av utgifter mv.\nLoven gjelder for valgte stortingsrepresentanter og for fast møtende og innkalte vararepresentanter, samt andre der dette er særskilt fastsatt.\nSom fast møtende vararepresentanter regnes representanter som møter for stortingsrepresentanter som er utnevnt til statsråder, statssekretærer eller politiske rådgivere i regjeringen, eller for stortingsrepresentanter som er avgått ved døden.\nSom innkalte vararepresentanter regnes representanter som møter for stortingsrepresentanter i andre tilfeller enn dem som er nevnt i tredje ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Stortingets godtgjøringsutvalg",
+      "content": "Etter innstilling fra Stortingets godtgjøringsutvalg fastsetter Stortinget den godtgjørelsen som tilkommer stortingsrepresentanter, statsministeren og regjeringens medlemmer. Godtgjørelsen fastsettes som et årlig beløp.\nStortingets presidentskap oppnevner leder og to andre medlemmer til Stortingets godtgjøringsutvalg, med funksjonstid på fire år. Utvalget er beslutningsdyktig når alle medlemmer er til stede. Stortingets presidentskap kan fastsette nærmere retningslinjer om utvalgets virksomhet.\n0 Endret ved lov 11 juni 2021 nr. 64 (ikr. 1 okt 2021).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "title": "Stortingsrepresentanters godtgjørelse",
+      "content": "Stortingets president tilkommer samme godtgjørelse som statsministeren. For øvrig fastsettes samme godtgjørelse til alle stortingsrepresentanter, med de tillegg som fremgår av § 5.\nDen årlige godtgjørelsen utbetales med 1/12 hver måned. Dette gjelder også for fast møtende vararepresentanter i den perioden de møter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Innkalte vararepresentanters godtgjørelse",
+      "content": "Innkalte vararepresentanter tilkommer samme godtgjørelse som stortingsrepresentantene for de dagene eller den perioden de er innkalt til å møte. Det ytes også godtgjørelse for hver dag eller del av dag på mer enn seks timer som er nødvendig for reise til og fra Stortinget og som faller utenom de dagene vararepresentanten møter i Stortinget.\nInnkalte vararepresentanter kan etter søknad til Stortingets presidentskap også gis rett til å beholde godtgjørelsen i perioder de ikke er innkalt i følgende tilfeller:\na. I perioder uten møter i plenum, når vararepresentanten møter for en representant som må antas å fortsette sitt fravær også etter den aktuelle perioden.\nb. Ut kalenderåret etter siste innkallingsdag før jul hvis vararepresentanten har møtt minst to måneder i sesjonen og ikke har annen inntekt i den perioden det søkes om å beholde godtgjørelsen.\nc. I andre særlige tilfeller.\nInnkalte vararepresentanters opptjente godtgjørelse utbetales månedlig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Tilleggsgodtgjørelse",
+      "content": "Stortingets første visepresident tilkommer en tilleggsgodtgjørelse på 14 prosent av den årlige godtgjørelsen. De øvrige visepresidentene tilkommer en tilleggsgodtgjørelse på 7 prosent.\nLederne for Stortingets fagkomiteer tilkommer en tilleggsgodtgjørelse på 7 prosent av den årlige godtgjørelsen. Den som fungerer som komitéleder ut over fem dager, tilkommer tilsvarende tilleggsgodtgjørelse som komitélederen for den tid fungeringen varer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Forskudd på godtgjørelse",
+      "content": "Representantene kan etter søknad i særskilte tilfeller gis inntil to måneders godtgjørelse utbetalt på forskudd. Vilkårene for rett til forskudd og reglene for tilbakebetaling er de samme som for ansatte i staten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Godtgjørelse under permisjoner",
+      "content": "Under permisjon fra Stortinget beholder representantene godtgjørelsen i inntil 14 dager, med mindre de meddeler at de gir avkall på slik godtgjørelse.\nStortingets presidentskap kan etter søknad beslutte at en representant skal beholde godtgjørelsen ut over 14 dager i følgende tilfeller:\na. Ved permisjon på grunn av representantens sykdom eller skade.\nb. Ved permisjon til deltakelse på reise som medlem av delegasjon oppnevnt av Stortinget eller Stortingets presidentskap.\nc. Ved permisjon for å delta i møter eller utføre andre oppdrag etter oppnevning av Kongen, Stortinget eller et departement.\nd. Ved permisjon innvilget av velferdsgrunner.\nVed søknad om permisjon etter bokstav a må sykmelding fremlegges enten sammen med permisjonssøknaden eller snarest mulig etter at permisjonen er innvilget. Dersom dette ikke etterkommes, kan Stortingets presidentskap bestemme at godtgjørelsen skal falle bort for den resterende del av permisjonen.\nUnder svangerskaps-, omsorgs- og fødselspermisjon, og permisjon ved barns og barnepassers sykdom, har representantene rett til å beholde godtgjørelsen etter tilsvarende regler som for tilsatte i staten etter arbeidsmiljøloven kapittel 12, folketrygdloven kapittel 14 og reglene i Hovedtariffavtalen i staten. Dette gjelder også for innkalte vararepresentanter for den perioden de er innkalt til å gjøre tjeneste.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Generelt om reiseutgifter",
+      "content": "Alle reiser som skal dekkes av Stortinget, skal foretas på den mest kostnadseffektive måte, så langt dette er forenelig med reisens formål.\nReisene skal dokumenteres, også om de helt eller delvis dekkes av andre enn Stortinget.\nReiseregninger skal gjøres opp snarest.\nStortingets presidentskap gir nærmere retningslinjer om dekning av reiseutgifter etter dette kapittel.\n0 Endret ved lov 11 juni 2021 nr. 64 (ikr. 1 okt 2021).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Utgifter på tjenestereise",
+      "content": "Representanter som foretar tjenestereiser i sammenheng med utøvelsen av stortingsvervet, innenlands og utenlands, får dekket sine reiseutgifter etter reglene i statens alminnelige reiseregulativer, bestemmelser etter kapittel IV og retningslinjer etter § 8 fjerde ledd.\nFor tjenestereiser som skal dekkes av Stortinget må reisens formål og innhold i hovedsak være tjenesterelatert.\nTjenestereiser utenlands i forbindelse med de faste parlamentarikerdelegasjoners virksomhet skal være godkjent av delegasjonsleder. Alle andre tjenestereiser utenlands skal være godkjent av Stortingets presidentskap.\nPå tjenestereiser utenlands kan det bare kreves dekning for legitimerte utgifter til overnatting.\nSom hovedregel kan det ikke kreves dekning av reiseutgifter for ledsager. Når det er nødvendig for å ivareta Stortingets representative funksjoner, kan Stortingets presidentskap etter søknad likevel beslutte at slike utgifter helt eller delvis skal dekkes.\nStortingets presidentskap kan beslutte at representanter på tjenestereise kan få dekket nødvendige merutgifter til barnetilsyn, eventuelt reise- og oppholdsutgifter for én barnepasser. Dette gjelder inntil barnet fyller ett år, med mindre det foreligger særlige grunner som tilsier noe annet. Tapt arbeidsinntekt for ledsager dekkes ikke.\nDet kan ytes forskudd til utgifter til tjenestereiser, jf. § 6.\n0 Endret ved lov 21 juni 2019 nr. 33 (ikr. 1 juli 2019).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Utgifter i forbindelse med fravær fra hjemmet",
+      "content": "Stortinget anses som fast arbeidssted for representantene. Med mindre noe annet er særskilt bestemt, betraktes arbeidsreiser mellom Stortinget og bosted (pendlerbolig eller privat bolig) som privatreiser og dekkes av representantene selv. Innkalte vararepresentanter får dekket faktiske utgifter til overnatting i den tiden de gjør tjeneste. Ved sykdom eller skade kan representantene få dekket særlige utgifter til transport til og fra Stortinget.\nRepresentanter som bor mer enn 40 km fra Stortinget, kan få dekket utgifter til reiser tur/retur Stortinget ved tiltredelse og fratredelse, sesjonsåpning og avslutning.\nRepresentanter som bor mer enn 40 km fra Stortinget, kan få dekket reiseutgifter mellom Stortinget eller pendlerboligen og representantenes hjemsted inntil én gang tur/retur per uke. Representanter med barn under 20 år som bor på hjemstedet, får dekket utgifter til inntil én ekstra hjemreise per uke. Stortingets presidentskap kan i særlige tilfeller utvide antall pendlerreiser per uke. Første og andre punktum gjelder ikke innkalte vararepresentanter som er innkalt for en kortere periode enn én hel uke.\nI uker med helligdag tirsdag, onsdag eller torsdag dekkes ytterligere én pendlerreise tur/retur hjemsted og Oslo. Det dekkes inntil to pendlerreiser tur/retur i slike uker, også for representanter med barn under 20 år.\nVed permisjon på grunn av sykdom, skade eller velferdsgrunner kan representantene få dekket reiseutgifter for en reise tur/retur Stortinget og hjemsted eller annet innenlands oppholdssted.\nVed bruk av egen bil til reiser etter paragrafen her dekkes kilometergodtgjørelse etter satsene for tjenestereiser i staten.\n0 Endret ved lover 21 juni 2019 nr. 33 (ikr. 1 juli 2019), 11 juni 2021 nr. 64 (ikr. 1 okt 2021), 15 des 2023 nr. 89 (i kraft 1 jan 2024).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Utgifter til flytting",
+      "content": "Representantene kan få dekket nødvendige utgifter til én flytting fra hjemsted til Oslo og én flytting fra Oslo til hjemsted. Dette gjelder ikke innkalte vararepresentanter.\nFlytting mellom pendlerboliger må representanten selv bekoste.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Utgifter til besøksreiser for representantenes familie",
+      "content": "Representanter kan få dekket reiseutgifter mellom representantens hjemsted og Oslo for medlemmer av representantens husstand samt egne barn under 18 år. Som medlemmer av husstanden menes ektefelle, samboer og barn under 18 år. For representantens barn under 18 år med annet bosted enn representantens hjemsted, dekkes reisekostnad mellom barnets hjemsted og Oslo. Ordningen omfatter inntil to besøksreiser per berettiget person per år for representanter som bor mer enn 40 km fra Oslo. Representanter som har foreldreansvar for barn alene, kan i tillegg få dekket reiseutgifter til ledsager for barnet inntil det fyller 12 år.\nInnkalte vararepresentanter som har gjort tjeneste i til sammen seks måneder eller mer i løpet av et kalenderår, har rett til dekning av besøksreiser etter første ledd.\n0 Endret ved lov 11 juni 2021 nr. 64 (ikr. 1 okt 2021).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Dekning av innkalte vararepresentanters utgifter til barnepass",
+      "content": "Etter søknad til Stortingets presidentskap kan innkalte vararepresentanter i særlige tilfeller få dekket nødvendige og dokumenterte utgifter til barnepass. Tapt arbeidsinntekt for barnepasser dekkes ikke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Feriepenger",
+      "content": "Innkalte vararepresentanter får feriepenger på siste ordinære utbetalingsdag før avbrytelse av Stortingets forhandlinger i juni. Feriepengegrunnlaget beregnes på grunnlag av den mottatte godtgjørelsen i foregående kalenderår. Leddet her gjelder tilsvarende for fast møtende vararepresentanter som trer ut av Stortinget mellom 1. januar og 30. juni.\nFor valgte stortingsrepresentanter som trer ut av Stortinget utenom valg, eller innvilges permisjon ut valgperioden, gjelder samme regler som for fast møtende vararepresentanter som trer ut av Stortinget.\nStortingsrepresentanter som trer inn i regjeringen, har ikke krav på feriepenger. Feriepenger ytes heller ikke til innkalte vararepresentanter som etter beslutning av Stortingets presidentskap beholder godtgjørelsen i perioden etter at Stortinget har avbrutt forhandlingene i juni. Disse mottar feriepenger etter satsene fastsatt i Hovedtariffavtalen i staten i januar påfølgende år. Feriepengegrunnlaget beregnes på grunnlag av godtgjørelsen utbetalt i siste kalenderår, inkludert eventuell fratredelsesytelse etter § 15.\n0 Endret ved lov 15 des 2023 nr. 89 (i kraft 1 jan 2024, se endringslovens del II for overgangsregel).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Fratredelsesytelse",
+      "content": "Stortingsrepresentanter og fast møtende vararepresentanter som etter valg ikke fortsetter på Stortinget, kan etter søknad til Stortingets presidentskap tilstås fratredelsesytelse tilsvarende månedlig godtgjørelse etter § 3 første ledd andre punktum, for inntil tre måneder. Tilleggsgodtgjørelse etter § 5, eller forhøyet godtgjørelse til stortingspresidenten etter § 3 første ledd første punktum, inngår ikke i beregningsgrunnlaget. Reglene i leddet her gjelder tilsvarende for fast møtende vararepresentanter som trer ut av Stortinget i løpet av valgperioden.\nInnkalte vararepresentanter som har møtt sammenhengende i minst 12 måneder i én valgperiode, kan etter søknad til Stortingets presidentskap også tilstås fratredelsesytelse etter første ledd. I særlige tilfeller kan Stortingets presidentskap etter søknad beslutte at innkalt vararepresentant skal tilstås fratredelsesytelse i inntil én måned også ved kortere møtetid.\nFratredelsesytelse kan ikke innvilges for mer enn til sammen tre måneder i løpet av én og samme valgperiode.\nStortingets presidentskap gir nærmere retningslinjer om fratredelsesytelse.\n0 Endret ved lov 21 juni 2019 nr. 33 (ikr. 1 juli 2019).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Etterlønn",
+      "content": "Stortingsrepresentanter og faste vararepresentanter som etter valg ikke fortsetter på Stortinget, kan etter søknad til Stortingets presidentskap tilstås etterlønn for inntil tolv måneder etter opphør av fratredelsesytelse.\nEtterlønn utgjør 66 prosent av godtgjørelsen etter § 3 første ledd andre punktum. Tilleggsgodtgjørelse etter § 5, eller forhøyet godtgjørelse til stortingspresidenten etter § 3 første ledd første punktum, inngår ikke i grunnlaget for etterlønn.\nEtterlønn er forbeholdt mottakere som kan dokumentere at de er aktivt arbeidssøkende eller gjennomfører relevant kompetanseheving. Det gis ikke etterlønn ved etablering eller ny oppstart av egen virksomhet.\nStortingets presidentskap gir nærmere retningslinjer om etterlønn.\n0 Endret ved lov 11 juni 2021 nr. 64 (ikr. 1 okt 2021).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Innhenting av opplysninger",
+      "content": "Stortinget kan innhente de opplysninger som er nødvendige for å kontrollere om vilkårene for fratredelsesytelse og etterlønn er eller har vært oppfylt i tilbakelagte perioder. Opplysninger kan blant annet innhentes fra nåværende og tidligere arbeidsgivere, pensjonsordninger, folketrygdens organer og skattemyndighetene.\nDen som blir pålagt å gi opplysninger, plikter å gjøre dette uten godtgjørelse og uten hinder av eventuell taushetsplikt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Bortfall og avkorting av fratredelsesytelse og etterlønn",
+      "content": "Dersom en representant har annen skattepliktig inntekt i ytelsesperioden, skal fratredelsesytelse og etterlønn bortfalle eller avkortes etter følgende regler:\na. Bruttoinntekt fra hel stilling (minst 30 timer per uke), eller full pensjon (80 prosent eller mer), medfører bortfall av hele ytelsen for den perioden inntekten gjelder.\nb. Ytelsen skal ellers avkortes krone for krone mot annen inntekt i ytelsesperioden, herunder brutto lønns- og pensjonsinntekt, netto næringsinntekt og kapitalinntekt med unntak av renteinntekter. Ytelsen avkortes likevel ikke dersom annen inntekt i hele ytelsesperioden (fratredelsesytelses- og etterlønnsperiode vurdert samlet) ikke overstiger 5 000 kroner. Dersom inntekten i perioden overstiger 5 000 kroner, kommer hele beløpet til avkortning.\nc. Inntekt som opptjenes i utlandet eller i Norge fra internasjonal organisasjon, regnes som inntekt etter bokstav b selv om inntekten er skattefri i Norge.\nd. Det skal ikke avkortes mot feriepenger etter § 14.\nStortingets presidentskap gir nærmere retningslinjer om bortfall og avkorting av fratredelsesytelse og etterlønn.\n0 Endret ved lover 21 juni 2017 nr. 87 (ikr. 1 jan 2018), 21 juni 2019 nr. 33 (ikr. 1 juli 2019).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Dødsfall og yrkesskade",
+      "content": "Hvis en stortingsrepresentant eller fast møtende vararepresentant dør i løpet av valgperioden, skal de etterlatte utbetales representantens godtgjørelse for hele dødsmåneden samt de tre påfølgende månedene. I tillegg dekkes nødvendige utgifter i forbindelse med representantens begravelse.\nHvis en innkalt vararepresentant dør under reise til eller fra Stortinget eller i perioden vedkommende er innkalt for, dekkes nødvendige utgifter i forbindelse med vararepresentantens begravelse.\nEn stortingsrepresentant eller fast møtende vararepresentant skal ha gruppelivsforsikring (ytelse ved dødsfall) tilsvarende arbeidstakere ansatt i staten. En innkalt vararepresentant skal ha forsikring for den perioden han eller hun er innkalt for. Dette leddet gjelder også for stortingsrepresentanter som er i regjering.\nEn stortingsrepresentant eller fast møtende vararepresentant har rett til ytelser ved yrkesskade tilsvarende arbeidstakere ansatt i staten. En innkalt vararepresentant har samme rett for den perioden han eller hun er innkalt for. Dette leddet gjelder også for stortingsrepresentanter som er i regjering.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Tilbakebetaling",
+      "content": "Dersom noen har mottatt en ytelse etter denne loven i strid med redelighet og god tro, kan beløpet kreves tilbakebetalt. En ytelse kan også kreves tilbake når mottaker, eller noen som har handlet på mottakers vegne, uaktsomt har gitt feilaktige eller mangelfulle opplysninger. Det samme gjelder dersom utbetalingen skyldes feil fra Stortingets side og mottageren burde ha forstått dette.\nI andre tilfeller enn nevnt i første ledd kan det som er utbetalt for mye, kreves tilbake dersom særlige grunner gjør det rimelig. Ved vurderingen av om det foreligger særlige grunner skal det legges vekt på blant annet hvor lang tid det er gått siden den feilaktige utbetalingen fant sted og om vedkommende har innrettet seg i tillit til utbetalingen. Kravet om tilbakebetaling etter dette leddet er begrenset til det beløp som er i behold når vedkommende blir kjent med at utbetalingen var feilaktig.\nEt beløp som blir krevd tilbake etter første eller andre ledd, kan enten dekkes ved trekk i fremtidige ytelser eller inndrives etter bestemmelsene i skattebetalingsloven. Slikt trekk avbryter foreldelsesfristen etter foreldelsesloven. Det kan kreves renter etter forsinkelsesrenteloven.\nDet kan gjøres trekk i godtgjørelse, fratredelsesytelse, etterlønn og feriepenger dersom utlegg betalt direkte av Stortinget ikke er dokumentert innen tre måneder. Kravet frafalles eller tilbakebetales ved dokumentasjon av utlegget.\n0 Endret ved lov 11 juni 2021 nr. 64 (ikr. 1 okt 2021).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft 1. januar 2017.\nFra samme tid oppheves lov 16. desember 2011 nr. 61 om godtgjørelse for stortingsrepresentanter og forskrift 8. desember 2011 om godtgjørelse for stortingsrepresentanter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    }
+  ]
+}

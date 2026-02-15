@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1839-08-09-7",
+  "type": "statute",
+  "title": "Lov, angaaende Forrettigheder for Assurance-Foreninger, som ere eller vorde oprettede.",
+  "short_name": "Lov ang. Assuranceforeninger.",
+  "status": "in_force",
+  "issued_date": "1839-08-09",
+  "in_force_date": "1839-08-09",
+  "url": "https://lovdata.no/dokument/NLO/lov/1839-08-09-7",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Foreninger, som her i Riget ere eller blive stiftede, og ved hvilke, i Overeensstemmelse med Planer, som af Kongen​1 ere bifaldte, Forsikkring gives mod Tab ved Søeskade, Ildsvaade [(med Undtagelse af Tab derved paa Huse og andre Bygninger i Kjøb- og Ladestederne)],​2 Dødsfald eller andre tilfældige Begivenheder, tilstaaes de i efterfølgende Paragrapher anførte Forrettigheder.\n1 Iflg. res. 23 nov. 1923 Arbeidsdepartementet, nå Kommunaldepartementet.\n2 Se lov 17 juni 1869 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Foreningerne skulle have Ret til, i Mangel af mindelig Betaling, uden Lovmaal og Dom, at erholde Erstatnings-Bidragene inddrevne ved Udpantning paa sædvanlig Maade, naar den reqvireres inden sex Maaneder efter Repartitionen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Foreninger, som her i Riget ere eller blive stiftede, og ved hvilke, i Overeensstemmelse med Planer, som af Kongen​1 ere bifaldte, Forsikkring gives mod Tab ved Søeskade, Ildsvaade [(med Undtagelse af Tab derved paa Huse og andre Bygninger i Kjøb- og Ladestederne)],​2 Dødsfald eller andre tilfældige Begivenheder, tilstaaes de i efterfølgende Paragrapher anførte Forrettigheder.\n1 Iflg. res. 23 nov. 1923 Arbeidsdepartementet, nå Kommunaldepartementet.\n2 Se lov 17 juni 1869 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Foreningerne skulle have Ret til, i Mangel af mindelig Betaling, uden Lovmaal og Dom, at erholde Erstatnings-Bidragene inddrevne ved Udpantning paa sædvanlig Maade, naar den reqvireres inden sex Maaneder efter Repartitionen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1952-06-28-3",
+  "type": "statute",
+  "title": "Lov om avgift på bygge- og entreprenørvirksomhet til dekning av utgifter til byggeforskning og geoteknisk forskning.",
+  "short_name": "Lov om avgift på byggevirksomhet m.m.",
+  "status": "in_force",
+  "issued_date": "1952-06-28",
+  "in_force_date": "1952-06-28",
+  "url": "https://lovdata.no/dokument/NLO/lov/1952-06-28-3",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen kan bestemme at virksomhet som beskjeftiger pliktig trygdede etter lov om yrkesskadetrygd​1 skal betale avgift til et fond for byggeteknisk og geoteknisk forskning. Avgiftsplikten kan begrenses til visse slag av de nevnte virksomheter og til virksomheter over en viss størrelse. Fondet styres etter regler som fastsettes av Kongen.\n0 Endret ved lov 12 des 1958 nr. 16.\n1 Jf. lov 12 des 1958 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Avgiften blir å beregne som et tillegg til den premie som er fastsatt etter lov om yrkesskadetrygd.​1 Den må ikke overstige 7 promille av de beregnede arbeidslønninger som ligger til grunn for premieberegningen.\nNærmere regler om beregning og innkreving av avgiften fastsettes av Kongen.\n0 Endret ved lov 12 des 1958 nr. 16.\n1 Lov 12 des 1958 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Avgiften er tvangsgrunnlag for utlegg.​1\n0 Endret ved lover 31 mai 1963 nr. 2, 26 juni 1992 nr. 86.\n1 Jf. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen kan bestemme at virksomhet som beskjeftiger pliktig trygdede etter lov om yrkesskadetrygd​1 skal betale avgift til et fond for byggeteknisk og geoteknisk forskning. Avgiftsplikten kan begrenses til visse slag av de nevnte virksomheter og til virksomheter over en viss størrelse. Fondet styres etter regler som fastsettes av Kongen.\n0 Endret ved lov 12 des 1958 nr. 16.\n1 Jf. lov 12 des 1958 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Avgiften blir å beregne som et tillegg til den premie som er fastsatt etter lov om yrkesskadetrygd.​1 Den må ikke overstige 7 promille av de beregnede arbeidslønninger som ligger til grunn for premieberegningen.\nNærmere regler om beregning og innkreving av avgiften fastsettes av Kongen.\n0 Endret ved lov 12 des 1958 nr. 16.\n1 Lov 12 des 1958 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Avgiften er tvangsgrunnlag for utlegg.​1\n0 Endret ved lover 31 mai 1963 nr. 2, 26 juni 1992 nr. 86.\n1 Jf. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

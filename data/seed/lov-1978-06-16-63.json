@@ -1,0 +1,35 @@
+{
+  "id": "LOV-1978-06-16-63",
+  "type": "statute",
+  "title": "Lov om sammenslutning av Folketrygdfondet og Folketrygdens arbeidsmarkedsfond.",
+  "short_name": "Lov om folketrygdfond.",
+  "status": "in_force",
+  "issued_date": "1978-06-16",
+  "in_force_date": "1978-06-16",
+  "url": "https://lovdata.no/dokument/NLO/lov/1978-06-16-63",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Folketrygdens arbeidsmarkedsfond, jfr. lov av 19. juni 1970 nr. 67 om endringer i lov av 17. juni 1966 nr. 12 om folketrygd, del II, nr. 2, tredje og siste ledd, overføres til Folketrygdfondet​1 fra det tidspunkt Kongen bestemmer.​2\n1 Jfr. lov 17 juni 1966 nr. 12 §§ 16-6 og 7.\n2 Fra 1 sep 1978 iflg. res. 28 juli 1978.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Folketrygdens arbeidsmarkedsfond, jfr. lov av 19. juni 1970 nr. 67 om endringer i lov av 17. juni 1966 nr. 12 om folketrygd, del II, nr. 2, tredje og siste ledd, overføres til Folketrygdfondet​1 fra det tidspunkt Kongen bestemmer.​2\n1 Jfr. lov 17 juni 1966 nr. 12 §§ 16-6 og 7.\n2 Fra 1 sep 1978 iflg. res. 28 juli 1978.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    }
+  ]
+}

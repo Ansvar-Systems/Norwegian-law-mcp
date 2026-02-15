@@ -1,0 +1,75 @@
+{
+  "id": "LOV-2007-06-29-86",
+  "type": "statute",
+  "title": "Lov om forbud mot prispåslag ved videresalg av billetter til kultur- og idrettsarrangementer",
+  "short_name": "Svartebørsloven",
+  "status": "in_force",
+  "issued_date": "2007-06-29",
+  "in_force_date": "2007-07-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2007-06-29-86",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Det er forbudt å selge billetter til kultur- og idrettsarrangementer til en høyere pris enn den som er påført billetten fra arrangørens side, eller som billetten første gang ble solgt for. Dersom billetten er solgt gjennom en annen aktør enn arrangøren på grunnlag av avtale mellom arrangøren og aktøren, og det er betalt en særskilt billettavgift som fremgår av billetten, kan billettavgiften også være inkludert i salgsprisen ved videresalg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kjøperen kan kreve tilbake fra selgeren den del av en betalt billettpris som overstiger de beløp som følger av § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven gjelder fra den tid​1 Kongen fastsetter.\n1 Fra 1 juli 2007 iflg. res. 29 juni 2007 nr. 733.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Det er forbudt å selge billetter til kultur- og idrettsarrangementer til en høyere pris enn den som er påført billetten fra arrangørens side, eller som billetten første gang ble solgt for. Dersom billetten er solgt gjennom en annen aktør enn arrangøren på grunnlag av avtale mellom arrangøren og aktøren, og det er betalt en særskilt billettavgift som fremgår av billetten, kan billettavgiften også være inkludert i salgsprisen ved videresalg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kjøperen kan kreve tilbake fra selgeren den del av en betalt billettpris som overstiger de beløp som følger av § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven gjelder fra den tid​1 Kongen fastsetter.\n1 Fra 1 juli 2007 iflg. res. 29 juni 2007 nr. 733.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

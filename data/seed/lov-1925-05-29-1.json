@@ -1,0 +1,95 @@
+{
+  "id": "LOV-1925-05-29-1",
+  "type": "statute",
+  "title": "Lov om lukningstid for barber- og frisørsalonger",
+  "short_name": "Lov om lukningstid for frisørforr. m.v.",
+  "status": "in_force",
+  "issued_date": "1925-05-29",
+  "in_force_date": "1925-05-29",
+  "url": "https://lovdata.no/dokument/NLO/lov/1925-05-29-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Barber- og frisørforretninger skal holdes lukket i tiden fra kl. 12 natt før søn- og helligdager til næste hverdags morgen kl. 7.​1\n1 Se strl. § 348.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Når to eller tre helligdager følger på hverandre, er det tillatt å holde forretningene åpne den annen av disse inntil kl. 10 formiddag, dog så at der kan holdes åpent skjærtorsdag morgen, ikke langfredag.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Kommunestyrene kan fastsette vedtekt om lukningstid for forretningene utenfor den lukningstid som er påbudt i §§ 1 og 2.​1\nVedtekten fastsetter de klokkeslett, mellem hvilke forretningene skal holdes lukket. Den kan påby, at de holdes lukket visse dager eller mellem visse klokkeslett på bestemte dager. Lukningstiden kan settes forskjellig for de forskjellige årstider og for de forskjellige dager i uken.\nVedtekten og senere endringer i den må, for å bli gyldig, stadfestes av vedkommende departement.​2\n1 Se strl. § 339 nr. 2\n2 Forbruker- og administrasjonsdeptet. iflg. res. 10 des. 1965 og 5 mai 1972. Fylkesmennene etter res. 30 juni 1978.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Lov om søndagslukning av barber- og frisørforretninger av 17 mai 1897 opheves.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Barber- og frisørforretninger skal holdes lukket i tiden fra kl. 12 natt før søn- og helligdager til næste hverdags morgen kl. 7.​1\n1 Se strl. § 348.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Når to eller tre helligdager følger på hverandre, er det tillatt å holde forretningene åpne den annen av disse inntil kl. 10 formiddag, dog så at der kan holdes åpent skjærtorsdag morgen, ikke langfredag.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Kommunestyrene kan fastsette vedtekt om lukningstid for forretningene utenfor den lukningstid som er påbudt i §§ 1 og 2.​1\nVedtekten fastsetter de klokkeslett, mellem hvilke forretningene skal holdes lukket. Den kan påby, at de holdes lukket visse dager eller mellem visse klokkeslett på bestemte dager. Lukningstiden kan settes forskjellig for de forskjellige årstider og for de forskjellige dager i uken.\nVedtekten og senere endringer i den må, for å bli gyldig, stadfestes av vedkommende departement.​2\n1 Se strl. § 339 nr. 2\n2 Forbruker- og administrasjonsdeptet. iflg. res. 10 des. 1965 og 5 mai 1972. Fylkesmennene etter res. 30 juni 1978.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Lov om søndagslukning av barber- og frisørforretninger av 17 mai 1897 opheves.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "LOV-2015-02-13-10",
+  "type": "statute",
+  "title": "Lov om utvalget for evaluering av EOS-utvalget",
+  "short_name": "Lov om utvalget for evaluering av EOS-utvalget",
+  "status": "in_force",
+  "issued_date": "2015-02-13",
+  "in_force_date": "2015-02-13",
+  "url": "https://lovdata.no/dokument/NL/lov/2015-02-13-10",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Utvalget som 27. mars 2014 ble oppnevnt av Stortingets presidentskap for å evaluere EOS-utvalgets virksomhet og rammebetingelser/regelverk, har rett til å innhente opplysninger uten hinder av taushetsplikten i lov 3. februar 1995 nr. 7 om kontroll med etterretnings-, overvåkings- og sikkerhetstjeneste § 9 første ledd.​1\n1 Inkurie: Skal vel være § 11 etter endring ved lov 21 juni 2017 nr. 95.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Medlemmene av evalueringsutvalget og enhver som utfører tjeneste eller arbeid for utvalget, har taushetsplikt. Taushetsplikten er ikke til hinder for at utvalget avgir en ugradert evalueringsrapport til Stortinget.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Utvalget som 27. mars 2014 ble oppnevnt av Stortingets presidentskap for å evaluere EOS-utvalgets virksomhet og rammebetingelser/regelverk, har rett til å innhente opplysninger uten hinder av taushetsplikten i lov 3. februar 1995 nr. 7 om kontroll med etterretnings-, overvåkings- og sikkerhetstjeneste § 9 første ledd.​1\n1 Inkurie: Skal vel være § 11 etter endring ved lov 21 juni 2017 nr. 95.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Medlemmene av evalueringsutvalget og enhver som utfører tjeneste eller arbeid for utvalget, har taushetsplikt. Taushetsplikten er ikke til hinder for at utvalget avgir en ugradert evalueringsrapport til Stortinget.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

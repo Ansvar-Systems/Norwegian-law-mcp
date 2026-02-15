@@ -1,0 +1,1383 @@
+{
+  "id": "LOV-2022-06-17-56",
+  "type": "statute",
+  "title": "Lov om levering av digitale ytelser til forbrukere (digitalytelsesloven)",
+  "short_name": "Digitalytelsesloven",
+  "status": "in_force",
+  "issued_date": "2022-06-17",
+  "in_force_date": "2023-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2022-06-17-56",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Alminnelig virkeområde",
+      "content": "Loven gjelder avtaler om levering av digitale ytelser mot vederlag i forbrukerforhold, hvis ikke noe annet er fastsatt i lov eller i medhold av lov.\nMed digitale ytelser menes digitalt innhold og digitale tjenester. Digitalt innhold er data som fremstilles og leveres i digital form, ved at de gjengir fysiske størrelser med diskrete tegn. Digitale tjenester er tjenester som gjør det mulig for brukeren å frembringe, behandle, lagre eller få tilgang til data i digital form, eller tjenester som gjør det mulig å dele eller å samhandle på annen måte med slike data.\nMed forbrukerforhold menes levering av ytelser til en forbruker der den som leverer ytelsen (leverandøren), opptrer i næringsvirksomhet. Med forbruker menes en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.\nMed vederlag menes betaling i penger eller annen motytelse. Som vederlag regnes også at forbrukeren oppgir personopplysninger, med mindre leverandøren behandler personopplysningene utelukkende for å kunne levere den digitale ytelsen eller overholde lovpålagte plikter. Personopplysningsloven går ved motstrid foran reglene i denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens anvendelse i noen særlige forhold",
+      "content": "Loven gjelder for levering av digitale ytelser som er utviklet etter forbrukerens spesifikasjoner.\nMed unntak av bestemmelsene om levering og forbrukerens krav ved forsinket levering i §§ 4, 5 og 15 gjelder loven også for fysiske medier som utelukkende brukes som bærere av digitalt innhold. For levering og forbrukerens krav ved forsinket levering av slike fysiske medier gjelder forbrukerkjøpsloven.\nLoven gjelder ikke for\n1. helsetjenester som foreskrives eller utføres av helsepersonell\n2. pengespilltjenester\n3. offentlig fremvisning av digitalt innhold som ledd i en forestilling eller et arrangement\n4. elektroniske kommunikasjonstjenester med unntak av nummeruavhengige person-til-person-kommunikasjonstjenester\n5. finansielle tjenester som nevnt i finansavtaleloven § 1-3 annet ledd og forsikringstjenester.\nForbrukerkjøpsloven gjelder for digitale ytelser som etter kjøpsavtalen skal leveres sammen med en ting, og som er sammenknyttet med tingen på en slik måte at ytelsene er nødvendige for tingens funksjoner. Dette gjelder uavhengig av om de digitale ytelsene skal leveres av selgeren eller en tredjeperson. Er det tvil om hvorvidt levering av de digitale ytelsene omfattes av kjøpsavtalen, legges det til grunn at ytelsene er omfattet av avtalen. For andre avtaler som omfatter både levering av digitale ytelser og levering av ting eller andre tjenester enn digitale ytelser (kombinerte avtaler), anvendes loven på den delen av avtalen som gjelder digitale ytelser, med unntak for tilfeller som nevnt i § 43 og der noe annet er fastsatt i eller i medhold av lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Ufravikelighet",
+      "content": "Loven kan ikke fravikes ved avtale til skade for en forbruker. Første punktum har ikke betydning for gyldigheten av avtaler som inngås etter at forbrukeren har gitt melding om et kontraktsbrudd, eller etter at forbrukeren har fått varsel om endringer i samsvar med kapittel 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Leveringstiden",
+      "content": "Den digitale ytelsen skal leveres uten unødig opphold hvis ikke noe annet er avtalt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Levering",
+      "content": "Den digitale ytelsen er levert når den er gjort tilgjengelig for forbrukeren eller for en tredjeperson, en elektronisk plattform eller en annen innretning som forbrukeren har valgt til å motta ytelsen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Bevisbyrde for levering",
+      "content": "Det påhviler leverandøren å bevise at den digitale ytelsen er levert i samsvar med §§ 4 og 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Avtalte krav til ytelsen",
+      "content": "Den digitale ytelsen skal samsvare med det som er avtalt om blant annet\n1. art, mengde, kvalitet, kompatibilitet og andre egenskaper\n2. tilbehør, veiledninger og kundeservice\n3. oppdateringer.\nDen digitale ytelsen skal også passe for et bestemt formål som forbrukeren har gjort leverandøren kjent med, og som leverandøren har akseptert.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Alminnelige krav til ytelsen",
+      "content": "Hvis ikke noe annet følger av avtalen, skal den digitale ytelsen leveres i den nyeste versjonen som er tilgjengelig på avtaletidspunktet.\nDen digitale ytelsen skal ellers samsvare med kravene i tredje ledd så langt forbrukeren ikke på avtaletidspunktet ble gjort særskilt oppmerksom på bestemte avvik fra kravene og aksepterte disse avvikene særskilt og uttrykkelig.\nYtelsen skal dessuten\n1. passe for de formålene som tilsvarende ytelser vanligvis brukes til\n2. svare til det som forbrukeren har grunn til å forvente når det gjelder funksjonalitet og andre egenskaper, under hensyn til ytelsens art og opplysninger om ytelsen fra leverandørens side, jf. fjerde ledd\n3. leveres med tilbehør, innpakning, installasjonsveiledning og lignende som forbrukeren med rimelighet kan forvente å få\n4. svare til en eventuell prøveversjon eller forhåndsvisning fra leverandøren\n5. være i samsvar med offentligrettslige krav som stilles i lovgivningen eller offentlige vedtak i medhold av lov på avtaletidspunktet, hvis ikke forbrukeren har til hensikt å anvende ytelsen på en slik måte at kravet er uten betydning\n6. være upåvirket av tredjepersoners rettigheter i ytelsen, for eksempel eiendomsrett, panterett eller immaterialrettigheter.\nMed opplysninger fra leverandørens side etter tredje ledd nr. 2 menes opplysninger i markedsføring, merking eller annet fra leverandøren selv, fra noen som handler på vegne av leverandøren, eller fra noen i et tidligere ledd i avtalekjeden. Det skal ses bort fra opplysninger fra leverandørens side hvis leverandøren beviser at han eller hun ikke kjente eller burde kjenne til at opplysningene var gitt, at opplysningene før avtaletidspunktet er rettet på samme eller tilsvarende måte som de ble fremsatt, eller at opplysningene ikke kan ha innvirket på avtalen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Alminnelige krav til oppdateringer",
+      "content": "Leverandøren skal sørge for at forbrukeren får beskjed om og får levert oppdateringer, herunder sikkerhetsoppdateringer, som er nødvendige for å oppfylle kravene i §§ 7 og 8.\nKravet til oppdateringer gjelder bare så langt forbrukeren ikke på avtaletidspunktet ble gjort særskilt oppmerksom på bestemte avvik fra kravet og aksepterte disse avvikene særskilt og uttrykkelig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Mangel ved ytelsen",
+      "content": "Den digitale ytelsen har en mangel hvis den ikke samsvarer med kravene i §§ 7, 8 eller 9. Når avtalen gjelder løpende levering over en periode, skal ytelsen samsvare med kravene i hele perioden. Når avtalen gjelder en enkelt levering eller flere enkeltstående leveringer, skal ytelsen samsvare med kravene på leveringstidspunktet, likevel slik at leverandøren skal sørge for oppdateringer etter § 9 så lenge forbrukeren kan forvente under hensyn til avtalens art og formål.\nHvis den digitale ytelsen ikke samsvarer med kravene i §§ 7, 8 eller 9 fordi den er uriktig installert, har ytelsen en mangel hvis den ble installert av noen fra leverandørens side, eller hvis den uriktige installasjonen skyldes feil i installasjonsveiledningen.\nForbrukeren kan ikke gjøre gjeldende som en mangel noe som utelukkende skyldes at forbrukeren har unnlatt å installere oppdateringer etter § 9 innen rimelig tid. Dette gjelder likevel bare hvis leverandøren har opplyst forbrukeren om oppdateringen og konsekvensene av å ikke oppdatere, og den manglende oppdateringen ikke skyldes feil i installasjonsveiledningen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Bevisbyrde for at ytelsen har en mangel",
+      "content": "Når avtalen gjelder løpende levering over en periode og det viser seg en mangel ved den digitale ytelsen i løpet av perioden, påhviler det leverandøren å bevise at ytelsen har vært i samsvar med kravene i §§ 7, 8 og 9 i hele perioden.\nNår avtalen gjelder en enkelt levering eller flere enkeltstående leveringer og det viser seg en mangel ved ytelsen innen ett år etter leveringen, antas mangelen å ha eksistert på leveringstidspunktet, hvis ikke leverandøren beviser noe annet.\nFørste og annet ledd gjelder ikke hvis leverandøren beviser at forbrukerens digitale miljø ikke tilfredsstiller tekniske krav som leverandøren har opplyst tydelig om før avtalen ble inngått. Med forbrukerens digitale miljø menes forbrukerens maskinvare, programvare og nettverksforbindelser.\nForbrukeren skal samarbeide i rimelig utstrekning hvis leverandøren vil undersøke om mangelen skyldes forhold i forbrukerens digitale miljø etter tredje ledd. Plikten til å samarbeide omfatter bare de tilgjengelige fremgangsmåtene som er minst inngripende for forbrukeren. Hvis forbrukeren ikke samarbeider etter denne bestemmelsen og leverandøren tydelig har opplyst forbrukeren om plikten til å samarbeide, har forbrukeren bevisbyrden for forholdene som nevnt i første og annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Forbrukerens krav ved forsinkelse",
+      "content": "Hvis den digitale ytelsen ikke blir levert eller blir levert for sent og dette ikke skyldes forbrukeren eller forhold på forbrukerens side (forsinkelse), kan forbrukeren\n1. holde vederlaget tilbake etter § 13\n2. kreve oppfyllelse etter § 14\n3. kreve heving etter § 15\n4. kreve erstatning etter § 16.\nForbrukerens rett til erstatning faller ikke bort ved at han eller hun gjør gjeldende andre krav, eller ved at disse ikke kan gjøres gjeldende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Tilbakeholdsrett",
+      "content": "Forbrukeren kan holde tilbake vederlaget for å dekke krav som følge av leverandørens forsinkelse, men ikke åpenbart mer enn det som vil gi betryggende sikkerhet for kravet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Rett til oppfyllelse",
+      "content": "Er leveringstiden kommet uten at den digitale ytelsen er levert, kan forbrukeren likevel fastholde avtalen og kreve oppfyllelse.\nFørste ledd gjelder ikke hvis det foreligger en hindring som leverandøren ikke kan overvinne, eller hvis oppfyllelse vil medføre en så stor ulempe eller kostnad for leverandøren at det står i vesentlig misforhold til forbrukerens interesse i at leverandøren oppfyller. Faller vanskene bort innen rimelig tid, kan forbrukeren kreve oppfyllelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Heving",
+      "content": "Har leverandøren ikke levert den digitale ytelsen i tide i samsvar med §§ 4 og 5, skal forbrukeren oppfordre leverandøren til å levere. Hvis leverandøren deretter ikke leverer uten unødig opphold eller innen en tilleggsfrist som partene uttrykkelig har blitt enige om, kan forbrukeren heve avtalen.\nFørste ledd gjelder ikke hvis leverandøren har nektet å levere eller det fremgår klart av omstendighetene at leverandøren ikke kommer til å levere. Første ledd gjelder heller ikke hvis det er avtalt eller fremgår klart av omstendighetene at levering innen eller på et bestemt tidspunkt er avgjørende for forbrukeren, og leverandøren ikke har levert til riktig tid. I slike tilfeller kan forbrukeren umiddelbart heve avtalen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Erstatning",
+      "content": "Forbrukeren kan kreve erstatning for tap han eller hun lider som følge av forsinkelse fra leverandørens side.\nDette gjelder likevel ikke så langt leverandøren beviser at forsinkelsen skyldes en hindring utenfor hans eller hennes kontroll, som leverandøren ikke med rimelighet kunne ventes å ha tatt i betraktning på avtaletiden eller å unngå eller overvinne følgene av.\nBeror forsinkelsen på en tredjeperson som leverandøren har gitt i oppdrag helt eller delvis å oppfylle avtalen, er leverandøren fri for ansvar bare om også tredjepersonen ville være fritatt etter regelen i annet ledd. Det samme gjelder om forsinkelsen beror på noen i et tidligere omsetningsledd.\nAnsvarsfriheten gjelder så lenge hindringen er til stede. Faller hindringen bort, kan ansvar gjøres gjeldende hvis leverandøren da plikter å oppfylle, men ikke gjør dette.\nErstatningen utmåles etter reglene i kapittel 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Opplysningsplikt om hindring",
+      "content": "Hindres leverandøren i å oppfylle avtalen til rett tid, skal forbrukeren gis en melding om hindringen og dens virkning på muligheten for å oppfylle. Får forbrukeren ikke en slik melding innen rimelig tid etter at leverandøren fikk eller burde ha fått kjennskap til hindringen, kan forbrukeren kreve erstattet tap som kunne ha vært unngått om meldingen hadde blitt gitt i tide.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Melding om krav ved forsinkelse. Passivitet og foreldelse",
+      "content": "Forbrukeren må gi leverandøren melding om krav som følge av forsinkelse. Kravet kan tapes etter alminnelige regler om passivitet hvis forbrukeren venter så lenge med å gi melding at det ville virke illojalt overfor leverandøren å gjøre gjeldende krav. Retten til å gjøre gjeldende krav kan tapes også etter foreldelseslovens regler om foreldelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Forbrukerens krav ved mangler",
+      "content": "Hvis det foreligger en mangel og dette ikke skyldes forbrukeren eller forhold på forbrukerens side, kan forbrukeren\n1. holde vederlaget tilbake etter § 20\n2. kreve retting eller omlevering etter §§ 21 og 22\n3. kreve prisavslag etter § 23\n4. kreve heving etter § 24\n5. kreve erstatning etter § 25.\nForbrukerens rett til erstatning faller ikke bort ved at han eller hun gjør gjeldende andre krav, eller ved at disse ikke kan gjøres gjeldende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Tilbakeholdsrett",
+      "content": "Forbrukeren kan holde tilbake vederlaget for å dekke krav som følge av mangelen, men ikke åpenbart mer enn det som vil gi betryggende sikkerhet for kravet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Retting og omlevering (avhjelp)",
+      "content": "Forbrukeren kan kreve at leverandøren sørger for avhjelp gjennom å rette mangelen eller å levere en tilsvarende ytelse (omlevering). Dette gjelder ikke hvis gjennomføring av kravet er umulig eller påfører leverandøren urimelige kostnader. Leverandøren kan velge om avhjelp skal skje gjennom retting eller omlevering, så lenge fremgangsmåten er i samsvar med tredje ledd.\nVed avgjørelsen av om kostnadene er urimelige etter første ledd annet punktum, skal det blant annet legges vekt på mangelens betydning og verdien av en mangelfri ytelse.\nAvhjelp skal skje uten kostnad og vesentlig ulempe for forbrukeren innen rimelig tid og uten risiko for at forbrukeren ikke får dekket sine utlegg av leverandøren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Leverandørens adgang til å tilby avhjelp for å avverge krav om prisavslag og heving",
+      "content": "Selv om forbrukeren krever verken retting eller omlevering etter loven, kan leverandøren tilby retting eller omlevering hvis tilbudet fremsettes uten opphold. Sørger leverandøren for slik retting eller omlevering i samsvar med loven, kan forbrukeren ikke kreve prisavslag eller heving.\nForbrukeren kan likevel kreve prisavslag eller heving umiddelbart hvis mangelen etter sin art er så alvorlig at det ikke er rimelig å forvente at forbrukeren skal godta et avhjelpstilbud. Ved avgjørelsen skal det legges vekt på om mangelen er egnet til å vesentlig svekke forbrukerens tillit til leverandøren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Prisavslag",
+      "content": "Hvis mangelen ikke rettes eller ytelsen ikke omleveres i samsvar med §§ 21 og 22, kan forbrukeren kreve et prisavslag slik at forholdet mellom nedsatt og avtalt pris svarer til forholdet mellom ytelsens verdi i mangelfull og kontraktsmessig stand på leveringstiden.\nHvis avtalen gjelder levering over en periode, omfatter prisavslaget den perioden da ytelsen hadde en mangel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Heving",
+      "content": "I stedet for å kreve prisavslag etter § 23 kan forbrukeren heve avtalen, med mindre leverandøren beviser at mangelen er uvesentlig. Hvis vederlaget for ytelsen utelukkende er at forbrukeren oppgir personopplysninger, kan forbrukeren heve avtalen også når mangelen er uvesentlig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Erstatning",
+      "content": "Forbrukeren kan kreve erstatning for tap han eller hun lider som følge av at ytelsen har en mangel. Erstatningen utmåles etter reglene i kapittel 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Krav mot tidligere omsetningsledd",
+      "content": "Forbrukeren kan gjøre sitt mangelskrav mot leverandøren gjeldende mot et tidligere omsetningsledd så langt et tilsvarende krav på grunn av mangelen kan gjøres gjeldende av leverandøren eller et annet omsetningsledd i avtalekjeden. Første punktum gjelder bare krav mot et tidligere ledd som opptrer i næringsvirksomhet.\nEn avtale med et tidligere omsetningsledd som innskrenker leverandørens eller en annen avtaleparts krav, kan ikke gjøres gjeldende overfor forbrukerens krav etter første ledd i større utstrekning enn det som kunne ha vært avtalt mellom forbrukeren og leverandøren. Forbrukeren må likevel reklamere overfor det tidligere leddet innen rimelig tid etter at han eller hun oppdaget eller burde ha oppdaget mangelen.\nForbrukeren kan også gjøre krav gjeldende etter reglene i kjøpsloven § 84 første ledd så langt disse passer, hvis dette gir forbrukeren større rettigheter enn det som følger av paragrafen her.\nTidligere omsetningsledd kan ikke motregne overfor forbrukeren med krav mot leverandøren eller et annet omsetningsledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Melding om krav ved mangler. Passivitet og foreldelse",
+      "content": "Forbrukeren må gi leverandøren melding om krav som følge av en mangel. Kravet kan tapes etter alminnelige regler om passivitet hvis forbrukeren venter så lenge med å gi melding at det ville virke illojalt overfor leverandøren å gjøre gjeldende krav. Retten til å gjøre gjeldende krav kan tapes også etter foreldelseslovens regler om foreldelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:28",
+      "chapter": "6",
+      "section": "28",
+      "title": "Prisen for ytelsen",
+      "content": "Er avtale inngått uten at prisen følger av avtalen eller av opplysninger leverandøren har gitt i annonser eller lignende, skal forbrukeren betale gjengs pris på avtaletiden for samme slags ytelse levert under tilsvarende forhold, så lenge prisen ikke er urimelig. Er det ingen slik gjengs pris, må forbrukeren betale det som er rimelig, under hensyn til ytelsens art og kvalitet og forholdene ellers.\nI avtaler om løpende levering av digitale ytelser kan leverandøren endre prisen hvis en slik rett er avtalt og forbrukerens rettigheter etter denne bestemmelsen fremgår av avtalen. En prisendring til forbrukerens ugunst kan gjøres gjeldende bare hvis forbrukeren har fått varsel i rimelig tid om endringen. Hvis prisendringen er høyere enn endringen i konsumprisindeksen skulle tilsi, kan forbrukeren kostnadsfritt si opp avtalen med virkning fra tidspunktet når endringen trer i kraft. Forbrukeren kan også si opp avtalen etter reglene i § 33. Leverandørens rett til å endre prisen gjelder ikke ved avtale om bindingstid etter § 33. Forbrukerens oppsigelsesadgang etter tredje punktum gjelder ikke ved første gangs prisendring etter avtaleinngåelsen hvis leverandøren i forbindelse med avtaleinngåelsen gjorde forbrukeren særskilt oppmerksom på at prisen var et introduksjonstilbud, en kampanjepris eller lignende, og forbrukeren uttrykkelig aksepterte dette.\nLeverandøren kan ikke i tillegg til vederlaget kreve gebyr for utstedelse og sending av regning hvis ikke dette klart følger av avtalen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "title": "Tidspunktet for betaling. Ytelse mot ytelse",
+      "content": "Følger ikke betalingstiden av avtalen, skal forbrukeren betale når leverandøren krever det.\nHvis ikke noe annet er avtalt, har forbrukeren ikke plikt til å betale vederlaget uten at ytelsen blir overlevert eller stilt til hans eller hennes rådighet i samsvar med avtalen og loven.\nForbrukeren er ikke bundet av en forhåndsavtale om plikt til å betale på et bestemt tidspunkt uavhengig av om leverandøren oppfyller til rett tid.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "title": "Forbrukerens medvirkning ved oppfyllelse av avtalen",
+      "content": "Forbrukeren skal yte slik medvirkning som det er rimelig å vente av ham eller henne for at leverandøren skal kunne oppfylle avtalen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "7:31",
+      "chapter": "7",
+      "section": "31",
+      "title": "Avbestilling før levering. Angrerett",
+      "content": "Avbestiller forbrukeren ytelsen før levering, kan leverandøren ikke fastholde kjøpet og kreve betaling. Hvis ikke noe annet følger av avtalen, kan leverandøren kreve erstatning for tap som er en følge av avbestillingen. Er vilkårene etter angrerettloven oppfylt, kan forbrukeren i stedet for avbestilling etter første og annet punktum benytte seg av angreretten.\nPartene kan avtale en normalerstatning ved avbestilling (avbestillingsgebyr). Normalerstatningen kan ikke settes høyere enn det erstatning etter kapittel 11 normalt kan forventes å utgjøre.\nHvis det ikke er avtalt avbestillingsgebyr, utmåles erstatningen etter reglene i kapittel 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "7:32",
+      "chapter": "7",
+      "section": "32",
+      "title": "Retur etter levering",
+      "content": "Etter at digitalt innhold er levert, blir forbrukeren ikke fritatt fra å yte vederlaget selv om innholdet og en eventuell fysisk bærer leveres tilbake til leverandøren.\nBetalingsplikten bortfaller likevel\n1. ved heving\n2. hvis vilkårene for angrerett etter angrerettloven er oppfylt\n3. hvis en rett til tilbakelevering følger av avtalen, for eksempel ved at innholdet er kjøpt på prøve.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "7:33",
+      "chapter": "7",
+      "section": "33",
+      "title": "Oppsigelse fra forbrukeren i løpende avtaleforhold",
+      "content": "En avtale om løpende levering av digitale ytelser kan sies opp av forbrukeren med rimelig varsel, jf. likevel annet ledd om avtaler om bindingstid. Er det avtalt månedlig forskuddsbetaling, får oppsigelsen virkning fra den neste betalingsperioden, med mindre dette ville virke urimelig ut fra avtalens art.\nDet kan ikke gyldig avtales at en løpende avtale skal være uoppsigelig i mer enn seks måneder av gangen. I særlige tilfeller kan det avtales lengre bindingstid, men likevel ikke lengre enn tolv måneder. Vilkår om bindingstid kan avtales bare hvis forbrukeren gis en økonomisk fordel som står i forhold til bindingstidens lengde. Ved oppsigelse i bindingstiden kan leverandøren kreve erstatning for tap som er en følge av oppsigelsen, dersom det på forhånd er avtalt en rimelig normalerstatning som står i forhold til fordelen som forbrukeren har fått som følge av bindingstiden etter tredje punktum. § 31 annet ledd annet punktum gjelder tilsvarende.\nForbrukeren kan si opp avtalen med det kommunikasjonsmiddelet som ble brukt til å inngå avtalen. Forbrukeren kan også si opp avtalen med et annet passende kommunikasjonsmiddel som leverandøren benytter ellers i sin virksomhet. Forbrukeren skal kunne si opp avtalen på en enkel måte.\nVed løpende levering av digitale ytelser skal leverandøren minst en gang hver sjette måned sende forbrukeren et varsel om at avtalen løper, og opplyse forbrukeren om adgangen til å si opp avtalen etter første til tredje ledd. Unnlater leverandøren å sende slikt varsel, kan forbrukeren kostnadsfritt si opp avtalen med virkning fra det tidspunktet varselet senest skulle ha vært sendt.\nEr det avtalt periodevis betaling for løpende levering av digitale ytelser og forbrukeren ikke betaler noe vederlag for ytelsen i en periode på seks måneder etter at et krav på vederlag for ytelsen har forfalt uten å ha blitt betalt, anses avtalen som oppsagt fra forbrukerens side med virkning fra utløpet av denne perioden. Er det avtalt bindingstid, har oppsigelsen virkning først etter at bindingstiden har løpt ut. Avtalen er likevel ikke sagt opp hvis forbrukeren innen virkningstidspunktet for oppsigelsen melder fra til leverandøren om at den manglende betalingen ikke skal anses som en oppsigelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "8:34",
+      "chapter": "8",
+      "section": "34",
+      "title": "Leverandørens krav",
+      "content": "Hvis forbrukeren ikke betaler eller oppfyller sine øvrige plikter etter avtalen eller loven og dette ikke skyldes leverandøren eller forhold på leverandørens side, kan leverandøren\n1. holde ytelsen tilbake etter § 35\n2. kreve oppfyllelse etter § 36\n3. kreve heving etter § 37\n4. kreve erstatning og rente etter § 38.\nLeverandørens rett til erstatning og rente faller ikke bort ved at leverandøren gjør gjeldende andre krav, eller ved at disse ikke kan gjøres gjeldende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "8:35",
+      "chapter": "8",
+      "section": "35",
+      "title": "Tilbakeholdsrett",
+      "content": "Betaler forbrukeren ikke vederlaget i rett tid, kan leverandøren holde ytelsen tilbake eller stanse videre levering inntil forbrukeren betaler eller stiller betryggende sikkerhet for kravet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "8:36",
+      "chapter": "8",
+      "section": "36",
+      "title": "Rett til å kreve oppfyllelse",
+      "content": "Leverandøren kan fastholde avtalen og kreve at forbrukeren betaler kjøpesummen. Dette gjelder likevel ikke så lenge betalingen hindres av stans i betalingsformidlingen eller andre forhold utenfor forbrukerens kontroll som forbrukeren ikke kan overvinne.\nEr ytelsen ennå ikke levert, tapes retten til å kreve oppfyllelse hvis leverandøren venter urimelig lenge med å fremme kravet.\n§ 14 gjelder tilsvarende for leverandørens rett til å kreve oppfyllelse av forbrukerens plikt til å medvirke til avtalen (jf. § 30).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "8:37",
+      "chapter": "8",
+      "section": "37",
+      "title": "Heving",
+      "content": "Leverandøren kan heve avtalen på grunn av forsinket betaling eller annet kontraktsbrudd fra forbrukerens side dersom forbrukerens kontraktsbrudd er vesentlig. Leverandøren kan ikke heve etter at hele vederlaget er betalt.\nAvtalen kan også heves dersom forbrukeren ikke yter vederlaget innen en rimelig tilleggsfrist for oppfyllelse som leverandøren har fastsatt. Mens tilleggsfristen løper, kan leverandøren ikke heve, med mindre forbrukeren har sagt at han eller hun ikke vil oppfylle innen fristen.\nEr ytelsen allerede overtatt av forbrukeren, kan leverandøren heve bare dersom det er tatt forbehold om det eller forbrukeren avviser ytelsen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "8:38",
+      "chapter": "8",
+      "section": "38",
+      "title": "Erstatning. Rente",
+      "content": "Hvis forbrukeren ikke betaler i tide, kan leverandøren kreve rente av vederlaget etter forsinkelsesrenteloven.\nLeverandøren kan også kreve erstatning for det tapet leverandøren lider som følge av kontraktsbrudd fra forbrukerens side. Dette gjelder likevel ikke så langt forbrukeren godtgjør at kontraktsbruddet skyldes stans i betalingsformidlingen eller en annen hindring utenfor forbrukerens kontroll som han eller hun ikke med rimelighet kunne ventes å ha tatt i betraktning på avtaletiden eller å unngå eller overvinne følgene av. Reglene i § 16 tredje og fjerde ledd gjelder tilsvarende. Erstatningen utmåles etter reglene i kapittel 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "8:39",
+      "chapter": "8",
+      "section": "39",
+      "title": "Opplysningsplikt om hindring",
+      "content": "Hindres forbrukeren i å oppfylle avtalen til rett tid, skal leverandøren gis en melding om hindringen og dens virkning på muligheten for å oppfylle. Får leverandøren ikke en slik melding innen rimelig tid etter at forbrukeren fikk eller burde ha fått kjennskap til hindringen, kan leverandøren kreve erstattet tap som kunne ha vært unngått om meldingen hadde blitt gitt i tide.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "8:40",
+      "chapter": "8",
+      "section": "40",
+      "title": "Spesifikasjon av ytelsen",
+      "content": "Skal ytelsen utvikles etter forbrukerens spesifikasjoner og forbrukeren ikke bidrar med slike spesifikasjoner til avtalt tid eller innen rimelig tid etter at leverandøren har oppfordret til det, kan leverandøren selv bestemme spesifikasjonene i samsvar med hva som må antas at er i forbrukerens interesse. Dette hindrer ikke leverandøren i å gjøre gjeldende andre krav.\nLeverandøren må opplyse forbrukeren om de spesifikasjonene som vil bli brukt, og gi forbrukeren en rimelig frist til å endre spesifikasjonene. Endrer ikke forbrukeren spesifikasjonene i tide etter å ha fått leverandørens melding, blir leverandørens spesifikasjoner bindende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "9:41",
+      "chapter": "9",
+      "section": "41",
+      "title": "Alminnelige vilkår for endring av ytelsen",
+      "content": "Ved løpende levering over en periode kan leverandøren endre den digitale ytelsen ut over det som er nødvendig for å overholde kravene i § 9, jf. §§ 7 og 8, hvis endringen har grunnlag i avtalen og kan foretas uten kostnader for forbrukeren. Endring kan bare foretas hvis forbrukeren informeres om endringen på en klar og tydelig måte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "9:42",
+      "chapter": "9",
+      "section": "42",
+      "title": "Endringer som påvirker ytelsen negativt for forbrukeren",
+      "content": "Hvis en endring etter § 41 påvirker den digitale ytelsen negativt for forbrukeren på en ikke uvesentlig måte, kan forbrukeren heve avtalen. Dette gjelder likevel ikke hvis leverandøren gjør det mulig for forbrukeren å beholde sin ytelse uendret og i samsvar med §§ 7 og 8.\nEn endring som nevnt i første ledd kan foretas bare hvis forbrukeren får varsel i rimelig tid om endringen. Varselet skal gis på et varig medium og inneholde informasjon om retten til å heve avtalen eller til å beholde ytelsen uendret.\nEt krav om heving etter denne paragrafen må gjøres gjeldende innen 30 dager etter at forbrukeren fikk varsel etter annet ledd, eller innen 30 dager etter at endringen ble foretatt, hvis dette tidspunktet er det seneste. For hevingsoppgjøret gjelder bestemmelsene i kapittel 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "9:43",
+      "chapter": "9",
+      "section": "43",
+      "title": "Unntak for visse kombinerte avtaler",
+      "content": "Bestemmelsene i §§ 41 og 42 gjelder ikke for kombinerte avtaler som nevnt i § 2 fjerde ledd fjerde punktum der den digitale ytelsen leveres sammen med en nummerbasert person-til-person-kommunikasjonstjeneste eller en internettilgangstjeneste.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "10:44",
+      "chapter": "10",
+      "section": "44",
+      "title": "Generelle regler om heving og omlevering",
+      "content": "En part utøver sin rett til heving gjennom en erklæring til den andre parten. Når avtalen heves, faller partenes plikt til å oppfylle avtalen bort.\nEr avtalen helt eller delvis oppfylt fra noen av sidene, kan det mottatte kreves tilbakeført etter bestemmelsene i §§ 45 og 46. En part kan likevel holde tilbake det som er mottatt, inntil den andre gir tilbake det denne parten har fått. Tilsvarende gjelder når parten har krav på erstatning eller rente, og betryggende sikkerhet ikke blir stilt.\nSkal leverandøren omlevere, kan forbrukeren holde tilbake det han eller hun har mottatt, inntil omlevering skjer.\nHevingen har ingen betydning for avtalevilkår om forretningshemmeligheter, om løsning av tvister eller om partenes rettigheter og plikter som følge av hevingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "10:45",
+      "chapter": "10",
+      "section": "45",
+      "title": "Særlige regler om virkningene av heving for leverandøren",
+      "content": "Når avtalen er hevet, skal leverandøren betale tilbake mottatt vederlag til forbrukeren. Gjelder avtalen løpende levering over en periode, betaler leverandøren likevel ikke tilbake vederlag for perioder forut for hevingserklæringen der ytelsen var mangelfri.\nLeverandøren skal avstå fra å anvende innhold som forbrukeren har avgitt eller frembrakt ved bruk av den digitale ytelsen, med unntak av personopplysninger, jf. femte ledd. Dette gjelder likevel ikke hvis innholdet\n1. bare kan anvendes innenfor rammene av den digitale ytelsen\n2. bare gjelder forbrukerens aktivitet ved bruk av den digitale ytelsen\n3. har blitt forbundet med andre data fra leverandøren på en slik måte at det vil være umulig eller uforholdsmessig krevende å utskille innholdet, eller\n4. er frembrakt av forbrukeren og andre i fellesskap og andre forbrukere fortsatt kan gjøre bruk av innholdet.\nHvis forbrukeren ber om det, skal leverandøren stille til rådighet for forbrukeren innhold etter annet ledd, bortsett fra i tilfeller som nevnt i annet ledd nr. 1, 2 og 3. Forbrukeren har rett til å laste ned slikt innhold kostnadsfritt innen rimelig tid og i et vanlig og maskinleselig format.\nNår avtalen er hevet, kan leverandøren hindre forbrukeren fra å fortsette å bruke ytelsen, så langt dette er forenlig med tredje ledd.\nFor vederlag som helt eller delvis går ut på at forbrukeren oppgir personopplysninger, skal leverandøren ved heving oppfylle de plikter som følger av personopplysningsloven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "10:46",
+      "chapter": "10",
+      "section": "46",
+      "title": "Særlige regler om virkningene av heving for forbrukeren",
+      "content": "Når avtalen er hevet, skal forbrukeren avstå fra videre bruk av den digitale ytelsen og å stille den til rådighet for tredjeparter.\nHvis avtalen gjelder digitalt innhold som er levert på et fysisk medium, kan leverandøren kreve at forbrukeren leverer tilbake det fysiske mediet uten unødig opphold. Et slikt krav må fremsettes innen 14 dager etter at leverandøren har mottatt melding fra forbrukeren om at avtalen heves. Leverandøren bærer kostnadene med tilbakeleveringen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "10:47",
+      "chapter": "10",
+      "section": "47",
+      "title": "Fellesregler om tilbakebetaling fra leverandøren ved heving og krav om prisavslag",
+      "content": "Hvis leverandøren skal tilbakebetale vederlag til forbrukeren etter heving eller krav om prisavslag, skal dette gjøres uten unødig opphold og senest innen 14 dager etter at leverandøren mottok melding om heving eller krav om prisavslag. Leverandøren plikter å betale renter etter forsinkelsesrenteloven fra 14 dager etter at leverandøren mottok melding som nevnt.\nTilbakebetaling etter første ledd skal skje med det samme betalingsmiddelet som forbrukeren brukte til å betale for den digitale ytelsen, med mindre forbrukeren uttrykkelig aksepterer et annet betalingsmiddel. Leverandøren kan ikke kreve gebyrer eller lignende av forbrukeren i forbindelse med tilbakebetalingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "11:48",
+      "chapter": "11",
+      "section": "48",
+      "title": "Erstatningens omfang",
+      "content": "Erstatning for kontraktsbrudd fra den ene partens side skal svare til tapet, herunder utlegg, prisforskjell og tapt fortjeneste, som den andre parten er påført ved kontraktsbruddet. Dette gjelder likevel bare tap som en med rimelighet kunne ha forutsett som en mulig følge av kontraktsbruddet.\nSom tap etter første ledd regnes også at forbrukeren påføres en konkret og ikke ubetydelig ulempe ved kontraktsbruddet. Partene kan avtale normalerstatning for slike tap så langt normalerstatningen er rimelig under hensyn til de mulige tapenes art og omfang.\nErstatningen omfatter ikke\n1. tap som følge av personskade\n2. tap i forbrukerens næringsvirksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "11:49",
+      "chapter": "11",
+      "section": "49",
+      "title": "Beregning av prisforskjell ved heving",
+      "content": "Hvis avtalen heves og forbrukeren foretar dekningskjøp eller leverandøren foretar dekningssalg på forsvarlig måte og innen rimelig tid etter hevingen, legges det avtalte vederlaget og prisen etter dekningstransaksjonen til grunn når prisforskjellen skal regnes ut.\nEr avtalen hevet uten at det foretas dekningstransaksjon i samsvar med første ledd, og det er gjengs pris for ytelsen, legges det avtalte vederlaget og den gjengse prisen på hevingstidspunktet til grunn når prisforskjellen skal regnes ut.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "11:50",
+      "chapter": "11",
+      "section": "50",
+      "title": "Plikt til å begrense tapet. Lemping av ansvaret",
+      "content": "En part som påberoper seg kontraktsbrudd fra den andre partens side, skal ved rimelige tiltak begrense sitt tap. Forsømmes dette, må parten selv bære den tilsvarende delen av tapet.\nErstatningen kan settes ned hvis den vil virke urimelig for den ansvarlige parten ut fra tapets størrelse i forhold til det tapet som vanligvis oppstår i lignende tilfeller, og forholdene ellers.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "12:51",
+      "chapter": "12",
+      "section": "51",
+      "title": "Forventet kontraktsbrudd",
+      "content": "For forventet kontraktsbrudd gjelder bestemmelsene i kjøpsloven §§ 61 og 62 tilsvarende så langt de passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "12:52",
+      "chapter": "12",
+      "section": "52",
+      "title": "Insolvensbehandling",
+      "content": "Kommer en av partene under insolvensbehandling, gjelder bestemmelsene i dekningsloven kapittel 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "12:53",
+      "chapter": "12",
+      "section": "53",
+      "title": "Kontraktsbrudd ved del av ytelsen",
+      "content": "Omfatter leverandørens kontraktsbrudd bare en del av det som skal leveres etter avtalen, gjelder reglene om forsinkelse og mangler i lovens kapittel 4 og 5 for denne delen, så langt ikke noe annet følger av § 2 fjerde ledd. Forbrukeren kan heve avtalen i sin helhet når kontraktsbruddet er vesentlig for avtalen, herunder i kombinerte avtaleforhold etter § 2 fjerde ledd.\nMå leverandøren etter forholdene antas å ha avsluttet sin levering enda ikke alt er levert, gjelder reglene om mangler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "12:54",
+      "chapter": "12",
+      "section": "54",
+      "title": "Leverandørens hevingsrett når det skal leveres etter hvert",
+      "content": "Skal leverandøren levere etter hvert og forbrukeren betale eller medvirke i tilsvarende poster og det er kontraktsbrudd fra forbrukerens side ved en enkelt levering, kan leverandøren heve for denne leveringen etter reglene i § 37.\nGir kontraktsbruddet leverandøren god grunn til å regne med at det vil inntre kontraktsbrudd som vil gi hevingsrett ved senere leveringer, kan leverandøren på dette grunnlaget heve for slike leveringer dersom det skjer innen rimelig tid.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "12:55",
+      "chapter": "12",
+      "section": "55",
+      "title": "Tilsyn og håndheving",
+      "content": "Forbrukertilsynet og Markedsrådet skal føre kontroll med at bestemmelser gitt i eller i medhold av denne loven, overholdes. Kontrollen utøves i samsvar med reglene i markedsføringsloven §§ 32 til 41, § 42 første ledd annet punktum og §§ 43 til 43 c.\n0 Endret ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "13:56",
+      "chapter": "13",
+      "section": "56",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer. De enkelte bestemmelsene i loven kan settes i kraft til ulik tid.\n1 Fra 1. jan 2023 iflg. res. 17 juni 2022 nr. 1034.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "13:57",
+      "chapter": "13",
+      "section": "57",
+      "title": "Overgangsregler",
+      "content": "1. Loven gjelder for levering av digitale ytelser som skjer etter lovens ikrafttredelse, med de unntak som følger av nr. 2 til 4.\n2. § 28 annet ledd, § 33 annet ledd og §§ 41 og 42 gjelder bare der avtalen om levering av den digitale ytelsen ble inngått etter lovens ikrafttredelse.\n3. For avtaler som er inngått før lovens ikrafttredelse, skal varsel etter § 33 fjerde ledd gis første gang innen seks måneder etter lovens ikrafttredelse.\n4. § 33 femte ledd gjelder bare der misligholdet av betalingsforpliktelsen første gang finner sted etter lovens ikrafttredelse.\n5. Departementet kan gi nærmere overgangsregler. I overgangsreglene kan det gjøres unntak fra reglene i denne paragrafen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Alminnelig virkeområde",
+      "content": "Loven gjelder avtaler om levering av digitale ytelser mot vederlag i forbrukerforhold, hvis ikke noe annet er fastsatt i lov eller i medhold av lov.\nMed digitale ytelser menes digitalt innhold og digitale tjenester. Digitalt innhold er data som fremstilles og leveres i digital form, ved at de gjengir fysiske størrelser med diskrete tegn. Digitale tjenester er tjenester som gjør det mulig for brukeren å frembringe, behandle, lagre eller få tilgang til data i digital form, eller tjenester som gjør det mulig å dele eller å samhandle på annen måte med slike data.\nMed forbrukerforhold menes levering av ytelser til en forbruker der den som leverer ytelsen (leverandøren), opptrer i næringsvirksomhet. Med forbruker menes en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.\nMed vederlag menes betaling i penger eller annen motytelse. Som vederlag regnes også at forbrukeren oppgir personopplysninger, med mindre leverandøren behandler personopplysningene utelukkende for å kunne levere den digitale ytelsen eller overholde lovpålagte plikter. Personopplysningsloven går ved motstrid foran reglene i denne loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens anvendelse i noen særlige forhold",
+      "content": "Loven gjelder for levering av digitale ytelser som er utviklet etter forbrukerens spesifikasjoner.\nMed unntak av bestemmelsene om levering og forbrukerens krav ved forsinket levering i §§ 4, 5 og 15 gjelder loven også for fysiske medier som utelukkende brukes som bærere av digitalt innhold. For levering og forbrukerens krav ved forsinket levering av slike fysiske medier gjelder forbrukerkjøpsloven.\nLoven gjelder ikke for\n1. helsetjenester som foreskrives eller utføres av helsepersonell\n2. pengespilltjenester\n3. offentlig fremvisning av digitalt innhold som ledd i en forestilling eller et arrangement\n4. elektroniske kommunikasjonstjenester med unntak av nummeruavhengige person-til-person-kommunikasjonstjenester\n5. finansielle tjenester som nevnt i finansavtaleloven § 1-3 annet ledd og forsikringstjenester.\nForbrukerkjøpsloven gjelder for digitale ytelser som etter kjøpsavtalen skal leveres sammen med en ting, og som er sammenknyttet med tingen på en slik måte at ytelsene er nødvendige for tingens funksjoner. Dette gjelder uavhengig av om de digitale ytelsene skal leveres av selgeren eller en tredjeperson. Er det tvil om hvorvidt levering av de digitale ytelsene omfattes av kjøpsavtalen, legges det til grunn at ytelsene er omfattet av avtalen. For andre avtaler som omfatter både levering av digitale ytelser og levering av ting eller andre tjenester enn digitale ytelser (kombinerte avtaler), anvendes loven på den delen av avtalen som gjelder digitale ytelser, med unntak for tilfeller som nevnt i § 43 og der noe annet er fastsatt i eller i medhold av lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Ufravikelighet",
+      "content": "Loven kan ikke fravikes ved avtale til skade for en forbruker. Første punktum har ikke betydning for gyldigheten av avtaler som inngås etter at forbrukeren har gitt melding om et kontraktsbrudd, eller etter at forbrukeren har fått varsel om endringer i samsvar med kapittel 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Leveringstiden",
+      "content": "Den digitale ytelsen skal leveres uten unødig opphold hvis ikke noe annet er avtalt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Levering",
+      "content": "Den digitale ytelsen er levert når den er gjort tilgjengelig for forbrukeren eller for en tredjeperson, en elektronisk plattform eller en annen innretning som forbrukeren har valgt til å motta ytelsen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Bevisbyrde for levering",
+      "content": "Det påhviler leverandøren å bevise at den digitale ytelsen er levert i samsvar med §§ 4 og 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Avtalte krav til ytelsen",
+      "content": "Den digitale ytelsen skal samsvare med det som er avtalt om blant annet\n1. art, mengde, kvalitet, kompatibilitet og andre egenskaper\n2. tilbehør, veiledninger og kundeservice\n3. oppdateringer.\nDen digitale ytelsen skal også passe for et bestemt formål som forbrukeren har gjort leverandøren kjent med, og som leverandøren har akseptert.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Alminnelige krav til ytelsen",
+      "content": "Hvis ikke noe annet følger av avtalen, skal den digitale ytelsen leveres i den nyeste versjonen som er tilgjengelig på avtaletidspunktet.\nDen digitale ytelsen skal ellers samsvare med kravene i tredje ledd så langt forbrukeren ikke på avtaletidspunktet ble gjort særskilt oppmerksom på bestemte avvik fra kravene og aksepterte disse avvikene særskilt og uttrykkelig.\nYtelsen skal dessuten\n1. passe for de formålene som tilsvarende ytelser vanligvis brukes til\n2. svare til det som forbrukeren har grunn til å forvente når det gjelder funksjonalitet og andre egenskaper, under hensyn til ytelsens art og opplysninger om ytelsen fra leverandørens side, jf. fjerde ledd\n3. leveres med tilbehør, innpakning, installasjonsveiledning og lignende som forbrukeren med rimelighet kan forvente å få\n4. svare til en eventuell prøveversjon eller forhåndsvisning fra leverandøren\n5. være i samsvar med offentligrettslige krav som stilles i lovgivningen eller offentlige vedtak i medhold av lov på avtaletidspunktet, hvis ikke forbrukeren har til hensikt å anvende ytelsen på en slik måte at kravet er uten betydning\n6. være upåvirket av tredjepersoners rettigheter i ytelsen, for eksempel eiendomsrett, panterett eller immaterialrettigheter.\nMed opplysninger fra leverandørens side etter tredje ledd nr. 2 menes opplysninger i markedsføring, merking eller annet fra leverandøren selv, fra noen som handler på vegne av leverandøren, eller fra noen i et tidligere ledd i avtalekjeden. Det skal ses bort fra opplysninger fra leverandørens side hvis leverandøren beviser at han eller hun ikke kjente eller burde kjenne til at opplysningene var gitt, at opplysningene før avtaletidspunktet er rettet på samme eller tilsvarende måte som de ble fremsatt, eller at opplysningene ikke kan ha innvirket på avtalen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Alminnelige krav til oppdateringer",
+      "content": "Leverandøren skal sørge for at forbrukeren får beskjed om og får levert oppdateringer, herunder sikkerhetsoppdateringer, som er nødvendige for å oppfylle kravene i §§ 7 og 8.\nKravet til oppdateringer gjelder bare så langt forbrukeren ikke på avtaletidspunktet ble gjort særskilt oppmerksom på bestemte avvik fra kravet og aksepterte disse avvikene særskilt og uttrykkelig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Mangel ved ytelsen",
+      "content": "Den digitale ytelsen har en mangel hvis den ikke samsvarer med kravene i §§ 7, 8 eller 9. Når avtalen gjelder løpende levering over en periode, skal ytelsen samsvare med kravene i hele perioden. Når avtalen gjelder en enkelt levering eller flere enkeltstående leveringer, skal ytelsen samsvare med kravene på leveringstidspunktet, likevel slik at leverandøren skal sørge for oppdateringer etter § 9 så lenge forbrukeren kan forvente under hensyn til avtalens art og formål.\nHvis den digitale ytelsen ikke samsvarer med kravene i §§ 7, 8 eller 9 fordi den er uriktig installert, har ytelsen en mangel hvis den ble installert av noen fra leverandørens side, eller hvis den uriktige installasjonen skyldes feil i installasjonsveiledningen.\nForbrukeren kan ikke gjøre gjeldende som en mangel noe som utelukkende skyldes at forbrukeren har unnlatt å installere oppdateringer etter § 9 innen rimelig tid. Dette gjelder likevel bare hvis leverandøren har opplyst forbrukeren om oppdateringen og konsekvensene av å ikke oppdatere, og den manglende oppdateringen ikke skyldes feil i installasjonsveiledningen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Bevisbyrde for at ytelsen har en mangel",
+      "content": "Når avtalen gjelder løpende levering over en periode og det viser seg en mangel ved den digitale ytelsen i løpet av perioden, påhviler det leverandøren å bevise at ytelsen har vært i samsvar med kravene i §§ 7, 8 og 9 i hele perioden.\nNår avtalen gjelder en enkelt levering eller flere enkeltstående leveringer og det viser seg en mangel ved ytelsen innen ett år etter leveringen, antas mangelen å ha eksistert på leveringstidspunktet, hvis ikke leverandøren beviser noe annet.\nFørste og annet ledd gjelder ikke hvis leverandøren beviser at forbrukerens digitale miljø ikke tilfredsstiller tekniske krav som leverandøren har opplyst tydelig om før avtalen ble inngått. Med forbrukerens digitale miljø menes forbrukerens maskinvare, programvare og nettverksforbindelser.\nForbrukeren skal samarbeide i rimelig utstrekning hvis leverandøren vil undersøke om mangelen skyldes forhold i forbrukerens digitale miljø etter tredje ledd. Plikten til å samarbeide omfatter bare de tilgjengelige fremgangsmåtene som er minst inngripende for forbrukeren. Hvis forbrukeren ikke samarbeider etter denne bestemmelsen og leverandøren tydelig har opplyst forbrukeren om plikten til å samarbeide, har forbrukeren bevisbyrden for forholdene som nevnt i første og annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Forbrukerens krav ved forsinkelse",
+      "content": "Hvis den digitale ytelsen ikke blir levert eller blir levert for sent og dette ikke skyldes forbrukeren eller forhold på forbrukerens side (forsinkelse), kan forbrukeren\n1. holde vederlaget tilbake etter § 13\n2. kreve oppfyllelse etter § 14\n3. kreve heving etter § 15\n4. kreve erstatning etter § 16.\nForbrukerens rett til erstatning faller ikke bort ved at han eller hun gjør gjeldende andre krav, eller ved at disse ikke kan gjøres gjeldende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Tilbakeholdsrett",
+      "content": "Forbrukeren kan holde tilbake vederlaget for å dekke krav som følge av leverandørens forsinkelse, men ikke åpenbart mer enn det som vil gi betryggende sikkerhet for kravet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Rett til oppfyllelse",
+      "content": "Er leveringstiden kommet uten at den digitale ytelsen er levert, kan forbrukeren likevel fastholde avtalen og kreve oppfyllelse.\nFørste ledd gjelder ikke hvis det foreligger en hindring som leverandøren ikke kan overvinne, eller hvis oppfyllelse vil medføre en så stor ulempe eller kostnad for leverandøren at det står i vesentlig misforhold til forbrukerens interesse i at leverandøren oppfyller. Faller vanskene bort innen rimelig tid, kan forbrukeren kreve oppfyllelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Heving",
+      "content": "Har leverandøren ikke levert den digitale ytelsen i tide i samsvar med §§ 4 og 5, skal forbrukeren oppfordre leverandøren til å levere. Hvis leverandøren deretter ikke leverer uten unødig opphold eller innen en tilleggsfrist som partene uttrykkelig har blitt enige om, kan forbrukeren heve avtalen.\nFørste ledd gjelder ikke hvis leverandøren har nektet å levere eller det fremgår klart av omstendighetene at leverandøren ikke kommer til å levere. Første ledd gjelder heller ikke hvis det er avtalt eller fremgår klart av omstendighetene at levering innen eller på et bestemt tidspunkt er avgjørende for forbrukeren, og leverandøren ikke har levert til riktig tid. I slike tilfeller kan forbrukeren umiddelbart heve avtalen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Erstatning",
+      "content": "Forbrukeren kan kreve erstatning for tap han eller hun lider som følge av forsinkelse fra leverandørens side.\nDette gjelder likevel ikke så langt leverandøren beviser at forsinkelsen skyldes en hindring utenfor hans eller hennes kontroll, som leverandøren ikke med rimelighet kunne ventes å ha tatt i betraktning på avtaletiden eller å unngå eller overvinne følgene av.\nBeror forsinkelsen på en tredjeperson som leverandøren har gitt i oppdrag helt eller delvis å oppfylle avtalen, er leverandøren fri for ansvar bare om også tredjepersonen ville være fritatt etter regelen i annet ledd. Det samme gjelder om forsinkelsen beror på noen i et tidligere omsetningsledd.\nAnsvarsfriheten gjelder så lenge hindringen er til stede. Faller hindringen bort, kan ansvar gjøres gjeldende hvis leverandøren da plikter å oppfylle, men ikke gjør dette.\nErstatningen utmåles etter reglene i kapittel 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Opplysningsplikt om hindring",
+      "content": "Hindres leverandøren i å oppfylle avtalen til rett tid, skal forbrukeren gis en melding om hindringen og dens virkning på muligheten for å oppfylle. Får forbrukeren ikke en slik melding innen rimelig tid etter at leverandøren fikk eller burde ha fått kjennskap til hindringen, kan forbrukeren kreve erstattet tap som kunne ha vært unngått om meldingen hadde blitt gitt i tide.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Melding om krav ved forsinkelse. Passivitet og foreldelse",
+      "content": "Forbrukeren må gi leverandøren melding om krav som følge av forsinkelse. Kravet kan tapes etter alminnelige regler om passivitet hvis forbrukeren venter så lenge med å gi melding at det ville virke illojalt overfor leverandøren å gjøre gjeldende krav. Retten til å gjøre gjeldende krav kan tapes også etter foreldelseslovens regler om foreldelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Forbrukerens krav ved mangler",
+      "content": "Hvis det foreligger en mangel og dette ikke skyldes forbrukeren eller forhold på forbrukerens side, kan forbrukeren\n1. holde vederlaget tilbake etter § 20\n2. kreve retting eller omlevering etter §§ 21 og 22\n3. kreve prisavslag etter § 23\n4. kreve heving etter § 24\n5. kreve erstatning etter § 25.\nForbrukerens rett til erstatning faller ikke bort ved at han eller hun gjør gjeldende andre krav, eller ved at disse ikke kan gjøres gjeldende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Tilbakeholdsrett",
+      "content": "Forbrukeren kan holde tilbake vederlaget for å dekke krav som følge av mangelen, men ikke åpenbart mer enn det som vil gi betryggende sikkerhet for kravet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Retting og omlevering (avhjelp)",
+      "content": "Forbrukeren kan kreve at leverandøren sørger for avhjelp gjennom å rette mangelen eller å levere en tilsvarende ytelse (omlevering). Dette gjelder ikke hvis gjennomføring av kravet er umulig eller påfører leverandøren urimelige kostnader. Leverandøren kan velge om avhjelp skal skje gjennom retting eller omlevering, så lenge fremgangsmåten er i samsvar med tredje ledd.\nVed avgjørelsen av om kostnadene er urimelige etter første ledd annet punktum, skal det blant annet legges vekt på mangelens betydning og verdien av en mangelfri ytelse.\nAvhjelp skal skje uten kostnad og vesentlig ulempe for forbrukeren innen rimelig tid og uten risiko for at forbrukeren ikke får dekket sine utlegg av leverandøren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Leverandørens adgang til å tilby avhjelp for å avverge krav om prisavslag og heving",
+      "content": "Selv om forbrukeren krever verken retting eller omlevering etter loven, kan leverandøren tilby retting eller omlevering hvis tilbudet fremsettes uten opphold. Sørger leverandøren for slik retting eller omlevering i samsvar med loven, kan forbrukeren ikke kreve prisavslag eller heving.\nForbrukeren kan likevel kreve prisavslag eller heving umiddelbart hvis mangelen etter sin art er så alvorlig at det ikke er rimelig å forvente at forbrukeren skal godta et avhjelpstilbud. Ved avgjørelsen skal det legges vekt på om mangelen er egnet til å vesentlig svekke forbrukerens tillit til leverandøren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Prisavslag",
+      "content": "Hvis mangelen ikke rettes eller ytelsen ikke omleveres i samsvar med §§ 21 og 22, kan forbrukeren kreve et prisavslag slik at forholdet mellom nedsatt og avtalt pris svarer til forholdet mellom ytelsens verdi i mangelfull og kontraktsmessig stand på leveringstiden.\nHvis avtalen gjelder levering over en periode, omfatter prisavslaget den perioden da ytelsen hadde en mangel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Heving",
+      "content": "I stedet for å kreve prisavslag etter § 23 kan forbrukeren heve avtalen, med mindre leverandøren beviser at mangelen er uvesentlig. Hvis vederlaget for ytelsen utelukkende er at forbrukeren oppgir personopplysninger, kan forbrukeren heve avtalen også når mangelen er uvesentlig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Erstatning",
+      "content": "Forbrukeren kan kreve erstatning for tap han eller hun lider som følge av at ytelsen har en mangel. Erstatningen utmåles etter reglene i kapittel 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Krav mot tidligere omsetningsledd",
+      "content": "Forbrukeren kan gjøre sitt mangelskrav mot leverandøren gjeldende mot et tidligere omsetningsledd så langt et tilsvarende krav på grunn av mangelen kan gjøres gjeldende av leverandøren eller et annet omsetningsledd i avtalekjeden. Første punktum gjelder bare krav mot et tidligere ledd som opptrer i næringsvirksomhet.\nEn avtale med et tidligere omsetningsledd som innskrenker leverandørens eller en annen avtaleparts krav, kan ikke gjøres gjeldende overfor forbrukerens krav etter første ledd i større utstrekning enn det som kunne ha vært avtalt mellom forbrukeren og leverandøren. Forbrukeren må likevel reklamere overfor det tidligere leddet innen rimelig tid etter at han eller hun oppdaget eller burde ha oppdaget mangelen.\nForbrukeren kan også gjøre krav gjeldende etter reglene i kjøpsloven § 84 første ledd så langt disse passer, hvis dette gir forbrukeren større rettigheter enn det som følger av paragrafen her.\nTidligere omsetningsledd kan ikke motregne overfor forbrukeren med krav mot leverandøren eller et annet omsetningsledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Melding om krav ved mangler. Passivitet og foreldelse",
+      "content": "Forbrukeren må gi leverandøren melding om krav som følge av en mangel. Kravet kan tapes etter alminnelige regler om passivitet hvis forbrukeren venter så lenge med å gi melding at det ville virke illojalt overfor leverandøren å gjøre gjeldende krav. Retten til å gjøre gjeldende krav kan tapes også etter foreldelseslovens regler om foreldelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:28",
+      "chapter": "6",
+      "section": "28",
+      "title": "Prisen for ytelsen",
+      "content": "Er avtale inngått uten at prisen følger av avtalen eller av opplysninger leverandøren har gitt i annonser eller lignende, skal forbrukeren betale gjengs pris på avtaletiden for samme slags ytelse levert under tilsvarende forhold, så lenge prisen ikke er urimelig. Er det ingen slik gjengs pris, må forbrukeren betale det som er rimelig, under hensyn til ytelsens art og kvalitet og forholdene ellers.\nI avtaler om løpende levering av digitale ytelser kan leverandøren endre prisen hvis en slik rett er avtalt og forbrukerens rettigheter etter denne bestemmelsen fremgår av avtalen. En prisendring til forbrukerens ugunst kan gjøres gjeldende bare hvis forbrukeren har fått varsel i rimelig tid om endringen. Hvis prisendringen er høyere enn endringen i konsumprisindeksen skulle tilsi, kan forbrukeren kostnadsfritt si opp avtalen med virkning fra tidspunktet når endringen trer i kraft. Forbrukeren kan også si opp avtalen etter reglene i § 33. Leverandørens rett til å endre prisen gjelder ikke ved avtale om bindingstid etter § 33. Forbrukerens oppsigelsesadgang etter tredje punktum gjelder ikke ved første gangs prisendring etter avtaleinngåelsen hvis leverandøren i forbindelse med avtaleinngåelsen gjorde forbrukeren særskilt oppmerksom på at prisen var et introduksjonstilbud, en kampanjepris eller lignende, og forbrukeren uttrykkelig aksepterte dette.\nLeverandøren kan ikke i tillegg til vederlaget kreve gebyr for utstedelse og sending av regning hvis ikke dette klart følger av avtalen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "title": "Tidspunktet for betaling. Ytelse mot ytelse",
+      "content": "Følger ikke betalingstiden av avtalen, skal forbrukeren betale når leverandøren krever det.\nHvis ikke noe annet er avtalt, har forbrukeren ikke plikt til å betale vederlaget uten at ytelsen blir overlevert eller stilt til hans eller hennes rådighet i samsvar med avtalen og loven.\nForbrukeren er ikke bundet av en forhåndsavtale om plikt til å betale på et bestemt tidspunkt uavhengig av om leverandøren oppfyller til rett tid.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "title": "Forbrukerens medvirkning ved oppfyllelse av avtalen",
+      "content": "Forbrukeren skal yte slik medvirkning som det er rimelig å vente av ham eller henne for at leverandøren skal kunne oppfylle avtalen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "7:31",
+      "chapter": "7",
+      "section": "31",
+      "title": "Avbestilling før levering. Angrerett",
+      "content": "Avbestiller forbrukeren ytelsen før levering, kan leverandøren ikke fastholde kjøpet og kreve betaling. Hvis ikke noe annet følger av avtalen, kan leverandøren kreve erstatning for tap som er en følge av avbestillingen. Er vilkårene etter angrerettloven oppfylt, kan forbrukeren i stedet for avbestilling etter første og annet punktum benytte seg av angreretten.\nPartene kan avtale en normalerstatning ved avbestilling (avbestillingsgebyr). Normalerstatningen kan ikke settes høyere enn det erstatning etter kapittel 11 normalt kan forventes å utgjøre.\nHvis det ikke er avtalt avbestillingsgebyr, utmåles erstatningen etter reglene i kapittel 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "7:32",
+      "chapter": "7",
+      "section": "32",
+      "title": "Retur etter levering",
+      "content": "Etter at digitalt innhold er levert, blir forbrukeren ikke fritatt fra å yte vederlaget selv om innholdet og en eventuell fysisk bærer leveres tilbake til leverandøren.\nBetalingsplikten bortfaller likevel\n1. ved heving\n2. hvis vilkårene for angrerett etter angrerettloven er oppfylt\n3. hvis en rett til tilbakelevering følger av avtalen, for eksempel ved at innholdet er kjøpt på prøve.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "7:33",
+      "chapter": "7",
+      "section": "33",
+      "title": "Oppsigelse fra forbrukeren i løpende avtaleforhold",
+      "content": "En avtale om løpende levering av digitale ytelser kan sies opp av forbrukeren med rimelig varsel, jf. likevel annet ledd om avtaler om bindingstid. Er det avtalt månedlig forskuddsbetaling, får oppsigelsen virkning fra den neste betalingsperioden, med mindre dette ville virke urimelig ut fra avtalens art.\nDet kan ikke gyldig avtales at en løpende avtale skal være uoppsigelig i mer enn seks måneder av gangen. I særlige tilfeller kan det avtales lengre bindingstid, men likevel ikke lengre enn tolv måneder. Vilkår om bindingstid kan avtales bare hvis forbrukeren gis en økonomisk fordel som står i forhold til bindingstidens lengde. Ved oppsigelse i bindingstiden kan leverandøren kreve erstatning for tap som er en følge av oppsigelsen, dersom det på forhånd er avtalt en rimelig normalerstatning som står i forhold til fordelen som forbrukeren har fått som følge av bindingstiden etter tredje punktum. § 31 annet ledd annet punktum gjelder tilsvarende.\nForbrukeren kan si opp avtalen med det kommunikasjonsmiddelet som ble brukt til å inngå avtalen. Forbrukeren kan også si opp avtalen med et annet passende kommunikasjonsmiddel som leverandøren benytter ellers i sin virksomhet. Forbrukeren skal kunne si opp avtalen på en enkel måte.\nVed løpende levering av digitale ytelser skal leverandøren minst en gang hver sjette måned sende forbrukeren et varsel om at avtalen løper, og opplyse forbrukeren om adgangen til å si opp avtalen etter første til tredje ledd. Unnlater leverandøren å sende slikt varsel, kan forbrukeren kostnadsfritt si opp avtalen med virkning fra det tidspunktet varselet senest skulle ha vært sendt.\nEr det avtalt periodevis betaling for løpende levering av digitale ytelser og forbrukeren ikke betaler noe vederlag for ytelsen i en periode på seks måneder etter at et krav på vederlag for ytelsen har forfalt uten å ha blitt betalt, anses avtalen som oppsagt fra forbrukerens side med virkning fra utløpet av denne perioden. Er det avtalt bindingstid, har oppsigelsen virkning først etter at bindingstiden har løpt ut. Avtalen er likevel ikke sagt opp hvis forbrukeren innen virkningstidspunktet for oppsigelsen melder fra til leverandøren om at den manglende betalingen ikke skal anses som en oppsigelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "8:34",
+      "chapter": "8",
+      "section": "34",
+      "title": "Leverandørens krav",
+      "content": "Hvis forbrukeren ikke betaler eller oppfyller sine øvrige plikter etter avtalen eller loven og dette ikke skyldes leverandøren eller forhold på leverandørens side, kan leverandøren\n1. holde ytelsen tilbake etter § 35\n2. kreve oppfyllelse etter § 36\n3. kreve heving etter § 37\n4. kreve erstatning og rente etter § 38.\nLeverandørens rett til erstatning og rente faller ikke bort ved at leverandøren gjør gjeldende andre krav, eller ved at disse ikke kan gjøres gjeldende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "8:35",
+      "chapter": "8",
+      "section": "35",
+      "title": "Tilbakeholdsrett",
+      "content": "Betaler forbrukeren ikke vederlaget i rett tid, kan leverandøren holde ytelsen tilbake eller stanse videre levering inntil forbrukeren betaler eller stiller betryggende sikkerhet for kravet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "8:36",
+      "chapter": "8",
+      "section": "36",
+      "title": "Rett til å kreve oppfyllelse",
+      "content": "Leverandøren kan fastholde avtalen og kreve at forbrukeren betaler kjøpesummen. Dette gjelder likevel ikke så lenge betalingen hindres av stans i betalingsformidlingen eller andre forhold utenfor forbrukerens kontroll som forbrukeren ikke kan overvinne.\nEr ytelsen ennå ikke levert, tapes retten til å kreve oppfyllelse hvis leverandøren venter urimelig lenge med å fremme kravet.\n§ 14 gjelder tilsvarende for leverandørens rett til å kreve oppfyllelse av forbrukerens plikt til å medvirke til avtalen (jf. § 30).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "8:37",
+      "chapter": "8",
+      "section": "37",
+      "title": "Heving",
+      "content": "Leverandøren kan heve avtalen på grunn av forsinket betaling eller annet kontraktsbrudd fra forbrukerens side dersom forbrukerens kontraktsbrudd er vesentlig. Leverandøren kan ikke heve etter at hele vederlaget er betalt.\nAvtalen kan også heves dersom forbrukeren ikke yter vederlaget innen en rimelig tilleggsfrist for oppfyllelse som leverandøren har fastsatt. Mens tilleggsfristen løper, kan leverandøren ikke heve, med mindre forbrukeren har sagt at han eller hun ikke vil oppfylle innen fristen.\nEr ytelsen allerede overtatt av forbrukeren, kan leverandøren heve bare dersom det er tatt forbehold om det eller forbrukeren avviser ytelsen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "8:38",
+      "chapter": "8",
+      "section": "38",
+      "title": "Erstatning. Rente",
+      "content": "Hvis forbrukeren ikke betaler i tide, kan leverandøren kreve rente av vederlaget etter forsinkelsesrenteloven.\nLeverandøren kan også kreve erstatning for det tapet leverandøren lider som følge av kontraktsbrudd fra forbrukerens side. Dette gjelder likevel ikke så langt forbrukeren godtgjør at kontraktsbruddet skyldes stans i betalingsformidlingen eller en annen hindring utenfor forbrukerens kontroll som han eller hun ikke med rimelighet kunne ventes å ha tatt i betraktning på avtaletiden eller å unngå eller overvinne følgene av. Reglene i § 16 tredje og fjerde ledd gjelder tilsvarende. Erstatningen utmåles etter reglene i kapittel 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "8:39",
+      "chapter": "8",
+      "section": "39",
+      "title": "Opplysningsplikt om hindring",
+      "content": "Hindres forbrukeren i å oppfylle avtalen til rett tid, skal leverandøren gis en melding om hindringen og dens virkning på muligheten for å oppfylle. Får leverandøren ikke en slik melding innen rimelig tid etter at forbrukeren fikk eller burde ha fått kjennskap til hindringen, kan leverandøren kreve erstattet tap som kunne ha vært unngått om meldingen hadde blitt gitt i tide.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "8:40",
+      "chapter": "8",
+      "section": "40",
+      "title": "Spesifikasjon av ytelsen",
+      "content": "Skal ytelsen utvikles etter forbrukerens spesifikasjoner og forbrukeren ikke bidrar med slike spesifikasjoner til avtalt tid eller innen rimelig tid etter at leverandøren har oppfordret til det, kan leverandøren selv bestemme spesifikasjonene i samsvar med hva som må antas at er i forbrukerens interesse. Dette hindrer ikke leverandøren i å gjøre gjeldende andre krav.\nLeverandøren må opplyse forbrukeren om de spesifikasjonene som vil bli brukt, og gi forbrukeren en rimelig frist til å endre spesifikasjonene. Endrer ikke forbrukeren spesifikasjonene i tide etter å ha fått leverandørens melding, blir leverandørens spesifikasjoner bindende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "9:41",
+      "chapter": "9",
+      "section": "41",
+      "title": "Alminnelige vilkår for endring av ytelsen",
+      "content": "Ved løpende levering over en periode kan leverandøren endre den digitale ytelsen ut over det som er nødvendig for å overholde kravene i § 9, jf. §§ 7 og 8, hvis endringen har grunnlag i avtalen og kan foretas uten kostnader for forbrukeren. Endring kan bare foretas hvis forbrukeren informeres om endringen på en klar og tydelig måte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "9:42",
+      "chapter": "9",
+      "section": "42",
+      "title": "Endringer som påvirker ytelsen negativt for forbrukeren",
+      "content": "Hvis en endring etter § 41 påvirker den digitale ytelsen negativt for forbrukeren på en ikke uvesentlig måte, kan forbrukeren heve avtalen. Dette gjelder likevel ikke hvis leverandøren gjør det mulig for forbrukeren å beholde sin ytelse uendret og i samsvar med §§ 7 og 8.\nEn endring som nevnt i første ledd kan foretas bare hvis forbrukeren får varsel i rimelig tid om endringen. Varselet skal gis på et varig medium og inneholde informasjon om retten til å heve avtalen eller til å beholde ytelsen uendret.\nEt krav om heving etter denne paragrafen må gjøres gjeldende innen 30 dager etter at forbrukeren fikk varsel etter annet ledd, eller innen 30 dager etter at endringen ble foretatt, hvis dette tidspunktet er det seneste. For hevingsoppgjøret gjelder bestemmelsene i kapittel 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "9:43",
+      "chapter": "9",
+      "section": "43",
+      "title": "Unntak for visse kombinerte avtaler",
+      "content": "Bestemmelsene i §§ 41 og 42 gjelder ikke for kombinerte avtaler som nevnt i § 2 fjerde ledd fjerde punktum der den digitale ytelsen leveres sammen med en nummerbasert person-til-person-kommunikasjonstjeneste eller en internettilgangstjeneste.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "10:44",
+      "chapter": "10",
+      "section": "44",
+      "title": "Generelle regler om heving og omlevering",
+      "content": "En part utøver sin rett til heving gjennom en erklæring til den andre parten. Når avtalen heves, faller partenes plikt til å oppfylle avtalen bort.\nEr avtalen helt eller delvis oppfylt fra noen av sidene, kan det mottatte kreves tilbakeført etter bestemmelsene i §§ 45 og 46. En part kan likevel holde tilbake det som er mottatt, inntil den andre gir tilbake det denne parten har fått. Tilsvarende gjelder når parten har krav på erstatning eller rente, og betryggende sikkerhet ikke blir stilt.\nSkal leverandøren omlevere, kan forbrukeren holde tilbake det han eller hun har mottatt, inntil omlevering skjer.\nHevingen har ingen betydning for avtalevilkår om forretningshemmeligheter, om løsning av tvister eller om partenes rettigheter og plikter som følge av hevingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "10:45",
+      "chapter": "10",
+      "section": "45",
+      "title": "Særlige regler om virkningene av heving for leverandøren",
+      "content": "Når avtalen er hevet, skal leverandøren betale tilbake mottatt vederlag til forbrukeren. Gjelder avtalen løpende levering over en periode, betaler leverandøren likevel ikke tilbake vederlag for perioder forut for hevingserklæringen der ytelsen var mangelfri.\nLeverandøren skal avstå fra å anvende innhold som forbrukeren har avgitt eller frembrakt ved bruk av den digitale ytelsen, med unntak av personopplysninger, jf. femte ledd. Dette gjelder likevel ikke hvis innholdet\n1. bare kan anvendes innenfor rammene av den digitale ytelsen\n2. bare gjelder forbrukerens aktivitet ved bruk av den digitale ytelsen\n3. har blitt forbundet med andre data fra leverandøren på en slik måte at det vil være umulig eller uforholdsmessig krevende å utskille innholdet, eller\n4. er frembrakt av forbrukeren og andre i fellesskap og andre forbrukere fortsatt kan gjøre bruk av innholdet.\nHvis forbrukeren ber om det, skal leverandøren stille til rådighet for forbrukeren innhold etter annet ledd, bortsett fra i tilfeller som nevnt i annet ledd nr. 1, 2 og 3. Forbrukeren har rett til å laste ned slikt innhold kostnadsfritt innen rimelig tid og i et vanlig og maskinleselig format.\nNår avtalen er hevet, kan leverandøren hindre forbrukeren fra å fortsette å bruke ytelsen, så langt dette er forenlig med tredje ledd.\nFor vederlag som helt eller delvis går ut på at forbrukeren oppgir personopplysninger, skal leverandøren ved heving oppfylle de plikter som følger av personopplysningsloven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "10:46",
+      "chapter": "10",
+      "section": "46",
+      "title": "Særlige regler om virkningene av heving for forbrukeren",
+      "content": "Når avtalen er hevet, skal forbrukeren avstå fra videre bruk av den digitale ytelsen og å stille den til rådighet for tredjeparter.\nHvis avtalen gjelder digitalt innhold som er levert på et fysisk medium, kan leverandøren kreve at forbrukeren leverer tilbake det fysiske mediet uten unødig opphold. Et slikt krav må fremsettes innen 14 dager etter at leverandøren har mottatt melding fra forbrukeren om at avtalen heves. Leverandøren bærer kostnadene med tilbakeleveringen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "10:47",
+      "chapter": "10",
+      "section": "47",
+      "title": "Fellesregler om tilbakebetaling fra leverandøren ved heving og krav om prisavslag",
+      "content": "Hvis leverandøren skal tilbakebetale vederlag til forbrukeren etter heving eller krav om prisavslag, skal dette gjøres uten unødig opphold og senest innen 14 dager etter at leverandøren mottok melding om heving eller krav om prisavslag. Leverandøren plikter å betale renter etter forsinkelsesrenteloven fra 14 dager etter at leverandøren mottok melding som nevnt.\nTilbakebetaling etter første ledd skal skje med det samme betalingsmiddelet som forbrukeren brukte til å betale for den digitale ytelsen, med mindre forbrukeren uttrykkelig aksepterer et annet betalingsmiddel. Leverandøren kan ikke kreve gebyrer eller lignende av forbrukeren i forbindelse med tilbakebetalingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "11:48",
+      "chapter": "11",
+      "section": "48",
+      "title": "Erstatningens omfang",
+      "content": "Erstatning for kontraktsbrudd fra den ene partens side skal svare til tapet, herunder utlegg, prisforskjell og tapt fortjeneste, som den andre parten er påført ved kontraktsbruddet. Dette gjelder likevel bare tap som en med rimelighet kunne ha forutsett som en mulig følge av kontraktsbruddet.\nSom tap etter første ledd regnes også at forbrukeren påføres en konkret og ikke ubetydelig ulempe ved kontraktsbruddet. Partene kan avtale normalerstatning for slike tap så langt normalerstatningen er rimelig under hensyn til de mulige tapenes art og omfang.\nErstatningen omfatter ikke\n1. tap som følge av personskade\n2. tap i forbrukerens næringsvirksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "11:49",
+      "chapter": "11",
+      "section": "49",
+      "title": "Beregning av prisforskjell ved heving",
+      "content": "Hvis avtalen heves og forbrukeren foretar dekningskjøp eller leverandøren foretar dekningssalg på forsvarlig måte og innen rimelig tid etter hevingen, legges det avtalte vederlaget og prisen etter dekningstransaksjonen til grunn når prisforskjellen skal regnes ut.\nEr avtalen hevet uten at det foretas dekningstransaksjon i samsvar med første ledd, og det er gjengs pris for ytelsen, legges det avtalte vederlaget og den gjengse prisen på hevingstidspunktet til grunn når prisforskjellen skal regnes ut.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "11:50",
+      "chapter": "11",
+      "section": "50",
+      "title": "Plikt til å begrense tapet. Lemping av ansvaret",
+      "content": "En part som påberoper seg kontraktsbrudd fra den andre partens side, skal ved rimelige tiltak begrense sitt tap. Forsømmes dette, må parten selv bære den tilsvarende delen av tapet.\nErstatningen kan settes ned hvis den vil virke urimelig for den ansvarlige parten ut fra tapets størrelse i forhold til det tapet som vanligvis oppstår i lignende tilfeller, og forholdene ellers.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "12:51",
+      "chapter": "12",
+      "section": "51",
+      "title": "Forventet kontraktsbrudd",
+      "content": "For forventet kontraktsbrudd gjelder bestemmelsene i kjøpsloven §§ 61 og 62 tilsvarende så langt de passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "12:52",
+      "chapter": "12",
+      "section": "52",
+      "title": "Insolvensbehandling",
+      "content": "Kommer en av partene under insolvensbehandling, gjelder bestemmelsene i dekningsloven kapittel 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "12:53",
+      "chapter": "12",
+      "section": "53",
+      "title": "Kontraktsbrudd ved del av ytelsen",
+      "content": "Omfatter leverandørens kontraktsbrudd bare en del av det som skal leveres etter avtalen, gjelder reglene om forsinkelse og mangler i lovens kapittel 4 og 5 for denne delen, så langt ikke noe annet følger av § 2 fjerde ledd. Forbrukeren kan heve avtalen i sin helhet når kontraktsbruddet er vesentlig for avtalen, herunder i kombinerte avtaleforhold etter § 2 fjerde ledd.\nMå leverandøren etter forholdene antas å ha avsluttet sin levering enda ikke alt er levert, gjelder reglene om mangler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "12:54",
+      "chapter": "12",
+      "section": "54",
+      "title": "Leverandørens hevingsrett når det skal leveres etter hvert",
+      "content": "Skal leverandøren levere etter hvert og forbrukeren betale eller medvirke i tilsvarende poster og det er kontraktsbrudd fra forbrukerens side ved en enkelt levering, kan leverandøren heve for denne leveringen etter reglene i § 37.\nGir kontraktsbruddet leverandøren god grunn til å regne med at det vil inntre kontraktsbrudd som vil gi hevingsrett ved senere leveringer, kan leverandøren på dette grunnlaget heve for slike leveringer dersom det skjer innen rimelig tid.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "12:55",
+      "chapter": "12",
+      "section": "55",
+      "title": "Tilsyn og håndheving",
+      "content": "Forbrukertilsynet og Markedsrådet skal føre kontroll med at bestemmelser gitt i eller i medhold av denne loven, overholdes. Kontrollen utøves i samsvar med reglene i markedsføringsloven §§ 32 til 41, § 42 første ledd annet punktum og §§ 43 til 43 c.\n0 Endret ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "13:56",
+      "chapter": "13",
+      "section": "56",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer. De enkelte bestemmelsene i loven kan settes i kraft til ulik tid.\n1 Fra 1. jan 2023 iflg. res. 17 juni 2022 nr. 1034.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "13:57",
+      "chapter": "13",
+      "section": "57",
+      "title": "Overgangsregler",
+      "content": "1. Loven gjelder for levering av digitale ytelser som skjer etter lovens ikrafttredelse, med de unntak som følger av nr. 2 til 4.\n2. § 28 annet ledd, § 33 annet ledd og §§ 41 og 42 gjelder bare der avtalen om levering av den digitale ytelsen ble inngått etter lovens ikrafttredelse.\n3. For avtaler som er inngått før lovens ikrafttredelse, skal varsel etter § 33 fjerde ledd gis første gang innen seks måneder etter lovens ikrafttredelse.\n4. § 33 femte ledd gjelder bare der misligholdet av betalingsforpliktelsen første gang finner sted etter lovens ikrafttredelse.\n5. Departementet kan gi nærmere overgangsregler. I overgangsreglene kan det gjøres unntak fra reglene i denne paragrafen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    }
+  ]
+}

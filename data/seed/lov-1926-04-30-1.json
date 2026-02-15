@@ -1,0 +1,115 @@
+{
+  "id": "LOV-1926-04-30-1",
+  "type": "statute",
+  "title": "Lov om forkynnelse ved postvesenet",
+  "short_name": "Lov om forkynnelse ved postvesenet",
+  "status": "in_force",
+  "issued_date": "1926-04-30",
+  "in_force_date": "1926-04-30",
+  "url": "https://lovdata.no/dokument/NLO/lov/1926-04-30-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "På steder som departementet bestemmer skal såvidt gjørlig offentlige tjenestemenn og sakførere la forkynnelser i straffesaker utføre ved postvesenet. Forkynnelse anses i så fall å ha funnet sted når et eksemplar eller en avskrift av det skrift som skal forkynnes, er levert eller hentet efter reglene i denne lov.\nNår skriftet er kommet til posten på bestemmelsesstedet skal det avleveres snarest mulig. Kan levering ikke finne sted sammen med den vanlige postombæring, skal istedet meldeseddel utferdiges på den måte som er bestemt for anbefalt brev. Er skriftet ikke hentet eller levert senest 3 dager efter ankomsten, skal det gis til stevnevidnet, som forkynner det enten efter reglene i lov om domstolene kapitel 9 eller efter reglene i denne lov. Det samme gjelder når adressaten er ukjent, eller når ingen treffes som kan ta imot og besørge skriftet eller som er villig til å ta imot det og gi kvittering. Den som tar imot skriftet skal gi datert kvittering for mottagelsen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen kan gi nærmere regler om forkynnelse ved postvesenet, således også om hvem som kan ta imot skriftet, og om betalingen. Er ikke annet bestemt, gjelder reglene om forkynnelse ved stevnevidne.​1\n1 Se domstolsl. kap. 9",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Kreves forkynnelse i en privat straffesak foretatt av stevnevidne på et sted hvor det er adgang til forkynnelse ved postvesenet, skal rekvirenten utrede den skyss- og kostgodtgjørelse som er nevnt i [sportelloven § 115.]​1\n1 Jfr. nå lov 18 des. 1959 nr. 11 § 6 jfr. §§ 72 og 94.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Kongen kan bestemme at forkynnelse efter reglene i denne lov kan skje også i andre saker enn straffesaker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\n1 Loven er ennu ikke satt i kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "På steder som departementet bestemmer skal såvidt gjørlig offentlige tjenestemenn og sakførere la forkynnelser i straffesaker utføre ved postvesenet. Forkynnelse anses i så fall å ha funnet sted når et eksemplar eller en avskrift av det skrift som skal forkynnes, er levert eller hentet efter reglene i denne lov.\nNår skriftet er kommet til posten på bestemmelsesstedet skal det avleveres snarest mulig. Kan levering ikke finne sted sammen med den vanlige postombæring, skal istedet meldeseddel utferdiges på den måte som er bestemt for anbefalt brev. Er skriftet ikke hentet eller levert senest 3 dager efter ankomsten, skal det gis til stevnevidnet, som forkynner det enten efter reglene i lov om domstolene kapitel 9 eller efter reglene i denne lov. Det samme gjelder når adressaten er ukjent, eller når ingen treffes som kan ta imot og besørge skriftet eller som er villig til å ta imot det og gi kvittering. Den som tar imot skriftet skal gi datert kvittering for mottagelsen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen kan gi nærmere regler om forkynnelse ved postvesenet, således også om hvem som kan ta imot skriftet, og om betalingen. Er ikke annet bestemt, gjelder reglene om forkynnelse ved stevnevidne.​1\n1 Se domstolsl. kap. 9",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Kreves forkynnelse i en privat straffesak foretatt av stevnevidne på et sted hvor det er adgang til forkynnelse ved postvesenet, skal rekvirenten utrede den skyss- og kostgodtgjørelse som er nevnt i [sportelloven § 115.]​1\n1 Jfr. nå lov 18 des. 1959 nr. 11 § 6 jfr. §§ 72 og 94.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Kongen kan bestemme at forkynnelse efter reglene i denne lov kan skje også i andre saker enn straffesaker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\n1 Loven er ennu ikke satt i kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ]
+}

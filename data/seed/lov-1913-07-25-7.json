@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1913-07-25-7",
+  "type": "statute",
+  "title": "Lov om forbud mot indførsel, tilvirkning eller salg av fyrstikker med hvitt (gult) fosfor.",
+  "short_name": "Lov om fyrstikker med fosfor.",
+  "status": "in_force",
+  "issued_date": "1913-07-25",
+  "in_force_date": "1913-07-25",
+  "url": "https://lovdata.no/dokument/NLO/lov/1913-07-25-7",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Indførsel, tilvirkning eller salg av fyrstikker, i hvis tændsats findes hvitt (gult) fosfor, er forbudt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Overtrædelse av denne lov straffes med bøter.​1\n1 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov træder i kraft straks, forsaavidt angaar forbudet mot indførsel av fyrstikker med hvitt (gult) fosfor og mot tilvirkning av saadanne fyrstikker, og den 1 januar 1915, forsaavidt angaar forbudet mot salg av disse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Indførsel, tilvirkning eller salg av fyrstikker, i hvis tændsats findes hvitt (gult) fosfor, er forbudt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Overtrædelse av denne lov straffes med bøter.​1\n1 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov træder i kraft straks, forsaavidt angaar forbudet mot indførsel av fyrstikker med hvitt (gult) fosfor og mot tilvirkning av saadanne fyrstikker, og den 1 januar 1915, forsaavidt angaar forbudet mot salg av disse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

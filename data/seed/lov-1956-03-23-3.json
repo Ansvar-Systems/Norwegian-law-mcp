@@ -1,0 +1,95 @@
+{
+  "id": "LOV-1956-03-23-3",
+  "type": "statute",
+  "title": "Lov om avgift på eksport til fremme av Norges eksportinteresser.",
+  "short_name": "Eksportavgiftsloven",
+  "status": "in_force",
+  "issued_date": "1956-03-23",
+  "in_force_date": "1956-03-23",
+  "url": "https://lovdata.no/dokument/NLO/lov/1956-03-23-3",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ved all utførsel av varer skal det svares en avgift av 3/4 promille av utførselsverdien til et særskilt fond – Norges Eksportfond – til fremme av Norges eksportinteresser.\nUnntatt fra eksportavgift er:\nAvgiften blir å oppkreve av Tollvesenet.​2\nDe nærmere regler om beregning og innkreving av avgiften fastsettes av Kongen.\n1 Endret ved lov 3 april 1987 nr. 16.\n2 Jfr. lov 10 juni 1966 nr. 5 kap. II.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Norges Eksportfond forvaltes og disponeres av Norges Eksportråd etter nærmere regler som fastsettes av Kongen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Den i § 1 nevnte avgift er tvangsgrunnlag for utlegg.​2\n1 Endret ved lover 31 mai 1963 nr. 2, 26 juni 1992 nr. 86 (i kraft 1 jan 1993 iflg. res. 23 okt 1992 nr. 765).\n2 Jfr. tvangsl. kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov trer i kraft fra 1. juli 1956. Fra samme dag oppheves § 2, annet ledd, i mellombels lov om utførsleforbod av 13. desember 1946.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ved all utførsel av varer skal det svares en avgift av 3/4 promille av utførselsverdien til et særskilt fond – Norges Eksportfond – til fremme av Norges eksportinteresser.\nUnntatt fra eksportavgift er:\nAvgiften blir å oppkreve av Tollvesenet.​2\nDe nærmere regler om beregning og innkreving av avgiften fastsettes av Kongen.\n1 Endret ved lov 3 april 1987 nr. 16.\n2 Jfr. lov 10 juni 1966 nr. 5 kap. II.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Norges Eksportfond forvaltes og disponeres av Norges Eksportråd etter nærmere regler som fastsettes av Kongen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Den i § 1 nevnte avgift er tvangsgrunnlag for utlegg.​2\n1 Endret ved lover 31 mai 1963 nr. 2, 26 juni 1992 nr. 86 (i kraft 1 jan 1993 iflg. res. 23 okt 1992 nr. 765).\n2 Jfr. tvangsl. kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov trer i kraft fra 1. juli 1956. Fra samme dag oppheves § 2, annet ledd, i mellombels lov om utførsleforbod av 13. desember 1946.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

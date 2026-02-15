@@ -1,0 +1,1455 @@
+{
+  "id": "LOV-2008-06-20-44",
+  "type": "statute",
+  "title": "Lov om medisinsk og helsefaglig forskning (helseforskningsloven)",
+  "short_name": "Helseforskningsloven – hforsknl",
+  "status": "in_force",
+  "issued_date": "2008-06-20",
+  "in_force_date": "2009-07-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2008-06-20-44",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Lovens formål er å fremme god og etisk forsvarlig medisinsk og helsefaglig forskning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens saklige virkeområde",
+      "content": "Loven gjelder for medisinsk og helsefaglig forskning på mennesker, humant biologisk materiale eller helseopplysninger. Slik forskning omfatter også pilotstudier og utprøvende behandling.\nFor behandling av helseopplysninger gjelder personvernforordningen og personopplysningsloven med forskrifter, i den utstrekning ikke annet følger av denne loven. For opplysninger som er taushetsbelagte etter helsepersonelloven § 21, og for opplysninger om avdøde personer gjelder bestemmelsene i loven her om behandling av helseopplysninger så langt de passer. Loven gjelder ikke for etablering av helseregistre.\nFor klinisk utprøvning av legemidler på mennesker gjelder legemiddelloven § 3 med forskrifter. For klinisk utprøvning av medisinsk utstyr gjelder lov om medisinsk utstyr med forskrifter. Loven her gjelder utfyllende så langt den passer.\nDepartementet kan gi forskrift om lovens anvendelse for særskilte områder innenfor medisinsk og helsefaglig forskning.\n0 Endret ved lover 22 juni 2018 nr. 76, 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195). Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Lovens geografiske virkeområde",
+      "content": "Loven gjelder forskning på norsk territorium eller når forskningen skjer i regi av en forskningsansvarlig som er etablert i Norge.\nKongen kan i forskrift bestemme i hvilken utstrekning loven kommer til anvendelse på Svalbard og Jan Mayen.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Definisjoner",
+      "content": "I denne loven forstås med:\na. medisinsk og helsefaglig forskning: virksomhet som utføres med vitenskapelig metodikk for å skaffe til veie ny kunnskap om helse og sykdom,\nb. humant biologisk materiale: organer, deler av organer, celler og vev og bestanddeler av slikt materiale fra levende og døde mennesker,\nc. forskningsbiobank: en samling humant biologisk materiale som anvendes i et forskningsprosjekt eller skal anvendes til forskning,\nd. helseopplysninger: personopplysninger om en fysisk persons fysiske eller psykiske helse, medregnet om ytelse av helsetjenester, som gir informasjon om vedkommendes helsetilstand, jf. personvernforordningen artikkel 4 nr. 15\ne. forskningsansvarlig: institusjon eller en annen juridisk eller fysisk person som har det overordnede ansvaret for forskningsprosjektet, og som har de nødvendige forutsetningene for å kunne oppfylle den forskningsansvarliges plikter etter denne loven,\nf. prosjektleder: en fysisk person med ansvar for den daglige driften av forskningsprosjektet, og som har de nødvendige forskningskvalifikasjonene og erfaringer for å kunne oppfylle prosjektlederens plikter etter denne loven.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195). Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Forsvarlighet",
+      "content": "Medisinsk og helsefaglig forskning skal organiseres og utøves forsvarlig.\nForskningen skal være basert på respekt for forskningsdeltakernes menneskerettigheter og menneskeverd. Hensynet til deltakernes velferd og integritet skal gå foran vitenskapens og samfunnets interesser.\nMedisinsk og helsefaglig forskning skal vareta etiske, medisinske, helsefaglige, vitenskapelige og personvernmessige forhold.\n0 Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Hovedkrav til organisering av forskning",
+      "content": "Medisinsk og helsefaglig forskning skal organiseres med en forskningsansvarlig og en prosjektleder og beskrives i en forskningsprotokoll. Finansieringskilder må fremgå av protokollen.\nDet skal føres internkontroll tilpasset virksomhetens størrelse, egenart, aktiviteter og risikoforhold.\nDepartementet kan gi forskrift med nærmere krav til organisering av medisinsk og helsefaglig forskning, krav til forskningsprotokollen og til internkontroll, samt gi bestemmelser om prosjektleders og forskningsansvarliges plikter.\n0 Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:6 a",
+      "chapter": "2",
+      "section": "6 a",
+      "title": "Kliniske behandlingsstudier",
+      "content": "0 Tilføyes ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6a",
+        "source_heading": "§ 6 a."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Taushetsplikt",
+      "content": "Enhver som får tilgang til helseopplysninger og andre personopplysninger som blir behandlet i et forskningsprosjekt skal hindre at andre får adgang eller kjennskap til opplysningene.\nTaushetsplikten er ikke til hinder for at opplysninger gjøres kjent for den som de direkte gjelder eller utleveres når mottaker har rettslig grunnlag for å få opplysningene utlevert, jf. § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Kommersiell utnyttelse",
+      "content": "Kommersiell utnyttelse av forskningsdeltakere, humant biologisk materiale og helseopplysninger som sådan er forbudt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Krav om forhåndsgodkjenning",
+      "content": "Forskningsprosjektet må være forhåndsgodkjent av den regionale komiteen for medisinsk og helsefaglig forskningsetikk, jf. forskningsetikkloven § 10 første ledd.\n0 Endret ved lov 28 apr 2017 nr. 23 (ikr. 1 mai 2017 iflg. res. 28 apr 2017 nr. 505). Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Søknad om forhåndsgodkjenning",
+      "content": "Søknad om forhåndsgodkjenning av et forskningsprosjekt skal sammen med forskningsprotokollen sendes til den regionale komiteen for medisinsk og helsefaglig forskningsetikk.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk skal foreta en alminnelig forskningsetisk vurdering av prosjektet, og vurdere om prosjektet oppfyller kravene stilt i denne loven eller i medhold av denne loven. Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan sette vilkår for godkjenning, blant annet om tiltak for å verne de registrertes grunnleggende rettigheter og interesser.\nVedtak vedrørende forhåndsgodkjenning kan påklages til Den nasjonale forskningsetiske komité for medisin og helsefag, jf. forskningsetikkloven § 10 tredje ledd.\nDepartementet kan gi forskrifter om krav til søknaden, om saksbehandlingsfrister for den regionale komiteen for medisinsk og helsefaglig forskningsetikk, og om de nærmere vilkårene for forhåndsgodkjenning.\n0 Endret ved lover 28 apr 2017 nr. 23 (ikr. 1 mai 2017 iflg. res. 28 apr 2017 nr. 505), 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195). Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Søknad om å foreta vesentlige endringer av forskningsprosjektet",
+      "content": "Dersom prosjektleder ønsker å foreta vesentlige endringer i forskningsprosjektets formål, metode, tidsløp eller organisering, skal søknad sendes til den regionale komiteen for medisinsk og helsefaglig forskningsetikk som har gitt forhåndsgodkjenning. Søknaden skal beskrive hvilke endringer som ønskes foretatt og begrunnelsen for disse.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk avgjør om søknaden skal innvilges. Dersom endringene av prosjektet er så store at det må anses å være et helt nytt prosjekt, kan den regionale komiteen for medisinsk og helsefaglig forskningsetikk bestemme at det må søkes om forhåndsgodkjenning etter § 9, jf. § 10, på nytt.\nDepartementet kan gi forskrifter om krav til saksbehandlingen og om saksbehandlingsfrister.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Sluttmelding og rapporter",
+      "content": "Prosjektleder skal sende sluttmelding til den regionale komiteen for medisinsk og helsefaglig forskningsetikk når forskningsprosjektet avsluttes. I sluttmeldingen skal resultatene presenteres på en objektiv og etterrettelig måte, som sikrer at både positive og negative funn fremgår.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk kan stille krav til innholdet i sluttmeldingen.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk kan pålegge prosjektleder å avgi årlige eller ekstraordinære rapporter dersom komiteen finner dette nødvendig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:12 a",
+      "chapter": "3",
+      "section": "12 a",
+      "title": "Oppbevaring av dokumenter for etterprøving og kontroll",
+      "content": "0 Tilføyes ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12a",
+        "source_heading": "§ 12 a."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Hovedregel om samtykke",
+      "content": "Det kreves samtykke fra deltakere i medisinsk og helsefaglig forskning, med mindre annet følger av lov.\nMed samtykke menes enhver frivillig, spesifikk, informert og utvetydig viljesytring fra deltakeren der vedkommende ved en erklæring eller tydelig bekreftelse gir sitt samtykke til behandling av helseopplysninger eller humant biologisk materiale. Samtykket skal bygge på spesifikk informasjon om et konkret forskningsprosjekt med mindre det er adgang til å avgi et bredt samtykke, jf. § 14.\nDersom forskningsdeltakeren kan anses å være i et slikt avhengighetsforhold til den som ber om samtykke, at forskningsdeltakeren vil kunne føle seg presset til å gi samtykke, skal det informerte samtykket innhentes av en annen som forskningsdeltakeren ikke har slikt forhold til.\nDepartementet kan gi forskrifter om krav til samtykke.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195). Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Bredt samtykke",
+      "content": "Forskningsdeltakere kan samtykke etter § 13 til at humant biologisk materiale og helseopplysninger brukes til nærmere bestemte, bredt definerte forskningsformål.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk kan sette vilkår for bruk av bredt samtykke og kan pålegge prosjektleder å innhente nytt samtykke dersom komiteen finner det nødvendig.\nDeltakere som har avgitt bredt samtykke har krav på jevnlig informasjon om prosjektet.\n0 Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).|",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:14 a",
+      "chapter": "4",
+      "section": "14 a",
+      "title": "Forskning som innebærer ingen eller liten risiko eller ulempe",
+      "content": "0 Tilføyes ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14a",
+        "source_heading": "§ 14 a."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Ny eller endret bruk av innsamlet humant biologisk materiale eller helseopplysninger",
+      "content": "Ved vesentlige endringer i forskningsprosjektet må det innhentes nytt samtykke etter § 13 dersom endringene antas å ha betydning for deltakerens samtykke.\nDersom det er vanskelig å innhente nytt samtykke, kan den regionale komiteen for medisinsk og helsefaglig forskningsetikk godkjenne ny eller endret bruk av tidligere innsamlet humant biologisk materiale eller helseopplysninger uten at nytt samtykke innhentes. Dette kan bare skje dersom slik forskning er av vesentlig interesse for samfunnet og hensynet til deltakernes velferd og integritet er ivaretatt. Den regionale komité for medisinsk og helsefaglig forskningsetikk kan sette vilkår for bruken.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Tilbaketrekking av samtykke",
+      "content": "Et samtykke til å delta i et forskningsprosjekt kan når som helst trekkes tilbake.\nVed tilbaketrekking av samtykke må forskningen på vedkommendes biologiske materiale eller helseopplysninger opphøre. Den som har trukket sitt samtykke tilbake, kan kreve at det biologiske materialet destrueres og at helseopplysningene slettes eller utleveres innen 30 dager.\nAdgangen til å kreve destruksjon, sletting eller utlevering etter andre ledd gjelder ikke dersom materialet eller opplysningene er anonymisert, dersom materialet etter bearbeidelse inngår i et annet biologisk produkt, eller dersom opplysningene allerede er inngått i utførte analyser.\nDersom særlig sterke samfunns- eller forskningshensyn tilsier det, kan den regionale komiteen for medisinsk og helsefaglig forskningsetikk tillate fortsatt forskning på materialet og utsatt destruksjon, sletting eller utlevering til forskningsprosjektet er gjennomført.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Hvem som har samtykkekompetanse",
+      "content": "Rett til å samtykke til deltakelse i medisinsk og helsefaglig forskning har:\na. personer over 18 år, med mindre annet følger av sjette ledd, og\nb. personer mellom 16 og 18 år, med mindre annet følger av særlige lovbestemmelser eller av tiltakets art.\nSamtykkekompetanse etter første ledd kan bortfalle i situasjoner som vist til i pasient- og brukerrettighetsloven § 4-3 andre ledd.\nForeldre eller andre med foreldreansvar må samtykke til forskning med mindreårige mellom 16 og 18 år som innebærer legemsinngrep eller legemiddelutprøving.\nFor samtykke til forskning som inkluderer deltakere under 16 år, gjelder samtykkebestemmelsene i pasient- og brukerrettighetsloven § 4-4 tilsvarende. Dersom barn mellom 12 og 16 år av grunner som bør respekteres, ikke ønsker at foreldrene, andre med foreldreansvar eller barnevernstjenesten gjøres kjent med opplysninger om barnet, skal dette ivaretas.\nFor personer uten samtykkekompetanse etter pasient- og brukerrettighetsloven § 4-3 andre ledd skal nærmeste pårørende etter pasient- og brukerrettighetsloven § 1-3 bokstav b samtykke.\nFor personer som er fratatt rettslig handleevne på det personlige området, gjelder pasient- og brukerrettighetsloven § 4-7 tilsvarende.\nDepartementet kan i forskrift bestemme at for spesielle typer forskningsprosjekter kan barn mellom 12 og 16 år selv samtykke til forskning på helseopplysninger. Departementet kan i forskrift gi nærmere regler om kravene til et slikt samtykke.\n0 Endret ved lover 14 nov 2008 nr. 80, 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 26 mars 2010 nr. 9 (ikr. 1 juli 2013 iflg. res. 5 apr 2013 nr. 338) som endret ved lov 5 apr 2013 nr. 12. Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:17 a",
+      "chapter": "4",
+      "section": "17 a",
+      "title": "Adgangen for personer under 18 år til å delta i forskning",
+      "content": "0 Tilføyes ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17a",
+        "source_heading": "§ 17 a."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Vilkår for forskning som inkluderer personer uten samtykkekompetanse",
+      "content": "Forskning som inkluderer mindreårige og personer uten samtykkekompetanse etter pasient- og brukerrettighetsloven § 4-3 kan bare finne sted dersom\na. eventuell risiko eller ulempe for personen er ubetydelig,\nb. personen selv ikke motsetter seg det, og\nc. det er grunn til å anta at resultatene av forskningen kan være til nytte for den aktuelle personen eller for andre personer med samme aldersspesifikke lidelse, sykdom, skade eller tilstand.\nFor mindreårige kreves det at tilsvarende forskning ikke kan gjennomføres på personer som ikke er mindreårige.\nFor personer uten samtykkekompetanse kreves det at det ikke er grunn til å tro at vedkommende ville motsatt seg deltakelse i forskningsprosjektet hvis vedkommende hadde hatt samtykkekompetanse, og at tilsvarende forskning ikke kan gjennomføres på personer med samtykkekompetanse.\n0 Endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252). Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Samtykke til forskning i kliniske nødssituasjoner",
+      "content": "I kliniske nødssituasjoner der pasienten ikke er i stand til å avgi samtykke, og der det er umulig å innhente samtykke fra vedkommendes nærmeste pårørende, kan forskning bare skje dersom\na. eventuell risiko eller ulempe for personen er ubetydelig,\nb. personen selv ikke motsetter seg det, og det ikke er grunn for forskere eller øvrig personell til å tro at vedkommende ville ha motsatt seg dette dersom vedkommende hadde hatt samtykkekompetanse,\nc. det bare er mulig å utføre forskningen i kliniske nødssituasjoner, og\nd. forskningen utvilsomt er berettiget på grunn av utsikten til resultater med stor forebyggende, diagnostisk eller terapeutisk verdi.\nVedkommende eller dennes nærmeste pårørende skal så snart som mulig gis informasjon om forskningen. Samtykke etter § 13, jf. § 17, er en forutsetning for videre forskning og skal innhentes så snart som mulig.\n0 Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Anonymisert humant biologisk materiale og helseopplysninger",
+      "content": "Samtykke kreves ikke ved bruk av anonymisert humant biologisk materiale og anonyme opplysninger. For innhenting av materiale og opplysninger som senere skal anonymiseres, kreves det samtykke etter kapitlet her.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Forskning på humant biologisk materiale fra døde",
+      "content": "For forskning på biologisk materiale som tas ut fra avdøde, gjelder obduksjonslova § 7 første til tredje ledd om informasjon og nærmeste pårørendes rett til å nekte obduksjon mv.\n0 Endret ved lover 7 mai 2015 nr. 26 (ikr. 1 jan 2016 iflg. res. 13 nov 2015 nr. 1289), 16 juni 2017 nr. 54 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 761).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Alminnelige bestemmelser om forskning på mennesker",
+      "content": "Forskning på mennesker kan bare finne sted dersom det ikke finnes alternative metoder som er tilnærmet like effektive.\nFør forskning på mennesker gjennomføres skal det gjøres en grundig vurdering av risiko og belastning for deltakerne. Disse må stå i forhold til påregnelige fordeler for forskningsdeltakeren selv eller for andre mennesker.\nForskningen skal stanses dersom det viser seg at risikoen er større enn mulige fordeler, eller dersom det foreligger tilstrekkelige holdepunkter for positive og fordelaktige resultater.\nForskning kan bare kombineres med behandling dersom forskningen antas å ha helsefremmende verdi for forskningsdeltakeren. Fordelene, risikoene, belastningene og effektiviteten ved en ny metode skal prøves mot de beste metodene av forebygging, diagnostikk og behandling som til enhver tid er tilgjengelige, med mindre særlig tungtveiende hensyn tilsier det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Meldeplikt ved uønskede medisinske hendelser",
+      "content": "Prosjektlederen skal omgående gi skriftlig melding til tilsynsmyndighetene om alvorlige samt uønskede og uventede medisinske hendelser som antas å ha sammenheng med forskningen.\nProsjektlederen, andre forskere og annet personell skal av eget tiltak gi tilsynsmyndighetene informasjon om forhold som kan medføre fare for forskningsdeltakernes sikkerhet. Ved unaturlig dødsfall skal politiet varsles omgående.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Informasjonsplikt til deltaker ved skader og lignende",
+      "content": "Prosjektlederen skal omgående informere forskningsdeltakerne dersom de har blitt påført skade, eller det har oppstått komplikasjoner som følge av forskningsprosjektet.\nProsjektlederen skal samtidig gjøre forskningsdeltakeren kjent med adgangen til å søke erstatning hos Norsk Pasientskadeerstatning og andre forsikringsordninger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "Opprettelse av forskningsbiobanker",
+      "content": "En forskningsbiobank kan bare opprettes etter å ha blitt godkjent av den regionale komiteen for medisinsk og helsefaglig forskningsetikk.\nForskningsbiobanker som opprettes i forbindelse med innsamling, oppbevaring og bruk av humant biologisk materiale som en del av et forskningsprosjekt, skal beskrives i prosjektets forskningsprotokoll.\nForskningsbiobanker som opprettes i forbindelse med innsamling og oppbevaring av humant biologisk materiale uten tilknytning til et konkret forskningsprosjekt, må godkjennes av den regionale komiteen for medisinsk og helsefaglig forskningsetikk. Det samme gjelder forskningsbiobanker som skal brukes til lagring og ny bruk av humant biologisk materiale, når det opprinnelige formålet for et forskningsprosjekt er oppfylt.\nDepartementet kan i forskrift gi bestemmelser om hva søknader om opprettelse av forskningsbiobanker skal inneholde.\nDepartementet kan i forskrift gi bestemmelser om opprettelse og annen behandling av humant biologisk materiale i biobanker som er tilknyttet helseregistre etter helseregisterloven §§ 8 til 11.\n0 Endret ved lov 20 juni 2014 nr. 43 (ikr. 1 jan 2015 iflg. res. 19 des 2014 nr. 1732).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "Ansvarshavende",
+      "content": "Hver forskningsbiobank skal ha en ansvarshavende person med medisinsk eller biologisk utdanning av høyere grad. Den forskningsansvarlige skal utpeke ansvarshavende.\nDepartementet kan i forskrift bestemme at enkelte forskningsbiobanker i tillegg til ansvarshavende person skal ha et styre og nærmere regler.\nAnsvarshavende, forskningsansvarlig og styret skal sørge for at forskningsbiobanken opprettes og forvaltes i samsvar med denne og annen lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Krav til oppbevaring og behandling",
+      "content": "Materiale i forskningsbiobanker skal oppbevares og behandles forsvarlig. Oppbevaring og behandling skal skje med respekt for giveren av materialet.\nHumant biologisk materiale fra forskningsbiobanker kan ikke utleveres i forsikringsøyemed, til arbeidsgiver, til påtalemyndighet eller til domstol, selv om den materialet stammer fra samtykker til det.\nKongen kan i forskrift bestemme at utlevering av humant biologisk materiale til påtalemyndighet eller domstol helt unntaksvis kan skje dersom svært tungtveiende private eller offentlige interesser gjør dette rettmessig.\nDepartementet kan i forskrift gi nærmere regler om hvordan humant biologisk materiale i en forskningsbiobank skal oppbevares og behandles.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:28",
+      "chapter": "6",
+      "section": "28",
+      "title": "Adgang til bruk av biologisk materiale som er innsamlet i helse- og omsorgstjenesten til forskning",
+      "content": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan bestemme at humant biologisk materiale innsamlet i helse- og omsorgstjenesten som ledd i diagnostisering og behandling, kan eller skal brukes til forskningsformål uten innhenting av pasientens samtykke. Dette kan bare skje dersom slik forskning er av vesentlig interesse for samfunnet og hensynet til deltakernes velferd og integritet er ivaretatt. Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan sette vilkår for bruken.\nPasienten skal på forhånd ha blitt informert om at humant biologisk materiale i visse tilfeller kan benyttes til forskning og må ha fått adgang til å reservere seg mot forskning på humant biologisk materiale.\nDet skal opprettes et elektronisk register med oversikt over de pasientene som har reservert seg mot at deres biologiske materiale benyttes til forskning.\n0 Endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "title": "Overføring av humant biologisk materiale til og fra utlandet",
+      "content": "Humant biologisk materiale fra en forskningsbiobank kan bare sendes ut av landet eller tas inn i landet etter godkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk, og det kan godtgjøres at kravene til samtykke i kapittel 4 og kravene til behandling av helseopplysninger i kapittel 7 er oppfylt.\nDepartementet kan i forskrift gjøre unntak fra kravet om godkjenning for overføring av biobankmateriale som er ledd i alminnelig internasjonalt samarbeid.\nDepartementet kan i forskrift stille vilkår for innsendelse og utsendelse av humant biologisk materiale, og om bruk av materiale fra utlandet til forskning i Norge.\n0 Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "title": "Opphør, nedleggelse eller overtakelse av forskningsbiobank",
+      "content": "Forskningsansvarlig skal søke den regionale komiteen for medisinsk og helsefaglig forskningsetikk om tillatelse til opphør, nedleggelse eller overtakelse av forskningsbiobank. Den regionale komiteen for medisinsk og helsefaglig forskningsetikk må godkjenne prosedyren ved en eventuell destruksjon.\nDepartementet kan i forskrift gi bestemmelser om at humant biologisk materiale i visse tilfeller skal kunne overdras til andre forskningsansvarlige i stedet for å destrueres.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "title": "Andres tilgang til materialet i en forskningsbiobank",
+      "content": "Den forskningsansvarlige skal gi andre forskere tilgang til humant biologisk materiale i virksomhetens forskningsbiobanker, med mindre den forskningsansvarlige selv har behov for materialet eller andre særlige grunner gjør seg gjeldende. Før utleveringen av materiale kan finne sted, må de nødvendige godkjenningene etter kapittel 3 foreligge.\nVed vurderingen av om det foreligger særlige grunner etter første ledd, skal det legges vekt på forskningens kvalitet og relevans i forhold til formålet med forskningsbiobanken. Det må legges vekt på lovpålagte plikter om oppbevaring og behandling av materialet, hensynet til materialets giver og den forskningsansvarliges behov for materialet.\nDersom den ansvarlige for forskningsbiobanken avslår anmodningen om tilgang, kan avgjørelsen påklages til den regionale komiteen for medisinsk og helsefaglig forskningsetikk som har godkjent opprettingen av forskningsbiobanken. Komiteens vedtak kan ikke påklages.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "7:32",
+      "chapter": "7",
+      "section": "32",
+      "title": "Hovedregel for behandling av helseopplysninger",
+      "content": "Behandling av helseopplysninger i medisinsk og helsefaglig forskning skal være i samsvar med prinsippene i personvernforordningen artikkel 5 og ha uttrykkelig angitte formål. Helseopplysningene skal være relevante og nødvendige for å nå forskningsprosjektets formål. Graden av personidentifikasjon for helseopplysninger skal ikke være større enn nødvendig for å nå formålene.\nHelseopplysninger kan ikke anvendes til formål som er uforenlig med det opprinnelige formålet uten at forskningsdeltakeren samtykker, med mindre annet følger av lov.\nHelseopplysninger kan ikke utleveres i forsikringsøyemed, til arbeidsgiver, til påtalemyndighet eller til domstol, selv om den opplysningene stammer fra samtykker til det.\nKongen kan i forskrift bestemme at utlevering av helseopplysninger til påtalemyndighet eller domstol helt unntaksvis kan skje dersom svært tungtveiende private eller offentlige interesser gjør dette rettmessig.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195). Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "7:33",
+      "chapter": "7",
+      "section": "33",
+      "title": "Krav om forhåndsgodkjenning",
+      "content": "Behandling av helseopplysninger i medisinsk og helsefaglig forskning krever forhåndsgodkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk etter kapittel 3.\nPersonopplysningsloven § 10 og § 11 andre ledd gjelder ikke for medisinsk og helsefaglig forskning.\n0 Endret ved lover 20 juni 2014 nr. 43 (ikr. 1 jan 2015 iflg. res. 19 des 2014 nr. 1732), 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), 4 des 2020 nr. 133 (ikr. 1 juni 2021 iflg. res. 21 mai 2021 nr. 1578). Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "7:34",
+      "chapter": "7",
+      "section": "34",
+      "title": "Behandling av helseopplysninger",
+      "content": "Helseopplysninger kan sammenstilles, tilgjengeliggjøres og behandles på andre måter i tråd med forskningsprosjektets formål, eventuelle samtykker, forhåndsgodkjenningen etter § 33 og i samsvar med forskningsprotokollen.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk kan ved godkjenningen etter kapittel 3 nekte slik sammenstilling, tilgjengeliggjøring eller annen behandling dersom denne finnes å være medisinsk eller etisk uforsvarlig.\n0 Endret ved lover 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), 4 des 2020 nr. 133 (ikr. 1 juni 2021 iflg. res. 21 mai 2021 nr. 1578). Oppheves ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "7:35",
+      "chapter": "7",
+      "section": "35",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lover 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), opphevet ved lov 4 des 2020 nr. 133 (ikr. 1 juni 2021 iflg. res. 21 mai 2021 nr. 1578).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "7:36",
+      "chapter": "7",
+      "section": "36",
+      "title": "Retting av helseopplysninger mv.",
+      "content": "Den registrerte kan kreve retting eller sletting etter personvernforordningen artikkel 16 og 17. Unntaket i personopplysningsloven § 17 andre og tredje ledd gjelder.\nProsjektleder skal av eget tiltak rette uriktige opplysninger, oppdatere foreldede opplysninger og supplere ufullstendige opplysninger.\nUriktige og foreldede opplysninger skal slettes eller endres på en måte som gjør at endringen kan spores. Fullstendig sletting av uriktige og foreldede opplysninger kan bare skje dersom det blir krevd av noen som opplysningene kan få direkte innvirkning på, og slettingen ikke får avgjørende innvirkning på forskningsresultatenes validitet eller representativitet.\nKrav om sletting avgjøres av prosjektlederen. Om sletting nektes, kan avgjørelsen klages inn for den regionale komiteen for medisinsk og helsefaglig forskningsetikk.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195). Oppheves ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "7:37",
+      "chapter": "7",
+      "section": "37",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "7:38",
+      "chapter": "7",
+      "section": "38",
+      "title": "Forbud mot lagring av unødvendige helseopplysninger",
+      "content": "Opplysninger skal ikke oppbevares lenger enn det som er nødvendig for å gjennomføre prosjektet. Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan bestemme at dokumenter som er nødvendig for etterkontroll av prosjektet, skal oppbevares i fem år etter at sluttmelding er sendt komiteen. Hvis opplysninger ikke deretter skal oppbevares i henhold til arkivlova eller annen lovgivning, skal de anonymiseres eller slettes.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk kan bestemme at opplysningene skal oppbevares i lenger tid enn det som følger av første ledd. Til slikt vedtak kan knyttes vilkår.\nDepartementet kan gi forskrift om oppbevaring av opplysninger etter at forskningsprosjektet er gjennomført.\n0 Endret ved lov 20 juni 2025 nr. 96 (i kraft 1 jan 2026 iflg. res. 12 des 2025 nr. 2510). Oppheves ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "8:39",
+      "chapter": "8",
+      "section": "39",
+      "title": "Åpenhet",
+      "content": "Den forskningsansvarlige og prosjektlederen skal sørge for åpenhet rundt forskningen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "8:40",
+      "chapter": "8",
+      "section": "40",
+      "title": "Rett til innsyn for forskningsdeltakere",
+      "content": "Forskningsdeltakeren har rett til innsyn i helseopplysninger om seg selv etter personvernforordningen artikkel 15. Deltakeren har også rett til innsyn i sikkerhetstiltakene ved behandlingen av helseopplysningene så langt innsyn ikke svekker sikkerheten.\nOpplysningene det gis innsyn i, skal presenteres på en måte som er tilpasset den enkeltes evner og behov. Forskningsdeltakeren kan kreve at prosjektlederen utdyper opplysningene som nevnt i første ledd i den grad dette er nødvendig for at forskningsdeltakeren skal kunne vareta egne interesser.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "8:41",
+      "chapter": "8",
+      "section": "41",
+      "title": "Allmennhetens rett til innsyn",
+      "content": "Enhver skal ved henvendelse til den regionale komiteen for medisinsk og helsefaglig forskningsetikk få vite hvilke forskningsprosjekter etter denne loven som en forskningsansvarlig eller prosjektleder er eller har vært involvert i, samt formålet med prosjektet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "8:42",
+      "chapter": "8",
+      "section": "42",
+      "title": "Unntak fra innsyn",
+      "content": "Unntakene i personopplysningsloven §§ 16 og 17 fra retten til informasjon og innsyn og fra plikten til underretning om brudd på personopplysningssikkerheten, gjelder tilsvarende for innsyn etter §§ 40 og 41 i loven her.\nAvslag på krav om innsyn og informasjon kan overprøves av den regionale komiteen for medisinsk og helsefaglig forskningsetikk.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "8:43",
+      "chapter": "8",
+      "section": "43",
+      "title": "Frist for innsyn",
+      "content": "Prosjektlederen skal svare på henvendelser om innsyn etter §§ 40 og 41 uten ugrunnet opphold og senest innen 30 dager fra den dagen henvendelsen kom inn.\nDersom særlige forhold gjør det umulig å svare på henvendelsen innen 30 dager, kan gjennomføringen utsettes inntil det er mulig å gi svar. Prosjektleder skal i så fall gi et foreløpig svar med opplysninger om grunnen til forsinkelsen og sannsynlig tidspunkt for når svar kan gis.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "8:44",
+      "chapter": "8",
+      "section": "44",
+      "title": "Offentlig fortegnelse over forskningsprosjekter og forskningsbiobanker",
+      "content": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk skal føre en systematisk fortegnelse over innmeldte og avsluttede forskningsprosjekter basert på opplysninger i søknad og sluttmelding, jf. §§ 10, 11 og 12. Registrene skal være offentlig tilgjengelige.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk skal melde alle forskningsbiobanker inn til Biobankregisteret ved Folkehelseinstituttet.\n0 Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "8:45",
+      "chapter": "8",
+      "section": "45",
+      "title": "Utsatt offentliggjøring",
+      "content": "Den forskningsansvarlige og prosjektlederen kan søke den regionale komiteen for medisinsk og helsefaglig forskningsetikk om utsatt offentliggjøring der dette er nødvendig for å beskytte legitime patentrettslige eller konkurransemessige interesser, eller av hensyn til et løpende forskningsarbeid. Det må opplyses om fra hvilket tidspunkt offentliggjøring kan skje.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk kan bestemme at sensitive opplysninger om et prosjekt ikke skal inngå i registeret etter § 44 eller ikke kunne kreves innsyn i etter §§ 40 og 41 for et klart avgrenset tidsrom, dersom offentlighet kan skade vesentlige private eller offentlige interesser. Komiteen skal i så fall samtidig med avslaget på krav om innsyn, gi opplysning om fra hvilket tidspunkt innsyn kan bli gitt. Bare i særlige tilfeller kan tidsrommet forlenges.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "9:46",
+      "chapter": "9",
+      "section": "46",
+      "title": "Statens helsetilsyns myndighet",
+      "content": "Statens helsetilsyn fører tilsyn med medisinsk og helsefaglig forskning og forvaltningen av forskningsbiobanker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "9:47",
+      "chapter": "9",
+      "section": "47",
+      "title": "Datatilsynets myndighet",
+      "content": "Datatilsynet fører tilsyn med bruken av helseopplysninger etter denne loven i samsvar med personvernforordningen og personopplysningsloven.\nNår Datatilsynet har gitt pålegg, skal Statens helsetilsyn informeres om dette.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "9:48",
+      "chapter": "9",
+      "section": "48",
+      "title": "Opplysningsplikt til tilsynsmyndighetene",
+      "content": "Den forskningsansvarlige, prosjektlederen og annet personell som er involvert i et forskningsprosjekt, skal gi tilsynsmyndighetene adgang til virksomhetens lokaler, og uten hinder av taushetsplikten gi og gjøre tilgjengelig for tilsynsmyndighetene alle opplysninger, dokumenter, materiale og lignende som anses påkrevd for utøvelsen av tilsyn med medisinsk og helsefaglig forskning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "9:49",
+      "chapter": "9",
+      "section": "49",
+      "title": "Tilsynsmyndighetenes taushetsplikt",
+      "content": "Tilsynsmyndighetene og andre som utfører tjeneste for tilsynsmyndighetene, har taushetsplikt etter § 7. Taushetsplikten omfatter også opplysninger om sikkerhetstiltak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "10:50",
+      "chapter": "10",
+      "section": "50",
+      "title": "Erstatning",
+      "content": "For skade på mennesker som oppstår under medisinske forsøk, gjelder pasientskadelovens regler tilsvarende.\nDen forskningsansvarlige skal erstatte skader som er oppstått som følge av at humant biologisk materiale er behandlet i strid med bestemmelser gitt i eller i medhold av loven, med mindre det godtgjøres at skaden ikke skyldes feil eller forsømmelse på den forskningsansvarliges side. Erstatningen skal svare til det økonomiske tapet som den skadelidte er påført som følge av den ulovlige behandlingen av det humant biologiske materialet. Den forskningsansvarlige kan også pålegges å betale slik erstatning for skader av ikke-økonomisk art (oppreisning) som synes rimelig.\nDen dataansvarlige og databehandleren skal erstatte skader som er oppstått som følge av at helseopplysninger er behandlet i strid med personvernforordningen, jf. forordningen artikkel 82. Ansvaret gjelder tilsvarende ved behandling av helseopplysninger i strid med denne loven eller forskrifter gitt i medhold av loven.\nFor forskningsansvarlige og dataansvarlige som er private, skal det ved forsikring stilles sikkerhet for det økonomiske ansvaret som kan oppstå etter andre og tredje ledd.\nDepartementet kan i forskrift gi nærmere bestemmelser om plikten til forsikring.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "10:51",
+      "chapter": "10",
+      "section": "51",
+      "title": "Statens helsetilsyns adgang til å gi pålegg om retting og stansning mv.",
+      "content": "Dersom forskningsprosjekter eller forskningsbiobanker drives på en måte som kan ha skadelige følger for forskningsdeltakere eller andre, eller på annen måte er uheldig eller uforsvarlig, kan Statens helsetilsyn gi pålegg om å rette på forholdene. Dersom Statens helsetilsyn finner det nødvendig, kan det gis pålegg om stansning av forskningsprosjektet eller nedleggelse av forskningsbiobanken. Departementet kan overta den videre driften.\nReglene om klage og omgjøring i forvaltningsloven kapittel VI får tilsvarende anvendelse på pålegg etter første ledd. Klagen skal gis oppsettende virkning, hvis ikke Statens helsetilsyn bestemmer at vedtaket skal iverksettes straks.\nNår Statens helsetilsyn har gitt et pålegg, skal øvrige tilsynsmyndigheter informeres om dette såfremt forskningsprosjektet også faller inn under deres tilsynsområde.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "10:52",
+      "chapter": "10",
+      "section": "52",
+      "title": "Datatilsynets adgang til å fatte vedtak om overtredelsesgebyr",
+      "content": "Ved behandling av helseopplysninger i strid med loven eller forskrifter gitt i medhold av loven, kan Datatilsynet ilegge overtredelsesgebyr etter personvernforordningen artikkel 83 og personopplysningsloven §§ 26 og 27.\nNår Datatilsynet har fattet vedtak etter første ledd, skal Statens helsetilsyn informeres om dette.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "10:53",
+      "chapter": "10",
+      "section": "53",
+      "title": "Tvangsmulkt",
+      "content": "Statens helsetilsyn kan fastsette en løpende tvangsmulkt for hver dag, uke eller måned som går etter utløpet av den fristen som er satt for oppfylling av pålegget etter § 51, inntil pålegget er oppfylt. En tvangsmulkt kan også fastsettes som engangsmulkt. Statens helsetilsyn kan frafalle en påløpt tvangsmulkt. Tvangsmulkten løper ikke før klagefristen er ute. Hvis vedtaket påklages, løper ikke tvangsmulkten før klageinstansen har bestemt det.\nDatatilsynet kan fastsette tvangsmulkt etter personopplysningsloven § 29.\nSkyldige bidrag til dekning av utgiftene er tvangsgrunnlag for utlegg.\n0 Endret ved lover 19 juni 2009 nr. 73 (ikr. 1 juli 2009 iflg. res. 26 juni 2009 nr. 866), 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "10:54",
+      "chapter": "10",
+      "section": "54",
+      "title": "Straff",
+      "content": "Med bøter eller fengsel inntil ett år eller begge deler straffes den som forsettlig eller grovt uaktsomt overtrer bestemmelser i loven eller bestemmelser gitt i medhold av den.\nVed særdeles skjerpende omstendigheter kan fengsel inntil tre år idømmes. Ved avgjørelsen av om det foreligger særdeles skjerpende omstendigheter skal det blant annet legges vekt på faren for stor skade eller ulempe for forskningsdeltakeren, den tilsiktede vinningen ved overtredelsen, overtredelsens varighet og omfang, utvist skyld, og om vedkommende tidligere er straffet for å ha overtrådt tilsvarende bestemmelser.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "11:55",
+      "chapter": "11",
+      "section": "55",
+      "title": "Ikrafttredelse og overgangsregler",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.​1 Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.\nKongen kan gi overgangsregler i forskrift.\n1 Fra 1 juli 2009 iflg. res. 26 juni 2009 nr. 865.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "11:56",
+      "chapter": "11",
+      "section": "56",
+      "title": "Endringer i andre lover",
+      "content": "– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Lovens formål er å fremme god og etisk forsvarlig medisinsk og helsefaglig forskning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens saklige virkeområde",
+      "content": "Loven gjelder for medisinsk og helsefaglig forskning på mennesker, humant biologisk materiale eller helseopplysninger. Slik forskning omfatter også pilotstudier og utprøvende behandling.\nFor behandling av helseopplysninger gjelder personvernforordningen og personopplysningsloven med forskrifter, i den utstrekning ikke annet følger av denne loven. For opplysninger som er taushetsbelagte etter helsepersonelloven § 21, og for opplysninger om avdøde personer gjelder bestemmelsene i loven her om behandling av helseopplysninger så langt de passer. Loven gjelder ikke for etablering av helseregistre.\nFor klinisk utprøvning av legemidler på mennesker gjelder legemiddelloven § 3 med forskrifter. For klinisk utprøvning av medisinsk utstyr gjelder lov om medisinsk utstyr med forskrifter. Loven her gjelder utfyllende så langt den passer.\nDepartementet kan gi forskrift om lovens anvendelse for særskilte områder innenfor medisinsk og helsefaglig forskning.\n0 Endret ved lover 22 juni 2018 nr. 76, 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195). Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Lovens geografiske virkeområde",
+      "content": "Loven gjelder forskning på norsk territorium eller når forskningen skjer i regi av en forskningsansvarlig som er etablert i Norge.\nKongen kan i forskrift bestemme i hvilken utstrekning loven kommer til anvendelse på Svalbard og Jan Mayen.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Definisjoner",
+      "content": "I denne loven forstås med:\na. medisinsk og helsefaglig forskning: virksomhet som utføres med vitenskapelig metodikk for å skaffe til veie ny kunnskap om helse og sykdom,\nb. humant biologisk materiale: organer, deler av organer, celler og vev og bestanddeler av slikt materiale fra levende og døde mennesker,\nc. forskningsbiobank: en samling humant biologisk materiale som anvendes i et forskningsprosjekt eller skal anvendes til forskning,\nd. helseopplysninger: personopplysninger om en fysisk persons fysiske eller psykiske helse, medregnet om ytelse av helsetjenester, som gir informasjon om vedkommendes helsetilstand, jf. personvernforordningen artikkel 4 nr. 15\ne. forskningsansvarlig: institusjon eller en annen juridisk eller fysisk person som har det overordnede ansvaret for forskningsprosjektet, og som har de nødvendige forutsetningene for å kunne oppfylle den forskningsansvarliges plikter etter denne loven,\nf. prosjektleder: en fysisk person med ansvar for den daglige driften av forskningsprosjektet, og som har de nødvendige forskningskvalifikasjonene og erfaringer for å kunne oppfylle prosjektlederens plikter etter denne loven.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195). Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Forsvarlighet",
+      "content": "Medisinsk og helsefaglig forskning skal organiseres og utøves forsvarlig.\nForskningen skal være basert på respekt for forskningsdeltakernes menneskerettigheter og menneskeverd. Hensynet til deltakernes velferd og integritet skal gå foran vitenskapens og samfunnets interesser.\nMedisinsk og helsefaglig forskning skal vareta etiske, medisinske, helsefaglige, vitenskapelige og personvernmessige forhold.\n0 Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Hovedkrav til organisering av forskning",
+      "content": "Medisinsk og helsefaglig forskning skal organiseres med en forskningsansvarlig og en prosjektleder og beskrives i en forskningsprotokoll. Finansieringskilder må fremgå av protokollen.\nDet skal føres internkontroll tilpasset virksomhetens størrelse, egenart, aktiviteter og risikoforhold.\nDepartementet kan gi forskrift med nærmere krav til organisering av medisinsk og helsefaglig forskning, krav til forskningsprotokollen og til internkontroll, samt gi bestemmelser om prosjektleders og forskningsansvarliges plikter.\n0 Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:6 a",
+      "chapter": "2",
+      "section": "6 a",
+      "title": "Kliniske behandlingsstudier",
+      "content": "0 Tilføyes ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6a",
+        "source_heading": "§ 6 a."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Taushetsplikt",
+      "content": "Enhver som får tilgang til helseopplysninger og andre personopplysninger som blir behandlet i et forskningsprosjekt skal hindre at andre får adgang eller kjennskap til opplysningene.\nTaushetsplikten er ikke til hinder for at opplysninger gjøres kjent for den som de direkte gjelder eller utleveres når mottaker har rettslig grunnlag for å få opplysningene utlevert, jf. § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Kommersiell utnyttelse",
+      "content": "Kommersiell utnyttelse av forskningsdeltakere, humant biologisk materiale og helseopplysninger som sådan er forbudt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Krav om forhåndsgodkjenning",
+      "content": "Forskningsprosjektet må være forhåndsgodkjent av den regionale komiteen for medisinsk og helsefaglig forskningsetikk, jf. forskningsetikkloven § 10 første ledd.\n0 Endret ved lov 28 apr 2017 nr. 23 (ikr. 1 mai 2017 iflg. res. 28 apr 2017 nr. 505). Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Søknad om forhåndsgodkjenning",
+      "content": "Søknad om forhåndsgodkjenning av et forskningsprosjekt skal sammen med forskningsprotokollen sendes til den regionale komiteen for medisinsk og helsefaglig forskningsetikk.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk skal foreta en alminnelig forskningsetisk vurdering av prosjektet, og vurdere om prosjektet oppfyller kravene stilt i denne loven eller i medhold av denne loven. Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan sette vilkår for godkjenning, blant annet om tiltak for å verne de registrertes grunnleggende rettigheter og interesser.\nVedtak vedrørende forhåndsgodkjenning kan påklages til Den nasjonale forskningsetiske komité for medisin og helsefag, jf. forskningsetikkloven § 10 tredje ledd.\nDepartementet kan gi forskrifter om krav til søknaden, om saksbehandlingsfrister for den regionale komiteen for medisinsk og helsefaglig forskningsetikk, og om de nærmere vilkårene for forhåndsgodkjenning.\n0 Endret ved lover 28 apr 2017 nr. 23 (ikr. 1 mai 2017 iflg. res. 28 apr 2017 nr. 505), 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195). Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Søknad om å foreta vesentlige endringer av forskningsprosjektet",
+      "content": "Dersom prosjektleder ønsker å foreta vesentlige endringer i forskningsprosjektets formål, metode, tidsløp eller organisering, skal søknad sendes til den regionale komiteen for medisinsk og helsefaglig forskningsetikk som har gitt forhåndsgodkjenning. Søknaden skal beskrive hvilke endringer som ønskes foretatt og begrunnelsen for disse.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk avgjør om søknaden skal innvilges. Dersom endringene av prosjektet er så store at det må anses å være et helt nytt prosjekt, kan den regionale komiteen for medisinsk og helsefaglig forskningsetikk bestemme at det må søkes om forhåndsgodkjenning etter § 9, jf. § 10, på nytt.\nDepartementet kan gi forskrifter om krav til saksbehandlingen og om saksbehandlingsfrister.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Sluttmelding og rapporter",
+      "content": "Prosjektleder skal sende sluttmelding til den regionale komiteen for medisinsk og helsefaglig forskningsetikk når forskningsprosjektet avsluttes. I sluttmeldingen skal resultatene presenteres på en objektiv og etterrettelig måte, som sikrer at både positive og negative funn fremgår.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk kan stille krav til innholdet i sluttmeldingen.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk kan pålegge prosjektleder å avgi årlige eller ekstraordinære rapporter dersom komiteen finner dette nødvendig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:12 a",
+      "chapter": "3",
+      "section": "12 a",
+      "title": "Oppbevaring av dokumenter for etterprøving og kontroll",
+      "content": "0 Tilføyes ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12a",
+        "source_heading": "§ 12 a."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Hovedregel om samtykke",
+      "content": "Det kreves samtykke fra deltakere i medisinsk og helsefaglig forskning, med mindre annet følger av lov.\nMed samtykke menes enhver frivillig, spesifikk, informert og utvetydig viljesytring fra deltakeren der vedkommende ved en erklæring eller tydelig bekreftelse gir sitt samtykke til behandling av helseopplysninger eller humant biologisk materiale. Samtykket skal bygge på spesifikk informasjon om et konkret forskningsprosjekt med mindre det er adgang til å avgi et bredt samtykke, jf. § 14.\nDersom forskningsdeltakeren kan anses å være i et slikt avhengighetsforhold til den som ber om samtykke, at forskningsdeltakeren vil kunne føle seg presset til å gi samtykke, skal det informerte samtykket innhentes av en annen som forskningsdeltakeren ikke har slikt forhold til.\nDepartementet kan gi forskrifter om krav til samtykke.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195). Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Bredt samtykke",
+      "content": "Forskningsdeltakere kan samtykke etter § 13 til at humant biologisk materiale og helseopplysninger brukes til nærmere bestemte, bredt definerte forskningsformål.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk kan sette vilkår for bruk av bredt samtykke og kan pålegge prosjektleder å innhente nytt samtykke dersom komiteen finner det nødvendig.\nDeltakere som har avgitt bredt samtykke har krav på jevnlig informasjon om prosjektet.\n0 Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).|",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:14 a",
+      "chapter": "4",
+      "section": "14 a",
+      "title": "Forskning som innebærer ingen eller liten risiko eller ulempe",
+      "content": "0 Tilføyes ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14a",
+        "source_heading": "§ 14 a."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Ny eller endret bruk av innsamlet humant biologisk materiale eller helseopplysninger",
+      "content": "Ved vesentlige endringer i forskningsprosjektet må det innhentes nytt samtykke etter § 13 dersom endringene antas å ha betydning for deltakerens samtykke.\nDersom det er vanskelig å innhente nytt samtykke, kan den regionale komiteen for medisinsk og helsefaglig forskningsetikk godkjenne ny eller endret bruk av tidligere innsamlet humant biologisk materiale eller helseopplysninger uten at nytt samtykke innhentes. Dette kan bare skje dersom slik forskning er av vesentlig interesse for samfunnet og hensynet til deltakernes velferd og integritet er ivaretatt. Den regionale komité for medisinsk og helsefaglig forskningsetikk kan sette vilkår for bruken.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Tilbaketrekking av samtykke",
+      "content": "Et samtykke til å delta i et forskningsprosjekt kan når som helst trekkes tilbake.\nVed tilbaketrekking av samtykke må forskningen på vedkommendes biologiske materiale eller helseopplysninger opphøre. Den som har trukket sitt samtykke tilbake, kan kreve at det biologiske materialet destrueres og at helseopplysningene slettes eller utleveres innen 30 dager.\nAdgangen til å kreve destruksjon, sletting eller utlevering etter andre ledd gjelder ikke dersom materialet eller opplysningene er anonymisert, dersom materialet etter bearbeidelse inngår i et annet biologisk produkt, eller dersom opplysningene allerede er inngått i utførte analyser.\nDersom særlig sterke samfunns- eller forskningshensyn tilsier det, kan den regionale komiteen for medisinsk og helsefaglig forskningsetikk tillate fortsatt forskning på materialet og utsatt destruksjon, sletting eller utlevering til forskningsprosjektet er gjennomført.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Hvem som har samtykkekompetanse",
+      "content": "Rett til å samtykke til deltakelse i medisinsk og helsefaglig forskning har:\na. personer over 18 år, med mindre annet følger av sjette ledd, og\nb. personer mellom 16 og 18 år, med mindre annet følger av særlige lovbestemmelser eller av tiltakets art.\nSamtykkekompetanse etter første ledd kan bortfalle i situasjoner som vist til i pasient- og brukerrettighetsloven § 4-3 andre ledd.\nForeldre eller andre med foreldreansvar må samtykke til forskning med mindreårige mellom 16 og 18 år som innebærer legemsinngrep eller legemiddelutprøving.\nFor samtykke til forskning som inkluderer deltakere under 16 år, gjelder samtykkebestemmelsene i pasient- og brukerrettighetsloven § 4-4 tilsvarende. Dersom barn mellom 12 og 16 år av grunner som bør respekteres, ikke ønsker at foreldrene, andre med foreldreansvar eller barnevernstjenesten gjøres kjent med opplysninger om barnet, skal dette ivaretas.\nFor personer uten samtykkekompetanse etter pasient- og brukerrettighetsloven § 4-3 andre ledd skal nærmeste pårørende etter pasient- og brukerrettighetsloven § 1-3 bokstav b samtykke.\nFor personer som er fratatt rettslig handleevne på det personlige området, gjelder pasient- og brukerrettighetsloven § 4-7 tilsvarende.\nDepartementet kan i forskrift bestemme at for spesielle typer forskningsprosjekter kan barn mellom 12 og 16 år selv samtykke til forskning på helseopplysninger. Departementet kan i forskrift gi nærmere regler om kravene til et slikt samtykke.\n0 Endret ved lover 14 nov 2008 nr. 80, 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 26 mars 2010 nr. 9 (ikr. 1 juli 2013 iflg. res. 5 apr 2013 nr. 338) som endret ved lov 5 apr 2013 nr. 12. Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:17 a",
+      "chapter": "4",
+      "section": "17 a",
+      "title": "Adgangen for personer under 18 år til å delta i forskning",
+      "content": "0 Tilføyes ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17a",
+        "source_heading": "§ 17 a."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Vilkår for forskning som inkluderer personer uten samtykkekompetanse",
+      "content": "Forskning som inkluderer mindreårige og personer uten samtykkekompetanse etter pasient- og brukerrettighetsloven § 4-3 kan bare finne sted dersom\na. eventuell risiko eller ulempe for personen er ubetydelig,\nb. personen selv ikke motsetter seg det, og\nc. det er grunn til å anta at resultatene av forskningen kan være til nytte for den aktuelle personen eller for andre personer med samme aldersspesifikke lidelse, sykdom, skade eller tilstand.\nFor mindreårige kreves det at tilsvarende forskning ikke kan gjennomføres på personer som ikke er mindreårige.\nFor personer uten samtykkekompetanse kreves det at det ikke er grunn til å tro at vedkommende ville motsatt seg deltakelse i forskningsprosjektet hvis vedkommende hadde hatt samtykkekompetanse, og at tilsvarende forskning ikke kan gjennomføres på personer med samtykkekompetanse.\n0 Endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252). Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Samtykke til forskning i kliniske nødssituasjoner",
+      "content": "I kliniske nødssituasjoner der pasienten ikke er i stand til å avgi samtykke, og der det er umulig å innhente samtykke fra vedkommendes nærmeste pårørende, kan forskning bare skje dersom\na. eventuell risiko eller ulempe for personen er ubetydelig,\nb. personen selv ikke motsetter seg det, og det ikke er grunn for forskere eller øvrig personell til å tro at vedkommende ville ha motsatt seg dette dersom vedkommende hadde hatt samtykkekompetanse,\nc. det bare er mulig å utføre forskningen i kliniske nødssituasjoner, og\nd. forskningen utvilsomt er berettiget på grunn av utsikten til resultater med stor forebyggende, diagnostisk eller terapeutisk verdi.\nVedkommende eller dennes nærmeste pårørende skal så snart som mulig gis informasjon om forskningen. Samtykke etter § 13, jf. § 17, er en forutsetning for videre forskning og skal innhentes så snart som mulig.\n0 Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Anonymisert humant biologisk materiale og helseopplysninger",
+      "content": "Samtykke kreves ikke ved bruk av anonymisert humant biologisk materiale og anonyme opplysninger. For innhenting av materiale og opplysninger som senere skal anonymiseres, kreves det samtykke etter kapitlet her.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Forskning på humant biologisk materiale fra døde",
+      "content": "For forskning på biologisk materiale som tas ut fra avdøde, gjelder obduksjonslova § 7 første til tredje ledd om informasjon og nærmeste pårørendes rett til å nekte obduksjon mv.\n0 Endret ved lover 7 mai 2015 nr. 26 (ikr. 1 jan 2016 iflg. res. 13 nov 2015 nr. 1289), 16 juni 2017 nr. 54 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 761).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Alminnelige bestemmelser om forskning på mennesker",
+      "content": "Forskning på mennesker kan bare finne sted dersom det ikke finnes alternative metoder som er tilnærmet like effektive.\nFør forskning på mennesker gjennomføres skal det gjøres en grundig vurdering av risiko og belastning for deltakerne. Disse må stå i forhold til påregnelige fordeler for forskningsdeltakeren selv eller for andre mennesker.\nForskningen skal stanses dersom det viser seg at risikoen er større enn mulige fordeler, eller dersom det foreligger tilstrekkelige holdepunkter for positive og fordelaktige resultater.\nForskning kan bare kombineres med behandling dersom forskningen antas å ha helsefremmende verdi for forskningsdeltakeren. Fordelene, risikoene, belastningene og effektiviteten ved en ny metode skal prøves mot de beste metodene av forebygging, diagnostikk og behandling som til enhver tid er tilgjengelige, med mindre særlig tungtveiende hensyn tilsier det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Meldeplikt ved uønskede medisinske hendelser",
+      "content": "Prosjektlederen skal omgående gi skriftlig melding til tilsynsmyndighetene om alvorlige samt uønskede og uventede medisinske hendelser som antas å ha sammenheng med forskningen.\nProsjektlederen, andre forskere og annet personell skal av eget tiltak gi tilsynsmyndighetene informasjon om forhold som kan medføre fare for forskningsdeltakernes sikkerhet. Ved unaturlig dødsfall skal politiet varsles omgående.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Informasjonsplikt til deltaker ved skader og lignende",
+      "content": "Prosjektlederen skal omgående informere forskningsdeltakerne dersom de har blitt påført skade, eller det har oppstått komplikasjoner som følge av forskningsprosjektet.\nProsjektlederen skal samtidig gjøre forskningsdeltakeren kjent med adgangen til å søke erstatning hos Norsk Pasientskadeerstatning og andre forsikringsordninger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "Opprettelse av forskningsbiobanker",
+      "content": "En forskningsbiobank kan bare opprettes etter å ha blitt godkjent av den regionale komiteen for medisinsk og helsefaglig forskningsetikk.\nForskningsbiobanker som opprettes i forbindelse med innsamling, oppbevaring og bruk av humant biologisk materiale som en del av et forskningsprosjekt, skal beskrives i prosjektets forskningsprotokoll.\nForskningsbiobanker som opprettes i forbindelse med innsamling og oppbevaring av humant biologisk materiale uten tilknytning til et konkret forskningsprosjekt, må godkjennes av den regionale komiteen for medisinsk og helsefaglig forskningsetikk. Det samme gjelder forskningsbiobanker som skal brukes til lagring og ny bruk av humant biologisk materiale, når det opprinnelige formålet for et forskningsprosjekt er oppfylt.\nDepartementet kan i forskrift gi bestemmelser om hva søknader om opprettelse av forskningsbiobanker skal inneholde.\nDepartementet kan i forskrift gi bestemmelser om opprettelse og annen behandling av humant biologisk materiale i biobanker som er tilknyttet helseregistre etter helseregisterloven §§ 8 til 11.\n0 Endret ved lov 20 juni 2014 nr. 43 (ikr. 1 jan 2015 iflg. res. 19 des 2014 nr. 1732).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "Ansvarshavende",
+      "content": "Hver forskningsbiobank skal ha en ansvarshavende person med medisinsk eller biologisk utdanning av høyere grad. Den forskningsansvarlige skal utpeke ansvarshavende.\nDepartementet kan i forskrift bestemme at enkelte forskningsbiobanker i tillegg til ansvarshavende person skal ha et styre og nærmere regler.\nAnsvarshavende, forskningsansvarlig og styret skal sørge for at forskningsbiobanken opprettes og forvaltes i samsvar med denne og annen lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Krav til oppbevaring og behandling",
+      "content": "Materiale i forskningsbiobanker skal oppbevares og behandles forsvarlig. Oppbevaring og behandling skal skje med respekt for giveren av materialet.\nHumant biologisk materiale fra forskningsbiobanker kan ikke utleveres i forsikringsøyemed, til arbeidsgiver, til påtalemyndighet eller til domstol, selv om den materialet stammer fra samtykker til det.\nKongen kan i forskrift bestemme at utlevering av humant biologisk materiale til påtalemyndighet eller domstol helt unntaksvis kan skje dersom svært tungtveiende private eller offentlige interesser gjør dette rettmessig.\nDepartementet kan i forskrift gi nærmere regler om hvordan humant biologisk materiale i en forskningsbiobank skal oppbevares og behandles.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:28",
+      "chapter": "6",
+      "section": "28",
+      "title": "Adgang til bruk av biologisk materiale som er innsamlet i helse- og omsorgstjenesten til forskning",
+      "content": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan bestemme at humant biologisk materiale innsamlet i helse- og omsorgstjenesten som ledd i diagnostisering og behandling, kan eller skal brukes til forskningsformål uten innhenting av pasientens samtykke. Dette kan bare skje dersom slik forskning er av vesentlig interesse for samfunnet og hensynet til deltakernes velferd og integritet er ivaretatt. Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan sette vilkår for bruken.\nPasienten skal på forhånd ha blitt informert om at humant biologisk materiale i visse tilfeller kan benyttes til forskning og må ha fått adgang til å reservere seg mot forskning på humant biologisk materiale.\nDet skal opprettes et elektronisk register med oversikt over de pasientene som har reservert seg mot at deres biologiske materiale benyttes til forskning.\n0 Endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "title": "Overføring av humant biologisk materiale til og fra utlandet",
+      "content": "Humant biologisk materiale fra en forskningsbiobank kan bare sendes ut av landet eller tas inn i landet etter godkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk, og det kan godtgjøres at kravene til samtykke i kapittel 4 og kravene til behandling av helseopplysninger i kapittel 7 er oppfylt.\nDepartementet kan i forskrift gjøre unntak fra kravet om godkjenning for overføring av biobankmateriale som er ledd i alminnelig internasjonalt samarbeid.\nDepartementet kan i forskrift stille vilkår for innsendelse og utsendelse av humant biologisk materiale, og om bruk av materiale fra utlandet til forskning i Norge.\n0 Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "title": "Opphør, nedleggelse eller overtakelse av forskningsbiobank",
+      "content": "Forskningsansvarlig skal søke den regionale komiteen for medisinsk og helsefaglig forskningsetikk om tillatelse til opphør, nedleggelse eller overtakelse av forskningsbiobank. Den regionale komiteen for medisinsk og helsefaglig forskningsetikk må godkjenne prosedyren ved en eventuell destruksjon.\nDepartementet kan i forskrift gi bestemmelser om at humant biologisk materiale i visse tilfeller skal kunne overdras til andre forskningsansvarlige i stedet for å destrueres.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "title": "Andres tilgang til materialet i en forskningsbiobank",
+      "content": "Den forskningsansvarlige skal gi andre forskere tilgang til humant biologisk materiale i virksomhetens forskningsbiobanker, med mindre den forskningsansvarlige selv har behov for materialet eller andre særlige grunner gjør seg gjeldende. Før utleveringen av materiale kan finne sted, må de nødvendige godkjenningene etter kapittel 3 foreligge.\nVed vurderingen av om det foreligger særlige grunner etter første ledd, skal det legges vekt på forskningens kvalitet og relevans i forhold til formålet med forskningsbiobanken. Det må legges vekt på lovpålagte plikter om oppbevaring og behandling av materialet, hensynet til materialets giver og den forskningsansvarliges behov for materialet.\nDersom den ansvarlige for forskningsbiobanken avslår anmodningen om tilgang, kan avgjørelsen påklages til den regionale komiteen for medisinsk og helsefaglig forskningsetikk som har godkjent opprettingen av forskningsbiobanken. Komiteens vedtak kan ikke påklages.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "7:32",
+      "chapter": "7",
+      "section": "32",
+      "title": "Hovedregel for behandling av helseopplysninger",
+      "content": "Behandling av helseopplysninger i medisinsk og helsefaglig forskning skal være i samsvar med prinsippene i personvernforordningen artikkel 5 og ha uttrykkelig angitte formål. Helseopplysningene skal være relevante og nødvendige for å nå forskningsprosjektets formål. Graden av personidentifikasjon for helseopplysninger skal ikke være større enn nødvendig for å nå formålene.\nHelseopplysninger kan ikke anvendes til formål som er uforenlig med det opprinnelige formålet uten at forskningsdeltakeren samtykker, med mindre annet følger av lov.\nHelseopplysninger kan ikke utleveres i forsikringsøyemed, til arbeidsgiver, til påtalemyndighet eller til domstol, selv om den opplysningene stammer fra samtykker til det.\nKongen kan i forskrift bestemme at utlevering av helseopplysninger til påtalemyndighet eller domstol helt unntaksvis kan skje dersom svært tungtveiende private eller offentlige interesser gjør dette rettmessig.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195). Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "7:33",
+      "chapter": "7",
+      "section": "33",
+      "title": "Krav om forhåndsgodkjenning",
+      "content": "Behandling av helseopplysninger i medisinsk og helsefaglig forskning krever forhåndsgodkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk etter kapittel 3.\nPersonopplysningsloven § 10 og § 11 andre ledd gjelder ikke for medisinsk og helsefaglig forskning.\n0 Endret ved lover 20 juni 2014 nr. 43 (ikr. 1 jan 2015 iflg. res. 19 des 2014 nr. 1732), 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), 4 des 2020 nr. 133 (ikr. 1 juni 2021 iflg. res. 21 mai 2021 nr. 1578). Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "7:34",
+      "chapter": "7",
+      "section": "34",
+      "title": "Behandling av helseopplysninger",
+      "content": "Helseopplysninger kan sammenstilles, tilgjengeliggjøres og behandles på andre måter i tråd med forskningsprosjektets formål, eventuelle samtykker, forhåndsgodkjenningen etter § 33 og i samsvar med forskningsprotokollen.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk kan ved godkjenningen etter kapittel 3 nekte slik sammenstilling, tilgjengeliggjøring eller annen behandling dersom denne finnes å være medisinsk eller etisk uforsvarlig.\n0 Endret ved lover 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), 4 des 2020 nr. 133 (ikr. 1 juni 2021 iflg. res. 21 mai 2021 nr. 1578). Oppheves ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "7:35",
+      "chapter": "7",
+      "section": "35",
+      "title": "(Opphevet)",
+      "content": "0 Endret ved lover 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195), opphevet ved lov 4 des 2020 nr. 133 (ikr. 1 juni 2021 iflg. res. 21 mai 2021 nr. 1578).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "7:36",
+      "chapter": "7",
+      "section": "36",
+      "title": "Retting av helseopplysninger mv.",
+      "content": "Den registrerte kan kreve retting eller sletting etter personvernforordningen artikkel 16 og 17. Unntaket i personopplysningsloven § 17 andre og tredje ledd gjelder.\nProsjektleder skal av eget tiltak rette uriktige opplysninger, oppdatere foreldede opplysninger og supplere ufullstendige opplysninger.\nUriktige og foreldede opplysninger skal slettes eller endres på en måte som gjør at endringen kan spores. Fullstendig sletting av uriktige og foreldede opplysninger kan bare skje dersom det blir krevd av noen som opplysningene kan få direkte innvirkning på, og slettingen ikke får avgjørende innvirkning på forskningsresultatenes validitet eller representativitet.\nKrav om sletting avgjøres av prosjektlederen. Om sletting nektes, kan avgjørelsen klages inn for den regionale komiteen for medisinsk og helsefaglig forskningsetikk.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195). Oppheves ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "7:37",
+      "chapter": "7",
+      "section": "37",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "7:38",
+      "chapter": "7",
+      "section": "38",
+      "title": "Forbud mot lagring av unødvendige helseopplysninger",
+      "content": "Opplysninger skal ikke oppbevares lenger enn det som er nødvendig for å gjennomføre prosjektet. Den regionale komiteen for medisinsk og helsefaglig forskningsetikk kan bestemme at dokumenter som er nødvendig for etterkontroll av prosjektet, skal oppbevares i fem år etter at sluttmelding er sendt komiteen. Hvis opplysninger ikke deretter skal oppbevares i henhold til arkivlova eller annen lovgivning, skal de anonymiseres eller slettes.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk kan bestemme at opplysningene skal oppbevares i lenger tid enn det som følger av første ledd. Til slikt vedtak kan knyttes vilkår.\nDepartementet kan gi forskrift om oppbevaring av opplysninger etter at forskningsprosjektet er gjennomført.\n0 Endret ved lov 20 juni 2025 nr. 96 (i kraft 1 jan 2026 iflg. res. 12 des 2025 nr. 2510). Oppheves ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "8:39",
+      "chapter": "8",
+      "section": "39",
+      "title": "Åpenhet",
+      "content": "Den forskningsansvarlige og prosjektlederen skal sørge for åpenhet rundt forskningen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "8:40",
+      "chapter": "8",
+      "section": "40",
+      "title": "Rett til innsyn for forskningsdeltakere",
+      "content": "Forskningsdeltakeren har rett til innsyn i helseopplysninger om seg selv etter personvernforordningen artikkel 15. Deltakeren har også rett til innsyn i sikkerhetstiltakene ved behandlingen av helseopplysningene så langt innsyn ikke svekker sikkerheten.\nOpplysningene det gis innsyn i, skal presenteres på en måte som er tilpasset den enkeltes evner og behov. Forskningsdeltakeren kan kreve at prosjektlederen utdyper opplysningene som nevnt i første ledd i den grad dette er nødvendig for at forskningsdeltakeren skal kunne vareta egne interesser.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "8:41",
+      "chapter": "8",
+      "section": "41",
+      "title": "Allmennhetens rett til innsyn",
+      "content": "Enhver skal ved henvendelse til den regionale komiteen for medisinsk og helsefaglig forskningsetikk få vite hvilke forskningsprosjekter etter denne loven som en forskningsansvarlig eller prosjektleder er eller har vært involvert i, samt formålet med prosjektet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "8:42",
+      "chapter": "8",
+      "section": "42",
+      "title": "Unntak fra innsyn",
+      "content": "Unntakene i personopplysningsloven §§ 16 og 17 fra retten til informasjon og innsyn og fra plikten til underretning om brudd på personopplysningssikkerheten, gjelder tilsvarende for innsyn etter §§ 40 og 41 i loven her.\nAvslag på krav om innsyn og informasjon kan overprøves av den regionale komiteen for medisinsk og helsefaglig forskningsetikk.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "8:43",
+      "chapter": "8",
+      "section": "43",
+      "title": "Frist for innsyn",
+      "content": "Prosjektlederen skal svare på henvendelser om innsyn etter §§ 40 og 41 uten ugrunnet opphold og senest innen 30 dager fra den dagen henvendelsen kom inn.\nDersom særlige forhold gjør det umulig å svare på henvendelsen innen 30 dager, kan gjennomføringen utsettes inntil det er mulig å gi svar. Prosjektleder skal i så fall gi et foreløpig svar med opplysninger om grunnen til forsinkelsen og sannsynlig tidspunkt for når svar kan gis.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "8:44",
+      "chapter": "8",
+      "section": "44",
+      "title": "Offentlig fortegnelse over forskningsprosjekter og forskningsbiobanker",
+      "content": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk skal føre en systematisk fortegnelse over innmeldte og avsluttede forskningsprosjekter basert på opplysninger i søknad og sluttmelding, jf. §§ 10, 11 og 12. Registrene skal være offentlig tilgjengelige.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk skal melde alle forskningsbiobanker inn til Biobankregisteret ved Folkehelseinstituttet.\n0 Endres ved lov 20 juni 2025 nr. 71 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "8:45",
+      "chapter": "8",
+      "section": "45",
+      "title": "Utsatt offentliggjøring",
+      "content": "Den forskningsansvarlige og prosjektlederen kan søke den regionale komiteen for medisinsk og helsefaglig forskningsetikk om utsatt offentliggjøring der dette er nødvendig for å beskytte legitime patentrettslige eller konkurransemessige interesser, eller av hensyn til et løpende forskningsarbeid. Det må opplyses om fra hvilket tidspunkt offentliggjøring kan skje.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk kan bestemme at sensitive opplysninger om et prosjekt ikke skal inngå i registeret etter § 44 eller ikke kunne kreves innsyn i etter §§ 40 og 41 for et klart avgrenset tidsrom, dersom offentlighet kan skade vesentlige private eller offentlige interesser. Komiteen skal i så fall samtidig med avslaget på krav om innsyn, gi opplysning om fra hvilket tidspunkt innsyn kan bli gitt. Bare i særlige tilfeller kan tidsrommet forlenges.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "9:46",
+      "chapter": "9",
+      "section": "46",
+      "title": "Statens helsetilsyns myndighet",
+      "content": "Statens helsetilsyn fører tilsyn med medisinsk og helsefaglig forskning og forvaltningen av forskningsbiobanker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "9:47",
+      "chapter": "9",
+      "section": "47",
+      "title": "Datatilsynets myndighet",
+      "content": "Datatilsynet fører tilsyn med bruken av helseopplysninger etter denne loven i samsvar med personvernforordningen og personopplysningsloven.\nNår Datatilsynet har gitt pålegg, skal Statens helsetilsyn informeres om dette.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "9:48",
+      "chapter": "9",
+      "section": "48",
+      "title": "Opplysningsplikt til tilsynsmyndighetene",
+      "content": "Den forskningsansvarlige, prosjektlederen og annet personell som er involvert i et forskningsprosjekt, skal gi tilsynsmyndighetene adgang til virksomhetens lokaler, og uten hinder av taushetsplikten gi og gjøre tilgjengelig for tilsynsmyndighetene alle opplysninger, dokumenter, materiale og lignende som anses påkrevd for utøvelsen av tilsyn med medisinsk og helsefaglig forskning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "9:49",
+      "chapter": "9",
+      "section": "49",
+      "title": "Tilsynsmyndighetenes taushetsplikt",
+      "content": "Tilsynsmyndighetene og andre som utfører tjeneste for tilsynsmyndighetene, har taushetsplikt etter § 7. Taushetsplikten omfatter også opplysninger om sikkerhetstiltak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "10:50",
+      "chapter": "10",
+      "section": "50",
+      "title": "Erstatning",
+      "content": "For skade på mennesker som oppstår under medisinske forsøk, gjelder pasientskadelovens regler tilsvarende.\nDen forskningsansvarlige skal erstatte skader som er oppstått som følge av at humant biologisk materiale er behandlet i strid med bestemmelser gitt i eller i medhold av loven, med mindre det godtgjøres at skaden ikke skyldes feil eller forsømmelse på den forskningsansvarliges side. Erstatningen skal svare til det økonomiske tapet som den skadelidte er påført som følge av den ulovlige behandlingen av det humant biologiske materialet. Den forskningsansvarlige kan også pålegges å betale slik erstatning for skader av ikke-økonomisk art (oppreisning) som synes rimelig.\nDen dataansvarlige og databehandleren skal erstatte skader som er oppstått som følge av at helseopplysninger er behandlet i strid med personvernforordningen, jf. forordningen artikkel 82. Ansvaret gjelder tilsvarende ved behandling av helseopplysninger i strid med denne loven eller forskrifter gitt i medhold av loven.\nFor forskningsansvarlige og dataansvarlige som er private, skal det ved forsikring stilles sikkerhet for det økonomiske ansvaret som kan oppstå etter andre og tredje ledd.\nDepartementet kan i forskrift gi nærmere bestemmelser om plikten til forsikring.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "10:51",
+      "chapter": "10",
+      "section": "51",
+      "title": "Statens helsetilsyns adgang til å gi pålegg om retting og stansning mv.",
+      "content": "Dersom forskningsprosjekter eller forskningsbiobanker drives på en måte som kan ha skadelige følger for forskningsdeltakere eller andre, eller på annen måte er uheldig eller uforsvarlig, kan Statens helsetilsyn gi pålegg om å rette på forholdene. Dersom Statens helsetilsyn finner det nødvendig, kan det gis pålegg om stansning av forskningsprosjektet eller nedleggelse av forskningsbiobanken. Departementet kan overta den videre driften.\nReglene om klage og omgjøring i forvaltningsloven kapittel VI får tilsvarende anvendelse på pålegg etter første ledd. Klagen skal gis oppsettende virkning, hvis ikke Statens helsetilsyn bestemmer at vedtaket skal iverksettes straks.\nNår Statens helsetilsyn har gitt et pålegg, skal øvrige tilsynsmyndigheter informeres om dette såfremt forskningsprosjektet også faller inn under deres tilsynsområde.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "10:52",
+      "chapter": "10",
+      "section": "52",
+      "title": "Datatilsynets adgang til å fatte vedtak om overtredelsesgebyr",
+      "content": "Ved behandling av helseopplysninger i strid med loven eller forskrifter gitt i medhold av loven, kan Datatilsynet ilegge overtredelsesgebyr etter personvernforordningen artikkel 83 og personopplysningsloven §§ 26 og 27.\nNår Datatilsynet har fattet vedtak etter første ledd, skal Statens helsetilsyn informeres om dette.\n0 Endret ved lov 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "10:53",
+      "chapter": "10",
+      "section": "53",
+      "title": "Tvangsmulkt",
+      "content": "Statens helsetilsyn kan fastsette en løpende tvangsmulkt for hver dag, uke eller måned som går etter utløpet av den fristen som er satt for oppfylling av pålegget etter § 51, inntil pålegget er oppfylt. En tvangsmulkt kan også fastsettes som engangsmulkt. Statens helsetilsyn kan frafalle en påløpt tvangsmulkt. Tvangsmulkten løper ikke før klagefristen er ute. Hvis vedtaket påklages, løper ikke tvangsmulkten før klageinstansen har bestemt det.\nDatatilsynet kan fastsette tvangsmulkt etter personopplysningsloven § 29.\nSkyldige bidrag til dekning av utgiftene er tvangsgrunnlag for utlegg.\n0 Endret ved lover 19 juni 2009 nr. 73 (ikr. 1 juli 2009 iflg. res. 26 juni 2009 nr. 866), 15 juni 2018 nr. 38 (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "10:54",
+      "chapter": "10",
+      "section": "54",
+      "title": "Straff",
+      "content": "Med bøter eller fengsel inntil ett år eller begge deler straffes den som forsettlig eller grovt uaktsomt overtrer bestemmelser i loven eller bestemmelser gitt i medhold av den.\nVed særdeles skjerpende omstendigheter kan fengsel inntil tre år idømmes. Ved avgjørelsen av om det foreligger særdeles skjerpende omstendigheter skal det blant annet legges vekt på faren for stor skade eller ulempe for forskningsdeltakeren, den tilsiktede vinningen ved overtredelsen, overtredelsens varighet og omfang, utvist skyld, og om vedkommende tidligere er straffet for å ha overtrådt tilsvarende bestemmelser.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "11:55",
+      "chapter": "11",
+      "section": "55",
+      "title": "Ikrafttredelse og overgangsregler",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.​1 Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.\nKongen kan gi overgangsregler i forskrift.\n1 Fra 1 juli 2009 iflg. res. 26 juni 2009 nr. 865.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "11:56",
+      "chapter": "11",
+      "section": "56",
+      "title": "Endringer i andre lover",
+      "content": "– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    }
+  ]
+}

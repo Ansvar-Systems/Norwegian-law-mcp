@@ -1,0 +1,8 @@
+{
+  "description": "Validation subset for quick ingestion checks across core Norwegian legal domains.",
+  "statutes": [
+    { "id": "LOV-2018-06-15-38", "slug": "personopplysningsloven", "priority": "high", "domain": "privacy" },
+    { "id": "LOV-2005-05-20-28", "slug": "straffeloven", "priority": "medium", "domain": "criminal-law" },
+    { "id": "LOV-1999-05-21-30", "slug": "menneskerettsloven", "priority": "high", "domain": "human-rights" }
+  ]
+}

@@ -1,0 +1,635 @@
+{
+  "id": "LOV-1970-06-19-63",
+  "type": "statute",
+  "title": "Lov om naturvern",
+  "short_name": "Naturvernloven – nvl.",
+  "status": "in_force",
+  "issued_date": "1970-06-19",
+  "in_force_date": "1970-07-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1970-06-19-63",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Naturen er en nasjonalverdi som må vernes.\nNaturvern er å disponere naturressursene ut fra hensynet til den nære samhørighet mellom mennesket og naturen, og til at naturens kvalitet skal bevares for fremtiden.\nEnhver skal vise hensyn og varsomhet i omgang med naturen.​1\nInngrep i naturen bør bare foretas ut fra en langsiktig og allsidig ressursdisponering som tar hensyn til at naturen i fremtiden bevares som grunnlag for menneskenes virksomhet, helse og trivsel.​2\n1 Jfr. bl.a. lov 28 juni 1957 nr. 16 § 11 og lov 29 mai 1981 nr. 38 § 3.\n2 Jfr. Grl. § 110 b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Den som planlegger større arbeider, anlegg eller virksomhet som vil medføre vesentlig endring av landskapets karakter eller vesentlig skade på naturmiljøet for øvrig, skal før de iverksettes, forelegge saken til uttalelse for vedkommende myndighet etter denne lov. Når utbygging, anlegg eller annen virksomhet må medføre skade på landskapet eller naturmiljøet for øvrig, må det gjennomføres tiltak for å begrense eller motvirke skaden i rimelig utstrekning.\nKongen gir nærmere forskrifter​2 om gjennomføring av disse bestemmelser, herunder regler om hvilke arbeider, anlegg eller virksomheter som omfattes av bestemmelsene og frist for vedkommende myndighet til å avgi uttalelse. Forskriften kan omfatte forbud​3 mot igangsetting av arbeider, anlegg eller virksomhet som nevnt, før vedkommende myndighet har gitt uttalelse.\nAntas det at arbeider, anlegg eller virksomhet som nevnt i første ledd vil medføre vesentlig skade for naturvitenskapelige verdier, kan Kongen bestemme at det innen en nærmere fastsatt frist skal utføres naturvitenskapelige undersøkelser før vedkommende arbeid, anlegg eller virksomhet settes i gang og at utgiftene til dette i rimelig utstrekning dekkes av arbeidsherren eller de som har ansvaret for virksomheten.\n1 Ikke i kraft, se § 25. Se lov 14 juni 1985 nr. 77 § 16-2 og kap. VII-a.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Jfr. § 24.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "For å bevare større urørte eller i det vesentlige urørte eller egenartede eller vakre naturområder kan arealer av statens grunn​1 legges ut som nasjonalpark. Grunn av samme art som ikke er i statens eie, og som ligger i eller grenser inntil arealer som nevnt i første punktum, kan legges ut som nasjonalpark sammen med statens grunn.​2\nI nasjonalparker skal naturmiljøet vernes. Landskapet med planter, dyreliv og natur- og kulturminner​3 skal vernes mot utbygging, anlegg, forurensninger​4 og andre inngrep.\n1 Jfr. herunder lover 6 juni 1975 nr. 31, 19 juni 1992 nr. 60.\n2 Jfr. § 20 b.\n3 Jfr. lov 9 juni 1978 nr. 50.\n4 Jfr. lov 13 mars 1981 nr. 6 § 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Vedtak​1 om å legge ut et område til nasjonalpark treffes av Kongen​2 som gir nærmere bestemmelser​3 om området og dets skjøtsel, herunder om fredning av plante- og dyrelivet.​4\n1 Jfr. § 18 og § 19.\n2 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987 nr. 572, fylkesmannen hva angår skjøtsel, se res. 26 aug 1983 nr. 1385. Iflg. res. 25 okt 1996 nr. 1008 delegert til Miljøverndepartementet hva gjelder myndighet til å endre hvem som skal ha ansvar for forvaltningen av vernede objekter og områder.\n3 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n4 Jfr. kap. VIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "For å bevare egenartet eller vakkert natur- eller kulturlandskap kan arealer legges ut som landskapsvernområde.​1 I landskapsvernområde må det ikke iverksettes tiltak som vesentlig kan endre landskapets art eller karakter. Fylkesmannen avgjør i tvilstilfelle om et tiltak må anses å ville endre landskapets art eller karakter vesentlig.\n1 Jfr. § 20 b. Jfr. også lov 9 juni 1978 nr. 50 § 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Vedtak​1 om å legge ut et areal som landskapsvernområde treffes av Kongen,​2 som kan fastsette nærmere bestemmelser​2 om området, dets skjøtsel og bruken av det.​3\n1 Se § 18 og § 19.\n2 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987 nr. 572, fylkesmannen hva angår skjøtsel, se res. 26 aug 1983 nr. 1385. Iflg. res. 25 okt 1996 nr. 1008 delegert til Miljøverndepartementet hva gjelder myndighet til å endre hvem som skal ha ansvar for forvaltningen av vernede objekter og områder.\n3 Jfr. kap. VIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Bestemmelsene i §§ 5 og 6 gjelder ikke områder som omfattes av reguleringsplan etter plan- og bygningsloven.​1\n0 Endret ved lov 14 juni 1985 nr. 77.\n1 Lov 14 juni 1985 nr. 77 kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Område som har urørt, eller tilnærmet urørt natur eller utgjør spesiell naturtype og som har særskilt vitenskapelig eller pedagogisk betydning eller som skiller seg ut ved sin egenart, kan fredes som naturreservat. Et område kan totalfredes eller fredes for bestemte formål som skogreservat, myrreservat, fuglereservat eller liknende.​1\n1 Jfr. § 20 og § 20 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "I område som har vesentlig betydning for planter eller dyr som blir fredet i medhold av § 13 eller § 14, kan utbygging, anlegg, forurensninger​1 og andre inngrep forbys​2 for å bevare deres livsmiljø.​3\nDet samme gjelder område for planter eller dyr som er eller blir fredet i eller i medhold av annen lovgivning.​4\n0 Endret ved lover 18 juni 1971 nr. 91, 2 juni 1972 nr. 29.\n1 Jfr. lov 13 mars 1981 nr. 6 § 6.\n2 Jfr. § 24.\n3 Jfr. § 20 og § 20 a.\n4 Jfr. lov 29 mai 1981 nr. 38 § 3 og § 7, lov 15 mai 1992 nr. 47 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Vedtak​1 i medhold av §§ 8, og 9 treffes av Kongen​2 som kan fastsette nærmere bestemmelser om områdene og deres skjøtsel.​3\n1 Se § 18 og § 19.\n2 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987 nr. 572, fylkesmannen hva angår skjøtsel, se res. 26 aug 1983 nr. 1385. Iflg. res. 25 okt 1996 nr. 1008 delegert til Miljøverndepartementet hva gjelder myndighet til å endre hvem som skal ha ansvar for forvaltningen av vernede objekter og områder.\n3 Jfr. kap. VIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Geologiske, botaniske og zoologiske forekomster som har vitenskapelig eller historisk interesse eller som er særpregede, kan fredes som naturminne.​1\nArealer omkring forekomsten kan fredes sammen med den som naturminne når det anses nødvendig for å verne den.\nBestemmelsene i første og annet ledd gjelder tilsvarende for fosser og andre deler av vassdrag.​2\n1 Jfr. § 20 og 20 a. Jfr. også lov 9 juni 1978 nr. 50 § 4, § 6 og § 19.\n2 Jfr. § 11 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "11 a",
+      "section": "11 a",
+      "content": "Kongen kan treffe vedtak om vern etter loven her av et vassdrag som er vernet mot kraftutbygging, jf vannressursloven​1 § 32, eller del av det med den nærmeste strandsonen. I vedtaket fastsettes nærmere bestemmelser om vernet og om skjøtsel av vassdraget.​2\n0 Tilføyd ved lov 24 nov 2000 nr. 82 (i kraft 1 jan 2001 iflg. res. 24 nov 2000 nr. 1169).\n1 Lov 24 nov 2000 nr. 82.\n2 Jfr. kap. VIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11a",
+        "source_heading": "§ 11 a."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Vedtak​1 i medhold av § 11 treffes av Kongen​2 som fastsetter nærmere bestemmelser om gjennomføring av fredningen og naturminnets skjøtsel.​3\n1 Se § 18 og § 19.\n2 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987, fylkesmannen hva angår skjøtsel, se res. 26 aug 1983 nr. 1385. Iflg. res. 25 okt 1996 nr. 1008 delegert til Miljøverndepartementet hva gjelder myndighet til å endre hvem som skal ha ansvar for forvaltningen av vernede objekter og områder.\n3 Jfr. kap. VIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "content": "Kongen​1 kan gjøre vedtak​2 om at viltvoksende plantearter eller plantesamfunn som er sjeldne eller står i fare for å forsvinne, fredes i hele landet eller i bestemte områder.​3\n1 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987 nr. 572.\n2 Se § 18 og § 19.\n3 Jfr. kap. VIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "content": "Kongen​1 kan gjøre vedtak om at dyrearter eller dyresamfunn som er sjeldne eller står i fare for å forsvinne, fredes i hele landet eller i bestemte områder.\nI et område som har særlig betydning som tilholdssted for en rekke arter kan pattedyr og fugler fredes.\nVedtak i medhold av første og annet ledd​2 gjelder også artenes hi, reir og egg.​3\nFredningen kan tidsbegrenses.\n1 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987 nr. 572.\n2 Se § 18 og § 19.\n3 Jfr. kap. VIII. Jfr. også lov 29 mai 1981 nr. 38 § 3 og § 7, og lov 15 mai 1992 nr. 47 § 7 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "content": "Frittstående reklameskilt eller reklameinnretning eller innskrift, tegning eller innretning på hus, trær, berg, stein o.l. i reklameøyemed må ikke anbringes utenfor tettbygd strøk. I særlige tilfelle kan fylkesmannen på nærmere vilkår gjøre unntak fra denne bestemmelse etter uttalelse fra vedkommende kommune.​2 Fylkesmannen avgjør i tvilstilfelle hva som er tettbygd strøk.\nForbudet gjelder ikke skilt m.v. som angir en bedrifts navn og art, samt reklame for varer bedriften forhandler og som settes opp på bedriftsområdet.\n1 Se § 24.\n2 Jfr. også lover 21 juni 1963 nr. 23 § 33 og 14 juni 1985 nr. 77 § 107.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 13 mars 1981 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 8 juni 1990 nr. 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "6:18",
+      "chapter": "6",
+      "section": "18",
+      "content": "1. Når et arbeid med vern etter denne lov starter opp skal det tas kontakt med berørte fylkeskommuner og kommuner​1 for å drøfte avgrensing av området, innhold i vernebestemmelser, spørsmål om samtidig oppstart av kommunalt eller regionalt planarbeid og spørsmål for øvrig av betydning for kommunens og fylkeskommunens planarbeid. Kongen kan gi forskrift​2 om samordnet behandling av planer etter plan- og bygningsloven​3 og vern etter denne lov.\nVernemyndigheten skal kunngjøre en melding, som regel i minst 2 aviser som er alminnelig lest på stedet, der det gjøres rede for det påtenkte vernetiltak og de følger det antas å få. Såvidt mulig bør grunneiere og rettighetshavere underrettes ved brev og gis en rimelig frist for å komme med merknader før forslag utformes.\nPå et tidlig tidspunkt i forberedelse av vernetiltaket skal det søkes samarbeid med offentlige myndigheter, organisasjoner m.v. som har særlig interesse i tiltaket.\n2. Når verneforslaget er utarbeidet skal det kunngjøres i Norsk Lysningsblad​4 og i minst 2 aviser som er alminnelig lest på stedet at forslag om vern er utlagt til offentlig ettersyn. Kunngjøringen skal beskrive området forslaget omfatter og gi en rimelig frist for uttalelse som ikke må settes kortere enn 6 uker fra kunngjøringen. Såvidt mulig bør grunneiere og rettighetshavere underrettes ved brev.\nI samband med kunngjøringen skal saken legges fram for fylkeskommunen og berørte statlige fagorganer til uttalelse.\n3. Før vedtak om vern treffes, skal forslaget forelegges kommunestyret. Det kan settes en frist for kommunestyrets uttalelse.\n4. Departementet​5 kan på forhånd treffe vedtak om midlertidig vern inntil saken er avgjort.​6\n0 Endret ved lover 2 juni 1972 nr. 29, 13 juni 1980 nr. 41, 21 april 1989 nr. 17, 27 juni 2008 nr. 71 (i kraft 1 juli 2009 iflg. res. 12 juni 2009 nr. 638).\n1 Jfr. lov 25 sep 1992 nr. 107.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Lov 27 juni 2008 nr. 71.\n4 Jfr. lov 11 okt 1946 nr. 1.\n5 Miljøverndepartementet.\n6 Jfr. lov 10 feb 1967 § 28. Jfr. § 20 b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "6:19",
+      "chapter": "6",
+      "section": "19",
+      "content": "Vedtak i medhold av kap. II og III og § 18 nr. 4 skal kunngjøres i Norsk Lovtidend​1 og i en eller flere aviser i distriktet.\nVedtaket skal meddeles eieren og brukeren og vedkommende kommuner.\nGjelder vedtaket en eller flere særskilt angitte eiendommer, skal det tinglyses​2 på vedkommende eiendom. I andre tilfelle skal anmerkning om vedtaket etter krav av vedkommende departement​3 noteres på grunnboksbladet​4 for de eiendommer som antas i vesentlig grad å ville bli berørt av vedtaket.\n0 Endret ved lover 2 juni 1972 nr. 29, 20 juni 2003 nr. 45 (i kraft 1 juli 2003 iflg. res. 20 juni 2003 nr. 712).\n1 Se lov 19 juni 1969 nr. 53.\n2 Se lov 7 juni 1935 nr. 2.\n3 Miljøverndepartementet.\n4 Se lov 7 juni 1935 nr. 2 § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "7:20",
+      "chapter": "7",
+      "section": "20",
+      "content": "Eiere av og rettighetshavere i eiendom som blir fredet etter §§ 8, 9 og 11 har i samsvar med reglene i annet og tredje ledd krav på erstatning av staten for økonomisk tap som er en følge av vedtaket.\nErstatningen fastsettes i samsvar med reglene i lov 6. april 1984 nr. 17 om vederlag ved oreigning av fast eiendom. Ved anvendelsen av nevnte lov § 10 er det tidspunktet for fredningen som skal legges til grunn.\nBlir det ved erstatningens utmåling tatt hensyn til påregnelige fremtidige bruksendringer, skal det ved erstatningsfastsettingen ses bort fra offentlige tilskudd som i tilfelle gis til bruksomleggingen.\n0 Endret ved lov 15 feb 1985 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "7:20 a",
+      "chapter": "7",
+      "section": "20 a",
+      "content": "Krav om erstatning som følge av vedtak etter §§ 8, 9 og 11 må settes fram skriftlig for fylkesmannen innen ett år etter at vedtaket ble kunngjort. Departementet​1 kan forlenge denne fristen, og kan også gi oppfriskning for oversittelse av fristen. Reglene i tvisteloven​2 §§ 16-12 til 16-14 gjelder her så langt de passer. Fremsettelsen av kravet avbryter foreldelse etter lov 18. mai 1979 nr. 18.\nBlir partene ikke enige om hvilken erstatning som skal gis, avgjøres spørsmålet ved rettslig skjønn.​3 Skjønnet begjæres av staten. Dette skal gjøres senest 6 måneder etter at fristen i første ledd er løpt ut. Lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker § 54 tredje ledd gjelder tilsvarende.\n0 Tilføyd ved lov 15 feb 1985 nr. 2, endret ved lov 17 juni 2005 nr. 90 (i kraft 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Miljøverndepartementet.\n2 Lov 17 juni 2005 nr. 90 (tvl.).\n3 Se lov 1 juni 1917 nr. 1 (skjl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20a",
+        "source_heading": "§ 20 a."
+      }
+    },
+    {
+      "provision_ref": "7:20 b",
+      "chapter": "7",
+      "section": "20 b",
+      "content": "Økonomisk tap som følge av vedtak etter §§ 3, 5 og 18 nr. 4 i denne lov kan i samsvar med alminnelige rettsgrunnsetninger kreves erstattet av staten. Med mindre annet blir avtalt, avgjøres spørsmålet ved rettslig skjønn​1 etter begjæring av en av partene innen ett år etter at vedtaket er kunngjort. Departementet​2 kan forlenge fristen. Reglene i tvisteloven​3 §§ 16-12 til 16-14 gjelder så langt de passer.\n0 Tilføyd ved lov 15 feb 1985 nr. 2, endret ved lover 20 juni 2003 nr. 45 (i kraft 1 juli 2003 iflg. res. 20 juni 2003 nr. 712), 17 juni 2005 nr. 90 (i kraft 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Jfr. lov 1 juni 1917 nr. 1 (skjl.).\n2 Miljøverndepartementet.\n3 Lov 17 juni 2005 nr. 90 (tvl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20b",
+        "source_heading": "§ 20 b."
+      }
+    },
+    {
+      "provision_ref": "7:20 c",
+      "chapter": "7",
+      "section": "20 c",
+      "content": "Når en eiendom som helt eller delvis omfattes av vedtak etter denne lov ikke lenger kan utnyttes på regningssvarende måte, kan eieren kreve den innløst av staten. Med mindre annet blir avtalt, avgjøres spørsmålet om vilkårene for innløsning er til stede ved rettslig skjønn som fastsetter erstatningen. Begjæring om rettslig skjønn​1 må settes fram innen ett år etter at vedtaket om vern er kunngjort. Tredje og fjerde punktum i § 20 b gjelder tilsvarende.\n0 Tilføyd ved lov 15 feb 1985 nr. 2.\n1 Jfr. lov 1 juni 1917 nr. 1 (skjl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20c",
+        "source_heading": "§ 20 c."
+      }
+    },
+    {
+      "provision_ref": "8:21",
+      "chapter": "8",
+      "section": "21",
+      "content": "Kongen​1 gir bestemmelser om merking av fredninger m.v. i medhold av kap. II og III og om nødvendige tiltak for å beskytte vedkommende område, art eller forekomst.\n1 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987 nr. 572. Iflg. res. 25 okt 1996 nr. 1008 delegert til Miljøverndepartementet hva gjelder myndighet til å endre hvem som skal ha ansvar for forvaltningen av vernede objekter og områder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "8:22",
+      "chapter": "8",
+      "section": "22",
+      "content": "I landskapsvernområder,​1 naturreservater,​2 naturminne​3 og områder som omfattes av forbud etter § 9, kan Kongen​4 forby enhver ferdsel​5 hele året eller en del av året når det anses nødvendig for å bevare plante- eller dyrelivet eller geologiske forekomster.\nI nasjonalparker​6 kan Kongen​4 på samme måte forby motorisert ferdsel​7 og kan også innenfor nærmere avgrensede områder regulere andre former for ferdsel når hensynet til naturmiljøet og de forhold som er nevnt i første ledd særlig taler for det.\nBestemmelsene gjelder ikke ferdsel som skjer i politi-, brannvern-, ambulanse- eller sikringsøyemed.\n0 Endret ved lover 2 juni 1972 nr. 29, 8 mai 1981 nr. 17.\n1 Se §§ 5 til 7.\n2 Se §§ 8 til 10.\n3 Se §§ 11 til 12.\n4 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987 nr. 572.\n5 Jfr. § 24 og lov 28 juni 1957 nr. 16 kap. I og II.\n6 Se §§ 3 til 4.\n7 Jfr. også lov 10 juni 1977 nr. 82.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "8:23",
+      "chapter": "8",
+      "section": "23",
+      "content": "Kongen​1 kan gjøre unntak fra vedtak om verne- og fredningsbestemmelser for bestemte institusjoner eller for bestemte personer når det gjelder vitenskapelige undersøkelser og arbeider eller tiltak av vesentlig samfunnsmessig betydning, eller når formålet med fredningen krever det.\n1 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987 nr. 572, fylkesmannen iflg. res. 26 aug 1983 nr. 1385.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "8:24",
+      "chapter": "8",
+      "section": "24",
+      "content": "Den som forsettlig eller uaktsomt overtrer forbudsbestemmelser gitt i medhold av denne lov, eller § 15, eller som medvirker til det, straffes med bøter​1 eller fengsel​2 i inntil 1 år. Under særdeles skjerpende omstendigheter kan fengsel i inntil 2 år​3 anvendes.​4\nOvertredelse anses som en forseelse.​5\nForsøk er straffbart.​6\n0 Endret ved lover 26 jan 1973 nr. 2, 13 mars 1981 nr. 6, 25 aug 1995 nr. 59.\n1 Jfr. lov 22 mai 1902 nr. 10 (strl.) § 27 og kap. 3 a; strl. 2005 kap. 4 og kap. 9.\n2 Jfr. strl. § 26 a ; strl. 2005 kap. 6 og kap. 9.\n3 Jfr. strl. § 67; strl. 2005 kap. 15.\n4 Jfr. strl. § 152 b.\n5 Jfr. strl. § 2 (2).\n6 Jfr. strl. kap. 4; strl. 2005 § 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "8:25",
+      "chapter": "8",
+      "section": "25",
+      "content": "Denne lov trer i kraft 1 juli 1970, dog slik at § 2 trer i kraft først fra den tid Kongen bestemmer.​1\nFra samme tid oppheves lov om naturvern av 1 desember 1954.\nVedtak truffet i medhold av lov om naturvern av 1 desember 1954 skal fortsatt gjelde så langt de ikke strider mot bestemmelser gitt i eller i medhold av denne lov.\n1 Se note til § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Naturen er en nasjonalverdi som må vernes.\nNaturvern er å disponere naturressursene ut fra hensynet til den nære samhørighet mellom mennesket og naturen, og til at naturens kvalitet skal bevares for fremtiden.\nEnhver skal vise hensyn og varsomhet i omgang med naturen.​1\nInngrep i naturen bør bare foretas ut fra en langsiktig og allsidig ressursdisponering som tar hensyn til at naturen i fremtiden bevares som grunnlag for menneskenes virksomhet, helse og trivsel.​2\n1 Jfr. bl.a. lov 28 juni 1957 nr. 16 § 11 og lov 29 mai 1981 nr. 38 § 3.\n2 Jfr. Grl. § 110 b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Den som planlegger større arbeider, anlegg eller virksomhet som vil medføre vesentlig endring av landskapets karakter eller vesentlig skade på naturmiljøet for øvrig, skal før de iverksettes, forelegge saken til uttalelse for vedkommende myndighet etter denne lov. Når utbygging, anlegg eller annen virksomhet må medføre skade på landskapet eller naturmiljøet for øvrig, må det gjennomføres tiltak for å begrense eller motvirke skaden i rimelig utstrekning.\nKongen gir nærmere forskrifter​2 om gjennomføring av disse bestemmelser, herunder regler om hvilke arbeider, anlegg eller virksomheter som omfattes av bestemmelsene og frist for vedkommende myndighet til å avgi uttalelse. Forskriften kan omfatte forbud​3 mot igangsetting av arbeider, anlegg eller virksomhet som nevnt, før vedkommende myndighet har gitt uttalelse.\nAntas det at arbeider, anlegg eller virksomhet som nevnt i første ledd vil medføre vesentlig skade for naturvitenskapelige verdier, kan Kongen bestemme at det innen en nærmere fastsatt frist skal utføres naturvitenskapelige undersøkelser før vedkommende arbeid, anlegg eller virksomhet settes i gang og at utgiftene til dette i rimelig utstrekning dekkes av arbeidsherren eller de som har ansvaret for virksomheten.\n1 Ikke i kraft, se § 25. Se lov 14 juni 1985 nr. 77 § 16-2 og kap. VII-a.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Jfr. § 24.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "For å bevare større urørte eller i det vesentlige urørte eller egenartede eller vakre naturområder kan arealer av statens grunn​1 legges ut som nasjonalpark. Grunn av samme art som ikke er i statens eie, og som ligger i eller grenser inntil arealer som nevnt i første punktum, kan legges ut som nasjonalpark sammen med statens grunn.​2\nI nasjonalparker skal naturmiljøet vernes. Landskapet med planter, dyreliv og natur- og kulturminner​3 skal vernes mot utbygging, anlegg, forurensninger​4 og andre inngrep.\n1 Jfr. herunder lover 6 juni 1975 nr. 31, 19 juni 1992 nr. 60.\n2 Jfr. § 20 b.\n3 Jfr. lov 9 juni 1978 nr. 50.\n4 Jfr. lov 13 mars 1981 nr. 6 § 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Vedtak​1 om å legge ut et område til nasjonalpark treffes av Kongen​2 som gir nærmere bestemmelser​3 om området og dets skjøtsel, herunder om fredning av plante- og dyrelivet.​4\n1 Jfr. § 18 og § 19.\n2 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987 nr. 572, fylkesmannen hva angår skjøtsel, se res. 26 aug 1983 nr. 1385. Iflg. res. 25 okt 1996 nr. 1008 delegert til Miljøverndepartementet hva gjelder myndighet til å endre hvem som skal ha ansvar for forvaltningen av vernede objekter og områder.\n3 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n4 Jfr. kap. VIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "For å bevare egenartet eller vakkert natur- eller kulturlandskap kan arealer legges ut som landskapsvernområde.​1 I landskapsvernområde må det ikke iverksettes tiltak som vesentlig kan endre landskapets art eller karakter. Fylkesmannen avgjør i tvilstilfelle om et tiltak må anses å ville endre landskapets art eller karakter vesentlig.\n1 Jfr. § 20 b. Jfr. også lov 9 juni 1978 nr. 50 § 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "content": "Vedtak​1 om å legge ut et areal som landskapsvernområde treffes av Kongen,​2 som kan fastsette nærmere bestemmelser​2 om området, dets skjøtsel og bruken av det.​3\n1 Se § 18 og § 19.\n2 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987 nr. 572, fylkesmannen hva angår skjøtsel, se res. 26 aug 1983 nr. 1385. Iflg. res. 25 okt 1996 nr. 1008 delegert til Miljøverndepartementet hva gjelder myndighet til å endre hvem som skal ha ansvar for forvaltningen av vernede objekter og områder.\n3 Jfr. kap. VIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "content": "Bestemmelsene i §§ 5 og 6 gjelder ikke områder som omfattes av reguleringsplan etter plan- og bygningsloven.​1\n0 Endret ved lov 14 juni 1985 nr. 77.\n1 Lov 14 juni 1985 nr. 77 kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "content": "Område som har urørt, eller tilnærmet urørt natur eller utgjør spesiell naturtype og som har særskilt vitenskapelig eller pedagogisk betydning eller som skiller seg ut ved sin egenart, kan fredes som naturreservat. Et område kan totalfredes eller fredes for bestemte formål som skogreservat, myrreservat, fuglereservat eller liknende.​1\n1 Jfr. § 20 og § 20 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "content": "I område som har vesentlig betydning for planter eller dyr som blir fredet i medhold av § 13 eller § 14, kan utbygging, anlegg, forurensninger​1 og andre inngrep forbys​2 for å bevare deres livsmiljø.​3\nDet samme gjelder område for planter eller dyr som er eller blir fredet i eller i medhold av annen lovgivning.​4\n0 Endret ved lover 18 juni 1971 nr. 91, 2 juni 1972 nr. 29.\n1 Jfr. lov 13 mars 1981 nr. 6 § 6.\n2 Jfr. § 24.\n3 Jfr. § 20 og § 20 a.\n4 Jfr. lov 29 mai 1981 nr. 38 § 3 og § 7, lov 15 mai 1992 nr. 47 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "content": "Vedtak​1 i medhold av §§ 8, og 9 treffes av Kongen​2 som kan fastsette nærmere bestemmelser om områdene og deres skjøtsel.​3\n1 Se § 18 og § 19.\n2 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987 nr. 572, fylkesmannen hva angår skjøtsel, se res. 26 aug 1983 nr. 1385. Iflg. res. 25 okt 1996 nr. 1008 delegert til Miljøverndepartementet hva gjelder myndighet til å endre hvem som skal ha ansvar for forvaltningen av vernede objekter og områder.\n3 Jfr. kap. VIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "content": "Geologiske, botaniske og zoologiske forekomster som har vitenskapelig eller historisk interesse eller som er særpregede, kan fredes som naturminne.​1\nArealer omkring forekomsten kan fredes sammen med den som naturminne når det anses nødvendig for å verne den.\nBestemmelsene i første og annet ledd gjelder tilsvarende for fosser og andre deler av vassdrag.​2\n1 Jfr. § 20 og 20 a. Jfr. også lov 9 juni 1978 nr. 50 § 4, § 6 og § 19.\n2 Jfr. § 11 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "11 a",
+      "section": "11 a",
+      "content": "Kongen kan treffe vedtak om vern etter loven her av et vassdrag som er vernet mot kraftutbygging, jf vannressursloven​1 § 32, eller del av det med den nærmeste strandsonen. I vedtaket fastsettes nærmere bestemmelser om vernet og om skjøtsel av vassdraget.​2\n0 Tilføyd ved lov 24 nov 2000 nr. 82 (i kraft 1 jan 2001 iflg. res. 24 nov 2000 nr. 1169).\n1 Lov 24 nov 2000 nr. 82.\n2 Jfr. kap. VIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11a",
+        "source_heading": "§ 11 a."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "content": "Vedtak​1 i medhold av § 11 treffes av Kongen​2 som fastsetter nærmere bestemmelser om gjennomføring av fredningen og naturminnets skjøtsel.​3\n1 Se § 18 og § 19.\n2 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987, fylkesmannen hva angår skjøtsel, se res. 26 aug 1983 nr. 1385. Iflg. res. 25 okt 1996 nr. 1008 delegert til Miljøverndepartementet hva gjelder myndighet til å endre hvem som skal ha ansvar for forvaltningen av vernede objekter og områder.\n3 Jfr. kap. VIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "content": "Kongen​1 kan gjøre vedtak​2 om at viltvoksende plantearter eller plantesamfunn som er sjeldne eller står i fare for å forsvinne, fredes i hele landet eller i bestemte områder.​3\n1 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987 nr. 572.\n2 Se § 18 og § 19.\n3 Jfr. kap. VIII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "content": "Kongen​1 kan gjøre vedtak om at dyrearter eller dyresamfunn som er sjeldne eller står i fare for å forsvinne, fredes i hele landet eller i bestemte områder.\nI et område som har særlig betydning som tilholdssted for en rekke arter kan pattedyr og fugler fredes.\nVedtak i medhold av første og annet ledd​2 gjelder også artenes hi, reir og egg.​3\nFredningen kan tidsbegrenses.\n1 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987 nr. 572.\n2 Se § 18 og § 19.\n3 Jfr. kap. VIII. Jfr. også lov 29 mai 1981 nr. 38 § 3 og § 7, og lov 15 mai 1992 nr. 47 § 7 (2).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "content": "Frittstående reklameskilt eller reklameinnretning eller innskrift, tegning eller innretning på hus, trær, berg, stein o.l. i reklameøyemed må ikke anbringes utenfor tettbygd strøk. I særlige tilfelle kan fylkesmannen på nærmere vilkår gjøre unntak fra denne bestemmelse etter uttalelse fra vedkommende kommune.​2 Fylkesmannen avgjør i tvilstilfelle hva som er tettbygd strøk.\nForbudet gjelder ikke skilt m.v. som angir en bedrifts navn og art, samt reklame for varer bedriften forhandler og som settes opp på bedriftsområdet.\n1 Se § 24.\n2 Jfr. også lover 21 juni 1963 nr. 23 § 33 og 14 juni 1985 nr. 77 § 107.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 13 mars 1981 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 8 juni 1990 nr. 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "6:18",
+      "chapter": "6",
+      "section": "18",
+      "content": "1. Når et arbeid med vern etter denne lov starter opp skal det tas kontakt med berørte fylkeskommuner og kommuner​1 for å drøfte avgrensing av området, innhold i vernebestemmelser, spørsmål om samtidig oppstart av kommunalt eller regionalt planarbeid og spørsmål for øvrig av betydning for kommunens og fylkeskommunens planarbeid. Kongen kan gi forskrift​2 om samordnet behandling av planer etter plan- og bygningsloven​3 og vern etter denne lov.\nVernemyndigheten skal kunngjøre en melding, som regel i minst 2 aviser som er alminnelig lest på stedet, der det gjøres rede for det påtenkte vernetiltak og de følger det antas å få. Såvidt mulig bør grunneiere og rettighetshavere underrettes ved brev og gis en rimelig frist for å komme med merknader før forslag utformes.\nPå et tidlig tidspunkt i forberedelse av vernetiltaket skal det søkes samarbeid med offentlige myndigheter, organisasjoner m.v. som har særlig interesse i tiltaket.\n2. Når verneforslaget er utarbeidet skal det kunngjøres i Norsk Lysningsblad​4 og i minst 2 aviser som er alminnelig lest på stedet at forslag om vern er utlagt til offentlig ettersyn. Kunngjøringen skal beskrive området forslaget omfatter og gi en rimelig frist for uttalelse som ikke må settes kortere enn 6 uker fra kunngjøringen. Såvidt mulig bør grunneiere og rettighetshavere underrettes ved brev.\nI samband med kunngjøringen skal saken legges fram for fylkeskommunen og berørte statlige fagorganer til uttalelse.\n3. Før vedtak om vern treffes, skal forslaget forelegges kommunestyret. Det kan settes en frist for kommunestyrets uttalelse.\n4. Departementet​5 kan på forhånd treffe vedtak om midlertidig vern inntil saken er avgjort.​6\n0 Endret ved lover 2 juni 1972 nr. 29, 13 juni 1980 nr. 41, 21 april 1989 nr. 17, 27 juni 2008 nr. 71 (i kraft 1 juli 2009 iflg. res. 12 juni 2009 nr. 638).\n1 Jfr. lov 25 sep 1992 nr. 107.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Lov 27 juni 2008 nr. 71.\n4 Jfr. lov 11 okt 1946 nr. 1.\n5 Miljøverndepartementet.\n6 Jfr. lov 10 feb 1967 § 28. Jfr. § 20 b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "6:19",
+      "chapter": "6",
+      "section": "19",
+      "content": "Vedtak i medhold av kap. II og III og § 18 nr. 4 skal kunngjøres i Norsk Lovtidend​1 og i en eller flere aviser i distriktet.\nVedtaket skal meddeles eieren og brukeren og vedkommende kommuner.\nGjelder vedtaket en eller flere særskilt angitte eiendommer, skal det tinglyses​2 på vedkommende eiendom. I andre tilfelle skal anmerkning om vedtaket etter krav av vedkommende departement​3 noteres på grunnboksbladet​4 for de eiendommer som antas i vesentlig grad å ville bli berørt av vedtaket.\n0 Endret ved lover 2 juni 1972 nr. 29, 20 juni 2003 nr. 45 (i kraft 1 juli 2003 iflg. res. 20 juni 2003 nr. 712).\n1 Se lov 19 juni 1969 nr. 53.\n2 Se lov 7 juni 1935 nr. 2.\n3 Miljøverndepartementet.\n4 Se lov 7 juni 1935 nr. 2 § 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "7:20",
+      "chapter": "7",
+      "section": "20",
+      "content": "Eiere av og rettighetshavere i eiendom som blir fredet etter §§ 8, 9 og 11 har i samsvar med reglene i annet og tredje ledd krav på erstatning av staten for økonomisk tap som er en følge av vedtaket.\nErstatningen fastsettes i samsvar med reglene i lov 6. april 1984 nr. 17 om vederlag ved oreigning av fast eiendom. Ved anvendelsen av nevnte lov § 10 er det tidspunktet for fredningen som skal legges til grunn.\nBlir det ved erstatningens utmåling tatt hensyn til påregnelige fremtidige bruksendringer, skal det ved erstatningsfastsettingen ses bort fra offentlige tilskudd som i tilfelle gis til bruksomleggingen.\n0 Endret ved lov 15 feb 1985 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "7:20 a",
+      "chapter": "7",
+      "section": "20 a",
+      "content": "Krav om erstatning som følge av vedtak etter §§ 8, 9 og 11 må settes fram skriftlig for fylkesmannen innen ett år etter at vedtaket ble kunngjort. Departementet​1 kan forlenge denne fristen, og kan også gi oppfriskning for oversittelse av fristen. Reglene i tvisteloven​2 §§ 16-12 til 16-14 gjelder her så langt de passer. Fremsettelsen av kravet avbryter foreldelse etter lov 18. mai 1979 nr. 18.\nBlir partene ikke enige om hvilken erstatning som skal gis, avgjøres spørsmålet ved rettslig skjønn.​3 Skjønnet begjæres av staten. Dette skal gjøres senest 6 måneder etter at fristen i første ledd er løpt ut. Lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker § 54 tredje ledd gjelder tilsvarende.\n0 Tilføyd ved lov 15 feb 1985 nr. 2, endret ved lov 17 juni 2005 nr. 90 (i kraft 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Miljøverndepartementet.\n2 Lov 17 juni 2005 nr. 90 (tvl.).\n3 Se lov 1 juni 1917 nr. 1 (skjl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20a",
+        "source_heading": "§ 20 a."
+      }
+    },
+    {
+      "provision_ref": "7:20 b",
+      "chapter": "7",
+      "section": "20 b",
+      "content": "Økonomisk tap som følge av vedtak etter §§ 3, 5 og 18 nr. 4 i denne lov kan i samsvar med alminnelige rettsgrunnsetninger kreves erstattet av staten. Med mindre annet blir avtalt, avgjøres spørsmålet ved rettslig skjønn​1 etter begjæring av en av partene innen ett år etter at vedtaket er kunngjort. Departementet​2 kan forlenge fristen. Reglene i tvisteloven​3 §§ 16-12 til 16-14 gjelder så langt de passer.\n0 Tilføyd ved lov 15 feb 1985 nr. 2, endret ved lover 20 juni 2003 nr. 45 (i kraft 1 juli 2003 iflg. res. 20 juni 2003 nr. 712), 17 juni 2005 nr. 90 (i kraft 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Jfr. lov 1 juni 1917 nr. 1 (skjl.).\n2 Miljøverndepartementet.\n3 Lov 17 juni 2005 nr. 90 (tvl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20b",
+        "source_heading": "§ 20 b."
+      }
+    },
+    {
+      "provision_ref": "7:20 c",
+      "chapter": "7",
+      "section": "20 c",
+      "content": "Når en eiendom som helt eller delvis omfattes av vedtak etter denne lov ikke lenger kan utnyttes på regningssvarende måte, kan eieren kreve den innløst av staten. Med mindre annet blir avtalt, avgjøres spørsmålet om vilkårene for innløsning er til stede ved rettslig skjønn som fastsetter erstatningen. Begjæring om rettslig skjønn​1 må settes fram innen ett år etter at vedtaket om vern er kunngjort. Tredje og fjerde punktum i § 20 b gjelder tilsvarende.\n0 Tilføyd ved lov 15 feb 1985 nr. 2.\n1 Jfr. lov 1 juni 1917 nr. 1 (skjl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20c",
+        "source_heading": "§ 20 c."
+      }
+    },
+    {
+      "provision_ref": "8:21",
+      "chapter": "8",
+      "section": "21",
+      "content": "Kongen​1 gir bestemmelser om merking av fredninger m.v. i medhold av kap. II og III og om nødvendige tiltak for å beskytte vedkommende område, art eller forekomst.\n1 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987 nr. 572. Iflg. res. 25 okt 1996 nr. 1008 delegert til Miljøverndepartementet hva gjelder myndighet til å endre hvem som skal ha ansvar for forvaltningen av vernede objekter og områder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "8:22",
+      "chapter": "8",
+      "section": "22",
+      "content": "I landskapsvernområder,​1 naturreservater,​2 naturminne​3 og områder som omfattes av forbud etter § 9, kan Kongen​4 forby enhver ferdsel​5 hele året eller en del av året når det anses nødvendig for å bevare plante- eller dyrelivet eller geologiske forekomster.\nI nasjonalparker​6 kan Kongen​4 på samme måte forby motorisert ferdsel​7 og kan også innenfor nærmere avgrensede områder regulere andre former for ferdsel når hensynet til naturmiljøet og de forhold som er nevnt i første ledd særlig taler for det.\nBestemmelsene gjelder ikke ferdsel som skjer i politi-, brannvern-, ambulanse- eller sikringsøyemed.\n0 Endret ved lover 2 juni 1972 nr. 29, 8 mai 1981 nr. 17.\n1 Se §§ 5 til 7.\n2 Se §§ 8 til 10.\n3 Se §§ 11 til 12.\n4 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987 nr. 572.\n5 Jfr. § 24 og lov 28 juni 1957 nr. 16 kap. I og II.\n6 Se §§ 3 til 4.\n7 Jfr. også lov 10 juni 1977 nr. 82.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "8:23",
+      "chapter": "8",
+      "section": "23",
+      "content": "Kongen​1 kan gjøre unntak fra vedtak om verne- og fredningsbestemmelser for bestemte institusjoner eller for bestemte personer når det gjelder vitenskapelige undersøkelser og arbeider eller tiltak av vesentlig samfunnsmessig betydning, eller når formålet med fredningen krever det.\n1 Delvis delegert Miljøverndepartementet, se res. 3 juli 1987 nr. 572, fylkesmannen iflg. res. 26 aug 1983 nr. 1385.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "8:24",
+      "chapter": "8",
+      "section": "24",
+      "content": "Den som forsettlig eller uaktsomt overtrer forbudsbestemmelser gitt i medhold av denne lov, eller § 15, eller som medvirker til det, straffes med bøter​1 eller fengsel​2 i inntil 1 år. Under særdeles skjerpende omstendigheter kan fengsel i inntil 2 år​3 anvendes.​4\nOvertredelse anses som en forseelse.​5\nForsøk er straffbart.​6\n0 Endret ved lover 26 jan 1973 nr. 2, 13 mars 1981 nr. 6, 25 aug 1995 nr. 59.\n1 Jfr. lov 22 mai 1902 nr. 10 (strl.) § 27 og kap. 3 a; strl. 2005 kap. 4 og kap. 9.\n2 Jfr. strl. § 26 a ; strl. 2005 kap. 6 og kap. 9.\n3 Jfr. strl. § 67; strl. 2005 kap. 15.\n4 Jfr. strl. § 152 b.\n5 Jfr. strl. § 2 (2).\n6 Jfr. strl. kap. 4; strl. 2005 § 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "8:25",
+      "chapter": "8",
+      "section": "25",
+      "content": "Denne lov trer i kraft 1 juli 1970, dog slik at § 2 trer i kraft først fra den tid Kongen bestemmer.​1\nFra samme tid oppheves lov om naturvern av 1 desember 1954.\nVedtak truffet i medhold av lov om naturvern av 1 desember 1954 skal fortsatt gjelde så langt de ikke strider mot bestemmelser gitt i eller i medhold av denne lov.\n1 Se note til § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    }
+  ]
+}

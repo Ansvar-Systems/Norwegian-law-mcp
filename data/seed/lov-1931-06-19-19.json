@@ -1,0 +1,607 @@
+{
+  "id": "LOV-1931-06-19-19",
+  "type": "statute",
+  "title": "Lov om børser",
+  "short_name": "Børsloven",
+  "status": "in_force",
+  "issued_date": "1931-06-19",
+  "in_force_date": "1931-06-19",
+  "url": "https://lovdata.no/dokument/NLO/lov/1931-06-19-19",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "En børs er en institusjon under det offentliges tilsyn, som har til oppgave:\na. å være et samlingssted for de næringsdrivende, hvor de kan drøfte eller avgjøre forretningsanliggender og orientere sig med hensyn til markeds- og prisforhold,\nb. ved offisielle noteringer foretatt på børsen å søke tilveiebragt en pålitelig oversikt over prisforholdene,\nc. når forholdene måtte ligge til rette derfor, å avholde børsmøter til bestemte tider til konsentrasjon av tilbud og efterspørsel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Børs kan kun oprettes ved bestemmelse av Kongen​1 og kun i rikets byer. Ingen by kan ha mer enn én børs.\nDe i henhold til denne lov bestående eller oprettede børser er eneberettiget til navnet «børs». Den som i strid med denne bestemmelse benytter betegnelsen «børs», enten alene eller i sammensetning, straffes med bøter.\n1 Finansdepartementet iflg res 19 juni 1987 nr 543 (tidl Handelsdepartementet iflg res 23 sept 1960).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Medlem av børsen er enhver som betaler årlig børskontingent i henhold til § 15, punkt c og d.\nAdgangsberettiget til børsmøtene og til børsens leseværelse og bibliotek er alle medlemmer av børsen. På anmodning kan børskommissæren​1 tilstå også andre leilighetsvis adgang.\n1 Se § 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Enhver børs skal ha en børskomité. Børskomitéen består av en børskommissær og 4 oppnevnte medlemmer med personlige varamenn. Ved børser hvor det foregår kursnotering på verdipapirer, skal det være 5 oppnevnte medlemmer med personlige varamenn.\nOppnevnte medlemmer av børskomitéen og deres varamenn skal representere henholdsvis handel, sjøfart, industri og bank- eller finansvesen. Medlemmene må være medlemmer av børsen og næringsdrivende eller ansatte innen den næring medlemmene representerer. Børskomitéer med 5 oppnevnte medlemmer skal dessuten som medlem ha en representant for kursnoteringsutvalget for verdipapirer. Dette medlem og dets personlige varamann må være leder av eller ansatt i autorisert meglerfirma eller banks fondsavdeling.\nOppnevnelsen av medlemmer med varamenn foretas av vedkommende departement​2 hvert annet år i desember måned og omfatter 2 medlemmer og 2 varamenn med funksjonstid de 4 påfølgende kalenderår. Første gangs oppnevnelse gjelder samtlige medlemmer med varamenn. Av disse trer 2 medlemmer utpekt ved loddtrekning og deres varamenn ut etter 2 år. Ved børser med fondsbørs blir representanten for kursnoteringsutvalget for verdipapirer og hans varamann oppnevnt for 4 år om gangen.\nNår oppnevnelsen etter tredje ledd skal skje, skal vedkommende bystyre innen utgangen av november måned avgi forslag til departementet, etter at det på forhånd har gitt stedets handelskammer eller, hvor handelskammer ikke finnes, stedets handelsstandsforening anledning til å fremkomme med forslag i saken. Når forslaget foreligger, kan bystyret ved sakens innsendelse til departementet enten tiltre dette eller avgi sitt selvstendige forslag.\nOpphører et oppnevnt medlem av børskomitéen under sin funksjonstid å være medlem av børsen, bortfaller hans mandat og hans varamann trer i hans sted for den gjenværende del av perioden.\nVervet som oppnevnt medlem av børskomitéen er ulønt.\n1 Endret ved lov 11 juni 1971 nr 59.\n2 Finansdepartementet iflg res 19 juni 1987 nr 543.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Børskomitéen velger blant de oppnevnte medlemmer sin formann og nestformann.\nBørskomitéen har ledelsen av alle børsens anliggender, påser at børsvirksomheten foregår overensstemmende med denne lov, det lokale næringslivs behov og god forretningsskikk, og er ansvarlig for forvaltningen av børsens midler og for at børsens utgifter avpasses efter dens inntekter.\nOver forhandlingene i børskomitéens møter føres der protokoll.\n1 Endret ved lov 11 juni 1971 nr 59.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "Børskommissæren, som skal være handelskyndig, beskikkes og avskjediges av Kongen​2 etter at det er innhentet uttalelse fra de oppnevnte medlemmer av børskomitéen. Hans lønn utredes av børskassen etter fastsettelse av børskomitéen.\nBørskommissæren representerer børskomitéen i den daglige virksomhet og er tillike statens tillitsmann ved børsen. Han har å lede børsens administrasjon og å føre det daglige tilsyn med børsvirksomheten, børsens tjenestemenn og børsens lokaler. Han utøver politimyndighet på børsen​3 og er dennes regnskapsfører og oppebørselsbetjent.\nVedkommende regjeringsdepartement fastsetter, efter at børskomitéens uttalelse er innhentet, nærmere instruks for stillingen.\n1 Endret ved lover 11 juni 1971 nr 59, 23 des 1983 nr 84.\n2 Finansdepartementet iflg res 19 juni 1987 nr 543 (tidl Handelsdepartementet iflg res 23 sept 1960).\n3 Jfr. strl. § 350.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "Børskomitéen ansetter og avskjediger de til børsens drift nødvendige tjenestemenn, fastsetter deres lønn og utferdiger instruks for dem.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "content": "I den utstrekning børsens midler tillater det, skal børskomitéen sørge for gjennom en etter de børsbesøkende og det lokale omsetningslivs behov avpasset informasjonstjeneste å fremskaffe regelmessige og så inngående opplysninger som mulig om pris-, frakt- og andre markedsforhold i inn- og utland. Disse opplysninger skal ved oppslag eller på annen hensiktsmessig måte hurtigst mulig gjøres tilgjengelige for de børsbesøkende.\nUnder de samme forutsetninger skal børskomitéen sørge for, at børsen i egen eller leiet bygning råder over tilstrekkelige kontor- og forsamlingsrum og over leseværelse med bibliotek.\n1 Endret ved lov 11 juni 1971 nr 59.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "content": "Børskomitéen kan forlange at tollkassereren i vedkommende by daglig gir børsen oppgave over de ved tollstedet til inn- og utførsel angitte varer. Oppgaven gis etter skjema fastsatt av vedkommende departement.\nKongen​2 bestemmer, hvilken godtgjørelse børskassen skal erlegge til tollkassereren for dette arbeide.\nOpgaven eller et sammendrag derav besørger børskomitéen i tilfelle straks offentliggjort ved opslag på børsen på den i § 10 foreskrevne måte.\n1 Endret ved lov 11 juni 1971 nr 59.\n2 Finansdepartementet iflg res 19 juni 1987 nr 543 (tidl Handelsdepartementet iflg res 7 okt 1955).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "content": "Børsens offisielle kurs- og prisnoteringer samt eventuelt den i § 9 omhandlede oppgave over inn- og utførsel skal bekjentgjøres ved oppslag på børsen på et for almennheten lett tilgjengelig sted.\nSammesteds skal vederlagsfritt opslåes alle meddelelser som av de offentlige myndigheter måtte bli levert børsen til bekjentgjørelse, samt, efter å være forevist børskommissæren og ved påtegning godtatt av ham, efterretninger for næringsdrivende eller andre meddelelser av interesse for børsen, handel, industri eller sjøfart.\n1 Endret ved lov 11 juni 1971 nr 59.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "Børskomitéen bestemmer tiden for børsmøters avholdelse og fastsetter de nødvendige ordensforskrifter for disse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "content": "I den utstrekning som børskomitéen bestemmer, skal der på børsen foretas offisielle kurs- og prisnoteringer. For disse noteringer fastsetter børskomitéen reglement.​1\nBørsens offisielle kurs- og prisnoteringer skal gi et korrekt uttrykk for det lokale markeds stilling.\nBørskomitéen sørger for, at resultatet av de offisielle noteringer straks blir bekjentgjort ved opslag på børsen på den i § 10 foreskrevne måte.\nTerminforretninger må ikke foregå på børsen og heller ikke optas til notering der, så lenge departementet ikke har gitt særskilt samtykke dertil og fastsatt nærmere forskrifter for sådan handel.\n1 Se § 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:12 a",
+      "chapter": "3",
+      "section": "12 a",
+      "content": "I reglement etter § 12 første ledd annet punktum kan foretak som har verdipapirer børsnotert, og fondsmeglere med sete på børsen pålegges plikt til å holde børsen, aksjeeierne og almenheten orientert om foretakets stilling, virksomhet, tilbud om fusjon eller oppkjøp av aksjer og andre forhold som kan ha betydning for kursfastsettelsen på vedkommende verdipapir. Herunder kan kreves opplysninger som børsen finner påkrevet for å skjøtte sin kontroll- og informasjonsoppgave i verdipapirhandelen. Det kan gis nærmere regler om innholdet av opplysningene og om hvordan de skal gis.\n1 Tilføyd ved lov 23 des 1983 nr 84.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12a",
+        "source_heading": "§ 12 A."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "content": "Foretas der på børsen offisiell kursnotering av verdipapirer, bestemmer børskomitéen, hvilke verdipapirer skal kunne optas på noteringslisten. Likeledes fatter børskomitéen bestemmelse om verdipapirers strykning av noteringslisten.\nUtenlandske verdipapirer kan ikke optas på noteringslisten uten samtykke fra vedkommende regjeringsdepartement.\nBørskomitéen kan ved reglementsbestemmelser​2 gjøre optagelsen av verdipapirer på noteringslisten avhengig av, at der av den som har utstedt verdipapirene, erlegges en rimelig årlig noteringsavgift til børsen.\n1 Endret ved lov 19 juni 1969 nr 54, 6 juni 1980 nr 21. – Jf lov 14 aug 1918 nr 5 § 18.\n2 Se § 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "content": "Når børskomitéen har besluttet, at der innen en omsetningsgruppe skal foretas offisielle kurs- eller prisnoteringer, opnevner den til sin bistand ved disses istandbringelse et noteringsutvalg, for varenoteringers vedkommende efter at vedkommende lokale brancheorganisasjon er gitt adgang til å fremkomme med forslag til utvalgets sammensetning.\nNoteringsutvalgets medlemmer skal velges blandt de medlemmer av børsen hvis næringsvirksomhet faller innenfor vedkommende gruppe. Samtlige stedets fonds- og aktiemeglere er medlemmer av noteringsutvalget for verdipapirer.​1\nAndre meglere på stedet skal på anmodning fra børskomitéen være forpliktet til å bistå denne med oplysninger til kurs- og prisnoteringene på grunnlag av de forretninger som de har formidlet. Disse oplysninger meddeles under ansvar som for forklaringer til offentlig myndighet (straffelovens​2 § 166).\nDe offisielle kurs- og prisnoteringer foregår så vidt mulig for åpen børs.\nOver noteringene innen hver gruppe skal der føres protokoll, som hver gang undertegnes av børskomitéen og noteringsutvalget, eller på børskomitéens og noteringsutvalgets vegne av den eller dem som disse hver for sig bemyndiger til det. Ved andre noteringer enn de som gjelder verdipapirer, skal det hver gang angis i protokollen, hvilke av noteringsutvalgets medlemmer har deltatt i noteringen.\n1 Se lov 14 aug 1918 nr 5 § 18.\n2 Lov 22 mai 1902 nr 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "content": "Ved børser hvor det finner sted kursnotering av verdipapirer, kan fonds- og aksjemeglere ved reglementsbestemmelser pålegges en årlig plassavgift.\n1 Endret ved lover 29 juni 1951 nr 18, 11 juni 1971 nr 59, 17 des 1976 nr 97, 6 juni 1980 nr 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "(Opphevet)",
+      "content": "0 Opphevd ved lov 6 juni 1980 nr 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "(Opphevet)",
+      "content": "0 Opphevd ved lov 6 juni 1980 nr 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "content": "Etter at børsens utgifter er dekket, avsettes ved hvert regnskapsårs avslutning det overskytende av inntektene til børsens fond, som skal anbringes på betryggende måte.\nMed vedkommende regjeringsdepartements samtykke kan børskomitéen av børsens midler bevilge passende bidrag til formål som tar sikte på børsvirksomhetens eller det lokale næringslivs fremme. Dog skal det påses, at børsens fond på den måte ikke reduseres mere, enn at der til enhver tid er tilbake et beløp der anses tilstrekkelig som reserve til dekning av mulige regnskapsunderskudd eller uforutsette utgifter.\n1 Endret ved lov 11 juni 1971 nr 59.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "content": "De oppnevnte medlemmer av børskomitéen har med de begrensninger som denne lov fastsetter, disposisjonsretten over børsens aktiver, fører tilsyn med børsens regnskapsførsel og med at inn- og utbetalinger skjer i rett tid. De bestemmer hvor stort beløp av børsens midler børskommissæren til enhver tid skal kunne ha under egen forvaltning, og fastsetter med approbasjon av vedkommende regjeringsdepartement størrelsen, formen og opbevaringsmåten for den sikkerhet som børskommissæren i egenskap av børsens oppebørselsbetjent til enhver tid har å stille.\nBørsens kasse-ekstrakt skal av børskommissæren ved hvert halvårs utløp forelegges børskomitéen til gjennomsyn og underskrift av de oppnevnte medlemmer. Kasse-ekstrakten sendes deretter straks vedkommende departement forsynt med revisors merknader.\n1 Endret ved lov 11 juni 1971 nr 59.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "content": "Børsregnskapenes avslutning finner sted ved hvert kalenderårs utgang. Årsregnskapet tillikemed en årsberetning om børsens virksomhet oversendes til vedkommende regjeringsdepartement innen utgangen av mai måned. Samtidig offentliggjøres regnskapet ved opslag på børsen på den i § 10 foreskrevne måte.\nRegnskapet skal være undertegnet av børskommissæren og de oppnevnte medlemmer av børskomitéen.\n1 Endret ved lov 11 juni 1971 nr 59.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "content": "Børskomitéen kan ved bestemmelser fastsatt ved reglement​1 beslutte oprettelse ved børsen av en voldgiftsrett til pådømmelse av sådanne tvistemål vedrørende handels-, sjøfarts- og assuransespørsmål, som partene måtte bli enige om å innbringe for samme, og gi nærmere regler om voldgiftsrettens sammensetning og virksomhet.​2\nPå samme måte kan der ved børsen anordnes avregningskontor for byens banker og fonds- og aktiemeglere og sakkyndige utvalg til avgivelse av frivillige vareskjønn, prøvetagning og vrakning efter anmodning av interesserte næringsdrivende.\nUtgiftene ved de i denne paragraf omhandlede institusjoner blir, så vidt mulig, å utligne på dem som benytter dem.\n1 Se § 25.\n2 Jfr. rettergangsl. kap. 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "content": "Et medlem av børsen kan ekskluderes fra børsen for et nærmere fastsatt tidsrum eller inntil videre:\n1. Når han har gjort seg skyldig i uredelig adferd, har overtrådt nogen bestemmelse i denne lov eller nogen forskrift fastsatt med hjemmel i samme, eller når han ikke har efterkommet børskommissærens pålegg til oprettholdelse av god orden og ro på børsen.\n2. Når det på grunn av hans økonomiske uvederheftighet anses utilrådelig, at han fortsatt får delta i forhandlingene på børsen.\n3. Når han har åpnet akkordforhandling, har sitt bo under konkursbehandling​2 eller er satt under tiltale for nogen straffbar handling som kan medføre fengselsstraff.\nBlir et medlem av børsen umyndiggjort,​3 inntrer eksklusjon, som gjelder så lenge forholdet vedvarer, og inntil det er funnet forsvarlig pånytt å tilstede ham adgang til børsen.\nAvgjørelser i henhold til de foregående ledd i denne paragraf treffes av børskomitéen eller, hvis saken gjelder noen av dens medlemmer, av vedkommende departement.​4\nSå lenge eksklusjonen står ved makt, ophører vedkommende å være medlem av børsen og eventuelt medlem av børskomitéen. I dette tidsrum er han fritatt for årlig avgift til børsen i henhold til § 15, c og d, medmindre eksklusjonen er tidsbegrenset til mindre enn ett år.\n– – –\nMener børskommissæren at omstendighetene tilsier det, kan han nekte vedkommende medlem adgang til børsen inntil børskomiteen har avgjort spørsmålet om eksklusjon. Herom har da børskommissæren uten ophold å avlegge rapport for børskomitéen.\nNår det gjelder mindre forseelser av den art som omhandlet i denne paragrafs 1. ledd under punkt 1, kan der istedenfor eksklusjon besluttes tildelt vedkommende en advarsel.\nDe i henhold til denne paragraf trufne avgjørelser kan bekjentgjøres ved opslag på børsen.\n1 Endret ved lov 19 juni 1969 nr 54.\n2 Se konkursl. 8 juni 1984 nr 58.\n3 Se lov 28 nov. 1898.\n4 Finansdepartementet iflg res 19 juni 1987 nr 543.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "content": "Kongen​1 kan beslutte ophevelse av en børs:\n1. Når under et av vedkommende regjeringsdepartement med rimelig varsel gjennem opslag på børsen sammenkalt avstemningsmøte av børsens medlemmer minst halvparten av disse har avgitt stemme og med minst to tredjedelers flertall uttalt sig derfor. Møtet ledes av børskommissæren, og avstemningen foregår skriftlig og hemmelig.\n2. Når børsens regnskap i tre på hinannen følgende år utviser underskudd som ikke dekkes av børsens formue.\nFra det tidspunkt en børs er ophevet, opkrever de myndigheter som Kongen bestemmer, i tilfelle de i § 15 omhandlede avgifter til børsen, inntil det underskudd, som ikke dekkes av børsens formue, er betalt. Kongen kan fastsette en godtgjørelse til disse myndigheter for sådan opkrevning.\nDen nettoformue som måtte tilhøre en børs ved dens ophevelse, avsettes til et fond til fremme av byens næringsliv på handelens, industriens og sjøfartens område. Av fondets midler kan der også ydes bidrag til pensjonering av den ophevede børstjenestemenn. Kongen fastsetter vedtekter for fondet. Vedtektene skal bl.a. angi hvorledes fondet skal forvaltes og hvem som skal treffe bestemmelser om anvendelse av fondets kapital og renter.\n1 Finansdepartementet iflg res 19 juni 1987 nr 543 (tidl Handelsdepartementet iflg res 23 sept 1960).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "content": "Overtilsynet med børsene påhviler vedkommende regjeringsdepartement,​1 som også ansetter og avskjediger revisorer ved børsene, utferdiger instruks for dem og avsier decisjon angående børsregnskapene og børskomitéens økonomiske disposisjoner.\nRevisorenes godtgjørelse fastsettes av departementet og utredes av børskassen.\nDepartementet kan gi forskrifter om den formelle innretning av børsregnskapene med bilag og bevisligheter samt forskrifter for øvrig, som trenges til gjennemførelse av denne lov.\nOm adgangen for departementet til å ilegge tvangsmulkt til statskassen for undlatelse av å avlegge regnskaper i de bestemte former eller å innsende regnskaper eller besvare antegnelser til fastsatt tid gjelder med de fornødne tillempninger, hvad herom er fastsatt i lov om statens revisjonsvesen av 8 februar 1918. Likeså med hensyn til reglene om, når en avsagt decisjon som ikke er ansvarsdecisjon, skal anses for vedtatt om virkningen av vedtagelsen og om adgangen til å fremtvinge beriktigelse ved tvangsmulkt.\nBlir en avsagt ansvarsdecisjon ikke beriktiget, eller blir en annen avsagt decisjon ikke vedtatt, avgjør departementet om sak bør anlegges. Saken anlegges av departementet, og utgiftene bæres i tilfelle av børskassen.\n1 Finansdepartementet iflg res 19 juni 1987 nr 543.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "content": "De reglementsbestemmelser som børskomitéen måtte fastsette med hjemmel i §§ 12, 13, 15 og 21 trenger, for å være gyldige, departementets​2 approbasjon.\n1 Endret ved lov 11 juni 1971 nr 59.\n2 Finansdepartementet iflg res 19 juni 1987 nr 543.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\nFra samme tid opheves: – – –\nDe allerede oprettede børser i Oslo, Drammen, Fredriksstad, Sandefjord, [Skien,]​2 Kristiansand S., Stavanger, Haugesund, Bergen, Ålesund, Kristiansund N. og Trondheim vedblir dog å bestå og blir fra samme tid undergitt denne lovs bestemmelser.\n1 Fra 1 jan 1932 ifølge res 23 des 1931.\n2 Opphevet ved res 20 okt 1932.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "En børs er en institusjon under det offentliges tilsyn, som har til oppgave:\na. å være et samlingssted for de næringsdrivende, hvor de kan drøfte eller avgjøre forretningsanliggender og orientere sig med hensyn til markeds- og prisforhold,\nb. ved offisielle noteringer foretatt på børsen å søke tilveiebragt en pålitelig oversikt over prisforholdene,\nc. når forholdene måtte ligge til rette derfor, å avholde børsmøter til bestemte tider til konsentrasjon av tilbud og efterspørsel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Børs kan kun oprettes ved bestemmelse av Kongen​1 og kun i rikets byer. Ingen by kan ha mer enn én børs.\nDe i henhold til denne lov bestående eller oprettede børser er eneberettiget til navnet «børs». Den som i strid med denne bestemmelse benytter betegnelsen «børs», enten alene eller i sammensetning, straffes med bøter.\n1 Finansdepartementet iflg res 19 juni 1987 nr 543 (tidl Handelsdepartementet iflg res 23 sept 1960).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Medlem av børsen er enhver som betaler årlig børskontingent i henhold til § 15, punkt c og d.\nAdgangsberettiget til børsmøtene og til børsens leseværelse og bibliotek er alle medlemmer av børsen. På anmodning kan børskommissæren​1 tilstå også andre leilighetsvis adgang.\n1 Se § 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Enhver børs skal ha en børskomité. Børskomitéen består av en børskommissær og 4 oppnevnte medlemmer med personlige varamenn. Ved børser hvor det foregår kursnotering på verdipapirer, skal det være 5 oppnevnte medlemmer med personlige varamenn.\nOppnevnte medlemmer av børskomitéen og deres varamenn skal representere henholdsvis handel, sjøfart, industri og bank- eller finansvesen. Medlemmene må være medlemmer av børsen og næringsdrivende eller ansatte innen den næring medlemmene representerer. Børskomitéer med 5 oppnevnte medlemmer skal dessuten som medlem ha en representant for kursnoteringsutvalget for verdipapirer. Dette medlem og dets personlige varamann må være leder av eller ansatt i autorisert meglerfirma eller banks fondsavdeling.\nOppnevnelsen av medlemmer med varamenn foretas av vedkommende departement​2 hvert annet år i desember måned og omfatter 2 medlemmer og 2 varamenn med funksjonstid de 4 påfølgende kalenderår. Første gangs oppnevnelse gjelder samtlige medlemmer med varamenn. Av disse trer 2 medlemmer utpekt ved loddtrekning og deres varamenn ut etter 2 år. Ved børser med fondsbørs blir representanten for kursnoteringsutvalget for verdipapirer og hans varamann oppnevnt for 4 år om gangen.\nNår oppnevnelsen etter tredje ledd skal skje, skal vedkommende bystyre innen utgangen av november måned avgi forslag til departementet, etter at det på forhånd har gitt stedets handelskammer eller, hvor handelskammer ikke finnes, stedets handelsstandsforening anledning til å fremkomme med forslag i saken. Når forslaget foreligger, kan bystyret ved sakens innsendelse til departementet enten tiltre dette eller avgi sitt selvstendige forslag.\nOpphører et oppnevnt medlem av børskomitéen under sin funksjonstid å være medlem av børsen, bortfaller hans mandat og hans varamann trer i hans sted for den gjenværende del av perioden.\nVervet som oppnevnt medlem av børskomitéen er ulønt.\n1 Endret ved lov 11 juni 1971 nr 59.\n2 Finansdepartementet iflg res 19 juni 1987 nr 543.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Børskomitéen velger blant de oppnevnte medlemmer sin formann og nestformann.\nBørskomitéen har ledelsen av alle børsens anliggender, påser at børsvirksomheten foregår overensstemmende med denne lov, det lokale næringslivs behov og god forretningsskikk, og er ansvarlig for forvaltningen av børsens midler og for at børsens utgifter avpasses efter dens inntekter.\nOver forhandlingene i børskomitéens møter føres der protokoll.\n1 Endret ved lov 11 juni 1971 nr 59.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "Børskommissæren, som skal være handelskyndig, beskikkes og avskjediges av Kongen​2 etter at det er innhentet uttalelse fra de oppnevnte medlemmer av børskomitéen. Hans lønn utredes av børskassen etter fastsettelse av børskomitéen.\nBørskommissæren representerer børskomitéen i den daglige virksomhet og er tillike statens tillitsmann ved børsen. Han har å lede børsens administrasjon og å føre det daglige tilsyn med børsvirksomheten, børsens tjenestemenn og børsens lokaler. Han utøver politimyndighet på børsen​3 og er dennes regnskapsfører og oppebørselsbetjent.\nVedkommende regjeringsdepartement fastsetter, efter at børskomitéens uttalelse er innhentet, nærmere instruks for stillingen.\n1 Endret ved lover 11 juni 1971 nr 59, 23 des 1983 nr 84.\n2 Finansdepartementet iflg res 19 juni 1987 nr 543 (tidl Handelsdepartementet iflg res 23 sept 1960).\n3 Jfr. strl. § 350.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "Børskomitéen ansetter og avskjediger de til børsens drift nødvendige tjenestemenn, fastsetter deres lønn og utferdiger instruks for dem.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "content": "I den utstrekning børsens midler tillater det, skal børskomitéen sørge for gjennom en etter de børsbesøkende og det lokale omsetningslivs behov avpasset informasjonstjeneste å fremskaffe regelmessige og så inngående opplysninger som mulig om pris-, frakt- og andre markedsforhold i inn- og utland. Disse opplysninger skal ved oppslag eller på annen hensiktsmessig måte hurtigst mulig gjøres tilgjengelige for de børsbesøkende.\nUnder de samme forutsetninger skal børskomitéen sørge for, at børsen i egen eller leiet bygning råder over tilstrekkelige kontor- og forsamlingsrum og over leseværelse med bibliotek.\n1 Endret ved lov 11 juni 1971 nr 59.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "content": "Børskomitéen kan forlange at tollkassereren i vedkommende by daglig gir børsen oppgave over de ved tollstedet til inn- og utførsel angitte varer. Oppgaven gis etter skjema fastsatt av vedkommende departement.\nKongen​2 bestemmer, hvilken godtgjørelse børskassen skal erlegge til tollkassereren for dette arbeide.\nOpgaven eller et sammendrag derav besørger børskomitéen i tilfelle straks offentliggjort ved opslag på børsen på den i § 10 foreskrevne måte.\n1 Endret ved lov 11 juni 1971 nr 59.\n2 Finansdepartementet iflg res 19 juni 1987 nr 543 (tidl Handelsdepartementet iflg res 7 okt 1955).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "1:10",
+      "chapter": "1",
+      "section": "10",
+      "content": "Børsens offisielle kurs- og prisnoteringer samt eventuelt den i § 9 omhandlede oppgave over inn- og utførsel skal bekjentgjøres ved oppslag på børsen på et for almennheten lett tilgjengelig sted.\nSammesteds skal vederlagsfritt opslåes alle meddelelser som av de offentlige myndigheter måtte bli levert børsen til bekjentgjørelse, samt, efter å være forevist børskommissæren og ved påtegning godtatt av ham, efterretninger for næringsdrivende eller andre meddelelser av interesse for børsen, handel, industri eller sjøfart.\n1 Endret ved lov 11 juni 1971 nr 59.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "Børskomitéen bestemmer tiden for børsmøters avholdelse og fastsetter de nødvendige ordensforskrifter for disse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "content": "I den utstrekning som børskomitéen bestemmer, skal der på børsen foretas offisielle kurs- og prisnoteringer. For disse noteringer fastsetter børskomitéen reglement.​1\nBørsens offisielle kurs- og prisnoteringer skal gi et korrekt uttrykk for det lokale markeds stilling.\nBørskomitéen sørger for, at resultatet av de offisielle noteringer straks blir bekjentgjort ved opslag på børsen på den i § 10 foreskrevne måte.\nTerminforretninger må ikke foregå på børsen og heller ikke optas til notering der, så lenge departementet ikke har gitt særskilt samtykke dertil og fastsatt nærmere forskrifter for sådan handel.\n1 Se § 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:12 a",
+      "chapter": "3",
+      "section": "12 a",
+      "content": "I reglement etter § 12 første ledd annet punktum kan foretak som har verdipapirer børsnotert, og fondsmeglere med sete på børsen pålegges plikt til å holde børsen, aksjeeierne og almenheten orientert om foretakets stilling, virksomhet, tilbud om fusjon eller oppkjøp av aksjer og andre forhold som kan ha betydning for kursfastsettelsen på vedkommende verdipapir. Herunder kan kreves opplysninger som børsen finner påkrevet for å skjøtte sin kontroll- og informasjonsoppgave i verdipapirhandelen. Det kan gis nærmere regler om innholdet av opplysningene og om hvordan de skal gis.\n1 Tilføyd ved lov 23 des 1983 nr 84.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12a",
+        "source_heading": "§ 12 A."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "content": "Foretas der på børsen offisiell kursnotering av verdipapirer, bestemmer børskomitéen, hvilke verdipapirer skal kunne optas på noteringslisten. Likeledes fatter børskomitéen bestemmelse om verdipapirers strykning av noteringslisten.\nUtenlandske verdipapirer kan ikke optas på noteringslisten uten samtykke fra vedkommende regjeringsdepartement.\nBørskomitéen kan ved reglementsbestemmelser​2 gjøre optagelsen av verdipapirer på noteringslisten avhengig av, at der av den som har utstedt verdipapirene, erlegges en rimelig årlig noteringsavgift til børsen.\n1 Endret ved lov 19 juni 1969 nr 54, 6 juni 1980 nr 21. – Jf lov 14 aug 1918 nr 5 § 18.\n2 Se § 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "content": "Når børskomitéen har besluttet, at der innen en omsetningsgruppe skal foretas offisielle kurs- eller prisnoteringer, opnevner den til sin bistand ved disses istandbringelse et noteringsutvalg, for varenoteringers vedkommende efter at vedkommende lokale brancheorganisasjon er gitt adgang til å fremkomme med forslag til utvalgets sammensetning.\nNoteringsutvalgets medlemmer skal velges blandt de medlemmer av børsen hvis næringsvirksomhet faller innenfor vedkommende gruppe. Samtlige stedets fonds- og aktiemeglere er medlemmer av noteringsutvalget for verdipapirer.​1\nAndre meglere på stedet skal på anmodning fra børskomitéen være forpliktet til å bistå denne med oplysninger til kurs- og prisnoteringene på grunnlag av de forretninger som de har formidlet. Disse oplysninger meddeles under ansvar som for forklaringer til offentlig myndighet (straffelovens​2 § 166).\nDe offisielle kurs- og prisnoteringer foregår så vidt mulig for åpen børs.\nOver noteringene innen hver gruppe skal der føres protokoll, som hver gang undertegnes av børskomitéen og noteringsutvalget, eller på børskomitéens og noteringsutvalgets vegne av den eller dem som disse hver for sig bemyndiger til det. Ved andre noteringer enn de som gjelder verdipapirer, skal det hver gang angis i protokollen, hvilke av noteringsutvalgets medlemmer har deltatt i noteringen.\n1 Se lov 14 aug 1918 nr 5 § 18.\n2 Lov 22 mai 1902 nr 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "content": "Ved børser hvor det finner sted kursnotering av verdipapirer, kan fonds- og aksjemeglere ved reglementsbestemmelser pålegges en årlig plassavgift.\n1 Endret ved lover 29 juni 1951 nr 18, 11 juni 1971 nr 59, 17 des 1976 nr 97, 6 juni 1980 nr 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "(Opphevet)",
+      "content": "0 Opphevd ved lov 6 juni 1980 nr 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "(Opphevet)",
+      "content": "0 Opphevd ved lov 6 juni 1980 nr 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "content": "Etter at børsens utgifter er dekket, avsettes ved hvert regnskapsårs avslutning det overskytende av inntektene til børsens fond, som skal anbringes på betryggende måte.\nMed vedkommende regjeringsdepartements samtykke kan børskomitéen av børsens midler bevilge passende bidrag til formål som tar sikte på børsvirksomhetens eller det lokale næringslivs fremme. Dog skal det påses, at børsens fond på den måte ikke reduseres mere, enn at der til enhver tid er tilbake et beløp der anses tilstrekkelig som reserve til dekning av mulige regnskapsunderskudd eller uforutsette utgifter.\n1 Endret ved lov 11 juni 1971 nr 59.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "content": "De oppnevnte medlemmer av børskomitéen har med de begrensninger som denne lov fastsetter, disposisjonsretten over børsens aktiver, fører tilsyn med børsens regnskapsførsel og med at inn- og utbetalinger skjer i rett tid. De bestemmer hvor stort beløp av børsens midler børskommissæren til enhver tid skal kunne ha under egen forvaltning, og fastsetter med approbasjon av vedkommende regjeringsdepartement størrelsen, formen og opbevaringsmåten for den sikkerhet som børskommissæren i egenskap av børsens oppebørselsbetjent til enhver tid har å stille.\nBørsens kasse-ekstrakt skal av børskommissæren ved hvert halvårs utløp forelegges børskomitéen til gjennomsyn og underskrift av de oppnevnte medlemmer. Kasse-ekstrakten sendes deretter straks vedkommende departement forsynt med revisors merknader.\n1 Endret ved lov 11 juni 1971 nr 59.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "content": "Børsregnskapenes avslutning finner sted ved hvert kalenderårs utgang. Årsregnskapet tillikemed en årsberetning om børsens virksomhet oversendes til vedkommende regjeringsdepartement innen utgangen av mai måned. Samtidig offentliggjøres regnskapet ved opslag på børsen på den i § 10 foreskrevne måte.\nRegnskapet skal være undertegnet av børskommissæren og de oppnevnte medlemmer av børskomitéen.\n1 Endret ved lov 11 juni 1971 nr 59.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "content": "Børskomitéen kan ved bestemmelser fastsatt ved reglement​1 beslutte oprettelse ved børsen av en voldgiftsrett til pådømmelse av sådanne tvistemål vedrørende handels-, sjøfarts- og assuransespørsmål, som partene måtte bli enige om å innbringe for samme, og gi nærmere regler om voldgiftsrettens sammensetning og virksomhet.​2\nPå samme måte kan der ved børsen anordnes avregningskontor for byens banker og fonds- og aktiemeglere og sakkyndige utvalg til avgivelse av frivillige vareskjønn, prøvetagning og vrakning efter anmodning av interesserte næringsdrivende.\nUtgiftene ved de i denne paragraf omhandlede institusjoner blir, så vidt mulig, å utligne på dem som benytter dem.\n1 Se § 25.\n2 Jfr. rettergangsl. kap. 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "content": "Et medlem av børsen kan ekskluderes fra børsen for et nærmere fastsatt tidsrum eller inntil videre:\n1. Når han har gjort seg skyldig i uredelig adferd, har overtrådt nogen bestemmelse i denne lov eller nogen forskrift fastsatt med hjemmel i samme, eller når han ikke har efterkommet børskommissærens pålegg til oprettholdelse av god orden og ro på børsen.\n2. Når det på grunn av hans økonomiske uvederheftighet anses utilrådelig, at han fortsatt får delta i forhandlingene på børsen.\n3. Når han har åpnet akkordforhandling, har sitt bo under konkursbehandling​2 eller er satt under tiltale for nogen straffbar handling som kan medføre fengselsstraff.\nBlir et medlem av børsen umyndiggjort,​3 inntrer eksklusjon, som gjelder så lenge forholdet vedvarer, og inntil det er funnet forsvarlig pånytt å tilstede ham adgang til børsen.\nAvgjørelser i henhold til de foregående ledd i denne paragraf treffes av børskomitéen eller, hvis saken gjelder noen av dens medlemmer, av vedkommende departement.​4\nSå lenge eksklusjonen står ved makt, ophører vedkommende å være medlem av børsen og eventuelt medlem av børskomitéen. I dette tidsrum er han fritatt for årlig avgift til børsen i henhold til § 15, c og d, medmindre eksklusjonen er tidsbegrenset til mindre enn ett år.\n– – –\nMener børskommissæren at omstendighetene tilsier det, kan han nekte vedkommende medlem adgang til børsen inntil børskomiteen har avgjort spørsmålet om eksklusjon. Herom har da børskommissæren uten ophold å avlegge rapport for børskomitéen.\nNår det gjelder mindre forseelser av den art som omhandlet i denne paragrafs 1. ledd under punkt 1, kan der istedenfor eksklusjon besluttes tildelt vedkommende en advarsel.\nDe i henhold til denne paragraf trufne avgjørelser kan bekjentgjøres ved opslag på børsen.\n1 Endret ved lov 19 juni 1969 nr 54.\n2 Se konkursl. 8 juni 1984 nr 58.\n3 Se lov 28 nov. 1898.\n4 Finansdepartementet iflg res 19 juni 1987 nr 543.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "content": "Kongen​1 kan beslutte ophevelse av en børs:\n1. Når under et av vedkommende regjeringsdepartement med rimelig varsel gjennem opslag på børsen sammenkalt avstemningsmøte av børsens medlemmer minst halvparten av disse har avgitt stemme og med minst to tredjedelers flertall uttalt sig derfor. Møtet ledes av børskommissæren, og avstemningen foregår skriftlig og hemmelig.\n2. Når børsens regnskap i tre på hinannen følgende år utviser underskudd som ikke dekkes av børsens formue.\nFra det tidspunkt en børs er ophevet, opkrever de myndigheter som Kongen bestemmer, i tilfelle de i § 15 omhandlede avgifter til børsen, inntil det underskudd, som ikke dekkes av børsens formue, er betalt. Kongen kan fastsette en godtgjørelse til disse myndigheter for sådan opkrevning.\nDen nettoformue som måtte tilhøre en børs ved dens ophevelse, avsettes til et fond til fremme av byens næringsliv på handelens, industriens og sjøfartens område. Av fondets midler kan der også ydes bidrag til pensjonering av den ophevede børstjenestemenn. Kongen fastsetter vedtekter for fondet. Vedtektene skal bl.a. angi hvorledes fondet skal forvaltes og hvem som skal treffe bestemmelser om anvendelse av fondets kapital og renter.\n1 Finansdepartementet iflg res 19 juni 1987 nr 543 (tidl Handelsdepartementet iflg res 23 sept 1960).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "content": "Overtilsynet med børsene påhviler vedkommende regjeringsdepartement,​1 som også ansetter og avskjediger revisorer ved børsene, utferdiger instruks for dem og avsier decisjon angående børsregnskapene og børskomitéens økonomiske disposisjoner.\nRevisorenes godtgjørelse fastsettes av departementet og utredes av børskassen.\nDepartementet kan gi forskrifter om den formelle innretning av børsregnskapene med bilag og bevisligheter samt forskrifter for øvrig, som trenges til gjennemførelse av denne lov.\nOm adgangen for departementet til å ilegge tvangsmulkt til statskassen for undlatelse av å avlegge regnskaper i de bestemte former eller å innsende regnskaper eller besvare antegnelser til fastsatt tid gjelder med de fornødne tillempninger, hvad herom er fastsatt i lov om statens revisjonsvesen av 8 februar 1918. Likeså med hensyn til reglene om, når en avsagt decisjon som ikke er ansvarsdecisjon, skal anses for vedtatt om virkningen av vedtagelsen og om adgangen til å fremtvinge beriktigelse ved tvangsmulkt.\nBlir en avsagt ansvarsdecisjon ikke beriktiget, eller blir en annen avsagt decisjon ikke vedtatt, avgjør departementet om sak bør anlegges. Saken anlegges av departementet, og utgiftene bæres i tilfelle av børskassen.\n1 Finansdepartementet iflg res 19 juni 1987 nr 543.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "content": "De reglementsbestemmelser som børskomitéen måtte fastsette med hjemmel i §§ 12, 13, 15 og 21 trenger, for å være gyldige, departementets​2 approbasjon.\n1 Endret ved lov 11 juni 1971 nr 59.\n2 Finansdepartementet iflg res 19 juni 1987 nr 543.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\nFra samme tid opheves: – – –\nDe allerede oprettede børser i Oslo, Drammen, Fredriksstad, Sandefjord, [Skien,]​2 Kristiansand S., Stavanger, Haugesund, Bergen, Ålesund, Kristiansund N. og Trondheim vedblir dog å bestå og blir fra samme tid undergitt denne lovs bestemmelser.\n1 Fra 1 jan 1932 ifølge res 23 des 1931.\n2 Opphevet ved res 20 okt 1932.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1938-06-03-4",
+  "type": "statute",
+  "title": "Lov om utførselsforbud for levende rev, skogmår m.v.",
+  "short_name": "Lov om utførselsforbud for rev m.v.",
+  "status": "in_force",
+  "issued_date": "1938-06-03",
+  "in_force_date": "1938-06-03",
+  "url": "https://lovdata.no/dokument/NLO/lov/1938-06-03-4",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen kan bestemme at det skal være forbudt​1 å utføre levende rev av alle arter og levende skogmår samt sed av sådanne dyr fra landet med mindre vedkommende departement​2 har samtykket i utførselen.\n0 Endret ved lov 10 feb 1939 nr. 1.\n1 Jfr. § 2.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den som utfører eller søker​1 å utføre rev, skogmår eller sed i strid med ett i henhold til § 1 utferdiget utførselsforbud, eller som medvirker hertil, straffes med bøter.​2\n0 Endret ved lov 10 feb 1939 nr. 1.\n1 Jfr. strl. § 49.\n2 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen kan bestemme at det skal være forbudt​1 å utføre levende rev av alle arter og levende skogmår samt sed av sådanne dyr fra landet med mindre vedkommende departement​2 har samtykket i utførselen.\n0 Endret ved lov 10 feb 1939 nr. 1.\n1 Jfr. § 2.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den som utfører eller søker​1 å utføre rev, skogmår eller sed i strid med ett i henhold til § 1 utferdiget utførselsforbud, eller som medvirker hertil, straffes med bøter.​2\n0 Endret ved lov 10 feb 1939 nr. 1.\n1 Jfr. strl. § 49.\n2 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

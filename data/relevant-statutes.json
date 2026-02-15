@@ -1,0 +1,8 @@
+{
+  "description": "Curated high-value Norwegian statutes for baseline full-text coverage in the free tier.",
+  "statutes": [
+    { "id": "LOV-2018-06-15-38", "slug": "personopplysningsloven" },
+    { "id": "LOV-2005-05-20-28", "slug": "straffeloven" },
+    { "id": "LOV-1999-05-21-30", "slug": "menneskerettsloven" }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1998-06-26-604",
+  "type": "statute",
+  "title": "Provisorisk anordning om lønnsnemndbehandling av arbeidstvisten mellom LO-Stat og Norges arbeidsgiverforening for virksomheter med offentlig tilknytning NAVO/Telenor i forbindelse med tariffrevisjonen våren 1998.",
+  "short_name": "Prov. anord. om lønnsnemndbehandling, LO/NAVO",
+  "status": "in_force",
+  "issued_date": "1998-06-26",
+  "in_force_date": "1998-06-26",
+  "url": "https://lovdata.no/dokument/NLO/lov/1998-06-26-604",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom LO-Stat og Norges arbeidsgiverforening for virksomheter med offentlig tilknytning NAVO/Telenor i forbindelse med tariffrevisjonen våren 1998 skal avgjøres av Rikslønnsnemnda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans eller blokade til løsning av tvisten.\nReglene i lov av 19. desember 1952 nr 7 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne anordning trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom LO-Stat og Norges arbeidsgiverforening for virksomheter med offentlig tilknytning NAVO/Telenor i forbindelse med tariffrevisjonen våren 1998 skal avgjøres av Rikslønnsnemnda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans eller blokade til løsning av tvisten.\nReglene i lov av 19. desember 1952 nr 7 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne anordning trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

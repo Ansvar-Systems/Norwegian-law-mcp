@@ -1,0 +1,75 @@
+{
+  "id": "LOV-2016-08-12-965",
+  "type": "statute",
+  "title": "Provisorisk anordning om lønnsnemndbehandling av arbeidstvisten mellom Norsk Cockpitforbund og NHO Luftfart i forbindelse med tariffoppgjøret 2016",
+  "short_name": "Prov. anordning om lønnsnemndbehandling, luftfart",
+  "status": "in_force",
+  "issued_date": "2016-08-12",
+  "in_force_date": "2016-08-12",
+  "url": "https://lovdata.no/dokument/NLO/lov/2016-08-12-965",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom Norsk Cockpitforbund og NHO Luftfart i forbindelse med tariffoppgjøret 2016 vedrørende overenskomsten for Lufttransport FW AS skal avgjøres av Rikslønnsnemnda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans, jf. arbeidstvistloven § 1 bokstav f) og g) for å løse tvisten.\nReglene i lov 27. januar 2012 nr. 10 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Anordningen trer i kraft straks.\nAnordningen opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse i tvisten.\n0 Se Rikslønnsnemndas kjennelse 1/2016 22 nov 2016.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvisten mellom Norsk Cockpitforbund og NHO Luftfart i forbindelse med tariffoppgjøret 2016 vedrørende overenskomsten for Lufttransport FW AS skal avgjøres av Rikslønnsnemnda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans, jf. arbeidstvistloven § 1 bokstav f) og g) for å løse tvisten.\nReglene i lov 27. januar 2012 nr. 10 om lønnsnemnd i arbeidstvister får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Anordningen trer i kraft straks.\nAnordningen opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse i tvisten.\n0 Se Rikslønnsnemndas kjennelse 1/2016 22 nov 2016.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

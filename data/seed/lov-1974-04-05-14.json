@@ -1,0 +1,95 @@
+{
+  "id": "LOV-1974-04-05-14",
+  "type": "statute",
+  "title": "Lov om statsbidrag til anlegg m.v. av skytebaner",
+  "short_name": "Lov om statsbidrag til skytebaner",
+  "status": "in_force",
+  "issued_date": "1974-04-05",
+  "in_force_date": "1974-04-05",
+  "url": "https://lovdata.no/dokument/NL/lov/1974-04-05-14",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Til kjøp eller leie av grunn til skytebane og til anlegg og ombygging av slik bane, kan det ytes statsbidrag med inntil halvparten av kostnadene. Dette gjelder ikke anskaffelse av skytterhus. Den del av kostnadene som ikke dekkes av statsbidraget, skal på forhånd være skaffet til veie av kommunen eller skytterlaget. Det er et vilkår for statsbidrag at skytterlaget er tilsluttet Det frivillige skyttervesen, at det er aktivt og i sin siste årsberetning har oppført minst 20 aktive skyttere.\nSkytterlag som mottar statsbidrag etter første ledd, plikter å vedlikeholde banen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Dersom det skal ytes statsbidrag etter § 1, må valg av baneområde, kjøp eller leie av grunn samt avgjørelse om ombygging eller utvidelse av en allerede eksisterende bane, foretas av et utvalg som består av like mange medlemmer valgt av skytterlaget og kommunestyret. Antall medlemmer bestemmes av kommunestyret.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Kongen kan gi nærmere forskrifter til gjennomføring og utfylling av loven, herunder om hva det kan ytes bidrag til, om vilkårene for bidrag, om fremgangsmåten ved søknad om bidrag og utbetaling av dette og om plikter som bidraget medfører.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1 – – –\n1 Straks iflg. res. 5 apr 1974.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Til kjøp eller leie av grunn til skytebane og til anlegg og ombygging av slik bane, kan det ytes statsbidrag med inntil halvparten av kostnadene. Dette gjelder ikke anskaffelse av skytterhus. Den del av kostnadene som ikke dekkes av statsbidraget, skal på forhånd være skaffet til veie av kommunen eller skytterlaget. Det er et vilkår for statsbidrag at skytterlaget er tilsluttet Det frivillige skyttervesen, at det er aktivt og i sin siste årsberetning har oppført minst 20 aktive skyttere.\nSkytterlag som mottar statsbidrag etter første ledd, plikter å vedlikeholde banen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Dersom det skal ytes statsbidrag etter § 1, må valg av baneområde, kjøp eller leie av grunn samt avgjørelse om ombygging eller utvidelse av en allerede eksisterende bane, foretas av et utvalg som består av like mange medlemmer valgt av skytterlaget og kommunestyret. Antall medlemmer bestemmes av kommunestyret.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Kongen kan gi nærmere forskrifter til gjennomføring og utfylling av loven, herunder om hva det kan ytes bidrag til, om vilkårene for bidrag, om fremgangsmåten ved søknad om bidrag og utbetaling av dette og om plikter som bidraget medfører.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1 – – –\n1 Straks iflg. res. 5 apr 1974.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

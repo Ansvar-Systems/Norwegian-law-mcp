@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1898-04-23",
+  "type": "statute",
+  "title": "Lov om Tillæg til Jernveisloven af 12te August 1848.",
+  "short_name": "Tilleggslov til Jernveisloven.",
+  "status": "in_force",
+  "issued_date": "1898-04-23",
+  "in_force_date": "1898-04-23",
+  "url": "https://lovdata.no/dokument/NLO/lov/1898-04-23",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Jernvei eller Sporvei til almindelig Benyttelse,​2 der ikke skal drives under Statens Bestyrelse, kan ikke aabnes for Drift, forinden der paa samme er meddelt Koncession​3 i Henhold til Lov af 12te August 1848, indeholdende særlige Bestemmelser angaaende Anlæg af saadanne Jernveie.\n1 Endret ved lov 15 des 1967 nr. 2.\n2 Se lov 8 juni 1907 nr. . 7.\n3 Se strl. § 332.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne Lov træder strax i Kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Jernvei eller Sporvei til almindelig Benyttelse,​2 der ikke skal drives under Statens Bestyrelse, kan ikke aabnes for Drift, forinden der paa samme er meddelt Koncession​3 i Henhold til Lov af 12te August 1848, indeholdende særlige Bestemmelser angaaende Anlæg af saadanne Jernveie.\n1 Endret ved lov 15 des 1967 nr. 2.\n2 Se lov 8 juni 1907 nr. . 7.\n3 Se strl. § 332.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne Lov træder strax i Kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

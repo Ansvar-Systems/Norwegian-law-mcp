@@ -1,0 +1,1527 @@
+{
+  "id": "LOV-2020-11-06-127",
+  "type": "statute",
+  "title": "Lov om integrering gjennom opplæring, utdanning og arbeid (integreringsloven)",
+  "short_name": "Integreringsloven",
+  "status": "in_force",
+  "issued_date": "2020-11-06",
+  "in_force_date": "2021-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2020-11-06-127",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Formålet med loven er at innvandrere tidlig integreres i det norske samfunnet og blir økonomisk selvstendige. Loven skal bidra til at innvandrere får gode norskkunnskaper, kunnskap om norsk samfunnsliv, formelle kvalifikasjoner og en stabil tilknytning til arbeidslivet.\nLoven skal videre legge til rette for at asylsøkere tidlig får kjennskap til norsk språk og samfunnsliv.\n0 Endret ved lov 20 juni 2025 nr. 35 (i kraft 20 juni 2025 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjoner",
+      "content": "I denne loven menes med:\na. asylsøker: en person som søker beskyttelse etter utlendingsloven kapittel 4\nb. innvandrer: en person med oppholdstillatelse i Norge etter utlendingsloven\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "title": "Kommunens ansvar",
+      "content": "Kommunen er ansvarlig for tidlig kvalifisering etter kapittel 3, introduksjonsprogram etter kapittel 4 og opplæring i norsk og samfunnskunnskap etter kapittel 6.\nOpplæring og tjenester som kommunen yter etter denne loven, skal være forsvarlige.\nKommunens plikter gjelder ikke overfor personer som har avbrutt eller avvist deltagelse i opplæring i mottak, introduksjonsprogram eller opplæring i norsk og samfunnskunnskap.\nKommunen kan gi andre i oppdrag å utføre kommunens oppgaver etter loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Fylkeskommunens ansvar",
+      "content": "Fylkeskommunen er ansvarlig for det regionale integreringsarbeidet. Fylkeskommunen skal utarbeide planer for kvalifisering av innvandrere.\nFylkeskommunen skal anbefale hvor mange flyktninger som bør bosettes i den enkelte kommune i fylket.\nFylkeskommunen skal sørge for tilbud om karriereveiledning etter § 11 og opplæring i norsk og samfunnskunnskap etter § 30 andre ledd.\nDepartementet kan gi forskrift om fylkeskommunens ansvar for det regionale integreringsarbeidet.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "3:5",
+      "chapter": "3",
+      "section": "5",
+      "title": "Plikt til å delta i opplæring i mottak",
+      "content": "Asylsøkere som bor i mottak og som er over 18 år, har plikt til å delta i opplæring i norsk og samfunnskunnskap. Plikten gjelder ikke dersom asylsøkeren\na. får sin søknad behandlet etter hurtigprosedyrer i Utlendingsdirektoratet\nb. nektes å få asylsøknaden realitetsbehandlet etter utlendingsloven § 32\nc. bor på ankomstsenter eller i transittmottak\nd. har fått avslag på søknad om beskyttelse av Utlendingsdirektoratet\nKommunen skal sørge for opplæringen så snart som mulig etter at asylsøkere som omfattes av plikten etter første ledd, er registrert i et mottak i kommunen.\nDepartementet kan gi forskrift om omfanget av og innholdet i opplæringen og om fritak fra plikten til å delta i opplæringen.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "3:6",
+      "chapter": "3",
+      "section": "6",
+      "title": "Kompetansekartlegging før bosetting i en kommune",
+      "content": "Vertskommuner for mottak skal kartlegge kompetansen til personer som bor i mottak, og som har fått en oppholdstillatelse som nevnt i § 9.\nIntegrerings- og mangfoldsdirektoratet skal kartlegge kompetansen til overføringsflyktninger før innreise til Norge. Med overføringsflyktning menes en person som har fått flyktningstatus, jf. utlendingsloven § 28 første ledd, før innreise til Norge, eller som har fått en innreisetillatelse i påvente av behandling av sin søknad om flyktningstatus.\nKartleggingen skal bidra til bosetting i en kommune med relevant tilbud om arbeid eller utdanning og til at introduksjonsprogrammet blir tilpasset den enkeltes behov. Den enkelte har rett og plikt til å gjennomføre kartleggingen.\nKravene til kartleggingen i § 10 andre ledd og forskrift etter § 10 fjerde ledd gjelder tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Andre integreringsfremmende tiltak før bosetting i en kommune",
+      "content": "Vertskommuner for mottak kan tilby standardiserte elementer fra introduksjonsprogrammet, jf. § 14 a første og andre ledd, og andre integreringsfremmende tiltak til personer som bor i mottak, og som har fått en oppholdstillatelse som nevnt i § 9.\n0 Endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "4:8",
+      "chapter": "4",
+      "section": "8",
+      "title": "Målgruppe for introduksjonsprogrammet",
+      "content": "Innvandrere mellom 18 og 55 år som har fått innvilget en oppholdstillatelse som nevnt i § 9, og som er bosatt i kommunen etter avtale med integreringsmyndighetene, har rett og plikt til å delta i introduksjonsprogram. Alderen da oppholdstillatelsen ble innvilget er avgjørende for om personen omfattes av første punktum. Personen må ha bodd i en kommune med en oppholdstillatelse nevnt i § 9 i mindre enn to år når vedtak etter § 12 treffes.\nKravet om å være bosatt etter avtale gjelder ikke personer som har fått oppholdstillatelse som nevnt i § 9 første ledd bokstav f og g. Kravet gjelder heller ikke for personer som får innvilget oppholdstillatelse som nevnt i § 9 første ledd bokstav a etter å ha hatt en oppholdstillatelse som nevnt i § 9 første ledd bokstav f.\nKommunen kan tilby introduksjonsprogram til innvandrere med oppholdstillatelse etter utlendingsloven kapittel 6 som er familiemedlemmer til andre enn personer nevnt i § 9 første ledd bokstav f, til innvandrere over 55 år med oppholdsgrunnlag som nevnt i § 9 og til innvandrere som nevnt i første ledd som er bosatt uten avtale med kommunen. Den som tilbys program, må ha bodd i en kommune i mindre enn to år når vedtak etter § 12 treffes.\nFørste ledd gjelder ikke innvandrere som er i arbeid eller har tilbud om arbeid, når stillingen utgjør minst 30 timer i uken. Første ledd gjelder likevel dersom arbeidsforholdet opphører eller arbeidstilbudet bortfaller innen fristen satt i første ledd tredje punktum.\nNordiske borgere og utlendinger som omfattes av Avtale om Det europeiske økonomiske samarbeidsområde (EØS-avtalen), omfattes ikke av denne paragrafen.\n0 Endret ved lover 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804), 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102, gjelder fjerde og nytt femte ledd). Endres ved lov 20 juni 2025 nr. 35 (i kraft fra den tid Kongen bestemmer, gjelder første ledd første punktum og tredje ledd første punktum).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "4:9",
+      "chapter": "4",
+      "section": "9",
+      "title": "Oppholdstillatelser som gir rett og plikt til deltagelse i introduksjonsprogrammet",
+      "content": "Følgende oppholdstillatelser gir rett og plikt til å delta i introduksjonsprogram:\na. oppholdstillatelse som flyktning etter utlendingsloven § 28\nb. oppholdstillatelse etter innreisetillatelse som overføringsflyktning etter utlendingsloven § 35 tredje ledd\nc. fornybar oppholdstillatelse etter utlendingsloven § 38 første ledd på grunnlag av søknad om beskyttelse\nd. begrenset oppholdstillatelse som medlem av barnefamilie i påvente av dokumentert identitet etter utlendingsloven § 38 femte ledd bokstav a eller b\ne. oppholdstillatelse på grunnlag av kollektiv beskyttelse i en massefluktsituasjon etter utlendingsloven § 34\nf. oppholdstillatelse etter utlendingsloven kapittel 6 som familiemedlem til personer som nevnt i bokstav a til e, forutsatt at referansepersonen har vært bosatt i en kommune i mindre enn fem år før det søkes om familiegjenforening\ng. fornybar oppholdstillatelse etter utlendingsloven § 53 første ledd bokstav b, andre ledd eller tredje ledd\nFørste ledd bokstav f omfatter også familiemedlemmer til personer som har fått permanent oppholdstillatelse på grunnlag av en oppholdstillatelse som nevnt i bokstav a til e.\nPersoner som har påbegynt et introduksjonsprogram har rett til å fullføre sitt program uavhengig av om oppholdstillatelsen endres eller om de får innvilget statsborgerskap.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "title": "Kompetansekartlegging etter bosetting i en kommune",
+      "content": "Personer som omfattes av § 8 første ledd, har rett og plikt til å gjennomføre kompetansekartlegging etter bosetting i en kommune, med mindre personen har gjennomført kompetansekartlegging etter § 6.\nKompetansekartleggingen skal bidra til at introduksjonsprogrammet blir tilpasset den enkeltes behov. Kartleggingen skal minst omfatte hvilke språkkunnskaper og hvilken utdanning, arbeidserfaring og annen relevant kompetanse personen har.\nKommunen skal sørge for kompetansekartleggingen.\n0 Endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "Karriereveiledning",
+      "content": "Personer som omfattes av § 8 første ledd, har rett og plikt til å gjennomføre karriereveiledning. Karriereveiledningen skal bygge på kompetansekartleggingen etter §§ 6 eller 10, og bør gjennomføres før det fattes vedtak etter § 12.\nKarriereveiledningen skal bidra til at den enkelte kan ta informerte valg om arbeid og utdanning og til at introduksjonsprogrammet blir tilpasset den enkeltes behov.\nFylkeskommunen skal sørge for karriereveiledningen.\nNår karriereveiledningen er gjennomført, bør det gis en anbefaling om arbeid eller utdanning for den enkelte deltager innenfor rammen av §§ 13, 14 og 14 a.\n0 Endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Ansvar for introduksjonsprogrammet",
+      "content": "Kommunen skal sørge for introduksjonsprogram etter dette kapittelet.\nKommunen skal treffe vedtak om og sørge for oppstart av introduksjonsprogram til innvandrere som omfattes av § 8 første ledd, så snart som mulig og senest innen tre måneder etter bosetting eller etter at det fremsettes krav om program.\n0 Endret ved lover 20 juni 2025 nr. 35 (i kraft 20 juni 2025 iflg. res. 20 juni 2025 nr. 1102), 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:12 a",
+      "chapter": "4",
+      "section": "12 a",
+      "title": "Samordning av introduksjonsprogrammet",
+      "content": "Kommunen skal sørge for at innholdet i introduksjonsprogrammet er helhetlig og samordnet. Kommunen skal samarbeide med relevante tjenesteytere og aktører om introduksjonsprogrammet.\n0 Tilføyd ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12a",
+        "source_heading": "§ 12 a."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Introduksjonsprogram for deltagere med utdanning på videregående nivå eller høyere",
+      "content": "Introduksjonsprogrammet for deltagere med utdanning på videregående nivå eller høyere skal kvalifisere for arbeid eller forberede for utdanning over videregående nivå eller yrkesfaglig rekvalifisering etter opplæringslova § 18-4. Programmet for deltagere over 55 år skal kvalifisere for arbeid.\nKommunen skal sette et sluttmål for den enkeltes deltagelse i introduksjonsprogrammet.\nIntroduksjonsprogrammet skal være helårig og på fulltid og vare i inntil tolv måneder. Programmet kan ikke forlenges.\n0 Endret ved lover 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804), 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Introduksjonsprogram for deltagere som ikke har utdanning på videregående nivå eller høyere",
+      "content": "Introduksjonsprogrammet for deltagere som ikke har utdanning på videregående nivå eller høyere, skal gi formell opplæring på videregående nivå eller kvalifisere for arbeid. Programmet for deltagere over 55 år skal kvalifisere for arbeid. Programmet skal være helårig og på fulltid.\nKommunen skal sette et sluttmål for den enkeltes deltagelse i introduksjonsprogrammet.\nSluttmålet for deltagere under 25 år som ikke har utdanning på videregående nivå eller høyere, skal være fullført videregående opplæring. Deltagere under 25 år som ikke ønsker eller ikke vil kunne fullføre videregående opplæring i programtiden, skal ha deler av videregående opplæring som sluttmål eller delta i programmer som skal kvalifisere for arbeid.\nProgrammet for deltagere som har som sluttmål å fullføre deler av videregående opplæring, skal vare i inntil tre år og kan forlenges med inntil ett år. Programmet for deltagere som har som sluttmål å fullføre videregående opplæring, skal vare i inntil fire år og kan forlenges med inntil ett år. Programmene etter første og andre punktum skal forlenges hvis det kan bidra til at deltageren oppnår sluttmålet sitt.\nProgrammet for deltagere som har som sluttmål å fullføre fag- og yrkesopplæring, kan vare i inntil fem år og kan ikke forlenges.\nProgrammer som skal kvalifisere for arbeid, skal vare i inntil to år og kan ikke forlenges.\n0 Endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:14 a",
+      "chapter": "4",
+      "section": "14 a",
+      "title": "Innholdet i introduksjonsprogrammet",
+      "content": "Introduksjonsprogrammet skal minst inneholde:\na. arbeids- eller utdanningsrettede elementer\nb. opplæring i norsk\nc. opplæring i samfunnskunnskap\nd. kurs i livsmestring.\nInnholdet skal tilpasses den enkeltes behov og sluttmålet for programmet. Deltagere som har barn under 18 år, eller som får barn i løpet av programmet, skal gjennomføre foreldreveiledning.\nNår deltagere i et program som skal kvalifisere for arbeid, har utdanning på videregående nivå eller høyere, skal arbeidsrettede elementer gjennomsnittlig minst utgjøre 15 timer i uken av programtiden etter tre måneder i introduksjonsprogrammet. Har deltagerne ikke utdanning på videregående nivå eller høyere, skal arbeidsrettede elementer gjennomsnittlig minst utgjøre 15 timer i uken av programtiden etter seks måneder i introduksjonsprogrammet.\nMinstekravet til arbeidsrettede elementer etter tredje ledd oppfylles ved praksis på en arbeidsplass, arbeid på deltid, korte yrkes- eller bransjekurs, arbeidsmarkedstiltak i regi av Nav eller andre lignende tiltak.\n0 Tilføyd ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14a",
+        "source_heading": "§ 14 a."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Integreringsplan",
+      "content": "Kommunen skal, samtidig som det treffes vedtak etter § 12, utarbeide en integreringsplan.\nPlanen skal utarbeides sammen med deltageren og utformes på bakgrunn av gjennomført kompetansekartlegging, karriereveiledning og en vurdering av hvilke elementer deltageren kan nyttiggjøre seg. Planen skal bygge videre på elementer deltageren har gjennomført før bosetting i kommunen. Kommunen skal veilede deltagere som har behov for realkompetansevurdering, om retten til slik vurdering etter opplæringslova § 18-8.\nIntegreringsplanen skal minst inneholde deltagerens sluttmål etter §§ 13 eller 14, deltagerens norskmål etter § 31, deltagerens langsiktige mål, angivelse av omfanget av opplæringen i norsk og samfunnskunnskap, programmets varighet etter §§ 13 eller 14, elementene i programmet og klagemuligheter.\nDet skal begrunnes i planen hvilke arbeids- eller utdanningsrettede elementer som er valgt, og hvordan disse vil styrke den enkeltes mulighet for deltagelse i yrkeslivet og oppnåelse av det fastsatte norskmålet.\nKommunen avgjør innholdet i integreringsplanen dersom det er uenighet mellom kommunen og den enkelte.\nPlanen skal vurderes jevnlig og ved vesentlig endring i deltagerens livssituasjon.\nDeltagere i introduksjonsprogram skal ha én samlet integreringsplan for deltagelse i introduksjonsprogram og opplæring i norsk og samfunnskunnskap.\n0 Endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Integreringskontrakt",
+      "content": "Kommunen og deltageren skal inngå en integreringskontrakt samtidig som det utarbeides en integreringsplan etter § 15. Kontrakten skal angi kommunens og deltagerens gjensidige forpliktelser.\nKommunen skal i kontrakten forplikte seg til å tilby introduksjonsprogram og opplæring i norsk og samfunnskunnskap etter kapittel 4 og 6, slik at deltageren kan oppfylle sitt sluttmål etter §§ 13 eller 14 og sitt norskmål etter § 31.\nDeltageren skal i kontrakten forplikte seg til å følge opp målene og elementene som er fastsatt i integreringsplanen, jf. § 15.\n0 Endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Fravær og permisjoner",
+      "content": "Deltageren kan søke kommunen om tillatelse til fravær fra introduksjonsprogrammet.\nDeltageren kan innvilges permisjon fra introduksjonsprogrammet etter søknad til kommunen.\n0 Endret ved lover 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804), 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Stans av introduksjonsprogrammet",
+      "content": "Kommunen kan stanse introduksjonsprogrammet midlertidig eller permanent for en deltager dersom det er saklig begrunnet i den enkeltes forhold. Forhold som kan begrunne stans i introduksjonsprogrammet er blant annet omfattende fravær, atferd som kan skade deltagerens eller andres mulighet til å gjennomføre programmet eller alvorlig eller langvarig sykdom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:18 a",
+      "chapter": "4",
+      "section": "18 a",
+      "title": "Avslutning av introduksjonsprogram",
+      "content": "Kommunen skal utstede deltagerbevis ved gjennomført eller avbrutt introduksjonsprogram.\nProgrammet skal avsluttes ved oppnådd sluttmål, eller når den fastsatte varigheten utløper. Kommunen bør i samarbeid med andre aktører legge til rette for at deltagere som ikke oppnår sitt sluttmål innenfor programtiden, unngår avbrudd i kvalifiseringen.\n0 Tilføyd ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18a",
+        "source_heading": "§ 18 a."
+      }
+    },
+    {
+      "provision_ref": "4:18 b",
+      "chapter": "4",
+      "section": "18 b",
+      "title": "Forskrifter om introduksjonsprogrammet",
+      "content": "Departementet kan gi forskrift om\na. hvilke opplysninger som kan kartlegges etter § 10\nb. hva som skal regnes som utdanning på videregående nivå etter dette kapittelet\nc. minstekrav for foreldreveiledning og kurs i livsmestring etter § 14 a\nd. fravær, fri og permisjoner fra introduksjonsprogrammet og om dette skal medføre tillegg i programtiden\ne. rett til introduksjonsstønad ved fravær, fri og permisjoner.\n0 Tilføyd ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18b",
+        "source_heading": "§ 18 b."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Rett til introduksjonsstønad",
+      "content": "Deltagere i introduksjonsprogram har rett til introduksjonsstønad.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Beregning av introduksjonsstønad",
+      "content": "Introduksjonsstønaden er på årsbasis lik to ganger folketrygdens grunnbeløp.\nStønaden per måned utgjør 1/12 av stønaden på årsbasis. Stønaden per dag utgjør 1/30 av månedsstønaden. Stønaden per time utgjør 1/1 850 av stønaden på årsbasis.\nDeltagere under 25 år som ikke bor med foreldre, mottar 2/3 stønad. Deltagere under 25 år som bor med en eller begge foreldrene, mottar 1/3 stønad.\nEktefeller eller samboere som begge deltar i introduksjonsprogrammet og ikke har barn, mottar 5/6 stønad hver. Med samboere menes personer som bor sammen i et ekteskapslignende forhold.\n0 Endret ved lov 25 juni 2024 nr. 54 (i kraft 1 juli 2024 iflg. res. 25 juni 2024 nr. 1211).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Reduksjon i stønad på grunn av fravær",
+      "content": "Ved fravær som ikke skyldes sykdom eller andre tvingende velferdsgrunner, og som det ikke er gitt tillatelse til, reduseres stønaden tilsvarende lengden på fraværet, jf. § 20 andre ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Samordning med andre offentlige ytelser",
+      "content": "Introduksjonsstønaden reduseres i den utstrekning deltageren har rett til dagpenger under arbeidsløshet, sykepenger eller foreldrepenger, og retten til disse ytelsene er opparbeidet før vedkommende startet i et introduksjonsprogram. Stønaden reduseres tilsvarende for uføretrygd eller arbeidsavklaringspenger vedkommende mottar.\nDersom deltageren mottar overgangsstønad, reduseres introduksjonsstønaden på årsbasis med 40 prosent av den overgangsstønad som overstiger halvparten av folketrygdens grunnbeløp.\nBarnetrygd og kontantstøtte kommer ikke til fradrag i stønaden.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Egne midler",
+      "content": "Stønaden reduseres ikke på grunn av inntekter av egen eller andres virksomhet eller som følge av formue. Stønaden reduseres heller ikke på grunn av mottatt barnebidrag.\nI den utstrekning lønnet arbeid inngår i programmet, reduseres stønaden tilsvarende den tid arbeidet tar, jf. § 20 andre ledd. Stønaden reduseres krone for krone hvis det er til gunst for deltageren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Utbetaling",
+      "content": "Utbetaling skjer etterskuddsvis på grunnlag av registrert fremmøte. Kommunen beslutter hvordan og til hvilke tidspunkter utbetaling skal skje.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Trekk i og tilbakebetaling av stønad",
+      "content": "Har deltageren fått utbetalt høyere stønad enn det vedkommende har krav på, kan kommunen trekke det overskytende i fremtidig stønad.\nHar noen fått utbetalt en ytelse fordi vedkommende, eller noen som har handlet på vedkommendes vegne, forsettlig eller grovt uaktsomt har gitt uriktige opplysninger eller har fortiet opplysninger, kan kommunen vedta at stønaden skal betales tilbake.\nFår en mottaker av introduksjonsstønad innvilget ytelser som gir grunnlag for trekk i stønaden etter § 22 med tilbakevirkende kraft, kan kommunen kreve hel eller delvis refusjon i beløpet som skal etterbetales, til dekning av sine utlegg til samme formål og for samme tidsrom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "Målgruppe for opplæring i norsk og samfunnskunnskap",
+      "content": "Innvandrere mellom 18 og 67 år som har fått innvilget en oppholdstillatelse som nevnt i § 27 har rett og plikt til å delta i opplæring i norsk og samfunnskunnskap.\nRetten og plikten til opplæring inntrer når oppholdstillatelsen innvilges, eller ved ankomst til Norge for personer som har fått innvilget oppholdstillatelsen før innreise. For personer med oppholdstillatelse nevnt i § 9 første ledd bokstav d inntrer retten og plikten ved førstegangs fornyelse av tillatelsen. For personer med oppholdstillatelse nevnt i § 9 første ledd bokstav e inntrer retten og plikten på tidspunktet personen bosettes etter avtale mellom kommunen og integreringsmyndighetene. I særlige tilfeller kan retten og plikten inntre fra det tidspunktet krav om opplæring settes frem. Departementet kan gi forskrift om hva som skal anses som særlige tilfeller.\nInnvandrere mellom 18 og 67 år som har fått innvilget en oppholdstillatelse som nevnt i § 28 har plikt til å delta i opplæring i norsk og samfunnskunnskap.\nPlikten til opplæring inntrer når oppholdstillatelsen innvilges, eller ved ankomst til Norge for personer som har fått innvilget oppholdstillatelse før innreise.\nAlderen da oppholdstillatelsen ble innvilget er avgjørende for om personen omfattes av første eller tredje ledd. Retten og plikten opphører ved fylte 67 år.\nPersoner nevnt i § 27 som har påbegynt et introduksjonsprogram eller opplæring i norsk og samfunnskunnskap, har rett til å fullføre opplæringen i norsk og samfunnskunnskap, uavhengig av om oppholdstillatelsen endres, eller om de får innvilget statsborgerskap.\nKommunen kan tilby opplæring i norsk og samfunnskunnskap til andre enn personer nevnt i denne bestemmelsen.\n0 Endret ved lov 20 juni 2025 nr. 84 (i kraft 1 sep 2025 iflg. res. 20 juni 2025 nr. 1125).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Oppholdstillatelser som gir rett og plikt til deltagelse i opplæring i norsk og samfunnskunnskap",
+      "content": "Oppholdstillatelser som nevnt i § 9 gir rett og plikt til å delta i opplæring i norsk og samfunnskunnskap. Det samme gjelder andre oppholdstillatelser som danner grunnlag for permanent oppholdstillatelse, med unntak av oppholdstillatelser nevnt i § 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:28",
+      "chapter": "6",
+      "section": "28",
+      "title": "Oppholdstillatelser som gir plikt til deltagelse i opplæring i norsk og samfunnskunnskap",
+      "content": "Følgende oppholdstillatelser gir plikt til å delta i opplæring i norsk og samfunnskunnskap, forutsatt at oppholdstillatelsen danner grunnlag for permanent oppholdstillatelse:\na. oppholdstillatelse etter utlendingsloven § 23\nb. oppholdstillatelse etter utlendingsloven § 25\nc. oppholdstillatelse etter utlendingsloven kapittel 6 som familiemedlem til personer nevnt i bokstav a og b",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "title": "Fritak fra plikt til deltagelse i opplæring i norsk og samfunnskunnskap",
+      "content": "Personer som kan dokumentere et minimum av kunnskaper i norsk eller samisk kan etter søknad fritas fra plikten til å delta i opplæring i norsk. Personer som kan dokumentere et minimum av kunnskaper om det norske samfunnet kan etter søknad fritas fra plikten til å delta i opplæring i samfunnskunnskap.\nDet kan gis fritak dersom det foreligger særlige helsemessige eller andre tungtveiende årsaker som hindrer deltagelse i opplæringen.\nDepartementet kan gi forskrift om fritak fra plikten til deltagelse i opplæring i norsk og samfunnskunnskap.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "title": "Ansvar for opplæring i norsk og samfunnskunnskap",
+      "content": "Kommunen skal treffe vedtak om og sørge for opplæring i norsk og samfunnskunnskap til personer som omfattes av § 26 første og tredje ledd, og som er folkeregistrert i kommunen. Dette gjelder også for personer i målgruppen som bor midlertidig på asylmottak i kommunen.\nFylkeskommunen skal sørge for opplæring i norsk og samfunnskunnskap til personer som omfattes av § 26 første ledd, og som går i videregående opplæring etter opplæringslova på fulltid. Fylkeskommunen skal sørge for opplæring i norsk og samfunnskunnskap til personer som mottar tilbud som kombinerer grunnskoleopplæring og videregående opplæring, dersom fylkeskommunen har hovedansvaret for tilbudet. Dersom ansvaret for tilbudet er delt mellom kommunen og fylkeskommunen på en slik måte at det ikke kan fastslås hvem som har hovedansvaret, skal fylkeskommunen sørge for opplæringen i norsk og samfunnskunnskap, med mindre kommunen og fylkeskommunen avtaler noe annet.\nTilbud om opplæring i norsk og samfunnskunnskap skal gis så snart som mulig og senest innen tre måneder etter folkeregistrering i kommunen eller at krav om deltagelse blir fremsatt. Fylkeskommunens ansvar inntrer ved oppstart i videregående opplæring.\nKommunen kan kreve at personer som omfattes av § 26 tredje og sjuende ledd, betaler for opplæringen.\nKommunen skal utstede deltagerbevis ved gjennomført eller avbrutt opplæring.\nDepartementet kan gi forskrift om innholdet i opplæringen i norsk og samfunnskunnskap.\n0 Endret ved lover 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804), 20 juni 2025 nr. 35 (i kraft 20 juni 2025 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "title": "Krav til opplæring i norsk",
+      "content": "Deltagere i opplæring i norsk skal oppnå et minimumsnivå i norsk. Kommunen og fylkeskommunen skal sørge for opplæring slik at deltageren oppnår minimumsnivået. Minimumsnivået utgjør deltagerens norskmål.\nDepartementet kan gi forskrift om veiledende minimumsnivåer i norsk for ulike grupper deltagere og om den enkeltes norskmål.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "title": "Varighet og omfang av opplæring i norsk",
+      "content": "Retten og plikten til opplæring for en deltager med oppholdstillatelse som nevnt i § 27 gjelder til deltageren har nådd et minimumsnivå i norsk etter § 31, men likevel ikke lenger enn tre år fra den datoen deltageren har fått tilbud om oppstart av opplæringen, med tillegg av godkjent permisjon. En deltager som har utdanning på videregående nivå eller høyere fra før, har ikke rett eller plikt til opplæring i lenger enn 18 måneder fra den datoen deltageren har fått tilbud om oppstart av opplæringen, med tillegg av godkjent permisjon.\nPlikten til opplæring for en deltager med oppholdstillatelse som nevnt i § 28 gjelder til deltageren har nådd et minimumsnivå i norsk etter § 31 eller til gjennomførte 225 timer norskopplæring.\nDepartementet kan gi forskrift om hva som regnes som utdanning på videregående nivå etter paragrafen her.\n0 Endret ved lover 18 juni 2021 nr. 132 (ikr. 1 jan 2022 iflg. res. 18 juni 2021 nr. 1974), 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "title": "Krav til opplæring i samfunnskunnskap",
+      "content": "Deltagere med oppholdstillatelse som nevnt i §§ 27 og 28 skal gjennomføre 75 timer opplæring i samfunnskunnskap. Opplæringen skal gjennomføres på et språk deltageren forstår. Opplæringen skal gjennomføres innen ett år fra den datoen deltageren har fått tilbud om oppstart av opplæringen, med tillegg av godkjent permisjon.\nKravene i første ledd gjelder ikke når fylkeskommunen har ansvar for opplæring i samfunnskunnskap etter § 30 andre ledd.\n0 Endret ved lover 18 juni 2021 nr. 132 (ikr. 1 jan 2022 iflg. res. 18 juni 2021 nr. 1974), 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "title": "Norskplan",
+      "content": "Kommunen skal, samtidig som det treffes vedtak etter § 30, utarbeide en plan for opplæring i norsk og samfunnskunnskap. § 15 gjelder tilsvarende. Kravet om å utarbeide en plan for opplæring i norsk og samfunnskunnskap gjelder ikke når fylkeskommunen har ansvar for opplæringen etter § 30 andre ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "title": "Fravær og permisjoner",
+      "content": "Deltageren kan søke kommunen om tillatelse til fravær fra opplæringen i norsk og samfunnskunnskap.\nDeltageren kan innvilges permisjon fra opplæring i norsk og samfunnskunnskap etter søknad til kommunen.\nDepartementet kan gi forskrift om fravær og permisjoner fra opplæringen i norsk og samfunnskunnskap.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "6:36",
+      "chapter": "6",
+      "section": "36",
+      "title": "Stans av opplæringen",
+      "content": "Kommunen kan stanse opplæringen midlertidig eller permanent for en deltager dersom det er saklig begrunnet i den enkeltes forhold. Forhold som kan begrunne stans i opplæringen er blant annet omfattende fravær, atferd som kan skade deltagerens eller andres mulighet til å gjennomføre opplæringen eller alvorlig eller langvarig sykdom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "6:37",
+      "chapter": "6",
+      "section": "37",
+      "title": "Prøver",
+      "content": "Deltagere som er omfattet av § 26 første ledd, har plikt til å gå opp til avsluttende prøver i norsk og samfunnskunnskap. Plikten gjelder ikke deltagere som har fritak etter § 29.\nAvsluttende prøve i samfunnskunnskap skal gjennomføres innen ett år fra den datoen deltageren har fått tilbud om oppstart av opplæringen, med tillegg av godkjent permisjon, jf. § 33 første ledd tredje punktum. Dette gjelder ikke når fylkeskommunen har ansvar for opplæring i samfunnskunnskap etter § 30 andre ledd.\nDeltagere kan etter søknad fritas fra plikten i første ledd. § 29 gjelder tilsvarende.\nKommunen skal sørge for at deltagere som har plikt til å gå opp til avsluttende prøver i norsk og samfunnskunnskap, får gjennomført prøvene.\nDepartementet kan gi forskrift om prøver i norsk og samfunnskunnskap og om reaksjoner ved overtredelse av bestemmelser om gjennomføringen av prøvene.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "7:37 a",
+      "chapter": "7",
+      "section": "37 a",
+      "title": "Unntak fra plikt til å delta i opplæring i mottak",
+      "content": "Asylsøkere som er i målgruppen for ordningen med kollektiv beskyttelse, har ikke plikt til å delta i opplæring i mottak etter § 5 i loven her.\n0 Tilføyd ved lov 10 juni 2022 nr. 35 (i kraft 15 juni 2022 iflg. res. 10 juni 2022 nr. 994), opphevet ved lov 10 juni 2022 nr. 35 (i kraft 1 juli 2024, endring endret ved lov 2 juni 2023 nr. 17), tilføyd ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2024 iflg. res. 25 juni 2024 nr. 1212). Oppheves ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2026).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37a",
+        "source_heading": "§ 37 a."
+      }
+    },
+    {
+      "provision_ref": "7:37 b",
+      "chapter": "7",
+      "section": "37 b",
+      "title": "Kompetansekartlegging og karriereveiledning",
+      "content": "Retten og plikten til å gjennomføre kompetansekartlegging før bosetting etter § 6 i loven her gjelder ikke for personer som har fått oppholdstillatelse etter utlendingsloven § 34.\nPersoner som har fått oppholdstillatelse etter utlendingsloven § 34, har rett, men ikke plikt, til å gjennomføre kompetansekartlegging etter § 10 i loven her. Personer som deltar i introduksjonsprogram etter § 37 c, har rett og plikt til å gjennomføre kompetansekartleggingen. Kartleggingen skal bidra til å avklare om vedkommende er kvalifisert for tilgjengelige arbeidsplasser i kommunen, og til at introduksjonsprogrammet etter § 37 c blir tilpasset den enkeltes behov.\nPersoner som har fått oppholdstillatelse etter utlendingsloven § 34, har rett, men ikke plikt, til å gjennomføre karriereveiledning etter § 11 i loven her. § 11 fjerde ledd gjelder ikke.\n0 Tilføyd ved lov 10 juni 2022 nr. 35 (i kraft 15 juni 2022 iflg. res. 10 juni 2022 nr. 994), endret ved lov 2 juni 2023 nr. 17 (se endringslovens del II for overgangsregel), opphevet ved lov 10 juni 2022 nr. 35 (i kraft 1 juli 2024, endring endret ved lov 2 juni 2023 nr. 17), tilføyd ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2024 iflg. res. 25 juni 2024 nr. 1212). Oppheves ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2026).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37b",
+        "source_heading": "§ 37 b."
+      }
+    },
+    {
+      "provision_ref": "7:37 c",
+      "chapter": "7",
+      "section": "37 c",
+      "title": "Introduksjonsprogram",
+      "content": "Bestemmelsene i § 14 a første ledd bokstav c om at introduksjonsprogrammet skal inneholde opplæring i samfunnskunnskap, gjelder ikke for personer som har fått oppholdstillatelse etter utlendingsloven § 34.\n0 Tilføyd ved lov 10 juni 2022 nr. 35 (i kraft 15 juni 2022 iflg. res. 10 juni 2022 nr. 994), endret ved lov 2 juni 2023 nr. 17 (se endringsloven for overgangsregel), opphevet ved lov 10 juni 2022 nr. 35 (i kraft 1 juli 2024, endring endret ved lov 2 juni 2023 nr. 17), tilføyd ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2024 iflg. res. 25 juni 2024 nr. 1212), endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102). Oppheves ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2026).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37c",
+        "source_heading": "§ 37 c."
+      }
+    },
+    {
+      "provision_ref": "7:37 d",
+      "chapter": "7",
+      "section": "37 d",
+      "title": "Opplæring i norsk",
+      "content": "Personer som har fått oppholdstillatelse etter utlendingsloven § 34, har rett, men ikke plikt, til å delta i opplæring i norsk etter kapittel 6 i loven her. De har ikke rett eller plikt til opplæring i samfunnskunnskap. For øvrig gjelder § 26.\nRetten til opplæring i norsk gjelder i ett år fra oppstartstidspunktet. For øvrig gjelder §§ 30 og 32 i loven her. Deltagere i opplæringen bør oppnå et minimums-nivå i norsk. Plikten til å avlegge prøver etter § 37 gjelder ikke. Kommunen skal likevel sørge for at deltagerne får mulighet til å avlegge gratis avsluttende prøve i norsk. Departementet kan gi forskrift om utvidet opplæring i norsk.\nKommunen skal, samtidig som det treffes vedtak om opplæring i norsk, utarbeide en norskplan. Norskplanen skal inneholde deltagerens norskmål, omfanget av opplæringen og klagemuligheter. § 34 gjelder ikke.\n0 Tilføyd ved lov 10 juni 2022 nr. 35 (i kraft 15 juni 2022 iflg. res. 10 juni 2022 nr. 994), opphevet ved lov 10 juni 2022 nr. 35 (i kraft 1 juli 2024, endring endret ved lov 2 juni 2023 nr. 17), tilføyd ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2024 iflg. res. 25 juni 2024 nr. 1212). Oppheves ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2026).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37d",
+        "source_heading": "§ 37 d."
+      }
+    },
+    {
+      "provision_ref": "7:37 e",
+      "chapter": "7",
+      "section": "37 e",
+      "title": "Forskriftshjemmel",
+      "content": "Når det er nødvendig for å tilpasse integreringstiltak til personer som er innvilget midlertidig kollektiv beskyttelse etter utlendingsloven § 34, kan departementet gi midlertidig forskrift om\na. målgruppene for og rettigheter og plikter til opplæring i mottak, introduksjonsprogram og opplæring i norsk og samfunnskunnskap etter §§ 5, 8, 9, 26, 27, 28, 37 c og 37 d\nb. retten til karriereveiledning etter §§ 11 og 37 b\nc. utsettelse av frister for oppstart av introduksjonsprogram og opplæring i norsk og samfunnskunnskap etter §§ 12, 30, 37 c og 37 d\nd. sluttmål, varighet og kravene til innhold i introduksjonsprogrammet etter §§ 13, 14, 14 a og 37 c\ne. retten til, beregningen av og reduksjon i introduksjonsstønaden etter kapittel 5 ved deltagelse i introduksjonsprogram etter § 37 c\nf. varigheten og omfanget av opplæring og kravene til opplæringen etter §§ 30 til 33 og 37 d\ng. prøver i norsk og samfunnskunnskap etter § 37\nh. behandling av personopplysninger etter §§ 41 til 44.\nDersom kapasitetshensyn i kommunen eller fylkeskommunen gjør det nødvendig, kan en midlertidig forskrift etter første ledd også fravike kravene som følger av bestemmelsene som nevnt i første ledd bokstav a til h, for andre enn personer som har fått oppholdstillatelse etter utlendingsloven § 34.\n0 Tilføyd ved lov 10 juni 2022 nr. 35 (i kraft 15 juni 2022 iflg. res. 10 juni 2022 nr. 994), opphevet ved lov 10 juni 2022 nr. 35 (i kraft 1 juli 2024, endring endret ved lov 2 juni 2023 nr. 17), tilføyd ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2024 iflg. res. 25 juni 2024 nr. 1212), endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102). Oppheves ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2026).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37e",
+        "source_heading": "§ 37 e."
+      }
+    },
+    {
+      "provision_ref": "7:37 f",
+      "chapter": "7",
+      "section": "37 f",
+      "title": "Behandling av kompetanseopplysninger",
+      "content": "Departementet kan gi midlertidig forskrift om innhenting og utlevering av kompetanseopplysninger, uten hinder av taushetsplikt, fra Integrerings- og mangfoldsdirektoratets registre for å legge til rette for at personer som er innvilget midlertidig kollektiv beskyttelse etter utlendingsloven § 34, kan sysselsettes i det statlige, kommunale eller fylkeskommunale tjenestetilbudet. Med kompetanseopplysninger menes opplysninger som er innhentet ved kompetansekartlegging eller karriereveiledning etter § 37 b, eller opplysninger om den enkeltes kompetanse som er innhentet før bosetting, inkludert personopplysninger som nevnt i personvernforordningen artikkel 9.\n0 Tilføyd ved lov 9 juni 2023 nr. 25, opphevet ved lov 9 juni 2023 nr. 25 (i kraft 1 juli 2024), tilføyd ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2024 iflg. res. 25 juni 2024 nr. 1212). Oppheves ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2026).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37f",
+        "source_heading": "§ 37 f."
+      }
+    },
+    {
+      "provision_ref": "8:38",
+      "chapter": "8",
+      "section": "38",
+      "title": "Forsøk",
+      "content": "Departementet kan etter søknad fra kommunen godkjenne unntak fra loven og forskriftene etter loven i forbindelse med tidsavgrensede pedagogiske, økonomiske eller organisatoriske forsøk. Det kan godkjennes forsøk som innskrenker rettigheter eller utvider plikter etter loven.\nDepartementet kan gi forskrift om rammene for forsøk og kriterier for godkjenning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "8:39",
+      "chapter": "8",
+      "section": "39",
+      "title": "Kompetansekrav for lærere",
+      "content": "Den som skal undervise i norsk i kommunen etter denne loven skal ha relevant faglig og pedagogisk kompetanse.\nDepartementet kan gi forskrift om innholdet i og overgangsregler til kravet i første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "8:40",
+      "chapter": "8",
+      "section": "40",
+      "title": "Forbud mot bruk av klesplagg som helt eller delvis dekker ansiktet",
+      "content": "Personer som deltar i introduksjonsprogram eller opplæring etter loven, skal i forbindelse med opplærings- og vurderingssituasjoner ikke bruke klesplagg som helt eller delvis dekker ansiktet. Med opplæringssituasjon menes opplæring etter loven og opplæringslignende tiltak, inkludert praksis og turer. Forbudet gjelder ikke når bruken av slike plagg er begrunnet i klimatiske, pedagogiske, helsemessige eller sikkerhetsmessige forhold.\nKommunen kan midlertidig stanse introduksjonsprogrammet eller opplæringen etter §§ 18 og 36, for personer som tross skriftlig advarsel bruker klesplagg som helt eller delvis dekker ansiktet i strid med forbudet i første ledd. Personer som opptrer i strid med forbudet i vurderingssituasjoner, kan bortvises fra prøvelokalet.\nFørste ledd gjelder tilsvarende for lærere og andre personer som i opplærings- og vurderingssituasjoner bidrar til kommunens oppfyllelse av pliktene i loven. Det samme gjelder personer med liknende roller som arbeider for private aktører som har etablert samarbeid med kommunen om gjennomføring av kommunens plikter etter loven.\n0 Endret ved lov 20 juni 2025 nr. 35 (i kraft 20 juni 2025 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "8:41",
+      "chapter": "8",
+      "section": "41",
+      "title": "Behandling av personopplysninger",
+      "content": "Offentlige organer kan behandle personopplysninger, herunder personopplysninger nevnt i personvernforordningen artikkel 9 og 10, når det er nødvendig for å utføre oppgaver i forbindelse med:\na. tiltak for å gi asylsøkere kjennskap til norsk språk og samfunnsliv\nb. tiltak for å gi innvandrere kunnskap og ferdigheter for å kunne delta i det norske samfunnslivet\nc. gjennomføring av prøver for dokumentasjon av norskkunnskaper og samfunnskunnskap\nd. bosetting av innvandrere\ne. utbetaling av tilskudd for tiltak som nevnt i bokstav a, b og d\nNår det er nødvendig for å utføre oppgaver nevnt i første ledd kan offentlige organer også behandle personopplysninger om personer som har fått innvilget norsk statsborgerskap etter å ha hatt en oppholdstillatelse etter utlendingsloven.\nOffentlige organer kan behandle personopplysninger, herunder personopplysninger nevnt i personvernforordningen artikkel 9 og 10, når det er nødvendig for å samarbeide med andre tjenester etter § 50.\nPrivate som utfører oppgaver nevnt i første og tredje ledd for stat, fylkeskommune eller kommune, regnes som offentlige organer etter denne paragrafen.\nDepartementet kan gi forskrift om behandlingen av personopplysninger etter denne loven, herunder om krav til behandlingen, bruk av automatiserte avgjørelser, hvilke personopplysninger som kan behandles og reservasjonsadgang for behandling av personopplysninger.\n0 Endret ved lov 11 juni 2021 nr. 78 (i kraft 1 aug 2022 iflg. res. 20 mai 2022 nr. 871).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "8:42",
+      "chapter": "8",
+      "section": "42",
+      "title": "Innhenting og utveksling av personopplysninger",
+      "content": "Personopplysninger nevnt i § 41 første ledd kan innhentes fra utlendingsmyndighetene og folkeregistermyndigheten uten hinder av lovbestemt taushetsplikt. Når hensynet til barnets beste gjør det nødvendig, kan personopplysninger nevnt i § 41 første ledd innhentes fra den kommunale barnevernstjenesten og krisesentre uten hinder av lovbestemt taushetsplikt.\nPersonopplysninger nevnt i § 41 første ledd kan utveksles mellom offentlige organer som har behov for opplysningene for å utføre oppgaver nevnt i § 41 første ledd, uten hinder av lovbestemt taushetsplikt. Unntaket fra taushetsplikten gjelder ikke taushetsplikt etter helsepersonelloven. Dersom det er tilstrekkelig for å oppnå formålet, skal opplysningene kun utleveres i statistisk form eller ved at individualiserende kjennetegn utelates på annen måte.\nPrivate som utfører oppgaver nevnt i § 41 første ledd for stat, fylkeskommune eller kommune regnes som offentlige organer etter denne paragrafen.\nDepartementet kan gi forskrift om innhenting og utveksling av personopplysninger, herunder innhenting av personopplysninger fra helsepersonell og utlevering av personopplysninger til utlendingsmyndighetene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "8:43",
+      "chapter": "8",
+      "section": "43",
+      "title": "Personregister og plikt til å registrere opplysninger",
+      "content": "Det skal opprettes nasjonale personregistre for formålene nevnt i § 41 første ledd. Utlevering av personopplysninger til organer nevnt i § 41 første ledd, jf. fjerde ledd, kan skje gjennom tilgang til slike personregistre.\nKommunen har plikt til å registrere personopplysninger om personer i kommunen som omfattes av loven i personregister nevnt i første ledd. Det samme gjelder fylkeskommunen.\nDepartementet kan gi forskrift om nasjonale personregistre etter denne paragrafen og om kommunens og fylkeskommunens plikt til å registrere personopplysninger.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "8:44",
+      "chapter": "8",
+      "section": "44",
+      "title": "Pålegg om å utlevere personopplysninger",
+      "content": "Når det er nødvendig for å utføre et offentlig organs oppgaver etter loven, kan organet pålegge følgende organer å utlevere personopplysninger om asylsøkere og innvandrere uten hinder av lovbestemt taushetsplikt:\na. Integrerings- og mangfoldsdirektoratet\nb. Direktoratet for høyere utdanning og kompetanse\nc. Arbeids- og velferdsetaten\nd. Utlendingsdirektoratet\ne. Utlendingsnemnda\nf. folkeregistermyndigheten\ng. kommunene\nh. fylkeskommunene\nUnntaket fra taushetsplikten gjelder ikke taushetsplikt etter helsepersonelloven.\nDepartementet kan gi forskrift om adgangen til å pålegge utlevering av personopplysninger etter denne paragrafen.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "8:45",
+      "chapter": "8",
+      "section": "45",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 11 juni 2021 nr. 79 (ikr. 1 jan 2022 iflg. res. 3 sep 2021 nr. 2653).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "9:46",
+      "chapter": "9",
+      "section": "46",
+      "title": "Forholdet til forvaltningsloven",
+      "content": "Forvaltningsloven gjelder med de særregler som er fastsatt i loven her.\nSom enkeltvedtak etter denne loven regnes avgjørelser om:\na. tildeling av introduksjonsprogram, introduksjonsstønad og opplæring i norsk og samfunnskunnskap etter kapittel 4 til 6\nb. fritak fra opplæring i norsk og samfunnskunnskap og prøver etter §§ 29 og 37\nc. utarbeidelse av og vesentlig endring av integrerings- og norskplan etter §§ 15 og 34\nd. stans av introduksjonsprogrammet eller opplæring i norsk og samfunnskunnskap for den enkelte etter §§ 18 og 36\ne. fravær og permisjon\nf. forlengelse av introduksjonsprogram\ng. trekk i introduksjonsstønaden med 50 prosent eller mer av en enkelt utbetaling, og som minst tilsvarer 1/12 av folketrygdens grunnbeløp\nh. tilbakebetaling av stønad på grunn av uriktige opplysninger\ni. refusjon i ytelser fra folketrygden\nPersoner som har rett til tjenester etter denne loven regnes ikke som parter i samme sak. Det kan ikke klages over at en annen har fått ytelsen.\nForvaltningsloven §§ 28 til 34 om klage gjelder ikke for vedtak om tildeling av bosettingskommune.\n0 Endret ved lov 11 juni 2021 nr. 79 (ikr. 1 jan 2022 iflg. res. 3 sep 2021 nr. 2653).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "9:47",
+      "chapter": "9",
+      "section": "47",
+      "title": "Klage",
+      "content": "Enkeltvedtak truffet etter loven kan påklages til statsforvalteren.\nStatsforvalteren kan prøve alle sider av vedtaket. Når det gjelder prøvingen av det frie skjønn, kan statsforvalteren likevel bare endre vedtaket når skjønnet er åpenbart urimelig.\n0 Endret ved lover 7 mai 2021 nr. 34 (ikr. 1 juni 2021 iflg. res. 7 mai 2021 nr. 1416), 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "9:48",
+      "chapter": "9",
+      "section": "48",
+      "title": "Tilsyn",
+      "content": "Statsforvalteren kan føre tilsyn med kommunens oppfyllelse av plikter etter lovens kapittel 3 til 6, §§ 39, 40, 43 og 50 og med plikten til å ha internkontroll etter kommuneloven § 25-1.\nStatsforvalteren kan føre tilsyn med fylkeskommunens oppfyllelse av plikter etter lovens §§ 11 og 30.\nKommuneloven kapittel 30 gjelder for tilsyn etter første og andre ledd.\n0 Endret ved lover 7 mai 2021 nr. 34 (ikr. 1 juni 2021 iflg. res. 7 mai 2021 nr. 1416), 11 juni 2021 nr. 78 (i kraft 1 aug 2022 iflg. res. 20 mai 2022 nr. 871), 20 juni 2025 nr. 35 (i kraft 20 juni 2025 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "9:49",
+      "chapter": "9",
+      "section": "49",
+      "title": "Opplysningsplikt til barnevernet",
+      "content": "Personell som arbeider innenfor rammen av denne loven, skal i sitt arbeid være oppmerksom på forhold som kan føre til tiltak fra barnevernstjenesten.\nPersonell som arbeider innenfor rammen av denne loven, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet opphold\na. når det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller annen alvorlig omsorgssvikt,\nb. når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling,\nc. når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring,\nd. når et barn utsetter sin utvikling for alvorlig fare ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmidler, eller ved andre utpreget skadelige handlinger,\ne. når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.\nPersonell som arbeider innenfor rammen av denne loven, plikter også å gi opplysninger etter pålegg i samsvar med barnevernsloven § 13-4.\n0 Endret ved lover 18 juni 2021 nr. 97 (i kraft 1 jan 2023 iflg. res. 14 okt 2022 nr. 1739), 20 juni 2025 nr. 39 (i kraft 1 jan 2026 iflg. res. 19 des 2025 nr. 2711).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "9:50",
+      "chapter": "9",
+      "section": "50",
+      "title": "Samarbeid og samordning",
+      "content": "Kommunen skal samarbeide med andre tjenesteytere dersom samarbeid er nødvendig for å gi deltagere i introduksjonsprogram et helhetlig og samordnet tjenestetilbud. Dersom deltageren har individuell plan etter annen lov og forskrift, skal kommunen delta i samarbeid om utarbeidelse og oppfølging av tiltak og mål i den individuelle planen.\nKommunen skal samordne tjenestetilbudet etter første ledd. Ved behov skal kommunen bestemme hvilken kommunal tjenesteyter som skal ivareta samordningen. Dersom det er oppnevnt barnekoordinator etter helse- og omsorgstjenesteloven § 7-2 a, skal koordinatoren sørge for samordning av tjenestetilbudet.\nKommunen skal, i tillegg til å følge opp enkelte deltagere, samarbeide med andre tjenesteytere slik at kommunen og de andre tjenesteyterne kan ivareta sine oppgaver etter lov og forskrift.\nMed tjenesteytere menes kommunale, fylkeskommunale og statlige tjenesteytere, private tjenesteytere som utfører oppgaver på vegne av slike tjenesteytere, barnehager som får tilskudd etter barnehageloven § 19 og skoler som får statstilskudd etter privatskolelova § 6-1.\n0 Tilføyd ved lov 11 juni 2021 nr. 78 (i kraft 1 aug 2022 iflg. res. 20 mai 2022 nr. 871, endring endret ved lov 10 juni 2022 nr. 39), endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "10:51",
+      "chapter": "10",
+      "section": "51",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid​1 Kongen bestemmer. Fra samme tidspunkt oppheves lov 4. juli 2003 nr. 80 om introduksjonsordning og norskopplæring for nyankomne innvandrere.\n0 Endret ved lov 11 juni 2021 nr. 78 (i kraft 1 aug 2022 iflg. res. 20 mai 2022 nr. 871, tidligere § 50).\n1 Fra 1 jan 2021 iflg. res. 6 nov 2020 nr. 2247.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "10:52",
+      "chapter": "10",
+      "section": "52",
+      "title": "Overgangsregler",
+      "content": "Loven gjelder for de som får innvilget oppholdstillatelse etter lovens ikrafttredelse. Departementet kan gi forskrift om overgangsreglene. I forskrift kan det gjøres unntak fra reglene i første punktum.\n0 Endret ved lov 11 juni 2021 nr. 78 (i kraft 1 aug 2022 iflg. res. 20 mai 2022 nr. 871, tidligere § 51).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "10:53",
+      "chapter": "10",
+      "section": "53",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –\n0 Endret ved lov 11 juni 2021 nr. 78 (i kraft 1 aug 2022 iflg. res. 20 mai 2022 nr. 871, tidligere § 52).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Formålet med loven er at innvandrere tidlig integreres i det norske samfunnet og blir økonomisk selvstendige. Loven skal bidra til at innvandrere får gode norskkunnskaper, kunnskap om norsk samfunnsliv, formelle kvalifikasjoner og en stabil tilknytning til arbeidslivet.\nLoven skal videre legge til rette for at asylsøkere tidlig får kjennskap til norsk språk og samfunnsliv.\n0 Endret ved lov 20 juni 2025 nr. 35 (i kraft 20 juni 2025 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjoner",
+      "content": "I denne loven menes med:\na. asylsøker: en person som søker beskyttelse etter utlendingsloven kapittel 4\nb. innvandrer: en person med oppholdstillatelse i Norge etter utlendingsloven\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "title": "Kommunens ansvar",
+      "content": "Kommunen er ansvarlig for tidlig kvalifisering etter kapittel 3, introduksjonsprogram etter kapittel 4 og opplæring i norsk og samfunnskunnskap etter kapittel 6.\nOpplæring og tjenester som kommunen yter etter denne loven, skal være forsvarlige.\nKommunens plikter gjelder ikke overfor personer som har avbrutt eller avvist deltagelse i opplæring i mottak, introduksjonsprogram eller opplæring i norsk og samfunnskunnskap.\nKommunen kan gi andre i oppdrag å utføre kommunens oppgaver etter loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Fylkeskommunens ansvar",
+      "content": "Fylkeskommunen er ansvarlig for det regionale integreringsarbeidet. Fylkeskommunen skal utarbeide planer for kvalifisering av innvandrere.\nFylkeskommunen skal anbefale hvor mange flyktninger som bør bosettes i den enkelte kommune i fylket.\nFylkeskommunen skal sørge for tilbud om karriereveiledning etter § 11 og opplæring i norsk og samfunnskunnskap etter § 30 andre ledd.\nDepartementet kan gi forskrift om fylkeskommunens ansvar for det regionale integreringsarbeidet.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "3:5",
+      "chapter": "3",
+      "section": "5",
+      "title": "Plikt til å delta i opplæring i mottak",
+      "content": "Asylsøkere som bor i mottak og som er over 18 år, har plikt til å delta i opplæring i norsk og samfunnskunnskap. Plikten gjelder ikke dersom asylsøkeren\na. får sin søknad behandlet etter hurtigprosedyrer i Utlendingsdirektoratet\nb. nektes å få asylsøknaden realitetsbehandlet etter utlendingsloven § 32\nc. bor på ankomstsenter eller i transittmottak\nd. har fått avslag på søknad om beskyttelse av Utlendingsdirektoratet\nKommunen skal sørge for opplæringen så snart som mulig etter at asylsøkere som omfattes av plikten etter første ledd, er registrert i et mottak i kommunen.\nDepartementet kan gi forskrift om omfanget av og innholdet i opplæringen og om fritak fra plikten til å delta i opplæringen.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "3:6",
+      "chapter": "3",
+      "section": "6",
+      "title": "Kompetansekartlegging før bosetting i en kommune",
+      "content": "Vertskommuner for mottak skal kartlegge kompetansen til personer som bor i mottak, og som har fått en oppholdstillatelse som nevnt i § 9.\nIntegrerings- og mangfoldsdirektoratet skal kartlegge kompetansen til overføringsflyktninger før innreise til Norge. Med overføringsflyktning menes en person som har fått flyktningstatus, jf. utlendingsloven § 28 første ledd, før innreise til Norge, eller som har fått en innreisetillatelse i påvente av behandling av sin søknad om flyktningstatus.\nKartleggingen skal bidra til bosetting i en kommune med relevant tilbud om arbeid eller utdanning og til at introduksjonsprogrammet blir tilpasset den enkeltes behov. Den enkelte har rett og plikt til å gjennomføre kartleggingen.\nKravene til kartleggingen i § 10 andre ledd og forskrift etter § 10 fjerde ledd gjelder tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Andre integreringsfremmende tiltak før bosetting i en kommune",
+      "content": "Vertskommuner for mottak kan tilby standardiserte elementer fra introduksjonsprogrammet, jf. § 14 a første og andre ledd, og andre integreringsfremmende tiltak til personer som bor i mottak, og som har fått en oppholdstillatelse som nevnt i § 9.\n0 Endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "4:8",
+      "chapter": "4",
+      "section": "8",
+      "title": "Målgruppe for introduksjonsprogrammet",
+      "content": "Innvandrere mellom 18 og 55 år som har fått innvilget en oppholdstillatelse som nevnt i § 9, og som er bosatt i kommunen etter avtale med integreringsmyndighetene, har rett og plikt til å delta i introduksjonsprogram. Alderen da oppholdstillatelsen ble innvilget er avgjørende for om personen omfattes av første punktum. Personen må ha bodd i en kommune med en oppholdstillatelse nevnt i § 9 i mindre enn to år når vedtak etter § 12 treffes.\nKravet om å være bosatt etter avtale gjelder ikke personer som har fått oppholdstillatelse som nevnt i § 9 første ledd bokstav f og g. Kravet gjelder heller ikke for personer som får innvilget oppholdstillatelse som nevnt i § 9 første ledd bokstav a etter å ha hatt en oppholdstillatelse som nevnt i § 9 første ledd bokstav f.\nKommunen kan tilby introduksjonsprogram til innvandrere med oppholdstillatelse etter utlendingsloven kapittel 6 som er familiemedlemmer til andre enn personer nevnt i § 9 første ledd bokstav f, til innvandrere over 55 år med oppholdsgrunnlag som nevnt i § 9 og til innvandrere som nevnt i første ledd som er bosatt uten avtale med kommunen. Den som tilbys program, må ha bodd i en kommune i mindre enn to år når vedtak etter § 12 treffes.\nFørste ledd gjelder ikke innvandrere som er i arbeid eller har tilbud om arbeid, når stillingen utgjør minst 30 timer i uken. Første ledd gjelder likevel dersom arbeidsforholdet opphører eller arbeidstilbudet bortfaller innen fristen satt i første ledd tredje punktum.\nNordiske borgere og utlendinger som omfattes av Avtale om Det europeiske økonomiske samarbeidsområde (EØS-avtalen), omfattes ikke av denne paragrafen.\n0 Endret ved lover 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804), 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102, gjelder fjerde og nytt femte ledd). Endres ved lov 20 juni 2025 nr. 35 (i kraft fra den tid Kongen bestemmer, gjelder første ledd første punktum og tredje ledd første punktum).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "4:9",
+      "chapter": "4",
+      "section": "9",
+      "title": "Oppholdstillatelser som gir rett og plikt til deltagelse i introduksjonsprogrammet",
+      "content": "Følgende oppholdstillatelser gir rett og plikt til å delta i introduksjonsprogram:\na. oppholdstillatelse som flyktning etter utlendingsloven § 28\nb. oppholdstillatelse etter innreisetillatelse som overføringsflyktning etter utlendingsloven § 35 tredje ledd\nc. fornybar oppholdstillatelse etter utlendingsloven § 38 første ledd på grunnlag av søknad om beskyttelse\nd. begrenset oppholdstillatelse som medlem av barnefamilie i påvente av dokumentert identitet etter utlendingsloven § 38 femte ledd bokstav a eller b\ne. oppholdstillatelse på grunnlag av kollektiv beskyttelse i en massefluktsituasjon etter utlendingsloven § 34\nf. oppholdstillatelse etter utlendingsloven kapittel 6 som familiemedlem til personer som nevnt i bokstav a til e, forutsatt at referansepersonen har vært bosatt i en kommune i mindre enn fem år før det søkes om familiegjenforening\ng. fornybar oppholdstillatelse etter utlendingsloven § 53 første ledd bokstav b, andre ledd eller tredje ledd\nFørste ledd bokstav f omfatter også familiemedlemmer til personer som har fått permanent oppholdstillatelse på grunnlag av en oppholdstillatelse som nevnt i bokstav a til e.\nPersoner som har påbegynt et introduksjonsprogram har rett til å fullføre sitt program uavhengig av om oppholdstillatelsen endres eller om de får innvilget statsborgerskap.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "title": "Kompetansekartlegging etter bosetting i en kommune",
+      "content": "Personer som omfattes av § 8 første ledd, har rett og plikt til å gjennomføre kompetansekartlegging etter bosetting i en kommune, med mindre personen har gjennomført kompetansekartlegging etter § 6.\nKompetansekartleggingen skal bidra til at introduksjonsprogrammet blir tilpasset den enkeltes behov. Kartleggingen skal minst omfatte hvilke språkkunnskaper og hvilken utdanning, arbeidserfaring og annen relevant kompetanse personen har.\nKommunen skal sørge for kompetansekartleggingen.\n0 Endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "Karriereveiledning",
+      "content": "Personer som omfattes av § 8 første ledd, har rett og plikt til å gjennomføre karriereveiledning. Karriereveiledningen skal bygge på kompetansekartleggingen etter §§ 6 eller 10, og bør gjennomføres før det fattes vedtak etter § 12.\nKarriereveiledningen skal bidra til at den enkelte kan ta informerte valg om arbeid og utdanning og til at introduksjonsprogrammet blir tilpasset den enkeltes behov.\nFylkeskommunen skal sørge for karriereveiledningen.\nNår karriereveiledningen er gjennomført, bør det gis en anbefaling om arbeid eller utdanning for den enkelte deltager innenfor rammen av §§ 13, 14 og 14 a.\n0 Endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Ansvar for introduksjonsprogrammet",
+      "content": "Kommunen skal sørge for introduksjonsprogram etter dette kapittelet.\nKommunen skal treffe vedtak om og sørge for oppstart av introduksjonsprogram til innvandrere som omfattes av § 8 første ledd, så snart som mulig og senest innen tre måneder etter bosetting eller etter at det fremsettes krav om program.\n0 Endret ved lover 20 juni 2025 nr. 35 (i kraft 20 juni 2025 iflg. res. 20 juni 2025 nr. 1102), 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:12 a",
+      "chapter": "4",
+      "section": "12 a",
+      "title": "Samordning av introduksjonsprogrammet",
+      "content": "Kommunen skal sørge for at innholdet i introduksjonsprogrammet er helhetlig og samordnet. Kommunen skal samarbeide med relevante tjenesteytere og aktører om introduksjonsprogrammet.\n0 Tilføyd ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12a",
+        "source_heading": "§ 12 a."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Introduksjonsprogram for deltagere med utdanning på videregående nivå eller høyere",
+      "content": "Introduksjonsprogrammet for deltagere med utdanning på videregående nivå eller høyere skal kvalifisere for arbeid eller forberede for utdanning over videregående nivå eller yrkesfaglig rekvalifisering etter opplæringslova § 18-4. Programmet for deltagere over 55 år skal kvalifisere for arbeid.\nKommunen skal sette et sluttmål for den enkeltes deltagelse i introduksjonsprogrammet.\nIntroduksjonsprogrammet skal være helårig og på fulltid og vare i inntil tolv måneder. Programmet kan ikke forlenges.\n0 Endret ved lover 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804), 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Introduksjonsprogram for deltagere som ikke har utdanning på videregående nivå eller høyere",
+      "content": "Introduksjonsprogrammet for deltagere som ikke har utdanning på videregående nivå eller høyere, skal gi formell opplæring på videregående nivå eller kvalifisere for arbeid. Programmet for deltagere over 55 år skal kvalifisere for arbeid. Programmet skal være helårig og på fulltid.\nKommunen skal sette et sluttmål for den enkeltes deltagelse i introduksjonsprogrammet.\nSluttmålet for deltagere under 25 år som ikke har utdanning på videregående nivå eller høyere, skal være fullført videregående opplæring. Deltagere under 25 år som ikke ønsker eller ikke vil kunne fullføre videregående opplæring i programtiden, skal ha deler av videregående opplæring som sluttmål eller delta i programmer som skal kvalifisere for arbeid.\nProgrammet for deltagere som har som sluttmål å fullføre deler av videregående opplæring, skal vare i inntil tre år og kan forlenges med inntil ett år. Programmet for deltagere som har som sluttmål å fullføre videregående opplæring, skal vare i inntil fire år og kan forlenges med inntil ett år. Programmene etter første og andre punktum skal forlenges hvis det kan bidra til at deltageren oppnår sluttmålet sitt.\nProgrammet for deltagere som har som sluttmål å fullføre fag- og yrkesopplæring, kan vare i inntil fem år og kan ikke forlenges.\nProgrammer som skal kvalifisere for arbeid, skal vare i inntil to år og kan ikke forlenges.\n0 Endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:14 a",
+      "chapter": "4",
+      "section": "14 a",
+      "title": "Innholdet i introduksjonsprogrammet",
+      "content": "Introduksjonsprogrammet skal minst inneholde:\na. arbeids- eller utdanningsrettede elementer\nb. opplæring i norsk\nc. opplæring i samfunnskunnskap\nd. kurs i livsmestring.\nInnholdet skal tilpasses den enkeltes behov og sluttmålet for programmet. Deltagere som har barn under 18 år, eller som får barn i løpet av programmet, skal gjennomføre foreldreveiledning.\nNår deltagere i et program som skal kvalifisere for arbeid, har utdanning på videregående nivå eller høyere, skal arbeidsrettede elementer gjennomsnittlig minst utgjøre 15 timer i uken av programtiden etter tre måneder i introduksjonsprogrammet. Har deltagerne ikke utdanning på videregående nivå eller høyere, skal arbeidsrettede elementer gjennomsnittlig minst utgjøre 15 timer i uken av programtiden etter seks måneder i introduksjonsprogrammet.\nMinstekravet til arbeidsrettede elementer etter tredje ledd oppfylles ved praksis på en arbeidsplass, arbeid på deltid, korte yrkes- eller bransjekurs, arbeidsmarkedstiltak i regi av Nav eller andre lignende tiltak.\n0 Tilføyd ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14a",
+        "source_heading": "§ 14 a."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Integreringsplan",
+      "content": "Kommunen skal, samtidig som det treffes vedtak etter § 12, utarbeide en integreringsplan.\nPlanen skal utarbeides sammen med deltageren og utformes på bakgrunn av gjennomført kompetansekartlegging, karriereveiledning og en vurdering av hvilke elementer deltageren kan nyttiggjøre seg. Planen skal bygge videre på elementer deltageren har gjennomført før bosetting i kommunen. Kommunen skal veilede deltagere som har behov for realkompetansevurdering, om retten til slik vurdering etter opplæringslova § 18-8.\nIntegreringsplanen skal minst inneholde deltagerens sluttmål etter §§ 13 eller 14, deltagerens norskmål etter § 31, deltagerens langsiktige mål, angivelse av omfanget av opplæringen i norsk og samfunnskunnskap, programmets varighet etter §§ 13 eller 14, elementene i programmet og klagemuligheter.\nDet skal begrunnes i planen hvilke arbeids- eller utdanningsrettede elementer som er valgt, og hvordan disse vil styrke den enkeltes mulighet for deltagelse i yrkeslivet og oppnåelse av det fastsatte norskmålet.\nKommunen avgjør innholdet i integreringsplanen dersom det er uenighet mellom kommunen og den enkelte.\nPlanen skal vurderes jevnlig og ved vesentlig endring i deltagerens livssituasjon.\nDeltagere i introduksjonsprogram skal ha én samlet integreringsplan for deltagelse i introduksjonsprogram og opplæring i norsk og samfunnskunnskap.\n0 Endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Integreringskontrakt",
+      "content": "Kommunen og deltageren skal inngå en integreringskontrakt samtidig som det utarbeides en integreringsplan etter § 15. Kontrakten skal angi kommunens og deltagerens gjensidige forpliktelser.\nKommunen skal i kontrakten forplikte seg til å tilby introduksjonsprogram og opplæring i norsk og samfunnskunnskap etter kapittel 4 og 6, slik at deltageren kan oppfylle sitt sluttmål etter §§ 13 eller 14 og sitt norskmål etter § 31.\nDeltageren skal i kontrakten forplikte seg til å følge opp målene og elementene som er fastsatt i integreringsplanen, jf. § 15.\n0 Endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Fravær og permisjoner",
+      "content": "Deltageren kan søke kommunen om tillatelse til fravær fra introduksjonsprogrammet.\nDeltageren kan innvilges permisjon fra introduksjonsprogrammet etter søknad til kommunen.\n0 Endret ved lover 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804), 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Stans av introduksjonsprogrammet",
+      "content": "Kommunen kan stanse introduksjonsprogrammet midlertidig eller permanent for en deltager dersom det er saklig begrunnet i den enkeltes forhold. Forhold som kan begrunne stans i introduksjonsprogrammet er blant annet omfattende fravær, atferd som kan skade deltagerens eller andres mulighet til å gjennomføre programmet eller alvorlig eller langvarig sykdom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:18 a",
+      "chapter": "4",
+      "section": "18 a",
+      "title": "Avslutning av introduksjonsprogram",
+      "content": "Kommunen skal utstede deltagerbevis ved gjennomført eller avbrutt introduksjonsprogram.\nProgrammet skal avsluttes ved oppnådd sluttmål, eller når den fastsatte varigheten utløper. Kommunen bør i samarbeid med andre aktører legge til rette for at deltagere som ikke oppnår sitt sluttmål innenfor programtiden, unngår avbrudd i kvalifiseringen.\n0 Tilføyd ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18a",
+        "source_heading": "§ 18 a."
+      }
+    },
+    {
+      "provision_ref": "4:18 b",
+      "chapter": "4",
+      "section": "18 b",
+      "title": "Forskrifter om introduksjonsprogrammet",
+      "content": "Departementet kan gi forskrift om\na. hvilke opplysninger som kan kartlegges etter § 10\nb. hva som skal regnes som utdanning på videregående nivå etter dette kapittelet\nc. minstekrav for foreldreveiledning og kurs i livsmestring etter § 14 a\nd. fravær, fri og permisjoner fra introduksjonsprogrammet og om dette skal medføre tillegg i programtiden\ne. rett til introduksjonsstønad ved fravær, fri og permisjoner.\n0 Tilføyd ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18b",
+        "source_heading": "§ 18 b."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Rett til introduksjonsstønad",
+      "content": "Deltagere i introduksjonsprogram har rett til introduksjonsstønad.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Beregning av introduksjonsstønad",
+      "content": "Introduksjonsstønaden er på årsbasis lik to ganger folketrygdens grunnbeløp.\nStønaden per måned utgjør 1/12 av stønaden på årsbasis. Stønaden per dag utgjør 1/30 av månedsstønaden. Stønaden per time utgjør 1/1 850 av stønaden på årsbasis.\nDeltagere under 25 år som ikke bor med foreldre, mottar 2/3 stønad. Deltagere under 25 år som bor med en eller begge foreldrene, mottar 1/3 stønad.\nEktefeller eller samboere som begge deltar i introduksjonsprogrammet og ikke har barn, mottar 5/6 stønad hver. Med samboere menes personer som bor sammen i et ekteskapslignende forhold.\n0 Endret ved lov 25 juni 2024 nr. 54 (i kraft 1 juli 2024 iflg. res. 25 juni 2024 nr. 1211).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Reduksjon i stønad på grunn av fravær",
+      "content": "Ved fravær som ikke skyldes sykdom eller andre tvingende velferdsgrunner, og som det ikke er gitt tillatelse til, reduseres stønaden tilsvarende lengden på fraværet, jf. § 20 andre ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Samordning med andre offentlige ytelser",
+      "content": "Introduksjonsstønaden reduseres i den utstrekning deltageren har rett til dagpenger under arbeidsløshet, sykepenger eller foreldrepenger, og retten til disse ytelsene er opparbeidet før vedkommende startet i et introduksjonsprogram. Stønaden reduseres tilsvarende for uføretrygd eller arbeidsavklaringspenger vedkommende mottar.\nDersom deltageren mottar overgangsstønad, reduseres introduksjonsstønaden på årsbasis med 40 prosent av den overgangsstønad som overstiger halvparten av folketrygdens grunnbeløp.\nBarnetrygd og kontantstøtte kommer ikke til fradrag i stønaden.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Egne midler",
+      "content": "Stønaden reduseres ikke på grunn av inntekter av egen eller andres virksomhet eller som følge av formue. Stønaden reduseres heller ikke på grunn av mottatt barnebidrag.\nI den utstrekning lønnet arbeid inngår i programmet, reduseres stønaden tilsvarende den tid arbeidet tar, jf. § 20 andre ledd. Stønaden reduseres krone for krone hvis det er til gunst for deltageren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Utbetaling",
+      "content": "Utbetaling skjer etterskuddsvis på grunnlag av registrert fremmøte. Kommunen beslutter hvordan og til hvilke tidspunkter utbetaling skal skje.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Trekk i og tilbakebetaling av stønad",
+      "content": "Har deltageren fått utbetalt høyere stønad enn det vedkommende har krav på, kan kommunen trekke det overskytende i fremtidig stønad.\nHar noen fått utbetalt en ytelse fordi vedkommende, eller noen som har handlet på vedkommendes vegne, forsettlig eller grovt uaktsomt har gitt uriktige opplysninger eller har fortiet opplysninger, kan kommunen vedta at stønaden skal betales tilbake.\nFår en mottaker av introduksjonsstønad innvilget ytelser som gir grunnlag for trekk i stønaden etter § 22 med tilbakevirkende kraft, kan kommunen kreve hel eller delvis refusjon i beløpet som skal etterbetales, til dekning av sine utlegg til samme formål og for samme tidsrom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "Målgruppe for opplæring i norsk og samfunnskunnskap",
+      "content": "Innvandrere mellom 18 og 67 år som har fått innvilget en oppholdstillatelse som nevnt i § 27 har rett og plikt til å delta i opplæring i norsk og samfunnskunnskap.\nRetten og plikten til opplæring inntrer når oppholdstillatelsen innvilges, eller ved ankomst til Norge for personer som har fått innvilget oppholdstillatelsen før innreise. For personer med oppholdstillatelse nevnt i § 9 første ledd bokstav d inntrer retten og plikten ved førstegangs fornyelse av tillatelsen. For personer med oppholdstillatelse nevnt i § 9 første ledd bokstav e inntrer retten og plikten på tidspunktet personen bosettes etter avtale mellom kommunen og integreringsmyndighetene. I særlige tilfeller kan retten og plikten inntre fra det tidspunktet krav om opplæring settes frem. Departementet kan gi forskrift om hva som skal anses som særlige tilfeller.\nInnvandrere mellom 18 og 67 år som har fått innvilget en oppholdstillatelse som nevnt i § 28 har plikt til å delta i opplæring i norsk og samfunnskunnskap.\nPlikten til opplæring inntrer når oppholdstillatelsen innvilges, eller ved ankomst til Norge for personer som har fått innvilget oppholdstillatelse før innreise.\nAlderen da oppholdstillatelsen ble innvilget er avgjørende for om personen omfattes av første eller tredje ledd. Retten og plikten opphører ved fylte 67 år.\nPersoner nevnt i § 27 som har påbegynt et introduksjonsprogram eller opplæring i norsk og samfunnskunnskap, har rett til å fullføre opplæringen i norsk og samfunnskunnskap, uavhengig av om oppholdstillatelsen endres, eller om de får innvilget statsborgerskap.\nKommunen kan tilby opplæring i norsk og samfunnskunnskap til andre enn personer nevnt i denne bestemmelsen.\n0 Endret ved lov 20 juni 2025 nr. 84 (i kraft 1 sep 2025 iflg. res. 20 juni 2025 nr. 1125).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Oppholdstillatelser som gir rett og plikt til deltagelse i opplæring i norsk og samfunnskunnskap",
+      "content": "Oppholdstillatelser som nevnt i § 9 gir rett og plikt til å delta i opplæring i norsk og samfunnskunnskap. Det samme gjelder andre oppholdstillatelser som danner grunnlag for permanent oppholdstillatelse, med unntak av oppholdstillatelser nevnt i § 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:28",
+      "chapter": "6",
+      "section": "28",
+      "title": "Oppholdstillatelser som gir plikt til deltagelse i opplæring i norsk og samfunnskunnskap",
+      "content": "Følgende oppholdstillatelser gir plikt til å delta i opplæring i norsk og samfunnskunnskap, forutsatt at oppholdstillatelsen danner grunnlag for permanent oppholdstillatelse:\na. oppholdstillatelse etter utlendingsloven § 23\nb. oppholdstillatelse etter utlendingsloven § 25\nc. oppholdstillatelse etter utlendingsloven kapittel 6 som familiemedlem til personer nevnt i bokstav a og b",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "title": "Fritak fra plikt til deltagelse i opplæring i norsk og samfunnskunnskap",
+      "content": "Personer som kan dokumentere et minimum av kunnskaper i norsk eller samisk kan etter søknad fritas fra plikten til å delta i opplæring i norsk. Personer som kan dokumentere et minimum av kunnskaper om det norske samfunnet kan etter søknad fritas fra plikten til å delta i opplæring i samfunnskunnskap.\nDet kan gis fritak dersom det foreligger særlige helsemessige eller andre tungtveiende årsaker som hindrer deltagelse i opplæringen.\nDepartementet kan gi forskrift om fritak fra plikten til deltagelse i opplæring i norsk og samfunnskunnskap.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "title": "Ansvar for opplæring i norsk og samfunnskunnskap",
+      "content": "Kommunen skal treffe vedtak om og sørge for opplæring i norsk og samfunnskunnskap til personer som omfattes av § 26 første og tredje ledd, og som er folkeregistrert i kommunen. Dette gjelder også for personer i målgruppen som bor midlertidig på asylmottak i kommunen.\nFylkeskommunen skal sørge for opplæring i norsk og samfunnskunnskap til personer som omfattes av § 26 første ledd, og som går i videregående opplæring etter opplæringslova på fulltid. Fylkeskommunen skal sørge for opplæring i norsk og samfunnskunnskap til personer som mottar tilbud som kombinerer grunnskoleopplæring og videregående opplæring, dersom fylkeskommunen har hovedansvaret for tilbudet. Dersom ansvaret for tilbudet er delt mellom kommunen og fylkeskommunen på en slik måte at det ikke kan fastslås hvem som har hovedansvaret, skal fylkeskommunen sørge for opplæringen i norsk og samfunnskunnskap, med mindre kommunen og fylkeskommunen avtaler noe annet.\nTilbud om opplæring i norsk og samfunnskunnskap skal gis så snart som mulig og senest innen tre måneder etter folkeregistrering i kommunen eller at krav om deltagelse blir fremsatt. Fylkeskommunens ansvar inntrer ved oppstart i videregående opplæring.\nKommunen kan kreve at personer som omfattes av § 26 tredje og sjuende ledd, betaler for opplæringen.\nKommunen skal utstede deltagerbevis ved gjennomført eller avbrutt opplæring.\nDepartementet kan gi forskrift om innholdet i opplæringen i norsk og samfunnskunnskap.\n0 Endret ved lover 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804), 20 juni 2025 nr. 35 (i kraft 20 juni 2025 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "title": "Krav til opplæring i norsk",
+      "content": "Deltagere i opplæring i norsk skal oppnå et minimumsnivå i norsk. Kommunen og fylkeskommunen skal sørge for opplæring slik at deltageren oppnår minimumsnivået. Minimumsnivået utgjør deltagerens norskmål.\nDepartementet kan gi forskrift om veiledende minimumsnivåer i norsk for ulike grupper deltagere og om den enkeltes norskmål.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "title": "Varighet og omfang av opplæring i norsk",
+      "content": "Retten og plikten til opplæring for en deltager med oppholdstillatelse som nevnt i § 27 gjelder til deltageren har nådd et minimumsnivå i norsk etter § 31, men likevel ikke lenger enn tre år fra den datoen deltageren har fått tilbud om oppstart av opplæringen, med tillegg av godkjent permisjon. En deltager som har utdanning på videregående nivå eller høyere fra før, har ikke rett eller plikt til opplæring i lenger enn 18 måneder fra den datoen deltageren har fått tilbud om oppstart av opplæringen, med tillegg av godkjent permisjon.\nPlikten til opplæring for en deltager med oppholdstillatelse som nevnt i § 28 gjelder til deltageren har nådd et minimumsnivå i norsk etter § 31 eller til gjennomførte 225 timer norskopplæring.\nDepartementet kan gi forskrift om hva som regnes som utdanning på videregående nivå etter paragrafen her.\n0 Endret ved lover 18 juni 2021 nr. 132 (ikr. 1 jan 2022 iflg. res. 18 juni 2021 nr. 1974), 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "title": "Krav til opplæring i samfunnskunnskap",
+      "content": "Deltagere med oppholdstillatelse som nevnt i §§ 27 og 28 skal gjennomføre 75 timer opplæring i samfunnskunnskap. Opplæringen skal gjennomføres på et språk deltageren forstår. Opplæringen skal gjennomføres innen ett år fra den datoen deltageren har fått tilbud om oppstart av opplæringen, med tillegg av godkjent permisjon.\nKravene i første ledd gjelder ikke når fylkeskommunen har ansvar for opplæring i samfunnskunnskap etter § 30 andre ledd.\n0 Endret ved lover 18 juni 2021 nr. 132 (ikr. 1 jan 2022 iflg. res. 18 juni 2021 nr. 1974), 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "title": "Norskplan",
+      "content": "Kommunen skal, samtidig som det treffes vedtak etter § 30, utarbeide en plan for opplæring i norsk og samfunnskunnskap. § 15 gjelder tilsvarende. Kravet om å utarbeide en plan for opplæring i norsk og samfunnskunnskap gjelder ikke når fylkeskommunen har ansvar for opplæringen etter § 30 andre ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "title": "Fravær og permisjoner",
+      "content": "Deltageren kan søke kommunen om tillatelse til fravær fra opplæringen i norsk og samfunnskunnskap.\nDeltageren kan innvilges permisjon fra opplæring i norsk og samfunnskunnskap etter søknad til kommunen.\nDepartementet kan gi forskrift om fravær og permisjoner fra opplæringen i norsk og samfunnskunnskap.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "6:36",
+      "chapter": "6",
+      "section": "36",
+      "title": "Stans av opplæringen",
+      "content": "Kommunen kan stanse opplæringen midlertidig eller permanent for en deltager dersom det er saklig begrunnet i den enkeltes forhold. Forhold som kan begrunne stans i opplæringen er blant annet omfattende fravær, atferd som kan skade deltagerens eller andres mulighet til å gjennomføre opplæringen eller alvorlig eller langvarig sykdom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "6:37",
+      "chapter": "6",
+      "section": "37",
+      "title": "Prøver",
+      "content": "Deltagere som er omfattet av § 26 første ledd, har plikt til å gå opp til avsluttende prøver i norsk og samfunnskunnskap. Plikten gjelder ikke deltagere som har fritak etter § 29.\nAvsluttende prøve i samfunnskunnskap skal gjennomføres innen ett år fra den datoen deltageren har fått tilbud om oppstart av opplæringen, med tillegg av godkjent permisjon, jf. § 33 første ledd tredje punktum. Dette gjelder ikke når fylkeskommunen har ansvar for opplæring i samfunnskunnskap etter § 30 andre ledd.\nDeltagere kan etter søknad fritas fra plikten i første ledd. § 29 gjelder tilsvarende.\nKommunen skal sørge for at deltagere som har plikt til å gå opp til avsluttende prøver i norsk og samfunnskunnskap, får gjennomført prøvene.\nDepartementet kan gi forskrift om prøver i norsk og samfunnskunnskap og om reaksjoner ved overtredelse av bestemmelser om gjennomføringen av prøvene.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "7:37 a",
+      "chapter": "7",
+      "section": "37 a",
+      "title": "Unntak fra plikt til å delta i opplæring i mottak",
+      "content": "Asylsøkere som er i målgruppen for ordningen med kollektiv beskyttelse, har ikke plikt til å delta i opplæring i mottak etter § 5 i loven her.\n0 Tilføyd ved lov 10 juni 2022 nr. 35 (i kraft 15 juni 2022 iflg. res. 10 juni 2022 nr. 994), opphevet ved lov 10 juni 2022 nr. 35 (i kraft 1 juli 2024, endring endret ved lov 2 juni 2023 nr. 17), tilføyd ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2024 iflg. res. 25 juni 2024 nr. 1212). Oppheves ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2026).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37a",
+        "source_heading": "§ 37 a."
+      }
+    },
+    {
+      "provision_ref": "7:37 b",
+      "chapter": "7",
+      "section": "37 b",
+      "title": "Kompetansekartlegging og karriereveiledning",
+      "content": "Retten og plikten til å gjennomføre kompetansekartlegging før bosetting etter § 6 i loven her gjelder ikke for personer som har fått oppholdstillatelse etter utlendingsloven § 34.\nPersoner som har fått oppholdstillatelse etter utlendingsloven § 34, har rett, men ikke plikt, til å gjennomføre kompetansekartlegging etter § 10 i loven her. Personer som deltar i introduksjonsprogram etter § 37 c, har rett og plikt til å gjennomføre kompetansekartleggingen. Kartleggingen skal bidra til å avklare om vedkommende er kvalifisert for tilgjengelige arbeidsplasser i kommunen, og til at introduksjonsprogrammet etter § 37 c blir tilpasset den enkeltes behov.\nPersoner som har fått oppholdstillatelse etter utlendingsloven § 34, har rett, men ikke plikt, til å gjennomføre karriereveiledning etter § 11 i loven her. § 11 fjerde ledd gjelder ikke.\n0 Tilføyd ved lov 10 juni 2022 nr. 35 (i kraft 15 juni 2022 iflg. res. 10 juni 2022 nr. 994), endret ved lov 2 juni 2023 nr. 17 (se endringslovens del II for overgangsregel), opphevet ved lov 10 juni 2022 nr. 35 (i kraft 1 juli 2024, endring endret ved lov 2 juni 2023 nr. 17), tilføyd ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2024 iflg. res. 25 juni 2024 nr. 1212). Oppheves ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2026).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37b",
+        "source_heading": "§ 37 b."
+      }
+    },
+    {
+      "provision_ref": "7:37 c",
+      "chapter": "7",
+      "section": "37 c",
+      "title": "Introduksjonsprogram",
+      "content": "Bestemmelsene i § 14 a første ledd bokstav c om at introduksjonsprogrammet skal inneholde opplæring i samfunnskunnskap, gjelder ikke for personer som har fått oppholdstillatelse etter utlendingsloven § 34.\n0 Tilføyd ved lov 10 juni 2022 nr. 35 (i kraft 15 juni 2022 iflg. res. 10 juni 2022 nr. 994), endret ved lov 2 juni 2023 nr. 17 (se endringsloven for overgangsregel), opphevet ved lov 10 juni 2022 nr. 35 (i kraft 1 juli 2024, endring endret ved lov 2 juni 2023 nr. 17), tilføyd ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2024 iflg. res. 25 juni 2024 nr. 1212), endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102). Oppheves ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2026).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37c",
+        "source_heading": "§ 37 c."
+      }
+    },
+    {
+      "provision_ref": "7:37 d",
+      "chapter": "7",
+      "section": "37 d",
+      "title": "Opplæring i norsk",
+      "content": "Personer som har fått oppholdstillatelse etter utlendingsloven § 34, har rett, men ikke plikt, til å delta i opplæring i norsk etter kapittel 6 i loven her. De har ikke rett eller plikt til opplæring i samfunnskunnskap. For øvrig gjelder § 26.\nRetten til opplæring i norsk gjelder i ett år fra oppstartstidspunktet. For øvrig gjelder §§ 30 og 32 i loven her. Deltagere i opplæringen bør oppnå et minimums-nivå i norsk. Plikten til å avlegge prøver etter § 37 gjelder ikke. Kommunen skal likevel sørge for at deltagerne får mulighet til å avlegge gratis avsluttende prøve i norsk. Departementet kan gi forskrift om utvidet opplæring i norsk.\nKommunen skal, samtidig som det treffes vedtak om opplæring i norsk, utarbeide en norskplan. Norskplanen skal inneholde deltagerens norskmål, omfanget av opplæringen og klagemuligheter. § 34 gjelder ikke.\n0 Tilføyd ved lov 10 juni 2022 nr. 35 (i kraft 15 juni 2022 iflg. res. 10 juni 2022 nr. 994), opphevet ved lov 10 juni 2022 nr. 35 (i kraft 1 juli 2024, endring endret ved lov 2 juni 2023 nr. 17), tilføyd ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2024 iflg. res. 25 juni 2024 nr. 1212). Oppheves ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2026).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37d",
+        "source_heading": "§ 37 d."
+      }
+    },
+    {
+      "provision_ref": "7:37 e",
+      "chapter": "7",
+      "section": "37 e",
+      "title": "Forskriftshjemmel",
+      "content": "Når det er nødvendig for å tilpasse integreringstiltak til personer som er innvilget midlertidig kollektiv beskyttelse etter utlendingsloven § 34, kan departementet gi midlertidig forskrift om\na. målgruppene for og rettigheter og plikter til opplæring i mottak, introduksjonsprogram og opplæring i norsk og samfunnskunnskap etter §§ 5, 8, 9, 26, 27, 28, 37 c og 37 d\nb. retten til karriereveiledning etter §§ 11 og 37 b\nc. utsettelse av frister for oppstart av introduksjonsprogram og opplæring i norsk og samfunnskunnskap etter §§ 12, 30, 37 c og 37 d\nd. sluttmål, varighet og kravene til innhold i introduksjonsprogrammet etter §§ 13, 14, 14 a og 37 c\ne. retten til, beregningen av og reduksjon i introduksjonsstønaden etter kapittel 5 ved deltagelse i introduksjonsprogram etter § 37 c\nf. varigheten og omfanget av opplæring og kravene til opplæringen etter §§ 30 til 33 og 37 d\ng. prøver i norsk og samfunnskunnskap etter § 37\nh. behandling av personopplysninger etter §§ 41 til 44.\nDersom kapasitetshensyn i kommunen eller fylkeskommunen gjør det nødvendig, kan en midlertidig forskrift etter første ledd også fravike kravene som følger av bestemmelsene som nevnt i første ledd bokstav a til h, for andre enn personer som har fått oppholdstillatelse etter utlendingsloven § 34.\n0 Tilføyd ved lov 10 juni 2022 nr. 35 (i kraft 15 juni 2022 iflg. res. 10 juni 2022 nr. 994), opphevet ved lov 10 juni 2022 nr. 35 (i kraft 1 juli 2024, endring endret ved lov 2 juni 2023 nr. 17), tilføyd ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2024 iflg. res. 25 juni 2024 nr. 1212), endret ved lov 20 juni 2025 nr. 35 (i kraft 1 jan 2026 iflg. res. 20 juni 2025 nr. 1102). Oppheves ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2026).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37e",
+        "source_heading": "§ 37 e."
+      }
+    },
+    {
+      "provision_ref": "7:37 f",
+      "chapter": "7",
+      "section": "37 f",
+      "title": "Behandling av kompetanseopplysninger",
+      "content": "Departementet kan gi midlertidig forskrift om innhenting og utlevering av kompetanseopplysninger, uten hinder av taushetsplikt, fra Integrerings- og mangfoldsdirektoratets registre for å legge til rette for at personer som er innvilget midlertidig kollektiv beskyttelse etter utlendingsloven § 34, kan sysselsettes i det statlige, kommunale eller fylkeskommunale tjenestetilbudet. Med kompetanseopplysninger menes opplysninger som er innhentet ved kompetansekartlegging eller karriereveiledning etter § 37 b, eller opplysninger om den enkeltes kompetanse som er innhentet før bosetting, inkludert personopplysninger som nevnt i personvernforordningen artikkel 9.\n0 Tilføyd ved lov 9 juni 2023 nr. 25, opphevet ved lov 9 juni 2023 nr. 25 (i kraft 1 juli 2024), tilføyd ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2024 iflg. res. 25 juni 2024 nr. 1212). Oppheves ved lov 25 juni 2024 nr. 53 (i kraft 1 juli 2026).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37f",
+        "source_heading": "§ 37 f."
+      }
+    },
+    {
+      "provision_ref": "8:38",
+      "chapter": "8",
+      "section": "38",
+      "title": "Forsøk",
+      "content": "Departementet kan etter søknad fra kommunen godkjenne unntak fra loven og forskriftene etter loven i forbindelse med tidsavgrensede pedagogiske, økonomiske eller organisatoriske forsøk. Det kan godkjennes forsøk som innskrenker rettigheter eller utvider plikter etter loven.\nDepartementet kan gi forskrift om rammene for forsøk og kriterier for godkjenning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "8:39",
+      "chapter": "8",
+      "section": "39",
+      "title": "Kompetansekrav for lærere",
+      "content": "Den som skal undervise i norsk i kommunen etter denne loven skal ha relevant faglig og pedagogisk kompetanse.\nDepartementet kan gi forskrift om innholdet i og overgangsregler til kravet i første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "8:40",
+      "chapter": "8",
+      "section": "40",
+      "title": "Forbud mot bruk av klesplagg som helt eller delvis dekker ansiktet",
+      "content": "Personer som deltar i introduksjonsprogram eller opplæring etter loven, skal i forbindelse med opplærings- og vurderingssituasjoner ikke bruke klesplagg som helt eller delvis dekker ansiktet. Med opplæringssituasjon menes opplæring etter loven og opplæringslignende tiltak, inkludert praksis og turer. Forbudet gjelder ikke når bruken av slike plagg er begrunnet i klimatiske, pedagogiske, helsemessige eller sikkerhetsmessige forhold.\nKommunen kan midlertidig stanse introduksjonsprogrammet eller opplæringen etter §§ 18 og 36, for personer som tross skriftlig advarsel bruker klesplagg som helt eller delvis dekker ansiktet i strid med forbudet i første ledd. Personer som opptrer i strid med forbudet i vurderingssituasjoner, kan bortvises fra prøvelokalet.\nFørste ledd gjelder tilsvarende for lærere og andre personer som i opplærings- og vurderingssituasjoner bidrar til kommunens oppfyllelse av pliktene i loven. Det samme gjelder personer med liknende roller som arbeider for private aktører som har etablert samarbeid med kommunen om gjennomføring av kommunens plikter etter loven.\n0 Endret ved lov 20 juni 2025 nr. 35 (i kraft 20 juni 2025 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "8:41",
+      "chapter": "8",
+      "section": "41",
+      "title": "Behandling av personopplysninger",
+      "content": "Offentlige organer kan behandle personopplysninger, herunder personopplysninger nevnt i personvernforordningen artikkel 9 og 10, når det er nødvendig for å utføre oppgaver i forbindelse med:\na. tiltak for å gi asylsøkere kjennskap til norsk språk og samfunnsliv\nb. tiltak for å gi innvandrere kunnskap og ferdigheter for å kunne delta i det norske samfunnslivet\nc. gjennomføring av prøver for dokumentasjon av norskkunnskaper og samfunnskunnskap\nd. bosetting av innvandrere\ne. utbetaling av tilskudd for tiltak som nevnt i bokstav a, b og d\nNår det er nødvendig for å utføre oppgaver nevnt i første ledd kan offentlige organer også behandle personopplysninger om personer som har fått innvilget norsk statsborgerskap etter å ha hatt en oppholdstillatelse etter utlendingsloven.\nOffentlige organer kan behandle personopplysninger, herunder personopplysninger nevnt i personvernforordningen artikkel 9 og 10, når det er nødvendig for å samarbeide med andre tjenester etter § 50.\nPrivate som utfører oppgaver nevnt i første og tredje ledd for stat, fylkeskommune eller kommune, regnes som offentlige organer etter denne paragrafen.\nDepartementet kan gi forskrift om behandlingen av personopplysninger etter denne loven, herunder om krav til behandlingen, bruk av automatiserte avgjørelser, hvilke personopplysninger som kan behandles og reservasjonsadgang for behandling av personopplysninger.\n0 Endret ved lov 11 juni 2021 nr. 78 (i kraft 1 aug 2022 iflg. res. 20 mai 2022 nr. 871).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "8:42",
+      "chapter": "8",
+      "section": "42",
+      "title": "Innhenting og utveksling av personopplysninger",
+      "content": "Personopplysninger nevnt i § 41 første ledd kan innhentes fra utlendingsmyndighetene og folkeregistermyndigheten uten hinder av lovbestemt taushetsplikt. Når hensynet til barnets beste gjør det nødvendig, kan personopplysninger nevnt i § 41 første ledd innhentes fra den kommunale barnevernstjenesten og krisesentre uten hinder av lovbestemt taushetsplikt.\nPersonopplysninger nevnt i § 41 første ledd kan utveksles mellom offentlige organer som har behov for opplysningene for å utføre oppgaver nevnt i § 41 første ledd, uten hinder av lovbestemt taushetsplikt. Unntaket fra taushetsplikten gjelder ikke taushetsplikt etter helsepersonelloven. Dersom det er tilstrekkelig for å oppnå formålet, skal opplysningene kun utleveres i statistisk form eller ved at individualiserende kjennetegn utelates på annen måte.\nPrivate som utfører oppgaver nevnt i § 41 første ledd for stat, fylkeskommune eller kommune regnes som offentlige organer etter denne paragrafen.\nDepartementet kan gi forskrift om innhenting og utveksling av personopplysninger, herunder innhenting av personopplysninger fra helsepersonell og utlevering av personopplysninger til utlendingsmyndighetene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "8:43",
+      "chapter": "8",
+      "section": "43",
+      "title": "Personregister og plikt til å registrere opplysninger",
+      "content": "Det skal opprettes nasjonale personregistre for formålene nevnt i § 41 første ledd. Utlevering av personopplysninger til organer nevnt i § 41 første ledd, jf. fjerde ledd, kan skje gjennom tilgang til slike personregistre.\nKommunen har plikt til å registrere personopplysninger om personer i kommunen som omfattes av loven i personregister nevnt i første ledd. Det samme gjelder fylkeskommunen.\nDepartementet kan gi forskrift om nasjonale personregistre etter denne paragrafen og om kommunens og fylkeskommunens plikt til å registrere personopplysninger.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "8:44",
+      "chapter": "8",
+      "section": "44",
+      "title": "Pålegg om å utlevere personopplysninger",
+      "content": "Når det er nødvendig for å utføre et offentlig organs oppgaver etter loven, kan organet pålegge følgende organer å utlevere personopplysninger om asylsøkere og innvandrere uten hinder av lovbestemt taushetsplikt:\na. Integrerings- og mangfoldsdirektoratet\nb. Direktoratet for høyere utdanning og kompetanse\nc. Arbeids- og velferdsetaten\nd. Utlendingsdirektoratet\ne. Utlendingsnemnda\nf. folkeregistermyndigheten\ng. kommunene\nh. fylkeskommunene\nUnntaket fra taushetsplikten gjelder ikke taushetsplikt etter helsepersonelloven.\nDepartementet kan gi forskrift om adgangen til å pålegge utlevering av personopplysninger etter denne paragrafen.\n0 Endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "8:45",
+      "chapter": "8",
+      "section": "45",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 11 juni 2021 nr. 79 (ikr. 1 jan 2022 iflg. res. 3 sep 2021 nr. 2653).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "9:46",
+      "chapter": "9",
+      "section": "46",
+      "title": "Forholdet til forvaltningsloven",
+      "content": "Forvaltningsloven gjelder med de særregler som er fastsatt i loven her.\nSom enkeltvedtak etter denne loven regnes avgjørelser om:\na. tildeling av introduksjonsprogram, introduksjonsstønad og opplæring i norsk og samfunnskunnskap etter kapittel 4 til 6\nb. fritak fra opplæring i norsk og samfunnskunnskap og prøver etter §§ 29 og 37\nc. utarbeidelse av og vesentlig endring av integrerings- og norskplan etter §§ 15 og 34\nd. stans av introduksjonsprogrammet eller opplæring i norsk og samfunnskunnskap for den enkelte etter §§ 18 og 36\ne. fravær og permisjon\nf. forlengelse av introduksjonsprogram\ng. trekk i introduksjonsstønaden med 50 prosent eller mer av en enkelt utbetaling, og som minst tilsvarer 1/12 av folketrygdens grunnbeløp\nh. tilbakebetaling av stønad på grunn av uriktige opplysninger\ni. refusjon i ytelser fra folketrygden\nPersoner som har rett til tjenester etter denne loven regnes ikke som parter i samme sak. Det kan ikke klages over at en annen har fått ytelsen.\nForvaltningsloven §§ 28 til 34 om klage gjelder ikke for vedtak om tildeling av bosettingskommune.\n0 Endret ved lov 11 juni 2021 nr. 79 (ikr. 1 jan 2022 iflg. res. 3 sep 2021 nr. 2653).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "9:47",
+      "chapter": "9",
+      "section": "47",
+      "title": "Klage",
+      "content": "Enkeltvedtak truffet etter loven kan påklages til statsforvalteren.\nStatsforvalteren kan prøve alle sider av vedtaket. Når det gjelder prøvingen av det frie skjønn, kan statsforvalteren likevel bare endre vedtaket når skjønnet er åpenbart urimelig.\n0 Endret ved lover 7 mai 2021 nr. 34 (ikr. 1 juni 2021 iflg. res. 7 mai 2021 nr. 1416), 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "9:48",
+      "chapter": "9",
+      "section": "48",
+      "title": "Tilsyn",
+      "content": "Statsforvalteren kan føre tilsyn med kommunens oppfyllelse av plikter etter lovens kapittel 3 til 6, §§ 39, 40, 43 og 50 og med plikten til å ha internkontroll etter kommuneloven § 25-1.\nStatsforvalteren kan føre tilsyn med fylkeskommunens oppfyllelse av plikter etter lovens §§ 11 og 30.\nKommuneloven kapittel 30 gjelder for tilsyn etter første og andre ledd.\n0 Endret ved lover 7 mai 2021 nr. 34 (ikr. 1 juni 2021 iflg. res. 7 mai 2021 nr. 1416), 11 juni 2021 nr. 78 (i kraft 1 aug 2022 iflg. res. 20 mai 2022 nr. 871), 20 juni 2025 nr. 35 (i kraft 20 juni 2025 iflg. res. 20 juni 2025 nr. 1102).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "9:49",
+      "chapter": "9",
+      "section": "49",
+      "title": "Opplysningsplikt til barnevernet",
+      "content": "Personell som arbeider innenfor rammen av denne loven, skal i sitt arbeid være oppmerksom på forhold som kan føre til tiltak fra barnevernstjenesten.\nPersonell som arbeider innenfor rammen av denne loven, skal uten hinder av taushetsplikt melde fra til barnevernstjenesten uten ugrunnet opphold\na. når det er grunn til å tro at et barn blir eller vil bli mishandlet, utsatt for alvorlige mangler ved den daglige omsorgen eller annen alvorlig omsorgssvikt,\nb. når det er grunn til å tro at et barn har en livstruende eller annen alvorlig sykdom eller skade og ikke kommer til undersøkelse eller behandling,\nc. når det er grunn til å tro at et barn med nedsatt funksjonsevne eller et spesielt hjelpetrengende barn ikke får dekket sitt særlige behov for behandling eller opplæring,\nd. når et barn utsetter sin utvikling for alvorlig fare ved å begå alvorlige eller gjentatte lovbrudd, ved problematisk bruk av rusmidler, eller ved andre utpreget skadelige handlinger,\ne. når det er grunn til å tro at et barn blir eller vil bli utnyttet til menneskehandel.\nPersonell som arbeider innenfor rammen av denne loven, plikter også å gi opplysninger etter pålegg i samsvar med barnevernsloven § 13-4.\n0 Endret ved lover 18 juni 2021 nr. 97 (i kraft 1 jan 2023 iflg. res. 14 okt 2022 nr. 1739), 20 juni 2025 nr. 39 (i kraft 1 jan 2026 iflg. res. 19 des 2025 nr. 2711).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "9:50",
+      "chapter": "9",
+      "section": "50",
+      "title": "Samarbeid og samordning",
+      "content": "Kommunen skal samarbeide med andre tjenesteytere dersom samarbeid er nødvendig for å gi deltagere i introduksjonsprogram et helhetlig og samordnet tjenestetilbud. Dersom deltageren har individuell plan etter annen lov og forskrift, skal kommunen delta i samarbeid om utarbeidelse og oppfølging av tiltak og mål i den individuelle planen.\nKommunen skal samordne tjenestetilbudet etter første ledd. Ved behov skal kommunen bestemme hvilken kommunal tjenesteyter som skal ivareta samordningen. Dersom det er oppnevnt barnekoordinator etter helse- og omsorgstjenesteloven § 7-2 a, skal koordinatoren sørge for samordning av tjenestetilbudet.\nKommunen skal, i tillegg til å følge opp enkelte deltagere, samarbeide med andre tjenesteytere slik at kommunen og de andre tjenesteyterne kan ivareta sine oppgaver etter lov og forskrift.\nMed tjenesteytere menes kommunale, fylkeskommunale og statlige tjenesteytere, private tjenesteytere som utfører oppgaver på vegne av slike tjenesteytere, barnehager som får tilskudd etter barnehageloven § 19 og skoler som får statstilskudd etter privatskolelova § 6-1.\n0 Tilføyd ved lov 11 juni 2021 nr. 78 (i kraft 1 aug 2022 iflg. res. 20 mai 2022 nr. 871, endring endret ved lov 10 juni 2022 nr. 39), endret ved lov 9 juni 2023 nr. 24 (i kraft 1 aug 2023 iflg. res. 9 juni 2023 nr. 804).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "10:51",
+      "chapter": "10",
+      "section": "51",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid​1 Kongen bestemmer. Fra samme tidspunkt oppheves lov 4. juli 2003 nr. 80 om introduksjonsordning og norskopplæring for nyankomne innvandrere.\n0 Endret ved lov 11 juni 2021 nr. 78 (i kraft 1 aug 2022 iflg. res. 20 mai 2022 nr. 871, tidligere § 50).\n1 Fra 1 jan 2021 iflg. res. 6 nov 2020 nr. 2247.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "10:52",
+      "chapter": "10",
+      "section": "52",
+      "title": "Overgangsregler",
+      "content": "Loven gjelder for de som får innvilget oppholdstillatelse etter lovens ikrafttredelse. Departementet kan gi forskrift om overgangsreglene. I forskrift kan det gjøres unntak fra reglene i første punktum.\n0 Endret ved lov 11 juni 2021 nr. 78 (i kraft 1 aug 2022 iflg. res. 20 mai 2022 nr. 871, tidligere § 51).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "10:53",
+      "chapter": "10",
+      "section": "53",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –\n0 Endret ved lov 11 juni 2021 nr. 78 (i kraft 1 aug 2022 iflg. res. 20 mai 2022 nr. 871, tidligere § 52).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    }
+  ]
+}

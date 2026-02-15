@@ -1,0 +1,95 @@
+{
+  "id": "LOV-1917-05-25-5",
+  "type": "statute",
+  "title": "Lov om tillæg til lov om pengevæsenet av 17 april 1875",
+  "short_name": "Tillægslov om pengevæsenet",
+  "status": "in_force",
+  "issued_date": "1917-05-25",
+  "in_force_date": "1917-05-25",
+  "url": "https://lovdata.no/dokument/NLO/lov/1917-05-25-5",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Av jern kan utmyntes skillemynt av følgende værdi, størrelse og vegt:\nDiameterMillimeterAv et kilogram jern utpræges stykker5-øre...271442-øre...212881-øre...16576\n1 Jfr. lov 15 mars 1973 nr. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Skillemynt av jern præges alene for præges alene for statens regning. Kongen kan, efter indhentet samtykke fra Stortinget, la utmynte saa stor mængde derav, som findes fornødent.\nMed hensyn til skillemynt av jern, præget i Norge, Danmark eller Sverige, gjælder de i lov om pengevæsenet av 17 april 1875 med tillægslove av 8 juni 1881 og 20 juli 1895 indeholdte bestemmelser, forsaavidt de paa saadan skillemynt er anvendelige.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Ingen skal være forpligtet til i en betaling at motta et høiere beløp end 1 krone i jernmynt.\n1 Jfr. lov 17 april 1875 § 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov træder i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Av jern kan utmyntes skillemynt av følgende værdi, størrelse og vegt:\nDiameterMillimeterAv et kilogram jern utpræges stykker5-øre...271442-øre...212881-øre...16576\n1 Jfr. lov 15 mars 1973 nr. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Skillemynt av jern præges alene for præges alene for statens regning. Kongen kan, efter indhentet samtykke fra Stortinget, la utmynte saa stor mængde derav, som findes fornødent.\nMed hensyn til skillemynt av jern, præget i Norge, Danmark eller Sverige, gjælder de i lov om pengevæsenet av 17 april 1875 med tillægslove av 8 juni 1881 og 20 juli 1895 indeholdte bestemmelser, forsaavidt de paa saadan skillemynt er anvendelige.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Ingen skal være forpligtet til i en betaling at motta et høiere beløp end 1 krone i jernmynt.\n1 Jfr. lov 17 april 1875 § 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov træder i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

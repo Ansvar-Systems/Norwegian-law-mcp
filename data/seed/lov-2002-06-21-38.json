@@ -1,0 +1,103 @@
+{
+  "id": "LOV-2002-06-21-38",
+  "type": "statute",
+  "title": "Lov om oppheving av lov om erverv av næringsverksemd",
+  "short_name": "Lov om oppheving av ervervsloven mv.",
+  "status": "in_force",
+  "issued_date": "2002-06-21",
+  "in_force_date": "2002-07-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2002-06-21-38",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Oppheving",
+      "content": "Lov 23. desember 1994 nr. 79 om erverv av næringsverksemd vert oppheva.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Forholdet til eldre konsesjonar og vilkår",
+      "content": "Løpande, tyngjande vilkår og føresetnader som tidlegare er fastsette i vedtak av Industridepartementet, Næringsdepartementet, Nærings- og energidepartementet og Nærings- og handelsdepartementet med heimel i lov 14. desember 1917 nr. 16 kapittel III, jf kap. V, lov 31. mai 1974 nr. 19 og lov 23. desember 1994 nr. 79, vert oppheva.\nAndre vilkår kan etter søknad opphevast av departementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Endringar i andre lover",
+      "content": "– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Ikraftsetjing",
+      "content": "Lova gjeld frå den tid Kongen fastset.​1\n1 Frå 1 juli 2002 iflg. res. 21 juni 2002 nr. 561.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Oppheving",
+      "content": "Lov 23. desember 1994 nr. 79 om erverv av næringsverksemd vert oppheva.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Forholdet til eldre konsesjonar og vilkår",
+      "content": "Løpande, tyngjande vilkår og føresetnader som tidlegare er fastsette i vedtak av Industridepartementet, Næringsdepartementet, Nærings- og energidepartementet og Nærings- og handelsdepartementet med heimel i lov 14. desember 1917 nr. 16 kapittel III, jf kap. V, lov 31. mai 1974 nr. 19 og lov 23. desember 1994 nr. 79, vert oppheva.\nAndre vilkår kan etter søknad opphevast av departementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Endringar i andre lover",
+      "content": "– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Ikraftsetjing",
+      "content": "Lova gjeld frå den tid Kongen fastset.​1\n1 Frå 1 juli 2002 iflg. res. 21 juni 2002 nr. 561.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

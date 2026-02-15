@@ -1,0 +1,95 @@
+{
+  "id": "LOV-1923-02-23",
+  "type": "statute",
+  "title": "Lov om anvendelse av visse prestegårdsinntekter.",
+  "short_name": "Lov om anvendelse av prestegårdsinntekter.",
+  "status": "in_force",
+  "issued_date": "1923-02-23",
+  "in_force_date": "1923-02-23",
+  "url": "https://lovdata.no/dokument/NLO/lov/1923-02-23",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Renter av salgssummer samt erstatninger og festeavgifter vedkommende geistlige embedsgårder eller deler derav, som avhendes eller avstås på annen måte efter denne lovs ikrafttreden, blir å anvende efter nærmere bestemmelse av Kirkedepartementet, som likeledes treffer avgjørelse om, hvor stor del av det rentebeløp m.v., som måtte bli tillagt vedkommende embede, skal anses som gårdsutbytte eller som almindelig embedsinntekt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Inntekt, som et geistlig embede har av erstatning, festeavgifter, embeds- eller avsavnskapital, kan Kongen​2 – forsåvidt den ikke tiltrenges til geistlig betjening innen vedkommende prestegjeld eller sogn, som har hørt dette til – henlegge til Opplysningsvesenets fond​3 som et derunder hørende særskilt fond, hvis renter anvendes til geistlig betjening i trengende menigheter eller til lignende kirken, geistligheten og menighetene vedkommende formål.\n1 Endret ved lov 31 mai 1963 nr. 1 (endret «prestegårdsfondet» til «Opplysningsvesenets fond»).\n2 Kirke-, utdannings- og forskningsdepartementet ifølge res. 22 juni 1923.\n3 Jfr. lov 20 aug 1821 § 41 flg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "§ 17 i lov om salg av det overflødige av embedsgårder av 19 juni 1882 (nr. 1) skal herefter lyde således: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "§ 14 i lov av 26 juni 1896 inneholdende forandringer i lov av 19 juni 1882 om salg av det overflødige av embedsgårder opheves, forsåvidt paragrafen strider mot foranstående § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Renter av salgssummer samt erstatninger og festeavgifter vedkommende geistlige embedsgårder eller deler derav, som avhendes eller avstås på annen måte efter denne lovs ikrafttreden, blir å anvende efter nærmere bestemmelse av Kirkedepartementet, som likeledes treffer avgjørelse om, hvor stor del av det rentebeløp m.v., som måtte bli tillagt vedkommende embede, skal anses som gårdsutbytte eller som almindelig embedsinntekt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Inntekt, som et geistlig embede har av erstatning, festeavgifter, embeds- eller avsavnskapital, kan Kongen​2 – forsåvidt den ikke tiltrenges til geistlig betjening innen vedkommende prestegjeld eller sogn, som har hørt dette til – henlegge til Opplysningsvesenets fond​3 som et derunder hørende særskilt fond, hvis renter anvendes til geistlig betjening i trengende menigheter eller til lignende kirken, geistligheten og menighetene vedkommende formål.\n1 Endret ved lov 31 mai 1963 nr. 1 (endret «prestegårdsfondet» til «Opplysningsvesenets fond»).\n2 Kirke-, utdannings- og forskningsdepartementet ifølge res. 22 juni 1923.\n3 Jfr. lov 20 aug 1821 § 41 flg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "§ 17 i lov om salg av det overflødige av embedsgårder av 19 juni 1882 (nr. 1) skal herefter lyde således: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "§ 14 i lov av 26 juni 1896 inneholdende forandringer i lov av 19 juni 1882 om salg av det overflødige av embedsgårder opheves, forsåvidt paragrafen strider mot foranstående § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

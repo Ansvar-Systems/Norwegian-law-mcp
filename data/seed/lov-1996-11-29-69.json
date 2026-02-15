@@ -1,0 +1,95 @@
+{
+  "id": "LOV-1996-11-29-69",
+  "type": "statute",
+  "title": "Lov om skattlegging av personer på Jan Mayen og i Antarktis (Jan Mayen-skatteloven)",
+  "short_name": "Jan Mayen-skatteloven",
+  "status": "in_force",
+  "issued_date": "1996-11-29",
+  "in_force_date": "1998-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/1996-11-29-69",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Personer som oppholder seg på Jan Mayen eller i de norske bilandene i Antarktis, svarer skatt av inntekt vunnet ved arbeid der etter bestemmelsene om lønnstrekk i lov om skatt til Svalbard. Lov om skatt til Svalbard § 2-2 gjelder tilsvarende.\n0 Endret ved lov 14 des 2007 nr. 105 (f o m inntektsåret 2008).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Skatten beregnes etter samme satser som Stortinget for hver budsjettermin har vedtatt for Svalbard.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Skatten tilfaller den kommune hvor skattyteren etter reglene i skatteloven anses bosatt.\n0 Endret ved lov 26 mars 1999 nr. 14 (ikr. 1 jan 2000).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov trer i kraft med virkning fra 1. januar 1998. Samtidig oppheves lov av 30. november 1956 nr. 1 om skattlegging av personer på Jan Mayen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Personer som oppholder seg på Jan Mayen eller i de norske bilandene i Antarktis, svarer skatt av inntekt vunnet ved arbeid der etter bestemmelsene om lønnstrekk i lov om skatt til Svalbard. Lov om skatt til Svalbard § 2-2 gjelder tilsvarende.\n0 Endret ved lov 14 des 2007 nr. 105 (f o m inntektsåret 2008).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Skatten beregnes etter samme satser som Stortinget for hver budsjettermin har vedtatt for Svalbard.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Skatten tilfaller den kommune hvor skattyteren etter reglene i skatteloven anses bosatt.\n0 Endret ved lov 26 mars 1999 nr. 14 (ikr. 1 jan 2000).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lov trer i kraft med virkning fra 1. januar 1998. Samtidig oppheves lov av 30. november 1956 nr. 1 om skattlegging av personer på Jan Mayen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

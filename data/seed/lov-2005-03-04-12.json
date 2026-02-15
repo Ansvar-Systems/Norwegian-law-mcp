@@ -1,0 +1,75 @@
+{
+  "id": "LOV-2005-03-04-12",
+  "type": "statute",
+  "title": "Lov om handheving av det frie varebyttet innan EØS",
+  "short_name": "Lov om det frie varebyttet innan EØS",
+  "status": "in_force",
+  "issued_date": "2005-03-04",
+  "in_force_date": "2005-03-04",
+  "url": "https://lovdata.no/dokument/NL/lov/2005-03-04-12",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lova gjeld tiltak mot alvorlege faktiske hindringar av den frie rørsla av varer mellom Noreg og andre EØS-statar, til dømes blokadar og øydeleggingar, og utveksling av informasjon om slike hindringar.\nLova gjeld ikkje for Svalbard.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "EØS-avtalen vedlegg II kapittel XX punkt 1 (forordning (EF) nr. 2679/98) om verkemåten til den indre marknaden med omsyn til det frie varebyttet mellom EØS-statane gjeld som norsk lov med dei tilpassingane som følgjer av vedlegg II og protokoll 1 til avtalen og avtalen elles.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Lova vert sett i verk straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Lova gjeld tiltak mot alvorlege faktiske hindringar av den frie rørsla av varer mellom Noreg og andre EØS-statar, til dømes blokadar og øydeleggingar, og utveksling av informasjon om slike hindringar.\nLova gjeld ikkje for Svalbard.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "EØS-avtalen vedlegg II kapittel XX punkt 1 (forordning (EF) nr. 2679/98) om verkemåten til den indre marknaden med omsyn til det frie varebyttet mellom EØS-statane gjeld som norsk lov med dei tilpassingane som følgjer av vedlegg II og protokoll 1 til avtalen og avtalen elles.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Lova vert sett i verk straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

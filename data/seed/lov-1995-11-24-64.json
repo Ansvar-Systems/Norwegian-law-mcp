@@ -1,0 +1,81 @@
+{
+  "id": "LOV-1995-11-24-64",
+  "type": "statute",
+  "title": "Lov om at tilsatte ved Postens datasentral midlertidig skal beholde visse rettigheter etter tjenestemannsloven ved overgang til Statens Datasentral AS.",
+  "short_name": "Lov om tilsatte ved Postens datasentral",
+  "status": "in_force",
+  "issued_date": "1995-11-24",
+  "in_force_date": "1995-11-24",
+  "url": "https://lovdata.no/dokument/NLO/lov/1995-11-24-64",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Virkeområde",
+      "content": "Loven gjelder tilsatte ved Postens datasentral som, i forbindelse med at Samferdselsdepartementet overtar forvaltningen av statens eierinteresser i Statens Datasentral AS (SDS) fra Administrasjonsdepartementet, blir tilsatt i SDS.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Rettigheter",
+      "content": "Tjenestemannsloven​1 § 13 nr. 2 til nr. 6 om fortrinnsrett til annen statsstilling og ventelønn skal i tilfeller som nevnt i § 1 fremdeles gjelde for arbeidstakere som blir sagt opp av grunner som nevnt i tjenestemannsloven § 13 nr. 1 a, b og c, og som var omfattet av disse bestemmelsene før overføringen. Fortrinnsretten til annen statsstilling og retten til ventelønn etter forrige punktum opphører tre år etter overføringen.\n1 Lov 4 mars 1983 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Ikrafttredelse",
+      "content": "Denne loven trer i kraft straks og opphører å gjelde 31. desember 1999.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Virkeområde",
+      "content": "Loven gjelder tilsatte ved Postens datasentral som, i forbindelse med at Samferdselsdepartementet overtar forvaltningen av statens eierinteresser i Statens Datasentral AS (SDS) fra Administrasjonsdepartementet, blir tilsatt i SDS.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Rettigheter",
+      "content": "Tjenestemannsloven​1 § 13 nr. 2 til nr. 6 om fortrinnsrett til annen statsstilling og ventelønn skal i tilfeller som nevnt i § 1 fremdeles gjelde for arbeidstakere som blir sagt opp av grunner som nevnt i tjenestemannsloven § 13 nr. 1 a, b og c, og som var omfattet av disse bestemmelsene før overføringen. Fortrinnsretten til annen statsstilling og retten til ventelønn etter forrige punktum opphører tre år etter overføringen.\n1 Lov 4 mars 1983 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Ikrafttredelse",
+      "content": "Denne loven trer i kraft straks og opphører å gjelde 31. desember 1999.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

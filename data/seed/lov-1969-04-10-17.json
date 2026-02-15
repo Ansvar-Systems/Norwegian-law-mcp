@@ -1,0 +1,433 @@
+{
+  "id": "LOV-1969-04-10-17",
+  "type": "statute",
+  "title": "Lov om hendelege eigedomshøve",
+  "short_name": "Hendelege eigedomshøvelova – hendl",
+  "status": "in_force",
+  "issued_date": "1969-04-10",
+  "in_force_date": "1969-07-01",
+  "url": "https://lovdata.no/dokument/NL/lov/1969-04-10-17",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Føresegnene i denne lova gjeld berre så langt anna ikkje fylgjer av avtale eller serlege rettshøve.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2:2",
+      "chapter": "2",
+      "section": "2",
+      "content": "Når lausøyreting frå to eller fleire eigarar vert såleis blanda eller samanbundne at kvar ikkje kan få sitt utskilt att utan for stor skade og kostnad, vert det sameige.\nKvar eigar får så stor part som svarar til det verdet som skriv seg frå han.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "Om ein av dei samankomne ting er hovudtingen i blandinga eller det samanbundne, får eigaren av hovudtingen retten til det heile.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "Den som lagar ein lausøyreting av annan manns tilfang, får retten til tingen, når arbeidet er meir verdt enn tilfanget og det ikkje er nemnande grunn til å leggja han noko til last for det som er hendt. Eig tilverkaren noko av tilfanget sjølv, skal verdet av det leggjast attåt verdet av arbeidet.\nVed avgjerd etter fyrste stykket skal det i rimeleg mon takast omsyn til om tingen har eit serleg verde for nokon av partane.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "Den som misser retten til tingen sin etter §§ 3 eller 4, har rett til vederlag, men ikkje meir enn det verdet som skriv seg frå han. Det same gjeld ein tilverkar som ikkje får retten til tingen etter § 4.\nEr det grunn til å leggja vederlagskrevjaren noko til last for det som er hendt, kan vederlaget setjast ned eller falla bort.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "For den som har bruksrett eller annen serleg rett, gjeld det same som for ein eigar etter §§ 2-5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "Skyldnaden til å svara vederlag etter §§ 5 eller 6 fylgjer tingen, såframt gjeldande reglar om rettsvinning i god tru ikkje fører til ei anna løysing.\nNår den som har rett til vederlag, sit med tingen, gjeld lov 29 mai 1953 om rett for handverkarar o.a. til å selja ting som ikkje vert henta, på tilsvarande måte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "content": "Når lausøyreting er bruka til bygging på framand grunn, får grunneigaren retten til alt som lyt reknast for oppbruka eller som ikkje kan skiljast ifrå att utan for stor skade og kostnad. Det same gjeld plantar, frø, gjødsel, jord, sand og liknande som er bruka på eigedomen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "content": "I tilfelle då flaum, ras eller andre serlege naturhende fører noko over frå ein fast eigedom til ein annan, gjeld § 8 tilsvarande.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "content": "Den som misser retten til tingen sin etter §§ 8 eller 9, har rett til vederlag, men ikkje meir enn det verdet som er tilført eigedomen. I tilfelle som nemnt i § 9, skal det i rimeleg mon takast omsyn til kor store skadane på eigedomane er alt i alt og andre slike omstende.\nEr det grunn til å leggja han noko til last for det som er hendt, kan vederlaget setjast ned eller falla bort.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "content": "Når nokon dyrkar eller arbeider opp eller på annan måte aukar verdet åt ein framand eigedom, gjeld § 10 tilsvarande.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "content": "For den som har bruksrett eller annan serleg rett, gjeld det same som for ein eigar etter §§ 8-11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "content": "Skyldnaden til å svara vederlag etter §§ 10 eller 11 fylgjer eigedomen, såframt gjeldande reglar om rettsvinning i god tru ikkje fører til ei anna løysing.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "content": "Den som reiser krav om å få ein ting utlevert, lyt føra prov for at han sjølv har betre rett til å ha tingen enn den som sit med han. Dette gjeld ikkje når den andre har teke tingen ifrå han på ulovleg måte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "content": "Den som sit med annan manns ting, får retten til avling, avdrått og anna som tingen kastar av seg. Dette gjeld ikkje om han veit om at han er utan rett til avkastinga eller burde ha visst det om han hadde vore så aktsam som det er rimeleg å krevja etter tilhøva.\nVert han dømd til å gjeva tingen ifrå seg til rette eigar, skal han svara vederlag for avkasting og nytte han har hatt av tingen etter at søksmålet var reist, med frådrag for kostnad til vanleg stell og vedlikehald. For tida før søksmålet svarar han berre for vinning som ikkje høyrer til den årlege avkastinga eller nytta.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "content": "Når den som utan rett sit med annan manns ting, ikkje er nemnande å leggja til last, skal utleverings- eller fråvikingstida setjast så at han får rimeleg høve til å områda seg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "content": "Føresegnene i §§ 14-16 gjeld tilsvarande for omsetningsgjeldsbrev og aksjar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "content": "Føresegnene i denne lova minkar ikkje den skyldnaden som nokon av partane har til å svara skadebot etter dei elles gjeldande rettsreglane.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "6:19",
+      "chapter": "6",
+      "section": "19",
+      "content": "Denne lova gjeld frå 1 juli 1969.\n– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Føresegnene i denne lova gjeld berre så langt anna ikkje fylgjer av avtale eller serlege rettshøve.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2:2",
+      "chapter": "2",
+      "section": "2",
+      "content": "Når lausøyreting frå to eller fleire eigarar vert såleis blanda eller samanbundne at kvar ikkje kan få sitt utskilt att utan for stor skade og kostnad, vert det sameige.\nKvar eigar får så stor part som svarar til det verdet som skriv seg frå han.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "content": "Om ein av dei samankomne ting er hovudtingen i blandinga eller det samanbundne, får eigaren av hovudtingen retten til det heile.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "content": "Den som lagar ein lausøyreting av annan manns tilfang, får retten til tingen, når arbeidet er meir verdt enn tilfanget og det ikkje er nemnande grunn til å leggja han noko til last for det som er hendt. Eig tilverkaren noko av tilfanget sjølv, skal verdet av det leggjast attåt verdet av arbeidet.\nVed avgjerd etter fyrste stykket skal det i rimeleg mon takast omsyn til om tingen har eit serleg verde for nokon av partane.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "content": "Den som misser retten til tingen sin etter §§ 3 eller 4, har rett til vederlag, men ikkje meir enn det verdet som skriv seg frå han. Det same gjeld ein tilverkar som ikkje får retten til tingen etter § 4.\nEr det grunn til å leggja vederlagskrevjaren noko til last for det som er hendt, kan vederlaget setjast ned eller falla bort.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "For den som har bruksrett eller annen serleg rett, gjeld det same som for ein eigar etter §§ 2-5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "Skyldnaden til å svara vederlag etter §§ 5 eller 6 fylgjer tingen, såframt gjeldande reglar om rettsvinning i god tru ikkje fører til ei anna løysing.\nNår den som har rett til vederlag, sit med tingen, gjeld lov 29 mai 1953 om rett for handverkarar o.a. til å selja ting som ikkje vert henta, på tilsvarande måte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "content": "Når lausøyreting er bruka til bygging på framand grunn, får grunneigaren retten til alt som lyt reknast for oppbruka eller som ikkje kan skiljast ifrå att utan for stor skade og kostnad. Det same gjeld plantar, frø, gjødsel, jord, sand og liknande som er bruka på eigedomen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "content": "I tilfelle då flaum, ras eller andre serlege naturhende fører noko over frå ein fast eigedom til ein annan, gjeld § 8 tilsvarande.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "content": "Den som misser retten til tingen sin etter §§ 8 eller 9, har rett til vederlag, men ikkje meir enn det verdet som er tilført eigedomen. I tilfelle som nemnt i § 9, skal det i rimeleg mon takast omsyn til kor store skadane på eigedomane er alt i alt og andre slike omstende.\nEr det grunn til å leggja han noko til last for det som er hendt, kan vederlaget setjast ned eller falla bort.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "content": "Når nokon dyrkar eller arbeider opp eller på annan måte aukar verdet åt ein framand eigedom, gjeld § 10 tilsvarande.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "content": "For den som har bruksrett eller annan serleg rett, gjeld det same som for ein eigar etter §§ 8-11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "content": "Skyldnaden til å svara vederlag etter §§ 10 eller 11 fylgjer eigedomen, såframt gjeldande reglar om rettsvinning i god tru ikkje fører til ei anna løysing.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "content": "Den som reiser krav om å få ein ting utlevert, lyt føra prov for at han sjølv har betre rett til å ha tingen enn den som sit med han. Dette gjeld ikkje når den andre har teke tingen ifrå han på ulovleg måte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "content": "Den som sit med annan manns ting, får retten til avling, avdrått og anna som tingen kastar av seg. Dette gjeld ikkje om han veit om at han er utan rett til avkastinga eller burde ha visst det om han hadde vore så aktsam som det er rimeleg å krevja etter tilhøva.\nVert han dømd til å gjeva tingen ifrå seg til rette eigar, skal han svara vederlag for avkasting og nytte han har hatt av tingen etter at søksmålet var reist, med frådrag for kostnad til vanleg stell og vedlikehald. For tida før søksmålet svarar han berre for vinning som ikkje høyrer til den årlege avkastinga eller nytta.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "content": "Når den som utan rett sit med annan manns ting, ikkje er nemnande å leggja til last, skal utleverings- eller fråvikingstida setjast så at han får rimeleg høve til å områda seg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "content": "Føresegnene i §§ 14-16 gjeld tilsvarande for omsetningsgjeldsbrev og aksjar.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "content": "Føresegnene i denne lova minkar ikkje den skyldnaden som nokon av partane har til å svara skadebot etter dei elles gjeldande rettsreglane.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "6:19",
+      "chapter": "6",
+      "section": "19",
+      "content": "Denne lova gjeld frå 1 juli 1969.\n– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    }
+  ]
+}

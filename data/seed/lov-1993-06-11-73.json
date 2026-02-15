@@ -1,0 +1,103 @@
+{
+  "id": "LOV-1993-06-11-73",
+  "type": "statute",
+  "title": "Lov om prisregulering ved import av fisk og fiskevarer m.v.",
+  "short_name": "Lov om prisregulering ved fiskeimport m.v.",
+  "status": "in_force",
+  "issued_date": "1993-06-11",
+  "in_force_date": "1993-06-11",
+  "url": "https://lovdata.no/dokument/NL/lov/1993-06-11-73",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Lovens formål er å motvirke markedsforstyrrelser på grunn av tilbud av fisk og fiskevarer fra utlandet til unormalt lave priser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Tilbys fisk og fiskevarer fra utlandet til priser som ligger lavere enn minstepriser som er bestemt for tilsvarende varer ved innenlands omsetning på første hånd og det innføres betydelige mengder av denne varen, kan departementet ved forskrift fastsette minsteimportpris for vedkommende vare.\nMinsteimportprisen skal normalt tilsvare den minstepris som er bestemt for tilsvarende vare i medhold av lov av 14. desember 1951 nr. 3​1 om omsetning av råfisk.\n1 Inkurie: Loven er opphevet, se nå lov 21 juni 2013 nr. 75.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Det er forbudt å innføre fisk og fiskevarer i strid med bestemmelser som er fastsatt i medhold av denne lov.\nDepartementet kan fastsette nærmere forskrifter til gjennomføring av og kontroll med denne lov og bestemmelser fastsatt i medhold av loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne lov, straffes med bøter. På samme måte straffes forsøk.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Lovens formål er å motvirke markedsforstyrrelser på grunn av tilbud av fisk og fiskevarer fra utlandet til unormalt lave priser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Tilbys fisk og fiskevarer fra utlandet til priser som ligger lavere enn minstepriser som er bestemt for tilsvarende varer ved innenlands omsetning på første hånd og det innføres betydelige mengder av denne varen, kan departementet ved forskrift fastsette minsteimportpris for vedkommende vare.\nMinsteimportprisen skal normalt tilsvare den minstepris som er bestemt for tilsvarende vare i medhold av lov av 14. desember 1951 nr. 3​1 om omsetning av råfisk.\n1 Inkurie: Loven er opphevet, se nå lov 21 juni 2013 nr. 75.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Det er forbudt å innføre fisk og fiskevarer i strid med bestemmelser som er fastsatt i medhold av denne lov.\nDepartementet kan fastsette nærmere forskrifter til gjennomføring av og kontroll med denne lov og bestemmelser fastsatt i medhold av loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne lov, straffes med bøter. På samme måte straffes forsøk.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

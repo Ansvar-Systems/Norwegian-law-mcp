@@ -1,0 +1,567 @@
+{
+  "id": "LOV-2015-06-19-70",
+  "type": "statute",
+  "title": "Lov om informasjonsplikt, karantene og saksforbud for politikere, embetsmenn og statsansatte (karanteneloven)",
+  "short_name": "Karanteneloven",
+  "status": "in_force",
+  "issued_date": "2015-06-19",
+  "in_force_date": "2016-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2015-06-19-70",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Hva loven omfatter",
+      "content": "Loven omfatter politikere som skal tiltre embete eller stilling i departementene eller stilling eller verv utenfor statsforvaltningen, eller som etablerer næringsvirksomhet. Statsministerens kontor regnes som departement etter loven her.\nLoven omfatter embetsmenn og statsansatte som går over til stilling eller verv utenfor statsforvaltningen, eller som etablerer næringsvirksomhet.\nLoven omfatter ikke overgang til partipolitisk arbeid eller politiske verv i Stortinget, kommuner og fylkeskommuner.\n0 Endret ved lov 16 juni 2017 nr. 67 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 763).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:1 a",
+      "chapter": "1",
+      "section": "1 a",
+      "title": "Lovens formål",
+      "content": "Loven skal bidra til å fremme den alminnelige tilliten til forvaltningen og det politiske systemet ved overganger som omfattes av loven, ved å:\na. motvirke at noen får særlige konkurransefordeler\nb. beskytte intern informasjon i statsforvaltningen\nc. beskytte andre virksomheters forretningsinformasjon som statsforvaltningen har fått tilgang til\nd. medvirke til å opprettholde skillet mellom politisk ledelse og embetsverk.\n0 Tilføyd ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1a",
+        "source_heading": "§ 1 a."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjoner",
+      "content": "Med politiker og politisk stilling menes i denne lov nåværende eller tidligere medlemmer av regjeringen, statssekretærer og politiske rådgivere.\nMed karantene menes et tidsbegrenset forbud mot å tiltre ny stilling eller verv utenfor statsforvaltningen eller etablere næringsvirksomhet.\nMed saksforbud menes et tidsbegrenset forbud mot å involvere seg i bestemte saker eller saksområder. Dette omfatter blant annet å drive påvirkningsarbeid, gi råd til eller opptre på vegne av andre og delta i saksbehandling, møter eller forhandlinger.\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Forholdet til forvaltningsloven",
+      "content": "Forvaltningsloven gjelder med de særlige bestemmelser som er gitt i denne loven.\nVedtak etter loven kan ikke påklages.\nParten kan innen fem virkedager uttale seg om vedtak etter §§ 6, 7, 10, 11, 13 og 14 og kreve ny vurdering av saken. Fristen regnes fra det tidspunkt vedkommende underrettes om vedtaket. Organet som har truffet vedtaket, skal fremlegge ny vurdering av saken innen fem virkedager fra det tidspunkt krav om ny vurdering er mottatt.\nParten kan innen tre uker uttale seg om vedtak etter §§ 18, 19 og 20 og kreve ny vurdering av saken. Fristen regnes fra det tidspunkt underretning om vedtaket er kommet frem til vedkommende part.\nSøksmål om gyldigheten av vedtak etter loven kan ikke reises uten at vedkommende part har benyttet sin adgang til å kreve ny vurdering av vedtaket, og ny vurdering er gitt.\nDepartementet kan gi forskrift om saksbehandlingen, inkludert om beregningen av frister, samt fristoppreisning i saker der parten uttaler seg om vedtak og krever ny vurdering etter tredje og fjerde ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Karantenenemnda",
+      "content": "Kongen skal oppnevne en faglig uavhengig nemnd, Karantenenemnda, som treffer vedtak om karantene og saksforbud ved politikeres overgang til stilling eller verv utenfor statsforvaltningen eller etablering av næringsvirksomhet.\nKongen gir forskrift om nemndas sammensetning og funksjonstid.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Informasjonsplikt",
+      "content": "Politikere skal gi Karantenenemnda de opplysninger nemnda trenger for å fatte vedtak etter loven. Opplysningene skal gis i rett tid og være fullstendige, slik at tilliten til forvaltningen og det politiske systemet ivaretas.\nPolitikere skal gi opplysninger til Karantenenemnda når de innen 18 måneder etter fratreden som politiker går over til stilling eller verv utenfor statsforvaltningen eller etablerer næringsvirksomhet. Informasjonsplikten omfatter også opplysninger om tidligere embete eller stilling og den nye stillingen, vervet eller virksomheten.\nPlikten etter andre ledd gjelder tilsvarende dersom det i samme tidsrom skjer\na. endringer i hvilke sektorer eller bransjer politikeren skal arbeide med\nb. endringer i politikerens kontakt med myndighetene\nc. endringer i politikerens organisatoriske plassering i en stilling, et verv eller en næringsvirksomhet.\nOpplysninger etter andre og tredje ledd skal gis senest tre uker før overgangen eller før endringen trer i kraft.\nDepartementet kan gi forskrift om informasjonsplikten etter første til fjerde ledd.\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Karantene",
+      "content": "Karantenenemnda kan, ved overgang til stilling eller verv utenfor statsforvaltningen eller etablering av næringsvirksomhet, i særlige tilfeller ilegge en politiker karantene i inntil seks måneder etter fratreden når\na. det foreligger en konkret forbindelse mellom politikerens tidligere ansvarsområder, arbeidsoppgaver i den politiske stillingen eller bestemte saker som var til behandling i departementet i politikerens funksjonstid, og interessene til den virksomheten politikeren blir tilknyttet eller etablerer, eller\nb. politikerens tidligere ansvar og arbeidsoppgaver har gitt eller kan gi virksomheten politikeren blir tilknyttet eller etablerer særlige fordeler, eller\nc. overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Saksforbud",
+      "content": "Karantenenemnda kan i særlige tilfeller, dersom ett eller flere av vilkårene i § 6 er oppfylt, ilegge en politiker saksforbud i inntil tolv måneder etter fratreden. Saksforbud kan ilegges i stedet for eller i tillegg til karantene.\nDersom det foreligger særlig tungtveiende grunner, kan det ilegges saksforbud i inntil 18 måneder etter fratreden.\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Godtgjørelse",
+      "content": "En politiker som er ilagt karantene etter § 6, mottar en godtgjørelse i karantenetiden som tilsvarer den lønn vedkommende hadde ved fratreden som politiker, med tillegg av feriepenger.\nGodtgjørelse gis ikke for ilagt karantene ved overgang til næringsvirksomhet en politiker har opprettet etter å ha tiltrådt det politiske embetet eller den politiske stillingen, eller ved overgang til egen næringsvirksomhet som ikke tidligere har hatt reell drift. Tilsvarende gjelder for ilagt karantene ved overgang til stilling, verv eller næringsvirksomhet som utgjør en bistilling eller et bierverv.\nLønn eller vederlag for annet arbeid, verv eller oppdrag som vedkommende måtte motta eller opptjene i karantenetiden, går til fradrag i godtgjørelsen etter første ledd.\nI karanteneperioden vil politikeren være omfattet av en ordning som tilsvarer gruppelivsordningen som følger av den til enhver tid gjeldende hovedtariffavtale i staten.\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Saksbehandlingen i Karantenenemnda",
+      "content": "Karantenenemnda har frist på to uker til å treffe vedtak om å ilegge karantene og saksforbud, regnet fra det tidspunkt vedkommende politiker har oppfylt sin informasjonsplikt etter § 5. Politikeren kan ikke tiltre stilling eller verv eller etablere næringsvirksomhet før Karantenenemnda har truffet endelig vedtak i saken. Det kan heller ikke iverksettes endringer som nevnt i § 5 tredje ledd før Karantenenemnda har truffet endelig vedtak.\nDepartementet kan gi forskrift om saksbehandlingen i Karantenenemnda, inkludert om beregning av fristen etter første ledd.\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Overgang til visse ledende departementsstillinger",
+      "content": "En politiker som tiltrer eller gjeninntrer som departementsråd, assisterende departementsråd, ekspedisjonssjef eller kommunikasjonssjef i det departement vedkommende har vært politiker, kan ikke utøve embetets eller stillingens funksjoner i seks måneder etter fratreden. Tilsvarende forbud gjelder i tre måneder der overgang skjer til et annet departement.\nI tidsrom nevnt i første ledd, kan politikeren heller ikke ha arbeidsoppgaver som innebærer et direkte rådgivningsforhold til politisk ledelse, eller som vedrører saker som politikeren hadde til behandling i sin politiske stilling.\nDersom særlig tungtveiende grunner tilsier det, kan departementet oppheve eller begrense forbudet etter første og andre ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Overgang til andre stillinger i departementene",
+      "content": "Går en politiker over til andre embeter eller stillinger i departementet enn nevnt i § 10, kan departementet bestemme at vedkommende ikke skal ha oppgaver som innebærer direkte rådgivning til departementets politiske ledelse for en periode på inntil seks måneder etter fratreden. Når tungtveiende grunner tilsier det, kan politikeren ilegges et forbud etter § 10 første og andre ledd i inntil tre måneder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Lønn",
+      "content": "Den som er underlagt forbud etter §§ 10 eller 11, mottar embetets eller stillingens lønn. Lønn eller vederlag for annet arbeid, verv eller oppdrag som vedkommende måtte motta eller opptjene i perioden, går til fradrag i lønnen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Overgang fra ledende stilling i et departement eller annet statlig forvaltningsorgan",
+      "content": "Dersom en departementsråd, assisterende departementsråd, ekspedisjonssjef eller leder av annet statlig forvaltningsorgan går over til stilling eller verv utenfor statsforvaltningen, eller etablerer næringsvirksomhet, kan ansettelsesmyndigheten i særlige tilfeller ilegge karantene når\na. det foreligger en konkret forbindelse mellom embetsmannens eller den statsansattes tidligere ansvar og arbeidsoppgaver i embetet eller stillingen eller bestemte saker som var til behandling i forvaltningsorganet i vedkommendes funksjonstid, og interessene til den virksomheten vedkommende blir tilknyttet eller etablerer, eller\nb. embetsmannens eller den statsansattes tidligere ansvar og arbeidsoppgaver har gitt eller kan gi virksomheten vedkommende blir tilknyttet eller etablerer særlige fordeler, eller\nc. overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.\nDersom vilkåret i første ledd er oppfylt, kan ansettelsesmyndigheten ilegge et saksforbud. Saksforbud kan ilegges i stedet for eller i tillegg til karantene.\nKarantene kan ilegges for inntil seks måneder og saksforbud inntil tolv måneder regnet fra fratreden fra embetet eller stillingen.\n0 Endret ved lover 16 juni 2017 nr. 67 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 763), 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Overgang fra andre embeter og stillinger i statsforvaltningen",
+      "content": "For andre embeter og stillinger enn nevnt i § 13, kan det ved utnevnelsen eller ansettelsen fastsettes en klausul i arbeidskontrakten om at karantene og saksforbud kan ilegges ved overgang til stilling eller verv utenfor statsforvaltningen eller ved etablering av næringsvirksomhet. Slik klausul kan fastsettes dersom stillingens karakter gir saklig grunn til det.\nDersom det er fastsatt en klausul i arbeidskontrakten etter første ledd, kan ansettelsesmyndigheten i særlige tilfeller ilegge karantene og saksforbud når\na. overgangen kan gi virksomheten som embetsmannen eller den statsansatte blir tilknyttet eller etablerer, særlige fordeler på grunn av vedkommendes stilling, ansvar eller arbeidsoppgaver i statsforvaltningen, eller\nb. overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.\nSaksforbud kan fastsettes i stedet for eller i tillegg til karantene.\nDersom ansettelsesmyndigheten ikke med rimelighet kunne tatt inn klausul om karantene og saksforbud ved utnevnelsen eller ansettelsen, kan karantene og saksforbud likevel ilegges når tungtveiende hensyn til tilliten til forvaltningen tilsier det, og vilkårene i andre ledd er oppfylt.\nKarantene kan ilegges for inntil seks måneder og saksforbud for inntil tolv måneder regnet fra fratreden i embetet eller stillingen.\n0 Endret ved lover 16 juni 2017 nr. 67 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 763), 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Informasjonsplikt",
+      "content": "Dersom embetsmann eller statsansatt som nevnt i § 13 første ledd, eller som har en klausul om karantene og saksforbud i arbeidskontrakten sin, jf. § 14 første ledd, tar imot tilbud om stilling eller verv utenfor statsforvaltningen eller etablerer næringsvirksomhet, skal vedkommende uten ugrunnet opphold gi alle opplysninger ansettelsesmyndigheten trenger for å fatte vedtak om karantene og saksforbud, inkludert opplysninger om embete og stilling og den nye stillingen, vervet eller virksomheten.\nArbeidsgiver kan pålegge informasjonsplikt for andre embetsmenn og statsansatte enn dem som er nevnt i første ledd, dersom vedkommendes ansvarsområder og arbeidsoppgaver kan gi grunnlag for å ilegge karantene og saksforbud etter § 14 fjerde ledd.\nInformasjonsplikten gjelder alle overganger innen tolv måneder etter fratreden fra embetet eller stillingen.\nDepartementet kan gi forskrift om informasjonsplikten.\n0 Endret ved lover 16 juni 2017 nr. 67 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 763), 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Godtgjørelse",
+      "content": "En embetsmann eller statsansatt som er ilagt karantene etter §§ 13 eller 14, mottar en godtgjørelse som tilsvarer den tidligere stillingens lønn, med tillegg av feriepenger.\nLønn eller vederlag for annet arbeid, verv eller oppdrag som vedkommende måtte motta eller opptjene i karantenetiden, går til fradrag i godtgjørelsen etter første ledd.\nI karanteneperioden vil embetsmannen eller den statsansatte være omfattet av en ordning som tilsvarer gruppelivsordningen som følger av den til enhver tid gjeldende hovedtariffavtale i staten.\n0 Endret ved lov 16 juni 2017 nr. 67 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 763).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Saksbehandlingsregler",
+      "content": "Ansettelsesmyndigheten har frist på to uker til å treffe vedtak om karantene og saksforbud. Fristen regnes fra det tidspunkt vedkommende embetsmann eller statsansatt har oppfylt informasjonsplikten etter § 15. Embetsmannen eller den statsansatte kan ikke tiltre stilling eller verv eller etablere næringsvirksomhet før ansettelsesmyndigheten har truffet endelig vedtak i saken.\nDepartementet kan gi forskrift om saksbehandlingen, inkludert om beregning av fristen etter første ledd.\n0 Endret ved lover 16 juni 2017 nr. 67 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 763), 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Pålegg og tvangsmulkt",
+      "content": "Ved overtredelse av bestemmelser gitt i eller i medhold av loven, eller i vedtak fattet i medhold av loven, kan Karantenenemnda eller ansettelsesmyndigheten gi pålegg om tiltak for å bringe de ulovlige forhold til opphør. Det kan settes frist for gjennomføring av slike tiltak.\nKarantenenemnda eller ansettelsesmyndigheten kan fastsette tvangsmulkt for å få gjennomført pålegg etter første ledd innen en særskilt angitt frist. Tvangsmulkten kan fastsettes samtidig med pålegg etter første ledd eller senere. Dersom tvangsmulkt ikke fastsettes samtidig med pålegget, skal det gis eget forhåndsvarsel om mulkten. Tvangsmulkten begynner å løpe når den ansvarlige oversitter fristen som er satt for retting av forholdet, og løper så lenge det ulovlige forholdet varer.\nTvangsmulkten tilfaller statskassen. Karantenenemnda eller ansettelsesmyndigheten kan i særlige tilfeller frafalle påløpt tvangsmulkt.\nDepartementet kan gi forskrift om tvangsmulkt, inkludert om tvangsmulktens størrelse og varighet og frafall av påløpt tvangsmulkt.\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Administrativ inndragning",
+      "content": "Karantenenemnda eller ansettelsesmyndigheten kan helt eller delvis inndra inntekt som er oppnådd ved overtredelse av bestemmelser gitt i eller i medhold av loven, eller i vedtak fattet i medhold av loven. Inndragning foretas overfor den som inntekten har tilfalt. Kan størrelsen av inntekten ikke godtgjøres, fastsettes beløpet skjønnsmessig. Inndragning kan bare skje dersom dette ikke vil være urimelig.\nEndelig vedtak om inndragning er tvangsgrunnlag for utlegg. Inndratt inntekt tilfaller statskassen.\nDepartementet kan gi forskrift om inndragning, inkludert om skjønnsmessig utmåling av inntekt og fradrag for utgifter.\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Overtredelsesgebyr",
+      "content": "Ved forsettlig eller uaktsom overtredelse av informasjonsplikten etter §§ 5 og 15, bestemmelsene i §§ 10 og 11 eller vedtak truffet etter §§ 6, 7, 13 eller 14, kan Karantenenemnda eller ansettelsesmyndigheten gi pålegg om å betale overtredelsesgebyr til statskassen.\nVed vurderingen av om overtredelsesgebyr skal ilegges, og ved utmålingen, skal det særlig legges vekt på overtredelsens grovhet, graden av skyld, om overtrederen har hatt eller kunne ha oppnådd noen fordel av overtredelsen, overtrederens økonomiske evne og den preventive effekten.\nNår ikke annet er fastsatt i enkeltvedtak, forfaller overtredelsesgebyret til betaling fire uker etter at endelig vedtak er fattet. Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.\nDersom Karantenenemndas eller ansettelsesmyndighetens vedtak om overtredelsesgebyr bringes inn for domstolen, kan retten prøve alle sider av saken.\nAdgangen til å ilegge overtredelsesgebyr foreldes fem år etter at overtredelsen er opphørt. Foreldelsesfristen avbrytes ved at Karantenenemnda eller ansettelsesmyndigheten gir forhåndsvarsel om eller treffer vedtak om overtredelsesgebyr.\nDepartementet kan gi forskrift om overtredelsesgebyr, inkludert om utmålingen. Det skal fastsettes et maksimumsbeløp for overtredelsesgebyret.\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Opphør og tilbakekreving av godtgjørelse",
+      "content": "Ved overtredelse av vedtak om karantene kan Karantenenemnda eller ansettelsesmyndigheten vedta at tilkjent godtgjørelse skal opphøre og kreves tilbakebetalt helt eller delvis. Opphør og tilbakekreving kan bare skje dersom dette ikke vil være urimelig.\nEndelig vedtak om tilbakekreving av godtgjørelse er tvangsgrunnlag for utlegg. Godtgjørelse som er krevd tilbakebetalt, tilfaller den virksomheten som utbetalte godtgjørelsen.\n0 Tilføyd ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "6:22",
+      "chapter": "6",
+      "section": "22",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145, tidligere § 21).\n1 Fra 1 jan 2016 iflg. res. 19 juni 2015 nr. 662.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Hva loven omfatter",
+      "content": "Loven omfatter politikere som skal tiltre embete eller stilling i departementene eller stilling eller verv utenfor statsforvaltningen, eller som etablerer næringsvirksomhet. Statsministerens kontor regnes som departement etter loven her.\nLoven omfatter embetsmenn og statsansatte som går over til stilling eller verv utenfor statsforvaltningen, eller som etablerer næringsvirksomhet.\nLoven omfatter ikke overgang til partipolitisk arbeid eller politiske verv i Stortinget, kommuner og fylkeskommuner.\n0 Endret ved lov 16 juni 2017 nr. 67 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 763).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:1 a",
+      "chapter": "1",
+      "section": "1 a",
+      "title": "Lovens formål",
+      "content": "Loven skal bidra til å fremme den alminnelige tilliten til forvaltningen og det politiske systemet ved overganger som omfattes av loven, ved å:\na. motvirke at noen får særlige konkurransefordeler\nb. beskytte intern informasjon i statsforvaltningen\nc. beskytte andre virksomheters forretningsinformasjon som statsforvaltningen har fått tilgang til\nd. medvirke til å opprettholde skillet mellom politisk ledelse og embetsverk.\n0 Tilføyd ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1a",
+        "source_heading": "§ 1 a."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjoner",
+      "content": "Med politiker og politisk stilling menes i denne lov nåværende eller tidligere medlemmer av regjeringen, statssekretærer og politiske rådgivere.\nMed karantene menes et tidsbegrenset forbud mot å tiltre ny stilling eller verv utenfor statsforvaltningen eller etablere næringsvirksomhet.\nMed saksforbud menes et tidsbegrenset forbud mot å involvere seg i bestemte saker eller saksområder. Dette omfatter blant annet å drive påvirkningsarbeid, gi råd til eller opptre på vegne av andre og delta i saksbehandling, møter eller forhandlinger.\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Forholdet til forvaltningsloven",
+      "content": "Forvaltningsloven gjelder med de særlige bestemmelser som er gitt i denne loven.\nVedtak etter loven kan ikke påklages.\nParten kan innen fem virkedager uttale seg om vedtak etter §§ 6, 7, 10, 11, 13 og 14 og kreve ny vurdering av saken. Fristen regnes fra det tidspunkt vedkommende underrettes om vedtaket. Organet som har truffet vedtaket, skal fremlegge ny vurdering av saken innen fem virkedager fra det tidspunkt krav om ny vurdering er mottatt.\nParten kan innen tre uker uttale seg om vedtak etter §§ 18, 19 og 20 og kreve ny vurdering av saken. Fristen regnes fra det tidspunkt underretning om vedtaket er kommet frem til vedkommende part.\nSøksmål om gyldigheten av vedtak etter loven kan ikke reises uten at vedkommende part har benyttet sin adgang til å kreve ny vurdering av vedtaket, og ny vurdering er gitt.\nDepartementet kan gi forskrift om saksbehandlingen, inkludert om beregningen av frister, samt fristoppreisning i saker der parten uttaler seg om vedtak og krever ny vurdering etter tredje og fjerde ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Karantenenemnda",
+      "content": "Kongen skal oppnevne en faglig uavhengig nemnd, Karantenenemnda, som treffer vedtak om karantene og saksforbud ved politikeres overgang til stilling eller verv utenfor statsforvaltningen eller etablering av næringsvirksomhet.\nKongen gir forskrift om nemndas sammensetning og funksjonstid.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Informasjonsplikt",
+      "content": "Politikere skal gi Karantenenemnda de opplysninger nemnda trenger for å fatte vedtak etter loven. Opplysningene skal gis i rett tid og være fullstendige, slik at tilliten til forvaltningen og det politiske systemet ivaretas.\nPolitikere skal gi opplysninger til Karantenenemnda når de innen 18 måneder etter fratreden som politiker går over til stilling eller verv utenfor statsforvaltningen eller etablerer næringsvirksomhet. Informasjonsplikten omfatter også opplysninger om tidligere embete eller stilling og den nye stillingen, vervet eller virksomheten.\nPlikten etter andre ledd gjelder tilsvarende dersom det i samme tidsrom skjer\na. endringer i hvilke sektorer eller bransjer politikeren skal arbeide med\nb. endringer i politikerens kontakt med myndighetene\nc. endringer i politikerens organisatoriske plassering i en stilling, et verv eller en næringsvirksomhet.\nOpplysninger etter andre og tredje ledd skal gis senest tre uker før overgangen eller før endringen trer i kraft.\nDepartementet kan gi forskrift om informasjonsplikten etter første til fjerde ledd.\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Karantene",
+      "content": "Karantenenemnda kan, ved overgang til stilling eller verv utenfor statsforvaltningen eller etablering av næringsvirksomhet, i særlige tilfeller ilegge en politiker karantene i inntil seks måneder etter fratreden når\na. det foreligger en konkret forbindelse mellom politikerens tidligere ansvarsområder, arbeidsoppgaver i den politiske stillingen eller bestemte saker som var til behandling i departementet i politikerens funksjonstid, og interessene til den virksomheten politikeren blir tilknyttet eller etablerer, eller\nb. politikerens tidligere ansvar og arbeidsoppgaver har gitt eller kan gi virksomheten politikeren blir tilknyttet eller etablerer særlige fordeler, eller\nc. overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Saksforbud",
+      "content": "Karantenenemnda kan i særlige tilfeller, dersom ett eller flere av vilkårene i § 6 er oppfylt, ilegge en politiker saksforbud i inntil tolv måneder etter fratreden. Saksforbud kan ilegges i stedet for eller i tillegg til karantene.\nDersom det foreligger særlig tungtveiende grunner, kan det ilegges saksforbud i inntil 18 måneder etter fratreden.\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Godtgjørelse",
+      "content": "En politiker som er ilagt karantene etter § 6, mottar en godtgjørelse i karantenetiden som tilsvarer den lønn vedkommende hadde ved fratreden som politiker, med tillegg av feriepenger.\nGodtgjørelse gis ikke for ilagt karantene ved overgang til næringsvirksomhet en politiker har opprettet etter å ha tiltrådt det politiske embetet eller den politiske stillingen, eller ved overgang til egen næringsvirksomhet som ikke tidligere har hatt reell drift. Tilsvarende gjelder for ilagt karantene ved overgang til stilling, verv eller næringsvirksomhet som utgjør en bistilling eller et bierverv.\nLønn eller vederlag for annet arbeid, verv eller oppdrag som vedkommende måtte motta eller opptjene i karantenetiden, går til fradrag i godtgjørelsen etter første ledd.\nI karanteneperioden vil politikeren være omfattet av en ordning som tilsvarer gruppelivsordningen som følger av den til enhver tid gjeldende hovedtariffavtale i staten.\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Saksbehandlingen i Karantenenemnda",
+      "content": "Karantenenemnda har frist på to uker til å treffe vedtak om å ilegge karantene og saksforbud, regnet fra det tidspunkt vedkommende politiker har oppfylt sin informasjonsplikt etter § 5. Politikeren kan ikke tiltre stilling eller verv eller etablere næringsvirksomhet før Karantenenemnda har truffet endelig vedtak i saken. Det kan heller ikke iverksettes endringer som nevnt i § 5 tredje ledd før Karantenenemnda har truffet endelig vedtak.\nDepartementet kan gi forskrift om saksbehandlingen i Karantenenemnda, inkludert om beregning av fristen etter første ledd.\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Overgang til visse ledende departementsstillinger",
+      "content": "En politiker som tiltrer eller gjeninntrer som departementsråd, assisterende departementsråd, ekspedisjonssjef eller kommunikasjonssjef i det departement vedkommende har vært politiker, kan ikke utøve embetets eller stillingens funksjoner i seks måneder etter fratreden. Tilsvarende forbud gjelder i tre måneder der overgang skjer til et annet departement.\nI tidsrom nevnt i første ledd, kan politikeren heller ikke ha arbeidsoppgaver som innebærer et direkte rådgivningsforhold til politisk ledelse, eller som vedrører saker som politikeren hadde til behandling i sin politiske stilling.\nDersom særlig tungtveiende grunner tilsier det, kan departementet oppheve eller begrense forbudet etter første og andre ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Overgang til andre stillinger i departementene",
+      "content": "Går en politiker over til andre embeter eller stillinger i departementet enn nevnt i § 10, kan departementet bestemme at vedkommende ikke skal ha oppgaver som innebærer direkte rådgivning til departementets politiske ledelse for en periode på inntil seks måneder etter fratreden. Når tungtveiende grunner tilsier det, kan politikeren ilegges et forbud etter § 10 første og andre ledd i inntil tre måneder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Lønn",
+      "content": "Den som er underlagt forbud etter §§ 10 eller 11, mottar embetets eller stillingens lønn. Lønn eller vederlag for annet arbeid, verv eller oppdrag som vedkommende måtte motta eller opptjene i perioden, går til fradrag i lønnen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Overgang fra ledende stilling i et departement eller annet statlig forvaltningsorgan",
+      "content": "Dersom en departementsråd, assisterende departementsråd, ekspedisjonssjef eller leder av annet statlig forvaltningsorgan går over til stilling eller verv utenfor statsforvaltningen, eller etablerer næringsvirksomhet, kan ansettelsesmyndigheten i særlige tilfeller ilegge karantene når\na. det foreligger en konkret forbindelse mellom embetsmannens eller den statsansattes tidligere ansvar og arbeidsoppgaver i embetet eller stillingen eller bestemte saker som var til behandling i forvaltningsorganet i vedkommendes funksjonstid, og interessene til den virksomheten vedkommende blir tilknyttet eller etablerer, eller\nb. embetsmannens eller den statsansattes tidligere ansvar og arbeidsoppgaver har gitt eller kan gi virksomheten vedkommende blir tilknyttet eller etablerer særlige fordeler, eller\nc. overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.\nDersom vilkåret i første ledd er oppfylt, kan ansettelsesmyndigheten ilegge et saksforbud. Saksforbud kan ilegges i stedet for eller i tillegg til karantene.\nKarantene kan ilegges for inntil seks måneder og saksforbud inntil tolv måneder regnet fra fratreden fra embetet eller stillingen.\n0 Endret ved lover 16 juni 2017 nr. 67 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 763), 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "title": "Overgang fra andre embeter og stillinger i statsforvaltningen",
+      "content": "For andre embeter og stillinger enn nevnt i § 13, kan det ved utnevnelsen eller ansettelsen fastsettes en klausul i arbeidskontrakten om at karantene og saksforbud kan ilegges ved overgang til stilling eller verv utenfor statsforvaltningen eller ved etablering av næringsvirksomhet. Slik klausul kan fastsettes dersom stillingens karakter gir saklig grunn til det.\nDersom det er fastsatt en klausul i arbeidskontrakten etter første ledd, kan ansettelsesmyndigheten i særlige tilfeller ilegge karantene og saksforbud når\na. overgangen kan gi virksomheten som embetsmannen eller den statsansatte blir tilknyttet eller etablerer, særlige fordeler på grunn av vedkommendes stilling, ansvar eller arbeidsoppgaver i statsforvaltningen, eller\nb. overgangen på annen måte kan være egnet til å svekke tilliten til forvaltningen generelt.\nSaksforbud kan fastsettes i stedet for eller i tillegg til karantene.\nDersom ansettelsesmyndigheten ikke med rimelighet kunne tatt inn klausul om karantene og saksforbud ved utnevnelsen eller ansettelsen, kan karantene og saksforbud likevel ilegges når tungtveiende hensyn til tilliten til forvaltningen tilsier det, og vilkårene i andre ledd er oppfylt.\nKarantene kan ilegges for inntil seks måneder og saksforbud for inntil tolv måneder regnet fra fratreden i embetet eller stillingen.\n0 Endret ved lover 16 juni 2017 nr. 67 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 763), 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Informasjonsplikt",
+      "content": "Dersom embetsmann eller statsansatt som nevnt i § 13 første ledd, eller som har en klausul om karantene og saksforbud i arbeidskontrakten sin, jf. § 14 første ledd, tar imot tilbud om stilling eller verv utenfor statsforvaltningen eller etablerer næringsvirksomhet, skal vedkommende uten ugrunnet opphold gi alle opplysninger ansettelsesmyndigheten trenger for å fatte vedtak om karantene og saksforbud, inkludert opplysninger om embete og stilling og den nye stillingen, vervet eller virksomheten.\nArbeidsgiver kan pålegge informasjonsplikt for andre embetsmenn og statsansatte enn dem som er nevnt i første ledd, dersom vedkommendes ansvarsområder og arbeidsoppgaver kan gi grunnlag for å ilegge karantene og saksforbud etter § 14 fjerde ledd.\nInformasjonsplikten gjelder alle overganger innen tolv måneder etter fratreden fra embetet eller stillingen.\nDepartementet kan gi forskrift om informasjonsplikten.\n0 Endret ved lover 16 juni 2017 nr. 67 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 763), 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Godtgjørelse",
+      "content": "En embetsmann eller statsansatt som er ilagt karantene etter §§ 13 eller 14, mottar en godtgjørelse som tilsvarer den tidligere stillingens lønn, med tillegg av feriepenger.\nLønn eller vederlag for annet arbeid, verv eller oppdrag som vedkommende måtte motta eller opptjene i karantenetiden, går til fradrag i godtgjørelsen etter første ledd.\nI karanteneperioden vil embetsmannen eller den statsansatte være omfattet av en ordning som tilsvarer gruppelivsordningen som følger av den til enhver tid gjeldende hovedtariffavtale i staten.\n0 Endret ved lov 16 juni 2017 nr. 67 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 763).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Saksbehandlingsregler",
+      "content": "Ansettelsesmyndigheten har frist på to uker til å treffe vedtak om karantene og saksforbud. Fristen regnes fra det tidspunkt vedkommende embetsmann eller statsansatt har oppfylt informasjonsplikten etter § 15. Embetsmannen eller den statsansatte kan ikke tiltre stilling eller verv eller etablere næringsvirksomhet før ansettelsesmyndigheten har truffet endelig vedtak i saken.\nDepartementet kan gi forskrift om saksbehandlingen, inkludert om beregning av fristen etter første ledd.\n0 Endret ved lover 16 juni 2017 nr. 67 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 763), 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Pålegg og tvangsmulkt",
+      "content": "Ved overtredelse av bestemmelser gitt i eller i medhold av loven, eller i vedtak fattet i medhold av loven, kan Karantenenemnda eller ansettelsesmyndigheten gi pålegg om tiltak for å bringe de ulovlige forhold til opphør. Det kan settes frist for gjennomføring av slike tiltak.\nKarantenenemnda eller ansettelsesmyndigheten kan fastsette tvangsmulkt for å få gjennomført pålegg etter første ledd innen en særskilt angitt frist. Tvangsmulkten kan fastsettes samtidig med pålegg etter første ledd eller senere. Dersom tvangsmulkt ikke fastsettes samtidig med pålegget, skal det gis eget forhåndsvarsel om mulkten. Tvangsmulkten begynner å løpe når den ansvarlige oversitter fristen som er satt for retting av forholdet, og løper så lenge det ulovlige forholdet varer.\nTvangsmulkten tilfaller statskassen. Karantenenemnda eller ansettelsesmyndigheten kan i særlige tilfeller frafalle påløpt tvangsmulkt.\nDepartementet kan gi forskrift om tvangsmulkt, inkludert om tvangsmulktens størrelse og varighet og frafall av påløpt tvangsmulkt.\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Administrativ inndragning",
+      "content": "Karantenenemnda eller ansettelsesmyndigheten kan helt eller delvis inndra inntekt som er oppnådd ved overtredelse av bestemmelser gitt i eller i medhold av loven, eller i vedtak fattet i medhold av loven. Inndragning foretas overfor den som inntekten har tilfalt. Kan størrelsen av inntekten ikke godtgjøres, fastsettes beløpet skjønnsmessig. Inndragning kan bare skje dersom dette ikke vil være urimelig.\nEndelig vedtak om inndragning er tvangsgrunnlag for utlegg. Inndratt inntekt tilfaller statskassen.\nDepartementet kan gi forskrift om inndragning, inkludert om skjønnsmessig utmåling av inntekt og fradrag for utgifter.\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Overtredelsesgebyr",
+      "content": "Ved forsettlig eller uaktsom overtredelse av informasjonsplikten etter §§ 5 og 15, bestemmelsene i §§ 10 og 11 eller vedtak truffet etter §§ 6, 7, 13 eller 14, kan Karantenenemnda eller ansettelsesmyndigheten gi pålegg om å betale overtredelsesgebyr til statskassen.\nVed vurderingen av om overtredelsesgebyr skal ilegges, og ved utmålingen, skal det særlig legges vekt på overtredelsens grovhet, graden av skyld, om overtrederen har hatt eller kunne ha oppnådd noen fordel av overtredelsen, overtrederens økonomiske evne og den preventive effekten.\nNår ikke annet er fastsatt i enkeltvedtak, forfaller overtredelsesgebyret til betaling fire uker etter at endelig vedtak er fattet. Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.\nDersom Karantenenemndas eller ansettelsesmyndighetens vedtak om overtredelsesgebyr bringes inn for domstolen, kan retten prøve alle sider av saken.\nAdgangen til å ilegge overtredelsesgebyr foreldes fem år etter at overtredelsen er opphørt. Foreldelsesfristen avbrytes ved at Karantenenemnda eller ansettelsesmyndigheten gir forhåndsvarsel om eller treffer vedtak om overtredelsesgebyr.\nDepartementet kan gi forskrift om overtredelsesgebyr, inkludert om utmålingen. Det skal fastsettes et maksimumsbeløp for overtredelsesgebyret.\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Opphør og tilbakekreving av godtgjørelse",
+      "content": "Ved overtredelse av vedtak om karantene kan Karantenenemnda eller ansettelsesmyndigheten vedta at tilkjent godtgjørelse skal opphøre og kreves tilbakebetalt helt eller delvis. Opphør og tilbakekreving kan bare skje dersom dette ikke vil være urimelig.\nEndelig vedtak om tilbakekreving av godtgjørelse er tvangsgrunnlag for utlegg. Godtgjørelse som er krevd tilbakebetalt, tilfaller den virksomheten som utbetalte godtgjørelsen.\n0 Tilføyd ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "6:22",
+      "chapter": "6",
+      "section": "22",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1\n0 Endret ved lov 7 feb 2025 nr. 1 (i kraft 1 juli 2025 iflg. res. 7 feb 2025 nr. 145, tidligere § 21).\n1 Fra 1 jan 2016 iflg. res. 19 juni 2015 nr. 662.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    }
+  ]
+}

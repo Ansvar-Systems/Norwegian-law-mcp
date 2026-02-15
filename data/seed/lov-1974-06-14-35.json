@@ -1,0 +1,115 @@
+{
+  "id": "LOV-1974-06-14-35",
+  "type": "statute",
+  "title": "Midlertidig lov om panteordninger for emballasje til øl, mineralvann og andre leskedrikker.",
+  "short_name": "Midl. lov om panteordninger for emballasje.",
+  "status": "in_force",
+  "issued_date": "1974-06-14",
+  "in_force_date": "1974-06-14",
+  "url": "https://lovdata.no/dokument/NLO/lov/1974-06-14-35",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen kan påby panteordninger for ytter- og inneremballasje til øl, mineralvann og andre leskedrikker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Vedkommende departement​1 kan gi nærmere forskrifter om fastsettelse, godkjennelse og gjennomføring av panteordninger som nevnt i § 1.\n1 Finansdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Vedkommende departement​1 kan pålegge den som ikke etterkommer et pålegg gitt i medhold av § 1 en daglig løpende tvangsmulkt.\nPålegg til selskap, forening, innretning eller organisasjon rettes til styret og sendes hvert medlem av styret i rekommandert brev. Tvangsmulkten kan inndrives så vel hos medlemmene av styret som hos selskapet, foreningen, innretningen eller organisasjonen. Tvangsmulkten kan inndrives ved utpanting​2 og tilfaller statskassen.\n1 Finansdepartementet.\n2 Jfr. tvangsfullbl. kap. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Den som overtrer forskrifter gitt i medhold av denne lov straffes med bøter.​1\n1 Jfr. strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen kan påby panteordninger for ytter- og inneremballasje til øl, mineralvann og andre leskedrikker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Vedkommende departement​1 kan gi nærmere forskrifter om fastsettelse, godkjennelse og gjennomføring av panteordninger som nevnt i § 1.\n1 Finansdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Vedkommende departement​1 kan pålegge den som ikke etterkommer et pålegg gitt i medhold av § 1 en daglig løpende tvangsmulkt.\nPålegg til selskap, forening, innretning eller organisasjon rettes til styret og sendes hvert medlem av styret i rekommandert brev. Tvangsmulkten kan inndrives så vel hos medlemmene av styret som hos selskapet, foreningen, innretningen eller organisasjonen. Tvangsmulkten kan inndrives ved utpanting​2 og tilfaller statskassen.\n1 Finansdepartementet.\n2 Jfr. tvangsfullbl. kap. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Den som overtrer forskrifter gitt i medhold av denne lov straffes med bøter.​1\n1 Jfr. strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ]
+}

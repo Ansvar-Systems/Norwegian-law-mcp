@@ -1,0 +1,399 @@
+{
+  "id": "LOV-1977-04-29-32",
+  "type": "statute",
+  "title": "Lov om boligformidling m.v.",
+  "short_name": "Boligformidlingsloven",
+  "status": "in_force",
+  "issued_date": "1977-04-29",
+  "in_force_date": "1977-04-29",
+  "url": "https://lovdata.no/dokument/NLO/lov/1977-04-29-32",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Stedlig virkeområde.",
+      "content": "Denne loven gjelder i de kommuner der kommunestyret har gjort vedtak om å innføre den.\nKongen kan bestemme at loven skal gjelde i en kommune uten omsyn til om kommunestyret har gjort vedtak etter første ledd. Kommunen skal på forhånd ha fått høve til å uttale seg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Saklig virkeområde.",
+      "content": "Bolig, møblert eller umøblert, som helt eller delvis har vært nyttet eller skal nyttes til å bo i, er undergitt reglene i denne lov.\nUnntatt fra lovens bestemmelser er enkeltrom som er en del av bolig samt ferie- og fritidshus.\nKommunestyret kan bestemme at loven ikke skal gjelde utleie av bolig i eiendom som tilhører kommunen eller nærmere bestemt boligselskap der bortleie kontrolleres av kommunen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Formidlingsmyndighet.",
+      "content": "I kommuner der loven gjelder,​1 skal det være en boligformidlingsnemnd på minst fem medlemmer som med personlige varamenn velges av kommunestyret for den kommunale valgperioden.\nNemnda bør ha en representant for huseiere, en for leiere og en for boligsamvirket.\nDen som bor i kommunen og ikke har fylt 60 år, plikter å ta imot valg.\nKommunestyret bestemmer hvem som skal være formann og nestformann.\n1 Jfr. § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Romnorm.​1",
+      "content": "Kommunestyret kan for de forskjellige boligstørrelser fastsette det minste antall personer som en husstand må bestå av for å ha rett til å flytte inn (romnorm).\nBoligformidlingsnemnda kan dispensere fra romnormen når særlige forhold tilsier det.\n1 Jfr. § 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Utleie- og meldeplikt.",
+      "content": "Bolig​1 som blir ledig, plikter​2 utleieren å leie ut som helårsbolig på ny innen 30 dager. Innen samme frist skal han sende boligformidlingsnemnda ny leieavtale i tre eksemplarer underskrevet av begge parter, sammen med opplysninger om antall rom i boligen og størrelsen av leiernes husstand.\nI vedtekt fastsatt av kommunestyret etter innstilling fra nemnda og stadfestet av departementet​3 kan det gjøres avvik fra den kontrollordning som er nevnt i første ledd.\nUnntatt fra utleieplikt etter første ledd er utleier som selv skal bruke den ledige bolig til helårsbolig. Melding om slik bruk må sendes nemnda innen den frist som er nevnt i første ledd.\n1 Se § 2.\n2 Jfr. §§ 6 og 15.\n3 Kommunaldept.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Oversittelse av utleiefristen.",
+      "content": "Har utleieren ikke innen den frist som er fastsatt i § 5 foretatt ny utleie, skal nemnda gi ham ytterligere frist på minst 14 dager. Tilsvarende gjelder når utleieren har foretatt ny utleie i strid med § 4.\nOversittes fristen, kan nemnda vedta at boligen skal leles ut til en bestemt leier, og at en leier som ikke fyller vilkårene skal fraflytte boligen.​1\n1 Jfr. § 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Leiers og utleiers plikt til å overdra leierett m.v.",
+      "content": "En søker som blir skaffet bolig eller tomt av kommunen ved tiltak av boligformidlingsnemnda eller på annen måte og som på forhånd har leieavtale om bolig med overdragelsesrett, plikter å overdra leieretten til denne bolig med tilhørende dokumenter til den som boligformidlingsnemnda peker ut. Nemndas tilvisningsrett går foran eventuell forkjøpsrett.\nSkaffer kommunen ellers en leier annen bolig eller tomt ved tiltak av boligformidlingsnemnda eller på annen måte, kan nemnda kreve at utleieren velger den nye leier fra et utvalg av søkere som nemnda peker ut. Utleieren kan likevel kreve at hans ektefelle, deres slektninger i rett opp- eller nedstigende linje, søsken, adoptivbarn eller andre som faktisk står i adoptivbarns stilling, får ta boligen i bruk som helårsbolig når vedkommende tilfredsstiller eventuell romnorm etter § 4 og har meldt seg for nemnda som boligsøker. Er vedkommende på forhånd leietaker, skal det forholdes med hans gamle bolig som omhandlet i dette eller foregående ledd. Nemndas rett etter dette ledd gjelder ikke bolig i hus med inntil fire boliger når utleieren selv bor i huset, og ikke bolig som leieren har leid i egenskap av arbeidstaker hos utleieren, eller som han istedenfor slik bolig har fått leie av arbeidsgiveren etter arbeidsforholdets opphør. Bestemmelsene i § 5 annet ledd får tilsvarende anvendelse.\nVed etablering av leieforhold etter denne paragraf trer den nye leier inn i den tidligere leiers leieforhold med mindre annet blir avtalt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Underretning til utleieren.",
+      "content": "Vil nemnda gjøre bruk av sin rett etter § 7, skal den snarest varsle utleieren skriftlig og underrette ham om når fraflytting ventes å finne sted. Utleieren skal snarest underrette nemnda om leievilkårene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Utpeking av ny leier.",
+      "content": "Utleieren skal i tilfelle som omhandlet i § 7 annet ledd velge ny leier innen tre uker etter at han har mottatt fortegnelse over de utpekte boligsøkere. Oversittes fristen, avgjør nemnda hvem som skal få leie boligen.​1\n1 Jfr. § 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "title": "Ulovlig overdragelse, utleie eller bruk.",
+      "content": "Er bolig​2 uten samtykke utleid eller brukt i strid med lov​3 om husleie, § 41, eller viser det seg at overdragelse, leieavtale eller bruk er godkjent på grunnlag av uriktige eller ufullstendige opplysninger, kan boligformidlingsnemnda kreve at leieforholdet eller bruken straks opphører, og at leieren eller brukeren blir fjernet fra boligen. Før nemnda treffer vedtak skal eier og rettighetshaver ha fått høve til å uttale seg skriftlig eller muntlig.\nNår bolig blir ledig etter vedtak av nenmda i henhold til reglene i første ledd, kan nemnda kreve at boligen skal leies ut til bestemt leier.\n1 Endret ved lov 10 juni 1977 nr. 80. – Jfr. §§ 14 og 15.\n2 Se § 2.\n3 Lov 16 juni 1939 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "Ulovlig omgjort bolig.",
+      "content": "Dersom bolig uten samtykke er omgjort i strid med lov om husleie § 41, kan nemnda påby at den settes i en slik stand at den kan tjene sitt opprinnelige formål.\nTil gjennomføring av påbud etter første ledd, kan nemnda utferdige forelegg mot eier eller rettighetshaver med pålegg om at det ulovlig utførte skal fjernes eller rettes innen en frist som settes i forelegget.\nForelegget skal om mulig forkynnes for eieren eller rettighetshaveren personlig. Den som forelegget er rettet mot, kan reise søksmål mot kommunen for å få forelegget prøvd. Blir søksmål ikke reist innen 30 dager fra forkynnelsen, har forelegget samme virkning som rettskraftig dom og kan fullbyrdes etter reglene for dommer.\nForelegget skal gi opplysninger om bestemmelsene i foregående ledds annet og tredje punktum.\nFør boligformidlingsnemnda utferdiger forelegg, skal den gi den som forelegget rettes mot, høve til å uttale seg.\n1 Endret ved lov 10 juni 1977 nr. 80. – Jfr. §§ 14 og 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "5:12",
+      "chapter": "5",
+      "section": "12",
+      "title": "Pålegg om samordnet boligformidling.",
+      "content": "Kongen kan pålegge kommuner å samordne sin boligformidlingsvirksomhet, herunder å opprette et felles formidlingsapparat. Kommunene skal på forhånd ha fått høve til å uttale seg.\nKongen fastsetter nærmere retningslinjer for sammensetningen av den felles boligformidlingsnemnd, nemndas virksomhet m.v.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "6:13",
+      "chapter": "6",
+      "section": "13",
+      "title": "Kontroll og opplysningsplikt.​1",
+      "content": "Boligformidlingsnemnda fører kontroll med at reglene i denne lov blir overholdt.\nEnhver plikter på forlangende å gi nemnda de opplysninger som den finner nødvendig til gjennomføring av loven.\n1 Jfr. § 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "6:14",
+      "chapter": "6",
+      "section": "14",
+      "title": "Tvangsfullbyrdelse.",
+      "content": "Til gjennomføring av boligformidlingsnemndas vedtak etter § 6 annet ledd, § 9 annet punktum og § 10 første ledd og/eller annet ledd, kan nemndas formann kreve at namsmyndighetene yter bistand etter tvangsfullbyrdelseslovens § 233.\nBlir pålegg i rettskraftig dom eller dermed likestilt forelegg ikke etterkommet, kan boligformidlingsnemnda la de nødvendige arbeider i samsvar med pålegg etter § 11 utføre på eierens eller rettighetshaverens kostnad uten kjennelse etter tvangsfullbyrdelseslovens § 237 første ledds første punktum.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "6:15",
+      "chapter": "6",
+      "section": "15",
+      "title": "Straff.",
+      "content": "Den som forsettlig eller uaktsomt unnlater å gi eller gir uriktige eller ufullstendige opplysninger etter §§ 5 eller 13 eller som overtrer påbud eller forbud gitt i eller med heimel i denne lov eller i husleielovens § 41, eller som medvirker til slik overtredelse, straffes med bøter eller fengsel i inntil tre måneder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "7:16",
+      "chapter": "7",
+      "section": "16",
+      "title": "Ikrafttreden.",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\nFra samme tid oppheves midlertidig lov av 30 juni 1950 nr. 17 om boligformidling.\n1 Iflg. res. 29 april 1977 trer § 3 i kraft straks, resten av loven fra 1 juli 1977.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Stedlig virkeområde.",
+      "content": "Denne loven gjelder i de kommuner der kommunestyret har gjort vedtak om å innføre den.\nKongen kan bestemme at loven skal gjelde i en kommune uten omsyn til om kommunestyret har gjort vedtak etter første ledd. Kommunen skal på forhånd ha fått høve til å uttale seg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Saklig virkeområde.",
+      "content": "Bolig, møblert eller umøblert, som helt eller delvis har vært nyttet eller skal nyttes til å bo i, er undergitt reglene i denne lov.\nUnntatt fra lovens bestemmelser er enkeltrom som er en del av bolig samt ferie- og fritidshus.\nKommunestyret kan bestemme at loven ikke skal gjelde utleie av bolig i eiendom som tilhører kommunen eller nærmere bestemt boligselskap der bortleie kontrolleres av kommunen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Formidlingsmyndighet.",
+      "content": "I kommuner der loven gjelder,​1 skal det være en boligformidlingsnemnd på minst fem medlemmer som med personlige varamenn velges av kommunestyret for den kommunale valgperioden.\nNemnda bør ha en representant for huseiere, en for leiere og en for boligsamvirket.\nDen som bor i kommunen og ikke har fylt 60 år, plikter å ta imot valg.\nKommunestyret bestemmer hvem som skal være formann og nestformann.\n1 Jfr. § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Romnorm.​1",
+      "content": "Kommunestyret kan for de forskjellige boligstørrelser fastsette det minste antall personer som en husstand må bestå av for å ha rett til å flytte inn (romnorm).\nBoligformidlingsnemnda kan dispensere fra romnormen når særlige forhold tilsier det.\n1 Jfr. § 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Utleie- og meldeplikt.",
+      "content": "Bolig​1 som blir ledig, plikter​2 utleieren å leie ut som helårsbolig på ny innen 30 dager. Innen samme frist skal han sende boligformidlingsnemnda ny leieavtale i tre eksemplarer underskrevet av begge parter, sammen med opplysninger om antall rom i boligen og størrelsen av leiernes husstand.\nI vedtekt fastsatt av kommunestyret etter innstilling fra nemnda og stadfestet av departementet​3 kan det gjøres avvik fra den kontrollordning som er nevnt i første ledd.\nUnntatt fra utleieplikt etter første ledd er utleier som selv skal bruke den ledige bolig til helårsbolig. Melding om slik bruk må sendes nemnda innen den frist som er nevnt i første ledd.\n1 Se § 2.\n2 Jfr. §§ 6 og 15.\n3 Kommunaldept.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Oversittelse av utleiefristen.",
+      "content": "Har utleieren ikke innen den frist som er fastsatt i § 5 foretatt ny utleie, skal nemnda gi ham ytterligere frist på minst 14 dager. Tilsvarende gjelder når utleieren har foretatt ny utleie i strid med § 4.\nOversittes fristen, kan nemnda vedta at boligen skal leles ut til en bestemt leier, og at en leier som ikke fyller vilkårene skal fraflytte boligen.​1\n1 Jfr. § 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Leiers og utleiers plikt til å overdra leierett m.v.",
+      "content": "En søker som blir skaffet bolig eller tomt av kommunen ved tiltak av boligformidlingsnemnda eller på annen måte og som på forhånd har leieavtale om bolig med overdragelsesrett, plikter å overdra leieretten til denne bolig med tilhørende dokumenter til den som boligformidlingsnemnda peker ut. Nemndas tilvisningsrett går foran eventuell forkjøpsrett.\nSkaffer kommunen ellers en leier annen bolig eller tomt ved tiltak av boligformidlingsnemnda eller på annen måte, kan nemnda kreve at utleieren velger den nye leier fra et utvalg av søkere som nemnda peker ut. Utleieren kan likevel kreve at hans ektefelle, deres slektninger i rett opp- eller nedstigende linje, søsken, adoptivbarn eller andre som faktisk står i adoptivbarns stilling, får ta boligen i bruk som helårsbolig når vedkommende tilfredsstiller eventuell romnorm etter § 4 og har meldt seg for nemnda som boligsøker. Er vedkommende på forhånd leietaker, skal det forholdes med hans gamle bolig som omhandlet i dette eller foregående ledd. Nemndas rett etter dette ledd gjelder ikke bolig i hus med inntil fire boliger når utleieren selv bor i huset, og ikke bolig som leieren har leid i egenskap av arbeidstaker hos utleieren, eller som han istedenfor slik bolig har fått leie av arbeidsgiveren etter arbeidsforholdets opphør. Bestemmelsene i § 5 annet ledd får tilsvarende anvendelse.\nVed etablering av leieforhold etter denne paragraf trer den nye leier inn i den tidligere leiers leieforhold med mindre annet blir avtalt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Underretning til utleieren.",
+      "content": "Vil nemnda gjøre bruk av sin rett etter § 7, skal den snarest varsle utleieren skriftlig og underrette ham om når fraflytting ventes å finne sted. Utleieren skal snarest underrette nemnda om leievilkårene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Utpeking av ny leier.",
+      "content": "Utleieren skal i tilfelle som omhandlet i § 7 annet ledd velge ny leier innen tre uker etter at han har mottatt fortegnelse over de utpekte boligsøkere. Oversittes fristen, avgjør nemnda hvem som skal få leie boligen.​1\n1 Jfr. § 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "title": "Ulovlig overdragelse, utleie eller bruk.",
+      "content": "Er bolig​2 uten samtykke utleid eller brukt i strid med lov​3 om husleie, § 41, eller viser det seg at overdragelse, leieavtale eller bruk er godkjent på grunnlag av uriktige eller ufullstendige opplysninger, kan boligformidlingsnemnda kreve at leieforholdet eller bruken straks opphører, og at leieren eller brukeren blir fjernet fra boligen. Før nemnda treffer vedtak skal eier og rettighetshaver ha fått høve til å uttale seg skriftlig eller muntlig.\nNår bolig blir ledig etter vedtak av nenmda i henhold til reglene i første ledd, kan nemnda kreve at boligen skal leies ut til bestemt leier.\n1 Endret ved lov 10 juni 1977 nr. 80. – Jfr. §§ 14 og 15.\n2 Se § 2.\n3 Lov 16 juni 1939 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "Ulovlig omgjort bolig.",
+      "content": "Dersom bolig uten samtykke er omgjort i strid med lov om husleie § 41, kan nemnda påby at den settes i en slik stand at den kan tjene sitt opprinnelige formål.\nTil gjennomføring av påbud etter første ledd, kan nemnda utferdige forelegg mot eier eller rettighetshaver med pålegg om at det ulovlig utførte skal fjernes eller rettes innen en frist som settes i forelegget.\nForelegget skal om mulig forkynnes for eieren eller rettighetshaveren personlig. Den som forelegget er rettet mot, kan reise søksmål mot kommunen for å få forelegget prøvd. Blir søksmål ikke reist innen 30 dager fra forkynnelsen, har forelegget samme virkning som rettskraftig dom og kan fullbyrdes etter reglene for dommer.\nForelegget skal gi opplysninger om bestemmelsene i foregående ledds annet og tredje punktum.\nFør boligformidlingsnemnda utferdiger forelegg, skal den gi den som forelegget rettes mot, høve til å uttale seg.\n1 Endret ved lov 10 juni 1977 nr. 80. – Jfr. §§ 14 og 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "5:12",
+      "chapter": "5",
+      "section": "12",
+      "title": "Pålegg om samordnet boligformidling.",
+      "content": "Kongen kan pålegge kommuner å samordne sin boligformidlingsvirksomhet, herunder å opprette et felles formidlingsapparat. Kommunene skal på forhånd ha fått høve til å uttale seg.\nKongen fastsetter nærmere retningslinjer for sammensetningen av den felles boligformidlingsnemnd, nemndas virksomhet m.v.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "6:13",
+      "chapter": "6",
+      "section": "13",
+      "title": "Kontroll og opplysningsplikt.​1",
+      "content": "Boligformidlingsnemnda fører kontroll med at reglene i denne lov blir overholdt.\nEnhver plikter på forlangende å gi nemnda de opplysninger som den finner nødvendig til gjennomføring av loven.\n1 Jfr. § 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "6:14",
+      "chapter": "6",
+      "section": "14",
+      "title": "Tvangsfullbyrdelse.",
+      "content": "Til gjennomføring av boligformidlingsnemndas vedtak etter § 6 annet ledd, § 9 annet punktum og § 10 første ledd og/eller annet ledd, kan nemndas formann kreve at namsmyndighetene yter bistand etter tvangsfullbyrdelseslovens § 233.\nBlir pålegg i rettskraftig dom eller dermed likestilt forelegg ikke etterkommet, kan boligformidlingsnemnda la de nødvendige arbeider i samsvar med pålegg etter § 11 utføre på eierens eller rettighetshaverens kostnad uten kjennelse etter tvangsfullbyrdelseslovens § 237 første ledds første punktum.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "6:15",
+      "chapter": "6",
+      "section": "15",
+      "title": "Straff.",
+      "content": "Den som forsettlig eller uaktsomt unnlater å gi eller gir uriktige eller ufullstendige opplysninger etter §§ 5 eller 13 eller som overtrer påbud eller forbud gitt i eller med heimel i denne lov eller i husleielovens § 41, eller som medvirker til slik overtredelse, straffes med bøter eller fengsel i inntil tre måneder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "7:16",
+      "chapter": "7",
+      "section": "16",
+      "title": "Ikrafttreden.",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\nFra samme tid oppheves midlertidig lov av 30 juni 1950 nr. 17 om boligformidling.\n1 Iflg. res. 29 april 1977 trer § 3 i kraft straks, resten av loven fra 1 juli 1977.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    }
+  ]
+}

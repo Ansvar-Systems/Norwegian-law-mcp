@@ -1,0 +1,711 @@
+{
+  "id": "LOV-1977-05-13-35",
+  "type": "statute",
+  "title": "Lov om regnskapsplikt m.v. (regnskapsloven)",
+  "short_name": "Regnskapsloven – rskl.",
+  "status": "in_force",
+  "issued_date": "1977-05-13",
+  "in_force_date": "1977-05-13",
+  "url": "https://lovdata.no/dokument/NLO/lov/1977-05-13-35",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens rekkevidde.",
+      "content": "Enhver som driver næringsvirksomhet har regnskapsplikt​2 for slik virksomhet, når ikke annet er bestemt i eller i medhold av denne lov.\nRegnskapsplikt har dessuten alle aksjeselskaper,​3 ansvarlige selskaper,​4 kommandittselskaper,​5 gjensidige forsikringsselskaper,​6 pensjonskasser, pensjonsfond, sparebanker,​7 kredittforeninger,​8 boligsparelag,​9 boligbyggelag,​10 borettslag,​11 samvirkelag som går inn under aksjelovens​12 § 18-2 første ledd nr. 2, fond som går inn under lov om verdipapirfond,​13 statsforetak,​14 statens postselskap​15 og statens jernbanetrafikkselskap.​16\nLoven gjelder i den utstrekning ikke annet følger av bestemmelser i eller gitt i medhold av annen lov.​2\n0 Endret ved lover 12 juni 1981 nr. 52, 21 juni 1985 nr. 83, 30 aug 1991 nr. 71, 20 des 1993 nr. 140, 22 nov 1996 nr. 67 (i kraft 1 des 1996 iflg. res. 22 nov 1996 nr. 1075).\n1 Jfr. § 23.\n2 Jfr. lover som er nevnt i Alfabetisk Register under Bokføringsplikt og Regnskapsvesen.\n3 Jfr. lov 4 juni 1976 nr. 59 § 1-1.\n4 Jfr. lov 21 juni 1985 nr. 83 § 1-2 (1) (b).\n5 Jfr. lov 21 juni 1985 nr. 83 § 1-2 (1) (e).\n6 Jfr. lov 10 juni 1988 nr. 39.\n7 Jfr. lov 24 mai 1961 nr. 1 kap. 5.\n8 Jfr. lov 10 juni 1988 nr. 40.\n9 Lov 10 juli 1936 nr. 5 er opphevet ved lov 20 des 1985 nr. 102.\n10 Jfr. lov 4 feb 1960 nr. 1 kap. 9.\n11 Jfr. lov 4 feb 1960 nr. 2 kap. 11.\n12 Lov 4 juni 1976 nr. 59.\n13 Jfr. lov 12 juni 1981 nr. 52.\n14 Jfr. lov 30 aug 1991 nr. 71.\n15 Jfr. lov 22 nov 1996 nr. 65.\n16 Jfr. lov 22 nov 1996 nr. 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Unntak fra regnskapsplikten. Utfyllende vedtak.",
+      "content": "Den som utelukkende driver jordbruk, gartneri, skogbruk eller produksjon av kunstverk som angitt i lov av 19. juni 1966 nr. 66 om merverdiavgift § 5 nr. 1 bokstav a), er ikke regnskapspliktig etter denne lov.​1 Unntaket i første punktum gjelder ikke når virksomheten er organisert på en måte som nevnt i § 1 annet ledd.\nKongen​2 kan ved forskrift eller enkeltvedtak bestemme om og i tilfelle i hvilken utstrekning loven skal gjelde for næringsvirksomhet som drives av stat eller kommune.\nKongen​2 kan ved forskrift eller enkeltvedtak gjøre unntak fra regnskapsplikten etter § 1 første ledd og i tvilstilfelle bestemme om loven skal gjelde.\nKongen​2 kan gi forskrift om anvendelse av loven på virksomhet med tilknytning til annet land og kan ved enkeltvedtak gjøre unntak fra loven for så vidt gjelder slik virksomhet.\n0 Endret ved lover 12 juni 1987 nr. 49, 23 des 1988 nr. 95, 24 juni 1994 nr. 32.\n1 Se lov 13 juni 1980 nr. 24 § 5-1.\n2 Finansdepartementet iflg. res. 4 nov 1977.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Begrenset regnskapsplikt.",
+      "content": "0 Opphevet ved lov 26 juni 1992 nr. 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Regnskapspliktens innhold.",
+      "content": "Den regnskapspliktige skal føre regnskap og utarbeide årsoppgjør i samsvar med god regnskapsskikk og bestemmelser i eller gitt i medhold av denne lov eller andre lover.\nRegnskapet skal føres i norsk mynt​1 og på norsk språk, med mindre Kongen​2 ved forskrift eller enkeltvedtak​3 bestemmer noe annet, jfr. § 7.\n0 Endret ved lover 24 feb 1984 nr. 4, 21 juni 1985 nr. 83.\n1 Jfr. lov 24 mai 1985 nr. 28 kap. III.\n2 Finansdepartementet iflg. res. 4 nov 1977.\n3 Jfr. lov 10 feb 1967 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Hva som skal føres i bøkene.",
+      "content": "Regnskapsbøkene skal​1 gi så fullstendige og spesifiserte opplysninger om forretningenes gang som tilsies av hensyn til virksomhetens fordringshavere, eier og deltaker, virksomhetens ledelse og de ansatte, samt av hensyn til den oppgave- og opplysningsplikt som følger av lov eller er pålagt i medhold av lov.​2\nDet skal fremgå særskilt av bøkene hva eier eller deltaker setter inn i virksomheten av penger, varer og andre eiendeler, og hva vedkommende tar ut av varer og tjenester.\n1 Jfr. § 23.\n2 Jfr. bl.a. lignl. kap. 4 og 6 og lov 19 juni 1969 nr. 66 kap. XII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Hvilke bøker som skal føres, innretning og føring av bøkene.",
+      "content": "Det skal​1 føres de regnskapsbøker som er nødvendige av hensyn til virksomhetens art og omfang. Det skal alltid føres:\n1. Kassabok for kontante inn- og utbetalinger.\n2. Dagbok for alle andre forretningstilfeller.\n3. Kontobok for mellomvær med fordringshavere og skyldnere.\n4. Hovedbok for innføring av sammendrag av kontiene i kassabok og dagbok.\n5. Årsoppgjørsbok for innføring av resultatregnskap, balanse og eventuelt styrets årsberetning, konsernoppgjør, revisjonsberetning og redegjørelse som nevnt i § 16 tredje ledd.\nDet kan føres kombinert kassabok, dagbok og hovedbok, kombinert kassabok og sammendragsbok, kombinert hovedbok og årsoppgjørsbok eller kombinert sammendragsbok og årsoppgjørsbok.\nRegnskapsbøkene skal føres på en ordentlig og oversiktlig måte. Bøkene skal være innbundet eller heftet og sidene eller bladene nøyaktig nummerert før bøkene tas i bruk. Det må ikke rives ut blad av innbundne eller heftede bøker. Føringen av bøkene må skje på en holdbar måte. Det som er ført i bøkene må ikke ved overstrykninger eller på annen måte gjøres uleselig.\nI stedet for innbundne eller heftede bøker som nevnt i fjerde ledd, kan nyttes løse kort, blad, lister eller andre hjelpemidler når disse hjelpemidler inngår i et ordnet og betryggende system. Denne bestemmelse gjelder ikke sammendragsbok og årsoppgjørsbok. Kongen​2 kan gi forskrift om bruken av hjelpemidler som nevnt i dette ledd.\nKontobok kan sløyfes dersom det nyttes annet betryggende system for registrering av mellomvær med fordringshavere og skyldnere. Kongen​2 kan gi forskrift om bruken av slike systemer.\n0 Endret ved lover 24 feb 1984 nr. 4, 21 juni 1985 nr. 83, 26 juni 1992 nr. 66.\n1 Jfr. § 23.\n2 Finansdepartementet iflg. res. 4 nov 1977.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Hvor bøkene skal føres.",
+      "content": "Regnskapsføringen skal foretas her i landet. Kongen​1 kan ved forskrift eller enkeltvedtak​2 gi adgang til at regnskapsføringen likevel kan foretas i utlandet.\n1 Finansdepartementet iflg. res. 4 nov 1977.\n2 Jfr. lov 10 feb 1967 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Legitimasjon av kostnader og inntekter.",
+      "content": "Kostnader skal være legitimert ved bilag. Det samme gjelder for inntekter i den utstrekning det er mulig, bl.a. ved fakturakopier, kassasedler og kassastrimler.\nHver postering skal foretas på en slik måte at det blir klar forbindelse mellom bilag og bøker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Ajourføring av bøkene.",
+      "content": "Regnskapsbøkene​1 skal være tilfredsstillende à jour til enhver tid i samsvar med hva som anses å stemme med god regnskapsskikk.\nKontante inn- og utbetalinger skal så vidt mulig føres i kassaboken​2 samme dag de finner sted.\n1 Jfr. § 6.\n2 Jfr. § 6 første ledd nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Periodiske avslutninger av bøkene.",
+      "content": "Kontiene i kassaboken​1 og dagboken​2 skal summeres for perioder på en eller to måneder, og bruttosummene, nettosaldo eller akkumulert saldo for hver konto skal tas inn i hovedboken​3 eller sammendragsboken.​4 For regnskapspliktig som bruker system som nevnt i § 6 femte eller sjette ledd, kan Kongen​5 ved forskrift gi regler som avviker fra første punktum.\nNår det utarbeides årsoppgjør,​6 skal det foretas nøyaktig og fullstendig avslutning av alle regnskapsbøker og utarbeides lister over varelager, fordringer og gjeld som er tatt med i årsoppgjøret.\nDet skal være samsvar mellom tallene i årsoppgjøret og hovedboken eller sammendragsboken. Hvis det ikke er slikt samsvar, skal det av særskilt oppstilling fremgå hvorledes kontiene er sammensatt eller oppspaltet.\n0 Endret ved lov 21 juni 1985 nr. 83.\n1 Jfr. § 6 første ledd nr. 1.\n2 Jfr. § 6 første ledd nr. 2.\n3 Jfr. § 6 første ledd nr. 4.\n4 Jfr. § annet ledd.\n5 Finansdepartementet iflg. res. 4 nov 1977.\n6 Jfr. § 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Oppbevaring av bøker og bilag.",
+      "content": "Regnskapsbøker​1 med tilhørende bilag, herunder lister og oppstillinger som nevnt i § 10 annet og tredje ledd, skal oppbevares ordnet her i landet i minst ti år etter utløpet av vedkommende regnskapsår. Mottatte brev, gjenparter av avsendte brev og andre dokumenter som kan legitimere bokføringen, skal oppbevares ordnet her i landet i minst ti år etter utløpet av det regnskapsår da det forretningstilfelle som dokumentet gjelder, var endelig avsluttet.\nKongen​2 kan ved forskrift eller enkeltvedtak frita for plikten til oppbevaring eller fastsette en kortere oppbevaringstid. Herunder kan det fastsettes at oppbevaring av film eller annen likeverdig gjengivelse av vedkommende bok eller dokument kan erstatte oppbevaring av boken eller dokumentet selv. Disse bestemmelser gjelder ikke årsoppgjørsbok og hovedbok eller sammendragsbok.\nKongen​2 kan ved forskrift eller enkeltvedtak gi særlige bestemmelser for oppbevaringen, når det er brukt system som nevnt i § 6 femte eller sjette ledd.\n0 Endret ved lov 21 juni 1985 nr. 83.\n1 Jfr. § 6.\n2 Finansdepartementet iflg. res. 4 nov 1977.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Unntak fra reglene i kap. 3.",
+      "content": "Reglene i dette kapittel gjelder ikke for aksjeselskap,​1 gjensidig forsikringsselskap​2 og borettslag.​3\n0 Endret ved lover 27 juni 1986 nr. 49, 23 des 1988 nr. 105, 16 juni 1989 nr. 40, 10 juni 1988 nr. 39, 30 aug 1991 nr. 71.\n1 Jfr. lov 4 juni 1976 nr. 59 kap. 11.\n2 Jfr. lov 10 juni 1988 nr. 39.\n3 Jfr. lov 4 feb 1960 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Åpningsstatus.",
+      "content": "Når den regnskapspliktige virksomhet begynner, skal det utarbeides en oppstilling over virksomhetens eiendeler og gjeld.​1 Denne oppstilling (åpningsstatus) skal inntas i årsoppgjørsboken​2 og følge oppstillingsreglene i §§ 18-21.\n0 Endret ved lover 21 juni 1985 nr. 83, 26 juni 1992 nr. 66.\n1 Jfr. § 18.\n2 Jfr. § 6 første ledd nr. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Årsoppgjørets innhold.",
+      "content": "For hvert regnskapsår​1 skal det utarbeides årsoppgjør som omfatter all næringsvirksomhet som den regnskapspliktige driver. Når virksomheten drives av et ansvarlig selskap eller kommandittselskap,​2 skal det utarbeides årsoppgjør for selskapet som sådant. Årsoppgjøret består av resultatregnskap​3 og balanse​4 og i tilfelle årsberetning som nevnt i § 21 A, konsernoppgjør som nevnt i § 21 B og slik redegjørelse som nevnt i § 16 tredje ledd. Resultatregnskapet skal omfatte inntekter og kostnader i regnskapsåret og stilles opp slik at det viser størrelsen av overskudd eller underskudd og hvordan overskuddet er anvendt eller underskuddet dekket.​3 Årsoppgjøret skal være på norsk.​5\nFor virksomhet hvor summen av eiendeler ifølge balansen overstiger ti millioner kroner eller som har mer enn 200 ansatte, gjelder de særregler som er fastsatt i § 19 første ledd nr. 4 og annet ledd.\nMed anleggsmidler​6 menes eiendeler bestemt til varig eie eller bruk for virksomheten.​7 Andre eiendeler er omløpsmidler.​8 Fordringer skal regnes som omløpsmidler for så vidt det er avtalt eller forutsatt at fordringen skal tilbakebetales innen ett år etter regnskapsårets utløp.\nMed anskaffelseskostnad menes kostnad ved erverv eller tilvirkning av eiendelen.​5\n0 Endret ved lover 24 feb 1984 nr. 4, 21 juni 1985 nr. 83, 26 juni 1992 nr. 66, 26 juni 1992 nr. 68.\n1 Jfr. § 15.\n2 Jfr. lov 21 juni 1985 nr. 83.\n3 Jfr. § 17.\n4 Jfr. § 18.\n5 Jfr. § 4.\n6 Jfr. § 21.\n7 Jfr. lov 4 juni 1976 nr. 59 § 11-4.\n8 Jfr. § 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Regnskapsåret.",
+      "content": "Regnskapsåret skal være tolv måneder. Når virksomheten begynner eller opphører, eller ved omlegging av regnskapsåret, kan tiden være kortere eller lengre, dog høyst atten måneder. Kalenderåret skal så vidt mulig være regnskapsår.​1\nSelskaper som tilhører samme konsern, jfr. selskapsloven​2 § 1-2, skal ha samme regnskapsår om ikke Kongen ved enkeltvedtak tillater noe annet.\n0 Endret ved lov 21 juni 1985 nr. 83.\n1 Jfr. sktl. § 41 annet ledd, lignl. § 5-3, lov 13 juni 1975 nr. 35 § 8 annet ledd.\n2 Lov 21 juni 1985 nr. 83.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Innføring m.v. av årsoppgjør.",
+      "content": "Senest fire måneder etter utløpet av regnskapsåret skal årsoppgjøret være ferdig og tatt inn i årsoppgjørsboken.​1\nÅrsoppgjøret skal underskrives av styret og den daglige leder. Dersom virksomheten ikke ledes av et styre, skal årsoppgjøret underskrives av eierne og deltakerne i virksomheten og i tilfelle den daglige leder. Bestemmelsen i annet punktum gjelder ikke stille deltaker og kommandittist.​2\nHar en som skal underskrive, innvendinger mot årsoppgjøret, skal vedkommende gi nærmere redegjørelse i årsoppgjørsboken.​1 Foreligger plikt til å utarbeide årsberetning, jfr. § 21 A, skal redegjørelsen være en del av årsberetningen.\nSenest en måned etter at årsoppgjøret i revisjonspliktig virksomhet er underskrevet, skal et eksemplar av årsoppgjøret og revisjonsberetningen sendes til et sentralt register for årsoppgjør (Regnskapsregisteret). Regnskapsregisteret føres av den tjenestemann Kongen bestemmer.​3 Innholdet av de innsendte dokumenter skal holdes tilgjengelig i Regnskapsregisteret i minst 10 år.\nEnhver har rett til å få gjøre seg kjent med innholdet av de innsendte dokumenter. Kongen kan gi nærmere regler om hvordan dokumentene skal gjøres tilgjengelige og kan herunder gi bestemmelser om betaling av et nærmere fastsatt gebyr.\nKongen​4 kan for visse virksomheter gi forskrift om fritak fra plikten til å sende inn årsoppgjøret og revisjonsberetningen, eller om at opplysningene i de innsendte dokumenter ikke skal være alment tilgjengelige.\nKongen kan også gi slike regler som ellers finnes påkrevd for gjennomføringen av foranstående bestemmelser, herunder om format og papirkvalitet på de dokumenter som skal sendes inn.\nÅrsoppgjøret, og i revisjonspliktig virksomhet​5 revisjonsberetningen, skal på virksomhetens kontor holdes tilgjengelig for de ansatte.\n0 Endret ved lover 8 feb 1980 nr. 3 (se dens VII), 21 juni 1985 nr. 83, 27 juni 1986 nr. 49 (overskriften).\n1 Jfr. § 6 første ledd nr. 5.\n2 Jfr. lov 21 juni 1985 § 1-2 (i), (d) og (g).\n3 Brønnøy sorenskriverembete iflg. res. 21 nov 1980.\n4 Finansdepartementet iflg. res. 21 nov 1980.\n5 Jfr. lov 14 mars 1964 nr. 2 § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Spesifikasjon av resultatregnskapet.",
+      "content": "Resultatregnskapet skal settes opp slik at det etter virksomhetens forhold gir et tilfredsstillende uttrykk for hvordan det økonomiske resultat av driften i regnskapsåret​1 er fremkommet.\nFor resultatregnskapet skal brukes følgende oppstilling og inndeling i poster:\n1 Driftsinntekter og driftskostnader\n1.1 Driftsinntekter (brutto)\n1.2 Innkjøp av råvarer, halvfabrikata og varer beregnet for videresalg med tillegg eller fradrag for beholdningsendringer i lager av innkjøpte varer som nevnt foran\n1.3 Lønninger, folketrygdavgift og pensjonskostnader\n1.4 Andre innkjøps-, tilvirkings-, salgs- og administrasjonskostnader\n1.5 Avskriving i samsvar med § 21 annet ledd\n1.6 Tap på fordringer\n1.7 Tillegg eller fradrag for beholdningsendring i lager av varer under tilvirking og ferdig tilvirkede varer\n1.8 Driftsresultat\n2 Finansinntekter og finanskostnader\n2.1 Utdeling på aksjer og andeler\n2.2 Andre finansinntekter\n2.3 Finanskostnader\n2.4 Resultat av finansinntekter og finanskostnader\n3 Resultat før ekstraordinære inntekter og kostnader\n4 Ekstraordinære inntekter og kostnader\n4.1 Vinning ved avgang (salg, ekspropriasjon m.m.) av anleggsmidler\n4.2 Andre ekstraordinære inntekter, spesifisert etter sin art\n4.3 Tap ved avgang (salg, ekspropriasjon m.m.) av anleggsmidler​2\n4.4 Nedskriving på anleggsmidler​2 i samsvar med § 21 tredje ledd\n4.5 Andre ekstraordinære kostnader, spesifisert etter sin art\n4.6 Resultat av ekstraordinære inntekter og kostnader\n5 Resultat før skattekostnad\n6 Skattekostnad​3\n7 Årsoverskott (Årsunderskott)\n8 Oppskrivinger og overføringer\n8.1 Oppskriving av anleggsmidler i samsvar med § 21 fjerde ledd med fradrag av avsetning til utsatt skatt\n8.2 Anvendelse av oppskrivingsbeløp til oppskrivingsfond​4\n8.3 Disponering av årsoverskott (dekning av årsunderskott) og egenkapitaloverføringer, spesifisert etter sin art.\nVinning eller tap ved avgang av anleggsmidler​2 samt verdikorreksjoner skal fordeles på de poster i balansen de knytter seg til.\nFor hver post i resultatregnskapet skal vises det tilsvarende tall fra det sist fastsatte resultatregnskap.\nNår virksomhetens forhold tilsier det, skal det foretas en ytterligere inndeling i poster og en inndeling i forhold til post 1.2, 1.4 og 1.7 som er tilpasset arten av virksomheten.\nOppstillingsplanen kan fravikes i den utstrekning det kan forenes med god regnskapsskikk. Kongen​5 kan gi forskrift om adgang til å fravike planen.\nEn post kan slås sammen med en annen dersom den etter virksomhetens forhold er av uvesentlig betydning. Når konkurransemessige grunner tilsier det, kan Kongen​5 ved enkeltvedtak samtykke i at post 1.1, 1.2 og 1.4 blir slått sammen.\nAnnet ledd post 6, skattekostnad, gjelder bare for næringsvirksomhet som er skattepliktig som eget skattesubjekt.​6 Deltakerlignet regnskapspliktig​7 skal gi opplysning som angitt i § 19 første ledd nr. 15.\n0 Endret ved lover 24 feb 1984 nr. 4, 21 juni 1985 nr. 83, 10 april 1992 nr. 38, 26 juni 1992 nr. 68.\n1 Jfr. § 15.\n2 Jfr. § 14.\n3 Jfr. åttende ledd.\n4 Jfr. § 21 fjerde ledd.\n5 Finansdepartementet iflg. res. 4 nov 1977.\n6 Jfr. lov 20 juli 1991 nr. 65 § 1-1 nr. 1.\n7 Jfr. sktl. § 20 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Spesifikasjon av balansen.",
+      "content": "Balansen skal vise virksomhetens eiendeler, gjeld og egenkapital og dessuten pantstillelser og garantiansvar ved regnskapsårets utgang.​1 Pantstillelser og garantiansvar skal angis innenfor linjen.\nFor balansen skal brukes følgende oppstilling og inndeling i poster:\n1 Eiendeler\n1.1 Omløpsmidler​2\n1.1.1 Kontanter og bankinnskudd\n1.1.2 Aksjer og andeler\n1.1.3 Obligasjoner og andre verdipapirer\n1.1.4 Vekselfordringer\n1.1.5 Andre fordringer\n1.1.6 Lager av råvarer og innkjøpte halvfabrikata\n1.1.7 Lager av varer under tilvirking\n1.1.8 Lager av varer beregnet for videresalg og ferdig tilvirkede varer\n1.1.9 Forskudd til leverandører o.l.\n1.2 Anleggsmidler​2\n1.2.1 Aksjer og andeler\n1.2.2 Obligasjoner og andre verdipapirer\n1.2.3.1 Utsatt skattefordel\n1.2.3.2 Andre fordringer\n1.2.4 Forskudd til leverandører\n1.2.5 Patenter og lignende rettigheter\n1.2.6 Goodwill etter reglene i § 21 sjette ledd\n1.2.7 Kostnader m.m. etter reglene i § 21 sjuende og åttende ledd, hver for seg\n1.2.8 Skip\n1.2.9 Maskiner, inventar og lignende\n1.2.10 Bygninger\n1.2.11 Anlegg under utføring\n1.2.12 Fast eiendom for øvrig\n1.3 Innkalt, ikke innbetalt selskapskapital\n2 Gjeld og egenkapital\n2.1 Kortsiktig gjeld\n2.1.1 Vekselgjeld\n2.1.2 Kassakredittgjeld\n2.1.3 Skyldig merverdiavgift, skattetrekk, folketrygdavgift, feriepenger, utlignet skatt o.l.\n2.1.4 (Opphevet)\n2.1.5 Betalbar skatt\n2.1.6 Forskudd fra kunder\n2.1.7 Annen kortsiktig gjeld\n2.2 Langsiktig gjeld\n2.2.1 Utsatt skatt\n2.2.2 Annen langsiktig gjeld\n2.3 (Opphevet)\n2.4 Egenkapital\n2.4.1 Oppskrivingsfond​3\n2.4.2 Egenkapital eller udekket tap\n2.4.3 Frie fond hver for seg\n2.4.4 Udisponert vinning eller udekket tap\n3 Pensjonsforpliktelser (kapitalisert), som ikke er medtatt som gjeld i balansen\n4 Pantstillelser o.l.\n4.1 Pant og annen sikkerhetsstillelse for virksomhetens gjeld med opplysning om summen av den gjeld sikkerheten hefter for og med angivelse av, fordelt på de enkelte poster i balansen, verdien etter balansen av de gjenstander sikkerheten omfatter\n4.2 Utlegg spesifisert under post 4.1\n5 Garantiansvar o.l.\n5.1 Diskonterte veksler\n5.2 Kausjonsansvar og annet garantiansvar; pant for fremmed gjeld skal spesifiseres som nevnt i post 4.1\nIkke innkalt selskapskapital i kommandittselskaper, jfr. selskapsloven​4 § 3-1, kan ikke føres opp som egenkapital i post 2.4. Egenkapitalen i kommandittselskaper kan spesifiseres i noter i stedet for i balansen.\nFor hver post i balansen skal vises det tilsvarende tall fra den sist fastsatte balanse.\nYtterligere spesifikasjon skal skje i den utstrekning virksomhetens forhold tilsier det.\nOppstillingsplanen kan fravikes i den utstrekning det kan forenes med god regnskapsskikk. Kongen​5 kan gi forskrift om adgang til å fravike planen.\nEn post kan slås sammen med en annen dersom den etter virksomhetens forhold er av uvesentlig betydning.\n0 Endret ved lover 24 feb 1984 nr. 4, 21 juni 1985 nr. 83, 10 april 1992 nr. 38, 26 juni 1992 nr. 68, 26 juni 1992 nr. 86, 9 jan 1998 nr. 5.\n1 Jfr. § 15.\n2 Jfr. § 14 tredje ledd.\n3 Jfr. § 21 fjerde ledd.\n4 Lov 21 juni 1985 nr. 83.\n5 Finansdepartementet iflg. res. 4 nov 1977.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Tilleggsopplysninger til resultatregnskap og balanse.",
+      "content": "I resultatregnskapet og balansen skal gis følgende tilleggsopplysninger, som kan inntas i noter med tydelig henvisning til de poster i regnskapet de knytter seg til:\n1. Aksjer skal spesifiseres med angivelse av selskapets navn og aksjekapital, antallet aksjer, pålydende og verdien i henhold til balansen. Er både pålydende og verdien av aksjer i et selskap lavere enn femti tusen kroner, og samtidig lavere enn fem prosent av den aksjeeiende virksomhets egenkapital etter balansen, kan spesifikasjon unnlates.\n2. Har virksomheten andel i et ansvarlig selskap eller i et selskap med begrenset ansvar, skal gis opplysning om selskapets navn og andelens størrelse samt om hvordan dets resultat og stilling kommer til uttrykk i virksomhetens resultatregnskap og balanse.\n3. For hver post i balansen som omfatter skip, maskiner, inventar og lignende eller bygninger, skal gis opplysning om anskaffelseskostnadene​1 etter den forutgående balanse med tidligere foretatt oppskriving, om tilgang og avgang i regnskapsåret, om oppskriving foretatt i regnskapsåret, samt om de samlede av- og nedskrivinger som var foretatt inntil regnskapsårets utgang. Dersom avskrivingen er blitt endret i forhold til den avskrivingsplan som tidligere er fulgt, skal det opplyses særskilt hvor mye endringen utgjør.\n4. Virksomhet som nevnt i § 14 fjerde ledd​2 skal for hvert av de siste fem regnskapsår angi det bruttobeløp som er investert i skip, maskiner, inventar og lignende og i fast eiendom, samt avhending av slike anleggsmidler. Beløpene skal fordeles i samsvar med inndelingen av balansen.\n5. Er kostnad som nevnt i § 21 sjuende ledd, oppført i balansen, skal gis opplysning om hvordan den er beregnet.\n6. Har virksomheten leid anleggsmidler​3 og leieavtalen er av vesentlig betydning for virksomhetens drift, skal gis opplysning om hvilke anleggsmidler avtalen omfatter, avtalens varighet, om eventuell rett for virksomheten til å overta anleggsmidlene, samt om den årlige leie såfremt ikke særlige grunner taler mot det.\n7. (Opphevet.)\n8. Har virksomheten pensjonsforpliktelser skal følgende opplysninger gis:\n1. Antall personer forpliktelsene omfatter.\n2. Hvordan forpliktelsene er beregnet, herunder kapitaliseringsmetoden, diskonteringssats og eventuelt hvordan inntektsskatten har påvirket beregningen.\n9. Er det av hensyn til grupperingen av poster i resultatregnskapet​4 eller balansen​5 foretatt endringer som vesentlig påvirker muligheten for sammenligning med tidligere årsoppgjør, skal det redegjøres for dette.\n10. Det skal gis opplysning om de prinsipper som er anvendt ved vurdering av omløpsmidler,​6 og om eventuelle endringer av disse prinsipper.\n11. Endringer med hensyn til vurderingen av omløpsmidler,​6 vurderingen av gjeldsforpliktelser eller andre endringer i forhold til tidligere resultatregnskap og balanse som i vesentlig grad påvirker årsresultatet eller som for øvrig er av større betydning, skal opplyses.\n12. Oppføring av omløpsmidler​6 med mer enn anskaffelseskostnadene​1 skal opplyses og beløpets størrelse angis.\n13. Er egenkapitalen i kommandittselskaper ikke spesifisert i balansen, skal det opplyses hvordan denne er fordelt på bunden og fri kapital.​7 Er den totale selskapskapital i kommandittselskaper, jfr. selskapsloven​8 § 3-1, ikke spesifisert i balansen, skal det gis opplysning om størrelsen på denne. Det skal også gis opplysninger om ikke innkalt selskapskapital, jfr. § 18 tredje ledd.\n14. Det skal opplyses hvor mye det er ytet som lån til eller sikkerhetsstillelse for deltaker med begrenset ansvar, tillitsmenn og ansatte. Det samme gjelder slike ytelser til den som er gift med eller som i rett oppstigende eller nedstigende linje eller i sidelinjen så nær som søsken, er beslektet eller besvogret med noen som er nevnt i foregående punktum, eller som står i slikt forhold til ansvarlig eier eller medeier i virksomheten.\n15. Selskap som nevnt i selskapsskatteloven​9 § 1-1 nr. 1 skal gi opplysning om forskjellen mellom resultat før skatt etter § 17 annet ledd post 5 og årets skattegrunnlag, med spesifikasjon på permanente forskjeller og på midlertidige forskjeller som oppstår og reverserer i året. Videre oppgis grunnlaget og den skattesats som er brukt ved beregning av utsatt skatt. Er utsatt skattefordel oppført i balansen, skal det opplyses på hvilket grunnlag en slik fordel kan utnyttes i et senere år. Departementet kan gi forskrift om at bestemte grupper av regnskapspliktige skal gi opplysning om de midlertidige forskjeller som ventes å bli reversert i de nærmeste 3 år, når slike opplysninger antas å ha særlig markedsmessig eller annen offentlig betydning.\nSelskap som nevnt i selskapsskatteloven​9 § 6-1 nr. 1 skal gi opplysning om forskjellen mellom resultat før skatt etter § 17 annet ledd post 5 og fastsettelse av inntekt i samsvar med selskapsskatteloven​9 § 6-3, med spesifikasjon på permanente og på midlertidige forskjeller som oppstår og reverserer i året. Departementet kan gi forskrift om at bestemte grupper av regnskapspliktige skal gi opplysning om de midlertidige forskjeller som ventes å bli reversert i de nærmeste 3 år, når slike opplysninger antas å ha særlig markedsmessig eller annen offentlig betydning.\n16. Dersom foretaket har forpliktet seg overfor daglig leder eller styrets leder til å gi særskilt vederlag ved opphør eller endring av ansettelsesforholdet eller vervet, skal det gis opplysning om arten og omfanget av forpliktelsen. Plikten til å gi opplysning gjelder likevel ikke for avtalefestet kollektiv pensjonsytelse gjennom pensjonskasse eller forsikringsselskap.\nDersom forpliktelse som nevnt i første ledd har opphørt eller er endret i løpet av regnskapsåret, skal det opplyses om årsaken til og de økonomiske virkninger av opphøret eller endringen.\nDepartementet kan i forskrift bestemme at ytelser av mindre omfang ikke skal omfattes av opplysningsplikten etter dette nr.\n17. Opplysninger om tegningsretter, opsjoner og tilsvarende rettigheter som gir ansatte eller tillitsvalgte rett til tegning, kjøp eller salg av aksje eller grunnfondsbevis​10 fra eller til foretaket de er ansatt eller tillitsvalgt i.\nVirksomhet som nevnt i § 14 fjerde ledd​2 skal i tilknytning til årsoppgjøret utarbeide en særskilt finansieringsanalyse (strømningsanalyse) som viser hvordan virksomheten i regnskapsåret​11 er tilført finansielle midler og hvordan disse midler er anvendt. For hver post i finansieringsanalysen skal vises tilsvarende tall fra foregående regnskapsår.​11 Kongen​12 kan ved forskrift gi nærmere regler om finansieringsanalysens innhold.\n0 Endret ved lover 24 feb 1984 nr. 4, 21 juni 1985 nr. 83, 26 juni 1992 nr. 68, 24 juni 1994 nr. 27, 7 juni 1996 nr. 29 (i kraft 6 sep 1996 iflg. res. 6 sep 1996 nr. 848).\n1 Jfr. § 14 fjerde ledd.\n2 Se nå § 14 annet ledd.\n3 Jfr. § 14 tredje ledd.\n4 Jfr. § 17.\n5 Jfr. § 18.\n6 Jfr. § 14 tredje ledd.\n7 Jfr. lov 21 juni 1985 nr. 83 § 3-1 (2).\n8 Lov 21 juni 1985 nr. 83.\n9 Lov 20 juli 1991 nr. 65.\n10 Lov 24 mai 1961 nr. 1.\n11 Jfr. § 15.\n12 Finansdepartementet iflg. res. 4 nov 1977.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "title": "Vurderingsregler for omløpsmidler.",
+      "content": "Omløpsmidler​1 må ikke oppføres høyere enn den virkelige verdi og ikke høyere enn anskaffelseskostnadene.​2 Er virksomheten i vesentlig utstrekning basert på tilvirking av varer etter bestilling og med lang tilvirkingstid, kan til anskaffelseskostnadene legges den del av den forventede fortjeneste som svarer til det arbeid som allerede er utført.\nSom den virkelige verdi av omløpsmidler skal anses salgsverdien etter fradrag for salgskostnadene, dersom ikke eiendelens art eller andre forhold tilsier at det i samsvar med god regnskapsskikk fastsettes en annen verdi.\n1 Jfr. § 14 tredje ledd.\n2 Jfr. § 14 fjerde ledd og sktl. § 50 annet ledd bokstav a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "title": "Vurderingsregler for anleggsmidler.",
+      "content": "Anleggsmidler​1 må ikke oppføres høyere enn anskaffelseskostnadene. I anskaffelseskostnadene​2 kan medregnes kostnader til forbedring som er medgått i regnskapsåret​3 eller som var medtatt i balansen for det forutgående regnskapsår. Med de unntak som følger av fjerde og femte ledd, kan anleggsmiddel ellers ikke oppføres høyere enn til den verdi det var oppført med i den nærmest forutgående balanse.\nAnleggsmiddel som forringes på grunn av alder, slit eller lignende årsak, skal hvert år avskrives med et beløp minst så stort som en fornuftig avskrivingsplan tilsier, med mindre det åpenbart er tilstrekkelig avskrevet.​4\nEr den virkelige verdi av anleggsmiddel lavere enn den verdi eiendelen etter bestemmelsene i første og annet ledd kan oppføres med, og dette skyldes årsaker som ikke kan antas å være forbigående, skal eiendelen nedskrives i den utstrekning det må anses nødvendig etter god regnskapsskikk.\nUten hinder av bestemmelsen foran kan anleggsmiddel,​1 som må anses å ha en verdi som vesentlig overstiger det beløp den er oppført med i nærmest forutgående balanse, oppføres med den høyere verdi, såfremt denne ikke skyldes forhold av forbigående art, og oppskrivingsbeløpet, forsåvidt angår regnskapspliktig som nevnt i selskapsskatteloven​5 § 6-1 nr. 1, med fradrag for avsetning til utsatt skatt, anvendes til:\n1. Nedskriving av verdien på andre anleggsmidler i samsvar med tredje ledd,\n2. dekning av tap ved salg m.m. av annet anleggsmiddel i regnskapsåret, forutsatt at vilkårene for nedskriving ville ha foreligget om virksomheten hadde beholdt det,\n3. avsetting til oppskrivingsfond som senere bare kan brukes til de formål som er nevnt under 1 og 2.\nFordring som er anleggsmiddel,​6 kan opptas til den verdi den beregnes å ha, selv om den i nærmest forutgående balanse har vært oppført med lavere beløp fordi den ble ansett som usikker eller verdiløs.\nNår en virksomhet er ervervet mot vederlag som overstiger verdien av de enkelte eiendeler, skal forskjellen oppføres som anleggsmiddel i den utstrekning den representerer forretningsverdi (goodwill). Avskriving skal skje årlig etter en fornuftig avskrivningsplan minst med en femtedel hvert år.​7 Årlig avskrivning kan likevel reduseres inntil en tyvendedel, dersom det dokumenteres at en slik forretningsverdi har vesentlig verdi for foretaket i avskrivningsperioden. Det er et vilkår at avskrivningsplanen blir nærmere forklart i note til årsoppgjøret. Det samme gjelder når en virksomhet er overtatt ved arv.\nKostnader for teknisk bistand, forskings- og utviklingsarbeid, prøvedrift, markedsundersøkelser og lignende kan oppføres som anleggsmiddel for så vidt det ved disse kostnader kan anses ervervet vesentlige verdier for virksomheten. Avskriving skal skje årlig med et rimelig beløp, men minst med en femtedel, om ikke avskriving med en mindre del på grunn av særlige omstendigheter kan anses stemmende med god regnskapsskikk.\nKapitalrabatt og direkte kostnader ved opptak av langsiktige lån og kurstap ved slike lån kan oppføres som anleggsmiddel og avskrives planmessig i tiden inntil senest når lånet forfaller til betaling.\nStiftelseskostnader og kostnader ved kapitalforhøyelser må ikke oppføres som aktivposter i balansen.\nUtsatt skattefordel​8 kan bare oppføres som eiendel i balansen dersom det kan holdes for overveiende sannsynlig at virksomheten i et fremtidig regnskapsår vil ha en skattepliktig inntekt som gjør det mulig å utnytte fordelen, og den oppførte fordel ikke overstiger det beløp som i samme balanse er oppført som utsatt skatteforpliktelse.​9\n0 Endret ved lover 26 juni 1992 nr. 66, 26 juni 1992 nr. 68.\n1 Jfr. § 14 tredje ledd.\n2 Jfr. § 14 fjerde ledd.\n3 Jfr. § 15.\n4 Jfr. sktl. § 44 A.\n5 Lov 20 juli 1991 nr. 65.\n6 Jfr. § 14 tredje ledd.\n7 Jfr. sktl. § 44 første ledd c, § 44 A-1 tredje ledd og § 44 A-2 første ledd bokstav b.\n8 Jfr. § 18 annet ledd nr. 1.2.2.1.\n9 Jfr. § 18 annet ledd nr. 2.2.1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "3:21 a",
+      "chapter": "3",
+      "section": "21 a",
+      "title": "Årsberetning",
+      "content": "I ansvarlig selskap,​1 kommandittselskap​2 og statsforetak​3 som de tre siste regnskapsår​4 gjennomsnittlig har hatt mer enn 50 ansatte, statens postselskap​5 og statens jernbanetrafikkselskap,​6 skal det for hvert regnskapsår utarbeides årsberetning.\nI årsberetningen skal det gis opplysning om forhold som er viktige for å bedømme selskapets stilling og resultatet av virksomheten og som ikke framgår av resultatregnskap​7 eller balanse,​8 samt om andre forhold av vesentlig betydning for selskapet, selv om de er inntrådt etter regnskapsårets utgang. I den utstrekning det er av interesse for å bedømme selskapets stilling, skal det videre redegjøres i årsberetningen for avsetningsforhold og prisutvikling i årets løp og på det tidspunkt beretningen avgis.\nÅrsberetningen skal gi opplysning om hvor mange personer som var ansatt i selskapet ved regnskapsårets slutt. Dessuten skal det gis opplysning om de samlede utgifter til lønn og annen godtgjørelse til henholdsvis selskapsmøtet, styret og daglig leder. Årsberetningen skal videre inneholde en redegjørelse om arbeidsmiljøet, og en oversikt over hvilke tiltak som er iverksatt på dette området. I årsberetningen skal det også redegjøres for om virksomheten forurenser det ytre miljø, og det skal gis en oversikt over tiltak som er eller planlegges iverksatt for å motvirke slike forurensninger. Det skal gis opplysning om selskapets godtgjørelse til revisor og hvordan godtgjørelsen er fordelt på godtgjørelse for revisjon og rådgivning. Departementet kan fastsette utfyllende forskrifter om opplysningsplikten etter forrige punktum.\nÅrsberetningen skal opplyse antallet deltakere og navn og eierandel for deltakere som eier mer enn 20 % av selskapet. Videre skal opplyses om eierandel til hvert enkelt medlem av styret, revisor og daglig leder. For hver enkelt av de deltakere som er nevnt i først og annet punktum skal medregnes andeler som eies av ektefelle eller mindreårig barn, eller av selskap hvor vedkommende har slik innflytelse som nevnt i selskapsloven​9 § 1-2 annet ledd.\nStyret skal i årsberetningen legge fram forslag om anvendelse av overskudd eller dekning av tap.\n0 Tilføyd ved lov 21 juni 1985 nr. 83, endret ved lover 16 juni 1989 nr. 55, 16 juni 1989 nr. 71, 30 aug 1991 nr. 71, 22 nov 1996 nr. 67 (i kraft 1 des 1996 iflg. res. 22 nov 1996 nr. 1075).\n1 Jfr. lov 21 juni 1985 nr. 83 § 1-2 (1) (b).\n2 Jfr. lov 21 juni 1985 nr. 83 § 1-2 (1) (e).\n3 Jfr. lov 30 aug 1991 nr. 71.\n4 Jfr. § 15.\n5 Jfr. lov 22 nov 1996 nr. 65.\n6 Jfr. lov 22 nov 1996 nr. 66.\n7 Jfr. § 17.\n8 Jfr. § 18.\n9 Lov 21 juni 1985 nr. 83.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21a",
+        "source_heading": "§ 21 A."
+      }
+    },
+    {
+      "provision_ref": "3:21 b",
+      "chapter": "3",
+      "section": "21 b",
+      "title": "Konsernoppgjør",
+      "content": "I morselskap, jfr. selskapsloven​1 § 1-2, skal det foretas konsernoppgjør knyttet til balansedagen for morselskapet. Konsernoppgjøret skal bestå av konsernresultatregnskap og konsernbalanse og i tilfelle årsberetning for morselskapet.\nKonsernets resultatregnskap og balanse skal inneholde et sammendrag av morselskapets og datterselskapenes​2 resultatregnskap og balanser. De skal settes opp som god regnskapsskikk krever det, og bestemmelsene i §§ 17 til 19 skal anvendes tilsvarende så langt de passer.\nKonsernets resultatregnskap skal særskilt vise konsernets årsresultat etter korreksjon for endringer i interngevinster for utdelinger mellom konsernselskapene. Som interngevinst anses vinning ved overdragelse innen konsernet, for så vidt ikke eiendelen seinere er blitt overdratt til kjøper utenfor konsernet eller forbrukt, eller dens verdi er nedsatt hos det konsernselskap som ervervet den.\nKonsernbalansen skal særskilt vise konsernets egenkapital etter korreksjon for internt innehav av aksjer og andeler og for aksjer og andeler i datterselskaper som ikke eies av et konsernselskap.\nHar et konsernselskap som eier av aksjer betydelig innflytelse over et annet selskap uten at det foreligger et konsernforhold, jf selskapsloven​1 § 1-2, kan aksjene i konsernbalansen i samsvar med god regnskapsskikk oppføres til eierselskapets andel av den regnskapsmessige egenkapitalen i selskapet. Andelen av regnskapsmessig resultat medtas i konsernets resultatregnskap. Tilsvarende gjelder dersom to eller flere konsernselskaper har en slik innflytelse over et annet selskap.\nDersom det på grunn av konsernets sammensetning eller av andre grunner ikke uten store vansker lar seg gjøre å følge reglene foran, kan det gjøres slike unntak fra bestemmelsene som forholdene tilsier. Kongen kan i det enkelte tilfelle gjøre unntak fra plikten til å utarbeide konsernoppgjør hvor samtlige aksjer eller andeler i morselskapet eies av et annet selskap.\nI morselskapets årsberetning skal gis slike opplysninger om konsernet som nevnt i § 21 A. I årsberetningen eller på den måte som fastsatt i § 19, skal det videre opplyses hvilke prinsipper som er anvendt ved korreksjon for endringer i interngevinster, og det skal redegjøres for den anvendelse som eventuelt er gjort av unntaksregelen i femte ledd.\nBestemmelsen i § 16 fjerde til åttende ledd får tilsvarende anvendelse.\nBestemmelsene om konsernoppgjør i paragrafen her, gjelder tilsvarende for statsforetak som er morforetak jfr. statsforetaksloven​3 § 2 annet, tredje og fjerde ledd. Tilsvarende gjelder for statens postselskap​4 og statens jernbanetrafikkselskap​5 der disse er morselskap etter lov om statens postselskap § 7 og lov om statens jernbanetrafikkselskap § 7.\n0 Tilføyd ved lov 21 juni 1985 nr. 83, endret ved lover 3 april 1987 nr. 17, 30 aug 1991 nr. 71, 24 juni 1994 nr. 27, 22 nov 1996 nr. 67 (i kraft 1 des 1996 iflg. res. 22 nov 1996 nr. 1075).\n1 Lov 21 juni 1985 nr. 83.\n2 Jfr. lov 21 juni 1985 nr. 83 § 1-2 (2).\n3 Lov 30 aug 1991 nr. 71.\n4 Jfr. lov 22 nov 1996 nr. 65.\n5 Jfr. lov 22 nov 1996 nr. 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21b",
+        "source_heading": "§ 21 B."
+      }
+    },
+    {
+      "provision_ref": "3:21 c",
+      "chapter": "3",
+      "section": "21 c",
+      "title": "Regnskapsråd",
+      "content": "Kongen oppnevner et regnskapsråd. Rådet skal ha inntil 7 medlemmer.\nRegnskapsrådet skal være rådgivende organ for departementet i regnskapsspørsmål.\nDepartementet kan gi nærmere regler om Regnskapsrådets oppgaver og saksbehandling.\n0 Tilføyd ved lov 16 juni 1989 nr. 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21c",
+        "source_heading": "§ 21 C."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Forskrift av hensyn til skatte- og avgiftsplikt og offentlige kontrolltiltak.",
+      "content": "Kongen​1 kan ved forskrift fastsette krav til bokføringen eller årsoppgjøret i tillegg til bestemmelsene i denne lov, når det finnes nødvendig av hensyn til regnskapspliktiges skatte- eller avgiftsplikt eller gjennomføringen av lovbestemte kontrolltiltak fra det offentliges side overfor regnskapspliktige. Kongen kan videre gi forskrift om at det skal utarbeides årsoppgjør som omfatter all næringsvirksomhet som regnskapspliktige deltakere i et indre selskap​2 driver gjennom selskapet. Det samme gjelder for sameiere som har fattet vedtak etter § 4 i lov av 18. juni 1965 nr. 6 om sameie.\n0 Endret ved lover 21 juni 1985 nr. 83, 20 juli 1991 nr. 59.\n1 Finansdepartementet iflg. res. 4 nov 1977.\n2 Jfr. lov 21 juni 1985 nr. 83 § 1-2 (1) (c).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "title": "Straff.",
+      "content": "Den​2 som forsettlig eller uaktsomt vesentlig tilsidesetter bestemmelser gitt i eller i medhold av denne lov eller som medvirker til dette, straffes med bøter​3 eller fengsel inntil 1 år eller begge deler.​4 Foreligger særlig skjerpende omstendigheter, kan fengsel inntil 3 år anvendes.\n0 Endret ved lov 21 des 1979 nr. 73.\n1 Jfr. strl. § 286.\n2 Jfr. strl. § 48 a og § 48 b.\n3 Jfr. strl. § 27.\n4 Jfr. strl. § 26 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "title": "Ikrafttredelse.",
+      "content": "Kongen bestemmer når loven trer i kraft.​1\n1 1 jan 1978 iflg. res. 4 nov 1977, lovens kap. 3 1 jan 1979.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "title": "Endringer i andre lover.",
+      "content": "Fra denne lovs ikrafttredelse gjøres følgende endringer i andre lover.​1\n1 Dl. § 228, lover 8 mars 1935 § 75 (opphevet), 24 juni 1938 nr. 13 § 10, 5 april 1957 § 12 (opphevet).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "4:26",
+      "chapter": "4",
+      "section": "26",
+      "title": "Fortsatt gyldighet for eldre forskrifter.",
+      "content": "Forskrifter gitt med hjemmel i lovbestemmelser nevnt i § 25, skal fortsatt gjelde til de blir opphevet ved forskrifter gitt med hjemmel i denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens rekkevidde.",
+      "content": "Enhver som driver næringsvirksomhet har regnskapsplikt​2 for slik virksomhet, når ikke annet er bestemt i eller i medhold av denne lov.\nRegnskapsplikt har dessuten alle aksjeselskaper,​3 ansvarlige selskaper,​4 kommandittselskaper,​5 gjensidige forsikringsselskaper,​6 pensjonskasser, pensjonsfond, sparebanker,​7 kredittforeninger,​8 boligsparelag,​9 boligbyggelag,​10 borettslag,​11 samvirkelag som går inn under aksjelovens​12 § 18-2 første ledd nr. 2, fond som går inn under lov om verdipapirfond,​13 statsforetak,​14 statens postselskap​15 og statens jernbanetrafikkselskap.​16\nLoven gjelder i den utstrekning ikke annet følger av bestemmelser i eller gitt i medhold av annen lov.​2\n0 Endret ved lover 12 juni 1981 nr. 52, 21 juni 1985 nr. 83, 30 aug 1991 nr. 71, 20 des 1993 nr. 140, 22 nov 1996 nr. 67 (i kraft 1 des 1996 iflg. res. 22 nov 1996 nr. 1075).\n1 Jfr. § 23.\n2 Jfr. lover som er nevnt i Alfabetisk Register under Bokføringsplikt og Regnskapsvesen.\n3 Jfr. lov 4 juni 1976 nr. 59 § 1-1.\n4 Jfr. lov 21 juni 1985 nr. 83 § 1-2 (1) (b).\n5 Jfr. lov 21 juni 1985 nr. 83 § 1-2 (1) (e).\n6 Jfr. lov 10 juni 1988 nr. 39.\n7 Jfr. lov 24 mai 1961 nr. 1 kap. 5.\n8 Jfr. lov 10 juni 1988 nr. 40.\n9 Lov 10 juli 1936 nr. 5 er opphevet ved lov 20 des 1985 nr. 102.\n10 Jfr. lov 4 feb 1960 nr. 1 kap. 9.\n11 Jfr. lov 4 feb 1960 nr. 2 kap. 11.\n12 Lov 4 juni 1976 nr. 59.\n13 Jfr. lov 12 juni 1981 nr. 52.\n14 Jfr. lov 30 aug 1991 nr. 71.\n15 Jfr. lov 22 nov 1996 nr. 65.\n16 Jfr. lov 22 nov 1996 nr. 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Unntak fra regnskapsplikten. Utfyllende vedtak.",
+      "content": "Den som utelukkende driver jordbruk, gartneri, skogbruk eller produksjon av kunstverk som angitt i lov av 19. juni 1966 nr. 66 om merverdiavgift § 5 nr. 1 bokstav a), er ikke regnskapspliktig etter denne lov.​1 Unntaket i første punktum gjelder ikke når virksomheten er organisert på en måte som nevnt i § 1 annet ledd.\nKongen​2 kan ved forskrift eller enkeltvedtak bestemme om og i tilfelle i hvilken utstrekning loven skal gjelde for næringsvirksomhet som drives av stat eller kommune.\nKongen​2 kan ved forskrift eller enkeltvedtak gjøre unntak fra regnskapsplikten etter § 1 første ledd og i tvilstilfelle bestemme om loven skal gjelde.\nKongen​2 kan gi forskrift om anvendelse av loven på virksomhet med tilknytning til annet land og kan ved enkeltvedtak gjøre unntak fra loven for så vidt gjelder slik virksomhet.\n0 Endret ved lover 12 juni 1987 nr. 49, 23 des 1988 nr. 95, 24 juni 1994 nr. 32.\n1 Se lov 13 juni 1980 nr. 24 § 5-1.\n2 Finansdepartementet iflg. res. 4 nov 1977.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Begrenset regnskapsplikt.",
+      "content": "0 Opphevet ved lov 26 juni 1992 nr. 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Regnskapspliktens innhold.",
+      "content": "Den regnskapspliktige skal føre regnskap og utarbeide årsoppgjør i samsvar med god regnskapsskikk og bestemmelser i eller gitt i medhold av denne lov eller andre lover.\nRegnskapet skal føres i norsk mynt​1 og på norsk språk, med mindre Kongen​2 ved forskrift eller enkeltvedtak​3 bestemmer noe annet, jfr. § 7.\n0 Endret ved lover 24 feb 1984 nr. 4, 21 juni 1985 nr. 83.\n1 Jfr. lov 24 mai 1985 nr. 28 kap. III.\n2 Finansdepartementet iflg. res. 4 nov 1977.\n3 Jfr. lov 10 feb 1967 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Hva som skal føres i bøkene.",
+      "content": "Regnskapsbøkene skal​1 gi så fullstendige og spesifiserte opplysninger om forretningenes gang som tilsies av hensyn til virksomhetens fordringshavere, eier og deltaker, virksomhetens ledelse og de ansatte, samt av hensyn til den oppgave- og opplysningsplikt som følger av lov eller er pålagt i medhold av lov.​2\nDet skal fremgå særskilt av bøkene hva eier eller deltaker setter inn i virksomheten av penger, varer og andre eiendeler, og hva vedkommende tar ut av varer og tjenester.\n1 Jfr. § 23.\n2 Jfr. bl.a. lignl. kap. 4 og 6 og lov 19 juni 1969 nr. 66 kap. XII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Hvilke bøker som skal føres, innretning og føring av bøkene.",
+      "content": "Det skal​1 føres de regnskapsbøker som er nødvendige av hensyn til virksomhetens art og omfang. Det skal alltid føres:\n1. Kassabok for kontante inn- og utbetalinger.\n2. Dagbok for alle andre forretningstilfeller.\n3. Kontobok for mellomvær med fordringshavere og skyldnere.\n4. Hovedbok for innføring av sammendrag av kontiene i kassabok og dagbok.\n5. Årsoppgjørsbok for innføring av resultatregnskap, balanse og eventuelt styrets årsberetning, konsernoppgjør, revisjonsberetning og redegjørelse som nevnt i § 16 tredje ledd.\nDet kan føres kombinert kassabok, dagbok og hovedbok, kombinert kassabok og sammendragsbok, kombinert hovedbok og årsoppgjørsbok eller kombinert sammendragsbok og årsoppgjørsbok.\nRegnskapsbøkene skal føres på en ordentlig og oversiktlig måte. Bøkene skal være innbundet eller heftet og sidene eller bladene nøyaktig nummerert før bøkene tas i bruk. Det må ikke rives ut blad av innbundne eller heftede bøker. Føringen av bøkene må skje på en holdbar måte. Det som er ført i bøkene må ikke ved overstrykninger eller på annen måte gjøres uleselig.\nI stedet for innbundne eller heftede bøker som nevnt i fjerde ledd, kan nyttes løse kort, blad, lister eller andre hjelpemidler når disse hjelpemidler inngår i et ordnet og betryggende system. Denne bestemmelse gjelder ikke sammendragsbok og årsoppgjørsbok. Kongen​2 kan gi forskrift om bruken av hjelpemidler som nevnt i dette ledd.\nKontobok kan sløyfes dersom det nyttes annet betryggende system for registrering av mellomvær med fordringshavere og skyldnere. Kongen​2 kan gi forskrift om bruken av slike systemer.\n0 Endret ved lover 24 feb 1984 nr. 4, 21 juni 1985 nr. 83, 26 juni 1992 nr. 66.\n1 Jfr. § 23.\n2 Finansdepartementet iflg. res. 4 nov 1977.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Hvor bøkene skal føres.",
+      "content": "Regnskapsføringen skal foretas her i landet. Kongen​1 kan ved forskrift eller enkeltvedtak​2 gi adgang til at regnskapsføringen likevel kan foretas i utlandet.\n1 Finansdepartementet iflg. res. 4 nov 1977.\n2 Jfr. lov 10 feb 1967 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Legitimasjon av kostnader og inntekter.",
+      "content": "Kostnader skal være legitimert ved bilag. Det samme gjelder for inntekter i den utstrekning det er mulig, bl.a. ved fakturakopier, kassasedler og kassastrimler.\nHver postering skal foretas på en slik måte at det blir klar forbindelse mellom bilag og bøker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Ajourføring av bøkene.",
+      "content": "Regnskapsbøkene​1 skal være tilfredsstillende à jour til enhver tid i samsvar med hva som anses å stemme med god regnskapsskikk.\nKontante inn- og utbetalinger skal så vidt mulig føres i kassaboken​2 samme dag de finner sted.\n1 Jfr. § 6.\n2 Jfr. § 6 første ledd nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Periodiske avslutninger av bøkene.",
+      "content": "Kontiene i kassaboken​1 og dagboken​2 skal summeres for perioder på en eller to måneder, og bruttosummene, nettosaldo eller akkumulert saldo for hver konto skal tas inn i hovedboken​3 eller sammendragsboken.​4 For regnskapspliktig som bruker system som nevnt i § 6 femte eller sjette ledd, kan Kongen​5 ved forskrift gi regler som avviker fra første punktum.\nNår det utarbeides årsoppgjør,​6 skal det foretas nøyaktig og fullstendig avslutning av alle regnskapsbøker og utarbeides lister over varelager, fordringer og gjeld som er tatt med i årsoppgjøret.\nDet skal være samsvar mellom tallene i årsoppgjøret og hovedboken eller sammendragsboken. Hvis det ikke er slikt samsvar, skal det av særskilt oppstilling fremgå hvorledes kontiene er sammensatt eller oppspaltet.\n0 Endret ved lov 21 juni 1985 nr. 83.\n1 Jfr. § 6 første ledd nr. 1.\n2 Jfr. § 6 første ledd nr. 2.\n3 Jfr. § 6 første ledd nr. 4.\n4 Jfr. § annet ledd.\n5 Finansdepartementet iflg. res. 4 nov 1977.\n6 Jfr. § 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Oppbevaring av bøker og bilag.",
+      "content": "Regnskapsbøker​1 med tilhørende bilag, herunder lister og oppstillinger som nevnt i § 10 annet og tredje ledd, skal oppbevares ordnet her i landet i minst ti år etter utløpet av vedkommende regnskapsår. Mottatte brev, gjenparter av avsendte brev og andre dokumenter som kan legitimere bokføringen, skal oppbevares ordnet her i landet i minst ti år etter utløpet av det regnskapsår da det forretningstilfelle som dokumentet gjelder, var endelig avsluttet.\nKongen​2 kan ved forskrift eller enkeltvedtak frita for plikten til oppbevaring eller fastsette en kortere oppbevaringstid. Herunder kan det fastsettes at oppbevaring av film eller annen likeverdig gjengivelse av vedkommende bok eller dokument kan erstatte oppbevaring av boken eller dokumentet selv. Disse bestemmelser gjelder ikke årsoppgjørsbok og hovedbok eller sammendragsbok.\nKongen​2 kan ved forskrift eller enkeltvedtak gi særlige bestemmelser for oppbevaringen, når det er brukt system som nevnt i § 6 femte eller sjette ledd.\n0 Endret ved lov 21 juni 1985 nr. 83.\n1 Jfr. § 6.\n2 Finansdepartementet iflg. res. 4 nov 1977.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Unntak fra reglene i kap. 3.",
+      "content": "Reglene i dette kapittel gjelder ikke for aksjeselskap,​1 gjensidig forsikringsselskap​2 og borettslag.​3\n0 Endret ved lover 27 juni 1986 nr. 49, 23 des 1988 nr. 105, 16 juni 1989 nr. 40, 10 juni 1988 nr. 39, 30 aug 1991 nr. 71.\n1 Jfr. lov 4 juni 1976 nr. 59 kap. 11.\n2 Jfr. lov 10 juni 1988 nr. 39.\n3 Jfr. lov 4 feb 1960 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Åpningsstatus.",
+      "content": "Når den regnskapspliktige virksomhet begynner, skal det utarbeides en oppstilling over virksomhetens eiendeler og gjeld.​1 Denne oppstilling (åpningsstatus) skal inntas i årsoppgjørsboken​2 og følge oppstillingsreglene i §§ 18-21.\n0 Endret ved lover 21 juni 1985 nr. 83, 26 juni 1992 nr. 66.\n1 Jfr. § 18.\n2 Jfr. § 6 første ledd nr. 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Årsoppgjørets innhold.",
+      "content": "For hvert regnskapsår​1 skal det utarbeides årsoppgjør som omfatter all næringsvirksomhet som den regnskapspliktige driver. Når virksomheten drives av et ansvarlig selskap eller kommandittselskap,​2 skal det utarbeides årsoppgjør for selskapet som sådant. Årsoppgjøret består av resultatregnskap​3 og balanse​4 og i tilfelle årsberetning som nevnt i § 21 A, konsernoppgjør som nevnt i § 21 B og slik redegjørelse som nevnt i § 16 tredje ledd. Resultatregnskapet skal omfatte inntekter og kostnader i regnskapsåret og stilles opp slik at det viser størrelsen av overskudd eller underskudd og hvordan overskuddet er anvendt eller underskuddet dekket.​3 Årsoppgjøret skal være på norsk.​5\nFor virksomhet hvor summen av eiendeler ifølge balansen overstiger ti millioner kroner eller som har mer enn 200 ansatte, gjelder de særregler som er fastsatt i § 19 første ledd nr. 4 og annet ledd.\nMed anleggsmidler​6 menes eiendeler bestemt til varig eie eller bruk for virksomheten.​7 Andre eiendeler er omløpsmidler.​8 Fordringer skal regnes som omløpsmidler for så vidt det er avtalt eller forutsatt at fordringen skal tilbakebetales innen ett år etter regnskapsårets utløp.\nMed anskaffelseskostnad menes kostnad ved erverv eller tilvirkning av eiendelen.​5\n0 Endret ved lover 24 feb 1984 nr. 4, 21 juni 1985 nr. 83, 26 juni 1992 nr. 66, 26 juni 1992 nr. 68.\n1 Jfr. § 15.\n2 Jfr. lov 21 juni 1985 nr. 83.\n3 Jfr. § 17.\n4 Jfr. § 18.\n5 Jfr. § 4.\n6 Jfr. § 21.\n7 Jfr. lov 4 juni 1976 nr. 59 § 11-4.\n8 Jfr. § 20.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Regnskapsåret.",
+      "content": "Regnskapsåret skal være tolv måneder. Når virksomheten begynner eller opphører, eller ved omlegging av regnskapsåret, kan tiden være kortere eller lengre, dog høyst atten måneder. Kalenderåret skal så vidt mulig være regnskapsår.​1\nSelskaper som tilhører samme konsern, jfr. selskapsloven​2 § 1-2, skal ha samme regnskapsår om ikke Kongen ved enkeltvedtak tillater noe annet.\n0 Endret ved lov 21 juni 1985 nr. 83.\n1 Jfr. sktl. § 41 annet ledd, lignl. § 5-3, lov 13 juni 1975 nr. 35 § 8 annet ledd.\n2 Lov 21 juni 1985 nr. 83.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Innføring m.v. av årsoppgjør.",
+      "content": "Senest fire måneder etter utløpet av regnskapsåret skal årsoppgjøret være ferdig og tatt inn i årsoppgjørsboken.​1\nÅrsoppgjøret skal underskrives av styret og den daglige leder. Dersom virksomheten ikke ledes av et styre, skal årsoppgjøret underskrives av eierne og deltakerne i virksomheten og i tilfelle den daglige leder. Bestemmelsen i annet punktum gjelder ikke stille deltaker og kommandittist.​2\nHar en som skal underskrive, innvendinger mot årsoppgjøret, skal vedkommende gi nærmere redegjørelse i årsoppgjørsboken.​1 Foreligger plikt til å utarbeide årsberetning, jfr. § 21 A, skal redegjørelsen være en del av årsberetningen.\nSenest en måned etter at årsoppgjøret i revisjonspliktig virksomhet er underskrevet, skal et eksemplar av årsoppgjøret og revisjonsberetningen sendes til et sentralt register for årsoppgjør (Regnskapsregisteret). Regnskapsregisteret føres av den tjenestemann Kongen bestemmer.​3 Innholdet av de innsendte dokumenter skal holdes tilgjengelig i Regnskapsregisteret i minst 10 år.\nEnhver har rett til å få gjøre seg kjent med innholdet av de innsendte dokumenter. Kongen kan gi nærmere regler om hvordan dokumentene skal gjøres tilgjengelige og kan herunder gi bestemmelser om betaling av et nærmere fastsatt gebyr.\nKongen​4 kan for visse virksomheter gi forskrift om fritak fra plikten til å sende inn årsoppgjøret og revisjonsberetningen, eller om at opplysningene i de innsendte dokumenter ikke skal være alment tilgjengelige.\nKongen kan også gi slike regler som ellers finnes påkrevd for gjennomføringen av foranstående bestemmelser, herunder om format og papirkvalitet på de dokumenter som skal sendes inn.\nÅrsoppgjøret, og i revisjonspliktig virksomhet​5 revisjonsberetningen, skal på virksomhetens kontor holdes tilgjengelig for de ansatte.\n0 Endret ved lover 8 feb 1980 nr. 3 (se dens VII), 21 juni 1985 nr. 83, 27 juni 1986 nr. 49 (overskriften).\n1 Jfr. § 6 første ledd nr. 5.\n2 Jfr. lov 21 juni 1985 § 1-2 (i), (d) og (g).\n3 Brønnøy sorenskriverembete iflg. res. 21 nov 1980.\n4 Finansdepartementet iflg. res. 21 nov 1980.\n5 Jfr. lov 14 mars 1964 nr. 2 § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Spesifikasjon av resultatregnskapet.",
+      "content": "Resultatregnskapet skal settes opp slik at det etter virksomhetens forhold gir et tilfredsstillende uttrykk for hvordan det økonomiske resultat av driften i regnskapsåret​1 er fremkommet.\nFor resultatregnskapet skal brukes følgende oppstilling og inndeling i poster:\n1 Driftsinntekter og driftskostnader\n1.1 Driftsinntekter (brutto)\n1.2 Innkjøp av råvarer, halvfabrikata og varer beregnet for videresalg med tillegg eller fradrag for beholdningsendringer i lager av innkjøpte varer som nevnt foran\n1.3 Lønninger, folketrygdavgift og pensjonskostnader\n1.4 Andre innkjøps-, tilvirkings-, salgs- og administrasjonskostnader\n1.5 Avskriving i samsvar med § 21 annet ledd\n1.6 Tap på fordringer\n1.7 Tillegg eller fradrag for beholdningsendring i lager av varer under tilvirking og ferdig tilvirkede varer\n1.8 Driftsresultat\n2 Finansinntekter og finanskostnader\n2.1 Utdeling på aksjer og andeler\n2.2 Andre finansinntekter\n2.3 Finanskostnader\n2.4 Resultat av finansinntekter og finanskostnader\n3 Resultat før ekstraordinære inntekter og kostnader\n4 Ekstraordinære inntekter og kostnader\n4.1 Vinning ved avgang (salg, ekspropriasjon m.m.) av anleggsmidler\n4.2 Andre ekstraordinære inntekter, spesifisert etter sin art\n4.3 Tap ved avgang (salg, ekspropriasjon m.m.) av anleggsmidler​2\n4.4 Nedskriving på anleggsmidler​2 i samsvar med § 21 tredje ledd\n4.5 Andre ekstraordinære kostnader, spesifisert etter sin art\n4.6 Resultat av ekstraordinære inntekter og kostnader\n5 Resultat før skattekostnad\n6 Skattekostnad​3\n7 Årsoverskott (Årsunderskott)\n8 Oppskrivinger og overføringer\n8.1 Oppskriving av anleggsmidler i samsvar med § 21 fjerde ledd med fradrag av avsetning til utsatt skatt\n8.2 Anvendelse av oppskrivingsbeløp til oppskrivingsfond​4\n8.3 Disponering av årsoverskott (dekning av årsunderskott) og egenkapitaloverføringer, spesifisert etter sin art.\nVinning eller tap ved avgang av anleggsmidler​2 samt verdikorreksjoner skal fordeles på de poster i balansen de knytter seg til.\nFor hver post i resultatregnskapet skal vises det tilsvarende tall fra det sist fastsatte resultatregnskap.\nNår virksomhetens forhold tilsier det, skal det foretas en ytterligere inndeling i poster og en inndeling i forhold til post 1.2, 1.4 og 1.7 som er tilpasset arten av virksomheten.\nOppstillingsplanen kan fravikes i den utstrekning det kan forenes med god regnskapsskikk. Kongen​5 kan gi forskrift om adgang til å fravike planen.\nEn post kan slås sammen med en annen dersom den etter virksomhetens forhold er av uvesentlig betydning. Når konkurransemessige grunner tilsier det, kan Kongen​5 ved enkeltvedtak samtykke i at post 1.1, 1.2 og 1.4 blir slått sammen.\nAnnet ledd post 6, skattekostnad, gjelder bare for næringsvirksomhet som er skattepliktig som eget skattesubjekt.​6 Deltakerlignet regnskapspliktig​7 skal gi opplysning som angitt i § 19 første ledd nr. 15.\n0 Endret ved lover 24 feb 1984 nr. 4, 21 juni 1985 nr. 83, 10 april 1992 nr. 38, 26 juni 1992 nr. 68.\n1 Jfr. § 15.\n2 Jfr. § 14.\n3 Jfr. åttende ledd.\n4 Jfr. § 21 fjerde ledd.\n5 Finansdepartementet iflg. res. 4 nov 1977.\n6 Jfr. lov 20 juli 1991 nr. 65 § 1-1 nr. 1.\n7 Jfr. sktl. § 20 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Spesifikasjon av balansen.",
+      "content": "Balansen skal vise virksomhetens eiendeler, gjeld og egenkapital og dessuten pantstillelser og garantiansvar ved regnskapsårets utgang.​1 Pantstillelser og garantiansvar skal angis innenfor linjen.\nFor balansen skal brukes følgende oppstilling og inndeling i poster:\n1 Eiendeler\n1.1 Omløpsmidler​2\n1.1.1 Kontanter og bankinnskudd\n1.1.2 Aksjer og andeler\n1.1.3 Obligasjoner og andre verdipapirer\n1.1.4 Vekselfordringer\n1.1.5 Andre fordringer\n1.1.6 Lager av råvarer og innkjøpte halvfabrikata\n1.1.7 Lager av varer under tilvirking\n1.1.8 Lager av varer beregnet for videresalg og ferdig tilvirkede varer\n1.1.9 Forskudd til leverandører o.l.\n1.2 Anleggsmidler​2\n1.2.1 Aksjer og andeler\n1.2.2 Obligasjoner og andre verdipapirer\n1.2.3.1 Utsatt skattefordel\n1.2.3.2 Andre fordringer\n1.2.4 Forskudd til leverandører\n1.2.5 Patenter og lignende rettigheter\n1.2.6 Goodwill etter reglene i § 21 sjette ledd\n1.2.7 Kostnader m.m. etter reglene i § 21 sjuende og åttende ledd, hver for seg\n1.2.8 Skip\n1.2.9 Maskiner, inventar og lignende\n1.2.10 Bygninger\n1.2.11 Anlegg under utføring\n1.2.12 Fast eiendom for øvrig\n1.3 Innkalt, ikke innbetalt selskapskapital\n2 Gjeld og egenkapital\n2.1 Kortsiktig gjeld\n2.1.1 Vekselgjeld\n2.1.2 Kassakredittgjeld\n2.1.3 Skyldig merverdiavgift, skattetrekk, folketrygdavgift, feriepenger, utlignet skatt o.l.\n2.1.4 (Opphevet)\n2.1.5 Betalbar skatt\n2.1.6 Forskudd fra kunder\n2.1.7 Annen kortsiktig gjeld\n2.2 Langsiktig gjeld\n2.2.1 Utsatt skatt\n2.2.2 Annen langsiktig gjeld\n2.3 (Opphevet)\n2.4 Egenkapital\n2.4.1 Oppskrivingsfond​3\n2.4.2 Egenkapital eller udekket tap\n2.4.3 Frie fond hver for seg\n2.4.4 Udisponert vinning eller udekket tap\n3 Pensjonsforpliktelser (kapitalisert), som ikke er medtatt som gjeld i balansen\n4 Pantstillelser o.l.\n4.1 Pant og annen sikkerhetsstillelse for virksomhetens gjeld med opplysning om summen av den gjeld sikkerheten hefter for og med angivelse av, fordelt på de enkelte poster i balansen, verdien etter balansen av de gjenstander sikkerheten omfatter\n4.2 Utlegg spesifisert under post 4.1\n5 Garantiansvar o.l.\n5.1 Diskonterte veksler\n5.2 Kausjonsansvar og annet garantiansvar; pant for fremmed gjeld skal spesifiseres som nevnt i post 4.1\nIkke innkalt selskapskapital i kommandittselskaper, jfr. selskapsloven​4 § 3-1, kan ikke føres opp som egenkapital i post 2.4. Egenkapitalen i kommandittselskaper kan spesifiseres i noter i stedet for i balansen.\nFor hver post i balansen skal vises det tilsvarende tall fra den sist fastsatte balanse.\nYtterligere spesifikasjon skal skje i den utstrekning virksomhetens forhold tilsier det.\nOppstillingsplanen kan fravikes i den utstrekning det kan forenes med god regnskapsskikk. Kongen​5 kan gi forskrift om adgang til å fravike planen.\nEn post kan slås sammen med en annen dersom den etter virksomhetens forhold er av uvesentlig betydning.\n0 Endret ved lover 24 feb 1984 nr. 4, 21 juni 1985 nr. 83, 10 april 1992 nr. 38, 26 juni 1992 nr. 68, 26 juni 1992 nr. 86, 9 jan 1998 nr. 5.\n1 Jfr. § 15.\n2 Jfr. § 14 tredje ledd.\n3 Jfr. § 21 fjerde ledd.\n4 Lov 21 juni 1985 nr. 83.\n5 Finansdepartementet iflg. res. 4 nov 1977.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Tilleggsopplysninger til resultatregnskap og balanse.",
+      "content": "I resultatregnskapet og balansen skal gis følgende tilleggsopplysninger, som kan inntas i noter med tydelig henvisning til de poster i regnskapet de knytter seg til:\n1. Aksjer skal spesifiseres med angivelse av selskapets navn og aksjekapital, antallet aksjer, pålydende og verdien i henhold til balansen. Er både pålydende og verdien av aksjer i et selskap lavere enn femti tusen kroner, og samtidig lavere enn fem prosent av den aksjeeiende virksomhets egenkapital etter balansen, kan spesifikasjon unnlates.\n2. Har virksomheten andel i et ansvarlig selskap eller i et selskap med begrenset ansvar, skal gis opplysning om selskapets navn og andelens størrelse samt om hvordan dets resultat og stilling kommer til uttrykk i virksomhetens resultatregnskap og balanse.\n3. For hver post i balansen som omfatter skip, maskiner, inventar og lignende eller bygninger, skal gis opplysning om anskaffelseskostnadene​1 etter den forutgående balanse med tidligere foretatt oppskriving, om tilgang og avgang i regnskapsåret, om oppskriving foretatt i regnskapsåret, samt om de samlede av- og nedskrivinger som var foretatt inntil regnskapsårets utgang. Dersom avskrivingen er blitt endret i forhold til den avskrivingsplan som tidligere er fulgt, skal det opplyses særskilt hvor mye endringen utgjør.\n4. Virksomhet som nevnt i § 14 fjerde ledd​2 skal for hvert av de siste fem regnskapsår angi det bruttobeløp som er investert i skip, maskiner, inventar og lignende og i fast eiendom, samt avhending av slike anleggsmidler. Beløpene skal fordeles i samsvar med inndelingen av balansen.\n5. Er kostnad som nevnt i § 21 sjuende ledd, oppført i balansen, skal gis opplysning om hvordan den er beregnet.\n6. Har virksomheten leid anleggsmidler​3 og leieavtalen er av vesentlig betydning for virksomhetens drift, skal gis opplysning om hvilke anleggsmidler avtalen omfatter, avtalens varighet, om eventuell rett for virksomheten til å overta anleggsmidlene, samt om den årlige leie såfremt ikke særlige grunner taler mot det.\n7. (Opphevet.)\n8. Har virksomheten pensjonsforpliktelser skal følgende opplysninger gis:\n1. Antall personer forpliktelsene omfatter.\n2. Hvordan forpliktelsene er beregnet, herunder kapitaliseringsmetoden, diskonteringssats og eventuelt hvordan inntektsskatten har påvirket beregningen.\n9. Er det av hensyn til grupperingen av poster i resultatregnskapet​4 eller balansen​5 foretatt endringer som vesentlig påvirker muligheten for sammenligning med tidligere årsoppgjør, skal det redegjøres for dette.\n10. Det skal gis opplysning om de prinsipper som er anvendt ved vurdering av omløpsmidler,​6 og om eventuelle endringer av disse prinsipper.\n11. Endringer med hensyn til vurderingen av omløpsmidler,​6 vurderingen av gjeldsforpliktelser eller andre endringer i forhold til tidligere resultatregnskap og balanse som i vesentlig grad påvirker årsresultatet eller som for øvrig er av større betydning, skal opplyses.\n12. Oppføring av omløpsmidler​6 med mer enn anskaffelseskostnadene​1 skal opplyses og beløpets størrelse angis.\n13. Er egenkapitalen i kommandittselskaper ikke spesifisert i balansen, skal det opplyses hvordan denne er fordelt på bunden og fri kapital.​7 Er den totale selskapskapital i kommandittselskaper, jfr. selskapsloven​8 § 3-1, ikke spesifisert i balansen, skal det gis opplysning om størrelsen på denne. Det skal også gis opplysninger om ikke innkalt selskapskapital, jfr. § 18 tredje ledd.\n14. Det skal opplyses hvor mye det er ytet som lån til eller sikkerhetsstillelse for deltaker med begrenset ansvar, tillitsmenn og ansatte. Det samme gjelder slike ytelser til den som er gift med eller som i rett oppstigende eller nedstigende linje eller i sidelinjen så nær som søsken, er beslektet eller besvogret med noen som er nevnt i foregående punktum, eller som står i slikt forhold til ansvarlig eier eller medeier i virksomheten.\n15. Selskap som nevnt i selskapsskatteloven​9 § 1-1 nr. 1 skal gi opplysning om forskjellen mellom resultat før skatt etter § 17 annet ledd post 5 og årets skattegrunnlag, med spesifikasjon på permanente forskjeller og på midlertidige forskjeller som oppstår og reverserer i året. Videre oppgis grunnlaget og den skattesats som er brukt ved beregning av utsatt skatt. Er utsatt skattefordel oppført i balansen, skal det opplyses på hvilket grunnlag en slik fordel kan utnyttes i et senere år. Departementet kan gi forskrift om at bestemte grupper av regnskapspliktige skal gi opplysning om de midlertidige forskjeller som ventes å bli reversert i de nærmeste 3 år, når slike opplysninger antas å ha særlig markedsmessig eller annen offentlig betydning.\nSelskap som nevnt i selskapsskatteloven​9 § 6-1 nr. 1 skal gi opplysning om forskjellen mellom resultat før skatt etter § 17 annet ledd post 5 og fastsettelse av inntekt i samsvar med selskapsskatteloven​9 § 6-3, med spesifikasjon på permanente og på midlertidige forskjeller som oppstår og reverserer i året. Departementet kan gi forskrift om at bestemte grupper av regnskapspliktige skal gi opplysning om de midlertidige forskjeller som ventes å bli reversert i de nærmeste 3 år, når slike opplysninger antas å ha særlig markedsmessig eller annen offentlig betydning.\n16. Dersom foretaket har forpliktet seg overfor daglig leder eller styrets leder til å gi særskilt vederlag ved opphør eller endring av ansettelsesforholdet eller vervet, skal det gis opplysning om arten og omfanget av forpliktelsen. Plikten til å gi opplysning gjelder likevel ikke for avtalefestet kollektiv pensjonsytelse gjennom pensjonskasse eller forsikringsselskap.\nDersom forpliktelse som nevnt i første ledd har opphørt eller er endret i løpet av regnskapsåret, skal det opplyses om årsaken til og de økonomiske virkninger av opphøret eller endringen.\nDepartementet kan i forskrift bestemme at ytelser av mindre omfang ikke skal omfattes av opplysningsplikten etter dette nr.\n17. Opplysninger om tegningsretter, opsjoner og tilsvarende rettigheter som gir ansatte eller tillitsvalgte rett til tegning, kjøp eller salg av aksje eller grunnfondsbevis​10 fra eller til foretaket de er ansatt eller tillitsvalgt i.\nVirksomhet som nevnt i § 14 fjerde ledd​2 skal i tilknytning til årsoppgjøret utarbeide en særskilt finansieringsanalyse (strømningsanalyse) som viser hvordan virksomheten i regnskapsåret​11 er tilført finansielle midler og hvordan disse midler er anvendt. For hver post i finansieringsanalysen skal vises tilsvarende tall fra foregående regnskapsår.​11 Kongen​12 kan ved forskrift gi nærmere regler om finansieringsanalysens innhold.\n0 Endret ved lover 24 feb 1984 nr. 4, 21 juni 1985 nr. 83, 26 juni 1992 nr. 68, 24 juni 1994 nr. 27, 7 juni 1996 nr. 29 (i kraft 6 sep 1996 iflg. res. 6 sep 1996 nr. 848).\n1 Jfr. § 14 fjerde ledd.\n2 Se nå § 14 annet ledd.\n3 Jfr. § 14 tredje ledd.\n4 Jfr. § 17.\n5 Jfr. § 18.\n6 Jfr. § 14 tredje ledd.\n7 Jfr. lov 21 juni 1985 nr. 83 § 3-1 (2).\n8 Lov 21 juni 1985 nr. 83.\n9 Lov 20 juli 1991 nr. 65.\n10 Lov 24 mai 1961 nr. 1.\n11 Jfr. § 15.\n12 Finansdepartementet iflg. res. 4 nov 1977.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "title": "Vurderingsregler for omløpsmidler.",
+      "content": "Omløpsmidler​1 må ikke oppføres høyere enn den virkelige verdi og ikke høyere enn anskaffelseskostnadene.​2 Er virksomheten i vesentlig utstrekning basert på tilvirking av varer etter bestilling og med lang tilvirkingstid, kan til anskaffelseskostnadene legges den del av den forventede fortjeneste som svarer til det arbeid som allerede er utført.\nSom den virkelige verdi av omløpsmidler skal anses salgsverdien etter fradrag for salgskostnadene, dersom ikke eiendelens art eller andre forhold tilsier at det i samsvar med god regnskapsskikk fastsettes en annen verdi.\n1 Jfr. § 14 tredje ledd.\n2 Jfr. § 14 fjerde ledd og sktl. § 50 annet ledd bokstav a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "title": "Vurderingsregler for anleggsmidler.",
+      "content": "Anleggsmidler​1 må ikke oppføres høyere enn anskaffelseskostnadene. I anskaffelseskostnadene​2 kan medregnes kostnader til forbedring som er medgått i regnskapsåret​3 eller som var medtatt i balansen for det forutgående regnskapsår. Med de unntak som følger av fjerde og femte ledd, kan anleggsmiddel ellers ikke oppføres høyere enn til den verdi det var oppført med i den nærmest forutgående balanse.\nAnleggsmiddel som forringes på grunn av alder, slit eller lignende årsak, skal hvert år avskrives med et beløp minst så stort som en fornuftig avskrivingsplan tilsier, med mindre det åpenbart er tilstrekkelig avskrevet.​4\nEr den virkelige verdi av anleggsmiddel lavere enn den verdi eiendelen etter bestemmelsene i første og annet ledd kan oppføres med, og dette skyldes årsaker som ikke kan antas å være forbigående, skal eiendelen nedskrives i den utstrekning det må anses nødvendig etter god regnskapsskikk.\nUten hinder av bestemmelsen foran kan anleggsmiddel,​1 som må anses å ha en verdi som vesentlig overstiger det beløp den er oppført med i nærmest forutgående balanse, oppføres med den høyere verdi, såfremt denne ikke skyldes forhold av forbigående art, og oppskrivingsbeløpet, forsåvidt angår regnskapspliktig som nevnt i selskapsskatteloven​5 § 6-1 nr. 1, med fradrag for avsetning til utsatt skatt, anvendes til:\n1. Nedskriving av verdien på andre anleggsmidler i samsvar med tredje ledd,\n2. dekning av tap ved salg m.m. av annet anleggsmiddel i regnskapsåret, forutsatt at vilkårene for nedskriving ville ha foreligget om virksomheten hadde beholdt det,\n3. avsetting til oppskrivingsfond som senere bare kan brukes til de formål som er nevnt under 1 og 2.\nFordring som er anleggsmiddel,​6 kan opptas til den verdi den beregnes å ha, selv om den i nærmest forutgående balanse har vært oppført med lavere beløp fordi den ble ansett som usikker eller verdiløs.\nNår en virksomhet er ervervet mot vederlag som overstiger verdien av de enkelte eiendeler, skal forskjellen oppføres som anleggsmiddel i den utstrekning den representerer forretningsverdi (goodwill). Avskriving skal skje årlig etter en fornuftig avskrivningsplan minst med en femtedel hvert år.​7 Årlig avskrivning kan likevel reduseres inntil en tyvendedel, dersom det dokumenteres at en slik forretningsverdi har vesentlig verdi for foretaket i avskrivningsperioden. Det er et vilkår at avskrivningsplanen blir nærmere forklart i note til årsoppgjøret. Det samme gjelder når en virksomhet er overtatt ved arv.\nKostnader for teknisk bistand, forskings- og utviklingsarbeid, prøvedrift, markedsundersøkelser og lignende kan oppføres som anleggsmiddel for så vidt det ved disse kostnader kan anses ervervet vesentlige verdier for virksomheten. Avskriving skal skje årlig med et rimelig beløp, men minst med en femtedel, om ikke avskriving med en mindre del på grunn av særlige omstendigheter kan anses stemmende med god regnskapsskikk.\nKapitalrabatt og direkte kostnader ved opptak av langsiktige lån og kurstap ved slike lån kan oppføres som anleggsmiddel og avskrives planmessig i tiden inntil senest når lånet forfaller til betaling.\nStiftelseskostnader og kostnader ved kapitalforhøyelser må ikke oppføres som aktivposter i balansen.\nUtsatt skattefordel​8 kan bare oppføres som eiendel i balansen dersom det kan holdes for overveiende sannsynlig at virksomheten i et fremtidig regnskapsår vil ha en skattepliktig inntekt som gjør det mulig å utnytte fordelen, og den oppførte fordel ikke overstiger det beløp som i samme balanse er oppført som utsatt skatteforpliktelse.​9\n0 Endret ved lover 26 juni 1992 nr. 66, 26 juni 1992 nr. 68.\n1 Jfr. § 14 tredje ledd.\n2 Jfr. § 14 fjerde ledd.\n3 Jfr. § 15.\n4 Jfr. sktl. § 44 A.\n5 Lov 20 juli 1991 nr. 65.\n6 Jfr. § 14 tredje ledd.\n7 Jfr. sktl. § 44 første ledd c, § 44 A-1 tredje ledd og § 44 A-2 første ledd bokstav b.\n8 Jfr. § 18 annet ledd nr. 1.2.2.1.\n9 Jfr. § 18 annet ledd nr. 2.2.1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "3:21 a",
+      "chapter": "3",
+      "section": "21 a",
+      "title": "Årsberetning",
+      "content": "I ansvarlig selskap,​1 kommandittselskap​2 og statsforetak​3 som de tre siste regnskapsår​4 gjennomsnittlig har hatt mer enn 50 ansatte, statens postselskap​5 og statens jernbanetrafikkselskap,​6 skal det for hvert regnskapsår utarbeides årsberetning.\nI årsberetningen skal det gis opplysning om forhold som er viktige for å bedømme selskapets stilling og resultatet av virksomheten og som ikke framgår av resultatregnskap​7 eller balanse,​8 samt om andre forhold av vesentlig betydning for selskapet, selv om de er inntrådt etter regnskapsårets utgang. I den utstrekning det er av interesse for å bedømme selskapets stilling, skal det videre redegjøres i årsberetningen for avsetningsforhold og prisutvikling i årets løp og på det tidspunkt beretningen avgis.\nÅrsberetningen skal gi opplysning om hvor mange personer som var ansatt i selskapet ved regnskapsårets slutt. Dessuten skal det gis opplysning om de samlede utgifter til lønn og annen godtgjørelse til henholdsvis selskapsmøtet, styret og daglig leder. Årsberetningen skal videre inneholde en redegjørelse om arbeidsmiljøet, og en oversikt over hvilke tiltak som er iverksatt på dette området. I årsberetningen skal det også redegjøres for om virksomheten forurenser det ytre miljø, og det skal gis en oversikt over tiltak som er eller planlegges iverksatt for å motvirke slike forurensninger. Det skal gis opplysning om selskapets godtgjørelse til revisor og hvordan godtgjørelsen er fordelt på godtgjørelse for revisjon og rådgivning. Departementet kan fastsette utfyllende forskrifter om opplysningsplikten etter forrige punktum.\nÅrsberetningen skal opplyse antallet deltakere og navn og eierandel for deltakere som eier mer enn 20 % av selskapet. Videre skal opplyses om eierandel til hvert enkelt medlem av styret, revisor og daglig leder. For hver enkelt av de deltakere som er nevnt i først og annet punktum skal medregnes andeler som eies av ektefelle eller mindreårig barn, eller av selskap hvor vedkommende har slik innflytelse som nevnt i selskapsloven​9 § 1-2 annet ledd.\nStyret skal i årsberetningen legge fram forslag om anvendelse av overskudd eller dekning av tap.\n0 Tilføyd ved lov 21 juni 1985 nr. 83, endret ved lover 16 juni 1989 nr. 55, 16 juni 1989 nr. 71, 30 aug 1991 nr. 71, 22 nov 1996 nr. 67 (i kraft 1 des 1996 iflg. res. 22 nov 1996 nr. 1075).\n1 Jfr. lov 21 juni 1985 nr. 83 § 1-2 (1) (b).\n2 Jfr. lov 21 juni 1985 nr. 83 § 1-2 (1) (e).\n3 Jfr. lov 30 aug 1991 nr. 71.\n4 Jfr. § 15.\n5 Jfr. lov 22 nov 1996 nr. 65.\n6 Jfr. lov 22 nov 1996 nr. 66.\n7 Jfr. § 17.\n8 Jfr. § 18.\n9 Lov 21 juni 1985 nr. 83.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21a",
+        "source_heading": "§ 21 A."
+      }
+    },
+    {
+      "provision_ref": "3:21 b",
+      "chapter": "3",
+      "section": "21 b",
+      "title": "Konsernoppgjør",
+      "content": "I morselskap, jfr. selskapsloven​1 § 1-2, skal det foretas konsernoppgjør knyttet til balansedagen for morselskapet. Konsernoppgjøret skal bestå av konsernresultatregnskap og konsernbalanse og i tilfelle årsberetning for morselskapet.\nKonsernets resultatregnskap og balanse skal inneholde et sammendrag av morselskapets og datterselskapenes​2 resultatregnskap og balanser. De skal settes opp som god regnskapsskikk krever det, og bestemmelsene i §§ 17 til 19 skal anvendes tilsvarende så langt de passer.\nKonsernets resultatregnskap skal særskilt vise konsernets årsresultat etter korreksjon for endringer i interngevinster for utdelinger mellom konsernselskapene. Som interngevinst anses vinning ved overdragelse innen konsernet, for så vidt ikke eiendelen seinere er blitt overdratt til kjøper utenfor konsernet eller forbrukt, eller dens verdi er nedsatt hos det konsernselskap som ervervet den.\nKonsernbalansen skal særskilt vise konsernets egenkapital etter korreksjon for internt innehav av aksjer og andeler og for aksjer og andeler i datterselskaper som ikke eies av et konsernselskap.\nHar et konsernselskap som eier av aksjer betydelig innflytelse over et annet selskap uten at det foreligger et konsernforhold, jf selskapsloven​1 § 1-2, kan aksjene i konsernbalansen i samsvar med god regnskapsskikk oppføres til eierselskapets andel av den regnskapsmessige egenkapitalen i selskapet. Andelen av regnskapsmessig resultat medtas i konsernets resultatregnskap. Tilsvarende gjelder dersom to eller flere konsernselskaper har en slik innflytelse over et annet selskap.\nDersom det på grunn av konsernets sammensetning eller av andre grunner ikke uten store vansker lar seg gjøre å følge reglene foran, kan det gjøres slike unntak fra bestemmelsene som forholdene tilsier. Kongen kan i det enkelte tilfelle gjøre unntak fra plikten til å utarbeide konsernoppgjør hvor samtlige aksjer eller andeler i morselskapet eies av et annet selskap.\nI morselskapets årsberetning skal gis slike opplysninger om konsernet som nevnt i § 21 A. I årsberetningen eller på den måte som fastsatt i § 19, skal det videre opplyses hvilke prinsipper som er anvendt ved korreksjon for endringer i interngevinster, og det skal redegjøres for den anvendelse som eventuelt er gjort av unntaksregelen i femte ledd.\nBestemmelsen i § 16 fjerde til åttende ledd får tilsvarende anvendelse.\nBestemmelsene om konsernoppgjør i paragrafen her, gjelder tilsvarende for statsforetak som er morforetak jfr. statsforetaksloven​3 § 2 annet, tredje og fjerde ledd. Tilsvarende gjelder for statens postselskap​4 og statens jernbanetrafikkselskap​5 der disse er morselskap etter lov om statens postselskap § 7 og lov om statens jernbanetrafikkselskap § 7.\n0 Tilføyd ved lov 21 juni 1985 nr. 83, endret ved lover 3 april 1987 nr. 17, 30 aug 1991 nr. 71, 24 juni 1994 nr. 27, 22 nov 1996 nr. 67 (i kraft 1 des 1996 iflg. res. 22 nov 1996 nr. 1075).\n1 Lov 21 juni 1985 nr. 83.\n2 Jfr. lov 21 juni 1985 nr. 83 § 1-2 (2).\n3 Lov 30 aug 1991 nr. 71.\n4 Jfr. lov 22 nov 1996 nr. 65.\n5 Jfr. lov 22 nov 1996 nr. 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21b",
+        "source_heading": "§ 21 B."
+      }
+    },
+    {
+      "provision_ref": "3:21 c",
+      "chapter": "3",
+      "section": "21 c",
+      "title": "Regnskapsråd",
+      "content": "Kongen oppnevner et regnskapsråd. Rådet skal ha inntil 7 medlemmer.\nRegnskapsrådet skal være rådgivende organ for departementet i regnskapsspørsmål.\nDepartementet kan gi nærmere regler om Regnskapsrådets oppgaver og saksbehandling.\n0 Tilføyd ved lov 16 juni 1989 nr. 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21c",
+        "source_heading": "§ 21 C."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Forskrift av hensyn til skatte- og avgiftsplikt og offentlige kontrolltiltak.",
+      "content": "Kongen​1 kan ved forskrift fastsette krav til bokføringen eller årsoppgjøret i tillegg til bestemmelsene i denne lov, når det finnes nødvendig av hensyn til regnskapspliktiges skatte- eller avgiftsplikt eller gjennomføringen av lovbestemte kontrolltiltak fra det offentliges side overfor regnskapspliktige. Kongen kan videre gi forskrift om at det skal utarbeides årsoppgjør som omfatter all næringsvirksomhet som regnskapspliktige deltakere i et indre selskap​2 driver gjennom selskapet. Det samme gjelder for sameiere som har fattet vedtak etter § 4 i lov av 18. juni 1965 nr. 6 om sameie.\n0 Endret ved lover 21 juni 1985 nr. 83, 20 juli 1991 nr. 59.\n1 Finansdepartementet iflg. res. 4 nov 1977.\n2 Jfr. lov 21 juni 1985 nr. 83 § 1-2 (1) (c).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "title": "Straff.",
+      "content": "Den​2 som forsettlig eller uaktsomt vesentlig tilsidesetter bestemmelser gitt i eller i medhold av denne lov eller som medvirker til dette, straffes med bøter​3 eller fengsel inntil 1 år eller begge deler.​4 Foreligger særlig skjerpende omstendigheter, kan fengsel inntil 3 år anvendes.\n0 Endret ved lov 21 des 1979 nr. 73.\n1 Jfr. strl. § 286.\n2 Jfr. strl. § 48 a og § 48 b.\n3 Jfr. strl. § 27.\n4 Jfr. strl. § 26 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "title": "Ikrafttredelse.",
+      "content": "Kongen bestemmer når loven trer i kraft.​1\n1 1 jan 1978 iflg. res. 4 nov 1977, lovens kap. 3 1 jan 1979.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "title": "Endringer i andre lover.",
+      "content": "Fra denne lovs ikrafttredelse gjøres følgende endringer i andre lover.​1\n1 Dl. § 228, lover 8 mars 1935 § 75 (opphevet), 24 juni 1938 nr. 13 § 10, 5 april 1957 § 12 (opphevet).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "4:26",
+      "chapter": "4",
+      "section": "26",
+      "title": "Fortsatt gyldighet for eldre forskrifter.",
+      "content": "Forskrifter gitt med hjemmel i lovbestemmelser nevnt i § 25, skal fortsatt gjelde til de blir opphevet ved forskrifter gitt med hjemmel i denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    }
+  ]
+}

@@ -1,0 +1,615 @@
+{
+  "id": "LOV-1994-12-23-79",
+  "type": "statute",
+  "title": "Lov om erverv av næringsvirksomhet.",
+  "short_name": "Lov om erverv av næringsvirksomhet – ervl.",
+  "status": "in_force",
+  "issued_date": "1994-12-23",
+  "in_force_date": "1995-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1994-12-23-79",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens virkeområde",
+      "content": "Loven gjelder for erverv​1 av eierandeler​2 i norske foretak,​3 samt erverv av aktiva som innebærer overtakelse av næringsvirksomhet i Norge.\nVed erverv av eierandeler i foretak som driver innen luftfarts-, skipsfarts- og boreriggnæringen, samt ved erverv av aktiva i bruk i slik næringsvirksomhet, får loven ikke anvendelse.\n1 Jfr. § 3, b.\n2 Jfr. § 3, c.\n3 Jfr. § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Forholdet til annen lovgivning",
+      "content": "Loven gjelder ikke i de tilfeller hvor ervervet er gjenstand for regulering etter følgende lover:\n1. lov 24 mai 1961 nr 1 om sparebanker\n2. lov 24 mai 1961 nr 2 om forretningsbanker\n3. lov 16 juni 1972 nr 57 om regulering av deltakelsen i fisket\n4. lov 12 juni 1981 nr 52 om verdipapirfond\n5. lov om verdipapirhandel,​1 kapittel 7 om tillatelse til å yte investeringstjenester.\n6. lov 14 juni 1985 nr 68 om oppdrett av skalldyr, fisk m v\n7. lov 10 juni 1988 nr 39 om forsikringsvirksomhet\n8. lov 10 juni 1988 nr 40 om finansieringsvirksomhet\n9. lov 29 juni 1990 nr 50 om produksjon, omforming, overføring, omsetning og fordeling av energi m m (energiloven).\n0 Endret ved lover 7 juni 1996 nr. 25 (i kraft 31 des 1996), 19 juni 1997 nr. 79 (i kraft 1 des 1997).\n1 Lov 19 juni 1997 nr. 79.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I loven betyr:\na. norske foretak: næringsdrivende foretak som er registreringspliktige i Foretaksregisteret,​1 med unntak av utenlandske foretak.\nb. erverv: enhver form for overdragelse herunder kjøp, bytte, gave, leie, erverv ved arv eller skifte, tvangssalg og ekspropriasjon.\nc. eierandeler: aksjer eller andeler i foretak.\n1 Se lov 21 juni 1985 nr. 78.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Hvilke erverv skal meldes",
+      "content": "Ved erverv​1 av eierandeler​2 i et norsk foretak​3 i et slikt antall at erververen derved blir innehaver av mer enn en tredel eller minst en halvdel, eller minst to tredeler av samtlige eierandeler eller av stemmeberettigede eierandeler, skal erverver sende melding til departementet dersom:\n1. foretaket har\na. over 50 ansatte, eller\nb. en omsetning siste år på over 50 millioner kroner, eller\nc. mottatt offentlig støtte til forskning og utvikling på over 5 millioner kroner til minst ett enkeltprosjekt i løpet av de siste 8 år.\n2. foretaket direkte eller indirekte eier mer enn en tredel av samtlige eierandeler eller av stemmeberettigede eierandeler i foretak som nevnt i nr 1.\n3. erververen også har ervervet eierandeler i et slikt antall som angitt innledningsvis i denne paragraf, i andre foretak som tilhører samme konsern, og foretakene til sammen oppfyller betingelsen i nr 1.\nVed erverv av aktiva som innebærer overtakelse av en virksomhet, skal erververen sende melding til departementet dersom virksomheten oppfyller betingelsen i første ledd nr 1.\nDepartementet kan gi utfyllende regler om hvilke erverv som er meldepliktige.\n1 Jfr. § 3, b.\n2 Jfr. § 3, c.\n3 Jfr. § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Konsolidering av eierandeler",
+      "content": "Meldeplikt inntrer også når to eller flere etter forutgående innbyrdes avtale, blir innehavere av eierandeler​1 eller aktiva som samlet overstiger grensene i § 4.\nVed anvendelse av § 4 skal eierandeler eller aktiva som tilhører følgende personer eller selskap, regnes sammen med erververens egne eierandeler eller aktiva:\na. erververens ektefelle​2 eller person som vedkommende bor sammen med i ekteskapslignende forhold,​3\nb. slektninger i rett oppstigende eller nedstigende linje, samt søsken,\nc. slektninger i rett oppstigende eller nedstigende linje, samt søsken til person nevnt i bokstav a,\nd. selskap innen samme konsern​4 som erververen,\ne. selskap der vedkommende selv eller noen som nevnt i bokstav a-d, har slik innflytelse som nevnt i aksjeloven​5 § 1-3, allmennaksjeloven​6 § 1-3 eller selskapsloven​7 § 1-2 annet ledd,\nf. noen som erververen har forpliktende samarbeid med, når det gjelder å gjøre bruk av rettighetene som aksjonær eller deltager,\ng. et ansvarlig selskap​8 eller et kommandittselskap​9 hvor erververen har eierinteresser.\nDepartementet avgjør i tvilstilfeller om eierandeler eller aktiva som erververen ikke eier, skal likestilles med eget erverv.\n0 Endret ved lov 13 juni 1997 nr. 44 (i kraft 1 jan 1999).\n1 Jfr. § 3, c.\n2 Se lover 4 juli 1991 nr. 47 og 30 april 1993 nr. 40.\n3 Jfr. asl. § 1-5.\n4 Jfr. lov 20 juli 1991 nr. 65 § 1-2 og asl. § 1-2.\n5 Lov 13 juni 1997 nr. 44 (asl.).\n6 Lov 13 juni 1997 nr. 45 (asal.).\n7 Lov 21 juni 1985 nr. 83.\n8 Jfr. lov 20 juli 1991 nr. 65 § 1-2, b.\n9 Jfr. lov 20 juli 1991 nr. 65 § 1-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Omgåelse",
+      "content": "Dersom det foreligger omstendigheter som gjør det sannsynlig at eierandeler​1 eller aktiva er ervervet​2 av en annen enn den formelle erververen, skal rettigheten anses for å tilhøre den antatt reelle erververen.\nDersom det må anses sannsynlig at andre enn erververen har rettigheter som innebærer at erververens rett til å råde over eierandelene eller aktiva, eller rett til å få det økonomiske utbyttet av dem, er vesentlig beskåret, skal eierandelene eller aktiva anses for å tilhøre rettighetshaveren.\n1 Jfr. § 3, c.\n2 Jfr. § 3, b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Unntak fra meldeplikt på grunn av erververens stilling",
+      "content": "Melding som nevnt i denne lov, er ikke nødvendig når:\na. erververen er eierens ektefelle​1 eller en person som vedkommende bor sammen med i et ekteskapslignende forhold,​2\nb. erververen er beslektet eller besvogret med vedkommende i oppadstigende eller nedadstigende linje eller i første sidelinje til og med barn av søsken,\nc. overdragelsen skjer ved skifte av ekteskapelig felleseie,​3\nd. erverver er staten,\ne. erverver er den fylkeskommune eller kommune, hvor foretaket ligger,\nf. erverver er finans- eller forsikringsinstitusjon​4 og ervervet finner sted for å redde en fordring som er sikret ved pant i aktiva eller eierandeler i foretaket. Den ervervede rettighet må videreselges innen 2 år. Dersom salg ikke har funnet sted innen denne tid, kommer bestemmelsene i § 4 til anvendelse. Ved tvangssalg regnes fristen fra stadfestelsen av budet eller fra tidspunktet for inngåelsen av salgsavtalen.\nEr det tidligere gitt godkjenning for ervervet, skal de fastsatte vilkår også gjelde for den nye erverver.\n1 Se lover 4 juli 1991 nr. 47 og 30 april 1993 nr. 40.\n2 Jfr. asl. § 1-5.\n3 Jfr. lover 4 juli 1991 nr. 47 kap. 12 og 30 april 1993 nr. 40.\n4 Jfr. lov 10 juni 1988 nr. 40.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Hvilke opplysninger skal meldes",
+      "content": "Meldingen skal inneholde følgende:\na. kopi av avtalen om ervervet,\nb. informasjon om erververen, herunder beskrivelse av erververs virksomhet, antall ansatte, årsregnskap, årsberetning​1 og firmaattest,\nc. begrunnelsen for og intensjonen med ervervet, herunder investeringsplaner,\nd. ervervets betydning for fremtidig virksomhet og sysselsetting,\ne. kopi av protokoll fra møtet​2 hvor de ansatte ble informert om ervervet,\nf. informasjon om det foretak det er ervervet eierandeler i, eller de aktiva som er ervervet, herunder beskrivelse av virksomheten, antall ansatte, årsregnskap, årsberetning​1 og firmaattest.\nDepartementet kan i tillegg kreve fremlagt andre opplysninger som det anser som nødvendige for å vurdere saken.\n0 Endret ved lov 17 juli 1998 nr. 56 (i kraft 1 jan 1999).\n1 Jfr. lov 17 juli 1998 nr. 56.\n2 Jfr. § 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Frist for innsendelse",
+      "content": "Melding skal sendes departementet innen 30 dager etter at det ble inngått avtale om erverv av eierandeler eller aktiva som nevnt i denne lov, eller erververen ble innehaver av slike eierandeler eller aktiva. Ved tvangssalg regnes fristen fra stadfestelsen av budet eller fra tidspunktet for inngåelse av salgsavtalen. Domstolloven​1 § 146 annet ledd, § 148 første ledd og § 149 gjelder tilsvarende.\nDepartementet kan i særlige tilfeller gi utsettelse med innsendelse av melding.\nNår ytterligere opplysninger er nødvendige, kan det settes frist for innsendelse av slik informasjon.\n1 Lov 13 aug 1915 nr. 5 (dl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "title": "Behandling av meldingen",
+      "content": "Departementet skal ta stilling til ervervet så raskt som mulig.​2 Dersom departementet innen 30 dager etter at melding er mottatt, ikke gir skriftlig underretning om behov for ytterligere informasjon eller at ervervet skal prøves etter kapittel 6, anses ervervet som godkjent.\nDepartementets frist for behandling av meldingen, begynner først å løpe fra det tidspunkt departementet anser meldingen som fullstendig. Domstolloven​3 § 146 annet ledd, § 148 første ledd og § 149 gjelder tilsvarende.\nDersom de ansatte avgir uttalelse i henhold til § 11, forlenges departementets behandlingsfrist med 14 dager.\n1 Jfr. § 23.\n2 Jfr. kap. 6.\n3 Lov 13 aug 1915 nr. 5 (dl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "5:11",
+      "chapter": "5",
+      "section": "11",
+      "title": "Uttalelsesrett",
+      "content": "De ansatte har rett til å uttale seg om ervervet til departementet mens meldingen er til behandling.\nEventuell uttalelse fra de ansatte, må være departementet i hende før utløpet av frist som nevnt i § 10 første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "5:12",
+      "chapter": "5",
+      "section": "12",
+      "title": "Informasjonsplikt",
+      "content": "Erververen plikter å gjøre de ansatte kjent med ervervet og adgangen til å uttale seg til departementet, så tidlig som mulig, og senest før melding sendes.​1 Erververen skal holde et informasjonsmøte med de ansatte og føre protokoll fra møtet.\n1 Jfr. § 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "6:13",
+      "chapter": "6",
+      "section": "13",
+      "title": "Når nærmere prøving kan finne sted",
+      "content": "Dersom departementet har grunn til å anta at ervervet kan ha vesentlige negative virkninger for foretaket, bransjen eller samfunnet for øvrig, herunder sysselsettingsmessige virkninger, kan ervervet undergis nærmere prøving.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "6:14",
+      "chapter": "6",
+      "section": "14",
+      "title": "Ytterligere opplysninger",
+      "content": "Departementet kan når som helst under prøvingsperioden, kreve fremlagt de opplysninger som det anser som nødvendige for å vurdere saken.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "6:15",
+      "chapter": "6",
+      "section": "15",
+      "title": "Høring",
+      "content": "Før departementet tar endelig stilling til et erverv som undergis nærmere prøving, skal de ansatte, samt kommunen og fylkeskommunen hvor foretaket ligger, gis anledning til å uttale seg til departementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "6:16",
+      "chapter": "6",
+      "section": "16",
+      "title": "Godkjenning av erverv",
+      "content": "Med mindre allmenne hensyn taler imot, skal ervervet godkjennes.\nNår godkjenning ikke gis, kan departementet pålegge erververen å avhende de eierandeler eller aktiva som det meldepliktige ervervet omhandlet, innen en nærmere fastsatt frist.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "7:17",
+      "chapter": "7",
+      "section": "17",
+      "title": "Vilkår",
+      "content": "Departementet kan ved godkjenning av ervervet sette de vilkår som er nødvendige av allmenne hensyn. Disse vilkårene kan pålegges erververen, eller det eller de foretak som ervervet gjelder, eller det foretak som skal drive videre den virksomhet som er overtatt.​1\nVilkårene skal bl a ta sikte på å sikre gjennomføringen av de tiltak og planer som er lagt frem av erververen i forbindelse med departementets behandling.\nDet kan også stilles vilkår om at eieren ved beslutning om avvikling av hele eller vesentlige deler av virksomheten, kan pålegges å legge forholdene til rette for overdragelse til reelle interessenter.\nVidere kan det stilles vilkår som tar sikte på å sikre samarbeid mellom ansatte innen samme konsern.\n1 Jfr. § 6 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "7:18",
+      "chapter": "7",
+      "section": "18",
+      "title": "Kontroll",
+      "content": "Departementet kan foreta de undersøkelser som er nødvendige for å kontrollere overholdelsen av vilkår satt i medhold av § 17, eller at opplysninger som ligger til grunn for godkjenning er korrekte og fulllstendige. Ved avvikling som nevnt i § 17 tredje ledd, kan departementet kreve at det skal avholdes uavhengig takst over verdien av den aktuelle virksomhet.\nDepartementet kan kreve at utgiftene ved kontroll og taksering, som nevnt i første ledd, skal dekkes av den som er pålagt vilkårene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "8:19",
+      "chapter": "8",
+      "section": "19",
+      "title": "Manglende melding eller nekting av erverv",
+      "content": "Dersom frister som nevnt i § 9 er oversittet, kan departementet pålegge erververen en tvangsmulkt som påløper inntil forholdet er brakt i orden. Pålegget om tvangsmulkt er tvangsgrunnlag for utlegg.​1\nVed vesentlig oversittelse av frister som nevnt i § 9, kan departementet pålegge erververen innen en nærmere fastsatt frist å avhende de eierandeler eller aktiva som det meldepliktige erverv omfatter.\nOversittes frist som fastsatt etter andre ledd eller § 16 andre ledd, kan departementet la rettigheten selge gjennom namsmyndighetene etter reglene om tvangssalg så langt de passer. Bestemmelsene i tvangsfullbyrdelseslovens​2 § 11-20 eller § 8-16 om det minste bud som kan stadfestes, gjelder ikke i dette tilfellet.\nAvhendelse etter denne bestemmelsen omfatter samtlige rettigheter som fulgte med ved det meldepliktige erverv, med mindre departementet bestemmer noe annet.\n1 Jfr. tvangsl. § 7-2, e.\n2 Lov 26 juni 1992 nr. 86 (tvangsl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "8:20",
+      "chapter": "8",
+      "section": "20",
+      "title": "Uriktige eller ufullstendige opplysninger",
+      "content": "Dersom det viser seg at godkjenning skyldes uriktige eller ufullstendige opplysninger, eller at prøving er unnlatt av samme grunn, gjelder § 19 andre, tredje og fjerde ledd tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "8:21",
+      "chapter": "8",
+      "section": "21",
+      "title": "Vilkårsbrudd",
+      "content": "Ved overtredelse av vilkår som er satt for godkjenning, kan departementet pålegge den som er blitt pålagt vilkåret en tvangsmulkt som påløper inntil forholdet er brakt i orden. Pålegg om tvangsmulkt er tvangsgrunnlag for utlegget.​1\nVed overtredelse av vilkår av vesentlig betydning gjelder § 19 andre, tredje og fjerde ledd tilsvarende.\n1 Jfr. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "8:22",
+      "chapter": "8",
+      "section": "22",
+      "title": "Straff",
+      "content": "Forsettlig eller uaktsom overtredelse av bestemmelsene i denne lov straffes med bøter.​1 Medvirkning straffes på samme måte.\nStraffansvar etter denne bestemmelse foreldes etter 10 år.\nOffentlig påtale finner bare sted når det er påkrevet av allmenne hensyn.\n1 Jfr. strl. § 27 og kap. 3 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "9:23",
+      "chapter": "9",
+      "section": "23",
+      "title": "Rådighet over eierandeler og aktiva i meldeplikts- og prøvingsperioden",
+      "content": "Før fristen etter § 10 er utløpt eller endelig godkjenning er gitt etter § 16, kan erververen bare foreta rettslige og faktiske disposisjoner over foretakets eller den overtatte virksomhetens aktiva som er i samsvar med forsvarlig drift og ikke vesentlig forringer foretakets eller den overtatte virksomhetens verdi.\nI meldeplikts- og prøvingsperioden som angitt i første ledd, kan ikke erververen utøve andre rettigheter i ervervet foretak enn retten til å heve utbytte for eierandelene og til å utøve fortrinnsrett ved kapitalforhøyelse.\nDepartementet kan gjøre unntak fra denne bestemmelse i det enkelte tilfelle.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "9:24",
+      "chapter": "9",
+      "section": "24",
+      "title": "Ikrafttredelse og forholdet til eldre konsesjoner",
+      "content": "Denne lov trer i kraft 1 januar 1995.\nAvtaler om erverv av eiendomsrett eller annen rettighet inngått før dette tidspunkt, reguleres av lov 14 desember 1917 nr 16 og lov 31 mai 1974 nr 19. Erverv som også vil medføre meldeplikt etter den nye loven, reguleres likevel av denne, når melding om ervervet innkommer departementet etter 1 januar 1995.\nDe vilkår og forutsetninger som er fastsatt i konsesjoner meddelt av Industridepartementet, Næringsdepartementet, Olje- og energidepartementet eller Nærings- og energidepartementet med hjemmel i lov 14 desember 1917 nr 16, eller i lov 31 mai 1974 nr 19 gjelder fortsatt, så langt de ikke er i strid med EØS-avtalen eller andre internasjonale avtaler Norge er forpliktet etter.\nEtter søknad kan departementet oppheve eller endre vilkår og forutsetninger som er fastsatt i konsesjoner som omtalt i annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "9:25",
+      "chapter": "9",
+      "section": "25",
+      "title": "Endringer i annen lovgivning",
+      "content": "Fra den tiden loven trer i kraft gjøres følgende endringer i andre lover:​1\n1 Endringer i lover 14 des 1917 nr 16 om erverv av vannfall, bergverk og annen fast eiendom m v, 31 mai 1974 nr 19 om konsesjon og om forkjøpsrett for det offentlige ved erverv av fast eiendom (konsesjonsloven), 3 juli 1914 nr 5 om erverv av kalkstensforekomster og 17 juni 1949 nr 3 om erverv av kvartsforekomster.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens virkeområde",
+      "content": "Loven gjelder for erverv​1 av eierandeler​2 i norske foretak,​3 samt erverv av aktiva som innebærer overtakelse av næringsvirksomhet i Norge.\nVed erverv av eierandeler i foretak som driver innen luftfarts-, skipsfarts- og boreriggnæringen, samt ved erverv av aktiva i bruk i slik næringsvirksomhet, får loven ikke anvendelse.\n1 Jfr. § 3, b.\n2 Jfr. § 3, c.\n3 Jfr. § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Forholdet til annen lovgivning",
+      "content": "Loven gjelder ikke i de tilfeller hvor ervervet er gjenstand for regulering etter følgende lover:\n1. lov 24 mai 1961 nr 1 om sparebanker\n2. lov 24 mai 1961 nr 2 om forretningsbanker\n3. lov 16 juni 1972 nr 57 om regulering av deltakelsen i fisket\n4. lov 12 juni 1981 nr 52 om verdipapirfond\n5. lov om verdipapirhandel,​1 kapittel 7 om tillatelse til å yte investeringstjenester.\n6. lov 14 juni 1985 nr 68 om oppdrett av skalldyr, fisk m v\n7. lov 10 juni 1988 nr 39 om forsikringsvirksomhet\n8. lov 10 juni 1988 nr 40 om finansieringsvirksomhet\n9. lov 29 juni 1990 nr 50 om produksjon, omforming, overføring, omsetning og fordeling av energi m m (energiloven).\n0 Endret ved lover 7 juni 1996 nr. 25 (i kraft 31 des 1996), 19 juni 1997 nr. 79 (i kraft 1 des 1997).\n1 Lov 19 juni 1997 nr. 79.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I loven betyr:\na. norske foretak: næringsdrivende foretak som er registreringspliktige i Foretaksregisteret,​1 med unntak av utenlandske foretak.\nb. erverv: enhver form for overdragelse herunder kjøp, bytte, gave, leie, erverv ved arv eller skifte, tvangssalg og ekspropriasjon.\nc. eierandeler: aksjer eller andeler i foretak.\n1 Se lov 21 juni 1985 nr. 78.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Hvilke erverv skal meldes",
+      "content": "Ved erverv​1 av eierandeler​2 i et norsk foretak​3 i et slikt antall at erververen derved blir innehaver av mer enn en tredel eller minst en halvdel, eller minst to tredeler av samtlige eierandeler eller av stemmeberettigede eierandeler, skal erverver sende melding til departementet dersom:\n1. foretaket har\na. over 50 ansatte, eller\nb. en omsetning siste år på over 50 millioner kroner, eller\nc. mottatt offentlig støtte til forskning og utvikling på over 5 millioner kroner til minst ett enkeltprosjekt i løpet av de siste 8 år.\n2. foretaket direkte eller indirekte eier mer enn en tredel av samtlige eierandeler eller av stemmeberettigede eierandeler i foretak som nevnt i nr 1.\n3. erververen også har ervervet eierandeler i et slikt antall som angitt innledningsvis i denne paragraf, i andre foretak som tilhører samme konsern, og foretakene til sammen oppfyller betingelsen i nr 1.\nVed erverv av aktiva som innebærer overtakelse av en virksomhet, skal erververen sende melding til departementet dersom virksomheten oppfyller betingelsen i første ledd nr 1.\nDepartementet kan gi utfyllende regler om hvilke erverv som er meldepliktige.\n1 Jfr. § 3, b.\n2 Jfr. § 3, c.\n3 Jfr. § 3, a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Konsolidering av eierandeler",
+      "content": "Meldeplikt inntrer også når to eller flere etter forutgående innbyrdes avtale, blir innehavere av eierandeler​1 eller aktiva som samlet overstiger grensene i § 4.\nVed anvendelse av § 4 skal eierandeler eller aktiva som tilhører følgende personer eller selskap, regnes sammen med erververens egne eierandeler eller aktiva:\na. erververens ektefelle​2 eller person som vedkommende bor sammen med i ekteskapslignende forhold,​3\nb. slektninger i rett oppstigende eller nedstigende linje, samt søsken,\nc. slektninger i rett oppstigende eller nedstigende linje, samt søsken til person nevnt i bokstav a,\nd. selskap innen samme konsern​4 som erververen,\ne. selskap der vedkommende selv eller noen som nevnt i bokstav a-d, har slik innflytelse som nevnt i aksjeloven​5 § 1-3, allmennaksjeloven​6 § 1-3 eller selskapsloven​7 § 1-2 annet ledd,\nf. noen som erververen har forpliktende samarbeid med, når det gjelder å gjøre bruk av rettighetene som aksjonær eller deltager,\ng. et ansvarlig selskap​8 eller et kommandittselskap​9 hvor erververen har eierinteresser.\nDepartementet avgjør i tvilstilfeller om eierandeler eller aktiva som erververen ikke eier, skal likestilles med eget erverv.\n0 Endret ved lov 13 juni 1997 nr. 44 (i kraft 1 jan 1999).\n1 Jfr. § 3, c.\n2 Se lover 4 juli 1991 nr. 47 og 30 april 1993 nr. 40.\n3 Jfr. asl. § 1-5.\n4 Jfr. lov 20 juli 1991 nr. 65 § 1-2 og asl. § 1-2.\n5 Lov 13 juni 1997 nr. 44 (asl.).\n6 Lov 13 juni 1997 nr. 45 (asal.).\n7 Lov 21 juni 1985 nr. 83.\n8 Jfr. lov 20 juli 1991 nr. 65 § 1-2, b.\n9 Jfr. lov 20 juli 1991 nr. 65 § 1-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Omgåelse",
+      "content": "Dersom det foreligger omstendigheter som gjør det sannsynlig at eierandeler​1 eller aktiva er ervervet​2 av en annen enn den formelle erververen, skal rettigheten anses for å tilhøre den antatt reelle erververen.\nDersom det må anses sannsynlig at andre enn erververen har rettigheter som innebærer at erververens rett til å råde over eierandelene eller aktiva, eller rett til å få det økonomiske utbyttet av dem, er vesentlig beskåret, skal eierandelene eller aktiva anses for å tilhøre rettighetshaveren.\n1 Jfr. § 3, c.\n2 Jfr. § 3, b.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Unntak fra meldeplikt på grunn av erververens stilling",
+      "content": "Melding som nevnt i denne lov, er ikke nødvendig når:\na. erververen er eierens ektefelle​1 eller en person som vedkommende bor sammen med i et ekteskapslignende forhold,​2\nb. erververen er beslektet eller besvogret med vedkommende i oppadstigende eller nedadstigende linje eller i første sidelinje til og med barn av søsken,\nc. overdragelsen skjer ved skifte av ekteskapelig felleseie,​3\nd. erverver er staten,\ne. erverver er den fylkeskommune eller kommune, hvor foretaket ligger,\nf. erverver er finans- eller forsikringsinstitusjon​4 og ervervet finner sted for å redde en fordring som er sikret ved pant i aktiva eller eierandeler i foretaket. Den ervervede rettighet må videreselges innen 2 år. Dersom salg ikke har funnet sted innen denne tid, kommer bestemmelsene i § 4 til anvendelse. Ved tvangssalg regnes fristen fra stadfestelsen av budet eller fra tidspunktet for inngåelsen av salgsavtalen.\nEr det tidligere gitt godkjenning for ervervet, skal de fastsatte vilkår også gjelde for den nye erverver.\n1 Se lover 4 juli 1991 nr. 47 og 30 april 1993 nr. 40.\n2 Jfr. asl. § 1-5.\n3 Jfr. lover 4 juli 1991 nr. 47 kap. 12 og 30 april 1993 nr. 40.\n4 Jfr. lov 10 juni 1988 nr. 40.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "3:8",
+      "chapter": "3",
+      "section": "8",
+      "title": "Hvilke opplysninger skal meldes",
+      "content": "Meldingen skal inneholde følgende:\na. kopi av avtalen om ervervet,\nb. informasjon om erververen, herunder beskrivelse av erververs virksomhet, antall ansatte, årsregnskap, årsberetning​1 og firmaattest,\nc. begrunnelsen for og intensjonen med ervervet, herunder investeringsplaner,\nd. ervervets betydning for fremtidig virksomhet og sysselsetting,\ne. kopi av protokoll fra møtet​2 hvor de ansatte ble informert om ervervet,\nf. informasjon om det foretak det er ervervet eierandeler i, eller de aktiva som er ervervet, herunder beskrivelse av virksomheten, antall ansatte, årsregnskap, årsberetning​1 og firmaattest.\nDepartementet kan i tillegg kreve fremlagt andre opplysninger som det anser som nødvendige for å vurdere saken.\n0 Endret ved lov 17 juli 1998 nr. 56 (i kraft 1 jan 1999).\n1 Jfr. lov 17 juli 1998 nr. 56.\n2 Jfr. § 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Frist for innsendelse",
+      "content": "Melding skal sendes departementet innen 30 dager etter at det ble inngått avtale om erverv av eierandeler eller aktiva som nevnt i denne lov, eller erververen ble innehaver av slike eierandeler eller aktiva. Ved tvangssalg regnes fristen fra stadfestelsen av budet eller fra tidspunktet for inngåelse av salgsavtalen. Domstolloven​1 § 146 annet ledd, § 148 første ledd og § 149 gjelder tilsvarende.\nDepartementet kan i særlige tilfeller gi utsettelse med innsendelse av melding.\nNår ytterligere opplysninger er nødvendige, kan det settes frist for innsendelse av slik informasjon.\n1 Lov 13 aug 1915 nr. 5 (dl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "title": "Behandling av meldingen",
+      "content": "Departementet skal ta stilling til ervervet så raskt som mulig.​2 Dersom departementet innen 30 dager etter at melding er mottatt, ikke gir skriftlig underretning om behov for ytterligere informasjon eller at ervervet skal prøves etter kapittel 6, anses ervervet som godkjent.\nDepartementets frist for behandling av meldingen, begynner først å løpe fra det tidspunkt departementet anser meldingen som fullstendig. Domstolloven​3 § 146 annet ledd, § 148 første ledd og § 149 gjelder tilsvarende.\nDersom de ansatte avgir uttalelse i henhold til § 11, forlenges departementets behandlingsfrist med 14 dager.\n1 Jfr. § 23.\n2 Jfr. kap. 6.\n3 Lov 13 aug 1915 nr. 5 (dl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "5:11",
+      "chapter": "5",
+      "section": "11",
+      "title": "Uttalelsesrett",
+      "content": "De ansatte har rett til å uttale seg om ervervet til departementet mens meldingen er til behandling.\nEventuell uttalelse fra de ansatte, må være departementet i hende før utløpet av frist som nevnt i § 10 første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "5:12",
+      "chapter": "5",
+      "section": "12",
+      "title": "Informasjonsplikt",
+      "content": "Erververen plikter å gjøre de ansatte kjent med ervervet og adgangen til å uttale seg til departementet, så tidlig som mulig, og senest før melding sendes.​1 Erververen skal holde et informasjonsmøte med de ansatte og føre protokoll fra møtet.\n1 Jfr. § 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "6:13",
+      "chapter": "6",
+      "section": "13",
+      "title": "Når nærmere prøving kan finne sted",
+      "content": "Dersom departementet har grunn til å anta at ervervet kan ha vesentlige negative virkninger for foretaket, bransjen eller samfunnet for øvrig, herunder sysselsettingsmessige virkninger, kan ervervet undergis nærmere prøving.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "6:14",
+      "chapter": "6",
+      "section": "14",
+      "title": "Ytterligere opplysninger",
+      "content": "Departementet kan når som helst under prøvingsperioden, kreve fremlagt de opplysninger som det anser som nødvendige for å vurdere saken.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "6:15",
+      "chapter": "6",
+      "section": "15",
+      "title": "Høring",
+      "content": "Før departementet tar endelig stilling til et erverv som undergis nærmere prøving, skal de ansatte, samt kommunen og fylkeskommunen hvor foretaket ligger, gis anledning til å uttale seg til departementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "6:16",
+      "chapter": "6",
+      "section": "16",
+      "title": "Godkjenning av erverv",
+      "content": "Med mindre allmenne hensyn taler imot, skal ervervet godkjennes.\nNår godkjenning ikke gis, kan departementet pålegge erververen å avhende de eierandeler eller aktiva som det meldepliktige ervervet omhandlet, innen en nærmere fastsatt frist.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "7:17",
+      "chapter": "7",
+      "section": "17",
+      "title": "Vilkår",
+      "content": "Departementet kan ved godkjenning av ervervet sette de vilkår som er nødvendige av allmenne hensyn. Disse vilkårene kan pålegges erververen, eller det eller de foretak som ervervet gjelder, eller det foretak som skal drive videre den virksomhet som er overtatt.​1\nVilkårene skal bl a ta sikte på å sikre gjennomføringen av de tiltak og planer som er lagt frem av erververen i forbindelse med departementets behandling.\nDet kan også stilles vilkår om at eieren ved beslutning om avvikling av hele eller vesentlige deler av virksomheten, kan pålegges å legge forholdene til rette for overdragelse til reelle interessenter.\nVidere kan det stilles vilkår som tar sikte på å sikre samarbeid mellom ansatte innen samme konsern.\n1 Jfr. § 6 annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "7:18",
+      "chapter": "7",
+      "section": "18",
+      "title": "Kontroll",
+      "content": "Departementet kan foreta de undersøkelser som er nødvendige for å kontrollere overholdelsen av vilkår satt i medhold av § 17, eller at opplysninger som ligger til grunn for godkjenning er korrekte og fulllstendige. Ved avvikling som nevnt i § 17 tredje ledd, kan departementet kreve at det skal avholdes uavhengig takst over verdien av den aktuelle virksomhet.\nDepartementet kan kreve at utgiftene ved kontroll og taksering, som nevnt i første ledd, skal dekkes av den som er pålagt vilkårene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "8:19",
+      "chapter": "8",
+      "section": "19",
+      "title": "Manglende melding eller nekting av erverv",
+      "content": "Dersom frister som nevnt i § 9 er oversittet, kan departementet pålegge erververen en tvangsmulkt som påløper inntil forholdet er brakt i orden. Pålegget om tvangsmulkt er tvangsgrunnlag for utlegg.​1\nVed vesentlig oversittelse av frister som nevnt i § 9, kan departementet pålegge erververen innen en nærmere fastsatt frist å avhende de eierandeler eller aktiva som det meldepliktige erverv omfatter.\nOversittes frist som fastsatt etter andre ledd eller § 16 andre ledd, kan departementet la rettigheten selge gjennom namsmyndighetene etter reglene om tvangssalg så langt de passer. Bestemmelsene i tvangsfullbyrdelseslovens​2 § 11-20 eller § 8-16 om det minste bud som kan stadfestes, gjelder ikke i dette tilfellet.\nAvhendelse etter denne bestemmelsen omfatter samtlige rettigheter som fulgte med ved det meldepliktige erverv, med mindre departementet bestemmer noe annet.\n1 Jfr. tvangsl. § 7-2, e.\n2 Lov 26 juni 1992 nr. 86 (tvangsl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "8:20",
+      "chapter": "8",
+      "section": "20",
+      "title": "Uriktige eller ufullstendige opplysninger",
+      "content": "Dersom det viser seg at godkjenning skyldes uriktige eller ufullstendige opplysninger, eller at prøving er unnlatt av samme grunn, gjelder § 19 andre, tredje og fjerde ledd tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "8:21",
+      "chapter": "8",
+      "section": "21",
+      "title": "Vilkårsbrudd",
+      "content": "Ved overtredelse av vilkår som er satt for godkjenning, kan departementet pålegge den som er blitt pålagt vilkåret en tvangsmulkt som påløper inntil forholdet er brakt i orden. Pålegg om tvangsmulkt er tvangsgrunnlag for utlegget.​1\nVed overtredelse av vilkår av vesentlig betydning gjelder § 19 andre, tredje og fjerde ledd tilsvarende.\n1 Jfr. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "8:22",
+      "chapter": "8",
+      "section": "22",
+      "title": "Straff",
+      "content": "Forsettlig eller uaktsom overtredelse av bestemmelsene i denne lov straffes med bøter.​1 Medvirkning straffes på samme måte.\nStraffansvar etter denne bestemmelse foreldes etter 10 år.\nOffentlig påtale finner bare sted når det er påkrevet av allmenne hensyn.\n1 Jfr. strl. § 27 og kap. 3 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "9:23",
+      "chapter": "9",
+      "section": "23",
+      "title": "Rådighet over eierandeler og aktiva i meldeplikts- og prøvingsperioden",
+      "content": "Før fristen etter § 10 er utløpt eller endelig godkjenning er gitt etter § 16, kan erververen bare foreta rettslige og faktiske disposisjoner over foretakets eller den overtatte virksomhetens aktiva som er i samsvar med forsvarlig drift og ikke vesentlig forringer foretakets eller den overtatte virksomhetens verdi.\nI meldeplikts- og prøvingsperioden som angitt i første ledd, kan ikke erververen utøve andre rettigheter i ervervet foretak enn retten til å heve utbytte for eierandelene og til å utøve fortrinnsrett ved kapitalforhøyelse.\nDepartementet kan gjøre unntak fra denne bestemmelse i det enkelte tilfelle.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "9:24",
+      "chapter": "9",
+      "section": "24",
+      "title": "Ikrafttredelse og forholdet til eldre konsesjoner",
+      "content": "Denne lov trer i kraft 1 januar 1995.\nAvtaler om erverv av eiendomsrett eller annen rettighet inngått før dette tidspunkt, reguleres av lov 14 desember 1917 nr 16 og lov 31 mai 1974 nr 19. Erverv som også vil medføre meldeplikt etter den nye loven, reguleres likevel av denne, når melding om ervervet innkommer departementet etter 1 januar 1995.\nDe vilkår og forutsetninger som er fastsatt i konsesjoner meddelt av Industridepartementet, Næringsdepartementet, Olje- og energidepartementet eller Nærings- og energidepartementet med hjemmel i lov 14 desember 1917 nr 16, eller i lov 31 mai 1974 nr 19 gjelder fortsatt, så langt de ikke er i strid med EØS-avtalen eller andre internasjonale avtaler Norge er forpliktet etter.\nEtter søknad kan departementet oppheve eller endre vilkår og forutsetninger som er fastsatt i konsesjoner som omtalt i annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "9:25",
+      "chapter": "9",
+      "section": "25",
+      "title": "Endringer i annen lovgivning",
+      "content": "Fra den tiden loven trer i kraft gjøres følgende endringer i andre lover:​1\n1 Endringer i lover 14 des 1917 nr 16 om erverv av vannfall, bergverk og annen fast eiendom m v, 31 mai 1974 nr 19 om konsesjon og om forkjøpsrett for det offentlige ved erverv av fast eiendom (konsesjonsloven), 3 juli 1914 nr 5 om erverv av kalkstensforekomster og 17 juni 1949 nr 3 om erverv av kvartsforekomster.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    }
+  ]
+}

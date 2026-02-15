@@ -1,0 +1,95 @@
+{
+  "id": "LOV-1952-06-28-4",
+  "type": "statute",
+  "title": "Lov om kunstig sædoverføring mellom husdyr.",
+  "short_name": "Lov om kunstig sædoverføring mellom husdyr.",
+  "status": "in_force",
+  "issued_date": "1952-06-28",
+  "in_force_date": "1952-06-28",
+  "url": "https://lovdata.no/dokument/NLO/lov/1952-06-28-4",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Dei som vil gjera bruk av kunstig sædoverføring mellom husdyr må​1 berre nytte sæd levert frå stasjon som er godkjend av departementet​2 eller den dette har gjeve fullmakt. For kunstig sædoverføring som vitskapelege institusjonar gjer, gjeld dette likevel ikkje. Ingen må​1 overlate sæd til nokon som han veit eller må forstå vil nytta sæden i strid med lova.\nDen som gjev godkjenning etter første leden kan setja dei vilkår som trengst.\n1 Sjå § 3.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Departementet kan gje føresegner til gjennomføring av denne lova​1 og til kontroll med verksemda. Ein stasjon må ikkje​1 nytte dyr som det syner seg fører skadelege arvefaktorar.\n1 Sjå § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Bryt nokon med vilje eller av aktløyse føresegner gjevne i eller med heimel i denne lova, blir han straffa med bot​1 eller fengsel i opp til tre månader eller med begge desse straffene. Det same gjeld om nokon hjelper til med eller freistar på å bryte dei nemnde føresegnene.\n1 Sjå strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lova tek til å gjelde straks. Stasjonar som da er i drift og som søkjer godkjenning innan ein månad, kan halde fram med drifta til søknaden er avgjord.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Dei som vil gjera bruk av kunstig sædoverføring mellom husdyr må​1 berre nytte sæd levert frå stasjon som er godkjend av departementet​2 eller den dette har gjeve fullmakt. For kunstig sædoverføring som vitskapelege institusjonar gjer, gjeld dette likevel ikkje. Ingen må​1 overlate sæd til nokon som han veit eller må forstå vil nytta sæden i strid med lova.\nDen som gjev godkjenning etter første leden kan setja dei vilkår som trengst.\n1 Sjå § 3.\n2 Landbruksdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Departementet kan gje føresegner til gjennomføring av denne lova​1 og til kontroll med verksemda. Ein stasjon må ikkje​1 nytte dyr som det syner seg fører skadelege arvefaktorar.\n1 Sjå § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Bryt nokon med vilje eller av aktløyse føresegner gjevne i eller med heimel i denne lova, blir han straffa med bot​1 eller fengsel i opp til tre månader eller med begge desse straffene. Det same gjeld om nokon hjelper til med eller freistar på å bryte dei nemnde føresegnene.\n1 Sjå strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Denne lova tek til å gjelde straks. Stasjonar som da er i drift og som søkjer godkjenning innan ein månad, kan halde fram med drifta til søknaden er avgjord.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    }
+  ]
+}

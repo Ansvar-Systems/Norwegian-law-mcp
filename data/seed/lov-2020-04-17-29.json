@@ -1,0 +1,519 @@
+{
+  "id": "LOV-2020-04-17-29",
+  "type": "statute",
+  "title": "Lov om god handelsskikk i dagligvarekjeden",
+  "short_name": "Lov om god handelsskikk i dagligvarekjeden",
+  "status": "in_force",
+  "issued_date": "2020-04-17",
+  "in_force_date": "2021-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2020-04-17-29",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Loven skal bidra til effektiv bruk av samfunnets ressurser og ivareta forbrukernes interesser ved å fremme redelighet, forutberegnelighet og lojalitet i kontraktsforhold mellom næringsdrivende i dagligvarebransjen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Virkeområde",
+      "content": "Loven gjelder for forhandlinger og avtaler om leveranser av dagligvarer\na. som er ment for videresalg til forbrukere gjennom utsalgssteder som har salg av dagligvarer som en vesentlig del av sin virksomhet, eller\nb. for salg til storhusholdning gjennom en part som også leverer dagligvarer til utsalgssteder som nevnt i bokstav a.\nLoven gjelder ikke salg til forbrukere. Loven gjelder heller ikke forhandlinger og avtaler mellom primærprodusenter og industriaktører.\nLoven gjelder for forhandlinger og avtaler som foretas, har virkning eller er egnet til å ha virkning her i riket.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "title": "God handelsskikk",
+      "content": "I forretningsforhold mellom næringsdrivende i dagligvarebransjen skal det ikke foretas handlinger som strider mot god handelsskikk. God handelsskikk skal være basert på redelighet, forutberegnelighet og lojalitet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Krav på opplysninger",
+      "content": "Ved forhandlinger og gjennomføring av avtaler om leveranser av dagligvarer skal hver av partene legge frem opplysninger som de kjenner til, og som de har grunn til å tro er av betydning for den annen part. Dette gjelder ikke informasjon som partene har berettiget grunn til å holde hemmelig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Beskyttelse av partenes investeringer",
+      "content": "Dersom den ene parten i god tro har foretatt investeringer eller andre tiltak i forståelse med den andre parten, må sistnevnte ikke opptre på en måte som er i strid med de berettigede forventningene som har oppstått.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Skriftlighet og klarhet",
+      "content": "Avtaler skal inngås skriftlig og klart beskrive hvilke ytelser partene er forpliktet til å levere. En part kan ikke ensidig endre avtalen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Ansvar for svinn og kundereklamasjoner",
+      "content": "Avtalen skal regulere ansvar for svinn og kundereklamasjoner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Delisting og oppsigelse",
+      "content": "Avtalen skal inneholde frister for varsling av delisting av produkter og for oppsigelse av avtaleforholdet. Delisting skal varsles selv om avtalen ellers fastsetter tidsrom for når delisting kan finne sted. Delisting krever saklig grunn. Delisting skal begrunnes skriftlig når en avtalepart krever det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Vern mot etterligninger",
+      "content": "Næringsdrivende i dagligvarebransjen må ikke anvende etterlignende kjennetegn, produkter, kataloger, reklamemidler eller andre frambringelser på slik måte og under slike omstendigheter at det må anses som en urimelig utnyttelse av en annens innsats eller resultater og fører med seg fare for forveksling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Trusler",
+      "content": "Næringsdrivende i dagligvarebransjen må ikke benytte ord og handlinger som er egnet til å fremkalle alvorlig frykt, for eksempel trusler om utilbørlige represalier eller spredning av usann informasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Dagligvaretilsynets organisasjon og oppgaver",
+      "content": "Dagligvaretilsynet fører tilsyn med at bestemmelsene i denne loven overholdes. Det gir veiledning og informasjon om loven og kontrollerer at lovens påbud og forbud overholdes.\nDagligvaretilsynet kan gi pålegg etter § 12 og treffe vedtak etter §§ 15 til 17, som kan påklages til Markedsrådet etter § 18.\nDagligvaretilsynet skal legge vekt på hensynet til forbrukerne ved håndhevingen av loven.\nDagligvaretilsynet er et uavhengig forvaltningsorgan som er administrativt underordnet departementet. Dagligvaretilsynet ledes av en direktør utnevnt av Kongen i statsråd.\nDagligvaretilsynet kan ikke instrueres om behandlingen av enkeltsaker eller gis generelle instrukser om hvordan myndighet etter loven skal utøves.\nKongen eller departementet kan ikke omgjøre Dagligvaretilsynets vedtak.\n0 Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Opplysningsplikt",
+      "content": "Enhver har plikt til å gi Dagligvaretilsynet og Markedsrådet de opplysninger som disse myndigheter krever for å kunne utføre sine gjøremål etter loven. Opplysningene kan kreves gitt skriftlig eller muntlig innen en fastsatt frist, og kan nedtegnes og lagres som lydopptak. Dagligvaretilsynet og Markedsrådet kan også kreve utlevert alle typer informasjon og bærere av slik informasjon for gransking.\nTaushetsplikten som følger av lov, pålegg eller avtale, er ikke til hinder for opplysningsplikten eller retten til å foreta gransking etter første ledd. Dette gjelder likevel ikke opplysninger, informasjon eller bærere av informasjon som er omfattet av taushetsplikten som nevnt i straffeprosessloven §§ 117 til 120.\n0 Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Taushetsplikt og beskyttelse av kilder",
+      "content": "Enhver som utfører tjeneste eller arbeid for Dagligvaretilsynet eller Markedsrådet, plikter å hindre at andre får adgang eller kjennskap til det vedkommende i forbindelse med tjenesten eller arbeidet får vite om identiteten til den som gir tips om overtredelse av §§ 3 til 10 og tilhørende forskrifter.\nTaushetsplikten gjelder også overfor sakens parter og deres representanter.\n0 Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Veiledning og dialog",
+      "content": "Dagligvaretilsynet skal gi informasjon om loven og veiledning i enkeltsaker.\nTilsynet skal av eget tiltak, eller etter henvendelse, søke å påvirke næringsdrivende til å innrette seg etter loven.\nHvis Dagligvaretilsynet finner at en eller flere av bestemmelsene i §§ 3 til 10 eller tilhørende forskrifter er overtrådt, kan det kreve en skriftlig bekreftelse på at det ulovlige forholdet skal opphøre eller treffe vedtak etter § 15.\n0 Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Vedtak om overtredelse av §§ 3 til 10",
+      "content": "Dersom tiltak etter § 14 annet ledd ikke er tilstrekkelig for å sikre at en eller flere av bestemmelsene i §§ 3 til 10 overholdes, kan Dagligvaretilsynet treffe vedtak om påbud og forbud som er nødvendige for å sikre overholdelse.\nDagligvaretilsynet kan også treffe vedtak som stadfester at det har skjedd en overtredelse av en eller flere av bestemmelsene i §§ 3 til 10.\n0 Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Tvangsmulkt",
+      "content": "For å sikre at pålegg etter § 12 eller vedtak etter § 15 første ledd overholdes, kan det fastsettes tvangsmulkt til staten inntil forholdet er rettet.\nEndelig vedtak om betaling av tvangsmulkt er tvangsgrunnlag for utlegg.\n0 Endret ved lov 4 mars 2022 nr. 7 (i kraft 22 juni 2022 iflg. res. 22 juni 2022 nr. 1143).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Vedtak om overtredelsesgebyr",
+      "content": "Dagligvaretilsynet kan ilegge overtredelsesgebyr ved overtredelse av vedtak etter § 15 første ledd.\nVed avgjørelsen av om det skal ilegges overtredelsesgebyr og ved utmålingen av dette, gjelder forvaltningsloven § 46. I tillegg skal tilsynet legge vekt på mulige skadevirkninger for forbrukerne.\nEndelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.\n0 Endret ved lov 4 mars 2022 nr. 7 (i kraft 22 juni 2022 iflg. res. 22 juni 2022 nr. 1143). Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Markedsrådets kompetanse",
+      "content": "Klager over vedtak etter §§ 15, 16 og 17 samt andre avgjørelser som kan påklages etter forvaltningsloven og offentleglova, behandles av Markedsrådet.\nMarkedsrådet kan ikke av eget tiltak omgjøre Dagligvaretilsynets vedtak. Markedsrådet kan kun omgjøre egne vedtak som må anses ugyldige.\n0 Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Domstolsprøving",
+      "content": "Søksmål om Dagligvaretilsynets eller Markedsrådets vedtak skal rettes mot staten ved Dagligvaretilsynet. Søksmålet må reises innen tre måneder etter at underretning om vedtaket er mottatt eller fra vedkommende fikk eller burde ha fått kunnskap om vedtaket.\n0 Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Forskrifter",
+      "content": "Kongen kan gi forskrifter om\na. lovens anvendelse på Svalbard, og fastsette særlige regler av hensyn til de stedlige forholdene,\nb. avgrensning av virkeområdet og presisering av adferdsnormene i §§ 4 til 9,\nc. dagligvaremyndighetenes organisering og saksbehandling,\nd. nærmere regler om opplysningsplikt og gransking,\ne. nærmere regler om ileggelse av tvangsmulkt,\nf. utmåling av overtredelsesgebyr, og\ng. innføring av EØS-regelverk om forretningspraksis for dagligvarebransjen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Ikrafttredelse og overgangsregler",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer.\nDagligvaretilsynet kan bare treffe vedtak om avtaler eller handlinger som har funnet sted etter at loven har trådt i kraft.\n0 Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).\n1 Loven trer i kraft 1. januar 2021 iflg. res. 21 des 2020 nr. 2887.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Loven skal bidra til effektiv bruk av samfunnets ressurser og ivareta forbrukernes interesser ved å fremme redelighet, forutberegnelighet og lojalitet i kontraktsforhold mellom næringsdrivende i dagligvarebransjen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Virkeområde",
+      "content": "Loven gjelder for forhandlinger og avtaler om leveranser av dagligvarer\na. som er ment for videresalg til forbrukere gjennom utsalgssteder som har salg av dagligvarer som en vesentlig del av sin virksomhet, eller\nb. for salg til storhusholdning gjennom en part som også leverer dagligvarer til utsalgssteder som nevnt i bokstav a.\nLoven gjelder ikke salg til forbrukere. Loven gjelder heller ikke forhandlinger og avtaler mellom primærprodusenter og industriaktører.\nLoven gjelder for forhandlinger og avtaler som foretas, har virkning eller er egnet til å ha virkning her i riket.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "title": "God handelsskikk",
+      "content": "I forretningsforhold mellom næringsdrivende i dagligvarebransjen skal det ikke foretas handlinger som strider mot god handelsskikk. God handelsskikk skal være basert på redelighet, forutberegnelighet og lojalitet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Krav på opplysninger",
+      "content": "Ved forhandlinger og gjennomføring av avtaler om leveranser av dagligvarer skal hver av partene legge frem opplysninger som de kjenner til, og som de har grunn til å tro er av betydning for den annen part. Dette gjelder ikke informasjon som partene har berettiget grunn til å holde hemmelig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Beskyttelse av partenes investeringer",
+      "content": "Dersom den ene parten i god tro har foretatt investeringer eller andre tiltak i forståelse med den andre parten, må sistnevnte ikke opptre på en måte som er i strid med de berettigede forventningene som har oppstått.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Skriftlighet og klarhet",
+      "content": "Avtaler skal inngås skriftlig og klart beskrive hvilke ytelser partene er forpliktet til å levere. En part kan ikke ensidig endre avtalen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Ansvar for svinn og kundereklamasjoner",
+      "content": "Avtalen skal regulere ansvar for svinn og kundereklamasjoner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Delisting og oppsigelse",
+      "content": "Avtalen skal inneholde frister for varsling av delisting av produkter og for oppsigelse av avtaleforholdet. Delisting skal varsles selv om avtalen ellers fastsetter tidsrom for når delisting kan finne sted. Delisting krever saklig grunn. Delisting skal begrunnes skriftlig når en avtalepart krever det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Vern mot etterligninger",
+      "content": "Næringsdrivende i dagligvarebransjen må ikke anvende etterlignende kjennetegn, produkter, kataloger, reklamemidler eller andre frambringelser på slik måte og under slike omstendigheter at det må anses som en urimelig utnyttelse av en annens innsats eller resultater og fører med seg fare for forveksling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Trusler",
+      "content": "Næringsdrivende i dagligvarebransjen må ikke benytte ord og handlinger som er egnet til å fremkalle alvorlig frykt, for eksempel trusler om utilbørlige represalier eller spredning av usann informasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Dagligvaretilsynets organisasjon og oppgaver",
+      "content": "Dagligvaretilsynet fører tilsyn med at bestemmelsene i denne loven overholdes. Det gir veiledning og informasjon om loven og kontrollerer at lovens påbud og forbud overholdes.\nDagligvaretilsynet kan gi pålegg etter § 12 og treffe vedtak etter §§ 15 til 17, som kan påklages til Markedsrådet etter § 18.\nDagligvaretilsynet skal legge vekt på hensynet til forbrukerne ved håndhevingen av loven.\nDagligvaretilsynet er et uavhengig forvaltningsorgan som er administrativt underordnet departementet. Dagligvaretilsynet ledes av en direktør utnevnt av Kongen i statsråd.\nDagligvaretilsynet kan ikke instrueres om behandlingen av enkeltsaker eller gis generelle instrukser om hvordan myndighet etter loven skal utøves.\nKongen eller departementet kan ikke omgjøre Dagligvaretilsynets vedtak.\n0 Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Opplysningsplikt",
+      "content": "Enhver har plikt til å gi Dagligvaretilsynet og Markedsrådet de opplysninger som disse myndigheter krever for å kunne utføre sine gjøremål etter loven. Opplysningene kan kreves gitt skriftlig eller muntlig innen en fastsatt frist, og kan nedtegnes og lagres som lydopptak. Dagligvaretilsynet og Markedsrådet kan også kreve utlevert alle typer informasjon og bærere av slik informasjon for gransking.\nTaushetsplikten som følger av lov, pålegg eller avtale, er ikke til hinder for opplysningsplikten eller retten til å foreta gransking etter første ledd. Dette gjelder likevel ikke opplysninger, informasjon eller bærere av informasjon som er omfattet av taushetsplikten som nevnt i straffeprosessloven §§ 117 til 120.\n0 Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Taushetsplikt og beskyttelse av kilder",
+      "content": "Enhver som utfører tjeneste eller arbeid for Dagligvaretilsynet eller Markedsrådet, plikter å hindre at andre får adgang eller kjennskap til det vedkommende i forbindelse med tjenesten eller arbeidet får vite om identiteten til den som gir tips om overtredelse av §§ 3 til 10 og tilhørende forskrifter.\nTaushetsplikten gjelder også overfor sakens parter og deres representanter.\n0 Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Veiledning og dialog",
+      "content": "Dagligvaretilsynet skal gi informasjon om loven og veiledning i enkeltsaker.\nTilsynet skal av eget tiltak, eller etter henvendelse, søke å påvirke næringsdrivende til å innrette seg etter loven.\nHvis Dagligvaretilsynet finner at en eller flere av bestemmelsene i §§ 3 til 10 eller tilhørende forskrifter er overtrådt, kan det kreve en skriftlig bekreftelse på at det ulovlige forholdet skal opphøre eller treffe vedtak etter § 15.\n0 Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Vedtak om overtredelse av §§ 3 til 10",
+      "content": "Dersom tiltak etter § 14 annet ledd ikke er tilstrekkelig for å sikre at en eller flere av bestemmelsene i §§ 3 til 10 overholdes, kan Dagligvaretilsynet treffe vedtak om påbud og forbud som er nødvendige for å sikre overholdelse.\nDagligvaretilsynet kan også treffe vedtak som stadfester at det har skjedd en overtredelse av en eller flere av bestemmelsene i §§ 3 til 10.\n0 Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Tvangsmulkt",
+      "content": "For å sikre at pålegg etter § 12 eller vedtak etter § 15 første ledd overholdes, kan det fastsettes tvangsmulkt til staten inntil forholdet er rettet.\nEndelig vedtak om betaling av tvangsmulkt er tvangsgrunnlag for utlegg.\n0 Endret ved lov 4 mars 2022 nr. 7 (i kraft 22 juni 2022 iflg. res. 22 juni 2022 nr. 1143).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Vedtak om overtredelsesgebyr",
+      "content": "Dagligvaretilsynet kan ilegge overtredelsesgebyr ved overtredelse av vedtak etter § 15 første ledd.\nVed avgjørelsen av om det skal ilegges overtredelsesgebyr og ved utmålingen av dette, gjelder forvaltningsloven § 46. I tillegg skal tilsynet legge vekt på mulige skadevirkninger for forbrukerne.\nEndelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.\n0 Endret ved lov 4 mars 2022 nr. 7 (i kraft 22 juni 2022 iflg. res. 22 juni 2022 nr. 1143). Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Markedsrådets kompetanse",
+      "content": "Klager over vedtak etter §§ 15, 16 og 17 samt andre avgjørelser som kan påklages etter forvaltningsloven og offentleglova, behandles av Markedsrådet.\nMarkedsrådet kan ikke av eget tiltak omgjøre Dagligvaretilsynets vedtak. Markedsrådet kan kun omgjøre egne vedtak som må anses ugyldige.\n0 Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Domstolsprøving",
+      "content": "Søksmål om Dagligvaretilsynets eller Markedsrådets vedtak skal rettes mot staten ved Dagligvaretilsynet. Søksmålet må reises innen tre måneder etter at underretning om vedtaket er mottatt eller fra vedkommende fikk eller burde ha fått kunnskap om vedtaket.\n0 Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Forskrifter",
+      "content": "Kongen kan gi forskrifter om\na. lovens anvendelse på Svalbard, og fastsette særlige regler av hensyn til de stedlige forholdene,\nb. avgrensning av virkeområdet og presisering av adferdsnormene i §§ 4 til 9,\nc. dagligvaremyndighetenes organisering og saksbehandling,\nd. nærmere regler om opplysningsplikt og gransking,\ne. nærmere regler om ileggelse av tvangsmulkt,\nf. utmåling av overtredelsesgebyr, og\ng. innføring av EØS-regelverk om forretningspraksis for dagligvarebransjen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Ikrafttredelse og overgangsregler",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer.\nDagligvaretilsynet kan bare treffe vedtak om avtaler eller handlinger som har funnet sted etter at loven har trådt i kraft.\n0 Endres ved lov 22 des 2025 nr. 129 (i kraft fra den tid Kongen bestemmer).\n1 Loven trer i kraft 1. januar 2021 iflg. res. 21 des 2020 nr. 2887.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    }
+  ]
+}

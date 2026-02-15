@@ -1,0 +1,375 @@
+{
+  "id": "LOV-2020-05-29-59",
+  "type": "statute",
+  "title": "Lov om redaksjonell uavhengighet og ansvar i redaktørstyrte journalistiske medier (medieansvarsloven)",
+  "short_name": "Medieansvarsloven",
+  "status": "in_force",
+  "issued_date": "2020-05-29",
+  "in_force_date": "2020-07-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2020-05-29-59",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Loven skal legge til rette for en åpen og opplyst offentlig samtale gjennom å sikre redaksjonell uavhengighet og etablere klare ansvarsforhold for innhold som blir publisert i redaktørstyrte journalistiske medier.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Virkeområde",
+      "content": "Loven gjelder for medier som driver regelmessig journalistisk produksjon og publisering av nyheter, aktualitetsstoff, samfunnsdebatt eller annet innhold av allmenn interesse.\nLoven gjelder ikke for medier som har markedsføring som hovedformål.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I denne lov forstås med\na. redaktør: fysisk person som treffer avgjørelse om innholdet i mediet eller om del av dette.\nb. utgiver: fysisk eller juridisk person som i egenskap av eier har det økonomiske og administrative ansvaret for å utgi mediet.\nc. redaksjonelt innhold: ytring som er publisert under redaktørens ledelse og kontroll. Markedsføring regnes ikke som redaksjonelt innhold.\nd. brukergenerert innhold: ytring som en mediebruker har publisert utenfor redaktørens ledelse og kontroll.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Plikt til å utpeke redaktør",
+      "content": "Utgiver av et medium som er omfattet av loven plikter å utpeke redaktør for mediet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Opplysningsplikt",
+      "content": "Redaktøren skal sørge for at det er opplyst i mediet hvem som er redaktør.\nRedaktøren skal sørge for at mediebrukerne har tilgang til navn, adresse, elektronisk postadresse og øvrige opplysninger som gjør det mulig å komme i direkte kontakt med mediet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Plikter knyttet til brukergenerert innhold",
+      "content": "Redaktøren skal sørge for å holde brukergenerert innhold klart adskilt fra redaksjonelt innhold i mediet og opplyse om hvilket innhold som er brukergenerert.\nDersom mediet har regler for brukergenerert innhold, skal redaktøren opplyse om reglene og hvordan de håndheves.\nRedaktøren skal tilrettelegge for varsling om ulovlig brukergenerert innhold. Dersom brukergenerert innhold fjernes eller tilgangen til innholdet sperres fordi det anses ulovlig, skal redaktøren så langt det er mulig varsle ytreren og opplyse om klagemuligheter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Redaksjonell uavhengighet",
+      "content": "Redaktøren skal innenfor rammen av mediets grunnsyn og formål lede den redaksjonelle virksomheten og ta avgjørelser i redaksjonelle spørsmål.\nUtgiver, eier eller øvrig selskapsledelse kan ikke instruere eller overprøve redaktøren i redaksjonelle spørsmål, og kan heller ikke kreve å få gjøre seg kjent med skrift, tekst eller bilde, eller høre eller se programmateriale, før det blir gjort allment tilgjengelig.\nBestemmelsene i første og andre ledd kan ikke fravikes gjennom avtale eller annet rettsgrunnlag til ugunst for redaktøren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "4:8",
+      "chapter": "4",
+      "section": "8",
+      "title": "Hovedregel om straff- og erstatningsansvar",
+      "content": "Den som ytrer seg eller medvirker til publisering av en ytring, er straffe- og erstatningsrettslig ansvarlig for innholdet etter lovgivningens alminnelige regler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "4:9",
+      "chapter": "4",
+      "section": "9",
+      "title": "Redaktørens særlige straffansvar for redaksjonelt innhold og markedsføring",
+      "content": "Redaktøren er strafferettslig ansvarlig for publisering av redaksjonelt innhold og markedsføring dersom det ville pådratt redaktøren straffansvar etter noen annen lovbestemmelse om han eller hun hadde kjent til innholdet.\nDersom redaktøren godtgjør at han eller hun ikke kan lastes for manglende kontroll med innholdet eller ledelse av redaksjonen, kan redaktøren ikke holdes ansvarlig etter første ledd.\nStraff etter første ledd er bot eller fengsel inntil seks måneder. Det kan ikke idømmes strengere straff enn etter den lovbestemmelse som ville ha vært anvendelig om redaktøren hadde kjent til innholdet.\nMedvirkning straffes ikke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "title": "Redaktørens særlige erstatningsansvar for redaksjonelt innhold og markedsføring",
+      "content": "Redaktøren er erstatningsansvarlig for publisering av redaksjonelt innhold og markedsføring etter skadeserstatningsloven §§ 3-6 og 3-6 a, som om han eller hun hadde kjent til innholdet.\nDette gjelder likevel ikke dersom redaktøren godtgjør at han eller hun ikke kan lastes for manglende kontroll med innholdet eller ledelse av redaksjonen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "Eier eller utgivers erstatningsansvar",
+      "content": "Er noen som har handlet i tjenesten til en eier eller utgiver av mediet erstatningsansvarlig etter skadeserstatningsloven §§ 3-6 eller 3-6 a, hefter også eieren eller utgiveren for erstatningen. Det samme gjelder oppreisning, med mindre retten av særlige grunner fritar dem. Eieren eller utgiveren kan også pålegges slik ytterligere oppreisning som retten finner rimelig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Straffe- og erstatningsrettslig ansvarsfrihet for medienes tekniske medvirkere",
+      "content": "Den som på vegne av et medium bare har medvirket til å utbre en ytring ved teknisk forberedelse, framstilling eller distribusjon av mediet, kan ikke straffes for dette.\nMedvirkere som nevnt i første ledd kan heller ikke ilegges erstatningsansvar etter skadeserstatningsloven §§ 3-6 eller 3-6 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Straff- og erstatningsansvar for brukergenerert innhold",
+      "content": "Redaktøren, eller den som handler på vegne av redaktøren, kan bare straffes for ulovlig brukergenerert innhold i mediet dersom han eller hun har utvist forsett. For å holdes erstatningsansvarlig, må han eller hun ha utvist grov uaktsomhet.\nRedaktøren, eller den som handler på vegne av redaktøren, kan ikke holdes ansvarlig etter første ledd dersom han eller hun uten ugrunnet opphold etter at vilkårene for ansvar forelå, treffer nødvendige tiltak for å fjerne eller sperre tilgangen til den ulovlige ytringen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "5:14",
+      "chapter": "5",
+      "section": "14",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid​1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.\nFra den tid loven trer i kraft, oppheves lov 13. juni 2008 nr. 41 om redaksjonell fridom i media.\n1 Fra 1 juli 2020 iflg. res. 29 mai 2020 nr. 1107.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Loven skal legge til rette for en åpen og opplyst offentlig samtale gjennom å sikre redaksjonell uavhengighet og etablere klare ansvarsforhold for innhold som blir publisert i redaktørstyrte journalistiske medier.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Virkeområde",
+      "content": "Loven gjelder for medier som driver regelmessig journalistisk produksjon og publisering av nyheter, aktualitetsstoff, samfunnsdebatt eller annet innhold av allmenn interesse.\nLoven gjelder ikke for medier som har markedsføring som hovedformål.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Definisjoner",
+      "content": "I denne lov forstås med\na. redaktør: fysisk person som treffer avgjørelse om innholdet i mediet eller om del av dette.\nb. utgiver: fysisk eller juridisk person som i egenskap av eier har det økonomiske og administrative ansvaret for å utgi mediet.\nc. redaksjonelt innhold: ytring som er publisert under redaktørens ledelse og kontroll. Markedsføring regnes ikke som redaksjonelt innhold.\nd. brukergenerert innhold: ytring som en mediebruker har publisert utenfor redaktørens ledelse og kontroll.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Plikt til å utpeke redaktør",
+      "content": "Utgiver av et medium som er omfattet av loven plikter å utpeke redaktør for mediet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Opplysningsplikt",
+      "content": "Redaktøren skal sørge for at det er opplyst i mediet hvem som er redaktør.\nRedaktøren skal sørge for at mediebrukerne har tilgang til navn, adresse, elektronisk postadresse og øvrige opplysninger som gjør det mulig å komme i direkte kontakt med mediet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Plikter knyttet til brukergenerert innhold",
+      "content": "Redaktøren skal sørge for å holde brukergenerert innhold klart adskilt fra redaksjonelt innhold i mediet og opplyse om hvilket innhold som er brukergenerert.\nDersom mediet har regler for brukergenerert innhold, skal redaktøren opplyse om reglene og hvordan de håndheves.\nRedaktøren skal tilrettelegge for varsling om ulovlig brukergenerert innhold. Dersom brukergenerert innhold fjernes eller tilgangen til innholdet sperres fordi det anses ulovlig, skal redaktøren så langt det er mulig varsle ytreren og opplyse om klagemuligheter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "3:7",
+      "chapter": "3",
+      "section": "7",
+      "title": "Redaksjonell uavhengighet",
+      "content": "Redaktøren skal innenfor rammen av mediets grunnsyn og formål lede den redaksjonelle virksomheten og ta avgjørelser i redaksjonelle spørsmål.\nUtgiver, eier eller øvrig selskapsledelse kan ikke instruere eller overprøve redaktøren i redaksjonelle spørsmål, og kan heller ikke kreve å få gjøre seg kjent med skrift, tekst eller bilde, eller høre eller se programmateriale, før det blir gjort allment tilgjengelig.\nBestemmelsene i første og andre ledd kan ikke fravikes gjennom avtale eller annet rettsgrunnlag til ugunst for redaktøren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "4:8",
+      "chapter": "4",
+      "section": "8",
+      "title": "Hovedregel om straff- og erstatningsansvar",
+      "content": "Den som ytrer seg eller medvirker til publisering av en ytring, er straffe- og erstatningsrettslig ansvarlig for innholdet etter lovgivningens alminnelige regler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "4:9",
+      "chapter": "4",
+      "section": "9",
+      "title": "Redaktørens særlige straffansvar for redaksjonelt innhold og markedsføring",
+      "content": "Redaktøren er strafferettslig ansvarlig for publisering av redaksjonelt innhold og markedsføring dersom det ville pådratt redaktøren straffansvar etter noen annen lovbestemmelse om han eller hun hadde kjent til innholdet.\nDersom redaktøren godtgjør at han eller hun ikke kan lastes for manglende kontroll med innholdet eller ledelse av redaksjonen, kan redaktøren ikke holdes ansvarlig etter første ledd.\nStraff etter første ledd er bot eller fengsel inntil seks måneder. Det kan ikke idømmes strengere straff enn etter den lovbestemmelse som ville ha vært anvendelig om redaktøren hadde kjent til innholdet.\nMedvirkning straffes ikke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "4:10",
+      "chapter": "4",
+      "section": "10",
+      "title": "Redaktørens særlige erstatningsansvar for redaksjonelt innhold og markedsføring",
+      "content": "Redaktøren er erstatningsansvarlig for publisering av redaksjonelt innhold og markedsføring etter skadeserstatningsloven §§ 3-6 og 3-6 a, som om han eller hun hadde kjent til innholdet.\nDette gjelder likevel ikke dersom redaktøren godtgjør at han eller hun ikke kan lastes for manglende kontroll med innholdet eller ledelse av redaksjonen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "Eier eller utgivers erstatningsansvar",
+      "content": "Er noen som har handlet i tjenesten til en eier eller utgiver av mediet erstatningsansvarlig etter skadeserstatningsloven §§ 3-6 eller 3-6 a, hefter også eieren eller utgiveren for erstatningen. Det samme gjelder oppreisning, med mindre retten av særlige grunner fritar dem. Eieren eller utgiveren kan også pålegges slik ytterligere oppreisning som retten finner rimelig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Straffe- og erstatningsrettslig ansvarsfrihet for medienes tekniske medvirkere",
+      "content": "Den som på vegne av et medium bare har medvirket til å utbre en ytring ved teknisk forberedelse, framstilling eller distribusjon av mediet, kan ikke straffes for dette.\nMedvirkere som nevnt i første ledd kan heller ikke ilegges erstatningsansvar etter skadeserstatningsloven §§ 3-6 eller 3-6 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Straff- og erstatningsansvar for brukergenerert innhold",
+      "content": "Redaktøren, eller den som handler på vegne av redaktøren, kan bare straffes for ulovlig brukergenerert innhold i mediet dersom han eller hun har utvist forsett. For å holdes erstatningsansvarlig, må han eller hun ha utvist grov uaktsomhet.\nRedaktøren, eller den som handler på vegne av redaktøren, kan ikke holdes ansvarlig etter første ledd dersom han eller hun uten ugrunnet opphold etter at vilkårene for ansvar forelå, treffer nødvendige tiltak for å fjerne eller sperre tilgangen til den ulovlige ytringen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "5:14",
+      "chapter": "5",
+      "section": "14",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid​1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.\nFra den tid loven trer i kraft, oppheves lov 13. juni 2008 nr. 41 om redaksjonell fridom i media.\n1 Fra 1 juli 2020 iflg. res. 29 mai 2020 nr. 1107.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    }
+  ]
+}

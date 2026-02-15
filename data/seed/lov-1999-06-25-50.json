@@ -1,0 +1,235 @@
+{
+  "id": "LOV-1999-06-25-50",
+  "type": "statute",
+  "title": "Lov om standarder ved overføring av fjernsynssignaler.",
+  "short_name": "Lov om fjernsynssignaler – TVsignl.",
+  "status": "in_force",
+  "issued_date": "1999-06-25",
+  "in_force_date": "1999-07-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1999-06-25-50",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Lovens formål er å gjennomføre reglene i Europaparlaments- og rådsdirektiv 95/47/EF av 24. oktober 1995 om standarder for overføring av fjernsynssignaler i norsk rett, og å\na. fremme en hurtig utvikling av avanserte fjernsynstjenester, herunder fjernsynstjenester for bredskjerm, fjernsynstjenester med høy oppløsning og fjernsynstjenester basert på helt ut digitale overføringssystemer\nb. lette overføringen av allerede eksisterende fjernsynstjenester for bredskjerm i digitale nett som er åpne for allmennheten, og på denne måten vareta interessene til operatører og fjernsynsseere som har investert for å kunne produsere eller motta disse tjenestene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Standarder for overføring av fjernsynssignaler m.v.",
+      "content": "For alle fjernsynstjenester som overføres til fjernsynsseere via kabel-, satellitt- eller bakkebaserte systemer gjelder følgende:\na. Dersom de er i bredskjermformat og basert på 625 linjer og ikke helt ut er digitale, skal overføringssystemet D2-MAC i skjermformatet 16:9 som er helt forenlig med PAL eller SECAM, benyttes.\nEn fjernsynstjeneste for bredskjermformat består av programmer som produseres og redigeres for visning i bredskjermformat.\nFormatet 16:9 er referanseformatet for fjernsynstjenester for bredskjerm.\nb. Dersom de er med høy oppløsning og ikke helt ut er digitale, anvendes overføringssystemet HD-MAC.\nc. Dersom de er helt ut digitale, anvendes et overføringssystem som bygger på standarder utarbeidet av et anerkjent europeisk standardiseringsorgan. I denne forbindelse omfatter et overføringssystem følgende elementer: Behandling av programsignaler (kildekoding av lydsignaler og videosignaler samt multipleksing av signaler) og tilpassing til overføringsmedier (kanalkoding, modulasjon, eventuelt også energifordeling).\nHelt ut digitale overføringsnett som er åpne for allmennheten for distribusjon av fjernsynstjenester skal være i stand til å distribuere tjenester i bredskjermformat.\nFjernsynstjenester for bredskjerm i formatet 16:9 som definert i første ledd og som mottas og videresendes i kabelnett, skal videresendes i minimum bredskjermformatet 16:9.\nMed kabelnett forstås i tredje ledd kabelnett med egen hovedsentral og mer enn 10.000 aktive tilkoplinger. Kongen kan i forskrift fastsette en lavere grense og gjøre unntak for kravet om egen hovedsentral.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Teknisk innretning av fjernsynsapparater",
+      "content": "Fjernsynsapparater med skjerm som målt diagonalt er større enn 42 cm, og som markedsføres for salg eller utleie, skal være utstyrt med minst én kontakt for åpent grensesnitt. Dette skal baseres på standarder utarbeidet av et anerkjent europeisk standardiseringsorgan slik at det er enkelt å kople til ytre enheter, særlig ytterligere dekodere og digitale mottakere.\nFjernsynsapparater med integrert, digital dekoder skal​1 kunne utstyres med minst én standardisert kontakt som gjør det mulig å kople den digitale dekoderen til adgangskontrollsystem basert på kort og andre elementer som er spesifikke for digitale fjernsynstjenester.\n1 Se § 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Teknisk innretning av digitale dekodere og adgangskontrollsystemer​1",
+      "content": "Alt forbrukerutstyr som selges, leies ut eller på annen måte gjøres tilgjengelig, og som kan dekode digitale fjernsynssignaler, skal kunne\na. dekode signaler basert på den felles europeiske maskeringsmetoden som administreres av et anerkjent europeisk standardiseringsorgan,\nb. gjengi signaler som er overført ukodet, forutsatt at leieren, hvis utstyret er leid, overholder gjeldende leieavtale.\nAdgangskontrollsystemer som anvendes på markedet, skal teknisk sett kunne gjøre det mulig å foreta en kostnadseffektiv adgangskontroll ved kabelnettets hovedstasjon, slik at kabeloperatører på lokalt og regionalt plan har full kontroll over de tjenester som bruker slike adgangskontrollsystemer.\n1 Se § 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Krav til operatører av adgangskontrolltjenester m.v.​1",
+      "content": "Operatører av adgangskontrollsystemer som produserer og markedsfører tjenester for adgang til digitale fjernsynstjenester skal, uavhengig av hvordan fjernsynssignalene overføres\na. på rettferdige, rimelige og ikke-diskriminerende vilkår tilby alle kringkastingsselskaper tekniske tjenester som gjør det mulig for fjernsynsseere som har mottatt dekoder fra operatørene, å motta kringkastingsselskapenes fjernsynstjenester,\nb. føre separat finansregnskap for virksomheten som operatør av adgangskontrolltjenester.\nKringkastingsselskapene skal offentliggjøre en prisliste til bruk for fjernsynsseerne, og denne listen skal ta hensyn til om det leveres tilhørende utstyr eller ikke.\n1 Se § 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Krav til innehavere av industriell eiendomsrett til adgangskontrollsystemer og -produkter​1",
+      "content": "Når innehavere av industriell eiendomsrett​2 til adgangskontrollsystemer eller -produkter gir lisens til produsenter av forbrukerutstyr, skal det skje på rettferdige, rimelige og ikke-diskriminerende vilkår.​3\nRettighetshaverne skal ikke sette tekniske eller kommersielle vilkår for lisensieringen som forbyr eller på annen måte forhindrer at produktet utstyres med\na. et felles grensesnitt som gjør det mulig å kople til flere andre adgangssystemer enn det foreliggende, eller\nb. utstyr som er spesifikt for et annet adgangssystem, forutsatt at lisenstakeren oppfyller relevante og rimelige vilkår som for hans del ivaretar sikkerheten for transaksjoner utført av operatører av adgangskontrollsystemer.\n1 Se § 7.\n2 Se lover 15 des 1967 nr. 9, 29 mai 1970 nr. 33.\n3 Jfr. lov 11 juni 1993 nr. 66 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Tvisteløsning",
+      "content": "Kongen gir forskrifter​1 om tvisteløsning som gjelder anvendelsen av §§ 3 andre ledd, 4, 5 og 6.\n1 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Tilsyn og kontroll",
+      "content": "Post- og teletilsynet fører tilsyn og kontroll med overholdelsen av bestemmelsene i denne lov.\nKongen kan i forskrift​1 fastsette nærmere regler om tilsyn og kontroll med overholdelsen av loven og gebyrer til dekning av utgifter i forbindelse med kontroll m.v.\n1 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Tekniske forskrifter",
+      "content": "Post- og teletilsynet​1 kan fastsette tekniske forskrifter​2 for å utfylle bestemmelsene i denne lov.\n1 Jfr. lov 23 juni 1995 nr. 39 kap. 7.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.\n0 Fra 1 juli 1999 iflg. res. 25 juni 1999 nr. 703.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Lovens formål er å gjennomføre reglene i Europaparlaments- og rådsdirektiv 95/47/EF av 24. oktober 1995 om standarder for overføring av fjernsynssignaler i norsk rett, og å\na. fremme en hurtig utvikling av avanserte fjernsynstjenester, herunder fjernsynstjenester for bredskjerm, fjernsynstjenester med høy oppløsning og fjernsynstjenester basert på helt ut digitale overføringssystemer\nb. lette overføringen av allerede eksisterende fjernsynstjenester for bredskjerm i digitale nett som er åpne for allmennheten, og på denne måten vareta interessene til operatører og fjernsynsseere som har investert for å kunne produsere eller motta disse tjenestene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Standarder for overføring av fjernsynssignaler m.v.",
+      "content": "For alle fjernsynstjenester som overføres til fjernsynsseere via kabel-, satellitt- eller bakkebaserte systemer gjelder følgende:\na. Dersom de er i bredskjermformat og basert på 625 linjer og ikke helt ut er digitale, skal overføringssystemet D2-MAC i skjermformatet 16:9 som er helt forenlig med PAL eller SECAM, benyttes.\nEn fjernsynstjeneste for bredskjermformat består av programmer som produseres og redigeres for visning i bredskjermformat.\nFormatet 16:9 er referanseformatet for fjernsynstjenester for bredskjerm.\nb. Dersom de er med høy oppløsning og ikke helt ut er digitale, anvendes overføringssystemet HD-MAC.\nc. Dersom de er helt ut digitale, anvendes et overføringssystem som bygger på standarder utarbeidet av et anerkjent europeisk standardiseringsorgan. I denne forbindelse omfatter et overføringssystem følgende elementer: Behandling av programsignaler (kildekoding av lydsignaler og videosignaler samt multipleksing av signaler) og tilpassing til overføringsmedier (kanalkoding, modulasjon, eventuelt også energifordeling).\nHelt ut digitale overføringsnett som er åpne for allmennheten for distribusjon av fjernsynstjenester skal være i stand til å distribuere tjenester i bredskjermformat.\nFjernsynstjenester for bredskjerm i formatet 16:9 som definert i første ledd og som mottas og videresendes i kabelnett, skal videresendes i minimum bredskjermformatet 16:9.\nMed kabelnett forstås i tredje ledd kabelnett med egen hovedsentral og mer enn 10.000 aktive tilkoplinger. Kongen kan i forskrift fastsette en lavere grense og gjøre unntak for kravet om egen hovedsentral.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Teknisk innretning av fjernsynsapparater",
+      "content": "Fjernsynsapparater med skjerm som målt diagonalt er større enn 42 cm, og som markedsføres for salg eller utleie, skal være utstyrt med minst én kontakt for åpent grensesnitt. Dette skal baseres på standarder utarbeidet av et anerkjent europeisk standardiseringsorgan slik at det er enkelt å kople til ytre enheter, særlig ytterligere dekodere og digitale mottakere.\nFjernsynsapparater med integrert, digital dekoder skal​1 kunne utstyres med minst én standardisert kontakt som gjør det mulig å kople den digitale dekoderen til adgangskontrollsystem basert på kort og andre elementer som er spesifikke for digitale fjernsynstjenester.\n1 Se § 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Teknisk innretning av digitale dekodere og adgangskontrollsystemer​1",
+      "content": "Alt forbrukerutstyr som selges, leies ut eller på annen måte gjøres tilgjengelig, og som kan dekode digitale fjernsynssignaler, skal kunne\na. dekode signaler basert på den felles europeiske maskeringsmetoden som administreres av et anerkjent europeisk standardiseringsorgan,\nb. gjengi signaler som er overført ukodet, forutsatt at leieren, hvis utstyret er leid, overholder gjeldende leieavtale.\nAdgangskontrollsystemer som anvendes på markedet, skal teknisk sett kunne gjøre det mulig å foreta en kostnadseffektiv adgangskontroll ved kabelnettets hovedstasjon, slik at kabeloperatører på lokalt og regionalt plan har full kontroll over de tjenester som bruker slike adgangskontrollsystemer.\n1 Se § 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Krav til operatører av adgangskontrolltjenester m.v.​1",
+      "content": "Operatører av adgangskontrollsystemer som produserer og markedsfører tjenester for adgang til digitale fjernsynstjenester skal, uavhengig av hvordan fjernsynssignalene overføres\na. på rettferdige, rimelige og ikke-diskriminerende vilkår tilby alle kringkastingsselskaper tekniske tjenester som gjør det mulig for fjernsynsseere som har mottatt dekoder fra operatørene, å motta kringkastingsselskapenes fjernsynstjenester,\nb. føre separat finansregnskap for virksomheten som operatør av adgangskontrolltjenester.\nKringkastingsselskapene skal offentliggjøre en prisliste til bruk for fjernsynsseerne, og denne listen skal ta hensyn til om det leveres tilhørende utstyr eller ikke.\n1 Se § 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Krav til innehavere av industriell eiendomsrett til adgangskontrollsystemer og -produkter​1",
+      "content": "Når innehavere av industriell eiendomsrett​2 til adgangskontrollsystemer eller -produkter gir lisens til produsenter av forbrukerutstyr, skal det skje på rettferdige, rimelige og ikke-diskriminerende vilkår.​3\nRettighetshaverne skal ikke sette tekniske eller kommersielle vilkår for lisensieringen som forbyr eller på annen måte forhindrer at produktet utstyres med\na. et felles grensesnitt som gjør det mulig å kople til flere andre adgangssystemer enn det foreliggende, eller\nb. utstyr som er spesifikt for et annet adgangssystem, forutsatt at lisenstakeren oppfyller relevante og rimelige vilkår som for hans del ivaretar sikkerheten for transaksjoner utført av operatører av adgangskontrollsystemer.\n1 Se § 7.\n2 Se lover 15 des 1967 nr. 9, 29 mai 1970 nr. 33.\n3 Jfr. lov 11 juni 1993 nr. 66 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Tvisteløsning",
+      "content": "Kongen gir forskrifter​1 om tvisteløsning som gjelder anvendelsen av §§ 3 andre ledd, 4, 5 og 6.\n1 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Tilsyn og kontroll",
+      "content": "Post- og teletilsynet fører tilsyn og kontroll med overholdelsen av bestemmelsene i denne lov.\nKongen kan i forskrift​1 fastsette nærmere regler om tilsyn og kontroll med overholdelsen av loven og gebyrer til dekning av utgifter i forbindelse med kontroll m.v.\n1 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Tekniske forskrifter",
+      "content": "Post- og teletilsynet​1 kan fastsette tekniske forskrifter​2 for å utfylle bestemmelsene i denne lov.\n1 Jfr. lov 23 juni 1995 nr. 39 kap. 7.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Ikrafttredelse",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer.\n0 Fra 1 juli 1999 iflg. res. 25 juni 1999 nr. 703.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    }
+  ]
+}

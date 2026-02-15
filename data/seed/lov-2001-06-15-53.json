@@ -1,0 +1,615 @@
+{
+  "id": "LOV-2001-06-15-53",
+  "type": "statute",
+  "title": "Lov om erstatning ved pasientskader mv. (pasientskadeloven)",
+  "short_name": "Pasientskadeloven – passkl",
+  "status": "in_force",
+  "issued_date": "2001-06-15",
+  "in_force_date": "2003-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2001-06-15-53",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Pasientskade",
+      "content": "Denne loven gjelder skader som er voldt\na. i institusjon under spesialisthelsetjenesten og den kommunale helse- og omsorgstjenesten.\nb. under ambulansetransport, eller\nc. av helsepersonell som yter helsehjelp i henhold til offentlig autorisasjon eller lisens, personer som opptrer på vegne av disse, personer som har rett til å utøve yrke som helsepersonell midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning eller andre personer som er fastsatt i forskrift. Loven gjelder også skader voldt av helsepersonell i forbindelse med helserelatert behandling etter lov 27. juni 2003 nr. 64 om alternativ behandling av sykdom mv. § 2 tredje ledd, som ytes i tilknytning til ordinær helsehjelp, som en integrert og sammenhengende del av behandlingen.\nSlike skader regnes som pasientskader dersom de er voldt under veiledning, undersøkelse, diagnostisering, behandling, ekspedisjon av legemidler fra apotek, pleie, vaksinasjon, prøvetaking, analyse av prøver, røntgen, forebygging av helseskader, medisinsk forsøksvirksomhet samt donasjon av organer, blod og vev.\nKongen kan i forskrift bestemme hva som skal regnes som institusjon under den kommunale helse- og omsorgstjenesten.\n0 Endret ved lover 9 mai 2008 nr. 33 (ikr. 1 nov 2008 iflg. res. 17 okt 2008 nr. 1125), 24 juni 2011 nr. 30 (ikr. 1 apr 2014 iflg. res. 21 mars 2014 nr. 305), 21 mars 2014 nr. 7 (ikr. 1 apr 2014 iflg. res. 21 mars 2014 nr. 306), 16 juni 2017 nr. 53 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 762).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Erstatning for pasientskade",
+      "content": "Pasienten og andre som har lidt tap på grunn av pasientskade, har krav på erstatning når skaden skyldes\na. svikt ved ytelsen av helsehjelp, selv om ingen kan lastes,\nb. teknisk svikt ved apparat, redskap eller annet utstyr som er brukt ved ytelsen av helsehjelp,\nc. smitte eller infeksjon, når dette ikke i hovedsak skyldes pasientens tilstand eller sykdom,\nd. vaksinasjon, eller\ne. forhold som medfører ansvar for helse- og omsorgstjenesten eller helsepersonell etter alminnelige erstatningsregler.\nDet skal tas hensyn til om de krav skadelidte med rimelighet kan stille til virksomheten eller tjenesten på skadetidspunktet, er tilsidesatt. Utilstrekkelige ressurser skal ikke medføre ansvar dersom ressursfordelingen har vært forsvarlig og virksomheten i alminnelighet holder en forsvarlig standard.\nSelv om det ikke foreligger grunnlag for erstatningsansvar etter første og annet ledd, kan det unntaksvis ytes erstatning når det har skjedd en pasientskade som er særlig stor eller særlig uventet, og som ikke kan anses som utslag av en risiko som pasienten må akseptere. Det skal legges vekt på om det er gitt tilstrekkelig informasjon på forhånd.\nKongen kan bestemme at erstatningskrav i henhold til konvensjoner som Norge er forpliktet av, skal behandles som krav etter denne loven.\n0 Endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Uoppklarte årsaksforhold",
+      "content": "Dersom årsaken til en skade på en pasient ikke kan bringes på det rene, og skaden sannsynligvis skyldes ytre påvirkning på en pasient under behandlingen, skal det normalt antas at skaden skyldes feil eller svikt ved ytelsen av helsehjelp.\nVed erstatning som følge av skade etter anbefalte eller påbudte vaksinasjoner etter lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer, gjelder retten til erstatning etter § 2 første ledd bokstav d med mindre den ansvarlige godtgjør at en eller flere andre årsaker er mer sannsynlige.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Andre erstatningsregler",
+      "content": "For tapsutmåling, skadelidtes medvirkning mv. gjelder lov 13. juni 1969 nr. 26 om skadeserstatning og alminnelige erstatningsrettslige regler. Erstatning (oppreisning) for skade av ikke-økonomisk art etter skadeserstatningsloven § 3-5 og tap under 10.000 kroner erstattes likevel ikke etter loven her. Departementet kan gi forskrifter om beregning av menerstatning i pasientskadesaker som utfyller eller avviker fra reglene i skadeserstatningsloven § 3-2.\nSkader som faller inn under dekningsområdet til lov 16. juni 1989 nr. 65 om yrkesskadeforsikring § 10 kan ikke kreves erstattet etter loven her.\nLoven er ikke til hinder for at erstatningskrav gjøres gjeldende overfor andre enn Norsk Pasientskadeerstatning. Krav som kan fremmes etter loven her, kan likevel ikke fremmes mot staten, regionale helseforetak, helseforetak, fylkeskommuner og kommuner. Regress kan bare kreves mot den som selv har voldt skaden forsettlig eller som har unnlatt å betale tilskudd etter § 8.\n0 Endret ved lover 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611), 18 des 2015 nr. 121 (ikr. 1 jan 2016, se lovens del XI), 29 mai 2020 nr. 56 (ikr. 29 mai 2020 iflg. res. 29 mai 2020 nr. 1100).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Foreldelse",
+      "content": "Krav etter denne loven foreldes etter lov 18. mai 1979 nr. 18 om foreldelse av fordringer. Foreldelsen avbrytes ved at kravet meldes etter § 9. Slik melding avbryter ikke foreldelsesfristen av erstatningskrav mot andre enn Norsk Pasientskadeerstatning.\n0 Endret ved lov 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Norsk Pasientskadeerstatning",
+      "content": "Norsk Pasientskadeerstatning er ansvarlig for skade som kan kreves erstattet etter loven her.\nKongen organiserer og fastsetter nærmere forskrifter om Norsk Pasientskadeerstatning.\n0 Endret ved lov 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:6 a",
+      "chapter": "2",
+      "section": "6 a",
+      "title": "Egenandel",
+      "content": "Kongen kan i forskrift bestemme at skadevolderen skal betale en egenandel i de tilfeller der det tilkjennes erstatning.\n0 Tilføyd ved lov 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6a",
+        "source_heading": "§ 6 a."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Plikt til å betale tilskudd til Norsk Pasientskadeerstatning for den offentlige helse- og omsorgstjenesten",
+      "content": "Staten, regionale helseforetak, fylkeskommuner og kommuner yter tilskudd til Norsk Pasientskadeerstatning for å dekke erstatning for pasientskader voldt i den offentlige helse- og omsorgstjenesten, samt bidrag til driften i samsvar med forskrift gitt av Kongen.\nTil den offentlige helse- og omsorgstjenesten regnes virksomheten til staten, de regionale helseforetakene, helseforetakene, fylkeskommunene eller kommunene. Det samme gjelder virksomhet som drives på oppdrag av eller med driftstilskudd fra noen av disse. Kongen kan i forskrift presisere hva som skal regnes til den offentlige helse- og omsorgstjenesten, herunder gjøre unntak fra første og annet punktum.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Plikt for den som yter helsehjelp utenfor den offentlige helse- og omsorgstjenesten til å melde fra og yte tilskudd til Norsk Pasientskadeerstatning",
+      "content": "Den som utenfor den offentlige helse- og omsorgstjenesten yter helsehjelp som nevnt i § 1, skal melde fra og yte tilskudd til Norsk Pasientskadeerstatning for å dekke erstatning for pasientskader voldt utenfor den offentlige helse- og omsorgstjenesten samt bidrag til driften.\nNærmere bestemmelser om melde- og tilskuddsplikten, om registrering av meldingene og om tilskuddsordningen fastsettes av Kongen i forskrift, herunder kan det fastsettes fritak fra plikten etter første ledd.\nNorsk Pasientskadeerstatning kan fatte vedtak om plikt til å betale tilskudd. Vedtak om tilskuddsplikt er tvangsgrunnlag for utlegg. Kravet inndrives av Innkrevingsmyndigheten.\nDen som unnlater å oppfylle plikten til å melde fra eller plikten til å betale tilskudd til Norsk Pasientskadeerstatning, straffes med bøter eller fengsel inntil 3 måneder. Det samme gjelder den som i meldingen gir feil opplysninger slik at det betales for lavt tilskudd. Medvirkning straffes ikke.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 19 juni 2015 nr. 65 (ikr. 1 okt 2015), 29 mai 2020 nr. 56 (ikr. 29 mai 2020 iflg. res. 29 mai 2020 nr. 1100), 25 april 2025 nr. 12 (i kraft 1 jan 2026 iflg. res. 10 juni 2025 nr. 967).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:8 a",
+      "chapter": "2",
+      "section": "8 a",
+      "title": "Forskrift om forsikring av ansvar for pasientskade",
+      "content": "Kongen kan i forskrift fastsette at tjenesteytere eller nærmere angitte grupper av tjenesteytere kan eller skal tegne forsikring til dekning av ansvaret etter loven her i stedet for at Norsk Pasientskadeerstatning er ansvarlig.\nForskriften kan ha nærmere bestemmelser om blant annet:\na. krav til forsikringsgiver og forsikringsvilkår,\nb. godkjenning av forsikringsgivere og forsikringsvilkår,\nc. mulighet for ansvarsbegrensning i forsikringen og dekning og fordeling av tapet dersom forsikringsplikten ikke er overholdt eller forsikringen viser seg utilstrekkelig, herunder at tapet skal dekkes av de godkjente forsikringsgiverne i fellesskap,\nd. plikt for forsikringsgivere til å bidra til dekning av Pasientskadenemndas driftsutgifter,\ne. bortfall av eller reduksjon i tilskuddsplikt etter § 7 og bortfall av melde- og tilskuddsplikt etter § 8,\nf. hvem som skal behandle krav om erstatning,\ng. fremsetting av krav og saksbehandling, herunder om avgjørelse av erstatningskrav og utbetaling av erstatning,\nh. dekning av advokatutgifter,\ni. mulighet for å anmode Pasientskadenemnda om å overta behandlingen av en sak som ikke er ferdigbehandlet når det er gått to år fra kravet ble meldt,\nj. klagerett og domstolsprøving,\nk. hvem som er ansvarlig ved overgang mellom Norsk Pasientskadeerstatnings ansvar og forsikringsdekning og mellom forsikringsgivere, og\nl. regress.\nDen som unnlater å oppfylle forsikringsplikt fastsatt i medhold av første ledd, straffes med bøter eller fengsel inntil 3 måneder. Medvirkning straffes ikke.\n0 Tilføyd ved lov 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611), endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8a",
+        "source_heading": "§ 8 a."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Fremsetting av krav",
+      "content": "Krav om erstatning for pasientskade meldes skriftlig til Norsk Pasientskadeerstatning. Norsk Pasientskadeerstatning kan i særlige tilfelle tillate at krav om erstatning meldes muntlig. Fremsettes kravet overfor helsepersonell eller helseinstitusjon, skal kravet meldes videre til Norsk Pasientskadeerstatning.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Saksbehandlingen",
+      "content": "Norsk Pasientskadeerstatning utreder saken.\nNorsk Pasientskadeerstatning kan kreve bevisopptak etter domstolloven § 43 annet ledd.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611), 3 mars 2023 nr. 2 (i kraft 1 juli 2023 iflg. res. 3 mars 2023 nr. 289, se endringslovens del V for overgangsregler).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:10 a",
+      "chapter": "3",
+      "section": "10 a",
+      "title": "Innhenting av opplysninger fra andre offentlige og private instanser",
+      "content": "Norsk Pasientskadeerstatning kan uten hinder av taushetsplikt innhente personopplysninger som er nødvendige for utredning av en erstatningssak etter denne loven, fra følgende instanser og personer:\n1. Folkeregistermyndigheten\n2. helse- og omsorgstjenesten, som definert i pasient- og brukerrettighetsloven § 1-3 bokstav d\n3. Arbeids- og velferdsforvaltningen (NAV)\n4. Helfo\n5. Skatteetaten\n6. tilsynsmyndigheter\n7. politiet når det gjelder rapport fra rettsmedisinsk obduksjon\n8. helsepersonell\n9. forsikringsforetak.\nOpplysningene skal gis uten ugrunnet opphold. De kan brukes i behandlingen av pasientskadesaken og kan i den forbindelse også utleveres til sakkyndige.\nMed unntak av nødvendige folkeregisteropplysninger, kan det ikke utleveres taushetsbelagte opplysninger om andre enn skadelidte uten samtykke fra den som har krav på vern om opplysningene. Med skadelidte menes pasienten (primærskadelidte) og andre som søker erstatning for tap som følge av pasientskaden. Opplysninger om andre enn skadelidte i primærskadelidtes pasientjournal kan likevel utleveres dersom primærskadelidte har rett til innsyn i opplysningene etter pasient- og brukerrettighetsloven § 5-1.\nPålegg fra Norsk Pasientskadeerstatning om å utlevere opplysninger kan påklages til Nasjonalt klageorgan for helsetjenesten.\nDen som blir pålagt å gi opplysninger, plikter å gjøre dette uten godtgjøring unntatt i tilfeller hvor det er fastsatt godtgjøring i medhold av andre punktum. Departementet kan gi forskrift om godtgjøring for gjennomgang og utlevering av opplysninger fra pasientjournal.\nBestemmelsene i denne paragrafen gjelder tilsvarende for Pasientskadenemnda og Nasjonalt klageorgan for helsetjenesten i forbindelse med klagebehandling og domstolsprøving etter kapittel 4. Departementet er klageinstans for klager over pålegg om å utlevere opplysninger.\n0 Tilføyd ved lov 22 juni 2018 nr. 58, endret ved lov 3 mars 2023 nr. 2 (i kraft 1 juli 2023 iflg. res. 3 mars 2023 nr. 289, se endringslovens del V for overgangsregler).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10a",
+        "source_heading": "§ 10 a."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Advokatbistand",
+      "content": "Pasientens utgifter til advokathjelp dekkes dersom den som utreder saken har truffet vedtak om det, eller utgiftene må regnes som tap som følge av skaden. Pasienten kan kreve forhåndsavgjørelse fra den som utreder saken om hvilke advokatutgifter som vil bli dekket.\nKongen kan i forskrift gi regler som innebærer begrensninger i forhold til bestemmelsen i første ledd første punktum, herunder om at offentlige salærsatser skal benyttes.\nAdvokaten kan ikke kreve eller motta ytterligere vederlag av pasienten for den del av saken der utgiftene dekkes etter paragrafen her.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611), men endringen opphevet igjen ved lov 19 des 2008 nr. 108 (ikr. 1 apr 2009 iflg. res. 27 mars 2009 nr. 356), 19 des 2008 nr. 108 (ikr. 1 apr 2009 iflg. res. 27 mars 2009 nr. 356).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Avgjørelsen av erstatningskravet",
+      "content": "Når Norsk Pasientskadeerstatning har utredet saken, treffer den vedtak om erstatning skal ytes og om erstatningens størrelse. Vedtaket skal begrunnes og underretning gis partene i samsvar med forvaltningslovens regler. Det skal opplyses at vedtaket kan klages inn for Pasientskadenemnda innen tre uker.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Utbetaling av erstatningen",
+      "content": "Erstatning utbetales så snart som mulig etter at saken er avgjort. Delutbetalinger skal skje så snart det er klart at deler av kravet er uomtvistet eller det av andre grunner er ubetenkelig.\nOm renteplikt gjelder reglene i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m., jf. likevel skadeserstatningsloven § 3-2 a ellevte ledd om renter ved inntektstaperstatning til barn.\n0 Endret ved lov 18 des 2015 nr. 124 (ikr. 1 mars 2018 iflg. res. 16 feb 2018 nr. 235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Forholdet til forvaltningsloven og offentleglova",
+      "content": "Forvaltningsloven og offentleglova gjelder for virksomheten til Norsk Pasientskadeerstatning. Som enkeltvedtak anses avgjørelse om erstatning skal ytes, avgjørelse om erstatningens størrelse, avgjørelse om delutbetaling samt avgjørelse om advokatbistand etter § 11.\n0 Endret ved lov 19 mai 2006 nr. 16 (ikr. 1 jan 2009 iflg. res. 17 okt 2008 nr. 1118).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Klage mv.",
+      "content": "Enkeltvedtak som nevnt i § 14 annet punktum kan påklages til Pasientskadenemnda av den som krever erstatning etter loven her. Klagefristen er tre uker.\nNår en sak ikke er ferdigbehandlet og to år har gått etter at kravet ble meldt, kan Pasientskadenemnda etter anmodning fra den som krever erstatning, beslutte å overta behandlingen av saken.\nAndre enkeltvedtak etter denne loven enn de som er nevnt i første ledd, kan påklages til departementet med mindre Kongen fastsetter et annet klageorgan.\nKongen kan i forskrift gi generelle bestemmelser om Pasientskadenemndas vurdering av anmodning etter annet ledd og om gebyr for klage mv. etter denne bestemmelsen.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Pasientskadenemndas virksomhet og sammensetning m.m.",
+      "content": "Departementet oppnevner leder, nestleder og medlemmer med varamedlemmer til Pasientskadenemnda. Lederen skal ha juridisk embetseksamen eller mastergrad i rettsvitenskap. Funksjonstiden er tre år.\nPasientskadenemnda settes i den enkelte sak som hovedregel med tre medlemmer.\nPasientskadenemndas leder kan bestemme at nemnda i den enkelte sak skal settes med fem medlemmer når sakens vanskelighetsgrad gjør det nødvendig.\nNår Pasientskadenemnda settes med tre medlemmer, skal den ledes av et medlem som har juridisk embetseksamen eller mastergrad i rettsvitenskap. Ett medlem skal være brukerrepresentant og ett medlem skal som hovedregel være medisinsk sakkyndig.\nNår Pasientskadenemnda settes med fem medlemmer, skal den ledes av et medlem som har juridisk embetseksamen eller master i rettsvitenskap. Ett medlem skal være brukerrepresentant. Nemnda settes i tillegg med tre medlemmer som er medisinsk sakkyndige eller har juridisk embetseksamen eller mastergrad i rettsvitenskap.\nPasientskadenemndas leder avgjør sammensetningen av nemnda i den enkelte saken.\nPasientskadenemndas leder kan bestemme at sekretariatet kan treffe avgjørelser på vegne av nemnda.\nKongen kan gi forskrift om nemndas sammensetning og virksomhet.\nUtgiftene til Pasientskadenemndas virksomhet dekkes i samsvar med forskrift gitt av Kongen.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611), 19 des 2008 nr. 108 (ikr. 1 apr 2009 iflg. res. 27 mars 2009 nr. 356), 18 des 2015 nr. 121 (ikr. 1 jan 2016).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Saksbehandlingen i Pasientskadenemnda",
+      "content": "Pasientskadenemnda treffer vedtak med alminnelig flertall. Både flertallets og mindretallets syn skal begrunnes.\nSaksbehandlingsreglene for Norsk Pasientskadeerstatning i kapittel 3 gjelder tilsvarende for Pasientskadenemnda. Forvaltningsloven § 11 d om muntlige konferanser med saksbehandleren gjelder tilsvarende.\nNasjonalt klageorgan for helsetjenesten er sekretariat for nemnda og forbereder nemndas saker.\nNemndas avgjørelser settes i verk av Norsk Pasientskadeerstatning på samme måte som Norsk Pasientskadeerstatnings egne avgjørelser.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611), 18 des 2015 nr. 121 (ikr. 1 jan 2016).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Domstolsprøving",
+      "content": "Den som krever erstatning etter loven her, kan bringe saken inn for domstolene når endelig vedtak i Pasientskadenemnda foreligger. Andre kan ikke bringe saken inn for domstolene. Søksmål reises mot staten ved Pasientskadenemnda. I slike saker har staten alminnelig verneting i Bergen.\nSøksmål må reises innen seks måneder fra det tidspunkt underretning om endelig vedtak i Pasientskadenemnda er kommet fram til vedkommende. Når denne fristen er ute uten at søksmål er reist, har vedtaket samme virkning som rettskraftig dom, og kan fullbyrdes etter reglene for dommer.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611) som endret ved lov 19 des 2008 nr. 108 (ikr. 1 apr 2009 iflg. res. 27 mars 2009 nr. 356), 18 des 2015 nr. 121 (ikr. 1 juli 2018 iflg. res. 6 apr 2018 nr. 553).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Lovens virkeområde",
+      "content": "Loven gjelder skade som voldes i riket med Svalbard. Loven gjelder også skade ved helsetjenester som mottas i utlandet i medhold av pasient- og brukerrettighetsloven § 2-4 a annet ledd bokstav a eller etter annet oppdrag fra norske myndigheter, og som det offentlige helt eller delvis bekoster, herunder behandlingsreiser. Kongen kan bestemme at loven ikke skal gjelde når det ytes helsehjelp her i riket med særskilt liten norsk tilknytning.\n0 Endret ved lover 19 juni 2009 nr. 72 (ikr. 1 jan 2011 iflg. res. 3 des 2010 nr. 1508), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 4 des 2020 nr. 134 (ikr. 1 jan 2021 iflg. res. 4 des 2020 nr. 2622), 28 april 2023 nr. 9 (i kraft 28 april 2023 iflg. res. 28 april 2023 nr. 613).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1 Loven kan settes i kraft særskilt for den offentlige helsetjenesten og for helsehjelp utenfor den offentlige helsetjenesten.\n0 Endret ved lov 20 des 2002 nr. 102 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1624).\n1 Ikr. for den offentlige helsetjenesten fra 1 jan 2003 iflg. res. 20 des 2002 nr. 1623. Etter ikrafttreden av endringslov 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611) gjelder loven også for helsehjelp utenfor den offentlige helsetjenesten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Overgangsregler",
+      "content": "Loven gjelder for skader som er voldt etter lovens ikrafttredelse for henholdsvis offentlig og privat helsetjeneste. Eldre skader behandles etter loven her, men slik at erstatningskravet avgjøres etter\na. regler for midlertidig ordning med pasientskadeerstatning for somatiske sykehus/poliklinikker,\nb. regler for midlertidig ordning med pasientskadeerstatning for psykiatriske sykehus/poliklinikker,\nc. regler for midlertidig ordning med pasientskadeerstatning for kommunelegetjenesten/kommunal legevakt,\nd. lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer § 8-2, slik den lød før opphevelsen ved loven her, og\ne. alminnelig erstatningsrett.\n0 Endret ved lov 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Endringer i andre lover",
+      "content": "– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Pasientskade",
+      "content": "Denne loven gjelder skader som er voldt\na. i institusjon under spesialisthelsetjenesten og den kommunale helse- og omsorgstjenesten.\nb. under ambulansetransport, eller\nc. av helsepersonell som yter helsehjelp i henhold til offentlig autorisasjon eller lisens, personer som opptrer på vegne av disse, personer som har rett til å utøve yrke som helsepersonell midlertidig i Norge uten norsk autorisasjon, lisens eller spesialistgodkjenning eller andre personer som er fastsatt i forskrift. Loven gjelder også skader voldt av helsepersonell i forbindelse med helserelatert behandling etter lov 27. juni 2003 nr. 64 om alternativ behandling av sykdom mv. § 2 tredje ledd, som ytes i tilknytning til ordinær helsehjelp, som en integrert og sammenhengende del av behandlingen.\nSlike skader regnes som pasientskader dersom de er voldt under veiledning, undersøkelse, diagnostisering, behandling, ekspedisjon av legemidler fra apotek, pleie, vaksinasjon, prøvetaking, analyse av prøver, røntgen, forebygging av helseskader, medisinsk forsøksvirksomhet samt donasjon av organer, blod og vev.\nKongen kan i forskrift bestemme hva som skal regnes som institusjon under den kommunale helse- og omsorgstjenesten.\n0 Endret ved lover 9 mai 2008 nr. 33 (ikr. 1 nov 2008 iflg. res. 17 okt 2008 nr. 1125), 24 juni 2011 nr. 30 (ikr. 1 apr 2014 iflg. res. 21 mars 2014 nr. 305), 21 mars 2014 nr. 7 (ikr. 1 apr 2014 iflg. res. 21 mars 2014 nr. 306), 16 juni 2017 nr. 53 (ikr. 1 juli 2017 iflg. res. 16 juni 2017 nr. 762).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Erstatning for pasientskade",
+      "content": "Pasienten og andre som har lidt tap på grunn av pasientskade, har krav på erstatning når skaden skyldes\na. svikt ved ytelsen av helsehjelp, selv om ingen kan lastes,\nb. teknisk svikt ved apparat, redskap eller annet utstyr som er brukt ved ytelsen av helsehjelp,\nc. smitte eller infeksjon, når dette ikke i hovedsak skyldes pasientens tilstand eller sykdom,\nd. vaksinasjon, eller\ne. forhold som medfører ansvar for helse- og omsorgstjenesten eller helsepersonell etter alminnelige erstatningsregler.\nDet skal tas hensyn til om de krav skadelidte med rimelighet kan stille til virksomheten eller tjenesten på skadetidspunktet, er tilsidesatt. Utilstrekkelige ressurser skal ikke medføre ansvar dersom ressursfordelingen har vært forsvarlig og virksomheten i alminnelighet holder en forsvarlig standard.\nSelv om det ikke foreligger grunnlag for erstatningsansvar etter første og annet ledd, kan det unntaksvis ytes erstatning når det har skjedd en pasientskade som er særlig stor eller særlig uventet, og som ikke kan anses som utslag av en risiko som pasienten må akseptere. Det skal legges vekt på om det er gitt tilstrekkelig informasjon på forhånd.\nKongen kan bestemme at erstatningskrav i henhold til konvensjoner som Norge er forpliktet av, skal behandles som krav etter denne loven.\n0 Endret ved lov 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Uoppklarte årsaksforhold",
+      "content": "Dersom årsaken til en skade på en pasient ikke kan bringes på det rene, og skaden sannsynligvis skyldes ytre påvirkning på en pasient under behandlingen, skal det normalt antas at skaden skyldes feil eller svikt ved ytelsen av helsehjelp.\nVed erstatning som følge av skade etter anbefalte eller påbudte vaksinasjoner etter lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer, gjelder retten til erstatning etter § 2 første ledd bokstav d med mindre den ansvarlige godtgjør at en eller flere andre årsaker er mer sannsynlige.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Andre erstatningsregler",
+      "content": "For tapsutmåling, skadelidtes medvirkning mv. gjelder lov 13. juni 1969 nr. 26 om skadeserstatning og alminnelige erstatningsrettslige regler. Erstatning (oppreisning) for skade av ikke-økonomisk art etter skadeserstatningsloven § 3-5 og tap under 10.000 kroner erstattes likevel ikke etter loven her. Departementet kan gi forskrifter om beregning av menerstatning i pasientskadesaker som utfyller eller avviker fra reglene i skadeserstatningsloven § 3-2.\nSkader som faller inn under dekningsområdet til lov 16. juni 1989 nr. 65 om yrkesskadeforsikring § 10 kan ikke kreves erstattet etter loven her.\nLoven er ikke til hinder for at erstatningskrav gjøres gjeldende overfor andre enn Norsk Pasientskadeerstatning. Krav som kan fremmes etter loven her, kan likevel ikke fremmes mot staten, regionale helseforetak, helseforetak, fylkeskommuner og kommuner. Regress kan bare kreves mot den som selv har voldt skaden forsettlig eller som har unnlatt å betale tilskudd etter § 8.\n0 Endret ved lover 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611), 18 des 2015 nr. 121 (ikr. 1 jan 2016, se lovens del XI), 29 mai 2020 nr. 56 (ikr. 29 mai 2020 iflg. res. 29 mai 2020 nr. 1100).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Foreldelse",
+      "content": "Krav etter denne loven foreldes etter lov 18. mai 1979 nr. 18 om foreldelse av fordringer. Foreldelsen avbrytes ved at kravet meldes etter § 9. Slik melding avbryter ikke foreldelsesfristen av erstatningskrav mot andre enn Norsk Pasientskadeerstatning.\n0 Endret ved lov 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Norsk Pasientskadeerstatning",
+      "content": "Norsk Pasientskadeerstatning er ansvarlig for skade som kan kreves erstattet etter loven her.\nKongen organiserer og fastsetter nærmere forskrifter om Norsk Pasientskadeerstatning.\n0 Endret ved lov 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:6 a",
+      "chapter": "2",
+      "section": "6 a",
+      "title": "Egenandel",
+      "content": "Kongen kan i forskrift bestemme at skadevolderen skal betale en egenandel i de tilfeller der det tilkjennes erstatning.\n0 Tilføyd ved lov 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6a",
+        "source_heading": "§ 6 a."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Plikt til å betale tilskudd til Norsk Pasientskadeerstatning for den offentlige helse- og omsorgstjenesten",
+      "content": "Staten, regionale helseforetak, fylkeskommuner og kommuner yter tilskudd til Norsk Pasientskadeerstatning for å dekke erstatning for pasientskader voldt i den offentlige helse- og omsorgstjenesten, samt bidrag til driften i samsvar med forskrift gitt av Kongen.\nTil den offentlige helse- og omsorgstjenesten regnes virksomheten til staten, de regionale helseforetakene, helseforetakene, fylkeskommunene eller kommunene. Det samme gjelder virksomhet som drives på oppdrag av eller med driftstilskudd fra noen av disse. Kongen kan i forskrift presisere hva som skal regnes til den offentlige helse- og omsorgstjenesten, herunder gjøre unntak fra første og annet punktum.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Plikt for den som yter helsehjelp utenfor den offentlige helse- og omsorgstjenesten til å melde fra og yte tilskudd til Norsk Pasientskadeerstatning",
+      "content": "Den som utenfor den offentlige helse- og omsorgstjenesten yter helsehjelp som nevnt i § 1, skal melde fra og yte tilskudd til Norsk Pasientskadeerstatning for å dekke erstatning for pasientskader voldt utenfor den offentlige helse- og omsorgstjenesten samt bidrag til driften.\nNærmere bestemmelser om melde- og tilskuddsplikten, om registrering av meldingene og om tilskuddsordningen fastsettes av Kongen i forskrift, herunder kan det fastsettes fritak fra plikten etter første ledd.\nNorsk Pasientskadeerstatning kan fatte vedtak om plikt til å betale tilskudd. Vedtak om tilskuddsplikt er tvangsgrunnlag for utlegg. Kravet inndrives av Innkrevingsmyndigheten.\nDen som unnlater å oppfylle plikten til å melde fra eller plikten til å betale tilskudd til Norsk Pasientskadeerstatning, straffes med bøter eller fengsel inntil 3 måneder. Det samme gjelder den som i meldingen gir feil opplysninger slik at det betales for lavt tilskudd. Medvirkning straffes ikke.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 19 juni 2015 nr. 65 (ikr. 1 okt 2015), 29 mai 2020 nr. 56 (ikr. 29 mai 2020 iflg. res. 29 mai 2020 nr. 1100), 25 april 2025 nr. 12 (i kraft 1 jan 2026 iflg. res. 10 juni 2025 nr. 967).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:8 a",
+      "chapter": "2",
+      "section": "8 a",
+      "title": "Forskrift om forsikring av ansvar for pasientskade",
+      "content": "Kongen kan i forskrift fastsette at tjenesteytere eller nærmere angitte grupper av tjenesteytere kan eller skal tegne forsikring til dekning av ansvaret etter loven her i stedet for at Norsk Pasientskadeerstatning er ansvarlig.\nForskriften kan ha nærmere bestemmelser om blant annet:\na. krav til forsikringsgiver og forsikringsvilkår,\nb. godkjenning av forsikringsgivere og forsikringsvilkår,\nc. mulighet for ansvarsbegrensning i forsikringen og dekning og fordeling av tapet dersom forsikringsplikten ikke er overholdt eller forsikringen viser seg utilstrekkelig, herunder at tapet skal dekkes av de godkjente forsikringsgiverne i fellesskap,\nd. plikt for forsikringsgivere til å bidra til dekning av Pasientskadenemndas driftsutgifter,\ne. bortfall av eller reduksjon i tilskuddsplikt etter § 7 og bortfall av melde- og tilskuddsplikt etter § 8,\nf. hvem som skal behandle krav om erstatning,\ng. fremsetting av krav og saksbehandling, herunder om avgjørelse av erstatningskrav og utbetaling av erstatning,\nh. dekning av advokatutgifter,\ni. mulighet for å anmode Pasientskadenemnda om å overta behandlingen av en sak som ikke er ferdigbehandlet når det er gått to år fra kravet ble meldt,\nj. klagerett og domstolsprøving,\nk. hvem som er ansvarlig ved overgang mellom Norsk Pasientskadeerstatnings ansvar og forsikringsdekning og mellom forsikringsgivere, og\nl. regress.\nDen som unnlater å oppfylle forsikringsplikt fastsatt i medhold av første ledd, straffes med bøter eller fengsel inntil 3 måneder. Medvirkning straffes ikke.\n0 Tilføyd ved lov 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611), endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8a",
+        "source_heading": "§ 8 a."
+      }
+    },
+    {
+      "provision_ref": "3:9",
+      "chapter": "3",
+      "section": "9",
+      "title": "Fremsetting av krav",
+      "content": "Krav om erstatning for pasientskade meldes skriftlig til Norsk Pasientskadeerstatning. Norsk Pasientskadeerstatning kan i særlige tilfelle tillate at krav om erstatning meldes muntlig. Fremsettes kravet overfor helsepersonell eller helseinstitusjon, skal kravet meldes videre til Norsk Pasientskadeerstatning.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Saksbehandlingen",
+      "content": "Norsk Pasientskadeerstatning utreder saken.\nNorsk Pasientskadeerstatning kan kreve bevisopptak etter domstolloven § 43 annet ledd.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611), 3 mars 2023 nr. 2 (i kraft 1 juli 2023 iflg. res. 3 mars 2023 nr. 289, se endringslovens del V for overgangsregler).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:10 a",
+      "chapter": "3",
+      "section": "10 a",
+      "title": "Innhenting av opplysninger fra andre offentlige og private instanser",
+      "content": "Norsk Pasientskadeerstatning kan uten hinder av taushetsplikt innhente personopplysninger som er nødvendige for utredning av en erstatningssak etter denne loven, fra følgende instanser og personer:\n1. Folkeregistermyndigheten\n2. helse- og omsorgstjenesten, som definert i pasient- og brukerrettighetsloven § 1-3 bokstav d\n3. Arbeids- og velferdsforvaltningen (NAV)\n4. Helfo\n5. Skatteetaten\n6. tilsynsmyndigheter\n7. politiet når det gjelder rapport fra rettsmedisinsk obduksjon\n8. helsepersonell\n9. forsikringsforetak.\nOpplysningene skal gis uten ugrunnet opphold. De kan brukes i behandlingen av pasientskadesaken og kan i den forbindelse også utleveres til sakkyndige.\nMed unntak av nødvendige folkeregisteropplysninger, kan det ikke utleveres taushetsbelagte opplysninger om andre enn skadelidte uten samtykke fra den som har krav på vern om opplysningene. Med skadelidte menes pasienten (primærskadelidte) og andre som søker erstatning for tap som følge av pasientskaden. Opplysninger om andre enn skadelidte i primærskadelidtes pasientjournal kan likevel utleveres dersom primærskadelidte har rett til innsyn i opplysningene etter pasient- og brukerrettighetsloven § 5-1.\nPålegg fra Norsk Pasientskadeerstatning om å utlevere opplysninger kan påklages til Nasjonalt klageorgan for helsetjenesten.\nDen som blir pålagt å gi opplysninger, plikter å gjøre dette uten godtgjøring unntatt i tilfeller hvor det er fastsatt godtgjøring i medhold av andre punktum. Departementet kan gi forskrift om godtgjøring for gjennomgang og utlevering av opplysninger fra pasientjournal.\nBestemmelsene i denne paragrafen gjelder tilsvarende for Pasientskadenemnda og Nasjonalt klageorgan for helsetjenesten i forbindelse med klagebehandling og domstolsprøving etter kapittel 4. Departementet er klageinstans for klager over pålegg om å utlevere opplysninger.\n0 Tilføyd ved lov 22 juni 2018 nr. 58, endret ved lov 3 mars 2023 nr. 2 (i kraft 1 juli 2023 iflg. res. 3 mars 2023 nr. 289, se endringslovens del V for overgangsregler).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10a",
+        "source_heading": "§ 10 a."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "title": "Advokatbistand",
+      "content": "Pasientens utgifter til advokathjelp dekkes dersom den som utreder saken har truffet vedtak om det, eller utgiftene må regnes som tap som følge av skaden. Pasienten kan kreve forhåndsavgjørelse fra den som utreder saken om hvilke advokatutgifter som vil bli dekket.\nKongen kan i forskrift gi regler som innebærer begrensninger i forhold til bestemmelsen i første ledd første punktum, herunder om at offentlige salærsatser skal benyttes.\nAdvokaten kan ikke kreve eller motta ytterligere vederlag av pasienten for den del av saken der utgiftene dekkes etter paragrafen her.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611), men endringen opphevet igjen ved lov 19 des 2008 nr. 108 (ikr. 1 apr 2009 iflg. res. 27 mars 2009 nr. 356), 19 des 2008 nr. 108 (ikr. 1 apr 2009 iflg. res. 27 mars 2009 nr. 356).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Avgjørelsen av erstatningskravet",
+      "content": "Når Norsk Pasientskadeerstatning har utredet saken, treffer den vedtak om erstatning skal ytes og om erstatningens størrelse. Vedtaket skal begrunnes og underretning gis partene i samsvar med forvaltningslovens regler. Det skal opplyses at vedtaket kan klages inn for Pasientskadenemnda innen tre uker.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Utbetaling av erstatningen",
+      "content": "Erstatning utbetales så snart som mulig etter at saken er avgjort. Delutbetalinger skal skje så snart det er klart at deler av kravet er uomtvistet eller det av andre grunner er ubetenkelig.\nOm renteplikt gjelder reglene i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m., jf. likevel skadeserstatningsloven § 3-2 a ellevte ledd om renter ved inntektstaperstatning til barn.\n0 Endret ved lov 18 des 2015 nr. 124 (ikr. 1 mars 2018 iflg. res. 16 feb 2018 nr. 235).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Forholdet til forvaltningsloven og offentleglova",
+      "content": "Forvaltningsloven og offentleglova gjelder for virksomheten til Norsk Pasientskadeerstatning. Som enkeltvedtak anses avgjørelse om erstatning skal ytes, avgjørelse om erstatningens størrelse, avgjørelse om delutbetaling samt avgjørelse om advokatbistand etter § 11.\n0 Endret ved lov 19 mai 2006 nr. 16 (ikr. 1 jan 2009 iflg. res. 17 okt 2008 nr. 1118).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "title": "Klage mv.",
+      "content": "Enkeltvedtak som nevnt i § 14 annet punktum kan påklages til Pasientskadenemnda av den som krever erstatning etter loven her. Klagefristen er tre uker.\nNår en sak ikke er ferdigbehandlet og to år har gått etter at kravet ble meldt, kan Pasientskadenemnda etter anmodning fra den som krever erstatning, beslutte å overta behandlingen av saken.\nAndre enkeltvedtak etter denne loven enn de som er nevnt i første ledd, kan påklages til departementet med mindre Kongen fastsetter et annet klageorgan.\nKongen kan i forskrift gi generelle bestemmelser om Pasientskadenemndas vurdering av anmodning etter annet ledd og om gebyr for klage mv. etter denne bestemmelsen.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "title": "Pasientskadenemndas virksomhet og sammensetning m.m.",
+      "content": "Departementet oppnevner leder, nestleder og medlemmer med varamedlemmer til Pasientskadenemnda. Lederen skal ha juridisk embetseksamen eller mastergrad i rettsvitenskap. Funksjonstiden er tre år.\nPasientskadenemnda settes i den enkelte sak som hovedregel med tre medlemmer.\nPasientskadenemndas leder kan bestemme at nemnda i den enkelte sak skal settes med fem medlemmer når sakens vanskelighetsgrad gjør det nødvendig.\nNår Pasientskadenemnda settes med tre medlemmer, skal den ledes av et medlem som har juridisk embetseksamen eller mastergrad i rettsvitenskap. Ett medlem skal være brukerrepresentant og ett medlem skal som hovedregel være medisinsk sakkyndig.\nNår Pasientskadenemnda settes med fem medlemmer, skal den ledes av et medlem som har juridisk embetseksamen eller master i rettsvitenskap. Ett medlem skal være brukerrepresentant. Nemnda settes i tillegg med tre medlemmer som er medisinsk sakkyndige eller har juridisk embetseksamen eller mastergrad i rettsvitenskap.\nPasientskadenemndas leder avgjør sammensetningen av nemnda i den enkelte saken.\nPasientskadenemndas leder kan bestemme at sekretariatet kan treffe avgjørelser på vegne av nemnda.\nKongen kan gi forskrift om nemndas sammensetning og virksomhet.\nUtgiftene til Pasientskadenemndas virksomhet dekkes i samsvar med forskrift gitt av Kongen.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611), 19 des 2008 nr. 108 (ikr. 1 apr 2009 iflg. res. 27 mars 2009 nr. 356), 18 des 2015 nr. 121 (ikr. 1 jan 2016).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Saksbehandlingen i Pasientskadenemnda",
+      "content": "Pasientskadenemnda treffer vedtak med alminnelig flertall. Både flertallets og mindretallets syn skal begrunnes.\nSaksbehandlingsreglene for Norsk Pasientskadeerstatning i kapittel 3 gjelder tilsvarende for Pasientskadenemnda. Forvaltningsloven § 11 d om muntlige konferanser med saksbehandleren gjelder tilsvarende.\nNasjonalt klageorgan for helsetjenesten er sekretariat for nemnda og forbereder nemndas saker.\nNemndas avgjørelser settes i verk av Norsk Pasientskadeerstatning på samme måte som Norsk Pasientskadeerstatnings egne avgjørelser.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611), 18 des 2015 nr. 121 (ikr. 1 jan 2016).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Domstolsprøving",
+      "content": "Den som krever erstatning etter loven her, kan bringe saken inn for domstolene når endelig vedtak i Pasientskadenemnda foreligger. Andre kan ikke bringe saken inn for domstolene. Søksmål reises mot staten ved Pasientskadenemnda. I slike saker har staten alminnelig verneting i Bergen.\nSøksmål må reises innen seks måneder fra det tidspunkt underretning om endelig vedtak i Pasientskadenemnda er kommet fram til vedkommende. Når denne fristen er ute uten at søksmål er reist, har vedtaket samme virkning som rettskraftig dom, og kan fullbyrdes etter reglene for dommer.\n0 Endret ved lover 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645), 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611) som endret ved lov 19 des 2008 nr. 108 (ikr. 1 apr 2009 iflg. res. 27 mars 2009 nr. 356), 18 des 2015 nr. 121 (ikr. 1 juli 2018 iflg. res. 6 apr 2018 nr. 553).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Lovens virkeområde",
+      "content": "Loven gjelder skade som voldes i riket med Svalbard. Loven gjelder også skade ved helsetjenester som mottas i utlandet i medhold av pasient- og brukerrettighetsloven § 2-4 a annet ledd bokstav a eller etter annet oppdrag fra norske myndigheter, og som det offentlige helt eller delvis bekoster, herunder behandlingsreiser. Kongen kan bestemme at loven ikke skal gjelde når det ytes helsehjelp her i riket med særskilt liten norsk tilknytning.\n0 Endret ved lover 19 juni 2009 nr. 72 (ikr. 1 jan 2011 iflg. res. 3 des 2010 nr. 1508), 24 juni 2011 nr. 30 (ikr. 1 jan 2012 iflg. res. 16 des 2011 nr. 1252), 4 des 2020 nr. 134 (ikr. 1 jan 2021 iflg. res. 4 des 2020 nr. 2622), 28 april 2023 nr. 9 (i kraft 28 april 2023 iflg. res. 28 april 2023 nr. 613).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1 Loven kan settes i kraft særskilt for den offentlige helsetjenesten og for helsehjelp utenfor den offentlige helsetjenesten.\n0 Endret ved lov 20 des 2002 nr. 102 (ikr. 1 jan 2003 iflg. res. 20 des 2002 nr. 1624).\n1 Ikr. for den offentlige helsetjenesten fra 1 jan 2003 iflg. res. 20 des 2002 nr. 1623. Etter ikrafttreden av endringslov 29 juni 2007 nr. 78 (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611) gjelder loven også for helsehjelp utenfor den offentlige helsetjenesten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "title": "Overgangsregler",
+      "content": "Loven gjelder for skader som er voldt etter lovens ikrafttredelse for henholdsvis offentlig og privat helsetjeneste. Eldre skader behandles etter loven her, men slik at erstatningskravet avgjøres etter\na. regler for midlertidig ordning med pasientskadeerstatning for somatiske sykehus/poliklinikker,\nb. regler for midlertidig ordning med pasientskadeerstatning for psykiatriske sykehus/poliklinikker,\nc. regler for midlertidig ordning med pasientskadeerstatning for kommunelegetjenesten/kommunal legevakt,\nd. lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer § 8-2, slik den lød før opphevelsen ved loven her, og\ne. alminnelig erstatningsrett.\n0 Endret ved lov 26 sep 2003 nr. 95 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1645).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Endringer i andre lover",
+      "content": "– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    }
+  ]
+}

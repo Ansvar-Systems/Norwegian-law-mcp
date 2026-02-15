@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1976-04-09-18",
+  "type": "statute",
+  "title": "Lov om internasjonalprivatrettslige lovvalgregler ved produktansvar",
+  "short_name": "Lov om lovvalgregler ved produktansvar",
+  "status": "in_force",
+  "issued_date": "1976-04-09",
+  "in_force_date": "1976-04-09",
+  "url": "https://lovdata.no/dokument/NLO/lov/1976-04-09-18",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Haag-konvensjonen 2 oktober 1973 om den lov som skal gjelde for produktansvar, slik den lyder i offisiell norsk oversetting inntatt i Norsk Lovtidend,​1 gis lovs kraft her i riket, likevel slik at artikkel 8 nr. 9 om foreldelse ikke skal komme til anvendelse.​2\n1 Lovtidend 1976 avd. I nr. 10 side 167.\n2 Jfr. lov 9 april 1976 nr. 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\n1 Fra 1 juli 1976 iflg. res. 9 april 1976.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Haag-konvensjonen 2 oktober 1973 om den lov som skal gjelde for produktansvar, slik den lyder i offisiell norsk oversetting inntatt i Norsk Lovtidend,​1 gis lovs kraft her i riket, likevel slik at artikkel 8 nr. 9 om foreldelse ikke skal komme til anvendelse.​2\n1 Lovtidend 1976 avd. I nr. 10 side 167.\n2 Jfr. lov 9 april 1976 nr. 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1\n1 Fra 1 juli 1976 iflg. res. 9 april 1976.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

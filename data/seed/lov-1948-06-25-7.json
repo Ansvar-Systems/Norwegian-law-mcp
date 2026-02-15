@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1948-06-25-7",
+  "type": "statute",
+  "title": "Lov om preklusiv innkallelse av fordringer på sjøkrigsforsikringsinstitusjoner.",
+  "short_name": "Lov om preklusjon av sjøforsikring.",
+  "status": "in_force",
+  "issued_date": "1948-06-25",
+  "in_force_date": "1948-06-25",
+  "url": "https://lovdata.no/dokument/NLO/lov/1948-06-25-7",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Den Norske Krigsforsikring for Skib – Gjensidig Forening –, A/S Norsk Varekrigsforsikring av 1938, Statens Krigskaskoforsikring, Statens Varekrigsforsikring og Statens krigsforsikring for fiskeflåten skal hver for seg ved sitt styre eller avviklingsstyre være berettiget til med 6 måneders varsel med preklusiv virkning å innkalle enhver fordringshaver til å anmelde og bevisliggjøre sine krav overfor vedkommende institusjon.\nInnkallelsen skal kunngjøres 2 ganger i Norsk Lysingsblad​1 samt i de aviser som bestemmes av vedkommende departement.\nInnkallelsen kan begrenses til fordringer oppstått før et visst tidspunkt.\n1 Se lov 11 okt 1946 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Den Norske Krigsforsikring for Skib – Gjensidig Forening –, A/S Norsk Varekrigsforsikring av 1938, Statens Krigskaskoforsikring, Statens Varekrigsforsikring og Statens krigsforsikring for fiskeflåten skal hver for seg ved sitt styre eller avviklingsstyre være berettiget til med 6 måneders varsel med preklusiv virkning å innkalle enhver fordringshaver til å anmelde og bevisliggjøre sine krav overfor vedkommende institusjon.\nInnkallelsen skal kunngjøres 2 ganger i Norsk Lysingsblad​1 samt i de aviser som bestemmes av vedkommende departement.\nInnkallelsen kan begrenses til fordringer oppstått før et visst tidspunkt.\n1 Se lov 11 okt 1946 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

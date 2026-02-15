@@ -1,0 +1,75 @@
+{
+  "id": "LOV-2024-06-25-55",
+  "type": "statute",
+  "title": "Lov om lønnsnemndbehandling av arbeidstvisten mellom Akademikerne og staten v/ Digitaliserings- og forvaltningsdepartementet og arbeidstvisten mellom Unio og staten v/ Digitaliserings- og forvaltningsdepartementet i forbindelse med Statsoppgjøret 2024",
+  "short_name": "Lov om lønnsnemndbehandling, Akademikerne, Unio",
+  "status": "in_force",
+  "issued_date": "2024-06-25",
+  "in_force_date": "2024-06-25",
+  "url": "https://lovdata.no/dokument/NLO/lov/2024-06-25-55",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Arbeidstvisten mellom Akademikerne og staten v/ Digitaliserings- og forvaltningsdepartementet og arbeidstvisten mellom Unio og staten v/ Digitaliserings- og forvaltningsdepartementet i forbindelse med Statsoppgjøret 2024 skal avgjøres av Rikslønnsnemnda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans, jf. lov 18. juli 1958 nr. 2 om offentlige tjenestetvister (tjenestetvistloven) § 21 for å løse tvistene.\nReglene i lov 27. januar 2012 nr. 10 om lønnsnemnd i arbeidstvister (lønnsnemndloven) får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks. Loven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse​1 i tvistene.\n1 Se Rikslønnsnemndas kjennelser 2/2024 og 3/2024 avsagt 20. november 2024.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Arbeidstvisten mellom Akademikerne og staten v/ Digitaliserings- og forvaltningsdepartementet og arbeidstvisten mellom Unio og staten v/ Digitaliserings- og forvaltningsdepartementet i forbindelse med Statsoppgjøret 2024 skal avgjøres av Rikslønnsnemnda.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbudt å iverksette eller opprettholde arbeidsstans, jf. lov 18. juli 1958 nr. 2 om offentlige tjenestetvister (tjenestetvistloven) § 21 for å løse tvistene.\nReglene i lov 27. januar 2012 nr. 10 om lønnsnemnd i arbeidstvister (lønnsnemndloven) får tilsvarende anvendelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks. Loven opphører å gjelde når Rikslønnsnemnda har avsagt kjennelse​1 i tvistene.\n1 Se Rikslønnsnemndas kjennelser 2/2024 og 3/2024 avsagt 20. november 2024.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

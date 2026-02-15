@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1969-06-13-38",
+  "type": "statute",
+  "title": "Lov om oppskyting av gjenstander fra norsk territorium m.m. ut i verdensrommet",
+  "short_name": "Lov om oppskyting i verdensrommet",
+  "status": "in_force",
+  "issued_date": "1969-06-13",
+  "in_force_date": "1969-06-13",
+  "url": "https://lovdata.no/dokument/NL/lov/1969-06-13-38",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Uten tillatelse fra vedkommende departement er det forbudt å skyte noen gjenstand ut i verdensrommet fra:\na. Norsk territorium, herunder også Svalbard, Jan Mayen og de norske biland.\nb. Norsk fartøy, luftfartøy o.l.\nc. Områder som ikke er undergitt noen stats høyhetsrett, når oppskytingen foretas av norsk statsborger eller person hjemmehørende i Norge.\nDet kan settes bestemte vilkår for slik tillatelse som nevnt i første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Departementet kan gi regler om kontroll m.m. med virksomhet som nevnt i § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Uten tillatelse fra vedkommende departement er det forbudt å skyte noen gjenstand ut i verdensrommet fra:\na. Norsk territorium, herunder også Svalbard, Jan Mayen og de norske biland.\nb. Norsk fartøy, luftfartøy o.l.\nc. Områder som ikke er undergitt noen stats høyhetsrett, når oppskytingen foretas av norsk statsborger eller person hjemmehørende i Norge.\nDet kan settes bestemte vilkår for slik tillatelse som nevnt i første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Departementet kan gi regler om kontroll m.m. med virksomhet som nevnt i § 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

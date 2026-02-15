@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1985-02-08-1",
+  "type": "statute",
+  "title": "Lov om lønsnemndhandsaming av arbeidstvistane ved Norsk Hydro A/S i samband med tariffrevisjonen pr. 31. desember 1984.",
+  "short_name": "Lov om lønsnemnd ved Norsk Hydro A/S",
+  "status": "in_force",
+  "issued_date": "1985-02-08",
+  "in_force_date": "1985-02-08",
+  "url": "https://lovdata.no/dokument/NLO/lov/1985-02-08-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvistane mellom Norsk Arbeidsgiverforening og Norsk Hydro på den eine sida og\n1. Norsk Forbund for Arbeidsledere og Tekniske funksjonærer\n2. Norsk Elektriker- og Kraftstasjonsforbund\n3. Norsk Jernbaneforbund\n4. Norsk Olje- og Petrokjemiforbund\n5. Norges Funksjonærforbund",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbode å iverksetja eller oppretthalda arbeidsstans eller blokade til løysing av tvistane. Reglane i lov 19. desember 1952 nr. 7 om lønsnemnd i arbeidstvistar gjeld tilsvarande.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Lova trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Tvistane mellom Norsk Arbeidsgiverforening og Norsk Hydro på den eine sida og\n1. Norsk Forbund for Arbeidsledere og Tekniske funksjonærer\n2. Norsk Elektriker- og Kraftstasjonsforbund\n3. Norsk Jernbaneforbund\n4. Norsk Olje- og Petrokjemiforbund\n5. Norges Funksjonærforbund",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Det er forbode å iverksetja eller oppretthalda arbeidsstans eller blokade til løysing av tvistane. Reglane i lov 19. desember 1952 nr. 7 om lønsnemnd i arbeidstvistar gjeld tilsvarande.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Lova trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

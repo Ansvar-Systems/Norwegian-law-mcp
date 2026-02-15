@@ -1,0 +1,741 @@
+{
+  "id": "LOV-1938-06-10-3",
+  "type": "statute",
+  "title": "Lov om utskrivning av hester og kjøretøier ved mobilisering.",
+  "short_name": "Lov om utskrivning av hester m.v.",
+  "status": "in_force",
+  "issued_date": "1938-06-10",
+  "in_force_date": "1938-06-10",
+  "url": "https://lovdata.no/dokument/NLO/lov/1938-06-10-3",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Når Hæren eller noen del av den mobiliseres, er eiere av hester og kjøretøier som er skikket til bruk i krig, pliktige til efter reglene i denne lov og mot erstatning av staten å avgi dem til Hæren med det utstyr som er nevnt i § 15.\nMed kjøretøier menes i denne lov hestetrukne hjulkjøretøier og sleder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Kongen bestemmer det største antall hester og kjøretøier som kan utskrives. Dette antall kan være inntil 10 pct. større enn det som er nødvendig efter gjeldende krigsopsetningsplaner, når en legger til grunn den opsetning av Hæren som krever flest hester og kjøretøier.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Det antall hester og kjøretøier som blir fastsatt efter § 2, fordeler Kongen på rikets herreds- og bykommuner forholdsvis efter antallet hester i utskrivningspliktig alder​1 – heri ikke medregnet militære tjenestehester – og antallet av kjøretøier som finnes i kommunen ifølge siste jordbrukstelling. I det antall hester som efter denne fordeling faller på en kommune, fratrekkes antallet av kvarterhester​2 i kommunen.\nNy fordeling skjer efter hver jordbrukstelling og ellers når det finnes påkrevd.\nNår det er nødvendig for mobiliseringen, kan de kommuner som ligger mest bekvemt til, pålegges å avgi flere hester og kjøretøier enn det faller på dem efter første ledd. I så fall nedsettes antallet for de kommuner som ligger minst bekvemt til, slik at enkelte kommuner kan fritas helt for utskriving.\nFor en enkelt kommune må utskrevne hester og kvarterhester tilsammen ikke utgjør mere enn 60 pct. av det hesteantall som efter første ledd skal legges til grunn ved fordelingen. Av kjøretøier må ikke utskrives mere enn 40 pct. av det antall som er nevnt i første ledd.\n1 Se § 8.\n2 Se lov 6 juni 1891 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Ved mobilisering skal det alltid fremstilles på de fastsatte leveringssteder 20 pct. flere hester og kjøretøier enn det skal leveres. Fremkommer det ved beregning av dette tillegg brøkdeler, skjer avrunding opover til nærmeste hele tall.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Vedkommende regjeringsdepartement​1 skal sørge for at hver kommune får meddelelse om det antall hester og kjøretøier som den kan pålegges å fremstille og levere efter §§ 3 og 4, og om den utskrivingsprocent som måtte vært brukt om utskrivingen hadde vært fordelt jevnt på alle rikets kommuner.\n1 Forsvarsdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "Trenger Hæren ved mobilisering færre hester og kjøretøier enn det blir fastsatt efter § 2, skal Kongen sørge for at det bare utskrives det antall som er nødvendig. Det samme gjelder om bare en del av Hæren mobiliseres.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "Når forholdene ved mobiliseringen gjør det nødvendig, kan vedkommende militære myndighet bestemme at det skal utskrives både hjulkjøretøier og sleder samtidig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "content": "De hester som fremstilles til utskriving, skal være i alderen fra og med 5 til og med 16 år og uten mangler som gjør dem uskikket til bruk i krig.\nKvarterhester og militære tjenestehester​1 utskrives ikke. Avlsdyr er fritatt for utskriving i den utstrekning Kongen bestemmer. Kongen kan gi regler om å frita andre hester.\nFor øvrig kan Kongen gi nærmere bestemmelser om de krav hester og kjøretøier som tas ut til utskriving, skal opfylle. En kommune må ikke pålegges å fremstille andre hester og kjøretøier enn en kan regne med at det finnes i kommunen.\n1 Se lov 6 juni 1891 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "content": "Når utskriving efter denne lov har funnet sted, kan Kongen bestemme at det skal foretas en utjevning av de gjenværende hester og kjøretøier i kommunene ved at det avgis hester og kjøretøier fra kommuner som har hatt forholdsvis liten eller ingen utskriving, til kommuner med forholdsvis stor utskrivning. Prisene for de hester og kjøretøier som avgis, fastsattes ved takst. Nærmere regler om taksering og om gjennemføringen av utjevningen for øvrig gis av Kongen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "De herreds- og bykommuner som det skal utskrives hester og kjøretøier fra, plikter å forberede utskrivningen i fred og sette den i verk ved mobilisering efter reglene i denne lov og de forskrifter som blir gitt i medhold av den.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "I de kommuner som er nevnt i § 10, skal kommunestyret velge et kommunalt utvalg på minst 5 medlemmer til å ordne med utskrivingen. Tjenestetiden for medlemmene skal være det samme antall år som bestemt for medlemmer av kommunestyre.​2\nValgbar og pliktig til å motta valg er enhver som er valgbar ved kommunevalg.​3 De som velges, skal så vidt mulig være hestekyndige. Menn som kan bli kalt inn til militærtjeneste ved mobilisering, velges ikke. Gjenvalg kan finne sted. Dog kan et medlem hvis tjenestetid er ute, kreve seg fritatt for den neste periode.\nFormann og nestformann i utvalget velges av kommunestyret. Om mulig skal minst halvparten av utvalgets medlemmer ha vært medlemmer av tidligere utvalg.\n1 Endret ved lov 15 mars 1940 nr. 5.\n2 Se lov 12 nov 1954 nr. 1 § 4.\n3 Se lov 1 mars 1985 nr. 3 § 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "content": "Ved uttaket av de hester og kjøretøier som kommunen i tilfelle skal fremstille til utskriving, skal det kommunale utvalg fordele byrden så likt som mulig i forhold til det antall hester og kjøretøier de enkelte eiere har. Kommunestyret kan fastsette nærmere regler som utvalget skal følge ved uttaket.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "content": "Utvalget skal sette op en liste over de hester og kjøretøier som er tatt ut til å fremstilles ved mobilisering. I listen skal føres op 10 pct. flere hester og kjøretøier enn kommunen kan bli pålagt å fremstille. Ved beregningen av dette tillegg skjer avrunding opover som bestemt i § 4. Listen skal så vidt mulig til enhver tid holdes à-jour.\nEiere av hester og kjøretøier plikter å gi de oplysninger utvalget forlanger til bruk ved opsettingen eller à-jourføringen av listen, og å gi utvalget adgang til å besiktige hester og kjøretøier.\nKommunestyret skal efter forslag fra utvalget fastsette en plan for gjennemføringen av utskrivningen fra kommunen. Ved utarbeiding legges til grunn det største antall hester og kjøretøier som kommunen kan bli pålagt å fremstille.\nKongen gir nærmere regler om opsettingen av lister og planer, om revisjon av dem og om kontroll med at de er til stede og i orden.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "content": "Når utskrivingen skal settes i verk, skal kommunen fremstille på det fastsatte leveringssted så mange hester og kjøretøier som den får tilsigelse om fra vedkommende militæravdeling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "content": "Når utskrivingen skal settes i verk, er eierne pliktige til, mot de godtgjørelser som er nevnt i §§ 26 og 27, å fremstille på det fastsatte samlingssted de hester og kjøretøier utvalget tar ut, å skaffe førere og å bære nødvendige utgifter til skyss og transport og til underhold og husvær for førere og hester under gjennemføringen av utskrivingen.\nHver hest som fremstilles, skal være utstyrt med godt beslag, grime med bindsel, dekken, dekkengjort, én omgang hestesko og fôr for 3 døgn.\nMed hvert kjøretøi som fremstilles, skal foruten vanlig utstyr følge nødvendig seletøi.\nKommunen kan bestemme at utvalget skal skaffe det fôr som er nevnt i annet ledd, og dessuten fôr til bruk under transporten til leveringsstedet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "2:16",
+      "chapter": "2",
+      "section": "16",
+      "content": "På henvendelse fra formannen i det kommunale utvalg eller den som fører en transport av hester og kjøretøier fra samlingssted til leveringssted, skal politimesteren – på landet lensmannen – hjelpe til med å skaffe nødvendig husvær for folk og hester og annet som trenges på samlingsstedet eller under transporten.\nTil dette formål kan politimesteren eller lensmannen mot godtgjørelse rekvirere arbeidshjelp og kreve avstått til bruk eller til eie løs eller fast eiendom av ethvert slag som er nødvendig. Blir godtgjørelsen ikke betalt av eierne av hestene og kjøretøiene (se § 15) eller av den kommune disse hører til, kan den kreves av staten. For husvær i ikke over 48 timer ydes ingen annen godtgjørelse enn erstatning for bevislig skade, tap eller utgifter. For øvrig får reglene i lov av 19 mai 1933 om rekvisisjonsrett for politiet anvendelse så langt de høver.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "2:17",
+      "chapter": "2",
+      "section": "17",
+      "content": "Formenn og nestformenn i kommunale utvalg kan efter nærmere regler fastsatt av vedkommende regjeringsdepartement kalles sammen av militæravdelingene for å få veiledning om sine gjøremål.\nKommunale utvalg og eiere av hester og kjøretøier plikter å medvirke ved gjennomføring av tiltak som Kongen beslutter satt i verk for å kontrollere forberedelsen av utskrivingen.​1 Under iverksettingen av slike tiltak får reglene i § 16 anvendelse så langt de høver.\n1 Se § 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "De deler av riket som det skal utskrives hester og kjøretøier fra, inndeles av Kongen i mønstringsdistrikter.\nFor hvert slikt distrikt skal oppnevnes en mønstringsnevnd på 3 medlemmer med 3 varamenn. Kongen kan bestemme at det skal oppnevnes særskilt nevnd for kjøretøyer.\nFormann i nevnden og varamannen for ham skal fortrinsvis være militære befalingsmenn og beordres eller antas for et kalenderår av den militæravdeling som skal motta hester og kjøretøyer gjennom nevnden. De 2 andre medlemmer med varamenn oppnevnes av den herreds- eller byrett hvis embetskrets mønstringsdistriktet hører til. Deres tjenestetid er den samme som bestemt for medlemmer av kommunestyre.​2\nOmfatter et mønstringsdistrikt deler av flere domsogn,​3 skal vedkommende regjeringsdepartement​4 fastsette hvilken herreds- eller byrett skal foreta oppnevningen.\nDe 4 menn som herreds- eller byretten oppnevner, skal være hestekyndige. Det skal ikke oppnevnes menn som kan bli kalt inn til militærtjeneste ved mobilisering, eller som er oppnevnt som medlemmer eller varamenn i skjønnsnevnd etter lov om militære rekvisjoner i krigstilfelle.​5 De oppnevnte kan ikke nekte å overta vervet. Når et medlems tjenestetid er ute, kan han dog kreve seg fritatt for den neste periode.\n1 Endret ved lov 15 mars 1940 nr. 5.\n2 Se lov 12 nov 1954 nr. 1 § 4.\n3 Se domstolsl. § 22.\n4 Forsvarsdepartementet.\n5 Se lov 29 juni 1951 nr. 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "content": "Når utskrivingen skal settes i verk, skal mønstringsnevnden besiktige de hester og kjøretøier som fremstilles fra distriktet på det bestemte leveringssted, og av dem ta ut og taksere det antall som skal leveres til vedkommende militæravdeling.\nTiden for nevndens fremmøte på leveringsstedet fastsettes av den avdeling som har opnevnt formannen i nevnden.\nVaramennene er pliktige til å avløse medlemmene under forretningen, selv om disse ikke har forfall, når dette bestemmes av militæravdelingen av hensyn til mobiliseringen.\nVedkommende militære myndighet beordrer eller antar en dyrlæge til å bistå nevnden. Dyrlægen har rett til å uttale sig før nevnden treffer sin avgjørelse, og til å få sin uttalelse protokollert. Når det er nødvendig, kan vedkommende militæravdeling bestemme at forretningen skal utføres uten dyrlæge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "content": "Medlem av mønstringsnevnden fratrer som ugild ved behandlingen av hest eller kjøretøi når han selv er eier, eller\n1. er i slekt – eller svogerskap med eieren i op- eller nedstigende linje eller i sidelinjen så nær som søsken,\n2. er eller har vært gift med eller er forlovet med eller er fosterfar eller fosterbarn til eieren,\n3. er verge for eieren.\nNevnden kan bestemme at et medlem skal fratre når det foreligger andre særegne omstendigheter som er egnet til å svekke tilliten til hans uhildethet.\nEt medlem er selv med å avgjøre om han er ugild. Nevndens avgjørelse er endelig.\nNår et medlem fratrer som ugild og de gjenværende medlemmer ikke blir enige, tilkalles varamann.\nNevnden kan bestemme at dyrlægen skal fratre ved behandlingen av hest, når han er i et tilfelle som nevnt i første ledd, eller det foreligger omstendigheter som nevnt i annet ledd.\nNår et medlem eller dyrlægen fratrer som ugild, gjøres merknad i nevndens protokoll.\n1 Jfr. skjønnsprl. § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "content": "Taksten over hestene og kjøretøiene med utstyr skjer på grunnlag av gangbare priser i mønstringsdistriktet.\nEr nevndens medlemmer ikke enige om taksten, gjelder det beløp som får flest stemmer. Er det ikke flertall for noe beløp, gjelder det nest høieste.\nOvertakst finner ikke sted.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "3:22",
+      "chapter": "3",
+      "section": "22",
+      "content": "Godkjenner mønstringsnevnden ikke så mange av de fremstilte hester og kjøretøier som kommunen skal levere, kan nevnden erstatte manglene ved utskriving av skikkede hester og kjøretøier som blir til overs fra andre kommuner som leverer gjennem nevnden. Vedkommende militæravdeling kan også la foreta utskriving av skikkede hester og kjøretøier som er blitt til overs fra kommuner som leverer til avdelingen gjennem andre mønstringsnevnder på samme opsetningssted. Kan en heller ikke på denne måte skaffe det antall kommunen skal levere, må avdelingen kjøpe eller rekvirere det som mangler.\nSkyldes mangelen forsømmelighet av kommunen eller eierne, plikter kommunen å erstatte staten det denne ved utskriving, kjøp eller rekvisisjon efter første ledd har måttet betale over gjennemsnittstaksten for de hester av samme alder og kjøretøier av samme slag kommunen har levert. Er det ikke godkjent noen hester og kjøretøier fra kommunen, beregnes erstatningen på grunnlag av gjennemsnittstaksten for godkjente hester og kjøretøier fra de tilgrensende kommuner.\nKommunen kan søke erstatningen tilbake hos de eiere som ved forsømmelighet måtte ha voldt mangelen ved leveringen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "content": "Staten blir eier av hester og kjøretøier når de er godkjent og taksert av mønstringsnevnden.\nDen tidligere eier har rett til mot tilbakebetaling av takstbeløpet ved utskrivingen å få tilbake hest (kjøretøi) som er i behold ved demobiliseringen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "content": "Ved mobilisering til øvelse har staten rett til å overta hestene og kjøretøiene til bruk istedenfor til eie. I så fall skal de takseres av samme mønstringsnevnd både ved utskrivingen og ved tilbakeleveringen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "content": "De medlemmer av mønstringsnevnden som herreds- eller byretten har oppnevnt, og deres varamenn tilkommer av staten for tjenestgjøring samme godtgjørelse som skjønnslovens § 20 a fastsetter for skjønnsmenn, og for reiser dessuten lovbestemt skyss- og kostgodtgjørelse. Medlem av kommunalt utvalg som møter frem på leveringsstedet, tilkommer skyss- og kostgodtgjørelse av staten.\nBlir medlem av kommunalt utvalg efter § 17 pålagt plikter som medfører reise, tilkommer han skyss- og kostgodtgjørelse av staten.\n1 Endret ved lov 17 des 1982 nr. 86.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "content": "Eier av hest eller kjøretøi som har vært fremstillet på samlingsstedet eller leveringsstedet, tilkommer av staten følgende godtgjørelse.\na. For føreren av hesten eller kjøretøiet:\n1. Skyssgodtgjørelse.\n2. Dagpenger for hver dag føreren har måttet være borte.\nb. For hest og kjøretøi:\n1. Transportgodtgjørelse.\n2. Avsavnsgodtgjørelse for hver dag hesten eller kjøretøiet har måttet være borte, eller som er gått med inntil den (det) blev godkjent av mønstringsnevnden.\n3. Erstatning efter mønstringsnevndens takst dersom hesten eller kjøretøiet leveres til militæravdelingen.\nStørrelsen av de godtgjørelser som er nevnt under a) og b) 1. og 2. fastsettes av Kongen.\nEier hvis hest eller kjøretøi fremstilles på samlings- eller leveringssted, men sendes hjem derfra, tilkommer ingen godtgjørelse, dersom han har forsømt sin fremstillingsplikt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "content": "Er hestene og kjøretøiene bare overtatt til bruk (se § 24), gjelder om godtgjørelsen for hest eller kjøretøi:\nGår hest eller kjøretøi tapt eller dør hesten innen tilbakelevering har funnet sted, betales det fulle takstbeløp som erstatning. Blir hesten eller kjøretøiet skadet, betales som erstatning forskjellen mellem taksten ved utskrivingen og ved tilbakeleveringen. Finner nevnden at skaden er så stor at verdien av hesten eller kjøretøiet er vesentlig forringet, betales dog det fulle takstbeløp som erstatning, med mindre eieren ønsker å få hesten eller kjøretøiet tilbake mot erstatning efter foregående punktum. Hvor det fulle takstbeløp blir utbetalt, blir hesten eller kjøretøiet statens eiendom.\nAvsavnsgodtgjørelsen for hest og kjøretøi skal være det dobbelte av avsavnsgodtgjørelsen efter § 26.\nEr hesten ikke i brukbar stand ved tilbakeleveringen, tilkommer eieren samme avsavnsgodtgjørelse som bestemt i foregående ledd for hver dag inntil hesten blir friskmeldt av dyrlæge, dessuten skal han ha godtgjort utgifter til dyrlæge og medisin til hesten. Når hesten har vært sykmeldt i minst to måneder, har staten rett til å overta den for den takst som blev fastsatt ved tilbakeleveringen.\nFor øvrig gjelder reglene i § 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "content": "Hvis hest, kjøretøi eller utstyr får skade eller går tapt, eller hesten blir syk eller dør under transport til eller fra leveringsstedet, uten at det skyldes forsømmelighet av eieren eller hans folk, tilkommer eieren av staten erstatning for tap eller skade. Erstatning for avsavn av syk eller skadet hest som ikke er brukbar efterat den er kommet tilbake til eieren, skal utgjøre samme beløp pr. dag som avsavnsgodtgjørelsen efter § 26, b, 2 eller 27, tredje ledd.\nTvist om erstatningskrav efter første ledd avgjøres ved skjønn,​2 som på landet styres av lensmannen. Skjønnet holdes i den rettskrets eller det lensmannsdistrikt hvor den skadede ting er, eller – hvis tingen er gått tapt – i den krets hvor eieren har sitt almindelige verneting.​3\n1 Jfr. kjl. § 13.\n2 Se skjønnsprl. kap. 1.\n3 Se rettergangsl. §§ 17-19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "content": "Nødvendige utgifter som kommunen har hatt som følge av foretatt utskriving, og som ikke skal bæres av eiere av hester og kjøretøier (se § 15), skal den ha godtgjort av staten. Staten kan gjøre fradrag for mulig erstatningsansvar som kommunen er kommet i ved mangelfull levering (se § 22).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "content": "Blir eiere av hester og kjøretøier efter § 17 pålagt å fremstille disse til kontroll, tilkommer de skyssgodtgjørelse, dagpenger og transportgodtgjørelse som bestemt i § 26, og avsavnsgodtgjørelse som bestemt i § 27. Dessuten får bestemmelsene i § 28 tilsvarende anvendelse.\nFår kommunen utgifter som følge av fremstillingen, skal den ha dem godtgjort av staten efter regelen i § 29, første punktum.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "content": "Kongen gir nærmere regler til gjennemføring av denne lov.​1\n1 Se res. 22 sep 1939.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "content": "Overtredelse av denne lov eller de bestemmelser og pålegg som gis i medhold av den, straffes med bøter.​1\n1 Se strl. § 27",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1 Fra samme tid opheves – – –\n1 Fra 1 juli 1940 iflg. res. 22 sep 1939.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Når Hæren eller noen del av den mobiliseres, er eiere av hester og kjøretøier som er skikket til bruk i krig, pliktige til efter reglene i denne lov og mot erstatning av staten å avgi dem til Hæren med det utstyr som er nevnt i § 15.\nMed kjøretøier menes i denne lov hestetrukne hjulkjøretøier og sleder.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Kongen bestemmer det største antall hester og kjøretøier som kan utskrives. Dette antall kan være inntil 10 pct. større enn det som er nødvendig efter gjeldende krigsopsetningsplaner, når en legger til grunn den opsetning av Hæren som krever flest hester og kjøretøier.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Det antall hester og kjøretøier som blir fastsatt efter § 2, fordeler Kongen på rikets herreds- og bykommuner forholdsvis efter antallet hester i utskrivningspliktig alder​1 – heri ikke medregnet militære tjenestehester – og antallet av kjøretøier som finnes i kommunen ifølge siste jordbrukstelling. I det antall hester som efter denne fordeling faller på en kommune, fratrekkes antallet av kvarterhester​2 i kommunen.\nNy fordeling skjer efter hver jordbrukstelling og ellers når det finnes påkrevd.\nNår det er nødvendig for mobiliseringen, kan de kommuner som ligger mest bekvemt til, pålegges å avgi flere hester og kjøretøier enn det faller på dem efter første ledd. I så fall nedsettes antallet for de kommuner som ligger minst bekvemt til, slik at enkelte kommuner kan fritas helt for utskriving.\nFor en enkelt kommune må utskrevne hester og kvarterhester tilsammen ikke utgjør mere enn 60 pct. av det hesteantall som efter første ledd skal legges til grunn ved fordelingen. Av kjøretøier må ikke utskrives mere enn 40 pct. av det antall som er nevnt i første ledd.\n1 Se § 8.\n2 Se lov 6 juni 1891 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Ved mobilisering skal det alltid fremstilles på de fastsatte leveringssteder 20 pct. flere hester og kjøretøier enn det skal leveres. Fremkommer det ved beregning av dette tillegg brøkdeler, skjer avrunding opover til nærmeste hele tall.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Vedkommende regjeringsdepartement​1 skal sørge for at hver kommune får meddelelse om det antall hester og kjøretøier som den kan pålegges å fremstille og levere efter §§ 3 og 4, og om den utskrivingsprocent som måtte vært brukt om utskrivingen hadde vært fordelt jevnt på alle rikets kommuner.\n1 Forsvarsdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "Trenger Hæren ved mobilisering færre hester og kjøretøier enn det blir fastsatt efter § 2, skal Kongen sørge for at det bare utskrives det antall som er nødvendig. Det samme gjelder om bare en del av Hæren mobiliseres.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "Når forholdene ved mobiliseringen gjør det nødvendig, kan vedkommende militære myndighet bestemme at det skal utskrives både hjulkjøretøier og sleder samtidig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "content": "De hester som fremstilles til utskriving, skal være i alderen fra og med 5 til og med 16 år og uten mangler som gjør dem uskikket til bruk i krig.\nKvarterhester og militære tjenestehester​1 utskrives ikke. Avlsdyr er fritatt for utskriving i den utstrekning Kongen bestemmer. Kongen kan gi regler om å frita andre hester.\nFor øvrig kan Kongen gi nærmere bestemmelser om de krav hester og kjøretøier som tas ut til utskriving, skal opfylle. En kommune må ikke pålegges å fremstille andre hester og kjøretøier enn en kan regne med at det finnes i kommunen.\n1 Se lov 6 juni 1891 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "1:9",
+      "chapter": "1",
+      "section": "9",
+      "content": "Når utskriving efter denne lov har funnet sted, kan Kongen bestemme at det skal foretas en utjevning av de gjenværende hester og kjøretøier i kommunene ved at det avgis hester og kjøretøier fra kommuner som har hatt forholdsvis liten eller ingen utskriving, til kommuner med forholdsvis stor utskrivning. Prisene for de hester og kjøretøier som avgis, fastsattes ved takst. Nærmere regler om taksering og om gjennemføringen av utjevningen for øvrig gis av Kongen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "De herreds- og bykommuner som det skal utskrives hester og kjøretøier fra, plikter å forberede utskrivningen i fred og sette den i verk ved mobilisering efter reglene i denne lov og de forskrifter som blir gitt i medhold av den.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "I de kommuner som er nevnt i § 10, skal kommunestyret velge et kommunalt utvalg på minst 5 medlemmer til å ordne med utskrivingen. Tjenestetiden for medlemmene skal være det samme antall år som bestemt for medlemmer av kommunestyre.​2\nValgbar og pliktig til å motta valg er enhver som er valgbar ved kommunevalg.​3 De som velges, skal så vidt mulig være hestekyndige. Menn som kan bli kalt inn til militærtjeneste ved mobilisering, velges ikke. Gjenvalg kan finne sted. Dog kan et medlem hvis tjenestetid er ute, kreve seg fritatt for den neste periode.\nFormann og nestformann i utvalget velges av kommunestyret. Om mulig skal minst halvparten av utvalgets medlemmer ha vært medlemmer av tidligere utvalg.\n1 Endret ved lov 15 mars 1940 nr. 5.\n2 Se lov 12 nov 1954 nr. 1 § 4.\n3 Se lov 1 mars 1985 nr. 3 § 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "content": "Ved uttaket av de hester og kjøretøier som kommunen i tilfelle skal fremstille til utskriving, skal det kommunale utvalg fordele byrden så likt som mulig i forhold til det antall hester og kjøretøier de enkelte eiere har. Kommunestyret kan fastsette nærmere regler som utvalget skal følge ved uttaket.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "content": "Utvalget skal sette op en liste over de hester og kjøretøier som er tatt ut til å fremstilles ved mobilisering. I listen skal føres op 10 pct. flere hester og kjøretøier enn kommunen kan bli pålagt å fremstille. Ved beregningen av dette tillegg skjer avrunding opover som bestemt i § 4. Listen skal så vidt mulig til enhver tid holdes à-jour.\nEiere av hester og kjøretøier plikter å gi de oplysninger utvalget forlanger til bruk ved opsettingen eller à-jourføringen av listen, og å gi utvalget adgang til å besiktige hester og kjøretøier.\nKommunestyret skal efter forslag fra utvalget fastsette en plan for gjennemføringen av utskrivningen fra kommunen. Ved utarbeiding legges til grunn det største antall hester og kjøretøier som kommunen kan bli pålagt å fremstille.\nKongen gir nærmere regler om opsettingen av lister og planer, om revisjon av dem og om kontroll med at de er til stede og i orden.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "content": "Når utskrivingen skal settes i verk, skal kommunen fremstille på det fastsatte leveringssted så mange hester og kjøretøier som den får tilsigelse om fra vedkommende militæravdeling.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "content": "Når utskrivingen skal settes i verk, er eierne pliktige til, mot de godtgjørelser som er nevnt i §§ 26 og 27, å fremstille på det fastsatte samlingssted de hester og kjøretøier utvalget tar ut, å skaffe førere og å bære nødvendige utgifter til skyss og transport og til underhold og husvær for førere og hester under gjennemføringen av utskrivingen.\nHver hest som fremstilles, skal være utstyrt med godt beslag, grime med bindsel, dekken, dekkengjort, én omgang hestesko og fôr for 3 døgn.\nMed hvert kjøretøi som fremstilles, skal foruten vanlig utstyr følge nødvendig seletøi.\nKommunen kan bestemme at utvalget skal skaffe det fôr som er nevnt i annet ledd, og dessuten fôr til bruk under transporten til leveringsstedet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "2:16",
+      "chapter": "2",
+      "section": "16",
+      "content": "På henvendelse fra formannen i det kommunale utvalg eller den som fører en transport av hester og kjøretøier fra samlingssted til leveringssted, skal politimesteren – på landet lensmannen – hjelpe til med å skaffe nødvendig husvær for folk og hester og annet som trenges på samlingsstedet eller under transporten.\nTil dette formål kan politimesteren eller lensmannen mot godtgjørelse rekvirere arbeidshjelp og kreve avstått til bruk eller til eie løs eller fast eiendom av ethvert slag som er nødvendig. Blir godtgjørelsen ikke betalt av eierne av hestene og kjøretøiene (se § 15) eller av den kommune disse hører til, kan den kreves av staten. For husvær i ikke over 48 timer ydes ingen annen godtgjørelse enn erstatning for bevislig skade, tap eller utgifter. For øvrig får reglene i lov av 19 mai 1933 om rekvisisjonsrett for politiet anvendelse så langt de høver.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "2:17",
+      "chapter": "2",
+      "section": "17",
+      "content": "Formenn og nestformenn i kommunale utvalg kan efter nærmere regler fastsatt av vedkommende regjeringsdepartement kalles sammen av militæravdelingene for å få veiledning om sine gjøremål.\nKommunale utvalg og eiere av hester og kjøretøier plikter å medvirke ved gjennomføring av tiltak som Kongen beslutter satt i verk for å kontrollere forberedelsen av utskrivingen.​1 Under iverksettingen av slike tiltak får reglene i § 16 anvendelse så langt de høver.\n1 Se § 30.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "De deler av riket som det skal utskrives hester og kjøretøier fra, inndeles av Kongen i mønstringsdistrikter.\nFor hvert slikt distrikt skal oppnevnes en mønstringsnevnd på 3 medlemmer med 3 varamenn. Kongen kan bestemme at det skal oppnevnes særskilt nevnd for kjøretøyer.\nFormann i nevnden og varamannen for ham skal fortrinsvis være militære befalingsmenn og beordres eller antas for et kalenderår av den militæravdeling som skal motta hester og kjøretøyer gjennom nevnden. De 2 andre medlemmer med varamenn oppnevnes av den herreds- eller byrett hvis embetskrets mønstringsdistriktet hører til. Deres tjenestetid er den samme som bestemt for medlemmer av kommunestyre.​2\nOmfatter et mønstringsdistrikt deler av flere domsogn,​3 skal vedkommende regjeringsdepartement​4 fastsette hvilken herreds- eller byrett skal foreta oppnevningen.\nDe 4 menn som herreds- eller byretten oppnevner, skal være hestekyndige. Det skal ikke oppnevnes menn som kan bli kalt inn til militærtjeneste ved mobilisering, eller som er oppnevnt som medlemmer eller varamenn i skjønnsnevnd etter lov om militære rekvisjoner i krigstilfelle.​5 De oppnevnte kan ikke nekte å overta vervet. Når et medlems tjenestetid er ute, kan han dog kreve seg fritatt for den neste periode.\n1 Endret ved lov 15 mars 1940 nr. 5.\n2 Se lov 12 nov 1954 nr. 1 § 4.\n3 Se domstolsl. § 22.\n4 Forsvarsdepartementet.\n5 Se lov 29 juni 1951 nr. 19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "content": "Når utskrivingen skal settes i verk, skal mønstringsnevnden besiktige de hester og kjøretøier som fremstilles fra distriktet på det bestemte leveringssted, og av dem ta ut og taksere det antall som skal leveres til vedkommende militæravdeling.\nTiden for nevndens fremmøte på leveringsstedet fastsettes av den avdeling som har opnevnt formannen i nevnden.\nVaramennene er pliktige til å avløse medlemmene under forretningen, selv om disse ikke har forfall, når dette bestemmes av militæravdelingen av hensyn til mobiliseringen.\nVedkommende militære myndighet beordrer eller antar en dyrlæge til å bistå nevnden. Dyrlægen har rett til å uttale sig før nevnden treffer sin avgjørelse, og til å få sin uttalelse protokollert. Når det er nødvendig, kan vedkommende militæravdeling bestemme at forretningen skal utføres uten dyrlæge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "content": "Medlem av mønstringsnevnden fratrer som ugild ved behandlingen av hest eller kjøretøi når han selv er eier, eller\n1. er i slekt – eller svogerskap med eieren i op- eller nedstigende linje eller i sidelinjen så nær som søsken,\n2. er eller har vært gift med eller er forlovet med eller er fosterfar eller fosterbarn til eieren,\n3. er verge for eieren.\nNevnden kan bestemme at et medlem skal fratre når det foreligger andre særegne omstendigheter som er egnet til å svekke tilliten til hans uhildethet.\nEt medlem er selv med å avgjøre om han er ugild. Nevndens avgjørelse er endelig.\nNår et medlem fratrer som ugild og de gjenværende medlemmer ikke blir enige, tilkalles varamann.\nNevnden kan bestemme at dyrlægen skal fratre ved behandlingen av hest, når han er i et tilfelle som nevnt i første ledd, eller det foreligger omstendigheter som nevnt i annet ledd.\nNår et medlem eller dyrlægen fratrer som ugild, gjøres merknad i nevndens protokoll.\n1 Jfr. skjønnsprl. § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "content": "Taksten over hestene og kjøretøiene med utstyr skjer på grunnlag av gangbare priser i mønstringsdistriktet.\nEr nevndens medlemmer ikke enige om taksten, gjelder det beløp som får flest stemmer. Er det ikke flertall for noe beløp, gjelder det nest høieste.\nOvertakst finner ikke sted.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "3:22",
+      "chapter": "3",
+      "section": "22",
+      "content": "Godkjenner mønstringsnevnden ikke så mange av de fremstilte hester og kjøretøier som kommunen skal levere, kan nevnden erstatte manglene ved utskriving av skikkede hester og kjøretøier som blir til overs fra andre kommuner som leverer gjennem nevnden. Vedkommende militæravdeling kan også la foreta utskriving av skikkede hester og kjøretøier som er blitt til overs fra kommuner som leverer til avdelingen gjennem andre mønstringsnevnder på samme opsetningssted. Kan en heller ikke på denne måte skaffe det antall kommunen skal levere, må avdelingen kjøpe eller rekvirere det som mangler.\nSkyldes mangelen forsømmelighet av kommunen eller eierne, plikter kommunen å erstatte staten det denne ved utskriving, kjøp eller rekvisisjon efter første ledd har måttet betale over gjennemsnittstaksten for de hester av samme alder og kjøretøier av samme slag kommunen har levert. Er det ikke godkjent noen hester og kjøretøier fra kommunen, beregnes erstatningen på grunnlag av gjennemsnittstaksten for godkjente hester og kjøretøier fra de tilgrensende kommuner.\nKommunen kan søke erstatningen tilbake hos de eiere som ved forsømmelighet måtte ha voldt mangelen ved leveringen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "content": "Staten blir eier av hester og kjøretøier når de er godkjent og taksert av mønstringsnevnden.\nDen tidligere eier har rett til mot tilbakebetaling av takstbeløpet ved utskrivingen å få tilbake hest (kjøretøi) som er i behold ved demobiliseringen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "content": "Ved mobilisering til øvelse har staten rett til å overta hestene og kjøretøiene til bruk istedenfor til eie. I så fall skal de takseres av samme mønstringsnevnd både ved utskrivingen og ved tilbakeleveringen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "content": "De medlemmer av mønstringsnevnden som herreds- eller byretten har oppnevnt, og deres varamenn tilkommer av staten for tjenestgjøring samme godtgjørelse som skjønnslovens § 20 a fastsetter for skjønnsmenn, og for reiser dessuten lovbestemt skyss- og kostgodtgjørelse. Medlem av kommunalt utvalg som møter frem på leveringsstedet, tilkommer skyss- og kostgodtgjørelse av staten.\nBlir medlem av kommunalt utvalg efter § 17 pålagt plikter som medfører reise, tilkommer han skyss- og kostgodtgjørelse av staten.\n1 Endret ved lov 17 des 1982 nr. 86.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "content": "Eier av hest eller kjøretøi som har vært fremstillet på samlingsstedet eller leveringsstedet, tilkommer av staten følgende godtgjørelse.\na. For føreren av hesten eller kjøretøiet:\n1. Skyssgodtgjørelse.\n2. Dagpenger for hver dag føreren har måttet være borte.\nb. For hest og kjøretøi:\n1. Transportgodtgjørelse.\n2. Avsavnsgodtgjørelse for hver dag hesten eller kjøretøiet har måttet være borte, eller som er gått med inntil den (det) blev godkjent av mønstringsnevnden.\n3. Erstatning efter mønstringsnevndens takst dersom hesten eller kjøretøiet leveres til militæravdelingen.\nStørrelsen av de godtgjørelser som er nevnt under a) og b) 1. og 2. fastsettes av Kongen.\nEier hvis hest eller kjøretøi fremstilles på samlings- eller leveringssted, men sendes hjem derfra, tilkommer ingen godtgjørelse, dersom han har forsømt sin fremstillingsplikt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "content": "Er hestene og kjøretøiene bare overtatt til bruk (se § 24), gjelder om godtgjørelsen for hest eller kjøretøi:\nGår hest eller kjøretøi tapt eller dør hesten innen tilbakelevering har funnet sted, betales det fulle takstbeløp som erstatning. Blir hesten eller kjøretøiet skadet, betales som erstatning forskjellen mellem taksten ved utskrivingen og ved tilbakeleveringen. Finner nevnden at skaden er så stor at verdien av hesten eller kjøretøiet er vesentlig forringet, betales dog det fulle takstbeløp som erstatning, med mindre eieren ønsker å få hesten eller kjøretøiet tilbake mot erstatning efter foregående punktum. Hvor det fulle takstbeløp blir utbetalt, blir hesten eller kjøretøiet statens eiendom.\nAvsavnsgodtgjørelsen for hest og kjøretøi skal være det dobbelte av avsavnsgodtgjørelsen efter § 26.\nEr hesten ikke i brukbar stand ved tilbakeleveringen, tilkommer eieren samme avsavnsgodtgjørelse som bestemt i foregående ledd for hver dag inntil hesten blir friskmeldt av dyrlæge, dessuten skal han ha godtgjort utgifter til dyrlæge og medisin til hesten. Når hesten har vært sykmeldt i minst to måneder, har staten rett til å overta den for den takst som blev fastsatt ved tilbakeleveringen.\nFor øvrig gjelder reglene i § 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "content": "Hvis hest, kjøretøi eller utstyr får skade eller går tapt, eller hesten blir syk eller dør under transport til eller fra leveringsstedet, uten at det skyldes forsømmelighet av eieren eller hans folk, tilkommer eieren av staten erstatning for tap eller skade. Erstatning for avsavn av syk eller skadet hest som ikke er brukbar efterat den er kommet tilbake til eieren, skal utgjøre samme beløp pr. dag som avsavnsgodtgjørelsen efter § 26, b, 2 eller 27, tredje ledd.\nTvist om erstatningskrav efter første ledd avgjøres ved skjønn,​2 som på landet styres av lensmannen. Skjønnet holdes i den rettskrets eller det lensmannsdistrikt hvor den skadede ting er, eller – hvis tingen er gått tapt – i den krets hvor eieren har sitt almindelige verneting.​3\n1 Jfr. kjl. § 13.\n2 Se skjønnsprl. kap. 1.\n3 Se rettergangsl. §§ 17-19.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "content": "Nødvendige utgifter som kommunen har hatt som følge av foretatt utskriving, og som ikke skal bæres av eiere av hester og kjøretøier (se § 15), skal den ha godtgjort av staten. Staten kan gjøre fradrag for mulig erstatningsansvar som kommunen er kommet i ved mangelfull levering (se § 22).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "content": "Blir eiere av hester og kjøretøier efter § 17 pålagt å fremstille disse til kontroll, tilkommer de skyssgodtgjørelse, dagpenger og transportgodtgjørelse som bestemt i § 26, og avsavnsgodtgjørelse som bestemt i § 27. Dessuten får bestemmelsene i § 28 tilsvarende anvendelse.\nFår kommunen utgifter som følge av fremstillingen, skal den ha dem godtgjort av staten efter regelen i § 29, første punktum.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "content": "Kongen gir nærmere regler til gjennemføring av denne lov.​1\n1 Se res. 22 sep 1939.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "content": "Overtredelse av denne lov eller de bestemmelser og pålegg som gis i medhold av den, straffes med bøter.​1\n1 Se strl. § 27",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer.​1 Fra samme tid opheves – – –\n1 Fra 1 juli 1940 iflg. res. 22 sep 1939.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    }
+  ]
+}

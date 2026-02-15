@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1946-07-19-18",
+  "type": "statute",
+  "title": "Midlertidig lov om tillegg til lov om vassdragsreguleringer.",
+  "short_name": "Midl. tilleggslov til vassdragsreguleringsloven.",
+  "status": "in_force",
+  "issued_date": "1946-07-19",
+  "in_force_date": "1946-07-19",
+  "url": "https://lovdata.no/dokument/NLO/lov/1946-07-19-18",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Når tillatelse til vassdragsregulering er gitt i henhold til lov om vassdragsreguleringer av 14 desember 1917 og det i vedkommende basseng allerede er iverksatt midlertidig regulering i medhold av gjeldende bestemmelser herom, kan Kongen gi den som skal utføre reguleringen rett til å kreve at nødvendig grunn m.v. (jfr. vassdragsreguleringslovens § 16 post 1) blir avstått før erstatningen er fastsatt og uten frist etter skjønnslovens § 55. Tilsvarende gjelder for skade og ulempe som reguleringen kan føre med seg.\nEkspropriasjonsskjønn må begjæres snarest mulig og senest innen en frist som vedkommende departement fastsetter. Erstatningen forfaller til betaling så snart den er endelig fastsatt.\nStaten innestår for at erstatningen blir betalt. Departementet kan kreve at eksproprianten stiller slik sikkerhet for erstatningen som departementet fastsetter.\nReguleringen kan ikke med hjemmel i denne lov tas i bruk i videre utstrekning enn for den midlertidige regulering bestemt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Bestemmelsene i § 1 gjelder tilsvarende så langt de passer for vassdragsregulering som skal utføres for statens regning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Når tillatelse til vassdragsregulering er gitt i henhold til lov om vassdragsreguleringer av 14 desember 1917 og det i vedkommende basseng allerede er iverksatt midlertidig regulering i medhold av gjeldende bestemmelser herom, kan Kongen gi den som skal utføre reguleringen rett til å kreve at nødvendig grunn m.v. (jfr. vassdragsreguleringslovens § 16 post 1) blir avstått før erstatningen er fastsatt og uten frist etter skjønnslovens § 55. Tilsvarende gjelder for skade og ulempe som reguleringen kan føre med seg.\nEkspropriasjonsskjønn må begjæres snarest mulig og senest innen en frist som vedkommende departement fastsetter. Erstatningen forfaller til betaling så snart den er endelig fastsatt.\nStaten innestår for at erstatningen blir betalt. Departementet kan kreve at eksproprianten stiller slik sikkerhet for erstatningen som departementet fastsetter.\nReguleringen kan ikke med hjemmel i denne lov tas i bruk i videre utstrekning enn for den midlertidige regulering bestemt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Bestemmelsene i § 1 gjelder tilsvarende så langt de passer for vassdragsregulering som skal utføres for statens regning.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

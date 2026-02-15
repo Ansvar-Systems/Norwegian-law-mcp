@@ -1,0 +1,279 @@
+{
+  "id": "LOV-2004-01-16-5",
+  "type": "statute",
+  "title": "Lov om regulering av svine- og fjørfeproduksjonen",
+  "short_name": "Svine- og fjørfeproduksjonsloven",
+  "status": "in_force",
+  "issued_date": "2004-01-16",
+  "in_force_date": "2004-04-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2004-01-16-5",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Lovens formål er å legge til rette for spredning av svine- og fjørfeproduksjonen på flere enheter ved å regulere produksjonsomfanget hos den enkelte produsent.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Konsesjonsplikt",
+      "content": "Uten konsesjon fra departementet kan ingen produsere et større antall svin eller fjørfe enn Kongen har bestemt. Departementet kan gi forskrift om konsesjonspliktens virkeområde, omfang, søknadsprosess og saksbehandling.\nKonsesjoner er tilknyttet en fysisk eller juridisk person og et bestemt gårds- og bruksnummer. Departementet kan i særlige tilfeller samtykke i at konsesjonen flyttes til et annet gårds- og bruksnummer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Andre forhold som utløser konsesjonsplikt",
+      "content": "Dersom to eller flere konsesjonsregulerte produksjoner har felles eierinteresser, inntrer konsesjonsplikt dersom det samlede produksjonsomfang overstiger grensen for konsesjonsfri drift. Det samme gjelder dersom to eller flere samarbeider om konsesjonsregulert produksjon i en slik grad at de må anses å ha økonomiske interesser i samme produksjon.\nDersom den samlede produksjonen på samme eiendom overskrider grensen for konsesjonsfri drift, inntrer konsesjonsplikt.\nDepartementet kan gi nærmere bestemmelser om konsesjonsplikten etter første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Vilkår for å få konsesjon",
+      "content": "Konsesjon kan gis dersom søkeren overtar eller leier anlegg med konsesjonsregulert produksjon, eller etablerer purkering. Departementet kan sette vilkår for å gi konsesjon.\nDepartementet kan i særlige tilfeller gi konsesjon selv om vilkårene i første ledd ikke er oppfylt.\nSøknad om konsesjon kan avslås dersom søkeren grovt eller gjentatte ganger har overtrådt bestemmelser i denne loven eller vedtak gjort i medhold av loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Bortfall av konsesjon",
+      "content": "Dersom det de ti siste årene ikke har vært ervervsmessig produksjon av svin eller fjørfe på det gårds- og bruksnummer som konsesjonen tilligger, bortfaller konsesjonen.\nVed tvil om konsesjonen er bortfalt etter første ledd kan den som vurderer å benytte konsesjonen kreve at departementet tar bindende stilling til spørsmålet. Departementets avgjørelse i slike saker regnes som enkeltvedtak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Opplysningsplikt og kontroll",
+      "content": "Etter pålegg fra departementet plikter produsenten å gi de opplysninger og dokumenter som er nødvendige for å kunne føre kontroll med at loven og vedtak gjort i medhold av den, blir overholdt. Departementet kan kreve adgang til anlegg for å føre kontroll med produksjonen.\nProduksjonen anses som konsesjonspliktig dersom produsenten etter pålegg fra departementet ikke kan godtgjøre at det ikke foreligger forhold som utløser konsesjonsplikt etter § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Pålegg og tvangsmulkt",
+      "content": "Drives produksjon i strid med loven eller vedtak gjort i medhold av den, kan departementet gi pålegg om tiltak for å bringe den ulovlige produksjonen til opphør.\nDepartementet kan fastsette løpende tvangsmulkt for hver dag som går etter utløpet av den frist som er satt for oppfylling av pålegget etter første ledd, inntil pålegget er oppfylt.\nTvangsmulkt er tvangsgrunnlag for utlegg. Departementet kan frafalle påløpt tvangsmulkt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Gjennomføring av vedtak",
+      "content": "Departementet kan beslutte at vedtak gjort i medhold av loven kan gjennomføres for den ansvarliges regning.\nVedtaket er tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Tilbaketrekking av konsesjon",
+      "content": "Ved grove eller gjentatte overtredelser av loven eller vedtak gjort i medhold av den, kan departementet helt eller delvis og varig eller midlertidig, trekke tilbake konsesjon gitt i medhold av § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Standardisert erstatning",
+      "content": "Ved produksjon ut over gjeldende konsesjonsgrenser eller tildelt konsesjon kan departementet pålegge den ansvarlige å betale en erstatning til Omsetningsrådets fond for omsetningsavgift for egg, fjørfekjøtt og kjøtt. Ved fastsettelsen av erstatningen skal departementet ta utgangspunkt i den fortjeneste produsenten har hatt av den ulovlige produksjonen.\nErstatningen er tvangsgrunnlag for utlegg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "Straff",
+      "content": "Den som forsettlig eller uaktsomt overtrer loven eller forskrifter gitt i medhold av loven, straffes med bøter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1 Fra samme tid oppheves lov 13. juni 1975 nr. 46 om regulering av ervervsmessig husdyrhold.\n1 Fra 1 apr 2004 iflg. res. 16 jan 2004 nr. 92.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Formål",
+      "content": "Lovens formål er å legge til rette for spredning av svine- og fjørfeproduksjonen på flere enheter ved å regulere produksjonsomfanget hos den enkelte produsent.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Konsesjonsplikt",
+      "content": "Uten konsesjon fra departementet kan ingen produsere et større antall svin eller fjørfe enn Kongen har bestemt. Departementet kan gi forskrift om konsesjonspliktens virkeområde, omfang, søknadsprosess og saksbehandling.\nKonsesjoner er tilknyttet en fysisk eller juridisk person og et bestemt gårds- og bruksnummer. Departementet kan i særlige tilfeller samtykke i at konsesjonen flyttes til et annet gårds- og bruksnummer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Andre forhold som utløser konsesjonsplikt",
+      "content": "Dersom to eller flere konsesjonsregulerte produksjoner har felles eierinteresser, inntrer konsesjonsplikt dersom det samlede produksjonsomfang overstiger grensen for konsesjonsfri drift. Det samme gjelder dersom to eller flere samarbeider om konsesjonsregulert produksjon i en slik grad at de må anses å ha økonomiske interesser i samme produksjon.\nDersom den samlede produksjonen på samme eiendom overskrider grensen for konsesjonsfri drift, inntrer konsesjonsplikt.\nDepartementet kan gi nærmere bestemmelser om konsesjonsplikten etter første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Vilkår for å få konsesjon",
+      "content": "Konsesjon kan gis dersom søkeren overtar eller leier anlegg med konsesjonsregulert produksjon, eller etablerer purkering. Departementet kan sette vilkår for å gi konsesjon.\nDepartementet kan i særlige tilfeller gi konsesjon selv om vilkårene i første ledd ikke er oppfylt.\nSøknad om konsesjon kan avslås dersom søkeren grovt eller gjentatte ganger har overtrådt bestemmelser i denne loven eller vedtak gjort i medhold av loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Bortfall av konsesjon",
+      "content": "Dersom det de ti siste årene ikke har vært ervervsmessig produksjon av svin eller fjørfe på det gårds- og bruksnummer som konsesjonen tilligger, bortfaller konsesjonen.\nVed tvil om konsesjonen er bortfalt etter første ledd kan den som vurderer å benytte konsesjonen kreve at departementet tar bindende stilling til spørsmålet. Departementets avgjørelse i slike saker regnes som enkeltvedtak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Opplysningsplikt og kontroll",
+      "content": "Etter pålegg fra departementet plikter produsenten å gi de opplysninger og dokumenter som er nødvendige for å kunne føre kontroll med at loven og vedtak gjort i medhold av den, blir overholdt. Departementet kan kreve adgang til anlegg for å føre kontroll med produksjonen.\nProduksjonen anses som konsesjonspliktig dersom produsenten etter pålegg fra departementet ikke kan godtgjøre at det ikke foreligger forhold som utløser konsesjonsplikt etter § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Pålegg og tvangsmulkt",
+      "content": "Drives produksjon i strid med loven eller vedtak gjort i medhold av den, kan departementet gi pålegg om tiltak for å bringe den ulovlige produksjonen til opphør.\nDepartementet kan fastsette løpende tvangsmulkt for hver dag som går etter utløpet av den frist som er satt for oppfylling av pålegget etter første ledd, inntil pålegget er oppfylt.\nTvangsmulkt er tvangsgrunnlag for utlegg. Departementet kan frafalle påløpt tvangsmulkt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Gjennomføring av vedtak",
+      "content": "Departementet kan beslutte at vedtak gjort i medhold av loven kan gjennomføres for den ansvarliges regning.\nVedtaket er tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Tilbaketrekking av konsesjon",
+      "content": "Ved grove eller gjentatte overtredelser av loven eller vedtak gjort i medhold av den, kan departementet helt eller delvis og varig eller midlertidig, trekke tilbake konsesjon gitt i medhold av § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Standardisert erstatning",
+      "content": "Ved produksjon ut over gjeldende konsesjonsgrenser eller tildelt konsesjon kan departementet pålegge den ansvarlige å betale en erstatning til Omsetningsrådets fond for omsetningsavgift for egg, fjørfekjøtt og kjøtt. Ved fastsettelsen av erstatningen skal departementet ta utgangspunkt i den fortjeneste produsenten har hatt av den ulovlige produksjonen.\nErstatningen er tvangsgrunnlag for utlegg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "Straff",
+      "content": "Den som forsettlig eller uaktsomt overtrer loven eller forskrifter gitt i medhold av loven, straffes med bøter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1 Fra samme tid oppheves lov 13. juni 1975 nr. 46 om regulering av ervervsmessig husdyrhold.\n1 Fra 1 apr 2004 iflg. res. 16 jan 2004 nr. 92.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    }
+  ]
+}

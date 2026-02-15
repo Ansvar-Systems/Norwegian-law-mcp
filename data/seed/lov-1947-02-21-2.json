@@ -1,0 +1,1247 @@
+{
+  "id": "LOV-1947-02-21-2",
+  "type": "statute",
+  "title": "Lov om rettergang i landssviksaker",
+  "short_name": "Lov om rettergang i landssviksaker",
+  "status": "in_force",
+  "issued_date": "1947-02-21",
+  "in_force_date": "1947-02-21",
+  "url": "https://lovdata.no/dokument/NLO/lov/1947-02-21-2",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Etter denne lov behandles:\n1. Saker om straff etter:\na. den borgerlige straffelovs kapitler 8 og 9;\nb. krigsartiklene i den militære straffelov​1 såfremt de ikke behandles ved militær rett;​2\nc. lov om straff og økonomisk ansvar for landssvikere (landssvikloven);\nd. straffebud som rammer utenlandske krigsforbrytere;​3\ne. lovgivningen om straff for rettsstridig disposisjon over konfiskert eiendom;\nf. andre straffebud når den skyldige eller en av flere personer som er skyldige i samme handling, tillike har forbrutt seg mot noen av de foran nevnte straffebud og de straffbare handlinger finnes å burde behandles i en sak.\n2. Saker som gjelder andre krav enn straff:\na. når de reises med hjemmel i landssvikloven og fremmes av Erstatningsdirektoratet eller påtalemyndigheten;\nb. når de går ut på avskjed eller andre forføyninger mot offentlige tjenestemenn i henhold til loven om utreinsking i offentleg teneste og saken ikke hører under militær rett,​2\nc. når kravet følger av en handling som er straffbar etter noen av de under nr. 1 nevnte straffebud og kravet tilkommer staten.\n1 Lov 22 mai 1902 nr. 13, 3dje del.\n2 Se mil.strprl. kap. 2.\n3 Se lov 13 des. 1946 nr. 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Når noen som er under forfølgning for overtredelse av straffebud som nevnt i § 1 nr. 1 a, c, d, e eller f, også har overtrådt krigsartiklene i den militære straffelov,​1 kan påtalemyndigheten etter samråd med den militære påtalemyndighet ta med denne overtredelse i sin forfølgning, når det finnes formålstjenlig å behandle overtredelsene i samme sak. Den militære og den borgerlige påtalemyndighet kan dog komme overens om at en slik sak i sin helhet skal behandles for militær rett,​2 når den militære overtredelse er den mest vesentlige eller særlige forhold ellers tilsier det.\nBestemmelsene i foregående ledd får tilsvarende anvendelse når flere er medskyldige i samme straffbare handling, og forholdet for noen av dem hører under militær, for andre under borgerlig påtalemyndighet.\n1 Lov 22 mai 1902 nr. 13, tredje del.\n2 Se mil.strprl. 29 mars 1900 nr. 2. kap. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Foruten i de tilfelle som er nevnt i § 2, kan den militære og den borgerlige påtalemyndighet komme overens om at en sak som hører under militær rett​1 skal behandles etter denne lov når overtredelsen ikke er av den art at behandling ved militær rett må anses påkrevd.\n1 Se mil.strprl. kap. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Viser det seg under behandlingen av en sak som er innbrakt for de i kap. V nevnte domstoler, at den angår et forhold som skulle ha vært behandlet ved militær rett​1 eller ved annen borgerlig domstol, kan saken når hovedforhandling er åpnet, likevel fremmes til doms. Rettens beslutning om å fremme saken kan ikke angripes ved kjæremål eller anke.\n1 Se mil.strprl. kap. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Med de endringer som følger av denne lov, får domstolsloven og bestemmelsene om forfølgningen av straffesaker i straffeprosessloven så langt de passer tilsvarende anvendelse på saker etter § 1 selv om saken ikke gjelder krav om straff.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "Saker om borgerlige rettskrav kan overensstemmende med reglene i straffeprosesslovens § 3, jfr. kapitel 32, forfølges i forbindelse med straffesak etter § 1, når kravet følger av en handling som er straffbar etter noen av de under § 1 nr. 1 nevnte straffebud.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "Med de unntak som følger av denne paragrafs tredje og fjerde ledd, treffes beslutning om tiltale i saker om straffbare handlinger som nevnt i § 1 nr. 1, av Riksadvokaten eller statsadvokatene. Bestemmelsene i straffeprosesslovens § 88 første ledd og § 89 får ikke anvendelse.\nRiksadvokaten har selv å avgjøre spørsmålet om tiltale når det aktes nedlagt påstand om høyere straff enn frihetsstraff i 10 år. Han bør også ellers, når en sak har særlig stor almen interesse, selv avgjøre spørsmålet om tiltale. Hvor Riksadvokatens avgjørelse ikke uten skade kan avventes, kan likevel beslutning om tiltale treffes av statsadvokaten.\nPolitiet har myndighet til å utferdige forelegg som ikke går ut på frihetsstraff og kan, i tilfelle av at forelegget ikke blir vedtatt, forlange saken fremmet for retten. I foreleggssaker kan politiet begjære fornyet behandling og erklære anke og kjæremål.\nRiksadvokaten kan i alminnelige forskrifter eller i spesielle tilfelle utvide politiets myndighet med hensyn til påtalen av straffbare handlinger som nevnt i § 1 nr. 1. Han kan i disse saker likeledes gjøre vedtak om overdragelse av full selvstendig påtalemyndighet til de til påtalemyndigheten hørende underordnede polititjenestemenn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "Riksadvokaten kan anta advokater eller sakførere til å møte for påtalemyndigheten under hovedforhandling. Han kan også i særlige tilfelle gi dem i oppdrag å overta hele straffeforfølgningen av enkelte saker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "En av underordnet påtalemyndighet fattet beslutning om å unnlate eller frafalle forfølgning i saker om straffbare handlinger som nevnt i § 1 nr. 1, kan omgjøres av den overordnede når melding herom tilstilles siktede senest seks måneder​1 etter at han er blitt underrettet om den første avgjørelse.\n1 Se domstolsl. §§ 148 og 149.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "Den militære og den borgerlige påtalemyndighet kan komme overens om at sak om avskjed eller andre forføyninger mot militære tjenestemenn i henhold til loven om utreinsking i offentleg teneste ikke skal behandles ved militær rett, men fremmes av den borgerlige påtalemyndighet etter reglene i denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "[De gjøremål som er nevnt i § 12, utføres av et midlertidig direktorat (Erstatningsdirektoratet) under ledelse av en direktør og et råd.\nDirektøren skal ha den daglige ledelse av direktoratet, forberede og gi innstilling i saker som skal forelegges rådet og sette i verk rådets vedtak.\nRådet skal treffe avgjørelse i saker om utferdigelse av forskrifter etter § 13 annet ledd og i andre saker av særlig viktighet i samsvar med det som fastsettes i instruksen for direktoratet, jfr. § 13 første ledd.\nDirektoratets nærmere organisasjon bestemmes av Kongen.]​1\n1 Se lov 4 juli 1952 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "content": "Erstatningsdirektoratet​1 skal ha følgende oppgaver:\n1. Oppspore verdier som kan inndras eller tjene til fyllestgjøring av bøter eller erstatningsansvar etter landssvikloven og søke verdiene sikret for dette formål.\n2. Fremme krav etter § 1 nr. 2 a og for så vidt Kongen bestemmer det, krav etter § 1 nr. 2 c. I den utstrekning det er bestemt i forskrifter etter § 13 første ledd, kan den borgerlige og den militære påtalemyndighet fremme slike krav i forbindelse med krav om straff.\n3. Bistå påtalemyndigheten i saker som nevnt i § 1 ved å gi opplysning om siktedes økonomiske forhold og ved å yte medvirkning ved beslag etter landssvikloven.​1\n4. Forvalte midler som kommer inn som bøter og inndragning eller erstatning i saker etter § 1.\n5. Sørge for gjennomføring av bestemmelser som Kongen har gitt etter landssviklovens § 31.\n6. Utføre andre oppdrag som Kongen gir direktoratet.\nErstatningsdirektoratet kan kreve bistand hos politiet til utføring av sitt arbeid.\n1 Se lov 4 juli 1952 nr. 1 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "content": "Kongen gir nærmere forskrifter om Erstatningsdirektoratets virksomhet og om dets forhold til påtalemyndigheten og politiet og til andre offentlige myndigheter. I disse forskrifter fastsettes også nærmere regler om fordelingen mellom påtalemyndigheten og Erstatningsdirektoratet av de saker som er nevnt under § 12 nr. 2.\nMed godkjenning av Kongen kan Erstatningsdirektoratet fastsette slike forskrifter​1 som det finner nødvendig for å utføre sine gjøremål.\n1 Se § 52.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "content": "Erstatningsdirektoratet kan med godkjenning av departementet oppnevne advokater eller sakførere til representanter for direktoratet i fylker (fylkesrepresentanter) eller mindre distrikter (distriktsrepresentanter). Distriktsrepresentantene er underordnet fylkesrepresentantene.\nErstatningsdirektoratet kan tillegge fylkesrepresentantene myndighet etter § 12. Myndighet som er tillagt en fylkesrepresentant, kan med godkjenning av Erstatningsdirektoratet overdras til en distriktsrepresentant.\nErstatningsdirektoratet og fylkesrepresentantene kan anta advokater eller sakførere til å møte for seg under hovedforhandlingen. Bestemmelsen i § 8 annet punktum gjelder tilsvarende.\nBestemmelsen i § 9 gjelder tilsvarende med hensyn til beslutninger av fylkes- og distriktsrepresentanter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "content": "Forelegg kan utferdiges i saker om straffbare handlinger som nevnt i § 1 nr. 1 når det antas å burde anvendes frihetsstraff inntil ett år, straff av bøter, inndragning (straffelovens § 34), tillitstap, begrenset rettighetstap, oppholdsforbud eller flere av de nevnte straffer.\nForelegg som går ut på bot, skal gi opplysning om følgene etter landssviklovens § 8 av at boten ikke blir betalt.\nForelegg som går ut på frihetsstraff, skal vedtas overfor forhørsdommeren som skal forvisse seg om at siktede har den fulle forståelse av foreleggets innhold og virkningen av vedtakelsen. Bestemmelsen i § 26 første ledd gjelder tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "Forelegg kan utferdiges i saker etter § 1 nr. 2 a og c og i saker om avskjed etter lov om utreinsking i offentleg teneste. Godkjenning av krav som nevnt i § 1 nr. 2 a og c, kan utenfor rettssak i alminnelighet bare skje ved vedtakelse av forelegg. Med samtykke av Erstatningsdirektoratet kan frivillig oppfyllelse likevel skje når den som kravet rettes mot ikke ved forholdet har overtrådt noen av de i § 1 nr. 1 nevnte straffebud.\nForelegg om andre krav enn straff skal inneholde en bestemt utforming av kravet og opplysning om de grunner det er støttet på.\nGår forelegget ut på omstøtelse, rettes det mot den som er berettiget etter den rettshandel som påstås omstøtt og mot den som har foretatt rettshandelen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "Av ethvert forelegg skal den som har latt det utferdige straks sende avskrift til sin nærmeste overordnede, som kan oppheve et vedtatt forelegg og bestemme at saken skal bringes inn for retten eller at det skal utferdiges et nytt forelegg med et bestemt innhold eller at forfølgning skal frafalles. Melding om at et vedtatt forelegg er opphevet, må forkynnes​1 for siktede (saksøkte) innen 2 måneder​2 etter at han har vedtatt det. Dersom grunnen til opphevelsen er at ingen eller en mindre straff (inndragning, erstatning m.v.) antas å burde komme til anvendelse gjelder ingen tidsfrist.\nHar en tjenestemann ved påtalemyndigheten utferdiget forelegg i sak som nevnt i § 1 nr. 2 a og c, jfr. § 12 nr. 2, skal han også straks sende avskrift av det til Erstatningsdirektoratet eller i tilfelle til fylkesrepresentanten, jfr. § 14 annet ledd. Direktoratet (fylkesrepresentanten) kan kreve at påtalemyndigheten innbringer saken for retten, med mindre forelegget blir endret slik som direktoratet (fylkesrepresentanten) foreslår.\n1 Se domstolsl. kap. 9.\n2 Se domstolsl. §§ 148 og 149.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "Når påtalemyndigheten finner det godtgjort at noen har overtrådt et eller flere av de i § 1 nr. 1 a-c nevnte straffebud, skal den snarest mulig utferdige erklæring om at han er under offentlig tiltale.\nErklæringen skal inneholde tiltaltes navn og en kortfattet beskrivelse av den straffbare handling. Den blir uoppholdelig å forkynne​1 for tiltalte og har samme rettsvirkning som de i straffeprosesslovens § 97 nevnte rettergangsskritt. Forkynnelsen kan foregå ved anbefalt brev.​2\nForskrifter om av hvilke myndigheter og etter hvilke nærmere regler erklæring som omhandlet i denne paragraf skal utferdiges, om underretning til manntallsfører m.v. gis av departementet.\n1 Se domstolsl. kap. 9.\n2 Se domstolsl. § 178.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "content": "Beslag og ransaking av slik art som nevnt i straffeprosesslovens kapitel 17 og 18 kan i saker etter § 1 nr. 1 alltid foretas uten beslutning av retten. Ethvert beslag som er foretatt uten samtykke av besitteren, skal snarest mulig innberettes til retten, som avgjør om det skal opprettholdes.\nEr det i saker etter § 1 nr. 1 foretatt slikt beslag som nevnt i straffeprosesslovens § 217, kan åpning og gjennomsyn av de beslaglagte papirer foretas i samsvar med straffeprosesslovens § 218 av en embetsmann ved påtalemyndigheten i overvær av et vitne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "content": "Til bruk for saker som nevnt i § 1 nr. 2 a og c kan tjenestemenn ved påtalemyndigheten kreve å få granske forretningsbøker, forretningspapirer, styre- og forhandlingsprotokoller og andre dokumenter og bøker og kan kreve å få besiktige verdier eller steder der verdier finnes.​1\nI saker som nevnt i § 1 nr. 2 b kan ting som antas å være av betydning som bevismidler beslaglegges overensstemmende med reglene i straffeprosesslovens kapitel 17, og ransaking for å oppnå sådant beslag kan finne sted overensstemmende med reglene i straffeprosesslovens kapitel 18.\n1 Se § 52, jfr. strl. § 326.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "content": "Den som med skjellig grunn mistenkes for overtredelse av noen av de i § 1 nr. 1 nevnte straffebud kan under de i straffeprosesslovens kapitel 19 nevnte betingelser i alle tilfelle pågripes uten beslutning av retten.\nDen pågrepne skal snarest mulig og senest innen 14 dager framstilles for forhørsretten, som avgjør om han skal være undergitt varetektsfengsel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "content": "Under utenrettslig etterforsking i saker som nevnt i § 1 nr. 1 og nr. 2 b har vitner og sakkyndige samme plikt til å møte​1 og forklare seg​2 for tjenestemenn ved påtalemyndigheten som for forhørsretten. Siktede har overfor påtalemyndigheten og retten plikt til å gi opplysning om sine økonomiske forhold.\nTil bruk for saker etter § 1 nr. 2 a og c plikter enhver å gi opplysninger til tjenestemenn ved påtalemyndigheten. Opplysningene kan kreves gitt skriftlig eller muntlig innen en nærmere fastsatt frist.​3\n1 Se strprl. §§ 171, 3dje ledd og 190.\n2 Se strprl. §§ 176-178 og 180.\n3 Se § 52.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "content": "Enhver plikter å gi Erstatningsdirektoratet de opplysninger som det krever for utføringen av sine gjøremål etter § 12 nr. 1-3. Opplysningene kan kreves gitt skriftlig eller muntlig innen den frist som blir satt av direktoratet.\nErstatningsdirektoratet kan også kreve å få granske forretningsbøker, forretningspapirer, styre- og forhandlingsprotokoller og andre dokumenter og bøker. Om nødvendig kan direktoratet kreve dem beslaglagt av politiet. Direktoratet kan også kreve å få besiktige verdier eller steder der verdier finnes.\n1 Se § 52, jfr. strl. § 326.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "content": "Bestemmelsene i § 20 første ledd, § 22 annet ledd og § 23 gjelder uten hensyn til den taushetsplikt som etter lovgivningen påhviler likningsmyndigheter, banker, sakførere, meklere og andre. Bestemmelsene i straffeprosesslovens § 178 gjelder dog tilsvarende når unntas sakførere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "content": "Enhver som i tjenestens medfør får opplysninger i henhold til foranstående bestemmelse skal, med de begrensninger som følger av hans tjenesteplikter, bevare taushet om det opplyste.​1 Han må ikke i ervervsvirksomhet gjøre bruk av hemmeligholdte innberetninger eller fremgangsmåter som han på denne måte er blitt kjent med.​2\n1 Se strl. § 121.\n2 Se strl. § 294.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "4:26",
+      "chapter": "4",
+      "section": "26",
+      "content": "Rettergangsskritt under etterforskningen kan uten hensyn til bestemmelsen i § 28 kreves foretatt av de vanlige forhørsdommere.\nBevisopptakelser og andre rettergangsskritt i henhold til straffeprosesslovens §§ 268, 275 og 297 etter foranledning av en mistenkt eller av siktede (saksøkte) eller hans forsvarer er, med mindre påtalemyndigheten har gitt sin tilslutning, alltid avhengig av rettens samtykke. Nektelse av samtykke kan påkjæres innen tre dager. For øvrig kan avgjørelsen ikke angripes ved rettsmidler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "4:27",
+      "chapter": "4",
+      "section": "27",
+      "content": "Enhver som utøver sakførervirksomhet er etter oppnevning av retten pliktig til å tjenestgjøre som offentlig forsvarer i saker etter denne lov uansett om han er oppført i de i straffeprosesslovens § 104 nevnte utvalg.\nNærmere regler om oppnevningen gis av departementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "content": "Kongen kan oppnevne dommerne ved herreds- og byrettene til å behandle saker etter denne lov i flere domssokn. Oppnevningen gjelder for den tid landssvikoppgjøret varer. Kongen kan kalle oppnevningen tilbake når de forhold som begrunnet den ikke lenger er til stede.\nKongen kan bestemme at det skal dannes en selvstendig avdeling av lagmannsretten til å behandle saker etter denne lov. Bestemmelsen i første ledds annet og tredje punktum gjelder tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "content": "Herreds- og byretten sammensettes ved hovedforhandling i saker etter § 1 nr. 1 av vedkommende dommer som formann og to domsmenn.\nI saker hvor det er utferdiget forelegg som ikke går ut på frihetsstraff, tilkalles domsmenn bare når retten av hensyn til sakens art finner det påkrevd. Offentlig forsvarer skal beskikkes for siktede ved hovedforhandlingen når forelegget går ut på frihetsstraff, tillitstap eller oppholdsforbud.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "content": "Lagmannsretten sammensettes ved hovedforhandling i saker etter § 1 nr. 1 av tre dommere og fire domsmenn som står i utvalget av lagrettemenn for lagsoknet.\nDomsmenn i lagmannsretten plikter å gjøre tjeneste i tre uker og i hvert fall til en påbegynt sak er slutt, selv om tjenestetiden blir lenger.\nI vidtløftige saker kan retten beslutte at fire dommere og fem domsmenn skal overvære forhandlingene. Når det skal avsis dom, uttrer etter loddtrekning en av dommerne, dog ikke lagmannen, og en av domsmennene.\nVed behandling av begjæring om gjenopptakelse tilkalles domsmenn bare når rettens faste dommere finner det nødvendig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "5:31",
+      "chapter": "5",
+      "section": "31",
+      "content": "Til hovedforhandling ved herreds- og byrett og ved lagmannsrett i saker etter § 1 nr. 2 tilkalles domsmenn bare når retten på grunn av sakens art finner det påkrevd. For øvrig gjelder bestemmelsene i § 29 første ledd og § 30 tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "5:32",
+      "chapter": "5",
+      "section": "32",
+      "content": "Saker etter § 1 nr. 1 c og nr. 2 anlegges ved herreds- og byrett. Andre saker etter § 1 nr. 1 kan anlegges ved herreds- eller byrett når påtalemyndigheten ikke vil påstå høyere frihetsstraff enn fengsel eller tvangsarbeid i 8 år.\nSaker etter § 1 nr. 1 og 2 kan bringes inn for lagmannsrett etter reglene i straffeprosesslovens § 22 annet ledd. Bestemmelsen i straffeprosesslovens § 22 tredje ledd gjelder ikke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "5:33",
+      "chapter": "5",
+      "section": "33",
+      "content": "Med rettens samtykke kan saker etter § 1 nr. 1 og 2 forenes og forfølges i fellesskap i enhver rettskrets hvor noen enkelt av dem kunne være forfulgt.​1\nHører en straffesak under lagmannsrett, kan også andre saker som hører under herreds- eller byrett forenes med den og bringes inn for lagmannsretten etter reglene i første ledd.\nBestemmelsen i straffeprosesslovens § 138 annet ledd gjelder tilsvarende.\n1 Se strprl. §§ 135 flg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "5:34",
+      "chapter": "5",
+      "section": "34",
+      "content": "I saker etter § 1 nr. 2 som fremmes særskilt, utferdiges stevning som skal fylle kravene etter straffeprosesslovens § 286 første ledd og dessuten inneholde en bestemt utforming av kravet, hva det støttes på, de bevis som vil bli ført og den påstand som vil bli nedlagt.\nSaksøkeren skal i stevningen sette en frist ikke under en og ikke over to uker​1 for saksøkte til i prosess-skrift til retten eller ved personlig fremmøte å sette fram sine innsigelser mot søksmålet og sin bevisoppgave. Under særegne omstendigheter kan retten gi saksøkte en kortere utsettelse.\nSaksøkeren besørger stevningen forkynt​2 og sender den etter forkynnelsen til retten, som straks tilsvarsfristen er ute, fastsetter tid og sted for hovedforhandlingen, med mindre retten finner det påkrevd å gi enhver av partene høve til å uttale seg en gang til innen de frister retten fastsetter. Retten gir melding om berammelsen til saksøkeren som sørger for innkalling av saksøkte, vitner og sakkyndige. Saksøkte skal i innkallingen gjøres oppmerksom på virkningene av uteblivelse uten lovlig forfall, jfr. § 39.\nSaksøkeren plikter å utlåne forsvareren sakens dokumenter overensstemmende med reglene i straffeprosesslovens § 292.\n1 Se domstolsl. §§ 148 og 149.\n2 Se domstolsl. kap. 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "5:35",
+      "chapter": "5",
+      "section": "35",
+      "content": "Når påtalemyndigheten i forbindelse med en straffesak fremmer andre krav, skal den senest samtidig med innkallingen til hovedforhandling forkynne for tiltalte og den kravet ellers er rettet mot melding om hva kravet går ut på, hva det støttes på, de bevis som vil bli ført og den påstand som vil bli nedlagt.\nDersom det gjelder krav som nevnt i § 1 nr. 2 a og c, skal Erstatningsdirektoratet varsles om saken og kan la avgi møte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "5:36",
+      "chapter": "5",
+      "section": "36",
+      "content": "For at en sak skal kunne bringes inn for lagmannsrett, er rettslig forundersøkelse ikke nødvendig.\nFor hovedforhandlingen ved lagmannsrett gjelder reglene i straffeprosesslovens §§ 368, 374 annet ledd, 375 og 376 tilsvarende.\nI saker om straff kreves til fellende avgjørelse i skyldspørsmålet minst fem stemmer. Det samme gjelder vedtak om å anvende dødsstraff. Andre avgjørelser treffer retten med alminnelig flertall.\n1 Endret ved lov 8 april 1983 nr. 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "5:37",
+      "chapter": "5",
+      "section": "37",
+      "content": "Under hovedforhandling ved herreds- eller byrett og ved lagmannsrett kan retten alltid avskjære bevisførsel når føring av beviset antas uten betydning for sakens utfall. Rettslig og utenrettslige forklaringer eller erklæringer kan leses opp uten hinder av reglene i straffeprosesslovens § 332, jfr. § 366, når det anses ubetenkelig og forklaringen eller erklæringen er avgitt av personer som er avgått ved døden eller er forsvunnet, eller når innkalling til muntlig avhør er forbundet med særlige vansker etter kostnader.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "5:38",
+      "chapter": "5",
+      "section": "38",
+      "content": "I saker etter § 1 nr. 2 skal det oppnevnes offentlig forsvarer for saksøkte når retten finner det nødvendig på grunn av sakens særegne art og saksøkte har søkt om det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "5:39",
+      "chapter": "5",
+      "section": "39",
+      "content": "Uteblir saksøkte uten lovlig forfall, eller nekter han å forklare seg eller godkjenner han saksøkerens påstand, kan saksøkeren i saker etter § 1 nr. 2 forlange at retten avsier dom på grunnlag av saksøkerens framstilling av sakens sammenheng for så vidt den ikke strider mot vitterlige kjensgjerninger og er meddelt saksøkte, jfr. § 34 tredje ledd siste punktum.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "6:40",
+      "chapter": "6",
+      "section": "40",
+      "content": "I saker etter § 1 nr 2 om andre krav enn inndragning gjelder ikke regelen i straffeprosessloven § 400 om at begjæring om fornyet behandling må være begrunnet med at bevisspørsmålet under skyldspørsmålet er uriktig avgjort.\n1 Endret ved lov 8 april 1983 nr. 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "6:41",
+      "chapter": "6",
+      "section": "41",
+      "content": "Avgjørelser av herreds- eller byrett av erstatningskrav kan ikke tas under særskilt fornyet behandling ved lagmannsrett, men kan ankes inn for Høyesterett.\nAvgjørelser av herreds- eller byrett av andre krav etter § 1 nr. 2 enn inndragning og erstatning kan ikke etter særskilt anke bringes inn for Høyesterett. Bestemmelsene i tvistemålslovens § 6 annet ledd gjelder dog tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "6:42",
+      "chapter": "6",
+      "section": "42",
+      "content": "Når sak om straff eller inndragning innbringes til fornyet behandling ved lagmannsrett, kan det ikke fremmes anke til Høyesterett over avgjørelser av krav etter § 1 nr. 2 som har vært pådømt sammen med straffe- eller inndragningskravet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "6:43",
+      "chapter": "6",
+      "section": "43",
+      "content": "Ved anke i saker etter § 1 nr. 1 og 2 trenges samtykke av Høyesteretts kjæremålsutvalg. Slik samtykke kreves dog ikke:\n1. Når domfelte anker over avgjørelse av straffekrav og er idømt dødsstraff, frihetsstraff over seks år i lagmannsrett eller ubetinget frihetsstraff over ett år i forhørsrett, herredsrett eller byrett.\n2. Når påtalemyndigheten anker over avgjørelse av straffekrav og har nedlagt påstand på straff som nevnt i nr. 1.\n3. Når påtalemyndigheten eller Erstatningsdirektoratet anker til gunst for domfelte.\nBevisopptakelse etter foranledning av partene i henhold til straffeprosesslovens § 390 er avhengig av samtykke fra Høyesteretts kjæremålsutvalg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "6:44",
+      "chapter": "6",
+      "section": "44",
+      "content": "Når Høyesteretts kjæremålsutvalg henviser anken over en avgjørelse av straffekrav eller inndragningskrav til prøvelse i Høyesterett, skal kjæremålsutvalget også henvise til behandling i Høyesterett andre krav som er pådømt i saken og er begjært prøvet ved anke eller fornyet behandling. For øvrig gjelder reglene i straffeprosesslovens § 387 tilsvarende når det er anket over avgjørelser av krav som nevnt i § 1 nr. 2.\nFor Høyesteretts adgang til å prøve avgjørelser av andre krav etter § 1 nr. 2 enn inndragning gjelder samme regler som i tvistemål.​1\n1 Se rettergangsl. §§ 6, 99, 355 og 357 flg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "6:45",
+      "chapter": "6",
+      "section": "45",
+      "content": "Når det er anket over avgjørelsen av et straffekrav, skal Høyesterett også prøve avgjørelsen av krav etter § 1 nr. 2 for så vidt kravene beror på avgjørelsen av straffekravet og har vært pådømt i samme sak som dette.\nReglene i første ledd gjelder tilsvarende ved fornyet behandling ved lagmannsrett.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "6:46",
+      "chapter": "6",
+      "section": "46",
+      "content": "I saker etter § 1 nr. 2 skal begjæringen om fornyet behandling og ankeerklæringen inneholde både det som er nevnt under nr. 1-3 og nr. 4-9 i tvistemålslovens § 365.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "6:47",
+      "chapter": "6",
+      "section": "47",
+      "content": "Bestemmelsen i straffeprosesslovens § 379 annet ledd gjelder tilsvarende ved fornyet behandling av saker etter § 1 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "6:48",
+      "chapter": "6",
+      "section": "48",
+      "content": "Det skal beskikkes offentlig forsvarer for saksøkte under ankeforhandlingen i saker etter § 1 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "6:49",
+      "chapter": "6",
+      "section": "49",
+      "content": "Fristen for kjæremål er 8 dager​1 regnet fra den dag da den angrepne avgjørelse ble truffet, hvis ikke annet er bestemt.\nNår krav om avskjed eller rettighetstap etter § 1 første ledd, jfr. annet ledd og § 10 i lov om utreinsking i offentleg teneste er pådømt uten forbindelse med andre krav, er fristen for påtalemyndighetens anke eller begjæring om fornyet behandling to måneder​1 fra dommens avsigelse. Det samme gjelder hvor kravet er pådømt sammen med andre krav og avgjørelsen av disse ikke angripes ved rettsmidler innen utløpet av de vanlige frister.\n1 Se domstolsl. §§ 148 og 149.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "7:50",
+      "chapter": "7",
+      "section": "50",
+      "content": "Dødsstraff som idømmes i borgerlige saker fullbyrdes ved skytning fra en sluttet tropp av minst 10 politimenn under ledelse av politimesteren eller i hans sted en annen politiembetsmann og i nærvær av en lege. Forsvareren og i tilfelle den prest som har beredt domfelte til døden, har adgang, likeså representanter for offentlige myndigheter som politimesteren gir tillatelse. Fullbyrdelsen skjer under utelukkelse av offentligheten.\nProtokoll over handlingen føres av politimesteren eller hans stedfortreder.\nNærmere regler om fullbyrdelse av dødsstraff etter denne paragraf, og om hvorledes det skal forholdes med liket, gis av Kongen eller den han bemyndiger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "7:51",
+      "chapter": "7",
+      "section": "51",
+      "content": "At domfelte i en sak etter denne lov søker om benådning er ikke til hinder for at straffens fullbyrdelse påbegynnes med mindre det særskilt blir bestemt av vedkommende departement eller av den påtalemyndighet som søknaden sendes inn gjennom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "7:52",
+      "chapter": "7",
+      "section": "52",
+      "content": "Enhver som forsettlig eller uaktsomt overtrer forskrifter som er gitt i medhold av § 13 annet ledd eller unnlater innen den fastsatte frist å gi opplysninger m.v. etter § 20, § 22 annet ledd eller § 23 eller gir uriktige opplysninger, straffes med bøter​1 eller fengsel inntil 1 år eller med begge deler. Istedenfor fengsel kan fastsettes tvangsarbeid. Overtredelsen behandles som forseelse og forfølges etter denne lov.\n1 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "7:53",
+      "chapter": "7",
+      "section": "53",
+      "content": "Det skal ikke betales gebyr til statskassen for behandlingen av saker etter denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "7:54",
+      "chapter": "7",
+      "section": "54",
+      "content": "Bestemmelsene om saksomkostninger i tvistemål​1 får tilsvarende anvendelse i saker etter § 1 nr. 2.\n1 Se rettergangsl. kap. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "7:55",
+      "chapter": "7",
+      "section": "55",
+      "content": "Når det ved overtredelse så vel av landssviklovgivningen som av andre straffebestemmelser blir fastsatt en felles bøtestraff i henhold til straffelovens § 63, første ledd, jfr. § 64, gjelder for bøtene reglene i landssviklovens §§ 6-9 i stedet for straffelovens §§ 27 og 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "7:56",
+      "chapter": "7",
+      "section": "56",
+      "content": "Denne lov trer i kraft 15 mars 1947.\n– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Etter denne lov behandles:\n1. Saker om straff etter:\na. den borgerlige straffelovs kapitler 8 og 9;\nb. krigsartiklene i den militære straffelov​1 såfremt de ikke behandles ved militær rett;​2\nc. lov om straff og økonomisk ansvar for landssvikere (landssvikloven);\nd. straffebud som rammer utenlandske krigsforbrytere;​3\ne. lovgivningen om straff for rettsstridig disposisjon over konfiskert eiendom;\nf. andre straffebud når den skyldige eller en av flere personer som er skyldige i samme handling, tillike har forbrutt seg mot noen av de foran nevnte straffebud og de straffbare handlinger finnes å burde behandles i en sak.\n2. Saker som gjelder andre krav enn straff:\na. når de reises med hjemmel i landssvikloven og fremmes av Erstatningsdirektoratet eller påtalemyndigheten;\nb. når de går ut på avskjed eller andre forføyninger mot offentlige tjenestemenn i henhold til loven om utreinsking i offentleg teneste og saken ikke hører under militær rett,​2\nc. når kravet følger av en handling som er straffbar etter noen av de under nr. 1 nevnte straffebud og kravet tilkommer staten.\n1 Lov 22 mai 1902 nr. 13, 3dje del.\n2 Se mil.strprl. kap. 2.\n3 Se lov 13 des. 1946 nr. 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Når noen som er under forfølgning for overtredelse av straffebud som nevnt i § 1 nr. 1 a, c, d, e eller f, også har overtrådt krigsartiklene i den militære straffelov,​1 kan påtalemyndigheten etter samråd med den militære påtalemyndighet ta med denne overtredelse i sin forfølgning, når det finnes formålstjenlig å behandle overtredelsene i samme sak. Den militære og den borgerlige påtalemyndighet kan dog komme overens om at en slik sak i sin helhet skal behandles for militær rett,​2 når den militære overtredelse er den mest vesentlige eller særlige forhold ellers tilsier det.\nBestemmelsene i foregående ledd får tilsvarende anvendelse når flere er medskyldige i samme straffbare handling, og forholdet for noen av dem hører under militær, for andre under borgerlig påtalemyndighet.\n1 Lov 22 mai 1902 nr. 13, tredje del.\n2 Se mil.strprl. 29 mars 1900 nr. 2. kap. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Foruten i de tilfelle som er nevnt i § 2, kan den militære og den borgerlige påtalemyndighet komme overens om at en sak som hører under militær rett​1 skal behandles etter denne lov når overtredelsen ikke er av den art at behandling ved militær rett må anses påkrevd.\n1 Se mil.strprl. kap. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Viser det seg under behandlingen av en sak som er innbrakt for de i kap. V nevnte domstoler, at den angår et forhold som skulle ha vært behandlet ved militær rett​1 eller ved annen borgerlig domstol, kan saken når hovedforhandling er åpnet, likevel fremmes til doms. Rettens beslutning om å fremme saken kan ikke angripes ved kjæremål eller anke.\n1 Se mil.strprl. kap. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Med de endringer som følger av denne lov, får domstolsloven og bestemmelsene om forfølgningen av straffesaker i straffeprosessloven så langt de passer tilsvarende anvendelse på saker etter § 1 selv om saken ikke gjelder krav om straff.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "Saker om borgerlige rettskrav kan overensstemmende med reglene i straffeprosesslovens § 3, jfr. kapitel 32, forfølges i forbindelse med straffesak etter § 1, når kravet følger av en handling som er straffbar etter noen av de under § 1 nr. 1 nevnte straffebud.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "Med de unntak som følger av denne paragrafs tredje og fjerde ledd, treffes beslutning om tiltale i saker om straffbare handlinger som nevnt i § 1 nr. 1, av Riksadvokaten eller statsadvokatene. Bestemmelsene i straffeprosesslovens § 88 første ledd og § 89 får ikke anvendelse.\nRiksadvokaten har selv å avgjøre spørsmålet om tiltale når det aktes nedlagt påstand om høyere straff enn frihetsstraff i 10 år. Han bør også ellers, når en sak har særlig stor almen interesse, selv avgjøre spørsmålet om tiltale. Hvor Riksadvokatens avgjørelse ikke uten skade kan avventes, kan likevel beslutning om tiltale treffes av statsadvokaten.\nPolitiet har myndighet til å utferdige forelegg som ikke går ut på frihetsstraff og kan, i tilfelle av at forelegget ikke blir vedtatt, forlange saken fremmet for retten. I foreleggssaker kan politiet begjære fornyet behandling og erklære anke og kjæremål.\nRiksadvokaten kan i alminnelige forskrifter eller i spesielle tilfelle utvide politiets myndighet med hensyn til påtalen av straffbare handlinger som nevnt i § 1 nr. 1. Han kan i disse saker likeledes gjøre vedtak om overdragelse av full selvstendig påtalemyndighet til de til påtalemyndigheten hørende underordnede polititjenestemenn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "Riksadvokaten kan anta advokater eller sakførere til å møte for påtalemyndigheten under hovedforhandling. Han kan også i særlige tilfelle gi dem i oppdrag å overta hele straffeforfølgningen av enkelte saker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "En av underordnet påtalemyndighet fattet beslutning om å unnlate eller frafalle forfølgning i saker om straffbare handlinger som nevnt i § 1 nr. 1, kan omgjøres av den overordnede når melding herom tilstilles siktede senest seks måneder​1 etter at han er blitt underrettet om den første avgjørelse.\n1 Se domstolsl. §§ 148 og 149.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "Den militære og den borgerlige påtalemyndighet kan komme overens om at sak om avskjed eller andre forføyninger mot militære tjenestemenn i henhold til loven om utreinsking i offentleg teneste ikke skal behandles ved militær rett, men fremmes av den borgerlige påtalemyndighet etter reglene i denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "[De gjøremål som er nevnt i § 12, utføres av et midlertidig direktorat (Erstatningsdirektoratet) under ledelse av en direktør og et råd.\nDirektøren skal ha den daglige ledelse av direktoratet, forberede og gi innstilling i saker som skal forelegges rådet og sette i verk rådets vedtak.\nRådet skal treffe avgjørelse i saker om utferdigelse av forskrifter etter § 13 annet ledd og i andre saker av særlig viktighet i samsvar med det som fastsettes i instruksen for direktoratet, jfr. § 13 første ledd.\nDirektoratets nærmere organisasjon bestemmes av Kongen.]​1\n1 Se lov 4 juli 1952 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "content": "Erstatningsdirektoratet​1 skal ha følgende oppgaver:\n1. Oppspore verdier som kan inndras eller tjene til fyllestgjøring av bøter eller erstatningsansvar etter landssvikloven og søke verdiene sikret for dette formål.\n2. Fremme krav etter § 1 nr. 2 a og for så vidt Kongen bestemmer det, krav etter § 1 nr. 2 c. I den utstrekning det er bestemt i forskrifter etter § 13 første ledd, kan den borgerlige og den militære påtalemyndighet fremme slike krav i forbindelse med krav om straff.\n3. Bistå påtalemyndigheten i saker som nevnt i § 1 ved å gi opplysning om siktedes økonomiske forhold og ved å yte medvirkning ved beslag etter landssvikloven.​1\n4. Forvalte midler som kommer inn som bøter og inndragning eller erstatning i saker etter § 1.\n5. Sørge for gjennomføring av bestemmelser som Kongen har gitt etter landssviklovens § 31.\n6. Utføre andre oppdrag som Kongen gir direktoratet.\nErstatningsdirektoratet kan kreve bistand hos politiet til utføring av sitt arbeid.\n1 Se lov 4 juli 1952 nr. 1 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "content": "Kongen gir nærmere forskrifter om Erstatningsdirektoratets virksomhet og om dets forhold til påtalemyndigheten og politiet og til andre offentlige myndigheter. I disse forskrifter fastsettes også nærmere regler om fordelingen mellom påtalemyndigheten og Erstatningsdirektoratet av de saker som er nevnt under § 12 nr. 2.\nMed godkjenning av Kongen kan Erstatningsdirektoratet fastsette slike forskrifter​1 som det finner nødvendig for å utføre sine gjøremål.\n1 Se § 52.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "content": "Erstatningsdirektoratet kan med godkjenning av departementet oppnevne advokater eller sakførere til representanter for direktoratet i fylker (fylkesrepresentanter) eller mindre distrikter (distriktsrepresentanter). Distriktsrepresentantene er underordnet fylkesrepresentantene.\nErstatningsdirektoratet kan tillegge fylkesrepresentantene myndighet etter § 12. Myndighet som er tillagt en fylkesrepresentant, kan med godkjenning av Erstatningsdirektoratet overdras til en distriktsrepresentant.\nErstatningsdirektoratet og fylkesrepresentantene kan anta advokater eller sakførere til å møte for seg under hovedforhandlingen. Bestemmelsen i § 8 annet punktum gjelder tilsvarende.\nBestemmelsen i § 9 gjelder tilsvarende med hensyn til beslutninger av fylkes- og distriktsrepresentanter.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "content": "Forelegg kan utferdiges i saker om straffbare handlinger som nevnt i § 1 nr. 1 når det antas å burde anvendes frihetsstraff inntil ett år, straff av bøter, inndragning (straffelovens § 34), tillitstap, begrenset rettighetstap, oppholdsforbud eller flere av de nevnte straffer.\nForelegg som går ut på bot, skal gi opplysning om følgene etter landssviklovens § 8 av at boten ikke blir betalt.\nForelegg som går ut på frihetsstraff, skal vedtas overfor forhørsdommeren som skal forvisse seg om at siktede har den fulle forståelse av foreleggets innhold og virkningen av vedtakelsen. Bestemmelsen i § 26 første ledd gjelder tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "Forelegg kan utferdiges i saker etter § 1 nr. 2 a og c og i saker om avskjed etter lov om utreinsking i offentleg teneste. Godkjenning av krav som nevnt i § 1 nr. 2 a og c, kan utenfor rettssak i alminnelighet bare skje ved vedtakelse av forelegg. Med samtykke av Erstatningsdirektoratet kan frivillig oppfyllelse likevel skje når den som kravet rettes mot ikke ved forholdet har overtrådt noen av de i § 1 nr. 1 nevnte straffebud.\nForelegg om andre krav enn straff skal inneholde en bestemt utforming av kravet og opplysning om de grunner det er støttet på.\nGår forelegget ut på omstøtelse, rettes det mot den som er berettiget etter den rettshandel som påstås omstøtt og mot den som har foretatt rettshandelen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "Av ethvert forelegg skal den som har latt det utferdige straks sende avskrift til sin nærmeste overordnede, som kan oppheve et vedtatt forelegg og bestemme at saken skal bringes inn for retten eller at det skal utferdiges et nytt forelegg med et bestemt innhold eller at forfølgning skal frafalles. Melding om at et vedtatt forelegg er opphevet, må forkynnes​1 for siktede (saksøkte) innen 2 måneder​2 etter at han har vedtatt det. Dersom grunnen til opphevelsen er at ingen eller en mindre straff (inndragning, erstatning m.v.) antas å burde komme til anvendelse gjelder ingen tidsfrist.\nHar en tjenestemann ved påtalemyndigheten utferdiget forelegg i sak som nevnt i § 1 nr. 2 a og c, jfr. § 12 nr. 2, skal han også straks sende avskrift av det til Erstatningsdirektoratet eller i tilfelle til fylkesrepresentanten, jfr. § 14 annet ledd. Direktoratet (fylkesrepresentanten) kan kreve at påtalemyndigheten innbringer saken for retten, med mindre forelegget blir endret slik som direktoratet (fylkesrepresentanten) foreslår.\n1 Se domstolsl. kap. 9.\n2 Se domstolsl. §§ 148 og 149.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "Når påtalemyndigheten finner det godtgjort at noen har overtrådt et eller flere av de i § 1 nr. 1 a-c nevnte straffebud, skal den snarest mulig utferdige erklæring om at han er under offentlig tiltale.\nErklæringen skal inneholde tiltaltes navn og en kortfattet beskrivelse av den straffbare handling. Den blir uoppholdelig å forkynne​1 for tiltalte og har samme rettsvirkning som de i straffeprosesslovens § 97 nevnte rettergangsskritt. Forkynnelsen kan foregå ved anbefalt brev.​2\nForskrifter om av hvilke myndigheter og etter hvilke nærmere regler erklæring som omhandlet i denne paragraf skal utferdiges, om underretning til manntallsfører m.v. gis av departementet.\n1 Se domstolsl. kap. 9.\n2 Se domstolsl. § 178.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "content": "Beslag og ransaking av slik art som nevnt i straffeprosesslovens kapitel 17 og 18 kan i saker etter § 1 nr. 1 alltid foretas uten beslutning av retten. Ethvert beslag som er foretatt uten samtykke av besitteren, skal snarest mulig innberettes til retten, som avgjør om det skal opprettholdes.\nEr det i saker etter § 1 nr. 1 foretatt slikt beslag som nevnt i straffeprosesslovens § 217, kan åpning og gjennomsyn av de beslaglagte papirer foretas i samsvar med straffeprosesslovens § 218 av en embetsmann ved påtalemyndigheten i overvær av et vitne.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "content": "Til bruk for saker som nevnt i § 1 nr. 2 a og c kan tjenestemenn ved påtalemyndigheten kreve å få granske forretningsbøker, forretningspapirer, styre- og forhandlingsprotokoller og andre dokumenter og bøker og kan kreve å få besiktige verdier eller steder der verdier finnes.​1\nI saker som nevnt i § 1 nr. 2 b kan ting som antas å være av betydning som bevismidler beslaglegges overensstemmende med reglene i straffeprosesslovens kapitel 17, og ransaking for å oppnå sådant beslag kan finne sted overensstemmende med reglene i straffeprosesslovens kapitel 18.\n1 Se § 52, jfr. strl. § 326.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "content": "Den som med skjellig grunn mistenkes for overtredelse av noen av de i § 1 nr. 1 nevnte straffebud kan under de i straffeprosesslovens kapitel 19 nevnte betingelser i alle tilfelle pågripes uten beslutning av retten.\nDen pågrepne skal snarest mulig og senest innen 14 dager framstilles for forhørsretten, som avgjør om han skal være undergitt varetektsfengsel.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "content": "Under utenrettslig etterforsking i saker som nevnt i § 1 nr. 1 og nr. 2 b har vitner og sakkyndige samme plikt til å møte​1 og forklare seg​2 for tjenestemenn ved påtalemyndigheten som for forhørsretten. Siktede har overfor påtalemyndigheten og retten plikt til å gi opplysning om sine økonomiske forhold.\nTil bruk for saker etter § 1 nr. 2 a og c plikter enhver å gi opplysninger til tjenestemenn ved påtalemyndigheten. Opplysningene kan kreves gitt skriftlig eller muntlig innen en nærmere fastsatt frist.​3\n1 Se strprl. §§ 171, 3dje ledd og 190.\n2 Se strprl. §§ 176-178 og 180.\n3 Se § 52.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "content": "Enhver plikter å gi Erstatningsdirektoratet de opplysninger som det krever for utføringen av sine gjøremål etter § 12 nr. 1-3. Opplysningene kan kreves gitt skriftlig eller muntlig innen den frist som blir satt av direktoratet.\nErstatningsdirektoratet kan også kreve å få granske forretningsbøker, forretningspapirer, styre- og forhandlingsprotokoller og andre dokumenter og bøker. Om nødvendig kan direktoratet kreve dem beslaglagt av politiet. Direktoratet kan også kreve å få besiktige verdier eller steder der verdier finnes.\n1 Se § 52, jfr. strl. § 326.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "content": "Bestemmelsene i § 20 første ledd, § 22 annet ledd og § 23 gjelder uten hensyn til den taushetsplikt som etter lovgivningen påhviler likningsmyndigheter, banker, sakførere, meklere og andre. Bestemmelsene i straffeprosesslovens § 178 gjelder dog tilsvarende når unntas sakførere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "content": "Enhver som i tjenestens medfør får opplysninger i henhold til foranstående bestemmelse skal, med de begrensninger som følger av hans tjenesteplikter, bevare taushet om det opplyste.​1 Han må ikke i ervervsvirksomhet gjøre bruk av hemmeligholdte innberetninger eller fremgangsmåter som han på denne måte er blitt kjent med.​2\n1 Se strl. § 121.\n2 Se strl. § 294.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "4:26",
+      "chapter": "4",
+      "section": "26",
+      "content": "Rettergangsskritt under etterforskningen kan uten hensyn til bestemmelsen i § 28 kreves foretatt av de vanlige forhørsdommere.\nBevisopptakelser og andre rettergangsskritt i henhold til straffeprosesslovens §§ 268, 275 og 297 etter foranledning av en mistenkt eller av siktede (saksøkte) eller hans forsvarer er, med mindre påtalemyndigheten har gitt sin tilslutning, alltid avhengig av rettens samtykke. Nektelse av samtykke kan påkjæres innen tre dager. For øvrig kan avgjørelsen ikke angripes ved rettsmidler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "4:27",
+      "chapter": "4",
+      "section": "27",
+      "content": "Enhver som utøver sakførervirksomhet er etter oppnevning av retten pliktig til å tjenestgjøre som offentlig forsvarer i saker etter denne lov uansett om han er oppført i de i straffeprosesslovens § 104 nevnte utvalg.\nNærmere regler om oppnevningen gis av departementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "content": "Kongen kan oppnevne dommerne ved herreds- og byrettene til å behandle saker etter denne lov i flere domssokn. Oppnevningen gjelder for den tid landssvikoppgjøret varer. Kongen kan kalle oppnevningen tilbake når de forhold som begrunnet den ikke lenger er til stede.\nKongen kan bestemme at det skal dannes en selvstendig avdeling av lagmannsretten til å behandle saker etter denne lov. Bestemmelsen i første ledds annet og tredje punktum gjelder tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "content": "Herreds- og byretten sammensettes ved hovedforhandling i saker etter § 1 nr. 1 av vedkommende dommer som formann og to domsmenn.\nI saker hvor det er utferdiget forelegg som ikke går ut på frihetsstraff, tilkalles domsmenn bare når retten av hensyn til sakens art finner det påkrevd. Offentlig forsvarer skal beskikkes for siktede ved hovedforhandlingen når forelegget går ut på frihetsstraff, tillitstap eller oppholdsforbud.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "content": "Lagmannsretten sammensettes ved hovedforhandling i saker etter § 1 nr. 1 av tre dommere og fire domsmenn som står i utvalget av lagrettemenn for lagsoknet.\nDomsmenn i lagmannsretten plikter å gjøre tjeneste i tre uker og i hvert fall til en påbegynt sak er slutt, selv om tjenestetiden blir lenger.\nI vidtløftige saker kan retten beslutte at fire dommere og fem domsmenn skal overvære forhandlingene. Når det skal avsis dom, uttrer etter loddtrekning en av dommerne, dog ikke lagmannen, og en av domsmennene.\nVed behandling av begjæring om gjenopptakelse tilkalles domsmenn bare når rettens faste dommere finner det nødvendig.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "5:31",
+      "chapter": "5",
+      "section": "31",
+      "content": "Til hovedforhandling ved herreds- og byrett og ved lagmannsrett i saker etter § 1 nr. 2 tilkalles domsmenn bare når retten på grunn av sakens art finner det påkrevd. For øvrig gjelder bestemmelsene i § 29 første ledd og § 30 tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "5:32",
+      "chapter": "5",
+      "section": "32",
+      "content": "Saker etter § 1 nr. 1 c og nr. 2 anlegges ved herreds- og byrett. Andre saker etter § 1 nr. 1 kan anlegges ved herreds- eller byrett når påtalemyndigheten ikke vil påstå høyere frihetsstraff enn fengsel eller tvangsarbeid i 8 år.\nSaker etter § 1 nr. 1 og 2 kan bringes inn for lagmannsrett etter reglene i straffeprosesslovens § 22 annet ledd. Bestemmelsen i straffeprosesslovens § 22 tredje ledd gjelder ikke.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "5:33",
+      "chapter": "5",
+      "section": "33",
+      "content": "Med rettens samtykke kan saker etter § 1 nr. 1 og 2 forenes og forfølges i fellesskap i enhver rettskrets hvor noen enkelt av dem kunne være forfulgt.​1\nHører en straffesak under lagmannsrett, kan også andre saker som hører under herreds- eller byrett forenes med den og bringes inn for lagmannsretten etter reglene i første ledd.\nBestemmelsen i straffeprosesslovens § 138 annet ledd gjelder tilsvarende.\n1 Se strprl. §§ 135 flg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "5:34",
+      "chapter": "5",
+      "section": "34",
+      "content": "I saker etter § 1 nr. 2 som fremmes særskilt, utferdiges stevning som skal fylle kravene etter straffeprosesslovens § 286 første ledd og dessuten inneholde en bestemt utforming av kravet, hva det støttes på, de bevis som vil bli ført og den påstand som vil bli nedlagt.\nSaksøkeren skal i stevningen sette en frist ikke under en og ikke over to uker​1 for saksøkte til i prosess-skrift til retten eller ved personlig fremmøte å sette fram sine innsigelser mot søksmålet og sin bevisoppgave. Under særegne omstendigheter kan retten gi saksøkte en kortere utsettelse.\nSaksøkeren besørger stevningen forkynt​2 og sender den etter forkynnelsen til retten, som straks tilsvarsfristen er ute, fastsetter tid og sted for hovedforhandlingen, med mindre retten finner det påkrevd å gi enhver av partene høve til å uttale seg en gang til innen de frister retten fastsetter. Retten gir melding om berammelsen til saksøkeren som sørger for innkalling av saksøkte, vitner og sakkyndige. Saksøkte skal i innkallingen gjøres oppmerksom på virkningene av uteblivelse uten lovlig forfall, jfr. § 39.\nSaksøkeren plikter å utlåne forsvareren sakens dokumenter overensstemmende med reglene i straffeprosesslovens § 292.\n1 Se domstolsl. §§ 148 og 149.\n2 Se domstolsl. kap. 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "5:35",
+      "chapter": "5",
+      "section": "35",
+      "content": "Når påtalemyndigheten i forbindelse med en straffesak fremmer andre krav, skal den senest samtidig med innkallingen til hovedforhandling forkynne for tiltalte og den kravet ellers er rettet mot melding om hva kravet går ut på, hva det støttes på, de bevis som vil bli ført og den påstand som vil bli nedlagt.\nDersom det gjelder krav som nevnt i § 1 nr. 2 a og c, skal Erstatningsdirektoratet varsles om saken og kan la avgi møte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "5:36",
+      "chapter": "5",
+      "section": "36",
+      "content": "For at en sak skal kunne bringes inn for lagmannsrett, er rettslig forundersøkelse ikke nødvendig.\nFor hovedforhandlingen ved lagmannsrett gjelder reglene i straffeprosesslovens §§ 368, 374 annet ledd, 375 og 376 tilsvarende.\nI saker om straff kreves til fellende avgjørelse i skyldspørsmålet minst fem stemmer. Det samme gjelder vedtak om å anvende dødsstraff. Andre avgjørelser treffer retten med alminnelig flertall.\n1 Endret ved lov 8 april 1983 nr. 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "5:37",
+      "chapter": "5",
+      "section": "37",
+      "content": "Under hovedforhandling ved herreds- eller byrett og ved lagmannsrett kan retten alltid avskjære bevisførsel når føring av beviset antas uten betydning for sakens utfall. Rettslig og utenrettslige forklaringer eller erklæringer kan leses opp uten hinder av reglene i straffeprosesslovens § 332, jfr. § 366, når det anses ubetenkelig og forklaringen eller erklæringen er avgitt av personer som er avgått ved døden eller er forsvunnet, eller når innkalling til muntlig avhør er forbundet med særlige vansker etter kostnader.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "5:38",
+      "chapter": "5",
+      "section": "38",
+      "content": "I saker etter § 1 nr. 2 skal det oppnevnes offentlig forsvarer for saksøkte når retten finner det nødvendig på grunn av sakens særegne art og saksøkte har søkt om det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "5:39",
+      "chapter": "5",
+      "section": "39",
+      "content": "Uteblir saksøkte uten lovlig forfall, eller nekter han å forklare seg eller godkjenner han saksøkerens påstand, kan saksøkeren i saker etter § 1 nr. 2 forlange at retten avsier dom på grunnlag av saksøkerens framstilling av sakens sammenheng for så vidt den ikke strider mot vitterlige kjensgjerninger og er meddelt saksøkte, jfr. § 34 tredje ledd siste punktum.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "6:40",
+      "chapter": "6",
+      "section": "40",
+      "content": "I saker etter § 1 nr 2 om andre krav enn inndragning gjelder ikke regelen i straffeprosessloven § 400 om at begjæring om fornyet behandling må være begrunnet med at bevisspørsmålet under skyldspørsmålet er uriktig avgjort.\n1 Endret ved lov 8 april 1983 nr. 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "6:41",
+      "chapter": "6",
+      "section": "41",
+      "content": "Avgjørelser av herreds- eller byrett av erstatningskrav kan ikke tas under særskilt fornyet behandling ved lagmannsrett, men kan ankes inn for Høyesterett.\nAvgjørelser av herreds- eller byrett av andre krav etter § 1 nr. 2 enn inndragning og erstatning kan ikke etter særskilt anke bringes inn for Høyesterett. Bestemmelsene i tvistemålslovens § 6 annet ledd gjelder dog tilsvarende.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "6:42",
+      "chapter": "6",
+      "section": "42",
+      "content": "Når sak om straff eller inndragning innbringes til fornyet behandling ved lagmannsrett, kan det ikke fremmes anke til Høyesterett over avgjørelser av krav etter § 1 nr. 2 som har vært pådømt sammen med straffe- eller inndragningskravet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "6:43",
+      "chapter": "6",
+      "section": "43",
+      "content": "Ved anke i saker etter § 1 nr. 1 og 2 trenges samtykke av Høyesteretts kjæremålsutvalg. Slik samtykke kreves dog ikke:\n1. Når domfelte anker over avgjørelse av straffekrav og er idømt dødsstraff, frihetsstraff over seks år i lagmannsrett eller ubetinget frihetsstraff over ett år i forhørsrett, herredsrett eller byrett.\n2. Når påtalemyndigheten anker over avgjørelse av straffekrav og har nedlagt påstand på straff som nevnt i nr. 1.\n3. Når påtalemyndigheten eller Erstatningsdirektoratet anker til gunst for domfelte.\nBevisopptakelse etter foranledning av partene i henhold til straffeprosesslovens § 390 er avhengig av samtykke fra Høyesteretts kjæremålsutvalg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "6:44",
+      "chapter": "6",
+      "section": "44",
+      "content": "Når Høyesteretts kjæremålsutvalg henviser anken over en avgjørelse av straffekrav eller inndragningskrav til prøvelse i Høyesterett, skal kjæremålsutvalget også henvise til behandling i Høyesterett andre krav som er pådømt i saken og er begjært prøvet ved anke eller fornyet behandling. For øvrig gjelder reglene i straffeprosesslovens § 387 tilsvarende når det er anket over avgjørelser av krav som nevnt i § 1 nr. 2.\nFor Høyesteretts adgang til å prøve avgjørelser av andre krav etter § 1 nr. 2 enn inndragning gjelder samme regler som i tvistemål.​1\n1 Se rettergangsl. §§ 6, 99, 355 og 357 flg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "6:45",
+      "chapter": "6",
+      "section": "45",
+      "content": "Når det er anket over avgjørelsen av et straffekrav, skal Høyesterett også prøve avgjørelsen av krav etter § 1 nr. 2 for så vidt kravene beror på avgjørelsen av straffekravet og har vært pådømt i samme sak som dette.\nReglene i første ledd gjelder tilsvarende ved fornyet behandling ved lagmannsrett.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "6:46",
+      "chapter": "6",
+      "section": "46",
+      "content": "I saker etter § 1 nr. 2 skal begjæringen om fornyet behandling og ankeerklæringen inneholde både det som er nevnt under nr. 1-3 og nr. 4-9 i tvistemålslovens § 365.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "6:47",
+      "chapter": "6",
+      "section": "47",
+      "content": "Bestemmelsen i straffeprosesslovens § 379 annet ledd gjelder tilsvarende ved fornyet behandling av saker etter § 1 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "6:48",
+      "chapter": "6",
+      "section": "48",
+      "content": "Det skal beskikkes offentlig forsvarer for saksøkte under ankeforhandlingen i saker etter § 1 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "6:49",
+      "chapter": "6",
+      "section": "49",
+      "content": "Fristen for kjæremål er 8 dager​1 regnet fra den dag da den angrepne avgjørelse ble truffet, hvis ikke annet er bestemt.\nNår krav om avskjed eller rettighetstap etter § 1 første ledd, jfr. annet ledd og § 10 i lov om utreinsking i offentleg teneste er pådømt uten forbindelse med andre krav, er fristen for påtalemyndighetens anke eller begjæring om fornyet behandling to måneder​1 fra dommens avsigelse. Det samme gjelder hvor kravet er pådømt sammen med andre krav og avgjørelsen av disse ikke angripes ved rettsmidler innen utløpet av de vanlige frister.\n1 Se domstolsl. §§ 148 og 149.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "7:50",
+      "chapter": "7",
+      "section": "50",
+      "content": "Dødsstraff som idømmes i borgerlige saker fullbyrdes ved skytning fra en sluttet tropp av minst 10 politimenn under ledelse av politimesteren eller i hans sted en annen politiembetsmann og i nærvær av en lege. Forsvareren og i tilfelle den prest som har beredt domfelte til døden, har adgang, likeså representanter for offentlige myndigheter som politimesteren gir tillatelse. Fullbyrdelsen skjer under utelukkelse av offentligheten.\nProtokoll over handlingen føres av politimesteren eller hans stedfortreder.\nNærmere regler om fullbyrdelse av dødsstraff etter denne paragraf, og om hvorledes det skal forholdes med liket, gis av Kongen eller den han bemyndiger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "7:51",
+      "chapter": "7",
+      "section": "51",
+      "content": "At domfelte i en sak etter denne lov søker om benådning er ikke til hinder for at straffens fullbyrdelse påbegynnes med mindre det særskilt blir bestemt av vedkommende departement eller av den påtalemyndighet som søknaden sendes inn gjennom.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "7:52",
+      "chapter": "7",
+      "section": "52",
+      "content": "Enhver som forsettlig eller uaktsomt overtrer forskrifter som er gitt i medhold av § 13 annet ledd eller unnlater innen den fastsatte frist å gi opplysninger m.v. etter § 20, § 22 annet ledd eller § 23 eller gir uriktige opplysninger, straffes med bøter​1 eller fengsel inntil 1 år eller med begge deler. Istedenfor fengsel kan fastsettes tvangsarbeid. Overtredelsen behandles som forseelse og forfølges etter denne lov.\n1 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "7:53",
+      "chapter": "7",
+      "section": "53",
+      "content": "Det skal ikke betales gebyr til statskassen for behandlingen av saker etter denne lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "7:54",
+      "chapter": "7",
+      "section": "54",
+      "content": "Bestemmelsene om saksomkostninger i tvistemål​1 får tilsvarende anvendelse i saker etter § 1 nr. 2.\n1 Se rettergangsl. kap. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "7:55",
+      "chapter": "7",
+      "section": "55",
+      "content": "Når det ved overtredelse så vel av landssviklovgivningen som av andre straffebestemmelser blir fastsatt en felles bøtestraff i henhold til straffelovens § 63, første ledd, jfr. § 64, gjelder for bøtene reglene i landssviklovens §§ 6-9 i stedet for straffelovens §§ 27 og 28.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "7:56",
+      "chapter": "7",
+      "section": "56",
+      "content": "Denne lov trer i kraft 15 mars 1947.\n– – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    }
+  ]
+}

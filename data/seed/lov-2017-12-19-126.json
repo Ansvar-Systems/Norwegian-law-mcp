@@ -1,0 +1,55 @@
+{
+  "id": "LOV-2017-12-19-126",
+  "type": "statute",
+  "title": "Midlertidig lov om tillegg til merverdiavgiftsloven",
+  "short_name": "Midlertidig lov om tillegg til merverdiavgiftsloven",
+  "status": "in_force",
+  "issued_date": "2017-12-19",
+  "in_force_date": "2018-01-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2017-12-19-126",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Registrerte virksomheter som blir slettet fra Merverdiavgiftsregisteret fordi de fra 1. januar 2018 ikke lenger anses å drive skogbruk i næring, har ikke plikt til å justere inngående merverdiavgift etter merverdiavgiftsloven kapittel 9 for kapitalvarer som er anskaffet før dette tidspunktet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven trer i kraft 1. januar 2018 og opphører å gjelde 31. desember 2027.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Registrerte virksomheter som blir slettet fra Merverdiavgiftsregisteret fordi de fra 1. januar 2018 ikke lenger anses å drive skogbruk i næring, har ikke plikt til å justere inngående merverdiavgift etter merverdiavgiftsloven kapittel 9 for kapitalvarer som er anskaffet før dette tidspunktet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Loven trer i kraft 1. januar 2018 og opphører å gjelde 31. desember 2027.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

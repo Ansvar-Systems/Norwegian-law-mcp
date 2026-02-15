@@ -1,0 +1,711 @@
+{
+  "id": "LOV-2018-04-20-8",
+  "type": "statute",
+  "title": "Lov om grensetilsyn og grensekontroll av personer (grenseloven)",
+  "short_name": "Grenseloven",
+  "status": "in_force",
+  "issued_date": "2018-04-20",
+  "in_force_date": "2022-05-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2018-04-20-8",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Loven skal sikre at grensetilsyn og grensekontroll av personer utføres i samsvar med nasjonale behov og internasjonale forpliktelser, herunder tydeliggjøre ansvar og styring og fremme samarbeid mellom berørte myndigheter. Loven skal også legge til rette for lovlig bevegelse over grensene og bidra til å bekjempe grensekryssende kriminalitet, ulovlig innvandring og trusler mot folkehelsen.\n0 Endret ved lov 29 april 2022 nr. 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens saklige virkeområde og forholdet til andre regler",
+      "content": "Loven gir regler om rettslige og fysiske forhold i tilknytning til riksgrensen og om grensepassering og grensekontroll av personer. Regler om utlendingers adgang til riket og deres opphold her følger av utlendingsloven.\nLoven gjelder med de begrensninger som er anerkjent i folkeretten eller følger av overenskomst med annen stat.\nLoven gjelder ikke militære oppgaver, herunder for å hevde suverenitet og suverene rettigheter, kontroll av vareførselen etter tolloven, eller annen kontrollvirksomhet på eller ved grensen etter annen lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Lovens stedlige virkeområde",
+      "content": "Loven gjelder i riket, på og ved innretninger og anlegg som nyttes på eller er tilknyttet norsk kontinentalsokkel, og i tilstøtende sone, jf. lov 27. juni 2003 nr. 57 om Norges territorialfarvann og tilstøtende sone § 4.\nLoven gjelder på annen stats jurisdiksjonsområde når det følger av avtale med staten, og på områder hvor ingen stat har suverenitet når det følger av folkeretten.\n0 Endret ved lov 20 des 2023 nr. 110 (i kraft 24 mai 2024 iflg. res. 24 mai 2024 nr. 811).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Politiets ansvar og samarbeid med andre myndigheter",
+      "content": "Politiet har ansvar for utøvelsen av grenseovervåking og inn- og utreisekontroll av personer etter loven. Myndighetsutøvelse på vegne av politiet og bistand til politiets grensekontroll etter §§ 6 og 7 utføres under politiets ansvar og ledelse.\nPolitiet skal samarbeide med andre myndigheter som er tillagt oppgaver som berører politiets oppgaver etter loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Ansvar for særlige tilsynsfunksjoner",
+      "content": "Kongen oppnevner myndighet med ansvar for å ivareta særlige forpliktelser og tilsynsfunksjoner i tilknytning til riksgrensen, og fastsetter instruks for myndighetens virksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "title": "Forsvarets myndighetsutøvelse og bistand til politiets grensekontroll",
+      "content": "Forsvaret kan på vegne av politiet utøve grenseovervåking etter § 19 på den norsk-russiske grensen. Ved utøvelse av slik grenseovervåking kan Forsvaret utøve makt innenfor rammene av politiloven § 6.\nKongen gir nærmere regler om Forsvarets grenseovervåking etter første ledd, herunder om opplæring, bevæpning og ledelse av militært mannskap som benyttes.\nBistand fra Forsvaret til andre grensekontrolloppgaver gjennomføres etter reglene om bistand fra Forsvaret i og i medhold av politiloven § 27 a. Kystvaktens virksomhet reguleres av kystvaktloven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "title": "Tolletatens bistand til politiets inn- og utreisekontroll",
+      "content": "Tolletaten skal bistå politiet med gjennomføring av inn- og utreisekontroll etter loven. Ved utførelsen av slik bistand har Tolletaten de samme rettighetene og pliktene som politiet har etter § 15.\nKongen gir forskrift om Tolletatens bistand til politiets inn- og utreisekontroll.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "title": "Gjennomføring av EU-rettsakter og bistand fra europeiske grensekontrollteam",
+      "content": "Følgende rettsakter gjelder som lov:\n1. Forordning (EU) 2016/399 om bevegelsen av personer over grenser (grenseforordningen), som endret ved:\n- forordning (EU) 2017/458,\n- forordning (EU) 2017/2225,\n- forordning (EU) 2018/1240,\n- forordning (EU) 2019/817,\n- forordning (EU) 2021/1134, og\n- forordning (EU) 2024/1717.\n2. Forordning (EU) 2017/2226 om etableringen av inn- og utreisesystemet (EES-forordningen)​1, som endret ved forordning (EU) 2018/1240, forordning (EU) 2019/817, forordning (EU) 2021/1134 og forordning (EU) 2021/1152\n3. Rådsdirektiv 2004/82/EF om transportselskapers plikt til å fremsende opplysninger om passasjerer (API-direktivet)\n4. Forordning (EU) 2019/817 om opprettelse av en ramme for interoperabilitet mellom EU-informasjonssystemer for grenser og visum, som endret ved forordning (EU) 2021/1134 og forordning (EU) 2021/1152\n5. Forordning (EU) 2019/818 om opprettelse av en ramme for interoperabilitet mellom EU-informasjonssystemer for politisamarbeid og rettslig samarbeid, asyl og migrasjon, som endret ved forordning (EU) 2021/1133 og forordning (EU) 2021/1150.\nEuropeiske grensekontrollteam kan etter anmodning bistå politiet med gjennomføring av grensekontroll. Politiloven § 20 a annet og tredje ledd får tilsvarende anvendelse for utenlandske tjenestemenn som deltar under utførelsen av slike bistandsoppgaver.\n0 Endret ved lover 29 april 2022 nr. 26, 21 juni 2024 nr. 47 (i kraft 12 okt 2025 iflg. res. 19 sep 2025 nr. 1876, endring endret ved lov 20 juni 2025 nr. 85).\n1 EES-systemet vil starte opp gradvis, jf. grenseforskriften § 5A-2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Rydding og rådighet i grensegaten",
+      "content": "Langs riksgrensen løper en grensegate med bredde som avtalt med nabostat. Det er forbudt for grunneier og andre å utøve rådighet i grensegaten med mindre det er gitt samtykke etter annet ledd.\nTilsynsmyndigheten utfører nødvendige tiltak for å holde riksgrensen og grensegaten ryddet og oppmerket, og kan samtykke til at grunneier eller rettighetshaver avvirker skog eller benytter grunnen som beite eller slåttemark når avtale med nabostat ikke er til hinder for det og det ikke innebærer terrenginngrep eller jordbearbeiding.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Rådighetsbegrensninger i grensenære områder",
+      "content": "Til gjennomføring av grensetilsyn og grensekontroll og for øvelses- og beredskapsformål har politiet, tilsynsmyndigheten og Forsvaret rett til adkomst til grensegaten på og utenfor vei, og til benyttelse av grunn i grensenære områder. Skade skal erstattes.\nDe grensenære områdenes naturlige preg bør søkes opprettholdt. Kongen kan forby eller regulere enhver type virksomhet og tiltak når det anses nødvendig for å lette grensekontrollen, hindre skade på riksgrensen eller riksgrensens løp eller hindre forurensning av grensevassdrag.\nNår det er nødvendig for utførelse av oppgaver etter loven, kan departementet mot erstatning tvangserverve grunn og rettigheter, og la oppføre bygg og anlegg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Adferdsregler",
+      "content": "Skyting over riksgrensen og annen truende eller skremmende adferd ved grensen er forbudt. Det er også forbudt å skade, flytte eller tilsøle grensegate eller grensemerking tilhørende Norge eller nabostat, og å fjerne gjenstander fra dem.\nKongen gir forskrift om andre påbud og forbud som følger av avtale med nabostat.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Ekstraordinære adgangsbegrensninger",
+      "content": "Kongen kan fatte vedtak om å forby eller begrense opphold, ferdsel og krysning av grensen i situasjoner som ikke kan håndteres gjennom ordinære kontrolltiltak, når det er nødvendig\n1. for å trygge riksgrensen, grenseovergangsstedene og forholdene der,\n2. for å styrke kontrollen med grensepasseringer og ferdselen,\n3. for å verne samfunnet eller naturen, eller\n4. av andre helsemessige grunner eller sikkerhetsmessige forhold.\nTiltak etter første ledd skal være tidsmessig og geografisk avgrenset.\nKongen kan gi forskrift med nærmere regler om ekstraordinære adgangsbegrensninger etter første og annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Passering av ytre Schengen-grense",
+      "content": "Ytre Schengen-grense skal passeres over grenseovergangssted fastsatt av departementet eller den departementet gir fullmakt, og innenfor fastsatte åpningstider.\nVed passering av grensen plikter enhver straks å fremstille seg for inn- og utreisekontroll.\nKongen gir forskrift om grensepassering og om unntak fra kravene i første og annet ledd.\n0 Endret ved lov 29 april 2022 nr. 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Passering av indre Schengen-grense",
+      "content": "Indre Schengen-grense kan passeres hvor som helst med mindre grensekontroll er midlertidig gjeninnført, jf. annet og tredje ledd.\nDepartementet kan beslutte å gjeninnføre grensekontroll midlertidig på hele eller deler av indre Schengen-grense dersom det foreligger en alvorlig trussel mot offentlig orden eller indre sikkerhet.\nNår grensekontroll er midlertidig gjeninnført, skal indre Schengen-grense passereres over grenseovergangssted fastsatt av departementet. Reglene i og i medhold av §§ 13, 15 og 16 gjelder så langt de passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Gjennomføring av inn- og utreisekontroll",
+      "content": "Inn- og utreisekontrollen kan utføres\n1. på grenseovergangssted eller der hvor den reisende melder seg eller påtreffes,\n2. på offentlige transportmidler og sjøfartøy etter siste avgang i utlandet og senest ved første stans i Norge,\n3. i territorialfarvannet på sjøfartøy underveis til eller fra norsk havn eller indre farvann,\n4. i tilstøtende sone, og\n5. etter begjæring på innretninger og anlegg som nyttes på eller er tilknyttet norsk kontinentalsokkel.\nVed inn- og utreisekontroll skal det påses at enhver har pass eller annet legitimasjonsdokument som er godkjent som reisedokument etter utlendingsloven, at visumpliktige har gyldig visum, og at det ikke er grunnlag for bortvisning etter utlendingsloven §§ 17 eller 121.\nVed inn- og utreisekontroll kan det også foretas andre former for identitetskontroll, herunder iriskontroll, kontroll av fingeravtrykk og ansiktsgjenkjenning.\nPolitiet kan visitere person og undersøke transportmidler for å fremskaffe pass eller annet legitimasjonsdokument dersom det ikke fremvises, eller det er grunn til mistanke om at den oppgitte identiteten er falsk eller at personen skjuler andres legitimasjonsdokumenter. Transportmidler kan også undersøkes for å fastslå om det finnes personer der som forsøker å unndra seg inn- og utreisekontroll.\n0 Endret ved lover 29 april 2022 nr. 26, 20 juni 2025 nr. 85 (i kraft 12 okt 2025 iflg. res. 19 sep 2025 nr. 1877).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Forhåndsmelding om reisende og mannskap",
+      "content": "Transportør av luftfartøy som kommer fra eller går til utlandet, og fører av sjøfartøy på vei til eller fra indre farvann eller norsk havn, skal, med mindre annet er bestemt, oversende opplysninger om reisende og mannskap til politiet, og melde planlagt tid og sted for ankomst eller anløp og avreise.\n0 Endret ved lov 29 april 2022 nr. 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:16 a",
+      "chapter": "3",
+      "section": "16 a",
+      "title": "Forhåndsmelding om passasjerer (PNR-opplysninger)",
+      "content": "For det formål å bekjempe terrorisme og annen alvorlig kriminalitet plikter luftfartsselskaper ved flyvning til eller fra utlandet å overføre opplysninger om passasjerene (PNR-opplysninger) til PNR-enheten. Opplysningene skal overføres i samme omfang som de er innsamlet i selskapenes ordinære forretningsdrift.\nDersom flyturen deles med ett eller flere luftfartsselskaper, skal selskapet som utfører flyvningen overføre PNR-opplysningene over samtlige passasjerer.\nPNR-opplysningene skal overføres\n1. 24–48 timer før avgang og\n2. umiddelbart etter at passasjerene har gått om bord i luftfartøyet, og fartøyets dører er lukket.\nOverføringer etter nr. 2 begrenses til oppdateringer og utfyllende opplysninger til de opplysninger som er avgitt etter nr. 1.\nNår det unntaksvis er nødvendig med tilgang til PNR-opplysninger for å avverge en konkret og reell trussel i forbindelse med terrorhandlinger eller alvorlig kriminalitet, skal luftfartsselskapene etter anmodning fra PNR-enheten overføre PNR-opplysninger til andre tidspunkter enn de som er nevnt i tredje ledd nr. 1 og 2.\nLuftfartsselskapene skal overføre PNR-opplysningene i elektronisk form til PNR-enheten.\nKongen gir forskrift om behandling av PNR-opplysninger, og kan gi forskrift om overføringen av slike opplysninger til andre tidspunkter enn de som er nevnt i tredje ledd.\n0 Tilføyd ved lov 29 april 2022 nr. 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16a",
+        "source_heading": "§ 16 a."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Kontroll av sjøfolk som fratrer stilling på fartøy mv.",
+      "content": "En utlending som fratrer sin stilling om bord på et sjøfartøy, kan ikke forlate fartøyet før innreisekontrollen skal gjennomføres. Det samme gjelder en utlending som er blindpassasjer om bord i et sjøfartøy. Politiet bestemmer hvor og når innreisekontrollen skal finne sted.\n0 Endret ved lov 29 april 2022 nr. 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Definisjon",
+      "content": "Med grenseovervåking forstås overvåking av grenseovergangssteder og grensene på strekningene mellom grenseovergangssteder for å forhindre at personer omgår inn- og utreisekontrollen, for å avdekke uautoriserte grensepasseringer, bidra til skjerpet situasjonsbevissthet, bekjempe grensekryssende kriminalitet og iverksette tiltak mot personer som har passert grensen ulovlig.\n0 Endret ved lov 20 juni 2025 nr. 85 (i kraft 12 okt 2025 iflg. res. 19 sep 2025 nr. 1877).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Overvåking av ytre Schengen-grense",
+      "content": "Politiet kan overvåke ytre Schengen-grense med nærliggende områder, territorialfarvannet og tilstøtende sone samt ferdselen til og fra de overvåkede områdene.\n0 Endret ved lov 20 juni 2025 nr. 85 (i kraft 12 okt 2025 iflg. res. 19 sep 2025 nr. 1877).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Overvåking av indre Schengen-grense",
+      "content": "Indre Schengen-grense kan bare overvåkes sporadisk eller når grensekontroll er midlertidig gjeninnført etter § 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Kontroll av personer ved grenseovervåking",
+      "content": "Hvis det under utførelse av grenseovervåking oppstår tjenstlig behov for identifisering, kan personer avkreves pass eller annen egnet legitimasjon og forklaring om oppholdet ved grensen.\nVed rimelig grunn til mistanke om ulovlig grensepassering eller forsøk på unndragelse fra inn- og utreisekontroll, kan militært personell som overvåker grensen på vegne av politiet utføre kontrolltiltak etter § 15 i samråd med politiet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Behandling av opplysninger til gjennomføring av grensekontroll",
+      "content": "Politiet kan behandle personopplysninger, herunder særlige kategorier av personopplysninger, som er nødvendige for gjennomføring av grensekontroll etter loven.\nPolitiet kan behandle opplysninger om reisende i et register som grunnlag for gjennomføring av inn- og utreisekontroll. Registeret kan kobles til andre registre med opplysninger som er nødvendige for gjennomføring av inn- og utreisekontroll.\nBiometrisk personinformasjon (ansiktsfoto og fingeravtrykk) kan innhentes elektronisk av alle som passerer grensekontroll eller annet kontrollsted for kontroll av reisedokumenter.\n0 Endret ved lov 20 juni 2025 nr. 85 (i kraft 12 okt 2025 iflg. res. 19 sep 2025 nr. 1877).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Overvåkingsmetoder og bruk av teknisk overvåkingsutstyr",
+      "content": "Grenseovervåking kan skje fra faste og mobile enheter og ved bruk av kamera og andre tekniske, herunder elektroniske, hjelpemidler.\nDet skal settes opp synlig varsel om grenseovervåking langs landegrensen og ved grenseovergangssteder der teknisk overvåkingsutstyr kan bli brukt periodisk eller permanent.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Taushetsplikt",
+      "content": "Reglene om taushetsplikt og informasjonsutveksling i forvaltningsloven §§ 13 til 13 f gjelder når politiet og myndighet med særlige tilsynsfunksjoner utfører oppgaver etter denne loven. Det samme gjelder for andre som utfører oppgaver etter loven.\nFor behandling av opplysninger som reguleres av politiregisterloven gjelder taushetspliktbestemmelsene i politiregisterloven kapittel V og VI.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "Forskrifter",
+      "content": "Kongen kan gi forskrift om gjennomføring av loven, blant annet om\n1. lovens anvendelse for Svalbard, Jan Mayen og bilandene Bouvetøya, Peter I Øy og Dronning Maud Land, blant annet om kontroll med reisende og andre særlige regler av hensyn til de stedlige forholdene, jf. § 3,\n2. gjennomføring av forpliktelser etter avtale med nabostat, blant annet om immunitet og privilegier, jf. kapittel 2,\n3. grenseovergangssteder, blant annet om fastsetting, innretting av kontrollen og samarbeid mellom grensekontrollmyndigheten og eier eller driver av grenseovergangssted, jf. § 13,\n4. midlertidig gjeninnføring av grensekontroll på indre Schengen-grense, jf. § 14,\n5. gjennomføring av inn- og utreisekontroll, blant annet for reisende som kommer fra eller reiser til Svalbard eller innretninger og anlegg som nyttes på eller er tilknyttet norsk kontinentalsokkel, jf. § 15,\n6. politiets myndighet til å kreve inn pass og andre reise- eller legitimasjonsdokumenter fra utlending før innreise, samt til å ta kopi av slike dokumenter, jf. § 15,\n7. plikt for transportør av sjøfartøy, luftfartøy eller yrkesmessig landtransport av personer til å kontrollere at de reisende har gyldige reise- eller legitimasjonsdokument og visum, samt plikt til å ta kopi av disse, jf. § 15,\n8. hvilke fartøy og opplysninger som omfattes av § 16, av hvem, når og hvordan opplysningene skal oversendes og om plikt for fører til å rette seg etter politiets anvisning om ankomst-, anløps- eller avreisested for gjennomføring av inn- og utreisekontroll,\n9. sjøfolks landlov og sjøfolks og blindpassasjerers adgang til å gå i land i riket, og om saksbehandling og klageadgang i slike saker, jf. § 17,\n10. behandling av personopplysninger, blant annet om innsyn, retting og sletting og om behandling, herunder utveksling, av opplysninger i koordineringssenteret for Eurosur, jf. § 22,\n11. bruk av teknisk overvåkingsutstyr, jf. § 23,\n12. gjennomføringen av rettsakter som nevnt i § 8 første ledd, blant annet om behandling av personopplysninger,\n13. gjennomføringen av forordning (EU) 2019/817 artikkel 20 og forordning (EU) 2019/818 artikkel 20,\n14. gjennomføring av endringer i vedlegg III, IV, VIII og XI til forordning (EU) 2016/399 (grenseforordningen) med senere endringer vedtatt av Europakommisjonen i medhold av grenseforordningen artikkel 36, jf. § 8 første ledd nr. 1.\n0 Endret ved lover 29 april 2022 nr. 26, 21 juni 2024 nr. 47 (i kraft 12 okt 2025 iflg. res. 19 sep 2025 nr. 1876, endring endret ved lov 20 juni 2025 nr. 85), 20 juni 2025 nr. 85 (i kraft 12 okt 2025 iflg. res. 19 sep 2025 nr. 1877).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "Straff",
+      "content": "Med bot eller fengsel inntil seks måneder eller begge deler straffes den som forsettlig eller uaktsomt overtrer bestemmelser, påbud, forbud eller vilkår gitt i eller i medhold av § 9 første ledd annet punktum, § 10 annet ledd annet punktum, §§ 11, 12 eller 13, § 14 tredje ledd, § 16, § 16 a, § 17 eller § 25 nr. 1, 2, 7 eller 8. Forsøk straffes på samme måte.\n0 Endret ved lov 29 april 2022 nr. 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.\n1 Fra 1. mai 2022 med unntak av § 8 første ledd nr. 2 iflg. res. 29 april 2022 nr. 638.Fra 12. oktober 2025 for § 8 første ledd nr. 2 iflg. res. 19 sep 2025 nr. 1875.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:28",
+      "chapter": "6",
+      "section": "28",
+      "title": "Oppheving av og endringer i andre lover",
+      "content": "Fra det tidspunkt loven trer i kraft oppheves lov 14. juli 1950 nr. 2 om forskjellige tiltak til gjennomføring av oppmerking og overvåking av riksgrensen.\nFra det tidspunkt loven trer i kraft gjøres følgende endringer i andre lover:\n1. I lov 4. august 1995 nr. 53 om politiet gjøres følgende endringer: – – –\n2. I lov 13. juni 1997 nr. 42 om Kystvakten skal § 3 andre ledd annet punktum lyde: – – –\n3. I lov 19. juni 1997 nr. 82 om pass oppheves § 6 a.\n4. I lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her gjøres følgende endringer: – – –\n0 Endret ved lover 21 juni 2019 nr. 70 (i kraft 1 jan 2022 iflg. res. 21 juni 2019 nr. 872), 29 april 2022 nr. 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Loven skal sikre at grensetilsyn og grensekontroll av personer utføres i samsvar med nasjonale behov og internasjonale forpliktelser, herunder tydeliggjøre ansvar og styring og fremme samarbeid mellom berørte myndigheter. Loven skal også legge til rette for lovlig bevegelse over grensene og bidra til å bekjempe grensekryssende kriminalitet, ulovlig innvandring og trusler mot folkehelsen.\n0 Endret ved lov 29 april 2022 nr. 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens saklige virkeområde og forholdet til andre regler",
+      "content": "Loven gir regler om rettslige og fysiske forhold i tilknytning til riksgrensen og om grensepassering og grensekontroll av personer. Regler om utlendingers adgang til riket og deres opphold her følger av utlendingsloven.\nLoven gjelder med de begrensninger som er anerkjent i folkeretten eller følger av overenskomst med annen stat.\nLoven gjelder ikke militære oppgaver, herunder for å hevde suverenitet og suverene rettigheter, kontroll av vareførselen etter tolloven, eller annen kontrollvirksomhet på eller ved grensen etter annen lov.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Lovens stedlige virkeområde",
+      "content": "Loven gjelder i riket, på og ved innretninger og anlegg som nyttes på eller er tilknyttet norsk kontinentalsokkel, og i tilstøtende sone, jf. lov 27. juni 2003 nr. 57 om Norges territorialfarvann og tilstøtende sone § 4.\nLoven gjelder på annen stats jurisdiksjonsområde når det følger av avtale med staten, og på områder hvor ingen stat har suverenitet når det følger av folkeretten.\n0 Endret ved lov 20 des 2023 nr. 110 (i kraft 24 mai 2024 iflg. res. 24 mai 2024 nr. 811).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Politiets ansvar og samarbeid med andre myndigheter",
+      "content": "Politiet har ansvar for utøvelsen av grenseovervåking og inn- og utreisekontroll av personer etter loven. Myndighetsutøvelse på vegne av politiet og bistand til politiets grensekontroll etter §§ 6 og 7 utføres under politiets ansvar og ledelse.\nPolitiet skal samarbeide med andre myndigheter som er tillagt oppgaver som berører politiets oppgaver etter loven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Ansvar for særlige tilsynsfunksjoner",
+      "content": "Kongen oppnevner myndighet med ansvar for å ivareta særlige forpliktelser og tilsynsfunksjoner i tilknytning til riksgrensen, og fastsetter instruks for myndighetens virksomhet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "title": "Forsvarets myndighetsutøvelse og bistand til politiets grensekontroll",
+      "content": "Forsvaret kan på vegne av politiet utøve grenseovervåking etter § 19 på den norsk-russiske grensen. Ved utøvelse av slik grenseovervåking kan Forsvaret utøve makt innenfor rammene av politiloven § 6.\nKongen gir nærmere regler om Forsvarets grenseovervåking etter første ledd, herunder om opplæring, bevæpning og ledelse av militært mannskap som benyttes.\nBistand fra Forsvaret til andre grensekontrolloppgaver gjennomføres etter reglene om bistand fra Forsvaret i og i medhold av politiloven § 27 a. Kystvaktens virksomhet reguleres av kystvaktloven.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "title": "Tolletatens bistand til politiets inn- og utreisekontroll",
+      "content": "Tolletaten skal bistå politiet med gjennomføring av inn- og utreisekontroll etter loven. Ved utførelsen av slik bistand har Tolletaten de samme rettighetene og pliktene som politiet har etter § 15.\nKongen gir forskrift om Tolletatens bistand til politiets inn- og utreisekontroll.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "title": "Gjennomføring av EU-rettsakter og bistand fra europeiske grensekontrollteam",
+      "content": "Følgende rettsakter gjelder som lov:\n1. Forordning (EU) 2016/399 om bevegelsen av personer over grenser (grenseforordningen), som endret ved:\n- forordning (EU) 2017/458,\n- forordning (EU) 2017/2225,\n- forordning (EU) 2018/1240,\n- forordning (EU) 2019/817,\n- forordning (EU) 2021/1134, og\n- forordning (EU) 2024/1717.\n2. Forordning (EU) 2017/2226 om etableringen av inn- og utreisesystemet (EES-forordningen)​1, som endret ved forordning (EU) 2018/1240, forordning (EU) 2019/817, forordning (EU) 2021/1134 og forordning (EU) 2021/1152\n3. Rådsdirektiv 2004/82/EF om transportselskapers plikt til å fremsende opplysninger om passasjerer (API-direktivet)\n4. Forordning (EU) 2019/817 om opprettelse av en ramme for interoperabilitet mellom EU-informasjonssystemer for grenser og visum, som endret ved forordning (EU) 2021/1134 og forordning (EU) 2021/1152\n5. Forordning (EU) 2019/818 om opprettelse av en ramme for interoperabilitet mellom EU-informasjonssystemer for politisamarbeid og rettslig samarbeid, asyl og migrasjon, som endret ved forordning (EU) 2021/1133 og forordning (EU) 2021/1150.\nEuropeiske grensekontrollteam kan etter anmodning bistå politiet med gjennomføring av grensekontroll. Politiloven § 20 a annet og tredje ledd får tilsvarende anvendelse for utenlandske tjenestemenn som deltar under utførelsen av slike bistandsoppgaver.\n0 Endret ved lover 29 april 2022 nr. 26, 21 juni 2024 nr. 47 (i kraft 12 okt 2025 iflg. res. 19 sep 2025 nr. 1876, endring endret ved lov 20 juni 2025 nr. 85).\n1 EES-systemet vil starte opp gradvis, jf. grenseforskriften § 5A-2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Rydding og rådighet i grensegaten",
+      "content": "Langs riksgrensen løper en grensegate med bredde som avtalt med nabostat. Det er forbudt for grunneier og andre å utøve rådighet i grensegaten med mindre det er gitt samtykke etter annet ledd.\nTilsynsmyndigheten utfører nødvendige tiltak for å holde riksgrensen og grensegaten ryddet og oppmerket, og kan samtykke til at grunneier eller rettighetshaver avvirker skog eller benytter grunnen som beite eller slåttemark når avtale med nabostat ikke er til hinder for det og det ikke innebærer terrenginngrep eller jordbearbeiding.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Rådighetsbegrensninger i grensenære områder",
+      "content": "Til gjennomføring av grensetilsyn og grensekontroll og for øvelses- og beredskapsformål har politiet, tilsynsmyndigheten og Forsvaret rett til adkomst til grensegaten på og utenfor vei, og til benyttelse av grunn i grensenære områder. Skade skal erstattes.\nDe grensenære områdenes naturlige preg bør søkes opprettholdt. Kongen kan forby eller regulere enhver type virksomhet og tiltak når det anses nødvendig for å lette grensekontrollen, hindre skade på riksgrensen eller riksgrensens løp eller hindre forurensning av grensevassdrag.\nNår det er nødvendig for utførelse av oppgaver etter loven, kan departementet mot erstatning tvangserverve grunn og rettigheter, og la oppføre bygg og anlegg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Adferdsregler",
+      "content": "Skyting over riksgrensen og annen truende eller skremmende adferd ved grensen er forbudt. Det er også forbudt å skade, flytte eller tilsøle grensegate eller grensemerking tilhørende Norge eller nabostat, og å fjerne gjenstander fra dem.\nKongen gir forskrift om andre påbud og forbud som følger av avtale med nabostat.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Ekstraordinære adgangsbegrensninger",
+      "content": "Kongen kan fatte vedtak om å forby eller begrense opphold, ferdsel og krysning av grensen i situasjoner som ikke kan håndteres gjennom ordinære kontrolltiltak, når det er nødvendig\n1. for å trygge riksgrensen, grenseovergangsstedene og forholdene der,\n2. for å styrke kontrollen med grensepasseringer og ferdselen,\n3. for å verne samfunnet eller naturen, eller\n4. av andre helsemessige grunner eller sikkerhetsmessige forhold.\nTiltak etter første ledd skal være tidsmessig og geografisk avgrenset.\nKongen kan gi forskrift med nærmere regler om ekstraordinære adgangsbegrensninger etter første og annet ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Passering av ytre Schengen-grense",
+      "content": "Ytre Schengen-grense skal passeres over grenseovergangssted fastsatt av departementet eller den departementet gir fullmakt, og innenfor fastsatte åpningstider.\nVed passering av grensen plikter enhver straks å fremstille seg for inn- og utreisekontroll.\nKongen gir forskrift om grensepassering og om unntak fra kravene i første og annet ledd.\n0 Endret ved lov 29 april 2022 nr. 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Passering av indre Schengen-grense",
+      "content": "Indre Schengen-grense kan passeres hvor som helst med mindre grensekontroll er midlertidig gjeninnført, jf. annet og tredje ledd.\nDepartementet kan beslutte å gjeninnføre grensekontroll midlertidig på hele eller deler av indre Schengen-grense dersom det foreligger en alvorlig trussel mot offentlig orden eller indre sikkerhet.\nNår grensekontroll er midlertidig gjeninnført, skal indre Schengen-grense passereres over grenseovergangssted fastsatt av departementet. Reglene i og i medhold av §§ 13, 15 og 16 gjelder så langt de passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Gjennomføring av inn- og utreisekontroll",
+      "content": "Inn- og utreisekontrollen kan utføres\n1. på grenseovergangssted eller der hvor den reisende melder seg eller påtreffes,\n2. på offentlige transportmidler og sjøfartøy etter siste avgang i utlandet og senest ved første stans i Norge,\n3. i territorialfarvannet på sjøfartøy underveis til eller fra norsk havn eller indre farvann,\n4. i tilstøtende sone, og\n5. etter begjæring på innretninger og anlegg som nyttes på eller er tilknyttet norsk kontinentalsokkel.\nVed inn- og utreisekontroll skal det påses at enhver har pass eller annet legitimasjonsdokument som er godkjent som reisedokument etter utlendingsloven, at visumpliktige har gyldig visum, og at det ikke er grunnlag for bortvisning etter utlendingsloven §§ 17 eller 121.\nVed inn- og utreisekontroll kan det også foretas andre former for identitetskontroll, herunder iriskontroll, kontroll av fingeravtrykk og ansiktsgjenkjenning.\nPolitiet kan visitere person og undersøke transportmidler for å fremskaffe pass eller annet legitimasjonsdokument dersom det ikke fremvises, eller det er grunn til mistanke om at den oppgitte identiteten er falsk eller at personen skjuler andres legitimasjonsdokumenter. Transportmidler kan også undersøkes for å fastslå om det finnes personer der som forsøker å unndra seg inn- og utreisekontroll.\n0 Endret ved lover 29 april 2022 nr. 26, 20 juni 2025 nr. 85 (i kraft 12 okt 2025 iflg. res. 19 sep 2025 nr. 1877).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Forhåndsmelding om reisende og mannskap",
+      "content": "Transportør av luftfartøy som kommer fra eller går til utlandet, og fører av sjøfartøy på vei til eller fra indre farvann eller norsk havn, skal, med mindre annet er bestemt, oversende opplysninger om reisende og mannskap til politiet, og melde planlagt tid og sted for ankomst eller anløp og avreise.\n0 Endret ved lov 29 april 2022 nr. 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:16 a",
+      "chapter": "3",
+      "section": "16 a",
+      "title": "Forhåndsmelding om passasjerer (PNR-opplysninger)",
+      "content": "For det formål å bekjempe terrorisme og annen alvorlig kriminalitet plikter luftfartsselskaper ved flyvning til eller fra utlandet å overføre opplysninger om passasjerene (PNR-opplysninger) til PNR-enheten. Opplysningene skal overføres i samme omfang som de er innsamlet i selskapenes ordinære forretningsdrift.\nDersom flyturen deles med ett eller flere luftfartsselskaper, skal selskapet som utfører flyvningen overføre PNR-opplysningene over samtlige passasjerer.\nPNR-opplysningene skal overføres\n1. 24–48 timer før avgang og\n2. umiddelbart etter at passasjerene har gått om bord i luftfartøyet, og fartøyets dører er lukket.\nOverføringer etter nr. 2 begrenses til oppdateringer og utfyllende opplysninger til de opplysninger som er avgitt etter nr. 1.\nNår det unntaksvis er nødvendig med tilgang til PNR-opplysninger for å avverge en konkret og reell trussel i forbindelse med terrorhandlinger eller alvorlig kriminalitet, skal luftfartsselskapene etter anmodning fra PNR-enheten overføre PNR-opplysninger til andre tidspunkter enn de som er nevnt i tredje ledd nr. 1 og 2.\nLuftfartsselskapene skal overføre PNR-opplysningene i elektronisk form til PNR-enheten.\nKongen gir forskrift om behandling av PNR-opplysninger, og kan gi forskrift om overføringen av slike opplysninger til andre tidspunkter enn de som er nevnt i tredje ledd.\n0 Tilføyd ved lov 29 april 2022 nr. 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16a",
+        "source_heading": "§ 16 a."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Kontroll av sjøfolk som fratrer stilling på fartøy mv.",
+      "content": "En utlending som fratrer sin stilling om bord på et sjøfartøy, kan ikke forlate fartøyet før innreisekontrollen skal gjennomføres. Det samme gjelder en utlending som er blindpassasjer om bord i et sjøfartøy. Politiet bestemmer hvor og når innreisekontrollen skal finne sted.\n0 Endret ved lov 29 april 2022 nr. 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Definisjon",
+      "content": "Med grenseovervåking forstås overvåking av grenseovergangssteder og grensene på strekningene mellom grenseovergangssteder for å forhindre at personer omgår inn- og utreisekontrollen, for å avdekke uautoriserte grensepasseringer, bidra til skjerpet situasjonsbevissthet, bekjempe grensekryssende kriminalitet og iverksette tiltak mot personer som har passert grensen ulovlig.\n0 Endret ved lov 20 juni 2025 nr. 85 (i kraft 12 okt 2025 iflg. res. 19 sep 2025 nr. 1877).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Overvåking av ytre Schengen-grense",
+      "content": "Politiet kan overvåke ytre Schengen-grense med nærliggende områder, territorialfarvannet og tilstøtende sone samt ferdselen til og fra de overvåkede områdene.\n0 Endret ved lov 20 juni 2025 nr. 85 (i kraft 12 okt 2025 iflg. res. 19 sep 2025 nr. 1877).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Overvåking av indre Schengen-grense",
+      "content": "Indre Schengen-grense kan bare overvåkes sporadisk eller når grensekontroll er midlertidig gjeninnført etter § 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Kontroll av personer ved grenseovervåking",
+      "content": "Hvis det under utførelse av grenseovervåking oppstår tjenstlig behov for identifisering, kan personer avkreves pass eller annen egnet legitimasjon og forklaring om oppholdet ved grensen.\nVed rimelig grunn til mistanke om ulovlig grensepassering eller forsøk på unndragelse fra inn- og utreisekontroll, kan militært personell som overvåker grensen på vegne av politiet utføre kontrolltiltak etter § 15 i samråd med politiet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "title": "Behandling av opplysninger til gjennomføring av grensekontroll",
+      "content": "Politiet kan behandle personopplysninger, herunder særlige kategorier av personopplysninger, som er nødvendige for gjennomføring av grensekontroll etter loven.\nPolitiet kan behandle opplysninger om reisende i et register som grunnlag for gjennomføring av inn- og utreisekontroll. Registeret kan kobles til andre registre med opplysninger som er nødvendige for gjennomføring av inn- og utreisekontroll.\nBiometrisk personinformasjon (ansiktsfoto og fingeravtrykk) kan innhentes elektronisk av alle som passerer grensekontroll eller annet kontrollsted for kontroll av reisedokumenter.\n0 Endret ved lov 20 juni 2025 nr. 85 (i kraft 12 okt 2025 iflg. res. 19 sep 2025 nr. 1877).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "5:23",
+      "chapter": "5",
+      "section": "23",
+      "title": "Overvåkingsmetoder og bruk av teknisk overvåkingsutstyr",
+      "content": "Grenseovervåking kan skje fra faste og mobile enheter og ved bruk av kamera og andre tekniske, herunder elektroniske, hjelpemidler.\nDet skal settes opp synlig varsel om grenseovervåking langs landegrensen og ved grenseovergangssteder der teknisk overvåkingsutstyr kan bli brukt periodisk eller permanent.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Taushetsplikt",
+      "content": "Reglene om taushetsplikt og informasjonsutveksling i forvaltningsloven §§ 13 til 13 f gjelder når politiet og myndighet med særlige tilsynsfunksjoner utfører oppgaver etter denne loven. Det samme gjelder for andre som utfører oppgaver etter loven.\nFor behandling av opplysninger som reguleres av politiregisterloven gjelder taushetspliktbestemmelsene i politiregisterloven kapittel V og VI.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "Forskrifter",
+      "content": "Kongen kan gi forskrift om gjennomføring av loven, blant annet om\n1. lovens anvendelse for Svalbard, Jan Mayen og bilandene Bouvetøya, Peter I Øy og Dronning Maud Land, blant annet om kontroll med reisende og andre særlige regler av hensyn til de stedlige forholdene, jf. § 3,\n2. gjennomføring av forpliktelser etter avtale med nabostat, blant annet om immunitet og privilegier, jf. kapittel 2,\n3. grenseovergangssteder, blant annet om fastsetting, innretting av kontrollen og samarbeid mellom grensekontrollmyndigheten og eier eller driver av grenseovergangssted, jf. § 13,\n4. midlertidig gjeninnføring av grensekontroll på indre Schengen-grense, jf. § 14,\n5. gjennomføring av inn- og utreisekontroll, blant annet for reisende som kommer fra eller reiser til Svalbard eller innretninger og anlegg som nyttes på eller er tilknyttet norsk kontinentalsokkel, jf. § 15,\n6. politiets myndighet til å kreve inn pass og andre reise- eller legitimasjonsdokumenter fra utlending før innreise, samt til å ta kopi av slike dokumenter, jf. § 15,\n7. plikt for transportør av sjøfartøy, luftfartøy eller yrkesmessig landtransport av personer til å kontrollere at de reisende har gyldige reise- eller legitimasjonsdokument og visum, samt plikt til å ta kopi av disse, jf. § 15,\n8. hvilke fartøy og opplysninger som omfattes av § 16, av hvem, når og hvordan opplysningene skal oversendes og om plikt for fører til å rette seg etter politiets anvisning om ankomst-, anløps- eller avreisested for gjennomføring av inn- og utreisekontroll,\n9. sjøfolks landlov og sjøfolks og blindpassasjerers adgang til å gå i land i riket, og om saksbehandling og klageadgang i slike saker, jf. § 17,\n10. behandling av personopplysninger, blant annet om innsyn, retting og sletting og om behandling, herunder utveksling, av opplysninger i koordineringssenteret for Eurosur, jf. § 22,\n11. bruk av teknisk overvåkingsutstyr, jf. § 23,\n12. gjennomføringen av rettsakter som nevnt i § 8 første ledd, blant annet om behandling av personopplysninger,\n13. gjennomføringen av forordning (EU) 2019/817 artikkel 20 og forordning (EU) 2019/818 artikkel 20,\n14. gjennomføring av endringer i vedlegg III, IV, VIII og XI til forordning (EU) 2016/399 (grenseforordningen) med senere endringer vedtatt av Europakommisjonen i medhold av grenseforordningen artikkel 36, jf. § 8 første ledd nr. 1.\n0 Endret ved lover 29 april 2022 nr. 26, 21 juni 2024 nr. 47 (i kraft 12 okt 2025 iflg. res. 19 sep 2025 nr. 1876, endring endret ved lov 20 juni 2025 nr. 85), 20 juni 2025 nr. 85 (i kraft 12 okt 2025 iflg. res. 19 sep 2025 nr. 1877).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "Straff",
+      "content": "Med bot eller fengsel inntil seks måneder eller begge deler straffes den som forsettlig eller uaktsomt overtrer bestemmelser, påbud, forbud eller vilkår gitt i eller i medhold av § 9 første ledd annet punktum, § 10 annet ledd annet punktum, §§ 11, 12 eller 13, § 14 tredje ledd, § 16, § 16 a, § 17 eller § 25 nr. 1, 2, 7 eller 8. Forsøk straffes på samme måte.\n0 Endret ved lov 29 april 2022 nr. 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra den tid​1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.\n1 Fra 1. mai 2022 med unntak av § 8 første ledd nr. 2 iflg. res. 29 april 2022 nr. 638.Fra 12. oktober 2025 for § 8 første ledd nr. 2 iflg. res. 19 sep 2025 nr. 1875.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:28",
+      "chapter": "6",
+      "section": "28",
+      "title": "Oppheving av og endringer i andre lover",
+      "content": "Fra det tidspunkt loven trer i kraft oppheves lov 14. juli 1950 nr. 2 om forskjellige tiltak til gjennomføring av oppmerking og overvåking av riksgrensen.\nFra det tidspunkt loven trer i kraft gjøres følgende endringer i andre lover:\n1. I lov 4. august 1995 nr. 53 om politiet gjøres følgende endringer: – – –\n2. I lov 13. juni 1997 nr. 42 om Kystvakten skal § 3 andre ledd annet punktum lyde: – – –\n3. I lov 19. juni 1997 nr. 82 om pass oppheves § 6 a.\n4. I lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her gjøres følgende endringer: – – –\n0 Endret ved lover 21 juni 2019 nr. 70 (i kraft 1 jan 2022 iflg. res. 21 juni 2019 nr. 872), 29 april 2022 nr. 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1311 @@
+{
+  "id": "LOV-2000-04-14-31",
+  "type": "statute",
+  "title": "Lov om behandling av personopplysninger (personopplysningsloven)",
+  "short_name": "Personopplysningsloven – popplyl",
+  "status": "in_force",
+  "issued_date": "2000-04-14",
+  "in_force_date": "2001-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/2000-04-14-31",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Formålet med denne loven er å beskytte den enkelte mot at personvernet blir krenket gjennom behandling av personopplysninger.​1\nLoven skal bidra til at personopplysninger​1 blir behandlet i samsvar med grunnleggende personvernhensyn, herunder behovet for personlig integritet, privatlivets fred og tilstrekkelig kvalitet på personopplysninger.\n1 Se § 2 nr. 2, jf. nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjoner",
+      "content": "I denne loven forstås med:\n1. personopplysning: opplysninger og vurderinger som kan knyttes til en enkeltperson,\n2. behandling av personopplysninger: enhver bruk av personopplysninger, som f.eks. innsamling, registrering, sammenstilling, lagring og utlevering eller en kombinasjon av slike bruksmåter,\n3. personregister: registre, fortegnelser m.v. der personopplysninger er lagret systematisk slik at opplysninger om den enkelte kan finnes igjen,\n4. behandlingsansvarlig: den som bestemmer formålet med behandlingen av personopplysninger og hvilke hjelpemidler som skal brukes,\n5. databehandler: den som behandler personopplysninger på vegne av den behandlingsansvarlige,\n6. registrert: den som en personopplysning kan knyttes til,\n7. samtykke: en frivillig, uttrykkelig og informert erklæring fra den registrerte om at han eller hun godtar behandling av opplysninger om seg selv,\n8. sensitive personopplysninger: opplysninger om\na. rasemessig eller etnisk bakgrunn, eller politisk, filosofisk eller religiøs oppfatning,\nb. at en person har vært mistenkt, siktet, tiltalt eller dømt for en straffbar handling,\nc. helseforhold,\nd. seksuelle forhold,\ne. medlemskap i fagforeninger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Saklig virkeområde",
+      "content": "Loven gjelder for\na. behandling av personopplysninger​1 som helt eller delvis skjer med elektroniske hjelpemidler,\nb. annen behandling av personopplysninger​1 når disse inngår eller skal inngå i et personregister​2 og\nc. alle former for kameraovervåking, slik dette er definert i § 36 første ledd.\nLoven gjelder ikke behandling av personopplysninger​1 som den enkelte foretar for rent personlige eller andre private formål.\nKongen kan gi forskrift om at loven eller deler av den ikke skal gjelde for bestemte institusjoner og sakområder.\nKongen kan gi forskrift om særskilte former for behandling av personopplysninger,​1 og om behandling av personopplysninger i særskilte virksomheter eller bransjer. For behandling av personopplysninger​1 som ledd i kredittopplysningsvirksomhet kan det i forskrift gis bestemmelser bl.a. om hvilke typer opplysninger som kan behandles, hvilke kilder personopplysninger kan hentes fra, hvem kredittopplysninger kan utleveres til og hvordan utleveringen kan skje, sletting av kredittanmerkninger og taushetsplikt for de ansatte i kredittopplysningsbyrået. Det kan også gis regler om at loven eller enkelte bestemmelser gitt i eller i medhold av den skal gjelde for behandling av kredittopplysninger om andre enn enkeltpersoner.\n0 Endret ved lover 9 jan 2009 nr. 3, 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 2 nr. 2, jf. nr. 1.\n2 Se § 2 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Geografisk virkeområde",
+      "content": "Loven gjelder for behandlingsansvarlige​1 som er etablert i Norge. Kongen kan i forskrift bestemme at loven helt eller delvis skal gjelde for Svalbard​2 og Jan Mayen​3, og fastsette særlige regler om behandling av personopplysninger​4 for disse områdene.\nLoven gjelder også for behandlingsansvarlige​1 som er etablert i stater utenfor EØS-området​5 dersom den behandlingsansvarlige​1 benytter hjelpemidler i Norge. Dette gjelder likevel ikke dersom hjelpemidlene bare brukes til å overføre personopplysninger via Norge.\nBehandlingsansvarlige​1 som nevnt i annet ledd skal ha en representant som er etablert i Norge. Bestemmelsene som gjelder for den behandlingsansvarlige gjelder også for representanten.\n1 Se § 2 nr. 4.\n2 Se lov 17 juli 1925 nr. 11 § 1 (2).\n3 Jf. lov 27 feb 1930 nr. 2.\n4 Se § 2 nr. 2, jf. nr. 1.\n5 Jf. lov 27 nov 1992 nr. 109.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Forholdet til andre lover",
+      "content": "Bestemmelsene i loven gjelder for behandling av personopplysninger​1 om ikke annet følger av en særskilt lov som regulerer behandlingsmåten.​2\n1 Se § 2 nr. 2, jf. nr. 1.\n2 Se f.eks. lov 28 mai 2010 nr. 16 og lov 18 mai 2001 nr. 24.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "title": "Forholdet til lovbestemt innsynsrett etter andre lover",
+      "content": "Loven her begrenser ikke innsynsrett etter offentleglova,​1 forvaltningsloven​2 eller annen lovbestemt​3 rett til innsyn i personopplysninger.​4\nDersom annen lovbestemt​3 rett til innsyn gir tilgang til flere opplysninger enn loven her, skal den behandlingsansvarlige​4 av eget tiltak veilede om retten til å be om slikt innsyn.\n0 Endret ved lov 19 mai 2006 nr. 16 (ikr. 1 jan 2009 iflg. res. 17 okt 2008 nr. 1118).\n1 Lov 19 mai 2006 nr. 16.\n2 Lov 10 feb 1967 §§ 18 flg.\n3 Se f.eks. asl. § 4-6, asal. § 4-5 og lov 5 juli 2002 nr. 64 § 8-2.\n4 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "title": "Forholdet til ytringsfriheten",
+      "content": "For behandling av personopplysninger​1 utelukkende for kunstneriske, litterære eller journalistiske formål gjelder bare bestemmelsene i §§ 13 til 15, §§ 36 til 41, jf. kapittel VIII.\n0 Endret ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 2 nr. 2, jf. nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Vilkår for å behandle personopplysninger",
+      "content": "Personopplysninger (jf. § 2 nr. 1) kan bare behandles​2 dersom den registrerte​3 har samtykket,​4 eller det er fastsatt i lov at det er adgang til slik behandling, eller behandlingen er nødvendig for\na. å oppfylle en avtale med den registrerte,​3 eller for å utføre gjøremål etter den registrertes ønske før en slik avtale inngås,\nb. at den behandlingsansvarlige​5 skal kunne oppfylle en rettslig forpliktelse,\nc. å vareta den registrertes​3 vitale interesser,\nd. å utføre en oppgave av allmenn interesse,\ne. å utøve offentlig myndighet, eller\nf. at den behandlingsansvarlige​5 eller tredjepersoner som opplysningene utleveres til kan vareta en berettiget interesse, og hensynet til den registrertes​3 personvern ikke overstiger denne interessen.\n1 Se § 7.\n2 Se § 2 nr. 2.\n3 Se § 2 nr. 6.\n4 Se § 2 nr. 7.\n5 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Behandling av sensitive personopplysninger",
+      "content": "Sensitive personopplysninger (jf. § 2 nr. 8) kan bare behandles​2 dersom behandlingen oppfyller et av vilkårene i § 8 og\na. den registrerte​3 samtykker​4 i behandlingen,\nb. det er fastsatt i lov at det er adgang til slik behandling,\nc. behandlingen er nødvendig for å beskytte en persons vitale interesser, og den registrerte​3 ikke er i stand til å samtykke,\nd. det utelukkende behandles opplysninger som den registrerte​3 selv frivillig har gjort alminnelig kjent,\ne. behandlingen er nødvendig for å fastsette, gjøre gjeldende eller forsvare et rettskrav,\nf. behandlingen er nødvendig for at den behandlingsansvarlige​5 kan gjennomføre sine arbeidsrettslige plikter eller rettigheter,\ng. behandlingen er nødvendig for forebyggende sykdomsbehandling, medisinsk diagnose, sykepleie eller pasientbehandling eller for forvaltning av helsetjenester, og opplysningene behandles av helsepersonell med taushetsplikt,​6 eller\nh. behandlingen er nødvendig for historiske, statistiske eller vitenskapelige formål, og samfunnets interesse i at behandlingen finner sted klart overstiger ulempene den kan medføre for den enkelte.\nIdeelle sammenslutninger og stiftelser​7 kan behandle sensitive personopplysninger innenfor rammen av sin virksomhet selv om behandlingen ikke oppfyller et av vilkårene i første ledd bokstav a – h. Behandlingen kan bare omfatte opplysninger om medlemmer eller personer som på grunn av sammenslutningens eller stiftelsens formål frivillig er i regelmessig kontakt med den, og bare opplysninger som innsamles gjennom denne kontakten. Personopplysningene kan ikke utleveres uten at den registrerte​3 samtykker.​4\nDatatilsynet​8 kan bestemme at sensitive personopplysninger kan behandles også i andre tilfeller dersom viktige samfunnsinteresser tilsier det og det settes i verk tiltak for å sikre den registrertes​3 interesser.\n1 Se § 7.\n2 Se § 2 nr. 2.\n3 Se § 2 nr. 6.\n4 Se § 2 nr. 7.\n5 Se § 2 nr. 4.\n6 Se lov 2 juli 1999 nr. 64 kap. 5.\n7 Jf. lov 15 juni 2001 nr. 59.\n8 Se § 42.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Register over straffedommer",
+      "content": "Et fullstendig register over straffedommer​2 kan bare føres under kontroll av en offentlig myndighet.\n1 Se § 7.\n2 Jf. lov 28 mai 2010 nr. 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Grunnkrav til behandling av personopplysninger",
+      "content": "Den behandlingsansvarlige​2 skal sørge for at personopplysningene​3 som behandles​4\na. bare behandles når dette er tillatt etter § 8 og § 9,\nb. bare nyttes til uttrykkelig angitte formål som er saklig begrunnet i den behandlingsansvarliges​2 virksomhet,\nc. ikke brukes senere til formål som er uforenlig med det opprinnelige formålet med innsamlingen, uten at den registrerte​5 samtykker,​6\nd. er tilstrekkelige og relevante for formålet med behandlingen, og\ne. er korrekte og oppdatert, og ikke lagres lenger enn det som nødvendig ut fra formålet med behandlingen, jf. § 27 og § 28.\nSenere behandling av personopplysningene for historiske, statistiske eller vitenskapelige formål anses ikke uforenlig med de opprinnelige formålene med innsamlingen av opplysningene, jf. første ledd bokstav c, dersom samfunnets interesse i at behandlingen finner sted, klart overstiger ulempene den kan medføre for den enkelte.\nPersonopplysninger som gjelder barn, skal ikke behandles på en måte som er uforsvarlig av hensyn til barnets beste.\n0 Endret ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 7.\n2 Se § 2 nr. 4.\n3 Se § 2 nr. 1.\n4 Se § 2 nr. 2.\n5 Se § 2 nr. 6.\n6 Se § 2 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Bruk av fødselsnummer m.v.",
+      "content": "Fødselsnummer​2 og andre entydige identifikasjonsmidler​2 kan bare nyttes i behandlingen​3 når det er saklig behov for sikker identifisering og metoden er nødvendig for å oppnå slik identifisering.\nDatatilsynet​4 kan pålegge en behandlingsansvarlig​5 å bruke identifikasjonsmidler som nevnt i første ledd for å sikre at personopplysningene​6 har tilstrekkelig kvalitet.\nKongen kan gi forskrift med nærmere regler om bruk av fødselsnummer​2 og andre entydige identifikasjonsmidler.\n1 Se § 7.\n2 Se lov 9 des 2016 nr. 88 § 2-2.\n3 Se § 2 nr. 2.\n4 Se § 42.\n5 Se § 2 nr. 4.\n6 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "title": "Informasjonssikkerhet",
+      "content": "Den behandlingsansvarlige​1 og databehandleren​2 skal gjennom planlagte og systematiske tiltak sørge for tilfredsstillende informasjonssikkerhet med hensyn til konfidensialitet, integritet og tilgjengelighet ved behandling av personopplysninger.​3\nFor å oppnå tilfredsstillende informasjonssikkerhet skal den behandlingsansvarlige​1 og databehandleren​2 dokumentere informasjonssystemet og sikkerhetstiltakene. Dokumentasjonen skal være tilgjengelig for medarbeiderne hos den behandlingsansvarlige​1 og hos databehandleren.​2 Dokumentasjonen skal også være tilgjengelig for Datatilsynet​4 og Personvernnemnda.​5\nEn behandlingsansvarlig som lar andre få tilgang til personopplysninger,​3 f.eks. en databehandler​2 eller andre som utfører oppdrag i tilknytning til informasjonssystemet, skal påse at disse oppfyller kravene i første og annet ledd.\nKongen kan gi forskrift om informasjonssikkerhet ved behandling av personopplysninger,​3 herunder nærmere regler om organisatoriske og tekniske sikkerhetstiltak.\n1 Se § 2 nr. 4.\n2 Se § 2 nr. 5.\n3 Se § 2 nr. 1.\n4 Se § 42.\n5 Se § 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "title": "Internkontroll",
+      "content": "Den behandlingsansvarlige​1 skal etablere og holde vedlike planlagte og systematiske tiltak som er nødvendige for å oppfylle kravene i eller i medhold av denne loven, herunder sikre personopplysningenes​2 kvalitet.\nDen behandlingsansvarlige​1 skal dokumentere tiltakene. Dokumentasjonen skal være tilgjengelig for medarbeiderne hos den behandlingsansvarlige​1 og hos databehandleren.​3 Dokumentasjonen skal også være tilgjengelig for Datatilsynet​4 og Personvernnemnda.​5\nKongen kan gi forskrift med nærmere regler om internkontroll.\n1 Se § 2 nr. 4.\n2 Se § 2 nr. 1.\n3 Se § 2 nr. 5.\n4 Se § 42.\n5 Se § 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "title": "Databehandlerens rådighet over personopplysninger",
+      "content": "En databehandler​1 kan ikke behandle​2 personopplysninger​3 på annen måte enn det som er skriftlig avtalt med den behandlingsansvarlige.​4 Opplysningene kan heller ikke uten slik avtale overlates til noen andre for lagring eller bearbeidelse.\nI avtalen med den behandlingsansvarlige​4 skal det også gå frem at databehandleren plikter å gjennomføre slike sikringstiltak som følger av § 13.\n1 Se § 2 nr. 5.\n2 Se § 2 nr. 2.\n3 Se § 2 nr. 1.\n4 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "2:16",
+      "chapter": "2",
+      "section": "16",
+      "title": "Frist for å svare på henvendelser om informasjon m.v.",
+      "content": "Den behandlingsansvarlige​2 skal svare på henvendelser om innsyn eller andre rettigheter etter § 18, § 22, § 25, § 26,​3 § 27 og § 28 uten ugrunnet opphold og senest innen 30 dager fra den dagen henvendelsen kom inn.\nDersom særlige forhold gjør det umulig å svare på henvendelsen innen 30 dager, kan gjennomføringen utsettes inntil det er mulig å gi svar. Den behandlingsansvarlige​2 skal i så fall gi et foreløpig svar med opplysninger om grunnen til forsinkelsen og sannsynlig tidspunkt for når svar kan gis.\n1 Se § 7.\n2 Se § 2 nr. 4.\n3 Paragrafen er opphevet.\n1 Paragrafen er opphevet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "2:17",
+      "chapter": "2",
+      "section": "17",
+      "title": "Betaling",
+      "content": "Den behandlingsansvarlige​2 kan ikke kreve vederlag for å gi informasjon etter kapittel III eller for å etterkomme krav fra den registrerte etter kapittel IV.\n1 Se § 7.\n2 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Rett til innsyn",
+      "content": "Enhver som ber om det, skal få vite hva slags behandling av personopplysninger​2 en behandlingsansvarlig​3 foretar, og kan kreve å få følgende informasjon om en bestemt type behandling:​4\na. navn og adresse på den behandlingsansvarlige​3 og dennes eventuelle representant,​5\nb. hvem som har det daglige ansvaret for å oppfylle den behandlingsansvarliges​3 plikter,\nc. formålet med behandlingen,​4\nd. beskrivelser av hvilke typer personopplysninger​2 som behandles,\ne. hvor opplysningene er hentet fra, og\nf. om personopplysningene​2 vil bli utlevert, og eventuelt hvem som er mottaker.\nDersom den som ber om innsyn er registrert,​6 skal den behandlingsansvarlige​3 opplyse om\na. hvilke opplysninger om den registrerte​6 som behandles, og\nb. sikkerhetstiltakene​7 ved behandlingen så langt innsyn ikke svekker sikkerheten.\nDen registrerte​6 kan kreve at den behandlingsansvarlige​3 utdyper informasjonen i første ledd bokstav a – f i den grad dette er nødvendig for at den registrerte skal kunne vareta egne interesser.\nRetten til informasjon etter annet og tredje ledd gjelder ikke dersom personopplysningene​2 behandles utelukkende for historiske, statistiske eller vitenskapelige formål og behandlingen ikke får noen direkte betydning for den registrerte.\n1 Se § 7, § 16 og § 23. Se lov 7 mai 2004 nr. 21 § 17 siste ledd.\n2 Se § 2 nr. 2, jf. nr. 1.\n3 Se § 2 nr. 4.\n4 Se § 4 (2).\n5 Se § 2 nr. 2.\n6 Se § 2 nr. 6.\n7 Se § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Informasjonsplikt når det samles inn opplysninger fra den registrerte",
+      "content": "Når det samles inn personopplysninger​2 fra den registrerte​3 selv, skal den behandlingsansvarlige​4 av eget tiltak først informere den registrerte​3 om\na. navn og adresse på den behandlingsansvarlige​4 og dennes eventuelle representant,\nb. formålet med behandlingen,​5\nc. opplysningene vil bli utlevert, og eventuelt hvem som er mottaker,\nd. det er frivillig å gi fra seg opplysningene, og\ne. annet som gjør den registrerte​3 i stand til å bruke sine rettigheter etter loven her på best mulig måte, som f.eks. informasjon om retten til å kreve innsyn, jf. § 18, og retten til å kreve retting, jf. § 27 og § 28.\nVarsling er ikke påkrevd dersom det er på det rene at den registrerte​3 allerede kjenner til informasjonen i første ledd.\n1 Se § 7 og § 23.\n2 Se § 2 nr. 1.\n3 Se § 2 nr. 6.\n4 Se § 2 nr. 4.\n5 Se § 2 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "title": "Informasjonsplikt når det samles inn opplysninger fra andre enn den registrerte",
+      "content": "En behandlingsansvarlig​2 som samler inn personopplysninger​3 fra andre enn den registrerte​4 selv, skal av eget tiltak informere den registrerte om hvilke opplysninger som samles inn og gi informasjon som nevnt i § 19 første ledd så snart opplysningene er innhentet. Dersom formålet med innsamling av opplysningene er å gi dem videre til andre, kan den behandlingsansvarlige​2 vente med å varsle den registrerte til utleveringen skjer.\nDen registrerte​4 har ikke krav på varsel etter første ledd dersom\na. innsamlingen eller formidlingen av opplysningene er uttrykkelig fastsatt i lov,\nb. varsling er umulig eller uforholdsmessig vanskelig, eller\nc. det er på det rene at den registrerte allerede kjenner til informasjonen varslet skal inneholde.\nNår varsling unnlates med hjemmel i bokstav b, skal informasjonen likevel gis senest når det gjøres en henvendelse til den registrerte​4 på grunnlag av opplysningene.\n1 Se § 7 og § 23.\n2 Se § 2 nr. 4.\n3 Se § 2 nr. 1.\n4 Se § 2 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "title": "Informasjonsplikt ved bruk av personprofiler",
+      "content": "Når noen henvender seg til eller treffer avgjørelser som retter seg mot den registrerte​2 på grunnlag av personprofiler som er ment å beskrive atferd, preferanser, evner eller behov, f eks som ledd i markedsføringsvirksomhet, skal den behandlingsansvarlige​3 informere den registrerte om\na. hvem som er behandlingsansvarlig,​3\nb. hvilke opplysningstyper som er anvendt, og\nc. hvor opplysningene er hentet fra.\n1 Se § 7 og § 23.\n2 Se § 2 nr. 6.\n3 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "3:22",
+      "chapter": "3",
+      "section": "22",
+      "title": "Rett til informasjon om automatiserte avgjørelser",
+      "content": "Hvis en avgjørelse har rettslig eller annen vesentlig betydning for den registrerte​2 og fullt ut er basert på automatisk behandling av personopplysninger,​3 kan den registrerte som avgjørelsen retter seg mot, kreve at den behandlingsansvarlige​4 gjør rede for regelinnholdet i datamaskinprogrammene som ligger til grunn for avgjørelsen.\n1 Se § 7, § 16, § 23 og § 25.\n2 Se § 2 nr. 6.\n3 Se § 2 nr. 2, jf. nr. 1.\n4 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "3:23",
+      "chapter": "3",
+      "section": "23",
+      "title": "Unntak fra retten til informasjon",
+      "content": "Retten til innsyn etter § 18 og § 22 og plikten til å gi informasjon etter § 19, § 20 og § 21 omfatter ikke opplysninger som\na. om de ble kjent, ville kunne skade rikets sikkerhet, landets forsvar eller forholdet til fremmede makter eller internasjonale organisasjoner,​2\nb. det er påkrevd å hemmeligholde av hensyn til forebygging, etterforskning, avsløring og rettslig forfølgning av straffbare handlinger,\nc. det må anses utilrådelig at den registrerte​3 får kjennskap til, av hensyn til vedkommendes helse eller forholdet til personer som står vedkommende nær,\nd. det i medhold av lov gjelder taushetsplikt for,\ne. utelukkende finnes i tekst som er utarbeidet for den interne saksforberedelse og som heller ikke er utlevert til andre,\nf. det vil være i strid med åpenbare og grunnleggende private eller offentlige interesser å informere om, herunder hensynet til den registrerte​3 selv.\nOpplysninger etter første ledd bokstav c kan på anmodning likevel gjøres kjent for en representant for den registrerte​3 når ikke særlige grunner taler mot det.\nDen som nekter å gi innsyn i medhold av første ledd må begrunne dette skriftlig med presis henvisning til unntakshjemmelen.\nKongen kan gi forskrift om andre unntak fra innsynsretten og informasjonsplikten og om vilkår for bruk av innsynsretten.\n1 Se § 7.\n2 Jf. lover 18 aug 1914 nr. 3 og 26 juni 1953 nr. 8.\n3 Se § 2 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "3:24",
+      "chapter": "3",
+      "section": "24",
+      "title": "Hvordan informasjonen skal gis",
+      "content": "Informasjonen kan kreves skriftlig hos den behandlingsansvarlige​2 eller hos dennes databehandler​3 som nevnt i § 15. Før det gis innsyn i opplysninger om en registrert,​4 kan den behandlingsansvarlige​2 kreve at den registrerte leverer en skriftlig og undertegnet begjæring.\n1 Se § 7.\n2 Se § 2 nr. 4.\n3 Se § 2 nr. 5.\n4 Se § 2 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "title": "Rett til å kreve manuell behandling",
+      "content": "Den som en fullt automatisert avgjørelse som nevnt i § 22 retter seg mot eller som saken ellers direkte gjelder, kan kreve at avgjørelsen overprøves av en fysisk person.\nRetten etter første ledd gjelder ikke dersom den registrertes​1 personverninteresser varetas på tilstrekkelig måte og avgjørelsen er hjemlet i lov eller knytter seg til oppfyllelse av kontrakt.\n1 Se § 2 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "4:26",
+      "chapter": "4",
+      "section": "26",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 9 jan 2009 nr. 2 (ikr. 1 juni 2009 iflg. res. 9 jan 2009 nr. 7).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "4:27",
+      "chapter": "4",
+      "section": "27",
+      "title": "Retting av mangelfulle personopplysninger",
+      "content": "Dersom det er behandlet personopplysninger​2 som er uriktige, ufullstendige eller som det ikke er adgang til å behandle,​3 skal den behandlingsansvarlige​4 av eget tiltak eller på begjæring av den registrerte​5 rette de mangelfulle opplysningene. Den behandlingsansvarlige​4 skal om mulig sørge for at feilen ikke får betydning for den registrerte,​5 f.eks. ved å varsle mottakere av utleverte opplysninger.\nRetting av uriktige eller ufullstendige personopplysninger​6 som kan ha betydning som dokumentasjon, skal skje ved at opplysningene tydelig markeres og suppleres med korrekte opplysninger.\nDersom tungtveiende personvernhensyn tilsier det, kan Datatilsynet​7 uten hinder av annet ledd bestemme at retting skal skje ved at de mangelfulle personopplysningene slettes eller sperres. Hvis opplysningene ikke kan kasseres i medhold av arkivloven,​8 skal Riksarkivaren​9 høres før det treffes vedtak om sletting. Vedtaket går foran reglene i arkivloven 4. desember 1992 nr. 126 § 9 og § 18.\nSletting bør suppleres med registrering av korrekte og fullstendige opplysninger. Dersom dette ikke er mulig, og dokumentet som inneholdt de slettede opplysningene av den grunn gir et åpenbart misvisende bilde, skal hele dokumentet slettes.\nKongen kan gi forskrift med utfyllende bestemmelser om hvordan retting skal gjennomføres.\n1 Se lov 7 mai 2004 nr. 21 § 17 siste ledd.\n2 Se § 2 nr. 2, jf. nr. 1.\n3 Se § 9.\n4 Se § 2 nr. 4.\n5 Se § 2 nr. 6.\n6 Se § 2 nr. 1.\n7 Se § 42.\n8 Lov 4 des 1992 nr. 126.\n9 Se lov 4 des 1992 nr. 126 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "4:28",
+      "chapter": "4",
+      "section": "28",
+      "title": "Forbud mot å lagre unødvendige personopplysninger",
+      "content": "Den behandlingsansvarlige​1 skal ikke lagre personopplysninger​2 lenger enn det som er nødvendig for å gjennomføre formålet med behandlingen.​3 Hvis ikke personopplysningene deretter skal oppbevares i henhold til arkivloven​4 eller annen lovgivning, skal de slettes.\nDen behandlingsansvarlige​1 kan uten hinder av første ledd lagre personopplysninger​2 for historiske, statistiske eller vitenskapelige formål, dersom samfunnets interesse i at opplysningene lagres klart overstiger de ulempene den kan medføre for den enkelte. Den behandlingsansvarlige​1 skal i så fall sørge for at opplysningene ikke oppbevares på måter som gjør det mulig å identifisere den registrerte​5 lenger enn nødvendig.\nDen registrerte​5 kan kreve at opplysninger som er sterkt belastende for ham eller henne skal sperres eller slettes dersom dette\na. ikke strider mot annen lov, og\nb. er forsvarlig ut fra en samlet vurdering av bl.a. andres behov for dokumentasjon, hensynet til den registrerte, kulturhistoriske hensyn og de ressurser gjennomføringen av kravet forutsetter.\nDatatilsynet​6 kan – etter at Riksarkivaren​7 er hørt – treffe vedtak om at retten til sletting etter tredje ledd går foran reglene i arkivloven 4. desember 1992 nr. 126 § 9 og § 18.\nHvis dokumentet som inneholdt de slettede opplysningene gir et åpenbart misvisende bilde etter slettingen, skal hele dokumentet slettes.\n1 Se § 2 nr. 4.\n2 Se § 2 nr. 1.\n3 Se § 2 nr. 2.\n4 Lov 4 des 1992 nr. 126.\n5 Se § 2 nr. 6.\n6 Se § 42.\n7 Se lov 4 des 1992 nr. 126 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Grunnleggende vilkår",
+      "content": "Personopplysninger​2 kan bare overføres til stater som sikrer en forsvarlig behandling av opplysningene. Stater som har gjennomført direktiv 95/46/EF om beskyttelse av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger, oppfyller kravet til forsvarlig behandling.\nI vurderingen av om behandlingen sikres på forsvarlig måte, skal det bl.a. legges vekt på opplysningenes art, den planlagte behandlingens formål og varighet samt de rettsregler, regler for god forretningsskikk og sikkerhetstiltak som gjelder i vedkommende stat. Det skal også legges vekt på om staten har tiltrådt Europarådets konvensjon 28. januar 1981 nr. 108 om personvern i forbindelse med elektronisk behandling av personopplysninger.\n1 Se § 7.\n2 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "title": "Unntak",
+      "content": "Personopplysninger​2 kan også overføres til stater som ikke sikrer en forsvarlig behandling av opplysningene dersom\na. den registrerte​3 har samtykket​4 i overføringen,\nb. det foreligger plikt til å overføre opplysningene etter folkerettslig avtale​5 eller som følge av medlemskap i internasjonal organisasjon,\nc. overføringen er nødvendig for å oppfylle en avtale med den registrerte,​3 eller for å utføre gjøremål etter den registrertes​3 ønske før en slik avtale inngås,\nd. overføringen er nødvendig for å inngå eller oppfylle en avtale med en tredjeperson i den registrertes​3 interesse,\ne. overføringen er nødvendig for å vareta den registrertes​3 vitale interesser,\nf. overføringen er nødvendig for å fastsette, gjøre gjeldende eller forsvare et rettskrav,\ng. overføringen er nødvendig eller følger av lov for å beskytte en viktig samfunnsinteresse, eller\nh. det er fastsatt i lov at det er adgang til å kreve opplysninger fra et offentlig register.\nDatatilsynet​6 kan tillate overføring selv om vilkårene i første ledd ikke er oppfylt dersom den behandlingsansvarlige​7 gir tilstrekkelige garantier for vern av den registrertes​3 rettigheter. Datatilsynet kan sette vilkår for overføringen.\nKongen kan gi forskrift om overføring av personopplysninger​2 til utlandet, herunder om å stanse eller begrense overføring til bestemte stater som ikke tilfredsstiller kravene i § 29.\n1 Se § 7.\n2 Se § 2 nr. 1.\n3 Se § 2 nr. 6.\n4 Se § 2 nr. 7.\n5 Se lov 16 juli 1999 nr. 66.\n6 Se § 42.\n7 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "title": "Meldeplikt",
+      "content": "Den behandlingsansvarlige​2 skal gi melding til Datatilsynet​3 før\na. behandling av personopplysninger​4 med elektroniske hjelpemidler,\nb. opprettelse av manuelt personregister​5 som inneholder sensitive personopplysninger.​6\nMeldingen skal gis senest 30 dager før behandlingen tar til. Datatilsynet​3 skal gi den behandlingsansvarlige​2 kvittering for at melding er mottatt.\nNy melding må gis før behandling som går ut over den rammen for behandling som er angitt i medhold av § 32. Selv om det ikke har skjedd endringer, skal det gis ny melding tre år etter at forrige melding ble gitt.\nKongen kan gi forskrift om at visse behandlingsmåter eller behandlingsansvarlige​2 er unntatt fra meldeplikt, underlagt forenklet meldeplikt eller underlagt konsesjonsplikt. For behandlinger som unntas fra meldeplikt kan det gis forskrift for å begrense ulemper som behandlingen ellers kan medføre for den registrerte.​7\n1 Se § 7. Se lov 7 mai 2004 nr. 21 § 17 siste ledd.\n2 Se § 2 nr. 4.\n3 Se § 42.\n4 Se § 2 nr. 2, jf. nr. 1.\n5 Se § 2 nr. 3.\n6 Se § 2 nr. 8.\n7 Se § 2 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "title": "Meldingens innhold",
+      "content": "Meldingen skal opplyse om\na. navn og adresse på den behandlingsansvarlige​2 og på dennes eventuelle representant​3 og databehandler,​4\nb. når behandlingen starter,\nc. hvem som har det daglige ansvaret for å oppfylle den behandlingsansvarliges​2 plikter,\nd. formålet med behandlingen,​5\ne. oversikt over hvilke typer personopplysninger​6 som skal behandles,\nf. hvor personopplysningene​6 hentes fra,\ng. det rettslige grunnlaget for innsamlingen av opplysningene,\nh. hvem personopplysningene​6 vil bli utlevert til, herunder eventuelle mottakere i andre stater, og\ni. hvilke sikkerhetstiltak​7 som er knyttet til behandlingen.\nKongen kan gi forskrift om hvilke opplysninger meldingene skal inneholde og om gjennomføringen av meldeplikten.\n1 Se § 7. Se lov 7 mai 2004 nr. 21 § 17 siste ledd.\n2 Se § 2 nr. 4.\n3 Se § 4 siste ledd.\n4 Se § 2 nr. 5.\n5 Se § 2 nr. 2.\n6 Se § 2 nr. 1.\n7 Se § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "title": "Konsesjonsplikt",
+      "content": "Det kreves konsesjon fra Datatilsynet​2 for å behandle​3 sensitive personopplysninger.​4 Dette gjelder likevel ikke for behandling av sensitive personopplysninger som er avgitt uoppfordret.\nDatatilsynet​2 kan bestemme at også behandling av annet enn sensitive personopplysninger krever konsesjon, dersom behandlingen ellers åpenbart vil krenke tungtveiende personverninteresser. I vurderingen av om konsesjon er nødvendig, skal Datatilsynet bl.a. ta hensyn til personopplysningenes art, mengde og formålet med behandlingen.\nDersom Datatilsynet mener at konsesjon for en behandling vil være åpenbart unødvendig, kan tilsynet bestemme at behandlingen ikke krever konsesjon.\nDen behandlingsansvarlige​5 kan kreve at Datatilsynet​2 avgjør om en behandling​3 vil kreve konsesjon.\nKonsesjonsplikt etter første og annet ledd gjelder ikke for behandling​3 av personopplysninger i organ for stat eller kommune når behandlingen har hjemmel i egen lov.\nKongen kan gi forskrift om at visse behandlingsmåter​3 ikke trenger konsesjon etter første ledd. For behandlingsmåter som unntas fra konsesjon kan det gis forskrift for å begrense ulemper som behandlingen ellers kan medføre for den registrerte.\n0 Endret ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 7.\n2 Se § 42.\n3 Se § 2 nr. 2.\n4 Se § 2 nr. 8.\n5 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "title": "Avgjørelsen av om konsesjon skal gis",
+      "content": "Ved avgjørelsen av om konsesjon skal gis, skal det klarlegges om behandlingen av personopplysninger​2 kan volde ulemper for den enkelte som ikke avhjelpes gjennom bestemmelsene i kapitlene II-V og vilkår etter § 35. I så fall må det vurderes om ulempene blir oppveid av hensyn som taler for behandlingen.\n1 Se § 7.\n2 Se § 2 nr. 2, jf. nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "title": "Vilkår i konsesjon",
+      "content": "I konsesjonen skal det vurderes å sette vilkår for behandlingen​2 når slike vilkår er nødvendige for å begrense ulempene behandlingen ellers ville medføre for den registrerte.​3\n0 Endres ved lov 15 apr 2011 nr. 11 (ikr. fra den tid Kongen bestemmer).\n1 Se § 7.\n2 Se § 2 nr. 2.\n3 Se § 2 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "7:36",
+      "chapter": "7",
+      "section": "36",
+      "title": "Definisjon",
+      "content": "Med kameraovervåking menes vedvarende eller regelmessig gjentatt personovervåking ved hjelp av fjernbetjent eller automatisk virkende overvåkningskamera eller annet lignende utstyr som er fastmontert. Som kameraovervåking anses både overvåking med og uten mulighet for opptak av lyd- og bildemateriale. Det samme gjelder utstyr som lett kan forveksles med en ekte kameraløsning.\nKameraovervåking kan bare finne sted der vilkårene for dette er oppfylt etter § 37 (alminnelige vilkår) og §§ 38 til 40 (tilleggsvilkår).\n0 Endret ved lover 9 jan 2009 nr. 3, 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "7:37",
+      "chapter": "7",
+      "section": "37",
+      "title": "Alminnelige vilkår for kameraovervåking",
+      "content": "Personopplysningsloven gjelder i sin helhet for alle former for kameraovervåking,​1 jf. § 3 første ledd bokstav c, med de presiseringer som fremgår av annet til fjerde ledd.\nKameraovervåking​1 som må antas å ha vesentlig betydning for forebygging og oppklaring av straffbare handlinger er tillatt selv om vilkårene i § 9 første ledd bokstav a til h ikke er oppfylt. I slike tilfeller gjelder heller ikke konsesjonsplikt etter § 33.\nVed vurderingen av hva som er en berettiget interesse etter personopplysningsloven § 8 bokstav f skal det for kameraovervåking​1 legges vesentlig vekt på om overvåkingen bidrar til å verne om liv eller helse eller forebygger gjentatte eller alvorlige straffbare handlinger.\nKameraovervåking​1 skal kun anses som behandling av sensitive personopplysninger​2 der slike utgjør en vesentlig del av opplysningene som overvåkingen omfatter.\n0 Endret ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 36.\n2 Se § 2 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "7:38",
+      "chapter": "7",
+      "section": "38",
+      "title": "Tilleggsvilkår ved overvåking av sted hvor en begrenset krets av personer ferdes jevnlig",
+      "content": "Kameraovervåking​1 av sted hvor en begrenset krets av personer ferdes jevnlig, er bare tillatt dersom det ut fra virksomheten er behov for å forebygge at farlige situasjoner oppstår og ivareta hensynet til ansattes eller andres sikkerhet eller det for øvrig er et særskilt behov for overvåkingen.\n0 Endret ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 36.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "7:38 a",
+      "chapter": "7",
+      "section": "38 a",
+      "title": "Tilleggsvilkår ved overvåking av parker, strender og lignende rekreasjonsområder som er tilgjengelig for allmennheten",
+      "content": "Kameraovervåking​1 av parker, strender og lignende rekreasjonsområder som er tilgjengelig for allmennheten, er bare tillatt når behovet for overvåking klart overstiger den enkeltes interesse av ikke å bli overvåket.\nVed vurderingen av behovet for overvåking skal det særlig legges vekt på om overvåkingen er av vesentlig betydning for å forebygge straffbare handlinger som kan true liv eller helse, hindre ulykker eller ivareta liknende samfunnsnyttige interesser.\nVed vurderingen av den enkeltes interesse av ikke å bli overvåket skal det særlig legges vekt på hvordan overvåkingen skal skje, samt hva slags område som skal overvåkes.\n0 Tilføyd ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 36.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38a",
+        "source_heading": "§ 38 a."
+      }
+    },
+    {
+      "provision_ref": "7:39",
+      "chapter": "7",
+      "section": "39",
+      "title": "Tilleggsvilkår for utlevering av opptak gjort ved kameraovervåking",
+      "content": "Personopplysninger​2 som er innsamlet ved opptak gjort ved kameraovervåking,​3 kan bare utleveres til andre enn den behandlingsansvarlige​4 dersom den som er avbildet samtykker​5 eller utleveringsadgangen følger av lov. Opptak kan likevel utleveres til politiet ved etterforskning av straffbare handlinger eller ulykker hvis ikke lovbestemt taushetsplikt er til hinder.\n0 Endret ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 41 siste punktum.\n2 Se § 2 nr. 1.\n3 Se § 36.\n4 Se § 2 nr. 4.\n5 Se § 2 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "7:40",
+      "chapter": "7",
+      "section": "40",
+      "title": "Tilleggsvilkår om varsel om at overvåking finner sted",
+      "content": "Ved kameraovervåking​1 på offentlig sted eller sted hvor en begrenset krets av personer ferdes jevnlig, skal det ved skilting eller på annen måte gjøres tydelig oppmerksom på at stedet blir overvåket, at overvåkingen eventuelt inkluderer lydopptak og hvem som er behandlingsansvarlig.​2\n0 Endret ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 36.\n2 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "7:41",
+      "chapter": "7",
+      "section": "41",
+      "title": "Forskrifter",
+      "content": "Kongen kan gi forskrifter med nærmere bestemmelser om kameraovervåking​1 og opptak i forbindelse med slik overvåking, herunder om sikring, bruk og sletting av opptak gjort ved kameraovervåking og om innsynsrett for den som er overvåket i de deler av opptakene hvor han eller hun er avbildet. Det kan også gis forskrift om at opptak kan utleveres utover det som følger av § 39.\n0 Endret ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 36.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "8:42",
+      "chapter": "8",
+      "section": "42",
+      "title": "Datatilsynets organisering og oppgaver",
+      "content": "Datatilsynet er et uavhengig forvaltningsorgan administrativt underordnet Kongen og departementet.​2 Kongen og departementet kan ikke gi instruks om eller omgjøre Datatilsynets utøving av myndighet i enkelttilfeller etter loven.\nDatatilsynet ledes av en direktør som utnevnes av Kongen. Kongen kan bestemme at direktøren ansettes på åremål.\nDatatilsynet skal\n1. føre en systematisk og offentlig fortegnelse over alle behandlinger som er innmeldt etter § 31 eller gitt konsesjon etter § 33, med opplysninger som nevnt i § 18 første ledd jf. § 23,\n2. behandle søknader om konsesjoner, motta meldinger og vurdere om det skal gis pålegg der loven gir hjemmel for dette,\n3. kontrollere at lover og forskrifter som gjelder for behandling av personopplysninger​3 blir fulgt, og at feil eller mangler blir rettet,\n4. holde seg orientert om og informere om den generelle nasjonale og internasjonale utviklingen i behandlingen av personopplysninger​3 og om de problemer som knytter seg til slik behandling,​3\n5. identifisere farer for personvernet, og gi råd om hvordan de kan unngås eller begrenses,\n6. gi råd og veiledning i spørsmål om personvern og sikring av personopplysninger til dem som planlegger å behandle personopplysninger​3 eller utvikle systemer for slik behandling,​3 herunder bistå i utarbeidelsen av bransjevise atferdsnormer,\n7. etter henvendelse eller av eget tiltak gi uttalelse i spørsmål om behandling av personopplysninger,​3 og\n8. gi Kongen årsmelding om sin virksomhet.\nAvgjørelser som Datatilsynet fatter i medhold av § 9, § 12, § 27, § 28, § 30, § 33, § 34, § 35, § 44, § 46 og § 47 kan påklages til Personvernnemnda.​4 Avgjørelser som fattes i medhold av § 27 eller § 28 kan påklages videre til Kongen dersom avgjørelsen gjelder personopplysninger som behandles for historiske formål.\n1 Se § 7.\n2 Kommunal- og moderniseringsdepartementet.\n3 Se § 2 nr. 2, jf. nr. 1.\n4 Se § 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "8:43",
+      "chapter": "8",
+      "section": "43",
+      "title": "Personvernnemndas organisering og oppgaver",
+      "content": "Personvernnemnda avgjør klager over Datatilsynets avgjørelser, jf. § 42 fjerde ledd. Nemnda er et uavhengig forvaltningsorgan administrativt underordnet Kongen og departementet.​2 § 42 første ledd annet punktum gjelder tilsvarende.\nPersonvernnemnda har syv medlemmer som oppnevnes for fire år med adgang til gjenoppnevning for ytterligere fire år. Lederen og nestlederen oppnevnes av Stortinget. De øvrige fem medlemmene oppnevnes av Kongen.\nPersonvernnemnda kan bestemme at lederen eller nestlederen sammen med to andre nemndsmedlemmer kan behandle klager over avgjørelser som må avgjøres uten opphold.\nPersonvernnemnda orienterer årlig Kongen om behandling av klagesakene.\nSøksmål om gyldigheten av Personvernnemndas avgjørelser rettes mot staten ved Personvernnemnda.\nKongen kan gi nærmere regler om Personvernnemndas organisering og saksbehandling.\n1 Se § 7.\n2 Kommunal- og moderniseringsdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "8:44",
+      "chapter": "8",
+      "section": "44",
+      "title": "Tilsynsmyndighetens tilgang til opplysninger",
+      "content": "Datatilsynet og Personvernnemnda kan kreve de opplysningene som trengs for at de kan gjennomføre sine oppgaver.\nDatatilsynet kan som ledd i sin kontroll med at lovens regler etterleves, kreve adgang​2 til steder hvor det finnes personregistre,​3 overvåkingsutstyr og billedopptak som nevnt i § 37, personopplysninger​4 som behandles elektronisk og hjelpemidler for slik behandling. Tilsynet kan gjennomføre de prøver eller kontroller som det finner nødvendig og kreve bistand fra personalet på stedet i den grad dette må til for å få utført prøvene eller kontrollene.\nRetten til å kreve opplysninger eller tilgang til lokaler og hjelpemidler i henhold til første og annet ledd gjelder uten hinder av taushetsplikt.\nKongen kan gi forskrift om unntak fra første til tredje ledd av hensyn til rikets sikkerhet. Kongen kan også gi forskrift om dekning av utgiftene ved kontroll.\n0 Endret ved lov 9 jan 2009 nr. 3.\n1 Se § 7.\n2 Jf. strl. § 156.\n3 Se § 2 nr. 3.\n4 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "8:45",
+      "chapter": "8",
+      "section": "45",
+      "title": "Taushetsplikt for tilsynsmyndighetene",
+      "content": "For ansatte i Datatilsynet,​2 medlemmer av Personvernnemnda​3 og andre som utfører tjeneste for tilsynsmyndighetene gjelder bestemmelsene om taushetsplikt i forvaltningsloven​4 §§ 13 flg. Taushetsplikten omfatter også opplysninger om sikkerhetstiltak, jf. § 13.\nDatatilsynet​2 og Personvernnemnda​3 kan uten hinder av taushetsplikten etter første ledd gi opplysninger til utenlandske tilsynsmyndigheter når det er nødvendig for å kunne treffe vedtak som ledd i tilsynsvirksomheten.\n1 Se § 7.\n2 Se § 42.\n3 Se § 43.\n4 Lov 10 feb 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "8:46",
+      "chapter": "8",
+      "section": "46",
+      "title": "Overtredelsesgebyr. Pålegg om endring eller opphør av ulovlige behandlinger",
+      "content": "Datatilsynet​2 kan pålegge den som har overtrådt denne loven eller forskrifter i medhold av den, å betale et pengebeløp til statskassen (overtredelsesgebyr) på inntil 10 ganger grunnbeløpet i folketrygden. Fysiske personer kan bare ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser. Et foretak kan ikke ilegges overtredelsesgebyr dersom overtredelsen skyldes forhold utenfor foretakets kontroll.\nVed vurderingen av om overtredelsesgebyr skal ilegges, og ved utmålingen, skal det særlig legges vekt på\na. hvor alvorlig overtredelsen har krenket de interesser loven verner,\nb. graden av skyld,\nc. om overtrederen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,\nd. om overtredelsen er begått for å fremme overtrederens interesser,\ne. om overtrederen har hatt eller kunne ha oppnådd noen fordel ved overtredelsen,\nf. om det foreligger gjentakelse,\ng. om andre reaksjoner som følge av overtredelsen blir ilagt overtrederen eller noen som har handlet på vegne av denne, blant annet om noen enkeltperson blir ilagt straff og\nh. overtrederens økonomiske evne.\nOppfyllelsesfristen er 4 uker etter at vedtaket om overtredelsesgebyr er endelig. Dersom et vedtak om overtredelsesgebyr bringes inn for en domstol, kan den prøve alle sider av saken.\nDatatilsynet​2 kan gi pålegg om at behandling av personopplysninger​3 i strid med bestemmelser i eller i medhold av denne loven skal opphøre, eller stille vilkår som må være oppfylt for at behandlingen skal være i samsvar med loven.\n0 Endret ved lov 9 jan 2009 nr. 3.\n1 Se § 7.\n2 Se § 42.\n3 Se § 2 nr. 2, jf. nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "8:47",
+      "chapter": "8",
+      "section": "47",
+      "title": "Tvangsmulkt​2",
+      "content": "Ved pålegg etter § 12, § 27, § 28 og § 46 kan Datatilsynet​3 fastsette en tvangsmulkt som løper for hver dag som går etter utløpet av den fristen som er satt for oppfylling av pålegget, inntil pålegget er oppfylt.\nTvangsmulkten løper ikke før klagefristen er ute. Hvis vedtaket påklages, løper ikke tvangsmulkt før Personvernnemnda​4 har bestemt det.\nDatatilsynet​3 kan frafalle påløpt tvangsmulkt.\n1 Se § 7.\n2 Jf. tvangsl. § 7-2, d.\n3 Se § 42.\n4 Se § 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "8:47 a",
+      "chapter": "8",
+      "section": "47 a",
+      "title": "Innkreving av refusjonskrav, overtredelsesgebyr og tvangsmulkt",
+      "content": "Refusjonskrav som nevnt i § 44, overtredelsesgebyr etter § 46 og tvangsmulkt etter § 47 er tvangsgrunnlag for utlegg.​1\n0 Tilføyd ved lov 9 jan 2009 nr. 3, endret ved lov 11 jan 2013 nr. 3 (ikr. 1 juni 2013 iflg. res. 24 mai 2013 nr. 533).\n1 Jf. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47a",
+        "source_heading": "§ 47 a."
+      }
+    },
+    {
+      "provision_ref": "8:48",
+      "chapter": "8",
+      "section": "48",
+      "title": "Straff",
+      "content": "Med bøter eller fengsel inntil ett år eller begge deler straffes den som forsettlig eller grovt uaktsomt\na. unnlater å sende melding etter § 31,\nb. behandler personopplysninger​2 uten nødvendig konsesjon etter § 33,\nc. overtrer vilkår fastsatt etter § 35 eller § 46,\nd. unnlater å etterkomme pålegg fra Datatilsynet etter § 12, § 27, § 28 eller § 46,\ne. behandler personopplysninger i strid med § 13, § 15, § 26​3 eller § 39, eller\nf. unnlater å gi opplysninger etter § 19, § 20, § 21, § 40 eller § 44.\nVed særdeles skjerpende omstendigheter kan fengsel inntil tre år idømmes. Ved avgjørelsen av om det foreligger særdeles skjerpende omstendigheter skal det blant annet legges vekt på faren for stor skade eller ulempe for den registrerte,​4 den tilsiktede vinningen ved overtredelsen, overtredelsens varighet og omfang, utvist skyld, og om den behandlingsansvarlige​5 tidligere er straffet for å ha overtrådt tilsvarende bestemmelser.\nI forskrift som gis i medhold av loven, kan det fastsettes at den som forsettlig eller grovt uaktsomt overtrer forskriften skal straffes med bøter eller fengsel inntil ett år eller begge deler.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Jf. § 7.\n2 Se § 2 nr. 2.\n3 Paragrafen er opphevet.\n1 Paragrafen er opphevet.\n4 Se § 2 nr. 6.\n5 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "8:49",
+      "chapter": "8",
+      "section": "49",
+      "title": "Erstatning",
+      "content": "Den behandlingsansvarlige​2 skal erstatte skade som er oppstått som følge av at personopplysninger​3 er behandlet​4 i strid med bestemmelser i eller i medhold av loven, med mindre det godtgjøres at skaden ikke skyldes feil eller forsømmelse på den behandlingsansvarliges side.\nBehandlingsansvarlige​2 som formidler kredittopplysninger og som har meddelt opplysninger som viser seg uriktige eller åpenbart misvisende, skal erstatte skade som er oppstått som følge av den feilaktige meddelelsen, uten hensyn til om skaden skyldes feil eller forsømmelse på den behandlingsansvarliges side.\nErstatningen skal svare til det økonomiske tapet som den skadelidte er påført som følge av den ulovlige behandlingen. Den behandlingsansvarlige​2 kan også pålegges å betale slik erstatning for skade av ikke-økonomisk art (oppreisning) som synes rimelig.​5\n1 Jf. § 7.\n2 Se § 2 nr. 4.\n3 Se § 2 nr. 1.\n4 Se § 2 nr. 2.\n5 Sml. lov 13 juni 1969 nr. 26 § 3-5 og § 3-6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "9:50",
+      "chapter": "9",
+      "section": "50",
+      "title": "Ikraftsetting",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.\n0 Loven trådte ikr. 1 jan 2001 iflg. res. 30 juni 2000 nr. 641.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "9:51",
+      "chapter": "9",
+      "section": "51",
+      "title": "Overgangsregler",
+      "content": "1. For behandling av personopplysninger​1 som er påbegynt før loven trer i kraft​2 og som er melde- eller konsesjonspliktig etter bestemmelsene i kapittel VI, skal det sendes melding i henhold til § 31 eller søkes om konsesjon fra Datatilsynet​3 i henhold til § 33 innen ett år fra ikrafttredelsen. Dersom behandlingen foretas i henhold til konsesjon i medhold av personregisterloven​4 § 9, er fristen for å sende melding eller søke om konsesjon to år fra ikrafttredelsen. Inntil melding er sendt eller Datatilsynet har gitt konsesjon, kan personopplysningene behandles i henhold til reglene i personregisterloven.​4\n2. Et samtykke som en registrert har gitt før loven trer i kraft skal fremdeles gjelde, hvis det tilfredsstiller vilkårene i § 2 nr. 7.\n3. Klager som Datatilsynet​3 mottar etter at loven trer i kraft, behandles av Personvernnemnda.​5\n4. Kongen kan ved forskrift gi nærmere overgangsregler.\n1 Se § 2 nr. 2, jf. § 1.\n2 Se § 50.\n3 Se § 42.\n4 Lov 9 juni 1978 nr. 48 (opph. fra 1 jan 2001).\n5 Jf. § 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "9:52",
+      "chapter": "9",
+      "section": "52",
+      "title": "Endringer i andre lover",
+      "content": "I andre lover gjøres følgende endringer: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Formålet med denne loven er å beskytte den enkelte mot at personvernet blir krenket gjennom behandling av personopplysninger.​1\nLoven skal bidra til at personopplysninger​1 blir behandlet i samsvar med grunnleggende personvernhensyn, herunder behovet for personlig integritet, privatlivets fred og tilstrekkelig kvalitet på personopplysninger.\n1 Se § 2 nr. 2, jf. nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Definisjoner",
+      "content": "I denne loven forstås med:\n1. personopplysning: opplysninger og vurderinger som kan knyttes til en enkeltperson,\n2. behandling av personopplysninger: enhver bruk av personopplysninger, som f.eks. innsamling, registrering, sammenstilling, lagring og utlevering eller en kombinasjon av slike bruksmåter,\n3. personregister: registre, fortegnelser m.v. der personopplysninger er lagret systematisk slik at opplysninger om den enkelte kan finnes igjen,\n4. behandlingsansvarlig: den som bestemmer formålet med behandlingen av personopplysninger og hvilke hjelpemidler som skal brukes,\n5. databehandler: den som behandler personopplysninger på vegne av den behandlingsansvarlige,\n6. registrert: den som en personopplysning kan knyttes til,\n7. samtykke: en frivillig, uttrykkelig og informert erklæring fra den registrerte om at han eller hun godtar behandling av opplysninger om seg selv,\n8. sensitive personopplysninger: opplysninger om\na. rasemessig eller etnisk bakgrunn, eller politisk, filosofisk eller religiøs oppfatning,\nb. at en person har vært mistenkt, siktet, tiltalt eller dømt for en straffbar handling,\nc. helseforhold,\nd. seksuelle forhold,\ne. medlemskap i fagforeninger.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Saklig virkeområde",
+      "content": "Loven gjelder for\na. behandling av personopplysninger​1 som helt eller delvis skjer med elektroniske hjelpemidler,\nb. annen behandling av personopplysninger​1 når disse inngår eller skal inngå i et personregister​2 og\nc. alle former for kameraovervåking, slik dette er definert i § 36 første ledd.\nLoven gjelder ikke behandling av personopplysninger​1 som den enkelte foretar for rent personlige eller andre private formål.\nKongen kan gi forskrift om at loven eller deler av den ikke skal gjelde for bestemte institusjoner og sakområder.\nKongen kan gi forskrift om særskilte former for behandling av personopplysninger,​1 og om behandling av personopplysninger i særskilte virksomheter eller bransjer. For behandling av personopplysninger​1 som ledd i kredittopplysningsvirksomhet kan det i forskrift gis bestemmelser bl.a. om hvilke typer opplysninger som kan behandles, hvilke kilder personopplysninger kan hentes fra, hvem kredittopplysninger kan utleveres til og hvordan utleveringen kan skje, sletting av kredittanmerkninger og taushetsplikt for de ansatte i kredittopplysningsbyrået. Det kan også gis regler om at loven eller enkelte bestemmelser gitt i eller i medhold av den skal gjelde for behandling av kredittopplysninger om andre enn enkeltpersoner.\n0 Endret ved lover 9 jan 2009 nr. 3, 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 2 nr. 2, jf. nr. 1.\n2 Se § 2 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Geografisk virkeområde",
+      "content": "Loven gjelder for behandlingsansvarlige​1 som er etablert i Norge. Kongen kan i forskrift bestemme at loven helt eller delvis skal gjelde for Svalbard​2 og Jan Mayen​3, og fastsette særlige regler om behandling av personopplysninger​4 for disse områdene.\nLoven gjelder også for behandlingsansvarlige​1 som er etablert i stater utenfor EØS-området​5 dersom den behandlingsansvarlige​1 benytter hjelpemidler i Norge. Dette gjelder likevel ikke dersom hjelpemidlene bare brukes til å overføre personopplysninger via Norge.\nBehandlingsansvarlige​1 som nevnt i annet ledd skal ha en representant som er etablert i Norge. Bestemmelsene som gjelder for den behandlingsansvarlige gjelder også for representanten.\n1 Se § 2 nr. 4.\n2 Se lov 17 juli 1925 nr. 11 § 1 (2).\n3 Jf. lov 27 feb 1930 nr. 2.\n4 Se § 2 nr. 2, jf. nr. 1.\n5 Jf. lov 27 nov 1992 nr. 109.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Forholdet til andre lover",
+      "content": "Bestemmelsene i loven gjelder for behandling av personopplysninger​1 om ikke annet følger av en særskilt lov som regulerer behandlingsmåten.​2\n1 Se § 2 nr. 2, jf. nr. 1.\n2 Se f.eks. lov 28 mai 2010 nr. 16 og lov 18 mai 2001 nr. 24.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "title": "Forholdet til lovbestemt innsynsrett etter andre lover",
+      "content": "Loven her begrenser ikke innsynsrett etter offentleglova,​1 forvaltningsloven​2 eller annen lovbestemt​3 rett til innsyn i personopplysninger.​4\nDersom annen lovbestemt​3 rett til innsyn gir tilgang til flere opplysninger enn loven her, skal den behandlingsansvarlige​4 av eget tiltak veilede om retten til å be om slikt innsyn.\n0 Endret ved lov 19 mai 2006 nr. 16 (ikr. 1 jan 2009 iflg. res. 17 okt 2008 nr. 1118).\n1 Lov 19 mai 2006 nr. 16.\n2 Lov 10 feb 1967 §§ 18 flg.\n3 Se f.eks. asl. § 4-6, asal. § 4-5 og lov 5 juli 2002 nr. 64 § 8-2.\n4 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "title": "Forholdet til ytringsfriheten",
+      "content": "For behandling av personopplysninger​1 utelukkende for kunstneriske, litterære eller journalistiske formål gjelder bare bestemmelsene i §§ 13 til 15, §§ 36 til 41, jf. kapittel VIII.\n0 Endret ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 2 nr. 2, jf. nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Vilkår for å behandle personopplysninger",
+      "content": "Personopplysninger (jf. § 2 nr. 1) kan bare behandles​2 dersom den registrerte​3 har samtykket,​4 eller det er fastsatt i lov at det er adgang til slik behandling, eller behandlingen er nødvendig for\na. å oppfylle en avtale med den registrerte,​3 eller for å utføre gjøremål etter den registrertes ønske før en slik avtale inngås,\nb. at den behandlingsansvarlige​5 skal kunne oppfylle en rettslig forpliktelse,\nc. å vareta den registrertes​3 vitale interesser,\nd. å utføre en oppgave av allmenn interesse,\ne. å utøve offentlig myndighet, eller\nf. at den behandlingsansvarlige​5 eller tredjepersoner som opplysningene utleveres til kan vareta en berettiget interesse, og hensynet til den registrertes​3 personvern ikke overstiger denne interessen.\n1 Se § 7.\n2 Se § 2 nr. 2.\n3 Se § 2 nr. 6.\n4 Se § 2 nr. 7.\n5 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Behandling av sensitive personopplysninger",
+      "content": "Sensitive personopplysninger (jf. § 2 nr. 8) kan bare behandles​2 dersom behandlingen oppfyller et av vilkårene i § 8 og\na. den registrerte​3 samtykker​4 i behandlingen,\nb. det er fastsatt i lov at det er adgang til slik behandling,\nc. behandlingen er nødvendig for å beskytte en persons vitale interesser, og den registrerte​3 ikke er i stand til å samtykke,\nd. det utelukkende behandles opplysninger som den registrerte​3 selv frivillig har gjort alminnelig kjent,\ne. behandlingen er nødvendig for å fastsette, gjøre gjeldende eller forsvare et rettskrav,\nf. behandlingen er nødvendig for at den behandlingsansvarlige​5 kan gjennomføre sine arbeidsrettslige plikter eller rettigheter,\ng. behandlingen er nødvendig for forebyggende sykdomsbehandling, medisinsk diagnose, sykepleie eller pasientbehandling eller for forvaltning av helsetjenester, og opplysningene behandles av helsepersonell med taushetsplikt,​6 eller\nh. behandlingen er nødvendig for historiske, statistiske eller vitenskapelige formål, og samfunnets interesse i at behandlingen finner sted klart overstiger ulempene den kan medføre for den enkelte.\nIdeelle sammenslutninger og stiftelser​7 kan behandle sensitive personopplysninger innenfor rammen av sin virksomhet selv om behandlingen ikke oppfyller et av vilkårene i første ledd bokstav a – h. Behandlingen kan bare omfatte opplysninger om medlemmer eller personer som på grunn av sammenslutningens eller stiftelsens formål frivillig er i regelmessig kontakt med den, og bare opplysninger som innsamles gjennom denne kontakten. Personopplysningene kan ikke utleveres uten at den registrerte​3 samtykker.​4\nDatatilsynet​8 kan bestemme at sensitive personopplysninger kan behandles også i andre tilfeller dersom viktige samfunnsinteresser tilsier det og det settes i verk tiltak for å sikre den registrertes​3 interesser.\n1 Se § 7.\n2 Se § 2 nr. 2.\n3 Se § 2 nr. 6.\n4 Se § 2 nr. 7.\n5 Se § 2 nr. 4.\n6 Se lov 2 juli 1999 nr. 64 kap. 5.\n7 Jf. lov 15 juni 2001 nr. 59.\n8 Se § 42.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Register over straffedommer",
+      "content": "Et fullstendig register over straffedommer​2 kan bare føres under kontroll av en offentlig myndighet.\n1 Se § 7.\n2 Jf. lov 28 mai 2010 nr. 16.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Grunnkrav til behandling av personopplysninger",
+      "content": "Den behandlingsansvarlige​2 skal sørge for at personopplysningene​3 som behandles​4\na. bare behandles når dette er tillatt etter § 8 og § 9,\nb. bare nyttes til uttrykkelig angitte formål som er saklig begrunnet i den behandlingsansvarliges​2 virksomhet,\nc. ikke brukes senere til formål som er uforenlig med det opprinnelige formålet med innsamlingen, uten at den registrerte​5 samtykker,​6\nd. er tilstrekkelige og relevante for formålet med behandlingen, og\ne. er korrekte og oppdatert, og ikke lagres lenger enn det som nødvendig ut fra formålet med behandlingen, jf. § 27 og § 28.\nSenere behandling av personopplysningene for historiske, statistiske eller vitenskapelige formål anses ikke uforenlig med de opprinnelige formålene med innsamlingen av opplysningene, jf. første ledd bokstav c, dersom samfunnets interesse i at behandlingen finner sted, klart overstiger ulempene den kan medføre for den enkelte.\nPersonopplysninger som gjelder barn, skal ikke behandles på en måte som er uforsvarlig av hensyn til barnets beste.\n0 Endret ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 7.\n2 Se § 2 nr. 4.\n3 Se § 2 nr. 1.\n4 Se § 2 nr. 2.\n5 Se § 2 nr. 6.\n6 Se § 2 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Bruk av fødselsnummer m.v.",
+      "content": "Fødselsnummer​2 og andre entydige identifikasjonsmidler​2 kan bare nyttes i behandlingen​3 når det er saklig behov for sikker identifisering og metoden er nødvendig for å oppnå slik identifisering.\nDatatilsynet​4 kan pålegge en behandlingsansvarlig​5 å bruke identifikasjonsmidler som nevnt i første ledd for å sikre at personopplysningene​6 har tilstrekkelig kvalitet.\nKongen kan gi forskrift med nærmere regler om bruk av fødselsnummer​2 og andre entydige identifikasjonsmidler.\n1 Se § 7.\n2 Se lov 9 des 2016 nr. 88 § 2-2.\n3 Se § 2 nr. 2.\n4 Se § 42.\n5 Se § 2 nr. 4.\n6 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "title": "Informasjonssikkerhet",
+      "content": "Den behandlingsansvarlige​1 og databehandleren​2 skal gjennom planlagte og systematiske tiltak sørge for tilfredsstillende informasjonssikkerhet med hensyn til konfidensialitet, integritet og tilgjengelighet ved behandling av personopplysninger.​3\nFor å oppnå tilfredsstillende informasjonssikkerhet skal den behandlingsansvarlige​1 og databehandleren​2 dokumentere informasjonssystemet og sikkerhetstiltakene. Dokumentasjonen skal være tilgjengelig for medarbeiderne hos den behandlingsansvarlige​1 og hos databehandleren.​2 Dokumentasjonen skal også være tilgjengelig for Datatilsynet​4 og Personvernnemnda.​5\nEn behandlingsansvarlig som lar andre få tilgang til personopplysninger,​3 f.eks. en databehandler​2 eller andre som utfører oppdrag i tilknytning til informasjonssystemet, skal påse at disse oppfyller kravene i første og annet ledd.\nKongen kan gi forskrift om informasjonssikkerhet ved behandling av personopplysninger,​3 herunder nærmere regler om organisatoriske og tekniske sikkerhetstiltak.\n1 Se § 2 nr. 4.\n2 Se § 2 nr. 5.\n3 Se § 2 nr. 1.\n4 Se § 42.\n5 Se § 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "title": "Internkontroll",
+      "content": "Den behandlingsansvarlige​1 skal etablere og holde vedlike planlagte og systematiske tiltak som er nødvendige for å oppfylle kravene i eller i medhold av denne loven, herunder sikre personopplysningenes​2 kvalitet.\nDen behandlingsansvarlige​1 skal dokumentere tiltakene. Dokumentasjonen skal være tilgjengelig for medarbeiderne hos den behandlingsansvarlige​1 og hos databehandleren.​3 Dokumentasjonen skal også være tilgjengelig for Datatilsynet​4 og Personvernnemnda.​5\nKongen kan gi forskrift med nærmere regler om internkontroll.\n1 Se § 2 nr. 4.\n2 Se § 2 nr. 1.\n3 Se § 2 nr. 5.\n4 Se § 42.\n5 Se § 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "title": "Databehandlerens rådighet over personopplysninger",
+      "content": "En databehandler​1 kan ikke behandle​2 personopplysninger​3 på annen måte enn det som er skriftlig avtalt med den behandlingsansvarlige.​4 Opplysningene kan heller ikke uten slik avtale overlates til noen andre for lagring eller bearbeidelse.\nI avtalen med den behandlingsansvarlige​4 skal det også gå frem at databehandleren plikter å gjennomføre slike sikringstiltak som følger av § 13.\n1 Se § 2 nr. 5.\n2 Se § 2 nr. 2.\n3 Se § 2 nr. 1.\n4 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "2:16",
+      "chapter": "2",
+      "section": "16",
+      "title": "Frist for å svare på henvendelser om informasjon m.v.",
+      "content": "Den behandlingsansvarlige​2 skal svare på henvendelser om innsyn eller andre rettigheter etter § 18, § 22, § 25, § 26,​3 § 27 og § 28 uten ugrunnet opphold og senest innen 30 dager fra den dagen henvendelsen kom inn.\nDersom særlige forhold gjør det umulig å svare på henvendelsen innen 30 dager, kan gjennomføringen utsettes inntil det er mulig å gi svar. Den behandlingsansvarlige​2 skal i så fall gi et foreløpig svar med opplysninger om grunnen til forsinkelsen og sannsynlig tidspunkt for når svar kan gis.\n1 Se § 7.\n2 Se § 2 nr. 4.\n3 Paragrafen er opphevet.\n1 Paragrafen er opphevet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "2:17",
+      "chapter": "2",
+      "section": "17",
+      "title": "Betaling",
+      "content": "Den behandlingsansvarlige​2 kan ikke kreve vederlag for å gi informasjon etter kapittel III eller for å etterkomme krav fra den registrerte etter kapittel IV.\n1 Se § 7.\n2 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "title": "Rett til innsyn",
+      "content": "Enhver som ber om det, skal få vite hva slags behandling av personopplysninger​2 en behandlingsansvarlig​3 foretar, og kan kreve å få følgende informasjon om en bestemt type behandling:​4\na. navn og adresse på den behandlingsansvarlige​3 og dennes eventuelle representant,​5\nb. hvem som har det daglige ansvaret for å oppfylle den behandlingsansvarliges​3 plikter,\nc. formålet med behandlingen,​4\nd. beskrivelser av hvilke typer personopplysninger​2 som behandles,\ne. hvor opplysningene er hentet fra, og\nf. om personopplysningene​2 vil bli utlevert, og eventuelt hvem som er mottaker.\nDersom den som ber om innsyn er registrert,​6 skal den behandlingsansvarlige​3 opplyse om\na. hvilke opplysninger om den registrerte​6 som behandles, og\nb. sikkerhetstiltakene​7 ved behandlingen så langt innsyn ikke svekker sikkerheten.\nDen registrerte​6 kan kreve at den behandlingsansvarlige​3 utdyper informasjonen i første ledd bokstav a – f i den grad dette er nødvendig for at den registrerte skal kunne vareta egne interesser.\nRetten til informasjon etter annet og tredje ledd gjelder ikke dersom personopplysningene​2 behandles utelukkende for historiske, statistiske eller vitenskapelige formål og behandlingen ikke får noen direkte betydning for den registrerte.\n1 Se § 7, § 16 og § 23. Se lov 7 mai 2004 nr. 21 § 17 siste ledd.\n2 Se § 2 nr. 2, jf. nr. 1.\n3 Se § 2 nr. 4.\n4 Se § 4 (2).\n5 Se § 2 nr. 2.\n6 Se § 2 nr. 6.\n7 Se § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "title": "Informasjonsplikt når det samles inn opplysninger fra den registrerte",
+      "content": "Når det samles inn personopplysninger​2 fra den registrerte​3 selv, skal den behandlingsansvarlige​4 av eget tiltak først informere den registrerte​3 om\na. navn og adresse på den behandlingsansvarlige​4 og dennes eventuelle representant,\nb. formålet med behandlingen,​5\nc. opplysningene vil bli utlevert, og eventuelt hvem som er mottaker,\nd. det er frivillig å gi fra seg opplysningene, og\ne. annet som gjør den registrerte​3 i stand til å bruke sine rettigheter etter loven her på best mulig måte, som f.eks. informasjon om retten til å kreve innsyn, jf. § 18, og retten til å kreve retting, jf. § 27 og § 28.\nVarsling er ikke påkrevd dersom det er på det rene at den registrerte​3 allerede kjenner til informasjonen i første ledd.\n1 Se § 7 og § 23.\n2 Se § 2 nr. 1.\n3 Se § 2 nr. 6.\n4 Se § 2 nr. 4.\n5 Se § 2 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "title": "Informasjonsplikt når det samles inn opplysninger fra andre enn den registrerte",
+      "content": "En behandlingsansvarlig​2 som samler inn personopplysninger​3 fra andre enn den registrerte​4 selv, skal av eget tiltak informere den registrerte om hvilke opplysninger som samles inn og gi informasjon som nevnt i § 19 første ledd så snart opplysningene er innhentet. Dersom formålet med innsamling av opplysningene er å gi dem videre til andre, kan den behandlingsansvarlige​2 vente med å varsle den registrerte til utleveringen skjer.\nDen registrerte​4 har ikke krav på varsel etter første ledd dersom\na. innsamlingen eller formidlingen av opplysningene er uttrykkelig fastsatt i lov,\nb. varsling er umulig eller uforholdsmessig vanskelig, eller\nc. det er på det rene at den registrerte allerede kjenner til informasjonen varslet skal inneholde.\nNår varsling unnlates med hjemmel i bokstav b, skal informasjonen likevel gis senest når det gjøres en henvendelse til den registrerte​4 på grunnlag av opplysningene.\n1 Se § 7 og § 23.\n2 Se § 2 nr. 4.\n3 Se § 2 nr. 1.\n4 Se § 2 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "3:21",
+      "chapter": "3",
+      "section": "21",
+      "title": "Informasjonsplikt ved bruk av personprofiler",
+      "content": "Når noen henvender seg til eller treffer avgjørelser som retter seg mot den registrerte​2 på grunnlag av personprofiler som er ment å beskrive atferd, preferanser, evner eller behov, f eks som ledd i markedsføringsvirksomhet, skal den behandlingsansvarlige​3 informere den registrerte om\na. hvem som er behandlingsansvarlig,​3\nb. hvilke opplysningstyper som er anvendt, og\nc. hvor opplysningene er hentet fra.\n1 Se § 7 og § 23.\n2 Se § 2 nr. 6.\n3 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "3:22",
+      "chapter": "3",
+      "section": "22",
+      "title": "Rett til informasjon om automatiserte avgjørelser",
+      "content": "Hvis en avgjørelse har rettslig eller annen vesentlig betydning for den registrerte​2 og fullt ut er basert på automatisk behandling av personopplysninger,​3 kan den registrerte som avgjørelsen retter seg mot, kreve at den behandlingsansvarlige​4 gjør rede for regelinnholdet i datamaskinprogrammene som ligger til grunn for avgjørelsen.\n1 Se § 7, § 16, § 23 og § 25.\n2 Se § 2 nr. 6.\n3 Se § 2 nr. 2, jf. nr. 1.\n4 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "3:23",
+      "chapter": "3",
+      "section": "23",
+      "title": "Unntak fra retten til informasjon",
+      "content": "Retten til innsyn etter § 18 og § 22 og plikten til å gi informasjon etter § 19, § 20 og § 21 omfatter ikke opplysninger som\na. om de ble kjent, ville kunne skade rikets sikkerhet, landets forsvar eller forholdet til fremmede makter eller internasjonale organisasjoner,​2\nb. det er påkrevd å hemmeligholde av hensyn til forebygging, etterforskning, avsløring og rettslig forfølgning av straffbare handlinger,\nc. det må anses utilrådelig at den registrerte​3 får kjennskap til, av hensyn til vedkommendes helse eller forholdet til personer som står vedkommende nær,\nd. det i medhold av lov gjelder taushetsplikt for,\ne. utelukkende finnes i tekst som er utarbeidet for den interne saksforberedelse og som heller ikke er utlevert til andre,\nf. det vil være i strid med åpenbare og grunnleggende private eller offentlige interesser å informere om, herunder hensynet til den registrerte​3 selv.\nOpplysninger etter første ledd bokstav c kan på anmodning likevel gjøres kjent for en representant for den registrerte​3 når ikke særlige grunner taler mot det.\nDen som nekter å gi innsyn i medhold av første ledd må begrunne dette skriftlig med presis henvisning til unntakshjemmelen.\nKongen kan gi forskrift om andre unntak fra innsynsretten og informasjonsplikten og om vilkår for bruk av innsynsretten.\n1 Se § 7.\n2 Jf. lover 18 aug 1914 nr. 3 og 26 juni 1953 nr. 8.\n3 Se § 2 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "3:24",
+      "chapter": "3",
+      "section": "24",
+      "title": "Hvordan informasjonen skal gis",
+      "content": "Informasjonen kan kreves skriftlig hos den behandlingsansvarlige​2 eller hos dennes databehandler​3 som nevnt i § 15. Før det gis innsyn i opplysninger om en registrert,​4 kan den behandlingsansvarlige​2 kreve at den registrerte leverer en skriftlig og undertegnet begjæring.\n1 Se § 7.\n2 Se § 2 nr. 4.\n3 Se § 2 nr. 5.\n4 Se § 2 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "title": "Rett til å kreve manuell behandling",
+      "content": "Den som en fullt automatisert avgjørelse som nevnt i § 22 retter seg mot eller som saken ellers direkte gjelder, kan kreve at avgjørelsen overprøves av en fysisk person.\nRetten etter første ledd gjelder ikke dersom den registrertes​1 personverninteresser varetas på tilstrekkelig måte og avgjørelsen er hjemlet i lov eller knytter seg til oppfyllelse av kontrakt.\n1 Se § 2 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "4:26",
+      "chapter": "4",
+      "section": "26",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 9 jan 2009 nr. 2 (ikr. 1 juni 2009 iflg. res. 9 jan 2009 nr. 7).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "4:27",
+      "chapter": "4",
+      "section": "27",
+      "title": "Retting av mangelfulle personopplysninger",
+      "content": "Dersom det er behandlet personopplysninger​2 som er uriktige, ufullstendige eller som det ikke er adgang til å behandle,​3 skal den behandlingsansvarlige​4 av eget tiltak eller på begjæring av den registrerte​5 rette de mangelfulle opplysningene. Den behandlingsansvarlige​4 skal om mulig sørge for at feilen ikke får betydning for den registrerte,​5 f.eks. ved å varsle mottakere av utleverte opplysninger.\nRetting av uriktige eller ufullstendige personopplysninger​6 som kan ha betydning som dokumentasjon, skal skje ved at opplysningene tydelig markeres og suppleres med korrekte opplysninger.\nDersom tungtveiende personvernhensyn tilsier det, kan Datatilsynet​7 uten hinder av annet ledd bestemme at retting skal skje ved at de mangelfulle personopplysningene slettes eller sperres. Hvis opplysningene ikke kan kasseres i medhold av arkivloven,​8 skal Riksarkivaren​9 høres før det treffes vedtak om sletting. Vedtaket går foran reglene i arkivloven 4. desember 1992 nr. 126 § 9 og § 18.\nSletting bør suppleres med registrering av korrekte og fullstendige opplysninger. Dersom dette ikke er mulig, og dokumentet som inneholdt de slettede opplysningene av den grunn gir et åpenbart misvisende bilde, skal hele dokumentet slettes.\nKongen kan gi forskrift med utfyllende bestemmelser om hvordan retting skal gjennomføres.\n1 Se lov 7 mai 2004 nr. 21 § 17 siste ledd.\n2 Se § 2 nr. 2, jf. nr. 1.\n3 Se § 9.\n4 Se § 2 nr. 4.\n5 Se § 2 nr. 6.\n6 Se § 2 nr. 1.\n7 Se § 42.\n8 Lov 4 des 1992 nr. 126.\n9 Se lov 4 des 1992 nr. 126 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "4:28",
+      "chapter": "4",
+      "section": "28",
+      "title": "Forbud mot å lagre unødvendige personopplysninger",
+      "content": "Den behandlingsansvarlige​1 skal ikke lagre personopplysninger​2 lenger enn det som er nødvendig for å gjennomføre formålet med behandlingen.​3 Hvis ikke personopplysningene deretter skal oppbevares i henhold til arkivloven​4 eller annen lovgivning, skal de slettes.\nDen behandlingsansvarlige​1 kan uten hinder av første ledd lagre personopplysninger​2 for historiske, statistiske eller vitenskapelige formål, dersom samfunnets interesse i at opplysningene lagres klart overstiger de ulempene den kan medføre for den enkelte. Den behandlingsansvarlige​1 skal i så fall sørge for at opplysningene ikke oppbevares på måter som gjør det mulig å identifisere den registrerte​5 lenger enn nødvendig.\nDen registrerte​5 kan kreve at opplysninger som er sterkt belastende for ham eller henne skal sperres eller slettes dersom dette\na. ikke strider mot annen lov, og\nb. er forsvarlig ut fra en samlet vurdering av bl.a. andres behov for dokumentasjon, hensynet til den registrerte, kulturhistoriske hensyn og de ressurser gjennomføringen av kravet forutsetter.\nDatatilsynet​6 kan – etter at Riksarkivaren​7 er hørt – treffe vedtak om at retten til sletting etter tredje ledd går foran reglene i arkivloven 4. desember 1992 nr. 126 § 9 og § 18.\nHvis dokumentet som inneholdt de slettede opplysningene gir et åpenbart misvisende bilde etter slettingen, skal hele dokumentet slettes.\n1 Se § 2 nr. 4.\n2 Se § 2 nr. 1.\n3 Se § 2 nr. 2.\n4 Lov 4 des 1992 nr. 126.\n5 Se § 2 nr. 6.\n6 Se § 42.\n7 Se lov 4 des 1992 nr. 126 § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Grunnleggende vilkår",
+      "content": "Personopplysninger​2 kan bare overføres til stater som sikrer en forsvarlig behandling av opplysningene. Stater som har gjennomført direktiv 95/46/EF om beskyttelse av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger, oppfyller kravet til forsvarlig behandling.\nI vurderingen av om behandlingen sikres på forsvarlig måte, skal det bl.a. legges vekt på opplysningenes art, den planlagte behandlingens formål og varighet samt de rettsregler, regler for god forretningsskikk og sikkerhetstiltak som gjelder i vedkommende stat. Det skal også legges vekt på om staten har tiltrådt Europarådets konvensjon 28. januar 1981 nr. 108 om personvern i forbindelse med elektronisk behandling av personopplysninger.\n1 Se § 7.\n2 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "title": "Unntak",
+      "content": "Personopplysninger​2 kan også overføres til stater som ikke sikrer en forsvarlig behandling av opplysningene dersom\na. den registrerte​3 har samtykket​4 i overføringen,\nb. det foreligger plikt til å overføre opplysningene etter folkerettslig avtale​5 eller som følge av medlemskap i internasjonal organisasjon,\nc. overføringen er nødvendig for å oppfylle en avtale med den registrerte,​3 eller for å utføre gjøremål etter den registrertes​3 ønske før en slik avtale inngås,\nd. overføringen er nødvendig for å inngå eller oppfylle en avtale med en tredjeperson i den registrertes​3 interesse,\ne. overføringen er nødvendig for å vareta den registrertes​3 vitale interesser,\nf. overføringen er nødvendig for å fastsette, gjøre gjeldende eller forsvare et rettskrav,\ng. overføringen er nødvendig eller følger av lov for å beskytte en viktig samfunnsinteresse, eller\nh. det er fastsatt i lov at det er adgang til å kreve opplysninger fra et offentlig register.\nDatatilsynet​6 kan tillate overføring selv om vilkårene i første ledd ikke er oppfylt dersom den behandlingsansvarlige​7 gir tilstrekkelige garantier for vern av den registrertes​3 rettigheter. Datatilsynet kan sette vilkår for overføringen.\nKongen kan gi forskrift om overføring av personopplysninger​2 til utlandet, herunder om å stanse eller begrense overføring til bestemte stater som ikke tilfredsstiller kravene i § 29.\n1 Se § 7.\n2 Se § 2 nr. 1.\n3 Se § 2 nr. 6.\n4 Se § 2 nr. 7.\n5 Se lov 16 juli 1999 nr. 66.\n6 Se § 42.\n7 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "title": "Meldeplikt",
+      "content": "Den behandlingsansvarlige​2 skal gi melding til Datatilsynet​3 før\na. behandling av personopplysninger​4 med elektroniske hjelpemidler,\nb. opprettelse av manuelt personregister​5 som inneholder sensitive personopplysninger.​6\nMeldingen skal gis senest 30 dager før behandlingen tar til. Datatilsynet​3 skal gi den behandlingsansvarlige​2 kvittering for at melding er mottatt.\nNy melding må gis før behandling som går ut over den rammen for behandling som er angitt i medhold av § 32. Selv om det ikke har skjedd endringer, skal det gis ny melding tre år etter at forrige melding ble gitt.\nKongen kan gi forskrift om at visse behandlingsmåter eller behandlingsansvarlige​2 er unntatt fra meldeplikt, underlagt forenklet meldeplikt eller underlagt konsesjonsplikt. For behandlinger som unntas fra meldeplikt kan det gis forskrift for å begrense ulemper som behandlingen ellers kan medføre for den registrerte.​7\n1 Se § 7. Se lov 7 mai 2004 nr. 21 § 17 siste ledd.\n2 Se § 2 nr. 4.\n3 Se § 42.\n4 Se § 2 nr. 2, jf. nr. 1.\n5 Se § 2 nr. 3.\n6 Se § 2 nr. 8.\n7 Se § 2 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "title": "Meldingens innhold",
+      "content": "Meldingen skal opplyse om\na. navn og adresse på den behandlingsansvarlige​2 og på dennes eventuelle representant​3 og databehandler,​4\nb. når behandlingen starter,\nc. hvem som har det daglige ansvaret for å oppfylle den behandlingsansvarliges​2 plikter,\nd. formålet med behandlingen,​5\ne. oversikt over hvilke typer personopplysninger​6 som skal behandles,\nf. hvor personopplysningene​6 hentes fra,\ng. det rettslige grunnlaget for innsamlingen av opplysningene,\nh. hvem personopplysningene​6 vil bli utlevert til, herunder eventuelle mottakere i andre stater, og\ni. hvilke sikkerhetstiltak​7 som er knyttet til behandlingen.\nKongen kan gi forskrift om hvilke opplysninger meldingene skal inneholde og om gjennomføringen av meldeplikten.\n1 Se § 7. Se lov 7 mai 2004 nr. 21 § 17 siste ledd.\n2 Se § 2 nr. 4.\n3 Se § 4 siste ledd.\n4 Se § 2 nr. 5.\n5 Se § 2 nr. 2.\n6 Se § 2 nr. 1.\n7 Se § 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "title": "Konsesjonsplikt",
+      "content": "Det kreves konsesjon fra Datatilsynet​2 for å behandle​3 sensitive personopplysninger.​4 Dette gjelder likevel ikke for behandling av sensitive personopplysninger som er avgitt uoppfordret.\nDatatilsynet​2 kan bestemme at også behandling av annet enn sensitive personopplysninger krever konsesjon, dersom behandlingen ellers åpenbart vil krenke tungtveiende personverninteresser. I vurderingen av om konsesjon er nødvendig, skal Datatilsynet bl.a. ta hensyn til personopplysningenes art, mengde og formålet med behandlingen.\nDersom Datatilsynet mener at konsesjon for en behandling vil være åpenbart unødvendig, kan tilsynet bestemme at behandlingen ikke krever konsesjon.\nDen behandlingsansvarlige​5 kan kreve at Datatilsynet​2 avgjør om en behandling​3 vil kreve konsesjon.\nKonsesjonsplikt etter første og annet ledd gjelder ikke for behandling​3 av personopplysninger i organ for stat eller kommune når behandlingen har hjemmel i egen lov.\nKongen kan gi forskrift om at visse behandlingsmåter​3 ikke trenger konsesjon etter første ledd. For behandlingsmåter som unntas fra konsesjon kan det gis forskrift for å begrense ulemper som behandlingen ellers kan medføre for den registrerte.\n0 Endret ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 7.\n2 Se § 42.\n3 Se § 2 nr. 2.\n4 Se § 2 nr. 8.\n5 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "title": "Avgjørelsen av om konsesjon skal gis",
+      "content": "Ved avgjørelsen av om konsesjon skal gis, skal det klarlegges om behandlingen av personopplysninger​2 kan volde ulemper for den enkelte som ikke avhjelpes gjennom bestemmelsene i kapitlene II-V og vilkår etter § 35. I så fall må det vurderes om ulempene blir oppveid av hensyn som taler for behandlingen.\n1 Se § 7.\n2 Se § 2 nr. 2, jf. nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "6:35",
+      "chapter": "6",
+      "section": "35",
+      "title": "Vilkår i konsesjon",
+      "content": "I konsesjonen skal det vurderes å sette vilkår for behandlingen​2 når slike vilkår er nødvendige for å begrense ulempene behandlingen ellers ville medføre for den registrerte.​3\n0 Endres ved lov 15 apr 2011 nr. 11 (ikr. fra den tid Kongen bestemmer).\n1 Se § 7.\n2 Se § 2 nr. 2.\n3 Se § 2 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "7:36",
+      "chapter": "7",
+      "section": "36",
+      "title": "Definisjon",
+      "content": "Med kameraovervåking menes vedvarende eller regelmessig gjentatt personovervåking ved hjelp av fjernbetjent eller automatisk virkende overvåkningskamera eller annet lignende utstyr som er fastmontert. Som kameraovervåking anses både overvåking med og uten mulighet for opptak av lyd- og bildemateriale. Det samme gjelder utstyr som lett kan forveksles med en ekte kameraløsning.\nKameraovervåking kan bare finne sted der vilkårene for dette er oppfylt etter § 37 (alminnelige vilkår) og §§ 38 til 40 (tilleggsvilkår).\n0 Endret ved lover 9 jan 2009 nr. 3, 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "7:37",
+      "chapter": "7",
+      "section": "37",
+      "title": "Alminnelige vilkår for kameraovervåking",
+      "content": "Personopplysningsloven gjelder i sin helhet for alle former for kameraovervåking,​1 jf. § 3 første ledd bokstav c, med de presiseringer som fremgår av annet til fjerde ledd.\nKameraovervåking​1 som må antas å ha vesentlig betydning for forebygging og oppklaring av straffbare handlinger er tillatt selv om vilkårene i § 9 første ledd bokstav a til h ikke er oppfylt. I slike tilfeller gjelder heller ikke konsesjonsplikt etter § 33.\nVed vurderingen av hva som er en berettiget interesse etter personopplysningsloven § 8 bokstav f skal det for kameraovervåking​1 legges vesentlig vekt på om overvåkingen bidrar til å verne om liv eller helse eller forebygger gjentatte eller alvorlige straffbare handlinger.\nKameraovervåking​1 skal kun anses som behandling av sensitive personopplysninger​2 der slike utgjør en vesentlig del av opplysningene som overvåkingen omfatter.\n0 Endret ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 36.\n2 Se § 2 nr. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "7:38",
+      "chapter": "7",
+      "section": "38",
+      "title": "Tilleggsvilkår ved overvåking av sted hvor en begrenset krets av personer ferdes jevnlig",
+      "content": "Kameraovervåking​1 av sted hvor en begrenset krets av personer ferdes jevnlig, er bare tillatt dersom det ut fra virksomheten er behov for å forebygge at farlige situasjoner oppstår og ivareta hensynet til ansattes eller andres sikkerhet eller det for øvrig er et særskilt behov for overvåkingen.\n0 Endret ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 36.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "7:38 a",
+      "chapter": "7",
+      "section": "38 a",
+      "title": "Tilleggsvilkår ved overvåking av parker, strender og lignende rekreasjonsområder som er tilgjengelig for allmennheten",
+      "content": "Kameraovervåking​1 av parker, strender og lignende rekreasjonsområder som er tilgjengelig for allmennheten, er bare tillatt når behovet for overvåking klart overstiger den enkeltes interesse av ikke å bli overvåket.\nVed vurderingen av behovet for overvåking skal det særlig legges vekt på om overvåkingen er av vesentlig betydning for å forebygge straffbare handlinger som kan true liv eller helse, hindre ulykker eller ivareta liknende samfunnsnyttige interesser.\nVed vurderingen av den enkeltes interesse av ikke å bli overvåket skal det særlig legges vekt på hvordan overvåkingen skal skje, samt hva slags område som skal overvåkes.\n0 Tilføyd ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 36.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38a",
+        "source_heading": "§ 38 a."
+      }
+    },
+    {
+      "provision_ref": "7:39",
+      "chapter": "7",
+      "section": "39",
+      "title": "Tilleggsvilkår for utlevering av opptak gjort ved kameraovervåking",
+      "content": "Personopplysninger​2 som er innsamlet ved opptak gjort ved kameraovervåking,​3 kan bare utleveres til andre enn den behandlingsansvarlige​4 dersom den som er avbildet samtykker​5 eller utleveringsadgangen følger av lov. Opptak kan likevel utleveres til politiet ved etterforskning av straffbare handlinger eller ulykker hvis ikke lovbestemt taushetsplikt er til hinder.\n0 Endret ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 41 siste punktum.\n2 Se § 2 nr. 1.\n3 Se § 36.\n4 Se § 2 nr. 4.\n5 Se § 2 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "7:40",
+      "chapter": "7",
+      "section": "40",
+      "title": "Tilleggsvilkår om varsel om at overvåking finner sted",
+      "content": "Ved kameraovervåking​1 på offentlig sted eller sted hvor en begrenset krets av personer ferdes jevnlig, skal det ved skilting eller på annen måte gjøres tydelig oppmerksom på at stedet blir overvåket, at overvåkingen eventuelt inkluderer lydopptak og hvem som er behandlingsansvarlig.​2\n0 Endret ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 36.\n2 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "7:41",
+      "chapter": "7",
+      "section": "41",
+      "title": "Forskrifter",
+      "content": "Kongen kan gi forskrifter med nærmere bestemmelser om kameraovervåking​1 og opptak i forbindelse med slik overvåking, herunder om sikring, bruk og sletting av opptak gjort ved kameraovervåking og om innsynsrett for den som er overvåket i de deler av opptakene hvor han eller hun er avbildet. Det kan også gis forskrift om at opptak kan utleveres utover det som følger av § 39.\n0 Endret ved lov 20 apr 2012 nr. 18 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 335).\n1 Se § 36.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "8:42",
+      "chapter": "8",
+      "section": "42",
+      "title": "Datatilsynets organisering og oppgaver",
+      "content": "Datatilsynet er et uavhengig forvaltningsorgan administrativt underordnet Kongen og departementet.​2 Kongen og departementet kan ikke gi instruks om eller omgjøre Datatilsynets utøving av myndighet i enkelttilfeller etter loven.\nDatatilsynet ledes av en direktør som utnevnes av Kongen. Kongen kan bestemme at direktøren ansettes på åremål.\nDatatilsynet skal\n1. føre en systematisk og offentlig fortegnelse over alle behandlinger som er innmeldt etter § 31 eller gitt konsesjon etter § 33, med opplysninger som nevnt i § 18 første ledd jf. § 23,\n2. behandle søknader om konsesjoner, motta meldinger og vurdere om det skal gis pålegg der loven gir hjemmel for dette,\n3. kontrollere at lover og forskrifter som gjelder for behandling av personopplysninger​3 blir fulgt, og at feil eller mangler blir rettet,\n4. holde seg orientert om og informere om den generelle nasjonale og internasjonale utviklingen i behandlingen av personopplysninger​3 og om de problemer som knytter seg til slik behandling,​3\n5. identifisere farer for personvernet, og gi råd om hvordan de kan unngås eller begrenses,\n6. gi råd og veiledning i spørsmål om personvern og sikring av personopplysninger til dem som planlegger å behandle personopplysninger​3 eller utvikle systemer for slik behandling,​3 herunder bistå i utarbeidelsen av bransjevise atferdsnormer,\n7. etter henvendelse eller av eget tiltak gi uttalelse i spørsmål om behandling av personopplysninger,​3 og\n8. gi Kongen årsmelding om sin virksomhet.\nAvgjørelser som Datatilsynet fatter i medhold av § 9, § 12, § 27, § 28, § 30, § 33, § 34, § 35, § 44, § 46 og § 47 kan påklages til Personvernnemnda.​4 Avgjørelser som fattes i medhold av § 27 eller § 28 kan påklages videre til Kongen dersom avgjørelsen gjelder personopplysninger som behandles for historiske formål.\n1 Se § 7.\n2 Kommunal- og moderniseringsdepartementet.\n3 Se § 2 nr. 2, jf. nr. 1.\n4 Se § 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "8:43",
+      "chapter": "8",
+      "section": "43",
+      "title": "Personvernnemndas organisering og oppgaver",
+      "content": "Personvernnemnda avgjør klager over Datatilsynets avgjørelser, jf. § 42 fjerde ledd. Nemnda er et uavhengig forvaltningsorgan administrativt underordnet Kongen og departementet.​2 § 42 første ledd annet punktum gjelder tilsvarende.\nPersonvernnemnda har syv medlemmer som oppnevnes for fire år med adgang til gjenoppnevning for ytterligere fire år. Lederen og nestlederen oppnevnes av Stortinget. De øvrige fem medlemmene oppnevnes av Kongen.\nPersonvernnemnda kan bestemme at lederen eller nestlederen sammen med to andre nemndsmedlemmer kan behandle klager over avgjørelser som må avgjøres uten opphold.\nPersonvernnemnda orienterer årlig Kongen om behandling av klagesakene.\nSøksmål om gyldigheten av Personvernnemndas avgjørelser rettes mot staten ved Personvernnemnda.\nKongen kan gi nærmere regler om Personvernnemndas organisering og saksbehandling.\n1 Se § 7.\n2 Kommunal- og moderniseringsdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "8:44",
+      "chapter": "8",
+      "section": "44",
+      "title": "Tilsynsmyndighetens tilgang til opplysninger",
+      "content": "Datatilsynet og Personvernnemnda kan kreve de opplysningene som trengs for at de kan gjennomføre sine oppgaver.\nDatatilsynet kan som ledd i sin kontroll med at lovens regler etterleves, kreve adgang​2 til steder hvor det finnes personregistre,​3 overvåkingsutstyr og billedopptak som nevnt i § 37, personopplysninger​4 som behandles elektronisk og hjelpemidler for slik behandling. Tilsynet kan gjennomføre de prøver eller kontroller som det finner nødvendig og kreve bistand fra personalet på stedet i den grad dette må til for å få utført prøvene eller kontrollene.\nRetten til å kreve opplysninger eller tilgang til lokaler og hjelpemidler i henhold til første og annet ledd gjelder uten hinder av taushetsplikt.\nKongen kan gi forskrift om unntak fra første til tredje ledd av hensyn til rikets sikkerhet. Kongen kan også gi forskrift om dekning av utgiftene ved kontroll.\n0 Endret ved lov 9 jan 2009 nr. 3.\n1 Se § 7.\n2 Jf. strl. § 156.\n3 Se § 2 nr. 3.\n4 Se § 2 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "8:45",
+      "chapter": "8",
+      "section": "45",
+      "title": "Taushetsplikt for tilsynsmyndighetene",
+      "content": "For ansatte i Datatilsynet,​2 medlemmer av Personvernnemnda​3 og andre som utfører tjeneste for tilsynsmyndighetene gjelder bestemmelsene om taushetsplikt i forvaltningsloven​4 §§ 13 flg. Taushetsplikten omfatter også opplysninger om sikkerhetstiltak, jf. § 13.\nDatatilsynet​2 og Personvernnemnda​3 kan uten hinder av taushetsplikten etter første ledd gi opplysninger til utenlandske tilsynsmyndigheter når det er nødvendig for å kunne treffe vedtak som ledd i tilsynsvirksomheten.\n1 Se § 7.\n2 Se § 42.\n3 Se § 43.\n4 Lov 10 feb 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "8:46",
+      "chapter": "8",
+      "section": "46",
+      "title": "Overtredelsesgebyr. Pålegg om endring eller opphør av ulovlige behandlinger",
+      "content": "Datatilsynet​2 kan pålegge den som har overtrådt denne loven eller forskrifter i medhold av den, å betale et pengebeløp til statskassen (overtredelsesgebyr) på inntil 10 ganger grunnbeløpet i folketrygden. Fysiske personer kan bare ilegges overtredelsesgebyr for forsettlige eller uaktsomme overtredelser. Et foretak kan ikke ilegges overtredelsesgebyr dersom overtredelsen skyldes forhold utenfor foretakets kontroll.\nVed vurderingen av om overtredelsesgebyr skal ilegges, og ved utmålingen, skal det særlig legges vekt på\na. hvor alvorlig overtredelsen har krenket de interesser loven verner,\nb. graden av skyld,\nc. om overtrederen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen,\nd. om overtredelsen er begått for å fremme overtrederens interesser,\ne. om overtrederen har hatt eller kunne ha oppnådd noen fordel ved overtredelsen,\nf. om det foreligger gjentakelse,\ng. om andre reaksjoner som følge av overtredelsen blir ilagt overtrederen eller noen som har handlet på vegne av denne, blant annet om noen enkeltperson blir ilagt straff og\nh. overtrederens økonomiske evne.\nOppfyllelsesfristen er 4 uker etter at vedtaket om overtredelsesgebyr er endelig. Dersom et vedtak om overtredelsesgebyr bringes inn for en domstol, kan den prøve alle sider av saken.\nDatatilsynet​2 kan gi pålegg om at behandling av personopplysninger​3 i strid med bestemmelser i eller i medhold av denne loven skal opphøre, eller stille vilkår som må være oppfylt for at behandlingen skal være i samsvar med loven.\n0 Endret ved lov 9 jan 2009 nr. 3.\n1 Se § 7.\n2 Se § 42.\n3 Se § 2 nr. 2, jf. nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "8:47",
+      "chapter": "8",
+      "section": "47",
+      "title": "Tvangsmulkt​2",
+      "content": "Ved pålegg etter § 12, § 27, § 28 og § 46 kan Datatilsynet​3 fastsette en tvangsmulkt som løper for hver dag som går etter utløpet av den fristen som er satt for oppfylling av pålegget, inntil pålegget er oppfylt.\nTvangsmulkten løper ikke før klagefristen er ute. Hvis vedtaket påklages, løper ikke tvangsmulkt før Personvernnemnda​4 har bestemt det.\nDatatilsynet​3 kan frafalle påløpt tvangsmulkt.\n1 Se § 7.\n2 Jf. tvangsl. § 7-2, d.\n3 Se § 42.\n4 Se § 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "8:47 a",
+      "chapter": "8",
+      "section": "47 a",
+      "title": "Innkreving av refusjonskrav, overtredelsesgebyr og tvangsmulkt",
+      "content": "Refusjonskrav som nevnt i § 44, overtredelsesgebyr etter § 46 og tvangsmulkt etter § 47 er tvangsgrunnlag for utlegg.​1\n0 Tilføyd ved lov 9 jan 2009 nr. 3, endret ved lov 11 jan 2013 nr. 3 (ikr. 1 juni 2013 iflg. res. 24 mai 2013 nr. 533).\n1 Jf. tvangsl. § 7-2, e.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47a",
+        "source_heading": "§ 47 a."
+      }
+    },
+    {
+      "provision_ref": "8:48",
+      "chapter": "8",
+      "section": "48",
+      "title": "Straff",
+      "content": "Med bøter eller fengsel inntil ett år eller begge deler straffes den som forsettlig eller grovt uaktsomt\na. unnlater å sende melding etter § 31,\nb. behandler personopplysninger​2 uten nødvendig konsesjon etter § 33,\nc. overtrer vilkår fastsatt etter § 35 eller § 46,\nd. unnlater å etterkomme pålegg fra Datatilsynet etter § 12, § 27, § 28 eller § 46,\ne. behandler personopplysninger i strid med § 13, § 15, § 26​3 eller § 39, eller\nf. unnlater å gi opplysninger etter § 19, § 20, § 21, § 40 eller § 44.\nVed særdeles skjerpende omstendigheter kan fengsel inntil tre år idømmes. Ved avgjørelsen av om det foreligger særdeles skjerpende omstendigheter skal det blant annet legges vekt på faren for stor skade eller ulempe for den registrerte,​4 den tilsiktede vinningen ved overtredelsen, overtredelsens varighet og omfang, utvist skyld, og om den behandlingsansvarlige​5 tidligere er straffet for å ha overtrådt tilsvarende bestemmelser.\nI forskrift som gis i medhold av loven, kan det fastsettes at den som forsettlig eller grovt uaktsomt overtrer forskriften skal straffes med bøter eller fengsel inntil ett år eller begge deler.\n0 Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015).\n1 Jf. § 7.\n2 Se § 2 nr. 2.\n3 Paragrafen er opphevet.\n1 Paragrafen er opphevet.\n4 Se § 2 nr. 6.\n5 Se § 2 nr. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "8:49",
+      "chapter": "8",
+      "section": "49",
+      "title": "Erstatning",
+      "content": "Den behandlingsansvarlige​2 skal erstatte skade som er oppstått som følge av at personopplysninger​3 er behandlet​4 i strid med bestemmelser i eller i medhold av loven, med mindre det godtgjøres at skaden ikke skyldes feil eller forsømmelse på den behandlingsansvarliges side.\nBehandlingsansvarlige​2 som formidler kredittopplysninger og som har meddelt opplysninger som viser seg uriktige eller åpenbart misvisende, skal erstatte skade som er oppstått som følge av den feilaktige meddelelsen, uten hensyn til om skaden skyldes feil eller forsømmelse på den behandlingsansvarliges side.\nErstatningen skal svare til det økonomiske tapet som den skadelidte er påført som følge av den ulovlige behandlingen. Den behandlingsansvarlige​2 kan også pålegges å betale slik erstatning for skade av ikke-økonomisk art (oppreisning) som synes rimelig.​5\n1 Jf. § 7.\n2 Se § 2 nr. 4.\n3 Se § 2 nr. 1.\n4 Se § 2 nr. 2.\n5 Sml. lov 13 juni 1969 nr. 26 § 3-5 og § 3-6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "9:50",
+      "chapter": "9",
+      "section": "50",
+      "title": "Ikraftsetting",
+      "content": "Loven trer i kraft fra den tid Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.\n0 Loven trådte ikr. 1 jan 2001 iflg. res. 30 juni 2000 nr. 641.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "9:51",
+      "chapter": "9",
+      "section": "51",
+      "title": "Overgangsregler",
+      "content": "1. For behandling av personopplysninger​1 som er påbegynt før loven trer i kraft​2 og som er melde- eller konsesjonspliktig etter bestemmelsene i kapittel VI, skal det sendes melding i henhold til § 31 eller søkes om konsesjon fra Datatilsynet​3 i henhold til § 33 innen ett år fra ikrafttredelsen. Dersom behandlingen foretas i henhold til konsesjon i medhold av personregisterloven​4 § 9, er fristen for å sende melding eller søke om konsesjon to år fra ikrafttredelsen. Inntil melding er sendt eller Datatilsynet har gitt konsesjon, kan personopplysningene behandles i henhold til reglene i personregisterloven.​4\n2. Et samtykke som en registrert har gitt før loven trer i kraft skal fremdeles gjelde, hvis det tilfredsstiller vilkårene i § 2 nr. 7.\n3. Klager som Datatilsynet​3 mottar etter at loven trer i kraft, behandles av Personvernnemnda.​5\n4. Kongen kan ved forskrift gi nærmere overgangsregler.\n1 Se § 2 nr. 2, jf. § 1.\n2 Se § 50.\n3 Se § 42.\n4 Lov 9 juni 1978 nr. 48 (opph. fra 1 jan 2001).\n5 Jf. § 43.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "9:52",
+      "chapter": "9",
+      "section": "52",
+      "title": "Endringer i andre lover",
+      "content": "I andre lover gjøres følgende endringer: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    }
+  ]
+}

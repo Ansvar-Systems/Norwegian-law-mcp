@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1958-03-28-4",
+  "type": "statute",
+  "title": "Lov om ansvar og garanti for statens oppkrevere og regnskapsførere m.v.",
+  "short_name": "Lov om statens oppkrevere m.v.",
+  "status": "in_force",
+  "issued_date": "1958-03-28",
+  "in_force_date": "1958-03-28",
+  "url": "https://lovdata.no/dokument/NL/lov/1958-03-28-4",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Enhver embets- eller tjenestemann som innkrever eller mottar penger for staten, eller som for øvrig står staten til regnskap for innbetaling, utbetaling, oppbevaring eller forvaltning av penger eller verdipapirer, er overfor staten ansvarlig for tap som skyldes at han ikke har opptrådt forsvarlig.\nKongen kan nedsette et pådratt erstatningsansvar eller la det falle bort, dersom det finnes rimelig under omsyn til den utviste skyld, skadens størrelse og tilhøva ellers.\n0 Endret ved lov 7 mai 2004 nr. 21 (ikr. 1 juli 2004).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen kan gi regler om at alle eller enkelte av statens oppkrevere, kasserere eller regnskapsførere skal stille en nærmere fastsatt sikkerhet for sitt ansvar overfor staten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Bestemmelsen i § 1, annet ledd, skal også gjelde for ansvar som er oppstått før lovens ikrafttreden.\nFra lovens ikrafttreden oppheves følgende bestemmelser for så vidt de ennå er i kraft: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Enhver embets- eller tjenestemann som innkrever eller mottar penger for staten, eller som for øvrig står staten til regnskap for innbetaling, utbetaling, oppbevaring eller forvaltning av penger eller verdipapirer, er overfor staten ansvarlig for tap som skyldes at han ikke har opptrådt forsvarlig.\nKongen kan nedsette et pådratt erstatningsansvar eller la det falle bort, dersom det finnes rimelig under omsyn til den utviste skyld, skadens størrelse og tilhøva ellers.\n0 Endret ved lov 7 mai 2004 nr. 21 (ikr. 1 juli 2004).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen kan gi regler om at alle eller enkelte av statens oppkrevere, kasserere eller regnskapsførere skal stille en nærmere fastsatt sikkerhet for sitt ansvar overfor staten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Bestemmelsen i § 1, annet ledd, skal også gjelde for ansvar som er oppstått før lovens ikrafttreden.\nFra lovens ikrafttreden oppheves følgende bestemmelser for så vidt de ennå er i kraft: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

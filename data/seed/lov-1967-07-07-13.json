@@ -1,0 +1,783 @@
+{
+  "id": "LOV-1967-07-07-13",
+  "type": "statute",
+  "title": "Lov om husleieregulering m.v. for boliger.",
+  "short_name": "Husleiereguleringsloven – huslregll.",
+  "status": "in_force",
+  "issued_date": "1967-07-07",
+  "in_force_date": "1967-07-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1967-07-07-13",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Hvor loven gjelder",
+      "content": "Denne lov gjelder i Oslo og Trondheim, med unntak av kapittel III som gjelder i hele landet.\n0 Endret ved lover 11 juni 1971 nr. 58, 21 juni 1974 nr. 52, 11 juni 1982 nr. 44, 26 mars 1999 nr. 17 (i kraft 1 jan 2000 iflg. res. 26 mars 1999 nr. 248), 31 mars 2000 nr. 20 (i kraft 1 april 2000).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Hva loven gjelder:",
+      "content": "Loven gjelder utleie, herunder framleie, av bolig​2 eller boligrom. Den gjelder også for utleie av møbler og inventar, lokale, garasje, gårdsplass, hage eller liknende som leies ut sammen med bolig eller boligrom.\nLoven gjelder ikke for utleie som ledd i drift av hotell, pensjonat eller annet herberge og med unntak av kapittel III heller ikke ved utleie fra stat, fylkeskommune eller kommune.\nHusleienemnda​3 avgjør i tvilstilfelle om et leieforhold omfattes av loven.\n0 Endret ved lover 11 juni 1971 nr. 58, 21 juni 1974 nr. 52, 31 mars 2000 nr. 20 (i kraft 1 april 2000), 20 juni 2003 nr. 45 (i kraft 1 juli 2003 iflg. res. 20 juni 2003 nr. 712).\n1 Jfr. § 3.\n2 Sml. lov 26 mars 1999 nr. 17 (husll.) § 1-1 (5).\n3 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "title": "Hva bestemmelsene gjelder.",
+      "content": "Bestemmelsene i dette kapittel gjelder bare for boliger eller boligrom i hus som er oppført før 8 april 1940 i de kommuner der det er bestemt etter § 1.\nBestemmelsene gjelder ikke for\n1. utleie av møblert bolig eller boligrom eller umøblert del av bolig som utleieren selv bor i.\n2. utleie av bolig i hus som eies av aksjeselskap,​2 allmennaksjeselskap​3 eller samvirkeforetak der leietakeren er aksjonær eller andelshaver.​4 Det samme gjelder ved fremleie av slik bolig.\n3. utleie av bolig i hus med en eller to boliger.\n4. leieavtale inngått etter at husleieloven​5 er trådt i kraft.\n5. utleie av bolig eller boligrom som er ferdig rehabilitert etter regulering til fornyelse, utbedringsprogram eller utbedringsavtale med kommunen. Husleienemnda avgjør i hvert enkelt tilfelle om vilkåret i første punktum er oppfylt.\n6. utleie av bolig hvor det er truffet vedtak om høyeste lovlige leie etter § 3 tredje ledd i loven her før husleieloven​5 er trådt i kraft. Husleienemnda avgjør i tvilstilfelle om vilkåret i første punktum er oppfylt.\nHusleienemnda​6 kan gjøre unntak fra bestemmelsene når eierformen blir omgjort til borettslag​7 og ellers når de på grunn av særlige forhold ikke passer på leieforholdet.\nHusleienemnda​6 kan avgjøre når et hus skal anses oppført når det har betydning etter denne lov.​8\nLeies bolig eller boligrom ut sammen med en annen eiendom, jfr. § 2 første ledd annet punktum, gjelder bestemmelsene i dette kapittel også slik eiendom. Husleienemnda​6 kan i slike tilfelle vedta at bestemmelsene skal gjelde bare for boligen eller boligrommene.\n0 Endret ved lover 21 juni 1974 nr. 52, 11 juni 1982 nr. 44, 13 juni 1997 nr. 44 (i kraft 1 jan 1999 iflg. res. 17 juli 1998 nr. 615), 26 mars 1999 nr. 17 (i kraft 1 jan 2000 iflg. res. 26 mars 1999 nr. 248), 29 juni 2007 nr. 81 (i kraft 1 jan 2008 iflg. res. 23 nov 2007 nr. 1287).\n1 Jfr. § 2.\n2 Jfr. lov 13 juni 1997 nr. 44 (asl.).\n3 Jfr. lov 13 juni 1997 nr. 45 (asal.).\n4 Jfr. lov 6 juni 2003 nr. 39 § 1-1 og § 1-5.\n5 Lov 26 mars 1999 nr. 17 (husll.), i kraft fra 1 jan 2000.\n6 Se § 18.\n7 Jfr. lov 6 juni 2003 nr. 39.\n8 Jfr. første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Lovlig vederlag.",
+      "content": "Den som leier ut bolig eller boligrom,​1 må ikke​2 ta, kreve eller avtale høyere vederlag enn høyeste lovlige leie, jfr. §§ 5 og 6, med eventuelle tillegg etter §§ 9 bokstav c annet punktum, 10, 11 og 12.\n0 Endret ved lov 21 juni 1974 nr. 52.\n1 Se § 3.\n2 Jfr. kap. V.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:4 a",
+      "chapter": "2",
+      "section": "4 a",
+      "title": "Forholdet til husleieloven​1",
+      "content": "Etter at husleieloven​1 er trådt i kraft for en leieavtale som omfattes av bestemmelsene i kapittelet her,​2 kan hver av partene kreve at det avtales eller fastsettes en leie i samsvar med husleieloven kapittel 4. Av denne leien skal leieren likevel bare betale det til enhver tid høyeste lovlige vederlag etter kapittelet her. Gjengs leie etter husleieloven​1 § 4-3 kan første gang avtales eller kreves fastsatt selv om det er kortere tid enn to år og seks måneder siden leieavtalen ble inngått eller leien endret.\n0 Tilføyd ved lov 26 mars 1999 nr. 17 (i kraft 1 jan 2000 iflg. res. 26 mars 1999 nr. 248).\n1 Lov 26 mars 1999 nr. 17 (husll.).\n2 Jfr. lov 26 mars 1999 nr. 17 § 13-2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4a",
+        "source_heading": "§ 4a."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Høyeste lovlige leie.",
+      "content": "For boliger eller boligrom​1 som var utleid den 30. juni 1982 er høyeste lovlige leie den leie som gjaldt denne dag. I høyeste lovlige leie inkluderes også tillegg til leien som har vært utliknet på leietakeren på grunn av økning i vann-, renovasjons- og feieravgift, eiendomsskatt​2 og festeavgift i tiden 1. juli 1974 – 30. juni 1982. Ved forhøyelse av nevnte offentlige avgifter, eiendomsskatt eller festeavgift etter 30. juni 1982, forhøyes høyeste lovlige leie tilsvarende.\nFor bolig eller boligrom som ikke var utleid den 30. juni 1982, og for bolig eller boligrom hvor høyeste lovlige leie ikke følger av bestemmelsene i første ledd, skal husleienemnda​3 fastsette leien etter reglene i § 6 annet og tredje ledd.\nVedtaket kan gis virkning fra leieforholdets begynnelse. For bolig eller boligrom som har vært leid ut i tiden 1. juli 1974 – 30. juni 1982, kan utleieren likevel regne den leie som lovlig ble oppkrevd ved siste utleie som høyeste lovlige leie.\nUtvides virkeområdet for bestemmelsene i dette kapittel, jfr. § 1 annet ledd, kan Kongen samtidig fastsette hva som skal være høyeste lovlige leie på det sted bestemmelsene innføres.\nDen høyeste lovlige leie kan endres ved vedtak etter §§ 7, 8 og 9.\n0 Endret ved lover 21 juni 1974 nr. 52, 11 juni 1982 nr. 44.\n1 Se § 3.\n2 Jfr. lov 6 juni 1975 nr. 29.\n3 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Fastsetting av høyeste lovlige leie ved ny utleie.",
+      "content": "Ved utleie av bolig eller boligrom som ikke var leid ut den 30. juni 1982, skal utleieren innen to uker etter at leietakeren har tatt i bruk boligen, sende søknad til husleienemnda​1 om leiefastsetting med opplysninger om leievilkårene og forslag til leie. Dersom boligen eller boligrommet har vært leid ut i tiden 1. juli 1974 – 30. juni 1982 og utleieren ikke tar høyere leie enn den leie som lovlig ble oppkrevd ved siste utleie,​2 plikter utleieren likevel ikke å søke nemnda om leiefastsetting.\nHusleienemnda​1 fastsetter leien til det som den finner er mest i samsvar med den leie som antas å være gjengs leie​3 på stedet for tilsvarende bolig bygget til samme tid. Det må tas omsyn til særlige leievilkår, til boligens beliggenhet, vedlikehold og utstyr. Reglene i § 9 bokstav c får tilsvarende anvendelse. Det skal ses bort fra forbedringer som den aktuelle leietaker har kostet på boligen.\nNemnda​1 må ta omsyn til særlige forhold vedrørende renter og andre kostnader som skyldes rimelige lån og annen stønad fra offentlige og kommunale institusjoner. Har leietakerne betalt tilskudd til byggekostnadene eller medfører leieforholdet for en av partene kostnader eller forpliktelser som ikke har vært vanlig i tilsvarende leieforhold på stedet, skal leien være tilsvarende lavere eller høyere.\nKongen kan gi nærmere retningslinjer for leiefastsettingen.\n0 Endret ved lover 11 juni 1971 nr. 58, 21 juni 1974 nr. 52, 11 juni 1982 nr. 44.\n1 Se § 18.\n2 Jfr. § 5.\n3 Jfr. lov 26 mars 1999 nr. 17 § 4-3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Alminnelige leieforhøyelser.",
+      "content": "Kongen kan gi bestemmelser​1 om alminnelig forhøyelse av den høyeste lovlige leie etter § 5. Slike bestemmelser kan også gis for enkelte kommuner eller for bestemte grupper av hus, og det kan gjøres tilsvarende unntak i bestemmelsene.\nI bestemmelser som gis etter første ledd kan Kongen gi husleienemnda​2 fullmakt til å bestemme at leieforhøyelsen ikke skal gjelde for et leieforhold når nemnda finner at særlige forhold ved boligen eller utleieeiendommen gjør at en forhøyelse av leien ikke vil virke rimelig.\n0 Endret ved lov 21 juni 1974 nr. 52.\n1 Jfr. forskrift 16 nov 2007 nr. 1310.\n2 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Nedsettelse av leien.",
+      "content": "Husleienemnda​1 kan for det enkelte leieforhold sette ned den høyeste lovlige leie​2 dersom den finner at leien er uforholdsmessig høy sammenliknet med leien for liknende bolig i tilsvarende hus på stedet. Ved sammenlikningen får reglene i § 6 tilsvarende anvendelse.\nDersom leievilkårene i forhold til de vilkår som ligger til grunn for gjeldende leie er eller blir endret til ugunst for leietakeren, og endringene ikke er helt uvesentlige, skal utleieren sette ned leien tilsvarende. Endring av leieavtale vedrørende den indre vedlikeholdsplikt av boligen medfører likevel ikke plikt til å redusere leien etter denne bestemmelse.​3\nHusleienemnda​1 kan bestemme at den høyeste lovlige leie skal settes ned etter bestemmelsene i annet ledd og kan fastsette hvor stor nedsettelsen skal være. Nemnda kan også sette ned leien dersom bruksverdien av boligen er forringet på grunn av skade, mangelfullt vedlikehold eller andre forhold ved boligen eller utleieeiendommen som eieren bør bære følgene av.\n0 Endret ved lov 21 juni 1974 nr. 52.\n1 Se § 18.\n2 Se §§ 5 og 6.\n3 Jfr. § 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Forhøyelse av leien. Kostnadsutlikning ved særlige tiltak.",
+      "content": "Husleienemnda​1 kan for det enkelte leieforhold sette opp den høyeste lovlige leie etter § 5\na. når leien sammenholdt med leien for liknende bolig i tilsvarende hus på stedet er uforholdsmessig lav. Ved sammenlikning får reglene i § 6 tilsvarende anvendelse.\nb. når leievilkårene er endret slik at de er mer tyngende for utleieren enn de leievilkår som ligger til grunn for gjeldende leie. Slik forhøyelse kan nemnda også fastsette om bruken av boligen gjør at leieforholdet blir mer tyngende for utleieren, eller om leietakeren går over til å bruke boligen på en måte som sedvanemessig betinger høyere leie,\nc. når utleieren foretar vesentlige forbedringer av boligen eller bekoster andre særlige tiltak som er til fordel for leietakeren. Dersom kostnadene må ses som en engangsutgift kan nemnda – istedenfor å fastsette leieforhøyelse – gi utleieren samtykke til å fordele kostnadene helt eller delvis på leietakerne i en eller flere terminer. Gjelder det omfattende fornyelser av boligen og husleienemnda ikke finner det rimelig å skille mellom vedlikehold og forbedringer, kan nemnda legge kostnadene i sin helhet til grunn ved leiefastsettingen.\nHusleienemnda​1 må ved avgjørelsen etter første ledd bokstav c ta hensyn til utleierens lovlige og nødvendige kostnader, de fordeler leietakeren har av forbedringen eller tiltaket, og om han med skjellig grunn har motsatt seg dette. Nemnda må også ta hensyn til særlige forhold vedrørende renter og andre kostnader som skyldes rimelige lån og annen stønad fra offentlige og kommunale institusjoner. Har leietakeren betalt tilskott til kostnadene, skal leien settes tilsvarende lavere. Er kostnadene helt eller delvis finansiert ved utbedringslån fra Den norske stats husbank,​2 kan nemnda ved leiefastsettingen bestemme at utleieren skal ha adgang til ved forfall å utlikne forholdsmessig på leietakerne den del av terminbeløpene som gjelder avdrag på lånet.\nHusleienemnda kan gi forhåndstilsagn om tillatelse til leieforhøyelse eller kostnadsutlikning etter første ledd bokstav c og om beregningsmåten når utleieren legger frem tilfredsstillende planer for arbeidene, herunder finansieringsmåte og plan for fremdrift.\n0 Endret ved lover 21 juni 1974 nr. 52, 11 juni 1982 nr. 44.\n1 Se § 18.\n2 Jfr. lov 1 mars 1946 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Utlikning av indre vedlikeholdsutgifter.",
+      "content": "Skal utleieren etter leieavtalen sørge for det indre vedlikehold av boligen er regelen i dette kapittel ikke til hinder for at han krever vederlag av leietaker for utgifter han har hatt til indre vedlikehold av boligen, jfr. § 8, annet ledd. Vederlaget kan kreves dekket i tillegg til høyeste lovlige leie etter § 5 i samsvar med reglene i annet og tredje ledd, jfr. dog fjerde ledd.\nVederlaget må ikke​2 overstige det beløp som er nødvendig for å dekke faktiske og lovlige utgifter utleieren etter 1 juli 1967 har hatt til det indre vedlikehold av husrommet. Vederlaget må bare oppkreves i månedlige terminer slik at det beløp som kreves for den enkelte betalingstermin ikke overstiger et beløp som svarer til kr. 2,00 pr. måned pr. netto kvadratmeter gulvflate i boligen. Kongen​3 kan vedta endringer i dette beløp.\nDet må ikke reises krav om betaling av tillegg til leien for indre vedlikeholdsutgifter før leieren har fått oppgave over de utgifter utleieren har hatt, med angivelse av hvor stort leietillegg som vil bli beregnet ved hver betalingstermin og for hvor mange terminer tillegget skal gjelde. Husleienemnda​4 kan avgjøre om en utgift skal anses å være utgift til vedlikehold eller utgift til forbedring, jfr. § 9 c.\n0 Endret ved lover 1 juni 1973 nr. 28, 21 juni 1974 nr. 52, 5 mai 1978 nr. 19, 11 juni 1982 nr. 44.\n1 Jfr. lov 26 mars 1999 nr. 17 § 5-3.\n2 Jfr. kap. V.\n3 Fornyings- og administrasjonsdepartementet iflg. res. 27 nov 1987 nr. 931. I sep 2007 er satsen kr. 10,00.\n4 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Utlikning av ytre vedlikeholdsutgifter.",
+      "content": "Reglene i dette kapittel er ikke til hinder for at utleieren, i samsvar med reglene i annet til femte ledd, i tillegg til høyeste lovlige leie etter § 5 krever vederlag av leietakerne for utgifter han har hatt til vedlikehold av fellesrom og fellesanlegg og til ytre vedlikehold av utleieeiendommen.\nDet samlede vederlag må ikke​2 overstige det beløp som er nødvendig for å dekke faktiske og lovlige utgifter utleieren etter 1 juli 1967 har hatt til vedlikeholdet. Nytter utleieren selv en del av eiendommen må det i vedlikeholdsutgiftene gjøres fratrekk for en forholdsmessig andel under omsyn til verdien og omfanget av utleierens og leietakernes bruksrett i eiendommen. Det samme gjelder om deler av eiendommen er utleiet uten at leien er regulert etter bestemmelsene i kap. II i loven. Det skal videre i de samlede ytre vedlikeholdsutgifter trekkes fra et beløp som svarer til 10 % av leieinntektene i det år kostnadene er påløpet, idet en da bare tar hensyn til leieinntektene fra de leieforhold som reguleres av bestemmelsene i kap. II.\nUtgiftene med de reduksjoner som følger av annet ledd kan utliknes på leietakerne i forhold til høyeste lovlige leie etter § 5 for de enkelte leieforhold. Vederlaget må bare oppkreves i månedlige terminer slik at det beløp som kreves for den enkelte betalingstermin ikke overstiger et beløp som svarer til kr. 2,00 pr. måned pr. netto kvadratmeter gulvflate i boligen. Kongen​3 kan vedta endringer i dette beløp.\nDet må ikke reises krav om betaling av leietillegg for ytre vedlikeholdsutgifter før leietakeren har fått oppgave over vedlikeholdsutgiftene for eiendommen. Slik oppgave skal i tilfelle sendes leietakeren for hvert kalenderår og skal inneholde angivelse av udekkede utgifter fra forutgående år, påløpte utgifter i siste år og angivelse av fratrekk som er gjort i utgifter etter reglene i annet ledd. Oppgaven skal videre inneholde angivelse av de leietillegg for ytre vedlikehold som er innkrevet i året og det beløp som står udekket ved årets utgang. Oppgaven skal også angi den del av utlikningsbeløpet som det vil bli reist krav om overfor den enkelte leietaker.\nHusleienemnda​4 kan bestemme hvordan beregningen og fordelingen etter reglene i denne paragraf skal foretas i det enkelte tilfelle, herunder avgjøre om en utgift skal anses som utgift til vedlikehold eller utgift til forbedring, jfr. § 9 c. Nemndas vedtak kan gis virkning for vedlikeholdsutgifter utleieren har hatt i de siste tre kalenderår som går forut for vedtaket.\n0 Endret ved lover 1 juni 1973 nr. 28, 21 juni 1974 nr. 52, 5 mai 1978 nr. 19, 11 juni 1982 nr. 44.\n1 Jfr. lov 26 mars 1999 nr. 17 (husll.) § 5-3.\n2 Jfr. kap. V.\n3 Se note 3 til § 10. I sep 2007 er satsen kr. 10,00.\n4 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Vederlag for tilleggsytelser m.v.​1",
+      "content": "I den utstrekning det skal betales særskilt vederlag for varme, varmt vann, renhold eller liknende tilleggsytelser, kan utleieren sette vederlaget slik at han som tillegg til høyeste lovlige leie etter § 5 får dekning for leietakerens forholdsmessige del av de lovlige og nødvendige kostnader til ytelsen. Husleienemnda​2 kan bestemme om og i tilfelle med hvilket beløp det kan regnes forrentning, avskrivning eller vedlikehold av fyringsanlegg eller andre innretninger.\nPå tilsvarende måte kan utleieren utlikne forholdsmessig på leietakerne utgifter til snørydding av tak.\nHusleienemnda​2 kan bestemme hvordan beregningen og fordelingen etter første og annet ledd skal foretas i det enkelte tilfelle. Utleieren plikter hvert år å gi leietakeren adgang til å gjøre seg kjent med oppgaver over kostnadene til tilleggsytelsene og merkostnadene til avgifter og eiendomsskatt som viser hvorledes kostnadene er beregnet og fordelt på de enkelte leietakere.\n0 Endret ved lover 21 juni 1974 nr. 52, 11 juni 1982 nr. 44.\n1 Jfr. lov 26 mars 1999 nr. 17 (husll.) § 3-1, § 3-4 og § 3-7.\n2 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "title": "Fremleie.​1",
+      "content": "Ved fremleie av bolig som etter § 3 kommer inn under bestemmelsene i dette kapittel, må vederlaget ikke være høyere enn lovlig for hovedleieforholdet etter § 4. Fremleies bare en del av den bolig hovedleieforholdet omfatter, må vederlaget ikke være høyere enn en forholdsmessig del av dette beløp.\nHusleienemnda​2 kan fastsette vederlaget etter første ledds annet punktum. Nemnda kan godkjenne et høyere vederlag enn det som følger av første ledd, dersom fremutleieren har utført vesentlige forbedringer av boligen, har vedlikeholdsplikt som ikke overtas av fremleietakeren, har rentetap på innskudd eller det av andre grunner finnes rimelig at fremutleieren kan ta høyere vederlag.​3\n0 Endret ved lover 21 juni 1974 nr. 52, 11 juni 1982 nr. 44.\n1 Jfr. lov 26 mars 1999 nr. 17 (husll.) kap. 7.\n2 Se § 18.\n3 Jfr. § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Avgjørelse av takstnemnd",
+      "content": "Leier av bolig kan kreve tvist om nedsettelse av leie etter lov 16. juni 1939 nr. 6 om husleie § 35 avgjort av en takstnemnd hvis leien ikke er gjenstand for regulering etter kapittel II i loven her. Takstnemnda kan også avgjøre spørsmål om tilbakebetaling av leie etter lov 16. juni 1939 nr. 6 om husleie § 35 annet ledd. I forhold til § 35 annet ledd skal framsetting av krav overfor tingretten om oppnevning av takstnemnd likestilles med saksanlegg. Bestemmelsene i § 39 annet ledd gjelder tilsvarende, slik at takstnemnda tar avgjørelse om betaling av uomtvistet leie og deponering av leie i tingretten.\nOm takstnemnda og avgjørelsen gjelder bestemmelsene i lov 26. mars 1999 nr. 17 om husleieavtaler § 12-2 annet til femte ledd tilsvarende.\nTvist som er brakt inn for en husleienemnd​1 etter § 15 eller for domstolene, kan ikke kreves avgjort av en takstnemnd.\nTvisten skal avgjøres etter paragrafen her hvis lov 16. juni 1939 nr. 6 om husleie fortsatt gjaldt for leieforholdet​2 på det tidspunktet da en økning av leie ble varslet. I slike tilfelle skal tvisten avgjøres etter lov 16. juni 1939 nr. 6 om husleie § 35 også hvis avgjørelsen fra takstnemnda bringes inn for domstolene. Tvisteloven​3 § 18-3 tredje ledd gjelder tilsvarende.\n0 Opphevet ved lov 26 mars 1999 nr. 17 (i kraft 1 jan 2000 iflg. res. 26 mars 1999 nr. 248), tilføyd igjen ved lov 22 des 1999 nr. 99 (i kraft 1 jan 2000), endret ved lov 31 mars 2000 nr. 20 (i kraft 1 april 2000), 14 des 2001 nr. 98 (i kraft 1 jan 2002 iflg. res. 14 des 2001 nr. 1416), 30 aug 2002 nr. 67 (i kraft 1 jan 2003 iflg. res. 30 aug 2002 nr. 938), 17 juni 2005 nr. 90 (i kraft 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Se § 17.\n2 Jfr. lov 26 mars 1999 nr. 17 (husll.) § 13-2.\n3 Lov 17 juni 2005 nr. 90 (tvl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Avgjørelse av husleienemnd​1",
+      "content": "Leier av bolig i kommune med husleienemnd kan kreve tvist om nedsettelse av leie etter lov 16. juni 1939 nr. 6 om husleie § 35 avgjort av husleienemnda hvis leien ikke er gjenstand for regulering etter kapittel II i loven her. Husleienemnda kan også avgjøre spørsmål om tilbakebetaling av leie etter lov 16. juni 1939 nr. 6 om husleie § 35 annet ledd. I forhold til § 35 annet ledd skal framsetting av krav overfor husleienemnda om avgjørelse likestilles med saksanlegg. Bestemmelsene i § 39 annet ledd gjelder tilsvarende, slik at husleienemnda tar avgjørelse om betaling av uomtvistet leie og deponering av leie i tingretten. Kommer ikke partene til enighet om hva som er markedsleie etter § 3-1 eller gjengs leie etter § 4-3 i lov av 26. mars 1999 nr. 17 om husleieavtaler, kan hver av partene kreve tvisten avgjort av husleienemnda. Bestemmelsene i §§ 18 og 19 i loven her gjelder så langt de passer for tvist som nevnt i første til femte punktum. Bestemmelsene i §§ 20-29 gjelder ikke. Er ett eller flere medlemmer og deres varamedlemmer ugilde, eller er kommunen part, kan nemnda ikke behandle tvisten.\nHver av partene kan bringe saken inn for tingretten ved stevning som må være inngitt til retten senest to måneder etter at parten mottok avgjørelsen fra husleienemnda. Retten kan gi oppfriskning for oversittelse av fristen.\nEn avgjørelse som ikke er brakt inn for retten innen fristen etter annet ledd, har virkning som rettskraftig dom.\nTvist som er brakt inn for en takstnemnd etter husleieloven​2 eller domstolene, kan ikke kreves avgjort av husleienemnda.\nHusleienemnda kan avgjøre tvist etter første ledd hvis lov 16. juni 1939 nr. 6 om husleie fortsatt gjaldt for leieforholdet​3 på det tidspunktet da en økning av leie ble varslet. I slike tilfelle skal tvisten avgjøres etter lov 16. juni 1939 nr. 6 om husleie § 35 også hvis avgjørelsen fra husleienemnda bringes inn for domstolene. Tvisteloven​4 § 18-3 tredje ledd gjelder tilsvarende.\n0 Opphevet ved lov 26 mars 1999 nr. 17 (i kraft 1 jan 2000 iflg. res. 26 mars 1999 nr. 248), tilføyd igjen ved lov 22 des 1999 nr. 99 (i kraft 1 jan 2000), endret ved lover 31 mars 2000 nr. 20 (i kraft 1 april 2000), 14 des 2001 nr. 98 (i kraft 1 jan 2002 iflg. res. 14 des 2001 nr. 1416), 30 aug 2002 nr. 67 (i kraft 1 jan 2003 iflg. res. 30 aug 2002 nr. 938), 17 juni 2005 nr. 90 (i kraft 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Se § 17.\n2 Lov 26 mars 1999 nr. 17 (husll.).\n3 Jfr. lov 26 mars 1999 nr. 17 (husll.) § 13-2.\n4 Lov 17 juni 2005 nr. 90 (tvl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 11 mai 2001 nr. 19 (i kraft 15 mai 2001 iflg. res. 11 mai 2001).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Oppretting av husleienemnd",
+      "content": "Etter anmodning fra kommunen kan Kongen​1 bestemme at det skal opprettes en husleienemnd til å avgjøre tvister etter lov 16. juni 1939 nr. 6 om husleie § 35, jf. § 15 i loven her. På samme vilkår kan Kongen​1 bestemme at en slik nemnd skal avvikles.\n0 Opphevet ved lov 26 mars 1999 nr. 17 (i kraft 1 jan 2000 iflg. res. 26 mars 1999 nr. 248), tilføyd igjen med annerledes innhold ved lov 22 des 1999 nr. 99 (i kraft 1 jan 2000).\n1 Fornyings- og administrasjonsdepartementet iflg. res. 21 juni 1974.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Husleienemnder.",
+      "content": "Til behandling av saker etter denne lov velges kommunale husleienemnder.\nHusleienemnda skal ha minst tre medlemmer med varamedlemmer. Av medlemmene skal én være huseier som også er utleier, og én leieboer. Husleienemnda er bare vedtaksfør når mer enn halvparten av medlemmene, likevel minst tre, er til stede.\nMedlemmene og varamedlemmene velges av kommunestyret for kommunevalgperioden, men fungerer inntil nye medlemmer og varamedlemmer er valgt. Bestemmelsene i § 14 i lov av 25. september 1992 nr. 107 om kommuner og fylkeskommuner får tilsvarende anvendelse. Finnes det lokale huseier- eller leieboerorganisasjoner i kommunen, skal disse gis høve til å komme med forslag til henholdsvis huseier- og leieboerrepresentant før det foretas valg.\nKommunen utreder utgiftene ved husleienemndas virksomhet og kan tilstå medlemmene av nemnda en rimelig godtgjørelse for deres arbeid. Staten kan yte tilskudd til utgiftene i den utstrekning Stortinget måtte bestemme.\nKongen gir nærmere forskrifter​1 om husleienemndenes organisasjon og virksomhet og om framgangsmåten ved valg av medlemmer til nemndene.\n0 Endret ved lover 5 juni 1987 nr. 25, 11 juni 1993 nr. 66.\n1 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Saksbehandlingen.",
+      "content": "Ved husleienemndas​1 behandling av saker om individuelle vedtak om leie, dekning av vedlikeholdsutgifter eller vederlag for tilleggsytelser, skal foruten utleieren også leietakeren anses som part i saken.\nFør husleienemnda​1 treffer vedtak etter denne lov, skal det foretas befaring enten av den samlede nemnd, av formannen eller av en tjenestemann ved nemndas kontor. Befaring kan likevel unnlates når det gjelder avgjørelser som ikke er avhengige av skjønn over boligens tilstand og leieverdi, og også ellers om nemnda finner det unødvendig.\nHusleienemnda skal føre protokoll i samsvar med forskrifter​2 som gis av Kongen.​3\n0 Endret ved lover 19 juni 1969 nr. 54, 21 juni 1974 nr. 52.\n1 Se § 18.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Fornyings- og administrasjonsdepartementet iflg. res. 21 juni 1974.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Klage.",
+      "content": "Klage over vedtak truffet av husleienemnda,​1 behandles og avgjøres av Konkurransetilsynet.​2 Bestemmelsene i § 19 første og annet ledd gjelder tilsvarende for tilsynets behandling, med de endringer som følger av denne paragraf.\nDersom klagen ikke bare gjelder saksbehandlingen eller slike forutsetninger for vedtaket som kan prøves uten befaring av boligen, oppnevner Konkurransetilsynet​2 et særskilt utvalg til å gi innstilling om avgjørelsen. Bestemmelsene i § 18, annet ledd, gjelder tilsvarende for disse utvalg. Kongen kan​3 gi nærmere bestemmelser om utvalgenes organisasjon og arbeid og om medlemmenes godtgjørelse.\nReglene i forvaltningsloven​4 kapittel VI gjelder tilsvarende.\n0 Endret ved lover 19 juni 1969 nr. 54, 21 juni 1974 nr. 52, 11 juni 1982 nr. 44, 11 juni 1993 nr. 66.\n1 Se § 18.\n2 Se lov 11 juni 1993 nr. 65 § 2-1.\n3 Fornyings- og administrasjonsdepartementet iflg. res. 5 mai 1972 nr. 8645.\n4 Lov 10 feb 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 11 juni 1993 nr. 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Overprøving etter eget tiltak m.v.",
+      "content": "Konkurransetilsynet​1 kan av eget tiltak overprøve husleienemndas vedtak.\nOverordnet myndighet kan selv treffe nytt vedtak i saken eller oppheve og henvise saken til ny behandling i underinstansen.\nBestemmelsene i § 20 og i forvaltningsloven​2 § 35 gjelder tilsvarende.\n0 Endret ved lover 19 juni 1969 nr. 54, 21 juni 1974 nr. 52, 11 juni 1982 nr. 44, 11 juni 1993 nr. 66.\n1 Se lov 11 juni 1993 nr. 65 § 2-1.\n2 Lov 10 feb 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "title": "Når vedtak får virkning.",
+      "content": "Vedtak om fastsetting av høyeste lovlige leie etter loven her får virkning for fremtiden når ikke annet er fastsatt i eller i medhold av loven. Husleienemnda​1 kan bestemme at vedtak som treffes i medhold av § 9 skal ha virkning fra det tidspunkt leietakeren har fått melding om at saken er tatt opp til behandling av nemnda. Godkjenning av leietillegg ved fremleie etter § 13, annet ledd, kan gis virkning fra leieforholdets begynnelse.\nVed klage over vedtak om høyeste lovlige leie kan klagemyndigheten bestemme at dens vedtak skal gjelde fra det tidspunkt husleienemnda​1 kunne ha gitt sitt vedtak virkning. Ved overprøving etter eget tiltak kan overordnet myndighet bestemme at dens vedtak skal gjelde fra det tidspunkt melding er sendt partene om at vedtaket fra det underordnede organ vil bli tatt opp til overprøving. Er slik melding sendt før klagefristens utløp, gjelder likevel reglene i første punktum.\n0 Endret ved lover 11 juni 1982 nr. 44, 20 juni 2003 nr. 45 (i kraft 1 juli 2003 iflg. res. 20 juni 2003 nr. 712).\n1 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "title": "Opplysningsplikt.",
+      "content": "Enhver plikter å gi Kongen, departementet og de myndigheter som er nevnt i kapittel IV eller de særskilte tillitsmenn som disse myndigheter oppnevner, de opplysninger som de krever for å kunne utføre sine gjøremål etter denne lov. Opplysningene kan kreves gitt skriftlig eller muntlig innen den frist som myndighetene eller deres tillitsmenn fastsetter.\nMyndighetene som nevnt i første ledd kan også kreve enten selv eller gjennom oppnevnte tillitsmenn å få granske registrerte regnskapsopplysninger, regnskapsmateriale,​1 forretningsdokumenter, forretningspapirer, møteprotokoller og andre bøker og dokumenter samt å få besiktige bedrifter og andre faste eiendommer og løsøregjenstander.\nMyndighetene kan om nødvendig kreve hjelp fra politiet for å få utlevert regnskapsmateriale,​1 bøker og dokumenter som nevnt i annet ledd. Ved tvangssalg av leierett som kommer inn under § 17,​2 kan myndighetene om nødvendig be om bistand fra politiet for å få gjennomført besiktigelse av boligen.\n0 Endret ved lover 11 juni 1982 nr. 44, 16 mai 1986 nr. 21, 11 juni 1993 nr. 66, 17 juli 1998 nr. 56 (i kraft 1 jan 1999).\n1 Jfr. lov 17 juli 1998 nr. 56.\n2 Denne § 17, som gjaldt prisregulering for andeler i borettslag m.v., ble opphevet ved lov 26 mars 1999 nr. 17 (husll.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "title": "Ugildhet.",
+      "content": "Er en husleienemnd​1 ugild, behandler Konkurransetilsynet​2 saken i første instans. I tilfelle av ugildhet for Konkurransetilsynet​2 avgjør departementet​3 hvilken myndighet som skal behandle saken.\n0 Endret ved lover 19 juni 1969 nr. 54, 11 juni 1993 nr. 66.\n1 Se § 18.\n2 Se lov 11 juni 1993 nr. 65 § 2-1.\n3 Fornyings- og administrasjonsdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Straff.",
+      "content": "Med bøter​1 eller med fengsel​2 inntil 1 år eller med begge deler, straffes den som forsettlig overtrer eller medvirker til overtredelse av bestemmelser som er fastsatt i eller i medhold av denne lov, eller opprettholdt ved den, og som ikke angår reguleringsorganenes organisasjon og virksomhet.\nDen som har ytet ulovlig vederlag, blir bare å straffe for medvirkning dersom han har tilskyndet eller forledet til overtredelse.​3\nDen som uaktsomt overtrer bestemmelse som nevnt i første ledd, eller medvirker til slik overtredelse straffes med bøter.​1\nI bestemmelse som utferdiges i medhold av loven, kan det fastsettes at brudd på bestemmelsen ikke medfører straff.\n0 Endret ved lover 11 juni 1982 nr. 44, 16 mai 1986 nr. 21, 11 juni 1993 nr. 66. Endres ved lov 20 mai 2005 nr. 28 (i kraft fra den tid som fastsettes ved lov) som endret ved lov 19 juni 2009 nr. 74.\n1 Jfr. strl. § 27 og kap. 3 a; strl. 2005 kap. 4 og kap. 9.\n2 Jfr. strl. § 26 a; strl. 2005 kap. 6 og kap. 9.\n3 Jfr. § 29.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Inndragning av ulovlig vederlag.",
+      "content": "Dersom noen har tatt høyere vederlag enn lovlig etter bestemmelse som er fastsatt i eller i medhold av denne lov eller opprettholdt ved den, skal det inndras et beløp som retten antar svarer til det som er oppnådd ut over lovlig vederlag. Dette gjelder uansett om straffesak reises eller kan reises mot noen.\nInndragning foretas enten hos den som har tatt det ulovlige vederlag, eller hos den han har handlet på vegne av eller til fordel for, eller hos begge. Foretas inndragning hos begge, kan retten enten fordele ansvaret mellom dem, eller den kan gjøre dem solidarisk ansvarlig for beløpet eller en del av det. Bestemmelsene i dette ledd gjelder tilsvarende når flere har samvirket i det forhold som begrunner inndragningen.\nI inndragningsbeløpet skal det gjøres fradrag for beløp som den ansvarlige i dommen eller forelegget blir tilpliktet å betale tilbake til den skadelidende. Det samme gjelder hvis han på forhånd har foretatt slik tilbakebetaling, og han enten godtgjør at han var pliktig til det etter regelen i § 29 eller godtgjør at tilbakebetaling fant sted før politiet eller vedkommende kontrollmyndighet tok saken opp.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 11 juni 1982 nr. 44.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Tilbakebetaling av ulovlig vederlag.",
+      "content": "Den som har betalt høyere vederlag enn lovlig, kan kreve tilbakebetalt forskjellen mellom det som er betalt og lovlig vederlag, dersom han ikke etter forholdene må anses for i vesentlig grad medansvarlig for overtredelsen.​1\n1 Jfr. § 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:29 a",
+      "chapter": "5",
+      "section": "29 a",
+      "title": "Lovens varighet",
+      "content": "Denne loven opphører å gjelde ti år etter ikrafttredelsen av lov 26. mars 1999 nr. 17 om husleieavtaler.​1\n0 Tilføyd ved lov 26 mars 1999 nr. 17 (i kraft 1 jan 2000 iflg. res. 26 mars 1999 nr. 248).\n1 Dvs 1 jan 2010.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29a",
+        "source_heading": "§ 29a."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "title": "Ikrafttreden m.v.",
+      "content": "Bestemmelsene i denne lov trer i kraft 1 juli 1967.\nSøksmål etter § 35 i lov av 16 juni 1939 om husleie kan ikke reises om leie som er gjenstand for regulering etter kapittel II.\n0 Endret ved lover 13 juni 1969 nr. 46, 19 juli 1970 nr. 56, 11 juni 1971 nr. 58, 5 mai 1972 nr. 25, 1 juni 1973 nr. 28, 21 juni 1974 nr. 52, 11 juni 1982 nr. 44.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Hvor loven gjelder",
+      "content": "Denne lov gjelder i Oslo og Trondheim, med unntak av kapittel III som gjelder i hele landet.\n0 Endret ved lover 11 juni 1971 nr. 58, 21 juni 1974 nr. 52, 11 juni 1982 nr. 44, 26 mars 1999 nr. 17 (i kraft 1 jan 2000 iflg. res. 26 mars 1999 nr. 248), 31 mars 2000 nr. 20 (i kraft 1 april 2000).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Hva loven gjelder:",
+      "content": "Loven gjelder utleie, herunder framleie, av bolig​2 eller boligrom. Den gjelder også for utleie av møbler og inventar, lokale, garasje, gårdsplass, hage eller liknende som leies ut sammen med bolig eller boligrom.\nLoven gjelder ikke for utleie som ledd i drift av hotell, pensjonat eller annet herberge og med unntak av kapittel III heller ikke ved utleie fra stat, fylkeskommune eller kommune.\nHusleienemnda​3 avgjør i tvilstilfelle om et leieforhold omfattes av loven.\n0 Endret ved lover 11 juni 1971 nr. 58, 21 juni 1974 nr. 52, 31 mars 2000 nr. 20 (i kraft 1 april 2000), 20 juni 2003 nr. 45 (i kraft 1 juli 2003 iflg. res. 20 juni 2003 nr. 712).\n1 Jfr. § 3.\n2 Sml. lov 26 mars 1999 nr. 17 (husll.) § 1-1 (5).\n3 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "2:3",
+      "chapter": "2",
+      "section": "3",
+      "title": "Hva bestemmelsene gjelder.",
+      "content": "Bestemmelsene i dette kapittel gjelder bare for boliger eller boligrom i hus som er oppført før 8 april 1940 i de kommuner der det er bestemt etter § 1.\nBestemmelsene gjelder ikke for\n1. utleie av møblert bolig eller boligrom eller umøblert del av bolig som utleieren selv bor i.\n2. utleie av bolig i hus som eies av aksjeselskap,​2 allmennaksjeselskap​3 eller samvirkeforetak der leietakeren er aksjonær eller andelshaver.​4 Det samme gjelder ved fremleie av slik bolig.\n3. utleie av bolig i hus med en eller to boliger.\n4. leieavtale inngått etter at husleieloven​5 er trådt i kraft.\n5. utleie av bolig eller boligrom som er ferdig rehabilitert etter regulering til fornyelse, utbedringsprogram eller utbedringsavtale med kommunen. Husleienemnda avgjør i hvert enkelt tilfelle om vilkåret i første punktum er oppfylt.\n6. utleie av bolig hvor det er truffet vedtak om høyeste lovlige leie etter § 3 tredje ledd i loven her før husleieloven​5 er trådt i kraft. Husleienemnda avgjør i tvilstilfelle om vilkåret i første punktum er oppfylt.\nHusleienemnda​6 kan gjøre unntak fra bestemmelsene når eierformen blir omgjort til borettslag​7 og ellers når de på grunn av særlige forhold ikke passer på leieforholdet.\nHusleienemnda​6 kan avgjøre når et hus skal anses oppført når det har betydning etter denne lov.​8\nLeies bolig eller boligrom ut sammen med en annen eiendom, jfr. § 2 første ledd annet punktum, gjelder bestemmelsene i dette kapittel også slik eiendom. Husleienemnda​6 kan i slike tilfelle vedta at bestemmelsene skal gjelde bare for boligen eller boligrommene.\n0 Endret ved lover 21 juni 1974 nr. 52, 11 juni 1982 nr. 44, 13 juni 1997 nr. 44 (i kraft 1 jan 1999 iflg. res. 17 juli 1998 nr. 615), 26 mars 1999 nr. 17 (i kraft 1 jan 2000 iflg. res. 26 mars 1999 nr. 248), 29 juni 2007 nr. 81 (i kraft 1 jan 2008 iflg. res. 23 nov 2007 nr. 1287).\n1 Jfr. § 2.\n2 Jfr. lov 13 juni 1997 nr. 44 (asl.).\n3 Jfr. lov 13 juni 1997 nr. 45 (asal.).\n4 Jfr. lov 6 juni 2003 nr. 39 § 1-1 og § 1-5.\n5 Lov 26 mars 1999 nr. 17 (husll.), i kraft fra 1 jan 2000.\n6 Se § 18.\n7 Jfr. lov 6 juni 2003 nr. 39.\n8 Jfr. første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Lovlig vederlag.",
+      "content": "Den som leier ut bolig eller boligrom,​1 må ikke​2 ta, kreve eller avtale høyere vederlag enn høyeste lovlige leie, jfr. §§ 5 og 6, med eventuelle tillegg etter §§ 9 bokstav c annet punktum, 10, 11 og 12.\n0 Endret ved lov 21 juni 1974 nr. 52.\n1 Se § 3.\n2 Jfr. kap. V.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:4 a",
+      "chapter": "2",
+      "section": "4 a",
+      "title": "Forholdet til husleieloven​1",
+      "content": "Etter at husleieloven​1 er trådt i kraft for en leieavtale som omfattes av bestemmelsene i kapittelet her,​2 kan hver av partene kreve at det avtales eller fastsettes en leie i samsvar med husleieloven kapittel 4. Av denne leien skal leieren likevel bare betale det til enhver tid høyeste lovlige vederlag etter kapittelet her. Gjengs leie etter husleieloven​1 § 4-3 kan første gang avtales eller kreves fastsatt selv om det er kortere tid enn to år og seks måneder siden leieavtalen ble inngått eller leien endret.\n0 Tilføyd ved lov 26 mars 1999 nr. 17 (i kraft 1 jan 2000 iflg. res. 26 mars 1999 nr. 248).\n1 Lov 26 mars 1999 nr. 17 (husll.).\n2 Jfr. lov 26 mars 1999 nr. 17 § 13-2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4a",
+        "source_heading": "§ 4a."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Høyeste lovlige leie.",
+      "content": "For boliger eller boligrom​1 som var utleid den 30. juni 1982 er høyeste lovlige leie den leie som gjaldt denne dag. I høyeste lovlige leie inkluderes også tillegg til leien som har vært utliknet på leietakeren på grunn av økning i vann-, renovasjons- og feieravgift, eiendomsskatt​2 og festeavgift i tiden 1. juli 1974 – 30. juni 1982. Ved forhøyelse av nevnte offentlige avgifter, eiendomsskatt eller festeavgift etter 30. juni 1982, forhøyes høyeste lovlige leie tilsvarende.\nFor bolig eller boligrom som ikke var utleid den 30. juni 1982, og for bolig eller boligrom hvor høyeste lovlige leie ikke følger av bestemmelsene i første ledd, skal husleienemnda​3 fastsette leien etter reglene i § 6 annet og tredje ledd.\nVedtaket kan gis virkning fra leieforholdets begynnelse. For bolig eller boligrom som har vært leid ut i tiden 1. juli 1974 – 30. juni 1982, kan utleieren likevel regne den leie som lovlig ble oppkrevd ved siste utleie som høyeste lovlige leie.\nUtvides virkeområdet for bestemmelsene i dette kapittel, jfr. § 1 annet ledd, kan Kongen samtidig fastsette hva som skal være høyeste lovlige leie på det sted bestemmelsene innføres.\nDen høyeste lovlige leie kan endres ved vedtak etter §§ 7, 8 og 9.\n0 Endret ved lover 21 juni 1974 nr. 52, 11 juni 1982 nr. 44.\n1 Se § 3.\n2 Jfr. lov 6 juni 1975 nr. 29.\n3 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Fastsetting av høyeste lovlige leie ved ny utleie.",
+      "content": "Ved utleie av bolig eller boligrom som ikke var leid ut den 30. juni 1982, skal utleieren innen to uker etter at leietakeren har tatt i bruk boligen, sende søknad til husleienemnda​1 om leiefastsetting med opplysninger om leievilkårene og forslag til leie. Dersom boligen eller boligrommet har vært leid ut i tiden 1. juli 1974 – 30. juni 1982 og utleieren ikke tar høyere leie enn den leie som lovlig ble oppkrevd ved siste utleie,​2 plikter utleieren likevel ikke å søke nemnda om leiefastsetting.\nHusleienemnda​1 fastsetter leien til det som den finner er mest i samsvar med den leie som antas å være gjengs leie​3 på stedet for tilsvarende bolig bygget til samme tid. Det må tas omsyn til særlige leievilkår, til boligens beliggenhet, vedlikehold og utstyr. Reglene i § 9 bokstav c får tilsvarende anvendelse. Det skal ses bort fra forbedringer som den aktuelle leietaker har kostet på boligen.\nNemnda​1 må ta omsyn til særlige forhold vedrørende renter og andre kostnader som skyldes rimelige lån og annen stønad fra offentlige og kommunale institusjoner. Har leietakerne betalt tilskudd til byggekostnadene eller medfører leieforholdet for en av partene kostnader eller forpliktelser som ikke har vært vanlig i tilsvarende leieforhold på stedet, skal leien være tilsvarende lavere eller høyere.\nKongen kan gi nærmere retningslinjer for leiefastsettingen.\n0 Endret ved lover 11 juni 1971 nr. 58, 21 juni 1974 nr. 52, 11 juni 1982 nr. 44.\n1 Se § 18.\n2 Jfr. § 5.\n3 Jfr. lov 26 mars 1999 nr. 17 § 4-3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Alminnelige leieforhøyelser.",
+      "content": "Kongen kan gi bestemmelser​1 om alminnelig forhøyelse av den høyeste lovlige leie etter § 5. Slike bestemmelser kan også gis for enkelte kommuner eller for bestemte grupper av hus, og det kan gjøres tilsvarende unntak i bestemmelsene.\nI bestemmelser som gis etter første ledd kan Kongen gi husleienemnda​2 fullmakt til å bestemme at leieforhøyelsen ikke skal gjelde for et leieforhold når nemnda finner at særlige forhold ved boligen eller utleieeiendommen gjør at en forhøyelse av leien ikke vil virke rimelig.\n0 Endret ved lov 21 juni 1974 nr. 52.\n1 Jfr. forskrift 16 nov 2007 nr. 1310.\n2 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Nedsettelse av leien.",
+      "content": "Husleienemnda​1 kan for det enkelte leieforhold sette ned den høyeste lovlige leie​2 dersom den finner at leien er uforholdsmessig høy sammenliknet med leien for liknende bolig i tilsvarende hus på stedet. Ved sammenlikningen får reglene i § 6 tilsvarende anvendelse.\nDersom leievilkårene i forhold til de vilkår som ligger til grunn for gjeldende leie er eller blir endret til ugunst for leietakeren, og endringene ikke er helt uvesentlige, skal utleieren sette ned leien tilsvarende. Endring av leieavtale vedrørende den indre vedlikeholdsplikt av boligen medfører likevel ikke plikt til å redusere leien etter denne bestemmelse.​3\nHusleienemnda​1 kan bestemme at den høyeste lovlige leie skal settes ned etter bestemmelsene i annet ledd og kan fastsette hvor stor nedsettelsen skal være. Nemnda kan også sette ned leien dersom bruksverdien av boligen er forringet på grunn av skade, mangelfullt vedlikehold eller andre forhold ved boligen eller utleieeiendommen som eieren bør bære følgene av.\n0 Endret ved lov 21 juni 1974 nr. 52.\n1 Se § 18.\n2 Se §§ 5 og 6.\n3 Jfr. § 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Forhøyelse av leien. Kostnadsutlikning ved særlige tiltak.",
+      "content": "Husleienemnda​1 kan for det enkelte leieforhold sette opp den høyeste lovlige leie etter § 5\na. når leien sammenholdt med leien for liknende bolig i tilsvarende hus på stedet er uforholdsmessig lav. Ved sammenlikning får reglene i § 6 tilsvarende anvendelse.\nb. når leievilkårene er endret slik at de er mer tyngende for utleieren enn de leievilkår som ligger til grunn for gjeldende leie. Slik forhøyelse kan nemnda også fastsette om bruken av boligen gjør at leieforholdet blir mer tyngende for utleieren, eller om leietakeren går over til å bruke boligen på en måte som sedvanemessig betinger høyere leie,\nc. når utleieren foretar vesentlige forbedringer av boligen eller bekoster andre særlige tiltak som er til fordel for leietakeren. Dersom kostnadene må ses som en engangsutgift kan nemnda – istedenfor å fastsette leieforhøyelse – gi utleieren samtykke til å fordele kostnadene helt eller delvis på leietakerne i en eller flere terminer. Gjelder det omfattende fornyelser av boligen og husleienemnda ikke finner det rimelig å skille mellom vedlikehold og forbedringer, kan nemnda legge kostnadene i sin helhet til grunn ved leiefastsettingen.\nHusleienemnda​1 må ved avgjørelsen etter første ledd bokstav c ta hensyn til utleierens lovlige og nødvendige kostnader, de fordeler leietakeren har av forbedringen eller tiltaket, og om han med skjellig grunn har motsatt seg dette. Nemnda må også ta hensyn til særlige forhold vedrørende renter og andre kostnader som skyldes rimelige lån og annen stønad fra offentlige og kommunale institusjoner. Har leietakeren betalt tilskott til kostnadene, skal leien settes tilsvarende lavere. Er kostnadene helt eller delvis finansiert ved utbedringslån fra Den norske stats husbank,​2 kan nemnda ved leiefastsettingen bestemme at utleieren skal ha adgang til ved forfall å utlikne forholdsmessig på leietakerne den del av terminbeløpene som gjelder avdrag på lånet.\nHusleienemnda kan gi forhåndstilsagn om tillatelse til leieforhøyelse eller kostnadsutlikning etter første ledd bokstav c og om beregningsmåten når utleieren legger frem tilfredsstillende planer for arbeidene, herunder finansieringsmåte og plan for fremdrift.\n0 Endret ved lover 21 juni 1974 nr. 52, 11 juni 1982 nr. 44.\n1 Se § 18.\n2 Jfr. lov 1 mars 1946 nr. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Utlikning av indre vedlikeholdsutgifter.",
+      "content": "Skal utleieren etter leieavtalen sørge for det indre vedlikehold av boligen er regelen i dette kapittel ikke til hinder for at han krever vederlag av leietaker for utgifter han har hatt til indre vedlikehold av boligen, jfr. § 8, annet ledd. Vederlaget kan kreves dekket i tillegg til høyeste lovlige leie etter § 5 i samsvar med reglene i annet og tredje ledd, jfr. dog fjerde ledd.\nVederlaget må ikke​2 overstige det beløp som er nødvendig for å dekke faktiske og lovlige utgifter utleieren etter 1 juli 1967 har hatt til det indre vedlikehold av husrommet. Vederlaget må bare oppkreves i månedlige terminer slik at det beløp som kreves for den enkelte betalingstermin ikke overstiger et beløp som svarer til kr. 2,00 pr. måned pr. netto kvadratmeter gulvflate i boligen. Kongen​3 kan vedta endringer i dette beløp.\nDet må ikke reises krav om betaling av tillegg til leien for indre vedlikeholdsutgifter før leieren har fått oppgave over de utgifter utleieren har hatt, med angivelse av hvor stort leietillegg som vil bli beregnet ved hver betalingstermin og for hvor mange terminer tillegget skal gjelde. Husleienemnda​4 kan avgjøre om en utgift skal anses å være utgift til vedlikehold eller utgift til forbedring, jfr. § 9 c.\n0 Endret ved lover 1 juni 1973 nr. 28, 21 juni 1974 nr. 52, 5 mai 1978 nr. 19, 11 juni 1982 nr. 44.\n1 Jfr. lov 26 mars 1999 nr. 17 § 5-3.\n2 Jfr. kap. V.\n3 Fornyings- og administrasjonsdepartementet iflg. res. 27 nov 1987 nr. 931. I sep 2007 er satsen kr. 10,00.\n4 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Utlikning av ytre vedlikeholdsutgifter.",
+      "content": "Reglene i dette kapittel er ikke til hinder for at utleieren, i samsvar med reglene i annet til femte ledd, i tillegg til høyeste lovlige leie etter § 5 krever vederlag av leietakerne for utgifter han har hatt til vedlikehold av fellesrom og fellesanlegg og til ytre vedlikehold av utleieeiendommen.\nDet samlede vederlag må ikke​2 overstige det beløp som er nødvendig for å dekke faktiske og lovlige utgifter utleieren etter 1 juli 1967 har hatt til vedlikeholdet. Nytter utleieren selv en del av eiendommen må det i vedlikeholdsutgiftene gjøres fratrekk for en forholdsmessig andel under omsyn til verdien og omfanget av utleierens og leietakernes bruksrett i eiendommen. Det samme gjelder om deler av eiendommen er utleiet uten at leien er regulert etter bestemmelsene i kap. II i loven. Det skal videre i de samlede ytre vedlikeholdsutgifter trekkes fra et beløp som svarer til 10 % av leieinntektene i det år kostnadene er påløpet, idet en da bare tar hensyn til leieinntektene fra de leieforhold som reguleres av bestemmelsene i kap. II.\nUtgiftene med de reduksjoner som følger av annet ledd kan utliknes på leietakerne i forhold til høyeste lovlige leie etter § 5 for de enkelte leieforhold. Vederlaget må bare oppkreves i månedlige terminer slik at det beløp som kreves for den enkelte betalingstermin ikke overstiger et beløp som svarer til kr. 2,00 pr. måned pr. netto kvadratmeter gulvflate i boligen. Kongen​3 kan vedta endringer i dette beløp.\nDet må ikke reises krav om betaling av leietillegg for ytre vedlikeholdsutgifter før leietakeren har fått oppgave over vedlikeholdsutgiftene for eiendommen. Slik oppgave skal i tilfelle sendes leietakeren for hvert kalenderår og skal inneholde angivelse av udekkede utgifter fra forutgående år, påløpte utgifter i siste år og angivelse av fratrekk som er gjort i utgifter etter reglene i annet ledd. Oppgaven skal videre inneholde angivelse av de leietillegg for ytre vedlikehold som er innkrevet i året og det beløp som står udekket ved årets utgang. Oppgaven skal også angi den del av utlikningsbeløpet som det vil bli reist krav om overfor den enkelte leietaker.\nHusleienemnda​4 kan bestemme hvordan beregningen og fordelingen etter reglene i denne paragraf skal foretas i det enkelte tilfelle, herunder avgjøre om en utgift skal anses som utgift til vedlikehold eller utgift til forbedring, jfr. § 9 c. Nemndas vedtak kan gis virkning for vedlikeholdsutgifter utleieren har hatt i de siste tre kalenderår som går forut for vedtaket.\n0 Endret ved lover 1 juni 1973 nr. 28, 21 juni 1974 nr. 52, 5 mai 1978 nr. 19, 11 juni 1982 nr. 44.\n1 Jfr. lov 26 mars 1999 nr. 17 (husll.) § 5-3.\n2 Jfr. kap. V.\n3 Se note 3 til § 10. I sep 2007 er satsen kr. 10,00.\n4 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "title": "Vederlag for tilleggsytelser m.v.​1",
+      "content": "I den utstrekning det skal betales særskilt vederlag for varme, varmt vann, renhold eller liknende tilleggsytelser, kan utleieren sette vederlaget slik at han som tillegg til høyeste lovlige leie etter § 5 får dekning for leietakerens forholdsmessige del av de lovlige og nødvendige kostnader til ytelsen. Husleienemnda​2 kan bestemme om og i tilfelle med hvilket beløp det kan regnes forrentning, avskrivning eller vedlikehold av fyringsanlegg eller andre innretninger.\nPå tilsvarende måte kan utleieren utlikne forholdsmessig på leietakerne utgifter til snørydding av tak.\nHusleienemnda​2 kan bestemme hvordan beregningen og fordelingen etter første og annet ledd skal foretas i det enkelte tilfelle. Utleieren plikter hvert år å gi leietakeren adgang til å gjøre seg kjent med oppgaver over kostnadene til tilleggsytelsene og merkostnadene til avgifter og eiendomsskatt som viser hvorledes kostnadene er beregnet og fordelt på de enkelte leietakere.\n0 Endret ved lover 21 juni 1974 nr. 52, 11 juni 1982 nr. 44.\n1 Jfr. lov 26 mars 1999 nr. 17 (husll.) § 3-1, § 3-4 og § 3-7.\n2 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "title": "Fremleie.​1",
+      "content": "Ved fremleie av bolig som etter § 3 kommer inn under bestemmelsene i dette kapittel, må vederlaget ikke være høyere enn lovlig for hovedleieforholdet etter § 4. Fremleies bare en del av den bolig hovedleieforholdet omfatter, må vederlaget ikke være høyere enn en forholdsmessig del av dette beløp.\nHusleienemnda​2 kan fastsette vederlaget etter første ledds annet punktum. Nemnda kan godkjenne et høyere vederlag enn det som følger av første ledd, dersom fremutleieren har utført vesentlige forbedringer av boligen, har vedlikeholdsplikt som ikke overtas av fremleietakeren, har rentetap på innskudd eller det av andre grunner finnes rimelig at fremutleieren kan ta høyere vederlag.​3\n0 Endret ved lover 21 juni 1974 nr. 52, 11 juni 1982 nr. 44.\n1 Jfr. lov 26 mars 1999 nr. 17 (husll.) kap. 7.\n2 Se § 18.\n3 Jfr. § 23.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Avgjørelse av takstnemnd",
+      "content": "Leier av bolig kan kreve tvist om nedsettelse av leie etter lov 16. juni 1939 nr. 6 om husleie § 35 avgjort av en takstnemnd hvis leien ikke er gjenstand for regulering etter kapittel II i loven her. Takstnemnda kan også avgjøre spørsmål om tilbakebetaling av leie etter lov 16. juni 1939 nr. 6 om husleie § 35 annet ledd. I forhold til § 35 annet ledd skal framsetting av krav overfor tingretten om oppnevning av takstnemnd likestilles med saksanlegg. Bestemmelsene i § 39 annet ledd gjelder tilsvarende, slik at takstnemnda tar avgjørelse om betaling av uomtvistet leie og deponering av leie i tingretten.\nOm takstnemnda og avgjørelsen gjelder bestemmelsene i lov 26. mars 1999 nr. 17 om husleieavtaler § 12-2 annet til femte ledd tilsvarende.\nTvist som er brakt inn for en husleienemnd​1 etter § 15 eller for domstolene, kan ikke kreves avgjort av en takstnemnd.\nTvisten skal avgjøres etter paragrafen her hvis lov 16. juni 1939 nr. 6 om husleie fortsatt gjaldt for leieforholdet​2 på det tidspunktet da en økning av leie ble varslet. I slike tilfelle skal tvisten avgjøres etter lov 16. juni 1939 nr. 6 om husleie § 35 også hvis avgjørelsen fra takstnemnda bringes inn for domstolene. Tvisteloven​3 § 18-3 tredje ledd gjelder tilsvarende.\n0 Opphevet ved lov 26 mars 1999 nr. 17 (i kraft 1 jan 2000 iflg. res. 26 mars 1999 nr. 248), tilføyd igjen ved lov 22 des 1999 nr. 99 (i kraft 1 jan 2000), endret ved lov 31 mars 2000 nr. 20 (i kraft 1 april 2000), 14 des 2001 nr. 98 (i kraft 1 jan 2002 iflg. res. 14 des 2001 nr. 1416), 30 aug 2002 nr. 67 (i kraft 1 jan 2003 iflg. res. 30 aug 2002 nr. 938), 17 juni 2005 nr. 90 (i kraft 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Se § 17.\n2 Jfr. lov 26 mars 1999 nr. 17 (husll.) § 13-2.\n3 Lov 17 juni 2005 nr. 90 (tvl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Avgjørelse av husleienemnd​1",
+      "content": "Leier av bolig i kommune med husleienemnd kan kreve tvist om nedsettelse av leie etter lov 16. juni 1939 nr. 6 om husleie § 35 avgjort av husleienemnda hvis leien ikke er gjenstand for regulering etter kapittel II i loven her. Husleienemnda kan også avgjøre spørsmål om tilbakebetaling av leie etter lov 16. juni 1939 nr. 6 om husleie § 35 annet ledd. I forhold til § 35 annet ledd skal framsetting av krav overfor husleienemnda om avgjørelse likestilles med saksanlegg. Bestemmelsene i § 39 annet ledd gjelder tilsvarende, slik at husleienemnda tar avgjørelse om betaling av uomtvistet leie og deponering av leie i tingretten. Kommer ikke partene til enighet om hva som er markedsleie etter § 3-1 eller gjengs leie etter § 4-3 i lov av 26. mars 1999 nr. 17 om husleieavtaler, kan hver av partene kreve tvisten avgjort av husleienemnda. Bestemmelsene i §§ 18 og 19 i loven her gjelder så langt de passer for tvist som nevnt i første til femte punktum. Bestemmelsene i §§ 20-29 gjelder ikke. Er ett eller flere medlemmer og deres varamedlemmer ugilde, eller er kommunen part, kan nemnda ikke behandle tvisten.\nHver av partene kan bringe saken inn for tingretten ved stevning som må være inngitt til retten senest to måneder etter at parten mottok avgjørelsen fra husleienemnda. Retten kan gi oppfriskning for oversittelse av fristen.\nEn avgjørelse som ikke er brakt inn for retten innen fristen etter annet ledd, har virkning som rettskraftig dom.\nTvist som er brakt inn for en takstnemnd etter husleieloven​2 eller domstolene, kan ikke kreves avgjort av husleienemnda.\nHusleienemnda kan avgjøre tvist etter første ledd hvis lov 16. juni 1939 nr. 6 om husleie fortsatt gjaldt for leieforholdet​3 på det tidspunktet da en økning av leie ble varslet. I slike tilfelle skal tvisten avgjøres etter lov 16. juni 1939 nr. 6 om husleie § 35 også hvis avgjørelsen fra husleienemnda bringes inn for domstolene. Tvisteloven​4 § 18-3 tredje ledd gjelder tilsvarende.\n0 Opphevet ved lov 26 mars 1999 nr. 17 (i kraft 1 jan 2000 iflg. res. 26 mars 1999 nr. 248), tilføyd igjen ved lov 22 des 1999 nr. 99 (i kraft 1 jan 2000), endret ved lover 31 mars 2000 nr. 20 (i kraft 1 april 2000), 14 des 2001 nr. 98 (i kraft 1 jan 2002 iflg. res. 14 des 2001 nr. 1416), 30 aug 2002 nr. 67 (i kraft 1 jan 2003 iflg. res. 30 aug 2002 nr. 938), 17 juni 2005 nr. 90 (i kraft 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Se § 17.\n2 Lov 26 mars 1999 nr. 17 (husll.).\n3 Jfr. lov 26 mars 1999 nr. 17 (husll.) § 13-2.\n4 Lov 17 juni 2005 nr. 90 (tvl.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 11 mai 2001 nr. 19 (i kraft 15 mai 2001 iflg. res. 11 mai 2001).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "title": "Oppretting av husleienemnd",
+      "content": "Etter anmodning fra kommunen kan Kongen​1 bestemme at det skal opprettes en husleienemnd til å avgjøre tvister etter lov 16. juni 1939 nr. 6 om husleie § 35, jf. § 15 i loven her. På samme vilkår kan Kongen​1 bestemme at en slik nemnd skal avvikles.\n0 Opphevet ved lov 26 mars 1999 nr. 17 (i kraft 1 jan 2000 iflg. res. 26 mars 1999 nr. 248), tilføyd igjen med annerledes innhold ved lov 22 des 1999 nr. 99 (i kraft 1 jan 2000).\n1 Fornyings- og administrasjonsdepartementet iflg. res. 21 juni 1974.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Husleienemnder.",
+      "content": "Til behandling av saker etter denne lov velges kommunale husleienemnder.\nHusleienemnda skal ha minst tre medlemmer med varamedlemmer. Av medlemmene skal én være huseier som også er utleier, og én leieboer. Husleienemnda er bare vedtaksfør når mer enn halvparten av medlemmene, likevel minst tre, er til stede.\nMedlemmene og varamedlemmene velges av kommunestyret for kommunevalgperioden, men fungerer inntil nye medlemmer og varamedlemmer er valgt. Bestemmelsene i § 14 i lov av 25. september 1992 nr. 107 om kommuner og fylkeskommuner får tilsvarende anvendelse. Finnes det lokale huseier- eller leieboerorganisasjoner i kommunen, skal disse gis høve til å komme med forslag til henholdsvis huseier- og leieboerrepresentant før det foretas valg.\nKommunen utreder utgiftene ved husleienemndas virksomhet og kan tilstå medlemmene av nemnda en rimelig godtgjørelse for deres arbeid. Staten kan yte tilskudd til utgiftene i den utstrekning Stortinget måtte bestemme.\nKongen gir nærmere forskrifter​1 om husleienemndenes organisasjon og virksomhet og om framgangsmåten ved valg av medlemmer til nemndene.\n0 Endret ved lover 5 juni 1987 nr. 25, 11 juni 1993 nr. 66.\n1 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Saksbehandlingen.",
+      "content": "Ved husleienemndas​1 behandling av saker om individuelle vedtak om leie, dekning av vedlikeholdsutgifter eller vederlag for tilleggsytelser, skal foruten utleieren også leietakeren anses som part i saken.\nFør husleienemnda​1 treffer vedtak etter denne lov, skal det foretas befaring enten av den samlede nemnd, av formannen eller av en tjenestemann ved nemndas kontor. Befaring kan likevel unnlates når det gjelder avgjørelser som ikke er avhengige av skjønn over boligens tilstand og leieverdi, og også ellers om nemnda finner det unødvendig.\nHusleienemnda skal føre protokoll i samsvar med forskrifter​2 som gis av Kongen.​3\n0 Endret ved lover 19 juni 1969 nr. 54, 21 juni 1974 nr. 52.\n1 Se § 18.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n3 Fornyings- og administrasjonsdepartementet iflg. res. 21 juni 1974.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Klage.",
+      "content": "Klage over vedtak truffet av husleienemnda,​1 behandles og avgjøres av Konkurransetilsynet.​2 Bestemmelsene i § 19 første og annet ledd gjelder tilsvarende for tilsynets behandling, med de endringer som følger av denne paragraf.\nDersom klagen ikke bare gjelder saksbehandlingen eller slike forutsetninger for vedtaket som kan prøves uten befaring av boligen, oppnevner Konkurransetilsynet​2 et særskilt utvalg til å gi innstilling om avgjørelsen. Bestemmelsene i § 18, annet ledd, gjelder tilsvarende for disse utvalg. Kongen kan​3 gi nærmere bestemmelser om utvalgenes organisasjon og arbeid og om medlemmenes godtgjørelse.\nReglene i forvaltningsloven​4 kapittel VI gjelder tilsvarende.\n0 Endret ved lover 19 juni 1969 nr. 54, 21 juni 1974 nr. 52, 11 juni 1982 nr. 44, 11 juni 1993 nr. 66.\n1 Se § 18.\n2 Se lov 11 juni 1993 nr. 65 § 2-1.\n3 Fornyings- og administrasjonsdepartementet iflg. res. 5 mai 1972 nr. 8645.\n4 Lov 10 feb 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 11 juni 1993 nr. 66.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Overprøving etter eget tiltak m.v.",
+      "content": "Konkurransetilsynet​1 kan av eget tiltak overprøve husleienemndas vedtak.\nOverordnet myndighet kan selv treffe nytt vedtak i saken eller oppheve og henvise saken til ny behandling i underinstansen.\nBestemmelsene i § 20 og i forvaltningsloven​2 § 35 gjelder tilsvarende.\n0 Endret ved lover 19 juni 1969 nr. 54, 21 juni 1974 nr. 52, 11 juni 1982 nr. 44, 11 juni 1993 nr. 66.\n1 Se lov 11 juni 1993 nr. 65 § 2-1.\n2 Lov 10 feb 1967.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "title": "Når vedtak får virkning.",
+      "content": "Vedtak om fastsetting av høyeste lovlige leie etter loven her får virkning for fremtiden når ikke annet er fastsatt i eller i medhold av loven. Husleienemnda​1 kan bestemme at vedtak som treffes i medhold av § 9 skal ha virkning fra det tidspunkt leietakeren har fått melding om at saken er tatt opp til behandling av nemnda. Godkjenning av leietillegg ved fremleie etter § 13, annet ledd, kan gis virkning fra leieforholdets begynnelse.\nVed klage over vedtak om høyeste lovlige leie kan klagemyndigheten bestemme at dens vedtak skal gjelde fra det tidspunkt husleienemnda​1 kunne ha gitt sitt vedtak virkning. Ved overprøving etter eget tiltak kan overordnet myndighet bestemme at dens vedtak skal gjelde fra det tidspunkt melding er sendt partene om at vedtaket fra det underordnede organ vil bli tatt opp til overprøving. Er slik melding sendt før klagefristens utløp, gjelder likevel reglene i første punktum.\n0 Endret ved lover 11 juni 1982 nr. 44, 20 juni 2003 nr. 45 (i kraft 1 juli 2003 iflg. res. 20 juni 2003 nr. 712).\n1 Se § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "4:24",
+      "chapter": "4",
+      "section": "24",
+      "title": "Opplysningsplikt.",
+      "content": "Enhver plikter å gi Kongen, departementet og de myndigheter som er nevnt i kapittel IV eller de særskilte tillitsmenn som disse myndigheter oppnevner, de opplysninger som de krever for å kunne utføre sine gjøremål etter denne lov. Opplysningene kan kreves gitt skriftlig eller muntlig innen den frist som myndighetene eller deres tillitsmenn fastsetter.\nMyndighetene som nevnt i første ledd kan også kreve enten selv eller gjennom oppnevnte tillitsmenn å få granske registrerte regnskapsopplysninger, regnskapsmateriale,​1 forretningsdokumenter, forretningspapirer, møteprotokoller og andre bøker og dokumenter samt å få besiktige bedrifter og andre faste eiendommer og løsøregjenstander.\nMyndighetene kan om nødvendig kreve hjelp fra politiet for å få utlevert regnskapsmateriale,​1 bøker og dokumenter som nevnt i annet ledd. Ved tvangssalg av leierett som kommer inn under § 17,​2 kan myndighetene om nødvendig be om bistand fra politiet for å få gjennomført besiktigelse av boligen.\n0 Endret ved lover 11 juni 1982 nr. 44, 16 mai 1986 nr. 21, 11 juni 1993 nr. 66, 17 juli 1998 nr. 56 (i kraft 1 jan 1999).\n1 Jfr. lov 17 juli 1998 nr. 56.\n2 Denne § 17, som gjaldt prisregulering for andeler i borettslag m.v., ble opphevet ved lov 26 mars 1999 nr. 17 (husll.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "4:25",
+      "chapter": "4",
+      "section": "25",
+      "title": "Ugildhet.",
+      "content": "Er en husleienemnd​1 ugild, behandler Konkurransetilsynet​2 saken i første instans. I tilfelle av ugildhet for Konkurransetilsynet​2 avgjør departementet​3 hvilken myndighet som skal behandle saken.\n0 Endret ved lover 19 juni 1969 nr. 54, 11 juni 1993 nr. 66.\n1 Se § 18.\n2 Se lov 11 juni 1993 nr. 65 § 2-1.\n3 Fornyings- og administrasjonsdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Straff.",
+      "content": "Med bøter​1 eller med fengsel​2 inntil 1 år eller med begge deler, straffes den som forsettlig overtrer eller medvirker til overtredelse av bestemmelser som er fastsatt i eller i medhold av denne lov, eller opprettholdt ved den, og som ikke angår reguleringsorganenes organisasjon og virksomhet.\nDen som har ytet ulovlig vederlag, blir bare å straffe for medvirkning dersom han har tilskyndet eller forledet til overtredelse.​3\nDen som uaktsomt overtrer bestemmelse som nevnt i første ledd, eller medvirker til slik overtredelse straffes med bøter.​1\nI bestemmelse som utferdiges i medhold av loven, kan det fastsettes at brudd på bestemmelsen ikke medfører straff.\n0 Endret ved lover 11 juni 1982 nr. 44, 16 mai 1986 nr. 21, 11 juni 1993 nr. 66. Endres ved lov 20 mai 2005 nr. 28 (i kraft fra den tid som fastsettes ved lov) som endret ved lov 19 juni 2009 nr. 74.\n1 Jfr. strl. § 27 og kap. 3 a; strl. 2005 kap. 4 og kap. 9.\n2 Jfr. strl. § 26 a; strl. 2005 kap. 6 og kap. 9.\n3 Jfr. § 29.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Inndragning av ulovlig vederlag.",
+      "content": "Dersom noen har tatt høyere vederlag enn lovlig etter bestemmelse som er fastsatt i eller i medhold av denne lov eller opprettholdt ved den, skal det inndras et beløp som retten antar svarer til det som er oppnådd ut over lovlig vederlag. Dette gjelder uansett om straffesak reises eller kan reises mot noen.\nInndragning foretas enten hos den som har tatt det ulovlige vederlag, eller hos den han har handlet på vegne av eller til fordel for, eller hos begge. Foretas inndragning hos begge, kan retten enten fordele ansvaret mellom dem, eller den kan gjøre dem solidarisk ansvarlig for beløpet eller en del av det. Bestemmelsene i dette ledd gjelder tilsvarende når flere har samvirket i det forhold som begrunner inndragningen.\nI inndragningsbeløpet skal det gjøres fradrag for beløp som den ansvarlige i dommen eller forelegget blir tilpliktet å betale tilbake til den skadelidende. Det samme gjelder hvis han på forhånd har foretatt slik tilbakebetaling, og han enten godtgjør at han var pliktig til det etter regelen i § 29 eller godtgjør at tilbakebetaling fant sted før politiet eller vedkommende kontrollmyndighet tok saken opp.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 11 juni 1982 nr. 44.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "5:29",
+      "chapter": "5",
+      "section": "29",
+      "title": "Tilbakebetaling av ulovlig vederlag.",
+      "content": "Den som har betalt høyere vederlag enn lovlig, kan kreve tilbakebetalt forskjellen mellom det som er betalt og lovlig vederlag, dersom han ikke etter forholdene må anses for i vesentlig grad medansvarlig for overtredelsen.​1\n1 Jfr. § 26.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "5:29 a",
+      "chapter": "5",
+      "section": "29 a",
+      "title": "Lovens varighet",
+      "content": "Denne loven opphører å gjelde ti år etter ikrafttredelsen av lov 26. mars 1999 nr. 17 om husleieavtaler.​1\n0 Tilføyd ved lov 26 mars 1999 nr. 17 (i kraft 1 jan 2000 iflg. res. 26 mars 1999 nr. 248).\n1 Dvs 1 jan 2010.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29a",
+        "source_heading": "§ 29a."
+      }
+    },
+    {
+      "provision_ref": "5:30",
+      "chapter": "5",
+      "section": "30",
+      "title": "Ikrafttreden m.v.",
+      "content": "Bestemmelsene i denne lov trer i kraft 1 juli 1967.\nSøksmål etter § 35 i lov av 16 juni 1939 om husleie kan ikke reises om leie som er gjenstand for regulering etter kapittel II.\n0 Endret ved lover 13 juni 1969 nr. 46, 19 juli 1970 nr. 56, 11 juni 1971 nr. 58, 5 mai 1972 nr. 25, 1 juni 1973 nr. 28, 21 juni 1974 nr. 52, 11 juni 1982 nr. 44.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    }
+  ]
+}

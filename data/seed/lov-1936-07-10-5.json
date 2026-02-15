@@ -1,0 +1,1357 @@
+{
+  "id": "LOV-1936-07-10-5",
+  "type": "statute",
+  "title": "Lov om boligsparelag",
+  "short_name": "Boligsparelagloven",
+  "status": "in_force",
+  "issued_date": "1936-07-10",
+  "in_force_date": "1936-07-10",
+  "url": "https://lovdata.no/dokument/NLO/lov/1936-07-10-5",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Denne lov kommer til anvendelse på sammenslutninger som mottar innskudd fra sine medlemmer​1 og på ny utlåner de således opsparte midler til andre medlemmer eller sammenslutninger av disse til anskaffelse eller forbedring av egen bolig og leilighet eller til innfrielse av tidligere heftelser på egen bolig.​2\nI tvilstilfelle avgjør Kongen eller det departement han bestemmer med endelig virkning om en sammenslutning kommer inn under loven.\nDe lag som kommer inn under denne lov, har enerett og plikt til å bruke ordet sparelag i sitt navn sammen med en betegnelse av lagets formål – f. eks. boligsparelag, jfr. dog § 59.\n1 Se kap. 7.\n2 Se kap. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Lag som omfattes av denne lov, kan ikke begynne sin virksomhet​1 før dets vedtekter​2 er godkjent av Kongen eller det departement han bestemmer.\nGodkjennelse skal nektes hvis lagets virksomhet kan antas å komme i strid med norsk lovgivning eller almene interesser. Godkjennelse skal også nektes hvis lagets medlemmer ved adgang til lagets ledelse og kontroll, ved renteberegning for innskudd og lån, ved adgang til å opnå lån, ved lånenes størrelse, ved krav om sikkerhet for lån eller på annen måte kan antas ikke å ville bli tilbørlig likestillet.\nMeddelt godkjennelse er ikke til hinder for at Kongen eller det departement han bestemmer senere kan kreve vedtektene forandret.\n1 Jfr. § 57, 2net ledd.\n2 Se § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Innskudd skal bare mottas fra lagets medlemmer overensstemmende med den mellem laget og vedkommende medlem avsluttede kontrakt,​1 jfr. § 34.\nMedlemmene skal ikke ha personlig ansvar for lagets forpliktelser.\n1 Jfr. §§ 32 og 37.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Bankinspeksjonen kan la foreta sakkyndig kontroll av oppførelsen og det senere vedlikehold av pantsatte bygninger.\n1 Endret ved lov 7 des. 1956 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Formularer for medlemskontrakter og andre dokumenter som bestemmer forholdet mellem de enkelte medlemmer og laget, skal være godkjent av Bankinspeksjonen.\nKontraktene skal inneholde et avtrykk av denne lov samt av lagets vedtekter​1 og gi en så vidt mulig uttømmende og klar fremstilling av lagets og medlemmenes rettigheter og plikter for øvrig.​2\nBankinspeksjonen kan når som helst kreve endret tidligere godkjente formularer m.v.\n1 Se § 8.\n2 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "Et boligsparelag stiftes på et konstituerende medlemsmøte av minst 20 medlemmer, som er bosatt her i riket. Stifterne kan ikke møte ved annen fullmektig enn ektefelle eller annet medlem av laget. Skriftlig fullmakt må fremlegges.\nDet må ikke sikres stifterne provisjon eller særfordeler i laget.​1\n1 Se § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "I protokollen for stiftelsesmøtet innføres hvor stor sparesum hver stifter tegner sig for og til hvilke av de i § 1 nevnte formål der søkes lån av laget.​1\nDerefter fatter møtet beslutning om vedtekter​2 og valg av tillitsmenn.\nProtokollen for møtet underskrives av samtlige møtende.\n1 Se § 32.\n2 Se § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "Lagets vedtekter skal inneholde bestemmelser om:​1\n1. Lagets navn, formål, sæte og virkekrets.\n2. Hvilket varsel medlemsmøtet skal innkalles med.​2\n3. Hvor mange medlemmer med varamenn forstanderskapet skal ha hvis laget får minst 50 medlemmer.​3\n4. Hvilken revisjonsordning laget skal ha.​4\n5. Hvor mange styremedlemmer med varamenn laget skal ha​5 og hvor mange styremedlemmer enkeltvis eller i fellesskap skal kunne tegne lagets navn.\n6. Grensene opad og nedad for den kontraktbestemte sparesum og minste innskudd pr. måned eller uke.​6\n7. Tilbakebetaling av innskudd når medlemsskapet ophører i henhold til § 37.\n8. Hvordan medlemmenes rekkefølge for tildeling av lån skal bestemmes.\nVedtektene skal videre inneholde enhver bestemmelse som måtte bli fattet:\n9. Om det for visse avgjørelser skal gjelde andre avstemningsregler for medlemsmøter enn fastsatt i § 14 næst siste ledd.\n10. Om det skal velges forstanderskap selv om laget har mindre enn 50 medlemmer og i tilfelle hvor mange medlemmer med varamenn forstanderskapet skal ha.​3\n11. Om laget vil motta garantikapital eller støtteinnskudd i henhold til § 34, om adgangen til å yde sådan garantikapital eller støtteinnskudd skal være begrenset samt om medlemmer optatt i henhold til § 34 skal ha stemmerett på medlemsmøtet.\n12. Om medlemmene skal erlegge mer enn 2 pct. av sparesummen til garantikapital.​7\n13. Om der skal kreves medlemskontingent ved inntreden i laget og dens størrelse.​8\n14. Om lagets adgang til å yde lån eller garanti skal være mere begrenset enn efter §§ 40-44.\n15. Om lagets adgang til å opta lån skal være mere begrenset enn efter § 48.\nEndelig kan vedtektene inneholde alle bestemmelser om lagets organisasjon, medlemmenes rettigheter og plikter, lagets lånevirksomhet og lagets opløsning og avvikling, som ikke strider mot kap. 3-9.\n1 Se §§ 13, 3dje ledd, 14, 3dje ledd, 19, 3dje ledd, 20, a og § 24 i.f.\n2 Se § 13, annet ledd.\n3 Jfr. § 17.\n4 Jfr. § 22.\n5 Se § 23.\n6 Se § 32.\n7 Jfr. § 33.\n8 Se § 35.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "Når lagets vedtekter er godkjent, skal det anmeldes til registrering overensstemmende med lovgivningen om handelsregistre.​1 Anmeldelsen skal inneholde oplysning om det som er nevnt i § 8 nr. 1, 2, 4-6, 9 og 11-15, samt være ledsaget av legitimasjon for at vedtektene er godkjent overensstemmende med § 2.\n1 Se lov 17 mai 1890 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "Først når laget er registrert kan det som sådant likeoverfor tredjemann erhverve rettigheter og pådra sig plikter.\nFor forpliktelser, inngått på lagets vegne før registreringen, hefter i mangel av annen avtale de som har inngått disse personlig en for alle og alle for en. Det samme gjelder med hensyn til forpliktelser som inngåes mens lagets virksomhet er stanset i henhold til §§ 50 eller 57 og med hensyn til forpliktelser overfor medlemmer som er optatt efterat det i henhold til § 49 er forbudt laget å opta nye medlemmer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "content": "Ethvert medlem av laget er pliktig til å motta valg til lagets organer. Et medlem kan dog kreve sig fritatt for gjenvalg for en valgperiode til det organ hvori det tjenestgjør ved valgets avholdelse.\nEt medlem av lagets organer forblir i sin stilling til nytt medlem er lovlig valgt selv om hans tjenestetid er utløpet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "content": "Enhver tillits- eller tjenestemann i et boligsparelag har taushetsplikt med hensyn til hvad han i sådan egenskap erfarer om lagets, medlemmers eller forretningsforbindelsers forhold, undtagen når det efter denne lov eller lovgivningen for øvrig er hans plikt å gi oplysninger.\n1 Se § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "content": "Medlemmenes rett til å delta i varetagelsen av lagets anliggender utøves gjennem medlemsmøtet.\nMedlemsmøtet innkalles ved skriftlig meddelelse til hvert enkelt medlem av formannen i forstanderskapet hvor sådant finnes,​2 ellers av styret.​3 Varslet skal bestemmes i vedtektene,​4 men skal være minst en uke.\nMedlemsmøtet skal holdes minst en gang om året og ellers så ofte som det er bestemt i vedtektene eller når forstanderskapet eller styret finner det påkrevet.\nMedlemsmøte skal også innkalles når kontrollkomitéen​5 eller minst en fjerdedel av medlemmene krever det.\n1 Se § 22, annet ledd i.f.\n2 Se § 17 og § 18.\n3 Se kap. 6.\n4 Se § 8 nr. 2.\n5 Se § 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "content": "Medlemsmøtet velger selv sin ordstyrer.\nPå møtet har hvert medlem en stemme.\nHvis det ikke i vedtektene er truffet annen bestemmelse kan et medlem ikke møte ved annen fullmektig enn ektefelle eller annet medlem av laget. Skriftlig fullmakt må fremlegges.\nDe beslutninger som nærværende lov​1 eller lagets vedtekter​2 ikke opstiller særegne forskrifter for, fattes med simpel stemmeflerhet blandt de møtende medlemmer og således at i tilfelle av stemmelikhet gjør ordstyrerens stemme utslaget, undtagen ved valg som i tilfelle avgjøres ved loddtrekning.\nForslag om opløsning av et lag, om sammenslutning med et annet lag​3 eller om endringer i vedtektene skal tilstilles samtlige medlemmer minst 14 dager før behandlingen på medlemsmøtet. Til gyldig beslutning om opløsning av laget eller om sammenslutning med et annet lag kreves at to tredjedeler av de avgitte stemmer er derfor og at der enten er avgitt stemmer av medlemmer som representerer to tredjedeler av samtlige stemmer eller at beslutningen gjentas med tre fjerdedels stemmeflerhet av et nytt medlemsmøte innkalt tidligst 14 dager derefter. Til beslutning om annen forandring i vedtektene kreves at to tredjedeler av de i medlemsmøtet avgitte stemmer er derfor. Beslutning om opløsning av laget, om sammenslutning med et annet lag​3 eller om endringer i vedtektene vinner ikke endelig gyldighet uten godkjennelse av Kongen eller det departement han bemyndiger.\n1 Se § 14, 5te ledd, § 24 siste punktum.\n2 Jfr. § 8 nr. 9.\n3 Se § 53.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "content": "Et medlem kan ikke selv eller ved fullmektig delta i nogen avstemning angående hans egen stemmerett eller angående nogen annen sak som han har fremtredende personlig eller økonomisk særinteresse i. Heller ikke kan han stemme ved fullmektig som har slik særinteresse. Dog kan ethvert medlem stemme på sig selv til tillitsmann i laget. Medlem av et lagsorgan kan ikke delta i avstemning om godkjennelse av dettes virksomhet eller i valg av tillitsmenn som skal føre kontroll med det.\nAvgjørelse av tvist om stemmerett hører under medlemsmøtet.\nOver møtets forhandlinger føres protokoll som før møtets slutning opleses til vedtagelse og underskrives av ordstyreren og 2 andre tilstedeværende medlemmer som velges dertil av møtet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "content": "Det tilligger medlemsmøtet:​1\na. å velge medlemmer av forstanderskapet hvor sådant skal oprettes efter denne lovs § 17. Hvor forstanderskap ikke er oprettet skal medlemsmøtet foreta de i § 20 a-e nevnte funksjoner,\nb. å bestemme tillitsmennenes godtgjørelse,\nc. å behandle beretning fra forstanderskap,​2 kontrollkomité,​3 revisjon​4 og styre​5 om deres virksomhet,\nd. å treffe bestemmelse om godkjennelse av årsregnskapet​6 og om anvendelsen av overskudd,\ne. å treffe bestemmelse om forandring av lagets vedtekter,\nf. ellers å gjøre vedtak i de saker som forelegges innenfor rammen av lov​7 og vedtekter.\n1 Se § 25, første ledd.\n2 Se § 17.\n3 Se § 21.\n4 Se § 22.\n5 Se § 30.\n6 Se § 30, annet ledd.\n7 Se §§ 24 og 53, siste ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "content": "Har et lag 50 medlemmer eller mer skal det på første ordinære medlemsmøte til valg av lagets organer velges et forstanderskap på minst 6 og høist 18 lagsmedlemmer.\nVedtektene kan bestemme at laget skal ha forstanderskap selv om medlemstallet er mindre enn i forrige ledd nevnt.​1\nAv forstandere som er valgt ved første valg utgår efter ett års forløp halvparten efter loddtrekning og siden hvert år den halvpart som har tjenestgjort lengst.\nSamtidig med valg av forstandere velges tillike minst så mange varamenn som halvparten av antall forstandere. Varamennene velges for ett år ad gangen.\nStyrets medlemmer kan ikke tillike være forstandere, men skal innkalles til forstanderskapets møter og har rett til å delta i dets forhandlinger, dog uten stemmerett utenom det i § 20 e nevnte tilfelle.\n1 Se § 8 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "content": "Forstanderskapet velger årlig innen sin midte en formann og en næstformann.\nFormannen sammenkaller forstanderskapet​1 og leder dets forhandlinger.\n1 Se § 19, første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "content": "Forstanderskapet trer sammen så ofte formannen finner det nødvendig eller forlangende derom fremsettes av kontrollkomitéen, styret eller av minst en tredjedel av forstanderskapets medlemmer.\nForstanderskapet er beslutningsdyktig når minst halvdelen av forstanderne er til stede.\nHvor ikke annet er bestemt i vedtektene avgjøres sakene ved simpel stemmeflerhet blandt de møtende forstandere og således at i tilfelle av stemmelikhet gjør formannens stemme utslaget, undtagen ved valg som i tilfelle avgjøres ved loddtrekning.\nProtokoll føres under formannens ansvar.​1 Den underskrives av ham og to andre forstandere som velges dertil på møtet.\n1 Se § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "content": "Det tilligger forstanderskapet:​1\na. å velge styremedlemmer og varamenn for disse,​2 dersom ikke vedtektene bestemmer at styret skal velges av medlemsmøtet,\nb. å velge kontrollkomité,​3\nc. å velge eller ansette revisorer,​4\nd. å vedta instrukser for kontrollkomité og revisjon og forelegge disse instrukser for Bankinspeksjonen til godkjennelse,\ne. å treffe bestemmelse om lagets daglige ledelse skal underlegges en forretningsfører og bestemme dennes lønn,​5\nf. å fatte bestemmelse om oprettelse av andre stillinger ved lagets administrasjon og bestemme disses lønn,\ng. å avgi uttalelse om forslag til vedtektsforandringer,\nh. å avgi uttalelse om kontrollkomitéens, revisjonens og styrets beretninger samt om årsregnskapet og styrets forslag til anvendelse av årsoverskudd,\ni. ellers gjøre vedtak i de saker som forelegges det innenfor rammen av lov​6 og vedtekter.\nGodtgjørelse til tillits- eller tjenestemenn må ikke ydes i form av tantiéme.​7 Lagets faste tjenestemenn ansettes med høist seks måneders gjensidig opsigelse.\n1 Se §§ 16, a, 25, første ledd, og 28.\n2 Se § 23.\n3 Se § 21.\n4 Se § 22.\n5 Se § 17, siste ledd.\n6 Se § 24.\n7 Se § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "content": "Kontrollkomitéen som skal bestå av tre utenfor lagets styre og revisjon stående personer, velges​2 for ett år ad gangen. Kontrollkomitéen skal holde sig underrettet​3 om at lagets virksomhet ledes overensstemmende med lov, vedtekter og de nærmere forskrifter som gis av medlemsmøte eller forstanderskap. Den skal til ubestemt tid og uten varsel minst to ganger hvert år gjennemgå lagets bøker og forvisse sig om at samtlige lånepapirer, deposita og kassebeholdning er til stede og i orden, samt for øvrig ved stikkprøver i årets løp undersøke disse forhold. Kontrollkomitéen gjennemgår tillike de mellem medlemmene og laget oprettede spare- og lånekontrakter samt prøver sikkerheten for de forskjellige utlån.\nKontrollkomitéen skal også føre tilsyn med revisjonens arbeide og avgi innstilling til desisjon av årsregnskapet.\nStyret og revisjonen er pliktig​4 til å la kontrollkomitéen få enhver oplysning som den mener den trenger for å kunne utføre sitt hverv på tilfredsstillende måte.\nOm sin virksomhet i det forløpne år avgir kontrollkomitéen innberetning til Bankinspeksjonen og forstanderskapet hvor sådant finnes, ellers til medlemsmøtet.\nKontrollkomitéen fører av Bankinspeksjonen autorisert protokoll over sine forhandlinger.\n1 Se § 45.\n2 Se § 20 b, jfr. § 16 a.\n3 Jfr. § 30.\n4 Se §§ 54 og 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "content": "Revisorer skal så vidt mulig være stats- eller børsautoriserte.​1 Valgte revisorer​2 tjenestgjør ett år ad gangen.\nOm revisjonen, som skal utføres overensstemmende med den i § 20 d nevnte instruks, skal revisor hvert år avgi beretning som blir å forelegge medlemsmøtet. Revisor skal være til stede på medlemsmøtet.\nRevisor må ikke være medlem av kontrollkomitéen eller av styret, inneha nogen styret eller et styremedlem underordnet stilling i eller utenfor laget eller være gift med noget medlem av styret eller beslektet eller besvogret med noget styremedlem i rett op- eller nedstigende linje eller i sidelinjen så nær som søsken.​3\n1 Se lov 22 feb. 1929 nr. 6.\n2 Se § 20, c.\n3 Se § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "6:23",
+      "chapter": "6",
+      "section": "23",
+      "content": "Et boligsparelags virksomhet ledes av et styre bestående av minst 3 og høist 5 medlemmer. Styret velger selv formann og næstformann.\nStyremedlemmene velges​1 for to år. Av dem som er valgt ved første valg, uttrer efter ett års forløp minst halvparten efter loddtrekning, og siden hvert år de som har tjenestgjort lengst.\nSamtidig med valg av styremedlemmer velges​1 tillike minst 2 varamenn for disse. Varamenn velges for ett år ad gangen.\n1 Se § 20 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "6:24",
+      "chapter": "6",
+      "section": "24",
+      "content": "Ethvert medlem av styret kan uten varsel foreløbig fjernes ved beslutning av et medlemsmøte eller av forstanderskapet hvor sådant finnes. Spørsmålet om hvorvidt vedkommende endelig skal fjernes, skal uopholdelig forelegges til avgjørelse i et nytt medlemsmøte eller i et nytt møte av forstanderskapet. Så vel til midlertidig som til endelig fjernelse utfordres minst to tredjedels stemmeflerhet med mindre vedtektene bestemmer at beslutning herom kan fattes med et mindre flertall.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "content": "Styret leder lagets virksomhet overensstemmende med lov, vedtekter og de nærmere forskrifter som gis av medlemsmøte eller forstanderskap. Styret kan meddele forretningsfører prokura.​1\nOverfor tredjemann er styret bemyndiget til å handle på lagets vegne i alt hvad der hører til driften av dets virksomhet. Enhver begrensning i denne myndighet er uten rettsvirkning overfor godtroende tredjemann.\n1 Se lov 17 mai 1890 nr. 6 kap. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "content": "Formannen sammenkaller og leder styrets møter.\nI saker som efter vedtektene skal avgjøres av styret, må over halvdelen av dette delta i behandlingen. Beslutninger fattes med simpelt flertall og i tilfelle av stemmelikhet gjør formannens stemme utslaget. Dog må beslutningen være enstemmig hvis styret består av 3 medlemmer og bare 2 av disse har deltatt i behandlingen.\nOver forhandlingene skal føres protokoll​1 som underskrives av samtlige deltagende medlemmer.\n1 Se § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "content": "Et medlem av styret må ikke​1 delta i behandlingen eller avgjørelsen av nogen sak hvori han selv har fremtredende personlig eller økonomisk særinteresse.​2\nStyremedlem, forretningsfører eller nogen av deres underordnede eller firma hvori nogen av de nevnte personer har en fremtredende interesse, må i anledning av rettshandler som avsluttes for laget, ikke motta godtgjørelse av andre enn laget og heller ikke godtgjørelse som medkontrahenten eller dennes representant har betinget for ham hos laget.​1 Er sådan godtgjørelse avtalt eller oppebåret tilfaller den laget.\n1 Se § 55.\n2 Jfr. § 45.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:28",
+      "chapter": "6",
+      "section": "28",
+      "content": "Har et lag ikke forstanderskap, skal styret utføre de i § 20 f og g nevnte gjøremål.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "content": "Styret har å sørge for​2 at der føres et ordentlig og tilstrekkelig bokholderi​3 og at lagets kassebøker og verdipapirer opbevares på betryggende måte.\nVed hvert kalenderårs utgang blir årsregnskap og balanse å opgjøre overensstemmende med de grunnsetninger som gjelder for en ordentlig og forsiktig forretningsførsel.\n1 Endret ved lov 7 des. 1956 nr. 1.\n2 Se § 55.\n3 Se § 36. Jfr. strl. § 286.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "content": "Senest innen utgangen av februar måned skal​1 styret sende kontrollkomitéen revidert årsregnskap underskrevet av styret og revisjonen med styrets forslag til anvendelse av det overskudd regnskapet måtte vise, samt beretning om lagets virksomhet i det forløpne år. Kontrollkomitéen sender derefter​1 regnskap og beretning til forstanderskapets formann eller om laget ikke har forstanderskap, til styrets formann med sin uttalelse.\nInnen utgangen av mars måned sendes​1 innkallelse til medlemsmøte til behandling av årsregnskap og årsberetning som vedlegges innkallelsen ledsaget av revisjonens, kontrollkomitéens og forstanderskapets uttalelser og beretninger. Medlemsmøtet holdes innen utgangen av april måned.\n1 Se § 54.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "content": "Innen en måned efter at regnskapet er desidert skal lagets styre sende​1 Bankinspeksjonen styrets årsberetning samt et av styret og revisjonen underskrevet utdrag av regnskapet vedlagt kontrollkomitéens desisjonsinnstilling og utskrifter av forstanderskapets og medlemsmøtets protokoller vedkommende årsregnskapets behandling.\nDe ovenfor nevnte utdrag m.v. skal være avfattet på den måte og ledsaget av de legitimasjoner m.v. som Bankinspeksjonen bestemmer.\n1 Se § 54.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "7:32",
+      "chapter": "7",
+      "section": "32",
+      "content": "Ethvert medlem av et sparelag skal undertegne en medlemskontrakt som skal angi størrelsen av den sparesum han forplikter sig til og hvordan den skal innbetales​1 samt hvortil spareinnskuddet og det lån som søkes av laget skal anvendes.​2\nSparesummen skal settes lik det beløp som trenges for å nå formålet med medlemsskapet, jfr. § 1. Dens størrelse og innbetalingsterminene kan forandres med styrets samtykke.\n1 Se § 8 nr. 6 og § 39, 2net ledd i.f.\n2 Se § 37 2net ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "7:33",
+      "chapter": "7",
+      "section": "33",
+      "content": "Hvert medlem skal erlegge 2 pct. av sparesummen til ansvarlig garantikapital for laget med mindre vedtektene bestemmer en høiere prosentsats.​2 Denne innbetaling erlegges utenom og før de ordinære spareinnskudd og skal ikke forrentes.\nInnbetalinger på sparesummen (spareinnskudd) skal forrentes efter minst samme rentefot som er almindelig for innskudd på sparevilkår i sparebank i det distrikt hvor laget har sitt sæte.\n1 Se § 38.\n2 Se § 8 nr. 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "7:34",
+      "chapter": "7",
+      "section": "34",
+      "content": "Personer og institusjoner som vil fremme lagets virksomhet ved ydelse av garantikapital eller støtteinnskudd, kan av et medlemsmøte optas som medlemmer av laget uten å undertegne vanlig medlemskontrakt.\nSådant kapital- eller støtteinnskudd skal ikke forrentes og skal ikke kunne kreves tilbakebetalt før lagets virksomhet er ophørt.\n1 Se § 8 nr. 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "7:35",
+      "chapter": "7",
+      "section": "35",
+      "content": "Ved inntreden i laget kan medlemmene en gang for alle avkreves medlemskontingent​1 med inntil femti kroner, som kan anvendes til lagets administrasjon. For øvrig skal lagets medlemmer ikke være bundet til særydelser utenom lånerenten.\n1 Se § 8 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "7:36",
+      "chapter": "7",
+      "section": "36",
+      "content": "Hvert medlem skal ha en konto i lagets bøker for innbetalt garantikapital og en konto for spareinnskudd. Rentene av det siste skal tilføres ved hvert kalenderårs utgang. Likeledes innføres efter hvert hvad medlemmet får utbetalt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "7:37",
+      "chapter": "7",
+      "section": "37",
+      "content": "Ved utbetaling av spareinnskudd kontrollerer laget at innskuddet anvendes til det i medlemskontrakten bestemte formål.​1\nStyret kan tillate at innskuddet utbetales til andre formål innenfor lovens og vedtektenes ramme. Styret kan også tillate at innskuddet blir utbetalt uten betingelser hvis medlemmet dør eller på grunn av sykdom, arbeidsledighet eller av annen rimelig grunn ser sig nødt til å tre ut som medlem.\nVedtektene skal ha nærmere regler om tilbakebetaling av innskudd når medlemsskapet ophører av de i forrige ledd nevnte grunner.​2\n1 Se § 32.\n2 Se § 8 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "7:38",
+      "chapter": "7",
+      "section": "38",
+      "content": "Medlems andel i garantikapitalen​1 kan styret beslutte å tilbakebetale, forsåvidt lagets økonomiske stilling tillater det, når medlemmet har fått tilbakebetalt sitt innskudd av de i § 37, annet ledd, nevnte grunner, eller efter å ha mottatt lån eller garanti fra laget, har opfylt sine forpliktelser således at enhver risiko for laget i forhold til vedkommende medlem er bortfalt.\nMedlem som av andre grunner trer ut av laget taper sin andel av garantikapitalen som tilfaller reservefondet.\n1 Se § 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "8:39",
+      "chapter": "8",
+      "section": "39",
+      "content": "Et lags midler skal​1 bare anvendes til utlån til lagets medlemmer eller til sammenslutninger av disse mot sikkerhet i fast eiendom og overensstemmende med denne lov​2 og lagets vedtekter.​3\nBetingelsen for å opnå lån, er at medlemmet har innbetalt sin andel i lagets garantikapital​4 og minst 15 pct. av den kontraktbestemte sparesum.​5 Har medlemmet tomt eller annet aktivum som kommer bygget til gode, kan dette aktivum for sin verdi i tilfelle med fradrag for heftelser helt eller delvis tre i stedet for innbetaling av 15 pct. av sparesummen.\nMidlertidig ledige midler skal bare kunne anbringes i stats- eller statsgaranterte papirer eller fordeles som innskudd i sparebanker og aktiebanker.\n1 Se § 55.\n2 Se §§ 40-47.\n3 Se § 8 nr. 8 og 14.\n4 Se § 31.\n5 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "8:40",
+      "chapter": "8",
+      "section": "40",
+      "content": "Lån til byggeselskaper hvis samtlige medlemmer er lagsmedlemmer og som underkaster sig lagets kontroll av hele sin virksomhet kan ydes op til 90 pct. av eiendommens verdi i handel og vandel.\nLån til enkelte lagsmedlemmer som underkaster sig lagets kontroll av bygget og dets senere vedlikehold, kan ydes op til 85 pct. av eiendommens verdi i handel og vandel.\nVerdien fastsettes ved offentlig takst​1 efter at bygningen er ferdig. Hvis taksten overstiger sparesummen,​2 legges sparesummen til grunn for beregningen av lånegrensen.\n1 Se lov 1 juni 1917 nr. 1 kap 1.\n2 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "8:41",
+      "chapter": "8",
+      "section": "41",
+      "content": "Laget skal på best mulige vilkår søke optatt størst mulig førsteprioritets og om mulig annenprioritets lån på de eiendommer medlemmene bygger eller erhverver.\nDe lån boligsparelaget yder skal være tilbakebetalt i løpet av høist 20 år.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "8:42",
+      "chapter": "8",
+      "section": "42",
+      "content": "Laget kan til byggeselskaper eller lagsmedlemmer som efter §§ 39 og 40 er berettiget til å opnå lån, yde byggelån eller garantere for sådanne lån eller for leveransekontrakter til bygget. Sådanne lån eller garantier ydes efter regler som er godkjent av Bankinspeksjonen og må under enhver omstendighet ligge innenfor lånegrensen efter § 40.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "8:43",
+      "chapter": "8",
+      "section": "43",
+      "content": "Lånsøkeren skal før lånet utbetales eller garanti trer i kraft godtgjøre at han kan fullføre bygget og sannsynliggjøre at han kan svare sine forpliktelser til laget og andre långivere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "8:44",
+      "chapter": "8",
+      "section": "44",
+      "content": "Lån eller garantier kan ikke gis dersom summen av lagets garantikapital​1 og fonds blir mindre enn 5 pct. av lagets samlede utlån og garantier for byggelån eller for leveranse av byggematerialer.\n1 Se § 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "8:45",
+      "chapter": "8",
+      "section": "45",
+      "content": "Lån må ikke​2 bevilges medlemmer av lagets styre, kontrollkomité og revisjon samt forstanderskapets formann uten at pantet på forhånd er enstemmig godkjent som fullt betryggende av kontrollkomitéen, som også skal påse at låneydelsen er overensstemmende med lov, vedtekter og vedkommende medlemskontrakt.\n1 Jfr. §§ 14 og 27.\n2 Se § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "8:46",
+      "chapter": "8",
+      "section": "46",
+      "content": "Lagets styre skal​1 innenfor de fastsatte lånegrenser selvstendig bedømme den sikkerhet som bys laget og bare bevilge lån eller garanti hvis styret er overbevist om at sikkerheten er betryggende.\nStyret skal​1 senere påse at avdrag og renter på lån som laget har ydet eller har garantert blir betalt i rett tid, at bygninger holdes brandassurert og at bygningene og gjerder m.v. blir forsvarlig vedlikeholdt.\nMisligholder låntageren sine forpliktelser for såvidt eller på annen måte, skal​1 styret straks gripe inn og sikre lagets interesser.\n1 Se § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "8:47",
+      "chapter": "8",
+      "section": "47",
+      "content": "Bestemmelsene i dette kapitel får tilsvarende anvendelse ved ydelse av lån til innfrielse av tidligere heftelser på egen bolig, sml. § 1 første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "8:48",
+      "chapter": "8",
+      "section": "48",
+      "content": "Laget kan opta lån hos andre långivere til utvidelse av sin virksomhet. Summen av disse lån og lagets garantier efter § 42 må dog ikke overstige to tredjedeler av verdien av lagets pantobligasjoner og andre verdipapirer samt bankinnskudd. I tvilstilfelle bedømmes verdien herav av Bankinspeksjonen.\n1 Se § 8 nr. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "9:49",
+      "chapter": "9",
+      "section": "49",
+      "content": "Kongen eller det departement han bestemmer kan når som helst forby et lag å opta nye medlemmer.\nForbudet kunngjøres på lagets bekostning i Norsk Kunngjørelsestidende​1 og i de i lagets distrikt almindelig leste aviser samt meddeles lagets samtlige medlemmer.\n1 Se lov 11 okt. 1946 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "9:50",
+      "chapter": "9",
+      "section": "50",
+      "content": "Kongen eller vedkommende departement​1 kan stanse et lags virksomhet dersom den finnes å være i strid med de krav som er nevnt i § 2, annet ledd eller laget har tapt ikke bare sin garanti​2 og egenkapital, men dessuten pådratt sig et sådant underskudd at Bankinspeksjonen finner at der mangler dekning for 5 pct. av lagets forpliktelser.\n1 Finansdepartementet.\n2 Se § 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "9:51",
+      "chapter": "9",
+      "section": "51",
+      "content": "Før der treffes sådan beslutning som nevnt i de to foregående paragrafer, skal vedkommende departement opfordre lagets styre til innen en bestemt frist​1 å avgi erklæring i saken.\n1 Se § 54.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "9:52",
+      "chapter": "9",
+      "section": "52",
+      "content": "Når Kongen eller vedkommende departement​2 i henhold til §§ 50 og 57, annet ledd, har fattet beslutning om å stanse et lags virksomhet, skal skifteretten etter forlangende av vedkommende departement​2 sette laget under avvikling og oppnevne en eller flere menn til å foreta avvikling på lagets bekostning under skifterettens kontroll. Under vilkår som nevnt i konkursloven § 14 annet ledd kan retten samtidig oppnevne en eller flere revisorer. Dersom den finner det ønskelig, kan retten også oppnevne en kontrollkomité som omhandlet i [lov om offentlig administrasjon av banker av 17 juli 1925 § 2, jfr. § 28].​3\nBestemmelsene om oppnevning i konkursloven § 14 og §§ 21-22 gjelder tilsvarende; likeså bestemmelsene i konkursloven 1 kapitel om registrering, kunngjøring, tinglysing og underretning til fordringshaverne, dog således at registrering kun finner sted hvis skifteretten anser det nødvendig.\nLagets styre og andre myndigheter trer ut av funksjon under avviklingen. Men de plikter å bistå lederen av avviklingen og gi ham, revisor, kontrollkomitéen og skifteretten alle opplysninger de trenger. Lederen av avviklingen kan innkalle medlemsmøte i laget.\n1 Endret ved lov 16 juni 1939 nr. 8.\n2 Finansdepartementet.\n3 Opphevet ved lover 24 mai 1961 nr. 1 § 51 og nr. 2 § 44 for så vidt sparebanker og aksjebanker angår.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "9:52 a",
+      "chapter": "9",
+      "section": "52 a",
+      "content": "Under avviklingen gjelder bestemmelsene i bankadministrasjonsloven​2 §§ 33-37 og 41 tilsvarende, med de endringer som følger av denne lov. Det samme er tilfelle med bestemmelsene i konkursloven 2 og 4 kapitel og §§ 56, 96, 98-104, 107, 116, 120-122, 127 og 129-134. Rettens kjennelse om å sette laget under avvikling trer da i stedet for konkursåpningen. Den eller de oppnevnte ledere av avviklingen trer i stedet for administrasjonsstyret i en bank i likvidasjon under offentlig administrasjon og i stedet for bestyreren i et konkursbo; kontrollkomitéen​3 trer i stedet for kreditorutvalget i et konkursbo; og skifteretten trer i stedet for den dømmende kommissær i en bank i likvidasjon under offentlig administrasjon.\nFristene i konkursloven §§ 42-46 regnes fra den dag da det offentlige har besluttet å stanse lagets virksomhet, for så vidt de ikke er utløpet når denne paragraf trer i kraft.​4\n1 Tilføyet ved lov 16 juni 1939 nr. 8.\n2 Lov 17 juli 1925 nr. 14, som imidlertid er opphevet ved lover 24 mai 1961 nr. 1 § 51 og nr. 2 § 44 for så vidt sparebanker og aksjebanker angår.\n3 Se § 52.\n4 16 juni 1939.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52a",
+        "source_heading": "§ 52 a."
+      }
+    },
+    {
+      "provision_ref": "9:52 b",
+      "chapter": "9",
+      "section": "52 b",
+      "content": "Når det offentlige har truffet slik beslutning som nevnt i § 52, kan det ikke åpnes konkurs i lagets bo, selv om begjæring er framsatt tidligere. Fra samme tid er adgangen til tvangsfullbyrdelse overfor laget stengt i samme utstrekning som ved konkurs.\nVedkommende departement​2 kan gi nærmere bestemmelser til gjennomføring av reglene om avvikling etter denne lov.\n1 Tilføyet ved lov 16 juni 1939 nr. 8.\n2 Finansdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52b",
+        "source_heading": "§ 52 b."
+      }
+    },
+    {
+      "provision_ref": "9:53",
+      "chapter": "9",
+      "section": "53",
+      "content": "Beslutning om frivillig opløsning av et lag eller sammenslutning med et annet lag, jfr. § 14, skal kunngjøres to ganger i Norsk Kunngjørelsestidende​1 og i de i distriktet almindelig leste aviser likesom meddelelse om beslutningen skal tilstilles samtlige medlemmer av vedkommende lag.\nSammenslutning av laget med et annet lag kan ikke finne sted medmindre opfyllelsen av samtlige kjente forpliktelser som påhviler vedkommende lag er sikret, og kan ikke gjennemføres før minst tre måneder er forløpet efter den siste kunngjørelse av beslutningen i Norsk Kunngjørelsestidende.\nNår lagets virksomhet ophører, skal lagets fond efterat samtlige forpliktelser er innfridd, anvendes til almennyttige øiemed efter bestemmelse av medlemsmøtet​2 og med godkjennelse av Kongen.\n1 Se lov 11 okt. 1946 nr. 1.\n2 Se kap. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "10:54",
+      "chapter": "10",
+      "section": "54",
+      "content": "Hvis tillits- eller tjenestemann i et lag som omfattes av denne lov ikke i rette tid efterkommer de plikter som påhviler ham ifølge loven eller lagets vedtekter eller pålegg som er utferdiget av vedkommende departement eller Bankinspeksjonen, kan vedkommende departement​1 pålegge den forsømmelige under løpende tvangsmulkt å opfylle sin plikt. Tvangsmulkten kan inndrives ved utpantning.​2\n1 Finansdepartementet.\n2 Se tvangsfullbl. kap. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "10:55",
+      "chapter": "10",
+      "section": "55",
+      "content": "Tillits- eller tjenestemenn som overtrer bestemmelsene i denne lov eller forskrifter som er utferdiget med hjemmel i loven eller som medvirker dertil, straffes med bøter​2 eller fengsel inntil 3 måneder for så vidt ikke handlingen går inn under noen strengere straffebestemmelse.​3 Viser han grov uforstand i utførelsen av sitt verv, straffes han med bøter.​2\nMed bøter​2 straffes også den som ved uriktig eller villedende angivelser søker å verve medlemmer til laget.\nNår et lag er satt under avvikling etter § 52, gjelder bestemmelsene i straffeloven § 289 tilsvarende.\n1 Endret ved lov 16 juni 1939 nr. 8.\n2 Se strl. § 27.\n3 Se strl. §§ 274, 286, 288, 289, 326, 332, 336, 339, 373.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "11:56",
+      "chapter": "11",
+      "section": "56",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "11:57",
+      "chapter": "11",
+      "section": "57",
+      "content": "Dersom et boligsparelag​1 som er i virksomhet ved lovens ikrafttreden eller som efter å ha begynt sin virksomhet finnes å komme inn under loven,​1 ikke tilfredsstiller kravene i denne lovs § 2, annet ledd, kan vedkommende departement​2 straks stanse dets virksomhet inntil videre.\nEr et lags vedtekter ikke godkjent innen en av departementet fastsatt frist, kan Kongen eller departementet endelig stanse lagets virksomhet.\n1 Se § 1.\n2 Finansdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    },
+    {
+      "provision_ref": "11:58",
+      "chapter": "11",
+      "section": "58",
+      "content": "Den rett som ved § 119 i lov om konkursboers behandling av 6 juni 1863 er hjemlet skyldnere i konkursbo til å bringe fordringer på boet i motregning kommer, hvor det gjelder et boligsparelags bo, ikke til anvendelse på fordringer som er erhvervet efterat vedkommende departement har stanset lagets virksomhet i henhold til denne lovs § 50 eller § 57, første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_58",
+        "source_heading": "§ 58."
+      }
+    },
+    {
+      "provision_ref": "11:59",
+      "chapter": "11",
+      "section": "59",
+      "content": "Forbudet i § 1, siste ledd, mot at lag, som ikke omfattes av denne lov, bruker ordet sparelag i sitt navn, gjelder ikke lag som har sådan betegnelse i sitt navn før lovens ikrafttreden.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_59",
+        "source_heading": "§ 59."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Denne lov kommer til anvendelse på sammenslutninger som mottar innskudd fra sine medlemmer​1 og på ny utlåner de således opsparte midler til andre medlemmer eller sammenslutninger av disse til anskaffelse eller forbedring av egen bolig og leilighet eller til innfrielse av tidligere heftelser på egen bolig.​2\nI tvilstilfelle avgjør Kongen eller det departement han bestemmer med endelig virkning om en sammenslutning kommer inn under loven.\nDe lag som kommer inn under denne lov, har enerett og plikt til å bruke ordet sparelag i sitt navn sammen med en betegnelse av lagets formål – f. eks. boligsparelag, jfr. dog § 59.\n1 Se kap. 7.\n2 Se kap. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Lag som omfattes av denne lov, kan ikke begynne sin virksomhet​1 før dets vedtekter​2 er godkjent av Kongen eller det departement han bestemmer.\nGodkjennelse skal nektes hvis lagets virksomhet kan antas å komme i strid med norsk lovgivning eller almene interesser. Godkjennelse skal også nektes hvis lagets medlemmer ved adgang til lagets ledelse og kontroll, ved renteberegning for innskudd og lån, ved adgang til å opnå lån, ved lånenes størrelse, ved krav om sikkerhet for lån eller på annen måte kan antas ikke å ville bli tilbørlig likestillet.\nMeddelt godkjennelse er ikke til hinder for at Kongen eller det departement han bestemmer senere kan kreve vedtektene forandret.\n1 Jfr. § 57, 2net ledd.\n2 Se § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Innskudd skal bare mottas fra lagets medlemmer overensstemmende med den mellem laget og vedkommende medlem avsluttede kontrakt,​1 jfr. § 34.\nMedlemmene skal ikke ha personlig ansvar for lagets forpliktelser.\n1 Jfr. §§ 32 og 37.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Bankinspeksjonen kan la foreta sakkyndig kontroll av oppførelsen og det senere vedlikehold av pantsatte bygninger.\n1 Endret ved lov 7 des. 1956 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Formularer for medlemskontrakter og andre dokumenter som bestemmer forholdet mellem de enkelte medlemmer og laget, skal være godkjent av Bankinspeksjonen.\nKontraktene skal inneholde et avtrykk av denne lov samt av lagets vedtekter​1 og gi en så vidt mulig uttømmende og klar fremstilling av lagets og medlemmenes rettigheter og plikter for øvrig.​2\nBankinspeksjonen kan når som helst kreve endret tidligere godkjente formularer m.v.\n1 Se § 8.\n2 Se kap. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "content": "Et boligsparelag stiftes på et konstituerende medlemsmøte av minst 20 medlemmer, som er bosatt her i riket. Stifterne kan ikke møte ved annen fullmektig enn ektefelle eller annet medlem av laget. Skriftlig fullmakt må fremlegges.\nDet må ikke sikres stifterne provisjon eller særfordeler i laget.​1\n1 Se § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "content": "I protokollen for stiftelsesmøtet innføres hvor stor sparesum hver stifter tegner sig for og til hvilke av de i § 1 nevnte formål der søkes lån av laget.​1\nDerefter fatter møtet beslutning om vedtekter​2 og valg av tillitsmenn.\nProtokollen for møtet underskrives av samtlige møtende.\n1 Se § 32.\n2 Se § 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "content": "Lagets vedtekter skal inneholde bestemmelser om:​1\n1. Lagets navn, formål, sæte og virkekrets.\n2. Hvilket varsel medlemsmøtet skal innkalles med.​2\n3. Hvor mange medlemmer med varamenn forstanderskapet skal ha hvis laget får minst 50 medlemmer.​3\n4. Hvilken revisjonsordning laget skal ha.​4\n5. Hvor mange styremedlemmer med varamenn laget skal ha​5 og hvor mange styremedlemmer enkeltvis eller i fellesskap skal kunne tegne lagets navn.\n6. Grensene opad og nedad for den kontraktbestemte sparesum og minste innskudd pr. måned eller uke.​6\n7. Tilbakebetaling av innskudd når medlemsskapet ophører i henhold til § 37.\n8. Hvordan medlemmenes rekkefølge for tildeling av lån skal bestemmes.\nVedtektene skal videre inneholde enhver bestemmelse som måtte bli fattet:\n9. Om det for visse avgjørelser skal gjelde andre avstemningsregler for medlemsmøter enn fastsatt i § 14 næst siste ledd.\n10. Om det skal velges forstanderskap selv om laget har mindre enn 50 medlemmer og i tilfelle hvor mange medlemmer med varamenn forstanderskapet skal ha.​3\n11. Om laget vil motta garantikapital eller støtteinnskudd i henhold til § 34, om adgangen til å yde sådan garantikapital eller støtteinnskudd skal være begrenset samt om medlemmer optatt i henhold til § 34 skal ha stemmerett på medlemsmøtet.\n12. Om medlemmene skal erlegge mer enn 2 pct. av sparesummen til garantikapital.​7\n13. Om der skal kreves medlemskontingent ved inntreden i laget og dens størrelse.​8\n14. Om lagets adgang til å yde lån eller garanti skal være mere begrenset enn efter §§ 40-44.\n15. Om lagets adgang til å opta lån skal være mere begrenset enn efter § 48.\nEndelig kan vedtektene inneholde alle bestemmelser om lagets organisasjon, medlemmenes rettigheter og plikter, lagets lånevirksomhet og lagets opløsning og avvikling, som ikke strider mot kap. 3-9.\n1 Se §§ 13, 3dje ledd, 14, 3dje ledd, 19, 3dje ledd, 20, a og § 24 i.f.\n2 Se § 13, annet ledd.\n3 Jfr. § 17.\n4 Jfr. § 22.\n5 Se § 23.\n6 Se § 32.\n7 Jfr. § 33.\n8 Se § 35.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "Når lagets vedtekter er godkjent, skal det anmeldes til registrering overensstemmende med lovgivningen om handelsregistre.​1 Anmeldelsen skal inneholde oplysning om det som er nevnt i § 8 nr. 1, 2, 4-6, 9 og 11-15, samt være ledsaget av legitimasjon for at vedtektene er godkjent overensstemmende med § 2.\n1 Se lov 17 mai 1890 nr. 6.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "Først når laget er registrert kan det som sådant likeoverfor tredjemann erhverve rettigheter og pådra sig plikter.\nFor forpliktelser, inngått på lagets vegne før registreringen, hefter i mangel av annen avtale de som har inngått disse personlig en for alle og alle for en. Det samme gjelder med hensyn til forpliktelser som inngåes mens lagets virksomhet er stanset i henhold til §§ 50 eller 57 og med hensyn til forpliktelser overfor medlemmer som er optatt efterat det i henhold til § 49 er forbudt laget å opta nye medlemmer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "3:11",
+      "chapter": "3",
+      "section": "11",
+      "content": "Ethvert medlem av laget er pliktig til å motta valg til lagets organer. Et medlem kan dog kreve sig fritatt for gjenvalg for en valgperiode til det organ hvori det tjenestgjør ved valgets avholdelse.\nEt medlem av lagets organer forblir i sin stilling til nytt medlem er lovlig valgt selv om hans tjenestetid er utløpet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "content": "Enhver tillits- eller tjenestemann i et boligsparelag har taushetsplikt med hensyn til hvad han i sådan egenskap erfarer om lagets, medlemmers eller forretningsforbindelsers forhold, undtagen når det efter denne lov eller lovgivningen for øvrig er hans plikt å gi oplysninger.\n1 Se § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "content": "Medlemmenes rett til å delta i varetagelsen av lagets anliggender utøves gjennem medlemsmøtet.\nMedlemsmøtet innkalles ved skriftlig meddelelse til hvert enkelt medlem av formannen i forstanderskapet hvor sådant finnes,​2 ellers av styret.​3 Varslet skal bestemmes i vedtektene,​4 men skal være minst en uke.\nMedlemsmøtet skal holdes minst en gang om året og ellers så ofte som det er bestemt i vedtektene eller når forstanderskapet eller styret finner det påkrevet.\nMedlemsmøte skal også innkalles når kontrollkomitéen​5 eller minst en fjerdedel av medlemmene krever det.\n1 Se § 22, annet ledd i.f.\n2 Se § 17 og § 18.\n3 Se kap. 6.\n4 Se § 8 nr. 2.\n5 Se § 21.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "4:14",
+      "chapter": "4",
+      "section": "14",
+      "content": "Medlemsmøtet velger selv sin ordstyrer.\nPå møtet har hvert medlem en stemme.\nHvis det ikke i vedtektene er truffet annen bestemmelse kan et medlem ikke møte ved annen fullmektig enn ektefelle eller annet medlem av laget. Skriftlig fullmakt må fremlegges.\nDe beslutninger som nærværende lov​1 eller lagets vedtekter​2 ikke opstiller særegne forskrifter for, fattes med simpel stemmeflerhet blandt de møtende medlemmer og således at i tilfelle av stemmelikhet gjør ordstyrerens stemme utslaget, undtagen ved valg som i tilfelle avgjøres ved loddtrekning.\nForslag om opløsning av et lag, om sammenslutning med et annet lag​3 eller om endringer i vedtektene skal tilstilles samtlige medlemmer minst 14 dager før behandlingen på medlemsmøtet. Til gyldig beslutning om opløsning av laget eller om sammenslutning med et annet lag kreves at to tredjedeler av de avgitte stemmer er derfor og at der enten er avgitt stemmer av medlemmer som representerer to tredjedeler av samtlige stemmer eller at beslutningen gjentas med tre fjerdedels stemmeflerhet av et nytt medlemsmøte innkalt tidligst 14 dager derefter. Til beslutning om annen forandring i vedtektene kreves at to tredjedeler av de i medlemsmøtet avgitte stemmer er derfor. Beslutning om opløsning av laget, om sammenslutning med et annet lag​3 eller om endringer i vedtektene vinner ikke endelig gyldighet uten godkjennelse av Kongen eller det departement han bemyndiger.\n1 Se § 14, 5te ledd, § 24 siste punktum.\n2 Jfr. § 8 nr. 9.\n3 Se § 53.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "4:15",
+      "chapter": "4",
+      "section": "15",
+      "content": "Et medlem kan ikke selv eller ved fullmektig delta i nogen avstemning angående hans egen stemmerett eller angående nogen annen sak som han har fremtredende personlig eller økonomisk særinteresse i. Heller ikke kan han stemme ved fullmektig som har slik særinteresse. Dog kan ethvert medlem stemme på sig selv til tillitsmann i laget. Medlem av et lagsorgan kan ikke delta i avstemning om godkjennelse av dettes virksomhet eller i valg av tillitsmenn som skal føre kontroll med det.\nAvgjørelse av tvist om stemmerett hører under medlemsmøtet.\nOver møtets forhandlinger føres protokoll som før møtets slutning opleses til vedtagelse og underskrives av ordstyreren og 2 andre tilstedeværende medlemmer som velges dertil av møtet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "4:16",
+      "chapter": "4",
+      "section": "16",
+      "content": "Det tilligger medlemsmøtet:​1\na. å velge medlemmer av forstanderskapet hvor sådant skal oprettes efter denne lovs § 17. Hvor forstanderskap ikke er oprettet skal medlemsmøtet foreta de i § 20 a-e nevnte funksjoner,\nb. å bestemme tillitsmennenes godtgjørelse,\nc. å behandle beretning fra forstanderskap,​2 kontrollkomité,​3 revisjon​4 og styre​5 om deres virksomhet,\nd. å treffe bestemmelse om godkjennelse av årsregnskapet​6 og om anvendelsen av overskudd,\ne. å treffe bestemmelse om forandring av lagets vedtekter,\nf. ellers å gjøre vedtak i de saker som forelegges innenfor rammen av lov​7 og vedtekter.\n1 Se § 25, første ledd.\n2 Se § 17.\n3 Se § 21.\n4 Se § 22.\n5 Se § 30.\n6 Se § 30, annet ledd.\n7 Se §§ 24 og 53, siste ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "content": "Har et lag 50 medlemmer eller mer skal det på første ordinære medlemsmøte til valg av lagets organer velges et forstanderskap på minst 6 og høist 18 lagsmedlemmer.\nVedtektene kan bestemme at laget skal ha forstanderskap selv om medlemstallet er mindre enn i forrige ledd nevnt.​1\nAv forstandere som er valgt ved første valg utgår efter ett års forløp halvparten efter loddtrekning og siden hvert år den halvpart som har tjenestgjort lengst.\nSamtidig med valg av forstandere velges tillike minst så mange varamenn som halvparten av antall forstandere. Varamennene velges for ett år ad gangen.\nStyrets medlemmer kan ikke tillike være forstandere, men skal innkalles til forstanderskapets møter og har rett til å delta i dets forhandlinger, dog uten stemmerett utenom det i § 20 e nevnte tilfelle.\n1 Se § 8 nr. 10.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "content": "Forstanderskapet velger årlig innen sin midte en formann og en næstformann.\nFormannen sammenkaller forstanderskapet​1 og leder dets forhandlinger.\n1 Se § 19, første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "content": "Forstanderskapet trer sammen så ofte formannen finner det nødvendig eller forlangende derom fremsettes av kontrollkomitéen, styret eller av minst en tredjedel av forstanderskapets medlemmer.\nForstanderskapet er beslutningsdyktig når minst halvdelen av forstanderne er til stede.\nHvor ikke annet er bestemt i vedtektene avgjøres sakene ved simpel stemmeflerhet blandt de møtende forstandere og således at i tilfelle av stemmelikhet gjør formannens stemme utslaget, undtagen ved valg som i tilfelle avgjøres ved loddtrekning.\nProtokoll føres under formannens ansvar.​1 Den underskrives av ham og to andre forstandere som velges dertil på møtet.\n1 Se § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "5:20",
+      "chapter": "5",
+      "section": "20",
+      "content": "Det tilligger forstanderskapet:​1\na. å velge styremedlemmer og varamenn for disse,​2 dersom ikke vedtektene bestemmer at styret skal velges av medlemsmøtet,\nb. å velge kontrollkomité,​3\nc. å velge eller ansette revisorer,​4\nd. å vedta instrukser for kontrollkomité og revisjon og forelegge disse instrukser for Bankinspeksjonen til godkjennelse,\ne. å treffe bestemmelse om lagets daglige ledelse skal underlegges en forretningsfører og bestemme dennes lønn,​5\nf. å fatte bestemmelse om oprettelse av andre stillinger ved lagets administrasjon og bestemme disses lønn,\ng. å avgi uttalelse om forslag til vedtektsforandringer,\nh. å avgi uttalelse om kontrollkomitéens, revisjonens og styrets beretninger samt om årsregnskapet og styrets forslag til anvendelse av årsoverskudd,\ni. ellers gjøre vedtak i de saker som forelegges det innenfor rammen av lov​6 og vedtekter.\nGodtgjørelse til tillits- eller tjenestemenn må ikke ydes i form av tantiéme.​7 Lagets faste tjenestemenn ansettes med høist seks måneders gjensidig opsigelse.\n1 Se §§ 16, a, 25, første ledd, og 28.\n2 Se § 23.\n3 Se § 21.\n4 Se § 22.\n5 Se § 17, siste ledd.\n6 Se § 24.\n7 Se § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "5:21",
+      "chapter": "5",
+      "section": "21",
+      "content": "Kontrollkomitéen som skal bestå av tre utenfor lagets styre og revisjon stående personer, velges​2 for ett år ad gangen. Kontrollkomitéen skal holde sig underrettet​3 om at lagets virksomhet ledes overensstemmende med lov, vedtekter og de nærmere forskrifter som gis av medlemsmøte eller forstanderskap. Den skal til ubestemt tid og uten varsel minst to ganger hvert år gjennemgå lagets bøker og forvisse sig om at samtlige lånepapirer, deposita og kassebeholdning er til stede og i orden, samt for øvrig ved stikkprøver i årets løp undersøke disse forhold. Kontrollkomitéen gjennemgår tillike de mellem medlemmene og laget oprettede spare- og lånekontrakter samt prøver sikkerheten for de forskjellige utlån.\nKontrollkomitéen skal også føre tilsyn med revisjonens arbeide og avgi innstilling til desisjon av årsregnskapet.\nStyret og revisjonen er pliktig​4 til å la kontrollkomitéen få enhver oplysning som den mener den trenger for å kunne utføre sitt hverv på tilfredsstillende måte.\nOm sin virksomhet i det forløpne år avgir kontrollkomitéen innberetning til Bankinspeksjonen og forstanderskapet hvor sådant finnes, ellers til medlemsmøtet.\nKontrollkomitéen fører av Bankinspeksjonen autorisert protokoll over sine forhandlinger.\n1 Se § 45.\n2 Se § 20 b, jfr. § 16 a.\n3 Jfr. § 30.\n4 Se §§ 54 og 5.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "5:22",
+      "chapter": "5",
+      "section": "22",
+      "content": "Revisorer skal så vidt mulig være stats- eller børsautoriserte.​1 Valgte revisorer​2 tjenestgjør ett år ad gangen.\nOm revisjonen, som skal utføres overensstemmende med den i § 20 d nevnte instruks, skal revisor hvert år avgi beretning som blir å forelegge medlemsmøtet. Revisor skal være til stede på medlemsmøtet.\nRevisor må ikke være medlem av kontrollkomitéen eller av styret, inneha nogen styret eller et styremedlem underordnet stilling i eller utenfor laget eller være gift med noget medlem av styret eller beslektet eller besvogret med noget styremedlem i rett op- eller nedstigende linje eller i sidelinjen så nær som søsken.​3\n1 Se lov 22 feb. 1929 nr. 6.\n2 Se § 20, c.\n3 Se § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "6:23",
+      "chapter": "6",
+      "section": "23",
+      "content": "Et boligsparelags virksomhet ledes av et styre bestående av minst 3 og høist 5 medlemmer. Styret velger selv formann og næstformann.\nStyremedlemmene velges​1 for to år. Av dem som er valgt ved første valg, uttrer efter ett års forløp minst halvparten efter loddtrekning, og siden hvert år de som har tjenestgjort lengst.\nSamtidig med valg av styremedlemmer velges​1 tillike minst 2 varamenn for disse. Varamenn velges for ett år ad gangen.\n1 Se § 20 a.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "6:24",
+      "chapter": "6",
+      "section": "24",
+      "content": "Ethvert medlem av styret kan uten varsel foreløbig fjernes ved beslutning av et medlemsmøte eller av forstanderskapet hvor sådant finnes. Spørsmålet om hvorvidt vedkommende endelig skal fjernes, skal uopholdelig forelegges til avgjørelse i et nytt medlemsmøte eller i et nytt møte av forstanderskapet. Så vel til midlertidig som til endelig fjernelse utfordres minst to tredjedels stemmeflerhet med mindre vedtektene bestemmer at beslutning herom kan fattes med et mindre flertall.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "content": "Styret leder lagets virksomhet overensstemmende med lov, vedtekter og de nærmere forskrifter som gis av medlemsmøte eller forstanderskap. Styret kan meddele forretningsfører prokura.​1\nOverfor tredjemann er styret bemyndiget til å handle på lagets vegne i alt hvad der hører til driften av dets virksomhet. Enhver begrensning i denne myndighet er uten rettsvirkning overfor godtroende tredjemann.\n1 Se lov 17 mai 1890 nr. 6 kap. 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "content": "Formannen sammenkaller og leder styrets møter.\nI saker som efter vedtektene skal avgjøres av styret, må over halvdelen av dette delta i behandlingen. Beslutninger fattes med simpelt flertall og i tilfelle av stemmelikhet gjør formannens stemme utslaget. Dog må beslutningen være enstemmig hvis styret består av 3 medlemmer og bare 2 av disse har deltatt i behandlingen.\nOver forhandlingene skal føres protokoll​1 som underskrives av samtlige deltagende medlemmer.\n1 Se § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "content": "Et medlem av styret må ikke​1 delta i behandlingen eller avgjørelsen av nogen sak hvori han selv har fremtredende personlig eller økonomisk særinteresse.​2\nStyremedlem, forretningsfører eller nogen av deres underordnede eller firma hvori nogen av de nevnte personer har en fremtredende interesse, må i anledning av rettshandler som avsluttes for laget, ikke motta godtgjørelse av andre enn laget og heller ikke godtgjørelse som medkontrahenten eller dennes representant har betinget for ham hos laget.​1 Er sådan godtgjørelse avtalt eller oppebåret tilfaller den laget.\n1 Se § 55.\n2 Jfr. § 45.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "6:28",
+      "chapter": "6",
+      "section": "28",
+      "content": "Har et lag ikke forstanderskap, skal styret utføre de i § 20 f og g nevnte gjøremål.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "content": "Styret har å sørge for​2 at der føres et ordentlig og tilstrekkelig bokholderi​3 og at lagets kassebøker og verdipapirer opbevares på betryggende måte.\nVed hvert kalenderårs utgang blir årsregnskap og balanse å opgjøre overensstemmende med de grunnsetninger som gjelder for en ordentlig og forsiktig forretningsførsel.\n1 Endret ved lov 7 des. 1956 nr. 1.\n2 Se § 55.\n3 Se § 36. Jfr. strl. § 286.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "content": "Senest innen utgangen av februar måned skal​1 styret sende kontrollkomitéen revidert årsregnskap underskrevet av styret og revisjonen med styrets forslag til anvendelse av det overskudd regnskapet måtte vise, samt beretning om lagets virksomhet i det forløpne år. Kontrollkomitéen sender derefter​1 regnskap og beretning til forstanderskapets formann eller om laget ikke har forstanderskap, til styrets formann med sin uttalelse.\nInnen utgangen av mars måned sendes​1 innkallelse til medlemsmøte til behandling av årsregnskap og årsberetning som vedlegges innkallelsen ledsaget av revisjonens, kontrollkomitéens og forstanderskapets uttalelser og beretninger. Medlemsmøtet holdes innen utgangen av april måned.\n1 Se § 54.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "content": "Innen en måned efter at regnskapet er desidert skal lagets styre sende​1 Bankinspeksjonen styrets årsberetning samt et av styret og revisjonen underskrevet utdrag av regnskapet vedlagt kontrollkomitéens desisjonsinnstilling og utskrifter av forstanderskapets og medlemsmøtets protokoller vedkommende årsregnskapets behandling.\nDe ovenfor nevnte utdrag m.v. skal være avfattet på den måte og ledsaget av de legitimasjoner m.v. som Bankinspeksjonen bestemmer.\n1 Se § 54.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "7:32",
+      "chapter": "7",
+      "section": "32",
+      "content": "Ethvert medlem av et sparelag skal undertegne en medlemskontrakt som skal angi størrelsen av den sparesum han forplikter sig til og hvordan den skal innbetales​1 samt hvortil spareinnskuddet og det lån som søkes av laget skal anvendes.​2\nSparesummen skal settes lik det beløp som trenges for å nå formålet med medlemsskapet, jfr. § 1. Dens størrelse og innbetalingsterminene kan forandres med styrets samtykke.\n1 Se § 8 nr. 6 og § 39, 2net ledd i.f.\n2 Se § 37 2net ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "7:33",
+      "chapter": "7",
+      "section": "33",
+      "content": "Hvert medlem skal erlegge 2 pct. av sparesummen til ansvarlig garantikapital for laget med mindre vedtektene bestemmer en høiere prosentsats.​2 Denne innbetaling erlegges utenom og før de ordinære spareinnskudd og skal ikke forrentes.\nInnbetalinger på sparesummen (spareinnskudd) skal forrentes efter minst samme rentefot som er almindelig for innskudd på sparevilkår i sparebank i det distrikt hvor laget har sitt sæte.\n1 Se § 38.\n2 Se § 8 nr. 12.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "7:34",
+      "chapter": "7",
+      "section": "34",
+      "content": "Personer og institusjoner som vil fremme lagets virksomhet ved ydelse av garantikapital eller støtteinnskudd, kan av et medlemsmøte optas som medlemmer av laget uten å undertegne vanlig medlemskontrakt.\nSådant kapital- eller støtteinnskudd skal ikke forrentes og skal ikke kunne kreves tilbakebetalt før lagets virksomhet er ophørt.\n1 Se § 8 nr. 11.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "7:35",
+      "chapter": "7",
+      "section": "35",
+      "content": "Ved inntreden i laget kan medlemmene en gang for alle avkreves medlemskontingent​1 med inntil femti kroner, som kan anvendes til lagets administrasjon. For øvrig skal lagets medlemmer ikke være bundet til særydelser utenom lånerenten.\n1 Se § 8 nr. 13.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "7:36",
+      "chapter": "7",
+      "section": "36",
+      "content": "Hvert medlem skal ha en konto i lagets bøker for innbetalt garantikapital og en konto for spareinnskudd. Rentene av det siste skal tilføres ved hvert kalenderårs utgang. Likeledes innføres efter hvert hvad medlemmet får utbetalt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "7:37",
+      "chapter": "7",
+      "section": "37",
+      "content": "Ved utbetaling av spareinnskudd kontrollerer laget at innskuddet anvendes til det i medlemskontrakten bestemte formål.​1\nStyret kan tillate at innskuddet utbetales til andre formål innenfor lovens og vedtektenes ramme. Styret kan også tillate at innskuddet blir utbetalt uten betingelser hvis medlemmet dør eller på grunn av sykdom, arbeidsledighet eller av annen rimelig grunn ser sig nødt til å tre ut som medlem.\nVedtektene skal ha nærmere regler om tilbakebetaling av innskudd når medlemsskapet ophører av de i forrige ledd nevnte grunner.​2\n1 Se § 32.\n2 Se § 8 nr. 7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "7:38",
+      "chapter": "7",
+      "section": "38",
+      "content": "Medlems andel i garantikapitalen​1 kan styret beslutte å tilbakebetale, forsåvidt lagets økonomiske stilling tillater det, når medlemmet har fått tilbakebetalt sitt innskudd av de i § 37, annet ledd, nevnte grunner, eller efter å ha mottatt lån eller garanti fra laget, har opfylt sine forpliktelser således at enhver risiko for laget i forhold til vedkommende medlem er bortfalt.\nMedlem som av andre grunner trer ut av laget taper sin andel av garantikapitalen som tilfaller reservefondet.\n1 Se § 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "8:39",
+      "chapter": "8",
+      "section": "39",
+      "content": "Et lags midler skal​1 bare anvendes til utlån til lagets medlemmer eller til sammenslutninger av disse mot sikkerhet i fast eiendom og overensstemmende med denne lov​2 og lagets vedtekter.​3\nBetingelsen for å opnå lån, er at medlemmet har innbetalt sin andel i lagets garantikapital​4 og minst 15 pct. av den kontraktbestemte sparesum.​5 Har medlemmet tomt eller annet aktivum som kommer bygget til gode, kan dette aktivum for sin verdi i tilfelle med fradrag for heftelser helt eller delvis tre i stedet for innbetaling av 15 pct. av sparesummen.\nMidlertidig ledige midler skal bare kunne anbringes i stats- eller statsgaranterte papirer eller fordeles som innskudd i sparebanker og aktiebanker.\n1 Se § 55.\n2 Se §§ 40-47.\n3 Se § 8 nr. 8 og 14.\n4 Se § 31.\n5 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "8:40",
+      "chapter": "8",
+      "section": "40",
+      "content": "Lån til byggeselskaper hvis samtlige medlemmer er lagsmedlemmer og som underkaster sig lagets kontroll av hele sin virksomhet kan ydes op til 90 pct. av eiendommens verdi i handel og vandel.\nLån til enkelte lagsmedlemmer som underkaster sig lagets kontroll av bygget og dets senere vedlikehold, kan ydes op til 85 pct. av eiendommens verdi i handel og vandel.\nVerdien fastsettes ved offentlig takst​1 efter at bygningen er ferdig. Hvis taksten overstiger sparesummen,​2 legges sparesummen til grunn for beregningen av lånegrensen.\n1 Se lov 1 juni 1917 nr. 1 kap 1.\n2 Se § 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "8:41",
+      "chapter": "8",
+      "section": "41",
+      "content": "Laget skal på best mulige vilkår søke optatt størst mulig førsteprioritets og om mulig annenprioritets lån på de eiendommer medlemmene bygger eller erhverver.\nDe lån boligsparelaget yder skal være tilbakebetalt i løpet av høist 20 år.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "8:42",
+      "chapter": "8",
+      "section": "42",
+      "content": "Laget kan til byggeselskaper eller lagsmedlemmer som efter §§ 39 og 40 er berettiget til å opnå lån, yde byggelån eller garantere for sådanne lån eller for leveransekontrakter til bygget. Sådanne lån eller garantier ydes efter regler som er godkjent av Bankinspeksjonen og må under enhver omstendighet ligge innenfor lånegrensen efter § 40.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "8:43",
+      "chapter": "8",
+      "section": "43",
+      "content": "Lånsøkeren skal før lånet utbetales eller garanti trer i kraft godtgjøre at han kan fullføre bygget og sannsynliggjøre at han kan svare sine forpliktelser til laget og andre långivere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "8:44",
+      "chapter": "8",
+      "section": "44",
+      "content": "Lån eller garantier kan ikke gis dersom summen av lagets garantikapital​1 og fonds blir mindre enn 5 pct. av lagets samlede utlån og garantier for byggelån eller for leveranse av byggematerialer.\n1 Se § 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "8:45",
+      "chapter": "8",
+      "section": "45",
+      "content": "Lån må ikke​2 bevilges medlemmer av lagets styre, kontrollkomité og revisjon samt forstanderskapets formann uten at pantet på forhånd er enstemmig godkjent som fullt betryggende av kontrollkomitéen, som også skal påse at låneydelsen er overensstemmende med lov, vedtekter og vedkommende medlemskontrakt.\n1 Jfr. §§ 14 og 27.\n2 Se § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "8:46",
+      "chapter": "8",
+      "section": "46",
+      "content": "Lagets styre skal​1 innenfor de fastsatte lånegrenser selvstendig bedømme den sikkerhet som bys laget og bare bevilge lån eller garanti hvis styret er overbevist om at sikkerheten er betryggende.\nStyret skal​1 senere påse at avdrag og renter på lån som laget har ydet eller har garantert blir betalt i rett tid, at bygninger holdes brandassurert og at bygningene og gjerder m.v. blir forsvarlig vedlikeholdt.\nMisligholder låntageren sine forpliktelser for såvidt eller på annen måte, skal​1 styret straks gripe inn og sikre lagets interesser.\n1 Se § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "8:47",
+      "chapter": "8",
+      "section": "47",
+      "content": "Bestemmelsene i dette kapitel får tilsvarende anvendelse ved ydelse av lån til innfrielse av tidligere heftelser på egen bolig, sml. § 1 første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "8:48",
+      "chapter": "8",
+      "section": "48",
+      "content": "Laget kan opta lån hos andre långivere til utvidelse av sin virksomhet. Summen av disse lån og lagets garantier efter § 42 må dog ikke overstige to tredjedeler av verdien av lagets pantobligasjoner og andre verdipapirer samt bankinnskudd. I tvilstilfelle bedømmes verdien herav av Bankinspeksjonen.\n1 Se § 8 nr. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "9:49",
+      "chapter": "9",
+      "section": "49",
+      "content": "Kongen eller det departement han bestemmer kan når som helst forby et lag å opta nye medlemmer.\nForbudet kunngjøres på lagets bekostning i Norsk Kunngjørelsestidende​1 og i de i lagets distrikt almindelig leste aviser samt meddeles lagets samtlige medlemmer.\n1 Se lov 11 okt. 1946 nr. 1.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "9:50",
+      "chapter": "9",
+      "section": "50",
+      "content": "Kongen eller vedkommende departement​1 kan stanse et lags virksomhet dersom den finnes å være i strid med de krav som er nevnt i § 2, annet ledd eller laget har tapt ikke bare sin garanti​2 og egenkapital, men dessuten pådratt sig et sådant underskudd at Bankinspeksjonen finner at der mangler dekning for 5 pct. av lagets forpliktelser.\n1 Finansdepartementet.\n2 Se § 33.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "9:51",
+      "chapter": "9",
+      "section": "51",
+      "content": "Før der treffes sådan beslutning som nevnt i de to foregående paragrafer, skal vedkommende departement opfordre lagets styre til innen en bestemt frist​1 å avgi erklæring i saken.\n1 Se § 54.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "9:52",
+      "chapter": "9",
+      "section": "52",
+      "content": "Når Kongen eller vedkommende departement​2 i henhold til §§ 50 og 57, annet ledd, har fattet beslutning om å stanse et lags virksomhet, skal skifteretten etter forlangende av vedkommende departement​2 sette laget under avvikling og oppnevne en eller flere menn til å foreta avvikling på lagets bekostning under skifterettens kontroll. Under vilkår som nevnt i konkursloven § 14 annet ledd kan retten samtidig oppnevne en eller flere revisorer. Dersom den finner det ønskelig, kan retten også oppnevne en kontrollkomité som omhandlet i [lov om offentlig administrasjon av banker av 17 juli 1925 § 2, jfr. § 28].​3\nBestemmelsene om oppnevning i konkursloven § 14 og §§ 21-22 gjelder tilsvarende; likeså bestemmelsene i konkursloven 1 kapitel om registrering, kunngjøring, tinglysing og underretning til fordringshaverne, dog således at registrering kun finner sted hvis skifteretten anser det nødvendig.\nLagets styre og andre myndigheter trer ut av funksjon under avviklingen. Men de plikter å bistå lederen av avviklingen og gi ham, revisor, kontrollkomitéen og skifteretten alle opplysninger de trenger. Lederen av avviklingen kan innkalle medlemsmøte i laget.\n1 Endret ved lov 16 juni 1939 nr. 8.\n2 Finansdepartementet.\n3 Opphevet ved lover 24 mai 1961 nr. 1 § 51 og nr. 2 § 44 for så vidt sparebanker og aksjebanker angår.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "9:52 a",
+      "chapter": "9",
+      "section": "52 a",
+      "content": "Under avviklingen gjelder bestemmelsene i bankadministrasjonsloven​2 §§ 33-37 og 41 tilsvarende, med de endringer som følger av denne lov. Det samme er tilfelle med bestemmelsene i konkursloven 2 og 4 kapitel og §§ 56, 96, 98-104, 107, 116, 120-122, 127 og 129-134. Rettens kjennelse om å sette laget under avvikling trer da i stedet for konkursåpningen. Den eller de oppnevnte ledere av avviklingen trer i stedet for administrasjonsstyret i en bank i likvidasjon under offentlig administrasjon og i stedet for bestyreren i et konkursbo; kontrollkomitéen​3 trer i stedet for kreditorutvalget i et konkursbo; og skifteretten trer i stedet for den dømmende kommissær i en bank i likvidasjon under offentlig administrasjon.\nFristene i konkursloven §§ 42-46 regnes fra den dag da det offentlige har besluttet å stanse lagets virksomhet, for så vidt de ikke er utløpet når denne paragraf trer i kraft.​4\n1 Tilføyet ved lov 16 juni 1939 nr. 8.\n2 Lov 17 juli 1925 nr. 14, som imidlertid er opphevet ved lover 24 mai 1961 nr. 1 § 51 og nr. 2 § 44 for så vidt sparebanker og aksjebanker angår.\n3 Se § 52.\n4 16 juni 1939.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52a",
+        "source_heading": "§ 52 a."
+      }
+    },
+    {
+      "provision_ref": "9:52 b",
+      "chapter": "9",
+      "section": "52 b",
+      "content": "Når det offentlige har truffet slik beslutning som nevnt i § 52, kan det ikke åpnes konkurs i lagets bo, selv om begjæring er framsatt tidligere. Fra samme tid er adgangen til tvangsfullbyrdelse overfor laget stengt i samme utstrekning som ved konkurs.\nVedkommende departement​2 kan gi nærmere bestemmelser til gjennomføring av reglene om avvikling etter denne lov.\n1 Tilføyet ved lov 16 juni 1939 nr. 8.\n2 Finansdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52b",
+        "source_heading": "§ 52 b."
+      }
+    },
+    {
+      "provision_ref": "9:53",
+      "chapter": "9",
+      "section": "53",
+      "content": "Beslutning om frivillig opløsning av et lag eller sammenslutning med et annet lag, jfr. § 14, skal kunngjøres to ganger i Norsk Kunngjørelsestidende​1 og i de i distriktet almindelig leste aviser likesom meddelelse om beslutningen skal tilstilles samtlige medlemmer av vedkommende lag.\nSammenslutning av laget med et annet lag kan ikke finne sted medmindre opfyllelsen av samtlige kjente forpliktelser som påhviler vedkommende lag er sikret, og kan ikke gjennemføres før minst tre måneder er forløpet efter den siste kunngjørelse av beslutningen i Norsk Kunngjørelsestidende.\nNår lagets virksomhet ophører, skal lagets fond efterat samtlige forpliktelser er innfridd, anvendes til almennyttige øiemed efter bestemmelse av medlemsmøtet​2 og med godkjennelse av Kongen.\n1 Se lov 11 okt. 1946 nr. 1.\n2 Se kap. 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "10:54",
+      "chapter": "10",
+      "section": "54",
+      "content": "Hvis tillits- eller tjenestemann i et lag som omfattes av denne lov ikke i rette tid efterkommer de plikter som påhviler ham ifølge loven eller lagets vedtekter eller pålegg som er utferdiget av vedkommende departement eller Bankinspeksjonen, kan vedkommende departement​1 pålegge den forsømmelige under løpende tvangsmulkt å opfylle sin plikt. Tvangsmulkten kan inndrives ved utpantning.​2\n1 Finansdepartementet.\n2 Se tvangsfullbl. kap. 8.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    },
+    {
+      "provision_ref": "10:55",
+      "chapter": "10",
+      "section": "55",
+      "content": "Tillits- eller tjenestemenn som overtrer bestemmelsene i denne lov eller forskrifter som er utferdiget med hjemmel i loven eller som medvirker dertil, straffes med bøter​2 eller fengsel inntil 3 måneder for så vidt ikke handlingen går inn under noen strengere straffebestemmelse.​3 Viser han grov uforstand i utførelsen av sitt verv, straffes han med bøter.​2\nMed bøter​2 straffes også den som ved uriktig eller villedende angivelser søker å verve medlemmer til laget.\nNår et lag er satt under avvikling etter § 52, gjelder bestemmelsene i straffeloven § 289 tilsvarende.\n1 Endret ved lov 16 juni 1939 nr. 8.\n2 Se strl. § 27.\n3 Se strl. §§ 274, 286, 288, 289, 326, 332, 336, 339, 373.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_55",
+        "source_heading": "§ 55."
+      }
+    },
+    {
+      "provision_ref": "11:56",
+      "chapter": "11",
+      "section": "56",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_56",
+        "source_heading": "§ 56."
+      }
+    },
+    {
+      "provision_ref": "11:57",
+      "chapter": "11",
+      "section": "57",
+      "content": "Dersom et boligsparelag​1 som er i virksomhet ved lovens ikrafttreden eller som efter å ha begynt sin virksomhet finnes å komme inn under loven,​1 ikke tilfredsstiller kravene i denne lovs § 2, annet ledd, kan vedkommende departement​2 straks stanse dets virksomhet inntil videre.\nEr et lags vedtekter ikke godkjent innen en av departementet fastsatt frist, kan Kongen eller departementet endelig stanse lagets virksomhet.\n1 Se § 1.\n2 Finansdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_57",
+        "source_heading": "§ 57."
+      }
+    },
+    {
+      "provision_ref": "11:58",
+      "chapter": "11",
+      "section": "58",
+      "content": "Den rett som ved § 119 i lov om konkursboers behandling av 6 juni 1863 er hjemlet skyldnere i konkursbo til å bringe fordringer på boet i motregning kommer, hvor det gjelder et boligsparelags bo, ikke til anvendelse på fordringer som er erhvervet efterat vedkommende departement har stanset lagets virksomhet i henhold til denne lovs § 50 eller § 57, første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_58",
+        "source_heading": "§ 58."
+      }
+    },
+    {
+      "provision_ref": "11:59",
+      "chapter": "11",
+      "section": "59",
+      "content": "Forbudet i § 1, siste ledd, mot at lag, som ikke omfattes av denne lov, bruker ordet sparelag i sitt navn, gjelder ikke lag som har sådan betegnelse i sitt navn før lovens ikrafttreden.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_59",
+        "source_heading": "§ 59."
+      }
+    }
+  ]
+}

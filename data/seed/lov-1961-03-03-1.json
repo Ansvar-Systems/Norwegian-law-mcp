@@ -1,0 +1,457 @@
+{
+  "id": "LOV-1961-03-03-1",
+  "type": "statute",
+  "title": "Lov om utlevering av lovbrytere til Danmark, Finnland, Island og Sverige.",
+  "short_name": "Lov om utlevering av lovbrytere i Norden.",
+  "status": "in_force",
+  "issued_date": "1961-03-03",
+  "in_force_date": "1961-07-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1961-03-03-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Den som i Danmark, Finnland, Island eller Sverige er siktet, tiltalt eller domfelt​1 for straffbar handling, og som oppholder seg her i riket, kan utleveres etter bestemmelsene i denne lov.\n1 Jf. § 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Utlevering av norsk statsborger​1 kan bare skje såfremt han i de siste 2 år før den straffbare handling har hatt bopel i den stat som ønsker utlevering eller hvis handlingen eller tilsvarende handling etter norsk lov kan medføre høyere straff enn fengsel i 4 år.\nNorsk statsborger​1 kan ikke utleveres for handling som i sin helhet er begått her i riket,​2 med mindre handlingen er medvirkning til en straffbar handling begått utenfor riket, eller begjæringen om utlevering også gjelder straffbar handling begått utenfor riket.\n1 Se lov 10 juni 2005 nr. 51. – Jf. § 4.\n2 Jf. strl. 1902 § 12; strl. 2005 § 4 (ikke ikr.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Utlevering for rettsforfølgning kan bare skje for handling som etter loven i det land som begjærer utlevering, kan medføre høyere straff enn bøter.\nUtlevering til fullbyrdelse av dom kan bare skje når dommen går ut på frihetsstraff eller anbringelse i anstalt eller det med hjemmel i dommen er truffet bestemmelse om slik anbringelse.\nDog kan utlevering for rettsforfølgning eller fullbyrdelse av straff for flere straffbare handlinger finne sted, selv om vilkårene i de to foregående ledd bare er oppfylt med hensyn til en av handlingene.​1\n1 Jf. § 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Utlevering for politisk forgåelse kan bare skje når handlingen eller tilsvarende handling er straffbar etter norsk lov​1 og den som begjæres utlevert ikke er norsk statsborger.​2\n1 Jf. strl. 1902 kap. 8, 9 og 10; strl. 2005 kap. 17 og §§ 151 til 154 (ikke ikr.).\n2 Jf. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Utlevering kan ikke skje såfremt det her i riket er avsagt dom, vedtatt forelegg eller meddelt påtaleunnlatelse​1 angående handlingen.\nEr forfølgning mot en siktet innstilt av mangel på bevis, kan utlevering bare skje når vilkårene etter straffeprosessloven​2 § 74 første og sjette ledd foreligger.\n0 Endret ved lov 14 juni 1985 nr. 71.\n1 Jf. strpl. §§ 69 og 70.\n2 Lov 22 mai 1981 nr. 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "Er den som begjæres utlevert her i riket dømt til frihetsstraff eller ved dom eller med hjemmel i dom besluttet anbrakt i anstalt for en annen handling enn den som er omhandlet i begjæringen, kan han ikke utleveres før han løslates eller utskrives fra fengslet eller anstalten. Utlevering kan heller ikke skje såfremt han her i riket er under forfølgning for en annen handling som kan medføre frihetsstraff i minst 2 år eller holdes fengslet eller er underkastet forholdsregler som nevnt i straffeprosessloven​1 § 188 i anledning av annen straffbar handling.\nUtlevering kan dog skje for rettsforfølgning på det vilkår at den utleverte etter rettsforfølgningen sendes tilbake så snart som mulig.\n0 Endret ved lov 14 juni 1985 nr. 71.\n1 Lov 22 mai 1981 nr. 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "Utlevering kan bare skje på følgende vilkår:\n1. Den utleverte skal ikke settes under rettsforfølgning eller straff fullbyrdes mot ham for noen annen før utleveringen begått straffbar handling som han er dømt for, har vedtatt forelegg eller er meddelt påtaleunnlatelse​1 for her i riket. Har han vært siktet​2 for handlingen her i riket, men forfølgningen er innstilt av mangel på bevis, kan han bare settes under forfølgning eller straff fullbyrdes mot ham når departementet gir samtykke etter § 17.\n2. Er den utleverte norsk statsborger,​3 skal han ikke settes under rettsforfølgning eller straff fullbyrdes mot ham for noen annen før utleveringen begått straffbar handling, med mindre enten\na. departementet gir samtykke etter § 17, eller\nb. han selv gir samtykke i rettsmøte, eller\nc. han har unnlatt å forlate det land han er utlevert til, enda han i 1 måned uhindret har kunnet forlate det, eller\nd. han frivillig er vendt tilbake etter først å ha forlatt landet.\n3. Når det gjelder politisk forgåelse,​4 skal reglene i nr. 2 gjelde selv om den som er begjært utlevert ikke er norsk statsborger.​3\n4. Den utleverte skal ikke utleveres videre til en tredje stat for straffbar handling begått før utleveringen uten etter samtykke i medhold av § 17.\nTil utleveringen kan knyttes slike ytterligere vilkår som det finnes grunn til.\n0 Endret ved lov 13 juni 1975 nr. 40.\n1 Jf. strpl. §§ 69 og 70.\n2 Jf. strpl. § 82.\n3 Jf. lov 10 juni 2005 nr. 51.\n4 Jf. strl. 1902 kap. 8, 9 og 10; strl. 2005 kap. 17 og §§ 151 til 154 (ikke ikr.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 13 juni 1975 nr. 40.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "Begjæring om utlevering fremsettes av politi- eller påtalemyndighet i den stat som ønsker utlevering. Begjæringen sendes til riksadvokaten. Er vedkommendes oppholdssted her i riket kjent, kan begjæringen sendes direkte til statsadvokat eller politimester.\nBegjæringen skal inneholde opplysning om vedkommende persons statsborgerforhold, hans oppholdssted her i riket hvis det er kjent, og om arten av og tiden og stedet for den straffbare handling. Signalement skal om mulig oppgis. Begjæringen skal videre være ledsaget av opplysning om de straffebestemmelser som anses anvendelige på handlingen.\nMed mindre den som begjæres utlevert i rettsmøte enten samtykker i utlevering (jfr. § 14) eller erkjenner seg skyldig i den handling begjæringen gjelder, skal det som grunnlag for begjæringen foreligge en fellende dom eller annen beslutning av domstol hvorav fremgår at domstolen har funnet at det er skjellig grunn til mistanke om at den som begjæres utlevert har begått den straffbare handling.​1 I stedet for fellende dom er det ved begjæring om utlevering til fullbyrdelse av bøtestraff etter § 3 tredje ledd tilstrekkelig med slik avgjørelse eller vedtakelse som etter vedkommende stats lov har samme virkning som fellende dom. Utlevering til rettsforfølgning for flere straffbare handlinger kan finne sted, selv om det bare foreligger tilståelse eller domstolsbeslutning med hensyn til en av handlingene.​2\n1 Jf. § 1.\n2 Jf. § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "Påtalemyndigheten​1 skal straks sette i verk den nødvendige undersøkelse.\nSåfremt ikke annet er bestemt i denne lov,​2 kommer reglene i straffeprosessloven​3 til anvendelse.​4\n1 Jf. strpl. § 55.\n2 Jf. §§ 11 til 13.\n3 Lov 22 mai 1981 nr. 25.\n4 Jf. strpl. kap. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "Den som begjæres utlevert, kan kreve avgjort ved kjennelse​1 av tingretten om de i denne lov fastsatte vilkår for utlevering er til stede. Han skal av påtalemyndigheten​2 gjøres kjent med dette. Kjennelsen kan ankes i samsvar med reglene i straffeprosessloven​3 kap 26. Fristen for å anke beslutningen er dog 3 dager. Anke har alltid oppsettende virkning.\n0 Endret ved lover 13 juni 1975 nr. 40, 14 juni 1985 nr. 71, 30 aug 2002 nr. 67 (ikr. 1 jan 2003 iflg. res. 30 aug 2002 nr. 938), 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Jf. strpl. § 52.\n2 Jf. strpl. § 55.\n3 Lov 22 mai 1981 nr. 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "content": "Til fremme av undersøkelsen og for å sikre utlevering kan de tvangsmidler som er nevnt i straffeprosessloven​2 kap 14, 15, 15 a, 15 b, 16, 16 a og 16 b anvendes i samme utstrekning som i saker angående lovovertredelser av tilsvarende art som forfølges her i riket. Ved avgjørelsen av om vilkårene for å anvende tvangsmidler er til stede, kan den rettsavgjørelse som følger med begjæringen om utlevering​3 legges til grunn uten ytterligere prøving av bevisene for vedkommende persons skyld. Straffeprosessloven​2 § 186 første ledd gjelder tilsvarende.\nMed mindre retten bestemmer annet, skal dens beslutning om å anvende tvangsmiddel gjelde til begjæringen om utlevering er avgjort og utlevering i tilfelle settes i verk. Beslutning om fengsling​4 skal dog ikke gjelde mer enn 3 uker, såfremt retten ikke forlenger fristen av hensyn til undersøkelsens omfang eller av særlige grunner ellers. Før slik bestemmelse treffes, skal den fengslete fremstilles i nytt rettsmøte. Forlengelse kan ikke skje for mer enn 2 uker av gangen.\n0 Endret ved lover 14 juni 1985 nr. 71, 28 juni 2002 nr. 54.\n1 Jf. § 16.\n2 Lov 22 mai 1981 nr. 25.\n3 Jf. § 9.\n4 Jf. strpl. kap. 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "content": "1. Når det settes i verk undersøkelse etter § 10, skal det oppnevnes offentlig forsvarer for den som er begjært utlevert, med mindre denne selv velger en forsvarer. For øvrig får reglene i straffeprosessloven​1 § 100 første ledd tilsvarende anvendelse.\n2. Godtgjørelse til offentlig forsvarer etter denne lov betales av statskassen etter de bestemmelser som gjelder for betaling til offentlig forsvarer etter straffeprosessloven​1 § 107. Også andre sakskostnader dekkes av statskassen. For innstevning av vitner gjelder likevel reglene i straffeprosessloven​1 § 275 tredje ledd tilsvarende. Retten kan i særlige tilfelle bestemme at kostnader som nevnt skal erstattes av den som er begjært utlevert.\n0 Endret ved lover 13 juni 1975 nr. 40, 14 juni 1985 nr. 71.\n1 Lov 22 mai 1981 nr. 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "content": "Har den som begjæres utlevert, i rettsmøte samtykket i utleveringen og det ikke gjelder tilfelle som nevnt i § 4 eller § 6 eller han er begjært utlevert av ulike stater, kan påtalemyndigheten​1 beslutte at utlevering skal settes i verk såframt den finner det klart at de i denne lov fastsatte vilkår for utlevering er til stede og at det ikke foreligger noen grunn til å nekte utlevering.\nBlir utlevering ikke besluttet av påtalemyndigheten, skal begjæringen og de øvrige dokumenter sendes snarest mulig om riksadvokaten til departementet, som avgjør om begjæringen skal etterkommes.\nI tilfelle som nevnt i § 6 annet ledd innhentes uttalelse fra fengsels- eller anstaltmyndighetene før avgjørelse treffes, såfremt den som begjæringen gjelder soner straff eller er anbrakt i anstalt.\nI forbindelse med utlevering kan det bestemmes at gjenstander som er beslaglagt under saken skal overgis til den myndighet som har begjært utleveringen, likevel med de forbehold som det finnes grunn til å stille for å beskytte tredjemanns rett.\nKlage over vedtak om utlevering har oppsettende virkning.\n0 Endret ved lover 19 juni 1969 nr. 54, 13 juni 1975 nr. 40.\n1 Jf. strpl. § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "content": "Såfremt begjæringen om utlevering etterkommes, skal utleveringen settes i verk så snart råd er.\nEr vedkommende person ikke på forhånd fengslet, kan han pågripes og settes i varetektsfengsel etter reglene i straffeprosessloven​1 §§ 175 flg eller underkastes forholdsregler som nevnt i straffeprosessloven § 188 til utleveringen kan settes i verk.\n0 Endret ved lov 14 juni 1985 nr. 71.\n1 Lov 22 mai 1981 nr. 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "Overfor den som i en av de stater som er nevnt i § 1 er etterlyst for straffbar handling som etter denne lov kan begrunne utlevering, kan det anvendes tvangsmidler etter straffeprosessloven​1 kap 14, 15, 15 a, 15 b, 16, 16 a og 16 b i samme utstrekning som i saker angående lovovertredelser av tilsvarende art som forfølges her i riket. Det samme gjelder når det begjæres av politi eller påtalemyndighet i en av disse stater før begjæring om utlevering er framsatt. Om oppnevning av forsvarer gjelder straffeprosessloven​1 §§ 96 flg tilsvarende. Kjennelsen kan ankes etter straffeprosessloven​1 kap 26. Straffeprosessloven § 186 første ledd gjelder tilsvarende.\nPoliti- eller påtalemyndighet i vedkommende stat skal uoppholdelig underrettes om at det er fattet beslutning om anvendelse av tvangsmiddel. Er begjæring om utlevering ikke mottatt innen 2 uker etter at underretningen ble sendt, skal beslutningen omgjøres.\n0 Endret ved lover 13 juni 1975 nr. 40, 14 juni 1985 nr. 71, 28 juni 2002 nr. 54, 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Lov 22 mai 1981 nr. 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "Departementet kan, i de tilfelle der slikt samtykke kreves etter § 7, på begjæring samtykke i at den som er utlevert etter denne lov, settes under rettsforfølgning, at straff fullbyrdes mot ham, eller at han utleveres videre til en annen av de stater som er nevnt i § 1 for en annen før utleveringen begått straffbar handling enn den han er utlevert for.\nSamtykke kan bare gis såframt handlingen kunne ha begrunnet utlevering etter denne lov.\nDen utleverte kan kreve dette spørsmål avgjort ved kjennelse​2 av den tingrett som tidligere har truffet avgjørelse i saken etter § 11, eller om slik avgjørelse ikke er truffet, av tingretten på det sted hvor han sist bodde eller oppholdt seg. Reglene i § 11 tredje, fjerde og femte punktum og § 13 gjelder tilsvarende. Begjæringen skal vise om den utleverte er gjort kjent med sin rett til å kreve rettens avgjørelse, og om han krever dette.\nBegjæringen skal videre inneholde opplysninger om arten av og tiden og stedet for den straffbare handling, samt de straffebestemmelser som anses anvendelige på handlingen.\nSamtykke til videre utlevering til en annen stat enn de stater som er nevnt i § 1, kan bare gis såframt handlingen kunne ha begrunnet utlevering etter loven om utlevering av lovbrytere og annen rettshjelp i straffesaker. Reglene i denne lovs § 21 annet ledd får for øvrig anvendelse.\n0 Endret ved lover 13 juni 1975 nr. 40, 30 aug 2002 nr. 67 (ikr. 1 jan 2003 iflg. res. 30 aug 2002 nr. 938).\n1 Jf. § 7 og lov 5 juni 1970 nr. 35 § 9.\n2 Jf. strpl. § 52.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "Den som utleveres fra en av de stater som er nevnt i § 1 til en annen av de der nevnte stater, kan uten særskilt samtykke føres over norsk statsområde.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "content": "Kongen​1 kan gi nærmere forskrifter til gjennomføring av denne lov.\n1 Justisdepartementet iflg. res. 30 juni 1961 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer​1.\nKongen kan sette loven i kraft særskilt overfor enkelte av de stater som er nevnt i § 1.\n1 I forhold til Danmark, Finnland og Sverige 1 juli 1961 (res. 30 juni 1961), i forhold til Island 15 aug 1962 (res. 3 aug 1962).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Den som i Danmark, Finnland, Island eller Sverige er siktet, tiltalt eller domfelt​1 for straffbar handling, og som oppholder seg her i riket, kan utleveres etter bestemmelsene i denne lov.\n1 Jf. § 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Utlevering av norsk statsborger​1 kan bare skje såfremt han i de siste 2 år før den straffbare handling har hatt bopel i den stat som ønsker utlevering eller hvis handlingen eller tilsvarende handling etter norsk lov kan medføre høyere straff enn fengsel i 4 år.\nNorsk statsborger​1 kan ikke utleveres for handling som i sin helhet er begått her i riket,​2 med mindre handlingen er medvirkning til en straffbar handling begått utenfor riket, eller begjæringen om utlevering også gjelder straffbar handling begått utenfor riket.\n1 Se lov 10 juni 2005 nr. 51. – Jf. § 4.\n2 Jf. strl. 1902 § 12; strl. 2005 § 4 (ikke ikr.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "content": "Utlevering for rettsforfølgning kan bare skje for handling som etter loven i det land som begjærer utlevering, kan medføre høyere straff enn bøter.\nUtlevering til fullbyrdelse av dom kan bare skje når dommen går ut på frihetsstraff eller anbringelse i anstalt eller det med hjemmel i dommen er truffet bestemmelse om slik anbringelse.\nDog kan utlevering for rettsforfølgning eller fullbyrdelse av straff for flere straffbare handlinger finne sted, selv om vilkårene i de to foregående ledd bare er oppfylt med hensyn til en av handlingene.​1\n1 Jf. § 9.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "content": "Utlevering for politisk forgåelse kan bare skje når handlingen eller tilsvarende handling er straffbar etter norsk lov​1 og den som begjæres utlevert ikke er norsk statsborger.​2\n1 Jf. strl. 1902 kap. 8, 9 og 10; strl. 2005 kap. 17 og §§ 151 til 154 (ikke ikr.).\n2 Jf. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "content": "Utlevering kan ikke skje såfremt det her i riket er avsagt dom, vedtatt forelegg eller meddelt påtaleunnlatelse​1 angående handlingen.\nEr forfølgning mot en siktet innstilt av mangel på bevis, kan utlevering bare skje når vilkårene etter straffeprosessloven​2 § 74 første og sjette ledd foreligger.\n0 Endret ved lov 14 juni 1985 nr. 71.\n1 Jf. strpl. §§ 69 og 70.\n2 Lov 22 mai 1981 nr. 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "content": "Er den som begjæres utlevert her i riket dømt til frihetsstraff eller ved dom eller med hjemmel i dom besluttet anbrakt i anstalt for en annen handling enn den som er omhandlet i begjæringen, kan han ikke utleveres før han løslates eller utskrives fra fengslet eller anstalten. Utlevering kan heller ikke skje såfremt han her i riket er under forfølgning for en annen handling som kan medføre frihetsstraff i minst 2 år eller holdes fengslet eller er underkastet forholdsregler som nevnt i straffeprosessloven​1 § 188 i anledning av annen straffbar handling.\nUtlevering kan dog skje for rettsforfølgning på det vilkår at den utleverte etter rettsforfølgningen sendes tilbake så snart som mulig.\n0 Endret ved lov 14 juni 1985 nr. 71.\n1 Lov 22 mai 1981 nr. 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "content": "Utlevering kan bare skje på følgende vilkår:\n1. Den utleverte skal ikke settes under rettsforfølgning eller straff fullbyrdes mot ham for noen annen før utleveringen begått straffbar handling som han er dømt for, har vedtatt forelegg eller er meddelt påtaleunnlatelse​1 for her i riket. Har han vært siktet​2 for handlingen her i riket, men forfølgningen er innstilt av mangel på bevis, kan han bare settes under forfølgning eller straff fullbyrdes mot ham når departementet gir samtykke etter § 17.\n2. Er den utleverte norsk statsborger,​3 skal han ikke settes under rettsforfølgning eller straff fullbyrdes mot ham for noen annen før utleveringen begått straffbar handling, med mindre enten\na. departementet gir samtykke etter § 17, eller\nb. han selv gir samtykke i rettsmøte, eller\nc. han har unnlatt å forlate det land han er utlevert til, enda han i 1 måned uhindret har kunnet forlate det, eller\nd. han frivillig er vendt tilbake etter først å ha forlatt landet.\n3. Når det gjelder politisk forgåelse,​4 skal reglene i nr. 2 gjelde selv om den som er begjært utlevert ikke er norsk statsborger.​3\n4. Den utleverte skal ikke utleveres videre til en tredje stat for straffbar handling begått før utleveringen uten etter samtykke i medhold av § 17.\nTil utleveringen kan knyttes slike ytterligere vilkår som det finnes grunn til.\n0 Endret ved lov 13 juni 1975 nr. 40.\n1 Jf. strpl. §§ 69 og 70.\n2 Jf. strpl. § 82.\n3 Jf. lov 10 juni 2005 nr. 51.\n4 Jf. strl. 1902 kap. 8, 9 og 10; strl. 2005 kap. 17 og §§ 151 til 154 (ikke ikr.).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "1:8",
+      "chapter": "1",
+      "section": "8",
+      "title": "(Opphevet)",
+      "content": "0 Opphevet ved lov 13 juni 1975 nr. 40.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "content": "Begjæring om utlevering fremsettes av politi- eller påtalemyndighet i den stat som ønsker utlevering. Begjæringen sendes til riksadvokaten. Er vedkommendes oppholdssted her i riket kjent, kan begjæringen sendes direkte til statsadvokat eller politimester.\nBegjæringen skal inneholde opplysning om vedkommende persons statsborgerforhold, hans oppholdssted her i riket hvis det er kjent, og om arten av og tiden og stedet for den straffbare handling. Signalement skal om mulig oppgis. Begjæringen skal videre være ledsaget av opplysning om de straffebestemmelser som anses anvendelige på handlingen.\nMed mindre den som begjæres utlevert i rettsmøte enten samtykker i utlevering (jfr. § 14) eller erkjenner seg skyldig i den handling begjæringen gjelder, skal det som grunnlag for begjæringen foreligge en fellende dom eller annen beslutning av domstol hvorav fremgår at domstolen har funnet at det er skjellig grunn til mistanke om at den som begjæres utlevert har begått den straffbare handling.​1 I stedet for fellende dom er det ved begjæring om utlevering til fullbyrdelse av bøtestraff etter § 3 tredje ledd tilstrekkelig med slik avgjørelse eller vedtakelse som etter vedkommende stats lov har samme virkning som fellende dom. Utlevering til rettsforfølgning for flere straffbare handlinger kan finne sted, selv om det bare foreligger tilståelse eller domstolsbeslutning med hensyn til en av handlingene.​2\n1 Jf. § 1.\n2 Jf. § 3.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "content": "Påtalemyndigheten​1 skal straks sette i verk den nødvendige undersøkelse.\nSåfremt ikke annet er bestemt i denne lov,​2 kommer reglene i straffeprosessloven​3 til anvendelse.​4\n1 Jf. strpl. § 55.\n2 Jf. §§ 11 til 13.\n3 Lov 22 mai 1981 nr. 25.\n4 Jf. strpl. kap. 15.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "content": "Den som begjæres utlevert, kan kreve avgjort ved kjennelse​1 av tingretten om de i denne lov fastsatte vilkår for utlevering er til stede. Han skal av påtalemyndigheten​2 gjøres kjent med dette. Kjennelsen kan ankes i samsvar med reglene i straffeprosessloven​3 kap 26. Fristen for å anke beslutningen er dog 3 dager. Anke har alltid oppsettende virkning.\n0 Endret ved lover 13 juni 1975 nr. 40, 14 juni 1985 nr. 71, 30 aug 2002 nr. 67 (ikr. 1 jan 2003 iflg. res. 30 aug 2002 nr. 938), 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Jf. strpl. § 52.\n2 Jf. strpl. § 55.\n3 Lov 22 mai 1981 nr. 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "2:12",
+      "chapter": "2",
+      "section": "12",
+      "content": "Til fremme av undersøkelsen og for å sikre utlevering kan de tvangsmidler som er nevnt i straffeprosessloven​2 kap 14, 15, 15 a, 15 b, 16, 16 a og 16 b anvendes i samme utstrekning som i saker angående lovovertredelser av tilsvarende art som forfølges her i riket. Ved avgjørelsen av om vilkårene for å anvende tvangsmidler er til stede, kan den rettsavgjørelse som følger med begjæringen om utlevering​3 legges til grunn uten ytterligere prøving av bevisene for vedkommende persons skyld. Straffeprosessloven​2 § 186 første ledd gjelder tilsvarende.\nMed mindre retten bestemmer annet, skal dens beslutning om å anvende tvangsmiddel gjelde til begjæringen om utlevering er avgjort og utlevering i tilfelle settes i verk. Beslutning om fengsling​4 skal dog ikke gjelde mer enn 3 uker, såfremt retten ikke forlenger fristen av hensyn til undersøkelsens omfang eller av særlige grunner ellers. Før slik bestemmelse treffes, skal den fengslete fremstilles i nytt rettsmøte. Forlengelse kan ikke skje for mer enn 2 uker av gangen.\n0 Endret ved lover 14 juni 1985 nr. 71, 28 juni 2002 nr. 54.\n1 Jf. § 16.\n2 Lov 22 mai 1981 nr. 25.\n3 Jf. § 9.\n4 Jf. strpl. kap. 14.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "2:13",
+      "chapter": "2",
+      "section": "13",
+      "content": "1. Når det settes i verk undersøkelse etter § 10, skal det oppnevnes offentlig forsvarer for den som er begjært utlevert, med mindre denne selv velger en forsvarer. For øvrig får reglene i straffeprosessloven​1 § 100 første ledd tilsvarende anvendelse.\n2. Godtgjørelse til offentlig forsvarer etter denne lov betales av statskassen etter de bestemmelser som gjelder for betaling til offentlig forsvarer etter straffeprosessloven​1 § 107. Også andre sakskostnader dekkes av statskassen. For innstevning av vitner gjelder likevel reglene i straffeprosessloven​1 § 275 tredje ledd tilsvarende. Retten kan i særlige tilfelle bestemme at kostnader som nevnt skal erstattes av den som er begjært utlevert.\n0 Endret ved lover 13 juni 1975 nr. 40, 14 juni 1985 nr. 71.\n1 Lov 22 mai 1981 nr. 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "2:14",
+      "chapter": "2",
+      "section": "14",
+      "content": "Har den som begjæres utlevert, i rettsmøte samtykket i utleveringen og det ikke gjelder tilfelle som nevnt i § 4 eller § 6 eller han er begjært utlevert av ulike stater, kan påtalemyndigheten​1 beslutte at utlevering skal settes i verk såframt den finner det klart at de i denne lov fastsatte vilkår for utlevering er til stede og at det ikke foreligger noen grunn til å nekte utlevering.\nBlir utlevering ikke besluttet av påtalemyndigheten, skal begjæringen og de øvrige dokumenter sendes snarest mulig om riksadvokaten til departementet, som avgjør om begjæringen skal etterkommes.\nI tilfelle som nevnt i § 6 annet ledd innhentes uttalelse fra fengsels- eller anstaltmyndighetene før avgjørelse treffes, såfremt den som begjæringen gjelder soner straff eller er anbrakt i anstalt.\nI forbindelse med utlevering kan det bestemmes at gjenstander som er beslaglagt under saken skal overgis til den myndighet som har begjært utleveringen, likevel med de forbehold som det finnes grunn til å stille for å beskytte tredjemanns rett.\nKlage over vedtak om utlevering har oppsettende virkning.\n0 Endret ved lover 19 juni 1969 nr. 54, 13 juni 1975 nr. 40.\n1 Jf. strpl. § 55.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "2:15",
+      "chapter": "2",
+      "section": "15",
+      "content": "Såfremt begjæringen om utlevering etterkommes, skal utleveringen settes i verk så snart råd er.\nEr vedkommende person ikke på forhånd fengslet, kan han pågripes og settes i varetektsfengsel etter reglene i straffeprosessloven​1 §§ 175 flg eller underkastes forholdsregler som nevnt i straffeprosessloven § 188 til utleveringen kan settes i verk.\n0 Endret ved lov 14 juni 1985 nr. 71.\n1 Lov 22 mai 1981 nr. 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "content": "Overfor den som i en av de stater som er nevnt i § 1 er etterlyst for straffbar handling som etter denne lov kan begrunne utlevering, kan det anvendes tvangsmidler etter straffeprosessloven​1 kap 14, 15, 15 a, 15 b, 16, 16 a og 16 b i samme utstrekning som i saker angående lovovertredelser av tilsvarende art som forfølges her i riket. Det samme gjelder når det begjæres av politi eller påtalemyndighet i en av disse stater før begjæring om utlevering er framsatt. Om oppnevning av forsvarer gjelder straffeprosessloven​1 §§ 96 flg tilsvarende. Kjennelsen kan ankes etter straffeprosessloven​1 kap 26. Straffeprosessloven § 186 første ledd gjelder tilsvarende.\nPoliti- eller påtalemyndighet i vedkommende stat skal uoppholdelig underrettes om at det er fattet beslutning om anvendelse av tvangsmiddel. Er begjæring om utlevering ikke mottatt innen 2 uker etter at underretningen ble sendt, skal beslutningen omgjøres.\n0 Endret ved lover 13 juni 1975 nr. 40, 14 juni 1985 nr. 71, 28 juni 2002 nr. 54, 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3.\n1 Lov 22 mai 1981 nr. 25.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "3:17",
+      "chapter": "3",
+      "section": "17",
+      "content": "Departementet kan, i de tilfelle der slikt samtykke kreves etter § 7, på begjæring samtykke i at den som er utlevert etter denne lov, settes under rettsforfølgning, at straff fullbyrdes mot ham, eller at han utleveres videre til en annen av de stater som er nevnt i § 1 for en annen før utleveringen begått straffbar handling enn den han er utlevert for.\nSamtykke kan bare gis såframt handlingen kunne ha begrunnet utlevering etter denne lov.\nDen utleverte kan kreve dette spørsmål avgjort ved kjennelse​2 av den tingrett som tidligere har truffet avgjørelse i saken etter § 11, eller om slik avgjørelse ikke er truffet, av tingretten på det sted hvor han sist bodde eller oppholdt seg. Reglene i § 11 tredje, fjerde og femte punktum og § 13 gjelder tilsvarende. Begjæringen skal vise om den utleverte er gjort kjent med sin rett til å kreve rettens avgjørelse, og om han krever dette.\nBegjæringen skal videre inneholde opplysninger om arten av og tiden og stedet for den straffbare handling, samt de straffebestemmelser som anses anvendelige på handlingen.\nSamtykke til videre utlevering til en annen stat enn de stater som er nevnt i § 1, kan bare gis såframt handlingen kunne ha begrunnet utlevering etter loven om utlevering av lovbrytere og annen rettshjelp i straffesaker. Reglene i denne lovs § 21 annet ledd får for øvrig anvendelse.\n0 Endret ved lover 13 juni 1975 nr. 40, 30 aug 2002 nr. 67 (ikr. 1 jan 2003 iflg. res. 30 aug 2002 nr. 938).\n1 Jf. § 7 og lov 5 juni 1970 nr. 35 § 9.\n2 Jf. strpl. § 52.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "3:18",
+      "chapter": "3",
+      "section": "18",
+      "content": "Den som utleveres fra en av de stater som er nevnt i § 1 til en annen av de der nevnte stater, kan uten særskilt samtykke føres over norsk statsområde.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "3:19",
+      "chapter": "3",
+      "section": "19",
+      "content": "Kongen​1 kan gi nærmere forskrifter til gjennomføring av denne lov.\n1 Justisdepartementet iflg. res. 30 juni 1961 nr. 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "3:20",
+      "chapter": "3",
+      "section": "20",
+      "content": "Denne lov trer i kraft fra den tid Kongen bestemmer​1.\nKongen kan sette loven i kraft særskilt overfor enkelte av de stater som er nevnt i § 1.\n1 I forhold til Danmark, Finnland og Sverige 1 juli 1961 (res. 30 juni 1961), i forhold til Island 15 aug 1962 (res. 3 aug 1962).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    }
+  ]
+}

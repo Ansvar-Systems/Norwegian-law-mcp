@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1998-01-16-6",
+  "type": "statute",
+  "title": "Lov om Stortingets granskningskommisjon for bankkrisen.",
+  "short_name": "Lov om granskningskommisjon for bankkrisen",
+  "status": "in_force",
+  "issued_date": "1998-01-16",
+  "in_force_date": "1998-01-16",
+  "url": "https://lovdata.no/dokument/NLO/lov/1998-01-16-6",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Taushetsplikten etter følgende bestemmelser gjelder ikke overfor Stortingets granskningskommisjon for bankkrisen, som ble nedsatt av Stortinget 30. mai 1997:\n- Lov 7. desember 1956 nr. 1 om tilsynet med finansinstitusjoner mv. (finanstilsynsloven) § 7.\n- Lov av 24. mai 1961 nr. 1 om sparebanker § 21.\n- Lov av 24. mai 1961 nr. 2 om forretningsbanker § 18.\n- Lov av 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 13.\n- Lov av 24. mai 1985 nr. 28 om Norges Bank og pengevesenet (sentralbankloven) § 12.\n- Lov av 15. mars 1991 nr. 2 om Statens Banksikringsfond § 7.\n- Lov av 29. november 1991 nr. 78 om Statens Bankinvesteringsfond § 8.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kommisjonsmedlemmene og enhver som utfører tjeneste eller arbeid for granskningskommisjonen har taushetsplikt etter reglene i forvaltningsloven av 10. februar 1967 §§ 13-13f.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Taushetsplikten etter følgende bestemmelser gjelder ikke overfor Stortingets granskningskommisjon for bankkrisen, som ble nedsatt av Stortinget 30. mai 1997:\n- Lov 7. desember 1956 nr. 1 om tilsynet med finansinstitusjoner mv. (finanstilsynsloven) § 7.\n- Lov av 24. mai 1961 nr. 1 om sparebanker § 21.\n- Lov av 24. mai 1961 nr. 2 om forretningsbanker § 18.\n- Lov av 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 13.\n- Lov av 24. mai 1985 nr. 28 om Norges Bank og pengevesenet (sentralbankloven) § 12.\n- Lov av 15. mars 1991 nr. 2 om Statens Banksikringsfond § 7.\n- Lov av 29. november 1991 nr. 78 om Statens Bankinvesteringsfond § 8.\n0 Endret ved lov 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kommisjonsmedlemmene og enhver som utfører tjeneste eller arbeid for granskningskommisjonen har taushetsplikt etter reglene i forvaltningsloven av 10. februar 1967 §§ 13-13f.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

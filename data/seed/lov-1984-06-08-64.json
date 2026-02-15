@@ -1,0 +1,477 @@
+{
+  "id": "LOV-1984-06-08-64",
+  "type": "statute",
+  "title": "Lov om folkehøgskolar.",
+  "short_name": "Folkehøgskolelova.",
+  "status": "in_force",
+  "issued_date": "1984-06-08",
+  "in_force_date": "1985-08-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1984-06-08-64",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Skoleslag og namn.",
+      "content": "Lova gjeld folkehøgskolar som etter § 3 er godkjende for offentleg tilskott,​1 og dermed har fått rett til å heite folkehøgskole.\n1 Sml. lov 14 juni 1985 nr. 73 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Føremål.",
+      "content": "Folkehøgskolen skal i samsvar med sine tradisjonar fremje allmenndanning på ulike alders- og utdanningssteg. Innan dei rammer dette gjev, fastset skoleeigar verdigrunnlag og målsetjing.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Godkjenning av nye skolar og vilkår for driftstilskott.",
+      "content": "Departementet​1 avgjer kva for skolar som skal godkjennast for tilskott etter denne lova, jfr. § 17. I einskilde unntakstilfelle kan ein, ut frå denne lova, utan å godkjenne som folkehøgskole, gje tilskott til einskilde skoletiltak som ikkje i alle tilhøve oppfyller dei krava som er sette i eller i samhøve med lova, men som har folkehøgskolekarakter og som fremjer folkehøgskoleføremål.​2\nFor skolar som i 4 påfølgjande år i gjennomsnitt har hatt mindre enn 35 elevar, fell offentleg tilskott bort.\nDepartementet​1 kan i serhøve gjere unntak frå dette vilkåret.\n1 Utdannings- og forskingsdepartementet.\n2 Jfr. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Styre.",
+      "content": "Kvar skole skal ha eit styre som er det øvste ansvarlege organ og som fører tilsyn med skoledrifta. Styret har ansvaret for at skolen vert driven i samsvar med lov, føresegner og målsetjing.\nStyret er sammansett som følgjer:\n- Representantar valde av skoleeigar.\n- Ein representant vald av elevane ved skolen.\n- Ein representant vald av dei tilsette ved skolen.\n- Ein representant utpeika av Kyrkje- og undervisningsdepartementet.​1\n- Rektor.\nElevrepresentanten blir vald for 1 år om gongen, dei andre for 4 år, alle med vararepresentantar.\nStyret vel sjølv formann og nestformann.\nEit mindretal i styret kan klage på vedtak. I spørsmål som gjeld verdigrunnlag og endeleg målsetjing, er skoleeigar klageinstans.\nI forvaltningssaker, med unntak av disiplinærsaker, jfr. § 11, er departementet​1 klageinstans.\n1 Utdannings- og forskingsdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Tilsyn – Tilsynsmannen.",
+      "content": "Kongen nemner opp ein tilsynsmann for folkehøgskolen. Tilsynsmannen skal på vegner av departementet​1 gje råd til og føre tilsyn med skolane.\n1 Utdannings- og forskingsdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Dagleg leiing av skolen.",
+      "content": "a. Rektor er den pedagogiske og administrative leiar av skolen. Rektor skal sørge for at skolen vert driven i samsvar med gjeldande lov, føresegner og målsetjing.\nb. I tillegg til rektor skal det ved kvar skole vere ein undervisningsinspektør, som er rektors næraste medarbeidar i den daglege leiinga av skolen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Lærarråd.",
+      "content": "Kvar skole skal ha eit lærarråd der rektor, undervisningsinspektør, lærarar i minst halv stilling og internatleiar er medlemer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Personalråd.",
+      "content": "Kvar skole skal ha eit personalråd der alle tilsette i minst halv stilling er medlemer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Elevråd.",
+      "content": "Kvar skole skal ha eit elevråd på minst 5 medlemer med varamedlemer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Elevane – aldersgrense.",
+      "content": "Elevane skal ha fylt 17 år før 1. januar i skoleåret.\nSkolar som ønskjer det kan fastsetje ei høgare aldersgrense.\nDet er høve til å ta opp elevar som er opptil eitt år under aldersgrensa, etter føresegner​1 gjevne av departementet.​2\nDepartementet​2 kan og gje løyve til å drive folkehøgskole med ei aldersgrense på 16 år, men då utan høve til å ta opp elevar som er under denne aldersgrensa.\n1 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n2 Utdannings- og forskingsdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "Om sakshandsaming av disiplinærsaker.",
+      "content": "Lærarrådet​1 handsamer større disiplinærsaker og gjer vedtak om bortvising og utvising. Vedtak om bortvising og utvising krev minst 2/3 fleirtal av røystane i lærarrådet.\nEleven skal få høve til å forklare seg munnleg for lærarrådet før vedtak om bortvising eller utvising vert gjort.\nNår det gjeld bortvising eller utvising av elevar som ikkje er myndige, skal den eller dei som har foreldreansvaret​2 vere orientert på førehand.\nVidare gjeld kapitlane IV, V og VI i lov om behandlingsmåten i forvaltningssaker (Forvaltningslova).​3\nStyret​4 for skolen er ankeinstans i bortvisings- og utvisingssaker.\n1 Sjå § 7.\n2 Sjå lov 8 april 1981 nr. 7 § 34 og § 35, jfr. lov 28 feb 1986 nr. 8 § 13.\n3 Lov 10 feb 1967.\n4 Sjå § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "title": "Skoletida.",
+      "content": "Kvar skole skal ha eit hovudkurs på minst 16,5 undervisningsveke. Skolane kan elles skipe til kurs av ulik lengd.\nI den tida det er hovudkurs, må størstedelen av elevkapasiteten vere på hovudkurset.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "title": "Kompetanse.",
+      "content": "Folkehøgskolen er ein pensum- og eksamensfri skole. Departementet​1 kan fastsetje, i samarbeid med mottakarinstitusjonar, kvar og korleis folkehøgskolen gjev kompetanse i yrkessamanhengar og utdanningssituasjonar.\n1 Utdannings- og forskingsdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "title": "Arbeidsområda for undervisningspersonalet i folkehøgskolen.",
+      "content": "Arbeidet for undervisningspersonalet i folkehøgskolen femner om undervisning, sosialpedagogisk arbeid og pedagogisk utviklingsarbeid.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "title": "Kvalifikasjonskrav til personalet.",
+      "content": "Styret​1 for skolen vurderer om det innafor ramma av alminnelege arbeidsrettslege reglar​2 bør stillast krav om serlege føresetnader hos personalet ut frå fastsett verdigrunnlag og målsetjing, jfr. § 2, og ut frå den samla arbeidssituasjonen, jfr. § 14.\nDepartementet​3 kan gje føresegnar​4 om kompetansekrav for undervisningspersonalet i folkehøgskolen.\nFor andre stillingar fastset styret sjølv krava.\n0 Endret ved lov 17 juli 1998 nr. 61 (i kraft 1 aug 1999, etter res. 27 nov 1998 nr. 1096).\n1 Sjå § 4.\n2 Sjå lov 4 feb 1977 nr. 4 § 55 A.\n3 Utdannings- og forskingsdepartementet.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "title": "Tilsetjing, oppseiing m.m.",
+      "content": "Styret​1 for skolen tilset, seier opp og gjev permisjon til personalet, etter innstilling frå rektor. Ved tilsetjing av rektor er det skoleeigar som innstiller. Rektor kan gje permisjon og tilsetje vikar for inntil 6 månader.\nLedige stillingar i halv post eller meir, som går over heile året, skal lysast ut offentleg.\n1 Sjå § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "title": "Driftstilskott.",
+      "content": "Til drift av godkjende skolar yter det offentlege eit driftstilskott, jfr. § 3.\nUtgiftene vert delte med 5/6 på staten og 1/6 på fylket.\nDersom eit fylke under arbeidet med godkjenning av ny skole finn det vanskeleg å tilrå godkjenning, kan departementet​1 samtykke i at den delen av utgiftene som fylket skal bere kan skaffast til vegar på annan måte.\nDriftstilskottet er bygd opp av desse elementa\na. tilskott til kapitalutgifter\nb. tilskott til lærarløn\nc. tilskott til andre driftsutgifter.\nTilskottet under b) og c) vert gjeve etter satsar pr. elev.\nTil spesielle utgifter kan det gjevast serskilt tilskott.\nSatsane for driftstilskottet vert justert kvart år, med utgangspunkt i løns- og kostnadsutviklinga.​2\n1 Utdannings- og forskingsdepartementet.\n2 Jfr. § 18 fjerde ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "title": "Eigedoms- og ansvarstilhøve.",
+      "content": "Skoleeigar er ansvarleg for at det er dekning for dei økonomiske skyldnadene skolen tek på seg. Han skal difor godkjenne budsjett og større økonomiske disposisjonar.\nSkoleeigar er ansvarleg for at skolen har naudsynlege lokal til drifta.\nSkoleeigar rår sjølv over skoleanlegg og eigedomar.\nTilskott​1 som ikkje er nytta etter føresetnaden kan krevjast tilbakebetalt.\n1 Jfr. § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "title": "Føresegner.",
+      "content": "Departementet​1 gjev nærare føresegner​2 om:\n1. Skiping av skolar, jfr. § 3.\n2. Administrasjonsordninga sentralt og lokalt med instruksar for:\n- styret for skolen, jfr. § 4\n- statens tilsynsmann for folkehøgskolen, jfr. § 5\n- rektor, jfr. § 6\n- lærarråd, jfr. § 7\n- personalråd, jfr. § 8\n- elevråd og elevmøte, jfr. § 9.\n3. Kursordningar og skoleår, jfr. §§ 10 og 12.\n4. Rettar og pliktar for elevar og tilsette med instruksar for:\n- lærar\n- undervisningsinspektør\n- internatleiar\n- vaktmeister\n- skolesekretær.\n5. Driftstilskott, jfr. § 17.\n6. Kompetanse og evaluering, jfr. § 13.\n1 Utdannings- og forskingsdepartementet.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "title": "Brigde i lov av 8. juni 1973 nr. 49 om lærarutdanning.",
+      "content": "Lov av 8. juni 1973 nr. 49 om lærarutdanning § 14 skal lyde: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "title": "Iverksetjinga av lova.",
+      "content": "Lova tek til å gjelde frå den dagen Kongen fastset.​1\nFrå same tid vert lov av 28. juli 1949 nr. 19 om folkehøgskular oppheva.\n1 Frå 1 aug 1985, etter res. 12 april 1985 nr. 839.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Skoleslag og namn.",
+      "content": "Lova gjeld folkehøgskolar som etter § 3 er godkjende for offentleg tilskott,​1 og dermed har fått rett til å heite folkehøgskole.\n1 Sml. lov 14 juni 1985 nr. 73 § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Føremål.",
+      "content": "Folkehøgskolen skal i samsvar med sine tradisjonar fremje allmenndanning på ulike alders- og utdanningssteg. Innan dei rammer dette gjev, fastset skoleeigar verdigrunnlag og målsetjing.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Godkjenning av nye skolar og vilkår for driftstilskott.",
+      "content": "Departementet​1 avgjer kva for skolar som skal godkjennast for tilskott etter denne lova, jfr. § 17. I einskilde unntakstilfelle kan ein, ut frå denne lova, utan å godkjenne som folkehøgskole, gje tilskott til einskilde skoletiltak som ikkje i alle tilhøve oppfyller dei krava som er sette i eller i samhøve med lova, men som har folkehøgskolekarakter og som fremjer folkehøgskoleføremål.​2\nFor skolar som i 4 påfølgjande år i gjennomsnitt har hatt mindre enn 35 elevar, fell offentleg tilskott bort.\nDepartementet​1 kan i serhøve gjere unntak frå dette vilkåret.\n1 Utdannings- og forskingsdepartementet.\n2 Jfr. § 2.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Styre.",
+      "content": "Kvar skole skal ha eit styre som er det øvste ansvarlege organ og som fører tilsyn med skoledrifta. Styret har ansvaret for at skolen vert driven i samsvar med lov, føresegner og målsetjing.\nStyret er sammansett som følgjer:\n- Representantar valde av skoleeigar.\n- Ein representant vald av elevane ved skolen.\n- Ein representant vald av dei tilsette ved skolen.\n- Ein representant utpeika av Kyrkje- og undervisningsdepartementet.​1\n- Rektor.\nElevrepresentanten blir vald for 1 år om gongen, dei andre for 4 år, alle med vararepresentantar.\nStyret vel sjølv formann og nestformann.\nEit mindretal i styret kan klage på vedtak. I spørsmål som gjeld verdigrunnlag og endeleg målsetjing, er skoleeigar klageinstans.\nI forvaltningssaker, med unntak av disiplinærsaker, jfr. § 11, er departementet​1 klageinstans.\n1 Utdannings- og forskingsdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Tilsyn – Tilsynsmannen.",
+      "content": "Kongen nemner opp ein tilsynsmann for folkehøgskolen. Tilsynsmannen skal på vegner av departementet​1 gje råd til og føre tilsyn med skolane.\n1 Utdannings- og forskingsdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Dagleg leiing av skolen.",
+      "content": "a. Rektor er den pedagogiske og administrative leiar av skolen. Rektor skal sørge for at skolen vert driven i samsvar med gjeldande lov, føresegner og målsetjing.\nb. I tillegg til rektor skal det ved kvar skole vere ein undervisningsinspektør, som er rektors næraste medarbeidar i den daglege leiinga av skolen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Lærarråd.",
+      "content": "Kvar skole skal ha eit lærarråd der rektor, undervisningsinspektør, lærarar i minst halv stilling og internatleiar er medlemer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Personalråd.",
+      "content": "Kvar skole skal ha eit personalråd der alle tilsette i minst halv stilling er medlemer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Elevråd.",
+      "content": "Kvar skole skal ha eit elevråd på minst 5 medlemer med varamedlemer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "10",
+      "section": "10",
+      "title": "Elevane – aldersgrense.",
+      "content": "Elevane skal ha fylt 17 år før 1. januar i skoleåret.\nSkolar som ønskjer det kan fastsetje ei høgare aldersgrense.\nDet er høve til å ta opp elevar som er opptil eitt år under aldersgrensa, etter føresegner​1 gjevne av departementet.​2\nDepartementet​2 kan og gje løyve til å drive folkehøgskole med ei aldersgrense på 16 år, men då utan høve til å ta opp elevar som er under denne aldersgrensa.\n1 Jfr. lov 10 feb 1967 § 2 og kap. VII.\n2 Utdannings- og forskingsdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "11",
+      "section": "11",
+      "title": "Om sakshandsaming av disiplinærsaker.",
+      "content": "Lærarrådet​1 handsamer større disiplinærsaker og gjer vedtak om bortvising og utvising. Vedtak om bortvising og utvising krev minst 2/3 fleirtal av røystane i lærarrådet.\nEleven skal få høve til å forklare seg munnleg for lærarrådet før vedtak om bortvising eller utvising vert gjort.\nNår det gjeld bortvising eller utvising av elevar som ikkje er myndige, skal den eller dei som har foreldreansvaret​2 vere orientert på førehand.\nVidare gjeld kapitlane IV, V og VI i lov om behandlingsmåten i forvaltningssaker (Forvaltningslova).​3\nStyret​4 for skolen er ankeinstans i bortvisings- og utvisingssaker.\n1 Sjå § 7.\n2 Sjå lov 8 april 1981 nr. 7 § 34 og § 35, jfr. lov 28 feb 1986 nr. 8 § 13.\n3 Lov 10 feb 1967.\n4 Sjå § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "12",
+      "section": "12",
+      "title": "Skoletida.",
+      "content": "Kvar skole skal ha eit hovudkurs på minst 16,5 undervisningsveke. Skolane kan elles skipe til kurs av ulik lengd.\nI den tida det er hovudkurs, må størstedelen av elevkapasiteten vere på hovudkurset.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "13",
+      "section": "13",
+      "title": "Kompetanse.",
+      "content": "Folkehøgskolen er ein pensum- og eksamensfri skole. Departementet​1 kan fastsetje, i samarbeid med mottakarinstitusjonar, kvar og korleis folkehøgskolen gjev kompetanse i yrkessamanhengar og utdanningssituasjonar.\n1 Utdannings- og forskingsdepartementet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "14",
+      "section": "14",
+      "title": "Arbeidsområda for undervisningspersonalet i folkehøgskolen.",
+      "content": "Arbeidet for undervisningspersonalet i folkehøgskolen femner om undervisning, sosialpedagogisk arbeid og pedagogisk utviklingsarbeid.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "15",
+      "section": "15",
+      "title": "Kvalifikasjonskrav til personalet.",
+      "content": "Styret​1 for skolen vurderer om det innafor ramma av alminnelege arbeidsrettslege reglar​2 bør stillast krav om serlege føresetnader hos personalet ut frå fastsett verdigrunnlag og målsetjing, jfr. § 2, og ut frå den samla arbeidssituasjonen, jfr. § 14.\nDepartementet​3 kan gje føresegnar​4 om kompetansekrav for undervisningspersonalet i folkehøgskolen.\nFor andre stillingar fastset styret sjølv krava.\n0 Endret ved lov 17 juli 1998 nr. 61 (i kraft 1 aug 1999, etter res. 27 nov 1998 nr. 1096).\n1 Sjå § 4.\n2 Sjå lov 4 feb 1977 nr. 4 § 55 A.\n3 Utdannings- og forskingsdepartementet.\n4 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "16",
+      "section": "16",
+      "title": "Tilsetjing, oppseiing m.m.",
+      "content": "Styret​1 for skolen tilset, seier opp og gjev permisjon til personalet, etter innstilling frå rektor. Ved tilsetjing av rektor er det skoleeigar som innstiller. Rektor kan gje permisjon og tilsetje vikar for inntil 6 månader.\nLedige stillingar i halv post eller meir, som går over heile året, skal lysast ut offentleg.\n1 Sjå § 4.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "17",
+      "section": "17",
+      "title": "Driftstilskott.",
+      "content": "Til drift av godkjende skolar yter det offentlege eit driftstilskott, jfr. § 3.\nUtgiftene vert delte med 5/6 på staten og 1/6 på fylket.\nDersom eit fylke under arbeidet med godkjenning av ny skole finn det vanskeleg å tilrå godkjenning, kan departementet​1 samtykke i at den delen av utgiftene som fylket skal bere kan skaffast til vegar på annan måte.\nDriftstilskottet er bygd opp av desse elementa\na. tilskott til kapitalutgifter\nb. tilskott til lærarløn\nc. tilskott til andre driftsutgifter.\nTilskottet under b) og c) vert gjeve etter satsar pr. elev.\nTil spesielle utgifter kan det gjevast serskilt tilskott.\nSatsane for driftstilskottet vert justert kvart år, med utgangspunkt i løns- og kostnadsutviklinga.​2\n1 Utdannings- og forskingsdepartementet.\n2 Jfr. § 18 fjerde ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "18",
+      "section": "18",
+      "title": "Eigedoms- og ansvarstilhøve.",
+      "content": "Skoleeigar er ansvarleg for at det er dekning for dei økonomiske skyldnadene skolen tek på seg. Han skal difor godkjenne budsjett og større økonomiske disposisjonar.\nSkoleeigar er ansvarleg for at skolen har naudsynlege lokal til drifta.\nSkoleeigar rår sjølv over skoleanlegg og eigedomar.\nTilskott​1 som ikkje er nytta etter føresetnaden kan krevjast tilbakebetalt.\n1 Jfr. § 17.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "19",
+      "section": "19",
+      "title": "Føresegner.",
+      "content": "Departementet​1 gjev nærare føresegner​2 om:\n1. Skiping av skolar, jfr. § 3.\n2. Administrasjonsordninga sentralt og lokalt med instruksar for:\n- styret for skolen, jfr. § 4\n- statens tilsynsmann for folkehøgskolen, jfr. § 5\n- rektor, jfr. § 6\n- lærarråd, jfr. § 7\n- personalråd, jfr. § 8\n- elevråd og elevmøte, jfr. § 9.\n3. Kursordningar og skoleår, jfr. §§ 10 og 12.\n4. Rettar og pliktar for elevar og tilsette med instruksar for:\n- lærar\n- undervisningsinspektør\n- internatleiar\n- vaktmeister\n- skolesekretær.\n5. Driftstilskott, jfr. § 17.\n6. Kompetanse og evaluering, jfr. § 13.\n1 Utdannings- og forskingsdepartementet.\n2 Jfr. lov 10 feb 1967 § 2 og kap. VII.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "20",
+      "section": "20",
+      "title": "Brigde i lov av 8. juni 1973 nr. 49 om lærarutdanning.",
+      "content": "Lov av 8. juni 1973 nr. 49 om lærarutdanning § 14 skal lyde: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "21",
+      "section": "21",
+      "title": "Iverksetjinga av lova.",
+      "content": "Lova tek til å gjelde frå den dagen Kongen fastset.​1\nFrå same tid vert lov av 28. juli 1949 nr. 19 om folkehøgskular oppheva.\n1 Frå 1 aug 1985, etter res. 12 april 1985 nr. 839.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    }
+  ]
+}

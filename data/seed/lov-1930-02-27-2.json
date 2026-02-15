@@ -1,0 +1,115 @@
+{
+  "id": "LOV-1930-02-27-2",
+  "type": "statute",
+  "title": "Lov om Jan Mayen",
+  "short_name": "Lov om Jan Mayen",
+  "status": "in_force",
+  "issued_date": "1930-02-27",
+  "in_force_date": "1930-02-27",
+  "url": "https://lovdata.no/dokument/NL/lov/1930-02-27-2",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Øen Jan Mayen er en del av Kongeriket Norge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Norsk privatrett og strafferett og den norske lovgivning om rettspleien gjelder for Jan Mayen. I hvilken utstrekning andre lover skal gjelde, bestemmes av Kongen. I disse lover og i lovgivningen om rettspleien kan Kongen foreta endringer, når de stedlige forhold måtte gjøre det påkrevet.\nBestemmelsen i lov om Svalbard av 17 juli 1925 § 4 får tilsvarende anvendelse.\nKongen kan gi forskrifter om miljøvern på Jan Mayen.\n0 Endret ved lov 15 juni 2001 nr. 79 (ikr. 1 juli 2002 iflg. res. 28. juni 2002 nr. 648).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "All grunn som ikke blir avhendet til private, tilhører staten.\nIngen kan vinne hevd på eiendomsrett eller bruksrett til statsgrunn.\nRettigheter som staten har over avhendet grunn, kan ikke falle bort ved hevd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Særlige tinglige rettigheter som måtte hvile på fast eiendom på Jan Mayen og som er stiftet før 8 mai 1929, må for å beholde rettsvern anmeldes til panteboksføreren til anmerkning på eiendommens folium innen seks måneder fra denne lovs ikrafttreden.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Øen Jan Mayen er en del av Kongeriket Norge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Norsk privatrett og strafferett og den norske lovgivning om rettspleien gjelder for Jan Mayen. I hvilken utstrekning andre lover skal gjelde, bestemmes av Kongen. I disse lover og i lovgivningen om rettspleien kan Kongen foreta endringer, når de stedlige forhold måtte gjøre det påkrevet.\nBestemmelsen i lov om Svalbard av 17 juli 1925 § 4 får tilsvarende anvendelse.\nKongen kan gi forskrifter om miljøvern på Jan Mayen.\n0 Endret ved lov 15 juni 2001 nr. 79 (ikr. 1 juli 2002 iflg. res. 28. juni 2002 nr. 648).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "All grunn som ikke blir avhendet til private, tilhører staten.\nIngen kan vinne hevd på eiendomsrett eller bruksrett til statsgrunn.\nRettigheter som staten har over avhendet grunn, kan ikke falle bort ved hevd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "content": "Særlige tinglige rettigheter som måtte hvile på fast eiendom på Jan Mayen og som er stiftet før 8 mai 1929, må for å beholde rettsvern anmeldes til panteboksføreren til anmerkning på eiendommens folium innen seks måneder fra denne lovs ikrafttreden.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "content": "Denne lov trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    }
+  ]
+}

@@ -1,0 +1,807 @@
+{
+  "id": "LOV-2014-06-20-27",
+  "type": "statute",
+  "title": "Lov om opplysningsplikt og angrerett ved fjernsalg og salg utenom faste forretningslokaler (angrerettloven).",
+  "short_name": "Angrerettloven – angrl",
+  "status": "in_force",
+  "issued_date": "2014-06-20",
+  "in_force_date": "2014-06-20",
+  "url": "https://lovdata.no/dokument/NL/lov/2014-06-20-27",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Virkeområde",
+      "content": "Loven gjelder ved salg av varer og tjenester til forbruker når den næringsdrivende opptrer i næringsvirksomhet, forbrukeren betaler eller påtar seg å betale en pris, og avtalen inngås ved fjernsalg eller salg utenom faste forretningslokaler. Loven gjelder også der forbrukeren gir fra seg eller påtar å gi fra seg personopplysninger til den næringsdrivende. Annet punktum gjelder likevel ikke dersom personopplysningene utelukkende behandles av den næringsdrivende for å levere varen, det digitale innholdet som ikke leveres på et fysisk medium eller den digitale tjenesten eller for å overholde lovpålagte plikter, og den næringsdrivende ikke behandler disse opplysningene til noe annet formål.\nLovens kapittel 2 til 5 og §§ 28 og 29 gjelder også den som i næringsvirksomhet opptrer på vegne av en ikke-næringsdrivende selger eller tjenesteyter i situasjoner som nevnt i første ledd.\nLoven gjelder for Svalbard og Jan Mayen. Departementet kan likevel i forskrift bestemme at hele eller deler av loven ikke skal gjelde, og gi særlige regler av hensyn til de stedlige forhold.\n0 Endret ved lover 18 feb 2022 nr. 5 (i kraft 1 juli 2022 iflg. res. 4 mars 2022 nr. 324), 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Unntak fra lovens virkeområde",
+      "content": "Loven gjelder ikke for:\na. avtaler om salg av varer og tjenester fra salgsautomater og automatiserte forretningslokaler,\nb. avtaler om salg eller oppføring av fast eiendom og avtaler som gjelder rettigheter i fast eiendom, med unntak av utleie. Som salg av fast eiendom regnes også salg av adkomstdokumenter med tilknyttet leierett eller borett i bolig,\nc. avtaler som omfattes av lov om avtaler om deltidsbruksrett og langtidsferieprodukter mv. (tidspartloven),\nd. avtaler om pakkereiser, jf. pakkereiseloven § 6,\ne. avtaler om persontransporttjenester. Kravene i § 16 får likevel anvendelse,\nf. avtaler som omfattes av finansavtaleloven og forsikringsavtaleloven,\ng. avtaler om salg av varer og tjenester utenom faste forretningslokaler når den samlede kontraktssummen, inkludert frakt- og tilleggskostnader som forbrukeren skal betale, er 300 kr eller mindre,\nh. avtaler som er inngått med ekomtilbyder gjennom offentlig tilgjengelige betalingstelefoner for bruk av disse, eller som er inngått for bruk av én enkelt telefon-, Internett- eller telefaksforbindelse opprettet av en forbruker,\ni. avtaler om pengespill.\nj. avtaler om salg av varer som selges på tvangsauksjon eller på annen måte tvangsmessig i henhold til lov.\n0 Endret ved lover 15 juni 2018 nr. 32 (ikr. 1 juli 2018 iflg. res. 15 juni 2018 nr. 885), 18 feb 2022 nr. 5 (i kraft 1 juli 2022 iflg. res. 4 mars 2022 nr. 324), 16 juni 2023 nr. 39, 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Ufravikelighet",
+      "content": "Loven kan ikke fravikes ved avtale til ulempe for en forbruker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Forholdet til annet regelverk",
+      "content": "Loven medfører ingen begrensninger i opplysningsplikt eller krav til avtalen som følger av andre regler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Definisjoner",
+      "content": "I loven menes med:\na. forbruker: fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet,\nb. fjernsalg: avtale inngått ved organisert ordning for salg eller tjenesteyting uten at den næringsdrivende og forbrukeren er fysisk til stede samtidig, og der inngåelse av avtale skjer utelukkende ved bruk av fjernkommunikasjonsmidler,\nc. faste forretningslokaler: sted for detaljsalg der den næringsdrivende utøver sin faste virksomhet, eller flyttbare forretningslokaler for detaljsalg der den næringsdrivende vanligvis utøver sin virksomhet,\nd. avtale inngått utenom faste forretningslokaler: avtale der forbrukeren inngår avtale eller fremsetter tilbud i nærvær av den næringsdrivende på annet sted enn dennes faste forretningslokaler, samt avtale inngått i den næringsdrivendes faste forretningslokaler eller gjennom et fjernkommunikasjonsmiddel umiddelbart etter en personlig og individuelt rettet henvendelse til forbrukeren i en situasjon som omfattes av første alternativ,\ne. finansiell tjeneste: banktjeneste, kredittjeneste, forsikringstjeneste, individuell pensjonstjeneste, investeringstjeneste, eller betalingstjeneste,\nf. varig medium: enhver innretning som gjør forbrukeren eller den næringsdrivende i stand til å lagre opplysninger på en slik måte at opplysningene i fremtiden er tilgjengelige i uendret form,\ng. tilknyttet avtale: avtale der forbrukeren mottar varer eller tjenester i forbindelse med en fjernsalgsavtale eller en avtale inngått utenom faste forretningslokaler, og der varene leveres eller tjenestene ytes av den næringsdrivende eller en tredjeperson på grunnlag av en ordning mellom en tredjeperson og den næringsdrivende,\nh. offentlig auksjon: salgsmetode der varer eller tjenester tilbys av den næringsdrivende til forbrukere, der forbrukeren er personlig til stede eller har mulighet til å være til stede, ved en åpen, konkurransebasert budprosedyre som ledes av en auksjonarius, og der budgiveren som får tilslaget, må kjøpe varene eller tjenestene,\ni. digitalt innhold: data som fremstilles og leveres i digital form, ved at de gjengir fysiske størrelser med diskrete tegn,\nj. digital tjeneste: tjeneste som gjør det mulig for brukeren å frembringe, behandle, lagre eller få tilgang til data i digital form, eller tjenester som gjør det mulig å dele eller å samhandle på annen måte med slike data,\nk. nettbasert markedsplass: enhver tjeneste som bruker programvare, herunder et nettsted eller en applikasjon, som drives av eller på vegne av en næringsdrivende, og som gir forbrukere mulighet til å inngå fjernsalgsavtaler med andre næringsdrivende eller forbrukere,\nl. tilbyder av en nettbasert markedsplass: enhver næringsdrivende som stiller til rådighet en nettbasert markedsplass for forbrukerne,\nm. kompatibilitet: evnen digitalt innhold eller digitale tjenester har til å fungere sammen med maskinvare eller programvare som digitalt innhold eller digitale tjenester av samme type vanligvis brukes sammen med, uten at det digitale innholdet eller den digitale tjenesten må konverteres,\nn. funksjonalitet: evnen digitalt innhold eller digitale tjenester har til å fungere med hensyn til formålet,\no. samvirkingsevne: evnen digitalt innhold eller digitale tjenester har til å fungere sammen med annen maskinvare eller programvare enn den som digitalt innhold eller digitale tjenester av samme type vanligvis brukes sammen med.\n0 Endret ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "title": "Fristberegning",
+      "content": "Når en frist uttrykt i dager skal beregnes fra det tidspunkt en hendelse inntreffer eller en handling finner sted, skal den dag hendelsen inntreffer eller handlingen finner sted, ikke anses som en del av fristen.\nAlle kalenderdager medregnes i en frist. Ender en frist på en lørdag, helligdag eller høytidsdag forlenges den til nærmeste virkedag.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "title": "Bevisbyrde",
+      "content": "Den næringsdrivende har bevisbyrden for at opplysningsplikten i §§ 8 til 16 og § 18 er oppfylt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Opplysningsplikt før avtaleinngåelse",
+      "content": "Før det blir inngått en avtale om fjernsalg eller avtale utenom faste forretningslokaler, skal den næringsdrivende på en klar og forståelig måte gi forbrukeren opplysninger om:\na. varenes eller tjenestenes viktigste egenskaper, i den utstrekning kommunikasjonsmåten og varene eller tjenestene er egnet til dette,\nb. der dette er relevant, funksjonaliteten, herunder relevante tekniske beskyttelsestiltak, for varer med digitale elementer, digitalt innhold og digitale tjenester,\nc. der dette er relevant, kompatibiliteten og samvirkingsevnen til varer med digitale elementer, digitalt innhold og digitale tjenester som den næringsdrivende kjenner til eller med rimelighet kan forventes å kjenne til,\nd. den næringsdrivendes identitet, slik som foretaksnavn, geografisk adresse og telefonnummer, e-postadresse og eventuelt nettbaserte kommunikasjonsmidler som gir forbrukeren mulighet til å lagre all skriftlig korrespondanse på et varig medium, samt identitet og geografisk adresse til næringsdrivende det opptres på vegne av og som forbrukeren kan rette eventuelle klager til,\ne. den samlede prisen for varen eller tjenesten medregnet avgifter, eller, dersom varens eller tjenestens art gjør at prisen ikke med rimelighet kan forhåndsberegnes, metoden for beregning av prisen, samt eventuelle tilleggskostnader til frakt, levering, porto eller annet, eller, dersom disse ikke med rimelighet kan forhåndsberegnes, at slike tilleggskostnader kan forekomme. For avtaler uten tidsbegrensning og for abonnementsavtaler skal den samlede prisen omfatte de kostnadene per avregningsperiode, og ved betaling med fast beløp, også de samlede månedlige kostnadene, og om de samlede kostnadene ikke kan forhåndsberegnes, metoden for beregning av prisen,\nf. kostnadene for bruk av fjernkommunikasjonsmiddelet, når disse ikke beregnes etter grunntakst,\ng. ordningene for betaling, levering, oppfyllelse, leveringsfrist og hvordan den næringsdrivende håndterer reklamasjoner,\nh. at det foreligger angrerett samt vilkårene, tidsfristene og fremgangsmåtene for å bruke angreretten, jf. § 20 første og annet ledd. Den næringsdrivende skal også gi forbrukeren et standardisert skjema for bruk av angrerett (angreskjema),\ni. at forbrukeren må bære kostnadene ved å returnere varene dersom angreretten brukes. Dersom varene etter sin natur normalt ikke kan returneres med post, skal kostnadene ved å returnere varene opplyses,\nj. at forbrukeren som bruker angreretten, etter å ha bedt om oppstart av tjenesteleveringen i henhold til §§ 12 eller 19, skal ha ansvar for rimelige kostnader, jf. § 26 første ledd,\nk. dersom avtalen omfattes av unntakene fra angrerett i § 22, skal det opplyses om dette, eventuelt om under hvilke omstendigheter angreretten kan tapes,\nl. den rettslige forpliktelsen til å levere en kontraktsmessig vare, digitalt innhold og digital tjeneste,\nm. relevante atferdsregler og hvor disse kan finnes,\nn. der dette er relevant, avtalens varighet og eventuell minste bindingstid, eller, for avtaler som er uten tidsbegrensning eller forlenges automatisk, vilkårene for å si opp avtalen,\no. eventuelle depositum eller andre økonomiske garantier betalt eller stilt av forbrukeren og vilkårene for disse,\np. der dette er relevant, utenrettslig klage- og erstatningsordning som den næringsdrivende er tilknyttet, samt fremgangsmåten for å få tilgang til denne,\nq. der dette er relevant, at prisen er personlig tilpasset basert på automatiserte beslutninger,\nr. eventuell ettersalgsservice og eventuelle kommersielle garantier, samt vilkårene for disse.\nDen næringsdrivende skal anses for å ha gitt opplysninger etter første ledd bokstav h, i og j dersom denne har gitt forbrukeren korrekt utfylt skjema om opplysninger om angreretten.\nNår næringsdrivende retter sin markedsføring mot norske forbrukere, skal opplysningene etter første ledd gis på norsk.\nVed offentlige auksjoner er det tilstrekkelig at opplysningene i første ledd bokstav d erstattes av tilsvarende opplysninger om auksjonarius.\nDepartementet kan i forskrift gi nærmere bestemmelser om standardisert angreskjema, samt om hvordan opplysningsplikten skal oppfylles, herunder at opplysninger om angreretten skal gis ved bruk av et standardisert skjema for opplysninger om angrerett.\n0 Endret ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Virkningen av brudd på visse opplysningsplikter",
+      "content": "Har den næringsdrivende ikke opplyst om tilleggskostnader eller andre kostnader som omhandlet i § 8 første ledd bokstav e og i, skal forbrukeren ikke bære disse kostnadene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:9 a",
+      "chapter": "2",
+      "section": "9 a",
+      "title": "Ytterligere særlige opplysningsplikter før avtaleinngåelse på nettbaserte markedsplasser",
+      "content": "Før det blir inngått en avtale om fjernsalg på nettbaserte markedsplasser, skal tilbyderen av den nettbaserte markedsplassen gi forbrukeren følgende opplysninger på en måte som er klar, forståelig og egnet for fjernkommunikasjonsmiddel:\na. generelle opplysninger om hovedparametrene som avgjør rangeringen av tilbud som presenteres for forbrukeren i søkeresultatet, og den relative betydningen av disse parametrene i forhold til andre parametrer\nb. om selgeren er næringsdrivende eller ikke, på grunnlag av selgerens erklæring til tilbyderen av den nettbaserte markedsplassen\nc. at forbrukerrettigheter ikke kommer til anvendelse på avtalen dersom selgeren ikke er næringsdrivende\nd. der det er relevant, fordelingen av plikter knyttet til avtalene mellom selgeren og tilbyderen av den nettbaserte markedsplassen.\nOpplysningene etter første ledd bokstav a må gis i en særskilt del av det nettbaserte grensesnittet som er direkte og enkelt tilgjengelig fra siden der tilbudene presenteres.\nDepartementet kan i forskrift stille krav om at tilbydere av nettbaserte markedsplasser må gi forbrukere ytterligere opplysninger.\n0 Tilføyd ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9a",
+        "source_heading": "§ 9 a."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Uanmodet telefonsalg",
+      "content": "Før det blir inngått en avtale som følge av at den næringsdrivende uanmodet har fremsatt et tilbud på telefon, skal den næringsdrivende bekrefte tilbudet skriftlig på et varig medium etter at telefonsamtalen er avsluttet. Forbrukeren blir ikke bundet før tilbudet er akseptert skriftlig, noe den næringsdrivende skal opplyse om i bekreftelsen nevnt i første punktum. Den næringsdrivende skal kunne dokumentere forbrukerens aksept.\nFørste ledd gjelder ikke ved salg av avisabonnement eller salg fra frivillige organisasjoner.\nDepartementet kan i forskrift stille krav om registrering i frivillighetsregisteret etter frivillighetsregisterloven for å bli regnet som frivillig organisasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "Avtalen",
+      "content": "Avtaler inngått utenom faste forretningslokaler skal inneholde opplysningene fastsatt i § 8 første ledd. Opplysningene skal regnes som en del av avtalen og skal ikke endres, med mindre partene uttrykkelig avtaler noe annet. Opplysningene skal være lett leselige og på et enkelt og forståelig språk. Er opplysningene gitt på norsk, skal avtalen utformes på norsk.\nDen næringsdrivende skal gi forbrukeren et eksemplar av undertegnet avtale eller bekreftelse av avtalen på papir eller, dersom forbrukeren samtykker, på annet varig medium. Har forbrukeren samtykket i nedlastning av digitalt innhold og erkjent at angrerett dermed bortfaller, jf. § 22 bokstav n, skal dette også fremgå av avtalen eller bekreftelsen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Krav om oppstart av levering innen utløpet av angrefristen",
+      "content": "Ønsker forbrukeren at levering av tjenester starter før utløpet av angrefristen, jf. § 21, og avtalen innebærer en betalingsforpliktelse for forbrukeren, skal den næringsdrivende kreve at forbrukeren uttrykkelig ber om dette på et varig medium. Den næringsdrivende skal også be forbrukeren om å erkjenne at angreretten vil gå tapt når avtalen er oppfylt fullt ut av den næringsdrivende.\n0 Endret ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Tjenesteavtaler som ikke overstiger 1500 kr",
+      "content": "Dersom forbrukeren uttrykkelig ber om å få utført reparasjoner eller vedlikehold, partene umiddelbart utfører sine forpliktelser etter avtalen og kontraktssummen ikke overstiger 1500 kr, er det tilstrekkelig at den næringsdrivende gir forbrukeren opplysningene i § 8 første ledd bokstav d, jf. § 11 annet ledd, og opplysninger om prisen eller hvordan prisen skal beregnes, samt et anslag over den samlede prisen. Opplysningene omhandlet i § 8 første ledd bokstav a, h og k kan gis muntlig, dersom forbrukeren uttrykkelig samtykker i dette.\nBekreftelsen av avtalen, jf. § 11 annet ledd, skal inneholde opplysningene fastsatt i § 8 første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "5:14",
+      "chapter": "5",
+      "section": "14",
+      "title": "Fjernsalgsavtalen",
+      "content": "Avtaler inngått ved fjernsalg skal inneholde opplysningene fastsatt i § 8 første ledd eller så skal opplysningen gjøres tilgjengelig for forbrukeren på et enkelt og forståelig språk på en måte som er tilpasset fjernkommunikasjonsmiddelet. Opplysningene skal regnes som en del av avtalen og skal ikke endres, med mindre partene uttrykkelig avtaler noe annet. Dersom opplysningene gis på et varig medium, skal de være lett leselige.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "title": "Informasjonsbegrensninger",
+      "content": "Når avtale inngås gjennom et fjernkommunikasjonsmiddel som har begrenset plass eller tid til å vise opplysninger, skal den næringsdrivende gi opplysninger etter § 8 første ledd bokstav a, d, e, h første punktum og n før avtale inngås.\nØvrige opplysninger i § 8 første ledd gis på en måte som er tilpasset fjernkommunikasjonsmiddelet, jf. § 14.\n0 Endret ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "title": "Bruk av elektronisk kommunikasjon",
+      "content": "Når en avtale som skal inngås elektronisk forplikter forbrukeren til å betale, skal den næringsdrivende tydelig og i fremhevet form gjøre forbrukeren oppmerksom på opplysningene fastsatt i § 8 første ledd bokstav a, e, og n umiddelbart før forbrukeren foretar bestillingen.\nDen næringsdrivende skal påse at forbrukeren uttrykkelig erkjenner at bestillingen medfører en forpliktelse til å betale. Utføres bestillingen ved å aktivere en knapp eller annen funksjon, skal knappen eller funksjonen være merket på en lett leselig måte med «bestilling med forpliktelse til å betale» eller tilsvarende.\nOverholder ikke den næringsdrivende bestemmelsen i annet ledd, blir forbrukeren ikke bundet av avtalen eller bestillingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Leveringsbegrensninger og betalingsmidler",
+      "content": "Nettsteder for elektronisk handel skal klart og tydelig og senest på det tidspunktet bestillingsprosessen begynner, opplyse om eventuelle leveringsbegrensninger. Det skal også opplyses om hvilke betalingsmidler som aksepteres.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Bekreftelse på inngått avtale",
+      "content": "Den næringsdrivende skal innen rimelig tid etter avtaleinngåelsen, og senest på leveringstidspunktet for varene eller før levering av tjenesten begynner, gi forbrukeren skriftlig bekreftelse på den inngåtte avtalen på et varig medium.\nBekreftelsen skal inneholde opplysninger nevnt i § 8 første ledd, dersom disse ikke tidligere er gitt forbrukeren på et varig medium, og opplysning om at forbrukeren har gitt slikt samtykke som nevnt i § 22 bokstav n.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Oppstart av levering før utløpet av angrefristen",
+      "content": "Ønsker forbrukeren at levering av tjenester starter opp før utløpet av angrefristen, jf. § 21, og avtalen innebærer en betalingsforpliktelse for forbrukeren, skal den næringsdrivende kreve at forbrukeren uttrykkelig ber om dette. Den næringsdrivende skal også be forbrukeren om å erkjenne at angreretten vil gå tapt når avtalen er oppfylt fullt ut av den næringsdrivende.\n0 Endret ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "6:20",
+      "chapter": "6",
+      "section": "20",
+      "title": "Rett til å gå fra avtalen (angrerett)",
+      "content": "Forbrukeren har rett til å gå fra avtalen (angrerett) ved å gi melding til den næringsdrivende før utløpet av angrefristen, jf. § 21. Angrefristen anses overholdt dersom melding er sendt før utløpet av fristen.\nMeldingen kan fremsettes ved bruk av utfylt angreskjema eller ved fremsettelse av annen utvetydig erklæring.\nDersom den næringsdrivende gir forbrukeren adgang til å gi melding etter annet ledd elektronisk, skal den næringsdrivende umiddelbart bekrefte på et varig medium at meldingen er mottatt.\nBevisbyrden for at melding er gitt, påhviler forbrukeren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "6:21",
+      "chapter": "6",
+      "section": "21",
+      "title": "Angrefristen",
+      "content": "Angrefristen utløper 14 dager fra den dag avtalen om tjeneste ble inngått, eller den dag forbrukeren får varen i fysisk besittelse. Dette er:\na. ved varer bestilt samlet og levert ved flere forsendelser, den dag forbrukeren får den siste varen i fysisk besittelse,\nb. ved varer som består av flere partier eller deler, den dag forbrukeren får det siste partiet eller den siste delen i fysisk besittelse,\nc. ved avtaler om regelmessig levering av varer, den dag forbrukeren får den første av varene i fysisk besittelse.\nLikt med forbrukeren regnes annen tredjeperson enn fraktføreren, som forbrukeren har utpekt i sitt sted.\nGir ikke den næringsdrivende forbrukeren opplysninger om angreretten i henhold til § 8 første ledd bokstav h, utløper angrefristen 12 måneder etter utløpet av den opprinnelige angrefristen, jf. første ledd.\nDersom den næringsdrivende gir forbrukeren opplysninger om angreretten etter § 8 første ledd bokstav h innen 12 måneder fra dagen omhandlet i første ledd, utløper angrefristen 14 dager etter den dagen forbrukeren mottok opplysningene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "6:22",
+      "chapter": "6",
+      "section": "22",
+      "title": "Unntak fra angreretten",
+      "content": "Angreretten gjelder ikke avtaler om:\na. levering av varer som på grunn av sin art blandes med andre varer etter levering på en slik måte at de ikke kan skilles fra hverandre,\nb. levering av varer som forringes eller raskt går ut på dato,\nc. tjeneste som er levert fullt ut, dersom avtalen forplikter forbrukeren til å betale, levering har begynt med forbrukerens uttrykkelige forhåndssamtykke, og forbrukeren har erkjent at angreretten vil gå tapt etter at den næringsdrivende har oppfylt alle sine forpliktelser etter avtalen,\nd. levering av varer eller tjenester der prisen er avhengig av svingninger i finansmarkedet som kan skje innen utløpet av angrefristen og som ikke kan kontrolleres av den næringsdrivende,\ne. levering av varer som er fremstilt etter forbrukerens spesifikasjoner, eller som har fått et tydelig personlig preg,\nf. levering av legemidler, jf. legemiddelloven § 2, og medisinsk utstyr, jf. lov om medisinsk utstyr § 3,\ng. levering av forseglede varer som av hensyn til helsevern eller hygiene ikke er egnet for retur, og der forseglingen er blitt brutt etter levering,\nh. levering av alkoholholdige drikker til en pris som ble avtalt på avtaletidspunktet, og levering først kan skje etter 30 dager, og der den faktiske verdien avhenger av svingninger i markedet som ikke kontrolleres av den næringsdrivende,\ni. reparasjoner eller tjenester som det haster å få utført der forbrukeren uttrykkelig ber den næringsdrivende om å besøke forbrukeren. Tilleggstjenester eller tilleggsvarer som ytes samtidig, og som ikke dekkes av første punktum, omfattes ikke av unntaket fra angreretten,\nj. levering av forseglede lyd- eller bildeopptak eller forseglet programvare som forbrukeren har brutt forseglingen på,\nk. levering av en avis, et tidsskrift eller et magasin, med unntak av abonnementsavtaler for levering av slike publikasjoner,\nl. varer eller tjenester som er inngått ved offentlig auksjon,\nm. levering av innkvarteringstjenester for andre formål enn boligformål, transport av varer, bilutleietjenester, catering og tjenester knyttet til fritidsaktiviteter når det i avtalen er fastsatt en bestemt dato eller et bestemt tidsrom for utførelsen av slike tjenester,\nn. levering av digitalt innhold som ikke leveres på et fysisk medium, dersom leveringen er begynt og følgende vilkår er oppfylt:\n1. avtalen forplikter forbrukeren til å betale\n2. forbrukeren har uttrykkelig forhåndssamtykket til at levering begynner før angrefristen utløper\n3. forbrukeren har erkjent at angreretten dermed går tapt, og\n4. den næringsdrivende har gitt bekreftelse etter angrerettloven § 11 eller § 18.\nUnntakene fra angreretten i første ledd bokstavene c og e gjelder ikke ved uanmodet dørsalg.\n0 Endret ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "6:23",
+      "chapter": "6",
+      "section": "23",
+      "title": "Virkningene av at angreretten brukes",
+      "content": "Ved bruk av angreretten bortfaller partenes forpliktelser til å oppfylle avtalen. I tilfeller der forbrukeren har gitt et tilbud, bortfaller tilbudet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "6:24",
+      "chapter": "6",
+      "section": "24",
+      "title": "Den næringsdrivendes forpliktelser når angreretten brukes",
+      "content": "Den næringsdrivende skal tilbakeføre alle betalinger som er mottatt fra forbrukeren. Dersom forbrukeren uttrykkelig har valgt en annen type levering enn standardleveringen som den næringsdrivende tilbød, skal den næringsdrivende likevel ikke betale tilleggskostnadene dette medførte.\nTilbakebetaling skal skje uten unødig opphold, og senest 14 dager fra da den næringsdrivende fikk melding om forbrukerens beslutning om å benytte angreretten etter § 20. Med mindre noe annet uttrykkelig er avtalt med forbrukeren, skal tilbakebetalingen skje ved bruk av samme betalingsmiddel som forbrukeren benyttet. Forbrukeren skal ikke betale noen form for gebyr som følge av tilbakebetalingen.\nDen næringsdrivende kan holde tilbakebetalingen tilbake til varene er mottatt, eller til forbrukeren har lagt frem dokumentasjon på at varene er sendt tilbake. Dette gjelder ikke når den næringsdrivende har tilbudt seg å hente varene.\nVed avtaler inngått utenom faste forretningslokaler, og der varene er levert til forbrukerens hjem på avtaletidspunktet, skal den næringsdrivende for egen regning hente varene, om disse etter sin art normalt ikke kan returneres med alminnelig postgang.\nEr det avtalt at varene skal hentes hos forbrukeren, og dette ikke skjer innen tre måneder fra den dagen da den næringsdrivende fikk melding etter § 20, tilfaller varen forbrukeren vederlagsfritt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:24 a",
+      "chapter": "6",
+      "section": "24 a",
+      "title": "Den næringsdrivendes særskilte forpliktelser når angreretten brukes ved avtaler om digitalt innhold eller digitale tjenester",
+      "content": "Ved avtaler om digitalt innhold eller digitale tjenester skal den næringsdrivende avstå fra å bruke noen form for innhold, med unntak av personopplysninger, som forbrukeren har oppgitt eller laget ved bruk av det digitale innholdet eller den digitale tjenesten som er levert av den næringsdrivende. Dette gjelder likevel ikke hvis innholdet\na. ikke har noen nytteverdi utenfor rammene for det digitale innholdet eller den digitale tjenesten\nb. bare gjelder forbrukerens aktivitet ved bruk av det digitale innholdet eller den digitale tjenesten\nc. er slått sammen med andre data av den næringsdrivende og ikke kan deles opp, eller bare kan deles opp med en uforholdsmessig stor innsats, eller\nd. er generert i fellesskap av forbrukeren og andre, og andre forbrukere fortsatt kan benytte innholdet.\nHvis forbrukeren ber om det, skal den næringsdrivende gjøre tilgjengelig for forbrukeren enhver form for innhold etter første ledd, bortsett fra i tilfeller som nevnt i første ledd bokstav a, b og c.\nForbrukeren har rett til å hente ut dette digitale innholdet gratis, uten hindring fra den næringsdrivende, innen en rimelig frist og i et vanlig brukt og maskinlesbart format.\n0 Tilføyd ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24a",
+        "source_heading": "§ 24 a."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "Forbrukerens forpliktelser når angreretten brukes ved avtale om levering av varer",
+      "content": "Forbrukeren skal uten unødig opphold, og senest 14 dager fra melding etter § 20 ble gitt, sende varene tilbake, eller overlevere dem til den næringsdrivende dersom den næringsdrivende ikke har tilbudt seg å hente varene.\nForbrukeren skal bare betale de direkte kostnadene ved å returnere varene. Den næringsdrivende skal likevel dekke disse kostnadene hvis denne har påtatt seg å betale disse eller ikke har opplyst forbrukeren om at forbrukeren skal betale returkostnadene.\nDen næringsdrivende kan kreve at forbrukeren erstatter verdireduksjon som følge av forbrukerens håndtering av varene som ikke har vært nødvendig for å fastslå varenes art, egenskaper og funksjon. Dette gjelder bare dersom forbrukeren har mottatt opplysninger om angrerett, jf. § 8 første ledd bokstav h.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "Forbrukerens forpliktelser når angreretten brukes ved avtaler om levering av tjenester",
+      "content": "Ved bruk av angreretten ved tjenester som forbrukeren uttrykkelig har bedt den næringsdrivende om å begynne levering av, skal forbrukeren betale et beløp som står i forhold til det som er levert frem til det tidspunkt forbrukeren gir melding om bruk av angreretten. Er den samlede prisen urimelig høy, skal det forholdsmessige beløpet beregnes på grunnlag av markedsverdien av det som er levert.\nForbrukerens betalingsplikt faller bort når:\na. den næringsdrivende ikke har gitt opplysninger i samsvar med § 8 første ledd bokstav h og j,\nb. forbrukeren ikke uttrykkelig har bedt om at leveringen skal begynne innen utløpet av angrefristen i samsvar med §§ 12 eller 19, eller\nc. levering av digitalt innhold som ikke kan leveres på et fysisk medium, er begynt uten forbrukerens uttrykkelige forhåndssamtykke og erkjennelse av at angreretten dermed går tapt, eller uten at den næringsdrivende har gitt bekreftelse i samsvar med § 11 annet ledd og § 18 annet ledd.\nVed avtaler om digitalt innhold eller digitale tjenester skal forbrukeren som bruker angreretten, avstå fra å bruke det digitale innholdet eller den digitale tjenesten og fra å gjøre den tilgjengelig for tredjeparter.\nDersom angreretten brukes, kan den næringsdrivende ved avtaler om digitalt innhold eller digitale tjenester hindre forbrukeren fra å fortsette å bruke det digitale innholdet eller den digitale tjenesten så langt dette er forenlig med § 24 a annet ledd.\n0 Endret ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Virkninger for tilknyttede avtaler av at angreretten brukes",
+      "content": "Dersom forbrukeren bruker sin angrerett, faller alle tilknyttede avtaler bort uten kostnad for forbrukeren. §§ 24 til 26 gjelder tilsvarende.\nEtter å ha mottatt forbrukerens melding om bruk av angrerett skal den næringsdrivende straks gi beskjed til tredjeperson som har inngått en tilknyttet avtale med forbrukeren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "7:28",
+      "chapter": "7",
+      "section": "28",
+      "title": "Tilsyn og håndheving",
+      "content": "Forbrukertilsynet og Markedsrådet skal føre kontroll med at bestemmelser i, eller bestemmelser gitt i medhold av denne loven, overholdes. Kontrollen utøves i samsvar med reglene i markedsføringsloven §§ 32 til 41, § 42 første ledd annet punktum og § 43.\n0 Endret ved lover 16 juni 2017 nr. 49 (ikr. 1 jan 2018 iflg. res. 16 juni 2017 nr. 772), 20 mai 2020 nr. 42 (ikr. 1 juli 2020 iflg. res 20 mai 2020 nr. 1032), 18 feb 2022 nr. 5 (i kraft 1 juli 2022 iflg. res. 4 mars 2022 nr. 324, tidligere § 41).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "7:29",
+      "chapter": "7",
+      "section": "29",
+      "title": "Overtredelsesgebyr",
+      "content": "Ved forsettlig eller uaktsom overtredelse av §§ 8 til 24 a, § 25 annet ledd annet punktum og § 27 eller av forskrift gitt i medhold av § 8, som anses som vesentlig eller har skjedd gjentatte ganger, kan den ansvarlige ilegges et overtredelsesgebyr.\nDepartementet kan ved forskrift gi nærmere regler om utmåling av overtredelsesgebyr.\n0 Endret ved lover 16 juni 2017 nr. 49 (ikr. 1 jan 2018 iflg. res. 16 juni 2017 nr. 772), 20 mai 2020 nr. 42 (ikr. 1 juli 2020 iflg. res 20 mai 2020 nr. 1032), 18 feb 2022 nr. 5 (i kraft 1 juli 2022 iflg. res. 4 mars 2022 nr. 324, tidligere § 42), 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "8:30",
+      "chapter": "8",
+      "section": "30",
+      "title": "Ikrafttredelse og overgangsbestemmelser",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1\nLoven får bare virkning for markedsføringstiltak og betalinger foretatt etter lovens ikrafttredelse, samt avtaler som inngås etter at loven trer i kraft.\nLov 21. desember 2000 nr. 105 om opplysningsplikt og angrerett m.v. ved fjernsalg og salg utenfor fast utsalgssted og forskrifter fastsatt i medhold av den, gjelder for avtaler som er inngått før oppheving av loven.\n0 Endret ved lov 18 feb 2022 nr. 5 (i kraft 1 juli 2022 iflg. res. 4 mars 2022 nr. 324, tidligere § 43).\n1 Fra 20 juni 2014 iflg. res. 20 juni 2014 nr. 776.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "8:31",
+      "chapter": "8",
+      "section": "31",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:\n1. Lov 21. desember 2000 nr. 105 om opplysningsplikt og angrerett m.v. ved fjernsalg og salg utenfor fast utsalgssted oppheves.\n– – –\n0 Endret ved lov 18 feb 2022 nr. 5 (i kraft 1 juli 2022 iflg. res. 4 mars 2022 nr. 324, tidligere § 44).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Virkeområde",
+      "content": "Loven gjelder ved salg av varer og tjenester til forbruker når den næringsdrivende opptrer i næringsvirksomhet, forbrukeren betaler eller påtar seg å betale en pris, og avtalen inngås ved fjernsalg eller salg utenom faste forretningslokaler. Loven gjelder også der forbrukeren gir fra seg eller påtar å gi fra seg personopplysninger til den næringsdrivende. Annet punktum gjelder likevel ikke dersom personopplysningene utelukkende behandles av den næringsdrivende for å levere varen, det digitale innholdet som ikke leveres på et fysisk medium eller den digitale tjenesten eller for å overholde lovpålagte plikter, og den næringsdrivende ikke behandler disse opplysningene til noe annet formål.\nLovens kapittel 2 til 5 og §§ 28 og 29 gjelder også den som i næringsvirksomhet opptrer på vegne av en ikke-næringsdrivende selger eller tjenesteyter i situasjoner som nevnt i første ledd.\nLoven gjelder for Svalbard og Jan Mayen. Departementet kan likevel i forskrift bestemme at hele eller deler av loven ikke skal gjelde, og gi særlige regler av hensyn til de stedlige forhold.\n0 Endret ved lover 18 feb 2022 nr. 5 (i kraft 1 juli 2022 iflg. res. 4 mars 2022 nr. 324), 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Unntak fra lovens virkeområde",
+      "content": "Loven gjelder ikke for:\na. avtaler om salg av varer og tjenester fra salgsautomater og automatiserte forretningslokaler,\nb. avtaler om salg eller oppføring av fast eiendom og avtaler som gjelder rettigheter i fast eiendom, med unntak av utleie. Som salg av fast eiendom regnes også salg av adkomstdokumenter med tilknyttet leierett eller borett i bolig,\nc. avtaler som omfattes av lov om avtaler om deltidsbruksrett og langtidsferieprodukter mv. (tidspartloven),\nd. avtaler om pakkereiser, jf. pakkereiseloven § 6,\ne. avtaler om persontransporttjenester. Kravene i § 16 får likevel anvendelse,\nf. avtaler som omfattes av finansavtaleloven og forsikringsavtaleloven,\ng. avtaler om salg av varer og tjenester utenom faste forretningslokaler når den samlede kontraktssummen, inkludert frakt- og tilleggskostnader som forbrukeren skal betale, er 300 kr eller mindre,\nh. avtaler som er inngått med ekomtilbyder gjennom offentlig tilgjengelige betalingstelefoner for bruk av disse, eller som er inngått for bruk av én enkelt telefon-, Internett- eller telefaksforbindelse opprettet av en forbruker,\ni. avtaler om pengespill.\nj. avtaler om salg av varer som selges på tvangsauksjon eller på annen måte tvangsmessig i henhold til lov.\n0 Endret ved lover 15 juni 2018 nr. 32 (ikr. 1 juli 2018 iflg. res. 15 juni 2018 nr. 885), 18 feb 2022 nr. 5 (i kraft 1 juli 2022 iflg. res. 4 mars 2022 nr. 324), 16 juni 2023 nr. 39, 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Ufravikelighet",
+      "content": "Loven kan ikke fravikes ved avtale til ulempe for en forbruker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "1:4",
+      "chapter": "1",
+      "section": "4",
+      "title": "Forholdet til annet regelverk",
+      "content": "Loven medfører ingen begrensninger i opplysningsplikt eller krav til avtalen som følger av andre regler.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "1:5",
+      "chapter": "1",
+      "section": "5",
+      "title": "Definisjoner",
+      "content": "I loven menes med:\na. forbruker: fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet,\nb. fjernsalg: avtale inngått ved organisert ordning for salg eller tjenesteyting uten at den næringsdrivende og forbrukeren er fysisk til stede samtidig, og der inngåelse av avtale skjer utelukkende ved bruk av fjernkommunikasjonsmidler,\nc. faste forretningslokaler: sted for detaljsalg der den næringsdrivende utøver sin faste virksomhet, eller flyttbare forretningslokaler for detaljsalg der den næringsdrivende vanligvis utøver sin virksomhet,\nd. avtale inngått utenom faste forretningslokaler: avtale der forbrukeren inngår avtale eller fremsetter tilbud i nærvær av den næringsdrivende på annet sted enn dennes faste forretningslokaler, samt avtale inngått i den næringsdrivendes faste forretningslokaler eller gjennom et fjernkommunikasjonsmiddel umiddelbart etter en personlig og individuelt rettet henvendelse til forbrukeren i en situasjon som omfattes av første alternativ,\ne. finansiell tjeneste: banktjeneste, kredittjeneste, forsikringstjeneste, individuell pensjonstjeneste, investeringstjeneste, eller betalingstjeneste,\nf. varig medium: enhver innretning som gjør forbrukeren eller den næringsdrivende i stand til å lagre opplysninger på en slik måte at opplysningene i fremtiden er tilgjengelige i uendret form,\ng. tilknyttet avtale: avtale der forbrukeren mottar varer eller tjenester i forbindelse med en fjernsalgsavtale eller en avtale inngått utenom faste forretningslokaler, og der varene leveres eller tjenestene ytes av den næringsdrivende eller en tredjeperson på grunnlag av en ordning mellom en tredjeperson og den næringsdrivende,\nh. offentlig auksjon: salgsmetode der varer eller tjenester tilbys av den næringsdrivende til forbrukere, der forbrukeren er personlig til stede eller har mulighet til å være til stede, ved en åpen, konkurransebasert budprosedyre som ledes av en auksjonarius, og der budgiveren som får tilslaget, må kjøpe varene eller tjenestene,\ni. digitalt innhold: data som fremstilles og leveres i digital form, ved at de gjengir fysiske størrelser med diskrete tegn,\nj. digital tjeneste: tjeneste som gjør det mulig for brukeren å frembringe, behandle, lagre eller få tilgang til data i digital form, eller tjenester som gjør det mulig å dele eller å samhandle på annen måte med slike data,\nk. nettbasert markedsplass: enhver tjeneste som bruker programvare, herunder et nettsted eller en applikasjon, som drives av eller på vegne av en næringsdrivende, og som gir forbrukere mulighet til å inngå fjernsalgsavtaler med andre næringsdrivende eller forbrukere,\nl. tilbyder av en nettbasert markedsplass: enhver næringsdrivende som stiller til rådighet en nettbasert markedsplass for forbrukerne,\nm. kompatibilitet: evnen digitalt innhold eller digitale tjenester har til å fungere sammen med maskinvare eller programvare som digitalt innhold eller digitale tjenester av samme type vanligvis brukes sammen med, uten at det digitale innholdet eller den digitale tjenesten må konverteres,\nn. funksjonalitet: evnen digitalt innhold eller digitale tjenester har til å fungere med hensyn til formålet,\no. samvirkingsevne: evnen digitalt innhold eller digitale tjenester har til å fungere sammen med annen maskinvare eller programvare enn den som digitalt innhold eller digitale tjenester av samme type vanligvis brukes sammen med.\n0 Endret ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "1:6",
+      "chapter": "1",
+      "section": "6",
+      "title": "Fristberegning",
+      "content": "Når en frist uttrykt i dager skal beregnes fra det tidspunkt en hendelse inntreffer eller en handling finner sted, skal den dag hendelsen inntreffer eller handlingen finner sted, ikke anses som en del av fristen.\nAlle kalenderdager medregnes i en frist. Ender en frist på en lørdag, helligdag eller høytidsdag forlenges den til nærmeste virkedag.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "1:7",
+      "chapter": "1",
+      "section": "7",
+      "title": "Bevisbyrde",
+      "content": "Den næringsdrivende har bevisbyrden for at opplysningsplikten i §§ 8 til 16 og § 18 er oppfylt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Opplysningsplikt før avtaleinngåelse",
+      "content": "Før det blir inngått en avtale om fjernsalg eller avtale utenom faste forretningslokaler, skal den næringsdrivende på en klar og forståelig måte gi forbrukeren opplysninger om:\na. varenes eller tjenestenes viktigste egenskaper, i den utstrekning kommunikasjonsmåten og varene eller tjenestene er egnet til dette,\nb. der dette er relevant, funksjonaliteten, herunder relevante tekniske beskyttelsestiltak, for varer med digitale elementer, digitalt innhold og digitale tjenester,\nc. der dette er relevant, kompatibiliteten og samvirkingsevnen til varer med digitale elementer, digitalt innhold og digitale tjenester som den næringsdrivende kjenner til eller med rimelighet kan forventes å kjenne til,\nd. den næringsdrivendes identitet, slik som foretaksnavn, geografisk adresse og telefonnummer, e-postadresse og eventuelt nettbaserte kommunikasjonsmidler som gir forbrukeren mulighet til å lagre all skriftlig korrespondanse på et varig medium, samt identitet og geografisk adresse til næringsdrivende det opptres på vegne av og som forbrukeren kan rette eventuelle klager til,\ne. den samlede prisen for varen eller tjenesten medregnet avgifter, eller, dersom varens eller tjenestens art gjør at prisen ikke med rimelighet kan forhåndsberegnes, metoden for beregning av prisen, samt eventuelle tilleggskostnader til frakt, levering, porto eller annet, eller, dersom disse ikke med rimelighet kan forhåndsberegnes, at slike tilleggskostnader kan forekomme. For avtaler uten tidsbegrensning og for abonnementsavtaler skal den samlede prisen omfatte de kostnadene per avregningsperiode, og ved betaling med fast beløp, også de samlede månedlige kostnadene, og om de samlede kostnadene ikke kan forhåndsberegnes, metoden for beregning av prisen,\nf. kostnadene for bruk av fjernkommunikasjonsmiddelet, når disse ikke beregnes etter grunntakst,\ng. ordningene for betaling, levering, oppfyllelse, leveringsfrist og hvordan den næringsdrivende håndterer reklamasjoner,\nh. at det foreligger angrerett samt vilkårene, tidsfristene og fremgangsmåtene for å bruke angreretten, jf. § 20 første og annet ledd. Den næringsdrivende skal også gi forbrukeren et standardisert skjema for bruk av angrerett (angreskjema),\ni. at forbrukeren må bære kostnadene ved å returnere varene dersom angreretten brukes. Dersom varene etter sin natur normalt ikke kan returneres med post, skal kostnadene ved å returnere varene opplyses,\nj. at forbrukeren som bruker angreretten, etter å ha bedt om oppstart av tjenesteleveringen i henhold til §§ 12 eller 19, skal ha ansvar for rimelige kostnader, jf. § 26 første ledd,\nk. dersom avtalen omfattes av unntakene fra angrerett i § 22, skal det opplyses om dette, eventuelt om under hvilke omstendigheter angreretten kan tapes,\nl. den rettslige forpliktelsen til å levere en kontraktsmessig vare, digitalt innhold og digital tjeneste,\nm. relevante atferdsregler og hvor disse kan finnes,\nn. der dette er relevant, avtalens varighet og eventuell minste bindingstid, eller, for avtaler som er uten tidsbegrensning eller forlenges automatisk, vilkårene for å si opp avtalen,\no. eventuelle depositum eller andre økonomiske garantier betalt eller stilt av forbrukeren og vilkårene for disse,\np. der dette er relevant, utenrettslig klage- og erstatningsordning som den næringsdrivende er tilknyttet, samt fremgangsmåten for å få tilgang til denne,\nq. der dette er relevant, at prisen er personlig tilpasset basert på automatiserte beslutninger,\nr. eventuell ettersalgsservice og eventuelle kommersielle garantier, samt vilkårene for disse.\nDen næringsdrivende skal anses for å ha gitt opplysninger etter første ledd bokstav h, i og j dersom denne har gitt forbrukeren korrekt utfylt skjema om opplysninger om angreretten.\nNår næringsdrivende retter sin markedsføring mot norske forbrukere, skal opplysningene etter første ledd gis på norsk.\nVed offentlige auksjoner er det tilstrekkelig at opplysningene i første ledd bokstav d erstattes av tilsvarende opplysninger om auksjonarius.\nDepartementet kan i forskrift gi nærmere bestemmelser om standardisert angreskjema, samt om hvordan opplysningsplikten skal oppfylles, herunder at opplysninger om angreretten skal gis ved bruk av et standardisert skjema for opplysninger om angrerett.\n0 Endret ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Virkningen av brudd på visse opplysningsplikter",
+      "content": "Har den næringsdrivende ikke opplyst om tilleggskostnader eller andre kostnader som omhandlet i § 8 første ledd bokstav e og i, skal forbrukeren ikke bære disse kostnadene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:9 a",
+      "chapter": "2",
+      "section": "9 a",
+      "title": "Ytterligere særlige opplysningsplikter før avtaleinngåelse på nettbaserte markedsplasser",
+      "content": "Før det blir inngått en avtale om fjernsalg på nettbaserte markedsplasser, skal tilbyderen av den nettbaserte markedsplassen gi forbrukeren følgende opplysninger på en måte som er klar, forståelig og egnet for fjernkommunikasjonsmiddel:\na. generelle opplysninger om hovedparametrene som avgjør rangeringen av tilbud som presenteres for forbrukeren i søkeresultatet, og den relative betydningen av disse parametrene i forhold til andre parametrer\nb. om selgeren er næringsdrivende eller ikke, på grunnlag av selgerens erklæring til tilbyderen av den nettbaserte markedsplassen\nc. at forbrukerrettigheter ikke kommer til anvendelse på avtalen dersom selgeren ikke er næringsdrivende\nd. der det er relevant, fordelingen av plikter knyttet til avtalene mellom selgeren og tilbyderen av den nettbaserte markedsplassen.\nOpplysningene etter første ledd bokstav a må gis i en særskilt del av det nettbaserte grensesnittet som er direkte og enkelt tilgjengelig fra siden der tilbudene presenteres.\nDepartementet kan i forskrift stille krav om at tilbydere av nettbaserte markedsplasser må gi forbrukere ytterligere opplysninger.\n0 Tilføyd ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9a",
+        "source_heading": "§ 9 a."
+      }
+    },
+    {
+      "provision_ref": "3:10",
+      "chapter": "3",
+      "section": "10",
+      "title": "Uanmodet telefonsalg",
+      "content": "Før det blir inngått en avtale som følge av at den næringsdrivende uanmodet har fremsatt et tilbud på telefon, skal den næringsdrivende bekrefte tilbudet skriftlig på et varig medium etter at telefonsamtalen er avsluttet. Forbrukeren blir ikke bundet før tilbudet er akseptert skriftlig, noe den næringsdrivende skal opplyse om i bekreftelsen nevnt i første punktum. Den næringsdrivende skal kunne dokumentere forbrukerens aksept.\nFørste ledd gjelder ikke ved salg av avisabonnement eller salg fra frivillige organisasjoner.\nDepartementet kan i forskrift stille krav om registrering i frivillighetsregisteret etter frivillighetsregisterloven for å bli regnet som frivillig organisasjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "4:11",
+      "chapter": "4",
+      "section": "11",
+      "title": "Avtalen",
+      "content": "Avtaler inngått utenom faste forretningslokaler skal inneholde opplysningene fastsatt i § 8 første ledd. Opplysningene skal regnes som en del av avtalen og skal ikke endres, med mindre partene uttrykkelig avtaler noe annet. Opplysningene skal være lett leselige og på et enkelt og forståelig språk. Er opplysningene gitt på norsk, skal avtalen utformes på norsk.\nDen næringsdrivende skal gi forbrukeren et eksemplar av undertegnet avtale eller bekreftelse av avtalen på papir eller, dersom forbrukeren samtykker, på annet varig medium. Har forbrukeren samtykket i nedlastning av digitalt innhold og erkjent at angrerett dermed bortfaller, jf. § 22 bokstav n, skal dette også fremgå av avtalen eller bekreftelsen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "4:12",
+      "chapter": "4",
+      "section": "12",
+      "title": "Krav om oppstart av levering innen utløpet av angrefristen",
+      "content": "Ønsker forbrukeren at levering av tjenester starter før utløpet av angrefristen, jf. § 21, og avtalen innebærer en betalingsforpliktelse for forbrukeren, skal den næringsdrivende kreve at forbrukeren uttrykkelig ber om dette på et varig medium. Den næringsdrivende skal også be forbrukeren om å erkjenne at angreretten vil gå tapt når avtalen er oppfylt fullt ut av den næringsdrivende.\n0 Endret ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "4:13",
+      "chapter": "4",
+      "section": "13",
+      "title": "Tjenesteavtaler som ikke overstiger 1500 kr",
+      "content": "Dersom forbrukeren uttrykkelig ber om å få utført reparasjoner eller vedlikehold, partene umiddelbart utfører sine forpliktelser etter avtalen og kontraktssummen ikke overstiger 1500 kr, er det tilstrekkelig at den næringsdrivende gir forbrukeren opplysningene i § 8 første ledd bokstav d, jf. § 11 annet ledd, og opplysninger om prisen eller hvordan prisen skal beregnes, samt et anslag over den samlede prisen. Opplysningene omhandlet i § 8 første ledd bokstav a, h og k kan gis muntlig, dersom forbrukeren uttrykkelig samtykker i dette.\nBekreftelsen av avtalen, jf. § 11 annet ledd, skal inneholde opplysningene fastsatt i § 8 første ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "5:14",
+      "chapter": "5",
+      "section": "14",
+      "title": "Fjernsalgsavtalen",
+      "content": "Avtaler inngått ved fjernsalg skal inneholde opplysningene fastsatt i § 8 første ledd eller så skal opplysningen gjøres tilgjengelig for forbrukeren på et enkelt og forståelig språk på en måte som er tilpasset fjernkommunikasjonsmiddelet. Opplysningene skal regnes som en del av avtalen og skal ikke endres, med mindre partene uttrykkelig avtaler noe annet. Dersom opplysningene gis på et varig medium, skal de være lett leselige.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "5:15",
+      "chapter": "5",
+      "section": "15",
+      "title": "Informasjonsbegrensninger",
+      "content": "Når avtale inngås gjennom et fjernkommunikasjonsmiddel som har begrenset plass eller tid til å vise opplysninger, skal den næringsdrivende gi opplysninger etter § 8 første ledd bokstav a, d, e, h første punktum og n før avtale inngås.\nØvrige opplysninger i § 8 første ledd gis på en måte som er tilpasset fjernkommunikasjonsmiddelet, jf. § 14.\n0 Endret ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "5:16",
+      "chapter": "5",
+      "section": "16",
+      "title": "Bruk av elektronisk kommunikasjon",
+      "content": "Når en avtale som skal inngås elektronisk forplikter forbrukeren til å betale, skal den næringsdrivende tydelig og i fremhevet form gjøre forbrukeren oppmerksom på opplysningene fastsatt i § 8 første ledd bokstav a, e, og n umiddelbart før forbrukeren foretar bestillingen.\nDen næringsdrivende skal påse at forbrukeren uttrykkelig erkjenner at bestillingen medfører en forpliktelse til å betale. Utføres bestillingen ved å aktivere en knapp eller annen funksjon, skal knappen eller funksjonen være merket på en lett leselig måte med «bestilling med forpliktelse til å betale» eller tilsvarende.\nOverholder ikke den næringsdrivende bestemmelsen i annet ledd, blir forbrukeren ikke bundet av avtalen eller bestillingen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "5:17",
+      "chapter": "5",
+      "section": "17",
+      "title": "Leveringsbegrensninger og betalingsmidler",
+      "content": "Nettsteder for elektronisk handel skal klart og tydelig og senest på det tidspunktet bestillingsprosessen begynner, opplyse om eventuelle leveringsbegrensninger. Det skal også opplyses om hvilke betalingsmidler som aksepteres.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "5:18",
+      "chapter": "5",
+      "section": "18",
+      "title": "Bekreftelse på inngått avtale",
+      "content": "Den næringsdrivende skal innen rimelig tid etter avtaleinngåelsen, og senest på leveringstidspunktet for varene eller før levering av tjenesten begynner, gi forbrukeren skriftlig bekreftelse på den inngåtte avtalen på et varig medium.\nBekreftelsen skal inneholde opplysninger nevnt i § 8 første ledd, dersom disse ikke tidligere er gitt forbrukeren på et varig medium, og opplysning om at forbrukeren har gitt slikt samtykke som nevnt i § 22 bokstav n.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "5:19",
+      "chapter": "5",
+      "section": "19",
+      "title": "Oppstart av levering før utløpet av angrefristen",
+      "content": "Ønsker forbrukeren at levering av tjenester starter opp før utløpet av angrefristen, jf. § 21, og avtalen innebærer en betalingsforpliktelse for forbrukeren, skal den næringsdrivende kreve at forbrukeren uttrykkelig ber om dette. Den næringsdrivende skal også be forbrukeren om å erkjenne at angreretten vil gå tapt når avtalen er oppfylt fullt ut av den næringsdrivende.\n0 Endret ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "6:20",
+      "chapter": "6",
+      "section": "20",
+      "title": "Rett til å gå fra avtalen (angrerett)",
+      "content": "Forbrukeren har rett til å gå fra avtalen (angrerett) ved å gi melding til den næringsdrivende før utløpet av angrefristen, jf. § 21. Angrefristen anses overholdt dersom melding er sendt før utløpet av fristen.\nMeldingen kan fremsettes ved bruk av utfylt angreskjema eller ved fremsettelse av annen utvetydig erklæring.\nDersom den næringsdrivende gir forbrukeren adgang til å gi melding etter annet ledd elektronisk, skal den næringsdrivende umiddelbart bekrefte på et varig medium at meldingen er mottatt.\nBevisbyrden for at melding er gitt, påhviler forbrukeren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "6:21",
+      "chapter": "6",
+      "section": "21",
+      "title": "Angrefristen",
+      "content": "Angrefristen utløper 14 dager fra den dag avtalen om tjeneste ble inngått, eller den dag forbrukeren får varen i fysisk besittelse. Dette er:\na. ved varer bestilt samlet og levert ved flere forsendelser, den dag forbrukeren får den siste varen i fysisk besittelse,\nb. ved varer som består av flere partier eller deler, den dag forbrukeren får det siste partiet eller den siste delen i fysisk besittelse,\nc. ved avtaler om regelmessig levering av varer, den dag forbrukeren får den første av varene i fysisk besittelse.\nLikt med forbrukeren regnes annen tredjeperson enn fraktføreren, som forbrukeren har utpekt i sitt sted.\nGir ikke den næringsdrivende forbrukeren opplysninger om angreretten i henhold til § 8 første ledd bokstav h, utløper angrefristen 12 måneder etter utløpet av den opprinnelige angrefristen, jf. første ledd.\nDersom den næringsdrivende gir forbrukeren opplysninger om angreretten etter § 8 første ledd bokstav h innen 12 måneder fra dagen omhandlet i første ledd, utløper angrefristen 14 dager etter den dagen forbrukeren mottok opplysningene.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "6:22",
+      "chapter": "6",
+      "section": "22",
+      "title": "Unntak fra angreretten",
+      "content": "Angreretten gjelder ikke avtaler om:\na. levering av varer som på grunn av sin art blandes med andre varer etter levering på en slik måte at de ikke kan skilles fra hverandre,\nb. levering av varer som forringes eller raskt går ut på dato,\nc. tjeneste som er levert fullt ut, dersom avtalen forplikter forbrukeren til å betale, levering har begynt med forbrukerens uttrykkelige forhåndssamtykke, og forbrukeren har erkjent at angreretten vil gå tapt etter at den næringsdrivende har oppfylt alle sine forpliktelser etter avtalen,\nd. levering av varer eller tjenester der prisen er avhengig av svingninger i finansmarkedet som kan skje innen utløpet av angrefristen og som ikke kan kontrolleres av den næringsdrivende,\ne. levering av varer som er fremstilt etter forbrukerens spesifikasjoner, eller som har fått et tydelig personlig preg,\nf. levering av legemidler, jf. legemiddelloven § 2, og medisinsk utstyr, jf. lov om medisinsk utstyr § 3,\ng. levering av forseglede varer som av hensyn til helsevern eller hygiene ikke er egnet for retur, og der forseglingen er blitt brutt etter levering,\nh. levering av alkoholholdige drikker til en pris som ble avtalt på avtaletidspunktet, og levering først kan skje etter 30 dager, og der den faktiske verdien avhenger av svingninger i markedet som ikke kontrolleres av den næringsdrivende,\ni. reparasjoner eller tjenester som det haster å få utført der forbrukeren uttrykkelig ber den næringsdrivende om å besøke forbrukeren. Tilleggstjenester eller tilleggsvarer som ytes samtidig, og som ikke dekkes av første punktum, omfattes ikke av unntaket fra angreretten,\nj. levering av forseglede lyd- eller bildeopptak eller forseglet programvare som forbrukeren har brutt forseglingen på,\nk. levering av en avis, et tidsskrift eller et magasin, med unntak av abonnementsavtaler for levering av slike publikasjoner,\nl. varer eller tjenester som er inngått ved offentlig auksjon,\nm. levering av innkvarteringstjenester for andre formål enn boligformål, transport av varer, bilutleietjenester, catering og tjenester knyttet til fritidsaktiviteter når det i avtalen er fastsatt en bestemt dato eller et bestemt tidsrom for utførelsen av slike tjenester,\nn. levering av digitalt innhold som ikke leveres på et fysisk medium, dersom leveringen er begynt og følgende vilkår er oppfylt:\n1. avtalen forplikter forbrukeren til å betale\n2. forbrukeren har uttrykkelig forhåndssamtykket til at levering begynner før angrefristen utløper\n3. forbrukeren har erkjent at angreretten dermed går tapt, og\n4. den næringsdrivende har gitt bekreftelse etter angrerettloven § 11 eller § 18.\nUnntakene fra angreretten i første ledd bokstavene c og e gjelder ikke ved uanmodet dørsalg.\n0 Endret ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "6:23",
+      "chapter": "6",
+      "section": "23",
+      "title": "Virkningene av at angreretten brukes",
+      "content": "Ved bruk av angreretten bortfaller partenes forpliktelser til å oppfylle avtalen. I tilfeller der forbrukeren har gitt et tilbud, bortfaller tilbudet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "6:24",
+      "chapter": "6",
+      "section": "24",
+      "title": "Den næringsdrivendes forpliktelser når angreretten brukes",
+      "content": "Den næringsdrivende skal tilbakeføre alle betalinger som er mottatt fra forbrukeren. Dersom forbrukeren uttrykkelig har valgt en annen type levering enn standardleveringen som den næringsdrivende tilbød, skal den næringsdrivende likevel ikke betale tilleggskostnadene dette medførte.\nTilbakebetaling skal skje uten unødig opphold, og senest 14 dager fra da den næringsdrivende fikk melding om forbrukerens beslutning om å benytte angreretten etter § 20. Med mindre noe annet uttrykkelig er avtalt med forbrukeren, skal tilbakebetalingen skje ved bruk av samme betalingsmiddel som forbrukeren benyttet. Forbrukeren skal ikke betale noen form for gebyr som følge av tilbakebetalingen.\nDen næringsdrivende kan holde tilbakebetalingen tilbake til varene er mottatt, eller til forbrukeren har lagt frem dokumentasjon på at varene er sendt tilbake. Dette gjelder ikke når den næringsdrivende har tilbudt seg å hente varene.\nVed avtaler inngått utenom faste forretningslokaler, og der varene er levert til forbrukerens hjem på avtaletidspunktet, skal den næringsdrivende for egen regning hente varene, om disse etter sin art normalt ikke kan returneres med alminnelig postgang.\nEr det avtalt at varene skal hentes hos forbrukeren, og dette ikke skjer innen tre måneder fra den dagen da den næringsdrivende fikk melding etter § 20, tilfaller varen forbrukeren vederlagsfritt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "6:24 a",
+      "chapter": "6",
+      "section": "24 a",
+      "title": "Den næringsdrivendes særskilte forpliktelser når angreretten brukes ved avtaler om digitalt innhold eller digitale tjenester",
+      "content": "Ved avtaler om digitalt innhold eller digitale tjenester skal den næringsdrivende avstå fra å bruke noen form for innhold, med unntak av personopplysninger, som forbrukeren har oppgitt eller laget ved bruk av det digitale innholdet eller den digitale tjenesten som er levert av den næringsdrivende. Dette gjelder likevel ikke hvis innholdet\na. ikke har noen nytteverdi utenfor rammene for det digitale innholdet eller den digitale tjenesten\nb. bare gjelder forbrukerens aktivitet ved bruk av det digitale innholdet eller den digitale tjenesten\nc. er slått sammen med andre data av den næringsdrivende og ikke kan deles opp, eller bare kan deles opp med en uforholdsmessig stor innsats, eller\nd. er generert i fellesskap av forbrukeren og andre, og andre forbrukere fortsatt kan benytte innholdet.\nHvis forbrukeren ber om det, skal den næringsdrivende gjøre tilgjengelig for forbrukeren enhver form for innhold etter første ledd, bortsett fra i tilfeller som nevnt i første ledd bokstav a, b og c.\nForbrukeren har rett til å hente ut dette digitale innholdet gratis, uten hindring fra den næringsdrivende, innen en rimelig frist og i et vanlig brukt og maskinlesbart format.\n0 Tilføyd ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24a",
+        "source_heading": "§ 24 a."
+      }
+    },
+    {
+      "provision_ref": "6:25",
+      "chapter": "6",
+      "section": "25",
+      "title": "Forbrukerens forpliktelser når angreretten brukes ved avtale om levering av varer",
+      "content": "Forbrukeren skal uten unødig opphold, og senest 14 dager fra melding etter § 20 ble gitt, sende varene tilbake, eller overlevere dem til den næringsdrivende dersom den næringsdrivende ikke har tilbudt seg å hente varene.\nForbrukeren skal bare betale de direkte kostnadene ved å returnere varene. Den næringsdrivende skal likevel dekke disse kostnadene hvis denne har påtatt seg å betale disse eller ikke har opplyst forbrukeren om at forbrukeren skal betale returkostnadene.\nDen næringsdrivende kan kreve at forbrukeren erstatter verdireduksjon som følge av forbrukerens håndtering av varene som ikke har vært nødvendig for å fastslå varenes art, egenskaper og funksjon. Dette gjelder bare dersom forbrukeren har mottatt opplysninger om angrerett, jf. § 8 første ledd bokstav h.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "6:26",
+      "chapter": "6",
+      "section": "26",
+      "title": "Forbrukerens forpliktelser når angreretten brukes ved avtaler om levering av tjenester",
+      "content": "Ved bruk av angreretten ved tjenester som forbrukeren uttrykkelig har bedt den næringsdrivende om å begynne levering av, skal forbrukeren betale et beløp som står i forhold til det som er levert frem til det tidspunkt forbrukeren gir melding om bruk av angreretten. Er den samlede prisen urimelig høy, skal det forholdsmessige beløpet beregnes på grunnlag av markedsverdien av det som er levert.\nForbrukerens betalingsplikt faller bort når:\na. den næringsdrivende ikke har gitt opplysninger i samsvar med § 8 første ledd bokstav h og j,\nb. forbrukeren ikke uttrykkelig har bedt om at leveringen skal begynne innen utløpet av angrefristen i samsvar med §§ 12 eller 19, eller\nc. levering av digitalt innhold som ikke kan leveres på et fysisk medium, er begynt uten forbrukerens uttrykkelige forhåndssamtykke og erkjennelse av at angreretten dermed går tapt, eller uten at den næringsdrivende har gitt bekreftelse i samsvar med § 11 annet ledd og § 18 annet ledd.\nVed avtaler om digitalt innhold eller digitale tjenester skal forbrukeren som bruker angreretten, avstå fra å bruke det digitale innholdet eller den digitale tjenesten og fra å gjøre den tilgjengelig for tredjeparter.\nDersom angreretten brukes, kan den næringsdrivende ved avtaler om digitalt innhold eller digitale tjenester hindre forbrukeren fra å fortsette å bruke det digitale innholdet eller den digitale tjenesten så langt dette er forenlig med § 24 a annet ledd.\n0 Endret ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "6:27",
+      "chapter": "6",
+      "section": "27",
+      "title": "Virkninger for tilknyttede avtaler av at angreretten brukes",
+      "content": "Dersom forbrukeren bruker sin angrerett, faller alle tilknyttede avtaler bort uten kostnad for forbrukeren. §§ 24 til 26 gjelder tilsvarende.\nEtter å ha mottatt forbrukerens melding om bruk av angrerett skal den næringsdrivende straks gi beskjed til tredjeperson som har inngått en tilknyttet avtale med forbrukeren.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "7:28",
+      "chapter": "7",
+      "section": "28",
+      "title": "Tilsyn og håndheving",
+      "content": "Forbrukertilsynet og Markedsrådet skal føre kontroll med at bestemmelser i, eller bestemmelser gitt i medhold av denne loven, overholdes. Kontrollen utøves i samsvar med reglene i markedsføringsloven §§ 32 til 41, § 42 første ledd annet punktum og § 43.\n0 Endret ved lover 16 juni 2017 nr. 49 (ikr. 1 jan 2018 iflg. res. 16 juni 2017 nr. 772), 20 mai 2020 nr. 42 (ikr. 1 juli 2020 iflg. res 20 mai 2020 nr. 1032), 18 feb 2022 nr. 5 (i kraft 1 juli 2022 iflg. res. 4 mars 2022 nr. 324, tidligere § 41).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "7:29",
+      "chapter": "7",
+      "section": "29",
+      "title": "Overtredelsesgebyr",
+      "content": "Ved forsettlig eller uaktsom overtredelse av §§ 8 til 24 a, § 25 annet ledd annet punktum og § 27 eller av forskrift gitt i medhold av § 8, som anses som vesentlig eller har skjedd gjentatte ganger, kan den ansvarlige ilegges et overtredelsesgebyr.\nDepartementet kan ved forskrift gi nærmere regler om utmåling av overtredelsesgebyr.\n0 Endret ved lover 16 juni 2017 nr. 49 (ikr. 1 jan 2018 iflg. res. 16 juni 2017 nr. 772), 20 mai 2020 nr. 42 (ikr. 1 juli 2020 iflg. res 20 mai 2020 nr. 1032), 18 feb 2022 nr. 5 (i kraft 1 juli 2022 iflg. res. 4 mars 2022 nr. 324, tidligere § 42), 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "8:30",
+      "chapter": "8",
+      "section": "30",
+      "title": "Ikrafttredelse og overgangsbestemmelser",
+      "content": "Loven gjelder fra den tid Kongen bestemmer.​1\nLoven får bare virkning for markedsføringstiltak og betalinger foretatt etter lovens ikrafttredelse, samt avtaler som inngås etter at loven trer i kraft.\nLov 21. desember 2000 nr. 105 om opplysningsplikt og angrerett m.v. ved fjernsalg og salg utenfor fast utsalgssted og forskrifter fastsatt i medhold av den, gjelder for avtaler som er inngått før oppheving av loven.\n0 Endret ved lov 18 feb 2022 nr. 5 (i kraft 1 juli 2022 iflg. res. 4 mars 2022 nr. 324, tidligere § 43).\n1 Fra 20 juni 2014 iflg. res. 20 juni 2014 nr. 776.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "8:31",
+      "chapter": "8",
+      "section": "31",
+      "title": "Endringer i andre lover",
+      "content": "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:\n1. Lov 21. desember 2000 nr. 105 om opplysningsplikt og angrerett m.v. ved fjernsalg og salg utenfor fast utsalgssted oppheves.\n– – –\n0 Endret ved lov 18 feb 2022 nr. 5 (i kraft 1 juli 2022 iflg. res. 4 mars 2022 nr. 324, tidligere § 44).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    }
+  ]
+}

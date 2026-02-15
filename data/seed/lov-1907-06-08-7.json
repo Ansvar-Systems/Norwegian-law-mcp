@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1907-06-08-7",
+  "type": "statute",
+  "title": "Lov om tillæg til jernbaneloven af 12te august 1848 og 23de april 1898.",
+  "short_name": "Lov om tillegg til jernbaneloven.",
+  "status": "in_force",
+  "issued_date": "1907-06-08",
+  "in_force_date": "1907-06-08",
+  "url": "https://lovdata.no/dokument/NLO/lov/1907-06-08-7",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Jernbaner, sporveie derunder indbefattet [og taugbaner]​1 kan, selv om disse baner ikke er til almindelig benyttelse, og selv om der til deres anlæg ikke kræves afstaaelse af fremmed grund, hverken anlægges eller tages i brug uden tilladelse af Kongen eller den, han dertil bemyndiger, og paa vilkaar, som deri fastsættes. De nærmere bestemmelser, angaaende hvilke anlæg indgaar under loven, og de forskrifter, som forøvrigt maatte udkræves i anledning af lovens gjennemførelse, udfærdiges af kongen.​2\n1 Se lov 14 juni 1912 nr. 1 § 21.\n2 Gitt ved res. 17 juni 1907.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Overtrædelse af denne lov og de i henhold til samme udfærdigede forskrifter straffes med bøder.​1\n1 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov træder straks i kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Jernbaner, sporveie derunder indbefattet [og taugbaner]​1 kan, selv om disse baner ikke er til almindelig benyttelse, og selv om der til deres anlæg ikke kræves afstaaelse af fremmed grund, hverken anlægges eller tages i brug uden tilladelse af Kongen eller den, han dertil bemyndiger, og paa vilkaar, som deri fastsættes. De nærmere bestemmelser, angaaende hvilke anlæg indgaar under loven, og de forskrifter, som forøvrigt maatte udkræves i anledning af lovens gjennemførelse, udfærdiges af kongen.​2\n1 Se lov 14 juni 1912 nr. 1 § 21.\n2 Gitt ved res. 17 juni 1907.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Overtrædelse af denne lov og de i henhold til samme udfærdigede forskrifter straffes med bøder.​1\n1 Se strl. § 27.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Denne lov træder straks i kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

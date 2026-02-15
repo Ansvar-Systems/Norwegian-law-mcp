@@ -1,0 +1,1311 @@
+{
+  "id": "LOV-2017-06-16-48",
+  "type": "statute",
+  "title": "Lov om adopsjon (adopsjonsloven)",
+  "short_name": "Adopsjonsloven",
+  "status": "in_force",
+  "issued_date": "2017-06-16",
+  "in_force_date": "2018-07-01",
+  "url": "https://lovdata.no/dokument/NL/lov/2017-06-16-48",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Formålet med loven er at adopterte barn skal få en trygg oppvekst ved at det etableres varige, rettslige bånd som tilsvarer forholdet mellom barn og foreldre.\nVed adopsjon av personer som er fylt 18 år, er formålet med loven å bekrefte rettslig eksisterende bånd tilsvarende forholdet mellom barn og foreldre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens anvendelse for Svalbard",
+      "content": "Kongen kan gi forskrift om at lovens offentligrettslige bestemmelser også skal gjelde for Svalbard, og kan fastsette særskilte regler av hensyn til forholdene der.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Adopsjonsmyndighet",
+      "content": "Departementet er adopsjonsmyndighet etter loven her. Departementet kan delegere sin myndighet. Myndigheten kan delegeres til ulike organer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Hensynet til barnets beste",
+      "content": "Barnets beste skal være det overordnede hensynet ved adopsjon. En søknad om adopsjon og om forhåndssamtykke til å adoptere kan bare innvilges når det er klart sannsynlig at adopsjonen vil bli til barnets beste.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Grunnleggende krav til adopsjonssøkere",
+      "content": "Bare den som har forutsetninger for å være en god omsorgsperson for barn, kan adoptere eller gis forhåndssamtykke til å adoptere. Søkeren må dessuten ha ønske om å oppfostre et barn eller ha oppfostret det barnet adopsjonen gjelder.\nDen som søker om å adoptere eller om forhåndssamtykke til å adoptere, skal legge fram en uttømmende politiattest.\nDepartementet kan gi forskrift om behandlingen av adopsjonssaker, utredning av adopsjonssøkerne, forhåndssamtykke til adopsjon, vilkår for å adoptere og krav til søkerne. Det kan blant annet fastsettes krav til søkerens alder, helse, vandel, økonomi, bolig, krav til hvor lenge to søkere skal ha bodd sammen, og krav om deltakelse på adopsjonsforberedende kurs. Det kan settes ulike krav til ulike typer adopsjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Krav om ekteskap og samboerskap og unntak fra dette",
+      "content": "Bare ektefeller og samboere kan adoptere sammen. Med samboere menes to personer som bor sammen i et stabilt og ekteskapslignende forhold.\nEn søker som er gift eller samboende, kan bare adoptere sammen med ektefellen eller samboeren. Den som er gift eller samboer, kan likevel adoptere alene dersom ektefellen eller samboeren er forsvunnet, er psykisk utviklingshemmet eller har en alvorlig psykisk sykdom.\nEn søker som er gift eller samboende, kan også adoptere alene dersom barnet er\na. barn av søkerens tidligere eller nåværende ektefelle eller samboer\nb. søkerens eget barn\nc. søkerens tidligere adoptivbarn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Vilkår for at enslige kan adoptere",
+      "content": "Enslige kan adoptere dersom de har forutsetninger for å ha eneomsorgen for et barn. Bare søkere som bor alene, regnes som enslige.\nDepartementet kan gi forskrift om vilkår for at enslige kan adoptere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Aldersgrense for å adoptere og begrensning for søkere som er fratatt rettslig handleevne",
+      "content": "Bare personer som har fylt 25 år, kan adoptere eller få forhåndssamtykke til å adoptere. En søker som har fylt 20 år, kan likevel adoptere eller få forhåndssamtykke til å adoptere dersom søkeren og barnet allerede er sterkt knyttet til hverandre.\nEn søker som etter vergemålsloven er fratatt rettslig handleevne på det personlige området, kan adoptere bare dersom søkeren og barnet allerede er sterkt knyttet til hverandre og søkerens verge samtykker til adopsjonen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Barnets deltakelse og samtykke til adopsjon",
+      "content": "Har barnet fylt 7 år, skal det gis mulighet til å uttale seg før det treffes vedtak om adopsjon. Det samme gjelder barn som er yngre enn 7 år, hvis barnet er i stand til å danne seg egne synspunkter. Barnet skal få informasjon om hva en adopsjon innebærer, og veiledning som er tilpasset barnets evne til å forstå. Barnets mening skal tillegges vekt i samsvar med dets alder og modenhet.\nEt barn som har fylt 12 år, kan adopteres bare hvis det samtykker til adopsjonen. Dette gjelder likevel ikke dersom barnet på grunn av psykisk utviklingshemming eller psykisk eller fysisk sykdom åpenbart ikke er i stand til å forstå hva et samtykke innebærer.\nFør barnet gir samtykke, skal det få informasjon om hva det innebærer å bli adoptert. Samtykket skal være skriftlig og gitt frivillig uten at barnet har fått eller blitt lovet vederlag eller noen annen ytelse for det. Bare en offentlig tjenesteperson kan ta imot eller bekrefte samtykket. Tjenestepersonen skal forsikre seg om at barnet har forstått informasjonen.\nKommunen skal bistå med å opplyse saken og innhente samtykke dersom adopsjonsmyndigheten ber om det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Foreldrenes samtykke til adopsjon",
+      "content": "Et barn under 18 år kan ikke adopteres uten samtykke fra den eller dem som har foreldreansvaret. Dersom en av dem som har foreldreansvar, er forsvunnet, eller dersom en av dem åpenbart ikke er i stand til å forstå hva et samtykke innebærer, er et samtykke fra den andre tilstrekkelig. Er begge i en situasjon som nevnt i andre punktum, kreves det samtykke fra barnets oppnevnte verge.\nFør et samtykke gis, skal foreldre og eventuelle verger få informasjon om hva det innebærer å samtykke. Samtykket skal være skriftlig og gitt frivillig uten motytelse. Bare en offentlig tjenesteperson eller en advokat kan ta imot eller bekrefte samtykket.\nForeldrenes samtykke etter første ledd kan ikke gis før to måneder etter at barnet er født. Også en forelder som har overført foreldreansvaret til den andre forelderen før barnet er to måneder gammelt, skal samtykke til adopsjonen.\nEn far eller mor som ikke har foreldreansvar, skal varsles og få uttale seg før adopsjonssøknaden avgjøres, jf. forvaltningsloven § 16.\nDersom andre enn foreldrene er oppnevnt som barnets verge, eller dersom far eller mor selv har verge, skal også vergen få uttale seg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Forbud mot vederlag",
+      "content": "Det er ikke tillatt å gi eller love vederlag eller noen annen ytelse for å påvirke en person som skal samtykke til en adopsjon eller uttale seg om en søknad om adopsjon eller om forhåndssamtykke til å adoptere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Hvem som avgjør adopsjonssøknader",
+      "content": "Adopsjonsmyndigheten avgjør adopsjonssøknader.\nDersom barnevernstjenesten har overtatt omsorgen for et barn etter barnevernsloven § 5-1, skal adopsjonssaken avgjøres av barneverns- og helsenemnda etter barnevernsloven § 5-10. Når nemnda avgjør adopsjonssøknaden, skal likevel adopsjonsmyndigheten utstede adopsjonsbevillingen.\n0 Endret ved lov 18 juni 2021 nr. 97 (i kraft 1 jan 2023 iflg. res. 14 okt 2022 nr. 1739).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Adopsjon av ektefellens eller samboerens barn (stebarnsadopsjon)",
+      "content": "Den ene ektefellen kan adoptere den andre ektefellens barn dersom den andre ektefellen samtykker. Den som søker om å få adoptere ektefellens barn, skal ha oppfostret barnet i minst 5 år og ønske å oppfostre barnet videre. Når det er særlige grunner til det, kan det gjøres unntak fra kravet om oppfostringstid.\nEn skilt ektefelle kan med samtykke fra sin tidligere ektefelle adoptere dennes barn. En gjenlevende ektefelle kan adoptere sin avdøde ektefelles barn.\nFørste og andre ledd gjelder tilsvarende for samboere og tidligere samboere.\nNåværende eller tidligere ektefeller eller samboere av samme kjønn kan ikke adoptere et stebarn dersom barnet er adoptert fra et land som ikke tillater at personer av samme kjønn adopterer sammen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Adopsjon av spedbarn",
+      "content": "Spedbarn kan bare adopteres dersom foreldrene har gitt fra seg den faktiske omsorgen ved fødselen.\nAdopsjonsmyndigheten velger adoptivforeldre til barnet ut fra registeret over søkere og treffer vedtak i saker om adopsjon av spedbarn. Det skal innhentes en uttalelse fra det faglig rådgivende utvalget for adopsjonssaker om valget av adoptivforeldre til barnet. Uttalelsen skal tillegges stor vekt ved avgjørelsen.\nAdopsjonsmyndigheten skal følge opp spedbarnets foreldre og administrere registeret over søkere.\nDepartementet kan gi forskrift om formidlingsvirksomheten, saksbehandlingen, ansvaret for registeret over søkere og ansvaret overfor barnet og barnets opprinnelige foreldre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Ny adopsjon av adopterte",
+      "content": "Et adoptert barn kan bare adopteres på ny dersom sterke grunner taler for det. I vurderingen av ny adopsjon skal det særlig legges vekt på den familiesituasjonen barnet kommer til å få dersom det ikke blir adoptert på ny.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Adopsjon av en person som har fylt 18 år (voksenadopsjon)",
+      "content": "En person som har fylt 18 år, kan adopteres bare hvis det er klart sannsynlig at adopsjonen vil bli til beste for personen. Adopsjonssøkeren må dessuten ha oppfostret personen i minst 6 år, med mindre andre særlige grunner taler for adopsjon. I vurderingen skal det legges særlig vekt på tilknytningen mellom søkeren og den som søkes adoptert, den familietilknytningen som måtte falle bort ved adopsjonen, og eventuelle søsken som søkeren skal adoptere samtidig.\nEn person som etter vergemålsloven er fratatt rettslig handleevne på det personlige området, kan adopteres bare dersom vergen samtykker til adopsjonen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Sentralmyndighet for Haagkonvensjonen 1993",
+      "content": "Departementet utpeker det organet som skal være sentralmyndighet etter Haagkonvensjonen 29. mai 1993 om vern av barn og samarbeid ved internasjonale adopsjoner. Sentralmyndigheten kan delegere sine oppgaver som sentralmyndighet til organisasjoner som har tillatelser etter §§ 31 og 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Forhåndssamtykke til internasjonal adopsjon",
+      "content": "For personer som har sitt vanlige bosted i Norge, kreves det forhåndssamtykke fra adopsjonsmyndigheten for å adoptere barn fra utlandet.\nEn søker kan få forhåndssamtykke til adopsjon av ett barn under 5 år eller av to søsken som begge er under 5 år.\nDepartementet kan i forskrift gi nærmere regler om aldersrammene etter andre ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Behandling av søknader om forhåndssamtykke til internasjonal adopsjon",
+      "content": "Adopsjonsmyndigheten behandler søknader om forhåndssamtykke til adopsjon av barn som har sitt vanlige bosted i utlandet.\nKommunen skal bistå med å opplyse saken dersom adopsjonsmyndigheten ber om det.\nSkal adopsjonen gjennomføres etter at barnet er kommet til Norge, skal kommunen bistå også etter at barnet er kommet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Adopsjon av barn som har sitt vanlige bosted i utlandet",
+      "content": "Et barn som har sitt vanlige bosted i utlandet, kan bare adopteres gjennom en organisasjon som har tillatelse til adopsjonsformidling etter § 31, og som har tillatelse til å formidle barn fra særskilt angitte land etter § 32.\nAdopsjonsmyndigheten kan likevel gi forhåndssamtykke til å adoptere fra utlandet utenom en adopsjonsorganisasjon dersom\na. vilkårene for forhåndssamtykke etter loven og forskrift med hjemmel i loven er oppfylt\nb. minst én av søkerne har en spesiell tilknytning til det landet der barnet har sitt vanlige bosted\nc. ingen norsk adopsjonsorganisasjon har formidlingstillatelse i det landet der barnet har sitt vanlige bosted\nd. adopsjonen kan gjennomføres på en forsvarlig måte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Adopsjon av barn som søkeren har tilknytning til",
+      "content": "Dersom en søknad om forhåndssamtykke gjelder et bestemt barn som har sitt vanlige bosted i utlandet, kan adopsjonsmyndigheten gi forhåndssamtykke til å adoptere dersom\na. vilkårene for forhåndssamtykke etter loven og forskrift med hjemmel i loven er oppfylt\nb. minst én av søkerne har en spesiell tilknytning til det landet der barnet har sitt vanlige bosted\nc. minst én av søkerne har en nær personlig tilknytning til barnet eller barnets nære familie, og kontakten er etablert uten adopsjonshensikt\nd. barnet mangler trygghet og faste omsorgspersoner i det landet der barnet har sitt vanlige bosted\ne. adopsjonen kan gjennomføres på en forsvarlig måte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Tildeling av barn fra utlandet",
+      "content": "Landet der barnet har sitt vanlige bosted, tildeler barnet til en søker som har fått forhåndssamtykke til å adoptere. Tildelingen skal godkjennes av adopsjonsmyndigheten. Før godkjenningen skal det vurderes om barnet har behov for spesiell støtte. Har barnet behov for spesiell støtte, skal det innhentes en uttalelse fra det faglig rådgivende utvalget for adopsjonssaker. Ved avgjørelsen av om tildelingen skal godkjennes, skal det legges stor vekt på uttalelsen.\nAdopsjonsmyndigheten etter første ledd kan delegere myndigheten til å godkjenne tildelinger av barn fra utlandet til organisasjoner som har tillatelser etter §§ 31 og 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "title": "Oppfølgingsrapporter til landet barnet ble adoptert fra",
+      "content": "Dersom myndighetene i landet barnet ble adoptert fra, krever oppfølgingsrapporter utarbeidet eller godkjent av offentlig myndighet om barnets situasjon i Norge, skal adopsjonsmyndigheten utarbeide slike rapporter i inntil 3 år etter at barnet har kommet til Norge.\nKommunen skal bistå med opplysninger til oppfølgningsrapportene og utarbeide oppfølgingsrapporter dersom adopsjonsmyndigheten ber om det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Likestilling mellom adoptivbarn og andre barn",
+      "content": "Et adoptivbarn og dets etterkommere får samme rettslige stilling som om adoptivbarnet var adoptivforeldrenes egenfødte barn, dersom ikke noe annet følger av odelslova §§ 12 og 52, statsborgerloven § 5 og navneloven § 5.\nDersom en ektefelle eller samboer har adoptert den andre ektefellens eller samboerens barn, får barnet samme rettslige stilling som det ville ha fått om det var deres felles barn. Det samme gjelder dersom barnet adopteres av forelderens tidligere ektefelle eller samboer.\nEt adoptivbarns rettslige stilling overfor den opprinnelige slekten faller bort ved adopsjonen dersom ikke noe annet følger av § 25, ekteskapsloven § 3 eller straffeloven §§ 312 og 313.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Besøkskontakt mellom adoptivbarnet og dets opprinnelige foreldre",
+      "content": "Dersom en adopsjon er gjennomført etter barnevernsloven § 5-10, og barneverns- og helsenemnda har truffet vedtak om besøkskontakt mellom barnet og de opprinnelige foreldrene etter barnevernsloven § 5-11, gjelder § 24 med de begrensninger som måtte følge av vedtaket.\n0 Endret ved lov 18 juni 2021 nr. 97 (i kraft 1 jan 2023 iflg. res. 14 okt 2022 nr. 1739).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Barnets rettslige stilling etter ny adopsjon",
+      "content": "Blir et adoptert barn adoptert på ny, faller barnets rettslige stilling overfor de første adoptivforeldrene og deres slekt bort.\nEr den nye adopsjonen en adopsjon etter § 6 tredje ledd bokstav a til c, opphører rettsvirkningene av den første adopsjonen bare overfor den adoptivforelderen som barnet adopteres fra.\nRettsvirkningene av en ny adopsjon følger ellers av § 24.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Offentlige registre",
+      "content": "Det skal registreres i Folkeregisteret at et barn er adoptert. Departementet kan gi forskrift om at adopsjonen skal registreres i andre offentlige registre og protokoller.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Utvidet rettskraft og særregler om domstolsprøving",
+      "content": "Et endelig adopsjonsvedtak eller en rettskraftig dom om gyldigheten av et adopsjonsvedtak virker for og mot alle og legges til grunn i alle forhold der adopsjonen har betydning.\nSpørsmålet om gyldigheten av et adopsjonsvedtak kan ikke tas opp til prejudisiell prøving i en sak som gjelder et annet spørsmål.\nNår et adopsjonsvedtak skal prøves av en domstol, skal den som går til sak, varsle dem som var parter i adopsjonssaken.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "title": "Definisjon av adopsjonsformidling",
+      "content": "Med adopsjonsformidling menes handlinger og virksomhet som har til formål å skape kontakt mellom barn som kan adopteres, og personer som ønsker å adoptere. Adopsjonsformidling omfatter blant annet registrering av barn som kan adopteres, registrering eller utredning av søkere og valg av foreldre til det enkelte barn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "title": "Forbud mot adopsjonsformidling",
+      "content": "Det er forbudt for privatpersoner å drive adopsjonsformidling. Adopsjonsformidling kan bare foretas av organisasjoner med tillatelse fra adopsjonsmyndigheten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "title": "Tillatelse til å drive adopsjonsformidling (driftstillatelse)",
+      "content": "Adopsjonsmyndigheten kan gi organisasjoner en tidsbegrenset tillatelse til å drive adopsjonsformidling. Det kan bare gis tillatelse til organisasjoner som\na. har adopsjonsformidling som hovedformål\nb. arbeider for barnets beste\nc. er ledet av og bemannet med personer som er kvalifisert til å arbeide med internasjonale adopsjoner\nd. ikke har økonomisk vinning som formål.\nDepartementet kan gi forskrift om hvilke krav som kan stilles til en organisasjon for å få driftstillatelse, til organisasjonens virksomhet og avviklingen av den.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "title": "Tillatelse til adopsjonsformidling fra enkeltland (formidlingstillatelse)",
+      "content": "Adopsjonsmyndigheten kan gi organisasjoner som har tillatelse etter § 31, særskilt tidsbegrenset tillatelse til å formidle barn fra enkeltland. En tillatelse gis på vilkår om at organisasjonen også får tillatelse fra hvert enkelt land til å formidle adopsjoner fra dette landet.\nDepartementet kan i forskrift gi nærmere regler om formidlingstillatelser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "title": "Forbud mot å gi vederlag for å påvirke formidling av adopsjon",
+      "content": "Det er ikke tillatt å gi vederlag eller noen annen ytelse til organisasjoner, personer i organisasjoner eller andre som formidler en adopsjon når dette har til formål å påvirke en adopsjonsprosess eller utfallet av en adopsjonssak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "title": "Tilsyn med adopsjonsorganisasjoner",
+      "content": "Adopsjonsmyndigheten fører tilsyn med alle sider av adopsjonsorganisasjonens virksomhet.\nAdopsjonsorganisasjonene kan gis pålegg om å rette på forhold som er i strid med lov, forskrift eller vilkår for tillatelser etter §§ 31 og 32.\nTillatelsene kan trekkes tilbake dersom lov, forskrift eller vilkår for tillatelsene etter §§ 31 og 32 ikke er oppfylt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "7:35",
+      "chapter": "7",
+      "section": "35",
+      "title": "Forholdet til forvaltningsloven mv.",
+      "content": "Forvaltningsloven gjelder ved behandlingen av adopsjonssaker dersom ikke noe annet følger av denne loven.\nEnhver som utfører tjeneste eller arbeid for barne-, ungdoms- og familieetaten eller en adopsjonsorganisasjon med tillatelse etter §§ 31 og 32, har taushetsplikt etter forvaltningsloven §§ 13 til 13 e og 13 g. Taushetsplikten omfatter også opplysninger om fødested, fødselsdato, personnummer, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted.\nOffentlige myndigheter kan, uten hinder av taushetsplikt, innhente opplysninger fra Folkeregisteret når det er nødvendig for å utføre oppgaver etter denne loven.\n0 Endret ved lover 18 juni 2021 nr. 127 (ikr. 1 juli 2021 iflg. res. 18 juni 2021 nr. 2026), 17 juni 2022 nr. 44 (i kraft 17 juni 2022 iflg. res. 17 juni 2022 nr. 1037).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "7:36",
+      "chapter": "7",
+      "section": "36",
+      "title": "Begrensninger i hvem som er part og har klagerett i sak om spedbarnsadopsjon",
+      "content": "En søker som er registrert etter § 14 om spedbarnsadopsjon, regnes ikke som part i sak om tildeling av et barn til en annen søker. En søker som mener seg forbigått, kan ikke klage over at en annen har fått adoptere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "7:37",
+      "chapter": "7",
+      "section": "37",
+      "title": "Anonym adopsjon",
+      "content": "Forvaltningsloven § 18 første ledd er ikke til hinder for at partene i en adopsjonssak holdes ukjente for hverandre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "7:38",
+      "chapter": "7",
+      "section": "38",
+      "title": "Adoptivforeldrenes plikt til å fortelle barnet at det er adoptert",
+      "content": "Så snart det er tilrådelig, skal adoptivforeldrene fortelle barnet at det er adoptert, og informere barnet om dets etniske, religiøse, kulturelle og språklige bakgrunn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "7:39",
+      "chapter": "7",
+      "section": "39",
+      "title": "Adoptivbarnets og etterkommernes rett til opplysninger",
+      "content": "Et adoptivbarn som har fylt 18 år, har rett til å få opplyst fra adopsjonsmyndigheten hvem de opprinnelige foreldrene er. Adoptivbarnet skal få nødvendig veiledning i denne sammenhengen.\nNår et adoptivbarn har fylt 18 år, skal adopsjonsmyndigheten skriftlig informere barnet om at det har rett til opplysninger etter loven her, og om innsynsretten etter forvaltningsloven §§ 18 til 21.\nLever ikke adoptivbarnet, har adoptivbarnets etterkommere rett til å få opplyst hvem de opprinnelige foreldrene til adoptivbarnet er.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "7:40",
+      "chapter": "7",
+      "section": "40",
+      "title": "Frist for å omgjøre adopsjonsvedtak",
+      "content": "Et adopsjonsvedtak kan ikke omgjøres senere enn ti år etter vedtakstidspunktet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "7:41",
+      "chapter": "7",
+      "section": "41",
+      "title": "Kongens myndighet til å godkjenne vedtak",
+      "content": "Kongen kan med tilbakevirkende kraft godkjenne et adopsjonsvedtak som er gitt uten at lovens vilkår var oppfylt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "7:42",
+      "chapter": "7",
+      "section": "42",
+      "title": "Det faglig rådgivende utvalget for adopsjonssaker",
+      "content": "Departementet oppnevner det faglig rådgivende utvalget for adopsjonssaker. Utvalget skal bistå adopsjonsmyndigheten i vurderingen av søknader om adopsjon av spedbarn etter § 14 og tildelinger av barn fra utlandet etter § 22.\nDepartementet kan gi forskrift om sammensetningen av og behandlingsmåten i det faglig rådgivende utvalget for adopsjonssaker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "8:43",
+      "chapter": "8",
+      "section": "43",
+      "title": "Adopsjonssøknader som kan avgjøres i Norge",
+      "content": "En søknad om adopsjon og om forhåndssamtykke til å adoptere kan avgjøres i Norge dersom søkeren eller barnet har sitt vanlige bosted i Norge.\nSøknaden kan også avgjøres i Norge dersom søkeren eller barnet er norsk statsborger, og bostedslandet ikke har jurisdiksjon til å avgjøre en adopsjonssøknad fra søkeren. Søknaden kan dessuten avgjøres i Norge dersom det er særlige grunner til at saken avgjøres i Norge, og saken har nær tilknytning til Norge.\nFørste og andre ledd gjelder likevel ikke dersom noe annet følger av overenskomst med en annen stat.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "8:44",
+      "chapter": "8",
+      "section": "44",
+      "title": "Hvilket lands rett som skal gjelde",
+      "content": "En søknad om adopsjon og om forhåndssamtykke til å adoptere skal avgjøres etter norsk rett.\nGjelder søknaden adopsjon av et barn under 18 år som har sitt vanlige bosted i et annet land, skal spørsmålet om samtykke fra foreldre eller verger vurderes etter det andre landets rett.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "8:45",
+      "chapter": "8",
+      "section": "45",
+      "title": "Adopsjon av barn med tilknytning til et annet land enn Norge",
+      "content": "Gjelder søknaden adopsjon av et barn under 18 år som har tilknytning til et annet land enn Norge, skal det i vurderingen av barnets beste legges vekt på om adopsjonen også vil bli anerkjent i et land som søkeren eller barnet har så sterk tilknytning til at det ville medføre betydelig ulempe for barnet dersom adopsjonen ikke blir anerkjent der.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "8:46",
+      "chapter": "8",
+      "section": "46",
+      "title": "Anerkjennelse av en utenlandsk adopsjon",
+      "content": "En endelig adopsjonsavgjørelse fra en offentlig myndighet eller domstol i en annen stat anerkjennes i Norge dersom norske myndigheter har forhåndssamtykket til adopsjonen etter §§ 18, 20 og 21, eller dersom adopsjonen ble gitt eller anerkjent i det landet der søkeren hadde sitt vanlige bosted på avgjørelsestidspunktet.\nEn utenlandsk adopsjon av et barn under 18 år som hadde sitt vanlige bosted i Norge eller norsk statsborgerskap på avgjørelsestidspunktet, anerkjennes likevel ikke etter første ledd.\nFørste ledd gjelder ikke dersom noe annet følger av overenskomst med en annen stat.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "8:47",
+      "chapter": "8",
+      "section": "47",
+      "title": "Bekreftelse eller avgjørelse om anerkjennelse av en utenlandsk adopsjon",
+      "content": "Adopsjonsmyndigheten kan på anmodning fra den adopterte, den som har adoptert, eller en myndighet som må ta stilling til om en utenlandsk adopsjon skal anerkjennes som del av en sak, bekrefte at vilkårene i § 46 første ledd er oppfylt.\nNår det er til barnets beste og særlige grunner taler for det, kan adopsjonsmyndigheten avgjøre at en utenlandsk adopsjon som ikke anerkjennes etter § 46, likevel skal gjelde i Norge dersom barnet eller den som har adoptert, søker om det. Dette gjelder likevel ikke dersom noe annet følger av overenskomst med en annen stat.\nBekreftelse eller avgjørelse etter første og andre ledd skal uten videre legges til grunn av norske myndigheter.\nDepartementet kan gi forskrift om gjennomføring av reglene i §§ 46 og 47.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "8:48",
+      "chapter": "8",
+      "section": "48",
+      "title": "Anerkjennelse av en utenlandsk oppheving eller omgjøring av en adopsjon",
+      "content": "Har adoptivbarnet eller en av foreldrene sitt vanlige bosted i Norge, og en utenlandsk myndighet eller domstol opphever eller omgjør en utenlandsk adopsjon, anerkjennes avgjørelsen om dette i Norge dersom adopsjonsmyndigheten samtykker, og det ikke følger noe annet av overenskomst med en annen stat.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "8:49",
+      "chapter": "8",
+      "section": "49",
+      "title": "Rettsvirkningene av en anerkjent utenlandsk adopsjon",
+      "content": "En utenlandsk adopsjon som anerkjennes etter § 46 eller § 47, har samme rettsvirkning som en norsk adopsjon dersom ikke noe annet følger av overenskomst med en annen stat.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "8:50",
+      "chapter": "8",
+      "section": "50",
+      "title": "Ordre public",
+      "content": "Dersom det åpenbart vil være i strid med norsk rettsorden (ordre public), skal utenlandsk lov ikke ha virkning i Norge, og en utenlandsk adopsjon skal ikke gjelde i Norge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "9:51",
+      "chapter": "9",
+      "section": "51",
+      "title": "Straff",
+      "content": "Den som bryter forbudet i §§ 11, 30 eller 33, straffes med bøter eller fengsel i inntil 3 måneder.\nBrudd på taushetsplikten etter § 35 andre ledd straffes etter straffeloven § 209.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "10:52",
+      "chapter": "10",
+      "section": "52",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra det tidspunktet​1 Kongen bestemmer. Fra samme tidspunkt oppheves lov 28. februar 1986 nr. 8 om adopsjon.\nKongen kan bestemme at enkelte nye bestemmelser trer i kraft på et senere tidspunkt.\n1 Fra 1 juli 2018 iflg. res. 15 juni 2018 nr. 884.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "10:53",
+      "chapter": "10",
+      "section": "53",
+      "title": "Overgangsregler",
+      "content": "Loven gjelder for adopsjoner etter tidligere lovgivning, men for adopsjoner fra før 1. juli 1957 gjelder den bare dersom det er fastsatt utvidet arverett etter lov 2. april 1917 nr. 1 om adoption § 15 b, slik den lød etter lov 24. mai 1935 nr. 2 om endring i adopsjonsloven.\nLoven gjelder bare for adopsjonssøknader som mottas av adopsjonsmyndigheten etter lovens ikrafttredelse.\n§ 12 andre ledd og barnevernsloven § 5-10 gjelder for behandling av saker om samtykke til adopsjon som bringes inn for barneverns- og helsenemnda etter lovens ikrafttredelse. Er saken brakt inn for nemnda før lovens ikrafttredelse, skal disse bestemmelsene likevel gjelde dersom forhandlingsmøtet i nemnda ikke allerede er påbegynt. Ved rettslig overprøving av nemndas vedtak skal de regler som gjaldt da nemnda behandlet saken, anvendes.\nBestemmelsen i § 39 andre ledd gjelder bare for adopsjoner som er innvilget etter loven her.\nDepartementet kan fastsette ytterligere overgangsregler.\n0 Endret ved lov 18 juni 2021 nr. 97 (i kraft 1 jan 2023 iflg. res. 14 okt 2022 nr. 1739).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "10:54",
+      "chapter": "10",
+      "section": "54",
+      "title": "Endringer i andre lover",
+      "content": "Fra det tidspunktet loven trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "title": "Lovens formål",
+      "content": "Formålet med loven er at adopterte barn skal få en trygg oppvekst ved at det etableres varige, rettslige bånd som tilsvarer forholdet mellom barn og foreldre.\nVed adopsjon av personer som er fylt 18 år, er formålet med loven å bekrefte rettslig eksisterende bånd tilsvarende forholdet mellom barn og foreldre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "title": "Lovens anvendelse for Svalbard",
+      "content": "Kongen kan gi forskrift om at lovens offentligrettslige bestemmelser også skal gjelde for Svalbard, og kan fastsette særskilte regler av hensyn til forholdene der.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "1:3",
+      "chapter": "1",
+      "section": "3",
+      "title": "Adopsjonsmyndighet",
+      "content": "Departementet er adopsjonsmyndighet etter loven her. Departementet kan delegere sin myndighet. Myndigheten kan delegeres til ulike organer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "2:4",
+      "chapter": "2",
+      "section": "4",
+      "title": "Hensynet til barnets beste",
+      "content": "Barnets beste skal være det overordnede hensynet ved adopsjon. En søknad om adopsjon og om forhåndssamtykke til å adoptere kan bare innvilges når det er klart sannsynlig at adopsjonen vil bli til barnets beste.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "2:5",
+      "chapter": "2",
+      "section": "5",
+      "title": "Grunnleggende krav til adopsjonssøkere",
+      "content": "Bare den som har forutsetninger for å være en god omsorgsperson for barn, kan adoptere eller gis forhåndssamtykke til å adoptere. Søkeren må dessuten ha ønske om å oppfostre et barn eller ha oppfostret det barnet adopsjonen gjelder.\nDen som søker om å adoptere eller om forhåndssamtykke til å adoptere, skal legge fram en uttømmende politiattest.\nDepartementet kan gi forskrift om behandlingen av adopsjonssaker, utredning av adopsjonssøkerne, forhåndssamtykke til adopsjon, vilkår for å adoptere og krav til søkerne. Det kan blant annet fastsettes krav til søkerens alder, helse, vandel, økonomi, bolig, krav til hvor lenge to søkere skal ha bodd sammen, og krav om deltakelse på adopsjonsforberedende kurs. Det kan settes ulike krav til ulike typer adopsjon.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "2:6",
+      "chapter": "2",
+      "section": "6",
+      "title": "Krav om ekteskap og samboerskap og unntak fra dette",
+      "content": "Bare ektefeller og samboere kan adoptere sammen. Med samboere menes to personer som bor sammen i et stabilt og ekteskapslignende forhold.\nEn søker som er gift eller samboende, kan bare adoptere sammen med ektefellen eller samboeren. Den som er gift eller samboer, kan likevel adoptere alene dersom ektefellen eller samboeren er forsvunnet, er psykisk utviklingshemmet eller har en alvorlig psykisk sykdom.\nEn søker som er gift eller samboende, kan også adoptere alene dersom barnet er\na. barn av søkerens tidligere eller nåværende ektefelle eller samboer\nb. søkerens eget barn\nc. søkerens tidligere adoptivbarn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "2:7",
+      "chapter": "2",
+      "section": "7",
+      "title": "Vilkår for at enslige kan adoptere",
+      "content": "Enslige kan adoptere dersom de har forutsetninger for å ha eneomsorgen for et barn. Bare søkere som bor alene, regnes som enslige.\nDepartementet kan gi forskrift om vilkår for at enslige kan adoptere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "2:8",
+      "chapter": "2",
+      "section": "8",
+      "title": "Aldersgrense for å adoptere og begrensning for søkere som er fratatt rettslig handleevne",
+      "content": "Bare personer som har fylt 25 år, kan adoptere eller få forhåndssamtykke til å adoptere. En søker som har fylt 20 år, kan likevel adoptere eller få forhåndssamtykke til å adoptere dersom søkeren og barnet allerede er sterkt knyttet til hverandre.\nEn søker som etter vergemålsloven er fratatt rettslig handleevne på det personlige området, kan adoptere bare dersom søkeren og barnet allerede er sterkt knyttet til hverandre og søkerens verge samtykker til adopsjonen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "2:9",
+      "chapter": "2",
+      "section": "9",
+      "title": "Barnets deltakelse og samtykke til adopsjon",
+      "content": "Har barnet fylt 7 år, skal det gis mulighet til å uttale seg før det treffes vedtak om adopsjon. Det samme gjelder barn som er yngre enn 7 år, hvis barnet er i stand til å danne seg egne synspunkter. Barnet skal få informasjon om hva en adopsjon innebærer, og veiledning som er tilpasset barnets evne til å forstå. Barnets mening skal tillegges vekt i samsvar med dets alder og modenhet.\nEt barn som har fylt 12 år, kan adopteres bare hvis det samtykker til adopsjonen. Dette gjelder likevel ikke dersom barnet på grunn av psykisk utviklingshemming eller psykisk eller fysisk sykdom åpenbart ikke er i stand til å forstå hva et samtykke innebærer.\nFør barnet gir samtykke, skal det få informasjon om hva det innebærer å bli adoptert. Samtykket skal være skriftlig og gitt frivillig uten at barnet har fått eller blitt lovet vederlag eller noen annen ytelse for det. Bare en offentlig tjenesteperson kan ta imot eller bekrefte samtykket. Tjenestepersonen skal forsikre seg om at barnet har forstått informasjonen.\nKommunen skal bistå med å opplyse saken og innhente samtykke dersom adopsjonsmyndigheten ber om det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    },
+    {
+      "provision_ref": "2:10",
+      "chapter": "2",
+      "section": "10",
+      "title": "Foreldrenes samtykke til adopsjon",
+      "content": "Et barn under 18 år kan ikke adopteres uten samtykke fra den eller dem som har foreldreansvaret. Dersom en av dem som har foreldreansvar, er forsvunnet, eller dersom en av dem åpenbart ikke er i stand til å forstå hva et samtykke innebærer, er et samtykke fra den andre tilstrekkelig. Er begge i en situasjon som nevnt i andre punktum, kreves det samtykke fra barnets oppnevnte verge.\nFør et samtykke gis, skal foreldre og eventuelle verger få informasjon om hva det innebærer å samtykke. Samtykket skal være skriftlig og gitt frivillig uten motytelse. Bare en offentlig tjenesteperson eller en advokat kan ta imot eller bekrefte samtykket.\nForeldrenes samtykke etter første ledd kan ikke gis før to måneder etter at barnet er født. Også en forelder som har overført foreldreansvaret til den andre forelderen før barnet er to måneder gammelt, skal samtykke til adopsjonen.\nEn far eller mor som ikke har foreldreansvar, skal varsles og få uttale seg før adopsjonssøknaden avgjøres, jf. forvaltningsloven § 16.\nDersom andre enn foreldrene er oppnevnt som barnets verge, eller dersom far eller mor selv har verge, skal også vergen få uttale seg.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_10",
+        "source_heading": "§ 10."
+      }
+    },
+    {
+      "provision_ref": "2:11",
+      "chapter": "2",
+      "section": "11",
+      "title": "Forbud mot vederlag",
+      "content": "Det er ikke tillatt å gi eller love vederlag eller noen annen ytelse for å påvirke en person som skal samtykke til en adopsjon eller uttale seg om en søknad om adopsjon eller om forhåndssamtykke til å adoptere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_11",
+        "source_heading": "§ 11."
+      }
+    },
+    {
+      "provision_ref": "3:12",
+      "chapter": "3",
+      "section": "12",
+      "title": "Hvem som avgjør adopsjonssøknader",
+      "content": "Adopsjonsmyndigheten avgjør adopsjonssøknader.\nDersom barnevernstjenesten har overtatt omsorgen for et barn etter barnevernsloven § 5-1, skal adopsjonssaken avgjøres av barneverns- og helsenemnda etter barnevernsloven § 5-10. Når nemnda avgjør adopsjonssøknaden, skal likevel adopsjonsmyndigheten utstede adopsjonsbevillingen.\n0 Endret ved lov 18 juni 2021 nr. 97 (i kraft 1 jan 2023 iflg. res. 14 okt 2022 nr. 1739).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_12",
+        "source_heading": "§ 12."
+      }
+    },
+    {
+      "provision_ref": "3:13",
+      "chapter": "3",
+      "section": "13",
+      "title": "Adopsjon av ektefellens eller samboerens barn (stebarnsadopsjon)",
+      "content": "Den ene ektefellen kan adoptere den andre ektefellens barn dersom den andre ektefellen samtykker. Den som søker om å få adoptere ektefellens barn, skal ha oppfostret barnet i minst 5 år og ønske å oppfostre barnet videre. Når det er særlige grunner til det, kan det gjøres unntak fra kravet om oppfostringstid.\nEn skilt ektefelle kan med samtykke fra sin tidligere ektefelle adoptere dennes barn. En gjenlevende ektefelle kan adoptere sin avdøde ektefelles barn.\nFørste og andre ledd gjelder tilsvarende for samboere og tidligere samboere.\nNåværende eller tidligere ektefeller eller samboere av samme kjønn kan ikke adoptere et stebarn dersom barnet er adoptert fra et land som ikke tillater at personer av samme kjønn adopterer sammen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_13",
+        "source_heading": "§ 13."
+      }
+    },
+    {
+      "provision_ref": "3:14",
+      "chapter": "3",
+      "section": "14",
+      "title": "Adopsjon av spedbarn",
+      "content": "Spedbarn kan bare adopteres dersom foreldrene har gitt fra seg den faktiske omsorgen ved fødselen.\nAdopsjonsmyndigheten velger adoptivforeldre til barnet ut fra registeret over søkere og treffer vedtak i saker om adopsjon av spedbarn. Det skal innhentes en uttalelse fra det faglig rådgivende utvalget for adopsjonssaker om valget av adoptivforeldre til barnet. Uttalelsen skal tillegges stor vekt ved avgjørelsen.\nAdopsjonsmyndigheten skal følge opp spedbarnets foreldre og administrere registeret over søkere.\nDepartementet kan gi forskrift om formidlingsvirksomheten, saksbehandlingen, ansvaret for registeret over søkere og ansvaret overfor barnet og barnets opprinnelige foreldre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_14",
+        "source_heading": "§ 14."
+      }
+    },
+    {
+      "provision_ref": "3:15",
+      "chapter": "3",
+      "section": "15",
+      "title": "Ny adopsjon av adopterte",
+      "content": "Et adoptert barn kan bare adopteres på ny dersom sterke grunner taler for det. I vurderingen av ny adopsjon skal det særlig legges vekt på den familiesituasjonen barnet kommer til å få dersom det ikke blir adoptert på ny.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_15",
+        "source_heading": "§ 15."
+      }
+    },
+    {
+      "provision_ref": "3:16",
+      "chapter": "3",
+      "section": "16",
+      "title": "Adopsjon av en person som har fylt 18 år (voksenadopsjon)",
+      "content": "En person som har fylt 18 år, kan adopteres bare hvis det er klart sannsynlig at adopsjonen vil bli til beste for personen. Adopsjonssøkeren må dessuten ha oppfostret personen i minst 6 år, med mindre andre særlige grunner taler for adopsjon. I vurderingen skal det legges særlig vekt på tilknytningen mellom søkeren og den som søkes adoptert, den familietilknytningen som måtte falle bort ved adopsjonen, og eventuelle søsken som søkeren skal adoptere samtidig.\nEn person som etter vergemålsloven er fratatt rettslig handleevne på det personlige området, kan adopteres bare dersom vergen samtykker til adopsjonen.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_16",
+        "source_heading": "§ 16."
+      }
+    },
+    {
+      "provision_ref": "4:17",
+      "chapter": "4",
+      "section": "17",
+      "title": "Sentralmyndighet for Haagkonvensjonen 1993",
+      "content": "Departementet utpeker det organet som skal være sentralmyndighet etter Haagkonvensjonen 29. mai 1993 om vern av barn og samarbeid ved internasjonale adopsjoner. Sentralmyndigheten kan delegere sine oppgaver som sentralmyndighet til organisasjoner som har tillatelser etter §§ 31 og 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_17",
+        "source_heading": "§ 17."
+      }
+    },
+    {
+      "provision_ref": "4:18",
+      "chapter": "4",
+      "section": "18",
+      "title": "Forhåndssamtykke til internasjonal adopsjon",
+      "content": "For personer som har sitt vanlige bosted i Norge, kreves det forhåndssamtykke fra adopsjonsmyndigheten for å adoptere barn fra utlandet.\nEn søker kan få forhåndssamtykke til adopsjon av ett barn under 5 år eller av to søsken som begge er under 5 år.\nDepartementet kan i forskrift gi nærmere regler om aldersrammene etter andre ledd.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_18",
+        "source_heading": "§ 18."
+      }
+    },
+    {
+      "provision_ref": "4:19",
+      "chapter": "4",
+      "section": "19",
+      "title": "Behandling av søknader om forhåndssamtykke til internasjonal adopsjon",
+      "content": "Adopsjonsmyndigheten behandler søknader om forhåndssamtykke til adopsjon av barn som har sitt vanlige bosted i utlandet.\nKommunen skal bistå med å opplyse saken dersom adopsjonsmyndigheten ber om det.\nSkal adopsjonen gjennomføres etter at barnet er kommet til Norge, skal kommunen bistå også etter at barnet er kommet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_19",
+        "source_heading": "§ 19."
+      }
+    },
+    {
+      "provision_ref": "4:20",
+      "chapter": "4",
+      "section": "20",
+      "title": "Adopsjon av barn som har sitt vanlige bosted i utlandet",
+      "content": "Et barn som har sitt vanlige bosted i utlandet, kan bare adopteres gjennom en organisasjon som har tillatelse til adopsjonsformidling etter § 31, og som har tillatelse til å formidle barn fra særskilt angitte land etter § 32.\nAdopsjonsmyndigheten kan likevel gi forhåndssamtykke til å adoptere fra utlandet utenom en adopsjonsorganisasjon dersom\na. vilkårene for forhåndssamtykke etter loven og forskrift med hjemmel i loven er oppfylt\nb. minst én av søkerne har en spesiell tilknytning til det landet der barnet har sitt vanlige bosted\nc. ingen norsk adopsjonsorganisasjon har formidlingstillatelse i det landet der barnet har sitt vanlige bosted\nd. adopsjonen kan gjennomføres på en forsvarlig måte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_20",
+        "source_heading": "§ 20."
+      }
+    },
+    {
+      "provision_ref": "4:21",
+      "chapter": "4",
+      "section": "21",
+      "title": "Adopsjon av barn som søkeren har tilknytning til",
+      "content": "Dersom en søknad om forhåndssamtykke gjelder et bestemt barn som har sitt vanlige bosted i utlandet, kan adopsjonsmyndigheten gi forhåndssamtykke til å adoptere dersom\na. vilkårene for forhåndssamtykke etter loven og forskrift med hjemmel i loven er oppfylt\nb. minst én av søkerne har en spesiell tilknytning til det landet der barnet har sitt vanlige bosted\nc. minst én av søkerne har en nær personlig tilknytning til barnet eller barnets nære familie, og kontakten er etablert uten adopsjonshensikt\nd. barnet mangler trygghet og faste omsorgspersoner i det landet der barnet har sitt vanlige bosted\ne. adopsjonen kan gjennomføres på en forsvarlig måte.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_21",
+        "source_heading": "§ 21."
+      }
+    },
+    {
+      "provision_ref": "4:22",
+      "chapter": "4",
+      "section": "22",
+      "title": "Tildeling av barn fra utlandet",
+      "content": "Landet der barnet har sitt vanlige bosted, tildeler barnet til en søker som har fått forhåndssamtykke til å adoptere. Tildelingen skal godkjennes av adopsjonsmyndigheten. Før godkjenningen skal det vurderes om barnet har behov for spesiell støtte. Har barnet behov for spesiell støtte, skal det innhentes en uttalelse fra det faglig rådgivende utvalget for adopsjonssaker. Ved avgjørelsen av om tildelingen skal godkjennes, skal det legges stor vekt på uttalelsen.\nAdopsjonsmyndigheten etter første ledd kan delegere myndigheten til å godkjenne tildelinger av barn fra utlandet til organisasjoner som har tillatelser etter §§ 31 og 32.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_22",
+        "source_heading": "§ 22."
+      }
+    },
+    {
+      "provision_ref": "4:23",
+      "chapter": "4",
+      "section": "23",
+      "title": "Oppfølgingsrapporter til landet barnet ble adoptert fra",
+      "content": "Dersom myndighetene i landet barnet ble adoptert fra, krever oppfølgingsrapporter utarbeidet eller godkjent av offentlig myndighet om barnets situasjon i Norge, skal adopsjonsmyndigheten utarbeide slike rapporter i inntil 3 år etter at barnet har kommet til Norge.\nKommunen skal bistå med opplysninger til oppfølgningsrapportene og utarbeide oppfølgingsrapporter dersom adopsjonsmyndigheten ber om det.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_23",
+        "source_heading": "§ 23."
+      }
+    },
+    {
+      "provision_ref": "5:24",
+      "chapter": "5",
+      "section": "24",
+      "title": "Likestilling mellom adoptivbarn og andre barn",
+      "content": "Et adoptivbarn og dets etterkommere får samme rettslige stilling som om adoptivbarnet var adoptivforeldrenes egenfødte barn, dersom ikke noe annet følger av odelslova §§ 12 og 52, statsborgerloven § 5 og navneloven § 5.\nDersom en ektefelle eller samboer har adoptert den andre ektefellens eller samboerens barn, får barnet samme rettslige stilling som det ville ha fått om det var deres felles barn. Det samme gjelder dersom barnet adopteres av forelderens tidligere ektefelle eller samboer.\nEt adoptivbarns rettslige stilling overfor den opprinnelige slekten faller bort ved adopsjonen dersom ikke noe annet følger av § 25, ekteskapsloven § 3 eller straffeloven §§ 312 og 313.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_24",
+        "source_heading": "§ 24."
+      }
+    },
+    {
+      "provision_ref": "5:25",
+      "chapter": "5",
+      "section": "25",
+      "title": "Besøkskontakt mellom adoptivbarnet og dets opprinnelige foreldre",
+      "content": "Dersom en adopsjon er gjennomført etter barnevernsloven § 5-10, og barneverns- og helsenemnda har truffet vedtak om besøkskontakt mellom barnet og de opprinnelige foreldrene etter barnevernsloven § 5-11, gjelder § 24 med de begrensninger som måtte følge av vedtaket.\n0 Endret ved lov 18 juni 2021 nr. 97 (i kraft 1 jan 2023 iflg. res. 14 okt 2022 nr. 1739).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_25",
+        "source_heading": "§ 25."
+      }
+    },
+    {
+      "provision_ref": "5:26",
+      "chapter": "5",
+      "section": "26",
+      "title": "Barnets rettslige stilling etter ny adopsjon",
+      "content": "Blir et adoptert barn adoptert på ny, faller barnets rettslige stilling overfor de første adoptivforeldrene og deres slekt bort.\nEr den nye adopsjonen en adopsjon etter § 6 tredje ledd bokstav a til c, opphører rettsvirkningene av den første adopsjonen bare overfor den adoptivforelderen som barnet adopteres fra.\nRettsvirkningene av en ny adopsjon følger ellers av § 24.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_26",
+        "source_heading": "§ 26."
+      }
+    },
+    {
+      "provision_ref": "5:27",
+      "chapter": "5",
+      "section": "27",
+      "title": "Offentlige registre",
+      "content": "Det skal registreres i Folkeregisteret at et barn er adoptert. Departementet kan gi forskrift om at adopsjonen skal registreres i andre offentlige registre og protokoller.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_27",
+        "source_heading": "§ 27."
+      }
+    },
+    {
+      "provision_ref": "5:28",
+      "chapter": "5",
+      "section": "28",
+      "title": "Utvidet rettskraft og særregler om domstolsprøving",
+      "content": "Et endelig adopsjonsvedtak eller en rettskraftig dom om gyldigheten av et adopsjonsvedtak virker for og mot alle og legges til grunn i alle forhold der adopsjonen har betydning.\nSpørsmålet om gyldigheten av et adopsjonsvedtak kan ikke tas opp til prejudisiell prøving i en sak som gjelder et annet spørsmål.\nNår et adopsjonsvedtak skal prøves av en domstol, skal den som går til sak, varsle dem som var parter i adopsjonssaken.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_28",
+        "source_heading": "§ 28."
+      }
+    },
+    {
+      "provision_ref": "6:29",
+      "chapter": "6",
+      "section": "29",
+      "title": "Definisjon av adopsjonsformidling",
+      "content": "Med adopsjonsformidling menes handlinger og virksomhet som har til formål å skape kontakt mellom barn som kan adopteres, og personer som ønsker å adoptere. Adopsjonsformidling omfatter blant annet registrering av barn som kan adopteres, registrering eller utredning av søkere og valg av foreldre til det enkelte barn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_29",
+        "source_heading": "§ 29."
+      }
+    },
+    {
+      "provision_ref": "6:30",
+      "chapter": "6",
+      "section": "30",
+      "title": "Forbud mot adopsjonsformidling",
+      "content": "Det er forbudt for privatpersoner å drive adopsjonsformidling. Adopsjonsformidling kan bare foretas av organisasjoner med tillatelse fra adopsjonsmyndigheten.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_30",
+        "source_heading": "§ 30."
+      }
+    },
+    {
+      "provision_ref": "6:31",
+      "chapter": "6",
+      "section": "31",
+      "title": "Tillatelse til å drive adopsjonsformidling (driftstillatelse)",
+      "content": "Adopsjonsmyndigheten kan gi organisasjoner en tidsbegrenset tillatelse til å drive adopsjonsformidling. Det kan bare gis tillatelse til organisasjoner som\na. har adopsjonsformidling som hovedformål\nb. arbeider for barnets beste\nc. er ledet av og bemannet med personer som er kvalifisert til å arbeide med internasjonale adopsjoner\nd. ikke har økonomisk vinning som formål.\nDepartementet kan gi forskrift om hvilke krav som kan stilles til en organisasjon for å få driftstillatelse, til organisasjonens virksomhet og avviklingen av den.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_31",
+        "source_heading": "§ 31."
+      }
+    },
+    {
+      "provision_ref": "6:32",
+      "chapter": "6",
+      "section": "32",
+      "title": "Tillatelse til adopsjonsformidling fra enkeltland (formidlingstillatelse)",
+      "content": "Adopsjonsmyndigheten kan gi organisasjoner som har tillatelse etter § 31, særskilt tidsbegrenset tillatelse til å formidle barn fra enkeltland. En tillatelse gis på vilkår om at organisasjonen også får tillatelse fra hvert enkelt land til å formidle adopsjoner fra dette landet.\nDepartementet kan i forskrift gi nærmere regler om formidlingstillatelser.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_32",
+        "source_heading": "§ 32."
+      }
+    },
+    {
+      "provision_ref": "6:33",
+      "chapter": "6",
+      "section": "33",
+      "title": "Forbud mot å gi vederlag for å påvirke formidling av adopsjon",
+      "content": "Det er ikke tillatt å gi vederlag eller noen annen ytelse til organisasjoner, personer i organisasjoner eller andre som formidler en adopsjon når dette har til formål å påvirke en adopsjonsprosess eller utfallet av en adopsjonssak.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_33",
+        "source_heading": "§ 33."
+      }
+    },
+    {
+      "provision_ref": "6:34",
+      "chapter": "6",
+      "section": "34",
+      "title": "Tilsyn med adopsjonsorganisasjoner",
+      "content": "Adopsjonsmyndigheten fører tilsyn med alle sider av adopsjonsorganisasjonens virksomhet.\nAdopsjonsorganisasjonene kan gis pålegg om å rette på forhold som er i strid med lov, forskrift eller vilkår for tillatelser etter §§ 31 og 32.\nTillatelsene kan trekkes tilbake dersom lov, forskrift eller vilkår for tillatelsene etter §§ 31 og 32 ikke er oppfylt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_34",
+        "source_heading": "§ 34."
+      }
+    },
+    {
+      "provision_ref": "7:35",
+      "chapter": "7",
+      "section": "35",
+      "title": "Forholdet til forvaltningsloven mv.",
+      "content": "Forvaltningsloven gjelder ved behandlingen av adopsjonssaker dersom ikke noe annet følger av denne loven.\nEnhver som utfører tjeneste eller arbeid for barne-, ungdoms- og familieetaten eller en adopsjonsorganisasjon med tillatelse etter §§ 31 og 32, har taushetsplikt etter forvaltningsloven §§ 13 til 13 e og 13 g. Taushetsplikten omfatter også opplysninger om fødested, fødselsdato, personnummer, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted.\nOffentlige myndigheter kan, uten hinder av taushetsplikt, innhente opplysninger fra Folkeregisteret når det er nødvendig for å utføre oppgaver etter denne loven.\n0 Endret ved lover 18 juni 2021 nr. 127 (ikr. 1 juli 2021 iflg. res. 18 juni 2021 nr. 2026), 17 juni 2022 nr. 44 (i kraft 17 juni 2022 iflg. res. 17 juni 2022 nr. 1037).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_35",
+        "source_heading": "§ 35."
+      }
+    },
+    {
+      "provision_ref": "7:36",
+      "chapter": "7",
+      "section": "36",
+      "title": "Begrensninger i hvem som er part og har klagerett i sak om spedbarnsadopsjon",
+      "content": "En søker som er registrert etter § 14 om spedbarnsadopsjon, regnes ikke som part i sak om tildeling av et barn til en annen søker. En søker som mener seg forbigått, kan ikke klage over at en annen har fått adoptere.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_36",
+        "source_heading": "§ 36."
+      }
+    },
+    {
+      "provision_ref": "7:37",
+      "chapter": "7",
+      "section": "37",
+      "title": "Anonym adopsjon",
+      "content": "Forvaltningsloven § 18 første ledd er ikke til hinder for at partene i en adopsjonssak holdes ukjente for hverandre.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_37",
+        "source_heading": "§ 37."
+      }
+    },
+    {
+      "provision_ref": "7:38",
+      "chapter": "7",
+      "section": "38",
+      "title": "Adoptivforeldrenes plikt til å fortelle barnet at det er adoptert",
+      "content": "Så snart det er tilrådelig, skal adoptivforeldrene fortelle barnet at det er adoptert, og informere barnet om dets etniske, religiøse, kulturelle og språklige bakgrunn.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_38",
+        "source_heading": "§ 38."
+      }
+    },
+    {
+      "provision_ref": "7:39",
+      "chapter": "7",
+      "section": "39",
+      "title": "Adoptivbarnets og etterkommernes rett til opplysninger",
+      "content": "Et adoptivbarn som har fylt 18 år, har rett til å få opplyst fra adopsjonsmyndigheten hvem de opprinnelige foreldrene er. Adoptivbarnet skal få nødvendig veiledning i denne sammenhengen.\nNår et adoptivbarn har fylt 18 år, skal adopsjonsmyndigheten skriftlig informere barnet om at det har rett til opplysninger etter loven her, og om innsynsretten etter forvaltningsloven §§ 18 til 21.\nLever ikke adoptivbarnet, har adoptivbarnets etterkommere rett til å få opplyst hvem de opprinnelige foreldrene til adoptivbarnet er.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_39",
+        "source_heading": "§ 39."
+      }
+    },
+    {
+      "provision_ref": "7:40",
+      "chapter": "7",
+      "section": "40",
+      "title": "Frist for å omgjøre adopsjonsvedtak",
+      "content": "Et adopsjonsvedtak kan ikke omgjøres senere enn ti år etter vedtakstidspunktet.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_40",
+        "source_heading": "§ 40."
+      }
+    },
+    {
+      "provision_ref": "7:41",
+      "chapter": "7",
+      "section": "41",
+      "title": "Kongens myndighet til å godkjenne vedtak",
+      "content": "Kongen kan med tilbakevirkende kraft godkjenne et adopsjonsvedtak som er gitt uten at lovens vilkår var oppfylt.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_41",
+        "source_heading": "§ 41."
+      }
+    },
+    {
+      "provision_ref": "7:42",
+      "chapter": "7",
+      "section": "42",
+      "title": "Det faglig rådgivende utvalget for adopsjonssaker",
+      "content": "Departementet oppnevner det faglig rådgivende utvalget for adopsjonssaker. Utvalget skal bistå adopsjonsmyndigheten i vurderingen av søknader om adopsjon av spedbarn etter § 14 og tildelinger av barn fra utlandet etter § 22.\nDepartementet kan gi forskrift om sammensetningen av og behandlingsmåten i det faglig rådgivende utvalget for adopsjonssaker.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_42",
+        "source_heading": "§ 42."
+      }
+    },
+    {
+      "provision_ref": "8:43",
+      "chapter": "8",
+      "section": "43",
+      "title": "Adopsjonssøknader som kan avgjøres i Norge",
+      "content": "En søknad om adopsjon og om forhåndssamtykke til å adoptere kan avgjøres i Norge dersom søkeren eller barnet har sitt vanlige bosted i Norge.\nSøknaden kan også avgjøres i Norge dersom søkeren eller barnet er norsk statsborger, og bostedslandet ikke har jurisdiksjon til å avgjøre en adopsjonssøknad fra søkeren. Søknaden kan dessuten avgjøres i Norge dersom det er særlige grunner til at saken avgjøres i Norge, og saken har nær tilknytning til Norge.\nFørste og andre ledd gjelder likevel ikke dersom noe annet følger av overenskomst med en annen stat.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_43",
+        "source_heading": "§ 43."
+      }
+    },
+    {
+      "provision_ref": "8:44",
+      "chapter": "8",
+      "section": "44",
+      "title": "Hvilket lands rett som skal gjelde",
+      "content": "En søknad om adopsjon og om forhåndssamtykke til å adoptere skal avgjøres etter norsk rett.\nGjelder søknaden adopsjon av et barn under 18 år som har sitt vanlige bosted i et annet land, skal spørsmålet om samtykke fra foreldre eller verger vurderes etter det andre landets rett.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_44",
+        "source_heading": "§ 44."
+      }
+    },
+    {
+      "provision_ref": "8:45",
+      "chapter": "8",
+      "section": "45",
+      "title": "Adopsjon av barn med tilknytning til et annet land enn Norge",
+      "content": "Gjelder søknaden adopsjon av et barn under 18 år som har tilknytning til et annet land enn Norge, skal det i vurderingen av barnets beste legges vekt på om adopsjonen også vil bli anerkjent i et land som søkeren eller barnet har så sterk tilknytning til at det ville medføre betydelig ulempe for barnet dersom adopsjonen ikke blir anerkjent der.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_45",
+        "source_heading": "§ 45."
+      }
+    },
+    {
+      "provision_ref": "8:46",
+      "chapter": "8",
+      "section": "46",
+      "title": "Anerkjennelse av en utenlandsk adopsjon",
+      "content": "En endelig adopsjonsavgjørelse fra en offentlig myndighet eller domstol i en annen stat anerkjennes i Norge dersom norske myndigheter har forhåndssamtykket til adopsjonen etter §§ 18, 20 og 21, eller dersom adopsjonen ble gitt eller anerkjent i det landet der søkeren hadde sitt vanlige bosted på avgjørelsestidspunktet.\nEn utenlandsk adopsjon av et barn under 18 år som hadde sitt vanlige bosted i Norge eller norsk statsborgerskap på avgjørelsestidspunktet, anerkjennes likevel ikke etter første ledd.\nFørste ledd gjelder ikke dersom noe annet følger av overenskomst med en annen stat.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_46",
+        "source_heading": "§ 46."
+      }
+    },
+    {
+      "provision_ref": "8:47",
+      "chapter": "8",
+      "section": "47",
+      "title": "Bekreftelse eller avgjørelse om anerkjennelse av en utenlandsk adopsjon",
+      "content": "Adopsjonsmyndigheten kan på anmodning fra den adopterte, den som har adoptert, eller en myndighet som må ta stilling til om en utenlandsk adopsjon skal anerkjennes som del av en sak, bekrefte at vilkårene i § 46 første ledd er oppfylt.\nNår det er til barnets beste og særlige grunner taler for det, kan adopsjonsmyndigheten avgjøre at en utenlandsk adopsjon som ikke anerkjennes etter § 46, likevel skal gjelde i Norge dersom barnet eller den som har adoptert, søker om det. Dette gjelder likevel ikke dersom noe annet følger av overenskomst med en annen stat.\nBekreftelse eller avgjørelse etter første og andre ledd skal uten videre legges til grunn av norske myndigheter.\nDepartementet kan gi forskrift om gjennomføring av reglene i §§ 46 og 47.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_47",
+        "source_heading": "§ 47."
+      }
+    },
+    {
+      "provision_ref": "8:48",
+      "chapter": "8",
+      "section": "48",
+      "title": "Anerkjennelse av en utenlandsk oppheving eller omgjøring av en adopsjon",
+      "content": "Har adoptivbarnet eller en av foreldrene sitt vanlige bosted i Norge, og en utenlandsk myndighet eller domstol opphever eller omgjør en utenlandsk adopsjon, anerkjennes avgjørelsen om dette i Norge dersom adopsjonsmyndigheten samtykker, og det ikke følger noe annet av overenskomst med en annen stat.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_48",
+        "source_heading": "§ 48."
+      }
+    },
+    {
+      "provision_ref": "8:49",
+      "chapter": "8",
+      "section": "49",
+      "title": "Rettsvirkningene av en anerkjent utenlandsk adopsjon",
+      "content": "En utenlandsk adopsjon som anerkjennes etter § 46 eller § 47, har samme rettsvirkning som en norsk adopsjon dersom ikke noe annet følger av overenskomst med en annen stat.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_49",
+        "source_heading": "§ 49."
+      }
+    },
+    {
+      "provision_ref": "8:50",
+      "chapter": "8",
+      "section": "50",
+      "title": "Ordre public",
+      "content": "Dersom det åpenbart vil være i strid med norsk rettsorden (ordre public), skal utenlandsk lov ikke ha virkning i Norge, og en utenlandsk adopsjon skal ikke gjelde i Norge.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_50",
+        "source_heading": "§ 50."
+      }
+    },
+    {
+      "provision_ref": "9:51",
+      "chapter": "9",
+      "section": "51",
+      "title": "Straff",
+      "content": "Den som bryter forbudet i §§ 11, 30 eller 33, straffes med bøter eller fengsel i inntil 3 måneder.\nBrudd på taushetsplikten etter § 35 andre ledd straffes etter straffeloven § 209.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_51",
+        "source_heading": "§ 51."
+      }
+    },
+    {
+      "provision_ref": "10:52",
+      "chapter": "10",
+      "section": "52",
+      "title": "Ikrafttredelse",
+      "content": "Loven gjelder fra det tidspunktet​1 Kongen bestemmer. Fra samme tidspunkt oppheves lov 28. februar 1986 nr. 8 om adopsjon.\nKongen kan bestemme at enkelte nye bestemmelser trer i kraft på et senere tidspunkt.\n1 Fra 1 juli 2018 iflg. res. 15 juni 2018 nr. 884.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_52",
+        "source_heading": "§ 52."
+      }
+    },
+    {
+      "provision_ref": "10:53",
+      "chapter": "10",
+      "section": "53",
+      "title": "Overgangsregler",
+      "content": "Loven gjelder for adopsjoner etter tidligere lovgivning, men for adopsjoner fra før 1. juli 1957 gjelder den bare dersom det er fastsatt utvidet arverett etter lov 2. april 1917 nr. 1 om adoption § 15 b, slik den lød etter lov 24. mai 1935 nr. 2 om endring i adopsjonsloven.\nLoven gjelder bare for adopsjonssøknader som mottas av adopsjonsmyndigheten etter lovens ikrafttredelse.\n§ 12 andre ledd og barnevernsloven § 5-10 gjelder for behandling av saker om samtykke til adopsjon som bringes inn for barneverns- og helsenemnda etter lovens ikrafttredelse. Er saken brakt inn for nemnda før lovens ikrafttredelse, skal disse bestemmelsene likevel gjelde dersom forhandlingsmøtet i nemnda ikke allerede er påbegynt. Ved rettslig overprøving av nemndas vedtak skal de regler som gjaldt da nemnda behandlet saken, anvendes.\nBestemmelsen i § 39 andre ledd gjelder bare for adopsjoner som er innvilget etter loven her.\nDepartementet kan fastsette ytterligere overgangsregler.\n0 Endret ved lov 18 juni 2021 nr. 97 (i kraft 1 jan 2023 iflg. res. 14 okt 2022 nr. 1739).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_53",
+        "source_heading": "§ 53."
+      }
+    },
+    {
+      "provision_ref": "10:54",
+      "chapter": "10",
+      "section": "54",
+      "title": "Endringer i andre lover",
+      "content": "Fra det tidspunktet loven trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_54",
+        "source_heading": "§ 54."
+      }
+    }
+  ]
+}

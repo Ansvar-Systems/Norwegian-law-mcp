@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1997-07-18-798",
+  "type": "statute",
+  "title": "Provisorisk anordning om oppholdsforbud.",
+  "short_name": "Provisorisk anordning om oppholdsforbud",
+  "status": "in_force",
+  "issued_date": "1997-07-18",
+  "in_force_date": "1997-07-18",
+  "url": "https://lovdata.no/dokument/NLO/lov/1997-07-18-798",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ved fare for voldsutøvelse som ledd i et gjensidig oppgjør mellom grupper av personer der det på begge sider brukes voldelige midler, kan påtalemyndigheten forby en eller flere personer som tilhører eller har tilknytning til en av gruppene å oppholde seg på en eller flere eiendommer som er tilholdssted for en av gruppene, dersom det på grunn av vedkommendes opphold der er grunn til å frykte at voldsutøvelsen kan føre til skade på personer som bor eller oppholder seg i nærheten av tilholdsstedet. Når særlige grunner taler for det, kan forbudet som nevnt i første punktum også gjelde for en annen bestemt eiendom.\nNår særlige grunner taler for det, kan et forbud etter første ledd rettes mot enhver som tilhører eller har tilknytning til grupper som nevnt i første ledd. Forbudet kunngjøres ved oppslag.\nForbudet skal gjelde for en bestemt tid, høyst for ett år av gangen.\nPåtalemyndigheten må snarest mulig og senest 3 dager etter beslutningen bringe saken inn for forhørsretten som avgjør spørsmålet ved kjennelse. Straffeprosessloven §§ 174 første ledd, 175 første ledd, 177, 181 annet og tredje ledd, 184 og 187a gjelder tilsvarende så langt de passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den som forsettlig overtrer et forbud etter § 1, straffes med fengsel inntil seks måneder. Overtredelsen anses som forseelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Anordningen trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Ved fare for voldsutøvelse som ledd i et gjensidig oppgjør mellom grupper av personer der det på begge sider brukes voldelige midler, kan påtalemyndigheten forby en eller flere personer som tilhører eller har tilknytning til en av gruppene å oppholde seg på en eller flere eiendommer som er tilholdssted for en av gruppene, dersom det på grunn av vedkommendes opphold der er grunn til å frykte at voldsutøvelsen kan føre til skade på personer som bor eller oppholder seg i nærheten av tilholdsstedet. Når særlige grunner taler for det, kan forbudet som nevnt i første punktum også gjelde for en annen bestemt eiendom.\nNår særlige grunner taler for det, kan et forbud etter første ledd rettes mot enhver som tilhører eller har tilknytning til grupper som nevnt i første ledd. Forbudet kunngjøres ved oppslag.\nForbudet skal gjelde for en bestemt tid, høyst for ett år av gangen.\nPåtalemyndigheten må snarest mulig og senest 3 dager etter beslutningen bringe saken inn for forhørsretten som avgjør spørsmålet ved kjennelse. Straffeprosessloven §§ 174 første ledd, 175 første ledd, 177, 181 annet og tredje ledd, 184 og 187a gjelder tilsvarende så langt de passer.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Den som forsettlig overtrer et forbud etter § 1, straffes med fengsel inntil seks måneder. Overtredelsen anses som forseelse.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Anordningen trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1913-07-25-1",
+  "type": "statute",
+  "title": "Lov angaaende ophævelse av nogen bestemmelser om forkyndelse ved gudstjenesten og om nadverens forvaltning.",
+  "short_name": "Lov om endringer ved gudstjenesten m.m.",
+  "status": "in_force",
+  "issued_date": "1913-07-25",
+  "in_force_date": "1913-07-25",
+  "url": "https://lovdata.no/dokument/NLO/lov/1913-07-25-1",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Norske Lovs 2-2-1, forordningene av 23 november 1697 og 1 august 1707, reskript av 13 februar 1801 og andre bestemmelser, som maatte være til hinder for, at lægmænd uten teologisk utdannelse kan gives adgang til at præke eller avlægge kortere vidnesbyrd ved offentlig gudstjeneste i statskirken, sættes ut av kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kirkeritualet av 25 juli 1685 kap. V, Norske Lovs 2-5-2, reskript av 7 januar 1741 og andre bestemmelser, som maatte gjøre nadverforvaltning ved lægfolk til en ulovlig handling, eller som er til hinder for, at nadveren inden statskirken kan forvaltes utenfor kirkehuset, sættes ut av kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Norske Lovs 2-2-1, forordningene av 23 november 1697 og 1 august 1707, reskript av 13 februar 1801 og andre bestemmelser, som maatte være til hinder for, at lægmænd uten teologisk utdannelse kan gives adgang til at præke eller avlægge kortere vidnesbyrd ved offentlig gudstjeneste i statskirken, sættes ut av kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kirkeritualet av 25 juli 1685 kap. V, Norske Lovs 2-5-2, reskript av 7 januar 1741 og andre bestemmelser, som maatte gjøre nadverforvaltning ved lægfolk til en ulovlig handling, eller som er til hinder for, at nadveren inden statskirken kan forvaltes utenfor kirkehuset, sættes ut av kraft.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

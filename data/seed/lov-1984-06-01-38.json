@@ -1,0 +1,213 @@
+{
+  "id": "LOV-1984-06-01-38",
+  "type": "statute",
+  "title": "Lov om avsetning til konsolideringsfond for næringsdrivende selskaper og innretninger.",
+  "short_name": "Lov om konsolideringsfond for selskaper m v",
+  "status": "in_force",
+  "issued_date": "1984-06-01",
+  "in_force_date": "1984-01-01",
+  "url": "https://lovdata.no/dokument/NLO/lov/1984-06-01-38",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Hvem som kan foreta avsetning.",
+      "content": "Selskaper og innretninger som skattlegges i medhold av lov av 19. juni 1969 nr. 71​2 samt sparebanker,​3 foreninger av låntakere (kredittforeninger, hypotekforeninger) som har konsesjon etter lov av 11. juni 1976 nr. 71 om finansieringsvirksomhet,​4 stiftelser​5 og gjensidige forsikringsselskaper​6 kan kreve fradrag ved inntektsligningen for avsetning til fond etter reglene i denne lov.​7\n1 Endret ved lov 28 feb 1986 nr. 7.\n2 Jfr. lov 19 juni 1969 nr. 1 § 9 jfr. skattel. § 15.\n3 Jfr. lov 24 mai 1961 nr. 1 jfr. skattel. § 15.\n4 Nå lov 10 juni 1988 nr. 40.\n5 Jfr. lov 23 mai 1980 nr. 11 jfr. skattel. § 15 jfr. § 26 i og k.\n6 Jfr. lov 10 juni 1988 nr. 39 kap. 4, jfr. skattel. § 15.\n7 Jfr. lov 17 des 1982 nr. 73.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Beregningsgrunnlaget for avsetning.",
+      "content": "Avsetning beregnes av nettoinntekt ved kommuneskatteligningen før fradrag etter denne lov og lov av 19. juni 1969 nr. 72 om særlige skatteregler til fremme av distriktsutbygging. Inntekt som nevnt i § 3 regnes ikke med.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Begrensning av avsetning.",
+      "content": "Fradrag for avsetning gis ikke i inntekt vunnet ved utvinning av petroleum og rørledningstransport som nevnt i § 1 i lov av 13. juni 1975 nr. 35 om skattlegging av undersjøiske petroleumsforekomster m.v.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Avsetningens størrelse",
+      "content": "Fradrag for avsetning kan kreves med inntil 23 pst. av nettoinntekten ved kommuneskatteligningen.\n1 Endret ved lover 21 des 1984 nr. 87 20 des 1985 nr. 98, 18 des 1987 nr. 91, 23 des 1988 nr. 90.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Skatteplikt til flere kommuner.",
+      "content": "Har skattyteren inntekt i flere kommuner,​1 skal avsetningen fordeles i forhold til nettoinntekten i hver kommune.\n1 Jfr. skattel. § 20 jfr. § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Krav om avsetning.",
+      "content": "Krav om avsetning må fremsettes innen utløpet av selvangivelsesfristen.​1\n1 Jfr. ligningsl. § 4-7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Økning av avsetning.",
+      "content": "Fører ligningsbehandlingen til at skattyteren kunne ha foretatt større avsetning enn regnet med som maksimum, kan skattyteren øke avsetningen tilsvarende, forutsatt at økningen utgjør minst kr 2.000.\nRegulering av fondsavsetningen kan ikke foretas senere enn to år etter utløpet av vedkommende inntektsår.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Inntektsføring av avsatte beløp.",
+      "content": "Når beløp tas fra fondet, skal det skattlegges som inntekt samme år.​1\nHar skattyteren for vedkommende inntektsår inntekt i flere kommuner,​2 skal det inntektsførte beløp fordeles til beskatning i de enkelte kommuner i forhold til nettoinntekten i hver kommune.\n1 Jfr. skattel. § 50.\n2 Jfr. skattel. § 20 jfr. § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Ikrafttredelse.",
+      "content": "Denne lov gjelder første gang ved skattleggingen for 1984.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "title": "Hvem som kan foreta avsetning.",
+      "content": "Selskaper og innretninger som skattlegges i medhold av lov av 19. juni 1969 nr. 71​2 samt sparebanker,​3 foreninger av låntakere (kredittforeninger, hypotekforeninger) som har konsesjon etter lov av 11. juni 1976 nr. 71 om finansieringsvirksomhet,​4 stiftelser​5 og gjensidige forsikringsselskaper​6 kan kreve fradrag ved inntektsligningen for avsetning til fond etter reglene i denne lov.​7\n1 Endret ved lov 28 feb 1986 nr. 7.\n2 Jfr. lov 19 juni 1969 nr. 1 § 9 jfr. skattel. § 15.\n3 Jfr. lov 24 mai 1961 nr. 1 jfr. skattel. § 15.\n4 Nå lov 10 juni 1988 nr. 40.\n5 Jfr. lov 23 mai 1980 nr. 11 jfr. skattel. § 15 jfr. § 26 i og k.\n6 Jfr. lov 10 juni 1988 nr. 39 kap. 4, jfr. skattel. § 15.\n7 Jfr. lov 17 des 1982 nr. 73.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "title": "Beregningsgrunnlaget for avsetning.",
+      "content": "Avsetning beregnes av nettoinntekt ved kommuneskatteligningen før fradrag etter denne lov og lov av 19. juni 1969 nr. 72 om særlige skatteregler til fremme av distriktsutbygging. Inntekt som nevnt i § 3 regnes ikke med.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "title": "Begrensning av avsetning.",
+      "content": "Fradrag for avsetning gis ikke i inntekt vunnet ved utvinning av petroleum og rørledningstransport som nevnt i § 1 i lov av 13. juni 1975 nr. 35 om skattlegging av undersjøiske petroleumsforekomster m.v.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    },
+    {
+      "provision_ref": "4",
+      "section": "4",
+      "title": "Avsetningens størrelse",
+      "content": "Fradrag for avsetning kan kreves med inntil 23 pst. av nettoinntekten ved kommuneskatteligningen.\n1 Endret ved lover 21 des 1984 nr. 87 20 des 1985 nr. 98, 18 des 1987 nr. 91, 23 des 1988 nr. 90.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_4",
+        "source_heading": "§ 4."
+      }
+    },
+    {
+      "provision_ref": "5",
+      "section": "5",
+      "title": "Skatteplikt til flere kommuner.",
+      "content": "Har skattyteren inntekt i flere kommuner,​1 skal avsetningen fordeles i forhold til nettoinntekten i hver kommune.\n1 Jfr. skattel. § 20 jfr. § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_5",
+        "source_heading": "§ 5."
+      }
+    },
+    {
+      "provision_ref": "6",
+      "section": "6",
+      "title": "Krav om avsetning.",
+      "content": "Krav om avsetning må fremsettes innen utløpet av selvangivelsesfristen.​1\n1 Jfr. ligningsl. § 4-7.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_6",
+        "source_heading": "§ 6."
+      }
+    },
+    {
+      "provision_ref": "7",
+      "section": "7",
+      "title": "Økning av avsetning.",
+      "content": "Fører ligningsbehandlingen til at skattyteren kunne ha foretatt større avsetning enn regnet med som maksimum, kan skattyteren øke avsetningen tilsvarende, forutsatt at økningen utgjør minst kr 2.000.\nRegulering av fondsavsetningen kan ikke foretas senere enn to år etter utløpet av vedkommende inntektsår.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_7",
+        "source_heading": "§ 7."
+      }
+    },
+    {
+      "provision_ref": "8",
+      "section": "8",
+      "title": "Inntektsføring av avsatte beløp.",
+      "content": "Når beløp tas fra fondet, skal det skattlegges som inntekt samme år.​1\nHar skattyteren for vedkommende inntektsår inntekt i flere kommuner,​2 skal det inntektsførte beløp fordeles til beskatning i de enkelte kommuner i forhold til nettoinntekten i hver kommune.\n1 Jfr. skattel. § 50.\n2 Jfr. skattel. § 20 jfr. § 18.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_8",
+        "source_heading": "§ 8."
+      }
+    },
+    {
+      "provision_ref": "9",
+      "section": "9",
+      "title": "Ikrafttredelse.",
+      "content": "Denne lov gjelder første gang ved skattleggingen for 1984.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_9",
+        "source_heading": "§ 9."
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "LOV-1977-12-09-89",
+  "type": "statute",
+  "title": "Lov om tillegg til lov av 12 desember 1958 nr. 10 om yrkesskadetrygd",
+  "short_name": "Tilleggslov om yrkesskadetrygd",
+  "status": "in_force",
+  "issued_date": "1977-12-09",
+  "in_force_date": "1977-12-09",
+  "url": "https://lovdata.no/dokument/NLO/lov/1977-12-09-89",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Uførepensjoner, enkepensjoner og barnepensjoner til første barn når begge foreldre er døde, for skadetilfeller inntruffet i tidsrommet 1 januar 1960 – 31 desember 1970, eller som går inn under lov om yrkesskadetrygd ved omregning i henhold til nevnte lovs § 53 punkt 1 eller kapittel II i lov av 9 juni 1961 om endringer i lov om yrkesskadetrygd, skal forhøyes med 10 prosent, jfr. dog § 2.\nInvaliderenter med forsørgingstillegg og hjelpeløshetstillegg til skadet som var fylt 70 år før 1 januar 1960 skal gis et tillegg på 10 prosent, dersom skadetilfellet går i under en av de i lov om yrkesskadetrygd § 53 punkt 1 a-c nevnte lover og arbeidsevne er nedsatt med minst 30 prosent. Hjelpeløshetstillegget kan dog ikke settes høyere enn 2.400 kroner for året.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Bestemmelsene i § 1 gjelder ikke invaliderenter for skadetilfeller inntruffet før 1 januar 1960, dersom uføregraden er fastsatt lavere enn 30 prosent etter reglene i lov om yrkesskadetrygd. Bestemmelsene får heller ikke anvendelse på barnetillegg, pleietillegg, bevilgede enke- og enkemannspensjoner og ascendentpensjoner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1:1",
+      "chapter": "1",
+      "section": "1",
+      "content": "Uførepensjoner, enkepensjoner og barnepensjoner til første barn når begge foreldre er døde, for skadetilfeller inntruffet i tidsrommet 1 januar 1960 – 31 desember 1970, eller som går inn under lov om yrkesskadetrygd ved omregning i henhold til nevnte lovs § 53 punkt 1 eller kapittel II i lov av 9 juni 1961 om endringer i lov om yrkesskadetrygd, skal forhøyes med 10 prosent, jfr. dog § 2.\nInvaliderenter med forsørgingstillegg og hjelpeløshetstillegg til skadet som var fylt 70 år før 1 januar 1960 skal gis et tillegg på 10 prosent, dersom skadetilfellet går i under en av de i lov om yrkesskadetrygd § 53 punkt 1 a-c nevnte lover og arbeidsevne er nedsatt med minst 30 prosent. Hjelpeløshetstillegget kan dog ikke settes høyere enn 2.400 kroner for året.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "1:2",
+      "chapter": "1",
+      "section": "2",
+      "content": "Bestemmelsene i § 1 gjelder ikke invaliderenter for skadetilfeller inntruffet før 1 januar 1960, dersom uføregraden er fastsatt lavere enn 30 prosent etter reglene i lov om yrkesskadetrygd. Bestemmelsene får heller ikke anvendelse på barnetillegg, pleietillegg, bevilgede enke- og enkemannspensjoner og ascendentpensjoner.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    }
+  ]
+}

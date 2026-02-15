@@ -1,0 +1,220 @@
+name: Daily Data Freshness Check
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+    inputs:
+      auto_update:
+        description: 'Automatically ingest updates and open PR'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+permissions:
+  contents: read
+
+jobs:
+  check-statutes:
+    name: Check official-source statute updates
+    runs-on: ubuntu-latest
+    outputs:
+      updates_found: ${{ steps.check.outputs.updates_found }}
+      update_count: ${{ steps.check.outputs.update_count }}
+      update_ids: ${{ steps.check.outputs.update_ids }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Build TypeScript
+        run: npm run build
+
+      - name: Build database
+        run: npm run build:db
+
+      - name: Check for statute updates
+        id: check
+        run: |
+          npm run check-updates 2>&1 | tee check_output.txt || true
+
+          UPDATES=$(grep -c "UPDATE AVAILABLE" check_output.txt || echo "0")
+          IDS=$(grep "UPDATE AVAILABLE" check_output.txt | awk '{print $1}' | tr '\n' ' ' | sed 's/[[:space:]]*$//' || true)
+
+          echo "update_count=$UPDATES" >> $GITHUB_OUTPUT
+          echo "update_ids=$IDS" >> $GITHUB_OUTPUT
+
+          if [ "$UPDATES" -gt 0 ]; then
+            echo "updates_found=true" >> $GITHUB_OUTPUT
+          else
+            echo "updates_found=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Upload check log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: norwegian-law-check-output
+          path: check_output.txt
+          retention-days: 14
+
+  report:
+    name: Report results
+    needs: [check-statutes]
+    runs-on: ubuntu-latest
+    if: always()
+    permissions:
+      contents: read
+      issues: write
+
+    steps:
+      - name: Create/update issue if updates found
+        if: needs.check-statutes.outputs.updates_found == 'true'
+        uses: actions/github-script@v7
+        env:
+          UPDATE_COUNT: ${{ needs.check-statutes.outputs.update_count }}
+          UPDATE_IDS: ${{ needs.check-statutes.outputs.update_ids }}
+        with:
+          script: |
+            const count = process.env.UPDATE_COUNT;
+            const ids = process.env.UPDATE_IDS || '(none)';
+
+            const body = [
+              `## Data Freshness Check - ${new Date().toISOString().split('T')[0]}`,
+              '',
+              `Detected **${count}** potentially updated Norwegian statutes from official source channels.`,
+              '',
+              '### Candidate statute IDs',
+              '',
+              ids,
+              '',
+              '### Suggested update flow',
+              '```bash',
+              'npm run ingest -- <LOV-ID> data/seed/<LOV-ID>.json',
+              'npm run build:db',
+              'npm test',
+              '```',
+              '',
+              'Auto-update PR can be triggered via workflow dispatch with `auto_update: true`.',
+            ].join('\n');
+
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'data-update',
+            });
+
+            if (issues.length > 0) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issues[0].number,
+                title: 'Data Freshness: Norwegian statute updates available',
+                body,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: 'Data Freshness: Norwegian statute updates available',
+                body,
+                labels: ['data-update'],
+              });
+            }
+
+      - name: Close stale update issues when clean
+        if: needs.check-statutes.outputs.updates_found != 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'data-update',
+            });
+
+            for (const issue of issues) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                state: 'closed',
+                state_reason: 'completed',
+              });
+            }
+
+  auto-pr:
+    name: Auto-ingest and open PR
+    needs: [check-statutes]
+    if: |
+      github.event.inputs.auto_update == 'true' &&
+      needs.check-statutes.outputs.updates_found == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Build TypeScript
+        run: npm run build
+
+      - name: Ingest detected statute updates
+        env:
+          UPDATE_IDS: ${{ needs.check-statutes.outputs.update_ids }}
+        run: |
+          set -euo pipefail
+          UPDATED=0
+
+          for id in $UPDATE_IDS; do
+            safe_id=$(echo "$id" | tr -c 'A-Za-z0-9_-' '_')
+            echo "Ingesting $id -> data/seed/${safe_id}.json"
+            if npm run ingest -- "$id" "data/seed/${safe_id}.json"; then
+              UPDATED=$((UPDATED + 1))
+            fi
+          done
+
+          echo "Updated files: $UPDATED"
+
+      - name: Rebuild DB after ingestion
+        run: npm run build:db
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: codex/auto-norwegian-data-update
+          delete-branch: true
+          commit-message: 'chore(data): auto-update norwegian legal seeds'
+          title: 'chore(data): auto-update norwegian legal seeds'
+          body: |
+            Automated update from daily Norwegian legal data freshness workflow.
+
+            - Source: official Norwegian channels (Lovdata / publication links)
+            - License mode: policy-gated (full text for covered statute sources)
+            - Rebuilt DB with updated seeds
+
+            Please review ingestion output and licensing assumptions before merge.
+          labels: |
+            data-update
+            automated-pr

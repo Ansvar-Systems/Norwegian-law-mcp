@@ -1,0 +1,75 @@
+{
+  "id": "LOV-2012-11-30-70",
+  "type": "statute",
+  "title": "Lov om registrering av regjeringsmedlemmers, statssekretærers og politiske rådgiveres verv og økonomiske interesser",
+  "short_name": "Lov om registrering av verv og økonomiske interesser",
+  "status": "in_force",
+  "issued_date": "2012-11-30",
+  "in_force_date": "2012-11-30",
+  "url": "https://lovdata.no/dokument/NL/lov/2012-11-30-70",
+  "description": "Ingestion mode: full_text. Full-text ingestion is explicitly permitted by current policy. Attribution: Lovdata (official source) with source link and NLOD 2.0 attribution for covered content. Policy: full-text statute ingestion permitted for this source scope.",
+  "provisions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen i statsråd kan pålegge regjeringsmedlemmer, statssekretærer og politiske rådgivere å registrere sine verv og økonomiske interesser i et register som er tilgjengelig for allmennheten. De registrerte opplysningene skal tas ut av det elektroniske registeret etter at vedkommende har fratrådt som regjeringsmedlem, statssekretær eller politisk rådgiver.\n0 Endret ved lov 20 des 2023 nr. 112 (i kraft 20 des 2023 iflg. res. 20 des 2023 nr. 2134).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen i statsråd kan gi nærmere regler om hva registreringen skal omfatte, herunder at registreringen ikke skal angi beløp e.l. eller bare skal omfatte forhold som medfører ytelser over et visst beløp.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ],
+  "provision_versions": [
+    {
+      "provision_ref": "1",
+      "section": "1",
+      "content": "Kongen i statsråd kan pålegge regjeringsmedlemmer, statssekretærer og politiske rådgivere å registrere sine verv og økonomiske interesser i et register som er tilgjengelig for allmennheten. De registrerte opplysningene skal tas ut av det elektroniske registeret etter at vedkommende har fratrådt som regjeringsmedlem, statssekretær eller politisk rådgiver.\n0 Endret ved lov 20 des 2023 nr. 112 (i kraft 20 des 2023 iflg. res. 20 des 2023 nr. 2134).",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_1",
+        "source_heading": "§ 1."
+      }
+    },
+    {
+      "provision_ref": "2",
+      "section": "2",
+      "content": "Kongen i statsråd kan gi nærmere regler om hva registreringen skal omfatte, herunder at registreringen ikke skal angi beløp e.l. eller bare skal omfatte forhold som medfører ytelser over et visst beløp.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_2",
+        "source_heading": "§ 2."
+      }
+    },
+    {
+      "provision_ref": "3",
+      "section": "3",
+      "content": "Loven trer i kraft straks.",
+      "metadata": {
+        "source": "lovdata",
+        "source_node_id": "PARAGRAF_3",
+        "source_heading": "§ 3."
+      }
+    }
+  ]
+}
