@@ -7,9 +7,9 @@
     {
       "id": "no-001",
       "category": "article_retrieval",
-      "description": "Retrieve provision from Grunnloven (Constitution, LOV-1814-05-17)",
+      "description": "Retrieve provision from Straffeloven (Criminal Code, LOV-2005-05-20-28)",
       "tool": "get_provision",
-      "input": { "document_id": "LOV-1814-05-17", "section": "1" },
+      "input": { "document_id": "LOV-2005-05-20-28", "section": "1" },
       "assertions": { "result_not_empty": true, "fields_present": ["results"] }
     },
     {
@@ -17,31 +17,31 @@
       "category": "article_retrieval",
       "description": "Retrieve provision from Personopplysningsloven (Data Protection Act)",
       "tool": "get_provision",
-      "input": { "document_id": "LOV-2018-06-15-38", "section": "1" },
+      "input": { "document_id": "LOV-2018-06-15-38", "chapter": "1", "section": "1" },
       "assertions": { "result_not_empty": true, "fields_present": ["results"] }
     },
     {
       "id": "no-003",
       "category": "article_retrieval",
-      "description": "Retrieve all provisions of Grunnloven",
+      "description": "Retrieve all provisions of Straffeloven",
       "tool": "get_provision",
-      "input": { "document_id": "LOV-1814-05-17" },
+      "input": { "document_id": "LOV-2005-05-20-28" },
       "assertions": { "result_not_empty": true, "min_results": 5 }
     },
     {
       "id": "no-004",
       "category": "search",
-      "description": "Search for 'personopplysninger' returns data protection results",
+      "description": "Search for 'straff' returns criminal law results",
       "tool": "search_legislation",
-      "input": { "query": "personopplysninger" },
+      "input": { "query": "straff" },
       "assertions": { "result_not_empty": true, "min_results": 1 }
     },
     {
       "id": "no-005",
       "category": "search",
-      "description": "Search for 'arbeidsmiljo' returns labor law results",
+      "description": "Search for 'personopplysning' returns data protection results",
       "tool": "search_legislation",
-      "input": { "query": "arbeidsmiljo" },
+      "input": { "query": "personopplysning" },
       "assertions": { "result_not_empty": true, "min_results": 1 }
     },
     {
@@ -49,7 +49,7 @@
       "category": "citation_roundtrip",
       "description": "Validate a Norwegian legal citation",
       "tool": "validate_citation",
-      "input": { "citation": "LOV-1814-05-17 \u00a7 1" },
+      "input": { "citation": "LOV-2005-05-20-28 § 1" },
       "assertions": { "result_not_empty": true }
     },
     {
@@ -57,15 +57,15 @@
       "category": "citation_roundtrip",
       "description": "Format citation returns standard Norwegian format",
       "tool": "format_citation",
-      "input": { "citation": "LOV-1814-05-17 \u00a7 100" },
+      "input": { "citation": "LOV-2005-05-20-28 § 100" },
       "assertions": { "result_not_empty": true }
     },
     {
       "id": "no-008",
       "category": "currency",
-      "description": "Check currency of Grunnloven",
+      "description": "Check currency of Straffeloven",
       "tool": "check_currency",
-      "input": { "document_id": "LOV-1814-05-17" },
+      "input": { "document_id": "LOV-2005-05-20-28" },
       "assertions": { "result_not_empty": true }
     },
     {

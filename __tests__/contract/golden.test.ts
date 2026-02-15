@@ -1,23 +1,13 @@
 import { describe, it, expect, beforeAll, afterAll } from 'vitest';
 import { createHash } from 'node:crypto';
-import { readFileSync } from 'node:fs';
+import { readFileSync, rmdirSync, rmSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
+import { Client } from '@modelcontextprotocol/sdk/client/index.js';
+import { Server } from '@modelcontextprotocol/sdk/server/index.js';
+import { InMemoryTransport } from '@modelcontextprotocol/sdk/inMemory.js';
 import Database from '@ansvar/mcp-sqlite';
-
-import { searchLegislation, type SearchLegislationInput } from '../../src/tools/search-legislation.js';
-import { getProvision, type GetProvisionInput } from '../../src/tools/get-provision.js';
-import { validateCitationTool, type ValidateCitationInput } from '../../src/tools/validate-citation.js';
-import { formatCitationTool, type FormatCitationInput } from '../../src/tools/format-citation.js';
-import { checkCurrency, type CheckCurrencyInput } from '../../src/tools/check-currency.js';
-import { getEUBasis, type GetEUBasisInput } from '../../src/tools/get-eu-basis.js';
-import { getNorwegianImplementations, type GetNorwegianImplementationsInput } from '../../src/tools/get-swedish-implementations.js';
-import { searchEUImplementations, type SearchEUImplementationsInput } from '../../src/tools/search-eu-implementations.js';
-import { getPreparatoryWorks, type GetPreparatoryWorksInput } from '../../src/tools/get-preparatory-works.js';
-import { searchCaseLaw, type SearchCaseLawInput } from '../../src/tools/search-case-law.js';
-import { buildLegalStance, type BuildLegalStanceInput } from '../../src/tools/build-legal-stance.js';
-import { getProvisionEUBasis, type GetProvisionEUBasisInput } from '../../src/tools/get-provision-eu-basis.js';
-import { validateEUCompliance, type ValidateEUComplianceInput } from '../../src/tools/validate-eu-compliance.js';
+import { registerTools } from '../../src/tools/registry.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -104,38 +94,26 @@ function stringifyData(data: unknown): string {
   return JSON.stringify(data, null, 0) ?? '';
 }
 
-type DbInstance = InstanceType<typeof Database>;
-type ToolHandler = (db: DbInstance, args: Record<string, unknown>) => Promise<unknown>;
-
 async function callTool(
-  db: DbInstance,
+  mcpClient: Client,
   name: string,
   args: Record<string, unknown>,
 ): Promise<ToolResult> {
-  const toolMap: Record<string, ToolHandler> = {
-    search_legislation: (d, a) => searchLegislation(d, a as unknown as SearchLegislationInput),
-    get_provision: (d, a) => getProvision(d, a as unknown as GetProvisionInput),
-    search_case_law: (d, a) => searchCaseLaw(d, a as unknown as SearchCaseLawInput),
-    get_preparatory_works: (d, a) => getPreparatoryWorks(d, a as unknown as GetPreparatoryWorksInput),
-    validate_citation: (d, a) => validateCitationTool(d, a as unknown as ValidateCitationInput),
-    build_legal_stance: (d, a) => buildLegalStance(d, a as unknown as BuildLegalStanceInput),
-    format_citation: (_d, a) => formatCitationTool(a as unknown as FormatCitationInput),
-    check_currency: (d, a) => checkCurrency(d, a as unknown as CheckCurrencyInput),
-    get_eu_basis: (d, a) => getEUBasis(d, a as unknown as GetEUBasisInput),
-    get_norwegian_implementations: (d, a) => getNorwegianImplementations(d, a as unknown as GetNorwegianImplementationsInput),
-    search_eu_implementations: (d, a) => searchEUImplementations(d, a as unknown as SearchEUImplementationsInput),
-    get_provision_eu_basis: (d, a) => getProvisionEUBasis(d, a as unknown as GetProvisionEUBasisInput),
-    validate_eu_compliance: (d, a) => validateEUCompliance(d, a as unknown as ValidateEUComplianceInput),
-  };
-
-  const fn = toolMap[name];
-  if (!fn) {
-    return { tool: name, ok: false, error: { code: 'UNKNOWN_TOOL', message: `Unknown tool: ${name}` } };
-  }
-
   try {
-    const result = await fn(db, args);
-    return { tool: name, ok: true, data: result };
+    const result = await mcpClient.callTool({ name, arguments: args });
+    const content = result.content as Array<{ type: string; text: string }>;
+    const text = content?.[0]?.text ?? '';
+
+    if (result.isError) {
+      return { tool: name, ok: false, error: { code: 'TOOL_ERROR', message: text } };
+    }
+
+    try {
+      const data = JSON.parse(text) as unknown;
+      return { tool: name, ok: true, data };
+    } catch {
+      return { tool: name, ok: true, data: text };
+    }
   } catch (err) {
     return {
       tool: name,
@@ -146,7 +124,7 @@ async function callTool(
 }
 
 // ---------------------------------------------------------------------------
-// Load fixtures & set up DB
+// Load fixtures & set up MCP client/server
 // ---------------------------------------------------------------------------
 
 const fixturesPath = join(__dirname, '..', '..', 'fixtures', 'golden-tests.json');
@@ -155,37 +133,52 @@ const fixture = JSON.parse(fixtureContent) as GoldenTestsFile;
 
 const isNightly = process.env['CONTRACT_MODE'] === 'nightly';
 
-let db: DbInstance;
-
-beforeAll(() => {
-  const dbPath =
-    process.env['NORWEGIAN_LAW_DB_PATH'] ?? join(__dirname, '..', '..', 'data', 'database.db');
-  db = new Database(dbPath, { readonly: true });
-  db.pragma('journal_mode = WAL', { simple: true });
-});
-
-afterAll(() => {
-  db?.close();
-});
+let mcpClient: Client;
+let db: InstanceType<typeof Database>;
 
 // ---------------------------------------------------------------------------
 // Contract test runner
 // ---------------------------------------------------------------------------
 
 describe(`Contract tests: ${fixture.mcp_name}`, () => {
+  beforeAll(async () => {
+    const dbPath =
+      process.env['NORWEGIAN_LAW_DB_PATH'] ?? join(__dirname, '..', '..', 'data', 'database.db');
+    // Clean up stale lock dir and WAL files (WASM SQLite can't handle WAL mode)
+    try { rmdirSync(dbPath + '.lock'); } catch { /* ignore */ }
+    try { rmSync(dbPath + '-wal', { force: true }); } catch { /* ignore */ }
+    try { rmSync(dbPath + '-shm', { force: true }); } catch { /* ignore */ }
+    db = new Database(dbPath, { readonly: true });
+
+    const server = new Server(
+      { name: 'norwegian-law-test', version: '0.0.0' },
+      { capabilities: { tools: {} } },
+    );
+    registerTools(server, db);
+
+    mcpClient = new Client({ name: 'test-client', version: '0.0.0' }, { capabilities: {} });
+    const [clientTransport, serverTransport] = InMemoryTransport.createLinkedPair();
+    await server.connect(serverTransport);
+    await mcpClient.connect(clientTransport);
+  }, 30_000);
+
+  afterAll(() => {
+    db?.close();
+  });
+
   for (const test of fixture.tests) {
     describe(`[${test.id}] ${test.description}`, () => {
       let result: ToolResult;
 
       it('runs without throwing', async () => {
-        result = await callTool(db, test.tool, test.input);
+        result = await callTool(mcpClient, test.tool, test.input);
         expect(result).toBeDefined();
         expect(result.tool).toBe(test.tool);
       });
 
       if (test.assertions.result_not_empty) {
         it('result is not empty', async () => {
-          result ??= await callTool(db, test.tool, test.input);
+          result ??= await callTool(mcpClient, test.tool, test.input);
           if (result.ok) {
             expect(result.data).toBeDefined();
           } else {
@@ -197,7 +190,7 @@ describe(`Contract tests: ${fixture.mcp_name}`, () => {
       if (test.assertions.text_contains) {
         for (const needle of test.assertions.text_contains) {
           it(`result contains text "${needle}"`, async () => {
-            result ??= await callTool(db, test.tool, test.input);
+            result ??= await callTool(mcpClient, test.tool, test.input);
             const haystack = stringifyData(result.data).toLowerCase();
             expect(haystack).toContain(needle.toLowerCase());
           });
@@ -207,7 +200,7 @@ describe(`Contract tests: ${fixture.mcp_name}`, () => {
       if (test.assertions.any_result_contains) {
         for (const needle of test.assertions.any_result_contains) {
           it(`any result item contains "${needle}"`, async () => {
-            result ??= await callTool(db, test.tool, test.input);
+            result ??= await callTool(mcpClient, test.tool, test.input);
             const haystack = stringifyData(result.data).toLowerCase();
             expect(haystack).toContain(needle.toLowerCase());
           });
@@ -216,7 +209,7 @@ describe(`Contract tests: ${fixture.mcp_name}`, () => {
 
       if (test.assertions.fields_present) {
         it(`result has fields: ${test.assertions.fields_present.join(', ')}`, async () => {
-          result ??= await callTool(db, test.tool, test.input);
+          result ??= await callTool(mcpClient, test.tool, test.input);
           expect(result.ok).toBe(true);
           const data = result.data as Record<string, unknown>;
           expect(data).toBeDefined();
@@ -228,7 +221,7 @@ describe(`Contract tests: ${fixture.mcp_name}`, () => {
 
       if (test.assertions.text_not_empty) {
         it('result text is not empty', async () => {
-          result ??= await callTool(db, test.tool, test.input);
+          result ??= await callTool(mcpClient, test.tool, test.input);
           const text = stringifyData(result.data);
           expect(text.trim().length).toBeGreaterThan(0);
         });
@@ -236,7 +229,7 @@ describe(`Contract tests: ${fixture.mcp_name}`, () => {
 
       if (test.assertions.min_results !== undefined) {
         it(`returns at least ${test.assertions.min_results} results`, async () => {
-          result ??= await callTool(db, test.tool, test.input);
+          result ??= await callTool(mcpClient, test.tool, test.input);
           const data = result.data;
           const items = Array.isArray(data)
             ? data
@@ -249,7 +242,7 @@ describe(`Contract tests: ${fixture.mcp_name}`, () => {
 
       if (test.assertions.citation_url_pattern) {
         it(`citation URLs match pattern: ${test.assertions.citation_url_pattern}`, async () => {
-          result ??= await callTool(db, test.tool, test.input);
+          result ??= await callTool(mcpClient, test.tool, test.input);
           const urls = extractCitationUrls(result.data);
           const pattern = new RegExp(test.assertions.citation_url_pattern!);
           expect(urls.length).toBeGreaterThan(0);
@@ -278,7 +271,7 @@ describe(`Contract tests: ${fixture.mcp_name}`, () => {
         it.skipIf(!isNightly)(
           'citation URLs resolve (HTTP 200)',
           async () => {
-            result ??= await callTool(db, test.tool, test.input);
+            result ??= await callTool(mcpClient, test.tool, test.input);
             const urls = extractCitationUrls(result.data);
             expect(urls.length).toBeGreaterThan(0);
             for (const url of urls) {
@@ -294,7 +287,7 @@ describe(`Contract tests: ${fixture.mcp_name}`, () => {
 
       if (test.assertions.handles_gracefully) {
         it('handles gracefully (no unhandled exception)', async () => {
-          result ??= await callTool(db, test.tool, test.input);
+          result ??= await callTool(mcpClient, test.tool, test.input);
           expect(result.tool).toBe(test.tool);
         });
       }
