@@ -9,8 +9,8 @@ This document details what legal sources are **NOT** included in this Tool and t
 ⚠️ **This Tool is Incomplete** — Critical legal sources are missing.
 
 **Major Gaps:**
-1. 🇪🇺 **EU Regulations and Directives** — Swedish law increasingly implements EU law
-2. ⚖️ **CJEU Case Law** — Court of Justice of the European Union (binding on Swedish courts)
+1. 🇪🇺 **EU Regulations and Directives** — Norwegian law increasingly implements EU/EEA law
+2. ⚖️ **CJEU Case Law** — Court of Justice of the European Union (binding on Norwegian courts via EEA)
 3. 📜 **Historical Statute Versions** — Limited availability of provision wording over time
 4. 📚 **Legal Commentary** — No annotations, academic commentary, or practice guides
 5. 🏛️ **Lower Court Decisions** — District and appellate courts largely missing
@@ -35,9 +35,9 @@ This document details what legal sources are **NOT** included in this Tool and t
 **Status in This Tool**: ❌ **Not Included**
 
 **Why It Matters:**
-- EU Regulations are **directly applicable** in Sweden (no transposition required)
-- Supremacy clause — EU law overrides conflicting Swedish law
-- Swedish courts must apply EU Regulations alongside Swedish statutes
+- EU Regulations are applicable in Norway via the EEA Agreement (implementation required)
+- EEA Agreement — EU/EEA law has primacy when incorporated
+- Norwegian courts must apply EEA-relevant regulations alongside Norwegian statutes
 
 #### EU Directives
 
@@ -49,9 +49,9 @@ This document details what legal sources are **NOT** included in this Tool and t
 **Status in This Tool**: ❌ **Not Included**
 
 **Why It Matters:**
-- Sweden transposes Directives into national law (often visible in Swedish statutes)
+- Norway transposes Directives into national law via the EEA Agreement (often visible in Norwegian statutes)
 - Need EU Directive text to understand legislative intent and interpretation
-- CJEU interprets Directives — binding on Swedish courts
+- EFTA Court/CJEU interprets Directives — relevant for Norwegian courts
 
 #### CJEU Case Law
 
@@ -61,20 +61,20 @@ This document details what legal sources are **NOT** included in this Tool and t
 - *Google Spain* (C-131/12) — Right to be forgotten (GDPR)
 - *Schrems II* (C-311/18) — International data transfers
 - *Viking Line* (C-438/05) — Freedom of establishment vs. labor rights
-- *Åklagaren v. Hans Åkerberg Fransson* (C-617/10) — Ne bis in idem principle
+- *STX Norway* (E-2/11) — Posted workers in EEA context
 
 **Status in This Tool**: ❌ **Not Included**
 
 **Why It Matters:**
-- CJEU decisions are **binding** on Swedish courts
-- Supremacy and direct effect — CJEU interpretation prevails over national law
-- Swedish law must be interpreted consistently with CJEU precedent
+- EFTA Court decisions are **binding** on EEA EFTA states including Norway
+- Homogeneity principle — CJEU interpretation is highly relevant for Norwegian courts
+- Norwegian law must be interpreted consistently with EEA/CJEU precedent
 
 ---
 
-### Impact on Swedish Law Interpretation
+### Impact on Norwegian Law Interpretation
 
-**Problem**: Swedish law is increasingly **enmeshed with EU law**. Researching Swedish GDPR implementation (2018:218) without access to:
+**Problem**: Norwegian law is increasingly **enmeshed with EU/EEA law**. Researching Norwegian GDPR implementation (personopplysningsloven) without access to:
 - EU GDPR text
 - CJEU data protection case law
 - European Data Protection Board (EDPB) guidelines
@@ -86,19 +86,19 @@ This document details what legal sources are **NOT** included in this Tool and t
 A lawyer searches this Tool for "data breach notification requirements" and finds:
 
 ```
-Dataskyddslagen (2018:218) 3 kap. 5 §
-"En personuppgiftsansvarig ska anmäla en personuppgiftsincident till tillsynsmyndigheten..."
+Personopplysningsloven (LOV-2018-06-15-38) kapittel 3
+"En behandlingsansvarlig skal melde fra om brudd pa personopplysningssikkerheten til Datatilsynet..."
 ```
 
 **What's Missing:**
-- GDPR Article 33 (source of Swedish provision)
-- CJEU cases interpreting "without undue delay"
+- GDPR Article 33 (source of Norwegian provision)
+- EFTA Court/CJEU cases interpreting "without undue delay"
 - EDPB guidelines on notification scope
 - Article 29 Working Party opinions
 
 Without these sources, the lawyer may:
-- Miss CJEU case law limiting Swedish provision's scope
-- Incorrectly apply Swedish law where GDPR directly applies
+- Miss EFTA Court/CJEU case law limiting Norwegian provision's scope
+- Incorrectly apply Norwegian law where GDPR directly applies via EEA
 - Fail to advise on cross-border notification obligations under GDPR
 
 ---
@@ -110,9 +110,9 @@ Without these sources, the lawyer may:
 ```json
 {
   "mcpServers": {
-    "swedish-law": {
+    "norwegian-law": {
       "command": "npx",
-      "args": ["-y", "@ansvar/swedish-law-mcp"]
+      "args": ["-y", "@ansvar/norwegian-law-mcp"]
     },
     "eu-regulations": {
       "command": "npx",
@@ -128,7 +128,7 @@ Without these sources, the lawyer may:
 - EDPB guidelines and opinions
 - European Commission guidance
 
-**Combined Coverage**: Swedish law + EU law = more complete legal research
+**Combined Coverage**: Norwegian law + EU/EEA law = more complete legal research
 
 ---
 
@@ -139,8 +139,8 @@ Without these sources, the lawyer may:
 **Historical Provision Wording**: Provisions as they existed on specific dates in the past.
 
 **Example:**
-- **Current (2026)**: Dataskyddslagen 2018:218 has been amended 5 times
-- **Historical (2020)**: What did Chapter 3, Section 5 say on 2020-06-15?
+- **Current (2026)**: Personopplysningsloven LOV-2018-06-15-38 has been amended multiple times
+- **Historical (2020)**: What did kapittel 3 say on 2020-06-15?
 
 **Status in This Tool**:
 - ⚠️ **Limited**: Some historical versions in `legal_provision_versions` table
@@ -153,9 +153,9 @@ Without these sources, the lawyer may:
 
 #### Transitional Law Issues
 
-**Scenario**: Contract signed in 2019 references Dataskyddslagen. Dispute arises in 2026.
+**Scenario**: Contract signed in 2019 references personopplysningsloven. Dispute arises in 2026.
 
-**Question**: Which version of Dataskyddslagen applies — 2019 or 2026?
+**Question**: Which version of personopplysningsloven applies — 2019 or 2026?
 
 **Answer Depends On**:
 - Transitional provisions in amending statute
@@ -180,12 +180,12 @@ Without these sources, the lawyer may:
 ### Workaround
 
 **For Professional Use**:
-- **Karnov**: Comprehensive historical versions with annotations
-- **Riksdagen**: Query by publication date for original SFS text
-- **Manual Research**: SFS archive at universities and law libraries
+- **Lovdata Pro**: Historical versions with annotations
+- **Lovdata**: Query by publication date for original LOV text
+- **Manual Research**: LOV archive at universities and law libraries
 
 **For This Tool (Future Enhancement)**:
-- Ingest all SFS amendments systematically
+- Ingest all LOV amendments systematically
 - Build provision version graph (valid_from, valid_to)
 - Support `as_of_date` queries across all statutes
 
@@ -211,18 +211,18 @@ Without these sources, the lawyer may:
 
 ### Why Commentary Matters
 
-**Statutory Text is Ambiguous**: Swedish law, like all law, requires interpretation.
+**Statutory Text is Ambiguous**: Norwegian law, like all law, requires interpretation.
 
-**Example**: Dataskyddslagen 2018:218, 3 kap. 5 §
+**Example**: Personopplysningsloven (LOV-2018-06-15-38), kapittel 3
 
-> "En personuppgiftsansvarig ska anmäla en personuppgiftsincident till tillsynsmyndigheten **utan onödigt dröjsmål**..."
+> "En behandlingsansvarlig skal melde fra om brudd pa personopplysningssikkerheten til Datatilsynet **uten ugrunnet opphold**..."
 
-**Question**: What is "utan onödigt dröjsmål" (without undue delay)?
+**Question**: What is "uten ugrunnet opphold" (without undue delay)?
 
 **Answers Require Commentary**:
-- Integritetsskyddsmyndigheten (IMY) guidance: 72 hours in practice
-- CJEU case law on "without undue delay" under GDPR Article 33
-- Academic debate on Swedish vs. GDPR standard
+- Datatilsynet guidance: 72 hours in practice
+- EFTA Court/CJEU case law on "without undue delay" under GDPR Article 33
+- Academic debate on Norwegian vs. GDPR standard
 - Practitioner experience from enforcement actions
 
 **This Tool Provides**: Raw statute text
@@ -233,13 +233,13 @@ Without these sources, the lawyer may:
 ### Workaround
 
 **Commercial Databases**:
-- **Karnov**: Extensive annotations by legal experts
-- **Juno**: Practice notes and commentary
-- **Zeteo**: Academic literature integration
+- **Gyldendal Rettsdata**: Extensive annotations by legal experts
+- **Juridika**: Practice notes and commentary
+- **Lovdata Pro**: Extended legal information
 
 **Academic Resources**:
-- **Juridisk Tidskrift (JT)**: Leading Swedish law journal
-- **Svensk Juristtidning (SvJT)**: Academic commentary
+- **Lov og Rett**: Leading Norwegian law journal
+- **Tidsskrift for Rettsvitenskap (TfR)**: Academic commentary
 - University library databases (JSTOR, HeinOnline)
 
 ---
@@ -249,14 +249,13 @@ Without these sources, the lawyer may:
 ### What's Missing
 
 **Courts NOT Comprehensively Covered**:
-- **Tingsrätter** (District Courts) — Trial-level decisions
-- **Hovrätter** (Courts of Appeal) — Appellate decisions
-- **Förvaltningsrätter** (Administrative Courts) — First-instance admin law
-- **Kammarrätter** (Administrative Courts of Appeal)
+- **Tingretter** (District Courts) — Trial-level decisions
+- **Lagmannsretter** (Courts of Appeal) — Appellate decisions
+- **Forvaltningsdomstoler** (Administrative courts) — Limited in Norway
 
 **Status in This Tool**:
-- ✅ **Good Coverage**: Supreme courts (HD, HFD)
-- ⚠️ **Partial Coverage**: Some appellate court decisions (via lagen.nu)
+- ✅ **Good Coverage**: Supreme Court (Hoyesterett/HR)
+- ⚠️ **Partial Coverage**: Some appellate court decisions (via Lovdata)
 - ❌ **Poor Coverage**: District and administrative courts
 
 ---
@@ -265,7 +264,7 @@ Without these sources, the lawyer may:
 
 #### Precedential Value
 
-While Swedish law is not strictly bound by stare decisis, lower court decisions:
+While Norwegian law is not strictly bound by stare decisis, lower court decisions:
 - Indicate judicial trends and reasoning patterns
 - Fill gaps where Supreme Court has not ruled
 - Provide practical examples of statutory application
@@ -276,8 +275,8 @@ While Swedish law is not strictly bound by stare decisis, lower court decisions:
 #### Volume of Law Practice
 
 **Statistical Reality**:
-- **99% of cases** are decided by lower courts (never reach HD/HFD)
-- **Practitioners need** to know how Tingsrätt judges interpret statutes
+- **99% of cases** are decided by lower courts (never reach Hoyesterett)
+- **Practitioners need** to know how Tingrett judges interpret statutes
 - **Supreme Court cases** are rare and may not address common issues
 
 **This Tool's Bias**: Skewed toward Supreme Court decisions, missing the **bulk of judicial practice**.
@@ -287,12 +286,12 @@ While Swedish law is not strictly bound by stare decisis, lower court decisions:
 ### Workaround
 
 **Official Sources**:
-- **Domstol.se**: Individual court websites publish selected decisions
-- **InfoTorg Juridik**: Commercial database with lower court decisions
+- **Domstol.no**: Individual court websites publish selected decisions
+- **Lovdata Pro**: Commercial database with lower court decisions
 
 **Practical Research**:
-- Contact clerks at relevant Tingsrätt/Hovrätt
-- Freedom of Information requests (offentlighetsprincipen) for specific cases
+- Contact clerks at relevant Tingrett/Lagmannsrett
+- Freedom of Information requests (offentlighetsprinsippet) for specific cases
 
 ---
 
@@ -300,10 +299,10 @@ While Swedish law is not strictly bound by stare decisis, lower court decisions:
 
 ### What's Missing
 
-**Förarbeten (Preparatory Works)**:
-- **Propositioner** (Government Bills) — Detailed legislative intent and commentary
-- **SOU** (Statens offentliga utredningar) — Official government investigations
-- **Ds** (Departementsserier) — Departmental memoranda
+**Forarbeider (Preparatory Works)**:
+- **Proposisjoner** (Government Bills) — Detailed legislative intent and commentary
+- **NOU** (Norges offentlige utredninger) — Official government investigations
+- **Horing** (Consultation papers) — Departmental memoranda
 
 **Status in This Tool**:
 - ⚠️ **Limited**: Some preparatory works linked in `preparatory_works` table
@@ -312,84 +311,84 @@ While Swedish law is not strictly bound by stare decisis, lower court decisions:
 
 ---
 
-### Why Förarbeten Matter
+### Why Forarbeider Matter
 
-**Swedish Legal Method**: Statutory interpretation heavily relies on förarbeten.
+**Norwegian Legal Method**: Statutory interpretation heavily relies on forarbeider.
 
 **Hierarchy of Interpretation**:
-1. Statutory text (ordalydelsen)
-2. **Förarbeten** — Legislative history and intent
-3. Systematic interpretation (systematiken)
-4. Teleological interpretation (ändamålet)
+1. Statutory text (ordlyden)
+2. **Forarbeider** — Legislative history and intent
+3. Systematic interpretation (systematikken)
+4. Teleological interpretation (formalet)
 
-**Förarbeten are authoritative** for understanding ambiguous provisions.
+**Forarbeider are authoritative** for understanding ambiguous provisions.
 
-**Example**: Dataskyddslagen 2018:218
+**Example**: Personopplysningsloven (LOV-2018-06-15-38)
 
-**Question**: Does "personuppgiftsansvarig" include small non-profits?
+**Question**: Does "behandlingsansvarlig" include small non-profits?
 
-**Answer Found In**: Prop. 2017/18:105, p. 152 (Government Bill)
-> "Även små ideella föreningar omfattas av ansvarsbegreppet om de behandlar personuppgifter..."
+**Answer Found In**: Prop.56 L (2017-2018), p. 152 (Government Bill)
+> "Ogsa sma ideelle organisasjoner omfattes av ansvarsbegrepet dersom de behandler personopplysninger..."
 
-**This Tool**: ❌ Does not include Prop. 2017/18:105 full text
+**This Tool**: ❌ Does not include Prop.56 L (2017-2018) full text
 
 ---
 
 ### Workaround
 
 **Official Source**:
-- **Riksdagen.se**: Full-text propositioner and SOUs freely available
-- **Lagrummet.se**: Links to preparatory works for each statute
+- **Stortinget.no**: Full-text propositions and NOUs freely available
+- **Lovdata**: Links to preparatory works for each statute
 
 **Commercial Databases**:
-- **Karnov/Juno**: Indexed and searchable preparatory works with cross-references
+- **Gyldendal Rettsdata/Juridika**: Indexed and searchable preparatory works with cross-references
 
 **This Tool (Future Enhancement)**:
-- Ingest full-text propositioner via Riksdagen API
-- Link provisions to specific paragraphs in förarbeten
+- Ingest full-text propositions via Stortinget/Lovdata
+- Link provisions to specific paragraphs in forarbeider
 - Full-text search across preparatory works
 
 ---
 
-## 6. Administrative Regulations (Förordningar)
+## 6. Administrative Regulations (Forskrifter)
 
 ### What's Missing
 
 **Subordinate Legislation**:
-- **Förordningar** — Government regulations implementing statutes
-- **Myndighetsföreskrifter** — Agency regulations (e.g., IMY guidelines)
+- **Forskrifter** — Government regulations implementing statutes
+- **Rundskriv** — Agency circulars (e.g., Datatilsynet guidelines)
 - **EU Implementing Acts** — Commission regulations
 
 **Status in This Tool**: ❌ **Not Included**
 
 ---
 
-### Why Förordningar Matter
+### Why Forskrifter Matter
 
-**Statutory Delegation**: Statutes often delegate details to förordningar.
+**Statutory Delegation**: Statutes often delegate details to forskrifter.
 
-**Example**: Dataskyddslagen 2018:218, 7 kap. 1 §
+**Example**: Personopplysningsloven (LOV-2018-06-15-38)
 
-> "Regeringen eller den myndighet som regeringen bestämmer får meddela **föreskrifter om böter**..."
+> "Kongen kan gi forskrift om **botestraff**..."
 
-**Implementation**: Dataskyddsförordningen (2018:219) — Government regulation
+**Implementation**: Personopplysningsforskriften — Government regulation
 
-**This Tool Has**: Dataskyddslagen (statute)
-**This Tool Missing**: Dataskyddsförordningen (implementing regulation with penalty details)
+**This Tool Has**: Personopplysningsloven (statute)
+**This Tool Missing**: Personopplysningsforskriften (implementing regulation with penalty details)
 
-**Result**: Incomplete picture of data protection law without förordningar.
+**Result**: Incomplete picture of data protection law without forskrifter.
 
 ---
 
 ### Workaround
 
 **Official Sources**:
-- **Riksdagen.se**: SFS archive includes förordningar
-- **Lagrummet.se**: Links to related förordningar
-- **Agency websites**: Myndighetsföreskrifter published by Integritetsskyddsmyndigheten, Finansinspektionen, etc.
+- **Lovdata**: Includes forskrifter alongside lover
+- **Rettsinfo**: Links to related forskrifter
+- **Agency websites**: Rundskriv published by Datatilsynet, Finanstilsynet, etc.
 
 **This Tool (Future Enhancement)**:
-- Ingest förordningar alongside statutes
+- Ingest forskrifter alongside statutes
 - Link statutes to implementing regulations
 - Include agency guidelines and interpretive rules
 
@@ -399,7 +398,7 @@ While Swedish law is not strictly bound by stare decisis, lower court decisions:
 
 ### What's Missing
 
-**Treaties Sweden Has Ratified**:
+**Treaties Norway Has Ratified**:
 - **ECHR** (European Convention on Human Rights)
 - **ICCPR** (International Covenant on Civil and Political Rights)
 - **Geneva Conventions** (International humanitarian law)
@@ -411,16 +410,16 @@ While Swedish law is not strictly bound by stare decisis, lower court decisions:
 
 ### Why Treaties Matter
 
-**Constitutional Incorporation**: Sweden is **dualist** — treaties must be incorporated into Swedish law.
+**Constitutional Incorporation**: Norway is **dualist** — treaties must be incorporated into Norwegian law.
 
-**But**: ECtHR (European Court of Human Rights) case law heavily influences Swedish courts.
+**But**: ECtHR (European Court of Human Rights) case law heavily influences Norwegian courts.
 
 **Example**: ECHR Article 8 (right to privacy)
-- Incorporated via Europakonventionen (1994:1219)
-- ECtHR case law binding on Swedish courts
-- Influences interpretation of Swedish privacy laws
+- Incorporated via Menneskerettsloven (LOV-1999-05-21-30)
+- ECtHR case law binding on Norwegian courts
+- Influences interpretation of Norwegian privacy laws
 
-**This Tool**: ❌ Does not include Europakonventionen or ECtHR case law
+**This Tool**: ❌ Does not include Menneskerettsloven or ECtHR case law
 
 ---
 
@@ -432,7 +431,7 @@ While Swedish law is not strictly bound by stare decisis, lower court decisions:
 - **UN Treaty Collection**: International human rights treaties
 
 **Commercial Databases**:
-- **Karnov/Juno**: Include ECHR and other key treaties
+- **Gyldendal Rettsdata/Juridika**: Include ECHR and other key treaties
 
 ---
 
@@ -441,8 +440,8 @@ While Swedish law is not strictly bound by stare decisis, lower court decisions:
 ### What's Missing
 
 **Legal Dictionary**:
-- Swedish-English legal terms
-- Definitions of juridiska termer (legal terms of art)
+- Norwegian-English legal terms
+- Definitions of juridiske termer (legal terms of art)
 - Cross-references between concepts
 
 **Status in This Tool**: ⚠️ **Limited** — Some definitions in `definitions` table, but not comprehensive
@@ -451,29 +450,29 @@ While Swedish law is not strictly bound by stare decisis, lower court decisions:
 
 ### Why Definitions Matter
 
-**Example**: "God man" vs. "Förvaltare"
+**Example**: "Verge" vs. "Fremtidsfullmakt"
 
 **Question**: What's the difference?
 
 **This Tool**: May find statutes mentioning both, but no definitional guidance
 
 **Professional Databases**: Include legal dictionaries explaining distinction:
-- **God man**: Guardian for person who can manage some affairs
-- **Förvaltare**: Administrator for person incapable of managing own affairs
+- **Verge**: Guardian appointed by court for persons lacking legal capacity
+- **Fremtidsfullmakt**: Power of attorney granted for future incapacity
 
 ---
 
 ### Workaround
 
 **Resources**:
-- **Norstedts Juridiska Ordbok**: Swedish-English legal dictionary
-- **Karnov**: Built-in legal glossary
-- **Zeteo**: Terminology search across sources
+- **Juridisk ordbok**: Norwegian-English legal dictionary
+- **Gyldendal Rettsdata**: Built-in legal glossary
+- **Juridika**: Terminology search across sources
 
 **This Tool (Future Enhancement)**:
 - Expand `definitions` table systematically
 - Link definitions to provisions where terms are used
-- Swedish-English terminology mapping
+- Norwegian-English terminology mapping
 
 ---
 
@@ -481,18 +480,18 @@ While Swedish law is not strictly bound by stare decisis, lower court decisions:
 
 | Legal Source | Coverage | Impact on Professional Use | Workaround |
 |--------------|----------|---------------------------|------------|
-| **Swedish Statutes (SFS)** | ✅ Good | Low | N/A |
-| **Swedish Case Law (HD/HFD)** | ✅ Good | Low | Verify with Lagrummet |
-| **Swedish Case Law (Lower Courts)** | ⚠️ Partial | Medium | InfoTorg, Domstol.se |
+| **Norwegian Statutes (LOV)** | ✅ Good | Low | N/A |
+| **Norwegian Case Law (HR)** | ✅ Good | Low | Verify with Lovdata |
+| **Norwegian Case Law (Lower Courts)** | ⚠️ Partial | Medium | Lovdata Pro, Domstol.no |
 | **EU Regulations** | ❌ Missing | **High** | @ansvar/eu-regulations-mcp |
 | **EU Directives** | ❌ Missing | **High** | @ansvar/eu-regulations-mcp |
-| **CJEU Case Law** | ❌ Missing | **High** | EUR-Lex, Karnov |
-| **Historical Statute Versions** | ⚠️ Limited | Medium | Karnov, Riksdagen archive |
-| **Legal Commentary** | ❌ Missing | **High** | Karnov, Juno, academic journals |
-| **Preparatory Works (Full Text)** | ⚠️ Partial | Medium-High | Riksdagen.se, Karnov |
-| **Förordningar (Regulations)** | ❌ Missing | Medium | Riksdagen.se, Lagrummet |
+| **CJEU Case Law** | ❌ Missing | **High** | EUR-Lex, Gyldendal Rettsdata |
+| **Historical Statute Versions** | ⚠️ Limited | Medium | Lovdata Pro |
+| **Legal Commentary** | ❌ Missing | **High** | Gyldendal Rettsdata, Juridika, academic journals |
+| **Preparatory Works (Full Text)** | ⚠️ Partial | Medium-High | Stortinget.no, Lovdata |
+| **Forskrifter (Regulations)** | ❌ Missing | Medium | Lovdata, Rettsinfo |
 | **International Treaties** | ❌ Missing | Medium | ECHR, HUDOC, UN Treaty |
-| **Legal Definitions** | ⚠️ Limited | Low-Medium | Juridiska Ordbok, Karnov |
+| **Legal Definitions** | ⚠️ Limited | Low-Medium | Juridisk ordbok, Gyldendal Rettsdata |
 
 ---
 
@@ -510,19 +509,19 @@ While Swedish law is not strictly bound by stare decisis, lower court decisions:
 - Check CJEU case law on interpretation
 - Review EDPB/Commission guidance
 
-**3. Official Verification** (Lagrummet.se, Riksdagen.se)
+**3. Official Verification** (Lovdata.no, Stortinget.no)
 - Verify statute currency and amendments
 - Check official case law citations
 - Access preparatory works
 
-**4. Professional Database** (Karnov, Juno)
+**4. Professional Database** (Gyldendal Rettsdata, Juridika)
 - Read editorial commentary and annotations
 - Review practice notes and precedent analysis
 - Check cross-references and related sources
 - Confirm no recent developments missed
 
 **5. Academic Research** (If Needed)
-- Juridisk Tidskrift, SvJT articles
+- Lov og Rett, TfR articles
 - Doctoral dissertations and treatises
 - Comparative law sources
 
@@ -533,19 +532,19 @@ While Swedish law is not strictly bound by stare decisis, lower court decisions:
 ### Planned Enhancements
 
 **Near-Term (Next 6 Months)**:
-- [ ] Full-text preparatory works (propositioner, SOUs)
-- [ ] Förordningar (government regulations)
+- [ ] Full-text preparatory works (propositions, NOUs)
+- [ ] Forskrifter (government regulations)
 - [ ] Expanded definitions table
 - [ ] Historical statute version tracking
 
 **Medium-Term (6-12 Months)**:
 - [ ] Integration with @ansvar/eu-regulations-mcp (EU law layer)
 - [ ] ECHR and ECtHR case law
-- [ ] Lower court decision ingestion (via Domstol.se)
+- [ ] Lower court decision ingestion (via Domstol.no)
 - [ ] Legal commentary integration (if licensed sources available)
 
 **Long-Term (12+ Months)**:
-- [ ] Nordic law integration (Norway, Denmark, Finland)
+- [ ] Nordic law integration (Sweden, Denmark, Finland)
 - [ ] Comparative law sources
 - [ ] AI-powered cross-referencing and relationship mapping
 
@@ -555,7 +554,7 @@ While Swedish law is not strictly bound by stare decisis, lower court decisions:
 
 **Want a specific legal source added?**
 
-1. **Open GitHub Issue**: https://github.com/Ansvar-Systems/swedish-law-mcp/issues
+1. **Open GitHub Issue**: https://github.com/Ansvar-Systems/norwegian-law-mcp/issues
 2. **Label**: `coverage-enhancement`
 3. **Include**:
    - Source name and URL
@@ -570,7 +569,7 @@ While Swedish law is not strictly bound by stare decisis, lower court decisions:
 ## Summary: What This Tool Is NOT
 
 ❌ **NOT a complete legal research platform**
-❌ **NOT a substitute for Karnov/Juno/commercial databases**
+❌ **NOT a substitute for Gyldendal Rettsdata/Juridika/commercial databases**
 ❌ **NOT comprehensive without EU law integration**
 ❌ **NOT authoritative for professional legal work without verification**
 ❌ **NOT a replacement for reading preparatory works and commentary**

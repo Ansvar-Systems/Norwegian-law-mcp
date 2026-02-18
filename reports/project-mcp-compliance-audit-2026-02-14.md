@@ -8,7 +8,7 @@ None
 
 ## P1 Repositories (6)
 - `security-controls-mcp`: 9 findings
-- `swedish-law-mcp`: 7 findings
+- `norwegian-law-mcp`: 7 findings
 - `Vendor_Intelligence_MCP`: 8 findings
 - `Document-Logic-MCP`: 7 findings
 - `TPRM-Frameworks-mcp`: 7 findings
@@ -37,7 +37,7 @@ None
 | Repo | Priority | Runtime | Manifest | Server JSON | Annotations | Streamable HTTP | Privacy Doc | Findings |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | `security-controls-mcp` | P1 | N | Y | Y | N | N | N | 9 |
-| `swedish-law-mcp` | P1 | Y | Y | Y | N | Y | Y | 7 |
+| `norwegian-law-mcp` | P1 | Y | Y | Y | N | Y | Y | 7 |
 | `Vendor_Intelligence_MCP` | P1 | N | N | N | N | N | N | 8 |
 | `Document-Logic-MCP` | P1 | N | Y | N | N | N | N | 7 |
 | `TPRM-Frameworks-mcp` | P1 | N | Y | Y | N | N | N | 7 |
@@ -87,8 +87,8 @@ Manifest tools declared: 9
 - Remote-like server has no obvious OAuth 2.0 documentation/configuration.
 - No standard testing account/sample-data instructions detected for directory review.
 
-### swedish-law-mcp — P1
-Path: `/Users/jeffreyvonrotz/Projects/swedish-law-mcp`
+### norwegian-law-mcp — P1
+Path: `/Users/jeffreyvonrotz/Projects/norwegian-law-mcp`
 Runtime tools detected: 14
 Manifest tools declared: 14
 - Manifest lists tools not found in runtime: ['get_provision_at_date']

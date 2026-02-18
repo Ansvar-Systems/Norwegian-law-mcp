@@ -3,7 +3,7 @@
 ## Overview
 
 **Tool Name**: `get_provision_at_date`
-**Purpose**: Time-travel queries for Swedish statute provisions
+**Purpose**: Time-travel queries for Norwegian statute provisions
 **Category**: Historical Legal Research
 
 Retrieve the exact text of a statute provision as it read on a specific date in history, accounting for all amendments since original enactment.
@@ -11,8 +11,8 @@ Retrieve the exact text of a statute provision as it read on a specific date in 
 ## Use Cases
 
 1. **Historical Legal Research**
-   - "What did Dataskyddslagen 3:5 say in 2019 before the 2021 amendment?"
-   - "Show me how Brottsbalken 3:1 (murder) was worded in 1970"
+   - "What did personopplysningsloven 3:5 say in 2019 before the 2021 amendment?"
+   - "Show me how straffeloven 3:1 (murder) was worded in 1970"
 
 2. **Amendment Impact Analysis**
    - "When did this provision change?"
@@ -24,13 +24,13 @@ Retrieve the exact text of a statute provision as it read on a specific date in 
 
 4. **Compliance Verification**
    - "Was our 2020 policy compliant with the law at that time?"
-   - "What were the data retention rules on 2018-05-25 (GDPR effective date)?"
+   - "What were the data retention rules on 2018-07-20 (GDPR effective date in Norway)?"
 
 ## Parameters
 
 ```typescript
 interface GetProvisionAtDateParams {
-  sfs: string;              // Required: SFS number, e.g., "2018:218"
+  law_id: string;              // Required: LOV number, e.g., "LOV-2018-06-15-38"
   provision_ref: string;     // Required: e.g., "1:3" (chaptered) or "5" (flat)
   date: string;              // Required: ISO date "YYYY-MM-DD"
   include_amendments?: boolean; // Optional: include post-date amendments (default: false)
@@ -41,14 +41,14 @@ interface GetProvisionAtDateParams {
 
 | Parameter | Type | Required | Format | Example | Description |
 |-----------|------|----------|--------|---------|-------------|
-| `sfs` | string | Yes | `YYYY:NNN` | `"2018:218"` | SFS number identifying the statute |
+| `law_id` | string | Yes | `LOV-YYYY-MM-DD-NNN` | `"LOV-2018-06-15-38"` | LOV number identifying the statute |
 | `provision_ref` | string | Yes | `C:S` or `S` | `"1:3"` or `"5"` | Provision reference (chapter:section or section) |
 | `date` | string | Yes | `YYYY-MM-DD` | `"2020-06-15"` | ISO 8601 date for query |
 | `include_amendments` | boolean | No | - | `true` | Whether to include amendment history after this date |
 
 ### Validation Rules
 
-- **sfs**: Must match pattern `^\d{4}:\d+$` (e.g., 2018:218)
+- **law_id**: Must match pattern `^LOV-\d{4}-\d{2}-\d{2}-\d+$` (e.g., LOV-2018-06-15-38)
 - **provision_ref**: Must match statute structure (validated against database)
 - **date**: Must be valid ISO date between 1900-01-01 and today
 - **include_amendments**: Boolean, defaults to `false`
@@ -69,9 +69,9 @@ interface ProvisionVersion {
 }
 
 interface AmendmentRecord {
-  amended_by_sfs: string;    // SFS number of amending statute
+  amended_by_lov: string;    // LOV number of amending statute
   amendment_date: string;    // ISO date amendment took effect
-  amendment_type: string;    // e.g., "ändrad", "ny_lydelse", "upphävd"
+  amendment_type: string;    // e.g., "endret", "ny_lydelse", "opphevet"
   change_summary?: string;   // Human-readable summary of change
 }
 ```
@@ -82,7 +82,7 @@ interface AmendmentRecord {
 |--------|-------------|------------------|
 | `current` | This version is still in force | Querying today's date |
 | `historical` | This version has been superseded | Querying 2020 for provision amended in 2021 |
-| `future` | Provision enacted but not yet in force on queried date | Querying 2018-01-01 for provision in force 2018-05-25 |
+| `future` | Provision enacted but not yet in force on queried date | Querying 2018-01-01 for provision in force 2018-07-20 |
 | `not_found` | Provision does not exist in this statute | Invalid provision reference |
 
 ## SQL Query Logic
@@ -99,7 +99,7 @@ SELECT
   valid_from,
   valid_to
 FROM legal_provision_versions
-WHERE document_id = ?              -- sfs parameter
+WHERE document_id = ?              -- law_id parameter
   AND provision_ref = ?            -- provision_ref parameter
   AND (valid_from IS NULL OR valid_from <= ?) -- date parameter
   AND (valid_to IS NULL OR valid_to > ?)      -- date parameter
@@ -125,12 +125,12 @@ If `include_amendments = true`:
 
 ```sql
 SELECT
-  amended_by_sfs,
+  amended_by_lov,
   amendment_date,
   amendment_type,
   change_summary
 FROM statute_amendments
-WHERE target_document_id = ?      -- sfs parameter
+WHERE target_document_id = ?      -- law_id parameter
   AND target_provision_ref = ?    -- provision_ref parameter
   AND amendment_date > ?          -- version's valid_from
 ORDER BY amendment_date;
@@ -145,7 +145,7 @@ Returns all amendments that occurred **after** the queried date.
 **Request**:
 ```json
 {
-  "sfs": "2018:218",
+  "law_id": "LOV-2018-06-15-38",
   "provision_ref": "1:3",
   "date": "2020-01-01"
 }
@@ -157,21 +157,21 @@ Returns all amendments that occurred **after** the queried date.
   "provision_ref": "1:3",
   "chapter": "1",
   "section": "3",
-  "content": "Bestämmelserna i 2 § gäller inte i verksamhet som omfattas av lagen (2019:1182) om Säkerhetspolisens behandling av personuppgifter.",
-  "valid_from": "2018-05-25",
+  "content": "Bestemmelsene i § 2 gjelder ikke for virksomhet som omfattes av lov om Politiets sikkerhetstjenestes behandling av personopplysninger.",
+  "valid_from": "2018-07-20",
   "valid_to": "2021-12-01",
   "status": "historical"
 }
 ```
 
-**Interpretation**: On 2020-01-01, DSL 1:3 had its original text (before 2021:1174 amendment added Defense Agency exemptions).
+**Interpretation**: On 2020-01-01, popplyl 1:3 had its original text (before 2021 amendment added Defense Agency exemptions).
 
 ### Example 2: Current Version Query
 
 **Request**:
 ```json
 {
-  "sfs": "2018:218",
+  "law_id": "LOV-2018-06-15-38",
   "provision_ref": "1:3",
   "date": "2024-01-01"
 }
@@ -183,21 +183,21 @@ Returns all amendments that occurred **after** the queried date.
   "provision_ref": "1:3",
   "chapter": "1",
   "section": "3",
-  "content": "Bestämmelserna i 2 § gäller inte i verksamhet som omfattas av 1. lagen (2021:1171) om behandling av personuppgifter vid Försvarsmakten, 2. lagen (2021:1172) om behandling av personuppgifter vid Försvarets radioanstalt, eller 3. lagen (2019:1182) om Säkerhetspolisens behandling av personuppgifter. Lag (2021:1174).",
+  "content": "Bestemmelsene i § 2 gjelder ikke for virksomhet som omfattes av 1. lov om Forsvarets behandling av personopplysninger, 2. lov om Forsvarets etterretningstjenestes behandling av personopplysninger, eller 3. lov om Politiets sikkerhetstjenestes behandling av personopplysninger. Endret ved lov 18 juni 2021 nr 89.",
   "valid_from": "2021-12-01",
   "valid_to": null,
   "status": "current"
 }
 ```
 
-**Interpretation**: This is the current text (amended by 2021:1174), valid from 2021-12-01 onward.
+**Interpretation**: This is the current text (amended in 2021), valid from 2021-12-01 onward.
 
 ### Example 3: With Amendment History
 
 **Request**:
 ```json
 {
-  "sfs": "2018:218",
+  "law_id": "LOV-2018-06-15-38",
   "provision_ref": "1:3",
   "date": "2020-01-01",
   "include_amendments": true
@@ -210,16 +210,16 @@ Returns all amendments that occurred **after** the queried date.
   "provision_ref": "1:3",
   "chapter": "1",
   "section": "3",
-  "content": "Bestämmelserna i 2 § gäller inte...",
-  "valid_from": "2018-05-25",
+  "content": "Bestemmelsene i § 2 gjelder ikke...",
+  "valid_from": "2018-07-20",
   "valid_to": "2021-12-01",
   "status": "historical",
   "amendments": [
     {
-      "amended_by_sfs": "2021:1174",
+      "amended_by_lov": "LOV-2021-06-18-89",
       "amendment_date": "2021-12-01",
-      "amendment_type": "ändrad",
-      "change_summary": "Added exemptions for Defense Agency (1171) and Radio Agency (1172)"
+      "amendment_type": "endret",
+      "change_summary": "Added exemptions for Defense Agency and Intelligence Service"
     }
   ]
 }
@@ -232,7 +232,7 @@ Returns all amendments that occurred **after** the queried date.
 **Request**:
 ```json
 {
-  "sfs": "2018:218",
+  "law_id": "LOV-2018-06-15-38",
   "provision_ref": "1:3",
   "date": "2018-01-01"
 }
@@ -245,20 +245,20 @@ Returns all amendments that occurred **after** the queried date.
   "chapter": "1",
   "section": "3",
   "content": "",
-  "valid_from": "2018-05-25",
+  "valid_from": "2018-07-20",
   "valid_to": null,
   "status": "future"
 }
 ```
 
-**Interpretation**: DSL was enacted 2018-04-19 but didn't take effect until 2018-05-25 (GDPR effective date). On 2018-01-01, the provision existed but was not yet in force.
+**Interpretation**: personopplysningsloven was enacted 2018-06-15 but didn't take effect until 2018-07-20 (GDPR effective date in Norway). On 2018-01-01, the provision existed but was not yet in force.
 
 ### Example 5: Non-Existent Provision
 
 **Request**:
 ```json
 {
-  "sfs": "2018:218",
+  "law_id": "LOV-2018-06-15-38",
   "provision_ref": "99:99",
   "date": "2020-01-01"
 }
@@ -276,7 +276,7 @@ Returns all amendments that occurred **after** the queried date.
 }
 ```
 
-**Interpretation**: No provision "99:99" exists in Dataskyddslagen.
+**Interpretation**: No provision "99:99" exists in personopplysningsloven.
 
 ## Error Handling
 
@@ -285,9 +285,9 @@ Returns all amendments that occurred **after** the queried date.
 | Error Type | HTTP Code | Condition | Example |
 |------------|-----------|-----------|---------|
 | `InvalidDateError` | 400 | Date format invalid | `"2020-13-45"` (bad month/day) |
-| `InvalidSfsError` | 400 | SFS format invalid | `"2018-218"` (dash instead of colon) |
-| `StatuteNotFoundError` | 404 | Statute doesn't exist | `"9999:999"` |
-| `ProvisionNotFoundError` | 404 | Provision doesn't exist | `"99:99"` in DSL |
+| `InvalidLovError` | 400 | LOV format invalid | `"2018-218"` (wrong format) |
+| `StatuteNotFoundError` | 404 | Statute doesn't exist | `"LOV-9999-01-01-999"` |
+| `ProvisionNotFoundError` | 404 | Provision doesn't exist | `"99:99"` in popplyl |
 | `DatabaseError` | 500 | Database query failed | Connection timeout |
 
 ### Error Response Format
@@ -343,19 +343,19 @@ CREATE INDEX idx_provision_versions_window
 
 ```typescript
 // 1. Search for provisions about "data breach reporting"
-const provisions = searchLegislation({ query: "dataintrång rapportering" });
+const provisions = searchLegislation({ query: "datainnbrudd rapportering" });
 
 // 2. For each result, check historical version on specific date
 for (const provision of provisions) {
   const historicalVersion = getProvisionAtDate({
-    sfs: provision.document_id,
+    law_id: provision.document_id,
     provision_ref: provision.provision_ref,
     date: "2020-01-01"
   });
 
   // 3. Compare with current
   const currentVersion = getProvision({
-    sfs: provision.document_id,
+    law_id: provision.document_id,
     provision_ref: provision.provision_ref
   });
 
@@ -370,9 +370,9 @@ for (const provision of provisions) {
 ### Database Schema Requirements
 
 Requires:
-- ✅ `legal_provision_versions` table (already exists)
-- ✅ `statute_amendments` table (new, to be added)
-- ✅ `valid_from` and `valid_to` date columns populated
+- `legal_provision_versions` table (already exists)
+- `statute_amendments` table (new, to be added)
+- `valid_from` and `valid_to` date columns populated
 
 ### Data Quality Dependencies
 
@@ -383,10 +383,10 @@ Tool accuracy depends on:
 
 ### Known Limitations
 
-1. **Pre-digital statutes**: Historical text may be incomplete for statutes enacted before Riksdagen digitization (~1990s)
+1. **Pre-digital statutes**: Historical text may be incomplete for statutes enacted before Lovdata digitization (~1990s)
 2. **Transitional rules**: Complex phase-in schedules may require multiple version records per provision
 3. **Retroactive amendments**: Effective date may differ from amendment date
-4. **Consolidated text**: Riksdagen API returns consolidated text; historical reconstruction requires parsing amending statutes
+4. **Consolidated text**: Lovdata provides consolidated text; historical reconstruction requires parsing amending statutes
 
 ## Testing Strategy
 
@@ -396,27 +396,27 @@ Tool accuracy depends on:
 describe('get_provision_at_date', () => {
   it('should return historical version before amendment', () => {
     const result = getProvisionAtDate(db, {
-      sfs: '2018:218',
+      law_id: 'LOV-2018-06-15-38',
       provision_ref: '1:3',
       date: '2020-01-01'
     });
     expect(result.status).toBe('historical');
-    expect(result.content).not.toContain('2021:1171'); // Defense exemption not yet added
+    expect(result.content).not.toContain('Forsvarets'); // Defense exemption not yet added
   });
 
   it('should return current version for recent date', () => {
     const result = getProvisionAtDate(db, {
-      sfs: '2018:218',
+      law_id: 'LOV-2018-06-15-38',
       provision_ref: '1:3',
       date: '2024-01-01'
     });
     expect(result.status).toBe('current');
-    expect(result.content).toContain('2021:1171'); // Defense exemption present
+    expect(result.content).toContain('Forsvarets'); // Defense exemption present
   });
 
   it('should return future status for pre-enactment date', () => {
     const result = getProvisionAtDate(db, {
-      sfs: '2018:218',
+      law_id: 'LOV-2018-06-15-38',
       provision_ref: '1:3',
       date: '2018-01-01'
     });
@@ -425,7 +425,7 @@ describe('get_provision_at_date', () => {
 
   it('should return not_found for non-existent provision', () => {
     const result = getProvisionAtDate(db, {
-      sfs: '2018:218',
+      law_id: 'LOV-2018-06-15-38',
       provision_ref: '99:99',
       date: '2020-01-01'
     });
@@ -437,35 +437,35 @@ describe('get_provision_at_date', () => {
 ### Integration Tests
 
 Test with known amendment cases:
-- DSL 1:3 (amended 2021:1174)
-- BrB 3:1 (murder - amended 2019:805 to allow life imprisonment)
-- OSL (multiple amendments, complex history)
+- popplyl 1:3 (amended 2021)
+- straffeloven (murder - amended 2019)
+- offentleglova (multiple amendments, complex history)
 
 ### Edge Cases
 
 1. **Provision enacted mid-year**: Check dates before/after enactment
 2. **Multiple amendments same year**: Verify correct version selection
 3. **Repealed provision**: Query date after repeal should return last version
-4. **Inserted provision**: "5 a §" introduced between 5 and 6
+4. **Inserted provision**: "§ 5 a" introduced between 5 and 6
 
 ## Documentation for Users
 
 ### User-Facing Description
 
-> **Time-travel queries for Swedish statutes**
+> **Time-travel queries for Norwegian statutes**
 >
 > See how any statute provision was worded at a specific date in history. Useful for:
 > - Legal research: "What was the law on the date of this case?"
 > - Compliance: "Was our 2020 policy compliant at that time?"
 > - Legislative history: "When did this provision change?"
 >
-> Example: `get_provision_at_date("2018:218", "1:3", "2020-06-15")`
+> Example: `get_provision_at_date("LOV-2018-06-15-38", "1:3", "2020-06-15")`
 
 ### Common Queries
 
 | Question | Tool Call |
 |----------|-----------|
-| "What did DSL 3:5 say in 2019?" | `get_provision_at_date("2018:218", "3:5", "2019-12-31")` |
-| "Show me current text" | `get_provision_at_date("2018:218", "3:5", "2024-02-12")` |
-| "Was this in force on GDPR day?" | `get_provision_at_date("2018:218", "1:1", "2018-05-25")` |
+| "What did popplyl 3:5 say in 2019?" | `get_provision_at_date("LOV-2018-06-15-38", "3:5", "2019-12-31")` |
+| "Show me current text" | `get_provision_at_date("LOV-2018-06-15-38", "3:5", "2024-02-12")` |
+| "Was this in force on GDPR day?" | `get_provision_at_date("LOV-2018-06-15-38", "1:1", "2018-07-20")` |
 | "Compare 2020 vs 2023" | Call twice with `date: "2020-01-01"` and `"2023-01-01"` |

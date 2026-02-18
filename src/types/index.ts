@@ -25,7 +25,7 @@ export type {
   EUDocument,
   EUReference,
   EUBasisDocument,
-  SwedishImplementation,
   NorwegianImplementation,
+  SwedishImplementation,
   ProvisionEUReference,
 } from './eu-references.js';

@@ -1,10 +1,10 @@
--- EU References Schema for Swedish Law MCP
--- Tracks cross-references between Swedish law and EU directives/regulations
+-- EU References Schema for Norwegian Law MCP
+-- Tracks cross-references between Norwegian law and EU directives/regulations
 
 -- =============================================================================
 -- EU Documents Table
 -- =============================================================================
--- Stores metadata about EU directives and regulations referenced in Swedish law
+-- Stores metadata about EU directives and regulations referenced in Norwegian law
 CREATE TABLE IF NOT EXISTS eu_documents (
   id TEXT PRIMARY KEY,              -- Format: "directive:2016/679" or "regulation:2016/679"
   type TEXT NOT NULL,               -- "directive" or "regulation"
@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS eu_documents (
   community TEXT,                   -- "EU", "EG", "EEG", "Euratom"
   celex_number TEXT,                -- Official CELEX identifier (e.g., "32016L0680")
   title TEXT,                       -- English title
-  title_sv TEXT,                    -- Swedish title
+  title_no TEXT,                    -- Norwegian title
   short_name TEXT,                  -- Common abbreviation (e.g., "GDPR", "eIDAS")
   adoption_date TEXT,               -- ISO date of adoption
   entry_into_force_date TEXT,       -- ISO date when it entered into force
@@ -42,14 +42,14 @@ ON eu_documents(celex_number);
 -- =============================================================================
 -- EU References Table
 -- =============================================================================
--- Links Swedish provisions to EU documents they reference
+-- Links Norwegian provisions to EU documents they reference
 CREATE TABLE IF NOT EXISTS eu_references (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
 
-  -- Swedish source
+  -- Norwegian source
   source_type TEXT NOT NULL,        -- "provision", "document", "case_law"
   source_id TEXT NOT NULL,          -- provision.id or document.id
-  document_id TEXT NOT NULL REFERENCES legal_documents(id), -- SFS number
+  document_id TEXT NOT NULL REFERENCES legal_documents(id), -- LOV number
   provision_id INTEGER REFERENCES legal_provisions(id),      -- Optional: specific provision
 
   -- EU target
@@ -59,7 +59,7 @@ CREATE TABLE IF NOT EXISTS eu_references (
   -- Reference metadata
   reference_type TEXT NOT NULL,     -- Type of reference (see below)
   reference_context TEXT,           -- Surrounding text (for verification)
-  full_citation TEXT,               -- Full citation as it appears in Swedish text
+  full_citation TEXT,               -- Full citation as it appears in Norwegian text
 
   -- Implementation tracking
   is_primary_implementation BOOLEAN DEFAULT 0,  -- Is this the main implementing statute?
@@ -72,14 +72,14 @@ CREATE TABLE IF NOT EXISTS eu_references (
   -- Constraints
   CHECK (source_type IN ('provision', 'document', 'case_law')),
   CHECK (reference_type IN (
-    'implements',          -- Swedish law implements this EU directive
-    'supplements',         -- Swedish law supplements this EU regulation
+    'implements',          -- Norwegian law implements this EU directive
+    'supplements',         -- Norwegian law supplements this EU regulation
     'applies',             -- This EU regulation applies directly
     'references',          -- General reference to EU law
-    'complies_with',       -- Swedish law must comply with this
-    'derogates_from',      -- Swedish law derogates from this (allowed by EU law)
-    'amended_by',          -- Swedish law was amended to implement this
-    'repealed_by',         -- Swedish law was repealed by this EU act
+    'complies_with',       -- Norwegian law must comply with this
+    'derogates_from',      -- Norwegian law derogates from this (allowed by EU law)
+    'amended_by',          -- Norwegian law was amended to implement this
+    'repealed_by',         -- Norwegian law was repealed by this EU act
     'cites_article'        -- Cites specific article(s) of EU act
   )),
   CHECK (implementation_status IN ('complete', 'partial', 'pending', 'unknown')),
@@ -88,11 +88,11 @@ CREATE TABLE IF NOT EXISTS eu_references (
   UNIQUE(source_id, eu_document_id, eu_article)
 );
 
--- Index for Swedish document → EU lookups
+-- Index for Norwegian document → EU lookups
 CREATE INDEX IF NOT EXISTS idx_eu_references_document
 ON eu_references(document_id, eu_document_id);
 
--- Index for EU document → Swedish implementations lookups
+-- Index for EU document → Norwegian implementations lookups
 CREATE INDEX IF NOT EXISTS idx_eu_references_eu_document
 ON eu_references(eu_document_id, document_id);
 
@@ -108,11 +108,11 @@ WHERE is_primary_implementation = 1;
 -- =============================================================================
 -- EU Reference Keywords Table
 -- =============================================================================
--- Tracks implementation keywords found in Swedish law (for analysis)
+-- Tracks implementation keywords found in Norwegian law (for analysis)
 CREATE TABLE IF NOT EXISTS eu_reference_keywords (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   eu_reference_id INTEGER NOT NULL REFERENCES eu_references(id) ON DELETE CASCADE,
-  keyword TEXT NOT NULL,            -- "genomförande", "komplettering", etc.
+  keyword TEXT NOT NULL,            -- "gjennomforing", "supplerer", etc.
   position INTEGER,                 -- Position in text where keyword appears
 
   UNIQUE(eu_reference_id, keyword)
@@ -122,7 +122,7 @@ CREATE TABLE IF NOT EXISTS eu_reference_keywords (
 -- Views for Common Queries
 -- =============================================================================
 
--- View: Swedish statutes implementing each EU directive
+-- View: Norwegian statutes implementing each EU directive
 CREATE VIEW IF NOT EXISTS v_eu_implementations AS
 SELECT
   ed.id AS eu_document_id,
@@ -131,9 +131,9 @@ SELECT
   ed.number,
   ed.title,
   ed.short_name,
-  ld.id AS sfs_number,
-  ld.title AS swedish_title,
-  ld.short_name AS swedish_short_name,
+  ld.id AS law_id,
+  ld.title AS norwegian_title,
+  ld.short_name AS norwegian_short_name,
   er.reference_type,
   er.is_primary_implementation,
   er.implementation_status
@@ -143,7 +143,7 @@ JOIN legal_documents ld ON er.document_id = ld.id
 WHERE ed.type = 'directive'
 ORDER BY ed.year DESC, ed.number, ld.id;
 
--- View: EU regulations applied in Swedish law
+-- View: EU regulations applied in Norwegian law
 CREATE VIEW IF NOT EXISTS v_eu_regulations_applied AS
 SELECT
   ed.id AS eu_document_id,
@@ -151,7 +151,7 @@ SELECT
   ed.number,
   ed.title,
   ed.short_name,
-  COUNT(DISTINCT er.document_id) AS swedish_statute_count,
+  COUNT(DISTINCT er.document_id) AS norwegian_statute_count,
   COUNT(er.id) AS total_references
 FROM eu_documents ed
 JOIN eu_references er ON ed.id = er.eu_document_id
@@ -159,10 +159,10 @@ WHERE ed.type = 'regulation'
 GROUP BY ed.id
 ORDER BY total_references DESC;
 
--- View: Swedish statutes with most EU references
+-- View: Norwegian statutes with most EU references
 CREATE VIEW IF NOT EXISTS v_statutes_by_eu_references AS
 SELECT
-  ld.id AS sfs_number,
+  ld.id AS law_id,
   ld.title,
   ld.short_name,
   COUNT(DISTINCT er.eu_document_id) AS eu_document_count,
@@ -176,10 +176,10 @@ WHERE ld.type = 'statute'
 GROUP BY ld.id
 ORDER BY total_references DESC;
 
--- View: GDPR implementations in Swedish law
+-- View: GDPR implementations in Norwegian law
 CREATE VIEW IF NOT EXISTS v_gdpr_implementations AS
 SELECT
-  ld.id AS sfs_number,
+  ld.id AS law_id,
   ld.title,
   lp.provision_ref,
   lp.content,
@@ -199,7 +199,7 @@ ORDER BY ld.id, lp.provision_ref;
 -- Insert GDPR (most referenced regulation)
 INSERT OR IGNORE INTO eu_documents (
   id, type, year, number, community, celex_number,
-  title, title_sv, short_name, adoption_date, entry_into_force_date,
+  title, title_no, short_name, adoption_date, entry_into_force_date,
   in_force, url_eur_lex, description
 ) VALUES (
   'regulation:2016/679',
@@ -209,7 +209,7 @@ INSERT OR IGNORE INTO eu_documents (
   'EU',
   '32016R0679',
   'Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data',
-  'Europaparlamentets och rådets förordning (EU) 2016/679 om skydd för fysiska personer med avseende på behandling av personuppgifter',
+  'Europaparlamentets og Radets forordning (EU) 2016/679 om vern av fysiske personer med hensyn til behandling av personopplysninger',
   'GDPR',
   '2016-04-27',
   '2018-05-25',
@@ -221,7 +221,7 @@ INSERT OR IGNORE INTO eu_documents (
 -- Insert Data Protection Directive (repealed by GDPR but still referenced)
 INSERT OR IGNORE INTO eu_documents (
   id, type, year, number, community, celex_number,
-  title, title_sv, short_name, adoption_date, entry_into_force_date,
+  title, title_no, short_name, adoption_date, entry_into_force_date,
   in_force, url_eur_lex, description, amended_by
 ) VALUES (
   'directive:95/46',
@@ -231,7 +231,7 @@ INSERT OR IGNORE INTO eu_documents (
   'EG',
   '31995L0046',
   'Directive 95/46/EC on the protection of individuals with regard to the processing of personal data',
-  'Direktiv 95/46/EG om skydd för enskilda vid behandling av personuppgifter',
+  'Direktiv 95/46/EF om vern av fysiske personer i forbindelse med behandling av personopplysninger',
   'Data Protection Directive',
   '1995-10-24',
   '1995-10-24',
@@ -244,7 +244,7 @@ INSERT OR IGNORE INTO eu_documents (
 -- Insert eIDAS Regulation
 INSERT OR IGNORE INTO eu_documents (
   id, type, year, number, community, celex_number,
-  title, title_sv, short_name, adoption_date, entry_into_force_date,
+  title, title_no, short_name, adoption_date, entry_into_force_date,
   in_force, url_eur_lex, description
 ) VALUES (
   'regulation:910/2014',
@@ -254,7 +254,7 @@ INSERT OR IGNORE INTO eu_documents (
   'EU',
   '32014R0910',
   'Regulation (EU) No 910/2014 on electronic identification and trust services for electronic transactions',
-  'Europaparlamentets och rådets förordning (EU) nr 910/2014 om elektronisk identifiering och betrodda tjänster',
+  'Europaparlamentets og Radets forordning (EU) nr 910/2014 om elektronisk identifikasjon og tillitstjenester',
   'eIDAS',
   '2014-07-23',
   '2016-07-01',
@@ -283,8 +283,8 @@ END;
 -- Queries for MCP Tool Implementation
 -- =============================================================================
 
--- Query 1: Get EU basis for a Swedish statute
--- Usage: get_eu_basis(sfs_number)
+-- Query 1: Get EU basis for a Norwegian statute
+-- Usage: get_eu_basis(law_id)
 /*
 SELECT
   ed.id,
@@ -310,11 +310,11 @@ ORDER BY
   ed.year DESC;
 */
 
--- Query 2: Get Swedish implementations of an EU directive
--- Usage: get_swedish_implementations(eu_directive_id)
+-- Query 2: Get Norwegian implementations of an EU directive
+-- Usage: get_norwegian_implementations(eu_directive_id)
 /*
 SELECT
-  ld.id AS sfs_number,
+  ld.id AS law_id,
   ld.title,
   ld.short_name,
   ld.status,
@@ -328,7 +328,7 @@ ORDER BY er.is_primary_implementation DESC, ld.id;
 */
 
 -- Query 3: Get provision-level EU references
--- Usage: get_provision_eu_basis(sfs_number, provision_ref)
+-- Usage: get_provision_eu_basis(law_id, provision_ref)
 /*
 SELECT
   ed.id,

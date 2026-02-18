@@ -27,12 +27,12 @@ assignees: ''
 
 ## Legal Data Issue (if applicable)
 
-**Statute (SFS number):**
-<!-- e.g., 2018:218 (DSL) -->
+**Statute (LOV number):**
+<!-- e.g., LOV-2018-06-15-38 (personopplysningsloven) -->
 
 
 **Provision:**
-<!-- e.g., 3 kap. 5 § -->
+<!-- e.g., kapittel 3 -->
 
 
 **Issue Type:**
@@ -53,7 +53,7 @@ assignees: ''
 - [ ] Other:
 
 **Version:**
-<!-- Check with: npm list @ansvar/swedish-law-mcp -->
+<!-- Check with: npm list @ansvar/norwegian-law-mcp -->
 
 
 **Operating System:**
@@ -67,5 +67,5 @@ assignees: ''
 <!-- If applicable -->
 
 
-**Riksdagen/lagen.nu Reference:**
+**Lovdata Reference:**
 <!-- If you've verified against official sources, include link -->

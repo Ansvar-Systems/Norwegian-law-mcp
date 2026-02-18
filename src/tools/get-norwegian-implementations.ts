@@ -1,21 +1,20 @@
 /**
  * EU implementation lookup tool.
  *
- * NOTE: This file keeps legacy "Swedish" export names for compatibility with
- * existing tests/clients while exposing Norwegian aliases used by this server.
+ * Finds Norwegian statutes implementing a specific EU directive or regulation.
  */
 
 import type { Database } from '@ansvar/mcp-sqlite';
-import type { EUDocument, SwedishImplementation } from '../types/index.js';
+import type { EUDocument, NorwegianImplementation } from '../types/index.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 
-export interface GetSwedishImplementationsInput {
+export interface GetNorwegianImplementationsInput {
   eu_document_id: string;
   primary_only?: boolean;
   in_force_only?: boolean;
 }
 
-export interface GetSwedishImplementationsResult {
+export interface GetNorwegianImplementationsResult {
   eu_document: {
     id: string;
     type: 'directive' | 'regulation';
@@ -25,7 +24,7 @@ export interface GetSwedishImplementationsResult {
     short_name?: string;
     celex_number?: string;
   };
-  implementations: SwedishImplementation[];
+  implementations: NorwegianImplementation[];
   statistics: {
     total_statutes: number;
     primary_implementations: number;
@@ -34,13 +33,15 @@ export interface GetSwedishImplementationsResult {
   };
 }
 
-export interface GetNorwegianImplementationsInput extends GetSwedishImplementationsInput {}
-export interface GetNorwegianImplementationsResult extends GetSwedishImplementationsResult {}
+/** @deprecated Use GetNorwegianImplementationsInput */
+export type GetSwedishImplementationsInput = GetNorwegianImplementationsInput;
+/** @deprecated Use GetNorwegianImplementationsResult */
+export type GetSwedishImplementationsResult = GetNorwegianImplementationsResult;
 
 async function runImplementationLookup(
   db: Database,
-  input: GetSwedishImplementationsInput
-): Promise<ToolResponse<GetSwedishImplementationsResult>> {
+  input: GetNorwegianImplementationsInput
+): Promise<ToolResponse<GetNorwegianImplementationsResult>> {
   if (!input.eu_document_id || !/^(directive|regulation):\d+\/\d+$/.test(input.eu_document_id)) {
     throw new Error(
       `Invalid EU document ID format: "${input.eu_document_id}". Expected format: "directive:YYYY/NNN" or "regulation:YYYY/NNN" (e.g., "regulation:2016/679")`
@@ -59,9 +60,9 @@ async function runImplementationLookup(
 
   let sql = `
     SELECT
-      ld.id AS sfs_number,
-      ld.title AS sfs_title,
-      ld.short_name AS sfs_short_name,
+      ld.id AS law_id,
+      ld.title AS law_title,
+      ld.short_name,
       ld.status,
       er.reference_type,
       er.is_primary_implementation,
@@ -88,9 +89,9 @@ async function runImplementationLookup(
   `;
 
   interface QueryRow {
-    sfs_number: string;
-    sfs_title: string;
-    sfs_short_name: string | null;
+    law_id: string;
+    law_title: string;
+    short_name: string | null;
     status: string;
     reference_type: string;
     is_primary_implementation: number;
@@ -100,16 +101,18 @@ async function runImplementationLookup(
 
   const rows = db.prepare(sql).all(...params) as QueryRow[];
 
-  const implementations: SwedishImplementation[] = rows.map(row => {
-    const impl: SwedishImplementation = {
-      sfs_number: row.sfs_number,
-      sfs_title: row.sfs_title,
+  const implementations: NorwegianImplementation[] = rows.map(row => {
+    const impl: NorwegianImplementation = {
+      law_id: row.law_id,
+      law_title: row.law_title,
+      sfs_number: row.law_id,
+      sfs_title: row.law_title,
       status: row.status,
       reference_type: row.reference_type as any,
       is_primary_implementation: row.is_primary_implementation === 1,
     };
 
-    if (row.sfs_short_name) impl.short_name = row.sfs_short_name;
+    if (row.short_name) impl.short_name = row.short_name;
     if (row.implementation_status) impl.implementation_status = row.implementation_status as any;
     if (row.articles_referenced) {
       impl.articles_referenced = row.articles_referenced.split(',').filter(a => a && a.trim());
@@ -118,7 +121,7 @@ async function runImplementationLookup(
     return impl;
   });
 
-  const result: GetSwedishImplementationsResult = {
+  const result: GetNorwegianImplementationsResult = {
     eu_document: {
       id: euDoc.id,
       type: euDoc.type,
@@ -143,10 +146,11 @@ async function runImplementationLookup(
   };
 }
 
+/** @deprecated Use getNorwegianImplementations */
 export async function getSwedishImplementations(
   db: Database,
-  input: GetSwedishImplementationsInput
-): Promise<ToolResponse<GetSwedishImplementationsResult>> {
+  input: GetNorwegianImplementationsInput
+): Promise<ToolResponse<GetNorwegianImplementationsResult>> {
   return runImplementationLookup(db, input);
 }
 

@@ -1,5 +1,5 @@
 /**
- * get_provision — Retrieve a specific provision from a Swedish statute.
+ * get_provision — Retrieve a specific provision from a Norwegian statute.
  */
 
 import type { Database } from '@ansvar/mcp-sqlite';
@@ -12,6 +12,7 @@ export interface GetProvisionInput {
   section?: string;
   provision_ref?: string;
   as_of_date?: string;
+  limit?: number;
 }
 
 export interface ProvisionResult {
@@ -69,10 +70,12 @@ export async function getProvision(
 
   const asOfDate = normalizeAsOfDate(input.as_of_date);
 
+  const limit = Math.min(Math.max(input.limit ?? 100, 1), 500);
+
   // If no specific provision, return all provisions for the document
   if (!provisionRef) {
     return {
-      results: getAllProvisions(db, input.document_id, asOfDate),
+      results: getAllProvisions(db, input.document_id, asOfDate, limit),
       _metadata: generateResponseMetadata(db)
     };
   }
@@ -146,7 +149,7 @@ export async function getProvision(
   };
 }
 
-function getAllProvisions(db: Database, documentId: string, asOfDate?: string): ProvisionResult[] {
+function getAllProvisions(db: Database, documentId: string, asOfDate?: string, limit = 100): ProvisionResult[] {
   let rows: ProvisionRow[];
 
   if (asOfDate) {
@@ -189,8 +192,9 @@ function getAllProvisions(db: Database, documentId: string, asOfDate?: string): 
       FROM ranked_versions
       WHERE version_rank = 1
       ORDER BY provision_ref
+      LIMIT ?
     `;
-    rows = db.prepare(sql).all(documentId, asOfDate, asOfDate) as ProvisionRow[];
+    rows = db.prepare(sql).all(documentId, asOfDate, asOfDate, limit) as ProvisionRow[];
   } else {
     const sql = `
       SELECT
@@ -209,8 +213,9 @@ function getAllProvisions(db: Database, documentId: string, asOfDate?: string): 
       JOIN legal_documents ld ON ld.id = lp.document_id
       WHERE lp.document_id = ?
       ORDER BY lp.id
+      LIMIT ?
     `;
-    rows = db.prepare(sql).all(documentId) as ProvisionRow[];
+    rows = db.prepare(sql).all(documentId, limit) as ProvisionRow[];
   }
 
   return rows.map(row => ({

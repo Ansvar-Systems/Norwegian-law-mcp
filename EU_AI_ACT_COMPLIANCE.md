@@ -212,7 +212,7 @@ Although not required for general-purpose AI, this analysis identifies potential
 
 ### Legal Research Tools Are Generally NOT High-Risk
 
-**Precedent**: Commercial legal databases (Karnov, Westlaw, LexisNexis) are NOT high-risk AI under the EU AI Act because:
+**Precedent**: Commercial legal databases (Gyldendal Rettsdata, Westlaw, LexisNexis) are NOT high-risk AI under the EU AI Act because:
 
 1. **User is lawyer/researcher**, not judge deciding a case
 2. **Purpose is research**, not case outcome determination
@@ -249,7 +249,7 @@ Although not required for general-purpose AI, this analysis identifies potential
 - [x] **Transparency (Article 50)**: AI disclosure in responses ✅
 - [x] **User Awareness (Article 52)**: Users know AI is used ✅
 - [x] **AI Literacy (Article 53)**: Documentation educates users ✅
-- [x] **Copyright (Article 53)**: Compliant with CC-BY attribution for lagen.nu data ✅
+- [x] **Copyright (Article 53)**: Compliant with NLOD 2.0 attribution for lovdata.no data ✅
 - [x] **System Documentation**: README, CLAUDE.md, and architecture docs ✅
 
 ### NOT Required (Not High-Risk)
@@ -310,7 +310,7 @@ The EU AI Act may evolve through:
 ### EU AI Act Questions
 
 For questions about this Tool's EU AI Act compliance:
-- Open GitHub issue: https://github.com/Ansvar-Systems/swedish-law-mcp/issues
+- Open GitHub issue: https://github.com/Ansvar-Systems/norwegian-law-mcp/issues
 - Tag: `compliance` or `eu-ai-act`
 
 ### Incident Reporting

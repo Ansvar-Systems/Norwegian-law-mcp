@@ -1,6 +1,6 @@
 # MCP Remediation Checklist (2026-02-14)
 
-Source audit: `/Users/jeffreyvonrotz/Projects/swedish-law-mcp/reports/project-mcp-compliance-audit-2026-02-14.json`
+Source audit: `/Users/jeffreyvonrotz/Projects/norwegian-law-mcp/reports/project-mcp-compliance-audit-2026-02-14.json`
 
 Execution rule: close all Wave 1 items before Wave 2; close all Wave 2 before Wave 3.
 
@@ -14,8 +14,8 @@ Global baseline to apply in every active MCP repo:
 
 ## Wave 1
 
-### swedish-law-mcp (P1)
-Path: `/Users/jeffreyvonrotz/Projects/swedish-law-mcp`
+### norwegian-law-mcp (P1)
+Path: `/Users/jeffreyvonrotz/Projects/norwegian-law-mcp`
 Required actions:
 - [ ] Manifest lists tools not found in runtime: ['get_provision_at_date']
 - [ ] Runtime exposes tools missing in manifest: ['about']

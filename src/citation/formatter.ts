@@ -1,16 +1,23 @@
 /**
- * Format Swedish legal citations per standard conventions.
+ * Format Norwegian legal citations per standard conventions.
+ *
+ * Supports both Norwegian LOV format and legacy Swedish SFS format.
  */
 
 import type { ParsedCitation, CitationFormat } from '../types/index.js';
 
 /**
- * Format a parsed citation into a standard Swedish citation string.
+ * Format a parsed citation into a standard citation string.
  *
- * Formats:
- *   - full:     "SFS 2018:218 3 kap. 5 §" or "Prop. 2017/18:105"
- *   - short:    "2018:218 3:5" or "Prop. 2017/18:105"
- *   - pinpoint: "3 kap. 5 §" (provision only, requires chapter/section)
+ * Norwegian LOV:
+ *   - full:     "LOV LOV-2018-06-15-38 kapittel 3 § 5"
+ *   - short:    "LOV-2018-06-15-38 3:5"
+ *   - pinpoint: "kapittel 3 § 5"
+ *
+ * Legacy SFS:
+ *   - full:     "SFS 2018:218 3 kap. 5 §"
+ *   - short:    "2018:218 3:5"
+ *   - pinpoint: "3 kap. 5 §"
  */
 export function formatCitation(citation: ParsedCitation, format: CitationFormat = 'full'): string {
   if (!citation.valid) {
@@ -21,9 +28,9 @@ export function formatCitation(citation: ParsedCitation, format: CitationFormat 
     case 'statute':
       return formatStatute(citation, format);
     case 'bill':
-      return `Prop. ${citation.document_id}`;
+      return formatBill(citation);
     case 'sou':
-      return `SOU ${citation.document_id}`;
+      return `NOU ${citation.document_id}`;
     case 'ds':
       return `Ds ${citation.document_id}`;
     case 'case_law':
@@ -33,37 +40,58 @@ export function formatCitation(citation: ParsedCitation, format: CitationFormat 
   }
 }
 
+function isNorwegianLov(documentId: string): boolean {
+  return /^LOV-\d{4}-\d{2}-\d{2}(?:-[A-Za-z0-9]+)?$/i.test(documentId);
+}
+
 function formatStatute(citation: ParsedCitation, format: CitationFormat): string {
   const { document_id, chapter, section } = citation;
-  const isNorwegianLov = /^LOV-\d{4}-\d{2}-\d{2}(?:-[A-Za-z0-9]+)?$/i.test(document_id);
+  const isLov = isNorwegianLov(document_id);
+  const chapterLabel = isLov ? 'kapittel' : 'kap.';
 
   if (format === 'pinpoint') {
-    if (chapter && section) return `${chapter} kap. ${section} §`;
+    if (chapter && section) return isLov ? `kapittel ${chapter} § ${section}` : `${chapter} kap. ${section} §`;
     if (section) return `${section} §`;
     return document_id;
   }
 
   if (format === 'short') {
     if (chapter && section) return `${document_id} ${chapter}:${section}`;
-    if (section) return isNorwegianLov ? `${document_id} § ${section}` : `${document_id} ${section} §`;
+    if (section) return isLov ? `${document_id} § ${section}` : `${document_id} ${section} §`;
     return document_id;
   }
 
   // full format
-  let result = isNorwegianLov ? `LOV ${document_id}` : `SFS ${document_id}`;
-  if (chapter) result += ` ${chapter} kap.`;
+  let result = isLov ? `LOV ${document_id}` : `SFS ${document_id}`;
+  if (chapter) result += isLov ? ` ${chapterLabel} ${chapter}` : ` ${chapter} ${chapterLabel}`;
   if (section) result += ` ${section} §`;
   return result;
+}
+
+function formatBill(citation: ParsedCitation): string {
+  // If it looks like a Norwegian proposition ID (contains parentheses session)
+  if (citation.document_id.includes('(')) {
+    return citation.document_id;
+  }
+  // Legacy Swedish: Prop. 2017/18:105
+  return `Prop. ${citation.document_id}`;
 }
 
 function formatCaseLaw(citation: ParsedCitation): string {
   const parts = [citation.document_id];
 
-  // Determine the correct connector based on court
+  // NJA (Swedish Supreme Court) uses "s." connector
   if (citation.document_id.startsWith('NJA')) {
     if (citation.page) parts.push(`s. ${citation.page}`);
-  } else {
+  } else if (citation.document_id.startsWith('Rt.')) {
+    // Norwegian historical: Rt. 2015 s. 1250
+    if (citation.page) parts.push(`s. ${citation.page}`);
+  } else if (citation.document_id.startsWith('HFD')) {
+    // Swedish HFD uses "ref."
     if (citation.page) parts.push(`ref. ${citation.page}`);
+  } else {
+    // Norwegian modern: HR-2020-1234-A avsnitt X
+    if (citation.page) parts.push(`avsnitt ${citation.page}`);
   }
 
   return parts.join(' ');

@@ -36,7 +36,7 @@ interface EURLexMetadata {
   community: 'EU' | 'EG' | 'EEG';
   celex_number: string;
   title?: string;
-  title_sv?: string;
+  title_no?: string;
   date_document?: string;
   in_force?: boolean;
   status?: string;

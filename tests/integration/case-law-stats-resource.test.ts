@@ -61,18 +61,18 @@ describe('Case Law Stats Resource Integration', () => {
         last_sync_date TEXT NOT NULL,
         last_decision_date TEXT,
         cases_count INTEGER,
-        source TEXT DEFAULT 'lagen.nu'
+        source TEXT DEFAULT 'lovdata.no'
       );
 
       INSERT INTO case_law_sync_metadata
         (id, last_sync_date, last_decision_date, cases_count, source)
-      VALUES (1, '2026-02-12T10:00:00Z', '2026-02-10', 100, 'lagen.nu');
+      VALUES (1, '2026-02-12T10:00:00Z', '2026-02-10', 100, 'lovdata.no');
 
       INSERT INTO case_law (document_id, court, case_number, decision_date, summary, keywords)
       VALUES
-        ('HFD-2023:1', 'HFD', '2023:1', '2023-01-15', 'Test case 1', 'tax'),
-        ('AD-2023:1', 'AD', '2023:1', '2023-02-20', 'Test case 2', 'labor'),
-        ('HFD-2023:2', 'HFD', '2023:2', '2023-03-10', 'Test case 3', 'admin');
+        ('HR-2023-1234-A', 'HR', '2023-1234-A', '2023-01-15', 'Test case 1', 'tax'),
+        ('LA-2023-5678', 'LA', '2023-5678', '2023-02-20', 'Test case 2', 'labor'),
+        ('HR-2023-5678-B', 'HR', '2023-5678-B', '2023-03-10', 'Test case 3', 'admin');
     `);
 
     const syncMeta = db.prepare(`
@@ -85,7 +85,7 @@ describe('Case Law Stats Resource Integration', () => {
     expect(syncMeta!.last_sync_date).toBe('2026-02-12T10:00:00Z');
     expect(syncMeta!.last_decision_date).toBe('2026-02-10');
     expect(syncMeta!.cases_count).toBe(100);
-    expect(syncMeta!.source).toBe('lagen.nu');
+    expect(syncMeta!.source).toBe('lovdata.no');
 
     const courtCounts = db.prepare(`
       SELECT court, COUNT(*) as count
@@ -95,23 +95,23 @@ describe('Case Law Stats Resource Integration', () => {
     `).all() as { court: string; count: number }[];
 
     expect(courtCounts).toHaveLength(2);
-    expect(courtCounts[0]).toEqual({ court: 'HFD', count: 2 });
-    expect(courtCounts[1]).toEqual({ court: 'AD', count: 1 });
+    expect(courtCounts[0]).toEqual({ court: 'HR', count: 2 });
+    expect(courtCounts[1]).toEqual({ court: 'LA', count: 1 });
 
     db.close();
   });
 
   it('should construct proper attribution object', () => {
     const attribution = {
-      source: 'lagen.nu',
-      url: 'https://lagen.nu',
+      source: 'lovdata.no',
+      url: 'https://lovdata.no',
       license: 'Creative Commons Attribution',
-      attribution: 'Case law from lagen.nu, licensed CC-BY Domstolsverket',
+      attribution: 'Case law from lovdata.no, licensing-policy gated',
     };
 
-    expect(attribution.source).toBe('lagen.nu');
-    expect(attribution.url).toBe('https://lagen.nu');
+    expect(attribution.source).toBe('lovdata.no');
+    expect(attribution.url).toBe('https://lovdata.no');
     expect(attribution.license).toBe('Creative Commons Attribution');
-    expect(attribution.attribution).toContain('CC-BY Domstolsverket');
+    expect(attribution.attribution).toContain('licensing-policy gated');
   });
 });

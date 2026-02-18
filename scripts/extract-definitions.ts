@@ -1,6 +1,6 @@
 #!/usr/bin/env tsx
 /**
- * Extract legal term definitions from Swedish statutes and populate the definitions table.
+ * Extract legal term definitions from Norwegian statutes and populate the definitions table.
  *
  * Identifies definition patterns in provision text and extracts:
  * - term: The legal term being defined
@@ -46,55 +46,55 @@ interface ExtractedDefinition {
 
 // Priority statutes to focus on first
 const PRIORITY_STATUTES = [
-  'dataskyddslagen.json',
-  'offentlighets-sekretesslagen.json',
-  'brottsbalken.json',
-  'arbetsmiljolagen.json',
-  'personuppgiftslagen.json',
-  'miljobalken.json',
-  'aktiebolagslagen.json',
-  'las-anstallningsskydd.json',
-  'forvaltningslagen.json',
-  'plan-bygglagen.json',
+  'personopplysningsloven.json',
+  'offentleglova.json',
+  'straffeloven.json',
+  'arbeidsmiljoeloven.json',
+  'forvaltningsloven.json',
+  'aksjeloven.json',
+  'plan-og-bygningsloven.json',
+  'naturmangfoldloven.json',
+  'forurensningsloven.json',
+  'anskaffelsesloven.json',
 ];
 
 /**
- * Definition patterns in Swedish legal text
+ * Definition patterns in Norwegian legal text
  */
 const DEFINITION_PATTERNS = [
-  // "Med X avses i denna lag/balk..." (most common)
+  // "Med X menes i denne lov/forskrift..." (most common Norwegian)
   {
-    regex: /Med\s+([^.]+?)\s+avses\s+i\s+denna\s+(?:lag|balk|förordning)\s+([^.]+?)\./g,
+    regex: /Med\s+([^.]+?)\s+menes\s+i\s+denne\s+(?:lov|forskrift)\s+([^.]+?)\./g,
     termGroup: 1,
     definitionGroup: 2,
   },
-  // "Med X avses..." (general)
+  // "Med X menes..." (general)
   {
-    regex: /Med\s+([^.]+?)\s+avses\s+([^.]+?)\./g,
+    regex: /Med\s+([^.]+?)\s+menes\s+([^.]+?)\./g,
     termGroup: 1,
     definitionGroup: 2,
   },
-  // "Med X menas i denna lag/balk..."
+  // "Med X forstås i denne lov/forskrift..."
   {
-    regex: /Med\s+([^.]+?)\s+menas\s+i\s+denna\s+(?:lag|balk|förordning)\s+([^.]+?)\./g,
+    regex: /Med\s+([^.]+?)\s+forst(?:å|aa)s\s+i\s+denne\s+(?:lov|forskrift)\s+([^.]+?)\./g,
     termGroup: 1,
     definitionGroup: 2,
   },
-  // "Med X menas..." (general)
+  // "Med X forstås..." (general)
   {
-    regex: /Med\s+([^.]+?)\s+menas\s+([^.]+?)\./g,
+    regex: /Med\s+([^.]+?)\s+forst(?:å|aa)s\s+([^.]+?)\./g,
     termGroup: 1,
     definitionGroup: 2,
   },
-  // "Med X förstås i denna balk/lag..."
+  // "I denne lov menes med X..." (inverted form)
   {
-    regex: /Med\s+([^.]+?)\s+förstås\s+i\s+denna\s+(?:lag|balk|förordning)\s+([^.]+?)\./g,
+    regex: /I\s+denne\s+(?:lov|forskrift)\s+menes\s+med\s+([^.]+?)\s+([^.]+?)\./g,
     termGroup: 1,
     definitionGroup: 2,
   },
-  // "I denna lag avses med X..." (inverted form)
+  // "I loven her menes med X..." (alternative inverted form)
   {
-    regex: /I\s+denna\s+(?:lag|förordning|balk)\s+avses\s+med\s+([^.]+?)\s+([^.]+?)\./g,
+    regex: /I\s+loven\s+her\s+menes\s+med\s+([^.]+?)\s+([^.]+?)\./g,
     termGroup: 1,
     definitionGroup: 2,
   },
@@ -117,11 +117,11 @@ function extractTerm(text: string): string {
   let term = cleanText(text);
 
   // Remove common prefixes
-  term = term.replace(/^(?:i\s+denna\s+(?:lag|balk|förordning)\s+)?med\s+/i, '');
-  term = term.replace(/^i\s+denna\s+(?:lag|balk|förordning)\s+/i, '');
+  term = term.replace(/^(?:i\s+denne\s+(?:lov|forskrift)\s+)?med\s+/i, '');
+  term = term.replace(/^i\s+denne\s+(?:lov|forskrift)\s+/i, '');
 
-  // Remove trailing "avses" or "menas"
-  term = term.replace(/\s+(?:avses|menas)$/i, '');
+  // Remove trailing "menes" or "forstås"
+  term = term.replace(/\s+(?:menes|forst(?:å|aa)s)$/i, '');
 
   // Capitalize first letter
   if (term.length > 0) {
@@ -137,11 +137,11 @@ function extractTerm(text: string): string {
 function extractDefinition(text: string): string {
   let definition = cleanText(text);
 
-  // Remove leading "i denna lag" if present
-  definition = definition.replace(/^i\s+denna\s+(?:lag|balk|förordning|kapitel)\s+/i, '');
+  // Remove leading "i denne lov" if present
+  definition = definition.replace(/^i\s+denne\s+(?:lov|forskrift|kapittel)\s+/i, '');
 
-  // Remove trailing provision metadata like "Lag (2018:218)"
-  definition = definition.replace(/\s+Lag\s+\(\d{4}:\d+\)\.?$/i, '');
+  // Remove trailing provision metadata like "Lov (LOV-2018-06-15-38)"
+  definition = definition.replace(/\s+Lov\s+\([^)]+\)\.?$/i, '');
 
   // Ensure definition ends with period
   if (!definition.match(/[.!?]$/)) {
@@ -167,8 +167,8 @@ function isValidDefinition(term: string, definition: string): boolean {
   // Skip if definition is just a number or enumeration start
   if (definition.match(/^(?:\d+\.?\s*|[a-z]\)\s*)$/)) return false;
 
-  // Skip definitions that are just "i detta kapitel 1" or similar incomplete enumerations
-  if (definition.match(/^i\s+(?:detta|denna)\s+(?:kapitel|lag|balk)\s+\d+\.?\s*$/i)) return false;
+  // Skip definitions that are just "i dette kapittel 1" or similar incomplete enumerations
+  if (definition.match(/^i\s+(?:dette|denne)\s+(?:kapittel|lov|forskrift)\s+\d+\.?\s*$/i)) return false;
 
   // Definition should have at least some words (not just references)
   const wordCount = definition.split(/\s+/).filter(w => w.length > 2).length;
@@ -183,15 +183,15 @@ function isValidDefinition(term: string, definition: string): boolean {
 function isLikelyDefinitionProvision(provision: ProvisionSeed): boolean {
   const content = provision.content.toLowerCase();
 
-  // Contains definition keywords
+  // Contains definition keywords (Norwegian)
   const hasDefinitionKeywords = (
     content.includes('med ') &&
-    (content.includes('avses') || content.includes('menas') || content.includes('förstås'))
+    (content.includes('menes') || content.includes('forstås') || content.includes('forstaas'))
   ) || (
-    content.includes('i denna') &&
-    (content.includes('avses') || content.includes('menas'))
+    content.includes('i denne') &&
+    (content.includes('menes') || content.includes('forstås'))
   ) || (
-    content.includes('definitioner')
+    content.includes('definisjoner')
   );
 
   return hasDefinitionKeywords;

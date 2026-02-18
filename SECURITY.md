@@ -70,7 +70,7 @@ This project follows security best practices:
 The legal database (`data/database.db`) is:
 - Pre-built and version-controlled (tamper evident)
 - Opened in read-only mode at runtime (no write risk)
-- Source data from official Riksdagen and lagen.nu (auditable)
+- Source data from official Lovdata (auditable)
 - Ingestion scripts require manual execution (no auto-download at runtime)
 
 ## Third-Party Dependencies

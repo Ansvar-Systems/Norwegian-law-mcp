@@ -1,5 +1,5 @@
 /**
- * get_eu_basis — Retrieve EU legal basis for a Swedish statute.
+ * get_eu_basis — Retrieve EU legal basis for a Norwegian statute.
  */
 
 import type { Database } from '@ansvar/mcp-sqlite';
@@ -7,14 +7,19 @@ import type { EUBasisDocument } from '../types/index.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 
 export interface GetEUBasisInput {
-  law_id?: string;
-  sfs_number: string;
+  law_id: string;
+  /** @deprecated Use law_id instead */
+  sfs_number?: string;
   include_articles?: boolean;
   reference_types?: string[];
 }
 
 export interface GetEUBasisResult {
+  law_id: string;
+  law_title: string;
+  /** @deprecated Use law_id */
   sfs_number: string;
+  /** @deprecated Use law_title */
   sfs_title: string;
   eu_documents: EUBasisDocument[];
   statistics: {
@@ -25,7 +30,7 @@ export interface GetEUBasisResult {
 }
 
 /**
- * Get EU legal basis for a Swedish statute.
+ * Get EU legal basis for a Norwegian statute.
  *
  * Returns all EU directives and regulations referenced by the given statute,
  * grouped by EU document with all article references aggregated.
@@ -143,6 +148,8 @@ export async function getEUBasis(
   const regulationCount = euDocuments.filter(d => d.type === 'regulation').length;
 
   const result: GetEUBasisResult = {
+    law_id: statuteId,
+    law_title: statute.title,
     sfs_number: statuteId,
     sfs_title: statute.title,
     eu_documents: euDocuments,

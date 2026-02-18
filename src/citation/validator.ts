@@ -65,7 +65,7 @@ export function validateParsedCitation(db: Database, parsed: ParsedCitation): Va
 
   // Add warnings for non-standard statuses
   if (status === 'repealed') {
-    warnings.push(`Document "${parsed.document_id}" has been repealed (upphävd)`);
+    warnings.push(`Document "${parsed.document_id}" has been repealed (opphevet)`);
   } else if (status === 'amended') {
     warnings.push(`Document "${parsed.document_id}" has been amended since ingestion`);
   }

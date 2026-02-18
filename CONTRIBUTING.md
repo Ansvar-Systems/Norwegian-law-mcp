@@ -15,8 +15,8 @@ Thank you for your interest in contributing to this MCP server!
 1. **Fork and clone the repository**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/swedish-law-mcp.git
-   cd swedish-law-mcp
+   git clone https://github.com/YOUR_USERNAME/norwegian-law-mcp.git
+   cd norwegian-law-mcp
    ```
 
 2. **Install dependencies**

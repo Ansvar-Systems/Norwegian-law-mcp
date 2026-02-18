@@ -28,7 +28,7 @@ interface EURLexDocument {
   community: 'EU' | 'EG' | 'EEG';
   celex_number: string;
   title?: string;
-  title_sv?: string;
+  title_no?: string;
   date_document?: string;
   in_force?: boolean;
   url?: string;
@@ -57,7 +57,7 @@ function importEURLexDocuments(db: Database.Database): void {
       community,
       celex_number,
       title,
-      title_sv,
+      title_no,
       adoption_date,
       in_force,
       url_eur_lex,
@@ -82,7 +82,7 @@ function importEURLexDocuments(db: Database.Database): void {
           doc.community,
           doc.celex_number,
           doc.title || null,
-          doc.title_sv || null,
+          doc.title_no || null,
           doc.date_document || null,
           doc.in_force ? 1 : 0,
           doc.url || null

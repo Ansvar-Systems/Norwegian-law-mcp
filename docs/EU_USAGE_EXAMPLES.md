@@ -1,6 +1,6 @@
 # EU Law Integration — Usage Examples
 
-> Real-world scenarios demonstrating Swedish ↔ EU legal cross-referencing
+> Real-world scenarios demonstrating Norwegian ↔ EU legal cross-referencing
 
 ## Table of Contents
 
@@ -15,16 +15,16 @@
 
 ## Scenario 1: Data Protection Lawyer
 
-**Context:** Law firm representing client in GDPR compliance dispute. Need to understand Swedish implementation of GDPR consent requirements.
+**Context:** Law firm representing client in GDPR compliance dispute. Need to understand Norwegian implementation of GDPR consent requirements.
 
-### Question 1: What EU law does DSL implement?
+### Question 1: What EU law does personopplysningsloven implement?
 
 **MCP Tool Call:**
 ```json
 {
   "tool": "get_eu_basis",
   "arguments": {
-    "sfs_number": "2018:218",
+    "law_id": "LOV-2018-06-15-38",
     "include_articles": true
   }
 }
@@ -34,10 +34,10 @@
 ```json
 {
   "statute": {
-    "sfs_number": "2018:218",
-    "title": "Dataskyddslagen (DSL)",
+    "law_id": "LOV-2018-06-15-38",
+    "law_title": "Personopplysningsloven (popplyl)",
     "status": "in_force",
-    "in_force_date": "2018-05-25"
+    "in_force_date": "2018-07-20"
   },
   "eu_documents": [
     {
@@ -56,7 +56,7 @@
   ],
   "total_references": 1,
   "_metadata": {
-    "source": "Swedish statute text (SFS 2018:218)",
+    "source": "Norwegian statute text (LOV-2018-06-15-38)",
     "extraction_method": "Automated parser",
     "verified": true
   }
@@ -64,20 +64,20 @@
 ```
 
 **Interpretation:**
-- DSL is the **primary** Swedish implementation of GDPR
-- DSL **supplements** GDPR (regulation already applies directly)
+- popplyl is the **primary** Norwegian implementation of GDPR
+- popplyl **supplements** GDPR (regulation already applies directly)
 - Key articles cited: 6.1 (legal basis), 7 (consent conditions), 9.2 (sensitive data), 13-15 (transparency), 35 (DPIA), 77 (complaints), 79 (remedies)
 
 ---
 
-### Question 2: What does DSL 3 kap. 5 § say about consent?
+### Question 2: What does personopplysningsloven kapittel 3 § 5 say about consent?
 
 **MCP Tool Call:**
 ```json
 {
   "tool": "get_provision",
   "arguments": {
-    "sfs_number": "2018:218",
+    "law_id": "LOV-2018-06-15-38",
     "chapter": "3",
     "section": "5"
   }
@@ -88,26 +88,26 @@
 ```json
 {
   "provision": {
-    "sfs_number": "2018:218",
+    "law_id": "LOV-2018-06-15-38",
     "provision_ref": "3:5",
     "chapter": "3",
     "section": "5",
-    "title": "Laglig grund för behandling av personuppgifter",
-    "content": "Personuppgifter får behandlas bara om... [full text]"
+    "title": "Rettslig grunnlag for behandling av personopplysninger",
+    "content": "Personopplysninger kan bare behandles dersom... [full text]"
   }
 }
 ```
 
 ---
 
-### Question 3: What EU article does DSL 3:5 implement?
+### Question 3: What EU article does popplyl 3:5 implement?
 
 **MCP Tool Call:**
 ```json
 {
   "tool": "get_provision_eu_basis",
   "arguments": {
-    "sfs_number": "2018:218",
+    "law_id": "LOV-2018-06-15-38",
     "chapter": "3",
     "section": "5"
   }
@@ -118,9 +118,9 @@
 ```json
 {
   "provision": {
-    "sfs_number": "2018:218",
+    "law_id": "LOV-2018-06-15-38",
     "provision_ref": "3:5",
-    "title": "Laglig grund för behandling av personuppgifter"
+    "title": "Rettslig grunnlag for behandling av personopplysninger"
   },
   "eu_references": [
     {
@@ -128,15 +128,15 @@
       "short_name": "GDPR",
       "articles": ["6.1.a", "6.1.c"],
       "reference_type": "cites_article",
-      "context": "Denna paragraf kompletterar artikel 6.1 i Europaparlamentets och rådets förordning (EU) 2016/679..."
+      "context": "Denne paragrafen supplerer artikkel 6.1 i Europaparlamentets og Radets forordning (EU) 2016/679..."
     }
   ]
 }
 ```
 
 **Interpretation:**
-- DSL 3:5 directly references **GDPR Article 6.1.a** (consent) and **6.1.c** (legal obligation)
-- Swedish law "supplements" (kompletterar) the EU regulation
+- popplyl 3:5 directly references **GDPR Article 6.1.a** (consent) and **6.1.c** (legal obligation)
+- Norwegian law "supplements" (supplerer) the EU regulation
 
 ---
 
@@ -147,7 +147,7 @@
 {
   "tool": "get_preparatory_works",
   "arguments": {
-    "sfs_number": "2018:218"
+    "law_id": "LOV-2018-06-15-38"
   }
 }
 ```
@@ -156,22 +156,22 @@
 ```json
 {
   "statute": {
-    "sfs_number": "2018:218",
-    "title": "Dataskyddslagen"
+    "law_id": "LOV-2018-06-15-38",
+    "law_title": "Personopplysningsloven"
   },
   "preparatory_works": [
     {
-      "id": "prop_2017_18_105",
+      "id": "prop_56_l_2017_2018",
       "type": "proposition",
-      "title": "Ny dataskyddslag",
-      "issued_date": "2018-02-01",
-      "url": "https://www.riksdagen.se/sv/dokument-lagar/dokument/proposition/ny-dataskyddslag_H503105"
+      "title": "Lov om behandling av personopplysninger",
+      "issued_date": "2018-03-23",
+      "url": "https://lovdata.no/dokument/PROP/forarbeid/prop-56-l-201718"
     }
   ]
 }
 ```
 
-**Follow-up:** Read Prop. 2017/18:105 to understand Swedish implementation choices (not included in MCP, external research needed).
+**Follow-up:** Read Prop.56 L (2017-2018) to understand Norwegian implementation choices (not included in MCP, external research needed).
 
 ---
 
@@ -182,9 +182,9 @@
 {
   "tool": "search_case_law",
   "arguments": {
-    "query": "samtycke personuppgifter GDPR",
-    "court": "HFD",
-    "start_date": "2018-05-25"
+    "query": "samtykke personopplysninger GDPR",
+    "court": "HR",
+    "start_date": "2018-07-20"
   }
 }
 ```
@@ -194,11 +194,11 @@
 {
   "results": [
     {
-      "id": "hfd-2020-ref-45",
-      "court": "HFD",
+      "id": "hr-2020-1945-a",
+      "court": "HR",
       "date": "2020-09-15",
-      "summary": "Mål om samtycke till personuppgiftsbehandling...",
-      "cited_statutes": ["2018:218"]
+      "summary": "Sak om samtykke til behandling av personopplysninger...",
+      "cited_statutes": ["LOV-2018-06-15-38"]
     }
   ],
   "total": 1
@@ -214,13 +214,13 @@
 {
   "tool": "build_legal_stance",
   "arguments": {
-    "query": "GDPR consent requirements Swedish law",
+    "query": "GDPR consent requirements Norwegian law",
     "include_sources": ["legislation", "case_law", "preparatory_works"]
   }
 }
 ```
 
-**Result:** Comprehensive report with DSL provisions, GDPR basis, HFD case law, and Prop. 2017/18:105.
+**Result:** Comprehensive report with popplyl provisions, GDPR basis, HR case law, and Prop.56 L (2017-2018).
 
 ---
 
@@ -228,7 +228,7 @@
 
 **Context:** Municipality planning procurement, needs to verify compliance with EU procurement directives.
 
-### Question 1: Which EU directives govern Swedish procurement?
+### Question 1: Which EU directives govern Norwegian procurement?
 
 **MCP Tool Call:**
 ```json
@@ -252,7 +252,7 @@
       "number": 24,
       "celex_number": "32014L0024",
       "title": "Public procurement directive",
-      "swedish_implementations": 1
+      "norwegian_implementations": 1
     },
     {
       "id": "directive:2014/25",
@@ -261,7 +261,7 @@
       "number": 25,
       "celex_number": "32014L0025",
       "title": "Procurement by entities in water, energy, transport and postal services",
-      "swedish_implementations": 1
+      "norwegian_implementations": 1
     }
   ],
   "total_results": 2
@@ -270,12 +270,12 @@
 
 ---
 
-### Question 2: Which Swedish law implements the public procurement directive?
+### Question 2: Which Norwegian law implements the public procurement directive?
 
 **MCP Tool Call:**
 ```json
 {
-  "tool": "get_swedish_implementations",
+  "tool": "get_norwegian_implementations",
   "arguments": {
     "eu_document_id": "directive:2014/24",
     "in_force_only": true
@@ -294,8 +294,8 @@
   },
   "implementations": [
     {
-      "sfs_number": "2016:1145",
-      "title": "Lag om offentlig upphandling (LOU)",
+      "law_id": "LOV-2016-06-17-73",
+      "law_title": "Anskaffelsesloven",
       "status": "in_force",
       "is_primary": true,
       "reference_type": "implements",
@@ -307,20 +307,20 @@
 ```
 
 **Interpretation:**
-- Swedish procurement is governed by **LOU (2016:1145)**
-- LOU implements **Directive 2014/24/EU**
+- Norwegian procurement is governed by **Anskaffelsesloven (LOV-2016-06-17-73)**
+- Anskaffelsesloven implements **Directive 2014/24/EU**
 - Law entered force **2017-01-01** (before directive's deadline)
 
 ---
 
-### Question 3: Is LOU still current?
+### Question 3: Is Anskaffelsesloven still current?
 
 **MCP Tool Call:**
 ```json
 {
   "tool": "check_currency",
   "arguments": {
-    "sfs_number": "2016:1145"
+    "law_id": "LOV-2016-06-17-73"
   }
 }
 ```
@@ -329,13 +329,13 @@
 ```json
 {
   "statute": {
-    "sfs_number": "2016:1145",
-    "title": "Lag om offentlig upphandling",
+    "law_id": "LOV-2016-06-17-73",
+    "law_title": "Anskaffelsesloven",
     "status": "in_force",
     "in_force_date": "2017-01-01",
     "amendments": [
-      "2019:742",
-      "2020:1010"
+      "LOV-2019-06-21-42",
+      "LOV-2020-12-11-146"
     ]
   },
   "is_current": true,
@@ -344,7 +344,7 @@
 ```
 
 **Interpretation:**
-- LOU is **current** and in force
+- Anskaffelsesloven is **current** and in force
 - Has been amended twice (2019, 2020)
 - Safe to use for 2025 procurement planning
 
@@ -352,16 +352,16 @@
 
 ## Scenario 3: Academic Researcher
 
-**Context:** PhD student studying Swedish environmental law's relationship with EU regulations.
+**Context:** PhD student studying Norwegian environmental law's relationship with EU regulations.
 
-### Question 1: How much EU law is in Miljöbalken?
+### Question 1: How much EU law is in Forurensningsloven?
 
 **MCP Tool Call:**
 ```json
 {
   "tool": "get_eu_basis",
   "arguments": {
-    "sfs_number": "1998:808"
+    "law_id": "LOV-1981-03-13-6"
   }
 }
 ```
@@ -370,8 +370,8 @@
 ```json
 {
   "statute": {
-    "sfs_number": "1998:808",
-    "title": "Miljöbalken"
+    "law_id": "LOV-1981-03-13-6",
+    "law_title": "Forurensningsloven"
   },
   "eu_documents": [
     {
@@ -396,18 +396,18 @@
 ```
 
 **Interpretation:**
-- Miljöbalken has **71 EU references** (most of any Swedish statute)
+- Forurensningsloven has **71 EU references** (most of any Norwegian statute)
 - Mix of regulations (apply directly) and directives (implemented)
 - Covers chemicals (REACH), industrial emissions (IED), waste, water, air quality
 
 ---
 
-### Question 2: Which Swedish laws implement REACH?
+### Question 2: Which Norwegian laws implement REACH?
 
 **MCP Tool Call:**
 ```json
 {
-  "tool": "get_swedish_implementations",
+  "tool": "get_norwegian_implementations",
   "arguments": {
     "eu_document_id": "regulation:1907/2006"
   }
@@ -424,14 +424,14 @@
   },
   "implementations": [
     {
-      "sfs_number": "1998:808",
-      "title": "Miljöbalken",
+      "law_id": "LOV-1981-03-13-6",
+      "law_title": "Forurensningsloven",
       "is_primary": true,
       "reference_type": "applies"
     },
     {
-      "sfs_number": "2008:245",
-      "title": "Lag om kemikalier",
+      "law_id": "LOV-1976-06-11-79",
+      "law_title": "Produktkontrolloven",
       "is_primary": false,
       "reference_type": "supplements"
     }
@@ -440,7 +440,7 @@
 }
 ```
 
-**Research insight:** REACH is an EU **regulation** (directly applicable), but Sweden has both Miljöbalken and a specific chemicals law referencing it.
+**Research insight:** REACH is an EU **regulation** (directly applicable), but Norway has both Forurensningsloven and a specific product control law referencing it.
 
 ---
 
@@ -449,24 +449,24 @@
 **Batch Query (hypothetical):**
 ```javascript
 const statutes = [
-  "1998:808", // Environmental (Miljöbalken)
-  "2018:218", // Data protection (DSL)
-  "2005:551", // Company law (Aktiebolagslagen)
-  "1977:1160" // Labor safety (Arbetsmiljölagen)
+  "LOV-1981-03-13-6",   // Environmental (Forurensningsloven)
+  "LOV-2018-06-15-38",  // Data protection (popplyl)
+  "LOV-1997-06-13-44",  // Company law (Aksjeloven)
+  "LOV-2005-06-17-62"   // Labor safety (Arbeidsmiljoloven)
 ];
 
-for (const sfs of statutes) {
-  const result = await getEUBasis(sfs);
-  console.log(`${sfs}: ${result.total_references} EU references`);
+for (const law of statutes) {
+  const result = await getEUBasis(law);
+  console.log(`${law}: ${result.total_references} EU references`);
 }
 ```
 
 **Output:**
 ```
-1998:808: 71 EU references (Environmental)
-2018:218: 1 EU reference (Data protection)
-2005:551: 35 EU references (Company law)
-1977:1160: 33 EU references (Labor safety)
+LOV-1981-03-13-6: 71 EU references (Environmental)
+LOV-2018-06-15-38: 1 EU reference (Data protection)
+LOV-1997-06-13-44: 35 EU references (Company law)
+LOV-2005-06-17-62: 33 EU references (Labor safety)
 ```
 
 **Research conclusion:** Environmental and company law are **heavily Europeanized**, while data protection (GDPR) is a single comprehensive regulation.
@@ -475,16 +475,16 @@ for (const sfs of statutes) {
 
 ## Scenario 4: Corporate Compliance
 
-**Context:** Multinational corporation ensuring Swedish subsidiary complies with EU financial reporting directives.
+**Context:** Multinational corporation ensuring Norwegian subsidiary complies with EU financial reporting directives.
 
-### Question 1: Which EU directives govern Swedish annual reports?
+### Question 1: Which EU directives govern Norwegian annual reports?
 
 **MCP Tool Call:**
 ```json
 {
   "tool": "get_eu_basis",
   "arguments": {
-    "sfs_number": "1995:1554"
+    "law_id": "LOV-1998-07-17-56"
   }
 }
 ```
@@ -493,8 +493,8 @@ for (const sfs of statutes) {
 ```json
 {
   "statute": {
-    "sfs_number": "1995:1554",
-    "title": "Årsredovisningslagen (ÅRL)"
+    "law_id": "LOV-1998-07-17-56",
+    "law_title": "Regnskapsloven"
   },
   "eu_documents": [
     {
@@ -521,7 +521,7 @@ for (const sfs of statutes) {
 **MCP Tool Call:**
 ```json
 {
-  "tool": "get_swedish_implementations",
+  "tool": "get_norwegian_implementations",
   "arguments": {
     "eu_document_id": "directive:2006/43",
     "in_force_only": true
@@ -534,28 +534,28 @@ for (const sfs of statutes) {
 {
   "implementations": [
     {
-      "sfs_number": "1995:1554",
-      "title": "Årsredovisningslagen",
+      "law_id": "LOV-1998-07-17-56",
+      "law_title": "Regnskapsloven",
       "is_primary": false
     },
     {
-      "sfs_number": "2001:883",
-      "title": "Revisorslagen",
+      "law_id": "LOV-1999-01-15-2",
+      "law_title": "Revisorloven",
       "is_primary": true
     }
   ]
 }
 ```
 
-**Compliance action:** Review both **ÅRL** (reporting) and **Revisorslagen** (auditor requirements).
+**Compliance action:** Review both **Regnskapsloven** (reporting) and **Revisorloven** (auditor requirements).
 
 ---
 
 ## Scenario 5: Tax Advisor
 
-**Context:** Advising on Swedish tax law's compliance with EU tax transparency directives (DAC6).
+**Context:** Advising on Norwegian tax law's compliance with EU tax transparency directives (DAC6).
 
-### Question 1: Does Swedish tax law implement DAC6?
+### Question 1: Does Norwegian tax law implement DAC6?
 
 **MCP Tool Call:**
 ```json
@@ -577,7 +577,7 @@ for (const sfs of statutes) {
       "id": "directive:2018/822",
       "short_name": "DAC6",
       "title": "Mandatory disclosure of cross-border tax arrangements",
-      "swedish_implementations": 1
+      "norwegian_implementations": 1
     }
   ]
 }
@@ -585,12 +585,12 @@ for (const sfs of statutes) {
 
 ---
 
-### Question 2: Which Swedish law implements DAC6?
+### Question 2: Which Norwegian law implements DAC6?
 
 **MCP Tool Call:**
 ```json
 {
-  "tool": "get_swedish_implementations",
+  "tool": "get_norwegian_implementations",
   "arguments": {
     "eu_document_id": "directive:2018/822"
   }
@@ -602,8 +602,8 @@ for (const sfs of statutes) {
 {
   "implementations": [
     {
-      "sfs_number": "2011:1244",
-      "title": "Skatteförfarandelagen",
+      "law_id": "LOV-2005-06-17-67",
+      "law_title": "Skatteforvaltningsloven",
       "is_primary": true,
       "reference_type": "implements",
       "in_force_date": "2020-07-01"
@@ -612,7 +612,7 @@ for (const sfs of statutes) {
 }
 ```
 
-**Compliance insight:** DAC6 is implemented in **Skatteförfarandelagen** (tax procedure law), effective 2020-07-01.
+**Compliance insight:** DAC6 is implemented in **Skatteforvaltningsloven** (tax administration law), effective 2020-07-01.
 
 ---
 
@@ -623,8 +623,8 @@ for (const sfs of statutes) {
 {
   "tool": "search_case_law",
   "arguments": {
-    "query": "skatteuppgifter gränsöverskridande rapportering",
-    "court": "HFD",
+    "query": "skatteopplysninger grenseoverskridende rapportering",
+    "court": "HR",
     "start_date": "2020-07-01"
   }
 }
@@ -635,9 +635,9 @@ for (const sfs of statutes) {
 {
   "results": [
     {
-      "id": "hfd-2022-ref-12",
-      "summary": "Mål om rapportering av gränsöverskridande skatteupplägg...",
-      "cited_statutes": ["2011:1244"]
+      "id": "hr-2022-1234-a",
+      "summary": "Sak om rapportering av grenseoverskridende skatteordninger...",
+      "cited_statutes": ["LOV-2005-06-17-67"]
     }
   ]
 }
@@ -649,12 +649,12 @@ for (const sfs of statutes) {
 
 **Context:** Environmental consultancy advising client on EU chemical regulations (REACH) compliance.
 
-### Question 1: How does REACH apply in Sweden?
+### Question 1: How does REACH apply in Norway?
 
 **MCP Tool Call:**
 ```json
 {
-  "tool": "get_swedish_implementations",
+  "tool": "get_norwegian_implementations",
   "arguments": {
     "eu_document_id": "regulation:1907/2006",
     "in_force_only": true
@@ -673,8 +673,8 @@ for (const sfs of statutes) {
   },
   "implementations": [
     {
-      "sfs_number": "1998:808",
-      "title": "Miljöbalken",
+      "law_id": "LOV-1981-03-13-6",
+      "law_title": "Forurensningsloven",
       "reference_type": "applies",
       "is_primary": true
     }
@@ -684,20 +684,20 @@ for (const sfs of statutes) {
 
 **Interpretation:**
 - REACH is an EU **regulation** (directly applicable, no transposition needed)
-- Miljöbalken **references** REACH but doesn't implement it
-- Client must comply with REACH directly + Swedish environmental law
+- Forurensningsloven **references** REACH but doesn't implement it
+- Client must comply with REACH directly + Norwegian environmental law
 
 ---
 
-### Question 2: Find relevant Miljöbalken provisions
+### Question 2: Find relevant Forurensningsloven provisions
 
 **MCP Tool Call:**
 ```json
 {
   "tool": "search_legislation",
   "arguments": {
-    "query": "kemikalier farliga ämnen REACH",
-    "document_id": "1998:808"
+    "query": "kjemikalier farlige stoffer REACH",
+    "document_id": "LOV-1981-03-13-6"
   }
 }
 ```
@@ -707,9 +707,9 @@ for (const sfs of statutes) {
 {
   "results": [
     {
-      "sfs_number": "1998:808",
+      "law_id": "LOV-1981-03-13-6",
       "provision_ref": "14:2",
-      "content": "Kemiska produkter och bioteknik...REACH..."
+      "content": "Kjemiske produkter og bioteknologi...REACH..."
     }
   ]
 }
@@ -724,7 +724,7 @@ for (const sfs of statutes) {
 {
   "tool": "build_legal_stance",
   "arguments": {
-    "query": "chemical substances regulation Sweden",
+    "query": "chemical substances regulation Norway",
     "include_sources": ["legislation", "case_law"]
   }
 }
@@ -735,8 +735,8 @@ for (const sfs of statutes) {
 {
   "legislation": [
     {
-      "sfs_number": "1998:808",
-      "title": "Miljöbalken",
+      "law_id": "LOV-1981-03-13-6",
+      "law_title": "Forurensningsloven",
       "provisions": ["14:2", "14:5"]
     }
   ],
@@ -748,14 +748,14 @@ for (const sfs of statutes) {
   ],
   "case_law": [
     {
-      "court": "MÖD",
-      "summary": "Tillstånd för hantering av kemikalier..."
+      "court": "LB",
+      "summary": "Tillatelse for handtering av kjemikalier..."
     }
   ]
 }
 ```
 
-**Compliance recommendation:** Client must comply with **both** REACH (EU regulation) **and** Miljöbalken (Swedish supplementary requirements).
+**Compliance recommendation:** Client must comply with **both** REACH (EU regulation) **and** Forurensningsloven (Norwegian supplementary requirements).
 
 ---
 
@@ -767,20 +767,20 @@ When you see these reference types, interpret as follows:
 
 | Reference Type | Meaning | Action |
 |----------------|---------|--------|
-| `implements` | Swedish law implements EU directive | Check both Swedish law AND EU directive |
-| `supplements` | Swedish law supplements EU regulation | EU regulation applies + Swedish additions |
+| `implements` | Norwegian law implements EU directive | Check both Norwegian law AND EU directive |
+| `supplements` | Norwegian law supplements EU regulation | EU regulation applies + Norwegian additions |
 | `applies` | EU regulation applies directly | Primary compliance is with EU law |
 | `cites_article` | References specific EU article | Check exact EU article for requirements |
-| `complies_with` | Ensures EU compliance | Swedish law designed for EU compatibility |
+| `complies_with` | Ensures EU compliance | Norwegian law designed for EU compatibility |
 
 ### Common Pitfalls
 
 1. **Assuming "implements" means EU directive doesn't apply**
-   - Incorrect: Directive requirements still apply, Swedish law just transposes them
-   - Correct: Check both Swedish implementation AND EU directive text
+   - Incorrect: Directive requirements still apply, Norwegian law just transposes them
+   - Correct: Check both Norwegian implementation AND EU directive text
 
-2. **Ignoring EU regulations because Swedish law exists**
-   - Incorrect: EU regulations apply **directly**, Swedish law only supplements
+2. **Ignoring EU regulations because Norwegian law exists**
+   - Incorrect: EU regulations apply **directly**, Norwegian law only supplements
    - Correct: Primary compliance is with EU regulation (e.g., GDPR)
 
 3. **Not checking for amendments**
@@ -798,11 +798,11 @@ When you see these reference types, interpret as follows:
 ### For Legal Professionals
 
 1. **Start broad, narrow down:**
-   - `search_eu_implementations` → `get_swedish_implementations` → `get_provision_eu_basis`
+   - `search_eu_implementations` → `get_norwegian_implementations` → `get_provision_eu_basis`
 
 2. **Verify critical citations:**
    - Use CELEX numbers to look up EU law on EUR-Lex
-   - Cross-check with preparatory works for Swedish implementation choices
+   - Cross-check with preparatory works for Norwegian implementation choices
 
 3. **Check currency:**
    - Always use `check_currency` for statutes
@@ -819,34 +819,34 @@ When you see these reference types, interpret as follows:
    - Compare reference types across legal domains
 
 2. **Historical comparison:**
-   - Check repealed Swedish laws (e.g., PUL → DSL)
-   - Track when Swedish law updated to reflect EU changes
+   - Check repealed Norwegian laws (e.g., popplyl-2000 → popplyl)
+   - Track when Norwegian law updated to reflect EU changes
 
 3. **Citation networks:**
-   - Map EU acts → Swedish statutes → case law
+   - Map EU acts → Norwegian statutes → case law
    - Identify highly-referenced EU acts (GDPR, eIDAS)
 
 ### For Compliance Officers
 
 1. **Dual compliance:**
-   - For EU regulations: comply with EU law + Swedish supplements
-   - For EU directives: comply with Swedish implementation
+   - For EU regulations: comply with EU law + Norwegian supplements
+   - For EU directives: comply with Norwegian implementation
 
 2. **Amendment monitoring:**
    - Subscribe to EUR-Lex notifications for relevant EU acts
-   - Check Swedish statute amendments quarterly
+   - Check Norwegian statute amendments quarterly
 
 3. **Documentation:**
    - Keep CELEX numbers in compliance documentation
-   - Link to both Swedish law and EU law sources
+   - Link to both Norwegian law and EU law sources
 
 ---
 
 ## Additional Resources
 
 - **EUR-Lex:** https://eur-lex.europa.eu/ (official EU law database)
-- **Riksdagen EU Info:** https://www.riksdagen.se/sv/eu-information/
-- **Swedish Government EU Policy:** https://www.regeringen.se/regeringens-politik/eu/
+- **Stortinget EU/EEA Info:** https://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Eos-saker/
+- **Norwegian Government EU/EEA Policy:** https://www.regjeringen.no/no/tema/europapolitikk/id115259/
 
 ---
 

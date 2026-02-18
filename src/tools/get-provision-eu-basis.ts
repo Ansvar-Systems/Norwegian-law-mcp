@@ -7,12 +7,15 @@ import type { ProvisionEUReference } from '../types/index.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 
 export interface GetProvisionEUBasisInput {
-  law_id?: string;
-  sfs_number: string;
+  law_id: string;
+  /** @deprecated Use law_id instead */
+  sfs_number?: string;
   provision_ref: string;
 }
 
 export interface GetProvisionEUBasisResult {
+  law_id: string;
+  /** @deprecated Use law_id */
   sfs_number: string;
   provision_ref: string;
   provision_content?: string;
@@ -20,7 +23,7 @@ export interface GetProvisionEUBasisResult {
 }
 
 /**
- * Get EU legal basis for a specific provision within a Swedish statute.
+ * Get EU legal basis for a specific provision within a Norwegian statute.
  *
  * Returns EU directives/regulations that this specific provision implements or references,
  * including article-level references.
@@ -112,6 +115,7 @@ export async function getProvisionEUBasis(
   });
 
   const result: GetProvisionEUBasisResult = {
+    law_id: statuteId,
     sfs_number: statuteId,
     provision_ref: input.provision_ref,
     provision_content: provision.content,

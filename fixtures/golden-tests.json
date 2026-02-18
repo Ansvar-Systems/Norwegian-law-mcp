@@ -73,7 +73,7 @@
       "category": "eu_cross_reference",
       "description": "EU basis lookup for Personopplysningsloven returns GDPR references",
       "tool": "get_eu_basis",
-      "input": { "sfs_number": "LOV-2018-06-15-38" },
+      "input": { "law_id": "LOV-2018-06-15-38" },
       "assertions": { "result_not_empty": true }
     },
     {

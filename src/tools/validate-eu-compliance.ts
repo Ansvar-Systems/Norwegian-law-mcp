@@ -1,18 +1,21 @@
 /**
- * validate_eu_compliance — Check Swedish statute's EU compliance status.
+ * validate_eu_compliance — Check Norwegian statute's EU compliance status.
  */
 
 import type { Database } from '@ansvar/mcp-sqlite';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 
 export interface ValidateEUComplianceInput {
-  law_id?: string;
-  sfs_number: string;
+  law_id: string;
+  /** @deprecated Use law_id instead */
+  sfs_number?: string;
   provision_ref?: string;
   eu_document_id?: string;
 }
 
 export interface EUComplianceResult {
+  law_id: string;
+  /** @deprecated Use law_id */
   sfs_number: string;
   provision_ref?: string;
   compliance_status: 'compliant' | 'partial' | 'unclear' | 'not_applicable';
@@ -28,7 +31,7 @@ export interface EUComplianceResult {
 }
 
 /**
- * Validate EU compliance status for a Swedish statute or provision.
+ * Validate EU compliance status for a Norwegian statute or provision.
  *
  * Phase 1: Basic validation checking for:
  * - References to repealed EU directives
@@ -192,7 +195,7 @@ export async function validateEUCompliance(
   } else if (outdatedReferences.length > 0) {
     complianceStatus = 'partial';
     recommendations.push(
-      'Statute references repealed EU directives. Review whether Swedish law has been updated to implement current EU requirements.'
+      'Statute references repealed EU directives. Review whether Norwegian law has been updated to implement current EU requirements.'
     );
   } else if (warnings.length > 0) {
     complianceStatus = 'unclear';
@@ -201,6 +204,7 @@ export async function validateEUCompliance(
   }
 
   const result: EUComplianceResult = {
+    law_id: statuteId,
     sfs_number: statuteId,
     provision_ref: input.provision_ref,
     compliance_status: complianceStatus,

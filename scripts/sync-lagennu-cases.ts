@@ -1,12 +1,12 @@
 #!/usr/bin/env tsx
 /**
- * Incremental Sync Script for Lagen.nu Case Law
+ * Incremental Sync Script for Lovdata.no Case Law
  *
  * Efficiently updates the case law database with new cases only.
  *
  * Features:
  * - Checks last sync timestamp from database
- * - Fetches only new cases from lagen.nu feed
+ * - Fetches only new cases from lovdata.no feed
  * - Updates sync metadata table
  * - Supports full refresh mode
  * - JSON output for automation
@@ -44,7 +44,7 @@ const __dirname = path.dirname(__filename);
 
 const DB_PATH = path.resolve(__dirname, '../data/database.db');
 const LOG_DIR = path.resolve(__dirname, '../logs');
-const LOG_FILE = path.join(LOG_DIR, 'sync-lagennu.log');
+const LOG_FILE = path.join(LOG_DIR, 'sync-lovdata.log');
 const BATCH_SIZE = 100;
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -129,7 +129,7 @@ CREATE TABLE IF NOT EXISTS case_law_sync_metadata (
   last_sync_date TEXT NOT NULL,
   last_decision_date TEXT,
   cases_count INTEGER,
-  source TEXT DEFAULT 'lagen.nu'
+  source TEXT DEFAULT 'lovdata.no'
 );
 `;
 
@@ -164,7 +164,7 @@ function updateSyncMetadata(db: Database.Database, stats: SyncStats): void {
   db.prepare(`
     INSERT OR REPLACE INTO case_law_sync_metadata
       (id, last_sync_date, last_decision_date, cases_count, source)
-    VALUES (1, ?, ?, ?, 'lagen.nu')
+    VALUES (1, ?, ?, ?, 'lovdata.no')
   `).run(now, lastDecisionDate, stats.total_cases_in_db);
 }
 
@@ -215,7 +215,7 @@ async function syncCaseLaw(options: SyncOptions): Promise<SyncReport> {
   };
 
   try {
-    log('Lagen.nu Case Law Sync');
+    log('Lovdata.no Case Law Sync');
     log(`  Database: ${DB_PATH}`);
     log(`  Mode: ${options.full ? 'FULL' : 'INCREMENTAL'}`);
     log(`  Dry run: ${options.dryRun}`);
@@ -235,7 +235,7 @@ async function syncCaseLaw(options: SyncOptions): Promise<SyncReport> {
           last_sync_date: new Date().toISOString(),
           last_decision_date: null,
           cases_count: 0,
-          source: 'lagen.nu',
+          source: 'lovdata.no',
         },
         error: errorMsg,
       };
@@ -265,7 +265,7 @@ async function syncCaseLaw(options: SyncOptions): Promise<SyncReport> {
       log('');
 
       // Fetch all case IDs from feed
-      log('Fetching case list from lagen.nu feed...');
+      log('Fetching case list from lovdata.no feed...');
       const allCases = await fetchCaseIdsFromFeed();
       log(`  Found ${allCases.length} cases in feed`);
 
@@ -296,7 +296,7 @@ async function syncCaseLaw(options: SyncOptions): Promise<SyncReport> {
             last_sync_date: new Date().toISOString(),
             last_decision_date: null,
             cases_count: stats.total_cases_in_db,
-            source: 'lagen.nu',
+            source: 'lovdata.no',
           },
         };
       }
@@ -322,7 +322,7 @@ async function syncCaseLaw(options: SyncOptions): Promise<SyncReport> {
             last_sync_date: new Date().toISOString(),
             last_decision_date: null,
             cases_count: 0,
-            source: 'lagen.nu',
+            source: 'lovdata.no',
           },
         };
       }
@@ -428,7 +428,7 @@ async function syncCaseLaw(options: SyncOptions): Promise<SyncReport> {
           last_sync_date: new Date().toISOString(),
           last_decision_date: null,
           cases_count: stats.total_cases_in_db,
-          source: 'lagen.nu',
+          source: 'lovdata.no',
         },
       };
 
@@ -448,7 +448,7 @@ async function syncCaseLaw(options: SyncOptions): Promise<SyncReport> {
         last_sync_date: new Date().toISOString(),
         last_decision_date: null,
         cases_count: 0,
-        source: 'lagen.nu',
+        source: 'lovdata.no',
       },
       error: (error as Error).message,
     };

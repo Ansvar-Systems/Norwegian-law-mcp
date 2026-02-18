@@ -2,11 +2,11 @@
 /**
  * Automated Bulk Ingestion of Norwegian Statutes
  *
- * Fetches ALL SFS documents from Lovdata API, filters for major laws,
+ * Fetches ALL statute documents from Lovdata API, filters for major laws,
  * and automatically ingests them into the database.
  *
  * Strategy:
- * 1. Fetch SFS list from Lovdata API (all ~11,413 documents)
+ * 1. Fetch statute list from Lovdata API (all ~11,413 documents)
  * 2. Filter for major laws (heuristics: length, chapters, relevance indicators)
  * 3. Batch ingest with progress tracking
  * 4. Skip already-ingested statutes
@@ -41,7 +41,7 @@ interface CLIOptions {
   skipExisting: boolean;
 }
 
-interface SFSDocument {
+interface StatuteDocument {
   beteckning: string; // e.g., "2018:218"
   titel: string;
   datum: string;
@@ -87,12 +87,12 @@ function parseArgs(): CLIOptions {
   return options;
 }
 
-async function fetchAllSFSDocuments(options: CLIOptions): Promise<SFSDocument[]> {
-  const documents: SFSDocument[] = [];
+async function fetchAllStatuteDocuments(options: CLIOptions): Promise<StatuteDocument[]> {
+  const documents: StatuteDocument[] = [];
   let page = 1;
   let hasMore = true;
 
-  console.log('Fetching SFS document list from Lovdata API...\n');
+  console.log('Fetching statute document list from Lovdata API...\n');
 
   while (hasMore) {
     const yearFilter = options.yearStart && options.yearEnd
@@ -131,8 +131,8 @@ async function fetchAllSFSDocuments(options: CLIOptions): Promise<SFSDocument[]>
   return documents.slice(0, options.limit);
 }
 
-function parseLovdataXML(xml: string): SFSDocument[] {
-  const documents: SFSDocument[] = [];
+function parseLovdataXML(xml: string): StatuteDocument[] {
+  const documents: StatuteDocument[] = [];
 
   // Extract document blocks with regex (lightweight XML parsing)
   const docMatches = xml.matchAll(/<dokument>.*?<\/dokument>/gs);
@@ -165,12 +165,12 @@ function extractXMLTag(xml: string, tag: string): string | undefined {
   return match ? match[1].trim() : undefined;
 }
 
-function filterMajorLaws(documents: SFSDocument[]): SFSDocument[] {
+function filterMajorLaws(documents: StatuteDocument[]): StatuteDocument[] {
   return documents.filter(doc => {
     // Filter out minor amendments and trivial ordinances
 
-    // Exclude documents with "ändr" (amendment) or "upph" (repealed) in title
-    if (doc.titel.match(/ändr|upph|ändring|upphävande|omtryck/i)) {
+    // Exclude documents with "endr" (amendment) or "opph" (repealed) in title
+    if (doc.titel.match(/endr|opph|endring|opphev|omtrykk/i)) {
       return false;
     }
 
@@ -179,17 +179,17 @@ function filterMajorLaws(documents: SFSDocument[]): SFSDocument[] {
       return false;
     }
 
-    // Exclude EU notifications/announcements
-    if (doc.titel.match(/tillkännagivande|kungörelse/i)) {
+    // Exclude notifications/announcements
+    if (doc.titel.match(/kunngjøring|rundskriv/i)) {
       return false;
     }
 
-    // Include only "lag" (law) documents and "balk" (codes), not standalone "förordning" (ordinance)
-    // Exception: Keep constitutional ordinances (Tryckfrihetsförordningen, etc.)
-    const isLaw = doc.titel.match(/\blag\b|\bbalken?\b/i);
-    const isConstitutionalOrdinance = doc.titel.match(/tryckfrihetsförordningen|regeringsformen|successionsordningen|riksdagsordningen/i);
+    // Include only "lov" (law) documents, not standalone "forskrift" (regulation)
+    // Exception: Keep constitutional documents (Grunnloven, etc.)
+    const isLaw = doc.titel.match(/\blov\b|\bloven?\b/i);
+    const isConstitutional = doc.titel.match(/grunnloven/i);
 
-    if (!isLaw && !isConstitutionalOrdinance) {
+    if (!isLaw && !isConstitutional) {
       return false;
     }
 
@@ -203,23 +203,23 @@ function getExistingSeedFiles(): Set<string> {
   }
 
   const files = fs.readdirSync(OUTPUT_DIR);
-  const sfsNumbers = new Set<string>();
+  const lawIds = new Set<string>();
 
   for (const file of files) {
     if (file.endsWith('.json')) {
-      // Convert filename back to SFS number (e.g., "2018_218.json" → "2018:218")
+      // Convert filename back to law ID (e.g., "2018_218.json" -> "2018:218")
       const match = file.match(/(\d{4})[-_](\d+)\.json/);
       if (match) {
-        sfsNumbers.add(`${match[1]}:${match[2]}`);
+        lawIds.add(`${match[1]}:${match[2]}`);
       }
     }
   }
 
-  return sfsNumbers;
+  return lawIds;
 }
 
-function safeFileName(sfsNumber: string): string {
-  return sfsNumber.replace(':', '_');
+function safeFileName(lawId: string): string {
+  return lawId.replace(':', '_');
 }
 
 async function sleep(ms: number): Promise<void> {
@@ -227,7 +227,7 @@ async function sleep(ms: number): Promise<void> {
 }
 
 async function ingestBatch(
-  documents: SFSDocument[],
+  documents: StatuteDocument[],
   options: CLIOptions,
   existing: Set<string>
 ): Promise<IngestionStats> {
@@ -247,33 +247,33 @@ async function ingestBatch(
 
   for (let i = 0; i < documents.length; i++) {
     const doc = documents[i];
-    const sfsNumber = doc.beteckning;
+    const lawId = doc.beteckning;
 
     // Skip if already exists
-    if (options.skipExisting && existing.has(sfsNumber)) {
-      console.log(`[${i + 1}/${documents.length}] SKIP ${sfsNumber} (already exists)`);
+    if (options.skipExisting && existing.has(lawId)) {
+      console.log(`[${i + 1}/${documents.length}] SKIP ${lawId} (already exists)`);
       stats.skipped++;
       continue;
     }
 
-    const outputPath = path.join(OUTPUT_DIR, `${safeFileName(sfsNumber)}.json`);
+    const outputPath = path.join(OUTPUT_DIR, `${safeFileName(lawId)}.json`);
 
     if (options.dryRun) {
-      console.log(`[${i + 1}/${documents.length}] DRY RUN: Would ingest ${sfsNumber} - ${doc.titel}`);
+      console.log(`[${i + 1}/${documents.length}] DRY RUN: Would ingest ${lawId} - ${doc.titel}`);
       stats.succeeded++;
       continue;
     }
 
     try {
-      await ingest(sfsNumber, outputPath);
-      console.log(`[${i + 1}/${documents.length}] ✓ ${sfsNumber} - ${doc.titel.substring(0, 60)}...`);
+      await ingest(lawId, outputPath);
+      console.log(`[${i + 1}/${documents.length}] ✓ ${lawId} - ${doc.titel.substring(0, 60)}...`);
       stats.succeeded++;
       await sleep(REQUEST_DELAY_MS);
     } catch (error) {
       const message = error instanceof Error ? error.message : String(error);
-      console.error(`[${i + 1}/${documents.length}] ✗ ${sfsNumber} - ${message}`);
+      console.error(`[${i + 1}/${documents.length}] ✗ ${lawId} - ${message}`);
       stats.failed++;
-      stats.errors.push({ id: sfsNumber, error: message });
+      stats.errors.push({ id: lawId, error: message });
     }
   }
 
@@ -312,9 +312,9 @@ async function run(): Promise<void> {
   console.log(`Dry run: ${options.dryRun ? 'YES' : 'NO'}`);
   console.log(`Skip existing: ${options.skipExisting ? 'YES' : 'NO'}\n`);
 
-  // Step 1: Fetch all SFS documents
-  const allDocuments = await fetchAllSFSDocuments(options);
-  console.log(`\nTotal SFS documents fetched: ${allDocuments.length}\n`);
+  // Step 1: Fetch all statute documents
+  const allDocuments = await fetchAllStatuteDocuments(options);
+  console.log(`\nTotal statute documents fetched: ${allDocuments.length}\n`);
 
   // Step 2: Filter for major laws
   const majorLaws = filterMajorLaws(allDocuments);

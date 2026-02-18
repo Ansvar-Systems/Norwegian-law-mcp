@@ -20,14 +20,14 @@ If you are a lawyer, legal researcher, or other legal professional:
 
 - **Malpractice Risk**: Relying on unverified information from this Tool in professional legal work may constitute professional malpractice
 - **Professional Obligations**: You remain solely responsible for verifying all citations, statutes, and legal positions before advising clients or filing documents
-- **Advokatsamfundet Rules**: Swedish Bar Association members must comply with confidentiality rules when using AI tools (see [PRIVACY.md](PRIVACY.md))
+- **Advokatforeningen Rules**: Norwegian Bar Association members must comply with confidentiality rules when using AI tools (see [PRIVACY.md](PRIVACY.md))
 - **Client Disclosure**: Consider whether professional ethics rules require disclosing AI tool use to clients
 
 ### Duty of Independent Verification
 
 **YOU MUST VERIFY EVERYTHING.** Do not cite, quote, or rely on any provision, case law, or legal interpretation from this Tool without:
 
-1. Checking the official source (Riksdagen, Domstolsverket, or commercial legal databases)
+1. Checking the official source (Lovdata, Domstol.no, or commercial legal databases)
 2. Verifying the provision is currently in force and has not been amended
 3. Reading the full context of cited provisions
 4. Consulting case law and preparatory works for interpretation
@@ -41,25 +41,24 @@ This Tool aggregates data from multiple sources with varying levels of authority
 
 | Source | Authority Level | Use Case |
 |--------|----------------|----------|
-| **Riksdagen API** | Official government source | Statute text (authoritative) |
+| **Lovdata API** | Official Norwegian legal portal | Statute text (authoritative) |
 | **EUR-Lex** | Official EU legislation database | EU directives/regulations metadata (authoritative) |
-| **Lagen.nu** | Community-maintained (CC-BY Domstolsverket) | Case law (limited coverage, supplementary) |
 
-**CRITICAL**: Lagen.nu is a **community-maintained** resource, NOT an official government publication. While generally reliable, it may contain:
+**NOTE**: Lovdata is the official Norwegian legal information portal managed by Stiftelsen Lovdata. While authoritative, data in this tool may contain:
 
-- Transcription errors
-- Outdated information
-- Missing recent decisions
+- Processing errors from automated ingestion
+- Outdated information due to update lag
+- Missing recent decisions or amendments
 - Incomplete coverage
 
 ### Commercial Legal Databases
 
 For professional legal work, **always cross-check with commercial legal databases** such as:
 
-- **Karnov** (editorially verified, with annotations and commentary)
-- **Juno** (Norstedts Juridik)
-- **Zeteo** (Wolters Kluwer)
-- **Lagrummet.se** (official government legal information system)
+- **Gyldendal Rettsdata** (editorially verified, with annotations and commentary)
+- **Lovdata Pro** (extended Lovdata with editorial commentary)
+- **Juridika** (Universitetsforlaget legal database)
+- **Rettsinfo** (government legal information system)
 
 These services provide editorial oversight, comprehensive annotations, and professional-grade currency guarantees that this Tool **cannot** provide.
 
@@ -68,7 +67,7 @@ These services provide editorial oversight, comprehensive annotations, and profe
 ### No Real-Time Updates
 
 - Database updates are **manual** and may lag official publications by **weeks or months**
-- Swedish law changes continuously through new statutes, amendments, and court decisions
+- Norwegian law changes continuously through new statutes, amendments, and court decisions
 - **Last-updated timestamps** in tool responses indicate data age, but should be treated as unreliable
 
 ### Staleness Warnings
@@ -98,7 +97,7 @@ This Tool does **NOT** include:
 3. **Historical Statute Versions** — Limited availability of historical provision wording
 4. **Legal Commentary** — No editorial annotations, academic commentary, or practice guides
 5. **Unpublished Decisions** — Lower court decisions and administrative rulings largely absent
-6. **Legislative History** — Limited coverage of preparatory works (propositioner, SOUs)
+6. **Legislative History** — Limited coverage of preparatory works (propositions, NOUs)
 
 ### Impact on Professional Use
 
@@ -106,7 +105,7 @@ These gaps mean:
 
 - **Incomplete Legal Research**: Tool results are inherently incomplete and may miss critical authorities
 - **Context Missing**: Without commentary and preparatory works, interpretation may be incorrect
-- **EU Law Blind Spots**: Cannot assess whether Swedish provision implements EU law or conflicts with CJEU precedent
+- **EU/EEA Law Blind Spots**: Cannot assess whether Norwegian provision implements EU/EEA law or conflicts with EFTA Court/CJEU precedent
 
 ## No Warranties
 
@@ -177,20 +176,20 @@ Using this Tool does not reduce your professional obligations to:
 ## Recommended Workflow for Professional Use
 
 1. **Initial Research**: Use Tool for preliminary research and hypothesis generation
-2. **Official Verification**: Cross-check ALL results with official sources (Riksdagen, Domstolsverket)
-3. **Commercial Databases**: Use Karnov, Juno, or Zeteo for authoritative, annotated versions
+2. **Official Verification**: Cross-check ALL results with official sources (Lovdata, Domstol.no)
+3. **Commercial Databases**: Use Gyldendal Rettsdata, Lovdata Pro, or Juridika for authoritative, annotated versions
 4. **Professional Judgment**: Apply independent legal analysis and professional judgment
 5. **Document Sources**: Cite official sources in legal work, not this Tool
 6. **Update Check**: Before finalizing legal work, check for recent amendments and decisions
 
 ## Changes to This Disclaimer
 
-This disclaimer may be updated as the Tool evolves or legal/regulatory requirements change. Check the [GitHub repository](https://github.com/Ansvar-Systems/swedish-law-mcp) for the current version.
+This disclaimer may be updated as the Tool evolves or legal/regulatory requirements change. Check the [GitHub repository](https://github.com/Ansvar-Systems/norwegian-law-mcp) for the current version.
 
 ## Questions?
 
 For questions about this disclaimer or the Tool's limitations, please open an issue on GitHub:
-https://github.com/Ansvar-Systems/swedish-law-mcp/issues
+https://github.com/Ansvar-Systems/norwegian-law-mcp/issues
 
 ---
 

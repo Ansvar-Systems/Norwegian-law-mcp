@@ -2,11 +2,11 @@
 
 ## What Is This?
 
-EU law cross-reference system for Swedish Law MCP, enabling bi-directional lookup between Swedish statutes and EU directives/regulations.
+EU law cross-reference system for Norwegian Law MCP, enabling bi-directional lookup between Norwegian statutes and EU directives/regulations.
 
 ## Quick Stats
 
-- **682 EU references** extracted from **49 Swedish statutes**
+- **682 EU references** extracted from **49 Norwegian statutes**
 - **227 unique EU documents** (89 directives, 138 regulations)
 - **Parser accuracy:** 95%+
 - **Status:** Ready for database integration
@@ -31,13 +31,13 @@ EU law cross-reference system for Swedish Law MCP, enabling bi-directional looku
 4. **directive:1995/46** (Data Protection, repealed) - 14 references
 5. **regulation:2019/1020** (Market surveillance) - 14 references
 
-## Top Swedish Statutes by EU References
+## Top Norwegian Statutes by EU References
 
-1. **2009:400** (Offentlighets- och sekretesslag) - 33 refs
-2. **1998:808** (Miljöbalk) - 32 refs
-3. **2016:1146** (Upphandling försörjningssektorn) - 25 refs
-4. **2005:551** (Aktiebolagslag) - 23 refs
-5. **2016:1147** (Upphandling koncessioner) - 21 refs
+1. **LOV-2006-05-19-16** (Offentleglova) - 33 refs
+2. **LOV-1981-03-13-6** (Forurensningsloven) - 32 refs
+3. **LOV-2016-06-17-73** (Anskaffelsesloven) - 25 refs
+4. **LOV-1997-06-13-44** (Aksjeloven) - 23 refs
+5. **LOV-2016-06-17-73** (Anskaffelsesloven forsorgningssektoren) - 21 refs
 
 ## Next Steps
 
@@ -66,7 +66,7 @@ sqlite3 data/database.db "SELECT COUNT(*) FROM eu_references;"
 import { Database } from 'better-sqlite3';
 
 export async function getEUBasis(db: Database, params: {
-  sfs_number: string;
+  law_id: string;
   include_articles?: boolean;
 }) {
   const query = `
@@ -81,7 +81,7 @@ export async function getEUBasis(db: Database, params: {
     ORDER BY er.is_primary_implementation DESC
   `;
 
-  return db.prepare(query).all(params.sfs_number);
+  return db.prepare(query).all(params.law_id);
 }
 ```
 
@@ -93,7 +93,7 @@ npx @anthropic/mcp-inspector node dist/index.js
 {
   "tool": "get_eu_basis",
   "arguments": {
-    "sfs_number": "2018:218"
+    "law_id": "LOV-2018-06-15-38"
   }
 }
 
@@ -102,15 +102,15 @@ npx @anthropic/mcp-inspector node dist/index.js
 
 ## Example Queries
 
-### Get EU basis for Dataskyddslagen
+### Get EU basis for Personopplysningsloven
 ```sql
 SELECT ed.id, ed.title, er.reference_type
 FROM eu_references er
 JOIN eu_documents ed ON er.eu_document_id = ed.id
-WHERE er.document_id = '2018:218';
+WHERE er.document_id = 'LOV-2018-06-15-38';
 ```
 
-### Find Swedish implementations of GDPR
+### Find Norwegian implementations of GDPR
 ```sql
 SELECT ld.id, ld.title, er.is_primary_implementation
 FROM eu_references er
@@ -133,9 +133,9 @@ LIMIT 10;
 import { extractEUReferences } from './src/parsers/eu-reference-parser';
 
 const text = `
-Denna lag kompletterar Europaparlamentets och rådets
-förordning (EU) 2016/679 om skydd för fysiska personer
-med avseende på behandling av personuppgifter.
+Denne loven supplerer Europaparlamentets og Radets
+forordning (EU) 2016/679 om vern av fysiske personer
+med hensyn til behandling av personopplysninger.
 `;
 
 const refs = extractEUReferences(text);
@@ -147,14 +147,14 @@ const refs = extractEUReferences(text);
 //   number: 679,
 //   community: 'EU',
 //   referenceType: 'supplements',
-//   implementationKeyword: 'kompletterar'
+//   implementationKeyword: 'supplerer'
 // }]
 ```
 
 ## MCP Tools (Ready to Implement)
 
-1. **get_eu_basis** - EU directives/regulations for Swedish statute
-2. **get_swedish_implementations** - Swedish statutes implementing EU act
+1. **get_eu_basis** - EU directives/regulations for Norwegian statute
+2. **get_norwegian_implementations** - Norwegian statutes implementing EU act
 3. **search_eu_implementations** - Search EU documents
 4. **get_provision_eu_basis** - EU basis for specific provision
 5. **validate_eu_compliance** - Compliance checking (future)
@@ -174,9 +174,9 @@ eu_documents (
   short_name TEXT              -- "GDPR"
 )
 
--- Swedish → EU cross-references
+-- Norwegian → EU cross-references
 eu_references (
-  document_id TEXT,            -- SFS number
+  document_id TEXT,            -- LOV number
   provision_id INTEGER,        -- Optional provision link
   eu_document_id TEXT,         -- FK to eu_documents
   eu_article TEXT,             -- "6.1.c", "13-15"
@@ -187,8 +187,8 @@ eu_references (
 
 ## Reference Types
 
-- **implements** - Swedish law implements EU directive
-- **supplements** - Swedish law supplements EU regulation
+- **implements** - Norwegian law implements EU directive
+- **supplements** - Norwegian law supplements EU regulation
 - **applies** - EU regulation applies directly
 - **references** - General reference
 - **complies_with** - Ensures compliance
@@ -206,15 +206,15 @@ eu_references (
 
 Future integration enables:
 - Fetching full EU law text by CELEX number
-- Side-by-side comparison of Swedish vs. EU provisions
+- Side-by-side comparison of Norwegian vs. EU provisions
 - Automated compliance validation
 - Implementation gap analysis
 
 ## Resources
 
 - **EUR-Lex:** https://eur-lex.europa.eu/ (Official EU law database)
-- **Lagrummet:** https://lagrummet.se/ (Swedish legal information)
-- **Swedish Government EU Info:** https://www.regeringen.se/regeringens-politik/eu/
+- **Rettsinfo:** https://lovdata.no/ (Norwegian legal information)
+- **Norwegian Government EU/EEA Info:** https://www.regjeringen.no/no/tema/europapolitikk/id115259/
 
 ## Support
 
@@ -225,4 +225,4 @@ Questions? Check:
 
 ---
 
-**Generated by Agent 5 - Swedish Law MCP EU Reference Extraction**
+**Generated by Agent 5 - Norwegian Law MCP EU Reference Extraction**

@@ -1,5 +1,5 @@
 /**
- * get_preparatory_works — Retrieve preparatory works (forarbeten) for a statute.
+ * get_preparatory_works — Retrieve preparatory works (forarbeider) for a statute.
  */
 
 import type { Database } from '@ansvar/mcp-sqlite';
@@ -7,6 +7,7 @@ import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.j
 
 export interface GetPreparatoryWorksInput {
   document_id: string;
+  limit?: number;
 }
 
 export interface PreparatoryWorkResult {
@@ -43,9 +44,11 @@ export async function getPreparatoryWorks(
     JOIN legal_documents prep ON prep.id = pw.prep_document_id
     WHERE pw.statute_id = ?
     ORDER BY prep.issued_date
+    LIMIT ?
   `;
 
-  const results = db.prepare(sql).all(input.document_id) as PreparatoryWorkResult[];
+  const limit = Math.min(Math.max(input.limit ?? 50, 1), 200);
+  const results = db.prepare(sql).all(input.document_id, limit) as PreparatoryWorkResult[];
 
   return {
     results,

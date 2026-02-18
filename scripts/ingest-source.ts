@@ -8,7 +8,7 @@
  *
  * This script is the first step in the data pipeline:
  *
- *   Source (EUR-Lex, lagen.nu, etc.)
+ *   Source (EUR-Lex, lovdata.no, etc.)
  *          │
  *          ▼
  *   ┌─────────────────┐
@@ -34,7 +34,7 @@
  *
  *   Examples:
  *     npm run ingest -- 32016R0679 data/seed/gdpr.json
- *     npm run ingest -- "2018:218" data/seed/dataskyddslagen.json
+ *     npm run ingest -- "LOV-2018-06-15-38" data/seed/personopplysningsloven.json
  *
  * ───────────────────────────────────────────────────────────────────────────
  * CUSTOMIZATION
@@ -50,8 +50,7 @@
  * Different data sources require different parsing logic:
  *
  *   - EUR-Lex: Complex HTML with specific class names
- *   - lagen.nu: RDFa-enhanced HTML
- *   - lovdata.no: Different HTML structure
+ *   - lovdata.no: Norwegian legal data HTML structure
  *
  * ───────────────────────────────────────────────────────────────────────────
  * EXAMPLE: EUR-LEX INGESTION
@@ -85,7 +84,6 @@ import * as path from 'path';
  *
  * Examples:
  *   - EUR-Lex: 'https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:'
- *   - lagen.nu: 'https://lagen.nu/'
  *   - lovdata.no: 'https://lovdata.no/dokument/NL/lov/'
  */
 const SOURCE_BASE_URL = 'https://your-source.example.com/';
@@ -104,11 +102,11 @@ const KNOWN_SOURCES: Record<string, SourceMetadata> = {
     effective_date: '2018-05-25',
   },
 
-  // Example: Swedish Law (SFS number)
-  '2018:218': {
-    id: 'DSL',
-    full_name: 'Dataskyddslagen',
-    effective_date: '2018-05-25',
+  // Example: Norwegian Law (LOV number)
+  'LOV-2018-06-15-38': {
+    id: 'popplyl',
+    full_name: 'Personopplysningsloven',
+    effective_date: '2018-07-20',
   },
 
   // Add more sources here...
@@ -179,7 +177,7 @@ interface DefinitionOutput {
 /**
  * Main ingestion function
  *
- * @param identifier - Source identifier (e.g., CELEX ID, SFS number)
+ * @param identifier - Source identifier (e.g., CELEX ID, LOV number)
  * @param outputPath - Path to write the seed JSON file
  */
 async function ingest(identifier: string, outputPath: string): Promise<void> {
@@ -327,8 +325,8 @@ function buildSourceUrl(identifier: string): string {
   // Example: EUR-Lex
   // return `https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:${identifier}`;
 
-  // Example: lagen.nu
-  // return `https://lagen.nu/${identifier.replace(':', '_')}`;
+  // Example: lovdata.no
+  // return `https://lovdata.no/dokument/NL/lov/${identifier}`;
 
   // Generic fallback
   return `${SOURCE_BASE_URL}${encodeURIComponent(identifier)}`;
@@ -367,9 +365,9 @@ function buildSourceUrl(identifier: string): string {
  * }
  * ```
  *
- * @example lagen.nu pattern
+ * @example lovdata.no pattern
  * ```typescript
- * // Sections are in <div class="paragraf">
+ * // Sections are in elements with specific lovdata.no structure
  * const sections = document.querySelectorAll('div.paragraf');
  *
  * for (const section of sections) {
@@ -594,7 +592,7 @@ function extractItemInfo(
     };
   }
 
-  // Try Swedish paragraph pattern
+  // Try Norwegian paragraph pattern
   const paragrafMatch = text.match(/^(\d+)\s*§/);
   if (paragrafMatch) {
     return {
@@ -680,7 +678,7 @@ if (args.length < 2) {
   console.log('');
   console.log(' Examples:');
   console.log('   npm run ingest -- 32016R0679 data/seed/gdpr.json');
-  console.log('   npm run ingest -- "2018:218" data/seed/dataskyddslagen.json');
+  console.log('   npm run ingest -- "LOV-2018-06-15-38" data/seed/personopplysningsloven.json');
   console.log('');
   console.log(' Known sources:');
   for (const [id, meta] of Object.entries(KNOWN_SOURCES)) {

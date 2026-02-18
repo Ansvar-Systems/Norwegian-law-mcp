@@ -75,7 +75,7 @@ export async function checkCurrency(
   const repealDate = extractRepealDateFromDescription(doc.description ?? null);
 
   if (doc.status === 'repealed') {
-    warnings.push('This statute has been repealed (upphävd)');
+    warnings.push('This statute has been repealed (opphevet)');
   } else if (doc.status === 'amended') {
     warnings.push('This statute has been amended since last ingestion');
   } else if (doc.status === 'not_yet_in_force') {

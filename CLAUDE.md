@@ -4,32 +4,39 @@
 
 ## Project Overview
 
-This is an MCP server providing Norwegian legal research tools — searching statutes (lover), case law (rettsavgjorelser), preparatory works (forarbeider), and validating citations. Built with TypeScript and SQLite FTS5 for full-text search.
+This is an MCP server providing Norwegian legal citation tools — searching statutes (lover), case law (rettsavgjorelser), preparatory works (forarbeider), and validating citations. Built with TypeScript and SQLite FTS5 for full-text search.
 
 **Core principle: Verified data only** — the server NEVER generates citations, only returns data verified against authoritative Norwegian legal sources (Lovdata). All database entries are validated during ingestion.
 
 **Data Sources:**
 - Lovdata (Stiftelsen Lovdata) — Official Norwegian legal portal
-- EUR-Lex — EU legislation database (metadata, for EEA cross-references)
+- Norsk Lovtidend / Lovsamlingen — Norwegian Code of Statutes
+- EUR-Lex — Official EU legislation database (metadata, for EEA cross-references)
 
 ## Architecture
 
 ```
 src/
 ├── index.ts                 # MCP server entry point (stdio transport, delegates to registry)
+├── capabilities.ts          # Server capability declarations
 ├── types/
 │   ├── index.ts             # Re-exports all types
 │   ├── documents.ts         # LegalDocument, DocumentType, DocumentStatus
 │   ├── provisions.ts        # LegalProvision, ProvisionRef, CrossReference
-│   └── citations.ts         # ParsedCitation, CitationFormat, ValidationResult
+│   ├── citations.ts         # ParsedCitation, CitationFormat, ValidationResult
+│   └── eu-references.ts     # EU reference types
 ├── citation/
 │   ├── parser.ts            # Parse citation strings (LOV, Prop., NOU, HR, etc.)
 │   ├── formatter.ts         # Format citations per Norwegian conventions
 │   └── validator.ts         # Validate citations against database
 ├── parsers/
-│   ├── provision-parser.ts  # Parse raw statute text into provisions
-│   └── cross-ref-extractor.ts  # Extract cross-references from text
+│   ├── provision-parser.ts      # Parse raw statute text into provisions
+│   ├── cross-ref-extractor.ts   # Extract cross-references from text
+│   ├── eu-reference-parser.ts   # Extract EU references from Norwegian statute text
+│   ├── amendment-parser.ts      # Parse amendment information
+│   └── lovdata-provision-parser.ts    # Provision parser for Lovdata-sourced text
 ├── utils/
+│   ├── as-of-date.ts        # Date handling utilities
 │   ├── fts-query.ts         # FTS5 query sanitization
 │   └── metadata.ts          # Response metadata generation
 └── tools/
@@ -43,7 +50,7 @@ src/
     ├── format-citation.ts       # format_citation - Citation formatting
     ├── check-currency.ts        # check_currency - Is statute in force?
     ├── get-eu-basis.ts          # get_eu_basis - EU law for Norwegian statute
-    ├── get-swedish-implementations.ts # get_norwegian_implementations - Norwegian laws for EU act
+    ├── get-norwegian-implementations.ts # get_norwegian_implementations - Norwegian laws for EU act
     ├── search-eu-implementations.ts   # search_eu_implementations - Search EU documents
     ├── get-provision-eu-basis.ts      # get_provision_eu_basis - EU basis for provision
     ├── validate-eu-compliance.ts      # validate_eu_compliance - EU compliance check
@@ -51,18 +58,39 @@ src/
     └── about.ts                 # about - Server metadata
 
 api/
-├── mcp.ts               # Streamable HTTP transport (Vercel)
-└── health.ts             # Health endpoint
+├── mcp.ts                   # Streamable HTTP transport (Vercel)
+└── health.ts                # Health endpoint
 
 scripts/
 ├── build-db.ts              # Build SQLite database from seed files
 ├── ingest-lovdata.ts        # Ingest statutes from Lovdata
-└── check-updates.ts         # Check for statute amendments
+├── ingest-riksdagen.ts      # Legacy Swedish ingestion script (deprecated)
+├── ingest-official-catalog-no.ts    # Ingest official Norwegian statute catalog
+├── ingest-relevant-laws-no.ts       # Ingest relevant Norwegian laws
+├── ingest-case-law-metadata-no.ts   # Ingest Norwegian case law metadata
+├── sync-case-law-metadata-no.ts     # Sync Norwegian case law metadata
+├── sync-preparatory-works-no.ts     # Sync Norwegian preparatory works
+├── ingest-preparatory-works.ts      # Ingest preparatory works
+├── extract-eu-references.ts         # Extract EU references from statutes
+├── fetch-eurlex-metadata.ts         # Fetch EU document metadata from EUR-Lex
+├── import-eurlex-documents.ts       # Import EUR-Lex documents into database
+├── migrate-eu-references.ts         # Migrate EU references from seed files
+├── verify-eu-coverage.ts            # Verify EU reference coverage
+├── check-updates.ts                 # Check for statute amendments
+├── drift-detect.ts                  # Detect data drift
+├── extract-definitions.ts           # Extract legal definitions
+├── audit-seeds.ts                   # Audit seed file integrity
+├── lib/
+│   ├── legal-data-license.ts        # License gate for legal data
+│   └── lagennu-parser.ts            # Legacy Swedish parser (deprecated)
+└── ...                              # Additional utility scripts
 
 tests/
-├── fixtures/test-db.ts      # In-memory SQLite with Norwegian law sample data
+├── capabilities.test.ts     # Server capability tests
+├── fixtures/                # In-memory SQLite with Norwegian law sample data
 ├── citation/                # Parser, formatter, validator tests
 ├── parsers/                 # Provision parser tests
+├── integration/             # Integration tests
 └── tools/                   # Tool-level integration tests
 
 __tests__/
@@ -109,16 +137,17 @@ data/
 
 Norwegian statutes follow this structure:
 - **LOV id**: e.g., "LOV-2018-06-15-38" (LOV-YYYY-MM-DD-number)
-- **Chapters** (Kapittel): Major divisions, e.g., "Kapittel 1"
+- **Chapters** (Kapittel): Major divisions, e.g., "kapittel 3"
 - **Sections** (Paragrafer): Individual provisions, marked with §
 - **Paragraphs** (Ledd): Within sections
 
 Citation formats:
-- LOV reference: `LOV-2018-06-15-38 § 1`
-- Chapter+section: `LOV-2018-06-15-38 1:1` (Kapittel 1 § 1)
-- Proposition: `Prop. 56 L (2017-2018)` or `Ot.prp. nr. 98 (2008-2009)`
-- NOU: `NOU 2019:5`
-- Case law: `HR-2020-1234-A`, `Rt. 2015 s. 1388`
+- Full: `LOV LOV-2018-06-15-38 kapittel 3 § 5`
+- Short: `LOV-2018-06-15-38 § 5`
+- Chapter+section: `LOV-2018-06-15-38 3:5` (Kapittel 3 § 5)
+- Proposition: `Prop.56 L (2017-2018)` or `Ot.prp. nr. 98 (2008-2009)`
+- NOU: `NOU 2009:1`
+- Case law: `HR-2020-1234-A`, `Rt. 2015 s. 1250`
 
 ## Key Commands
 
@@ -142,11 +171,11 @@ npx @anthropic/mcp-inspector node dist/index.js
 ```sql
 -- All legal documents (statutes, case law)
 CREATE TABLE legal_documents (
-  id TEXT PRIMARY KEY,          -- LOV id or doc ID
-  type TEXT NOT NULL,           -- statute|case_law
+  id TEXT PRIMARY KEY,          -- LOV id (e.g., LOV-2018-06-15-38) or doc ID
+  type TEXT NOT NULL,           -- statute|bill|sou|ds|case_law
   title TEXT NOT NULL,
   title_en TEXT,
-  short_name TEXT,
+  short_name TEXT,              -- e.g., "popplyl", "strl"
   status TEXT NOT NULL,         -- in_force|amended|repealed|not_yet_in_force
   issued_date TEXT,
   in_force_date TEXT,
@@ -175,26 +204,26 @@ CREATE TABLE eu_documents (
   year INTEGER NOT NULL,
   number INTEGER NOT NULL,
   community TEXT,               -- "EU" | "EG" | "EEG" | "Euratom"
-  celex_number TEXT,            -- EUR-Lex standard
+  celex_number TEXT,            -- EUR-Lex standard (e.g., "32016R0679")
   title TEXT,
   title_en TEXT,
   short_name TEXT,              -- "GDPR", "eIDAS", etc.
   in_force BOOLEAN DEFAULT 1,
   adoption_date TEXT,
-  url TEXT,
+  url TEXT,                     -- EUR-Lex URL
   UNIQUE(type, year, number)
 );
 
--- Norwegian → EU cross-references
+-- Norwegian statute → EU cross-references (EEA implementation)
 CREATE TABLE eu_references (
   id INTEGER PRIMARY KEY,
-  document_id TEXT NOT NULL REFERENCES legal_documents(id),
-  provision_id INTEGER REFERENCES legal_provisions(id),
-  eu_document_id TEXT NOT NULL REFERENCES eu_documents(id),
-  eu_article TEXT,
+  document_id TEXT NOT NULL REFERENCES legal_documents(id),  -- Norwegian LOV id
+  provision_id INTEGER REFERENCES legal_provisions(id),      -- Optional provision link
+  eu_document_id TEXT NOT NULL REFERENCES eu_documents(id),  -- EU directive/regulation
+  eu_article TEXT,              -- "6.1.c", "13-15", etc.
   reference_type TEXT,          -- "implements", "supplements", "applies", etc.
   is_primary_implementation BOOLEAN DEFAULT 0,
-  context TEXT,
+  context TEXT,                 -- Surrounding Norwegian text
   UNIQUE(document_id, provision_id, eu_document_id, eu_article)
 );
 
@@ -205,6 +234,73 @@ CREATE VIRTUAL TABLE prep_works_fts USING fts5(...);
 CREATE VIRTUAL TABLE definitions_fts USING fts5(...);
 
 -- See scripts/build-db.ts for full schema
+```
+
+## EU Integration Architecture
+
+### Bi-Directional Reference Model (via EEA Agreement)
+
+```
+Norwegian Statute <-> EU Directive/Regulation
+       |                        |
+  Provisions              EU Articles
+       |                        |
+    Case Law              CJEU (future)
+```
+
+### Data Flow
+
+1. **Ingestion:** EU references extracted from Norwegian statute text via `src/parsers/eu-reference-parser.ts`
+2. **Storage:** Stored in `eu_documents` and `eu_references` tables
+3. **Lookup:** Bi-directional queries via MCP tools
+4. **Validation:** CELEX numbers validated against EUR-Lex format
+
+### Example Queries
+
+**Norwegian -> EU:**
+```sql
+-- Find EU basis for personopplysningsloven
+SELECT ed.id, ed.short_name, er.reference_type
+FROM eu_references er
+JOIN eu_documents ed ON er.eu_document_id = ed.id
+WHERE er.document_id = 'LOV-2018-06-15-38';
+```
+
+**EU -> Norwegian:**
+```sql
+-- Find Norwegian implementations of GDPR
+SELECT ld.id, ld.title, er.is_primary_implementation
+FROM eu_references er
+JOIN legal_documents ld ON er.document_id = ld.id
+WHERE er.eu_document_id = 'regulation:2016/679';
+```
+
+**Provision-level:**
+```sql
+-- EU basis for personopplysningsloven kapittel 3 § 5
+SELECT ed.id, ed.short_name, er.eu_article
+FROM eu_references er
+JOIN eu_documents ed ON er.eu_document_id = ed.id
+JOIN legal_provisions lp ON er.provision_id = lp.id
+WHERE lp.document_id = 'LOV-2018-06-15-38' AND lp.provision_ref = '3:5';
+```
+
+**EU Ingestion Commands:**
+```bash
+# Fetch missing EU documents from EUR-Lex
+npm run fetch:eurlex -- --missing
+
+# Fetch single EU document
+npm run fetch:eurlex -- regulation:2016/679
+
+# Import EUR-Lex documents into database
+npm run import:eurlex-documents
+
+# Migrate EU references from seed files
+npm run migrate:eu-references
+
+# Verify EU coverage
+npm run verify:eu-coverage
 ```
 
 ## Testing
@@ -226,6 +322,8 @@ describe('search_legislation', () => {
 });
 ```
 
+Sample data includes: personopplysningsloven (LOV-2018-06-15-38), old personopplysningsloven (LOV-2000-04-14-31), court decisions, preparatory works, definitions, and cross-references.
+
 ## Database Statistics
 
 - **Statutes:** 3,400 laws (lover)
@@ -240,9 +338,13 @@ License gate: `scripts/lib/legal-data-license.ts`
 
 Norwegian legislation is public. Lovdata consolidation is a public service; reuse permitted with attribution.
 
+**Note:** Some Lovdata APIs require authentication. Public statute text is freely available.
+
 ## Resources
 
-- [Lovdata](https://lovdata.no) - Official Norwegian legal portal
+- [Lovdata](https://lovdata.no/) - Official Norwegian legal portal
+- [Norsk Lovtidend](https://lovdata.no/register/lovtidend) - Norwegian Code of Statutes
+- [Rettsinfo](https://rettsinfo.no/) - Legal information system
 - [EUR-Lex](https://eur-lex.europa.eu/) - EU legislation database
 
 ## Git Workflow

@@ -1,7 +1,7 @@
 #!/usr/bin/env tsx
 
 /**
- * Survey EU references in Swedish statute seed files
+ * Survey EU references in Norwegian statute seed files
  * Identifies patterns and creates taxonomy
  */
 
@@ -16,39 +16,41 @@ interface EUReference {
   community?: 'EU' | 'EG' | 'EEG' | 'Euratom';
   fullText: string;
   context: string;
-  sfsNumber: string;
-  sfsTitle: string;
+  lawId: string;
+  lawTitle: string;
 }
 
-// Regex patterns for EU references
+// Regex patterns for EU references (Norwegian text patterns)
 const patterns = {
   // Directives: direktiv 2016/680, direktiv 95/46/EG, direktiv (EU) 2019/1152
   directive: [
     /direktiv\s+(?:\(([^)]+)\)\s+)?(\d{2,4})\/(\d+)(?:\/([A-Z]+))?/gi,
     /rådets direktiv\s+(?:\(([^)]+)\)\s+)?(\d{2,4})\/(\d+)(?:\/([A-Z]+))?/gi,
-    /Europaparlamentets och rådets direktiv\s+(?:\(([^)]+)\)\s+)?(\d{2,4})\/(\d+)(?:\/([A-Z]+))?/gi,
+    /Europaparlamentets og rådets direktiv\s+(?:\(([^)]+)\)\s+)?(\d{2,4})\/(\d+)(?:\/([A-Z]+))?/gi,
+    /Europaparlaments- og rådsdirektiv\s+(?:\(([^)]+)\)\s+)?(\d{2,4})\/(\d+)(?:\/([A-Z]+))?/gi,
   ],
-  // Regulations: förordning (EU) 2016/679, förordning (EG) nr 765/2008
+  // Regulations: forordning (EU) 2016/679, forordning (EG) nr 765/2008
   regulation: [
-    /förordning\s+(?:\(([^)]+)\)\s+)?(?:nr\s+)?(\d{2,4})\/(\d+)/gi,
-    /rådets förordning\s+(?:\(([^)]+)\)\s+)?(?:nr\s+)?(\d{2,4})\/(\d+)/gi,
-    /Europaparlamentets och rådets förordning\s+(?:\(([^)]+)\)\s+)?(?:nr\s+)?(\d{2,4})\/(\d+)/gi,
-    /kommissionens förordning\s+(?:\(([^)]+)\)\s+)?(?:nr\s+)?(\d{2,4})\/(\d+)/gi,
-    /kommissionens genomförandeförordning\s+(?:\(([^)]+)\)\s+)?(?:nr\s+)?(\d{2,4})\/(\d+)/gi,
-    /kommissionens delegerade förordning\s+(?:\(([^)]+)\)\s+)?(?:nr\s+)?(\d{2,4})\/(\d+)/gi,
+    /forordning\s+(?:\(([^)]+)\)\s+)?(?:nr\.?\s+)?(\d{2,4})\/(\d+)/gi,
+    /rådets forordning\s+(?:\(([^)]+)\)\s+)?(?:nr\.?\s+)?(\d{2,4})\/(\d+)/gi,
+    /Europaparlamentets og rådets forordning\s+(?:\(([^)]+)\)\s+)?(?:nr\.?\s+)?(\d{2,4})\/(\d+)/gi,
+    /Europaparlaments- og rådsforordning\s+(?:\(([^)]+)\)\s+)?(?:nr\.?\s+)?(\d{2,4})\/(\d+)/gi,
+    /kommisjonens forordning\s+(?:\(([^)]+)\)\s+)?(?:nr\.?\s+)?(\d{2,4})\/(\d+)/gi,
+    /kommisjonens gjennomføringsforordning\s+(?:\(([^)]+)\)\s+)?(?:nr\.?\s+)?(\d{2,4})\/(\d+)/gi,
+    /kommisjonens delegerte forordning\s+(?:\(([^)]+)\)\s+)?(?:nr\.?\s+)?(\d{2,4})\/(\d+)/gi,
   ],
 };
 
-// Implementation keywords
+// Implementation keywords (Norwegian)
 const implementationKeywords = [
-  'genomförande av',
-  'kompletterar',
-  'tillämpning av',
-  'i enlighet med',
-  'med stöd av',
+  'gjennomføring av',
+  'supplerer',
+  'anvendelse av',
+  'i samsvar med',
+  'med hjemmel i',
 ];
 
-function extractEUReferences(content: string, sfsNumber: string, sfsTitle: string): EUReference[] {
+function extractEUReferences(content: string, lawId: string, lawTitle: string): EUReference[] {
   const references: EUReference[] = [];
   const seen = new Set<string>();
 
@@ -78,8 +80,8 @@ function extractEUReferences(content: string, sfsNumber: string, sfsTitle: strin
         community,
         fullText,
         context,
-        sfsNumber,
-        sfsTitle,
+        lawId,
+        lawTitle,
       });
     }
   }
@@ -109,8 +111,8 @@ function extractEUReferences(content: string, sfsNumber: string, sfsTitle: strin
         community: (community || 'EU') as 'EU' | 'EG' | 'EEG' | 'Euratom',
         fullText,
         context,
-        sfsNumber,
-        sfsTitle,
+        lawId,
+        lawTitle,
       });
     }
   }
@@ -136,17 +138,17 @@ function main() {
       const data = JSON.parse(content);
       if (data.type !== 'statute') continue;
 
-      const sfsNumber = data.id;
-      const sfsTitle = data.title;
+      const lawId = data.id;
+      const lawTitle = data.title;
       const fullContent = JSON.stringify(data);
 
-      const references = extractEUReferences(fullContent, sfsNumber, sfsTitle);
+      const references = extractEUReferences(fullContent, lawId, lawTitle);
 
       if (references.length > 0) {
-        statutesWithEU.push(`${sfsNumber} - ${sfsTitle} (${references.length} refs)`);
+        statutesWithEU.push(`${lawId} - ${lawTitle} (${references.length} refs)`);
         allReferences.push(...references);
       } else {
-        statutesWithoutEU.push(`${sfsNumber} - ${sfsTitle}`);
+        statutesWithoutEU.push(`${lawId} - ${lawTitle}`);
       }
     } catch (e) {
       console.error(`Error processing ${file}:`, e);
@@ -180,7 +182,7 @@ function main() {
     }
     const entry = citationCounts.get(key)!;
     entry.count++;
-    entry.statutes.add(ref.sfsNumber);
+    entry.statutes.add(ref.lawId);
   }
 
   const topCitations = Array.from(citationCounts.entries())
@@ -236,10 +238,10 @@ function main() {
   // Statutes with most EU references
   const statuteRefCounts = new Map<string, { title: string; count: number }>();
   for (const ref of allReferences) {
-    if (!statuteRefCounts.has(ref.sfsNumber)) {
-      statuteRefCounts.set(ref.sfsNumber, { title: ref.sfsTitle, count: 0 });
+    if (!statuteRefCounts.has(ref.lawId)) {
+      statuteRefCounts.set(ref.lawId, { title: ref.lawTitle, count: 0 });
     }
-    statuteRefCounts.get(ref.sfsNumber)!.count++;
+    statuteRefCounts.get(ref.lawId)!.count++;
   }
 
   const topStatutes = Array.from(statuteRefCounts.entries())
@@ -248,8 +250,8 @@ function main() {
 
   console.log('TOP 10 STATUTES WITH MOST EU REFERENCES:');
   console.log('-'.repeat(80));
-  for (const [sfsNumber, { title, count }] of topStatutes) {
-    console.log(`${sfsNumber.padEnd(12)} ${count.toString().padStart(3)} refs - ${title.substring(0, 50)}`);
+  for (const [lawId, { title, count }] of topStatutes) {
+    console.log(`${lawId.padEnd(12)} ${count.toString().padStart(3)} refs - ${title.substring(0, 50)}`);
   }
   console.log();
 

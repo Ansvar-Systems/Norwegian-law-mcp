@@ -1,45 +1,45 @@
 # Historical Versioning Schema Design
 
-## Swedish Statute Amendment Patterns
+## Norwegian Statute Amendment Patterns
 
 ### Amendment Keywords (Observed in Corpus)
 
-Swedish statutes use these standard phrases to indicate amendments:
+Norwegian statutes use these standard phrases to indicate amendments:
 
-1. **Lag (YYYY:NNN)** - "Amended by Law YYYY:NNN"
+1. **Endret ved lov DD. MMM YYYY nr. NNN** - "Amended by Law LOV-YYYY-MM-DD-NNN"
    - Appears at end of provision text
-   - Example: `Lag (2021:1174).` means this provision was last amended by SFS 2021:1174
+   - Example: `Endret ved lov 18 juni 2021 nr 89.` means this provision was last amended by LOV-2021-06-18-89
 
-2. **Upphävd genom lag (YYYY:NNN)** - "Repealed by Law YYYY:NNN"
+2. **Opphevet ved lov DD. MMM YYYY nr. NNN** - "Repealed by Law LOV-YYYY-MM-DD-NNN"
    - Indicates provision or entire statute was repealed
 
 3. **Ny lydelse** - "New wording"
    - Used in amending statutes to show replacement text
 
-4. **Införd genom lag** - "Introduced by law"
+4. **Tilfoyd ved lov** - "Introduced by law"
    - Shows when provision was added to existing statute
 
-5. **Har upphävts genom lag** - "Has been repealed by law"
+5. **Er opphevet ved lov** - "Has been repealed by law"
    - Used in transition provisions
 
 ### Consolidation Practice
 
-**Riksdagen consolidates statute text** - the API returns the **current consolidated version** with amendment citations appended to each provision. Historical text must be reconstructed from:
+**Lovdata consolidates statute text** - the database returns the **current consolidated version** with amendment citations appended to each provision. Historical text must be reconstructed from:
 
-1. **Original statute text** (SFS YYYY:NNN)
-2. **Amending statute text** (SFS YYYY:MMM) - contains "ändringar" sections listing specific provision changes
+1. **Original statute text** (LOV-YYYY-MM-DD-NNN)
+2. **Amending statute text** (LOV-YYYY-MM-DD-MMM) - contains "endringer" sections listing specific provision changes
 
-Example from Dataskyddslagen (2018:218):
-- Original: SFS 2018:218 (issued 2018-04-19, in force 2018-05-25)
-- Amended by: 2018:1248, 2018:2002, 2021:1174, 2022:444, 2025:187, 2025:256
-- Current text shows: `1:3 ... Lag (2021:1174).` indicating last amendment
+Example from personopplysningsloven (LOV-2018-06-15-38):
+- Original: LOV-2018-06-15-38 (issued 2018-06-15, in force 2018-07-20)
+- Amended by: LOV-2018-12-20-116, LOV-2021-06-18-89, LOV-2022-06-17-52
+- Current text shows: `1:3 ... Endret ved lov 18 juni 2021 nr 89.` indicating last amendment
 
 ### Amendment Metadata Sources
 
-1. **Provision text suffix**: `Lag (YYYY:NNN).` at end
-2. **Riksdagen document metadata**: HTML contains fields like "Upphävd", "Författningen har upphävts genom"
+1. **Provision text suffix**: `Endret ved lov ...` at end
+2. **Lovdata document metadata**: Contains fields like "Opphevet", amendment references
 3. **Cross-references table**: Already captures "amended_by" relationships
-4. **Amending statute documents**: Contain sections like "Ändringar i dataskyddslagen (2018:218)"
+4. **Amending statute documents**: Contain sections like "Endringer i personopplysningsloven (LOV-2018-06-15-38)"
 
 ## Current Schema Status
 
@@ -81,7 +81,7 @@ CREATE INDEX idx_provision_versions_window
 
 **Observation**: The schema already supports versioning! The `legal_provision_versions` table has 16,980 version records. However:
 - Most records have `valid_from` but `valid_to = NULL`
-- No explicit amendment tracking (which SFS amended which provision)
+- No explicit amendment tracking (which LOV amended which provision)
 - No diff/changelog metadata
 
 ## Enhanced Schema: Amendment Tracking Table
@@ -98,30 +98,30 @@ CREATE TABLE statute_amendments (
   target_provision_ref TEXT,  -- NULL = entire statute affected
 
   -- Amending statute
-  amended_by_sfs TEXT NOT NULL,  -- SFS number, e.g., "2021:1174"
+  amended_by_lov TEXT NOT NULL,  -- LOV number, e.g., "LOV-2021-06-18-89"
   amendment_date TEXT NOT NULL,   -- ISO date: when amendment took effect
 
   -- Type of amendment
   amendment_type TEXT NOT NULL
-    CHECK(amendment_type IN ('ändrad', 'ny_lydelse', 'införd', 'upphävd', 'ikraftträdande')),
+    CHECK(amendment_type IN ('endret', 'ny_lydelse', 'tilfoyd', 'opphevet', 'ikrafttredelse')),
 
   -- Version linkage
   version_before_id INTEGER REFERENCES legal_provision_versions(id),
   version_after_id INTEGER REFERENCES legal_provision_versions(id),
 
   -- Change metadata
-  change_summary TEXT,  -- Brief description: "Changed reference from 1998:204 to 2018:218"
-  amendment_section TEXT,  -- Section in amending statute, e.g., "3 §" in SFS 2021:1174
+  change_summary TEXT,  -- Brief description: "Changed reference from popplyl-2000 to popplyl"
+  amendment_section TEXT,  -- Section in amending statute, e.g., "§ 3" in LOV-2021-06-18-89
 
-  UNIQUE(target_document_id, target_provision_ref, amended_by_sfs, amendment_date)
+  UNIQUE(target_document_id, target_provision_ref, amended_by_lov, amendment_date)
 );
 
 CREATE INDEX idx_amendments_target
   ON statute_amendments(target_document_id, target_provision_ref);
 CREATE INDEX idx_amendments_date
   ON statute_amendments(amendment_date);
-CREATE INDEX idx_amendments_amending_sfs
-  ON statute_amendments(amended_by_sfs);
+CREATE INDEX idx_amendments_amending_lov
+  ON statute_amendments(amended_by_lov);
 
 -- FTS5 index for searching amendment summaries
 CREATE VIRTUAL TABLE amendments_fts USING fts5(
@@ -133,13 +133,13 @@ CREATE VIRTUAL TABLE amendments_fts USING fts5(
 
 ### Amendment Type Taxonomy
 
-| Type | Swedish | Description | Example |
+| Type | Norwegian | Description | Example |
 |------|---------|-------------|---------|
-| `ändrad` | Ändrad | Provision text modified | DSL 1:3 modified by 2021:1174 |
+| `endret` | Endret | Provision text modified | popplyl 1:3 modified by LOV-2021-06-18-89 |
 | `ny_lydelse` | Ny lydelse | Complete replacement | Provision rewritten entirely |
-| `införd` | Införd genom | New provision added | New section inserted mid-statute |
-| `upphävd` | Upphävd | Provision repealed | Deleted provision |
-| `ikraftträdande` | Ikraftträdande | Delayed effectiveness | Transitional rules |
+| `tilfoyd` | Tilfoyd ved | New provision added | New section inserted mid-statute |
+| `opphevet` | Opphevet | Provision repealed | Deleted provision |
+| `ikrafttredelse` | Ikrafttredelse | Delayed effectiveness | Transitional rules |
 
 ## Storage Strategy: Full Copy vs Diffs
 
@@ -154,7 +154,7 @@ Pros:
 
 Cons:
 - Higher storage (but SQLite compression mitigates)
-- Current: 16,980 versions × ~500 bytes avg = ~8.5 MB (negligible)
+- Current: 16,980 versions x ~500 bytes avg = ~8.5 MB (negligible)
 
 ### Option B: Delta Storage
 **Store diffs between versions**
@@ -166,19 +166,19 @@ Cons:
 - Complex reconstruction logic
 - Breaks full-text search on history
 - Must traverse amendment chain for queries
-- Not worth complexity for Swedish law corpus size
+- Not worth complexity for Norwegian law corpus size
 
-**Decision**: Continue with **full copy** approach. Swedish legal corpus is small enough (~100-500 statutes × ~10 versions avg = ~50,000 records = ~25 MB total).
+**Decision**: Continue with **full copy** approach. Norwegian legal corpus is small enough (~100-500 statutes x ~10 versions avg = ~50,000 records = ~25 MB total).
 
 ## Time-Travel Query Design
 
 ### Query 1: Get provision text as of specific date
 
 ```sql
--- Get DSL 3:5 as it read on 2020-01-01
+-- Get popplyl 3:5 as it read on 2020-01-01
 SELECT content, valid_from, valid_to
 FROM legal_provision_versions
-WHERE document_id = '2018:218'
+WHERE document_id = 'LOV-2018-06-15-38'
   AND provision_ref = '3:5'
   AND (valid_from IS NULL OR valid_from <= '2020-01-01')
   AND (valid_to IS NULL OR valid_to > '2020-01-01')
@@ -189,10 +189,10 @@ LIMIT 1;
 ### Query 2: Show amendment chain
 
 ```sql
--- Show all amendments to DSL 1:3
+-- Show all amendments to popplyl 1:3
 SELECT
   sa.amendment_date,
-  sa.amended_by_sfs,
+  sa.amended_by_lov,
   sa.amendment_type,
   sa.change_summary,
   vprev.content as content_before,
@@ -200,7 +200,7 @@ SELECT
 FROM statute_amendments sa
 LEFT JOIN legal_provision_versions vprev ON sa.version_before_id = vprev.id
 LEFT JOIN legal_provision_versions vnext ON sa.version_after_id = vnext.id
-WHERE sa.target_document_id = '2018:218'
+WHERE sa.target_document_id = 'LOV-2018-06-15-38'
   AND sa.target_provision_ref = '1:3'
 ORDER BY sa.amendment_date;
 ```
@@ -212,7 +212,7 @@ SELECT
   ld.title,
   ld.short_name,
   COUNT(*) as amendment_count,
-  GROUP_CONCAT(DISTINCT sa.amended_by_sfs) as amended_by
+  GROUP_CONCAT(DISTINCT sa.amended_by_lov) as amended_by
 FROM statute_amendments sa
 JOIN legal_documents ld ON sa.target_document_id = ld.id
 WHERE sa.amendment_date LIKE '2021%'
@@ -223,13 +223,13 @@ ORDER BY amendment_count DESC;
 ### Query 4: Diff between two dates
 
 ```sql
--- Show what changed in DSL between 2020-01-01 and 2023-01-01
+-- Show what changed in popplyl between 2020-01-01 and 2023-01-01
 SELECT
   v1.provision_ref,
   v1.content as content_2020,
   v2.content as content_2023,
   sa.amendment_date,
-  sa.amended_by_sfs,
+  sa.amended_by_lov,
   sa.change_summary
 FROM legal_provision_versions v1
 JOIN legal_provision_versions v2
@@ -239,7 +239,7 @@ LEFT JOIN statute_amendments sa
   ON sa.target_document_id = v1.document_id
   AND sa.target_provision_ref = v1.provision_ref
   AND sa.amendment_date BETWEEN '2020-01-01' AND '2023-01-01'
-WHERE v1.document_id = '2018:218'
+WHERE v1.document_id = 'LOV-2018-06-15-38'
   AND v1.valid_from <= '2020-01-01'
   AND (v1.valid_to IS NULL OR v1.valid_to > '2020-01-01')
   AND v2.valid_from <= '2023-01-01'
@@ -251,37 +251,37 @@ WHERE v1.document_id = '2018:218'
 
 ### Phase 1: Enhance Existing Data (No Schema Changes Needed)
 1. Populate `valid_to` dates in existing `legal_provision_versions` records
-2. Parse amendment references from provision text: `Lag (YYYY:NNN)`
+2. Parse amendment references from provision text: `Endret ved lov ...`
 3. Create cross-references with `ref_type='amended_by'`
 
 ### Phase 2: Add Amendment Tracking Table
 1. Run migration to add `statute_amendments` table
 2. Backfill from existing data:
-   - Extract `Lag (YYYY:NNN)` citations
+   - Extract amendment citations
    - Match to version records
    - Create amendment records
 
 ### Phase 3: Ingestion Pipeline Updates
 1. When ingesting amending statute:
-   - Parse "Ändringar i lag (YYYY:NNN)" sections
+   - Parse "Endringer i lov (LOV-YYYY-MM-DD-NNN)" sections
    - Extract provision changes
    - Create new version records
    - Link with amendment records
 2. Update `valid_to` dates of superseded versions
 
 ### Phase 4: MCP Tools
-1. `get_provision_at_date(sfs, provision, date)` - time-travel query
-2. `get_amendment_history(sfs, provision)` - show change log
-3. `diff_provisions(sfs, provision, date1, date2)` - compare versions
+1. `get_provision_at_date(law_id, provision, date)` - time-travel query
+2. `get_amendment_history(law_id, provision)` - show change log
+3. `diff_provisions(law_id, provision, date1, date2)` - compare versions
 4. Update `search_legislation` to support date filters
 
 ## Data Quality Considerations
 
 ### Challenges
 
-1. **Riksdagen consolidation**: API returns only current text
+1. **Lovdata consolidation**: API returns only current text
    - Need to parse amending statutes to extract old text
-   - Some amendments may be in older SFS not digitized
+   - Some amendments may be in older LOV not digitized
 
 2. **Retroactive changes**: Some amendments apply retroactively
    - Must capture both "amendment date" and "effective date"
@@ -291,35 +291,35 @@ WHERE v1.document_id = '2018:218'
    - May need multiple version records per provision
 
 4. **Missing historical text**: Pre-digital era statutes
-   - Riksdagen API coverage: ~1990s onward for full text
+   - Lovdata coverage: ~1990s onward for full text
    - Earlier statutes may only have consolidated current text
 
 ### Data Verification
 
 For each amendment record:
-- ✅ `amended_by_sfs` must exist as `legal_document` with `type='statute'`
-- ✅ `amendment_date` must be >= `target_document.issued_date`
-- ✅ `version_before_id` must have `valid_to = amendment_date`
-- ✅ `version_after_id` must have `valid_from = amendment_date`
-- ✅ Text diff should be non-empty (unless pure metadata change)
+- `amended_by_lov` must exist as `legal_document` with `type='statute'`
+- `amendment_date` must be >= `target_document.issued_date`
+- `version_before_id` must have `valid_to = amendment_date`
+- `version_after_id` must have `valid_from = amendment_date`
+- Text diff should be non-empty (unless pure metadata change)
 
 ## Alternative Data Sources
 
-If Riksdagen lacks historical text:
+If Lovdata lacks historical text:
 
-1. **Lagrummet.se**: Government legal database
+1. **Lovdata.no**: Official legal database
    - May have archived versions
-   - No public API (scraping required)
+   - Limited free API access
 
-2. **lagen.nu**: Third-party legal database
-   - CC-BY licensed
-   - Focus on case law, limited statute versioning
+2. **Rettsinfo**: Government legal database
+   - Focus on current law
+   - Limited statute versioning
 
-3. **SFS print archive**: National Library
-   - Physical/PDF copies of original SFS publications
+3. **Norsk Lovtidend print archive**: National Library
+   - Physical/PDF copies of original LOV publications
    - Would require OCR for digitization
 
 4. **Reconstructive approach**: Work backwards from amendments
-   - Parse amending statute text: "5 § ska ha följande lydelse"
+   - Parse amending statute text: "§ 5 skal lyde"
    - Extract replacement text from amending document
-   - Requires sophisticated NLP for Swedish legal language
+   - Requires sophisticated NLP for Norwegian legal language

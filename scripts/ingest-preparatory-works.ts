@@ -2,11 +2,11 @@
 /**
  * Preparatory Works Ingestion Script
  *
- * Systematically ingests preparatory works (förarbeten) for Norwegian statutes
- * by scraping lagen.nu pages and fetching details from Lovdata API.
+ * Systematically ingests preparatory works (forarbeider) for Norwegian statutes
+ * by scraping lovdata.no pages and fetching details from Lovdata API.
  *
  * Pipeline:
- *   lagen.nu -> extract prop/SOU refs -> Lovdata API -> update seed files -> build-db.ts -> database.db
+ *   lovdata.no -> extract prop/NOU refs -> Lovdata API -> update seed files -> build-db.ts -> database.db
  *
  * Usage:
  *   npm run sync:prep-works
@@ -22,8 +22,8 @@ import { pathToFileURL } from 'url';
 
 const REQUEST_DELAY_MS = 500;
 const USER_AGENT = 'Norwegian-Law-MCP/0.1.0 (https://github.com/Ansvar-Systems/norwegian-law-mcp)';
-const LAGEN_NU_BASE = 'https://lagen.nu';
-const RIKSDAGEN_DOC_URL = 'https://data.Lovdata.se/dokument';
+const LOVDATA_NO_BASE = 'https://lovdata.no';
+const LOVDATA_DOC_URL = 'https://data.Lovdata.se/dokument';
 const SEED_DIR = path.resolve(process.cwd(), 'data/seed');
 const RELEVANT_STATUTES_PATH = path.resolve(process.cwd(), 'data/relevant-statutes.json');
 
@@ -50,7 +50,7 @@ interface SeedFile {
   [key: string]: unknown;
 }
 
-interface LovdataDocument {
+interface LovdataApiDocument {
   dok_id: string;
   titel: string;
   undertitel?: string;
@@ -105,15 +105,15 @@ function parsePropId(text: string): string | null {
   return match ? match[1] : null;
 }
 
-function parseSouId(text: string): string | null {
-  // Match patterns like "SOU 2017:39"
-  const match = text.match(/SOU\s*(\d{4}:\d+)/i);
+function parseNouId(text: string): string | null {
+  // Match patterns like "NOU 2017:39"
+  const match = text.match(/NOU\s*(\d{4}:\d+)/i);
   return match ? match[1] : null;
 }
 
-function parseDsId(text: string): string | null {
-  // Match patterns like "Ds 2017:39"
-  const match = text.match(/Ds\s*(\d{4}:\d+)/i);
+function parseOtprpId(text: string): string | null {
+  // Match patterns like "Ot.prp. 2017:39"
+  const match = text.match(/Ot\.prp\.\s*(\d{4}:\d+)/i);
   return match ? match[1] : null;
 }
 
@@ -121,17 +121,17 @@ function parseDsId(text: string): string | null {
 // Scraping and extraction
 // ─────────────────────────────────────────────────────────────────────────────
 
-async function extractPrepWorkRefsFromLagenNu(sfsId: string): Promise<Set<string>> {
-  const url = `${LAGEN_NU_BASE}/${sfsId}`;
+async function extractPrepWorkRefsFromLovdata(sfsId: string): Promise<Set<string>> {
+  const url = `${LOVDATA_NO_BASE}/${sfsId}`;
   console.log(`  Fetching ${url}...`);
 
   try {
     const html = await fetchText(url);
     const prepWorkIds = new Set<string>();
 
-    // Extract from "Förarbeten" sections using multiple patterns
-    // Pattern 1: <dd>Rskr. 2017/18:224, <a href="...">Prop. 2017/18:105</a>, ...
-    const forarbetenMatches = html.matchAll(/<dt>Förarbeten<\/dt>\s*<dd>([^<]*(?:<[^>]+>[^<]*<\/[^>]+>)*[^<]*)<\/dd>/gi);
+    // Extract from "Forarbeider" sections using multiple patterns
+    // Pattern 1: Extract proposition and NOU references from preparatory works sections
+    const forarbetenMatches = html.matchAll(/<dt>Forarbeider<\/dt>\s*<dd>([^<]*(?:<[^>]+>[^<]*<\/[^>]+>)*[^<]*)<\/dd>/gi);
 
     for (const match of forarbetenMatches) {
       const content = match[1];
@@ -142,27 +142,26 @@ async function extractPrepWorkRefsFromLagenNu(sfsId: string): Promise<Set<string
         prepWorkIds.add(propMatch[1]);
       }
 
-      // Extract SOU references
-      const souMatches = content.matchAll(/SOU\s*(\d{4}:\d+)/gi);
-      for (const souMatch of souMatches) {
-        prepWorkIds.add(souMatch[1]);
+      // Extract NOU references
+      const nouMatches = content.matchAll(/NOU\s*(\d{4}:\d+)/gi);
+      for (const nouMatch of nouMatches) {
+        prepWorkIds.add(nouMatch[1]);
       }
 
-      // Extract Ds references
-      const dsMatches = content.matchAll(/Ds\s*(\d{4}:\d+)/gi);
-      for (const dsMatch of dsMatches) {
-        prepWorkIds.add(dsMatch[1]);
+      // Extract Ot.prp. references
+      const otprpMatches = content.matchAll(/Ot\.prp\.\s*(\d{4}:\d+)/gi);
+      for (const otprpMatch of otprpMatches) {
+        prepWorkIds.add(otprpMatch[1]);
       }
     }
 
     // Pattern 2: Extract from proposition links in the document
-    const propLinkMatches = html.matchAll(/href="https:\/\/lagen\.nu\/prop\/(\d{4}\/\d{2}:\d+)/gi);
+    const propLinkMatches = html.matchAll(/href="https:\/\/lovdata\.no\/.*?prop\/(\d{4}\/\d{2}:\d+)/gi);
     for (const match of propLinkMatches) {
       prepWorkIds.add(match[1]);
     }
 
-    // Pattern 3: Extract from SFS amendment notes that include propositions
-    // e.g., "SFS 2018:1248 (Prop. 2017/18:232: Brottsdatalag, ikraft 2018-08-01)"
+    // Pattern 3: Extract from LOV amendment notes that include propositions
     const amendmentMatches = html.matchAll(/\(Prop\.\s*(\d{4}\/\d{2}:\d+):/gi);
     for (const match of amendmentMatches) {
       prepWorkIds.add(match[1]);
@@ -186,8 +185,8 @@ async function fetchPrepWorkDetails(prepDocId: string): Promise<PrepWorkRef | nu
     doktyp = 'prop';
     searchTerm = prepDocId;
   } else if (prepDocId.match(/^\d{4}:\d+$/)) {
-    // Could be SOU or Ds
-    // Try SOU first
+    // Could be NOU or Ot.prp.
+    // Try NOU first
     doktyp = 'sou';
     searchTerm = prepDocId;
   } else {
@@ -201,21 +200,21 @@ async function fetchPrepWorkDetails(prepDocId: string): Promise<PrepWorkRef | nu
     console.log(`    Searching Lovdata for ${prepDocId}...`);
 
     await delay(REQUEST_DELAY_MS);
-    const listData = await fetchJson(listUrl) as { dokumentlista?: { dokument?: LovdataDocument[] } };
+    const listData = await fetchJson(listUrl) as { dokumentlista?: { dokument?: LovdataApiDocument[] } };
     const documents = listData?.dokumentlista?.dokument ?? [];
 
     if (documents.length === 0) {
-      // If SOU search failed and we have a numeric ID, try Ds
+      // If NOU search failed and we have a numeric ID, try Ot.prp.
       if (doktyp === 'sou' && prepDocId.match(/^\d{4}:\d+$/)) {
-        console.log(`    SOU not found, trying Ds...`);
-        const dsListUrl = `https://data.Lovdata.se/dokumentlista/?sok=${encodeURIComponent(searchTerm)}&doktyp=ds&format=json&utformat=json`;
+        console.log(`    NOU not found, trying Ot.prp....`);
+        const otprpListUrl = `https://data.Lovdata.se/dokumentlista/?sok=${encodeURIComponent(searchTerm)}&doktyp=ds&format=json&utformat=json`;
         await delay(REQUEST_DELAY_MS);
-        const dsListData = await fetchJson(dsListUrl) as { dokumentlista?: { dokument?: LovdataDocument[] } };
-        const dsDocuments = dsListData?.dokumentlista?.dokument ?? [];
+        const otprpListData = await fetchJson(otprpListUrl) as { dokumentlista?: { dokument?: LovdataApiDocument[] } };
+        const otprpDocuments = otprpListData?.dokumentlista?.dokument ?? [];
 
-        if (dsDocuments.length > 0) {
+        if (otprpDocuments.length > 0) {
           doktyp = 'ds';
-          documents.push(...dsDocuments);
+          documents.push(...otprpDocuments);
         }
       }
 
@@ -233,9 +232,9 @@ async function fetchPrepWorkDetails(prepDocId: string): Promise<PrepWorkRef | nu
     if (doktyp === 'prop') {
       title = `Proposition ${prepDocId}${doc.titel ? ': ' + normalizeWhitespace(doc.titel) : ''}`;
     } else if (doktyp === 'sou') {
-      title = `SOU ${prepDocId}${doc.titel ? ': ' + normalizeWhitespace(doc.titel) : ''}`;
+      title = `NOU ${prepDocId}${doc.titel ? ': ' + normalizeWhitespace(doc.titel) : ''}`;
     } else if (doktyp === 'ds') {
-      title = `Ds ${prepDocId}${doc.titel ? ': ' + normalizeWhitespace(doc.titel) : ''}`;
+      title = `Ot.prp. ${prepDocId}${doc.titel ? ': ' + normalizeWhitespace(doc.titel) : ''}`;
     } else {
       title = normalizeWhitespace(doc.titel || prepDocId);
     }
@@ -271,7 +270,7 @@ function getSeedFilePath(sfsId: string, slug?: string): string {
     }
   }
 
-  // Fall back to SFS ID-based name (e.g., 2018_218.json)
+  // Fall back to LOV ID-based name (e.g., 2018_218.json)
   const filename = sfsId.replace(':', '_') + '.json';
   return path.join(SEED_DIR, filename);
 }
@@ -334,7 +333,7 @@ async function ingestPreparatoryWorks(): Promise<void> {
     console.log(`Processing ${statute.id} (${statute.slug})...`);
     totalStatutesProcessed++;
 
-    // Load existing seed file (try slug first, then SFS ID)
+    // Load existing seed file (try slug first, then LOV ID)
     const seedFile = loadSeedFile(statute.id, statute.slug);
     if (!seedFile) {
       console.log(`  WARNING: Seed file not found for ${statute.id}, skipping`);
@@ -346,8 +345,8 @@ async function ingestPreparatoryWorks(): Promise<void> {
     const existingPrepWorks = seedFile.preparatory_works ?? [];
     const existingIds = new Set(existingPrepWorks.map(pw => pw.prep_document_id));
 
-    // Extract preparatory work references from lagen.nu
-    const prepWorkIds = await extractPrepWorkRefsFromLagenNu(statute.id);
+    // Extract preparatory work references from lovdata.no
+    const prepWorkIds = await extractPrepWorkRefsFromLovdata(statute.id);
     await delay(REQUEST_DELAY_MS);
 
     if (prepWorkIds.size === 0) {

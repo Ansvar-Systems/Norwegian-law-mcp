@@ -1,6 +1,14 @@
 #!/usr/bin/env tsx
 /**
- * Test script for lagen.nu RDF parser functions
+ * @deprecated Legacy Swedish data source script — not used for Norwegian law
+ * @legacy This script is kept for reference and backward compatibility only.
+ *
+ * Test script for lagen.nu RDF parser functions (Swedish Legal Data)
+ *
+ * NOTE: lagen.nu is a Swedish legal data source, not Norwegian. This test
+ * validates parsing logic for Swedish case law RDF format. It is kept for
+ * reference purposes only and should not be used for Norwegian law ingestion.
+ *
  * Quick validation of parsing logic before running full ingestion
  */
 
@@ -80,8 +88,8 @@ function test() {
   const lagrumUris = Array.from(SAMPLE_RDF.matchAll(lagrumPattern)).map(m => m[1]);
   const refUris = Array.from(SAMPLE_RDF.matchAll(refPattern)).map(m => m[1]);
   const allUris = [...lagrumUris, ...refUris];
-  const sfsNumbers = allUris.map(uri => uri.match(/(\d{4}:\d+)/)?.[1]).filter(Boolean);
-  console.log('✓ Statute references:', sfsNumbers.join(', '));
+  const lawIds = allUris.map(uri => uri.match(/(\d{4}:\d+)/)?.[1]).filter(Boolean);
+  console.log('✓ Statute references:', lawIds.join(', '));
 
   // Test 8: Case ID parsing
   console.log('\n✓ Case ID parsing:');

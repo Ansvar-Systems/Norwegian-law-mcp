@@ -6,10 +6,10 @@
  * them to seed JSON format for the Norwegian Legal Citation MCP server.
  *
  * Pipeline:
- *   Lovdata API -> ingest-Lovdata.ts -> data/seed/{sfs}.json -> build-db.ts -> database.db
+ *   Lovdata API -> ingest-lovdata.ts -> data/seed/{law-id}.json -> build-db.ts -> database.db
  *
  * Usage:
- *   npm run ingest -- <sfs-number> <output-path>
+ *   npm run ingest -- <law-id> <output-path>
  *
  * Examples:
  *   npm run ingest -- 2018:218 data/seed/2018_218.json
@@ -26,8 +26,8 @@ import { parseStatuteText } from '../src/parsers/provision-parser.js';
 // Configuration
 // ─────────────────────────────────────────────────────────────────────────────
 
-const RIKSDAGEN_DOC_URL = 'https://data.Lovdata.se/dokument';
-const RIKSDAGEN_LIST_URL = 'https://data.Lovdata.se/dokumentlista';
+const LOVDATA_DOC_URL = 'https://data.Lovdata.se/dokument';
+const LOVDATA_LIST_URL = 'https://data.Lovdata.se/dokumentlista';
 const REQUEST_DELAY_MS = 500;
 const USER_AGENT = 'Norwegian-Law-MCP/0.1.0 (https://github.com/Ansvar-Systems/norwegian-law-mcp)';
 
@@ -57,7 +57,7 @@ const KNOWN_STATUTES: Record<string, StatuteMetadata> = {
     short_name: 'PUL',
     title_en: 'Personal Data Act',
     in_force_date: '1998-10-24',
-    status: 'repealed',
+    status: 'repealed' as const,
   },
 };
 
@@ -88,7 +88,7 @@ interface LovdataDocument {
   text?: string;
 }
 
-function extractSfsId(value: string | undefined): string | undefined {
+function extractLawId(value: string | undefined): string | undefined {
   if (!value) {
     return undefined;
   }
@@ -136,11 +136,11 @@ const KNOWN_PREPARATORY_WORKS: Record<string, PrepWorkOutput[]> = {
   '2018:218': [
     {
       prep_document_id: '2017/18:105',
-      title: 'Proposition 2017/18:105 Ny dataskyddslag',
+      title: 'Proposisjon 2017/18:105 Ny personopplysningslov',
     },
     {
       prep_document_id: '2017:39',
-      title: 'SOU 2017:39 Dataskydd inom socialtjänst, tillsyn och arbetslöshetsförsäkring',
+      title: 'NOU 2017:39 Personvern innenfor sosialtjenester, tilsyn og arbeidsledighetsforsikring',
     },
   ],
 };
@@ -177,7 +177,7 @@ function deriveStatus(
     return known.status;
   }
 
-  if (metadata['Upphävd']) {
+  if (metadata['Upphävd'] || metadata['Opphevet']) {
     return 'repealed';
   }
 
@@ -193,11 +193,11 @@ function normalizeDate(value: string | undefined): string | undefined {
 }
 
 function startsLikeProvisionContent(content: string): boolean {
-  return /^[A-ZÅÄÖ0-9]/u.test(content);
+  return /^[A-ZÅÄÖÆØÜ0-9]/u.test(content);
 }
 
 function looksLikeContinuation(content: string): boolean {
-  return /^[a-zåäö§,.;:\)\]-]/u.test(content);
+  return /^[a-zåäöæøü§,.;:\)\]-]/u.test(content);
 }
 
 function qualityScore(provision: ProvisionOutput): number {
@@ -219,7 +219,7 @@ function qualityScore(provision: ProvisionOutput): number {
     score += 1;
   }
 
-  if (/Lag \(\d{4}:\d+\)\.?$/u.test(content)) {
+  if (/(?:Lag|Lov) \(\d{4}:\d+\)\.?$/u.test(content)) {
     score += 1;
   }
 
@@ -301,31 +301,31 @@ function delay(ms: number): Promise<void> {
 // Main ingestion
 // ─────────────────────────────────────────────────────────────────────────────
 
-export async function ingest(sfsNumber: string, outputPath: string): Promise<void> {
+export async function ingest(lawId: string, outputPath: string): Promise<void> {
   console.log('Lovdata Data Ingestion');
-  console.log(`  SFS: ${sfsNumber}`);
+  console.log(`  Law ID: ${lawId}`);
   console.log(`  Output: ${outputPath}`);
   console.log('');
 
   // Step 1: Fetch document metadata from Lovdata
   console.log('Fetching document list from Lovdata...');
-  const listUrl = `${RIKSDAGEN_LIST_URL}/?sok=${encodeURIComponent(sfsNumber)}&doktyp=sfs&format=json&utformat=json`;
+  const listUrl = `${LOVDATA_LIST_URL}/?sok=${encodeURIComponent(lawId)}&doktyp=sfs&format=json&utformat=json`;
 
   const listData = await fetchJson(listUrl) as { dokumentlista?: { dokument?: LovdataDocument[] } };
   const documents = listData?.dokumentlista?.dokument ?? [];
 
   if (documents.length === 0) {
-    console.error(`No documents found for SFS ${sfsNumber}`);
+    console.error(`No documents found for law ID ${lawId}`);
     process.exit(1);
   }
 
-  const requestedSfs = extractSfsId(sfsNumber) ?? sfsNumber;
-  const doc = documents.find(d => extractSfsId(d.beteckning) === requestedSfs)
-    ?? documents.find(d => extractSfsId(d.titel) === requestedSfs)
+  const requestedLawId = extractLawId(lawId) ?? lawId;
+  const doc = documents.find(d => extractLawId(d.beteckning) === requestedLawId)
+    ?? documents.find(d => extractLawId(d.titel) === requestedLawId)
     ?? documents[0];
 
-  if ((extractSfsId(doc.beteckning) ?? extractSfsId(doc.titel)) !== requestedSfs) {
-    console.log(`  WARNING: Exact SFS match not found; using closest hit ${doc.beteckning}`);
+  if ((extractLawId(doc.beteckning) ?? extractLawId(doc.titel)) !== requestedLawId) {
+    console.log(`  WARNING: Exact law ID match not found; using closest hit ${doc.beteckning}`);
   }
 
   console.log(`  Found: ${doc.titel}`);
@@ -334,7 +334,7 @@ export async function ingest(sfsNumber: string, outputPath: string): Promise<voi
 
   // Step 2: Fetch full document text
   console.log('Fetching document text...');
-  const docUrl = `${RIKSDAGEN_DOC_URL}/${doc.dok_id}.json`;
+  const docUrl = `${LOVDATA_DOC_URL}/${doc.dok_id}.json`;
   const docData = await fetchJson(docUrl) as { dokumentstatus?: { dokument?: LovdataDocument } };
   const fullDoc = docData?.dokumentstatus?.dokument;
 
@@ -388,17 +388,17 @@ export async function ingest(sfsNumber: string, outputPath: string): Promise<voi
   }
 
   // Step 4: Build seed output
-  const known = KNOWN_STATUTES[requestedSfs];
+  const known = KNOWN_STATUTES[requestedLawId];
   const htmlMetadata = extractHtmlMetadata(fullDoc.html);
   const status = deriveStatus(known, htmlMetadata);
-  const repealDate = normalizeDate(htmlMetadata['Upphävd']);
-  const repealedBy = htmlMetadata['Författningen har upphävts genom'];
-  const issuedDate = normalizeDate(htmlMetadata['Utfärdad'] ?? doc.datum);
+  const repealDate = normalizeDate(htmlMetadata['Opphevet'] ?? htmlMetadata['Upphävd']);
+  const repealedBy = htmlMetadata['Loven er opphevet ved'] ?? htmlMetadata['Författningen har upphävts genom'];
+  const issuedDate = normalizeDate(htmlMetadata['Utferdiget'] ?? htmlMetadata['Utfärdad'] ?? doc.datum);
   const inForceDate = normalizeDate(htmlMetadata['Ikraft']) ?? known?.in_force_date;
-  const baseTitle = normalizeWhitespace(doc.titel || `SFS ${requestedSfs}`);
+  const baseTitle = normalizeWhitespace(doc.titel || `LOV ${requestedLawId}`);
 
   const seed: SeedOutput = {
-    id: requestedSfs,
+    id: requestedLawId,
     type: 'statute',
     title: baseTitle,
     title_en: known?.title_en,
@@ -406,14 +406,14 @@ export async function ingest(sfsNumber: string, outputPath: string): Promise<voi
     status,
     issued_date: issuedDate,
     in_force_date: inForceDate,
-    url: doc.html_url || `https://www.Lovdata.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/sfs-${requestedSfs.replace(':', '-')}`,
+    url: doc.html_url || `https://lovdata.no/dokument/NL/lov/${requestedLawId.replace(':', '-')}`,
     description: status === 'repealed'
-      ? [repealDate ? `Upphävd ${repealDate}` : 'Upphävd', repealedBy ? `genom ${repealedBy}` : null]
+      ? [repealDate ? `Opphevet ${repealDate}` : 'Opphevet', repealedBy ? `ved ${repealedBy}` : null]
           .filter((part): part is string => part != null)
           .join(' ')
       : undefined,
     provisions: provisions.length > 0 ? provisions : undefined,
-    preparatory_works: KNOWN_PREPARATORY_WORKS[requestedSfs],
+    preparatory_works: KNOWN_PREPARATORY_WORKS[requestedLawId],
   };
 
   // Step 5: Write output
@@ -444,15 +444,15 @@ if (isMainModule) {
   const args = process.argv.slice(2);
 
   if (args.length < 2) {
-    console.log('Usage: npm run ingest -- <sfs-number> <output-path>');
+    console.log('Usage: npm run ingest -- <law-id> <output-path>');
     console.log('');
     console.log('Examples:');
     console.log('  npm run ingest -- 2018:218 data/seed/2018_218.json');
     console.log('  npm run ingest -- 1998:204 data/seed/1998_204.json');
     console.log('');
     console.log('Known statutes:');
-    for (const [sfs, meta] of Object.entries(KNOWN_STATUTES)) {
-      console.log(`  ${sfs} (${meta.short_name || 'no short name'})`);
+    for (const [id, meta] of Object.entries(KNOWN_STATUTES)) {
+      console.log(`  ${id} (${meta.short_name || 'no short name'})`);
     }
     process.exit(1);
   }

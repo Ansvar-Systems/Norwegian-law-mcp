@@ -116,11 +116,11 @@ describe('formatCitation', () => {
       expect(formatCitation(citation)).toBe('Prop. 2017/18:105');
     });
 
-    it('should format SOU', () => {
+    it('should format NOU', () => {
       const citation: ParsedCitation = {
-        raw: 'SOU 2017:39', type: 'sou', document_id: '2017:39', valid: true,
+        raw: 'NOU 2017:39', type: 'sou', document_id: '2017:39', valid: true,
       };
-      expect(formatCitation(citation)).toBe('SOU 2017:39');
+      expect(formatCitation(citation)).toBe('NOU 2017:39');
     });
 
     it('should format Ds', () => {

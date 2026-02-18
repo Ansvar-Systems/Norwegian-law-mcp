@@ -1,9 +1,14 @@
 #!/usr/bin/env tsx
 /**
- * Lagen.nu Case Law Ingestion Script
+ * @deprecated Legacy Swedish data source script — not used for Norwegian law
+ * @legacy This script is kept for reference and backward compatibility only.
  *
- * Fetches Norwegian case law from lagen.nu's RDF dataset and ingests them
- * into the Norwegian Legal Citation MCP server database.
+ * Lagen.nu Case Law Ingestion Script (Swedish Legal Data)
+ *
+ * NOTE: lagen.nu is a Swedish legal data source, not Norwegian. This script
+ * fetches Swedish case law from lagen.nu's RDF dataset and ingests them
+ * into the database. It is kept for reference purposes only and should not
+ * be used for Norwegian law ingestion.
  *
  * Pipeline:
  *   lagen.nu HTML feed -> fetch case IDs -> download RDF metadata ->
@@ -296,10 +301,10 @@ function extractRdfResources(rdf: string, tagName: string): string[] {
 }
 
 /**
- * Convert statute URI to SFS number
+ * Convert statute URI to law ID
  * Example: https://lagen.nu/2018:218 -> 2018:218
  */
-function extractSfsFromUri(uri: string): string | null {
+function extractLawIdFromUri(uri: string): string | null {
   const match = uri.match(/(\d{4}:\d+)/);
   return match ? match[1] : null;
 }
@@ -357,8 +362,8 @@ function parseRdfMetadata(rdf: string, caseId: CaseId): CaseMetadata | null {
     const allUris = [...lagrumUris, ...referenceUris];
 
     const cited_statutes = allUris
-      .map(uri => extractSfsFromUri(uri))
-      .filter((sfs): sfs is string => sfs !== null);
+      .map(uri => extractLawIdFromUri(uri))
+      .filter((lawId): lawId is string => lawId !== null);
 
     return {
       document_id: identifier,
@@ -464,11 +469,11 @@ function insertOrUpdateCase(
         VALUES (?, ?, 'references')
       `);
 
-      for (const sfs of metadata.cited_statutes) {
+      for (const lawId of metadata.cited_statutes) {
         // Only insert cross-reference if target statute exists
-        const exists = checkStatute.get(sfs);
+        const exists = checkStatute.get(lawId);
         if (exists) {
-          insertXref.run(metadata.document_id, sfs);
+          insertXref.run(metadata.document_id, lawId);
         }
       }
     }

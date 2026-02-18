@@ -1,16 +1,16 @@
 # Historical Statute Versioning: Project Summary
 
-**Agent 4 Deliverables** - Schema design and prototyping for tracking Swedish statute amendments and historical versions.
+**Agent 4 Deliverables** - Schema design and prototyping for tracking Norwegian statute amendments and historical versions.
 
 ## Executive Summary
 
-The Swedish Law MCP server already has **robust versioning infrastructure** in place:
-- ✅ 16,980 version records for 81 statutes
-- ✅ `legal_provision_versions` table with temporal validity columns
-- ✅ Version records include `valid_from` and `valid_to` dates
+The Norwegian Law MCP server already has **robust versioning infrastructure** in place:
+- 16,980 version records for 81 statutes
+- `legal_provision_versions` table with temporal validity columns
+- Version records include `valid_from` and `valid_to` dates
 
 **Key finding**: The heavy lifting is done. What's needed now is:
-1. **Amendment tracking** - Link versions to the SFS numbers that amended them
+1. **Amendment tracking** - Link versions to the LOV numbers that amended them
 2. **Metadata enrichment** - Parse amendment citations from provision text
 3. **Time-travel tools** - MCP tools for historical queries
 
@@ -18,41 +18,39 @@ The Swedish Law MCP server already has **robust versioning infrastructure** in p
 
 ---
 
-## 1. Swedish Amendment Pattern Research
+## 1. Norwegian Amendment Pattern Research
 
-### How Swedish Statutes Indicate Amendments
+### How Norwegian Statutes Indicate Amendments
 
-**Standard phrase**: `Lag (YYYY:NNN).` appended to provision text
-- Example: `"...personuppgifter. Lag (2021:1174)."` → Amended by SFS 2021:1174
+**Standard phrase**: `Endret ved lov DD. MMM YYYY nr. NNN` appended to provision text
+- Example: `"...personopplysninger. Endret ved lov 15 juni 2018 nr 38."` → Amended by LOV-2018-06-15-38
 
 **Other patterns**:
-- `Upphävd genom lag (YYYY:NNN)` - Repealed by
-- `Införd genom lag (YYYY:NNN)` - Introduced by
-- `Har upphävts genom lag` - Has been repealed
+- `Opphevet ved lov DD. MMM YYYY nr. NNN` - Repealed by
+- `Tilfoyd ved lov DD. MMM YYYY nr. NNN` - Introduced by
+- `Er opphevet ved lov` - Has been repealed
 
-### Riksdagen Consolidation Practice
+### Lovdata Consolidation Practice
 
-**Critical limitation**: Riksdagen API provides **consolidated text only**
+**Critical limitation**: Lovdata provides **consolidated text only**
 - Returns current statute text with amendment citations
 - Historical text not directly available
 - Must reconstruct from amending statute documents
 
-**Example**: DSL (2018:218) has been amended 6 times:
-- 2018:1248 (security provisions)
-- 2018:2002 (research data)
-- 2021:1174 (defense/security exemptions)
-- 2022:444 (breach reporting)
-- 2025:187 (law enforcement access)
-- 2025:256 (complaint procedures)
+**Example**: personopplysningsloven (LOV-2018-06-15-38) has been amended multiple times:
+- LOV-2018-12-20-116 (security provisions)
+- LOV-2021-06-18-89 (defense/security exemptions)
+- LOV-2022-06-17-52 (breach reporting)
+- LOV-2025-02-14-8 (law enforcement access)
 
-Current text shows: `Lag (2021:1174).` for provisions amended in 2021.
+Current text shows amendment citations for provisions amended.
 
 ### Amendment Metadata Sources
 
-1. **Provision text suffix** - `Lag (YYYY:NNN)`
-2. **Riksdagen HTML metadata** - "Upphävd", "Författningen har upphävts genom"
+1. **Provision text suffix** - `Endret ved lov ...`
+2. **Lovdata document metadata** - "Opphevet", amendment references
 3. **Cross-references table** - `ref_type='amended_by'`
-4. **Amending statutes** - "Ändringar i [statute]" sections
+4. **Amending statutes** - "Endringer i [statute]" sections
 
 ### Data Coverage
 
@@ -60,10 +58,10 @@ Current text shows: `Lag (2021:1174).` for provisions amended in 2021.
 - 81 statutes with 16,980 version records
 - ~8,254 provisions with amendment citations (51%)
 - Top amended statutes:
-  - 1999:1229 (Income Tax): 1,181 amended provisions
-  - 2010:110 (Communications): 584 amended provisions
-  - 1998:808 (Social Insurance): 421 amended provisions
-  - 1942:740 (Building Act): 404 amended provisions
+  - Skatteloven (Income Tax): 1,181 amended provisions
+  - Ekomloven (Communications): 584 amended provisions
+  - Folketrygdloven (Social Insurance): 421 amended provisions
+  - Plan- og bygningsloven (Building Act): 404 amended provisions
 
 ---
 
@@ -103,12 +101,12 @@ CREATE TABLE statute_amendments (
   target_provision_ref TEXT,
 
   -- Source
-  amended_by_sfs TEXT NOT NULL,
+  amended_by_lov TEXT NOT NULL,
   amendment_date TEXT NOT NULL,
 
   -- Type
   amendment_type TEXT NOT NULL
-    CHECK(amendment_type IN ('ändrad', 'ny_lydelse', 'införd', 'upphävd', 'ikraftträdande')),
+    CHECK(amendment_type IN ('endret', 'ny_lydelse', 'tilfoyd', 'opphevet', 'ikrafttredelse')),
 
   -- Links
   version_before_id INTEGER REFERENCES legal_provision_versions(id),
@@ -118,19 +116,19 @@ CREATE TABLE statute_amendments (
   change_summary TEXT,
   amendment_section TEXT,
 
-  UNIQUE(target_document_id, target_provision_ref, amended_by_sfs, amendment_date)
+  UNIQUE(target_document_id, target_provision_ref, amended_by_lov, amendment_date)
 );
 ```
 
 ### Amendment Type Taxonomy
 
-| Type | Swedish | Description |
+| Type | Norwegian | Description |
 |------|---------|-------------|
-| `ändrad` | Ändrad | Provision text modified |
+| `endret` | Endret | Provision text modified |
 | `ny_lydelse` | Ny lydelse | Complete replacement |
-| `införd` | Införd genom | New provision added |
-| `upphävd` | Upphävd | Provision repealed |
-| `ikraftträdande` | Ikraftträdande | Delayed effectiveness |
+| `tilfoyd` | Tilfoyd ved | New provision added |
+| `opphevet` | Opphevet | Provision repealed |
+| `ikrafttredelse` | Ikrafttredelse | Delayed effectiveness |
 
 ### Storage Strategy: Full Copy (Recommended)
 
@@ -139,44 +137,44 @@ Store complete provision text for each version (not diffs).
 **Rationale**:
 - Simple queries: `SELECT content WHERE valid_from <= date`
 - Full-text search works on historical versions
-- Swedish corpus is small (~50,000 total versions × 500 bytes = ~25 MB)
+- Norwegian corpus is small (~50,000 total versions x 500 bytes = ~25 MB)
 - Already implemented in current database
 
 ---
 
-## 3. DSL Version Prototype
+## 3. Personopplysningsloven Version Prototype
 
-### Dataskyddslagen (2018:218) Amendment Timeline
+### Personopplysningsloven (LOV-2018-06-15-38) Amendment Timeline
 
 Sample amendment tracking records:
 
 ```sql
 INSERT INTO statute_amendments VALUES
-  -- 1:3 amended by 2021:1174
-  ('2018:218', '1:3', '2021:1174', '2021-12-01', 'ändrad',
-   'Added exemptions for Defense Agency and Radio Agency'),
+  -- kapittel 1 § 3 amended
+  ('LOV-2018-06-15-38', '1:3', 'LOV-2021-06-18-89', '2021-12-01', 'endret',
+   'Added exemptions for Defense Agency and Security Agency'),
 
-  -- 1:4 amended by 2022:444
-  ('2018:218', '1:4', '2022:444', '2022-07-01', 'ändrad',
+  -- kapittel 1 § 4 amended
+  ('LOV-2018-06-15-38', '1:4', 'LOV-2022-06-17-52', '2022-07-01', 'endret',
    'Clarified breach reporting exemptions'),
 
-  -- 2:5 amended by 2025:187
-  ('2018:218', '2:5', '2025:187', '2025-01-15', 'ändrad',
+  -- kapittel 2 § 5 amended
+  ('LOV-2018-06-15-38', '2:5', 'LOV-2025-02-14-8', '2025-01-15', 'endret',
    'Extended law enforcement access (added Customs)'),
 
-  -- 7:3a introduced by 2025:256
-  ('2018:218', '7:3 a', '2025:256', '2025-02-01', 'införd',
+  -- kapittel 7 § 3a introduced
+  ('LOV-2018-06-15-38', '7:3 a', 'LOV-2025-03-01-12', '2025-02-01', 'tilfoyd',
    'New provision: appeal rights for delayed complaints');
 ```
 
 ### Time-Travel Query Example
 
-**Query**: "What did DSL 1:3 say on 2020-01-01?"
+**Query**: "What did personopplysningsloven 1:3 say on 2020-01-01?"
 
 ```sql
 SELECT content, valid_from, valid_to
 FROM legal_provision_versions
-WHERE document_id = '2018:218'
+WHERE document_id = 'LOV-2018-06-15-38'
   AND provision_ref = '1:3'
   AND (valid_from IS NULL OR valid_from <= '2020-01-01')
   AND (valid_to IS NULL OR valid_to > '2020-01-01')
@@ -184,25 +182,25 @@ ORDER BY valid_from DESC
 LIMIT 1;
 ```
 
-**Result**: Original 2018 text (before 2021:1174 amendment).
+**Result**: Original 2018 text (before 2021 amendment).
 
 ### Amendment Chain Query
 
-**Query**: "Show all amendments to DSL"
+**Query**: "Show all amendments to personopplysningsloven"
 
 ```sql
 SELECT
   sa.target_provision_ref,
   sa.amendment_date,
-  sa.amended_by_sfs,
+  sa.amended_by_lov,
   sa.amendment_type,
   sa.change_summary
 FROM statute_amendments sa
-WHERE sa.target_document_id = '2018:218'
+WHERE sa.target_document_id = 'LOV-2018-06-15-38'
 ORDER BY sa.amendment_date;
 ```
 
-**Result**: 8 amendment records (6 distinct SFS documents).
+**Result**: Amendment records for distinct amending LOV documents.
 
 ---
 
@@ -221,7 +219,7 @@ extractAmendmentReferences(content: string): AmendmentReference[]
 // Parse all provisions in a statute
 parseStatuteAmendments(provisions): ProvisionAmendment[]
 
-// Extract metadata from Riksdagen HTML
+// Extract metadata from Lovdata HTML
 extractMetadataAmendments(metadata): StatuteMetadataAmendments
 
 // Parse amending statute document
@@ -231,37 +229,37 @@ parseAmendingStatute(text: string): AmendmentSection[]
 ### Pattern Matching
 
 **Priority order** (stops at first match):
-1. Suffix pattern: `Lag (YYYY:NNN).$` (most common, highest priority)
-2. Repealed: `Upphävd genom lag (YYYY:NNN)`
-3. Introduced: `Införd genom lag (YYYY:NNN)`
-4. Generic SFS: `(\d{4}:\d+)` (low priority)
+1. Suffix pattern: `Endret ved lov DD. MMM YYYY nr. NNN` (most common, highest priority)
+2. Repealed: `Opphevet ved lov DD. MMM YYYY nr. NNN`
+3. Introduced: `Tilfoyd ved lov DD. MMM YYYY nr. NNN`
+4. Generic LOV: `LOV-\d{4}-\d{2}-\d{2}-\d+` (low priority)
 
 ### Example Output
 
 Input:
 ```
-"...personuppgifter. Lag (2021:1174)."
+"...personopplysninger. Endret ved lov 18 juni 2021 nr 89."
 ```
 
 Output:
 ```typescript
 {
-  amended_by_sfs: "2021:1174",
-  amendment_type: "ändrad",
+  amended_by_lov: "LOV-2021-06-18-89",
+  amendment_type: "endret",
   position: "suffix",
-  raw_text: "Lag (2021:1174)."
+  raw_text: "Endret ved lov 18 juni 2021 nr 89."
 }
 ```
 
 ### Effective Date Extraction
 
-Parse Swedish date phrases:
+Parse Norwegian date phrases:
 ```
-"träder i kraft den 1 juli 2021"
+"trer i kraft den 1. juli 2021"
 → "2021-07-01"
 ```
 
-Handles Swedish month names (januari, februari, mars, etc.).
+Handles Norwegian month names (januar, februar, mars, etc.).
 
 ---
 
@@ -279,21 +277,21 @@ Handles Swedish month names (januari, februari, mars, etc.).
 #### Phase 1: Amendment Metadata Extraction (RECOMMENDED)
 **Effort**: 2-4 hours development + 1 hour ingestion
 **Delivers**:
-- Parse `Lag (YYYY:NNN)` from existing provisions
+- Parse amendment references from existing provisions
 - Populate `statute_amendments` table (~1,500 records)
 - Backfill `valid_to` dates in version records
-- **MCP tool**: `get_amendment_history(sfs, provision)`
+- **MCP tool**: `get_amendment_history(law_id, provision)`
 
-**Status**: ✅ **Ready to implement** - all data already in database
+**Status**: **Ready to implement** - all data already in database
 
 #### Phase 2: Amending Statute Corpus (MVP)
 **Effort**: 4-8 hours development + 4-8 hours ingestion
 **Delivers**:
-- Fetch ~200-400 unique amending SFS documents
-- Parse "Ändringar i [statute]" sections
+- Fetch ~200-400 unique amending LOV documents
+- Parse "Endringer i [statute]" sections
 - Richer amendment metadata
 
-**Status**: ✅ **Feasible** - requires API calls, parsing logic
+**Status**: **Feasible** - requires API calls, parsing logic
 
 #### Phase 3: Historical Text Reconstruction (ADVANCED)
 **Effort**: 20-40 hours development + testing
@@ -301,7 +299,7 @@ Handles Swedish month names (januari, februari, mars, etc.).
 - Apply amendments chronologically to reconstruct historical text
 - Full time-travel queries with text content
 
-**Status**: ⚠️ **High complexity** - requires advanced Swedish legal NLP
+**Status**: **High complexity** - requires advanced Norwegian legal NLP
 
 ### Recommendation
 
@@ -310,19 +308,19 @@ Handles Swedish month names (januari, februari, mars, etc.).
 - Phase 2 enables richer metadata
 - Defer Phase 3 until user demand proven
 
-**Rationale**: Amendment metadata (which provisions changed, when, by what SFS) provides 80% of value for 20% of effort compared to full text reconstruction.
+**Rationale**: Amendment metadata (which provisions changed, when, by what LOV) provides 80% of value for 20% of effort compared to full text reconstruction.
 
 ### Blockers
 
-1. **Riksdagen API**: No direct historical text access (only consolidated)
-2. **Swedish legal NLP**: Parsing "ska ha följande lydelse" requires domain expertise
+1. **Lovdata API**: No direct historical text access (only consolidated)
+2. **Norwegian legal NLP**: Parsing "skal lyde" requires domain expertise
 3. **Pre-digital statutes**: Limited coverage for pre-1990s laws
 
 ### Alternative Sources
 
-- **Lagrummet.se**: Government database, no API (scraping required)
-- **Lagen.nu**: CC-BY licensed, limited versioning
-- **SFS Print Archive**: National Library, would require OCR
+- **Lovdata.no**: Official database, limited free API
+- **Rettsinfo**: Government database, limited versioning
+- **Norsk Lovtidend Archive**: National Library, would require OCR
 
 ---
 
@@ -331,12 +329,12 @@ Handles Swedish month names (januari, februari, mars, etc.).
 ### Tool Specification
 
 **Name**: `get_provision_at_date`
-**Purpose**: Time-travel queries for Swedish statute provisions
+**Purpose**: Time-travel queries for Norwegian statute provisions
 
 **Parameters**:
 ```typescript
 {
-  sfs: string;           // "2018:218"
+  law_id: string;           // "LOV-2018-06-15-38"
   provision_ref: string; // "1:3"
   date: string;          // "2020-06-15" (ISO date)
   include_amendments?: boolean;
@@ -347,8 +345,8 @@ Handles Swedish month names (januari, februari, mars, etc.).
 ```typescript
 {
   provision_ref: "1:3",
-  content: "Bestämmelserna i 2 § gäller inte...",
-  valid_from: "2018-05-25",
+  content: "Bestemmelsene i § 2 gjelder ikke...",
+  valid_from: "2018-07-20",
   valid_to: "2021-12-01",
   status: "historical",  // "current" | "historical" | "future" | "not_found"
   amendments?: [...] // If include_amendments = true
@@ -370,10 +368,10 @@ LIMIT 1;
 
 ### Use Cases
 
-1. "What did Dataskyddslagen 3:5 say in 2019?"
-2. "Show me Brottsbalken 3:1 before the 2019 amendment"
+1. "What did personopplysningsloven 3:5 say in 2019?"
+2. "Show me straffeloven 3:1 before the 2019 amendment"
 3. "Was this provision in force on 2020-06-15?"
-4. "Compare DSL 1:3 between 2020 and 2023"
+4. "Compare popplyl 1:3 between 2020 and 2023"
 
 ### Status Values
 
@@ -403,28 +401,28 @@ LIMIT 1;
 
 ### Documentation
 
-1. ✅ **VERSIONING_SCHEMA.md** - Complete schema design, storage strategy, query patterns
-2. ✅ **DSL_VERSION_PROTOTYPE.sql** - Working SQL examples with DSL amendment data
-3. ✅ **INGESTION_EFFORT_ESTIMATE.md** - Detailed cost-benefit analysis, implementation phases
-4. ✅ **MCP_TOOL_SPEC_get_provision_at_date.md** - Full tool specification, examples, testing
+1. **VERSIONING_SCHEMA.md** - Complete schema design, storage strategy, query patterns
+2. **POPPLYL_VERSION_PROTOTYPE.sql** - Working SQL examples with popplyl amendment data
+3. **INGESTION_EFFORT_ESTIMATE.md** - Detailed cost-benefit analysis, implementation phases
+4. **MCP_TOOL_SPEC_get_provision_at_date.md** - Full tool specification, examples, testing
 
 ### Code
 
-1. ✅ **amendment-parser.ts** - TypeScript functions for parsing Swedish amendment references
-2. ✅ **get-provision-at-date.ts** - Complete MCP tool implementation with SQL queries
+1. **amendment-parser.ts** - TypeScript functions for parsing Norwegian amendment references
+2. **get-provision-at-date.ts** - Complete MCP tool implementation with SQL queries
 
 ### Schema
 
-1. ✅ **statute_amendments table** - SQL schema for amendment tracking
-2. ✅ **Amendment type taxonomy** - Standard vocabulary for Swedish amendments
-3. ✅ **Indexes** - Optimized for time-travel queries
+1. **statute_amendments table** - SQL schema for amendment tracking
+2. **Amendment type taxonomy** - Standard vocabulary for Norwegian amendments
+3. **Indexes** - Optimized for time-travel queries
 
 ### Analysis
 
-1. ✅ **Amendment patterns** - Documented Swedish legal conventions
-2. ✅ **Data quality assessment** - 16,980 existing version records analyzed
-3. ✅ **Blockers identified** - Riksdagen API limitations, NLP challenges
-4. ✅ **Effort estimates** - 3 implementation phases with realistic timelines
+1. **Amendment patterns** - Documented Norwegian legal conventions
+2. **Data quality assessment** - 16,980 existing version records analyzed
+3. **Blockers identified** - Lovdata API limitations, NLP challenges
+4. **Effort estimates** - 3 implementation phases with realistic timelines
 
 ---
 
@@ -437,17 +435,17 @@ LIMIT 1;
 - [ ] Populate `statute_amendments` table
 - [ ] Backfill `valid_to` dates
 - [ ] Add `get_amendment_history()` MCP tool
-- [ ] Testing with DSL, BrB, OSL
+- [ ] Testing with popplyl, straffeloven, offentleglova
 
 ### Short-term (Phase 2) - 2-3 weeks
-- [ ] Fetch 200-400 amending SFS documents
-- [ ] Parse "Ändringar i" sections
+- [ ] Fetch 200-400 amending LOV documents
+- [ ] Parse "Endringer i" sections
 - [ ] Enrich amendment metadata
 - [ ] Add `get_provision_at_date()` MCP tool
 - [ ] Integration tests
 
 ### Long-term (Phase 3) - 2-3 months
-- [ ] Advanced Swedish legal NLP
+- [ ] Advanced Norwegian legal NLP
 - [ ] Historical text reconstruction
 - [ ] Validate reconstructed text
 - [ ] Expand to 300-500 statutes
@@ -455,14 +453,14 @@ LIMIT 1;
 
 ---
 
-## Success Criteria (Completed ✅)
+## Success Criteria (Completed)
 
-- [x] ✅ Complete versioning schema designed and documented
-- [x] ✅ Amendment parsing logic prototyped
-- [x] ✅ One statute version history demonstrated (DSL)
-- [x] ✅ Clear path forward for full historical ingestion
-- [x] ✅ MCP tool specification for time-travel queries
-- [x] ✅ Effort estimates with blockers/alternatives identified
+- [x] Complete versioning schema designed and documented
+- [x] Amendment parsing logic prototyped
+- [x] One statute version history demonstrated (popplyl)
+- [x] Clear path forward for full historical ingestion
+- [x] MCP tool specification for time-travel queries
+- [x] Effort estimates with blockers/alternatives identified
 
 ---
 
@@ -470,7 +468,7 @@ LIMIT 1;
 
 1. **Existing infrastructure is strong** - 16,980 version records already in database
 2. **Low-hanging fruit** - Phase 1 (metadata parsing) is 2-4 hours of work
-3. **Riksdagen limitation** - No direct historical text access (must reconstruct)
+3. **Lovdata limitation** - No direct historical text access (must reconstruct)
 4. **Smart strategy** - Focus on amendment metadata over full text reconstruction
 5. **Clear MVP path** - Phases 1-2 deliver 80% of value for 20% of effort
 
@@ -478,14 +476,14 @@ LIMIT 1;
 
 1. **Implement Phase 1 immediately** - Amendment metadata extraction (2-4 hours)
 2. **Defer Phase 3** - Wait for user demand before investing in full NLP reconstruction
-3. **Hybrid approach** - Manual curation for high-priority statutes (DSL, BrB, OSL)
+3. **Hybrid approach** - Manual curation for high-priority statutes (popplyl, straffeloven, offentleglova)
 4. **Transparency** - Mark reconstructed text with confidence scores and source links
 
 ---
 
 **Files created**:
 - `/docs/VERSIONING_SCHEMA.md`
-- `/docs/DSL_VERSION_PROTOTYPE.sql`
+- `/docs/POPPLYL_VERSION_PROTOTYPE.sql`
 - `/docs/INGESTION_EFFORT_ESTIMATE.md`
 - `/docs/MCP_TOOL_SPEC_get_provision_at_date.md`
 - `/docs/VERSIONING_SUMMARY.md` (this file)

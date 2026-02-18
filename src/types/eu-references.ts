@@ -9,14 +9,14 @@ export type EUDocumentType = 'directive' | 'regulation';
 export type EUCommunity = 'EU' | 'EG' | 'EEG' | 'Euratom';
 
 export type ReferenceType =
-  | 'implements'          // Swedish law implements this EU directive
-  | 'supplements'         // Swedish law supplements this EU regulation
+  | 'implements'          // National law implements this EU directive
+  | 'supplements'         // National law supplements this EU regulation
   | 'applies'             // This EU regulation applies directly
   | 'references'          // General reference to EU law
-  | 'complies_with'       // Swedish law must comply with this
-  | 'derogates_from'      // Swedish law derogates from this (allowed by EU law)
-  | 'amended_by'          // Swedish law was amended to implement this
-  | 'repealed_by'         // Swedish law was repealed by this EU act
+  | 'complies_with'       // National law must comply with this
+  | 'derogates_from'      // National law derogates from this (allowed by EU law)
+  | 'amended_by'          // National law was amended to implement this
+  | 'repealed_by'         // National law was repealed by this EU act
   | 'cites_article';      // Cites specific article(s) of EU act
 
 export type ImplementationStatus = 'complete' | 'partial' | 'pending' | 'unknown';
@@ -29,6 +29,7 @@ export interface EUDocument {
   community: EUCommunity;
   celex_number?: string;         // "32016R0679"
   title?: string;
+  /** @deprecated Use title instead */
   title_sv?: string;
   short_name?: string;           // "GDPR"
   adoption_date?: string;
@@ -45,7 +46,7 @@ export interface EUReference {
   id: number;
   source_type: 'provision' | 'document' | 'case_law';
   source_id: string;
-  document_id: string;           // SFS number
+  document_id: string;           // LOV id
   provision_id?: number;
   eu_document_id: string;
   eu_article?: string;           // "6.1.c", "13-15", etc.
@@ -73,9 +74,15 @@ export interface EUBasisDocument {
   url_eur_lex?: string;
 }
 
-export interface SwedishImplementation {
-  sfs_number: string;
-  sfs_title: string;
+export interface NorwegianImplementation {
+  /** LOV id (e.g., "LOV-2018-06-15-38") */
+  law_id: string;
+  /** Title of the implementing statute */
+  law_title: string;
+  /** @deprecated Use law_id instead */
+  sfs_number?: string;
+  /** @deprecated Use law_title instead */
+  sfs_title?: string;
   short_name?: string;
   status: string;
   reference_type: ReferenceType;
@@ -84,7 +91,8 @@ export interface SwedishImplementation {
   articles_referenced?: string[];
 }
 
-export interface NorwegianImplementation extends SwedishImplementation {}
+/** @deprecated Use NorwegianImplementation instead */
+export interface SwedishImplementation extends NorwegianImplementation {}
 
 export interface ProvisionEUReference {
   id: string;

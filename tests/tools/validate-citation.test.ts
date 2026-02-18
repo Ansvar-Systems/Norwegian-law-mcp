@@ -16,19 +16,20 @@ describe('validate_citation tool', () => {
 
   it('should validate a fully valid citation', async () => {
     const response = await validateCitationTool(db, {
-      citation: 'SFS 2018:218 1 kap. 1 §',
+      citation: 'LOV-2018-06-15-38',
     });
 
     expect(response.results.valid).toBe(true);
     expect(response.results.document_exists).toBe(true);
     expect(response.results.provision_exists).toBe(true);
-    expect(response.results.formatted_citation).toContain('2018:218');
+    expect(response.results.formatted_citation).toContain('LOV-2018-06-15-38');
+    expect(response.results.document_title).toContain('personopplysninger');
     expect(response.results.warnings).toHaveLength(0);
   });
 
   it('should return warnings for repealed statute', async () => {
     const response = await validateCitationTool(db, {
-      citation: 'SFS 1998:204 1 §',
+      citation: 'LOV-2000-04-14-31',
     });
 
     expect(response.results.document_exists).toBe(true);
@@ -53,7 +54,7 @@ describe('validate_citation tool', () => {
 
   it('should report non-existent provision', async () => {
     const response = await validateCitationTool(db, {
-      citation: 'SFS 2018:218 99 kap. 99 §',
+      citation: 'LOV-2018-06-15-38 § 99',
     });
 
     expect(response.results.valid).toBe(false);

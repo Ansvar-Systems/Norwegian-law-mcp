@@ -1,6 +1,6 @@
 ---
 name: Statute Request
-about: Request a new Swedish statute to be added
+about: Request a new Norwegian statute to be added
 title: '[STATUTE] '
 labels: enhancement, statute-request
 assignees: ''
@@ -11,11 +11,11 @@ assignees: ''
 **Statute Name:**
 
 
-**SFS Number:**
-<!-- e.g., 2018:218 -->
+**LOV Number:**
+<!-- e.g., LOV-2018-06-15-38 -->
 
 
-**Riksdagen URL (if known):**
+**Lovdata URL (if known):**
 
 
 ## Why This Statute Is Important
@@ -31,7 +31,7 @@ assignees: ''
 ## Additional Context
 
 **Related Statutes Already Included:**
-<!-- e.g., "This complements DSL for data protection" -->
+<!-- e.g., "This complements personopplysningsloven for data protection" -->
 
 
 **Has EU Cross-References:**
@@ -58,5 +58,5 @@ assignees: ''
 **Note:** We prioritize statutes based on:
 1. Number of users requesting it
 2. Relevance to common legal practice areas
-3. Availability via Riksdagen API
+3. Availability via Lovdata
 4. Community contributions

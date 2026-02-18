@@ -1,12 +1,16 @@
 /**
- * Parser tuned for Riksdagen statute text dumps.
+ * Parser tuned for Norwegian statute text dumps.
  *
- * Riksdagen text contains line-break artifacts and occasional table-of-contents
+ * Source text may contain line-break artifacts and occasional table-of-contents
  * fragments. This parser uses conservative chapter activation and section
  * monotonicity checks to avoid mislabeling provisions.
+ *
+ * Note: Both Norwegian and Swedish statutes use "kap." for chapters and "§"
+ * for sections, so the structural parsing logic is shared. This parser was
+ * originally built for Riksdagen data but works for Lovdata-sourced text too.
  */
 
-export interface RiksdagenProvision {
+export interface LovdataProvision {
   provision_ref: string;
   chapter?: string;
   section: string;
@@ -14,19 +18,28 @@ export interface RiksdagenProvision {
   content: string;
 }
 
-export interface RiksdagenParseDiagnostics {
+/** @deprecated Use LovdataProvision instead */
+export type RiksdagenProvision = LovdataProvision;
+
+export interface LovdataParseDiagnostics {
   ignored_chapter_markers: number;
   suppressed_section_candidates: number;
 }
 
-export interface RiksdagenParseResult {
-  provisions: RiksdagenProvision[];
-  diagnostics: RiksdagenParseDiagnostics;
+/** @deprecated Use LovdataParseDiagnostics instead */
+export type RiksdagenParseDiagnostics = LovdataParseDiagnostics;
+
+export interface LovdataParseResult {
+  provisions: LovdataProvision[];
+  diagnostics: LovdataParseDiagnostics;
 }
+
+/** @deprecated Use LovdataParseResult instead */
+export type RiksdagenParseResult = LovdataParseResult;
 
 const CHAPTER_PATTERN = /^(\d+)\s*kap\.\s*(.*)$/u;
 const SECTION_PATTERN = /^(\d+\s*[a-z]?)\s*§\s*(.*)$/iu;
-const LAW_NOTE_PATTERN = /^Lag \(\d{4}:\d+\)\.?$/u;
+const LAW_NOTE_PATTERN = /^(?:Lov|Lag)\s+(?:\d{1,2}\s+[a-zæøåäö]+\s+\d{4}\s+nr\.?\s*\d+|\(\d{4}:\d+\))\.?$/u;
 
 function normalizeSectionRef(section: string): string {
   return section.replace(/\s+/g, ' ').trim().toLowerCase();
@@ -58,25 +71,30 @@ function startsWithLowercase(text: string): boolean {
   if (!text) {
     return false;
   }
-  return /^[a-zåäö]/u.test(text);
+  return /^[a-zåäöæø]/u.test(text);
 }
 
 function isLikelyTitle(line: string): boolean {
   return (
     line.length > 0 &&
     line.length < 100 &&
-    /^[A-ZÅÄÖ]/u.test(line) &&
+    /^[A-ZÅÄÖÆØ]/u.test(line) &&
     !/^\d+\s*(kap\.|§)/u.test(line) &&
     !LAW_NOTE_PATTERN.test(line)
   );
 }
 
-export function parseRiksdagenProvisions(text: string): RiksdagenParseResult {
+/** @deprecated Use parseLovdataProvisions instead */
+export function parseRiksdagenProvisions(text: string): LovdataParseResult {
+  return parseLovdataProvisions(text);
+}
+
+export function parseLovdataProvisions(text: string): LovdataParseResult {
   const lines = text.split(/\r?\n/);
-  const provisions: RiksdagenProvision[] = [];
+  const provisions: LovdataProvision[] = [];
   const seenProvisionRefs = new Set<string>();
   const lastOrdinalByChapter = new Map<string, number>();
-  const diagnostics: RiksdagenParseDiagnostics = {
+  const diagnostics: LovdataParseDiagnostics = {
     ignored_chapter_markers: 0,
     suppressed_section_candidates: 0,
   };

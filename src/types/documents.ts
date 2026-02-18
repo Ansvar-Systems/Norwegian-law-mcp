@@ -1,25 +1,25 @@
 /**
- * Domain types for Swedish legal documents.
+ * Domain types for Norwegian legal documents.
  */
 
-/** Types of legal documents in the Swedish system */
+/** Types of legal documents in the Norwegian system */
 export type DocumentType = 'statute' | 'bill' | 'sou' | 'ds' | 'case_law';
 
 /** Status of a legal document */
 export type DocumentStatus = 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
 
-/** Swedish court types */
-export type CourtType = 'HD' | 'HFD' | 'AD' | 'MD' | 'MIG' | 'hovrätt' | 'kammarrätt' | 'tingsrätt' | 'förvaltningsrätt';
+/** Norwegian court types */
+export type CourtType = 'HR' | 'LA' | 'LB' | 'LE' | 'TING' | 'JORD' | 'TREK';
 
-/** A legal document in the Swedish system */
+/** A legal document in the Norwegian system */
 export interface LegalDocument {
-  /** SFS number (e.g., "2018:218"), case reference, or prop number */
+  /** LOV id (e.g., "LOV-2018-06-15-38"), case reference, or prop number */
   id: string;
 
   /** Document type */
   type: DocumentType;
 
-  /** Swedish title */
+  /** Norwegian title */
   title: string;
 
   /** English title if available */

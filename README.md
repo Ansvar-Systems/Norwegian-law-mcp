@@ -1,10 +1,10 @@
 # Norwegian Law MCP Server
 
-Production-grade MCP server for Norwegian legal research with Swedish-Law-MCP parity architecture and licensing-aware ingestion controls.
+Production-grade MCP server for Norwegian legal research with licensing-aware ingestion controls.
 
 ## What this server provides
 - Search and retrieval tools for legal documents/provisions
-- EU cross-reference tooling (same architecture as Swedish Law MCP)
+- EU cross-reference tooling
 - Deterministic SQLite build pipeline
 - Capability detection via DB schema
 - Daily data freshness monitor with optional auto-PR

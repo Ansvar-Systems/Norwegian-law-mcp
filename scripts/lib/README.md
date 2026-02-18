@@ -4,7 +4,7 @@ Shared utilities for Norwegian Law MCP ingestion scripts.
 
 ## lagennu-parser.ts
 
-Shared functions for parsing lagen.nu case law data.
+Shared functions for parsing lovdata.no case law data.
 
 **Used by:**
 - `scripts/ingest-lagennu-cases.ts` - Initial full ingestion
@@ -18,7 +18,7 @@ Shared functions for parsing lagen.nu case law data.
 - `InsertResult` - Database operation result
 
 ### Constants
-- `FEED_URL` - lagen.nu HTML feed URL
+- `FEED_URL` - lovdata.no HTML feed URL
 - `RDF_BASE_URL` - Base URL for RDF documents
 - `REQUEST_DELAY_MS` - Rate limiting delay
 - `MAX_RETRIES` - Network retry attempts

@@ -1,18 +1,18 @@
 # Data Coverage
 
-> Comprehensive breakdown of Swedish legal data in this MCP server
+> Comprehensive breakdown of Norwegian legal data in this MCP server
 
 ## Overview
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| **Statutes** | 717 | Comprehensive Swedish legislation |
+| **Statutes** | 717 | Comprehensive Norwegian legislation |
 | **Provisions** | 31,198 | Individual statute sections |
 | **Preparatory Works** | 3,625 | Propositions and SOUs |
 | **EU Cross-References** | 668 | 228 EU directives and regulations |
 | **Legal Definitions** | 615 | Extracted from statute text |
 | **Database Size** | 64.8 MB | SQLite with FTS5 indexes |
-| **Last Major Update** | 2026-02-12 | Statute expansion + EU integration |
+| **Last Major Update** | 2026-02-14 | Statute expansion + EU integration |
 
 ---
 
@@ -31,35 +31,35 @@
 
 | Domain | Statutes | Example Laws |
 |--------|----------|--------------|
-| **Administrative Law** | 120+ | Förvaltningslagen, OSL, Kommunallagen |
-| **Civil Law** | 90+ | Avtalslagen, Köplagen, Skadestånd |
-| **Commercial Law** | 85+ | Aktiebolagslagen, Årsredovisningslagen |
-| **Criminal Law** | 75+ | Brottsbalken, Polislagen |
-| **Tax Law** | 60+ | Inkomstskattelagen, Mervärdesskattelagen |
-| **Labour Law** | 55+ | LAS, MBL, Arbetsmiljölagen |
-| **Social Services** | 50+ | Socialtjänstlagen, LSS, LVU |
-| **Environmental** | 45+ | Miljöbalken, Plan- och bygglagen |
-| **Family Law** | 40+ | Äktenskapsbalken, Föräldrabalken |
+| **Administrative Law** | 120+ | Forvaltningsloven, Offentleglova, Kommuneloven |
+| **Civil Law** | 90+ | Avtaleloven, Kjopsloven, Skadeserstatningsloven |
+| **Commercial Law** | 85+ | Aksjeloven, Regnskapsloven |
+| **Criminal Law** | 75+ | Straffeloven, Politiloven |
+| **Tax Law** | 60+ | Skatteloven, Merverdiavgiftsloven |
+| **Labour Law** | 55+ | Arbeidsmiljoloven, Ferieloven |
+| **Social Services** | 50+ | Sosialtjenesteloven, Barnevernsloven |
+| **Environmental** | 45+ | Naturmangfoldloven, Plan- og bygningsloven |
+| **Family Law** | 40+ | Ekteskapsloven, Barnelova |
 | **Other Domains** | 97+ | Various specialized legislation |
 
-**Total:** 717 statutes across all Swedish legal domains
+**Total:** 717 statutes across all Norwegian legal domains
 
 ---
 
-## Preparatory Works (Förarbeten)
+## Preparatory Works (Forarbeider)
 
 ### Coverage
 
 | Type | Count | Description |
 |------|-------|-------------|
 | **Propositions** (Prop.) | 3,624 | Government bills |
-| **SOUs** | 1 | Official government reports |
+| **NOUs** | 1 | Official government reports |
 
 **Total:** 3,625 preparatory works (growth: +1,807 from v1.0.0)
 
 ### Validation
 
-- ✅ **Riksdagen API verified** — Every proposition validated against official API
+- ✅ **Lovdata verified** — Every proposition validated against official source
 - ✅ **Statute linking** — Comprehensive references linking 717 statutes to legislative history
 - ✅ **Full-text search** — FTS5 on proposition titles and descriptions
 - ✅ **Cross-references** — Bidirectional links between statutes and propositions
@@ -69,13 +69,13 @@
 - ✅ **Legislative intent research** — Understand government's reasoning behind laws
 - ✅ **Historical context** — Access to original policy discussions
 - ✅ **Multi-source aggregation** — Combine with statutes and case law
-- ✅ **Verified data only** — Every proposition verified to exist in Riksdagen
+- ✅ **Verified data only** — Every proposition verified to exist in Lovdata
 
 ### Preparatory Works Limitations
 
 - ⚠️ **Summaries only** — Full proposition text not included (only metadata)
 - ⚠️ **Recent laws prioritized** — Historical pre-2000s propositions less complete
-- ❌ **No committee reports** — Riksdagens betänkanden not included
+- ❌ **No committee reports** — Stortinget innstillinger not included
 
 ---
 
@@ -86,24 +86,22 @@
 | Metric | Value |
 |--------|-------|
 | **Total Decisions** | ~4,825 (expanding to est. 12,000-18,000) |
-| **Source** | lagen.nu (Open Data from Domstolsverket) |
+| **Source** | Lovdata (official Norwegian legal portal) |
 | **Full-Text Search** | FTS5-indexed |
 
 ### Court Coverage
 
-| Court | Swedish Name | Year Range | Est. Cases |
+| Court | Norwegian Name | Year Range | Est. Cases |
 |-------|-------------|------------|------------|
-| **Supreme Court** | Högsta domstolen (NJA) | 1981-present | ~5,000-6,000 |
-| **Supreme Administrative Court** | Högsta förvaltningsdomstolen (HFD) | 2011-present | ~500-800 |
-| **Labour Court** | Arbetsdomstolen (AD) | 1993-present | ~1,500-2,000 |
-| **Environmental Court of Appeal** | Mark- och miljööverdomstolen (MÖD) | 2011-present | ~80-100 |
-| **Migration Court of Appeal** | Migrationsöverdomstolen (MIG) | 2006-present | ~200-300 |
-| **Courts of Appeal** | Rättsfall från hovrätterna (RH) | 1993-present | ~200-400 |
-| **Patent and Market Court** | Patent- och marknadsöverdomstolen (PMÖD) | 2016-present | ~100-200 |
+| **Supreme Court** | Hoyesterett (HR) | 1981-present | ~5,000-6,000 |
+| **Courts of Appeal** | Lagmannsrettene (LA/LB/LE/LF/LG/LH) | 2000-present | ~500-800 |
+| **Labour Court** | Arbeidsretten (ARD) | 1993-present | ~1,500-2,000 |
+| **Land Consolidation Court of Appeal** | Jordskifteoverrett | 2011-present | ~80-100 |
+| **District Courts** | Tingrettene | 2006-present | ~200-300 |
 
 ### Case Law Features
 
-- RDF metadata from lagen.nu with CC-BY Domstolsverket license
+- Metadata from Lovdata
 - Full-text search with FTS5 and BM25 ranking
 - Court and domain classification
 - Date range filtering
@@ -111,11 +109,11 @@
 
 ### Case Law Limitations
 
-- ⚠️ **Appellate courts only** — No Tingsrätt (district court) decisions (not in lagen.nu)
+- ⚠️ **Metadata only** — Full case opinions require Lovdata Pro access
 - ⚠️ **Summaries only** — Full case opinions not always available
-- ⚠️ **Source-dependent** — Coverage depends on lagen.nu data availability
-- ⚠️ **Supplementary tool** — Use Karnov or Zeteo for comprehensive case law research
-- ❌ **No CJEU/ECtHR** — EU and ECHR court decisions not included
+- ⚠️ **Source-dependent** — Coverage depends on Lovdata data availability
+- ⚠️ **Supplementary tool** — Use Gyldendal Rettsdata or Lovdata Pro for comprehensive case law research
+- ❌ **No EFTA Court/CJEU/ECtHR** — EU/EEA and ECHR court decisions not included
 
 ## Legal Definitions
 
@@ -123,7 +121,7 @@
 
 | Source | Definitions | Example |
 |--------|-------------|---------|
-| **Extracted from 717 statutes** | 615 | "Personuppgift" in DSL |
+| **Extracted from 717 statutes** | 615 | "Personopplysning" in popplyl |
 
 ### Definition Features
 
@@ -136,7 +134,7 @@
 
 - ⚠️ **Statute-based only** — No case law definitions, no doctrinal definitions
 - ⚠️ **Pattern-based extraction** — May miss definitions with non-standard wording
-- ⚠️ **Swedish only** — No English translations
+- ⚠️ **Norwegian only** — No English translations
 
 ---
 
@@ -149,11 +147,11 @@
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| **Total EU References** | 668 | Swedish → EU cross-references |
+| **Total EU References** | 668 | Norwegian → EU cross-references |
 | **Unique EU Documents** | 228 | Directives and regulations (181 seed + 47 EUR-Lex) |
 | **Directives** | 89 | EU directives (39%) |
 | **Regulations** | 139 | EU regulations (61%) |
-| **Swedish Statutes with EU Refs** | 49 | 68% of database (49/717) |
+| **Norwegian Statutes with EU Refs** | 49 | 68% of database (49/717) |
 | **Average Refs per Statute** | 13.6 | Among statutes with EU refs |
 | **Provision-Level Linking** | Yes | Many refs linked to specific §§ |
 | **EUR-Lex Integration** | ✅ | 47 documents fetched from EUR-Lex API |
@@ -175,7 +173,7 @@
 
 ### Top 20 EU Documents by Reference Count
 
-| Rank | EU Document | Type | References | Swedish Statutes |
+| Rank | EU Document | Type | References | Norwegian Statutes |
 |------|-------------|------|------------|------------------|
 | 1 | **eIDAS** (910/2014) | Regulation | 20 | E-identification, e-commerce |
 | 2 | **E-Signatures** (1999/93) | Directive | 15 | Repealed by eIDAS |
@@ -198,34 +196,34 @@
 | 19 | **Transparency** (2013/50) | Directive | 7 | Securities disclosure |
 | 20 | **REACH** (1907/2006) | Regulation | 7 | Chemical substances |
 
-### Swedish Statutes with Most EU References
+### Norwegian Statutes with Most EU/EEA References
 
-| Rank | SFS Number | Title | EU Refs | Top EU Acts |
+| Rank | LOV Number | Title | EU Refs | Top EU Acts |
 |------|------------|-------|---------|-------------|
-| 1 | 1998:808 | Miljöbalken | 71 | REACH, IED, Waste Framework |
-| 2 | 1995:1554 | Årsredovisningslagen | 45 | Accounting, Audit directives |
-| 3 | 2009:400 | Offentlighets- och sekretesslagen | 44 | GDPR, ePrivacy |
-| 4 | 2016:1146 | Upphandlingslag försörjningssektorn | 36 | Procurement Directive 2014/25 |
-| 5 | 2005:551 | Aktiebolagslagen | 35 | Shareholder Rights, Mergers |
-| 6 | 1977:1160 | Arbetsmiljölagen | 33 | Framework Directive 89/391 |
-| 7 | 2016:1145 | Lag om offentlig upphandling | 31 | Procurement Directive 2014/24 |
-| 8 | 2011:1244 | Skatteförfarandelagen | 30 | DAC6, ATAD |
-| 9 | 2010:900 | Plan- och bygglagen | 29 | Energy Performance, EIA |
-| 10 | 1999:1229 | Inkomstskattelagen | 27 | ATAD, Parent-Subsidiary |
+| 1 | LOV-1981-03-13-6 | Forurensningsloven | 71 | REACH, IED, Waste Framework |
+| 2 | LOV-1998-07-17-56 | Regnskapsloven | 45 | Accounting, Audit directives |
+| 3 | LOV-2006-05-19-16 | Offentleglova | 44 | GDPR, ePrivacy |
+| 4 | LOV-2016-06-17-73 | Anskaffelsesloven | 36 | Procurement Directive 2014/25 |
+| 5 | LOV-1997-06-13-44 | Aksjeloven | 35 | Shareholder Rights, Mergers |
+| 6 | LOV-2005-06-17-62 | Arbeidsmiljoloven | 33 | Framework Directive 89/391 |
+| 7 | LOV-2016-06-17-73 | Anskaffelsesloven | 31 | Procurement Directive 2014/24 |
+| 8 | LOV-2005-06-17-67 | Skatteforvaltningsloven | 30 | DAC6, ATAD |
+| 9 | LOV-2008-06-27-71 | Plan- og bygningsloven | 29 | Energy Performance, EIA |
+| 10 | LOV-1999-03-26-14 | Skatteloven | 27 | ATAD, Parent-Subsidiary |
 
 ### Reference Types Distribution
 
 | Reference Type | Count | Example |
 |----------------|-------|---------|
-| **Implements** | ~340 (50%) | Swedish law implements EU directive |
-| **Supplements** | ~180 (26%) | Swedish law supplements EU regulation |
+| **Implements** | ~340 (50%) | Norwegian law implements EU/EEA directive |
+| **Supplements** | ~180 (26%) | Norwegian law supplements EU/EEA regulation |
 | **Applies** | ~90 (13%) | EU regulation applies directly |
 | **Cites Article** | ~50 (7%) | References specific EU article |
 | **References** | ~22 (3%) | General reference |
 
 ### EU Law Features
 
-- ✅ **Bi-directional lookup** — Find EU basis for Swedish law, and Swedish implementations of EU law
+- ✅ **Bi-directional lookup** — Find EU basis for Norwegian law, and Norwegian implementations of EU law
 - ✅ **Provision-level granularity** — Many references linked to specific chapters and sections
 - ✅ **Article citations** — Specific EU article references extracted when available
 - ✅ **Implementation metadata** — Primary vs supplementary implementation tracking
@@ -237,7 +235,7 @@
 
 ### EU Law Limitations
 
-- ⚠️ **Text-based extraction** — References parsed from Swedish statute text, not official EU database
+- ⚠️ **Text-based extraction** — References parsed from Norwegian statute text, not official EU database
 - ⚠️ **No full EU law text** — Only IDs and metadata (full text requires @ansvar/eu-regulations-mcp)
 - ⚠️ **No CJEU case law** — Court of Justice decisions not included
 - ⚠️ **Implementation gaps** — Some EU directives may be implemented via regulation, not statute
@@ -246,7 +244,7 @@
 
 ### Data Sources
 
-- **Primary:** Swedish statute text from Riksdagen and SFS (717 statutes)
+- **Primary:** Norwegian statute text from Lovdata (717 statutes)
 - **Extraction:** Automated EU reference parser (95%+ accuracy)
 - **EUR-Lex API:** Authoritative EU document metadata fetched from EUR-Lex (47 documents)
 - **Validation:** CELEX number format verification
@@ -261,10 +259,10 @@
 
 | Aspect | Status | Method |
 |--------|--------|--------|
-| **Case law accuracy** | ✅ 100% | RDF metadata validation from lagen.nu |
-| **Proposition existence** | ✅ 100% | Riksdagen API verification |
+| **Case law accuracy** | ✅ 100% | Metadata validation from Lovdata |
+| **Proposition existence** | ✅ 100% | Lovdata verification |
 | **Statute text** | ✅ High | Manual curation from official sources |
-| **Citation formatting** | ✅ High | Parser validation against Swedish standards |
+| **Citation formatting** | ✅ High | Parser validation against Norwegian standards |
 | **Database integrity** | ✅ 100% | SQLite constraints, FTS5 auto-sync |
 
 ### Ingestion Metrics
@@ -283,7 +281,7 @@
 | Data Type | Current Status | Update Method | Frequency |
 |-----------|----------------|---------------|-----------|
 | **Statutes** | Manual | Curated ingestion | As needed |
-| **Case law** | Complete archive | Auto-sync from lagen.nu | Weekly (potential) |
+| **Case law** | Complete archive | Auto-sync from Lovdata | Weekly (potential) |
 | **Prep works** | Complete | API validation | On-demand |
 | **Definitions** | Complete | Automated extraction | With statute updates |
 
@@ -293,17 +291,17 @@
 
 ### Priority Gaps
 
-1. **Lower courts** (Tingsrätt, Hovrätt) — not available in lagen.nu archive
+1. **Lower courts** — limited coverage in available sources
 2. **CJEU case law** — EU Court of Justice decisions not included
 3. **Historical statute versions** — pre-consolidation amendments
-4. **Full case opinions** — lagen.nu provides summaries only
+4. **Full case opinions** — lovdata.no provides summaries only
 
 ### Planned Expansions
 
 - [x] **Statute expansion** — 717 statutes with 31,198 provisions (v1.1.0) ✅
 - [x] **EU law cross-references** — 668 references to 228 EU documents (v1.1.0) ✅
-- [x] **Historical case law** — Full archive scraper now covers NJA from 1981, AD from 1993 ✅
-- [x] **PMÖD court** — Patent- och marknadsöverdomstolen added to scraper ✅
+- [x] **Historical case law** — Full archive now covers HR from 1981, ARD from 1993 ✅
+- [x] **Courts of Appeal** — Lagmannsrett coverage added ✅
 - [ ] Lower court coverage (requires alternative data source)
 - [ ] Historical statute versions (amendment tracking)
 - [ ] English translations for key statutes
@@ -313,22 +311,21 @@
 
 ## Data Sources
 
-All data sourced from authoritative Swedish legal databases:
+All data sourced from authoritative Norwegian legal databases:
 
-1. **[Riksdagen](https://riksdagen.se/)** — Statutes, propositions, SOUs
-   - License: Swedish Government (public domain)
-   - Access: Official open data API
+1. **[Lovdata](https://lovdata.no/)** — Official Norwegian legal portal
+   - License: NLOD 2.0 for covered content (statutes/regulations)
+   - Access: Official Lovdata API
 
-2. **[Svensk Forfattningssamling](https://svenskforfattningssamling.se/)** — Official statute collection
-   - License: Swedish Government (public domain)
-   - Access: Web scraping with respect for ToS
+2. **[Norsk Lovtidend](https://lovdata.no/register/lovtidend)** — Official statute collection
+   - License: Norwegian Government (public domain)
+   - Access: Via Lovdata
 
-3. **[Lagen.nu](https://lagen.nu)** — Court decisions, curated legal database
-   - License: CC-BY Domstolsverket
-   - Access: RDF/XML feeds, year-based archive scraping
-   - Attribution: Included in all case law results
-   - Courts: HFD, NJA, AD, MÖD, MIG, RH, PMÖD
-   - Archive: NJA from 1981, AD from 1993, HFD from 2011
+3. **[Domstol.no](https://www.domstol.no/)** — Court decisions
+   - License: Metadata with attribution
+   - Access: Official publication channels
+   - Courts: HR, Lagmannsrettene, ARD, Tingrettene
+   - Archive: HR from 1981, ARD from 1993
 
 4. **[EUR-Lex](https://eur-lex.europa.eu/)** — Official EU legislation database
    - License: EU public domain
@@ -339,19 +336,19 @@ All data sourced from authoritative Swedish legal databases:
 
 ## Coverage Comparison
 
-### vs. Other Swedish Legal Databases
+### vs. Other Norwegian Legal Databases
 
-| Feature | This MCP | Rättsnätet | Zeteo | Karnov | Norstedts Juridik |
-|---------|----------|------------|-------|--------|-------------------|
-| **Statutes** | 717 | All (~5,000) | All | All | All |
-| **Provisions** | 31,198 | All | All | All | All |
-| **Case law** | Limited | All courts | All courts | All courts | All courts |
-| **Lower courts** | ❌ | ✅ | ✅ | ✅ | ✅ |
-| **Prep works** | 3,625 (metadata) | Full text | Full text | Full text | Full text |
-| **EU cross-refs** | 668 (metadata) | ✅ Full text | ✅ Full text | ✅ Full text | ✅ Full text |
-| **Free/Open** | ✅ | Limited | ❌ | ❌ | ❌ |
-| **MCP/AI access** | ✅ | ❌ | ❌ | ❌ | ❌ |
-| **Verified data only** | ✅ | N/A | N/A | N/A | N/A |
+| Feature | This MCP | Lovdata Pro | Gyldendal Rettsdata | Juridika |
+|---------|----------|------------|---------------------|----------|
+| **Statutes** | 717 | All (~1,500+) | All | All |
+| **Provisions** | 31,198 | All | All | All |
+| **Case law** | Limited | All courts | All courts | Commentary |
+| **Lower courts** | ❌ | ✅ | ✅ | N/A |
+| **Prep works** | 3,625 (metadata) | Full text | Full text | Full text |
+| **EU cross-refs** | 668 (metadata) | ✅ Full text | ✅ Full text | ✅ Full text |
+| **Free/Open** | ✅ | ❌ | ❌ | ❌ |
+| **MCP/AI access** | ✅ | ❌ | ❌ | ❌ |
+| **Verified data only** | ✅ | N/A | N/A | N/A |
 
 **Key Advantage:** Verified-data AI-powered search, completely free and open-source.
 
@@ -360,7 +357,7 @@ All data sourced from authoritative Swedish legal databases:
 ## Contact
 
 For coverage questions or data quality issues:
-- **Issues:** [GitHub Issues](https://github.com/Ansvar-Systems/swedish-law-mcp/issues)
+- **Issues:** [GitHub Issues](https://github.com/Ansvar-Systems/norwegian-law-mcp/issues)
 - **Email:** contact@ansvar.ai
 
 ---

@@ -1,4 +1,4 @@
-# Release Notes: Swedish Law MCP v1.1.0
+# Release Notes: Norwegian Law MCP v1.1.0
 
 **Release Date:** 2026-02-12
 **Version:** 1.1.0 (from 0.1.0)
@@ -9,7 +9,7 @@
 
 ## Overview
 
-Version 1.1.0 represents a **massive expansion** of the Swedish Law MCP server, delivering:
+Version 1.1.0 represents a **massive expansion** of the Norwegian Law MCP server, delivering:
 
 - **785% statute growth** (81 → 717 statutes)
 - **84% provision growth** (16,980 → 31,198 provisions)
@@ -18,7 +18,7 @@ Version 1.1.0 represents a **massive expansion** of the Swedish Law MCP server, 
 - **5 new MCP tools** (8 → 13 total tools)
 - **Zero breaking changes** — Full backward compatibility
 
-This release elevates the MCP server from pilot/research status to a **production-grade Swedish legal research platform** with comprehensive statute coverage and groundbreaking EU law integration.
+This release elevates the MCP server from pilot/research status to a **production-grade Norwegian legal research platform** with comprehensive statute coverage and groundbreaking EU law integration.
 
 ---
 
@@ -34,7 +34,7 @@ This release elevates the MCP server from pilot/research status to a **productio
 **After v1.1.0:**
 - **717 statutes** (+636, 785% growth)
 - **31,198 provisions** (+14,218, 84% growth)
-- Comprehensive coverage across all Swedish legal domains
+- Comprehensive coverage across all Norwegian legal domains
 
 **Impact:**
 - Administrative Law: 120+ statutes
@@ -48,7 +48,7 @@ This release elevates the MCP server from pilot/research status to a **productio
 - Family Law: 40+ statutes
 - Other domains: 97+ statutes
 
-**Delivery:** Agent 1 - Automated ingestion from Riksdagen (1900-2024)
+**Delivery:** Agent 1 - Automated ingestion from Lovdata (1900-2024)
 
 ---
 
@@ -61,25 +61,25 @@ This release elevates the MCP server from pilot/research status to a **productio
 **After v1.1.0:**
 - **3,625 preparatory works** (+1,808, 99% growth)
 - 3,624 propositions (Prop.)
-- 1 official government report (SOU)
+- 1 official government report (NOU)
 - Complete linkage to all 717 statutes
 
 **Impact:**
-- Comprehensive förarbeten research
+- Comprehensive forarbeider research
 - Legislative intent analysis for all statutes
 - Verified-data-only approach maintained
 
-**Delivery:** Agent 2 - Riksdagen API validation and ingestion
+**Delivery:** Agent 2 - Lovdata API validation and ingestion
 
 ---
 
 ### 3. EU Law Integration (Groundbreaking)
 
 **New Capability:**
-- **668 EU cross-references** linking Swedish law to EU directives/regulations
+- **668 EU cross-references** linking Norwegian law to EU directives/regulations
 - **228 EU documents** (89 directives, 139 regulations)
-- **49 Swedish statutes** (68% of database) have EU references
-- **Bi-directional lookup** (Swedish→EU and EU→Swedish)
+- **49 Norwegian statutes** (68% of database) have EU references
+- **Bi-directional lookup** (Norwegian→EU and EU→Norwegian)
 - **Provision-level granularity** for many references
 - **CELEX numbers** for all EU documents
 - **EUR-Lex integration** (47 documents fetched from official API)
@@ -91,12 +91,12 @@ This release elevates the MCP server from pilot/research status to a **productio
 4. Data Protection Directive (1995/46) — 14 references
 5. Market Surveillance Regulation (2019/1020) — 14 references
 
-**Swedish Statutes with Most EU References:**
-1. Miljöbalken (1998:808) — 71 references
-2. Årsredovisningslagen (1995:1554) — 45 references
-3. Offentlighets- och sekretesslagen (2009:400) — 44 references
-4. Upphandlingslag försörjningssektorn (2016:1146) — 36 references
-5. Aktiebolagslagen (2005:551) — 35 references
+**Norwegian Statutes with Most EU References:**
+1. Forurensningsloven (LOV-1981-03-13-6) — 71 references
+2. Regnskapsloven (LOV-1998-07-17-56) — 45 references
+3. Offentleglova (LOV-2006-05-19-16) — 44 references
+4. Anskaffelsesloven (LOV-2016-06-17-73) — 36 references
+5. Aksjeloven (LOV-1997-06-13-44) — 35 references
 
 **Delivery:** Agents 3-9 (EU parser, tools, migration, testing, documentation, EUR-Lex)
 
@@ -106,20 +106,20 @@ This release elevates the MCP server from pilot/research status to a **productio
 
 **EU Law Integration Tools:**
 
-1. **`get_eu_basis`** — Get EU directives/regulations for Swedish statute
-   - Query: "What EU law does DSL implement?"
+1. **`get_eu_basis`** — Get EU directives/regulations for Norwegian statute
+   - Query: "What EU law does personopplysningsloven implement?"
    - Returns: GDPR (regulation:2016/679) with metadata
 
-2. **`get_swedish_implementations`** — Find Swedish laws implementing EU act
-   - Query: "Which Swedish laws implement directive 1995/46/EG?"
-   - Returns: PUL 1998:204 (repealed), DSL 2018:218 (current)
+2. **`get_norwegian_implementations`** — Find Norwegian laws implementing EU act
+   - Query: "Which Norwegian laws implement directive 1995/46/EG?"
+   - Returns: popplyl-2000 (repealed), popplyl LOV-2018-06-15-38 (current)
 
 3. **`search_eu_implementations`** — Search EU documents by keyword
    - Query: "Find EU directives about data protection"
    - Returns: GDPR, Data Protection Directive with implementation counts
 
 4. **`get_provision_eu_basis`** — EU basis for specific provision
-   - Query: "What EU law is referenced in DSL 3 kap. 5 §?"
+   - Query: "What EU law is referenced in popplyl kapittel 3 § 5?"
    - Returns: GDPR Article 6.1.a (legal basis for processing)
 
 5. **`validate_eu_compliance`** — Check implementation status (future)
@@ -168,7 +168,7 @@ CREATE TABLE eu_documents (
 
 CREATE TABLE eu_references (
   id INTEGER PRIMARY KEY,
-  source_id TEXT NOT NULL,      -- Swedish provision ID
+  source_id TEXT NOT NULL,      -- Norwegian provision ID
   eu_document_id TEXT NOT NULL,
   reference_type TEXT,          -- implements|supplements|applies|cites_article
   eu_article TEXT,
@@ -198,17 +198,17 @@ CREATE TABLE eu_reference_keywords (
 ```bash
 # If using published package (recommended)
 # No action needed - npx fetches latest automatically
-npx @ansvar/swedish-law-mcp
+npx @ansvar/norwegian-law-mcp
 
 # Or update if installed globally
-npm update -g @ansvar/swedish-law-mcp
+npm update -g @ansvar/norwegian-law-mcp
 ```
 
 ### For Local Development Users
 
 ```bash
 # Navigate to your installation directory
-cd /path/to/swedish-law-mcp
+cd /path/to/norwegian-law-mcp
 
 # Pull latest changes
 git pull origin main
@@ -233,9 +233,9 @@ No configuration changes required. Existing configuration works with v1.1.0:
 ```json
 {
   "mcpServers": {
-    "swedish-law": {
+    "norwegian-law": {
       "command": "npx",
-      "args": ["-y", "@ansvar/swedish-law-mcp"]
+      "args": ["-y", "@ansvar/norwegian-law-mcp"]
     }
   }
 }
@@ -247,7 +247,7 @@ No configuration changes required. Existing configuration works with v1.1.0:
 
 ### Backward Compatibility
 
-✅ **100% Backward Compatible**
+**100% Backward Compatible**
 
 - All existing tools (8 core) function identically
 - No breaking API changes
@@ -257,7 +257,7 @@ No configuration changes required. Existing configuration works with v1.1.0:
 
 ### System Requirements
 
-- **Node.js:** ≥18 (unchanged)
+- **Node.js:** >=18 (unchanged)
 - **Disk Space:** 80 MB (increased from 50 MB)
 - **Memory:** 512 MB RAM recommended (unchanged)
 - **Platform:** macOS, Linux, Windows (unchanged)
@@ -268,12 +268,12 @@ No configuration changes required. Existing configuration works with v1.1.0:
 
 | Metric | v1.0.0 | v1.1.0 | Change |
 |--------|--------|--------|--------|
-| **Query Speed** | <100ms | <100ms | ✅ Maintained |
+| **Query Speed** | <100ms | <100ms | Maintained |
 | **Database Size** | 37 MB | 64.8 MB | +75% |
 | **Statutes** | 81 | 717 | +785% |
 | **Provisions** | 16,980 | 31,198 | +84% |
 | **Tools** | 8 | 13 | +63% |
-| **Ingestion Success** | 100% | 100% | ✅ Maintained |
+| **Ingestion Success** | 100% | 100% | Maintained |
 
 **No performance degradation** despite 785% data growth.
 
@@ -303,18 +303,18 @@ This release was delivered by 9 specialized agents working in parallel:
 
 ### What Changed
 
-- ✅ Statute coverage: From pilot (81) to comprehensive (717)
-- ✅ EU integration: From none to extensive (668 references)
-- ✅ Preparatory works: From limited (1,817) to comprehensive (3,625)
+- Statute coverage: From pilot (81) to comprehensive (717)
+- EU integration: From none to extensive (668 references)
+- Preparatory works: From limited (1,817) to comprehensive (3,625)
 
 ### What Didn't Change
 
-- ⚠️ Case law: Still limited coverage (deferred to future release)
-- ⚠️ EU full text: Only metadata (full text requires @ansvar/eu-regulations-mcp)
-- ⚠️ CJEU case law: Not included (future integration planned)
-- ⚠️ Historical statute versions: Not available (future enhancement)
+- Case law: Still limited coverage (deferred to future release)
+- EU full text: Only metadata (full text requires @ansvar/eu-regulations-mcp)
+- CJEU case law: Not included (future integration planned)
+- Historical statute versions: Not available (future enhancement)
 
-**Recommendation:** Use commercial databases (Karnov, Zeteo) for court case law research.
+**Recommendation:** Use commercial databases (Gyldendal Rettsdata, Juridika) for court case law research.
 
 ---
 
@@ -355,41 +355,41 @@ This rebuilds the database with:
 ### 1. GDPR Compliance Research
 
 ```
-Query: "Which EU directives does Dataskyddslagen implement?"
-Tool: get_eu_basis("2018:218")
+Query: "Which EU directives does personopplysningsloven implement?"
+Tool: get_eu_basis("LOV-2018-06-15-38")
 Result: GDPR (regulation:2016/679) as primary basis
 ```
 
 ### 2. Reverse EU Lookup
 
 ```
-Query: "Which Swedish laws implement the GDPR?"
-Tool: get_swedish_implementations("regulation:2016/679")
-Result: DSL 2018:218 (primary), OSL 2009:400 (supplementary)
+Query: "Which Norwegian laws implement the GDPR?"
+Tool: get_norwegian_implementations("regulation:2016/679")
+Result: popplyl LOV-2018-06-15-38 (primary), offentleglova LOV-2006-05-19-16 (supplementary)
 ```
 
 ### 3. Provision-Level EU Research
 
 ```
-Query: "What EU law is the basis for DSL 3 kap. 5 § about consent?"
-Tool: get_provision_eu_basis("2018:218", chapter: 3, section: 5)
+Query: "What EU law is the basis for popplyl kapittel 3 § 5 about consent?"
+Tool: get_provision_eu_basis("LOV-2018-06-15-38", chapter: 3, section: 5)
 Result: GDPR Article 6.1.a and 7
 ```
 
 ### 4. Comprehensive Statute Research
 
 ```
-Query: "Find all Swedish procurement law provisions"
-Tool: search_legislation("upphandling")
+Query: "Find all Norwegian procurement law provisions"
+Tool: search_legislation("anskaffelse")
 Result: 31,198 provisions searchable (vs 16,980 in v1.0.0)
 ```
 
 ### 5. Legislative History Analysis
 
 ```
-Query: "What was the government's intent behind DSL?"
-Tool: get_preparatory_works("2018:218")
-Result: Prop. 2017/18:105 with explanation (from 3,625 documents)
+Query: "What was the government's intent behind personopplysningsloven?"
+Tool: get_preparatory_works("LOV-2018-06-15-38")
+Result: Prop.56 L (2017-2018) with explanation (from 3,625 documents)
 ```
 
 ---
@@ -413,8 +413,8 @@ Result: Prop. 2017/18:105 with explanation (from 3,625 documents)
    - Access 3,625 preparatory works vs 1,817 in v1.0.0
 
 3. **Provide Feedback:**
-   - Report issues: [GitHub Issues](https://github.com/Ansvar-Systems/swedish-law-mcp/issues)
-   - Suggest features: [GitHub Discussions](https://github.com/Ansvar-Systems/swedish-law-mcp/discussions)
+   - Report issues: [GitHub Issues](https://github.com/Ansvar-Systems/norwegian-law-mcp/issues)
+   - Suggest features: [GitHub Discussions](https://github.com/Ansvar-Systems/norwegian-law-mcp/discussions)
 
 ---
 
@@ -422,9 +422,9 @@ Result: Prop. 2017/18:105 with explanation (from 3,625 documents)
 
 ### Verified-Data-Only Commitment
 
-✅ **Maintained in v1.1.0**
+**Maintained in v1.1.0**
 
-- All 717 statutes verified against Riksdagen API
+- All 717 statutes verified against Lovdata
 - All 3,625 preparatory works validated
 - All 668 EU references extracted from verified statute text
 - All 228 EU documents validated with CELEX numbers
@@ -443,24 +443,24 @@ npm run verify:eu-coverage
 
 ### Data Sources
 
-- **Riksdagen** — 717 statutes, 3,625 preparatory works
+- **Lovdata** — 717 statutes, 3,625 preparatory works
 - **EUR-Lex** — 47 EU documents (official metadata)
-- **Swedish Statute Text** — 668 EU references extracted
-- **Lagen.nu** — Limited case law (supplementary)
+- **Norwegian Statute Text** — 668 EU references extracted
+- **Lovdata.no** — Case law (supplementary)
 
 ### Attribution
 
-- Riksdagen: Swedish Government (public domain)
+- Lovdata: Norwegian Government (NLOD 2.0)
 - EUR-Lex: EU (public domain)
-- Lagen.nu: CC-BY Domstolsverket
-- Swedish Law MCP: Apache 2.0
+- Lovdata.no: Official Norwegian legal portal
+- Norwegian Law MCP: Apache 2.0
 
 ### Team
 
-Built by [Ansvar Systems AB](https://ansvar.ai) — Stockholm, Sweden
+Built by [Ansvar Systems AB](https://ansvar.ai) — Oslo, Norway
 
 Part of the [Ansvar MCP Ecosystem](https://github.com/Ansvar-Systems):
-- @ansvar/swedish-law-mcp (this server)
+- @ansvar/norwegian-law-mcp (this server)
 - @ansvar/eu-regulations-mcp (planned integration)
 - @ansvar/us-regulations-mcp
 - @ansvar/ot-security-mcp
@@ -469,23 +469,23 @@ Part of the [Ansvar MCP Ecosystem](https://github.com/Ansvar-Systems):
 
 ## Support
 
-- **Documentation:** [GitHub Repository](https://github.com/Ansvar-Systems/swedish-law-mcp)
-- **Issues:** [GitHub Issues](https://github.com/Ansvar-Systems/swedish-law-mcp/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/Ansvar-Systems/swedish-law-mcp/discussions)
+- **Documentation:** [GitHub Repository](https://github.com/Ansvar-Systems/norwegian-law-mcp)
+- **Issues:** [GitHub Issues](https://github.com/Ansvar-Systems/norwegian-law-mcp/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/Ansvar-Systems/norwegian-law-mcp/discussions)
 - **Email:** contact@ansvar.ai
 
 ---
 
 ## Conclusion
 
-Version 1.1.0 represents a **major milestone** for the Swedish Law MCP:
+Version 1.1.0 represents a **major milestone** for the Norwegian Law MCP:
 
 - **785% statute growth** — From pilot to production-grade coverage
-- **EU integration** — Groundbreaking Swedish-EU legal research capability
+- **EU integration** — Groundbreaking Norwegian-EU legal research capability
 - **Zero breaking changes** — Seamless upgrade for all users
 - **Production-grade** — Ready for professional legal research
 
-**Upgrade today** and experience the most comprehensive Swedish legal research MCP available.
+**Upgrade today** and experience the most comprehensive Norwegian legal research MCP available.
 
 ---
 
@@ -494,4 +494,4 @@ Version 1.1.0 represents a **major milestone** for the Swedish Law MCP:
 **License:** Apache 2.0
 **Maintained by:** Ansvar Systems AB
 
-Built with care in Stockholm 🇸🇪
+Built with care in Oslo

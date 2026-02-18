@@ -1,14 +1,18 @@
 #!/usr/bin/env tsx
 /**
- * Lagen.nu Full Archive Scraper
+ * @deprecated Legacy Swedish data source script — not used for Norwegian law
+ * @legacy This script is kept for reference and backward compatibility only.
  *
- * Fetches Norwegian case law from lagen.nu's complete court archives by
- * systematically scraping year-based dataset pages for all major courts.
+ * Lagen.nu Full Archive Scraper (Swedish Legal Data)
+ *
+ * NOTE: lagen.nu is a Swedish legal data source, not Norwegian. This scraper
+ * fetches Swedish case law from lagen.nu's complete court archives by
+ * systematically scraping year-based dataset pages for all major Swedish courts.
  *
  * This significantly expands coverage beyond the HTML feed, which only
  * shows ~150 recent cases.
  *
- * Court Archives Scraped:
+ * Court Archives Scraped (Swedish Courts):
  *   - HFD (Högsta förvaltningsdomstolen) - Supreme Administrative Court
  *   - HD/NJA (Högsta domstolen) - Supreme Court
  *   - AD (Arbetsdomstolen) - Labour Court

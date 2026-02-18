@@ -1,5 +1,5 @@
 /**
- * Parse Swedish statute text into structured provisions.
+ * Parse statute text into structured provisions.
  *
  * Detects and handles:
  *   - Chaptered statutes: "3 kap. 5 §" → provision_ref "3:5"
@@ -22,8 +22,8 @@ const CHAPTER_PATTERN = /^(\d+)\s*kap\.\s*(.*)/;
 /** Section pattern: "5 §" or "5 a §" */
 const SECTION_PATTERN = /^(\d+\s*[a-z]?)\s*§\s*(.*)/;
 
-/** Rubrik (heading) pattern — line entirely in bold or ending with colon */
-const RUBRIK_PATTERN = /^[A-ZÅÄÖ][a-zåäöé]+(?: [a-zåäöé]+)*$/;
+/** Heading pattern — line entirely in title case (e.g., "Lovens formål") */
+const HEADING_PATTERN = /^[A-ZÅÆØ][a-zåæøé]+(?: [a-zåæøé]+)*$/;
 
 /**
  * Parse raw statute text into structured provisions.
@@ -80,8 +80,8 @@ export function parseStatuteText(text: string): ParsedProvision[] {
       continue;
     }
 
-    // Check for rubrik (title) — only if we just started a new section with no content yet
-    if (currentSection && currentContent.length === 0 && RUBRIK_PATTERN.test(line)) {
+    // Check for heading (title) — only if we just started a new section with no content yet
+    if (currentSection && currentContent.length === 0 && HEADING_PATTERN.test(line)) {
       currentTitle = line;
       continue;
     }

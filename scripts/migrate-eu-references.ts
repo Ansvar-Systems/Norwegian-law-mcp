@@ -57,7 +57,7 @@ function applyMigration(db: Database.Database): void {
         community TEXT CHECK (community IN ('EU', 'EG', 'EEG', 'Euratom')),
         celex_number TEXT,
         title TEXT,
-        title_sv TEXT,
+        title_no TEXT,
         short_name TEXT,
         adoption_date TEXT,
         entry_into_force_date TEXT,

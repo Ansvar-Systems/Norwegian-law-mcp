@@ -16,7 +16,7 @@ export const RDF_BASE_URL = 'https://lagen.nu/dom';
 export const REQUEST_DELAY_MS = 500;
 export const MAX_RETRIES = 3;
 export const RETRY_BACKOFF_MS = 1000;
-export const USER_AGENT = 'Swedish-Law-MCP/0.1.0 (https://github.com/Ansvar-Systems/swedish-law-mcp)';
+export const USER_AGENT = 'Norwegian-Law-MCP/0.1.0 (https://github.com/Ansvar-Systems/norwegian-law-mcp)';
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Types
@@ -224,10 +224,10 @@ function extractRdfResources(rdf: string, tagName: string): string[] {
 }
 
 /**
- * Convert statute URI to SFS number
+ * Convert statute URI to law ID
  * Example: https://lagen.nu/2018:218 -> 2018:218
  */
-function extractSfsFromUri(uri: string): string | null {
+function extractLawIdFromUri(uri: string): string | null {
   const match = uri.match(/(\d{4}:\d+)/);
   return match ? match[1] : null;
 }
@@ -278,8 +278,8 @@ export function parseRdfMetadata(rdf: string, caseId: CaseId): CaseMetadata | nu
     const allUris = [...lagrumUris, ...referenceUris];
 
     const cited_statutes = allUris
-      .map(uri => extractSfsFromUri(uri))
-      .filter((sfs): sfs is string => sfs !== null);
+      .map(uri => extractLawIdFromUri(uri))
+      .filter((lawId): lawId is string => lawId !== null);
 
     return {
       document_id: identifier,
@@ -385,11 +385,11 @@ export function insertOrUpdateCase(
         VALUES (?, ?, 'references')
       `);
 
-      for (const sfs of metadata.cited_statutes) {
+      for (const lawId of metadata.cited_statutes) {
         // Only insert cross-reference if target statute exists
-        const exists = checkStatute.get(sfs);
+        const exists = checkStatute.get(lawId);
         if (exists) {
-          insertXref.run(metadata.document_id, sfs);
+          insertXref.run(metadata.document_id, lawId);
         }
       }
     }

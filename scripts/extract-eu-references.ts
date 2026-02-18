@@ -46,7 +46,7 @@ interface EUDocumentData {
 interface EUReferenceData {
   source_type: 'provision' | 'document';
   source_id: string;
-  document_id: string; // SFS number
+  document_id: string; // Law ID
   provision_ref?: string;
   eu_document_id: string;
   eu_article?: string;
@@ -92,8 +92,8 @@ function main() {
 
       statutesProcessed++;
 
-      const sfsNumber = data.id;
-      const sfsTitle = data.title;
+      const lawId = data.id;
+      const lawTitle = data.title;
       let hasEUReferences = false;
 
       // Extract from document-level content
@@ -101,7 +101,7 @@ function main() {
       const docLevelRefs = extractEUReferences(fullContent);
 
       // Track which EU documents are mentioned for primary implementation detection
-      const mentionedInTitle = extractEUReferences(sfsTitle);
+      const mentionedInTitle = extractEUReferences(lawTitle);
       const primaryEUDocs = new Set(mentionedInTitle.map(r => generateEUDocumentId(r)));
 
       // Process provisions
@@ -131,8 +131,8 @@ function main() {
             // Add reference
             euReferences.push({
               source_type: 'provision',
-              source_id: `${sfsNumber}:${provision.provision_ref}`,
-              document_id: sfsNumber,
+              source_id: `${lawId}:${provision.provision_ref}`,
+              document_id: lawId,
               provision_ref: provision.provision_ref,
               eu_document_id: euDocId,
               eu_article: ref.article,
@@ -148,7 +148,7 @@ function main() {
       // Add document-level references not caught in provisions
       const provisionEUDocs = new Set(
         euReferences
-          .filter(r => r.document_id === sfsNumber)
+          .filter(r => r.document_id === lawId)
           .map(r => r.eu_document_id)
       );
 
@@ -173,8 +173,8 @@ function main() {
           // Add document-level reference
           euReferences.push({
             source_type: 'document',
-            source_id: sfsNumber,
-            document_id: sfsNumber,
+            source_id: lawId,
+            document_id: lawId,
             eu_document_id: euDocId,
             eu_article: ref.article,
             reference_type: ref.referenceType || 'references',
@@ -187,7 +187,7 @@ function main() {
 
       if (hasEUReferences) {
         statutesWithEU++;
-        console.log(`✓ ${sfsNumber} - ${sfsTitle.substring(0, 60)}`);
+        console.log(`✓ ${lawId} - ${lawTitle.substring(0, 60)}`);
       }
     } catch (e) {
       console.error(`✗ Error processing ${file}:`, e);

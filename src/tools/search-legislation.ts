@@ -1,5 +1,5 @@
 /**
- * search_legislation — Full-text search across Swedish statute provisions.
+ * search_legislation — Full-text search across Norwegian statute provisions.
  */
 
 import type { Database } from '@ansvar/mcp-sqlite';

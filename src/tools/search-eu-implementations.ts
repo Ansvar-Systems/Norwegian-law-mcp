@@ -11,7 +11,6 @@ export interface SearchEUImplementationsInput {
   year_from?: number;
   year_to?: number;
   community?: 'EU' | 'EG' | 'EEG' | 'Euratom';
-  has_swedish_implementation?: boolean;
   has_norwegian_implementation?: boolean;
   limit?: number;
 }
@@ -28,7 +27,7 @@ export interface SearchEUImplementationsResult {
       community: string;
       celex_number?: string;
     };
-    swedish_statute_count: number;
+    statute_count: number;
     primary_implementations: string[];
     all_references: string[];
   }>;
@@ -40,7 +39,7 @@ const DEFAULT_LIMIT = 20;
 const MAX_LIMIT = 100;
 
 /**
- * Search for EU directives/regulations with Swedish implementation information.
+ * Search for EU directives/regulations with implementation information.
  *
  * Supports filtering by type, year range, community, and keyword search.
  */
@@ -61,7 +60,7 @@ export async function searchEUImplementations(
       ed.short_name,
       ed.community,
       ed.celex_number,
-      COUNT(DISTINCT er.document_id) AS swedish_statute_count,
+      COUNT(DISTINCT er.document_id) AS statute_count,
       GROUP_CONCAT(DISTINCT CASE WHEN er.is_primary_implementation = 1 THEN er.document_id END) AS primary_implementations,
       GROUP_CONCAT(DISTINCT er.document_id) AS all_references
     FROM eu_documents ed
@@ -76,7 +75,7 @@ export async function searchEUImplementations(
     const searchTerm = `%${input.query.trim()}%`;
     sql += ` AND (
       ed.title LIKE ? OR
-      ed.title_sv LIKE ? OR
+      ed.title_no LIKE ? OR
       ed.short_name LIKE ? OR
       ed.celex_number LIKE ? OR
       ed.description LIKE ?
@@ -108,14 +107,13 @@ export async function searchEUImplementations(
 
   sql += ` GROUP BY ed.id`;
 
-  // Filter by implementation existence (legacy Swedish key supported for compatibility)
-  const hasImplementation =
-    input.has_norwegian_implementation ?? input.has_swedish_implementation;
+  // Filter by implementation existence
+  const hasImplementation = input.has_norwegian_implementation;
   if (hasImplementation !== undefined) {
     if (hasImplementation) {
-      sql += ` HAVING swedish_statute_count > 0`;
+      sql += ` HAVING statute_count > 0`;
     } else {
-      sql += ` HAVING swedish_statute_count = 0`;
+      sql += ` HAVING statute_count = 0`;
     }
   }
 
@@ -134,7 +132,7 @@ export async function searchEUImplementations(
     short_name: string | null;
     community: string;
     celex_number: string | null;
-    swedish_statute_count: number;
+    statute_count: number;
     primary_implementations: string | null;
     all_references: string | null;
   }
@@ -153,7 +151,7 @@ export async function searchEUImplementations(
       community: row.community,
       celex_number: row.celex_number || undefined,
     },
-    swedish_statute_count: row.swedish_statute_count,
+    statute_count: row.statute_count,
     primary_implementations: row.primary_implementations
       ? row.primary_implementations.split(',').filter(s => s)
       : [],

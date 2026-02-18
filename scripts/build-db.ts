@@ -112,7 +112,7 @@ interface EUDocumentSeed {
   community?: string;
   celex_number?: string;
   title?: string;
-  title_sv?: string;
+  title_no?: string;
   short_name?: string;
   adoption_date?: string;
   entry_into_force_date?: string;
@@ -297,7 +297,7 @@ CREATE TRIGGER case_law_au AFTER UPDATE ON case_law BEGIN
   VALUES (new.id, new.summary, new.keywords);
 END;
 
--- Preparatory works (forarbeten) linking statutes to bills/SOUs
+-- Preparatory works (forarbeider) linking statutes to bills/SOUs
 CREATE TABLE preparatory_works (
   id INTEGER PRIMARY KEY,
   statute_id TEXT NOT NULL REFERENCES legal_documents(id),
@@ -397,7 +397,7 @@ CREATE TABLE eu_documents (
   community TEXT CHECK (community IN ('EU', 'EG', 'EEG', 'Euratom')),
   celex_number TEXT,
   title TEXT,
-  title_sv TEXT,
+  title_no TEXT,
   short_name TEXT,
   adoption_date TEXT,
   entry_into_force_date TEXT,
@@ -462,9 +462,9 @@ SELECT
   ed.number,
   ed.title,
   ed.short_name,
-  ld.id AS sfs_number,
-  ld.title AS swedish_title,
-  ld.short_name AS swedish_short_name,
+  ld.id AS law_id,
+  ld.title AS law_title,
+  ld.short_name AS law_short_name,
   er.reference_type,
   er.is_primary_implementation,
   er.implementation_status
@@ -482,7 +482,7 @@ SELECT
   ed.number,
   ed.title,
   ed.short_name,
-  COUNT(DISTINCT er.document_id) AS swedish_statute_count,
+  COUNT(DISTINCT er.document_id) AS norwegian_statute_count,
   COUNT(er.id) AS total_references
 FROM eu_documents ed
 JOIN eu_references er ON ed.id = er.eu_document_id
@@ -493,7 +493,7 @@ ORDER BY total_references DESC;
 -- View: Norwegian statutes with most EU references
 CREATE VIEW v_statutes_by_eu_references AS
 SELECT
-  ld.id AS sfs_number,
+  ld.id AS law_id,
   ld.title,
   ld.short_name,
   COUNT(DISTINCT er.eu_document_id) AS eu_document_count,
@@ -531,7 +531,7 @@ CREATE TABLE legal_source_policies (
 -- View: GDPR implementations in Norwegian law
 CREATE VIEW v_gdpr_implementations AS
 SELECT
-  ld.id AS sfs_number,
+  ld.id AS law_id,
   ld.title,
   lp.provision_ref,
   lp.content,
@@ -553,7 +553,7 @@ function extractRepealDateFromDescription(description: string | undefined): stri
   if (!description) {
     return undefined;
   }
-  const match = description.match(/Upphävd\s+(\d{4}-\d{2}-\d{2})/i);
+  const match = description.match(/(?:Upphävd|Opphevet)\s+(\d{4}-\d{2}-\d{2})/i);
   return match?.[1];
 }
 
@@ -710,7 +710,7 @@ function buildDatabase(): void {
   const insertEUDocument = db.prepare(`
     INSERT INTO eu_documents (
       id, type, year, number, community, celex_number,
-      title, title_sv, short_name, adoption_date, entry_into_force_date,
+      title, title_no, short_name, adoption_date, entry_into_force_date,
       in_force, amended_by, repeals, url_eur_lex, description
     )
     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
@@ -949,7 +949,7 @@ function buildDatabase(): void {
           community: 'EU',
           celex_number: '32016R0679',
           title: 'Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data',
-          title_sv: 'Europaparlamentets och rådets förordning (EU) 2016/679 om skydd för fysiska personer med avseende på behandling av personuppgifter',
+          title_no: 'Europaparlaments- og rådsforordning (EU) 2016/679 om vern av fysiske personer i forbindelse med behandling av personopplysninger',
           short_name: 'GDPR',
           adoption_date: '2016-04-27',
           entry_into_force_date: '2018-05-25',
@@ -965,7 +965,7 @@ function buildDatabase(): void {
           community: 'EG',
           celex_number: '31995L0046',
           title: 'Directive 95/46/EC on the protection of individuals with regard to the processing of personal data',
-          title_sv: 'Direktiv 95/46/EG om skydd för enskilda vid behandling av personuppgifter',
+          title_no: 'Direktiv 95/46/EF om beskyttelse av fysiske personer i forbindelse med behandling av personopplysninger',
           short_name: 'Data Protection Directive',
           adoption_date: '1995-10-24',
           entry_into_force_date: '1995-10-24',
@@ -982,7 +982,7 @@ function buildDatabase(): void {
           community: 'EU',
           celex_number: '32014R0910',
           title: 'Regulation (EU) No 910/2014 on electronic identification and trust services for electronic transactions',
-          title_sv: 'Europaparlamentets och rådets förordning (EU) nr 910/2014 om elektronisk identifiering och betrodda tjänster',
+          title_no: 'Europaparlaments- og rådsforordning (EU) nr. 910/2014 om elektronisk identifikasjon og tillitstjenester',
           short_name: 'eIDAS',
           adoption_date: '2014-07-23',
           entry_into_force_date: '2016-07-01',
@@ -998,7 +998,7 @@ function buildDatabase(): void {
           community: 'EU',
           celex_number: '32016L0680',
           title: 'Directive (EU) 2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities',
-          title_sv: 'Direktiv (EU) 2016/680 om skydd för fysiska personer med avseende på behöriga myndigheters behandling av personuppgifter',
+          title_no: 'Direktiv (EU) 2016/680 om vern av fysiske personer ved kompetente myndigheters behandling av personopplysninger',
           short_name: 'Police Directive',
           adoption_date: '2016-04-27',
           entry_into_force_date: '2018-05-06',
@@ -1030,7 +1030,7 @@ function buildDatabase(): void {
             community: doc.community,
             celex_number: doc.celex_number,
             title: doc.title,
-            title_sv: doc.title_sv,
+            title_no: doc.title_no ?? doc.title_sv,
             adoption_date: doc.date_document,
             in_force: doc.in_force,
             url_eur_lex: doc.url,
@@ -1041,7 +1041,7 @@ function buildDatabase(): void {
 
       // Fix EU document format issues from seed data:
       // The seed data has year/number swapped for regulations due to parser extracting from
-      // Norwegian text format "förordning (EU) nr 910/2014" as if it were year/number.
+      // Norwegian text format "forordning (EU) nr. 910/2014" as if it were year/number.
       // EU regulations use number/year format, so we need to fix the IDs and swap the values.
       const fixedSeedDocs = euData.eu_documents
         .filter(d => !commonDocIds.has(d.id) && !eurlexDocIds.has(d.id))
@@ -1099,7 +1099,7 @@ function buildDatabase(): void {
           doc.community ?? null,
           doc.celex_number ?? null,
           doc.title ?? null,
-          doc.title_sv ?? null,
+          doc.title_no ?? null,
           doc.short_name ?? null,
           doc.adoption_date ?? null,
           doc.entry_into_force_date ?? null,

@@ -1,11 +1,13 @@
 #!/usr/bin/env tsx
 /**
- * Debug script to examine Riksdagen API response format
+ * Debug script to examine legacy Riksdagen API response format
+ * NOTE: These URLs point to the Swedish Riksdagen API (legacy data source)
  */
 
+// Legacy Swedish Riksdagen API URLs (kept for backward compatibility)
 const RIKSDAGEN_DOC_URL = 'https://data.riksdagen.se/dokument';
 const RIKSDAGEN_LIST_URL = 'https://data.riksdagen.se/dokumentlista';
-const USER_AGENT = 'Swedish-Law-MCP/0.1.0';
+const USER_AGENT = 'Norwegian-Law-MCP/0.1.0';
 
 async function fetchJson(url: string): Promise<unknown> {
   const response = await fetch(url, {
@@ -23,7 +25,7 @@ async function fetchJson(url: string): Promise<unknown> {
 }
 
 async function debugRiksdagen(sfsNumber: string): Promise<void> {
-  console.log('=== Riksdagen API Debug ===\n');
+  console.log('=== Riksdagen API Debug (Legacy) ===\n');
 
   // Fetch document list
   const listUrl = `${RIKSDAGEN_LIST_URL}/?sok=${encodeURIComponent(sfsNumber)}&doktyp=sfs&format=json&utformat=json`;

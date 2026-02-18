@@ -4,15 +4,15 @@ import { parseStatuteText, isChapteredStatute } from '../../src/parsers/provisio
 describe('parseStatuteText', () => {
   it('should parse a chaptered statute', () => {
     const text = `
-1 kap. Inledande bestämmelser
+1 kap. Innledende bestemmelser
 
-1 § Denna lag kompletterar EU:s dataskyddsförordning.
+1 § Denne loven utfyller EUs personvernforordning.
 
-2 § Lagen gäller vid behandling av personuppgifter.
+2 § Loven gjelder ved behandling av personopplysninger.
 
-2 kap. Rättslig grund
+2 kap. Rettslig grunnlag
 
-1 § Personuppgifter får behandlas om det finns rättslig grund.
+1 § Personopplysninger kan behandles dersom det finnes rettslig grunnlag.
     `;
 
     const provisions = parseStatuteText(text);
@@ -23,7 +23,7 @@ describe('parseStatuteText', () => {
       chapter: '1',
       section: '1',
       title: undefined,
-      content: 'Denna lag kompletterar EU:s dataskyddsförordning.',
+      content: 'Denne loven utfyller EUs personvernforordning.',
     });
     expect(provisions[1].provision_ref).toBe('1:2');
     expect(provisions[1].chapter).toBe('1');
@@ -33,11 +33,11 @@ describe('parseStatuteText', () => {
 
   it('should parse a flat statute (no chapters)', () => {
     const text = `
-1 § Syftet med denna lag är att skydda personuppgifter.
+1 § Formålet med denne loven er å beskytte personopplysninger.
 
-2 § Lagen gäller alla.
+2 § Loven gjelder for alle.
 
-3 § Definitioner anges här.
+3 § Definisjoner angis her.
     `;
 
     const provisions = parseStatuteText(text);
@@ -48,18 +48,18 @@ describe('parseStatuteText', () => {
       chapter: undefined,
       section: '1',
       title: undefined,
-      content: 'Syftet med denna lag är att skydda personuppgifter.',
+      content: 'Formålet med denne loven er å beskytte personopplysninger.',
     });
     expect(provisions[2].provision_ref).toBe('3');
   });
 
   it('should handle special section numbering (5 a §)', () => {
     const text = `
-5 § Grundregel.
+5 § Grunnregel.
 
-5 a § Undantagsregel för viss behandling.
+5 a § Unntaksregel for viss behandling.
 
-6 § Nästa paragraf.
+6 § Neste paragraf.
     `;
 
     const provisions = parseStatuteText(text);
@@ -71,32 +71,32 @@ describe('parseStatuteText', () => {
 
   it('should detect rubrik (title) on provisions', () => {
     const text = `
-1 kap. Inledande bestämmelser
+1 kap. Innledende bestemmelser
 
 1 §
-Lagens syfte
-Denna lag kompletterar EU:s dataskyddsförordning.
+Lovens formål
+Denne loven utfyller EUs personvernforordning.
     `;
 
     const provisions = parseStatuteText(text);
 
     expect(provisions).toHaveLength(1);
-    expect(provisions[0].title).toBe('Lagens syfte');
-    expect(provisions[0].content).toBe('Denna lag kompletterar EU:s dataskyddsförordning.');
+    expect(provisions[0].title).toBe('Lovens formål');
+    expect(provisions[0].content).toBe('Denne loven utfyller EUs personvernforordning.');
   });
 
   it('should handle multi-paragraph sections', () => {
     const text = `
-1 § Första stycket av paragrafen.
-Andra stycket av paragrafen.
-Tredje stycket av paragrafen.
+1 § Første ledd av paragrafen.
+Andre ledd av paragrafen.
+Tredje ledd av paragrafen.
     `;
 
     const provisions = parseStatuteText(text);
 
     expect(provisions).toHaveLength(1);
-    expect(provisions[0].content).toContain('Första stycket');
-    expect(provisions[0].content).toContain('Tredje stycket');
+    expect(provisions[0].content).toContain('Første ledd');
+    expect(provisions[0].content).toContain('Tredje ledd');
   });
 
   it('should return empty array for empty input', () => {
@@ -106,10 +106,10 @@ Tredje stycket av paragrafen.
 
 describe('isChapteredStatute', () => {
   it('should detect chaptered text', () => {
-    expect(isChapteredStatute('1 kap. Inledande bestämmelser')).toBe(true);
+    expect(isChapteredStatute('1 kap. Innledende bestemmelser')).toBe(true);
   });
 
   it('should detect non-chaptered text', () => {
-    expect(isChapteredStatute('1 § Denna lag gäller...')).toBe(false);
+    expect(isChapteredStatute('1 § Denne loven gjelder...')).toBe(false);
   });
 });
