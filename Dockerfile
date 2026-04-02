@@ -67,6 +67,9 @@ COPY --from=builder /app/dist ./dist
 # Copy pre-built database
 # This file MUST exist — run `npm run build:db` (or full pipeline) first
 COPY data/database.db ./data/database.db
+RUN apk add --no-cache --virtual .db-tools sqlite \
+ && sqlite3 ./data/database.db "PRAGMA wal_checkpoint(TRUNCATE); PRAGMA journal_mode=DELETE; VACUUM;" \
+ && apk del .db-tools
 RUN node --input-type=module - <<'NODE'
 import Database from '@ansvar/mcp-sqlite';
 import { searchLegislation } from './dist/tools/search-legislation.js';
