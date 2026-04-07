@@ -39,12 +39,12 @@ This MCP server makes Norwegian law **searchable, cross-referenceable, and AI-re
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://mcp.ansvar.eu/law-norwegian-law-mcp/mcp`
+**Endpoint:** `https://mcp.ansvar.eu/law-no/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add norwegian-law --transport http https://mcp.ansvar.eu/law-norwegian-law-mcp/mcp` |
+| **Claude Code** | `claude mcp add norwegian-law --transport http https://mcp.ansvar.eu/law-no/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -55,7 +55,7 @@ This MCP server makes Norwegian law **searchable, cross-referenceable, and AI-re
   "mcpServers": {
     "norwegian-law": {
       "type": "url",
-      "url": "https://mcp.ansvar.eu/law-norwegian-law-mcp/mcp"
+      "url": "https://mcp.ansvar.eu/law-no/mcp"
     }
   }
 }
@@ -68,7 +68,7 @@ This MCP server makes Norwegian law **searchable, cross-referenceable, and AI-re
   "github.copilot.chat.mcp.servers": {
     "norwegian-law": {
       "type": "http",
-      "url": "https://mcp.ansvar.eu/law-norwegian-law-mcp/mcp"
+      "url": "https://mcp.ansvar.eu/law-no/mcp"
     }
   }
 }
