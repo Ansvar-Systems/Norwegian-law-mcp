@@ -1,0 +1,43 @@
+/**
+ * Types for legal provisions (paragrafer) within Norwegian statutes.
+ */
+/** A specific provision within a statute */
+export interface LegalProvision {
+    /** Auto-increment ID */
+    id: number;
+    /** LOV id of the parent statute */
+    document_id: string;
+    /** Provision reference, e.g., "3:5" for Kap 3 Para 5, or "5" for flat statutes */
+    provision_ref: string;
+    /** Chapter number (null for flat statutes) */
+    chapter?: string;
+    /** Section/paragraph number */
+    section: string;
+    /** Heading for the provision */
+    title?: string;
+    /** Full text content in Norwegian */
+    content: string;
+    /** JSON metadata: paragraphs, points, etc. */
+    metadata?: Record<string, unknown>;
+}
+/** A reference to a specific provision */
+export interface ProvisionRef {
+    /** LOV id */
+    document_id: string;
+    /** Chapter (may be undefined for flat statutes) */
+    chapter?: string;
+    /** Section number */
+    section: string;
+}
+/** A cross-reference between provisions or documents */
+export interface CrossReference {
+    /** Source provision or document */
+    source_document_id: string;
+    source_provision_ref?: string;
+    /** Target provision or document */
+    target_document_id: string;
+    target_provision_ref?: string;
+    /** Type of reference */
+    ref_type: 'references' | 'amended_by' | 'implements' | 'see_also';
+}
+//# sourceMappingURL=provisions.d.ts.map

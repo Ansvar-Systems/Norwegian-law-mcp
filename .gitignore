@@ -9,8 +9,8 @@
 # Dependencies
 node_modules/
 
-# Build output
-dist/
+# Build output — tracked in this fork so bunx works without devDeps
+# dist/
 
 # Test coverage
 coverage/

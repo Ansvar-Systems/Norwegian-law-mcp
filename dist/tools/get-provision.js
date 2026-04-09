@@ -1,0 +1,171 @@
+/**
+ * get_provision — Retrieve a specific provision from a Norwegian statute.
+ */
+import { normalizeAsOfDate } from '../utils/as-of-date.js';
+import { generateResponseMetadata } from '../utils/metadata.js';
+import { buildProvisionCitation } from '../utils/citation.js';
+export async function getProvision(db, input) {
+    if (!input.document_id) {
+        throw new Error('document_id is required');
+    }
+    // If provision_ref is directly provided, use it
+    let provisionRef = input.provision_ref;
+    if (!provisionRef) {
+        if (input.chapter && input.section) {
+            provisionRef = `${input.chapter}:${input.section}`;
+        }
+        else if (input.section) {
+            provisionRef = input.section;
+        }
+    }
+    const asOfDate = normalizeAsOfDate(input.as_of_date);
+    const limit = Math.min(Math.max(input.limit ?? 100, 1), 500);
+    // If no specific provision, return all provisions for the document
+    if (!provisionRef) {
+        return {
+            results: getAllProvisions(db, input.document_id, asOfDate, limit),
+            _metadata: generateResponseMetadata(db)
+        };
+    }
+    let row;
+    if (asOfDate) {
+        const sql = `
+      SELECT
+        lpv.document_id,
+        ld.title as document_title,
+        ld.status as document_status,
+        lpv.provision_ref,
+        lpv.chapter,
+        lpv.section,
+        lpv.title,
+        lpv.content,
+        lpv.metadata,
+        lpv.valid_from,
+        lpv.valid_to
+      FROM legal_provision_versions lpv
+      JOIN legal_documents ld ON ld.id = lpv.document_id
+      WHERE lpv.document_id = ?
+        AND lpv.provision_ref = ?
+        AND (lpv.valid_from IS NULL OR lpv.valid_from <= ?)
+        AND (lpv.valid_to IS NULL OR lpv.valid_to > ?)
+      ORDER BY COALESCE(lpv.valid_from, '0000-01-01') DESC, lpv.id DESC
+      LIMIT 1
+    `;
+        row = db.prepare(sql).get(input.document_id, provisionRef, asOfDate, asOfDate);
+    }
+    else {
+        const sql = `
+      SELECT
+        lp.document_id,
+        ld.title as document_title,
+        ld.status as document_status,
+        lp.provision_ref,
+        lp.chapter,
+        lp.section,
+        lp.title,
+        lp.content,
+        lp.metadata,
+        NULL as valid_from,
+        NULL as valid_to
+      FROM legal_provisions lp
+      JOIN legal_documents ld ON ld.id = lp.document_id
+      WHERE lp.document_id = ? AND lp.provision_ref = ?
+    `;
+        row = db.prepare(sql).get(input.document_id, provisionRef);
+    }
+    if (!row) {
+        return {
+            results: null,
+            _metadata: generateResponseMetadata(db)
+        };
+    }
+    const crossRefs = db.prepare(`
+    SELECT target_document_id, target_provision_ref, ref_type
+    FROM cross_references
+    WHERE source_document_id = ? AND (source_provision_ref = ? OR source_provision_ref IS NULL)
+  `).all(input.document_id, provisionRef);
+    return {
+        results: {
+            ...row,
+            metadata: row.metadata ? JSON.parse(row.metadata) : null,
+            cross_references: crossRefs,
+        },
+        _citation: buildProvisionCitation(row.document_id, row.document_title || '', row.provision_ref || '', input.document_id, input.section || input.provision_ref || '', null, null),
+        _metadata: generateResponseMetadata(db)
+    };
+}
+function getAllProvisions(db, documentId, asOfDate, limit = 100) {
+    let rows;
+    if (asOfDate) {
+        const sql = `
+      WITH ranked_versions AS (
+        SELECT
+          lpv.document_id,
+          ld.title as document_title,
+          ld.status as document_status,
+          lpv.provision_ref,
+          lpv.chapter,
+          lpv.section,
+          lpv.title,
+          lpv.content,
+          lpv.metadata,
+          lpv.valid_from,
+          lpv.valid_to,
+          row_number() OVER (
+            PARTITION BY lpv.document_id, lpv.provision_ref
+            ORDER BY COALESCE(lpv.valid_from, '0000-01-01') DESC, lpv.id DESC
+          ) as version_rank
+        FROM legal_provision_versions lpv
+        JOIN legal_documents ld ON ld.id = lpv.document_id
+        WHERE lpv.document_id = ?
+          AND (lpv.valid_from IS NULL OR lpv.valid_from <= ?)
+          AND (lpv.valid_to IS NULL OR lpv.valid_to > ?)
+      )
+      SELECT
+        document_id,
+        document_title,
+        document_status,
+        provision_ref,
+        chapter,
+        section,
+        title,
+        content,
+        metadata,
+        valid_from,
+        valid_to
+      FROM ranked_versions
+      WHERE version_rank = 1
+      ORDER BY provision_ref
+      LIMIT ?
+    `;
+        rows = db.prepare(sql).all(documentId, asOfDate, asOfDate, limit);
+    }
+    else {
+        const sql = `
+      SELECT
+        lp.document_id,
+        ld.title as document_title,
+        ld.status as document_status,
+        lp.provision_ref,
+        lp.chapter,
+        lp.section,
+        lp.title,
+        lp.content,
+        lp.metadata,
+        NULL as valid_from,
+        NULL as valid_to
+      FROM legal_provisions lp
+      JOIN legal_documents ld ON ld.id = lp.document_id
+      WHERE lp.document_id = ?
+      ORDER BY lp.id
+      LIMIT ?
+    `;
+        rows = db.prepare(sql).all(documentId, limit);
+    }
+    return rows.map(row => ({
+        ...row,
+        metadata: row.metadata ? JSON.parse(row.metadata) : null,
+        cross_references: [],
+    }));
+}
+//# sourceMappingURL=get-provision.js.map

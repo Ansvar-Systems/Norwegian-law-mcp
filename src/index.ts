@@ -18,7 +18,10 @@ import Database from '@ansvar/mcp-sqlite';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
 import { createHash } from 'crypto';
-import { readFileSync, statSync } from 'fs';
+import { readFileSync, statSync, existsSync, mkdirSync, createWriteStream, renameSync, unlinkSync } from 'fs';
+import { createGunzip } from 'zlib';
+import { execFileSync } from 'child_process';
+import https from 'https';
 import { registerTools } from './tools/registry.js';
 import type { AboutContext } from './tools/registry.js';
 import {
@@ -76,6 +79,57 @@ function getDefaultDbPath(): string {
   return path.resolve(__dirname, DEFAULT_DB_PATH);
 }
 
+function httpsFollow(url: string, redirects = 0): Promise<import('http').IncomingMessage> {
+  return new Promise((resolve, reject) => {
+    if (redirects > 5) return reject(new Error('Too many redirects'));
+    https.get(url, (res) => {
+      if (res.statusCode && res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        res.resume();
+        return resolve(httpsFollow(res.headers.location, redirects + 1));
+      }
+      if (res.statusCode !== 200) {
+        res.resume();
+        return reject(new Error(`HTTP ${res.statusCode}`));
+      }
+      resolve(res);
+    }).on('error', reject);
+  });
+}
+
+async function ensureDatabase(dbPath: string): Promise<void> {
+  if (existsSync(dbPath) && statSync(dbPath).size > 0) return;
+
+  const pkg = JSON.parse(readFileSync(PKG_PATH, 'utf-8'));
+  const repoUrl = typeof pkg.repository === 'string' ? pkg.repository : (pkg.repository?.url || '');
+  const repo = repoUrl.replace(/^.*github\.com\//, '').replace(/\.git$/, '');
+  if (!repo) throw new Error('Cannot determine repo from package.json');
+
+  const url = `https://github.com/${repo}/releases/download/v${pkgVersion}/database.db.gz`;
+  console.error(`[${SERVER_NAME}] Database missing — downloading from ${url}`);
+
+  mkdirSync(path.dirname(dbPath), { recursive: true });
+  const res = await httpsFollow(url);
+  await new Promise<void>((resolve, reject) => {
+    const tmp = dbPath + '.tmp';
+    const out = createWriteStream(tmp);
+    res.pipe(createGunzip()).pipe(out);
+    out.on('finish', () => { out.close(); renameSync(tmp, dbPath); resolve(); });
+    out.on('error', (e) => { try { unlinkSync(tmp); } catch {} reject(e); });
+    res.on('error', (e) => { try { unlinkSync(tmp); } catch {} reject(e); });
+  });
+  const mb = (statSync(dbPath).size / 1024 / 1024).toFixed(1);
+  console.error(`[${SERVER_NAME}] Database downloaded (${mb} MB)`);
+
+  // Convert WAL → delete journal mode so readonly open works with node-sqlite3-wasm.
+  // The WASM SQLite can't handle WAL at all, so use the system sqlite3 CLI.
+  try {
+    execFileSync('sqlite3', [dbPath, 'PRAGMA journal_mode = delete;']);
+    console.error(`[${SERVER_NAME}] Converted journal mode to delete`);
+  } catch {
+    console.error(`[${SERVER_NAME}] Warning: could not convert WAL mode (sqlite3 CLI not found)`);
+  }
+}
+
 function closeDb(): void {
   if (dbInstance) {
     dbInstance.close();
@@ -99,15 +153,10 @@ function computeAboutContext(): AboutContext {
   return { version: pkgVersion, fingerprint, dbBuilt };
 }
 
-const aboutContext = computeAboutContext();
-
 const server = new Server(
   { name: SERVER_NAME, version: pkgVersion },
   { capabilities: { tools: {}, resources: {} } }
 );
-
-// Register tools from shared registry
-registerTools(server, getDb(), aboutContext);
 
 server.setRequestHandler(ListResourcesRequestSchema, async () => {
   console.error(`[${SERVER_NAME}] ListResources request received`);
@@ -246,6 +295,12 @@ server.setRequestHandler(ReadResourceRequestSchema, async (request) => {
 
 async function main(): Promise<void> {
   console.error(`[${SERVER_NAME}] Starting server v${pkgVersion}...`);
+
+  const dbPath = process.env[DB_ENV_VAR] || getDefaultDbPath();
+  await ensureDatabase(dbPath);
+
+  const aboutContext = computeAboutContext();
+  registerTools(server, getDb(), aboutContext);
 
   const transport = new StdioServerTransport();
 
