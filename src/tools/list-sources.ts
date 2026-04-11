@@ -61,13 +61,13 @@ export async function listSources(
     ],
     data_freshness: {
       automated_checks: true,
-      check_frequency: 'daily',
+      check_frequency: 'weekly',
       last_verified: '2026-02-15',
     },
   };
 
   return {
     results: result,
-    _metadata: generateResponseMetadata(db),
+    _meta: generateResponseMetadata(db),
   };
 }
