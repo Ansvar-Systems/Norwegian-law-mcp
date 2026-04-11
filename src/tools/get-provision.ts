@@ -76,7 +76,7 @@ export async function getProvision(
   if (!provisionRef) {
     return {
       results: getAllProvisions(db, input.document_id, asOfDate, limit),
-      _metadata: generateResponseMetadata(db)
+      _meta: generateResponseMetadata(db)
     };
   }
 
@@ -129,7 +129,7 @@ export async function getProvision(
   if (!row) {
     return {
       results: null,
-      _metadata: generateResponseMetadata(db)
+      _meta: generateResponseMetadata(db)
     };
   }
 
@@ -145,7 +145,7 @@ export async function getProvision(
       metadata: row.metadata ? JSON.parse(row.metadata) : null,
       cross_references: crossRefs,
     },
-    _metadata: generateResponseMetadata(db)
+    _meta: generateResponseMetadata(db)
   };
 }
 

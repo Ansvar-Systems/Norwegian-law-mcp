@@ -39,7 +39,7 @@ export async function searchLegislation(
   if (!input.query || input.query.trim().length === 0) {
     return {
       results: [],
-      _metadata: generateResponseMetadata(db)
+      _meta: generateResponseMetadata(db)
     };
   }
 
@@ -57,7 +57,7 @@ export async function searchLegislation(
     if (!resolved) {
       return {
         results: [],
-        _metadata: {
+        _meta: {
           ...generateResponseMetadata(db),
           note: `No document found matching "${input.document_id}"`,
         },
@@ -171,7 +171,7 @@ export async function searchLegislation(
 
   return {
     results: deduplicateResults(rawResults, limit),
-    _metadata: {
+    _meta: {
       ...generateResponseMetadata(db),
       ...(usedFallback ? { query_strategy: 'broadened' } : {}),
     },

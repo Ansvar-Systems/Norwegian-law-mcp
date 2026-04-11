@@ -10,6 +10,12 @@ export interface ResponseMetadata {
   /** Data freshness information */
   data_freshness: DataFreshness;
 
+  /** ISO 8601 date of the most recent data update (YYYY-MM-DD) */
+  data_age: string;
+
+  /** Copyright notice for underlying data */
+  copyright: string;
+
   /** Professional use disclaimer */
   disclaimer: string;
 
@@ -63,8 +69,15 @@ export function generateResponseMetadata(db?: Database): ResponseMetadata {
   const dataFreshness = db ? getDataFreshness(db) : getEmptyDataFreshness();
   const sourceAuthority = getSourceAuthority();
 
+  // Derive data_age from statute_last_updated (ISO date) or fall back to today
+  const dataAge = dataFreshness.statute_last_updated
+    ? dataFreshness.statute_last_updated.split('T')[0]
+    : new Date().toISOString().split('T')[0];
+
   return {
     data_freshness: dataFreshness,
+    data_age: dataAge,
+    copyright: '© Stiftelsen Lovdata. Reused under NLOD.',
     disclaimer: 'NOT LEGAL ADVICE. This tool is for research purposes only and does not constitute professional legal advice. Always verify citations with official sources before relying on them in legal matters. Users are solely responsible for verifying accuracy and currency of all information.',
     source_authority: sourceAuthority,
     coverage_gaps: [
@@ -180,5 +193,5 @@ export interface ToolResponse<T> {
   results: T;
 
   /** Professional-use metadata and warnings */
-  _metadata: ResponseMetadata;
+  _meta: ResponseMetadata;
 }

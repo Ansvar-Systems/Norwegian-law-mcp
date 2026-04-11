@@ -23,9 +23,10 @@ export interface CaseLawResult {
   summary_snippet: string;
   keywords: string | null;
   relevance: number;
-  _metadata: {
+  _citation: {
     source: string;
     attribution: string;
+    lookup: null;
   };
 }
 
@@ -39,7 +40,7 @@ export async function searchCaseLaw(
   if (!input.query || input.query.trim().length === 0) {
     return {
       results: [],
-      _metadata: generateResponseMetadata(db)
+      _meta: generateResponseMetadata(db)
     };
   }
 
@@ -84,14 +85,15 @@ export async function searchCaseLaw(
 
   const runQuery = (ftsQuery: string): CaseLawResult[] => {
     const bound = [ftsQuery, ...params];
-    const results = db.prepare(sql).all(...bound) as Omit<CaseLawResult, '_metadata'>[];
+    const results = db.prepare(sql).all(...bound) as Omit<CaseLawResult, '_citation'>[];
 
-    // Add attribution metadata to each result
+    // Add per-result citation attribution
     return results.map(result => ({
       ...result,
-      _metadata: {
+      _citation: {
         source: 'lovdata.no',
         attribution: 'Case-law handling is licensing-policy gated; verify rights in LEGAL_DATA_LICENSE.md',
+        lookup: null,
       },
     }));
   };
@@ -103,6 +105,6 @@ export async function searchCaseLaw(
 
   return {
     results,
-    _metadata: generateResponseMetadata(db)
+    _meta: generateResponseMetadata(db)
   };
 }

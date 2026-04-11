@@ -26,6 +26,7 @@ import { getProvisionEUBasis, GetProvisionEUBasisInput } from './get-provision-e
 import { validateEUCompliance, ValidateEUComplianceInput } from './validate-eu-compliance.js';
 import { getAbout, type AboutContext } from './about.js';
 import { listSources } from './list-sources.js';
+import { generateResponseMetadata } from '../utils/metadata.js';
 export type { AboutContext } from './about.js';
 
 const ABOUT_TOOL: Tool = {
@@ -356,8 +357,13 @@ export function registerTools(
       };
     } catch (error) {
       const message = error instanceof Error ? error.message : String(error);
+      const meta = generateResponseMetadata(db);
       return {
-        content: [{ type: 'text', text: `Error executing ${name}: ${message}` }],
+        content: [{ type: 'text', text: JSON.stringify({
+          error: `Error executing ${name}: ${message}`,
+          _error_type: 'execution_error',
+          _meta: meta,
+        }, null, 2) }],
         isError: true,
       };
     }
