@@ -1,9 +1,10 @@
 #!/usr/bin/env tsx
 /**
- * Lovdata statute ingestion with licensing-compliance gate.
+ * Lovdata statute and regulation ingestion with licensing-compliance gate.
  *
  * Usage:
  *   npm run ingest -- LOV-2018-06-15-38 data/seed/LOV-2018-06-15-38.json
+ *   npm run ingest -- FOR-2018-09-14-1324 data/seed/FOR-2018-09-14-1324.json
  *   npm run ingest -- LOV-2018-06-15-38 data/seed/LOV-2018-06-15-38.json --metadata-only
  *   npm run ingest -- LOV-2018-06-15-38 data/seed/LOV-2018-06-15-38.json --source=lovdata
  */
@@ -26,7 +27,7 @@ interface SeedProvision {
 
 interface SeedDocument {
   id: string;
-  type: 'statute';
+  type: 'statute' | 'regulation';
   title: string;
   title_en?: string;
   short_name?: string;
@@ -53,15 +54,17 @@ interface CliArgs {
   htmlFile?: string;
 }
 
-const USER_AGENT = 'Norwegian-Law-MCP/1.0.0 (+https://github.com/Ansvar-Systems/norwegian-law-mcp)';
+export const USER_AGENT = 'Norwegian-Law-MCP/1.0.0 (+https://github.com/Ansvar-Systems/norwegian-law-mcp)';
+export type LovdataKind = 'lov' | 'for';
 const LOV_ID_PATTERN = /^LOV-(\d{4})-(\d{2})-(\d{2})(?:-([A-Za-z0-9]+))?$/i;
+const FOR_ID_PATTERN = /^FOR-(\d{4})-(\d{2})-(\d{2})(?:-([A-Za-z0-9]+))?$/i;
 const REQUEST_RETRIES = 3;
 const REQUEST_RETRY_DELAY_MS = 600;
 
 function parseArgs(argv: string[]): CliArgs {
   if (argv.length < 2) {
     console.error(
-      'Usage: npm run ingest -- <LOV-YYYY-MM-DD[-NNN]> <output-path> ' +
+      'Usage: npm run ingest -- <LOV-YYYY-MM-DD[-NNN] | FOR-YYYY-MM-DD[-NNN]> <output-path> ' +
       '[--source=lovdata|lovtidend|domstol] [--metadata-only|--full-text]'
     );
     process.exit(1);
@@ -125,41 +128,47 @@ function parseNorwegianDate(value: string | undefined): string | undefined {
   return `${match[3]}-${match[2]}-${match[1]}`;
 }
 
-function sleep(ms: number): Promise<void> {
+export function sleep(ms: number): Promise<void> {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-function parseLovIdentifier(identifier: string): {
+function parseLovdataIdentifier(identifier: string): {
   canonicalId: string;
   slug: string;
   issuedDate: string;
+  kind: LovdataKind;
 } {
-  const match = identifier.match(LOV_ID_PATTERN);
+  const lovMatch = identifier.match(LOV_ID_PATTERN);
+  const forMatch = identifier.match(FOR_ID_PATTERN);
+  const match = lovMatch ?? forMatch;
   if (!match) {
-    throw new Error(`Invalid identifier "${identifier}". Expected LOV-YYYY-MM-DD[-NNN].`);
+    throw new Error(`Invalid identifier "${identifier}". Expected LOV-YYYY-MM-DD[-NNN] or FOR-YYYY-MM-DD[-NNN].`);
   }
 
+  const kind: LovdataKind = lovMatch ? 'lov' : 'for';
+  const prefix = kind.toUpperCase();
   const [, year, month, day, suffix] = match;
   const normalizedSuffix = suffix ? suffix.toLowerCase() : undefined;
   const slug = normalizedSuffix ? `${year}-${month}-${day}-${normalizedSuffix}` : `${year}-${month}-${day}`;
   return {
-    canonicalId: `LOV-${slug}`.toUpperCase(),
+    canonicalId: `${prefix}-${slug}`.toUpperCase(),
     slug,
     issuedDate: `${year}-${month}-${day}`,
+    kind,
   };
 }
 
-function buildLovdataCandidates(slug: string): string[] {
-  const base = [
-    `https://lovdata.no/dokument/NL/lov/${slug}`,
-    `https://lovdata.no/dokument/NLO/lov/${slug}`,
-    `https://lovdata.no/dokument/LTI/lov/${slug}`,
-  ];
+// Lovdata uses parallel but distinct URL taxonomies for statutes vs. regulations.
+// LTI (Lovtidend instrument) appears in both. Per kind: [active, opphevet, instrument].
+const LOVDATA_ARCHIVES: Record<LovdataKind, { archives: readonly string[]; segment: string }> = {
+  lov: { archives: ['NL', 'NLO', 'LTI'], segment: 'lov' },
+  for: { archives: ['SF', 'SFO', 'LTI'], segment: 'forskrift' },
+};
 
-  return [
-    ...base.map(url => `${url}/*`),
-    ...base,
-  ];
+function buildLovdataCandidates(slug: string, kind: LovdataKind): string[] {
+  const { archives, segment } = LOVDATA_ARCHIVES[kind];
+  const base = archives.map(a => `https://lovdata.no/dokument/${a}/${segment}/${slug}`);
+  return [...base.map(url => `${url}/*`), ...base];
 }
 
 async function fetchHtml(url: string): Promise<string | null> {
@@ -363,7 +372,44 @@ function choosePreferredProvision(current: SeedProvision, candidate: SeedProvisi
   return candidateScore > currentScore ? candidate : current;
 }
 
-function extractProvisions(document: Document): SeedProvision[] {
+// PARAGRAF data-id formats on Lovdata:
+//   Statutes:    PARAGRAF_<n>[<letter>]            (e.g. PARAGRAF_1, PARAGRAF_4a)
+//   Regulations: PARAGRAF_<chap>-<n>[<letter>]     (e.g. PARAGRAF_1-1, PARAGRAF_4-1a)
+const PARAGRAF_ID_PATTERN = /^PARAGRAF_((?:\d+-)?\d+[A-Za-zÆØÅæøå]?)$/;
+const KAPITTEL_ID_PATTERN = /^KAPITTEL_(\d+[A-Za-zÆØÅæøå]?)$/;
+
+// Fallback for short or pre-PARAGRAF-era documents (frequent on old kgl.res.):
+// no `<div class="paragraf" data-id="PARAGRAF_*">` structure exists, just a flat
+// `<div id="documentBody">` containing paragraphs / list-tables / footnote tables.
+// We collect the visible text (excluding footnote chrome) into one synthetic
+// provision so the document is still searchable rather than metadata-only.
+function extractDocumentBodyProvision(document: Document): SeedProvision | undefined {
+  const body = document.querySelector('#documentBody');
+  if (!body) return undefined;
+
+  const parts: string[] = [];
+  for (const child of Array.from(body.children)) {
+    if (child.matches('table.fotnote, table.textList.fotnote')) continue;
+    if (child.matches('table')) {
+      parts.push(...extractTableText(child));
+      continue;
+    }
+    const text = normalizeWhitespace(child.textContent ?? '');
+    if (text) parts.push(text);
+  }
+
+  const content = parts.filter(Boolean).join('\n').trim();
+  if (!content) return undefined;
+
+  return {
+    provision_ref: '1',
+    section: '1',
+    content,
+    metadata: { source: 'lovdata', source_node_id: 'documentBody', layout: 'flat' },
+  };
+}
+
+function extractProvisions(document: Document, kind: LovdataKind): SeedProvision[] {
   const nodes = Array.from(
     document.querySelectorAll('div.morTag_p.paragraf[data-id]')
   );
@@ -373,7 +419,7 @@ function extractProvisions(document: Document): SeedProvision[] {
 
   for (const node of nodes) {
     const dataId = node.getAttribute('data-id') ?? '';
-    const sectionMatch = dataId.match(/^PARAGRAF_(\d+[A-Za-zÆØÅæøå]?)$/);
+    const sectionMatch = dataId.match(PARAGRAF_ID_PATTERN);
     if (!sectionMatch) {
       continue;
     }
@@ -381,7 +427,7 @@ function extractProvisions(document: Document): SeedProvision[] {
     const section = normalizeSectionRef(sectionMatch[1]);
 
     const chapterContainer = node.closest('div.kapittel[data-id]');
-    const chapterMatch = chapterContainer?.getAttribute('data-id')?.match(/^KAPITTEL_(\d+[A-Za-zÆØÅæøå]?)$/);
+    const chapterMatch = chapterContainer?.getAttribute('data-id')?.match(KAPITTEL_ID_PATTERN);
     const chapter = chapterMatch ? normalizeSectionRef(chapterMatch[1]) : undefined;
 
     const headerValue = normalizeWhitespace(node.querySelector('.paragrafValue')?.textContent ?? '');
@@ -392,7 +438,9 @@ function extractProvisions(document: Document): SeedProvision[] {
       continue;
     }
 
-    const provisionRef = chapter ? `${chapter}:${section}` : section;
+    // Regulation section refs already embed the chapter (e.g. "1-1" = chap 1, paragraph 1),
+    // so the section IS the canonical ref and prefixing again would break "§ 1-1" round-trips.
+    const provisionRef = chapter && kind === 'lov' ? `${chapter}:${section}` : section;
     const provision: SeedProvision = {
       provision_ref: provisionRef,
       chapter,
@@ -424,9 +472,11 @@ export async function ingest(identifier: string, outputPath: string, options: In
   const decision = decideIngestionMode(source, wantsFullText);
   let effectiveMode: 'full_text' | 'metadata_only' = decision.mode;
   let extractionFallbackReason: string | null = null;
-  const parsed = parseLovIdentifier(identifier);
+  const parsed = parseLovdataIdentifier(identifier);
   let html: string | null = null;
-  let sourceUrl = `https://lovdata.no/dokument/NL/lov/${parsed.slug}`;
+  let sourceUrl = parsed.kind === 'lov'
+    ? `https://lovdata.no/dokument/NL/lov/${parsed.slug}`
+    : `https://lovdata.no/dokument/SF/forskrift/${parsed.slug}`;
 
   if (options.htmlFile) {
     if (!fs.existsSync(options.htmlFile)) {
@@ -434,7 +484,7 @@ export async function ingest(identifier: string, outputPath: string, options: In
     }
     html = fs.readFileSync(options.htmlFile, 'utf8');
   } else {
-    const candidates = buildLovdataCandidates(parsed.slug);
+    const candidates = buildLovdataCandidates(parsed.slug, parsed.kind);
     const fetched = await fetchFirstAvailableHtml(candidates);
     if (!fetched) {
       throw new Error(`Failed to fetch official source for ${identifier}`);
@@ -447,7 +497,7 @@ export async function ingest(identifier: string, outputPath: string, options: In
   const document = dom.window.document;
 
   const metadata = extractMetaFields(document);
-  const title = extractTitle(document) ?? `Norwegian statute ${parsed.canonicalId}`;
+  const title = extractTitle(document) ?? `Norwegian ${parsed.kind === 'for' ? 'regulation' : 'statute'} ${parsed.canonicalId}`;
   const shortName = normalizeWhitespace(metadata['Korttittel'] ?? '');
   const issuedDate = parsed.issuedDate;
   const inForceDate = parseNorwegianDate(metadata['Ikrafttredelse']) ?? issuedDate;
@@ -456,13 +506,18 @@ export async function ingest(identifier: string, outputPath: string, options: In
 
   let provisions: SeedProvision[] | undefined;
   if (decision.mode === 'full_text') {
-    provisions = extractProvisions(document);
+    provisions = extractProvisions(document, parsed.kind);
     if (provisions.length === 0) {
-      // Some legacy/non-standard documents do not expose parsable provision blocks.
-      // Fall back to metadata-only to preserve catalog coverage.
-      provisions = undefined;
-      effectiveMode = 'metadata_only';
-      extractionFallbackReason = 'Full-text parsing unavailable for this document structure; stored as metadata with deep link.';
+      // Short or pre-PARAGRAF-era documents (common for old kgl.res.) have no
+      // sectional structure — entire body is the single provision.
+      const bodyProvision = extractDocumentBodyProvision(document);
+      if (bodyProvision) {
+        provisions = [bodyProvision];
+      } else {
+        provisions = undefined;
+        effectiveMode = 'metadata_only';
+        extractionFallbackReason = 'Full-text parsing unavailable for this document structure; stored as metadata with deep link.';
+      }
     }
   }
 
@@ -480,7 +535,7 @@ export async function ingest(identifier: string, outputPath: string, options: In
 
   const seed: SeedDocument = {
     id: parsed.canonicalId,
-    type: 'statute',
+    type: parsed.kind === 'for' ? 'regulation' : 'statute',
     title,
     short_name: shortName || undefined,
     status,

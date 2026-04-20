@@ -7,7 +7,7 @@ import Database from '@ansvar/mcp-sqlite';
 const SCHEMA = `
 CREATE TABLE legal_documents (
   id TEXT PRIMARY KEY,
-  type TEXT NOT NULL CHECK(type IN ('statute', 'bill', 'sou', 'ds', 'case_law')),
+  type TEXT NOT NULL CHECK(type IN ('statute', 'regulation', 'bill', 'sou', 'ds', 'case_law')),
   title TEXT NOT NULL,
   title_en TEXT,
   short_name TEXT,
