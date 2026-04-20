@@ -78,7 +78,10 @@ function extractRegulationEntries(pageXml: string): CatalogEntry[] {
     const slugMatch = decodeAmp(match[1]).match(REGULATION_URL_PATTERN);
     if (!slugMatch) continue;
     const slug = slugMatch[1];
-    entries.push({ id: `FOR-${slug}`.toUpperCase(), slug });
+    // Prefix with `for-` to mirror the lov-* convention in
+    // data/relevant-statutes-all.json and prevent data/seed/ filename
+    // collisions between LOV and FOR ids that share a date+suffix.
+    entries.push({ id: `FOR-${slug}`.toUpperCase(), slug: `for-${slug}` });
   }
   return entries;
 }

@@ -440,7 +440,13 @@ function extractProvisions(document: Document, kind: LovdataKind): SeedProvision
 
     // Regulation section refs already embed the chapter (e.g. "1-1" = chap 1, paragraph 1),
     // so the section IS the canonical ref and prefixing again would break "§ 1-1" round-trips.
-    const provisionRef = chapter && kind === 'lov' ? `${chapter}:${section}` : section;
+    // Older forskrifter wrap bare-numbered sections in <div class="kapittel"> containers,
+    // though — preserve the chapter for those by emitting the natural "<chap>-<section>" form
+    // so two sections sharing a section number across chapters don't collide in byRef.
+    const provisionRef =
+      chapter && kind === 'lov' ? `${chapter}:${section}`
+      : chapter && kind === 'for' && !section.includes('-') ? `${chapter}-${section}`
+      : section;
     const provision: SeedProvision = {
       provision_ref: provisionRef,
       chapter,
