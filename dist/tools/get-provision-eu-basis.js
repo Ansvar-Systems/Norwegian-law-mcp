@@ -10,9 +10,8 @@ import { generateResponseMetadata } from '../utils/metadata.js';
  */
 export async function getProvisionEUBasis(db, input) {
     const statuteId = input.law_id ?? input.sfs_number;
-    // Validate supported statute identifier format
-    if (!statuteId || !/^(?:\d{4}:\d+|LOV-\d{4}-\d{2}-\d{2}-\d+)$/i.test(statuteId)) {
-        throw new Error(`Invalid statute identifier format: "${statuteId}". Expected "LOV-YYYY-MM-DD[-NNN]" or legacy "YYYY:NNN".`);
+    if (!statuteId || !/^(?:\d{4}:\d+|LOV-\d{4}-\d{2}-\d{2}(?:-\d+)?|FOR-\d{4}-\d{2}-\d{2}(?:-\d+)?)$/i.test(statuteId)) {
+        throw new Error(`Invalid statute identifier format: "${statuteId}". Expected "LOV-YYYY-MM-DD[-NNN]", "FOR-YYYY-MM-DD[-NNN]", or legacy "YYYY:NNN".`);
     }
     if (!input.provision_ref || !input.provision_ref.trim()) {
         throw new Error('provision_ref is required (e.g., "1:1" or "3:5")');

@@ -50,14 +50,12 @@ export function buildCitation(canonicalRef, displayText, toolName, toolArgs, sou
  * @param shortName      Short name / alias (optional)
  */
 export function buildProvisionCitation(documentId, documentTitle, provisionRef, inputDocId, inputSection, sourceUrl, shortName) {
-    // Build canonical_ref — detect common statute ID formats
     let canonicalRef;
     if (documentId.match(/^\d{4}:\d+$/)) {
         // Swedish SFS format: "2018:218" → "SFS 2018:218"
         canonicalRef = `SFS ${documentId}`;
     }
-    else if (documentId.match(/^LOV-\d{4}/)) {
-        // Norwegian Lovdata format
+    else if (documentId.match(/^(?:LOV|FOR)-\d{4}/)) {
         canonicalRef = documentId;
     }
     else {

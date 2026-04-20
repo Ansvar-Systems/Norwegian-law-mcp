@@ -1,0 +1,7 @@
+{
+  "description": "Curated high-value Norwegian regulations (forskrifter) for baseline full-text coverage in the free tier.",
+  "regulations": [
+    { "id": "FOR-2018-09-14-1324", "slug": "hvitvaskingsforskriften" },
+    { "id": "FOR-2025-06-25-1311", "slug": "kryptoeiendelsforskriften" }
+  ]
+}

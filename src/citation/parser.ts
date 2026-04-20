@@ -3,6 +3,7 @@
  *
  * Primary formats (Norwegian):
  *   - LOV-2018-06-15-38 [kapittel X] [§ Y]
+ *   - FOR-2018-09-14-1324 [kapittel X] [§ Y]
  *   - HR-2020-1234-A, LA-2019-5678, Rt. 2015 s. 1250
  *   - Prop.56 L (2017-2018), Ot.prp. nr. 44 (2001-2002)
  *   - NOU 2009:1
@@ -18,6 +19,15 @@ import type { ParsedCitation, DocumentType } from '../types/index.js';
 
 /** Norwegian LOV pattern: LOV-2018-06-15-38 [kapittel X] [§ Y] */
 const LOV_PATTERN = /^(?:LOV\s+)?(LOV-\d{4}-\d{2}-\d{2}(?:-[a-z0-9]+)?)\s*(?:(?:kapittel|kap\.?)\s+(\d+)\s*)?(?:§\s*(\d+\s*[a-z]?))?\s*$/i;
+
+/**
+ * Norwegian FOR (forskrift / regulation) pattern:
+ *   FOR-2018-09-14-1324 [kapittel X] [§ Y]
+ * Section refs in regulations use the chap-section form (e.g. "1-1", "4-1a"),
+ * so the section group must accept an optional "-N" suffix in addition to the
+ * plain "N[letter]" form used by statutes.
+ */
+const FOR_PATTERN = /^(?:FOR\s+)?(FOR-\d{4}-\d{2}-\d{2}(?:-[a-z0-9]+)?)\s*(?:(?:kapittel|kap\.?)\s+(\d+)\s*)?(?:§\s*(\d+(?:-\d+)?\s*[a-z]?))?\s*$/i;
 
 /** Norwegian case law: HR-2020-1234-A, LA-2019-5678, LB-2020-12345 */
 const CASE_HR_PATTERN = /^(HR|LA|LB|LE|TING)-(\d{4})-(\d+)(?:-([A-Z]))?$/i;
@@ -73,6 +83,20 @@ export function parseCitation(citation: string): ParsedCitation {
     };
     if (lovMatch[2]) result.chapter = lovMatch[2];
     if (lovMatch[3]) result.section = lovMatch[3].replace(/\s+/g, ' ').trim();
+    return result;
+  }
+
+  // 1b. Norwegian FOR (forskrift / regulation) format
+  const forMatch = trimmed.match(FOR_PATTERN);
+  if (forMatch && forMatch[1]) {
+    const result: ParsedCitation = {
+      raw: citation,
+      type: 'regulation',
+      document_id: forMatch[1].toUpperCase(),
+      valid: true,
+    };
+    if (forMatch[2]) result.chapter = forMatch[2];
+    if (forMatch[3]) result.section = forMatch[3].replace(/\s+/g, ' ').trim();
     return result;
   }
 
@@ -193,6 +217,8 @@ export function detectDocumentType(citation: string): DocumentType | null {
   const trimmed = citation.trim();
   // Norwegian LOV
   if (/^(?:lov\s+)?lov-\d{4}-\d{2}-\d{2}(?:-[a-z0-9]+)?/i.test(trimmed)) return 'statute';
+  // Norwegian FOR (forskrift / regulation)
+  if (/^(?:for\s+)?for-\d{4}-\d{2}-\d{2}(?:-[a-z0-9]+)?/i.test(trimmed)) return 'regulation';
   // Norwegian case law
   if (/^(?:hr|la|lb|le|ting)-\d{4}-/i.test(trimmed)) return 'case_law';
   if (/^rt\.\s*\d{4}/i.test(trimmed)) return 'case_law';

@@ -3,7 +3,7 @@
  */
 
 /** Types of legal documents in the Norwegian system */
-export type DocumentType = 'statute' | 'bill' | 'sou' | 'ds' | 'case_law';
+export type DocumentType = 'statute' | 'regulation' | 'bill' | 'sou' | 'ds' | 'case_law';
 
 /** Status of a legal document */
 export type DocumentStatus = 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
@@ -13,7 +13,7 @@ export type CourtType = 'HR' | 'LA' | 'LB' | 'LE' | 'TING' | 'JORD' | 'TREK';
 
 /** A legal document in the Norwegian system */
 export interface LegalDocument {
-  /** LOV id (e.g., "LOV-2018-06-15-38"), case reference, or prop number */
+  /** LOV id (e.g., "LOV-2018-06-15-38"), FOR id (e.g., "FOR-2018-09-14-1324"), case reference, or prop number */
   id: string;
 
   /** Document type */

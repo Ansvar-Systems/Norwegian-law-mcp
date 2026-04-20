@@ -72,7 +72,7 @@ export function validateParsedCitation(db: Database, parsed: ParsedCitation): Va
 
   // Check provision existence if chapter/section specified
   let provisionExists = false;
-  if (parsed.type === 'statute' && (parsed.chapter || parsed.section)) {
+  if ((parsed.type === 'statute' || parsed.type === 'regulation') && (parsed.chapter || parsed.section)) {
     const provisionRef = parsed.chapter && parsed.section
       ? `${parsed.chapter}:${parsed.section}`
       : parsed.section || '';

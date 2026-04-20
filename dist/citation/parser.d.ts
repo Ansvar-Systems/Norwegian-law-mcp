@@ -3,6 +3,7 @@
  *
  * Primary formats (Norwegian):
  *   - LOV-2018-06-15-38 [kapittel X] [§ Y]
+ *   - FOR-2018-09-14-1324 [kapittel X] [§ Y]
  *   - HR-2020-1234-A, LA-2019-5678, Rt. 2015 s. 1250
  *   - Prop.56 L (2017-2018), Ot.prp. nr. 44 (2001-2002)
  *   - NOU 2009:1
