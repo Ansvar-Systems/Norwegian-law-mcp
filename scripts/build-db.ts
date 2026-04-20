@@ -7,7 +7,7 @@
  * Usage: npm run build:db
  */
 
-import Database from 'better-sqlite3';
+import Database from '@ansvar/mcp-sqlite';
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
