@@ -119,6 +119,7 @@ jobs:
           cache: 'npm'
       - run: npm ci --ignore-scripts
       - run: npm run build
+      - run: npm run build:db
       - run: npm run test:contract
 
   contract-tests-nightly:
@@ -134,4 +135,5 @@ jobs:
           cache: 'npm'
       - run: npm ci --ignore-scripts
       - run: npm run build
+      - run: npm run build:db
       - run: CONTRACT_MODE=nightly npm run test:contract
