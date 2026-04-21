@@ -63,15 +63,12 @@ export default defineConfig({
         'src/index.ts',  // Entry point (tested via integration)
       ],
 
-      // Coverage thresholds disabled to match the rest of the law-MCP
-      // fleet (swedish-, danish-, finnish-, icelandic-law-mcp etc).
-      // Uncomment to enforce once test coverage reaches the target.
-      // thresholds: {
-      //   lines: 80,
-      //   functions: 80,
-      //   branches: 80,
-      //   statements: 80,
-      // },
+      thresholds: {
+        lines: 70,
+        functions: 70,
+        branches: 60,
+        statements: 70,
+      },
     },
 
     // ─────────────────────────────────────────────────────────────────────────
