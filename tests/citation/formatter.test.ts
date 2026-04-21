@@ -108,6 +108,40 @@ describe('formatCitation', () => {
     });
   });
 
+  // Regression tests for Codex review of PR #39 — earlier wiring had no
+  // 'regulation' branch in the switch and fell through to citation.raw.
+  describe('Norwegian FOR regulations', () => {
+    const citation: ParsedCitation = {
+      raw: 'FOR-2018-09-14-1324 § 1-1',
+      type: 'regulation',
+      document_id: 'FOR-2018-09-14-1324',
+      section: '1-1',
+      valid: true,
+    };
+
+    it('should format FOR full', () => {
+      expect(formatCitation(citation, 'full')).toBe('FOR FOR-2018-09-14-1324 § 1-1');
+    });
+
+    it('should format FOR short', () => {
+      expect(formatCitation(citation, 'short')).toBe('FOR-2018-09-14-1324 § 1-1');
+    });
+
+    it('should format FOR pinpoint', () => {
+      expect(formatCitation(citation, 'pinpoint')).toBe('§ 1-1');
+    });
+
+    it('should format FOR with id only', () => {
+      const idOnly: ParsedCitation = {
+        raw: 'FOR-2018-09-14-1324',
+        type: 'regulation',
+        document_id: 'FOR-2018-09-14-1324',
+        valid: true,
+      };
+      expect(formatCitation(idOnly, 'full')).toBe('FOR FOR-2018-09-14-1324');
+    });
+  });
+
   describe('non-statute types', () => {
     it('should format bill', () => {
       const citation: ParsedCitation = {

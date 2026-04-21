@@ -23,6 +23,8 @@
     "ingest": "node --import tsx scripts/ingest-lovdata.ts",
     "ingest:relevant": "node --import tsx scripts/ingest-relevant-laws-no.ts",
     "ingest:all": "node --import tsx scripts/ingest-relevant-laws-no.ts data/relevant-statutes-all.json",
+    "ingest:regulations": "node --import tsx scripts/ingest-relevant-regulations-no.ts data/relevant-regulations-all.json",
+    "catalog:regulations": "node --import tsx scripts/build-regulations-catalog-no.ts",
     "ingest:auto-all": "node --import tsx scripts/ingest-official-catalog-no.ts",
     "ingest:cases": "node --import tsx scripts/ingest-case-law-metadata-no.ts",
     "ingest:cases:full-archive": "node --import tsx scripts/ingest-case-law-metadata-no.ts --full",

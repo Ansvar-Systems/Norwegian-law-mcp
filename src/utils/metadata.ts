@@ -98,7 +98,7 @@ function getDataFreshness(db: Database): DataFreshness {
     const statuteRow = db.prepare(`
       SELECT MAX(last_updated) as max_date
       FROM legal_documents
-      WHERE type = 'statute' AND last_updated IS NOT NULL
+      WHERE type IN ('statute', 'regulation') AND last_updated IS NOT NULL
     `).get() as { max_date: string | null } | undefined;
     statuteLastUpdated = statuteRow?.max_date || null;
   } catch {

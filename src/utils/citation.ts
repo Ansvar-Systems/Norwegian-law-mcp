@@ -35,6 +35,35 @@ export interface CitationMetadata {
  * @param sourceUrl     Official portal URL (optional)
  * @param aliases       Alternative names the LLM might use (optional)
  */
+/**
+ * Build the canonical provision_ref used as the lookup key in
+ * legal_provisions / legal_provision_versions.
+ *
+ * LOV (statute):       `<chapter>:<section>` when both present, else `<section>`.
+ * FOR (regulation):    section refs natively embed the chapter as
+ *                      `<chap>-<paragraph>` (e.g. PARAGRAF_1-1). When the
+ *                      caller provides chapter+section separately and section
+ *                      already contains a hyphen, use the section as-is.
+ *                      When section is bare (older kgl.res. wrapped in a
+ *                      kapittel container), join with `-` to disambiguate
+ *                      sections sharing a number across chapters.
+ *
+ * The store side (extractProvisions in scripts/ingest-lovdata.ts) follows the
+ * same rule. Keep the two in sync if either is changed.
+ */
+export function buildProvisionRef(
+  documentId: string,
+  chapter: string | undefined,
+  section: string | undefined,
+): string {
+  if (!section) return chapter ?? '';
+  if (!chapter) return section;
+  if (/^FOR-/i.test(documentId)) {
+    return section.includes('-') ? section : `${chapter}-${section}`;
+  }
+  return `${chapter}:${section}`;
+}
+
 export function buildCitation(
   canonicalRef: string,
   displayText: string,
@@ -78,13 +107,11 @@ export function buildProvisionCitation(
   sourceUrl?: string | null,
   shortName?: string | null,
 ): CitationMetadata {
-  // Build canonical_ref — detect common statute ID formats
   let canonicalRef: string;
   if (documentId.match(/^\d{4}:\d+$/)) {
     // Swedish SFS format: "2018:218" → "SFS 2018:218"
     canonicalRef = `SFS ${documentId}`;
-  } else if (documentId.match(/^LOV-\d{4}/)) {
-    // Norwegian Lovdata format
+  } else if (documentId.match(/^(?:LOV|FOR)-\d{4}/)) {
     canonicalRef = documentId;
   } else {
     canonicalRef = documentTitle || documentId;

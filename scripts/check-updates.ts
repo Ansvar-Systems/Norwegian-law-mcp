@@ -21,6 +21,7 @@ const DB_PATH = path.resolve(__dirname, '../data/database.db');
 const USER_AGENT = 'Norwegian-Law-MCP/1.0.0 (+https://github.com/Ansvar-Systems/norwegian-law-mcp)';
 const REQUEST_DELAY_MS = 500;
 const LOV_ID_PATTERN = /^LOV-(\d{4})-(\d{2})-(\d{2})(?:-([A-Za-z0-9]+))?$/i;
+const FOR_ID_PATTERN = /^FOR-(\d{4})-(\d{2})-(\d{2})(?:-([A-Za-z0-9]+))?$/i;
 
 interface LocalDocument {
   id: string;
@@ -52,13 +53,22 @@ function buildLovdataCandidates(doc: LocalDocument): string[] {
     candidates.add(doc.url);
   }
 
-  const match = doc.id.match(LOV_ID_PATTERN);
-  if (match) {
-    const [, year, month, day, suffix] = match;
+  const lovMatch = doc.id.match(LOV_ID_PATTERN);
+  if (lovMatch) {
+    const [, year, month, day, suffix] = lovMatch;
     const normalizedSuffix = suffix ? suffix.toLowerCase() : undefined;
     const slug = normalizedSuffix ? `${year}-${month}-${day}-${normalizedSuffix}` : `${year}-${month}-${day}`;
     candidates.add(`https://lovdata.no/dokument/NL/lov/${slug}`);
     candidates.add(`https://lovdata.no/dokument/NLO/lov/${slug}`);
+  }
+
+  const forMatch = doc.id.match(FOR_ID_PATTERN);
+  if (forMatch) {
+    const [, year, month, day, suffix] = forMatch;
+    const normalizedSuffix = suffix ? suffix.toLowerCase() : undefined;
+    const slug = normalizedSuffix ? `${year}-${month}-${day}-${normalizedSuffix}` : `${year}-${month}-${day}`;
+    candidates.add(`https://lovdata.no/dokument/SF/forskrift/${slug}`);
+    candidates.add(`https://lovdata.no/dokument/SFO/forskrift/${slug}`);
   }
 
   return Array.from(candidates);
@@ -170,18 +180,18 @@ async function checkUpdates(): Promise<void> {
   const documents = db.prepare(`
     SELECT id, title, type, status, last_updated, url
     FROM legal_documents
-    WHERE type = 'statute'
+    WHERE type IN ('statute', 'regulation')
     ORDER BY id
   `).all() as LocalDocument[];
 
   db.close();
 
   if (documents.length === 0) {
-    console.log('No statutes in database.');
+    console.log('No statutes or regulations in database.');
     process.exit(0);
   }
 
-  console.log(`Checking ${documents.length} statute(s) against official channels...\n`);
+  console.log(`Checking ${documents.length} document(s) against official channels...\n`);
 
   const results: UpdateCheckResult[] = [];
 

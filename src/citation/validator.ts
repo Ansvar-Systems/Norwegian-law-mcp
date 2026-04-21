@@ -8,6 +8,7 @@
 import type { Database } from '@ansvar/mcp-sqlite';
 import type { ValidationResult, ParsedCitation, DocumentStatus } from '../types/index.js';
 import { parseCitation } from './parser.js';
+import { buildProvisionRef } from '../utils/citation.js';
 
 interface DocumentRow {
   id: string;
@@ -72,10 +73,8 @@ export function validateParsedCitation(db: Database, parsed: ParsedCitation): Va
 
   // Check provision existence if chapter/section specified
   let provisionExists = false;
-  if (parsed.type === 'statute' && (parsed.chapter || parsed.section)) {
-    const provisionRef = parsed.chapter && parsed.section
-      ? `${parsed.chapter}:${parsed.section}`
-      : parsed.section || '';
+  if ((parsed.type === 'statute' || parsed.type === 'regulation') && (parsed.chapter || parsed.section)) {
+    const provisionRef = buildProvisionRef(parsed.document_id, parsed.chapter, parsed.section);
 
     if (provisionRef) {
       const prov = db.prepare(

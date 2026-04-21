@@ -88,7 +88,12 @@ function main() {
 
     try {
       const data: StatuteSeedData = JSON.parse(content);
-      if (data.type !== 'statute') continue;
+      // Both statutes (LOV) and regulations (FOR) can implement EU directives
+      // — hvitvaskingsforskriften FOR-2018-09-14-1324 implements 4AMLD/5AMLD,
+      // for example. Skipping regulations means the EU-basis tools return
+      // empty results for any FOR document despite their input regexes
+      // accepting FOR ids.
+      if (data.type !== 'statute' && data.type !== 'regulation') continue;
 
       statutesProcessed++;
 

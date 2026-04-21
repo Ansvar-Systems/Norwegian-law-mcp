@@ -27,6 +27,10 @@ export function formatCitation(citation: ParsedCitation, format: CitationFormat 
   switch (citation.type) {
     case 'statute':
       return formatStatute(citation, format);
+    case 'regulation':
+      return isNorwegianFor(citation.document_id)
+        ? formatNorwegianRegulation(citation, format)
+        : formatStatute(citation, format);
     case 'bill':
       return formatBill(citation);
     case 'sou':
@@ -42,6 +46,26 @@ export function formatCitation(citation: ParsedCitation, format: CitationFormat 
 
 function isNorwegianLov(documentId: string): boolean {
   return /^LOV-\d{4}-\d{2}-\d{2}(?:-[A-Za-z0-9]+)?$/i.test(documentId);
+}
+
+function isNorwegianFor(documentId: string): boolean {
+  return /^FOR-\d{4}-\d{2}-\d{2}(?:-[A-Za-z0-9]+)?$/i.test(documentId);
+}
+
+// Norwegian forskrift sections natively embed the chapter (e.g. "1-1" = chap 1
+// paragraph 1). When the parser reports both `chapter` and `section`, prefer
+// rendering with the section as-is rather than duplicating the chapter prefix.
+function formatNorwegianRegulation(citation: ParsedCitation, format: CitationFormat): string {
+  const { document_id, section } = citation;
+
+  if (format === 'pinpoint') {
+    return section ? `§ ${section}` : document_id;
+  }
+  if (format === 'short') {
+    return section ? `${document_id} § ${section}` : document_id;
+  }
+  // full
+  return section ? `FOR ${document_id} § ${section}` : `FOR ${document_id}`;
 }
 
 function formatStatute(citation: ParsedCitation, format: CitationFormat): string {

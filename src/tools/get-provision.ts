@@ -5,7 +5,7 @@
 import type { Database } from '@ansvar/mcp-sqlite';
 import { normalizeAsOfDate } from '../utils/as-of-date.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
-import { buildProvisionCitation } from '../utils/citation.js';
+import { buildProvisionCitation, buildProvisionRef } from '../utils/citation.js';
 
 export interface GetProvisionInput {
   document_id: string;
@@ -61,12 +61,9 @@ export async function getProvision(
 
   // If provision_ref is directly provided, use it
   let provisionRef = input.provision_ref;
-  if (!provisionRef) {
-    if (input.chapter && input.section) {
-      provisionRef = `${input.chapter}:${input.section}`;
-    } else if (input.section) {
-      provisionRef = input.section;
-    }
+  if (!provisionRef && (input.chapter || input.section)) {
+    provisionRef = buildProvisionRef(input.document_id, input.chapter, input.section);
+    if (!provisionRef) provisionRef = undefined;
   }
 
   const asOfDate = normalizeAsOfDate(input.as_of_date);

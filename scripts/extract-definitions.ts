@@ -309,8 +309,10 @@ function extractDefinitions(): void {
       const content = fs.readFileSync(filePath, 'utf-8');
       const seed = JSON.parse(content) as DocumentSeed;
 
-      // Skip non-statute documents (case law, etc.)
-      if (seed.type !== 'statute') continue;
+      // Skip non-legislation documents (case law, bills, etc.). Regulations
+      // frequently contain `Med X menes...` definition blocks (administrative
+      // forskrifter especially), so include them alongside statutes.
+      if (seed.type !== 'statute' && seed.type !== 'regulation') continue;
 
       const definitions = extractDefinitionsFromDocument(seed);
 

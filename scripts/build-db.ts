@@ -24,7 +24,7 @@ const DB_PATH = path.resolve(__dirname, '../data/database.db');
 
 interface DocumentSeed {
   id: string;
-  type: 'statute' | 'bill' | 'sou' | 'ds' | 'case_law';
+  type: 'statute' | 'regulation' | 'bill' | 'sou' | 'ds' | 'case_law';
   title: string;
   title_en?: string;
   short_name?: string;
@@ -161,10 +161,10 @@ interface LegalSourcePolicySeed {
 // ─────────────────────────────────────────────────────────────────────────────
 
 const SCHEMA = `
--- Legal documents (statutes, bills, SOUs, case law)
+-- Legal documents (statutes, regulations, bills, SOUs, case law)
 CREATE TABLE legal_documents (
   id TEXT PRIMARY KEY,
-  type TEXT NOT NULL CHECK(type IN ('statute', 'bill', 'sou', 'ds', 'case_law')),
+  type TEXT NOT NULL CHECK(type IN ('statute', 'regulation', 'bill', 'sou', 'ds', 'case_law')),
   title TEXT NOT NULL,
   title_en TEXT,
   short_name TEXT,

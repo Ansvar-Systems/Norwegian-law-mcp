@@ -43,22 +43,20 @@ export async function getEUBasis(
 ): Promise<ToolResponse<GetEUBasisResult>> {
   const statuteId = input.law_id ?? input.document_id ?? input.sfs_number;
 
-  // Validate supported statute identifier format
-  if (!statuteId || !/^(?:\d{4}:\d+|LOV-\d{4}-\d{2}-\d{2}-\d+)$/i.test(statuteId)) {
+  if (!statuteId || !/^(?:\d{4}:\d+|LOV-\d{4}-\d{2}-\d{2}(?:-\d+)?|FOR-\d{4}-\d{2}-\d{2}(?:-\d+)?)$/i.test(statuteId)) {
     throw new Error(
-      `Invalid statute identifier format: "${statuteId}". Expected "LOV-YYYY-MM-DD[-NNN]" or legacy "YYYY:NNN".`
+      `Invalid statute identifier format: "${statuteId}". Expected "LOV-YYYY-MM-DD[-NNN]", "FOR-YYYY-MM-DD[-NNN]", or legacy "YYYY:NNN".`
     );
   }
 
-  // Check if statute exists
   const statute = db.prepare(`
     SELECT id, title
     FROM legal_documents
-    WHERE id = ? AND type = 'statute'
+    WHERE id = ? AND type IN ('statute', 'regulation')
   `).get(statuteId) as { id: string; title: string } | undefined;
 
   if (!statute) {
-    throw new Error(`Statute ${statuteId} not found in database`);
+    throw new Error(`Statute or regulation ${statuteId} not found in database`);
   }
 
   // Build query for EU references

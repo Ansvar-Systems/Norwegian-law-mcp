@@ -44,16 +44,16 @@ const ABOUT_TOOL: Tool = {
 export const TOOLS: Tool[] = [
   {
     name: 'search_legislation',
-    description: `Search Norwegian statutes and regulations by keyword. Returns matched provisions with snippets, relevance scores, and document metadata.
+    description: `Search Norwegian statutes (lover, LOV-*) and regulations (forskrifter, FOR-*) by keyword. Returns matched provisions with snippets, relevance scores, and document metadata.
 
 Searches provision text using FTS5 with BM25 ranking. Supports boolean operators (AND, OR, NOT), phrase search ("exact phrase"), and prefix matching (term*).
 
-Use this for open-ended keyword searches when you do not know the exact statute or provision. Do NOT use this if you already know the LOV id and provision reference — use get_provision instead. For broad legal research across multiple source types, use build_legal_stance.`,
+Use this for open-ended keyword searches when you do not know the exact document or provision. Do NOT use this if you already know the LOV/FOR id and provision reference — use get_provision instead. For broad legal research across multiple source types, use build_legal_stance.`,
     inputSchema: {
       type: 'object',
       properties: {
         query: { type: 'string', description: 'Search query in Norwegian or English. Supports FTS5 syntax.' },
-        document_id: { type: 'string', description: 'Filter to a specific statute by LOV id (e.g., "LOV-2018-06-15-38")' },
+        document_id: { type: 'string', description: 'Filter to a specific document by LOV id (e.g., "LOV-2018-06-15-38") or FOR id (e.g., "FOR-2018-09-14-1324")' },
         status: { type: 'string', enum: ['in_force', 'amended', 'repealed'], description: 'Filter by document status' },
         as_of_date: { type: 'string', description: 'Optional historical date filter (YYYY-MM-DD).', pattern: '^\\d{4}-\\d{2}-\\d{2}$' },
         limit: { type: 'number', description: 'Maximum results (default: 10, max: 50)', minimum: 1, maximum: 50, default: 10 },
@@ -63,20 +63,26 @@ Use this for open-ended keyword searches when you do not know the exact statute 
   },
   {
     name: 'get_provision',
-    description: `Retrieve a specific provision from a Norwegian statute by its exact reference.
+    description: `Retrieve a specific provision from a Norwegian statute (LOV-*) or regulation (FOR-*) by its exact reference.
 
-Specify the LOV id and either chapter+section or provision_ref directly.
-Examples: document_id="LOV-2018-06-15-38", chapter="1", section="1" or provision_ref="1:1".
-Omit chapter/section/provision_ref to get all provisions in the statute.
+Specify the document id and either chapter+section or provision_ref directly. Omit chapter/section/provision_ref to get all provisions in the document.
 
-Use this when you know the exact statute and provision. Do NOT use this for keyword searches — use search_legislation instead.`,
+Statute (LOV) provision_ref convention: "<chapter>:<section>" (e.g. "1:1", "3:5"). Or pass chapter+section separately.
+  Example: document_id="LOV-2018-06-15-38", chapter="1", section="1"  →  provision_ref "1:1"
+
+Regulation (FOR) provision_ref convention: section refs natively embed the chapter as "<chap>-<paragraph>" (e.g. "1-1" = chapter 1 paragraph 1). Either pass section directly, or pass chapter+section — the tool joins them with "-" when section is bare.
+  Example: document_id="FOR-2018-09-14-1324", section="1-1"  →  provision_ref "1-1"
+  Example: document_id="FOR-2018-09-14-1324", chapter="1", section="1-1"  →  provision_ref "1-1"
+  Example (older kgl.res.): document_id="FOR-1990-01-15-001", chapter="2", section="1"  →  provision_ref "2-1"
+
+Use this when you know the exact document and provision. Do NOT use this for keyword searches — use search_legislation instead.`,
     inputSchema: {
       type: 'object',
       properties: {
-        document_id: { type: 'string', description: 'LOV id (e.g., "LOV-2018-06-15-38")' },
-        chapter: { type: 'string', description: 'Chapter number (e.g., "3").' },
-        section: { type: 'string', description: 'Section number (e.g., "5", "5 a")' },
-        provision_ref: { type: 'string', description: 'Direct provision reference (e.g., "3:5")' },
+        document_id: { type: 'string', description: 'LOV id (e.g., "LOV-2018-06-15-38") or FOR id (e.g., "FOR-2018-09-14-1324")' },
+        chapter: { type: 'string', description: 'Chapter number (e.g., "3", "1"). For forskrifter, may be omitted when section already embeds the chapter (e.g. section="1-1").' },
+        section: { type: 'string', description: 'Section number (LOV: "5", "5 a"; FOR: "1-1", "4-1a", or bare "1" for older kgl.res.)' },
+        provision_ref: { type: 'string', description: 'Direct provision reference (LOV: "3:5"; FOR: "1-1")' },
         as_of_date: { type: 'string', description: 'Optional historical date (YYYY-MM-DD).', pattern: '^\\d{4}-\\d{2}-\\d{2}$' },
         limit: { type: 'number', description: 'Max provisions when fetching all (default: 100, max: 500). Only applies when no specific provision is requested.', minimum: 1, maximum: 500, default: 100 },
       },
@@ -118,7 +124,10 @@ Essential for understanding legislative intent behind statutory provisions. Use 
     name: 'validate_citation',
     description: `Validate a Norwegian legal citation against the database. Parses the citation string, checks that the document and provision exist, and returns warnings about status (repealed, amended). This is the zero-hallucination enforcer — use it to verify any citation before presenting it as fact.
 
-Supported formats: "LOV-2018-06-15-38 § 1", "LOV-2018-06-15-38 1:1", "HR-2020-00000-A".
+Supported formats:
+  Statutes (LOV):     "LOV-2018-06-15-38", "LOV-2018-06-15-38 § 1", "LOV-2018-06-15-38 kapittel 1 § 1", "LOV-2018-06-15-38 1:1"
+  Regulations (FOR):  "FOR-2018-09-14-1324", "FOR-2018-09-14-1324 § 1-1", "FOR-2018-09-14-1324 kapittel 1 § 1-1"
+  Case law:           "HR-2020-00000-A", "LA-2019-5678"
 
 Do NOT use this for searching — use search_legislation instead. Do NOT use this for formatting — use format_citation instead.`,
     inputSchema: {
