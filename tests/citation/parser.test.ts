@@ -99,6 +99,32 @@ describe('parseCitation', () => {
     });
   });
 
+  describe('Norwegian FOR regulations', () => {
+    it('should parse FOR citation with id only as type=regulation', () => {
+      const result = parseCitation('FOR-2018-09-14-1324');
+      expect(result.valid).toBe(true);
+      expect(result.type).toBe('regulation');
+      expect(result.document_id).toBe('FOR-2018-09-14-1324');
+      expect(result.section).toBeUndefined();
+    });
+
+    it('should parse FOR citation with embedded-chapter section ("1-1")', () => {
+      const result = parseCitation('FOR-2018-09-14-1324 § 1-1');
+      expect(result.valid).toBe(true);
+      expect(result.type).toBe('regulation');
+      expect(result.document_id).toBe('FOR-2018-09-14-1324');
+      expect(result.section).toBe('1-1');
+    });
+
+    it('should parse FOR citation with explicit kapittel + embedded-chapter section', () => {
+      const result = parseCitation('FOR-2018-09-14-1324 kapittel 1 § 1-1');
+      expect(result.valid).toBe(true);
+      expect(result.type).toBe('regulation');
+      expect(result.chapter).toBe('1');
+      expect(result.section).toBe('1-1');
+    });
+  });
+
   describe('propositions', () => {
     it('should parse Prop. citation', () => {
       const result = parseCitation('Prop. 2017/18:105');

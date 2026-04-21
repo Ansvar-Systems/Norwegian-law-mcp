@@ -35,6 +35,32 @@ describe('validateCitation', () => {
       expect(result.document_exists).toBe(true);
       expect(result.provision_exists).toBe(true);
     });
+
+    // Regression tests for Codex review of PR #39 — earlier wiring built FOR
+    // refs as `chapter:section`, which never matched the canonical
+    // `chapter-section` form stored for forskrifter.
+    it('should validate FOR provision with embedded-chapter section', () => {
+      const result = validateCitation(db, 'FOR-2018-09-14-1324 § 1-1');
+      expect(result.document_exists).toBe(true);
+      expect(result.provision_exists).toBe(true);
+      expect(result.warnings).toHaveLength(0);
+    });
+
+    it('should validate FOR provision with explicit kapittel + embedded-chapter section', () => {
+      const result = validateCitation(db, 'FOR-2018-09-14-1324 kapittel 1 § 1-1');
+      expect(result.document_exists).toBe(true);
+      expect(result.provision_exists).toBe(true);
+      expect(result.warnings).toHaveLength(0);
+    });
+
+    it('should validate older FOR provision with bare-section in kapittel container', () => {
+      // The store side joins chapter + bare section as "<chap>-<sec>" to
+      // disambiguate sections sharing a number across chapters.
+      const result = validateCitation(db, 'FOR-1990-01-15-001 kapittel 2 § 1');
+      expect(result.document_exists).toBe(true);
+      expect(result.provision_exists).toBe(true);
+      expect(result.warnings).toHaveLength(0);
+    });
   });
 
   describe('warnings', () => {

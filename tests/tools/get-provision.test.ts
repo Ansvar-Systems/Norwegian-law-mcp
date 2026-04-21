@@ -62,6 +62,45 @@ describe('get_provision', () => {
     expect(provisions.length).toBe(8); // 8 sample provisions for LOV-2018-06-15-38
   });
 
+  // Regression tests for Codex review of PR #39 — earlier wiring built FOR
+  // refs as `chapter:section` and returned null for the inputs below.
+  it('should get a FOR provision by embedded-chapter section', async () => {
+    const response = await getProvision(db, {
+      document_id: 'FOR-2018-09-14-1324',
+      section: '1-1',
+    });
+
+    expect(response.results).not.toBeNull();
+    const prov = response.results as Exclude<typeof response.results, null | Array<unknown>>;
+    expect(prov.provision_ref).toBe('1-1');
+    expect(prov.title).toBe('Virkeområde');
+  });
+
+  it('should get a FOR provision by chapter + embedded-chapter section', async () => {
+    const response = await getProvision(db, {
+      document_id: 'FOR-2018-09-14-1324',
+      chapter: '1',
+      section: '1-1',
+    });
+
+    expect(response.results).not.toBeNull();
+    const prov = response.results as Exclude<typeof response.results, null | Array<unknown>>;
+    expect(prov.provision_ref).toBe('1-1');
+  });
+
+  it('should get an older FOR provision by chapter + bare section', async () => {
+    const response = await getProvision(db, {
+      document_id: 'FOR-1990-01-15-001',
+      chapter: '2',
+      section: '1',
+    });
+
+    expect(response.results).not.toBeNull();
+    const prov = response.results as Exclude<typeof response.results, null | Array<unknown>>;
+    expect(prov.provision_ref).toBe('2-1');
+    expect(prov.title).toBe('Gjennomføring');
+  });
+
   it('should return null for non-existent provision', async () => {
     const response = await getProvision(db, {
       document_id: 'LOV-2018-06-15-38',

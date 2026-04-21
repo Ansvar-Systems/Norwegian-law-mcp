@@ -245,6 +245,10 @@ const SAMPLE_DOCUMENTS = [
   { id: 'NOU 2009:1', type: 'sou', title: 'Individ og integritet - Personvern i det digitale samfunnet', title_en: null, short_name: null, status: 'in_force', issued_date: '2009-01-29', in_force_date: null, url: null, description: 'Utredning om personvern i det digitale samfunnet' },
   { id: 'HR-2020-1234-A', type: 'case_law', title: 'HR-2020-1234-A', title_en: null, short_name: null, status: 'in_force', issued_date: '2020-03-15', in_force_date: null, url: null, description: 'Høyesteretts avgjørelse om behandling av personopplysninger' },
   { id: 'LA-2019-5678', type: 'case_law', title: 'LA-2019-5678', title_en: null, short_name: null, status: 'in_force', issued_date: '2019-06-20', in_force_date: null, url: null, description: 'Lagmannsrettens avgjørelse om tilsyn etter personopplysningsloven' },
+  // Modern forskrift — sections natively embed chapter as PARAGRAF_<chap>-<para> (e.g. "1-1")
+  { id: 'FOR-2018-09-14-1324', type: 'regulation', title: 'Forskrift om tiltak mot hvitvasking og terrorfinansiering (hvitvaskingsforskriften)', title_en: 'AML Regulation', short_name: 'hvitvaskingsforskriften', status: 'in_force', issued_date: '2018-09-14', in_force_date: '2018-10-15', url: 'https://lovdata.no/dokument/SF/forskrift/2018-09-14-1324', description: 'Implementerer 4. og 5. hvitvaskingsdirektiv (4AMLD/5AMLD)' },
+  // Older forskrift — bare-numbered sections wrapped in <div class="kapittel"> containers; canonical ref joins with '-'
+  { id: 'FOR-1990-01-15-001', type: 'regulation', title: 'Forskrift om eldre kongelig resolusjon (testfikstur)', title_en: null, short_name: null, status: 'in_force', issued_date: '1990-01-15', in_force_date: '1990-02-01', url: null, description: 'Test fixture — represents pre-PARAGRAF-era kgl.res. layout' },
 ];
 
 const SAMPLE_PROVISIONS = [
@@ -259,6 +263,13 @@ const SAMPLE_PROVISIONS = [
   { document_id: 'LOV-2000-04-14-31', provision_ref: '1', chapter: null, section: '1', title: 'Lovens formål', content: 'Formålet med denne loven er å beskytte den enkelte mot at personvernet blir krenket gjennom behandling av personopplysninger.' },
   { document_id: 'LOV-2000-04-14-31', provision_ref: '3', chapter: null, section: '3', title: 'Definisjoner', content: 'I denne loven forstås med personopplysninger: opplysninger og vurderinger som kan knyttes til en enkeltperson.' },
   { document_id: 'LOV-2000-04-14-31', provision_ref: '5 a', chapter: null, section: '5 a', title: 'Unntak for visse behandlinger', content: 'Behandling av personopplysninger som ikke inngår i eller er ment å inngå i et personregister som er strukturert for å lette søk etter eller sammenstilling av personopplysninger, er tillatt så lenge behandlingen ikke innebærer en krenkelse av den registrertes personvern.' },
+  // Modern forskrift: provision_ref IS the section ("1-1" embeds chapter 1 paragraph 1)
+  { document_id: 'FOR-2018-09-14-1324', provision_ref: '1-1', chapter: '1', section: '1-1', title: 'Virkeområde', content: 'Forskriften gjelder for de rapporteringspliktige som er nevnt i hvitvaskingsloven § 4.' },
+  { document_id: 'FOR-2018-09-14-1324', provision_ref: '1-2', chapter: '1', section: '1-2', title: 'Definisjoner', content: 'I forskriften menes med reell rettighetshaver, kunde, kundeforhold og forretningsforbindelse det samme som i hvitvaskingsloven § 14, § 9 og § 4.' },
+  { document_id: 'FOR-2018-09-14-1324', provision_ref: '4-1', chapter: '4', section: '4-1', title: 'Risikovurdering', content: 'De rapporteringspliktige skal identifisere og vurdere risikoen for hvitvasking og terrorfinansiering.' },
+  // Older forskrift: bare-numbered section nested in a kapittel container; canonical ref is "<chapter>-<section>"
+  { document_id: 'FOR-1990-01-15-001', provision_ref: '1-1', chapter: '1', section: '1', title: 'Innledende', content: 'Denne forskriften gjelder fra 1. februar 1990.' },
+  { document_id: 'FOR-1990-01-15-001', provision_ref: '2-1', chapter: '2', section: '1', title: 'Gjennomføring', content: 'Departementet kan gi nærmere regler om gjennomføringen.' },
 ];
 
 const SAMPLE_PROVISION_VERSIONS = [
