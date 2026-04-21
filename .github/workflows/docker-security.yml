@@ -27,8 +27,20 @@ jobs:
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
 
-      - name: Create placeholder database for CI build
-        run: mkdir -p data && touch data/database.db
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Build TypeScript
+        run: npm run build
+
+      - name: Build database from seeds
+        run: npm run build:db
 
       - name: Build Docker image for scanning
         uses: docker/build-push-action@v5
@@ -43,7 +55,7 @@ jobs:
           cache-to: type=gha,mode=max
 
       - name: Run Trivy vulnerability scanner (SARIF)
-        uses: aquasecurity/trivy-action@0.34.0
+        uses: aquasecurity/trivy-action@v0.35.0
         with:
           image-ref: norwegian-law-mcp:scan
           format: 'sarif'
@@ -61,7 +73,7 @@ jobs:
           category: 'trivy-container'
 
       - name: Run Trivy for JSON report (audit evidence)
-        uses: aquasecurity/trivy-action@0.34.0
+        uses: aquasecurity/trivy-action@v0.35.0
         with:
           image-ref: norwegian-law-mcp:scan
           format: 'json'
@@ -70,7 +82,7 @@ jobs:
           vuln-type: 'os,library'
 
       - name: Run Trivy for table output (summary)
-        uses: aquasecurity/trivy-action@0.34.0
+        uses: aquasecurity/trivy-action@v0.35.0
         with:
           image-ref: norwegian-law-mcp:scan
           format: 'table'
@@ -100,8 +112,20 @@ jobs:
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
 
-      - name: Create placeholder database for CI build
-        run: mkdir -p data && touch data/database.db
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Build TypeScript
+        run: npm run build
+
+      - name: Build database from seeds
+        run: npm run build:db
 
       - name: Build image for SBOM
         uses: docker/build-push-action@v5

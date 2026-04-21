@@ -40,7 +40,7 @@
     "test:contract": "vitest run __tests__/contract/",
     "drift:detect": "node --import tsx scripts/drift-detect.ts",
     "validate": "npm run lint && npm test && npm run test:contract",
-    "prepublishOnly": "npm run build",
+    "prepublishOnly": "npm run build && npm run build:db",
     "postinstall": "test -d dist || npm run build || true"
   },
   "dependencies": {
