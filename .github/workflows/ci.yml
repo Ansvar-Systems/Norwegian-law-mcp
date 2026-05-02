@@ -18,7 +18,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 6 * * 1' # Weekly Monday 06:00 UTC
+    - cron: '0 6 * * 1'
 
 concurrency:
   group: ci-${{ github.ref }}
@@ -37,8 +37,8 @@ jobs:
 
     strategy:
       matrix:
-        # Test on multiple Node.js versions
-        node-version: [18, 20, 22]
+        # vitest 4 dropped Node 18 (rolldown needs node:util.styleText, added in 20.12)
+        node-version: [20, 22]
 
     steps:
       - name: Checkout
@@ -53,11 +53,17 @@ jobs:
       - name: Install dependencies
         run: npm ci --ignore-scripts
 
+      - name: Build native modules
+        run: npm rebuild better-sqlite3
+
       - name: Security audit (production deps)
         run: npm audit --omit=dev --audit-level=high
 
       - name: Build TypeScript
         run: npm run build
+
+      - name: Build database from seeds
+        run: npm run build:db
 
       - name: Run tests
         run: npm test
@@ -76,6 +82,31 @@ jobs:
         with:
           name: coverage-report
           path: coverage/
+
+  # ─────────────────────────────────────────────────────────────────────────
+  # LINT (OPTIONAL)
+  # ─────────────────────────────────────────────────────────────────────────
+  # Uncomment if you have ESLint configured
+  # ─────────────────────────────────────────────────────────────────────────
+
+  # lint:
+  #   runs-on: ubuntu-latest
+  #
+  #   steps:
+  #     - name: Checkout
+  #       uses: actions/checkout@v4
+  #
+  #     - name: Setup Node.js
+  #       uses: actions/setup-node@v4
+  #       with:
+  #         node-version: '20'
+  #         cache: 'npm'
+  #
+  #     - name: Install dependencies
+  #       run: npm ci --ignore-scripts
+  #
+  #     - name: Lint
+  #       run: npm run lint
 
   # ─────────────────────────────────────────────────────────────────────────
   # TYPE CHECK
@@ -115,7 +146,9 @@ jobs:
           node-version: '22'
           cache: 'npm'
       - run: npm ci --ignore-scripts
+      - run: npm rebuild better-sqlite3
       - run: npm run build
+      - run: npm run build:db
       - run: npm run test:contract
 
   contract-tests-nightly:
@@ -130,5 +163,7 @@ jobs:
           node-version: '22'
           cache: 'npm'
       - run: npm ci --ignore-scripts
+      - run: npm rebuild better-sqlite3
       - run: npm run build
+      - run: npm run build:db
       - run: CONTRACT_MODE=nightly npm run test:contract

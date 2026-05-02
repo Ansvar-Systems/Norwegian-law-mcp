@@ -1,11 +1,14 @@
 #!/usr/bin/env node
 /**
- * Norwegian Legal Citation MCP Server
+ * Swedish Legal Citation MCP Server (stdio transport)
  *
- * Provides 8 tools for querying Norwegian statutes, case law,
+ * Provides 15 tools for querying Swedish statutes, case law,
  * preparatory works, and legal citations.
  *
  * Zero-hallucination: never generates citations, only returns verified database entries.
+ *
+ * Tool definitions are in src/tools/registry.ts — the single source of truth
+ * shared between stdio (this file) and HTTP (api/mcp.ts) transports.
  */
 
 import { Server } from '@modelcontextprotocol/sdk/server/index.js';
@@ -19,8 +22,8 @@ import * as path from 'path';
 import { fileURLToPath } from 'url';
 import { createHash } from 'crypto';
 import { readFileSync, statSync } from 'fs';
+import type { AboutContext } from './tools/about.js';
 import { registerTools } from './tools/registry.js';
-import type { AboutContext } from './tools/registry.js';
 import {
   detectCapabilities,
   readDbMetadata,
@@ -34,7 +37,7 @@ const __dirname = path.dirname(__filename);
 const PKG_PATH = path.join(__dirname, '..', 'package.json');
 const pkgVersion: string = JSON.parse(readFileSync(PKG_PATH, 'utf-8')).version;
 
-const DB_ENV_VAR = 'NORWEGIAN_LAW_DB_PATH';
+const DB_ENV_VAR = 'SWEDISH_LAW_DB_PATH';
 const DEFAULT_DB_PATH = '../data/database.db';
 
 let dbInstance: InstanceType<typeof Database> | null = null;
@@ -106,9 +109,10 @@ const server = new Server(
   { capabilities: { tools: {}, resources: {} } }
 );
 
-// Register tools from shared registry
+// Register tools from the shared registry (single source of truth for both transports)
 registerTools(server, getDb(), aboutContext);
 
+// Resources (stdio-only — HTTP transport doesn't support resources yet)
 server.setRequestHandler(ListResourcesRequestSchema, async () => {
   console.error(`[${SERVER_NAME}] ListResources request received`);
   return {
@@ -146,16 +150,16 @@ server.setRequestHandler(ReadResourceRequestSchema, async (request) => {
               text: JSON.stringify(
                 {
                   status: 'no_data',
-                  message: 'No case law data has been synced yet. Use official Norwegian case-law channels per LEGAL_DATA_LICENSE.md.',
+                  message: 'No case law data has been synced yet. Run npm run sync:cases to fetch case law from lagen.nu.',
                   last_sync_date: null,
                   last_decision_date: null,
                   total_cases: 0,
                   cases_by_court: {},
                   source: {
-                    name: 'Lovdata',
-                    url: 'https://lovdata.no',
-                    license: 'See LEGAL_DATA_LICENSE.md',
-                    attribution: 'Case-law ingestion is policy-gated; metadata-only mode is default unless redistribution rights are explicit.',
+                    name: 'lagen.nu',
+                    url: 'https://lagen.nu',
+                    license: 'Creative Commons Attribution',
+                    attribution: 'Case law from lagen.nu, licensed CC-BY Domstolsverket',
                   },
                   update_frequency: 'weekly',
                   coverage: '1993-present (varies by court)',
@@ -200,10 +204,10 @@ server.setRequestHandler(ReadResourceRequestSchema, async (request) => {
         total_cases: totalCases,
         cases_by_court: casesByCourt,
         source: {
-          name: syncMeta?.source || 'Lovdata',
-          url: 'https://lovdata.no',
-          license: 'See LEGAL_DATA_LICENSE.md',
-          attribution: 'Case-law ingestion is policy-gated; metadata-only mode is default unless redistribution rights are explicit.',
+          name: syncMeta?.source || 'lagen.nu',
+          url: 'https://lagen.nu',
+          license: 'Creative Commons Attribution',
+          attribution: 'Case law from lagen.nu, licensed CC-BY Domstolsverket',
         },
         update_frequency: 'weekly',
         coverage: '1993-present (varies by court)',

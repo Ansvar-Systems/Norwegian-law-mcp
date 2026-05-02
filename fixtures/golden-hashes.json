@@ -1,49 +1,50 @@
 {
   "$schema": "./golden-hashes.schema.json",
   "version": "1.0",
-  "mcp_name": "Norwegian Law MCP",
-  "jurisdiction": "NO",
-  "description": "Drift detection anchors for stable Norwegian legal provisions.",
+  "mcp_name": "Swedish Law MCP",
+  "jurisdiction": "SE",
+  "description": "Drift detection anchors for stable Swedish provisions. Constitutional and fundamental law articles that rarely change.",
+  "computed_at": "2026-04-25T10:00:00Z",
   "provisions": [
     {
-      "id": "no-hash-001",
-      "description": "Grunnloven \u00a7 1 \u2014 sovereignty (kongeriket Norge)",
-      "upstream_url": "https://lovdata.no/lov/1814-05-17/\u00a71",
-      "selector_hint": "Section 1",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
-      "expected_snippet": "Kongeriket Noreg er eit fritt"
+      "id": "se-hash-001",
+      "description": "Regeringsformen (RF) 1 kap. — Statsskickets grunder (constitutional fundamentals)",
+      "upstream_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/kungorelse-1974152-om-beslutad-ny-regeringsform_sfs-1974-152/",
+      "selector_hint": "1 kap.",
+      "expected_sha256": "0035fa6cc8221dbfc697d4a253f94bf6cef754feeb96a8e95735dfdb12fd1598",
+      "expected_snippet": "All offentlig makt i Sverige utgår från folket"
     },
     {
-      "id": "no-hash-002",
-      "description": "Grunnloven \u00a7 2 \u2014 constitutional values",
-      "upstream_url": "https://lovdata.no/lov/1814-05-17/\u00a72",
-      "selector_hint": "Section 2",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
-      "expected_snippet": "demokrati"
+      "id": "se-hash-002",
+      "description": "Tryckfrihetsforordningen (TF) 1 kap. — press freedom fundamentals",
+      "upstream_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/tryckfrihetsforordning-1949105_sfs-1949-105/",
+      "selector_hint": "1 kap.",
+      "expected_sha256": "9377f40ff59b60f4851936accea7a84b66afbe4dd85e7235fd0e28964e8196b9",
+      "expected_snippet": "tryckfrihet"
     },
     {
-      "id": "no-hash-003",
-      "description": "Grunnloven \u00a7 49 \u2014 right to vote (stemmerett)",
-      "upstream_url": "https://lovdata.no/lov/1814-05-17/\u00a749",
-      "selector_hint": "Section 49",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
-      "expected_snippet": "stemmerett"
+      "id": "se-hash-003",
+      "description": "Brottsbalken (BrB) 1 kap. 1 § — legality principle",
+      "upstream_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/brottsbalk-1962700_sfs-1962-700/",
+      "selector_hint": "1 kap. 1 §",
+      "expected_sha256": "5b301721681a689904eed837f1cf4dfe9632b5bd0ac207598c1c354e2e0a4174",
+      "expected_snippet": "brott"
     },
     {
-      "id": "no-hash-004",
-      "description": "Grunnloven \u00a7 100 \u2014 freedom of expression (ytringsfridom)",
-      "upstream_url": "https://lovdata.no/lov/1814-05-17/\u00a7100",
-      "selector_hint": "Section 100",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
-      "expected_snippet": "ytringsfridom"
+      "id": "se-hash-004",
+      "description": "Skollagen (2010:800) 1 kap. — scope and purpose",
+      "upstream_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/skollag-2010800_sfs-2010-800/",
+      "selector_hint": "1 kap.",
+      "expected_sha256": "e9b968f5af5ff2591a76226b3788b8e24c507e3d51cca030f67c8e0645293cc7",
+      "expected_snippet": "utbildning"
     },
     {
-      "id": "no-hash-005",
-      "description": "Grunnloven \u00a7 102 \u2014 privacy (privatliv)",
-      "upstream_url": "https://lovdata.no/lov/1814-05-17/\u00a7102",
-      "selector_hint": "Section 102",
-      "expected_sha256": "COMPUTE_ON_FIRST_RUN",
-      "expected_snippet": "privatliv"
+      "id": "se-hash-005",
+      "description": "Miljöbalken (1998:808) 1 kap. — purpose of the Environmental Code",
+      "upstream_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/miljobalk-1998808_sfs-1998-808/",
+      "selector_hint": "1 kap.",
+      "expected_sha256": "d316cf9ec8dee92c5cbc45ebe1983d4e965ff821f4c16ca24518dd3ed2b85797",
+      "expected_snippet": "hållbar utveckling"
     }
   ]
 }

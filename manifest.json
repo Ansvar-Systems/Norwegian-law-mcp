@@ -2,8 +2,8 @@
   "manifest_version": "0.3",
   "name": "norwegian-law-mcp",
   "display_name": "Norwegian Law MCP Server",
-  "version": "1.0.0",
-  "description": "Production-grade Norwegian legal research MCP server with official-source ingestion and licensing-aware controls",
+  "version": "0.1.0",
+  "description": "Production-grade Norwegian legal research MCP server with comprehensive statute coverage from api.lovdata.no under NLOD 2.0",
   "author": {
     "name": "Ansvar Systems",
     "email": "hello@ansvar.eu",
@@ -26,6 +26,7 @@
     "compliance",
     "lovdata",
     "lov",
+    "nlod-2.0",
     "ansvar"
   ],
   "server": {
@@ -40,18 +41,10 @@
   "tools": [
     { "name": "search_legislation" },
     { "name": "get_provision" },
-    { "name": "search_case_law" },
-    { "name": "get_preparatory_works" },
     { "name": "validate_citation" },
-    { "name": "build_legal_stance" },
     { "name": "format_citation" },
     { "name": "check_currency" },
-    { "name": "get_eu_basis" },
-    { "name": "get_norwegian_implementations" },
-    { "name": "search_eu_implementations" },
-    { "name": "get_provision_eu_basis" },
-    { "name": "validate_eu_compliance" },
-    { "name": "get_provision_at_date" }
+    { "name": "get_eu_basis" }
   ],
   "compatibility": {
     "platforms": ["darwin", "win32", "linux"],

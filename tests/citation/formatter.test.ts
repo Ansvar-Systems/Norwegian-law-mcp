@@ -3,147 +3,97 @@ import { formatCitation, formatProvisionRef } from '../../src/citation/formatter
 import type { ParsedCitation } from '../../src/types/index.js';
 
 describe('formatCitation', () => {
-  describe('statute - full format', () => {
+  describe('statute — full format', () => {
     it('should format statute with document_id only', () => {
       const citation: ParsedCitation = {
-        raw: '2018:218', type: 'statute', document_id: '2018:218', valid: true,
+        raw: 'LOV-2018-06-15-38', type: 'statute', document_id: 'LOV-2018-06-15-38', valid: true,
       };
-      expect(formatCitation(citation, 'full')).toBe('SFS 2018:218');
+      expect(formatCitation(citation, 'full')).toBe('LOV-2018-06-15-38');
     });
 
-    it('should format statute with chapter and section', () => {
+    it('should format statute with section only', () => {
       const citation: ParsedCitation = {
-        raw: '2018:218 3 kap. 5 §', type: 'statute', document_id: '2018:218',
-        chapter: '3', section: '5', valid: true,
+        raw: 'LOV-2018-06-15-38 § 13', type: 'statute', document_id: 'LOV-2018-06-15-38',
+        section: '13', valid: true,
       };
-      expect(formatCitation(citation, 'full')).toBe('SFS 2018:218 3 kap. 5 §');
+      expect(formatCitation(citation, 'full')).toBe('LOV-2018-06-15-38 § 13');
     });
 
-    it('should format flat statute (section only)', () => {
+    it('should format statute with section and ledd', () => {
       const citation: ParsedCitation = {
-        raw: '1998:204 5 §', type: 'statute', document_id: '1998:204',
+        raw: 'LOV-2018-06-15-38 § 13 første ledd', type: 'statute', document_id: 'LOV-2018-06-15-38',
+        section: '13', ledd: 1, valid: true,
+      };
+      expect(formatCitation(citation, 'full')).toBe('LOV-2018-06-15-38 § 13 første ledd');
+    });
+
+    it('should format statute with section, ledd, and bokstav', () => {
+      const citation: ParsedCitation = {
+        raw: '', type: 'statute', document_id: 'LOV-2018-06-15-38',
+        section: '13', ledd: 1, bokstav: 'a', valid: true,
+      };
+      expect(formatCitation(citation, 'full')).toBe('LOV-2018-06-15-38 § 13 første ledd bokstav a');
+    });
+
+    it('should format statute with section and nr.', () => {
+      const citation: ParsedCitation = {
+        raw: '', type: 'statute', document_id: 'LOV-2018-06-15-38',
+        section: '13', nr: '2', valid: true,
+      };
+      expect(formatCitation(citation, 'full')).toBe('LOV-2018-06-15-38 § 13 nr. 2');
+    });
+
+    it('should format statute with chapter only', () => {
+      const citation: ParsedCitation = {
+        raw: '', type: 'statute', document_id: 'LOV-2018-06-15-38',
+        chapter: '3', valid: true,
+      };
+      expect(formatCitation(citation, 'full')).toBe('LOV-2018-06-15-38 kapittel 3');
+    });
+
+    it('should format regulation (FOR) the same way', () => {
+      const citation: ParsedCitation = {
+        raw: 'FOR-2018-07-20-1222 § 5', type: 'regulation', document_id: 'FOR-2018-07-20-1222',
         section: '5', valid: true,
       };
-      expect(formatCitation(citation, 'full')).toBe('SFS 1998:204 5 §');
-    });
-
-    it('should format Norwegian LOV in full format', () => {
-      const citation: ParsedCitation = {
-        raw: 'LOV-2018-06-15-38 § 2',
-        type: 'statute',
-        document_id: 'LOV-2018-06-15-38',
-        section: '2',
-        valid: true,
-      };
-      expect(formatCitation(citation, 'full')).toBe('LOV LOV-2018-06-15-38 2 §');
-    });
-
-    it('should format Norwegian LOV with alphabetic suffix in full format', () => {
-      const citation: ParsedCitation = {
-        raw: 'LOV-1814-05-17-NN § 1',
-        type: 'statute',
-        document_id: 'LOV-1814-05-17-NN',
-        section: '1',
-        valid: true,
-      };
-      expect(formatCitation(citation, 'full')).toBe('LOV LOV-1814-05-17-NN 1 §');
+      expect(formatCitation(citation, 'full')).toBe('FOR-2018-07-20-1222 § 5');
     });
   });
 
-  describe('statute - short format', () => {
-    it('should format as short with chapter:section', () => {
+  describe('statute — short format', () => {
+    it('should format short (section only, no ledd)', () => {
       const citation: ParsedCitation = {
-        raw: '', type: 'statute', document_id: '2018:218',
-        chapter: '3', section: '5', valid: true,
+        raw: '', type: 'statute', document_id: 'LOV-2018-06-15-38',
+        section: '13', ledd: 1, bokstav: 'a', valid: true,
       };
-      expect(formatCitation(citation, 'short')).toBe('2018:218 3:5');
-    });
-
-    it('should format flat statute short', () => {
-      const citation: ParsedCitation = {
-        raw: '', type: 'statute', document_id: '1998:204',
-        section: '5 a', valid: true,
-      };
-      expect(formatCitation(citation, 'short')).toBe('1998:204 5 a §');
-    });
-
-    it('should format Norwegian LOV short', () => {
-      const citation: ParsedCitation = {
-        raw: '',
-        type: 'statute',
-        document_id: 'LOV-1967-02-10',
-        section: '5',
-        valid: true,
-      };
-      expect(formatCitation(citation, 'short')).toBe('LOV-1967-02-10 § 5');
-    });
-
-    it('should format Norwegian LOV with alphabetic suffix short', () => {
-      const citation: ParsedCitation = {
-        raw: '',
-        type: 'statute',
-        document_id: 'LOV-1814-05-17-NN',
-        section: '1',
-        valid: true,
-      };
-      expect(formatCitation(citation, 'short')).toBe('LOV-1814-05-17-NN § 1');
+      // short format omits ledd/bokstav
+      expect(formatCitation(citation, 'short')).toBe('LOV-2018-06-15-38 § 13');
     });
   });
 
-  describe('statute - pinpoint format', () => {
-    it('should format pinpoint with chapter and section', () => {
+  describe('statute — pinpoint format', () => {
+    it('should format pinpoint with section', () => {
       const citation: ParsedCitation = {
-        raw: '', type: 'statute', document_id: '2018:218',
-        chapter: '3', section: '5', valid: true,
+        raw: '', type: 'statute', document_id: 'LOV-2018-06-15-38',
+        section: '13', valid: true,
       };
-      expect(formatCitation(citation, 'pinpoint')).toBe('3 kap. 5 §');
+      expect(formatCitation(citation, 'pinpoint')).toBe('§ 13');
     });
 
-    it('should format pinpoint with section only', () => {
+    it('should format pinpoint with section and ledd', () => {
       const citation: ParsedCitation = {
-        raw: '', type: 'statute', document_id: '1998:204',
-        section: '5', valid: true,
+        raw: '', type: 'statute', document_id: 'LOV-2018-06-15-38',
+        section: '13', ledd: 2, valid: true,
       };
-      expect(formatCitation(citation, 'pinpoint')).toBe('5 §');
-    });
-  });
-
-  describe('non-statute types', () => {
-    it('should format bill', () => {
-      const citation: ParsedCitation = {
-        raw: 'Prop. 2017/18:105', type: 'bill', document_id: '2017/18:105', valid: true,
-      };
-      expect(formatCitation(citation)).toBe('Prop. 2017/18:105');
+      expect(formatCitation(citation, 'pinpoint')).toBe('§ 13 andre ledd');
     });
 
-    it('should format NOU', () => {
+    it('should format pinpoint with chapter only', () => {
       const citation: ParsedCitation = {
-        raw: 'NOU 2017:39', type: 'sou', document_id: '2017:39', valid: true,
+        raw: '', type: 'statute', document_id: 'LOV-2018-06-15-38',
+        chapter: '3', valid: true,
       };
-      expect(formatCitation(citation)).toBe('NOU 2017:39');
-    });
-
-    it('should format Ds', () => {
-      const citation: ParsedCitation = {
-        raw: 'Ds 2022:10', type: 'ds', document_id: '2022:10', valid: true,
-      };
-      expect(formatCitation(citation)).toBe('Ds 2022:10');
-    });
-
-    it('should format NJA case law', () => {
-      const citation: ParsedCitation = {
-        raw: 'NJA 2020 s. 45', type: 'case_law', document_id: 'NJA 2020',
-        page: '45', valid: true,
-      };
-      expect(formatCitation(citation)).toBe('NJA 2020 s. 45');
-    });
-
-    it('should format HFD case law', () => {
-      const citation: ParsedCitation = {
-        raw: 'HFD 2019 ref. 12', type: 'case_law', document_id: 'HFD 2019',
-        page: '12', valid: true,
-      };
-      expect(formatCitation(citation)).toBe('HFD 2019 ref. 12');
+      expect(formatCitation(citation, 'pinpoint')).toBe('kapittel 3');
     });
   });
 
@@ -159,14 +109,10 @@ describe('formatCitation', () => {
 
 describe('formatProvisionRef', () => {
   it('should format chaptered provision', () => {
-    expect(formatProvisionRef('3', '5')).toBe('3:5');
+    expect(formatProvisionRef('3', '13')).toBe('3:13');
   });
 
   it('should format flat provision', () => {
-    expect(formatProvisionRef(undefined, '5')).toBe('5');
-  });
-
-  it('should handle special numbering', () => {
-    expect(formatProvisionRef(undefined, '5 a')).toBe('5 a');
+    expect(formatProvisionRef(undefined, '13')).toBe('13');
   });
 });

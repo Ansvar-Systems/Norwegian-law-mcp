@@ -1,5 +1,5 @@
 /**
- * Types for legal citation parsing, formatting, and validation.
+ * Types for Norwegian legal citation parsing, formatting, and validation.
  */
 
 import type { DocumentType, DocumentStatus } from './documents.js';
@@ -15,17 +15,32 @@ export interface ParsedCitation {
   /** Detected document type */
   type: DocumentType;
 
-  /** Document identifier (LOV id, case ref, prop number) */
+  /** Document identifier (LOV/FOR ID, e.g., "LOV-2018-06-15-38") */
   document_id: string;
 
-  /** Chapter reference (if any) */
+  /** Chapter reference — kapittel number (if any) */
   chapter?: string;
 
-  /** Section/paragraph reference (if any) */
+  /** Section/paragraph reference — paragraf number (e.g., "13") */
   section?: string;
 
-  /** Page reference for case law (e.g., "s. 45") */
-  page?: string;
+  /**
+   * Ledd ordinal (numbered paragraph within a section).
+   * 1=første ledd, 2=andre ledd, 3=tredje ledd, etc.
+   */
+  ledd?: number;
+
+  /**
+   * Bokstav sub-point reference (e.g., "a", "b").
+   * From "§ N bokstav a" constructs.
+   */
+  bokstav?: string;
+
+  /**
+   * Nr reference (numbered list item within a ledd or section).
+   * From "§ N nr. 1" constructs.
+   */
+  nr?: string;
 
   /** Whether parsing succeeded */
   valid: boolean;
@@ -51,6 +66,6 @@ export interface ValidationResult {
   /** Title of the document (if found) */
   document_title?: string;
 
-  /** Warning messages (e.g., "statute has been amended") */
+  /** Warning messages (e.g., "statute has been repealed") */
   warnings: string[];
 }

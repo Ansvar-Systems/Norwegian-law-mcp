@@ -2,18 +2,18 @@
 
 **CRITICAL READING FOR LEGAL PROFESSIONALS**
 
-This document addresses privacy and confidentiality considerations when using this Tool, with particular attention to professional obligations under Norwegian Bar Association (Advokatforeningen) rules.
+This document addresses privacy and confidentiality considerations when using this Tool, with particular attention to professional obligations under Den Norske Advokatforening (Norwegian Bar Association) rules and Norwegian data protection law.
 
 ---
 
 ## Executive Summary for Legal Professionals
 
-⚠️ **Key Risks:**
+**Key Risks:**
 - Queries flow through Claude API infrastructure (Anthropic cloud)
 - Query content may reveal client matters and privileged information
-- Norwegian Bar Association rules require strict data processing controls
+- Advokatforeningen rules require strict data processing controls
 
-✅ **Safe Use Options:**
+**Safe Use Options:**
 1. **General Legal Research**: Use Tool for non-client-specific queries
 2. **On-Premise Deployment**: Self-host with local LLM for privileged matters (see below)
 3. **Anonymization**: Remove all client-identifying information from queries
@@ -43,7 +43,7 @@ When you use this Tool through Claude Desktop or API:
 
 - **Query Text**: The full text of your search queries
 - **Tool Parameters**: Document IDs, provision references, filters, date ranges
-- **Tool Responses**: Statute text, case summaries, preparatory works
+- **Tool Responses**: Statute text, cross-references
 - **Metadata**: Timestamps, user agent, API keys (handled by Anthropic)
 
 **What Does NOT Get Transmitted:**
@@ -57,7 +57,7 @@ When you use this Tool through Claude Desktop or API:
 
 ### Advokatforeningen (Norwegian Bar Association) Rules
 
-Norwegian lawyers are bound by **strict confidentiality rules** under the Courts of Justice Act (domstolloven) and Advokatforeningen's Rules of Professional Conduct (Regler for god advokatskikk).
+Norwegian lawyers are bound by **strict confidentiality rules** under Domstolloven § 224 and the Advokatforskriften (Regulation on Lawyers). Den Norske Advokatforening's Code of Conduct (Regler for god advokatskikk) imposes professional confidentiality obligations.
 
 #### Taushetsplikt (Duty of Confidentiality)
 
@@ -68,35 +68,37 @@ Norwegian lawyers are bound by **strict confidentiality rules** under the Courts
 - Information that could identify client or matter
 
 **Consequences of Breach:**
-- Professional disciplinary action
-- Suspension or disbarment
+- Professional disciplinary action (Advokatbevillingsnemnden)
+- Suspension or loss of licence
 - Civil liability to client
-- Criminal liability (in extreme cases)
+- Criminal liability (in extreme cases, Straffeloven § 211)
 
-### GDPR and Client Data Processing
+### GDPR and Personopplysningsloven
 
-Under **GDPR Article 28**, when you use a service that processes client data:
+Norway implemented the GDPR through Personopplysningsloven (LOV-2018-06-15-38) via the EEA Agreement. When you use a service that processes client data:
 
-- You are the **Data Controller**
-- Anthropic is a **Data Processor**
-- A **Data Processing Agreement (DPA)** may be required
-- You must ensure adequate technical and organizational measures
+- You are the **Data Controller** (behandlingsansvarlig)
+- Anthropic is a **Data Processor** (databehandler)
+- A **Data Processing Agreement (DPA)** (databehandleravtale) is required under Personopplysningsloven § 13 / GDPR Article 28
+- You must ensure adequate technical and organisational measures
+
+**Supervisory Authority:** Datatilsynet (Norwegian Data Protection Authority) — [datatilsynet.no](https://www.datatilsynet.no/)
 
 **Do You Have a DPA with Anthropic?**
 - Check [Anthropic's Commercial Terms](https://www.anthropic.com/legal/commercial-terms) for DPA coverage
-- Confirm whether Anthropic's terms meet your GDPR obligations
+- Confirm whether Anthropic's terms meet your obligations under Personopplysningsloven
 - Consider whether client consent is required for third-party processing
 
 ---
 
 ## Risk Assessment by Use Case
 
-### ✅ **LOW RISK**: General Legal Research
+### LOW RISK: General Legal Research
 
 **Safe to use through Claude API:**
 
 ```
-Example Query: "What does Norwegian GDPR implementation say about data breach notification?"
+Example Query: "What does Personopplysningsloven § 5 say about data minimisation?"
 ```
 
 - No client identity
@@ -104,25 +106,24 @@ Example Query: "What does Norwegian GDPR implementation say about data breach no
 - No privileged strategy
 - Publicly available legal information
 
-### ⚠️ **MEDIUM RISK**: Anonymized Client Matters
+### MEDIUM RISK: Anonymized Client Matters
 
 **Use with caution:**
 
 ```
-Example Query: "What are the penalties under Norwegian criminal law for insider trading?"
+Example Query: "What are the penalties under Straffeloven for insider trading?"
 ```
 
 **Risks:**
-- Query pattern may reveal you're working on insider trading matter
-- If you're the only lawyer in town handling securities cases, context may identify client
-- Anthropic logs may link query to your API key, your practice, and your clients
+- Query pattern may reveal you're working on an insider trading matter
+- Anthropic logs may link query to your API key → your practice → your clients
 
 **Mitigation:**
 - Remove ALL identifying details
 - Use general terms, not case-specific facts
-- Consider whether even legal area is sensitive (e.g., money laundering, terrorism)
+- Consider whether even the legal area is sensitive
 
-### 🚫 **HIGH RISK**: Client-Specific Queries
+### HIGH RISK: Client-Specific Queries
 
 **DO NOT USE through Claude API:**
 
@@ -137,7 +138,7 @@ Bad Example: "Find precedents for custody disputes involving allegations of subs
 - May violate Advokatforeningen rules even if client name not mentioned
 
 **What to do instead:**
-- Use Gyldendal Rettsdata, Lovdata Pro, or other commercial legal databases with DPAs
+- Use lovdata.no (full subscription) or Rettsdata with appropriate DPAs
 - Use on-premise deployment (see below)
 - Conduct manual research through official channels
 
@@ -157,7 +158,7 @@ User Query → Local MCP Client → Local LLM (no external API) → MCP Server (
 - No query data sent to Anthropic or any external service
 - Full control over logging and data retention
 - Compliant with Advokatforeningen confidentiality rules
-- GDPR-compliant (no third-party processors)
+- Compliant with Personopplysningsloven (no third-party data processors)
 
 ### Self-Hosted LLM Options
 
@@ -170,7 +171,7 @@ User Query → Local MCP Client → Local LLM (no external API) → MCP Server (
 
 ### Hardware Requirements
 
-For acceptable performance with a 70B parameter model (Llama 3.1 70B or similar):
+For acceptable performance with a 70B parameter model:
 
 - **GPU**: NVIDIA A100 (80GB) or H100 (recommended)
 - **RAM**: 128GB+ system RAM
@@ -208,7 +209,7 @@ For acceptable performance with a 70B parameter model (Llama 3.1 70B or similar)
 3. **Deploy Database Locally**:
    - Database is already local (SQLite file)
    - Ensure `data/database.db` is on encrypted disk
-   - Run updates locally (`npm run sync:cases`, `npm run check-updates`)
+   - Run updates locally (`npm run check-updates`)
 
 ### Cloud Deployment (Private VPC)
 
@@ -221,7 +222,7 @@ For law firms requiring cloud scalability with confidentiality:
 5. **Network Isolation** — no internet access, internal-only endpoints
 6. **Audit Logging** — CloudTrail/Azure Monitor for compliance
 
-**Estimated Cost**: €500-2000/month depending on usage and instance sizes
+**Estimated Cost**: €500–2000/month depending on usage and instance sizes
 
 ---
 
@@ -251,12 +252,20 @@ Per [Anthropic Privacy Policy](https://www.anthropic.com/legal/privacy):
 
 ---
 
+## NLOD 2.0 and Data License
+
+The legal data served by this Tool is licensed under NLOD 2.0 (Norwegian Licence for Open Government Data). NLOD 2.0 permits free reuse including commercial use and AI development. See [DATA_LICENSES.md](DATA_LICENSES.md) for attribution requirements.
+
+NLOD 2.0 is separate from personal data protection rules. Using this Tool to process queries about clients still requires compliance with Personopplysningsloven and GDPR regardless of the data license on the legal corpus.
+
+---
+
 ## Recommendations by User Type
 
 ### Solo Practitioners / Small Firms
 
 1. **General Research**: Use Claude API for non-client-specific research
-2. **Client Matters**: Use Gyldendal Rettsdata/Lovdata Pro or manual research
+2. **Client Matters**: Use lovdata.no (full subscription) or manual research
 3. **Budget Option**: Deploy locally with Ollama for confidential queries
 4. **Document Queries**: Keep query log to assess confidentiality risks monthly
 
@@ -265,15 +274,15 @@ Per [Anthropic Privacy Policy](https://www.anthropic.com/legal/privacy):
 1. **Enterprise DPA**: Negotiate Data Processing Agreement with Anthropic
 2. **Zero Data Retention**: Require ZDR or minimal retention in DPA
 3. **On-Premise Deployment**: Deploy privately hosted LLM infrastructure
-4. **Information Security Audit**: Conduct privacy impact assessment (PIA)
+4. **Information Security Audit**: Conduct personvernkonsekvensvurdering (DPIA) per Personopplysningsloven § 24
 5. **Staff Training**: Train lawyers on safe vs. unsafe queries
 
 ### Government / Public Sector
 
 1. **Security Classification**: Treat all government legal work as confidential
 2. **On-Premise Required**: Use self-hosted deployment, no external APIs
-3. **Air-Gapped Option**: Fully isolated network for sensitive matters
-4. **Procurement Compliance**: Follow public procurement rules for LLM infrastructure
+3. **NSM Guidelines**: Follow Nasjonal sikkerhetsmyndighet guidelines for AI tool use
+4. **Procurement Compliance**: Follow public procurement rules (Anskaffelsesloven) for LLM infrastructure
 
 ---
 
@@ -281,29 +290,22 @@ Per [Anthropic Privacy Policy](https://www.anthropic.com/legal/privacy):
 
 ### Do You Need Client Consent?
 
-Under GDPR and professional ethics rules, consider whether you need **informed client consent** before using AI tools:
+Under Personopplysningsloven and professional ethics rules, consider whether you need **informed client consent** before using AI tools:
 
 **Factors Requiring Consent:**
 - Client data is transmitted to third-party processor (Anthropic)
 - AI tool use may affect legal strategy or case outcome
 - Client has reasonable expectation of confidentiality
-- Professional rules require disclosure of AI use
 
 **Recommended Practice:**
-- Update engagement letters to disclose AI tool use
+- Update engagement letters (oppdragsbekreftelse) to disclose AI tool use
 - Provide clients with information about data processing
 - Offer opt-out for clients who object to AI use
-- Document client consent in file
+- Document client consent in the matter file
 
 ### Professional Disclosure
 
-Some jurisdictions require disclosing AI tool use in legal work:
-
-- **To Courts**: If AI-generated research cited in filings (always verify first!)
-- **To Clients**: Best practice even if not strictly required
-- **To Opposing Counsel**: Generally not required unless court rules mandate
-
-**Norway**: No specific disclosure requirement yet, but professional ethics (god advokatskikk) may require transparency with clients.
+**Norway**: No specific AI disclosure requirement in Advokatforskriften as of 2026, but regler for god advokatskikk (principle of transparency) may require disclosure to clients. Consult Advokatforeningen's ethics committee for current guidance.
 
 ---
 
@@ -319,11 +321,11 @@ Some jurisdictions require disclosing AI tool use in legal work:
 
 ### Red Flags — Stop Using Immediately If:
 
-- ❌ API keys committed to Git or shared in Slack
-- ❌ Database file accessible to other users on shared computer
-- ❌ Queries include client names, case numbers, or identifying information
-- ❌ No Data Processing Agreement with Anthropic for client data
-- ❌ Using personal Claude.ai account (web interface) for client work
+- API keys committed to Git or shared in communication tools
+- Database file accessible to other users on shared computer
+- Queries include client names, case numbers, or identifying information
+- No Data Processing Agreement with Anthropic for client data
+- Using personal Claude.ai account (web interface) for client work
 
 ---
 
@@ -333,12 +335,12 @@ Some jurisdictions require disclosing AI tool use in legal work:
 
 - [ ] Read and understood [DISCLAIMER.md](DISCLAIMER.md)
 - [ ] Reviewed Anthropic Privacy Policy and Terms
-- [ ] Determined whether Data Processing Agreement is required
+- [ ] Determined whether databehandleravtale is required under Personopplysningsloven § 13
 - [ ] Assessed whether client consent is needed
 - [ ] Decided on deployment model (Cloud API vs. On-Premise)
 - [ ] Trained staff on confidential vs. non-confidential queries
-- [ ] Updated engagement letters to disclose AI tool use (if required)
-- [ ] Established query anonymization procedures
+- [ ] Updated oppdragsbekreftelse to disclose AI tool use (if required)
+- [ ] Established query anonymisation procedures
 - [ ] Documented decision to use Tool in risk management records
 
 ---
@@ -350,18 +352,19 @@ Some jurisdictions require disclosing AI tool use in legal work:
 For questions about privacy and confidentiality:
 
 1. **Anthropic Privacy**: Contact privacy@anthropic.com
-2. **Advokatforeningen Guidance**: Consult Norwegian Bar Association ethics hotline
-3. **Tool-Specific**: Open issue on [GitHub](https://github.com/Ansvar-Systems/norwegian-law-mcp/issues)
+2. **Advokatforeningen Guidance**: Consult Advokatforeningens etikkutvalg (ethics committee)
+3. **Datatilsynet**: For GDPR/Personopplysningsloven interpretation — [datatilsynet.no](https://www.datatilsynet.no/)
+4. **Tool-Specific**: Open issue on [GitHub](https://github.com/Ansvar-Systems/norwegian-law-mcp/issues)
 
 ### Incident Reporting
 
 If you suspect a confidentiality breach (e.g., accidentally queried client name):
 
 1. **Document Incident**: Record what information was transmitted and when
-2. **Notify Client**: Inform affected client under GDPR breach notification rules
+2. **Notify Client**: Inform affected client under Personopplysningsloven § 19 / GDPR Article 34 breach notification rules
 3. **Contact Anthropic**: Request deletion of query logs (if possible)
-4. **Advokatforeningen**: Report to Bar Association if required
-5. **GDPR Authority**: Report to Datatilsynet if personal data breach
+4. **Datatilsynet**: Report to Datatilsynet if personal data breach under Personopplysningsloven § 33 / GDPR Article 33
+5. **Advokatforeningen**: Report to Advokatforeningen if professional rules may have been breached
 
 ---
 
@@ -376,21 +379,21 @@ Check [GitHub repository](https://github.com/Ansvar-Systems/norwegian-law-mcp) f
 
 ---
 
-**Last Updated**: 2026-02-12
-**Tool Version**: 1.1.0 (Production-Grade)
+**Last Updated**: 2026-05-02
+**Tool Version**: 0.1.0
 
 ---
 
 ## Summary: Safe Use Guidelines
 
-✅ **DO**: Use for general, non-client-specific legal research
-✅ **DO**: Deploy on-premise for privileged client matters
-✅ **DO**: Anonymize queries and remove all client identifiers
-✅ **DO**: Obtain client consent if required by professional rules
-✅ **DO**: Document AI tool use and confidentiality assessments
+**DO**: Use for general, non-client-specific legal research
+**DO**: Deploy on-premise for privileged client matters
+**DO**: Anonymise queries and remove all client identifiers
+**DO**: Obtain client consent if required by professional rules
+**DO**: Document AI tool use and confidentiality assessments
 
-❌ **DON'T**: Include client names, case numbers, or identifying facts in queries
-❌ **DON'T**: Use for sensitive matters without on-premise deployment
-❌ **DON'T**: Assume Anthropic's standard terms meet your GDPR obligations
-❌ **DON'T**: Use personal Claude.ai account for professional legal work
-❌ **DON'T**: Forget that query patterns may reveal confidential information even without explicit identifiers
+**DON'T**: Include client names, case numbers, or identifying facts in queries
+**DON'T**: Use for sensitive matters without on-premise deployment
+**DON'T**: Assume Anthropic's standard terms meet your Personopplysningsloven obligations
+**DON'T**: Use personal Claude.ai account for professional legal work
+**DON'T**: Forget that query patterns may reveal confidential information even without explicit identifiers

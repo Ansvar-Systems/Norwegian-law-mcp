@@ -1,13 +1,13 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "eu.ansvar/norwegian-law-mcp",
-  "description": "Norwegian legislation via MCP — full-text search across statutes and provisions",
+  "description": "Query current Norwegian statutes and central regulations from api.lovdata.no under NLOD 2.0",
   "repository": {
     "url": "https://github.com/Ansvar-Systems/norwegian-law-mcp",
     "source": "github"
   },
   "homepage": "https://ansvar.eu",
-  "version": "1.0.1",
+  "version": "0.1.0",
   "license": "Apache-2.0",
   "keywords": [
     "norwegian-law",
@@ -15,6 +15,7 @@
     "legal",
     "lovdata",
     "lov",
+    "nlod-2.0",
     "compliance",
     "gdpr",
     "eu-law",
@@ -25,7 +26,7 @@
     {
       "registryType": "npm",
       "identifier": "@ansvar/norwegian-law-mcp",
-      "version": "1.0.1",
+      "version": "0.1.0",
       "transport": {
         "type": "stdio"
       }

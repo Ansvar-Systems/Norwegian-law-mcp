@@ -37,15 +37,15 @@ jobs:
           file: Dockerfile
           push: false
           load: true
-          tags: norwegian-law-mcp:scan
+          tags: swedish-law-mcp:scan
           platforms: linux/amd64
           cache-from: type=gha
           cache-to: type=gha,mode=max
 
       - name: Run Trivy vulnerability scanner (SARIF)
-        uses: aquasecurity/trivy-action@0.34.0
+        uses: aquasecurity/trivy-action@v0.35.0
         with:
-          image-ref: norwegian-law-mcp:scan
+          image-ref: swedish-law-mcp:scan
           format: 'sarif'
           output: 'trivy-container.sarif'
           severity: 'CRITICAL,HIGH,MEDIUM'
@@ -61,18 +61,18 @@ jobs:
           category: 'trivy-container'
 
       - name: Run Trivy for JSON report (audit evidence)
-        uses: aquasecurity/trivy-action@0.34.0
+        uses: aquasecurity/trivy-action@v0.35.0
         with:
-          image-ref: norwegian-law-mcp:scan
+          image-ref: swedish-law-mcp:scan
           format: 'json'
           output: 'trivy-container.json'
           severity: 'CRITICAL,HIGH,MEDIUM,LOW'
           vuln-type: 'os,library'
 
       - name: Run Trivy for table output (summary)
-        uses: aquasecurity/trivy-action@0.34.0
+        uses: aquasecurity/trivy-action@v0.35.0
         with:
-          image-ref: norwegian-law-mcp:scan
+          image-ref: swedish-law-mcp:scan
           format: 'table'
           severity: 'CRITICAL,HIGH'
           vuln-type: 'os,library'
@@ -110,33 +110,33 @@ jobs:
           file: Dockerfile
           push: false
           load: true
-          tags: norwegian-law-mcp:sbom
+          tags: swedish-law-mcp:sbom
           platforms: linux/amd64
           cache-from: type=gha
 
       - name: Generate SBOM (CycloneDX format)
         uses: anchore/sbom-action@v0
         with:
-          image: norwegian-law-mcp:sbom
+          image: swedish-law-mcp:sbom
           format: cyclonedx-json
-          output-file: sbom-norwegian-law-mcp-cyclonedx.json
+          output-file: sbom-swedish-law-mcp-cyclonedx.json
           artifact-name: sbom-cyclonedx
 
       - name: Generate SBOM (SPDX format)
         uses: anchore/sbom-action@v0
         with:
-          image: norwegian-law-mcp:sbom
+          image: swedish-law-mcp:sbom
           format: spdx-json
-          output-file: sbom-norwegian-law-mcp-spdx.json
+          output-file: sbom-swedish-law-mcp-spdx.json
           artifact-name: sbom-spdx
 
       - name: Upload SBOM artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: sbom-norwegian-law-mcp
+          name: sbom-swedish-law-mcp
           path: |
-            sbom-norwegian-law-mcp-cyclonedx.json
-            sbom-norwegian-law-mcp-spdx.json
+            sbom-swedish-law-mcp-cyclonedx.json
+            sbom-swedish-law-mcp-spdx.json
           retention-days: 365
 
   security-summary:
@@ -153,7 +153,7 @@ jobs:
         run: |
           echo "## Docker Security Scan Summary" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**Image:** norwegian-law-mcp:scan" >> $GITHUB_STEP_SUMMARY
+          echo "**Image:** swedish-law-mcp:scan" >> $GITHUB_STEP_SUMMARY
           echo "**Platform:** linux/amd64" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "| Check | Status |" >> $GITHUB_STEP_SUMMARY
@@ -166,7 +166,7 @@ jobs:
           echo "- **SBOM (CycloneDX + SPDX)**: 365-day retention (compliance)" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "### About This Scan" >> $GITHUB_STEP_SUMMARY
-          echo "This workflow scans the Norwegian Law MCP **Docker container image** for:" >> $GITHUB_STEP_SUMMARY
+          echo "This workflow scans the Swedish Law MCP **Docker container image** for:" >> $GITHUB_STEP_SUMMARY
           echo "- OS package vulnerabilities (Alpine base)" >> $GITHUB_STEP_SUMMARY
           echo "- Node.js dependency vulnerabilities" >> $GITHUB_STEP_SUMMARY
           echo "- Container configuration issues" >> $GITHUB_STEP_SUMMARY

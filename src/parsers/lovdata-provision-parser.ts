@@ -1,259 +1,78 @@
 /**
- * Parser tuned for Norwegian statute text dumps.
+ * Parser for Lovdata HTML5 XML document files.
  *
- * Source text may contain line-break artifacts and occasional table-of-contents
- * fragments. This parser uses conservative chapter activation and section
- * monotonicity checks to avoid mislabeling provisions.
+ * Lovdata distributes Norwegian legislation as HTML5 with semantic class
+ * attributes under the api.lovdata.no licensed-access API. This parser
+ * converts a single document file into a structured LovdataDocument.
  *
- * Note: Both Norwegian and Swedish statutes use "kap." for chapters and "§"
- * for sections, so the structural parsing logic is shared. This parser was
- * originally built for Riksdagen data but works for Lovdata-sourced text too.
+ * NOTE: The implementation body of parseLovdataDocument is being filled
+ * by a separate ingestion stream. The type signatures here are canonical —
+ * do not change field names without updating the ingestion stream.
  */
 
-export interface LovdataProvision {
-  provision_ref: string;
-  chapter?: string;
-  section: string;
-  title?: string;
-  content: string;
-}
+import { JSDOM } from 'jsdom';
 
-/** @deprecated Use LovdataProvision instead */
-export type RiksdagenProvision = LovdataProvision;
+// ---------------------------------------------------------------------------
+// Types
+// ---------------------------------------------------------------------------
 
-export interface LovdataParseDiagnostics {
-  ignored_chapter_markers: number;
-  suppressed_section_candidates: number;
-}
-
-/** @deprecated Use LovdataParseDiagnostics instead */
-export type RiksdagenParseDiagnostics = LovdataParseDiagnostics;
-
-export interface LovdataParseResult {
+export interface LovdataDocument {
+  id: string;                  // "LOV-2018-06-15-38"
+  document_id: string;         // "NL/lov/2018-06-15-38"
+  title: string;
+  short_name?: string;         // From Korttittel
+  type: 'statute' | 'regulation';
+  status: 'in_force' | 'repealed';
+  issued_date?: string;        // From dateOfPublication
+  in_force_date?: string;      // From dateInForce
+  url: string;                 // https://lovdata.no/dokument/NL/lov/2018-06-15-38
+  description?: string;        // From miscInformation or first sentence of body
+  ministry?: string;
+  legal_area?: string[];
+  eea_references?: string[];
   provisions: LovdataProvision[];
-  diagnostics: LovdataParseDiagnostics;
 }
 
-/** @deprecated Use LovdataParseResult instead */
-export type RiksdagenParseResult = LovdataParseResult;
-
-const CHAPTER_PATTERN = /^(\d+)\s*kap\.\s*(.*)$/u;
-const SECTION_PATTERN = /^(\d+\s*[a-z]?)\s*§\s*(.*)$/iu;
-const LAW_NOTE_PATTERN = /^(?:Lov|Lag)\s+(?:\d{1,2}\s+[a-zæøåäö]+\s+\d{4}\s+nr\.?\s*\d+|\(\d{4}:\d+\))\.?$/u;
-
-function normalizeSectionRef(section: string): string {
-  return section.replace(/\s+/g, ' ').trim().toLowerCase();
+export interface LovdataProvision {
+  provision_ref: string;       // "1" (just the §-number, no §-symbol)
+  chapter?: string;            // "1"
+  chapter_title?: string;      // "Innledende bestemmelser"
+  section: string;             // "1" (same as provision_ref for §-paragrafer)
+  title?: string;              // From legalArticleTitle
+  content: string;             // Concatenated legalP + numberedLegalP text
+  ledd_count?: number;         // Number of numbered paragraphs ('ledd') within
+  metadata?: Record<string, unknown>;
+  valid_from?: string;
+  valid_to?: string;
 }
 
-function sectionNumber(section: string): number | undefined {
-  const match = section.match(/^(\d+)/);
-  if (!match) {
-    return undefined;
-  }
-  return Number.parseInt(match[1], 10);
-}
+// ---------------------------------------------------------------------------
+// Parser stub
+// ---------------------------------------------------------------------------
 
-function sectionOrdinal(section: string): number | undefined {
-  const match = section.match(/^(\d+)(?:\s*([a-z]))?$/i);
-  if (!match) {
-    return undefined;
-  }
-  const base = Number.parseInt(match[1], 10);
-  const suffix = (match[2] ?? '').toLowerCase();
-  if (!suffix) {
-    return base * 100;
-  }
-  const offset = suffix.charCodeAt(0) - 96;
-  return base * 100 + Math.max(offset, 0);
-}
-
-function startsWithLowercase(text: string): boolean {
-  if (!text) {
-    return false;
-  }
-  return /^[a-zåäöæø]/u.test(text);
-}
-
-function isLikelyTitle(line: string): boolean {
-  return (
-    line.length > 0 &&
-    line.length < 100 &&
-    /^[A-ZÅÄÖÆØ]/u.test(line) &&
-    !/^\d+\s*(kap\.|§)/u.test(line) &&
-    !LAW_NOTE_PATTERN.test(line)
-  );
-}
-
-/** @deprecated Use parseLovdataProvisions instead */
-export function parseRiksdagenProvisions(text: string): LovdataParseResult {
-  return parseLovdataProvisions(text);
-}
-
-export function parseLovdataProvisions(text: string): LovdataParseResult {
-  const lines = text.split(/\r?\n/);
-  const provisions: LovdataProvision[] = [];
-  const seenProvisionRefs = new Set<string>();
-  const lastOrdinalByChapter = new Map<string, number>();
-  const diagnostics: LovdataParseDiagnostics = {
-    ignored_chapter_markers: 0,
-    suppressed_section_candidates: 0,
-  };
-
-  let currentChapter: string | undefined;
-  let pendingChapter: string | undefined;
-
-  let currentSection: string | undefined;
-  let currentTitle: string | undefined;
-  let pendingTitle: string | undefined;
-  const currentContent: string[] = [];
-
-  function flushCurrentSection(): void {
-    if (!currentSection || currentContent.length === 0) {
-      currentSection = undefined;
-      currentTitle = undefined;
-      currentContent.length = 0;
-      return;
-    }
-
-    const section = normalizeSectionRef(currentSection);
-    const provisionRef = currentChapter ? `${currentChapter}:${section}` : section;
-
-    provisions.push({
-      provision_ref: provisionRef,
-      chapter: currentChapter,
-      section,
-      title: currentTitle,
-      content: currentContent.join(' ').replace(/\s+/g, ' ').trim(),
-    });
-
-    seenProvisionRefs.add(provisionRef);
-
-    if (currentChapter) {
-      const ordinal = sectionOrdinal(section);
-      if (ordinal !== undefined) {
-        lastOrdinalByChapter.set(currentChapter, ordinal);
-      }
-    }
-
-    currentSection = undefined;
-    currentTitle = undefined;
-    currentContent.length = 0;
-  }
-
-  for (const rawLine of lines) {
-    const line = rawLine.trim();
-    if (!line) {
-      continue;
-    }
-
-    const chapterMatch = line.match(CHAPTER_PATTERN);
-    if (chapterMatch) {
-      flushCurrentSection();
-      pendingChapter = chapterMatch[1];
-      pendingTitle = undefined;
-      continue;
-    }
-
-    const sectionMatch = line.match(SECTION_PATTERN);
-    if (sectionMatch) {
-      const normalizedSection = normalizeSectionRef(sectionMatch[1]);
-      const sectionNum = sectionNumber(normalizedSection);
-      const remainder = sectionMatch[2].trim();
-
-      let chapterForSection = currentChapter;
-      let chapterActivated = false;
-
-      if (pendingChapter) {
-        if (!currentChapter || sectionNum === 1) {
-          chapterForSection = pendingChapter;
-          chapterActivated = chapterForSection !== currentChapter;
-        } else {
-          diagnostics.ignored_chapter_markers++;
-        }
-        pendingChapter = undefined;
-      }
-
-      const provisionRef = chapterForSection
-        ? `${chapterForSection}:${normalizedSection}`
-        : normalizedSection;
-
-      const candidateOrdinal = sectionOrdinal(normalizedSection);
-      const currentOrdinal = currentSection ? sectionOrdinal(currentSection) : undefined;
-      const lastOrdinal = chapterForSection ? lastOrdinalByChapter.get(chapterForSection) : undefined;
-      const candidateNumber = sectionNumber(normalizedSection);
-      const currentNumber = currentSection ? sectionNumber(currentSection) : undefined;
-
-      const isDuplicateRef = seenProvisionRefs.has(provisionRef);
-      const isOutOfOrderFromCurrent = (
-        currentOrdinal !== undefined &&
-        candidateOrdinal !== undefined &&
-        candidateOrdinal <= currentOrdinal
-      );
-      const isOutOfOrderFromHistory = (
-        !chapterActivated &&
-        lastOrdinal !== undefined &&
-        candidateOrdinal !== undefined &&
-        candidateOrdinal <= lastOrdinal
-      );
-      const isLikelyInlineReference = (
-        !chapterActivated &&
-        currentSection !== undefined &&
-        currentContent.length > 0 &&
-        startsWithLowercase(remainder)
-      );
-      const isSuspiciousFlatJump = (
-        !chapterActivated &&
-        !chapterForSection &&
-        currentNumber !== undefined &&
-        candidateNumber !== undefined &&
-        candidateNumber - currentNumber >= 8 &&
-        currentContent.length > 0
-      );
-
-      if (
-        isDuplicateRef ||
-        isOutOfOrderFromCurrent ||
-        isOutOfOrderFromHistory ||
-        isLikelyInlineReference ||
-        isSuspiciousFlatJump
-      ) {
-        diagnostics.suppressed_section_candidates++;
-        if (currentSection) {
-          currentContent.push(line);
-        }
-        continue;
-      }
-
-      const titleForSection = pendingTitle;
-      pendingTitle = undefined;
-      flushCurrentSection();
-
-      currentChapter = chapterForSection;
-      currentSection = normalizedSection;
-      currentTitle = titleForSection;
-
-      if (remainder) {
-        currentContent.push(remainder);
-      }
-      continue;
-    }
-
-    if (!currentSection && isLikelyTitle(line)) {
-      pendingTitle = line;
-      continue;
-    }
-
-    if (currentSection && currentContent.length === 0 && isLikelyTitle(line)) {
-      currentTitle = line;
-      continue;
-    }
-
-    if (currentSection) {
-      currentContent.push(line);
-    }
-  }
-
-  flushCurrentSection();
-
-  return { provisions, diagnostics };
+/**
+ * Parse a single Lovdata HTML5 XML file into a LovdataDocument.
+ *
+ * Lovdata XML structure (HTML5 with semantic class attributes):
+ * - <header class="documentHeader"> — metadata in <dl class="data-document-key-info">
+ * - <body> content with sections (kapittel) containing legalArticles (paragrafer §)
+ *
+ * Class semantics:
+ * - legalArticle (134 in personopplysningsloven) = a paragraph (§) — becomes a LovdataProvision
+ * - legalArticleHeader/Value/Title = the §-number and heading
+ * - legalP = legal paragraph (prose content)
+ * - numberedLegalP = numbered legal paragraph "(1)", "(2)", etc. — these are 'ledd'
+ * - listArticle = list items inside articles
+ * - section = chapter/kapittel container
+ *
+ * TODO: Implementation will be filled by the ingestion stream.
+ *       This stub exists to establish the type contract.
+ */
+export function parseLovdataDocument(xmlContent: string, filename: string): LovdataDocument {
+  // Suppress unused-variable warning for the JSDOM import
+  void JSDOM;
+  void xmlContent;
+  void filename;
+  // TODO: implementation will be filled by the ingestion stream
+  throw new Error('parseLovdataDocument not yet implemented');
 }

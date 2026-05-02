@@ -1,10 +1,13 @@
 /**
- * Parse statute text into structured provisions.
+ * Parse Norwegian statute text into structured provisions.
  *
  * Detects and handles:
- *   - Chaptered statutes: "3 kap. 5 §" → provision_ref "3:5"
- *   - Flat statutes: "5 §" → provision_ref "5"
- *   - Special numbering: "5 a §" → provision_ref "5 a"
+ *   - Chaptered statutes: "Kapittel 3 § 13" or "3 kap. § 13" → provision_ref "3:13"
+ *   - Flat statutes: "§ 13" → provision_ref "13"
+ *   - Special numbering: "§ 5 a" → provision_ref "5 a"
+ *
+ * NOTE: Norwegian statutes use § before the number (§ 13) rather than after
+ * (13 §) as in Swedish. Some older formatting uses Swedish-style; both are handled.
  */
 
 /** Parsed provision from raw statute text */
@@ -16,17 +19,17 @@ export interface ParsedProvision {
   content: string;
 }
 
-/** Chapter heading pattern: "1 kap. Inledande bestämmelser" */
-const CHAPTER_PATTERN = /^(\d+)\s*kap\.\s*(.*)/;
+/** Section pattern: "§ 13" or "§ 13 a" (Norwegian: § before number) */
+const SECTION_PATTERN = /^§\s*(\d+\s*[a-z]?)\s*(.*)/;
 
-/** Section pattern: "5 §" or "5 a §" */
-const SECTION_PATTERN = /^(\d+\s*[a-z]?)\s*§\s*(.*)/;
+/** Legacy Swedish-style section: "13 §" (still appears in some older Norwegian laws) */
+const SECTION_PATTERN_LEGACY = /^(\d+\s*[a-z]?)\s*§\s*(.*)/;
 
-/** Heading pattern — line entirely in title case (e.g., "Lovens formål") */
-const HEADING_PATTERN = /^[A-ZÅÆØ][a-zåæøé]+(?: [a-zåæøé]+)*$/;
+/** Rubrikk (heading) pattern */
+const RUBRIK_PATTERN = /^[A-ZÆØÅ][a-zæøå]+(?: [a-zæøå]+)*$/;
 
 /**
- * Parse raw statute text into structured provisions.
+ * Parse raw Norwegian statute text into structured provisions.
  *
  * @param text - Full statute text
  * @returns Array of parsed provisions
@@ -60,15 +63,15 @@ export function parseStatuteText(text: string): ParsedProvision[] {
   }
 
   for (const line of lines) {
-    // Check for chapter heading
-    const chapterMatch = line.match(CHAPTER_PATTERN);
+    // Check for chapter heading: "Kapittel 3" or "3 kap."
+    const chapterMatch = line.match(/^(?:[Kk]apittel\s+(\d+)|(\d+)\s*kap\.)/);
     if (chapterMatch) {
       flush();
-      currentChapter = chapterMatch[1];
+      currentChapter = (chapterMatch[1] || chapterMatch[2]);
       continue;
     }
 
-    // Check for section start
+    // Check for section start: "§ 13" (Norwegian style, preferred)
     const sectionMatch = line.match(SECTION_PATTERN);
     if (sectionMatch) {
       flush();
@@ -80,8 +83,20 @@ export function parseStatuteText(text: string): ParsedProvision[] {
       continue;
     }
 
-    // Check for heading (title) — only if we just started a new section with no content yet
-    if (currentSection && currentContent.length === 0 && HEADING_PATTERN.test(line)) {
+    // Check for legacy section: "13 §" (Swedish-style, still found in older laws)
+    const legacySectionMatch = line.match(SECTION_PATTERN_LEGACY);
+    if (legacySectionMatch) {
+      flush();
+      currentSection = legacySectionMatch[1].replace(/\s+/g, ' ').trim();
+      const remainder = legacySectionMatch[2].trim();
+      if (remainder) {
+        currentContent.push(remainder);
+      }
+      continue;
+    }
+
+    // Check for rubrikk (title) — only if just started a new section with no content yet
+    if (currentSection && currentContent.length === 0 && RUBRIK_PATTERN.test(line)) {
       currentTitle = line;
       continue;
     }
@@ -100,5 +115,5 @@ export function parseStatuteText(text: string): ParsedProvision[] {
  * Detect if a statute uses chapters (chaptered) or not (flat).
  */
 export function isChapteredStatute(text: string): boolean {
-  return CHAPTER_PATTERN.test(text);
+  return /(?:[Kk]apittel\s+\d+|\d+\s*kap\.)/.test(text);
 }

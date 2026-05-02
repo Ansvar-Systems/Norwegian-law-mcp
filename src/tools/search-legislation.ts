@@ -3,10 +3,12 @@
  */
 
 import type { Database } from '@ansvar/mcp-sqlite';
-import { buildFtsQueryVariantsLegacy as buildFtsQueryVariants } from '../utils/fts-query.js';
+import { buildFtsQueryVariants } from '../utils/fts-query.js';
 import { normalizeAsOfDate } from '../utils/as-of-date.js';
 import { resolveDocumentId } from '../utils/statute-id.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
+import { buildProvisionCitation } from '../utils/citation.js';
+import type { CitationMetadata } from '../utils/citation.js';
 
 export interface SearchLegislationInput {
   query: string;
@@ -27,6 +29,7 @@ export interface SearchLegislationResult {
   relevance: number;
   valid_from?: string | null;
   valid_to?: string | null;
+  _citation: CitationMetadata;
 }
 
 const DEFAULT_LIMIT = 10;
@@ -39,7 +42,7 @@ export async function searchLegislation(
   if (!input.query || input.query.trim().length === 0) {
     return {
       results: [],
-      _metadata: generateResponseMetadata(db)
+      _meta: generateResponseMetadata(db)
     };
   }
 
@@ -57,7 +60,7 @@ export async function searchLegislation(
     if (!resolved) {
       return {
         results: [],
-        _metadata: {
+        _meta: {
           ...generateResponseMetadata(db),
           note: `No document found matching "${input.document_id}"`,
         },
@@ -75,6 +78,8 @@ export async function searchLegislation(
         SELECT
           lpv.document_id,
           ld.title as document_title,
+          ld.short_name as document_short_name,
+          ld.url as document_url,
           lpv.provision_ref,
           lpv.chapter,
           lpv.section,
@@ -111,6 +116,8 @@ export async function searchLegislation(
       SELECT
         document_id,
         document_title,
+        document_short_name,
+        document_url,
         provision_ref,
         chapter,
         section,
@@ -129,6 +136,8 @@ export async function searchLegislation(
       SELECT
         lp.document_id,
         ld.title as document_title,
+        ld.short_name as document_short_name,
+        ld.url as document_url,
         lp.provision_ref,
         lp.chapter,
         lp.section,
@@ -158,23 +167,72 @@ export async function searchLegislation(
 
   params.push(fetchLimit);
 
+  // Raw row type from SQLite includes extra fields not in SearchLegislationResult
+  interface SearchRow {
+    document_id: string;
+    document_title: string;
+    document_short_name: string | null;
+    document_url: string | null;
+    provision_ref: string;
+    chapter: string | null;
+    section: string;
+    title: string | null;
+    snippet: string;
+    relevance: number;
+    valid_from?: string | null;
+    valid_to?: string | null;
+  }
+
   const runQuery = (ftsQuery: string): SearchLegislationResult[] => {
     const bound = [ftsQuery, ...params];
-    return db.prepare(sql).all(...bound) as SearchLegislationResult[];
+    const rows = db.prepare(sql).all(...bound) as SearchRow[];
+    return rows.map(row => ({
+      document_id: row.document_id,
+      document_title: row.document_title,
+      provision_ref: row.provision_ref,
+      chapter: row.chapter,
+      section: row.section,
+      title: row.title,
+      snippet: row.snippet,
+      relevance: row.relevance,
+      valid_from: row.valid_from,
+      valid_to: row.valid_to,
+      _citation: buildProvisionCitation(
+        row.document_id,
+        row.document_title,
+        row.provision_ref,
+        row.document_id,
+        row.provision_ref,
+        row.document_url,
+        row.document_short_name,
+      ),
+    }));
   };
 
   const primaryResults = runQuery(queryVariants.primary);
-  const usedFallback = primaryResults.length === 0 && !!queryVariants.fallback;
-  const rawResults = usedFallback
-    ? runQuery(queryVariants.fallback!)
-    : primaryResults;
+  if (primaryResults.length > 0) {
+    return {
+      results: deduplicateResults(primaryResults, limit),
+      _meta: generateResponseMetadata(db),
+    };
+  }
+
+  if (queryVariants.fallback) {
+    const fallbackResults = runQuery(queryVariants.fallback);
+    if (fallbackResults.length > 0) {
+      return {
+        results: deduplicateResults(fallbackResults, limit),
+        _meta: {
+          ...generateResponseMetadata(db),
+          query_strategy: 'broadened',
+        },
+      };
+    }
+  }
 
   return {
-    results: deduplicateResults(rawResults, limit),
-    _metadata: {
-      ...generateResponseMetadata(db),
-      ...(usedFallback ? { query_strategy: 'broadened' } : {}),
-    },
+    results: [],
+    _meta: generateResponseMetadata(db),
   };
 }
 

@@ -1,30 +1,38 @@
 ---
 name: Data Error Report
 about: Report incorrect, missing, or outdated legal data
-title: '[DATA] '
+title: "[DATA] "
 labels: data-error
 assignees: ''
 ---
 
 ## Data Error Report
 
-**MCP Server:** Norwegian Law MCP
-**Jurisdiction:** NO
+**MCP Server:** Swedish Law MCP
+**Jurisdiction:** SE
 
 ### What is incorrect?
 
+<!-- Describe the data error you found -->
+
 ### Source reference
 
-- **Document ID (LOV/FOR):**
-- **Section/Paragraph:**
-- **Official URL:** <!-- e.g., https://lovdata.no/lov/... -->
+<!-- Provide the official source reference (SFS number, chapter, section, etc.) -->
+- **SFS Number:**
+- **Chapter/Section:**
+- **Official URL:** <!-- e.g., https://www.riksdagen.se/sv/dokument-och-lagar/... -->
 
 ### Expected content
 
+<!-- What should the correct data look like? -->
+
 ### Current (incorrect) content
+
+<!-- What does the MCP currently return? -->
 
 ### How did you discover this?
 
-- [ ] Compared with lovdata.no
+- [ ] Compared with Riksdagen.se
+- [ ] Compared with Lagen.nu
 - [ ] User report
-- [ ] Other:
+- [ ] Other: <!-- please specify -->

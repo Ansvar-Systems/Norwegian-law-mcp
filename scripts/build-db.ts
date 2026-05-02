@@ -1,6 +1,6 @@
 #!/usr/bin/env tsx
 /**
- * Database builder for Norwegian Legal Citation MCP server.
+ * Database builder for Swedish Legal Citation MCP server.
  *
  * Builds the SQLite database from seed JSON files in data/seed/.
  *
@@ -24,15 +24,26 @@ const DB_PATH = path.resolve(__dirname, '../data/database.db');
 
 interface DocumentSeed {
   id: string;
-  type: 'statute' | 'bill' | 'sou' | 'ds' | 'case_law';
+  type: 'statute' | 'regulation' | 'bill' | 'sou' | 'ds' | 'case_law';
   title: string;
   title_en?: string;
+  // Norwegian: title_short (Korttittel); Swedish/legacy: short_name. Read both.
   short_name?: string;
+  title_short?: string;
   status: 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
   issued_date?: string;
   in_force_date?: string;
+  // Norwegian ingestion emits source_url; legacy Swedish uses url. Read both.
   url?: string;
+  source_url?: string;
   description?: string;
+  // Norwegian-specific metadata (preserved as columns when present)
+  canonical_ref?: string;       // e.g. "LOV-2018-06-15-38"
+  ministry?: string;
+  language?: 'nb' | 'nn' | 'sv' | 'en';
+  legal_area?: string[];
+  eea_references?: string[];
+  last_amended_date?: string;
   provisions?: ProvisionSeed[];
   provision_versions?: ProvisionVersionSeed[];
   definitions?: DefinitionSeed[];
@@ -112,7 +123,7 @@ interface EUDocumentSeed {
   community?: string;
   celex_number?: string;
   title?: string;
-  title_no?: string;
+  title_sv?: string;
   short_name?: string;
   adoption_date?: string;
   entry_into_force_date?: string;
@@ -142,29 +153,15 @@ interface EUSeedData {
   eu_references: EUReferenceSeed[];
 }
 
-interface LegalSourcePolicySeed {
-  source: string;
-  rights_status: 'allowed' | 'restricted' | 'unclear';
-  allow_full_text_cache: boolean;
-  allow_full_text_redistribution: boolean;
-  allow_metadata_cache: boolean;
-  allow_deep_links: boolean;
-  fetch_on_demand_required: boolean;
-  required_attribution: string;
-  policy_notes: string[];
-  evidence: string[];
-  last_reviewed: string;
-}
-
 // ─────────────────────────────────────────────────────────────────────────────
 // Database schema
 // ─────────────────────────────────────────────────────────────────────────────
 
 const SCHEMA = `
--- Legal documents (statutes, bills, SOUs, case law)
+-- Legal documents (statutes, regulations, bills, SOUs, case law)
 CREATE TABLE legal_documents (
   id TEXT PRIMARY KEY,
-  type TEXT NOT NULL CHECK(type IN ('statute', 'bill', 'sou', 'ds', 'case_law')),
+  type TEXT NOT NULL CHECK(type IN ('statute', 'regulation', 'bill', 'sou', 'ds', 'case_law')),
   title TEXT NOT NULL,
   title_en TEXT,
   short_name TEXT,
@@ -174,8 +171,18 @@ CREATE TABLE legal_documents (
   in_force_date TEXT,
   url TEXT,
   description TEXT,
+  -- Norwegian-specific (also useful for any jurisdiction); nullable so legacy seeds work.
+  canonical_ref TEXT,           -- e.g. "LOV-2018-06-15-38" or "FOR-2018-06-15-922"
+  ministry TEXT,                -- e.g. "Justis- og beredskapsdepartementet"
+  language TEXT,                -- 'nb' | 'nn' | 'sv' | 'en'
+  legal_area TEXT,              -- JSON-encoded array of legal areas
+  eea_references TEXT,          -- JSON-encoded array of EEA/EU references
+  last_amended_date TEXT,
   last_updated TEXT DEFAULT (datetime('now'))
 );
+
+CREATE INDEX idx_documents_canonical_ref ON legal_documents(canonical_ref);
+CREATE INDEX idx_documents_language ON legal_documents(language);
 
 -- Individual provisions from statutes
 CREATE TABLE legal_provisions (
@@ -297,7 +304,7 @@ CREATE TRIGGER case_law_au AFTER UPDATE ON case_law BEGIN
   VALUES (new.id, new.summary, new.keywords);
 END;
 
--- Preparatory works (forarbeider) linking statutes to bills/SOUs
+-- Preparatory works (forarbeten) linking statutes to bills/SOUs
 CREATE TABLE preparatory_works (
   id INTEGER PRIMARY KEY,
   statute_id TEXT NOT NULL REFERENCES legal_documents(id),
@@ -386,7 +393,7 @@ END;
 -- =============================================================================
 -- EU REFERENCES SCHEMA
 -- =============================================================================
--- Tracks cross-references between Norwegian law and EU directives/regulations
+-- Tracks cross-references between Swedish law and EU directives/regulations
 
 -- EU Documents (directives and regulations)
 CREATE TABLE eu_documents (
@@ -397,7 +404,7 @@ CREATE TABLE eu_documents (
   community TEXT CHECK (community IN ('EU', 'EG', 'EEG', 'Euratom')),
   celex_number TEXT,
   title TEXT,
-  title_no TEXT,
+  title_sv TEXT,
   short_name TEXT,
   adoption_date TEXT,
   entry_into_force_date TEXT,
@@ -412,7 +419,7 @@ CREATE TABLE eu_documents (
 CREATE INDEX idx_eu_documents_type_year ON eu_documents(type, year DESC);
 CREATE INDEX idx_eu_documents_celex ON eu_documents(celex_number);
 
--- EU References (links Norwegian provisions to EU documents)
+-- EU References (links Swedish provisions to EU documents)
 CREATE TABLE eu_references (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   source_type TEXT NOT NULL CHECK (source_type IN ('provision', 'document', 'case_law')),
@@ -440,7 +447,7 @@ CREATE INDEX idx_eu_references_provision ON eu_references(provision_id, eu_docum
 CREATE INDEX idx_eu_references_primary ON eu_references(eu_document_id, is_primary_implementation)
   WHERE is_primary_implementation = 1;
 
--- EU Reference Keywords (implementation keywords found in Norwegian law)
+-- EU Reference Keywords (implementation keywords found in Swedish law)
 CREATE TABLE eu_reference_keywords (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   eu_reference_id INTEGER NOT NULL REFERENCES eu_references(id) ON DELETE CASCADE,
@@ -453,7 +460,7 @@ CREATE TABLE eu_reference_keywords (
 -- EU REFERENCES VIEWS
 -- =============================================================================
 
--- View: Norwegian statutes implementing each EU directive
+-- View: Swedish statutes implementing each EU directive
 CREATE VIEW v_eu_implementations AS
 SELECT
   ed.id AS eu_document_id,
@@ -462,9 +469,9 @@ SELECT
   ed.number,
   ed.title,
   ed.short_name,
-  ld.id AS law_id,
-  ld.title AS law_title,
-  ld.short_name AS law_short_name,
+  ld.id AS sfs_number,
+  ld.title AS swedish_title,
+  ld.short_name AS swedish_short_name,
   er.reference_type,
   er.is_primary_implementation,
   er.implementation_status
@@ -474,7 +481,7 @@ JOIN legal_documents ld ON er.document_id = ld.id
 WHERE ed.type = 'directive'
 ORDER BY ed.year DESC, ed.number, ld.id;
 
--- View: EU regulations applied in Norwegian law
+-- View: EU regulations applied in Swedish law
 CREATE VIEW v_eu_regulations_applied AS
 SELECT
   ed.id AS eu_document_id,
@@ -482,7 +489,7 @@ SELECT
   ed.number,
   ed.title,
   ed.short_name,
-  COUNT(DISTINCT er.document_id) AS norwegian_statute_count,
+  COUNT(DISTINCT er.document_id) AS swedish_statute_count,
   COUNT(er.id) AS total_references
 FROM eu_documents ed
 JOIN eu_references er ON ed.id = er.eu_document_id
@@ -490,10 +497,10 @@ WHERE ed.type = 'regulation'
 GROUP BY ed.id
 ORDER BY total_references DESC;
 
--- View: Norwegian statutes with most EU references
+-- View: Swedish statutes with most EU references
 CREATE VIEW v_statutes_by_eu_references AS
 SELECT
-  ld.id AS law_id,
+  ld.id AS sfs_number,
   ld.title,
   ld.short_name,
   COUNT(DISTINCT er.eu_document_id) AS eu_document_count,
@@ -513,25 +520,10 @@ CREATE TABLE db_metadata (
   value TEXT NOT NULL
 );
 
--- Legal source licensing/compliance policies
-CREATE TABLE legal_source_policies (
-  source TEXT PRIMARY KEY,
-  rights_status TEXT NOT NULL CHECK(rights_status IN ('allowed', 'restricted', 'unclear')),
-  allow_full_text_cache INTEGER NOT NULL CHECK(allow_full_text_cache IN (0, 1)),
-  allow_full_text_redistribution INTEGER NOT NULL CHECK(allow_full_text_redistribution IN (0, 1)),
-  allow_metadata_cache INTEGER NOT NULL CHECK(allow_metadata_cache IN (0, 1)),
-  allow_deep_links INTEGER NOT NULL CHECK(allow_deep_links IN (0, 1)),
-  fetch_on_demand_required INTEGER NOT NULL CHECK(fetch_on_demand_required IN (0, 1)),
-  required_attribution TEXT NOT NULL,
-  policy_notes TEXT NOT NULL,
-  evidence TEXT NOT NULL,
-  last_reviewed TEXT NOT NULL
-);
-
--- View: GDPR implementations in Norwegian law
+-- View: GDPR implementations in Swedish law
 CREATE VIEW v_gdpr_implementations AS
 SELECT
-  ld.id AS law_id,
+  ld.id AS sfs_number,
   ld.title,
   lp.provision_ref,
   lp.content,
@@ -553,7 +545,7 @@ function extractRepealDateFromDescription(description: string | undefined): stri
   if (!description) {
     return undefined;
   }
-  const match = description.match(/(?:Upphävd|Opphevet)\s+(\d{4}-\d{2}-\d{2})/i);
+  const match = description.match(/Upphävd\s+(\d{4}-\d{2}-\d{2})/i);
   return match?.[1];
 }
 
@@ -652,7 +644,7 @@ function dedupeProvisions(provisions: ProvisionSeed[]): { deduped: ProvisionSeed
 // ─────────────────────────────────────────────────────────────────────────────
 
 function buildDatabase(): void {
-  console.log('Building Norwegian Legal Citation database...\n');
+  console.log('Building Swedish Legal Citation database...\n');
 
   if (fs.existsSync(DB_PATH)) {
     fs.unlinkSync(DB_PATH);
@@ -671,8 +663,11 @@ function buildDatabase(): void {
 
   // Prepared statements
   const insertDoc = db.prepare(`
-    INSERT INTO legal_documents (id, type, title, title_en, short_name, status, issued_date, in_force_date, url, description)
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    INSERT INTO legal_documents (
+      id, type, title, title_en, short_name, status, issued_date, in_force_date, url, description,
+      canonical_ref, ministry, language, legal_area, eea_references, last_amended_date
+    )
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   `);
 
   const insertProvision = db.prepare(`
@@ -710,7 +705,7 @@ function buildDatabase(): void {
   const insertEUDocument = db.prepare(`
     INSERT INTO eu_documents (
       id, type, year, number, community, celex_number,
-      title, title_no, short_name, adoption_date, entry_into_force_date,
+      title, title_sv, short_name, adoption_date, entry_into_force_date,
       in_force, amended_by, repeals, url_eur_lex, description
     )
     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
@@ -721,23 +716,6 @@ function buildDatabase(): void {
       source_type, source_id, document_id, provision_id,
       eu_document_id, eu_article, reference_type, reference_context,
       full_citation, is_primary_implementation, implementation_status
-    )
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-  `);
-
-  const insertLegalPolicy = db.prepare(`
-    INSERT INTO legal_source_policies (
-      source,
-      rights_status,
-      allow_full_text_cache,
-      allow_full_text_redistribution,
-      allow_metadata_cache,
-      allow_deep_links,
-      fetch_on_demand_required,
-      required_attribution,
-      policy_notes,
-      evidence,
-      last_reviewed
     )
     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   `);
@@ -774,11 +752,21 @@ function buildDatabase(): void {
       const content = fs.readFileSync(filePath, 'utf-8');
       const seed = JSON.parse(content) as DocumentSeed;
 
+      // Read both the Swedish (short_name, url) and Norwegian (title_short, source_url) field
+      // aliases so seeds from either ingestion shape work without conversion.
+      const shortName = seed.short_name ?? seed.title_short ?? null;
+      const docUrl = seed.url ?? seed.source_url ?? null;
       insertDoc.run(
         seed.id, seed.type, seed.title, seed.title_en ?? null,
-        seed.short_name ?? null, seed.status,
+        shortName, seed.status,
         seed.issued_date ?? null, seed.in_force_date ?? null,
-        seed.url ?? null, seed.description ?? null
+        docUrl, seed.description ?? null,
+        seed.canonical_ref ?? null,
+        seed.ministry ?? null,
+        seed.language ?? null,
+        seed.legal_area && seed.legal_area.length > 0 ? JSON.stringify(seed.legal_area) : null,
+        seed.eea_references && seed.eea_references.length > 0 ? JSON.stringify(seed.eea_references) : null,
+        seed.last_amended_date ?? null
       );
       totalDocs++;
 
@@ -911,28 +899,6 @@ function buildDatabase(): void {
       console.log(`  Loaded ${xrefs.length} cross-references`);
     }
 
-    // Load legal source licensing policy file if it exists
-    const legalPolicyPath = path.join(SEED_DIR, '_legal_data_license.json');
-    if (fs.existsSync(legalPolicyPath)) {
-      const policies = JSON.parse(fs.readFileSync(legalPolicyPath, 'utf-8')) as LegalSourcePolicySeed[];
-      for (const policy of policies) {
-        insertLegalPolicy.run(
-          policy.source,
-          policy.rights_status,
-          policy.allow_full_text_cache ? 1 : 0,
-          policy.allow_full_text_redistribution ? 1 : 0,
-          policy.allow_metadata_cache ? 1 : 0,
-          policy.allow_deep_links ? 1 : 0,
-          policy.fetch_on_demand_required ? 1 : 0,
-          policy.required_attribution,
-          JSON.stringify(policy.policy_notes ?? []),
-          JSON.stringify(policy.evidence ?? []),
-          policy.last_reviewed
-        );
-      }
-      console.log(`  Loaded ${policies.length} legal source policy records`);
-    }
-
     // Load EU references file if it exists
     const euRefsPath = path.join(SEED_DIR, 'eu-references.json');
     if (fs.existsSync(euRefsPath)) {
@@ -949,7 +915,7 @@ function buildDatabase(): void {
           community: 'EU',
           celex_number: '32016R0679',
           title: 'Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data',
-          title_no: 'Europaparlaments- og rådsforordning (EU) 2016/679 om vern av fysiske personer i forbindelse med behandling av personopplysninger',
+          title_sv: 'Europaparlamentets och rådets förordning (EU) 2016/679 om skydd för fysiska personer med avseende på behandling av personuppgifter',
           short_name: 'GDPR',
           adoption_date: '2016-04-27',
           entry_into_force_date: '2018-05-25',
@@ -965,7 +931,7 @@ function buildDatabase(): void {
           community: 'EG',
           celex_number: '31995L0046',
           title: 'Directive 95/46/EC on the protection of individuals with regard to the processing of personal data',
-          title_no: 'Direktiv 95/46/EF om beskyttelse av fysiske personer i forbindelse med behandling av personopplysninger',
+          title_sv: 'Direktiv 95/46/EG om skydd för enskilda vid behandling av personuppgifter',
           short_name: 'Data Protection Directive',
           adoption_date: '1995-10-24',
           entry_into_force_date: '1995-10-24',
@@ -982,7 +948,7 @@ function buildDatabase(): void {
           community: 'EU',
           celex_number: '32014R0910',
           title: 'Regulation (EU) No 910/2014 on electronic identification and trust services for electronic transactions',
-          title_no: 'Europaparlaments- og rådsforordning (EU) nr. 910/2014 om elektronisk identifikasjon og tillitstjenester',
+          title_sv: 'Europaparlamentets och rådets förordning (EU) nr 910/2014 om elektronisk identifiering och betrodda tjänster',
           short_name: 'eIDAS',
           adoption_date: '2014-07-23',
           entry_into_force_date: '2016-07-01',
@@ -998,7 +964,7 @@ function buildDatabase(): void {
           community: 'EU',
           celex_number: '32016L0680',
           title: 'Directive (EU) 2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities',
-          title_no: 'Direktiv (EU) 2016/680 om vern av fysiske personer ved kompetente myndigheters behandling av personopplysninger',
+          title_sv: 'Direktiv (EU) 2016/680 om skydd för fysiska personer med avseende på behöriga myndigheters behandling av personuppgifter',
           short_name: 'Police Directive',
           adoption_date: '2016-04-27',
           entry_into_force_date: '2018-05-06',
@@ -1030,7 +996,7 @@ function buildDatabase(): void {
             community: doc.community,
             celex_number: doc.celex_number,
             title: doc.title,
-            title_no: doc.title_no ?? doc.title_sv,
+            title_sv: doc.title_sv,
             adoption_date: doc.date_document,
             in_force: doc.in_force,
             url_eur_lex: doc.url,
@@ -1041,7 +1007,7 @@ function buildDatabase(): void {
 
       // Fix EU document format issues from seed data:
       // The seed data has year/number swapped for regulations due to parser extracting from
-      // Norwegian text format "forordning (EU) nr. 910/2014" as if it were year/number.
+      // Swedish text format "förordning (EU) nr 910/2014" as if it were year/number.
       // EU regulations use number/year format, so we need to fix the IDs and swap the values.
       const fixedSeedDocs = euData.eu_documents
         .filter(d => !commonDocIds.has(d.id) && !eurlexDocIds.has(d.id))
@@ -1099,7 +1065,7 @@ function buildDatabase(): void {
           doc.community ?? null,
           doc.celex_number ?? null,
           doc.title ?? null,
-          doc.title_no ?? null,
+          doc.title_sv ?? null,
           doc.short_name ?? null,
           doc.adoption_date ?? null,
           doc.entry_into_force_date ?? null,
@@ -1176,11 +1142,12 @@ function buildDatabase(): void {
     insertMeta.run('schema_version', '2');
     insertMeta.run('built_at', new Date().toISOString());
     insertMeta.run('builder', 'build-db.ts');
-    insertMeta.run('license_gate', 'enabled');
   });
   writeMeta();
 
   db.pragma('wal_checkpoint(TRUNCATE)');
+  // Runtime/test DB access uses node-sqlite3-wasm; keep final artifact in non-WAL mode.
+  db.pragma('journal_mode = DELETE');
   db.exec('ANALYZE');
   db.close();
 

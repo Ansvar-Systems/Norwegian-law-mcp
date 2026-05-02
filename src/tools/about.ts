@@ -37,14 +37,14 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
   return {
     name: 'Norwegian Law MCP',
     version: context.version,
-    jurisdiction: 'NO',
+    jurisdiction: 'SE',
     description: 'Norwegian Law MCP — legislation via Model Context Protocol',
     stats,
     data_sources: [
       {
-        name: 'Lovdata',
-        url: 'https://lovdata.no',
-        authority: 'Lovdata Foundation',
+        name: 'Riksdagen (Swedish Parliament Open Data)',
+        url: 'https://data.riksdagen.se',
+        authority: 'Riksdagen (Swedish Parliament)',
       },
     ],
     freshness: {

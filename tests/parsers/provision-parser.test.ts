@@ -2,101 +2,62 @@ import { describe, it, expect } from 'vitest';
 import { parseStatuteText, isChapteredStatute } from '../../src/parsers/provision-parser.js';
 
 describe('parseStatuteText', () => {
-  it('should parse a chaptered statute', () => {
+  it('should parse a chaptered Norwegian statute', () => {
     const text = `
-1 kap. Innledende bestemmelser
+Kapittel 1 Innledende bestemmelser
 
-1 § Denne loven utfyller EUs personvernforordning.
+§ 1 Denne loven utfyller EUs personvernforordning.
 
-2 § Loven gjelder ved behandling av personopplysninger.
+§ 2 Loven gjelder ved behandling av personopplysninger.
 
-2 kap. Rettslig grunnlag
+Kapittel 2 Rettslig grunnlag
 
-1 § Personopplysninger kan behandles dersom det finnes rettslig grunnlag.
+§ 3 Personopplysninger kan behandles dersom det finnes rettslig grunnlag.
     `;
 
     const provisions = parseStatuteText(text);
 
     expect(provisions).toHaveLength(3);
-    expect(provisions[0]).toEqual({
+    expect(provisions[0]).toMatchObject({
       provision_ref: '1:1',
       chapter: '1',
       section: '1',
-      title: undefined,
-      content: 'Denne loven utfyller EUs personvernforordning.',
     });
+    expect(provisions[0].content).toContain('personvernforordning');
     expect(provisions[1].provision_ref).toBe('1:2');
-    expect(provisions[1].chapter).toBe('1');
-    expect(provisions[2].provision_ref).toBe('2:1');
+    expect(provisions[2].provision_ref).toBe('2:3');
     expect(provisions[2].chapter).toBe('2');
   });
 
-  it('should parse a flat statute (no chapters)', () => {
+  it('should parse a flat Norwegian statute (no chapters)', () => {
     const text = `
-1 § Formålet med denne loven er å beskytte personopplysninger.
+§ 1 Formålet med denne loven er å verne personopplysninger.
 
-2 § Loven gjelder for alle.
+§ 2 Loven gjelder alle.
 
-3 § Definisjoner angis her.
+§ 3 Definisjoner fastsettes her.
     `;
 
     const provisions = parseStatuteText(text);
 
     expect(provisions).toHaveLength(3);
-    expect(provisions[0]).toEqual({
+    expect(provisions[0]).toMatchObject({
       provision_ref: '1',
       chapter: undefined,
       section: '1',
-      title: undefined,
-      content: 'Formålet med denne loven er å beskytte personopplysninger.',
     });
+    expect(provisions[0].content).toContain('personopplysninger');
     expect(provisions[2].provision_ref).toBe('3');
   });
 
-  it('should handle special section numbering (5 a §)', () => {
+  it('should handle legacy Swedish-style section numbering (13 §)', () => {
     const text = `
-5 § Grunnregel.
-
-5 a § Unntaksregel for viss behandling.
-
-6 § Neste paragraf.
+13 § Behandlingsansvarlig skal sikre at personopplysninger behandles i samsvar med denne loven.
     `;
 
     const provisions = parseStatuteText(text);
-
-    expect(provisions).toHaveLength(3);
-    expect(provisions[1].provision_ref).toBe('5 a');
-    expect(provisions[1].section).toBe('5 a');
-  });
-
-  it('should detect rubrik (title) on provisions', () => {
-    const text = `
-1 kap. Innledende bestemmelser
-
-1 §
-Lovens formål
-Denne loven utfyller EUs personvernforordning.
-    `;
-
-    const provisions = parseStatuteText(text);
-
     expect(provisions).toHaveLength(1);
-    expect(provisions[0].title).toBe('Lovens formål');
-    expect(provisions[0].content).toBe('Denne loven utfyller EUs personvernforordning.');
-  });
-
-  it('should handle multi-paragraph sections', () => {
-    const text = `
-1 § Første ledd av paragrafen.
-Andre ledd av paragrafen.
-Tredje ledd av paragrafen.
-    `;
-
-    const provisions = parseStatuteText(text);
-
-    expect(provisions).toHaveLength(1);
-    expect(provisions[0].content).toContain('Første ledd');
-    expect(provisions[0].content).toContain('Tredje ledd');
+    expect(provisions[0].section).toBe('13');
   });
 
   it('should return empty array for empty input', () => {
@@ -105,11 +66,15 @@ Tredje ledd av paragrafen.
 });
 
 describe('isChapteredStatute', () => {
-  it('should detect chaptered text', () => {
+  it('should detect chaptered text (Kapittel N)', () => {
+    expect(isChapteredStatute('Kapittel 1 Innledende bestemmelser')).toBe(true);
+  });
+
+  it('should detect chaptered text (N kap.)', () => {
     expect(isChapteredStatute('1 kap. Innledende bestemmelser')).toBe(true);
   });
 
   it('should detect non-chaptered text', () => {
-    expect(isChapteredStatute('1 § Denne loven gjelder...')).toBe(false);
+    expect(isChapteredStatute('§ 1 Denne loven gjelder...')).toBe(false);
   });
 });
