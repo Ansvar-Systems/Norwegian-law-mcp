@@ -11,11 +11,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0
       - name: Reject lovdata.no/dokument/ reintroduction
         run: |
           set -e
-          if git diff HEAD~1 HEAD | grep -E '^\+.*lovdata\.no/dokument/'; then
+          if [ -n "${{ github.event.pull_request.base.sha }}" ]; then
+            BASE="${{ github.event.pull_request.base.sha }}"
+          else
+            BASE="HEAD~1"
+          fi
+          if git diff "$BASE" HEAD \
+              -- ':(exclude).github/workflows/lovdata-guard.yml' \
+                 ':(exclude)LEGAL_DATA_LICENSE.md' \
+                 ':(exclude)README.md' \
+                 ':(exclude)scripts/lib/legal-data-license.ts' \
+              | grep -E '^\+.*lovdata\.no/dokument/'; then
             echo "::error::Commit reintroduces lovdata.no/dokument/ scraping URL pattern. Repo is under takedown 2026-05-02 per LEGAL_DATA_LICENSE.md."
             exit 1
           fi
