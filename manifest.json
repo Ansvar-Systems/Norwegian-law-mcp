@@ -33,30 +33,67 @@
     "entry_point": "dist/index.js",
     "mcp_config": {
       "command": "node",
-      "args": ["${__dirname}/dist/index.js"],
+      "args": [
+        "${__dirname}/dist/index.js"
+      ],
       "env": {}
     }
   },
   "tools": [
-    { "name": "search_legislation" },
-    { "name": "get_provision" },
-    { "name": "search_case_law" },
-    { "name": "get_preparatory_works" },
-    { "name": "validate_citation" },
-    { "name": "build_legal_stance" },
-    { "name": "format_citation" },
-    { "name": "check_currency" },
-    { "name": "get_eu_basis" },
-    { "name": "get_norwegian_implementations" },
-    { "name": "search_eu_implementations" },
-    { "name": "get_provision_eu_basis" },
-    { "name": "validate_eu_compliance" },
-    { "name": "get_provision_at_date" }
+    {
+      "name": "search_legislation"
+    },
+    {
+      "name": "get_provision"
+    },
+    {
+      "name": "search_case_law"
+    },
+    {
+      "name": "get_preparatory_works"
+    },
+    {
+      "name": "validate_citation"
+    },
+    {
+      "name": "build_legal_stance"
+    },
+    {
+      "name": "format_citation"
+    },
+    {
+      "name": "check_currency"
+    },
+    {
+      "name": "get_eu_basis"
+    },
+    {
+      "name": "get_norwegian_implementations"
+    },
+    {
+      "name": "search_eu_implementations"
+    },
+    {
+      "name": "get_provision_eu_basis"
+    },
+    {
+      "name": "validate_eu_compliance"
+    },
+    {
+      "name": "get_provision_at_date"
+    }
   ],
   "compatibility": {
-    "platforms": ["darwin", "win32", "linux"],
+    "platforms": [
+      "darwin",
+      "win32",
+      "linux"
+    ],
     "runtimes": {
       "node": ">=18.0.0"
     }
-  }
+  },
+  "status": "withdrawn",
+  "withdrawn_date": "2026-05-02",
+  "withdrawn_reason": "Lovdata vilkar §2.1 — non-personal/commercial/AI-training prohibited"
 }

@@ -1,5 +1,21 @@
 # Norwegian Law MCP Server
 
+## WITHDRAWN — 2026-05-02
+
+This MCP has been withdrawn under Lovdata vilkår §2.1 compliance. The
+Lovdata-scraped corpus that earlier versions shipped has been removed
+from this repo, GHCR, and npm. The repository is archived as the public
+takedown record.
+
+See [`LEGAL_DATA_LICENSE.md`](./LEGAL_DATA_LICENSE.md) for the basis and
+[Phase 2 plan](https://github.com/Ansvar-Systems/Ansvar-Architecture-Documentation/blob/main/docs/superpowers/specs/2026-05-02-norwegian-law-mcp-takedown-design.md#8-out-of-scope-phase-2)
+for the planned `api.lovdata.no`-based rebuild.
+
+**For prior installers:** the npm package is deprecated. If you have a
+local clone or pulled image predating 2026-05-02, please remove it.
+
+---
+
 **The Lovdata alternative for the AI age.**
 
 [![npm version](https://badge.fury.io/js/@ansvar%2Fnorwegian-law-mcp.svg)](https://www.npmjs.com/package/@ansvar/norwegian-law-mcp)
@@ -273,7 +289,7 @@ See [SECURITY.md](SECURITY.md) for the full policy and vulnerability reporting.
 > - **Court case coverage is limited** -- do not rely solely on this for case law research
 > - **Verify critical citations** against primary sources for court filings
 > - **EEA cross-references** are extracted from Norwegian statute text and EEA Joint Committee decisions, not EUR-Lex full text
-> - **Licensing note:** Lovdata's full database is commercial. This server uses publicly available content only
+> - **Licensing note:** This MCP is WITHDRAWN as of 2026-05-02 under Lovdata vilkår §2.1 compliance. The earlier "publicly available content" framing was incorrect — see [`LEGAL_DATA_LICENSE.md`](./LEGAL_DATA_LICENSE.md).
 
 **Before using professionally, read:** [DISCLAIMER.md](DISCLAIMER.md) | [PRIVACY.md](PRIVACY.md)
 
@@ -397,7 +413,7 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 ### Data Licenses
 
-- **Statutes & Forarbeider:** Norwegian Government (public domain -- publicly available content from Lovdata and Stortinget)
+- **Statutes & Forarbeider:** WITHDRAWN 2026-05-02. The earlier "public domain" claim was materially incorrect: Lovdata vilkår §2.1 prohibits non-personal/commercial use, mass downloading, and AI training. See [`LEGAL_DATA_LICENSE.md`](./LEGAL_DATA_LICENSE.md).
 - **EEA Metadata:** EUR-Lex (EU public domain)
 
 ---

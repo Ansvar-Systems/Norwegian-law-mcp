@@ -1,0 +1,22 @@
+name: Lovdata Reintroduction Guard
+
+on:
+  push:
+    branches: ['**']
+  pull_request:
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Reject lovdata.no/dokument/ reintroduction
+        run: |
+          set -e
+          if git diff HEAD~1 HEAD | grep -E '^\+.*lovdata\.no/dokument/'; then
+            echo "::error::Commit reintroduces lovdata.no/dokument/ scraping URL pattern. Repo is under takedown 2026-05-02 per LEGAL_DATA_LICENSE.md."
+            exit 1
+          fi
+          echo "ok: no lovdata.no/dokument/ reintroduction"

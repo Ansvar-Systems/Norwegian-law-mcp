@@ -1,46 +1,41 @@
 # LEGAL_DATA_LICENSE.md
 
-## Purpose
-This repository enforces a licensing-compliance gate for ingestion of Norwegian legal data.
+## Status: WITHDRAWN — 2026-05-02
 
-Decision date: **2026-02-15**
+This MCP's Lovdata-scraped corpus has been removed as of 2026-05-02. Earlier
+versions of this file claimed Lovdata vilkår §2.3 NLOD 2.0 covered HTML
+scraping of `lovdata.no/dokument/`. That claim was materially false:
 
-## Explicit licensing decision
-Current policy is source-scoped and content-scoped:
+- **§2.1** of Lovdata's vilkår explicitly prohibits non-personal/commercial
+  use, mass downloading, and AI training or development.
+- **§2.3** (the NLOD 2.0 exception) covers content available via the official
+  API at `api.lovdata.no` — not site scraping.
 
-- **Statutes/regulations** from Lovdata/Lovtidend that fall under Lovdata user agreement section 2.3 (NLOD 2.0 exception) are treated as **full-text ingest allowed** with attribution.
-- **Case-law full text** remains **restricted** (metadata + deep links only) unless explicit permission is documented.
+The README's earlier "public domain" framing was also incorrect.
 
-## Evidence used
-- Lovdata user agreement (`/info/brukeravtale`) section 2.3 states that specific legal content (including current formal laws, current central regulations, and rule texts in Norsk Lovtidend) can be copied/used/shared under **NLOD 2.0** with source attribution.
-- Lovdata API site (`https://api.lovdata.no/`) states API data can be used to make current regulations available in services and used for AI experimentation/research.
+## Phase 2 (deferred)
 
-## Allowed (current)
-- Full-text ingestion/caching/redistribution of covered statute/regulation texts with required attribution.
-- Metadata caching and stable deep links for all configured sources.
-- Use of official Lovdata/API channels for updates and rebuilds.
+A rebuild via `api.lovdata.no` is planned but conditional on first-hand
+verification that the API's terms explicitly permit commercial + AI use,
+and that the API's free public surface offers provision-level granularity
+matching the prior corpus. If verification fails, no Phase 2 ships under
+this name; an alternative path (fetch-on-demand, narrower coverage, or
+paid commercial license) would be designed separately.
 
-## Not allowed (current)
-- Full-text redistribution/caching of Norwegian case-law content without explicit rights approval.
-- Rights assumptions beyond the documented scope (e.g., non-covered datasets).
-- Ignoring source attribution and NLOD conditions for covered content.
+## Scope of removal
 
-## Gate behavior
-Licensing gate module: `/Users/jeffreyvonrotz/Projects/Norwegian-law-MCP/scripts/lib/legal-data-license.ts`
+- All `data/seed/lov-*.json` files (3,401 statutes, 71 MB) deleted from
+  working tree and removed from git history via `git filter-repo`.
+- GHCR `:latest` and all version tags deleted; layer GC requested.
+- npm `@ansvar/norwegian-law-mcp` deprecated; tarball removal requested
+  via npm legal-takedown ticket.
+- This repo will be archived following the takedown PR merge and history
+  rewrite.
 
-- `full_text` mode is allowed only when both `allow_full_text_cache` and `allow_full_text_redistribution` are true for the source.
-- Otherwise ingestion is forced to `metadata_only` with deep links and policy notes.
+## Acknowledged residuals
 
-## Source policy records
-- Seed policy file: `/Users/jeffreyvonrotz/Projects/Norwegian-law-MCP/data/seed/_legal_data_license.json`
-- Database table: `legal_source_policies` (written by `npm run build:db`)
-
-## Sources covered
-- `lovdata` (statute/regulation scope allowed, case-law scope restricted)
-- `lovtidend` (covered legal acts allowed)
-- `domstol` (metadata-only pending explicit rights)
-
-## Operational assumptions
-- Ingestion scripts only ingest covered statute/regulation content in full-text mode.
-- Large/systematic extraction should prefer official APIs and respect rate limits/service constraints.
-- This document is an engineering compliance record, not legal advice.
+The takedown is best-effort. Pre-rewrite clones on third-party machines,
+Wayback Machine snapshots predating the takedown, and any npm-mirror
+copies cannot be unilaterally removed and have been documented as
+residuals. Takedown requests have been submitted to Wayback and to npm
+support; mirror operators are being notified case-by-case.
