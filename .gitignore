@@ -35,6 +35,12 @@ data/*.csv
 data/*.json.gz
 data/*.zip
 
+# Seed data (4000+ JSON files, not committed — regenerated from ingestion)
+data/seed/
+
+# Cache of downloaded archives from api.lovdata.no
+data/cache/
+
 # ───────────────────────────────────────────────────────────────────────────
 # ENVIRONMENT
 # ───────────────────────────────────────────────────────────────────────────
@@ -100,3 +106,5 @@ temp/
 .serena/
 .claude/
 .vercel
+database.db
+reports/

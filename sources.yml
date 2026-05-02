@@ -1,28 +1,23 @@
-schema_version: '1.0'
-mcp_name: 'Norwegian Law MCP'
-jurisdiction: 'NO'
+schema_version: "1.0"
+mcp_name: "Norwegian Law MCP"
+jurisdiction: "NO"
 
 sources:
-  - name: 'Lovdata'
-    authority: 'Lovdata Foundation (Stiftelsen Lovdata)'
-    official_portal: 'https://lovdata.no'
-    canonical_identifier: 'LOV/FOR reference (e.g., LOV-1814-05-17)'
-    retrieval_method: 'WEB_SCRAPING'
-    api_documentation: 'https://lovdata.no/info/api'
-    update_frequency: 'weekly'
-    last_ingested: '2026-02-14'
+  - name: "Lovdata API (Open Data)"
+    authority: "Stiftelsen Lovdata"
+    official_portal: "https://api.lovdata.no/"
+    canonical_identifier: "LOV (e.g., LOV-2018-06-15-38)"
+    retrieval_method: "API_BULK_DOWNLOAD"
+    api_documentation: "https://api.lovdata.no/om-api-tjenesten/"
+    update_frequency: "monthly"
+    last_ingested: "TBD"
     license_or_terms:
-      type: 'Lovdata Terms of Use'
-      url: 'https://lovdata.no/info/vilkar'
-      summary: 'Norwegian legislation is public; Lovdata consolidation is a public service. Reuse permitted with attribution.'
+      type: "NLOD 2.0 (Norwegian Licence for Open Government Data)"
+      url: "https://data.norge.no/nlod/en/2.0/"
+      summary: "Free reuse including commercial and AI training/development under NLOD 2.0; attribution required ('Contains data under the Norwegian licence for Open Government data (NLOD) distributed by Lovdata'). See Lovdata vilkår §2.3 carve-out from §2.1's restrictions, valid for current statutes and central regulations published via api.lovdata.no."
     coverage:
-      scope: 'Norwegian statutes (lover) and regulations (forskrifter)'
-      limitations: 'Lovdata free tier has limited historical versions; paid tier has full history'
+      scope: "All current consolidated Norwegian statutes (gjeldende lover) and central regulations (gjeldende sentrale forskrifter), distributed as tar.bz2 archives via api.lovdata.no/v1/publicData/get/"
+      limitations: "Current consolidated text only. Lovdata Pro tier (case law, preparatory works, agency guidance, expert statements, legal literature) is paid and out of scope."
     languages:
-      - 'no'  # Bokmal
-      - 'nn'  # Nynorsk
-
-data_freshness:
-  automated_checks: true
-  check_frequency: 'daily'
-  last_verified: '2026-02-15'
+      - "nb"
+      - "nn"

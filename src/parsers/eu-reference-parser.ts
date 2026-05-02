@@ -4,10 +4,15 @@
  * Extracts and structures EU law references (directives and regulations)
  * from Norwegian legal text.
  *
- * Norwegian law references EU legislation using patterns like:
- * - "direktiv 2016/680", "direktiv (EU) 2019/1152"
- * - "forordning (EU) 2016/679", "forordning (EF) nr. 765/2008"
- * - "Europaparlaments- og rådsdirektiv", "Kommisjonens forordning"
+ * Norway is an EEA member — EU acts are incorporated via the EEA Agreement
+ * and referenced in Norwegian law using Norwegian terminology (direktiv, forordning).
+ *
+ * Norwegian text patterns differ from Swedish (e.g., "forordning" vs "förordning",
+ * "direktiv" is the same spelling in both languages).
+ *
+ * TODO: Adapt regex patterns for Norwegian text post-ingestion.
+ *       Current patterns target Swedish vocabulary and need review against
+ *       actual Norwegian statute corpus.
  */
 
 export interface EUReference {
@@ -15,74 +20,84 @@ export interface EUReference {
   id: string;                    // Format: "2016/679"
   year: number;
   number: number;
-  community?: 'EU' | 'EF' | 'EØF' | 'Euratom';
-  issuingBody?: string;          // "Europaparlamentet og Rådet", "Kommisjonen", etc.
+  community?: 'EU' | 'EG' | 'EEG' | 'Euratom';
+  issuingBody?: string;          // "Europaparlamentet och rådet", "Kommissionen", etc.
   article?: string;              // Specific article reference (e.g., "6.1.c", "13-15")
   fullText: string;              // Full citation as found in text
   context: string;               // Surrounding text (100 chars before/after)
   referenceType?: ReferenceType; // How the EU act is referenced
-  implementationKeyword?: string; // "gjennomføring", "utfylling", etc.
+  implementationKeyword?: string; // "genomförande", "komplettering", etc.
 }
 
 export type ReferenceType =
-  | 'implements'        // National law implements this EU directive
-  | 'supplements'       // National law supplements this EU regulation
+  | 'implements'        // Swedish law implements this EU directive
+  | 'supplements'       // Swedish law supplements this EU regulation
   | 'applies'           // This EU regulation applies directly
   | 'references'        // General reference to EU law
-  | 'complies_with'     // National law must comply with this
-  | 'derogates_from'    // National law derogates from this
+  | 'complies_with'     // Swedish law must comply with this
+  | 'derogates_from'    // Swedish law derogates from this
   | 'cites_article';    // Cites specific article(s)
 
 /**
- * Regex patterns for matching EU references in Norwegian text
+ * Regex patterns for matching EU references
  */
 const PATTERNS = {
-  // Directives: direktiv 2016/680, direktiv 95/46/EF, direktiv (EU) 2019/1152
+  // Directives: direktiv 2016/680, direktiv 95/46/EG, direktiv (EU) 2019/1152
   directive: [
     // With community designation in parentheses: direktiv (EU) 2016/680
     /direktiv\s+\(([^)]+)\)\s+(\d{2,4})\/(\d+)/gi,
-    // With community at end: direktiv 95/46/EF
-    /direktiv\s+(\d{2,4})\/(\d+)(?:\/([A-ZÆØÅ]+))?/gi,
-    // With issuing body (Norwegian)
-    /(Europaparlaments-\s*og\s+råds|rådets?|[Kk]ommisjonens?)(?:direktiv|[\s-]+direktiv)\s+(?:\(([^)]+)\)\s+)?(\d{2,4})\/(\d+)(?:\/([A-ZÆØÅ]+))?/gi,
+    // With community at end: direktiv 95/46/EG
+    /direktiv\s+(\d{2,4})\/(\d+)(?:\/([A-Z]+))?/gi,
+    // With issuing body
+    /(rådets|kommissionens|Europaparlamentets och rådets)\s+direktiv\s+(?:\(([^)]+)\)\s+)?(\d{2,4})\/(\d+)(?:\/([A-Z]+))?/gi,
   ],
 
-  // Regulations: forordning (EU) 2016/679, forordning (EF) nr 765/2008
+  // Regulations: förordning (EU) 2016/679, förordning (EG) nr 765/2008
   regulation: [
-    // With community and optional "nr": forordning (EU) nr 2016/679
-    /forordning\s+\(([^)]+)\)\s+(?:nr\.?\s+)?(\d{2,4})\/(\d+)/gi,
-    // With issuing body (Norwegian)
-    /(Europaparlaments-\s*og\s+råds|rådets?|[Kk]ommisjonens?(?:\s+gjennomføringsforordning|\s+delegerte\s+forordning)?)\s+\(([^)]+)\)\s+(?:nr\.?\s+)?(\d{2,4})\/(\d+)/gi,
+    // With community and optional "nr": förordning (EU) nr 2016/679
+    /förordning\s+\(([^)]+)\)\s+(?:nr\s+)?(\d{2,4})\/(\d+)/gi,
+    // With issuing body
+    /(rådets|kommissionens|Europaparlamentets och rådets|kommissionens genomförandeförordning|kommissionens delegerade förordning)\s+\(([^)]+)\)\s+(?:nr\s+)?(\d{2,4})\/(\d+)/gi,
   ],
 
-  // Article references: artikkel 6.1.c, artiklene 13-15
+  // Article references: artikel 6.1.c, artiklarna 13-15, artikel 83.4, 83.5 och 83.6
   article: [
-    /artikkel\s+([\d.]+(?:\s*,\s*[\d.]+)*(?:\s+og\s+[\d.]+)?)/gi,
-    /artiklene\s+([\d\s-]+(?:,\s*[\d\s-]+)*(?:\s+og\s+[\d\s-]+)?)/gi,
+    /artikel\s+([\d.]+(?:\s*,\s*[\d.()a-z]+)*(?:\s+och\s+[\d.()a-z]+)?)/gi,
+    /artiklarna\s+([\d\s-]+(?:,\s*[\d\s-]+)*(?:\s+och\s+[\d\s-]+)?)/gi,
   ],
 };
 
+const NAMED_EU_ACTS = [
+  {
+    pattern: /\b(?:EU:s\s+dataskyddsförordning|allmänna?\s+dataskyddsförordningen|dataskyddsförordningen|GDPR)\b/giu,
+    type: 'regulation' as const,
+    year: 2016,
+    number: 679,
+    community: 'EU' as const,
+  },
+];
+
+const ARTICLE_SEGMENT_PATTERN = /\bartik(?:el|larna)\s+([^;\n]+)/giu;
+const ARTICLE_LIST_SEPARATOR_PATTERN = /\s*(?:,|och|and)\s*/iu;
+
 /**
- * Implementation keywords that indicate reference type (Norwegian)
+ * Implementation keywords that indicate reference type
  */
 const IMPLEMENTATION_KEYWORDS: Record<string, ReferenceType> = {
-  'gjennomføring': 'implements',
-  'gjennomfører': 'implements',
-  'gjennomføre': 'implements',
-  'utfyller': 'supplements',
-  'utfylling': 'supplements',
-  'utfyllende': 'supplements',
-  'anvendelse': 'applies',
-  'anvendes': 'applies',
-  'i samsvar med': 'complies_with',
-  'i overensstemmelse med': 'complies_with',
-  'med hjemmel i': 'cites_article',
-  'i henhold til': 'cites_article',
-  'i medhold av': 'cites_article',
+  'genomförande': 'implements',
+  'genomför': 'implements',
+  'kompletterar': 'supplements',
+  'komplettering': 'supplements',
+  'tillämpning': 'applies',
+  'tillämpas': 'applies',
+  'i enlighet med': 'complies_with',
+  'överensstämmelse med': 'complies_with',
+  'med stöd av': 'cites_article',
+  'enligt': 'cites_article',
 };
 
 /**
- * Extract all EU references from Norwegian legal text
+ * Extract all EU references from Swedish legal text
  */
 export function extractEUReferences(text: string): EUReference[] {
   const references: EUReference[] = [];
@@ -112,6 +127,30 @@ export function extractEUReferences(text: string): EUReference[] {
     }
   }
 
+  // Extract named EU acts where number is implied (e.g., "EU:s dataskyddsförordning")
+  for (const namedAct of NAMED_EU_ACTS) {
+    const matches = text.matchAll(namedAct.pattern);
+    for (const match of matches) {
+      const fullText = match[0];
+      const index = match.index || 0;
+      const id = `${namedAct.year}/${namedAct.number}`;
+      const dedupeKey = `${id}:${namedAct.community}`;
+      if (seen.has(dedupeKey)) {
+        continue;
+      }
+      seen.add(dedupeKey);
+      references.push({
+        type: namedAct.type,
+        id,
+        year: namedAct.year,
+        number: namedAct.number,
+        community: namedAct.community,
+        fullText,
+        context: extractContext(text, index, fullText.length),
+      });
+    }
+  }
+
   // Enhance references with article citations and context
   return references.map(ref => enhanceReference(ref, text));
 }
@@ -125,20 +164,28 @@ function parseDirectiveMatch(match: RegExpMatchArray, text: string): EUReference
 
   let year: number;
   let number: number;
-  let community: 'EU' | 'EF' | 'EØF' | 'Euratom' | undefined;
+  let community: 'EU' | 'EG' | 'EEG' | 'Euratom' | undefined;
   let issuingBody: string | undefined;
 
+  // Determine which pattern matched
+  // Pattern 1: direktiv (EU) 2016/680 -> match[1]=EU, match[2]=2016, match[3]=680
+  // Pattern 2: direktiv 2016/680/EG -> match[1]=2016, match[2]=680, match[3]=EG
+  // Pattern 3: rådets direktiv (EU) 2016/680 -> match[1]=rådets, match[2]=EU, match[3]=2016, match[4]=680
+
   // Check if first capture group looks like issuing body
-  if (match[1] && match[1].match(/råd|kommisjon|Europa/i)) {
+  if (match[1] && match[1].match(/rådet|kommission|Europa/i)) {
+    // Pattern 3: issuing body present
     issuingBody = match[1];
     community = parseCommunity(match[2] || 'EU');
     year = parseInt(match[3]);
     number = parseInt(match[4]);
   } else if (match[1] && !match[1].match(/^\d/) && match[2] && match[3]) {
+    // Pattern 1: community in parentheses (first group is not a digit)
     community = parseCommunity(match[1]);
     year = parseInt(match[2]);
     number = parseInt(match[3]);
   } else if (match[1] && match[1].match(/^\d/) && match[2]) {
+    // Pattern 2: year/number format, optional community at end
     year = parseInt(match[1]);
     number = parseInt(match[2]);
     community = match[3] ? parseCommunity(match[3]) : 'EU';
@@ -146,7 +193,10 @@ function parseDirectiveMatch(match: RegExpMatchArray, text: string): EUReference
     return null;
   }
 
-  if (isNaN(year) || isNaN(number)) return null;
+  // Validate we got valid numbers
+  if (isNaN(year) || isNaN(number)) {
+    return null;
+  }
 
   // Normalize 2-digit years to 4-digit
   if (year < 100) {
@@ -177,16 +227,18 @@ function parseRegulationMatch(match: RegExpMatchArray, text: string): EUReferenc
 
   let year: number;
   let number: number;
-  let community: 'EU' | 'EF' | 'EØF' | 'Euratom' | undefined;
+  let community: 'EU' | 'EG' | 'EEG' | 'Euratom' | undefined;
   let issuingBody: string | undefined;
 
   // Check if we have an issuing body
-  if (match[1] && match[1].match(/råd|kommisjon|Europa/i)) {
+  if (match[1] && match[1].match(/rådet|kommission|Europa/i)) {
+    // Has issuing body
     issuingBody = match[1];
     community = parseCommunity(match[2] || 'EU');
     year = parseInt(match[3]);
     number = parseInt(match[4]);
   } else if (match[1] && match[2] && match[3]) {
+    // Simple pattern: förordning (EU) 2016/679
     community = parseCommunity(match[1]);
     year = parseInt(match[2]);
     number = parseInt(match[3]);
@@ -194,7 +246,10 @@ function parseRegulationMatch(match: RegExpMatchArray, text: string): EUReferenc
     return null;
   }
 
-  if (isNaN(year) || isNaN(number)) return null;
+  // Validate we got valid numbers
+  if (isNaN(year) || isNaN(number)) {
+    return null;
+  }
 
   // Normalize 2-digit years
   if (year < 100) {
@@ -217,17 +272,13 @@ function parseRegulationMatch(match: RegExpMatchArray, text: string): EUReferenc
 }
 
 /**
- * Parse community designation (EU, EF, EØF, Euratom)
- * Norwegian uses EF (not EG) and EØF (not EEG)
+ * Parse community designation (EU, EG, EEG, Euratom)
  */
-function parseCommunity(text: string): 'EU' | 'EF' | 'EØF' | 'Euratom' {
+function parseCommunity(text: string): 'EU' | 'EG' | 'EEG' | 'Euratom' {
   const normalized = text.toUpperCase().trim();
   if (normalized.includes('EURATOM')) return 'Euratom';
-  if (normalized.includes('EØF')) return 'EØF';
-  if (normalized.includes('EF') && !normalized.includes('EU')) return 'EF';
-  // Also handle Swedish EG/EEG for backward compat with existing data
-  if (normalized === 'EG') return 'EF';
-  if (normalized === 'EEG') return 'EØF';
+  if (normalized.includes('EEG')) return 'EEG';
+  if (normalized.includes('EG')) return 'EG';
   return 'EU';
 }
 
@@ -240,19 +291,90 @@ function extractContext(text: string, index: number, matchLength: number): strin
   return text.substring(start, end).replace(/\s+/g, ' ').trim();
 }
 
+function normalizeArticleToken(value: string): string | null {
+  let normalized = value.trim();
+  if (!normalized) {
+    return null;
+  }
+
+  normalized = normalized.replace(/[–—]/g, '-');
+  normalized = normalized.replace(/\(([^)]+)\)/g, '.$1');
+  normalized = normalized.replace(/\s+/g, '');
+  normalized = normalized.replace(/^\.+|\.+$/g, '');
+
+  if (/^\d+(?:\.\d+)*[a-z]$/i.test(normalized)) {
+    normalized = normalized.replace(/([0-9])([a-z])$/i, '$1.$2');
+  }
+
+  normalized = normalized.toLowerCase();
+
+  if (/^\d+(?:\.\d+)*(?:\.[a-z])?$/.test(normalized)) {
+    return normalized;
+  }
+
+  if (/^\d+(?:\.\d+)*-\d+(?:\.\d+)*$/.test(normalized)) {
+    return normalized;
+  }
+
+  return null;
+}
+
+/**
+ * Extract article-level references from arbitrary text.
+ *
+ * Examples:
+ *   "artikel 9.2(h) och 9.3" -> ["9.2.h", "9.3"]
+ *   "artiklarna 83 och 84" -> ["83", "84"]
+ */
+export function extractInlineEUArticleReferences(text: string): string[] {
+  const found: string[] = [];
+  const seen = new Set<string>();
+
+  const matches = text.matchAll(ARTICLE_SEGMENT_PATTERN);
+  for (const match of matches) {
+    let segment = (match[1] || '').trim();
+    if (!segment) {
+      continue;
+    }
+
+    // Trim tail context such as "i EU:s dataskyddsförordning"
+    segment = segment
+      .split(/\s+i\s+(?:EU|EG|EEG|Euratom|dataskyddsförordning|förordningen|direktivet)\b/i)[0]
+      .trim();
+    if (!segment) {
+      continue;
+    }
+
+    segment = segment.replace(/\s+och\s+/giu, ',');
+    segment = segment.replace(/\s+and\s+/giu, ',');
+
+    const parts = segment.split(ARTICLE_LIST_SEPARATOR_PATTERN);
+    for (const part of parts) {
+      const normalized = normalizeArticleToken(part);
+      if (!normalized || seen.has(normalized)) {
+        continue;
+      }
+      seen.add(normalized);
+      found.push(normalized);
+    }
+  }
+
+  return found;
+}
+
 /**
  * Enhance reference with article citations and implementation keywords
  */
 function enhanceReference(ref: EUReference, _text: string): EUReference {
   // Look for article references near this EU reference
   const contextWindow = ref.context;
-  const articleMatches = contextWindow.match(/artikkel\s+([\d.]+(?:\s*,\s*[\d.]+)*(?:\s+og\s+[\d.]+)?)/i);
-  if (articleMatches) {
-    ref.article = articleMatches[1].trim();
+  const articleMatches = extractInlineEUArticleReferences(contextWindow);
+  if (articleMatches.length > 0) {
+    ref.article = articleMatches.join(',');
     ref.referenceType = 'cites_article';
   }
 
-  // Check for implementation keywords (Norwegian)
+  // Check for implementation keywords
   const lowerContext = contextWindow.toLowerCase();
   for (const [keyword, refType] of Object.entries(IMPLEMENTATION_KEYWORDS)) {
     if (lowerContext.includes(keyword)) {
@@ -295,12 +417,12 @@ export function parseEUDocumentId(id: string): { type: 'directive' | 'regulation
 }
 
 /**
- * Format EU reference for display (Norwegian)
+ * Format EU reference for display
  */
 export function formatEUReference(ref: EUReference, format: 'short' | 'full' = 'short'): string {
   if (format === 'short') {
     const community = ref.community || 'EU';
-    const typeLabel = ref.type === 'directive' ? 'direktiv' : 'forordning';
+    const typeLabel = ref.type === 'directive' ? 'direktiv' : 'förordning';
     return `${typeLabel} (${community}) ${ref.id}`;
   }
 
@@ -309,11 +431,11 @@ export function formatEUReference(ref: EUReference, format: 'short' | 'full' = '
   if (ref.issuingBody) {
     result += ref.issuingBody + ' ';
   }
-  result += ref.type === 'directive' ? 'direktiv ' : 'forordning ';
+  result += ref.type === 'directive' ? 'direktiv ' : 'förordning ';
   result += `(${ref.community || 'EU'}) ${ref.id}`;
 
   if (ref.article) {
-    result += `, artikkel ${ref.article}`;
+    result += `, artikel ${ref.article}`;
   }
 
   return result;

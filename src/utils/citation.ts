@@ -1,22 +1,28 @@
 /**
  * Citation metadata for the deterministic citation pipeline.
  *
- * Provides structured identifiers (canonical_ref, display_text, aliases)
+ * Provides structured identifiers (canonical_ref, display_text, source_url)
  * that the platform's entity linker uses to match references in agent
  * responses to MCP tool results — without relying on LLM formatting.
  *
- * This is the UNIVERSAL template — works for all MCP types (law, sector,
- * agriculture, domain). Each MCP adapts the builder call to its own
- * field names.
+ * Source URL pattern:
+ *   Customer-facing hyperlinks go to the human-readable lovdata.no page.
+ *   Ingestion fetches via api.lovdata.no — that domain is banned from
+ *   appearing in fetch code (see infrastructure/policy/banned-scrape-sources.yml).
+ *   Emitting lovdata.no/dokument/... in _citation.source_url is PERMITTED —
+ *   it is a hyperlink for human readers, not a fetch target.
  *
  * See: docs/guides/law-mcp-golden-standard.md Section 4.9c
  */
 
 export interface CitationMetadata {
+  source_url: string;
+  publisher: string;
+  license: string;
   canonical_ref: string;
   display_text: string;
+  attribution_text: string;
   aliases?: string[];
-  source_url?: string;
   lookup: {
     tool: string;
     args: Record<string, string>;
@@ -24,50 +30,15 @@ export interface CitationMetadata {
 }
 
 /**
- * Build citation metadata for any retrieval tool response.
+ * Build citation metadata for a get_provision response.
  *
- * @param canonicalRef  Primary reference the entity linker matches against
- *                      (e.g., "SFS 2018:218", "GDPR Article 33", "CVE-2024-1234")
- * @param displayText   How the reference appears in prose
- *                      (e.g., "34 § SFS 2018:218", "Article 33 of GDPR")
- * @param toolName      The MCP tool name (e.g., "get_provision", "get_article")
- * @param toolArgs      The tool arguments for verification lookup
- * @param sourceUrl     Official portal URL (optional)
- * @param aliases       Alternative names the LLM might use (optional)
- */
-export function buildCitation(
-  canonicalRef: string,
-  displayText: string,
-  toolName: string,
-  toolArgs: Record<string, string>,
-  sourceUrl?: string | null,
-  aliases?: string[],
-): CitationMetadata {
-  return {
-    canonical_ref: canonicalRef,
-    display_text: displayText,
-    ...(aliases && aliases.length > 0 && { aliases }),
-    ...(sourceUrl && { source_url: sourceUrl }),
-    lookup: {
-      tool: toolName,
-      args: toolArgs,
-    },
-  };
-}
-
-/**
- * Build citation metadata for a law MCP get_provision response.
- *
- * Handles Swedish-style YYYY:NNN statute IDs, chapter:section notation,
- * and short-name aliases. Other jurisdictions adapt field names.
- *
- * @param documentId     DB identifier (e.g., "2018:218", "LOV-2018-06-15-38")
- * @param documentTitle  Full title of the law
- * @param provisionRef   Provision reference (e.g., "34", "3:12")
+ * @param documentId     DB identifier (e.g., "LOV-2018-06-15-38")
+ * @param documentTitle  Human-readable law title (e.g., "Lov om behandling av personopplysninger")
+ * @param provisionRef   Provision reference (e.g., "13" or "3:13")
  * @param inputDocId     The document_id argument as passed by the caller
  * @param inputSection   The section argument as passed by the caller
- * @param sourceUrl      Official portal URL (optional)
- * @param shortName      Short name / alias (optional)
+ * @param sourceUrl      Override for the official portal URL (optional)
+ * @param shortName      Short name / Korttittel (e.g., "personopplysningsloven") (optional)
  */
 export function buildProvisionCitation(
   documentId: string,
@@ -78,41 +49,39 @@ export function buildProvisionCitation(
   sourceUrl?: string | null,
   shortName?: string | null,
 ): CitationMetadata {
-  // Build canonical_ref — detect common statute ID formats
-  let canonicalRef: string;
-  if (documentId.match(/^\d{4}:\d+$/)) {
-    // Swedish SFS format: "2018:218" → "SFS 2018:218"
-    canonicalRef = `SFS ${documentId}`;
-  } else if (documentId.match(/^LOV-\d{4}/)) {
-    // Norwegian Lovdata format
-    canonicalRef = documentId;
-  } else {
-    canonicalRef = documentTitle || documentId;
-  }
+  // Build canonical_ref from the LOV/FOR identifier
+  // DB id "LOV-2018-06-15-38" → canonical ref is the full LOV ID
+  const canonicalRef = documentId;
 
-  // Build display_text with provision reference
-  let displayText: string;
-  if (provisionRef && provisionRef.includes(':')) {
-    // Chapter:section format (e.g., "3:12" → "3 kap. 12 §")
-    const [ch, sec] = provisionRef.split(':');
-    displayText = `${ch} kap. ${sec} § ${canonicalRef}`;
-  } else if (provisionRef) {
-    displayText = `§ ${provisionRef} ${canonicalRef}`;
-  } else {
-    displayText = canonicalRef;
-  }
+  // Build display_text: "§ 13 LOV-2018-06-15-38" or using short name if available
+  const sectionLabel = provisionRef.includes(':')
+    ? `§ ${provisionRef.split(':')[1]}`
+    : `§ ${provisionRef}`;
 
-  // Build aliases
+  const docLabel = shortName ? shortName : canonicalRef;
+  const displayText = `${docLabel} ${sectionLabel}`;
+
+  // Build the lovdata.no human-readable URL for this provision.
+  // Format: https://lovdata.no/dokument/NL/lov/YYYY-MM-DD-NN/§N
+  // The document_id in the DB is "LOV-2018-06-15-38"; we derive the
+  // URL path from it by lowercasing and replacing "LOV-" with "NL/lov/".
+  const resolvedSourceUrl = sourceUrl ?? buildLovdataUrl(documentId, provisionRef);
+
+  // Attribution text per NLOD-2.0
+  const attributionText = `${documentTitle} — Lovdata (NLOD-2.0)`;
+
+  // Build aliases from short name
   const aliases: string[] = [];
   if (shortName) aliases.push(shortName);
-  if (documentId !== canonicalRef) aliases.push(documentId);
-  if (documentTitle && documentTitle !== canonicalRef) aliases.push(documentTitle);
 
   return {
+    source_url: resolvedSourceUrl,
+    publisher: 'lovdata.no',
+    license: 'NLOD-2.0',
     canonical_ref: canonicalRef,
     display_text: displayText,
+    attribution_text: attributionText,
     ...(aliases.length > 0 && { aliases }),
-    ...(sourceUrl && { source_url: sourceUrl }),
     lookup: {
       tool: 'get_provision',
       args: { document_id: inputDocId, section: inputSection },
@@ -121,33 +90,47 @@ export function buildProvisionCitation(
 }
 
 /**
- * Build citation for a sector regulator decision/regulation.
+ * Build the customer-facing lovdata.no URL for a provision.
  *
- * @param reference      Decision/regulation reference (e.g., "FFFS 2024:1")
- * @param title          Full title
- * @param toolName       Tool name (e.g., "se_dp_get_decision")
- * @param toolArgs       Tool arguments
- * @param authority      Issuing authority (e.g., "IMY", "FI")
- * @param sourceUrl      Official URL (optional)
+ * Example:
+ *   documentId = "LOV-2018-06-15-38", provisionRef = "13"
+ *   → "https://lovdata.no/dokument/NL/lov/2018-06-15-38/§13"
+ *
+ *   documentId = "LOV-2018-06-15-38", provisionRef = "3:13"
+ *   → "https://lovdata.no/dokument/NL/lov/2018-06-15-38/§13"
+ *     (lovdata.no URLs use just the § number, not the kapittel)
+ *
+ *   documentId = "FOR-2018-06-15-100", provisionRef = "5"
+ *   → "https://lovdata.no/dokument/NL/forskrift/2018-06-15-100/§5"
  */
-export function buildRegulationCitation(
-  reference: string,
-  title: string,
-  toolName: string,
-  toolArgs: Record<string, string>,
-  authority?: string | null,
-  sourceUrl?: string | null,
-): CitationMetadata {
-  const canonicalRef = reference;
-  const displayText = title || reference;
-  const aliases: string[] = [];
-  if (authority) aliases.push(`${authority}: ${reference}`);
+export function buildLovdataUrl(documentId: string, provisionRef?: string): string {
+  const upper = documentId.toUpperCase();
 
-  return {
-    canonical_ref: canonicalRef,
-    display_text: displayText,
-    ...(aliases.length > 0 && { aliases }),
-    ...(sourceUrl && { source_url: sourceUrl }),
-    lookup: { tool: toolName, args: toolArgs },
-  };
+  let pathPrefix: string;
+  let datePart: string;
+
+  if (upper.startsWith('LOV-')) {
+    pathPrefix = 'NL/lov';
+    datePart = documentId.slice(4); // "2018-06-15-38"
+  } else if (upper.startsWith('FOR-')) {
+    pathPrefix = 'NL/forskrift';
+    datePart = documentId.slice(4);
+  } else {
+    // Unknown prefix — best effort
+    pathPrefix = 'NL/lov';
+    datePart = documentId;
+  }
+
+  const base = `https://lovdata.no/dokument/${pathPrefix}/${datePart}`;
+
+  if (!provisionRef) {
+    return base;
+  }
+
+  // Extract just the § number (strip chapter prefix if present: "3:13" → "13")
+  const sectionNumber = provisionRef.includes(':')
+    ? provisionRef.split(':')[1]
+    : provisionRef;
+
+  return `${base}/§${sectionNumber}`;
 }

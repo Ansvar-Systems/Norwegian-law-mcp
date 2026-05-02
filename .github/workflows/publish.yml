@@ -1,13 +1,40 @@
+# ═══════════════════════════════════════════════════════════════════════════
+# NPM & MCP REGISTRY PUBLISH WORKFLOW
+# ═══════════════════════════════════════════════════════════════════════════
+#
+# Automatically publishes to npm and MCP Registry when a version tag is pushed.
+#
+# To trigger:
+#   1. Update version in package.json
+#   2. Commit: git commit -am "Release v1.2.0"
+#   3. Tag: git tag v1.2.0
+#   4. Push: git push origin main --tags
+#
+# Requirements:
+#   - NPM_TOKEN secret configured in repository settings
+#   - AZURE_CREDENTIALS secret with Key Vault Secrets User role for kv-ansvar-dev
+#   - Azure Key Vault 'kv-ansvar-dev' must contain secret 'mcp-publisher-private-key'
+#   - Repository has id-token: write permission for provenance
+#
+# ═══════════════════════════════════════════════════════════════════════════
+
 name: Publish to npm & MCP Registry
 
 on:
   push:
     tags:
-      - 'v*'
+      - 'v*'  # Trigger on tags like v0.1.0, v1.0.0, etc.
 
 jobs:
+  # ─────────────────────────────────────────────────────────────────────────
+  # TEST JOB
+  # ─────────────────────────────────────────────────────────────────────────
+  # Run tests before publishing
+  # ─────────────────────────────────────────────────────────────────────────
+
   test:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -21,19 +48,31 @@ jobs:
       - name: Install dependencies
         run: npm ci --ignore-scripts
 
+      - name: Build native modules
+        run: npm rebuild better-sqlite3
+
       - name: Build
         run: npm run build
 
+      - name: Build database from seeds
+        run: npm run build:db
+
       - name: Run tests
         run: npm test
+
+  # ─────────────────────────────────────────────────────────────────────────
+  # PUBLISH JOB
+  # ─────────────────────────────────────────────────────────────────────────
+  # Publish to npm and MCP Registry with provenance
+  # ─────────────────────────────────────────────────────────────────────────
 
   publish:
     needs: test
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write
-      id-token: write
+      contents: write  # Required for GitHub Release SBOM attachment
+      id-token: write  # Required for npm provenance
 
     steps:
       - name: Checkout
@@ -63,14 +102,25 @@ jobs:
       - name: Install dependencies
         run: npm ci --ignore-scripts
 
+      - name: Build native modules
+        run: npm rebuild better-sqlite3
+
       - name: Build
         run: npm run build
+
+      # ─────────────────────────────────────────────────────────────────────
+      # SBOM GENERATION (Blueprint §9)
+      # ─────────────────────────────────────────────────────────────────────
 
       - name: Generate SBOM
         uses: anchore/sbom-action@v0
         with:
           format: cyclonedx-json
           output-file: sbom.cdx.json
+
+      # ─────────────────────────────────────────────────────────────────────
+      # NPM PUBLISH
+      # ─────────────────────────────────────────────────────────────────────
 
       - name: Publish to npm
         id: npm-publish
@@ -83,15 +133,19 @@ jobs:
           NPM_FAILED: ${{ steps.npm-publish.outputs.NPM_PUBLISH_FAILED }}
         run: |
           if [ "$NPM_FAILED" = "true" ]; then
-            echo "::warning::npm publish failed (version may already exist). Continuing..."
+            echo "::warning::npm publish failed (version may already exist). Continuing to MCP Registry..."
           fi
+
+      # ─────────────────────────────────────────────────────────────────────
+      # MCP REGISTRY PUBLISH
+      # ─────────────────────────────────────────────────────────────────────
 
       - name: Azure Login
         uses: azure/login@v1
         with:
           creds: ${{ secrets.AZURE_CREDENTIALS }}
 
-      - name: Get MCP Publisher Private Key
+      - name: Get MCP Publisher Private Key from Key Vault
         id: mcp-key
         run: |
           PRIVATE_KEY=$(az keyvault secret show \
@@ -119,18 +173,48 @@ jobs:
       - name: Publish to MCP Registry
         run: mcp-publisher publish
 
-      - name: Attach SBOM to GitHub Release
+      # ─────────────────────────────────────────────────────────────────────
+      # SBOM RELEASE ATTACHMENT
+      # ─────────────────────────────────────────────────────────────────────
+
+      # ─────────────────────────────────────────────────────────────────────
+      # DATABASE ARTIFACT
+      # ─────────────────────────────────────────────────────────────────────
+      # Build DB from seeds, compress, and upload to GitHub Release.
+      # Downstream Docker builds use scripts/download-db.sh to fetch this
+      # instead of re-running slow Riksdagen API ingestion.
+      # ─────────────────────────────────────────────────────────────────────
+
+      - name: Build database from seeds
+        run: npm run build:db
+
+      - name: Compress database
+        run: gzip -k data/database.db
+
+      - name: Upload artifacts to GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          files: sbom.cdx.json
+          files: |
+            sbom.cdx.json
+            data/database.db.gz
           append_body: true
           body: |
-            ### Supply Chain Artifacts
-            - `sbom.cdx.json` -- CycloneDX SBOM for this release
+            ### Artifacts
+            - `database.db.gz` — Pre-built SQLite database (download for Docker builds)
+            - `sbom.cdx.json` — CycloneDX SBOM
+
+      # ─────────────────────────────────────────────────────────────────────
+      # DEPLOYMENT SUMMARY
+      # ─────────────────────────────────────────────────────────────────────
 
       - name: Deployment Summary
         env:
           PKG_VERSION: ${{ steps.version.outputs.VERSION }}
         run: |
           echo "## Publication Complete" >> $GITHUB_STEP_SUMMARY
-          echo "**Version:** $PKG_VERSION" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Version:** \`$PKG_VERSION\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Published To:" >> $GITHUB_STEP_SUMMARY
+          echo "- npm: https://www.npmjs.com/package/@ansvar/swedish-law-mcp/v/$PKG_VERSION" >> $GITHUB_STEP_SUMMARY
+          echo "- MCP Registry: https://registry.modelcontextprotocol.io" >> $GITHUB_STEP_SUMMARY

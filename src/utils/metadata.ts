@@ -22,10 +22,10 @@ export interface ResponseMetadata {
   /** EU AI Act transparency notice */
   ai_disclosure: string;
 
-  /** Optional note (e.g., unresolved document_id) */
+  /** Optional note (e.g. document resolution failure) */
   note?: string;
 
-  /** Query strategy used (e.g., 'broadened', 'like_fallback') */
+  /** Query strategy used (e.g. 'broadened', 'like_fallback') */
   query_strategy?: string;
 }
 
@@ -166,9 +166,9 @@ function calculateStalenessWarning(
  */
 function getSourceAuthority(): SourceAuthority {
   return {
-    primary_source: 'Lovdata and official Norwegian publication channels (metadata + deep links by default; full-text only when rights are explicit)',
-    authority_level: 'official',
-    verification_required: 'ALWAYS open the linked official publication and verify legal text before professional use. Full-text caching is policy-gated; see LEGAL_DATA_LICENSE.md.'
+    primary_source: 'Riksdagen (official Swedish Parliament API) for statutes; lagen.nu (community-maintained, CC-BY Domstolsverket) for case law',
+    authority_level: 'community-maintained',
+    verification_required: 'ALWAYS cross-check with official sources (Riksdagen, Domstolsverket, or commercial legal databases like Karnov) before using in professional legal work. Community-maintained sources may contain errors or omissions.'
   };
 }
 
@@ -180,8 +180,12 @@ export interface ToolResponse<T> {
   results: T;
 
   /** Professional-use metadata and warnings */
-  _metadata: ResponseMetadata;
+  _meta: ResponseMetadata;
 
-  /** Citation metadata for deterministic source attribution */
+  /** Citation metadata for deterministic citation pipeline (optional) */
   _citation?: import('./citation.js').CitationMetadata;
+
+  /** Truncation hint (optional) */
+  _truncated?: boolean;
+  _hint?: string;
 }

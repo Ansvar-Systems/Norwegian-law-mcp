@@ -1,11 +1,12 @@
 /**
- * get_provision — Retrieve a specific provision from a Norwegian statute.
+ * get_provision — Retrieve a specific provision from a Swedish statute.
  */
 
 import type { Database } from '@ansvar/mcp-sqlite';
 import { normalizeAsOfDate } from '../utils/as-of-date.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 import { buildProvisionCitation } from '../utils/citation.js';
+import { resolveDocumentId, normalizeProvisionRef } from '../utils/statute-id.js';
 
 export interface GetProvisionInput {
   document_id: string;
@@ -13,7 +14,6 @@ export interface GetProvisionInput {
   section?: string;
   provision_ref?: string;
   as_of_date?: string;
-  limit?: number;
 }
 
 export interface ProvisionResult {
@@ -41,6 +41,8 @@ interface ProvisionRow {
   document_id: string;
   document_title: string;
   document_status: string;
+  document_url: string | null;
+  document_short_name: string | null;
   provision_ref: string;
   chapter: string | null;
   section: string;
@@ -59,8 +61,19 @@ export async function getProvision(
     throw new Error('document_id is required');
   }
 
-  // If provision_ref is directly provided, use it
-  let provisionRef = input.provision_ref;
+  const resolvedId = resolveDocumentId(db, input.document_id);
+  if (!resolvedId) {
+    return {
+      results: null,
+      _meta: generateResponseMetadata(db),
+    };
+  }
+  input = { ...input, document_id: resolvedId };
+
+  // If provision_ref is directly provided, normalize it
+  let provisionRef = input.provision_ref
+    ? normalizeProvisionRef(input.provision_ref)
+    : undefined;
   if (!provisionRef) {
     if (input.chapter && input.section) {
       provisionRef = `${input.chapter}:${input.section}`;
@@ -71,13 +84,15 @@ export async function getProvision(
 
   const asOfDate = normalizeAsOfDate(input.as_of_date);
 
-  const limit = Math.min(Math.max(input.limit ?? 100, 1), 500);
-
-  // If no specific provision, return all provisions for the document
+  // If no specific provision, return all provisions for the document (capped)
   if (!provisionRef) {
+    const MAX_ALL_PROVISIONS = 100;
+    const all = getAllProvisions(db, input.document_id, asOfDate, MAX_ALL_PROVISIONS + 1);
+    const truncated = all.length > MAX_ALL_PROVISIONS;
     return {
-      results: getAllProvisions(db, input.document_id, asOfDate, limit),
-      _metadata: generateResponseMetadata(db)
+      results: truncated ? all.slice(0, MAX_ALL_PROVISIONS) : all,
+      ...(truncated && { _truncated: true, _hint: `Only first ${MAX_ALL_PROVISIONS} provisions returned. Use chapter+section to retrieve specific provisions.` }),
+      _meta: generateResponseMetadata(db)
     };
   }
 
@@ -88,6 +103,8 @@ export async function getProvision(
         lpv.document_id,
         ld.title as document_title,
         ld.status as document_status,
+        ld.url as document_url,
+        ld.short_name as document_short_name,
         lpv.provision_ref,
         lpv.chapter,
         lpv.section,
@@ -112,6 +129,8 @@ export async function getProvision(
         lp.document_id,
         ld.title as document_title,
         ld.status as document_status,
+        ld.url as document_url,
+        ld.short_name as document_short_name,
         lp.provision_ref,
         lp.chapter,
         lp.section,
@@ -130,7 +149,7 @@ export async function getProvision(
   if (!row) {
     return {
       results: null,
-      _metadata: generateResponseMetadata(db)
+      _meta: generateResponseMetadata(db)
     };
   }
 
@@ -146,20 +165,20 @@ export async function getProvision(
       metadata: row.metadata ? JSON.parse(row.metadata) : null,
       cross_references: crossRefs,
     },
+    _meta: generateResponseMetadata(db),
     _citation: buildProvisionCitation(
       row.document_id,
-      row.document_title || '',
-      row.provision_ref || '',
+      row.document_title,
+      row.provision_ref,
       input.document_id,
-      input.section || input.provision_ref || '',
-      null,
-      null,
+      provisionRef,
+      row.document_url,
+      row.document_short_name,
     ),
-    _metadata: generateResponseMetadata(db)
   };
 }
 
-function getAllProvisions(db: Database, documentId: string, asOfDate?: string, limit = 100): ProvisionResult[] {
+function getAllProvisions(db: Database, documentId: string, asOfDate?: string, limit?: number): ProvisionResult[] {
   let rows: ProvisionRow[];
 
   if (asOfDate) {
@@ -202,9 +221,9 @@ function getAllProvisions(db: Database, documentId: string, asOfDate?: string, l
       FROM ranked_versions
       WHERE version_rank = 1
       ORDER BY provision_ref
-      LIMIT ?
+      ${limit ? 'LIMIT ?' : ''}
     `;
-    rows = db.prepare(sql).all(documentId, asOfDate, asOfDate, limit) as ProvisionRow[];
+    rows = db.prepare(sql).all(...[documentId, asOfDate, asOfDate, ...(limit ? [limit] : [])]) as ProvisionRow[];
   } else {
     const sql = `
       SELECT
@@ -223,9 +242,9 @@ function getAllProvisions(db: Database, documentId: string, asOfDate?: string, l
       JOIN legal_documents ld ON ld.id = lp.document_id
       WHERE lp.document_id = ?
       ORDER BY lp.id
-      LIMIT ?
+      ${limit ? 'LIMIT ?' : ''}
     `;
-    rows = db.prepare(sql).all(documentId, limit) as ProvisionRow[];
+    rows = db.prepare(sql).all(...[documentId, ...(limit ? [limit] : [])]) as ProvisionRow[];
   }
 
   return rows.map(row => ({

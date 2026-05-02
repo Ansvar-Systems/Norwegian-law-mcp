@@ -7,37 +7,41 @@ export interface LegalProvision {
   /** Auto-increment ID */
   id: number;
 
-  /** LOV id of the parent statute */
+  /** LOV/FOR identifier of the parent statute (e.g., "LOV-2018-06-15-38") */
   document_id: string;
 
-  /** Provision reference, e.g., "3:5" for Kap 3 Para 5, or "5" for flat statutes */
+  /**
+   * Provision reference.
+   * For chaptered statutes: "3:13" (kapittel 3, § 13).
+   * For flat statutes: "13" (§ 13 only).
+   */
   provision_ref: string;
 
-  /** Chapter number (null for flat statutes) */
+  /** Chapter number — kapittel (null for flat statutes) */
   chapter?: string;
 
-  /** Section/paragraph number */
+  /** Section/paragraph number — paragrafnummer */
   section: string;
 
-  /** Heading for the provision */
+  /** Rubrikk (heading) for the provision */
   title?: string;
 
   /** Full text content in Norwegian */
   content: string;
 
-  /** JSON metadata: paragraphs, points, etc. */
+  /** JSON metadata: ledd, bokstav, nr., etc. */
   metadata?: Record<string, unknown>;
 }
 
 /** A reference to a specific provision */
 export interface ProvisionRef {
-  /** LOV id */
+  /** LOV/FOR identifier (e.g., "LOV-2018-06-15-38") */
   document_id: string;
 
-  /** Chapter (may be undefined for flat statutes) */
+  /** Chapter — kapittel (may be undefined for flat statutes) */
   chapter?: string;
 
-  /** Section number */
+  /** Section/paragraph number */
   section: string;
 }
 

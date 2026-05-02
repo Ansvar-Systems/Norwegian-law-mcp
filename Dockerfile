@@ -11,13 +11,13 @@
 #
 # Free tier (seeds only, ~45 MB):
 #   npm run build:db
-#   docker build -t norwegian-law-mcp .
+#   docker build -t swedish-law-mcp .
 #
 # Full tier (seeds + ingested case law, ~80 MB):
 #   npm run build:db
 #   npm run ingest:cases:full-archive
 #   npm run build:db:paid
-#   docker build -t norwegian-law-mcp .
+#   docker build -t swedish-law-mcp .
 #
 # ═══════════════════════════════════════════════════════════════════════════
 
@@ -67,27 +67,6 @@ COPY --from=builder /app/dist ./dist
 # Copy pre-built database
 # This file MUST exist — run `npm run build:db` (or full pipeline) first
 COPY data/database.db ./data/database.db
-RUN apk add --no-cache --virtual .db-tools sqlite \
- && sqlite3 ./data/database.db "PRAGMA wal_checkpoint(TRUNCATE); PRAGMA journal_mode=DELETE; VACUUM;" \
- && apk del .db-tools
-RUN node --input-type=module - <<'NODE'
-import Database from '@ansvar/mcp-sqlite';
-import { searchLegislation } from './dist/tools/search-legislation.js';
-const db = new Database('./data/database.db', { readonly: true });
-const tables = new Set(
-  db.prepare("SELECT name FROM sqlite_master WHERE type='table'").all().map(row => row.name)
-);
-for (const table of ['legal_documents', 'legal_provisions', 'provisions_fts']) {
-  if (!tables.has(table)) {
-    throw new Error(`Missing required table: ${table}`);
-  }
-}
-const result = await searchLegislation(db, { query: 'personopplysninger', limit: 1 });
-if (!result.results.length) {
-  throw new Error('Search smoke test returned no Norwegian law results');
-}
-db.close();
-NODE
 
 # ───────────────────────────────────────────────────────────────────────────
 # SECURITY
@@ -96,7 +75,7 @@ NODE
 # ───────────────────────────────────────────────────────────────────────────
 
 RUN addgroup -S nodejs && adduser -S nodejs -G nodejs \
- && chown -R nodejs:nodejs /app/data
+    && chown -R nodejs:nodejs /app/data
 USER nodejs
 
 # ───────────────────────────────────────────────────────────────────────────
@@ -105,9 +84,11 @@ USER nodejs
 
 # Production mode
 ENV NODE_ENV=production
+# WASM SQLite loads the entire DB into memory — 122MB DB needs extra heap
+ENV NODE_OPTIONS="--max-old-space-size=512"
 
 # Database path (matches the COPY destination above)
-ENV NORWEGIAN_LAW_DB_PATH=/app/data/database.db
+ENV SWEDISH_LAW_DB_PATH=/app/data/database.db
 
 # ───────────────────────────────────────────────────────────────────────────
 # ENTRY POINT

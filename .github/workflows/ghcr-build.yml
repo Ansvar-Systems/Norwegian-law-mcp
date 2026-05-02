@@ -37,7 +37,7 @@ concurrency:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: norwegian-law-mcp
+  IMAGE_NAME: swedish-law-mcp
 
 permissions:
   contents: read

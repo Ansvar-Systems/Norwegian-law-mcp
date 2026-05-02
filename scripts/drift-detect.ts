@@ -1,5 +1,6 @@
 #!/usr/bin/env tsx
 // scripts/drift-detect.ts — Upstream drift detection per MCP Infrastructure Blueprint §5.3
+
 import { createHash } from 'node:crypto';
 import { readFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
@@ -29,12 +30,12 @@ function sha256(text: string): string {
 }
 
 async function sleep(ms: number): Promise<void> {
-  return new Promise((resolve) => setTimeout(resolve, ms));
+  return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 async function main(): Promise<void> {
   const hashesPath = join(__dirname, '..', 'fixtures', 'golden-hashes.json');
-  const hashes = JSON.parse(readFileSync(hashesPath, 'utf-8')) as GoldenHashes;
+  const hashes: GoldenHashes = JSON.parse(readFileSync(hashesPath, 'utf-8'));
 
   let driftCount = 0;
   let errorCount = 0;
@@ -82,15 +83,13 @@ async function main(): Promise<void> {
     await sleep(1000);
   }
 
-  console.log(
-    `\nResults: ${hashes.provisions.length - driftCount - errorCount - skippedCount} OK, ${driftCount} drift, ${errorCount} errors, ${skippedCount} skipped`,
-  );
+  console.log(`\nResults: ${hashes.provisions.length - driftCount - errorCount - skippedCount} OK, ${driftCount} drift, ${errorCount} errors, ${skippedCount} skipped`);
 
   if (driftCount > 0) process.exit(2);
   if (errorCount > 0) process.exit(1);
 }
 
-main().catch((err) => {
+main().catch(err => {
   console.error('Fatal error:', err);
   process.exit(1);
 });

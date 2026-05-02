@@ -65,7 +65,7 @@ export async function checkCurrency(
   if (!doc) {
     return {
       results: null,
-      _metadata: generateResponseMetadata(db)
+      _meta: generateResponseMetadata(db)
     };
   }
 
@@ -75,7 +75,7 @@ export async function checkCurrency(
   const repealDate = extractRepealDateFromDescription(doc.description ?? null);
 
   if (doc.status === 'repealed') {
-    warnings.push('This statute has been repealed (opphevet)');
+    warnings.push('This statute has been repealed (upphävd)');
   } else if (doc.status === 'amended') {
     warnings.push('This statute has been amended since last ingestion');
   } else if (doc.status === 'not_yet_in_force') {
@@ -130,9 +130,9 @@ export async function checkCurrency(
       caseLawStats = {
         last_updated: syncMeta.last_sync_date,
         total_cases: syncMeta.cases_count || 0,
-        source: syncMeta.source || 'lovdata.no',
-        source_url: 'https://lovdata.no',
-        attribution: 'Case-law handling is licensing-policy gated; verify rights in LEGAL_DATA_LICENSE.md',
+        source: syncMeta.source || 'lagen.nu',
+        source_url: 'https://lagen.nu',
+        attribution: 'Case law data from lagen.nu, licensed CC-BY Domstolsverket',
       };
     }
   } catch (error) {
@@ -156,6 +156,6 @@ export async function checkCurrency(
       warnings,
       case_law_stats: caseLawStats,
     },
-    _metadata: generateResponseMetadata(db)
+    _meta: generateResponseMetadata(db)
   };
 }

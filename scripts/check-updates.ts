@@ -1,10 +1,8 @@
 #!/usr/bin/env tsx
 /**
- * Check for updates to ingested Norwegian statutes.
+ * Check for updates to ingested Swedish statutes.
  *
- * Source strategy:
- * - Lovdata statute deep links (official source)
- * - Page metadata checks for published update cues
+ * Queries the Riksdagen API to detect amendments since last ingestion.
  *
  * Usage: npm run check-updates
  */
@@ -18,9 +16,9 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const DB_PATH = path.resolve(__dirname, '../data/database.db');
 
-const USER_AGENT = 'Norwegian-Law-MCP/1.0.0 (+https://github.com/Ansvar-Systems/norwegian-law-mcp)';
+const RIKSDAGEN_LIST_URL = 'https://data.riksdagen.se/dokumentlista';
+const USER_AGENT = 'Swedish-Law-MCP/0.1.0';
 const REQUEST_DELAY_MS = 500;
-const LOV_ID_PATTERN = /^LOV-(\d{4})-(\d{2})-(\d{2})(?:-([A-Za-z0-9]+))?$/i;
 
 interface LocalDocument {
   id: string;
@@ -28,7 +26,6 @@ interface LocalDocument {
   type: string;
   status: string;
   last_updated: string | null;
-  url: string | null;
 }
 
 interface UpdateCheckResult {
@@ -36,7 +33,6 @@ interface UpdateCheckResult {
   title: string;
   local_date: string | null;
   remote_date: string | null;
-  source_url: string | null;
   has_update: boolean;
   error?: string;
 }
@@ -45,118 +41,57 @@ function delay(ms: number): Promise<void> {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-function buildLovdataCandidates(doc: LocalDocument): string[] {
-  const candidates = new Set<string>();
-
-  if (doc.url) {
-    candidates.add(doc.url);
-  }
-
-  const match = doc.id.match(LOV_ID_PATTERN);
-  if (match) {
-    const [, year, month, day, suffix] = match;
-    const normalizedSuffix = suffix ? suffix.toLowerCase() : undefined;
-    const slug = normalizedSuffix ? `${year}-${month}-${day}-${normalizedSuffix}` : `${year}-${month}-${day}`;
-    candidates.add(`https://lovdata.no/dokument/NL/lov/${slug}`);
-    candidates.add(`https://lovdata.no/dokument/NLO/lov/${slug}`);
-  }
-
-  return Array.from(candidates);
-}
-
-function extractRemoteDate(html: string): string | null {
-  const patterns: RegExp[] = [
-    /modified_time["']?\s*content=["'](\d{4}-\d{2}-\d{2})/i,
-    /sist\s+endret[^\d]*(\d{4}-\d{2}-\d{2})/i,
-    /sist\s+oppdatert[^\d]*(\d{4}-\d{2}-\d{2})/i,
-    /last\s+updated[^\d]*(\d{4}-\d{2}-\d{2})/i,
-    /\b(\d{4}-\d{2}-\d{2})\b/,
-  ];
-
-  for (const pattern of patterns) {
-    const match = html.match(pattern);
-    if (match?.[1]) {
-      return match[1];
-    }
-  }
-
-  return null;
-}
-
-async function fetchRemoteDate(url: string): Promise<{ remoteDate: string | null; error?: string }> {
+async function checkRiksdagenForUpdates(doc: LocalDocument): Promise<UpdateCheckResult> {
   try {
+    const url = `${RIKSDAGEN_LIST_URL}/?sok=${encodeURIComponent(doc.id)}&doktyp=sfs&format=json&utformat=json`;
+
     const response = await fetch(url, {
-      headers: {
-        'User-Agent': USER_AGENT,
-        Accept: 'text/html,application/xhtml+xml',
-      },
+      headers: { 'User-Agent': USER_AGENT, 'Accept': 'application/json' },
     });
 
     if (!response.ok) {
-      return { remoteDate: null, error: `HTTP ${response.status}` };
+      return {
+        id: doc.id,
+        title: doc.title,
+        local_date: doc.last_updated,
+        remote_date: null,
+        has_update: false,
+        error: `HTTP ${response.status}`,
+      };
     }
 
-    const html = await response.text();
-    return { remoteDate: extractRemoteDate(html) };
-  } catch (err) {
-    return {
-      remoteDate: null,
-      error: err instanceof Error ? err.message : String(err),
+    const data = await response.json() as {
+      dokumentlista?: { dokument?: Array<{ datum?: string }> };
     };
-  }
-}
 
-async function checkOfficialSourceForUpdates(doc: LocalDocument): Promise<UpdateCheckResult> {
-  const candidates = buildLovdataCandidates(doc);
+    const remoteDoc = data?.dokumentlista?.dokument?.[0];
+    const remoteDate = remoteDoc?.datum ?? null;
 
-  if (candidates.length === 0) {
-    return {
-      id: doc.id,
-      title: doc.title,
-      local_date: doc.last_updated,
-      remote_date: null,
-      source_url: null,
-      has_update: false,
-      error: 'No official source URL available',
-    };
-  }
-
-  let lastError: string | undefined;
-
-  for (const candidate of candidates) {
-    const result = await fetchRemoteDate(candidate);
-
-    if (result.error) {
-      lastError = `${candidate}: ${result.error}`;
-      continue;
-    }
-
-    const remoteDate = result.remoteDate;
-    const hasUpdate = remoteDate != null && doc.last_updated != null && remoteDate > doc.last_updated;
+    const hasUpdate = remoteDate != null
+      && doc.last_updated != null
+      && remoteDate > doc.last_updated;
 
     return {
       id: doc.id,
       title: doc.title,
       local_date: doc.last_updated,
       remote_date: remoteDate,
-      source_url: candidate,
       has_update: hasUpdate,
     };
+  } catch (err) {
+    return {
+      id: doc.id,
+      title: doc.title,
+      local_date: doc.last_updated,
+      remote_date: null,
+      has_update: false,
+      error: err instanceof Error ? err.message : String(err),
+    };
   }
-
-  return {
-    id: doc.id,
-    title: doc.title,
-    local_date: doc.last_updated,
-    remote_date: null,
-    source_url: candidates[0] ?? null,
-    has_update: false,
-    error: lastError ?? 'Unable to fetch official source metadata',
-  };
 }
 
 async function checkUpdates(): Promise<void> {
-  console.log('Norwegian Law MCP - Update Checker');
+  console.log('Swedish Law MCP - Update Checker');
   console.log('');
 
   if (!fs.existsSync(DB_PATH)) {
@@ -168,7 +103,7 @@ async function checkUpdates(): Promise<void> {
   const db = new Database(DB_PATH, { readonly: true });
 
   const documents = db.prepare(`
-    SELECT id, title, type, status, last_updated, url
+    SELECT id, title, type, status, last_updated
     FROM legal_documents
     WHERE type = 'statute'
     ORDER BY id
@@ -181,14 +116,14 @@ async function checkUpdates(): Promise<void> {
     process.exit(0);
   }
 
-  console.log(`Checking ${documents.length} statute(s) against official channels...\n`);
+  console.log(`Checking ${documents.length} statute(s)...\n`);
 
   const results: UpdateCheckResult[] = [];
 
   for (const doc of documents) {
     process.stdout.write(`  ${doc.id} (${doc.title.substring(0, 40)})... `);
 
-    const result = await checkOfficialSourceForUpdates(doc);
+    const result = await checkRiksdagenForUpdates(doc);
     results.push(result);
 
     if (result.error) {
@@ -202,6 +137,7 @@ async function checkUpdates(): Promise<void> {
     await delay(REQUEST_DELAY_MS);
   }
 
+  // Summary
   console.log('');
   const updates = results.filter(r => r.has_update);
   const errors = results.filter(r => r.error);
@@ -213,12 +149,15 @@ async function checkUpdates(): Promise<void> {
 
   if (updates.length > 0) {
     console.log('');
-    console.log('To refresh metadata for updated statutes:');
+    console.log('To re-ingest updated statutes:');
     for (const u of updates) {
-      const safeId = u.id.replace(/[^A-Za-z0-9_-]/g, '_');
+      const safeId = u.id.replace(':', '_');
       console.log(`  npm run ingest -- ${u.id} data/seed/${safeId}.json`);
     }
     console.log('  npm run build:db');
+  }
+
+  if (updates.length > 0) {
     process.exit(1);
   }
 }

@@ -7,7 +7,7 @@
 #
 # Usage:
 #   bash scripts/download-db.sh           # download latest release
-#   bash scripts/download-db.sh v1.0.0    # download specific version
+#   bash scripts/download-db.sh v1.2.0    # download specific version
 #
 # The script reads the repo name from package.json so it works
 # across all Law MCPs without modification.

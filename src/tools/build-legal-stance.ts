@@ -6,10 +6,12 @@
  */
 
 import type { Database } from '@ansvar/mcp-sqlite';
-import { buildFtsQueryVariantsLegacy as buildFtsQueryVariants } from '../utils/fts-query.js';
+import { buildFtsQueryVariants } from '../utils/fts-query.js';
 import { normalizeAsOfDate } from '../utils/as-of-date.js';
 import { resolveDocumentId } from '../utils/statute-id.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
+import { buildProvisionCitation } from '../utils/citation.js';
+import type { CitationMetadata } from '../utils/citation.js';
 
 export interface BuildLegalStanceInput {
   query: string;
@@ -23,6 +25,18 @@ export interface BuildLegalStanceInput {
 interface ProvisionHit {
   document_id: string;
   document_title: string;
+  provision_ref: string;
+  title: string | null;
+  snippet: string;
+  relevance: number;
+  _citation: CitationMetadata;
+}
+
+interface ProvisionRow {
+  document_id: string;
+  document_title: string;
+  document_short_name: string | null;
+  document_url: string | null;
   provision_ref: string;
   title: string | null;
   snippet: string;
@@ -57,6 +71,34 @@ export interface LegalStanceResult {
 
 const DEFAULT_LIMIT = 5;
 const MAX_LIMIT = 20;
+const MIN_FALLBACK_TOKEN_HITS = 2;
+
+function extractQueryTokens(query: string): string[] {
+  return (query.normalize('NFC').match(/[\p{L}\p{N}_]+/gu) ?? [])
+    .map(token => token.toLowerCase())
+    .filter(token => token.length > 1);
+}
+
+function hasMinimumTokenCoverage(text: string, tokens: string[]): boolean {
+  if (tokens.length <= 1) {
+    return true;
+  }
+
+  const minHits = Math.min(MIN_FALLBACK_TOKEN_HITS, tokens.length);
+  const haystack = text.toLowerCase();
+  let hits = 0;
+
+  for (const token of tokens) {
+    if (haystack.includes(token)) {
+      hits += 1;
+      if (hits >= minHits) {
+        return true;
+      }
+    }
+  }
+
+  return false;
+}
 
 export async function buildLegalStance(
   db: Database,
@@ -65,7 +107,7 @@ export async function buildLegalStance(
   if (!input.query || input.query.trim().length === 0) {
     return {
       results: { query: '', provisions: [], case_law: [], preparatory_works: [], total_citations: 0 },
-      _metadata: generateResponseMetadata(db)
+      _meta: generateResponseMetadata(db)
     };
   }
 
@@ -73,11 +115,13 @@ export async function buildLegalStance(
   // Fetch extra rows to account for deduplication
   const fetchLimit = limit * 2;
   const queryVariants = buildFtsQueryVariants(input.query);
+  const queryTokens = extractQueryTokens(input.query);
   const includeCaseLaw = input.include_case_law !== false;
   const includePrepWorks = input.include_preparatory_works !== false;
   const asOfDate = normalizeAsOfDate(input.as_of_date);
+  let usedFallback = false;
 
-  // Resolve document_id from title if provided (same resolution as get_provision)
+  // Resolve document_id from title if provided
   let resolvedDocId: string | undefined;
   if (input.document_id) {
     const resolved = resolveDocumentId(db, input.document_id);
@@ -85,7 +129,7 @@ export async function buildLegalStance(
     if (!resolved) {
       return {
         results: { query: input.query, provisions: [], case_law: [], preparatory_works: [], total_citations: 0 },
-        _metadata: {
+        _meta: {
           ...generateResponseMetadata(db),
           note: `No document found matching "${input.document_id}"`,
         },
@@ -103,6 +147,8 @@ export async function buildLegalStance(
         SELECT
           lpv.document_id,
           ld.title as document_title,
+          ld.short_name as document_short_name,
+          ld.url as document_url,
           lpv.provision_ref,
           lpv.title,
           substr(lpv.content, 1, 320) as snippet,
@@ -130,6 +176,8 @@ export async function buildLegalStance(
       SELECT
         document_id,
         document_title,
+        document_short_name,
+        document_url,
         provision_ref,
         title,
         snippet,
@@ -143,6 +191,8 @@ export async function buildLegalStance(
       SELECT
         lp.document_id,
         ld.title as document_title,
+        ld.short_name as document_short_name,
+        ld.url as document_url,
         lp.provision_ref,
         lp.title,
         snippet(provisions_fts, 0, '>>>', '<<<', '...', 32) as snippet,
@@ -162,15 +212,31 @@ export async function buildLegalStance(
   }
   provParams.push(fetchLimit);
 
-  let usedFallback = false;
   const runProvisionQuery = (ftsQuery: string): ProvisionHit[] => {
     const bound = [ftsQuery, ...provParams];
-    return db.prepare(provSql).all(...bound) as ProvisionHit[];
+    const rows = db.prepare(provSql).all(...bound) as ProvisionRow[];
+    return rows.map(row => ({
+      document_id: row.document_id,
+      document_title: row.document_title,
+      provision_ref: row.provision_ref,
+      title: row.title,
+      snippet: row.snippet,
+      relevance: row.relevance,
+      _citation: buildProvisionCitation(
+        row.document_id,
+        row.document_title,
+        row.provision_ref,
+        row.document_id,
+        row.provision_ref,
+        row.document_url,
+        row.document_short_name,
+      ),
+    }));
   };
   let provisions = runProvisionQuery(queryVariants.primary);
   if (provisions.length === 0 && queryVariants.fallback) {
     provisions = runProvisionQuery(queryVariants.fallback);
-    usedFallback = true;
+    if (provisions.length > 0) usedFallback = true;
   }
   provisions = deduplicateProvisions(provisions, limit);
 
@@ -180,14 +246,14 @@ export async function buildLegalStance(
     let clSql = `
       SELECT
         cl.document_id,
-        ld.title,
+        COALESCE(ld.title, cl.case_number, cl.document_id) as title,
         cl.court,
         cl.decision_date,
         snippet(case_law_fts, 0, '>>>', '<<<', '...', 32) as summary_snippet,
         bm25(case_law_fts) as relevance
       FROM case_law_fts
       JOIN case_law cl ON cl.id = case_law_fts.rowid
-      JOIN legal_documents ld ON ld.id = cl.document_id
+      LEFT JOIN legal_documents ld ON ld.id = cl.document_id
       WHERE case_law_fts MATCH ?
     `;
     const clParams: (string | number)[] = [];
@@ -203,7 +269,9 @@ export async function buildLegalStance(
 
     caseLaw = runCaseLawQuery(queryVariants.primary);
     if (caseLaw.length === 0 && queryVariants.fallback) {
-      caseLaw = runCaseLawQuery(queryVariants.fallback);
+      caseLaw = runCaseLawQuery(queryVariants.fallback).filter(hit =>
+        hasMinimumTokenCoverage(`${hit.title} ${hit.summary_snippet}`, queryTokens)
+      );
     }
   }
 
@@ -234,7 +302,9 @@ export async function buildLegalStance(
 
     prepWorks = runPrepQuery(queryVariants.primary);
     if (prepWorks.length === 0 && queryVariants.fallback) {
-      prepWorks = runPrepQuery(queryVariants.fallback);
+      prepWorks = runPrepQuery(queryVariants.fallback).filter(hit =>
+        hasMinimumTokenCoverage(`${hit.title || ''} ${hit.summary_snippet}`, queryTokens)
+      );
     }
   }
 
@@ -247,7 +317,7 @@ export async function buildLegalStance(
       total_citations: provisions.length + caseLaw.length + prepWorks.length,
       as_of_date: asOfDate,
     },
-    _metadata: {
+    _meta: {
       ...generateResponseMetadata(db),
       ...(usedFallback ? { query_strategy: 'broadened' } : {}),
     },

@@ -2,21 +2,29 @@
  * EU References Types
  *
  * Types for EU law cross-references in Norwegian legislation.
+ * Norway is an EEA member — EU directives and regulations are incorporated
+ * via the EEA Agreement and implemented into Norwegian law.
  */
 
 export type EUDocumentType = 'directive' | 'regulation';
 
-export type EUCommunity = 'EU' | 'EG' | 'EEG' | 'Euratom';
+/**
+ * EU community designations used in Norwegian law references.
+ * 'EF' is the Norwegian abbreviation for 'EG' (Europæisk Fællesskab / Europeisk fellesskap).
+ * 'EG' is included for compatibility with legacy DB rows from pre-Norwegian data.
+ * 'EEG' is the old form for EEC.
+ */
+export type EUCommunity = 'EU' | 'EF' | 'EG' | 'EEG' | 'EØS' | 'Euratom';
 
 export type ReferenceType =
-  | 'implements'          // National law implements this EU directive
-  | 'supplements'         // National law supplements this EU regulation
-  | 'applies'             // This EU regulation applies directly
+  | 'implements'          // Norwegian law implements this EU directive via EEA
+  | 'supplements'         // Norwegian law supplements this EU regulation
+  | 'applies'             // This EU regulation applies directly (via EEA)
   | 'references'          // General reference to EU law
-  | 'complies_with'       // National law must comply with this
-  | 'derogates_from'      // National law derogates from this (allowed by EU law)
-  | 'amended_by'          // National law was amended to implement this
-  | 'repealed_by'         // National law was repealed by this EU act
+  | 'complies_with'       // Norwegian law must comply with this
+  | 'derogates_from'      // Norwegian law derogates from this (EEA-permitted)
+  | 'amended_by'          // Norwegian law was amended to implement this
+  | 'repealed_by'         // Norwegian law was repealed by this EU act
   | 'cites_article';      // Cites specific article(s) of EU act
 
 export type ImplementationStatus = 'complete' | 'partial' | 'pending' | 'unknown';
@@ -29,8 +37,7 @@ export interface EUDocument {
   community: EUCommunity;
   celex_number?: string;         // "32016R0679"
   title?: string;
-  /** @deprecated Use title instead */
-  title_sv?: string;
+  title_no?: string;             // Norwegian title
   short_name?: string;           // "GDPR"
   adoption_date?: string;
   entry_into_force_date?: string;
@@ -46,7 +53,7 @@ export interface EUReference {
   id: number;
   source_type: 'provision' | 'document' | 'case_law';
   source_id: string;
-  document_id: string;           // LOV id
+  document_id: string;           // LOV/FOR identifier
   provision_id?: number;
   eu_document_id: string;
   eu_article?: string;           // "6.1.c", "13-15", etc.
@@ -75,14 +82,9 @@ export interface EUBasisDocument {
 }
 
 export interface NorwegianImplementation {
-  /** LOV id (e.g., "LOV-2018-06-15-38") */
-  law_id: string;
-  /** Title of the implementing statute */
-  law_title: string;
-  /** @deprecated Use law_id instead */
-  sfs_number?: string;
-  /** @deprecated Use law_title instead */
-  sfs_title?: string;
+  /** LOV/FOR identifier (e.g., "LOV-2018-06-15-38") */
+  lov_number: string;
+  lov_title: string;
   short_name?: string;
   status: string;
   reference_type: ReferenceType;
@@ -90,9 +92,6 @@ export interface NorwegianImplementation {
   implementation_status?: ImplementationStatus;
   articles_referenced?: string[];
 }
-
-/** @deprecated Use NorwegianImplementation instead */
-export interface SwedishImplementation extends NorwegianImplementation {}
 
 export interface ProvisionEUReference {
   id: string;

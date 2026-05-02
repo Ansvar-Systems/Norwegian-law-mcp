@@ -23,7 +23,7 @@ interface ProvisionRow {
  * Validate a citation string against the database.
  *
  * @param db - Database connection
- * @param citation - Raw citation string
+ * @param citation - Raw citation string (e.g., "LOV-2018-06-15-38 § 13")
  * @returns Validation result with existence checks and warnings
  */
 export function validateCitation(db: Database, citation: string): ValidationResult {
@@ -72,7 +72,7 @@ export function validateParsedCitation(db: Database, parsed: ParsedCitation): Va
 
   // Check provision existence if chapter/section specified
   let provisionExists = false;
-  if (parsed.type === 'statute' && (parsed.chapter || parsed.section)) {
+  if ((parsed.type === 'statute' || parsed.type === 'regulation') && (parsed.chapter || parsed.section)) {
     const provisionRef = parsed.chapter && parsed.section
       ? `${parsed.chapter}:${parsed.section}`
       : parsed.section || '';
@@ -89,7 +89,7 @@ export function validateParsedCitation(db: Database, parsed: ParsedCitation): Va
       }
     }
   } else {
-    // No provision reference requested, so provision check is N/A
+    // No provision reference requested — provision check is N/A
     provisionExists = true;
   }
 

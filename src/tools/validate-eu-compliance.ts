@@ -1,21 +1,26 @@
 /**
- * validate_eu_compliance — Check Norwegian statute's EU compliance status.
+ * validate_eu_compliance — Check Norwegian statute's EU/EEA compliance status.
+ *
+ * v0.1 STATUS: not-supported / data-source-unavailable.
+ *
+ * EU/EEA reference data (eu_documents, eu_references tables) requires a
+ * dedicated ingestion pass which is not yet configured for the Norwegian corpus.
+ * This tool is NOT registered in registry.ts. It returns a structured
+ * not-available response.
+ *
+ * Activation path: complete EU/EEA reference ingestion → add to registry.ts.
  */
 
 import type { Database } from '@ansvar/mcp-sqlite';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 
 export interface ValidateEUComplianceInput {
-  law_id: string;
-  /** @deprecated Use law_id instead */
-  sfs_number?: string;
+  sfs_number: string;
   provision_ref?: string;
   eu_document_id?: string;
 }
 
 export interface EUComplianceResult {
-  law_id: string;
-  /** @deprecated Use law_id */
   sfs_number: string;
   provision_ref?: string;
   compliance_status: 'compliant' | 'partial' | 'unclear' | 'not_applicable';
@@ -30,198 +35,28 @@ export interface EUComplianceResult {
   recommendations?: string[];
 }
 
-/**
- * Validate EU compliance status for a Norwegian statute or provision.
- *
- * Phase 1: Basic validation checking for:
- * - References to repealed EU directives
- * - Missing implementation status
- * - Outdated references
- *
- * Future phases will include full compliance checking against EU requirements.
- */
 export async function validateEUCompliance(
   db: Database,
   input: ValidateEUComplianceInput
 ): Promise<ToolResponse<EUComplianceResult>> {
-  const statuteId = input.law_id ?? input.sfs_number;
-
-  // Validate supported statute identifier format
-  if (!statuteId || !/^(?:\d{4}:\d+|LOV-\d{4}-\d{2}-\d{2}-\d+)$/i.test(statuteId)) {
-    throw new Error(
-      `Invalid statute identifier format: "${statuteId}". Expected "LOV-YYYY-MM-DD[-NNN]" or legacy "YYYY:NNN".`
-    );
-  }
-
-  // Check if statute exists
-  const statute = db.prepare(`
-    SELECT id, title, status
-    FROM legal_documents
-    WHERE id = ? AND type = 'statute'
-  `).get(statuteId) as { id: string; title: string; status: string } | undefined;
-
-  if (!statute) {
-    throw new Error(`Statute ${statuteId} not found in database`);
-  }
-
-  let provisionId: number | null = null;
-  if (input.provision_ref) {
-    const provision = db.prepare(`
-      SELECT id FROM legal_provisions
-      WHERE document_id = ? AND provision_ref = ?
-    `).get(statuteId, input.provision_ref) as { id: number } | undefined;
-
-    if (!provision) {
-      throw new Error(
-        `Provision ${statuteId} ${input.provision_ref} not found in database`
-      );
-    }
-    provisionId = provision.id;
-  }
-
-  // Get all EU references for this statute/provision
-  let sql = `
-    SELECT
-      ed.id,
-      ed.type,
-      ed.title,
-      ed.in_force,
-      ed.amended_by,
-      ed.repeals,
-      er.reference_type,
-      er.is_primary_implementation,
-      er.implementation_status
-    FROM eu_documents ed
-    JOIN eu_references er ON ed.id = er.eu_document_id
-    WHERE er.document_id = ?
-  `;
-
-  const params: (string | number)[] = [statuteId];
-
-  // Filter by provision if specified
-  if (provisionId !== null) {
-    sql += ` AND er.provision_id = ?`;
-    params.push(provisionId);
-  }
-
-  // Filter by specific EU document if requested
-  if (input.eu_document_id) {
-    sql += ` AND ed.id = ?`;
-    params.push(input.eu_document_id);
-  }
-
-  interface QueryRow {
-    id: string;
-    type: string;
-    title: string | null;
-    in_force: number;
-    amended_by: string | null;
-    repeals: string | null;
-    reference_type: string;
-    is_primary_implementation: number;
-    implementation_status: string | null;
-  }
-
-  const rows = db.prepare(sql).all(...params) as QueryRow[];
-
-  const warnings: string[] = [];
-  const outdatedReferences: Array<{
-    eu_document_id: string;
-    title?: string;
-    issue: string;
-    replaced_by?: string;
-  }> = [];
-  const recommendations: string[] = [];
-
-  // Analyze each EU reference
-  for (const row of rows) {
-    // Check if EU document is no longer in force
-    if (row.in_force === 0) {
-      const issue = `References repealed EU ${row.type} ${row.id}`;
-      warnings.push(issue);
-
-      const outdated: {
-        eu_document_id: string;
-        title?: string;
-        issue: string;
-        replaced_by?: string;
-      } = {
-        eu_document_id: row.id,
-        issue,
-      };
-
-      if (row.title) outdated.title = row.title;
-
-      // Check if there's a replacement
-      if (row.amended_by) {
-        try {
-          const replacements = JSON.parse(row.amended_by) as string[];
-          if (replacements.length > 0) {
-            outdated.replaced_by = replacements[0];
-            warnings.push(`  → Replaced by ${replacements[0]}`);
-          }
-        } catch {
-          // Ignore JSON parse errors
-        }
-      }
-
-      outdatedReferences.push(outdated);
-    }
-
-    // Check for missing implementation status
-    if (row.is_primary_implementation === 1 && !row.implementation_status) {
-      warnings.push(
-        `Primary implementation of ${row.id} lacks implementation_status field`
-      );
-      recommendations.push(
-        `Consider updating database with implementation_status for ${row.id}`
-      );
-    }
-
-    // Check for unclear implementation status
-    if (row.implementation_status === 'unknown' || row.implementation_status === 'pending') {
-      warnings.push(`Implementation status for ${row.id} is "${row.implementation_status}"`);
-    }
-  }
-
-  // Determine overall compliance status
-  let complianceStatus: 'compliant' | 'partial' | 'unclear' | 'not_applicable';
-
-  if (rows.length === 0) {
-    complianceStatus = 'not_applicable';
-    recommendations.push(
-      'No EU references found for this statute. If this statute implements EU law, consider adding EU references to the database.'
-    );
-  } else if (outdatedReferences.length > 0) {
-    complianceStatus = 'partial';
-    recommendations.push(
-      'Statute references repealed EU directives. Review whether Norwegian law has been updated to implement current EU requirements.'
-    );
-  } else if (warnings.length > 0) {
-    complianceStatus = 'unclear';
-  } else {
-    complianceStatus = 'compliant';
-  }
-
-  const result: EUComplianceResult = {
-    law_id: statuteId,
-    sfs_number: statuteId,
-    provision_ref: input.provision_ref,
-    compliance_status: complianceStatus,
-    eu_references_found: rows.length,
-    warnings,
-  };
-
-  if (outdatedReferences.length > 0) {
-    result.outdated_references = outdatedReferences;
-  }
-
-  if (recommendations.length > 0) {
-    result.recommendations = recommendations;
+  if (!input.sfs_number) {
+    throw new Error('document_id is required. Expected format: "LOV-2018-06-15-38" or short name (e.g., "personopplysningsloven")');
   }
 
   return {
-    results: result,
-    _metadata: generateResponseMetadata(db),
+    results: {
+      sfs_number: input.sfs_number,
+      provision_ref: input.provision_ref,
+      compliance_status: 'not_applicable',
+      eu_references_found: 0,
+      warnings: [],
+      recommendations: [
+        'EU/EEA reference data requires a dedicated ingestion pass that is not yet configured for Norwegian Law MCP v0.1.',
+      ],
+    },
+    _meta: {
+      ...generateResponseMetadata(db),
+      note: 'data-source-unavailable: EU/EEA compliance validation requires eu_documents and eu_references tables which are not populated in this MCP v0.1. This tool is not active in the current tool registry.',
+    },
   };
 }

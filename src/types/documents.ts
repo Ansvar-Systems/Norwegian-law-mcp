@@ -3,17 +3,26 @@
  */
 
 /** Types of legal documents in the Norwegian system */
-export type DocumentType = 'statute' | 'bill' | 'sou' | 'ds' | 'case_law';
+export type DocumentType = 'statute' | 'regulation' | 'preparatory_work' | 'case_law';
 
 /** Status of a legal document */
 export type DocumentStatus = 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
 
 /** Norwegian court types */
-export type CourtType = 'HR' | 'LA' | 'LB' | 'LE' | 'TING' | 'JORD' | 'TREK';
+export type CourtType =
+  | 'Høyesterett'
+  | 'Lagmannsrett'
+  | 'Tingrett'
+  | 'Arbeidsretten'
+  | 'Frostating'
+  | 'Gulating'
+  | 'Borgarting'
+  | 'Eidsivating'
+  | 'Agder';
 
 /** A legal document in the Norwegian system */
 export interface LegalDocument {
-  /** LOV id (e.g., "LOV-2018-06-15-38"), case reference, or prop number */
+  /** LOV or FOR identifier (e.g., "LOV-2018-06-15-38") */
   id: string;
 
   /** Document type */
@@ -25,7 +34,7 @@ export interface LegalDocument {
   /** English title if available */
   title_en?: string;
 
-  /** Short name / abbreviation (e.g., "DSL", "BrB") */
+  /** Short name / Korttittel (e.g., "personopplysningsloven") */
   short_name?: string;
 
   /** Current status */
@@ -37,7 +46,7 @@ export interface LegalDocument {
   /** Date entering into force */
   in_force_date?: string;
 
-  /** URL to official source */
+  /** URL to official human-readable source (lovdata.no) */
   url?: string;
 
   /** Summary / description */

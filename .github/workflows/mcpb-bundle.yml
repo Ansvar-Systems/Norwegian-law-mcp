@@ -13,4 +13,4 @@ jobs:
   mcpb:
     uses: Ansvar-Systems/mcp-server-template/.github/workflows/mcpb-bundle-node.yml@main
     with:
-      server-name: norwegian-law-mcp
+      server-name: swedish-law-mcp

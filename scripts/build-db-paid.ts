@@ -1,6 +1,6 @@
 #!/usr/bin/env tsx
 /**
- * Paid-tier database builder for Norwegian Law MCP server.
+ * Paid-tier database builder for Swedish Law MCP server.
  *
  * ADDITIVE — does NOT rebuild from scratch. Instead:
  *   1. Verifies a base (free-tier) database exists
@@ -87,7 +87,7 @@ CREATE VIRTUAL TABLE IF NOT EXISTS agency_guidance_fts USING fts5(
 // ─────────────────────────────────────────────────────────────────────────────
 
 function buildPaidTier(): void {
-  console.log('Building paid-tier extensions for Norwegian Law MCP...\n');
+  console.log('Building paid-tier extensions for Swedish Law MCP...\n');
 
   // Verify base database exists
   if (!fs.existsSync(DB_PATH)) {
@@ -158,11 +158,12 @@ function buildPaidTier(): void {
     upsertMeta.run('built_at', new Date().toISOString());
     upsertMeta.run('builder', 'build-db-paid.ts');
     upsertMeta.run('paid_tables', paidTables.join(','));
-    upsertMeta.run('license_gate', 'enabled');
   });
   updateMeta();
 
   db.pragma('wal_checkpoint(TRUNCATE)');
+  // Runtime/test DB access uses node-sqlite3-wasm; keep final artifact in non-WAL mode.
+  db.pragma('journal_mode = DELETE');
   db.exec('ANALYZE');
   db.close();
 
@@ -176,7 +177,7 @@ function buildPaidTier(): void {
 
   console.log(`\n  NOTE: Paid-tier tables are empty stubs. To populate them:`);
   console.log(`    1. case_law_full -- needs full-text opinion source (future)`);
-  console.log(`    2. preparatory_works_full -- needs Lovdata full-text API (future)`);
+  console.log(`    2. preparatory_works_full -- needs Riksdagen full-text API (future)`);
   console.log(`    3. agency_guidance -- needs agency document scrapers (future)`);
 }
 

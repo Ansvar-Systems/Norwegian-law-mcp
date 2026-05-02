@@ -34,11 +34,10 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
-            const today = new Date().toISOString().split('T')[0];
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: 'Upstream drift detected — ' + today,
+              title: `Upstream drift detected — ${new Date().toISOString().split('T')[0]}`,
               body: 'Nightly drift detection found hash mismatches between MCP output and upstream sources.\n\nRun `npm run drift:detect` locally to see details.\n\nSee `fixtures/golden-hashes.json` for anchored provisions.',
               labels: ['data-drift', 'automated']
             });
