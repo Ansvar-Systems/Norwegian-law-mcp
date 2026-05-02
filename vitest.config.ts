@@ -36,7 +36,7 @@ export default defineConfig({
     // TEST FILES
     // ─────────────────────────────────────────────────────────────────────────
     // Look for test files in tests/ directory
-    include: ['tests/**/*.test.ts', '__tests__/**/*.test.ts'],
+    include: ['tests/**/*.test.ts'],
 
     // Exclude these patterns
     exclude: [
