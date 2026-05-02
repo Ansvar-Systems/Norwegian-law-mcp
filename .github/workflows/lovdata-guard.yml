@@ -25,6 +25,7 @@ jobs:
                  ':(exclude)LEGAL_DATA_LICENSE.md' \
                  ':(exclude)README.md' \
                  ':(exclude)scripts/lib/legal-data-license.ts' \
+                 ':(exclude)data/seed/_legal_data_license.json' \
               | grep -E '^\+.*lovdata\.no/dokument/'; then
             echo "::error::Commit reintroduces lovdata.no/dokument/ scraping URL pattern. Repo is under takedown 2026-05-02 per LEGAL_DATA_LICENSE.md."
             exit 1
