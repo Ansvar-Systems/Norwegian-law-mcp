@@ -421,6 +421,11 @@ function extractProvisions(document: Document): SeedProvision[] {
 }
 
 export async function ingest(identifier: string, outputPath: string, options: IngestOptions = {}): Promise<SeedDocument> {
+  throw new Error(
+    'ingest() is retired under takedown 2026-05-02. ' +
+    'Lovdata vilkår §2.1 prohibits this path. See LEGAL_DATA_LICENSE.md.'
+  );
+  // Body below is preserved as a code artifact under Apache 2.0; it is unreachable.
   const source = options.source ?? 'lovdata';
   const wantsFullText = options.fullText ?? true;
   const decision = decideIngestionMode(source, wantsFullText);
@@ -509,7 +514,7 @@ export async function ingest(identifier: string, outputPath: string, options: In
 }
 
 async function main(): Promise<void> {
-  console.error('FATAL: ingest-Lovdata.ts is retired under takedown 2026-05-02. Refusing to run.');
+  console.error('FATAL: ingest-lovdata.ts is retired under takedown 2026-05-02. Refusing to run.');
   process.exit(1);
 }
 

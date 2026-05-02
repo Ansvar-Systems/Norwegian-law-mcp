@@ -93,6 +93,12 @@ export function resolveLicensePolicy(source: LegalSource): LegalDataLicensePolic
 }
 
 export function decideIngestionMode(source: LegalSource, wantsFullText: boolean): IngestionDecision {
+  if (source === 'lovdata' || source === 'lovtidend') {
+    throw new Error(
+      `${source} is locked under takedown 2026-05-02 (Lovdata vilkår §2.1). ` +
+      'See LEGAL_DATA_LICENSE.md.'
+    );
+  }
   const policy = resolveLicensePolicy(source);
 
   if (!wantsFullText) {
