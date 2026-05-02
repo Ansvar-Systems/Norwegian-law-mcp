@@ -31,41 +31,42 @@ export interface IngestionDecision {
 export const LEGAL_DATA_POLICIES: Record<LegalSource, LegalDataLicensePolicy> = {
   lovdata: {
     source: 'lovdata',
-    rights_status: 'allowed',
-    allow_full_text_cache: true,
-    allow_full_text_redistribution: true,
-    allow_metadata_cache: true,
+    rights_status: 'restricted',
+    allow_full_text_cache: false,
+    allow_full_text_redistribution: false,
+    allow_metadata_cache: false,
     allow_deep_links: true,
-    fetch_on_demand_required: false,
-    required_attribution: 'Lovdata (official source) with source link and NLOD 2.0 attribution for covered content',
+    fetch_on_demand_required: true,
+    required_attribution: 'Lovdata (lovdata.no) — content not redistributed under takedown 2026-05-02',
     policy_notes: [
-      'Scope: statutes and regulations covered by Lovdata user agreement section 2.3 exception (NLOD 2.0).',
-      'Mass/systematic extraction must use official open APIs and respect service limits.',
-      'Case-law full text is out of scope for this policy and remains restricted unless explicitly cleared.',
+      'WITHDRAWN 2026-05-02. Lovdata vilkår §2.1 prohibits non-personal/commercial use, mass downloading, and AI training.',
+      'Earlier policy cited §2.3 NLOD 2.0 as covering HTML scraping. That claim was materially false: §2.3 covers api.lovdata.no, not site scraping.',
+      'Phase 2 rebuild planned via api.lovdata.no, conditional on terms verification.',
     ],
     evidence: [
-      'Lovdata brukeravtale §2.3: explicit NLOD 2.0 exception for Norsk Lovtidend regulations, current formal laws, and current central regulations (copy/use/share allowed with attribution).',
-      'Lovdata API landing page states API data may be used to make current regulations available in solutions/services and for AI experimentation/research.',
+      'Lovdata vilkår §2.1: explicit prohibition on non-personal/commercial use, mass downloading, AI training.',
+      'Lovdata vilkår §2.3 (NLOD 2.0 exception): covers api.lovdata.no API path, not www.lovdata.no/dokument/ HTML.',
     ],
-    last_reviewed: '2026-02-15',
+    last_reviewed: '2026-05-02',
   },
   lovtidend: {
     source: 'lovtidend',
-    rights_status: 'allowed',
-    allow_full_text_cache: true,
-    allow_full_text_redistribution: true,
-    allow_metadata_cache: true,
+    rights_status: 'restricted',
+    allow_full_text_cache: false,
+    allow_full_text_redistribution: false,
+    allow_metadata_cache: false,
     allow_deep_links: true,
-    fetch_on_demand_required: false,
-    required_attribution: 'Norsk Lovtidend / Lovdata with NLOD 2.0 attribution',
+    fetch_on_demand_required: true,
+    required_attribution: 'Norsk Lovtidend / Lovdata — content not redistributed under takedown 2026-05-02',
     policy_notes: [
-      'Scope is legal acts published in Norsk Lovtidend and equivalent covered regulation texts.',
-      'Bulk extraction should use official APIs where available.',
+      'WITHDRAWN 2026-05-02. Earlier policy cited §2.3 NLOD 2.0 reuse; that claim shared the lovdata block defect.',
+      'Phase 2 rebuild planned via api.lovdata.no, conditional on terms verification.',
     ],
     evidence: [
-      'Lovdata brukeravtale §2.3 identifies rule texts in Norsk Lovtidend as reusable under NLOD 2.0.',
+      'Lovdata vilkår §2.1: prohibits non-personal/commercial use, mass downloading, AI training of Lovtidend rule texts as published on lovdata.no.',
+      'Lovdata vilkår §2.3 (NLOD 2.0 exception) covers the api.lovdata.no path, not the www.lovdata.no HTML surface.',
     ],
-    last_reviewed: '2026-02-15',
+    last_reviewed: '2026-05-02',
   },
   domstol: {
     source: 'domstol',
@@ -92,6 +93,12 @@ export function resolveLicensePolicy(source: LegalSource): LegalDataLicensePolic
 }
 
 export function decideIngestionMode(source: LegalSource, wantsFullText: boolean): IngestionDecision {
+  if (source === 'lovdata' || source === 'lovtidend') {
+    throw new Error(
+      `${source} is locked under takedown 2026-05-02 (Lovdata vilkår §2.1). ` +
+      'See LEGAL_DATA_LICENSE.md.'
+    );
+  }
   const policy = resolveLicensePolicy(source);
 
   if (!wantsFullText) {

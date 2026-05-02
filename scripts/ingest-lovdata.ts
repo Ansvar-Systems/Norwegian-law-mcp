@@ -1,11 +1,13 @@
 #!/usr/bin/env tsx
 /**
- * Lovdata statute ingestion with licensing-compliance gate.
+ * RETIRED 2026-05-02 — DO NOT RUN
  *
- * Usage:
- *   npm run ingest -- LOV-2018-06-15-38 data/seed/LOV-2018-06-15-38.json
- *   npm run ingest -- LOV-2018-06-15-38 data/seed/LOV-2018-06-15-38.json --metadata-only
- *   npm run ingest -- LOV-2018-06-15-38 data/seed/LOV-2018-06-15-38.json --source=lovdata
+ * This script is preserved as a code artifact under the repo's Apache 2.0
+ * license. It must NOT be executed. The HTML-scraping path it implements
+ * violates Lovdata vilkår §2.1 (no commercial / no AI training).
+ *
+ * Phase 2 will replace this with an api.lovdata.no client; that work
+ * lives in a separate repo (see takedown spec §8).
  */
 
 import { JSDOM } from 'jsdom';
@@ -419,6 +421,11 @@ function extractProvisions(document: Document): SeedProvision[] {
 }
 
 export async function ingest(identifier: string, outputPath: string, options: IngestOptions = {}): Promise<SeedDocument> {
+  throw new Error(
+    'ingest() is retired under takedown 2026-05-02. ' +
+    'Lovdata vilkår §2.1 prohibits this path. See LEGAL_DATA_LICENSE.md.'
+  );
+  // Body below is preserved as a code artifact under Apache 2.0; it is unreachable.
   const source = options.source ?? 'lovdata';
   const wantsFullText = options.fullText ?? true;
   const decision = decideIngestionMode(source, wantsFullText);
@@ -507,12 +514,8 @@ export async function ingest(identifier: string, outputPath: string, options: In
 }
 
 async function main(): Promise<void> {
-  const args = parseArgs(process.argv.slice(2));
-  await ingest(args.identifier, args.outputPath, {
-    source: args.source,
-    fullText: args.wantsFullText,
-    htmlFile: args.htmlFile,
-  });
+  console.error('FATAL: ingest-lovdata.ts is retired under takedown 2026-05-02. Refusing to run.');
+  process.exit(1);
 }
 
 const isCliEntrypoint = process.argv[1]
