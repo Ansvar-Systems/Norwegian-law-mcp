@@ -21,6 +21,7 @@ import { formatCitationTool, FormatCitationInput } from './format-citation.js';
 import { checkCurrency, CheckCurrencyInput } from './check-currency.js';
 import { getAbout, type AboutContext } from './about.js';
 import { listSources } from './list-sources.js';
+import { checkDataFreshness } from './check-data-freshness.js';
 import {
   getProvisionHistory,
   diffProvision,
@@ -58,6 +59,18 @@ const ABOUT_TOOL: Tool = {
   description:
     'Server metadata, dataset statistics, freshness, and provenance. ' +
     'Call this to verify data coverage, currency, and content basis before relying on results.',
+  inputSchema: {
+    type: 'object',
+    properties: {},
+  },
+};
+
+const CHECK_DATA_FRESHNESS_TOOL: Tool = {
+  name: 'check_data_freshness',
+  description:
+    'Returns the corpus build timestamp and per-source last_verified dates with staleness_days against a 90-day threshold. ' +
+    'Use this to verify whether the data backing this MCP is current before relying on it for compliance work. ' +
+    'For full source provenance, use list_sources; for server statistics, use about.',
   inputSchema: {
     type: 'object',
     properties: {},
@@ -253,7 +266,9 @@ export const TOOLS: Tool[] = [
 ];
 
 export function buildTools(context?: AboutContext): Tool[] {
-  return context ? [...TOOLS, LIST_SOURCES_TOOL, ABOUT_TOOL] : [...TOOLS, LIST_SOURCES_TOOL];
+  return context
+    ? [...TOOLS, LIST_SOURCES_TOOL, CHECK_DATA_FRESHNESS_TOOL, ABOUT_TOOL]
+    : [...TOOLS, LIST_SOURCES_TOOL, CHECK_DATA_FRESHNESS_TOOL];
 }
 
 export function registerTools(
@@ -310,6 +325,9 @@ export function registerTools(
           break;
         case 'list_sources':
           result = listSources(db);
+          break;
+        case 'check_data_freshness':
+          result = checkDataFreshness(db);
           break;
         case 'about':
           if (context) {

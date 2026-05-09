@@ -177,3 +177,4 @@ data/eu-references-analysis.json
 # CLAUDE / AGENT WORK
 # ───────────────────────────────────────────────────────────────────────────
 .claude/
+.worktrees/
