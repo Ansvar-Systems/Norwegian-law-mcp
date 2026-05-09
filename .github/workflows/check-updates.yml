@@ -1,7 +1,8 @@
 name: Freshness Check
 on:
   schedule:
-    - cron: '0 8 * * *'  # Daily at 08:00 UTC
+    - cron: '0 8 * * 1'  # Weekly, Monday 08:00 UTC
+  workflow_dispatch:
 
 jobs:
   check:
