@@ -10,7 +10,8 @@ sources:
     retrieval_method: "API_BULK_DOWNLOAD"
     api_documentation: "https://api.lovdata.no/om-api-tjenesten/"
     update_frequency: "monthly"
-    last_ingested: "TBD"
+    last_ingested: "2026-05-02"
+    last_verified: "2026-05-09"
     license_or_terms:
       type: "NLOD 2.0 (Norwegian Licence for Open Government Data)"
       url: "https://data.norge.no/nlod/en/2.0/"

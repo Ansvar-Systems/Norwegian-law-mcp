@@ -44,7 +44,8 @@
     { "name": "validate_citation" },
     { "name": "format_citation" },
     { "name": "check_currency" },
-    { "name": "get_eu_basis" }
+    { "name": "get_eu_basis" },
+    { "name": "check_data_freshness" }
   ],
   "compatibility": {
     "platforms": ["darwin", "win32", "linux"],
