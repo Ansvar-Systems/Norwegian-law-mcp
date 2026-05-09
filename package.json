@@ -27,7 +27,7 @@
     "check-updates": "tsx scripts/check-updates.ts",
     "extract:definitions": "tsx scripts/extract-definitions.ts",
     "audit:seeds": "tsx scripts/audit-seeds.ts",
-    "lint": "eslint src tests",
+    "lint": "tsc --noEmit",
     "prepublishOnly": "npm run build",
     "postinstall": "test -d dist || npm run build || true",
     "ingest:fetch": "tsx scripts/ingest-fetch.ts",

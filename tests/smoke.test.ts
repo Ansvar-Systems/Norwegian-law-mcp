@@ -22,15 +22,19 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const DB_PATH = path.resolve(__dirname, '../data/database.db');
 
-describe('norwegian-law-mcp smoke', () => {
+// Skip the suite when the on-disk DB is missing or a 0-byte stub. The
+// release-pattern (manifest db_release_path) provisions the real DB at GHCR
+// build time; locally the file is intentionally empty until `npm run build:db`
+// or `gh release download` populates it. Per memory
+// feedback_contract_test_skip_on_empty_db_2026_05_07.md.
+const dbReady =
+  fs.existsSync(DB_PATH) && fs.statSync(DB_PATH).size > 1024;
+const describeFn = dbReady ? describe : describe.skip;
+
+describeFn('norwegian-law-mcp smoke', () => {
   let db: InstanceType<typeof Database>;
 
   beforeAll(() => {
-    if (!fs.existsSync(DB_PATH)) {
-      throw new Error(
-        `Database not found at ${DB_PATH}. Run \`npm run build:db\` before tests.`,
-      );
-    }
     db = new Database(DB_PATH, { readonly: true });
   });
 
