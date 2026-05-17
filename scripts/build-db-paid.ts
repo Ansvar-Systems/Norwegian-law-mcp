@@ -161,10 +161,31 @@ function buildPaidTier(): void {
   });
   updateMeta();
 
+  // ANALYZE must run BEFORE the journal_mode switch — any write after the
+  // switch could re-introduce a WAL journal under some SQLite versions, and
+  // we want `journal_mode = DELETE` to be the last persisted state before
+  // close. Matches canary order in Swedish-civil-protection-mcp PR #7.
+  db.prepare('ANALYZE').run();
+
+  // Ship the DB in DELETE journal mode so it can be opened on a read-only
+  // filesystem (production containers run with `read_only: true` per the MCP
+  // Infrastructure Standard §6 x-mcp-defaults). WAL mode tries to create
+  // -wal/-shm sidecars at open time and fails with EROFS → "unable to open
+  // database file". Also required because @ansvar/mcp-sqlite (node-sqlite3-
+  // wasm) cannot open WAL-mode databases at all.
   db.pragma('wal_checkpoint(TRUNCATE)');
-  // Runtime/test DB access uses node-sqlite3-wasm; keep final artifact in non-WAL mode.
   db.pragma('journal_mode = DELETE');
-  db.exec('ANALYZE');
+
+  // Defensive verification — fail the build if the DB header didn't pick up
+  // the DELETE setting. Easier than chasing the failure mode in production.
+  const finalMode = db.pragma('journal_mode', { simple: true });
+  if (finalMode !== 'delete') {
+    throw new Error(
+      `build-db-paid: expected journal_mode='delete' after switch, got '${finalMode}'. ` +
+      `Shipping this DB would crash-loop the container on read-only FS.`
+    );
+  }
+
   db.close();
 
   const sizeAfter = fs.statSync(DB_PATH).size;
